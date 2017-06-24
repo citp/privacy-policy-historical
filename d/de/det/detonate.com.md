@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the detonate.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220246id_/http%3A//detonate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detonate.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624021518id_/http%3A//detonate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Detonate
+# Privacy - Detonate
+
+#### **Privacy Policys**
 
 Last updated: June 17, 2014
 
-AdRizer (“us”, “we”, or “our”) operates the www.detonate.com website (the “Service”).
+Detonate (“us”, “we”, or “our”) operates the www.detonate.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -20,17 +22,13 @@ While using our Service, we may ask you to provide us with certain personally id
 
 We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+In addition, we may use third-party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
 **Cookies**
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.
 
 We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-**Cookies…(cont)**
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (<http://www.networkadvertising.org/choices>)
 
 **Do Not Track Disclosure**
 
@@ -82,7 +80,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Notice Regarding Online Behavioral Advertising**  
+Notice Regarding Online Behavioral Advertising  
 We allow third party companies to serve ads and/or collect certain anonymous information  
 when you visit our Web site. These companies may use non-personally identifiable information  
 (e.g. click stream information, browser type, time and date, subject of advertisements clicked  
@@ -96,4 +94,4 @@ opt-out of this type of advertising, you can visit http://www.aboutads.info/choi
 
 If you have any questions about this Privacy Policy, please contact us.
 
-*“We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit* * http://www.networkadvertising.org/managing/opt_out.asp.”*
+“We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.”
