@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230075219id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624124548id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
-# BullGuards Privacy Policy
+# BullGuard | Privacy Policy
 
 BullGuard Limited (“BullGuard”) is committed to protecting and respecting your privacy.
 
