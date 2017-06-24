@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224195905id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624094649id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
