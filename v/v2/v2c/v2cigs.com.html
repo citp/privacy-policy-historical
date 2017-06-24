@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2016-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103165800id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624045343id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en" class="no-js" dir="ltr"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDWVZbGwIIUlBbBwEC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function l(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:l,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a};return g}function i(){return new r}function a(){p=!0,u=l.backlog={}}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o(),p=!1;l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Buy electronic cigarette kits from V2 today and receive our commitment to your privacy. ">
 <meta name="keywords" content="Privacy Policy">
@@ -19,16 +19,14 @@
 <link rel="dns-prefetch" href="https://s.btstatic.com">
 <link rel="dns-prefetch" href="https://app.yieldify.com">
 <link rel="dns-prefetch" href="https://images.scanalert.com">
-<link rel="dns-prefetch" href="https://money.v2profit.com">
+<link rel="dns-prefetch" href="https://www.v2profit.com">
 <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 <link rel="dns-prefetch" href="https://www.google-analytics.com">
 <link rel="dns-prefetch" href="https://seal.verisign.com">
 <link rel="dns-prefetch" href="https://www.gstatic.com">
 <link rel="dns-prefetch" href="https://js-agent.newrelic.com">
-<link rel="dns-prefetch" href="https://c.zmags.com">
 <link rel="dns-prefetch" href="https://bam.nr-data.net">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com">
-<link rel="dns-prefetch" href="https://creator.zmags.com">
 <link rel="dns-prefetch" href="https://geo.yieldify.com">
 <link rel="dns-prefetch" href="https://ajax.googleapis.com">
 
@@ -38,10 +36,10 @@
 <link rel="apple-touch-icon" sizes="152x152" href="https://www.v2.com/apple-favicon-152x152.png">
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.v2.com/apple-favicon-180x180.png">
 <link rel="shortcut icon" href="https://www.v2.com/favicon.png">
+<!-- Remove Block -->
 <link rel="canonical" href="https://www.v2.com/help/privacy-policy">
 
-<!-- Edit Add Canonical Tag --><!-- End Edit Add Canonical Tag -->
-<!-- Remove Block -->
+
 <!-- <script src="//cdn.optimizely.com/js/2371173421.js"></script> -->
 <base href="https://www.v2.com/help/privacy-policy">
 
@@ -49,9 +47,9 @@
 
 
 
-<link rel="stylesheet" href="/dist/assets/css/main.019f53a5.css">
+<link rel="stylesheet" href="/dist/assets/css/main.5a91a33c.css">
 <!-- HTML5 Shiv must execute before the <body> -->
-<script src="/dist/assets/js/modernizr.339920c3.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script src="/dist/assets/js/modernizr.2d0d92c1.js"></script>
 
 <script>
   var globalObj = {"shopPath" : "https://www.v2.com"};
@@ -60,7 +58,7 @@
 <!-- Respond.js for IE8 support of HTML5 elements and media queries Note: Need to add proxy if loading css from cdn or external domain -->
 
   <!--[if lt IE 9]>
-  <script src="/dist/assets/js/respond.f8248301.js"></script>
+  <script src="/dist/assets/js/respond.099b8c3b.js"></script>
   <![endif]-->
 
 
@@ -71,7 +69,9 @@
 
 
 
-</head>
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"426670",ustr:"",originlat:"0",clientrtt:"2",ghostip:"23.215.10.70",ipv6:false,pct:"10",clientip:"207.241.231.200",requestid:"1d60f881",region:"28247",protocol:"",blver:13,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"1d60f881",ai:"208897",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
 <body class="v2 page" id="ng-app" ng-app="v2" ng-controller="V2Ctrl">
 <!-- <div class="maintenanceContainer">
 	<div class="wrap">
@@ -79,371 +79,79 @@
 	</div>
 </div> -->
 <nav class="navbar navbar-fixed-top navbar-default v2-navbar" ng-controller="V2StickyHeaderCtrl">
-  <div class="container header-container">
+  <div class="header-container" style="min-height: 64px;">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed pull-left menu-btn" aria-expanded="false" aria-controls="navbar" snap-toggle="left">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon icon-menu"></span>
       </button>
-      <a class="navbar-brand active" href="https://www.v2.com" data-img="https://www.v2.com/images/V2-300.png" data-title="V2 IS THE #1 ONLINE BRAND" data-description="V2 is the leading e-cigarette brand, delivering genuine satisfaction with authentic flavors and unparalleled performance.">
-         <span class="icon icon-v2"></span>
+      <a class="v2-large navbar-brand active" href="https://www.v2.com" target="_self" data-img="https://www.v2.com/images/V2-300.png" data-title="V2 IS THE #1 ONLINE BRAND" data-description="V2 is the leading e-cigarette brand, delivering genuine satisfaction with authentic flavors and unparalleled performance.">
+         <span style="line-height: 4rem !important; font-size: 4.3em !important;" class="icon icon-v2"></span>
       </a>
-      <a class="navbar-brand " href="https://www.v2.com/pro" data-img="https://www.v2.com/images/V2pro-300.png" data-title="V2 PRO IS THE GOLD STANDARD" data-description="V2 PRO is the world’s most advanced line of vaporizers, representing the ultimate in form and function.">
+      <a class="v2-pro-marg brand-hide navbar-brand " href="https://www.v2.com/pro" target="_self" data-img="https://www.v2.com/images/V2pro-300.png" data-title="V2 PRO IS THE GOLD STANDARD" data-description="V2 PRO is the world’s most advanced line of vaporizers, representing the ultimate in form and function.">
         <span class="icon icon-v2pro"></span>
       </a>
-      <a class="navbar-brand " href="https://www.v2.com/eliquids" target="_self" data-img="https://www.v2.com/images/v2red-25ml-bottle-eliquid-tab.png" data-title="V2 E-LIQUID MARKETPLACE" data-description="The world’s best e-liquids. Explore by brand, flavor or rating.">
+      <a class="navbar-brand brand-hide " href="https://www.v2.com/eliquids" target="_self" data-img="https://www.v2.com/images/v2red-25ml-bottle-eliquid-tab.png" data-title="V2 E-LIQUID MARKETPLACE" data-description="The world’s best e-liquids. Explore by brand, flavor or rating.">
           <span class="icon icon-e-liquids-droplet force-fsize40"></span>
         </a>
-      <a class="navbar-brand hidden-xs" href="http://vaporpedia.v2.com" rel="nofollow" data-img="https://www.v2.com/images/vaporpedia-300.png" data-title="BECOME A VAPE EXPERT!" data-description="Read in-depth articles on vaporizer usage, electronic cigarette history and more on VaporPedia.">
-        <span class="icon icon-vaporpedia"></span>
+      <!-- new forum icon, replaces vaporpedia -->
+      <a class="navbar-brand hidden-xs hidden-sm" href="https://forum.v2.com" rel="nofollow" data-img="https://www.v2.com/images/tool-tip-forum.svg" data-title="The V2 Forum" data-description="Connect with your fellow vapers on the V2 forum! Get the scoop on new products, promotions, tips and more from customers just like you!">
+        <span class="icon"><img class="icon-forum-v2" src="/images/v2-forum-tabs.svg"></span>
       </a>
-      <a class="navbar-secondary-link hidden-xs hidden-sm text-center display-block" href="https://www.v2.com/help/shipping-options">
+      <a class="navbar-secondary-link hidden-xs hidden-sm text-center display-block" href="https://www.v2.com/help/shipping-options" target="_self">
         <!--<strong>FREE Shipping</strong><br>on all domestic orders-->
-		<strong class="new-free-shipping"><sup><em>New!</em></sup> FREE SHIPPING</strong><br>on all domestic orders
+		Free Shipping<br> on all domestic orders
       </a>
       <div class="navbar-secondary-text hidden-xs hidden-sm text-center">
         18+ to purchase
       </div>
-      <div class="pull-right navbar-right ng-scope" ng-controller="IdleController">
-        <div class="cs-icon pull-left visible-xs hidden-sm hidden-md hidden-lg" ng-click="toggleCsIcons()">
-          <div class="icon-chat"></div>
-        </div>
-        <a class="navbar-secondary-link store-locator-link visible-xs visible-sm hidden-md" tooltip-placement="bottom" tooltip="Store Locator" target="_blank" href="https://www.v2.com/ecigs/store-locator"><span class="icon icon-room"></span></a>
-        <a class="navbar-secondary-link store-locator-link visible-md visible-lg" tooltip-placement="bottom" tooltip="Store Locator" target="_blank" href="https://www.v2.com/ecigs/store-locator"><span class="icon icon-room"></span></a>
-        <a href="https://www.v2.com/account.php" class="navbar-secondary-link hidden-xs account-link">Account</a>
-        <a href="https://www.v2.com/login.php" class="navbar-secondary-link hidden-xs login-link">Login</a>
-        <a href="https://www.v2.com/cart.php" class="cart-btn" aria-label="Shopping Cart">
-          <span ng-mouseover="showDropdownCart()" class="icon icon-cart" aria-hidden="true"></span>
+      <div class="container-icons">
+      <div class="pull-right navbar-right ng-scope" ng-controller="IdleController"><a class="navbar-secondary-link hidden-xs visible-sm visible-md visible-lg store-locator-link hover-icon" href="/"><span><svg height="20" width="20" fill="white"><use xlink:href="/styles/icons.svg#icon-us"></use></svg></span></a>
+
+        <a class="navbar-secondary-link visible-xs visible-sm visible-md visible-lg store-locator-link cust-care" href="/"><span><svg height="20" width="20" fill="white"><use xlink:href="/styles/icons.svg#icon-phone"></use></svg></span></a>
+
+        <a class="navbar-secondary-link store-locator-link visible-xs visible-sm visible-md visible-lg" target="_self" href="https://www.v2.com/ecigs/store-locator"><span><svg height="20" width="20" fill="white"><use xlink:href="/styles/icons.svg#icon-map-marker"></use></svg></span></a>
+
+        <a href="https://www.v2.com/account.php" class="navbar-secondary-link store-locator-link profile hidden-xs"><span><svg height="20" width="20" fill="white"><use xlink:href="/styles/icons.svg#icon-user-detail"></use></svg></span></a>
+        
+        <a href="/cart" class="cart-btn" aria-label="Shopping Cart">
+          <span ng-mouseover="showDropdownCart()" class="icon-cart" aria-hidden="true"><svg style="margin-left: -16px;" height="20" width="20" fill="white"><use xlink:href="/styles/icons.svg#icon-shopping-cart"></use></svg></span>
           <span class="item-count"></span>
         </a>
         <div class="CartLink" ng-bind-html="dropdownResponse" compile-template="" style="display:none;"></div>
+      </div>
       </div>
     </div>
     <div class="hidden-md hidden-lg">
       <div class="product-added-alert text-center" style="display:none;">Your selection was added to your shopping cart</div>
     </div>
   </div><!-- /.container -->
-</nav><!-- /.navbar -->
-<div id="shelf-1" snap-drawer="" ng-cloak="">
-  <div class="shelf-contents">
-      <div class="account-link">
-        <a href="https://www.v2.com/account.php">MY ACCOUNT</a>
-      </div>
-      <div class="side-nav">
-        <div class="side-nav-section">
-            <div class="list-group-title">OUR PRODUCTS</div>
-            <ul class="list-group"><li class="list-group-item"><a href="/vape-pens">Vape Pens</a></li><li class="list-group-item  ">
-	<a href="https://www.v2.com/starter-kits" target="">
-		Starter Kits
-	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/cartridges" target="">
-		Cartridges
-	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/eliquids" target="">
-		E-Liquids
-	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/batteries" target="">
-		Batteries
-	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/accessories" target="">
-		Accessories
-	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/disposable-ecigarettes" target="">
-		Disposables
-	</a>
-
-	
-</li><li class="list-group-item last ">
-	<a href="https://www.v2.com/e-cigarette-sale" target="">
-		Sale
-	</a>
-
-	
-</li></ul>
-        </div>
-        <div class="side-nav-section">
-            <div class="list-group-title">OUR BRANDS</div>
-            <ul class="list-group">
-              <li class="list-group-item"><a href="https://www.v2.com/pro">V2 Pro</a></li>
-            </ul>
-        </div>
-        <div class="side-nav-section">
-            <div class="list-group-title">CUSTOMER SERVICE</div>
-            <ul class="list-group">
-              <li class="list-group-item"><a href="https://www.v2.com/help/order-status">Order Status</a></li>
-              <li class="list-group-item"><a href="https://www.v2.com/help/shipping-options">Shipping Options</a></li>
-              <li class="list-group-item"><a href="https://www.v2.com/help/return-policy">Return Policy</a></li>
-			  <li class="list-group-item"><a href="https://www.v2.com/help/warranty">Warranty</a></li>
-              <li class="list-group-item"><a href="https://www.v2.com/help/faq">FAQ</a></li>
-            </ul>
-        </div>
-        <div class="side-nav-section">
-            <ul class="list-group">
-                <li class="list-group-item">
-                    <a href="tel:877-378-2767" class="phone-link"><span class="icon icon-phone"></span>877-378-2767</a>
-                </li>
-            </ul>
-        </div>
-      </div>
-  </div>
-</div>
-    <div id="content" class="scrollable" snap-content="" snap-options="snapOpts">
-        <div class="container-fluid">
-    <div class="row cs-icons" style="display:none;">
-        <div class="title text-center">Contact Us</div>
-        <div class="col-xs-4 live-chat cs-item text-center">
-            <a class="custom-whoson"><span class="icon icon-chat-lines" style="display:block;"></span></a>
-            <div class="text">Live Chat</div>
-        </div>
-        <div class="col-xs-4 call-now cs-item text-center">
-            <div class="icon icon-phone"></div>
-            <div class="text">Call Now</div>
-            <a class="click-parent" href="tel:877-378-2767"></a>
-        </div>
-        <div class="col-xs-4 email-us cs-item text-center">
-            <div class="icon icon-mail"></div>
-            <div class="text">Email Us</div>
-            <a class="click-parent" href="mailto:v2support@v2.com"></a>
-        </div>
-    </div>
-    <div class="row text-center navbar-footer visible-xs visible-sm">
-        <div class="col-xs-6 col-sm-6 minors">18+ to purchase</div>
-        <div class="col-xs-6 col-sm-6 free-shipping"><strong class="new-free-shipping"><sup><em>New!</em></sup> FREE Shipping</strong><br>on all domestic orders</div>
-    </div>
-    <div class="row ">
-        
-<div class="holiday-messaging span-24 last paper-effect hide">
-    <div class="msg" style="background-color:;padding:7px 15px"><p style="color:"></p></div>
-</div>
-    </div>
-</div>
-<div class="container">
-    <div class="row hidden-xs hidden-sm desktop-branding header-bottom-border no-margin no-gutter">
-        <div class="col-md-2 col-lg-2">
-            <a href="https://www.v2.com" class="logo-link">
-                <span class="icon icon-v2"></span>
-            </a>
-        </div>
-        <div class="col-md-10 col-lg-10">
-            <div class="row vertical-align-center">
-                <div class="col-md-12 col-lg-12 text-center top-subnav">
-
-                    <ul class="list-inline pull-right">
-                        <li>
-                            <div class="btn btn-default no-border">
-                                <a class="custom-whoson color">
-                                    <span class="icon icon-chat" style="display:block;float:left;padding-right:10px;"></span>
-                                    <span class="chat-text">LIVE CHAT</span>
-                                </a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="btn btn-default no-border">
-                                <a href="tel:877-378-2767" class="phone-link">
-                                    <span class="icon icon-phone"></span> 
-                                    <span class="text-number"> 877.37.VAPOR (82767)</span>
-                                    <!-- <span class="text-number"> 877.37.VAPOR </span> -->
-                                </a>
-                            </div>
-                            <!-- <div class="contact-number">
-                                <div class="chat-phone">
-                                    <a id="whoson_chat_link"></a>
-                                </div>
-                            </div> -->
-                        </li>
-                        <li>
-                            <div class="dropdown" dropdown="">
-                              <button class="btn btn-default dropdown-toggle" type="button" aria-expanded="true" dropdown-toggle="">
-                                Customer Care
-                                <span class="caret"></span>
-                              </button>
-                              <ul class="dropdown-menu" role="menu">
-                                <li>
-                                    <a href="/help/contact">Contact</a>
-                                </li>
-                                <li>
-                                    <a href="/help/order-status">Order Status</a>
-                                </li>
-                            
-                                <li>
-                                    <a href="/help/shipping-options">Shipping</a>
-                                </li>
-                                <li>
-                                    <a href="/help/returns">Returns</a>
-                                </li>
-
-                                <li>
-                                    <a href="/help/warranty">Warranty </a>
-                                </li>
-                                 <li>
-                                    <a href="/help/batch-testing">Batch Testing</a>
-                                </li>
-                                
-                                <li>
-                                    <a href="/help/vape-4-free">Vape 4 Free</a>
-                                </li>
-
-                                <li>
-                                    <a href="/help/manuals">User Manuals</a>
-                                </li>
-
-                                <li>
-                                    <a href="/help/faq">FAQ</a>
-                                </li>
-
-                              </ul>
-                            </div>
-                            
-                        </li>
-
-                        <li>
-                            <div class="dropdown" dropdown="">
-                              <button class="btn btn-default dropdown-toggle" type="button" aria-expanded="true" dropdown-toggle="">
-                                About V2
-                                <span class="caret"></span>
-                              </button>
-                              <ul class="dropdown-menu" role="menu">
-
-                                <li>
-                                    <a href="/learn/promotions">Promotions</a>
-                                </li>
-
-                                <li>
-                                    <a href="/learn/industry-reviews">Industry Reviews</a>
-                                </li>
-                                <li>
-                                    <a href="/learn/v2-eliquid-flavors">Flavors</a>
-                                </li>
-                                <li>
-                                    <a href="/learn/customer-reviews">Customer Reviews</a>
-                                </li>
-                                <li>
-                                    <a href="http://www.v2.com/blog/">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="http://forum.v2.com/" rel="nofollow">Forum</a>
-                                </li>
-                                <li>
-                                    <a href="/blog/category/e-cig-news-politics/">V2 News</a>
-                                </li>
-                                <li>
-                                    <a href="http://money.v2profit.com/" rel="nofollow">Affiliate Program</a>
-                                </li>
-                                <li>
-                                    <a href="/learn/b2b-sales">Retail &amp; Wholesale</a>
-                                </li>
-
-                                <li>
-                                    <a href="/learn/vs-tobacco-cigarettes">Compare to Tobacco Cigs</a>
-                                </li>
-                              </ul>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="dropdown" dropdown="">
-                              <button class="btn btn-default dropdown-toggle" type="button" aria-expanded="true" dropdown-toggle="">
-                                <span class="flag-icon flag-icon-us flag"></span>
-                                <span class="caret"></span>
-                              </button>
-                              <ul class="dropdown-menu pull-right" role="menu">
-                                <li>
-                                    <a href="https://www.v2.com"><span class="flag-icon flag-icon-us flag"></span><span>US: $</span></a>
-                                    <ul>
-                                        <li><a href="https://www.v2.com">English</a></li>
-                                    </ul>
-                                </li>
-
-                                <li>
-                                    <a href="https://www.vapour2.eu" rel="nofollow" target="_blank"><span class="flag-icon flag-icon-eu flag"></span><span>EU: €</span></a>
-                                    <ul>
-                                        <li><a href="http://fr.vapour2.eu" rel="nofollow" target="_blank">Français</a></li>
-                                        <li><a href="http://de.vapour2.eu" rel="nofollow" target="_blank">Deutsch</a></li>
-                                        <li><a href="https://www.vapour2.eu" rel="nofollow" target="_blank">English</a></li>
-                                    </ul>
-                                </li>
-
-                                <li>
-                                    <a href="http://www.buyv2cigs.co.uk" rel="nofollow"><span class="flag-icon flag-icon-gb flag"></span><span>UK: £</span></a>
-                                    <ul>
-                                        <li><a href="http://www.buyv2cigs.co.uk" target="_blank" rel="nofollow">English</a></li>
-                                    </ul>
-                                </li>
-
-                                <li>
-                                    <a href="http://www.vapour2.cz" target="_blank" rel="nofollow"><span class="flag-icon flag-icon-cz flag"></span><span>CZ: Kč</span></a>
-                                    <ul>
-                                        <li><a href="http://www.vapour2.cz" target="_blank" rel="nofollow">Czech</a></li>
-                                        <li><a href="http://en.vapour2.cz" target="_blank" rel="nofollow">English</a></li>
-                                    </ul>
-                                </li>
-                              </ul>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="">
-    <div class="hidden-xs hidden-sm col-md-10 col-lg-10">
-        <div class="row top-nav no-gutter">
+  <div class="full-width" style="background-color: white;">
+      <div style="border-bottom: 1px solid #ddd;">
+        <div class="row hidden-xs hidden-sm max-width-header desktop-branding no-gutter">
+        <div>
+    <div class="shift" style="margin-left: 9%;">
+        <div class="row top-nav no-gutter" style="width: 100%;">
             <div class="col-md-12 col-lg-12">
-                <ul class="list-group"><li class="list-group-item"><a href="/vape-pens">Vape Pens</a></li><li class="list-group-item  ">
-	<a href="https://www.v2.com/starter-kits" target="">
-		Starter Kits
-	</a>
-
-	
-</li><li class="list-group-item  ">
+                <ul class="list-group"><li class="list-group-item"><a href="/learn/labs">V2 Labs</a></li><li class="list-group-item"><a href="/learn/vape-pens">Vape Pens</a></li><li class="list-group-item"><a href="/starter-kits">Kits</a></li><li class="list-group-item  ">
 	<a href="https://www.v2.com/cartridges" target="">
 		Cartridges
 	</a>
-
 	
 </li><li class="list-group-item  ">
 	<a href="https://www.v2.com/eliquids" target="">
 		E-Liquids
 	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/batteries" target="">
-		Batteries
-	</a>
-
 	
 </li><li class="list-group-item  ">
 	<a href="https://www.v2.com/accessories" target="">
 		Accessories
 	</a>
-
-	
-</li><li class="list-group-item  ">
-	<a href="https://www.v2.com/disposable-ecigarettes" target="">
-		Disposables
-	</a>
-
 	
 </li><li class="list-group-item last ">
 	<a href="https://www.v2.com/e-cigarette-sale" target="">
 		Sale
 	</a>
-
 	
 </li></ul>
             </div>
@@ -464,8 +172,187 @@
         </div>
     </div>
 </div>
+        </div>  
+     </div>
+  </div>
+</nav><!-- /.navbar -->
+
+<div style="color: white;" id="shelf-1" snap-drawer="" ng-cloak="">
+  <div class="shelf-contents">
+      <div class="container col-sm-12" style="margin-bottom: 5%; margin-top: 7%;">
+        <div class="width-v2-mm" style="border-bottom: 3px solid white; width: 30%;">
+          <a href="https://www.v2.com">
+          <span class="icon icon-v2 mm-v2"></span>
+          </a>
+        </div>
+        <!--container for brands -->
+        <div style="width: 63%; float: right;">
+          <div class="width-v2-mm">
+            <a href="https://www.v2.com/pro">
+            <span class="icon icon-v2pro mm-v2pro"></span>
+            </a>
+          </div>
+          <div class="width-v2-mm" style="width: 30%;padding: 1rem 1rem 0 0;">
+            <a href="https://www.v2.com/eliquids">
+            <span class="icon icon-e-liquids-droplet mm-eliquid"></span>
+            </a>
+          </div>
+          <div class="width-v2-mm" style="width: 30%;padding-top: 0.7rem;">
+            <a href="//forum.v2.com">
+            <span class="icon mm-v2pro" style="margin: 0 1rem 0 2rem;"><img style="top: 10px; position: relative;" height="40" width="30" src="https://www.v2.com/product_images/uploaded_images/v2-forum-tabs.png" alt="forum"></span>
+            </a>
+          </div>
+        </div>
+        <!-- end container -->
+      </div>
+      <!-- my account -->
+      <div accordion="" close-others="false" style="margin-bottom: 15px;">
+        <div class="accord-start" accordion-group="" is-open="status.isFirstMobileOpen">
+          <div accordion-heading="">
+              <div>
+              My Account <i class="float-r-icon glyphicon" ng-class="{'glyphicon-chevron-down': status.isFirstMobileOpen, 'glyphicon-chevron-right': !isFirstMobileOpen}"></i>
+              </div>
+          </div>
+          <nav class="accordion-content" role="navigation">
+            <ul class="list-unstyled">
+                <li class="childLinks">
+                    <a href="https://www.v2.com/account.php">Profile</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/account.php?action=order_status">Order Status</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/account.php?action=rewards_program">Vape4Free</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/returns">Returns</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/warranty">Warranty</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/login.php" target="_blank">Sign In</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- account end -->
+      <div class="side-nav">
+        <div class="side-nav-section">
+          <div class="list-group-title">
+            <a href="https://www.v2.com/learn/labs">V2 Labs</a>
+          </div>
+        </div>
+      </div>
+      <!-- Products start -->
+      <div accordion="" close-others="false">
+        <div class="accord-start" accordion-group="" is-open="status.isFirstSecondOpen">
+          <div accordion-heading="">
+              <div>
+              Products <i class="float-r-icon glyphicon" ng-class="{'glyphicon-chevron-down': status.isFirstSecondOpen, 'glyphicon-chevron-right': !isFirstSecondOpen}"></i>
+              </div>
+          </div>
+          <nav class="accordion-content" role="navigation">
+            <ul class="list-unstyled">
+                <li class="childLinks">
+                    <a href="https://www.v2.com/learn/vape-pens">Vape Pens</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/starter-kits">Kits</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/cartridges">Cartridges</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/e-liquids">E-Liquids</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/accessories">Accessories</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- Products end -->
+      <div class="side-nav">
+        <div class="side-nav-section">
+          <div class="list-group-title">
+            <a href="https://www.v2.com/e-cigarette-sale" style="color:#c62332;">Sale</a>
+          </div>
+        </div>
+      </div>
+      <!-- cust care start -->
+      <div accordion="" close-others="false">
+        <div class="accord-start" accordion-group="" is-open="status.isFirstThirdOpen">
+          <div accordion-heading="">
+              <div>
+              Customer Care <i class="float-r-icon glyphicon" ng-class="{'glyphicon-chevron-down': status.isFirstThirdOpen, 'glyphicon-chevron-right': !isFirstThirdOpen}"></i>
+              </div>
+          </div>
+          <nav class="accordion-content" role="navigation">
+            <ul class="list-unstyled">
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/contact">Contact Us</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/ecigs/store-locator">Store Locator</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/shipping-options">Shipping</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/batch-testing">Batch Testing</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/manuals">User Manuals</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/blog">Blog</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://forum.v2.com">Forum</a>
+                </li>
+                <li class="childLinks">
+                    <a href="https://www.v2.com/help/faq">FAQ</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- cust care end -->
+      
+  </div>
+</div>
+    <div id="content" class="scrollable" snap-content="" snap-options="snapOpts">
+        <div class="container container-top-header">
+    <div class="row cs-icons" style="display:none;">
+        <div class="title text-center">Contact Us</div>
+        <div class="col-xs-4 live-chat cs-item text-center">
+            <a class="custom-whoson"><span class="icon icon-chat-lines" style="display:block;"></span></a>
+            <div class="text">Live Chat</div>
+        </div>
+        <div class="col-xs-4 call-now cs-item text-center">
+            <div class="icon icon-phone"></div>
+            <div class="text">Call Now</div>
+            <a class="click-parent" href="tel:877-378-2767"></a>
+        </div>
+        <div class="col-xs-4 email-us cs-item text-center">
+            <div class="icon icon-mail"></div>
+            <div class="text">Email Us</div>
+            <a class="click-parent" href="mailto:v2support@v2.com"></a>
+        </div>
     </div>
-    
+    <div class="row text-center navbar-footer visible-xs visible-sm" style="background-color: white; border-bottom: 1px solid #808183;">
+        <div class="col-xs-6 col-sm-6 minors" style="margin-top: 1rem;">18+ to purchase</div>
+        <div class="col-xs-6 col-sm-6 free-shipping">Free Shipping<br>on all domestic orders</div>
+    </div>
+    <div class="row ">
+        
+<div class="holiday-messaging span-24 last paper-effect hide">
+    <div class="msg" style="background-color:;padding:7px 15px"><p style="color:"></p></div>
+</div>
+    </div>
 </div>
         <div class="container">
           <div class="hidden-xs hidden-sm"><div class="">
@@ -537,16 +424,16 @@
         </div>
       <footer class="global-footer hidden-print signin-test-header-hidden">
     <div class="footer-main">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <div class="social-media hidden-xs">
                         <div class="icons">
                             <div class="white-bg">
-                                <a href="https://www.facebook.com/V2Cigs" alt="V2 Faceboook Page" rel="nofollow"><span class="icon icon-facebook"></span></a>
-                                <a href="http://www.twitter.com/v2cigs" alt="V2 Twitter Feed" rel="nofollow"><span class="icon icon-twitter"></span></a>
-                                <a href="https://www.pinterest.com/v2cigs/" alt="V2 Pinterest Page" rel="nofollow"><span class="icon icon-pinterest"></span></a>
-                                <a href="https://vimeo.com/v2cigs" alt="V2 Vimeo Page" rel="nofollow"><span class="icon icon-youtube-btn"></span></a>
+                                <a href="https://www.facebook.com/V2Cigs" alt="V2 Faceboook Page"><span class="icon icon-facebook"></span></a>
+                                <a href="http://www.twitter.com/v2cigs" alt="V2 Twitter Feed"><span class="icon icon-twitter"></span></a>
+                                <a href="https://www.pinterest.com/v2cigs/" alt="V2 Pinterest Page"><span class="icon icon-pinterest"></span></a>
+                                <a href="https://www.youtube.com/channel/UC2NhPR6xMeVHXY5a-P7HgYw" alt="V2 Youtube Page"><span class="icon icon-youtube-btn"></span></a>
                             </div>
                         </div>
                     </div>
@@ -557,8 +444,8 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <p>YOU MUST BE OF LEGAL SMOKING AGE TO BUY AND/OR USE ANY V2 PRODUCT.</p>
                     <p class="hidden-xs">V2 products are not for use by persons under legal smoking age. Keep out of reach of children and pets. If swallowed, this product can present a choking hazard. Nicotine is addictive and can be toxic if inhaled or ingested and may cause irritation if it comes into contact with your eyes or skin. Wash immediately with soap and water upon contact. Like other products with nicotine, you should not use this product if you are pregnant or breastfeeding, have or are at risk of heart disease, high blood pressure, diabetes, if you are taking medicines for depression or asthma or if you are allergic to nicotine, propylene glycol, or any combination of inhalants. Discontinue use and consult a physician if you experience symptoms of nicotine misuse such as nausea, vomiting, dizziness, diarrhea, weakness or rapid heartbeat. This product does not treat, diagnose or cure any disease, physical ailment or condition. This product is not marketed for use as a smoking cessation product and is not intended for use by non-smokers. This product and the statements made herein have not been evaluated by the FDA, or any other health or regulatory authority.</p>
-                    <div ng-controller="Prop65Ctrl">
-                         <p ng-show="prop65()" style="font-size: 14px;">WARNING: Use of this product will expose you to nicotine, a chemical known to the State of California to cause birth defects or other reproductive harm and to formaldehyde and acetaldehyde, chemicals known to the State of California to cause cancer.</p>
+                    <div>
+                         <p style="font-size: 14px;">WARNING: Use of this product will expose you to nicotine, a chemical known to the State of California to cause birth defects or other reproductive harm and to formaldehyde and acetaldehyde, chemicals known to the State of California to cause cancer.</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -570,56 +457,99 @@
                 <div class="footer-links col-sm-12 col-md-12 fg-white">
                     <div class="row accordion-group accordion-dark accordion-md">
 
-                            <div class="col-sm-3 col-md-3 accordion-item">
+                            <div class="col-sm-5 col-md-6 accordion-item">
                                 <div class="accordion-toggle">
-                                    <h4 class="accordion-label">ABOUT / HELP</h4>
+                                    <h4 class="accordion-label" style="font-family: Gibson Light, sans-serif; font-size: 17px;">CUSTOMER CARE / ABOUT</h4>
                                 </div>
                                 <nav class="accordion-content" role="navigation">
+                                    <ul class="list-unstyled">
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/contact">Customer Service</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/order-status">Order Status</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/returns">Returns</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/shipping-options">Shipping</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/warranty">Warranty</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/ecigs/store-locator" target="_blank">Store Locator</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="list-unstyled">
+                                         <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/b2b-sales">Retail &amp; Wholesale</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="http://www.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/vape-4-free" target="_blank" rel="nofollow">Vape 4 Free</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/batch-testing" target="_blank" rel="nofollow">Batch Testing</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/manuals" target="_blank" rel="nofollow">User Manuals</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/faq" target="_blank" rel="nofollow">FAQ</a>
+                                        </li>
+                                    </ul>
                                     <ul class="list-unstyled">
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/learn/our-brand">Learn About V2</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/learn/vs-tobacco-cigarettes">E Cig Comparisons</a>
+                                            <a href="https://www.v2.com/learn/promotions">Promotions</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/industry-reviews">Industry Reviews</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/customer-reviews">Customer Reviews</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/blog/category/e-cig-news-politics">V2 News</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="list-unstyled">
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/privacy-policy">Privacy Policy</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/blog">Blog</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://forum.v2.com">Forum</a>
                                         </li>
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/learn/social">The V2 Community</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/help/shipping-options">Shipping Options</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/contact">Customer Service</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/ecigs/store-locator">Store Locator</a>
-                                        </li>
-                                    </ul>
-                                    <ul class="list-unstyled">
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/warranty">Lifetime Warranty</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/learn/b2b-sales">Retail &amp; Wholesale</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/privacy-policy">Privacy Policy</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
+                                            <a href="https://www.v2.com/learn/v2-eliquid-flavors">Flavors</a>
                                         </li>
                                     </ul>
                                 </nav>
                             </div>
                             <div class="col-sm-2 col-md-2 accordion-item">
                                 <div class="accordion-toggle">
-                                    <h4 class="accordion-label">SHOP NOW</h4>
+                                    <h4 class="accordion-label" style="font-family: Gibson Light, sans-serif; font-size: 17px;">SHOP NOW</h4>
                                 </div>
                                 <nav class="accordion-content" role="navigation">
                                     <ul class="list-unstyled">
+                                            <li class="childLinks">
+                                                <a href="https://www.v2.com/learn/labs" target="_self">V2 Labs</a>
+                                            </li>
                                             <li class="childLinks">
                                                 <a href="https://www.v2.com/starter-kits" target="_self">Starter Kits</a>
                                             </li>
@@ -635,17 +565,17 @@
                                     </ul>
                                 </nav>
                             </div>
-                            <div class="col-sm-3 col-md-3 accordion-item">
+                            <div class="col-sm-3 col-md-2 accordion-item">
                                 <div class="accordion-toggle">
-                                    <h4 class="accordion-label">PAYMENTS / SHIPPING</h4>
+                                    <h4 class="accordion-label" style="font-family: Gibson Light, sans-serif; font-size: 17px;">PAYMENTS / SHIPPING</h4>
                                 </div>
                                 <nav class="accordion-content" role="navigation">
                                     <img style="margin-top:0;" width="165" height="76" src="https://www.v2.com/images/shipping-options-new.jpg" alt="Shipping Options">
                                 </nav>
                             </div>
-                            <div class="col-sm-2 col-md-2 accordion-item">
+                            <div class="col-sm-3 col-md-2 accordion-item">
                                 <div class="accordion-toggle">
-                                    <h4 class="accordion-label">SECURITY</h4>
+                                    <h4 class="accordion-label" style="font-family: Gibson Light, sans-serif !important; font-size: 17px !important;">SECURITY</h4>
                                 </div>
                                 <nav class="accordion-content" role="navigation">
                                     <!-- Remove Block -->
@@ -666,45 +596,85 @@
                         <div accordion-group="" is-open="status.isFirstOpen">
                             <div accordion-heading="">
                                 <div>
-                                ABOUT / HELP <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.isFirstOpen, 'glyphicon-chevron-right': !status.isFirstOpen}"></i>
+                                CUSTOMER CARE / ABOUT <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.isFirstOpen, 'glyphicon-chevron-right': !status.isFirstOpen}"></i>
                                 </div>
                             </div>
                             <nav class="accordion-content" role="navigation">
                                 <ul class="list-unstyled">
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/learn/our-brand">Learn About V2</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/learn/vs-tobacco-cigarettes">E Cig Comparisons</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/learn/social">The V2 Community</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/shipping-options">Shipping Options</a>
-                                        </li>
-                                        <li class="childLinks">
                                             <a href="https://www.v2.com/help/contact">Customer Service</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/order-status">Order Status</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/returns">Returns</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/shipping-options">Shipping</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/warranty">Warranty</a>
                                         </li>
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/ecigs/store-locator" target="_blank">Store Locator</a>
                                         </li>
                                     </ul>
                                     <ul class="list-unstyled">
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/help/warranty">Lifetime Warranty</a>
-                                        </li>
-                                        <li class="childLinks">
+                                         <li class="childLinks">
                                             <a href="https://www.v2.com/learn/b2b-sales">Retail &amp; Wholesale</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
+                                            <a href="http://www.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
                                         </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/vape-4-free" target="_blank" rel="nofollow">Vape 4 Free</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/batch-testing" target="_blank" rel="nofollow">Batch Testing</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/manuals" target="_blank" rel="nofollow">User Manuals</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/faq" target="_blank" rel="nofollow">FAQ</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="list-unstyled">
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/our-brand">Learn About V2</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/promotions">Promotions</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/industry-reviews">Industry Reviews</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/customer-reviews">Customer Reviews</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/blog/category/e-cig-news-politics">V2 News</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="list-unstyled">
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/help/privacy-policy">Privacy Policy</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
+                                            <a href="https://www.v2.com/blog">Blog</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://forum.v2.com">Forum</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/social">The V2 Community</a>
+                                        </li>
+                                        <li class="childLinks">
+                                            <a href="https://www.v2.com/learn/v2-eliquid-flavors">Flavors</a>
                                         </li>
                                     </ul>
                             </nav>
@@ -717,6 +687,9 @@
                             </div>
                             <nav class="accordion-content" role="navigation">
                                     <ul class="list-unstyled">
+                                            <li class="childLinks">
+                                                <a href="https://www.v2.com/learn/labs" target="_self">V2 Labs</a>
+                                            </li>
                                             <li class="childLinks">
                                                 <a href="https://www.v2.com/starter-kits" target="_self">Starter Kits</a>
                                             </li>
@@ -735,7 +708,17 @@
                         <div accordion-group="" is-open="status.isThirdOpen">
                             <div accordion-heading="">
                                 <div>
-                                SECURITY <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.isThirdOpen, 'glyphicon-chevron-right': !status.isThirdOpen}"></i>
+                                PAYMENTS / SHIPPING<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.isThirdOpen, 'glyphicon-chevron-right': !status.isThirdOpen}"></i>
+                                </div>
+                            </div>
+                            <nav class="accordion-content" role="navigation">
+                                <img style="margin-top:0;" width="165" height="76" src="https://www.v2.com/images/shipping-options-new.jpg" alt="Shipping Options">
+                            </nav>                     
+                        </div>
+                        <div accordion-group="" is-open="status.isFourthOpen">
+                            <div accordion-heading="">
+                                <div>
+                                SECURITY <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.isFourthOpen, 'glyphicon-chevron-right': !status.isFourthOpen}"></i>
                                 </div>
                             </div>
                             <nav class="accordion-content" role="navigation">
@@ -777,6 +760,25 @@
                             </div>
                         </script>
                     </div>
+                    <div class="idleModal" id="idleModal">
+                        <script type="text/ng-template" id="idleModalContent.html">
+                            <div class="modal-header">
+                                <h3 class="modal-title">Do you want to continue your session?</h3>
+                            </div>
+                            <div class="modal-body">
+                                <div class="modal-body-content">
+                                    <p>For security reasons, your session will time out, unless you continue.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <div class="text-center">
+                                    <button class="btn btn-danger" ng-click="cancel()"><div>Log Me Out</div></button>
+                                    <button class="btn btn-success" ng-click="ok()"><div>Keep Me Logged</div></button>
+                                </div>
+                            </div>
+                        </script>
+                    </div>
                 </div>
             </div>
         </div>
@@ -789,7 +791,7 @@
                 <br>
                 Copyright © 2012 - {{date | date:'yyyy'}} v2.com. All rights reserved. 
                     <span class="hidden-xs">
-                        V2™ is a trademark of <a href="http://www.vmrproducts.com" target="_blank" rel="nofollow">VMR Products LLC.</a>
+                        V2™ is a trademark of <a href="http://www.vmrproducts.com" target="_blank">VMR Products LLC.</a>
                     </span>
                 <br>
                 <br>
@@ -814,6 +816,9 @@
   ]
 }
 </script>
+<script>
+    var idleObj = {"idleTime": 1800000};
+</script>
       </div>
       <div id="detect-breakpoints">
     <div class="breakpoint device-xs visible-xs"></div>
@@ -822,7 +827,7 @@
     <div class="breakpoint device-lg visible-lg"></div>
 </div>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/dist/assets/js/main.5cbdf50a.js"></script>
+<script src="/dist/assets/js/main.a8d54cfd.js"></script>
 <!-- Remove Block -->
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9DMWG"
@@ -840,14 +845,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- Remove Block -->
-<iframe style="width:1px;" height="1px" src="https://money.v2profit.com/track.php"></iframe>
+<iframe style="width:1px;" height="1px" src="https://www.v2profit.com/track.php"></iframe>
 <!-- End Remove Block -->
 <!--  -->
 <br class="Clear">
-<!-- REMOTE_ADDR............24.143.193.223
-HTTP_TRUE_CLIENT_IP....207.241.229.212  -->
+<!-- REMOTE_ADDR............23.62.239.210
+HTTP_TRUE_CLIENT_IP....207.241.231.200  -->
 <!-- Include visitor tracking code (if any) -->
-<!-- Remove Block --><script async="true" type="text/javascript" src="https://www.v2.com/index.php?action=tracking_script"></script><!-- End Remove Block --><!-- Start Tracking Code for analytics_googleanalytics -->
+<!-- Remove Block --><script async="true" type="text/javascript" src="https://www.v2.com/index.php?action=s"></script><!-- End Remove Block --><!-- Start Tracking Code for analytics_googleanalytics -->
 
  
 
@@ -868,5 +873,5 @@ HTTP_TRUE_CLIENT_IP....207.241.229.212  -->
 <!-- Remove Block -->
 <script>$( document ).ready(function() {var whosOnLoad = function() {customWhoson();if(typeof sWOTrackPage=='function'){sWOTrackPage();}};$.cachedScript('//v2cigs.whoson.com/include.js?domain=www.v2.com').done(whosOnLoad);});</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e8d3a289f4","applicationID":"18619005","transactionName":"blEDYRQCDxIEUEcNClcbIkAVFw4MSkNSAwBKGw==","queueTime":0,"applicationTime":228,"atts":"QhYAF1wYHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
