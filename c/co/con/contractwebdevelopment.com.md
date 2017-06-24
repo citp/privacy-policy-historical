@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114082120id_/http%3A//www.coverstorymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092551id_/http%3A//www.coverstorymedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cover Story Media
 
@@ -8,7 +8,7 @@ Maintaining your privacy and trust is important to Cover Story Media®, Inc. On 
 
 Please read this policy before using our Site or submitting any personal information to us. By using our Site, you consent to the information collection and use practices described in this policy. Cover Story Media®, Inc. reserves the right to change this privacy policy at any time. If we decide to change our privacy policy, we will post those changes in an updated privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The date of the last revision is always posted at the top of the privacy policy. Your use of this Site following the posting of such changes or revised policy shall constitute acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our site to make sure that you understand how any personal information you provide will be used.
 
-Cover Story Media®, Inc. is the sole owner of the information collected on this site. To contact Cover Story Media®, Inc., please visit the [Contact](http://www.coverstorymedia.com/contact/) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
+Cover Story Media®, Inc. is the sole owner of the information collected on this site. To contact Cover Story Media®, Inc., please visit the [Contact](http://coverstorymedia.com/contact/) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
 
 ## What Information Is Collected On This Site?
 
@@ -66,9 +66,9 @@ Cover Story Media®, Inc. welcomes reader feedback to its online content, but it
 
 Comments should not be abusive, libelous or in bad taste. They should not contain vulgar language. We prefer comments that express an opinion rather than ones that deal in personalities.
 
-While we strive to keep our research as up to date and accurate as possible, due to the dynamic nature of the industry, we will occasionally make errors or fail to keep content current. If you find inaccuracies in our content, please [contact us](http://www.coverstorymedia.com/contact/) and we will do our best to resolve the errors as soon as possible. Corrections sent via the comment form may not been implemented in a timely fashion.
+While we strive to keep our research as up to date and accurate as possible, due to the dynamic nature of the industry, we will occasionally make errors or fail to keep content current. If you find inaccuracies in our content, please [contact us](http://coverstorymedia.com/contact/) and we will do our best to resolve the errors as soon as possible. Corrections sent via the comment form may not been implemented in a timely fashion.
 
-We reserve the right to reproduce information sent to us via our [contact form](http://www.coverstorymedia.com/contact/), in full or in part, on our Site, regardless of the medium used.
+We reserve the right to reproduce information sent to us via our [contact form](http://coverstorymedia.com/contact/), in full or in part, on our Site, regardless of the medium used.
 
 As a rule, we will not intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, or e-mail address) to any third party without having received your permission. Please note that if you give out personal information online “for example, through an article comment or forum topic ” that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
@@ -84,4 +84,4 @@ Our Site contains links to other sites. We are not endorsing any such linked web
 
 ## Who Can We Contact If We Have Further Questions About This Privacy Policy?
 
-If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Cover Story Media®, Inc. via mail or feedback form, both of which can be found on the [Contact](http://www.coverstorymedia.com/contact/) page.
+If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Cover Story Media®, Inc. via mail or feedback form, both of which can be found on the [Contact](http://coverstorymedia.com/contact/) page.
