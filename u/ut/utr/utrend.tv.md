@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrend.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035516id_/http%3A//utrend.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrend.tv privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624091357id_/http%3A//utrend.tv/privacy) for the most accurate reproduction.*
 
 # uTrend.tv Privacy Policy
 
