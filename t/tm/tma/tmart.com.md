@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061858id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055135id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Tmart
+# Tmart: Thousands of Products, Manufacturer Price, Free Shipping Worldwide
 
 Tmart.com highly values your privacy and ensures your online security seriously. In order to make you understand our policy fully, we provide the notice below to explain our online information practices and the choices you can make about the way your information is collected and used. If our Privacy Policy is updated, all revisions will be posted on this page. We reserve the right to update the privacy policy any time.
 
@@ -41,10 +41,8 @@ If you no longer wish to receive the promotional communications from Tmart.com, 
 
 **Company Info**
 
-Address: SHENZHEN ZONGTENG TRADE CO.,LTD,  UNIT 01A 10/F CARNIVAL COMMERCIAL BLDG 18 JAVA RD NORTH POINT, HK  
-Company Registration Number: 52276817-000-05-12-0   TEL: +852 8197 7220  
-Email Address: service@tmart.com
+Address: Tmart Limited, Flat/RM 1502, Easey Commercial Building, 253-261 Hennessy Road, WanChai, HK
 
-Address: TMART TRADING LIMITED, 58 HIGH STREET WIMBLEDON, LONDON, BRITAIN  
-Company Registration Number: 10437434   TEL:+07548611879  
-Email Address: service@tmart.com 
+Company Registration Number: 52276817-000-05-16-9   TEL: +852 8197 7220
+
+Email Address: service@tmart.com
