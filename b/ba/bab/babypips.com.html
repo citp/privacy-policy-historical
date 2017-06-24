@@ -1,284 +1,137 @@
-<!--The following is the downloaded HTML source of the babypips.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229042911id_/http%3A//www.babypips.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babypips.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624072442id_/http%3A//www.babypips.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-6BN9"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.babypips.com/css/A.style.css+font-awesome.min.css,Mcc.BzLMVdygpT.css.pagespeed.cf.Uxg2HWgniR.css">
-<link rel="pingback" href="http://www.babypips.com/site/xmlrpc.php">
-<!-- Google +1 plugin -->
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-<!-- end of Google +1 plugin -->
-<!-- School progress script -->
-<!-- This site is optimized with the Yoast SEO Premium plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Privacy Policy - BabyPips.com</title>
-<link rel="canonical" href="http://www.babypips.com/privacy">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - BabyPips.com">
-<meta property="og:description" content="BabyPips.com does not send SPAM or sell email addresses. BabyPips.com LLC (“BabyPips.com” or “babypips.com” or “we” or “us” or “our site”) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what … Continue reading →">
-<meta property="og:url" content="http://www.babypips.com/privacy">
-<meta property="og:site_name" content="BabyPips.com">
-<meta property="article:publisher" content="https://www.facebook.com/babypips">
-<meta property="DC.date.issued" content="2013-07-24T13:38:40-05:00">
-<!-- / Yoast SEO Premium plugin. -->
-<link rel="dns-prefetch" href="//www.babypips.com">
-<link rel="dns-prefetch" href="//a.optnmnstr.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="BabyPips.com » Feed" href="http://www.babypips.com/feed">
-<link rel="alternate" type="application/rss+xml" title="BabyPips.com » Comments Feed" href="http://www.babypips.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="BabyPips.com » Privacy Policy Comments Feed" href="http://www.babypips.com/privacy/feed">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.babypips.com\/site\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.babypips.com/site/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
-<style id="contact-form-7-css" media="all">div.wpcf7{margin:0;padding:0}div.wpcf7-response-output{margin:2em .5em 1em;padding:.2em 1em}div.wpcf7 .screen-reader-response{position:absolute;overflow:hidden;clip:rect(1px,1px,1px,1px);height:1px;width:1px;margin:0;padding:0;border:0}div.wpcf7-mail-sent-ok{border:2px solid #398f14}div.wpcf7-mail-sent-ng{border:2px solid red}div.wpcf7-spam-blocked{border:2px solid #ffa500}div.wpcf7-validation-errors{border:2px solid #f7e700}.wpcf7-form-control-wrap{position:relative}span.wpcf7-not-valid-tip{color:red;font-size:1em;display:block}.use-floating-validation-tip span.wpcf7-not-valid-tip{position:absolute;top:20%;left:20%;z-index:100;border:1px solid red;background:#fff;padding:.2em .8em}span.wpcf7-list-item{margin-left:.5em}.wpcf7-display-none{display:none}div.wpcf7 img.ajax-loader{border:none;vertical-align:middle;margin-left:4px}div.wpcf7 div.ajax-error{display:none}div.wpcf7 .placeheld{color:#888}</style>
-<link rel="stylesheet" id="tooltip-css" href="http://www.babypips.com/site/wp-content/plugins/TooltipProPlus/assets/css/A.tooltip.css,qver=4.6.1.pagespeed.cf.5TIBeaSVtH.css" type="text/css" media="all">
-<style id="tooltip-inline-css" type="text/css">#tt{}#tt #ttcont div.glossaryItemTitle{color:#000}.mobile-link a.glossaryLink{color:#fff!important}.mobile-link:before{content:"Term link: "}span.glossaryLink,a.glossaryLink{border-bottom:dotted 1px #000!important;color:#000!important}a.glossaryLink:hover{border-bottom:solid 1px #333!important;color:#333!important}</style>
-<style id="slimbox2-css" media="screen">#lbOverlay{position:fixed;z-index:9999;left:0;top:0;width:100%;height:100%;background-color:#000;cursor:pointer}#lbCenter,#lbBottomContainer{position:absolute;z-index:9999;overflow:hidden;background-color:#fff}.lbLoading{background:#fff url(site/wp-content/plugins/wp-slimbox2/css/images/default/loading.gif) no-repeat center}#lbImage{position:absolute;left:0;top:0;border:10px solid #fff;background-repeat:no-repeat}#lbPrevLink,#lbNextLink{display:block;position:absolute;top:0;width:50%;outline:none}#lbPrevLink{background:transparent no-repeat 0 15%;left:0}#lbNextLink{background:transparent no-repeat 100% 15%;right:0}#lbBottom{font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;font-size:10px;color:#666;line-height:1.4em;text-align:left;border:10px solid #fff;border-top-style:none}#lbCloseLink{display:block;float:right;width:66px;height:22px;margin:5px 0;outline:none}#lbCaption,#lbNumber{margin-right:71px}#lbCaption{font-weight:bold}</style>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-content/plugins/TooltipProPlus/assets/js/modernizr.min.js,qver=4.6.1.pagespeed.jm.QNXpb789Eq.js"></script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-includes/js/jquery/jquery.js,qver=1.12.4.pagespeed.jm.pPCPAKkkss.js"></script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
-var _wpmejsSettings = {"pluginPath":"\/site\/wp-includes\/js\/mediaelement\/"};
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
-var _wpmejsSettings = {"pluginPath":"\/site\/wp-includes\/js\/mediaelement\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var cmtt_data = {"tooltip":{"clickable":true,"minw":200,"maxw":400,"top":3,"left":23,"endalpha":95,"borderStyle":"none","borderWidth":"0px","borderColor":"#000000","background":"#666666","foreground":"#ffffff","fontSize":"13px","padding":"2px 12px 3px 7px","borderRadius":"6px","close_button":false},"ajaxurl":"http:\/\/www.babypips.com\/site\/wp-admin\/admin-ajax.php","post_id":"10358","mobile_disable_tooltips":"0","mobile_support":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-content/plugins/TooltipProPlus/assets/js/tooltip.js?ver=4.6.1"></script>
-<script type="text/javascript" data-cfasync="false" id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.4.5"></script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-content/plugins/wp-slimbox2/javascript/slimbox2.js,qver=2.04.pagespeed.jm.Th_gcF687R.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var slimbox2_options = {"autoload":"1","overlayColor":"#000000","loop":"","overlayOpacity":"0.8","overlayFadeDuration":"400","resizeDuration":"400","resizeEasing":"swing","initialWidth":"250","initialHeight":"250","imageFadeDuration":"400","captionAnimationDuration":"400","caption":"el.title || el.firstChild.alt || el.firstChild.title || el.href || el.href","url":"1","selector":"div.entry-content, div.gallery, div.entry, div.post, div#page, body","counterText":"Image {x} of {y}","closeKeys":"27,88,67","previousKeys":"37,80","nextKeys":"39,78","prev":"http:\/\/www.babypips.com\/site\/wp-content\/plugins\/wp-slimbox2\/images\/default\/prevlabel.gif","next":"http:\/\/www.babypips.com\/site\/wp-content\/plugins\/wp-slimbox2\/images\/default\/nextlabel.gif","close":"http:\/\/www.babypips.com\/site\/wp-content\/plugins\/wp-slimbox2\/images\/default\/closelabel.gif","picasaweb":"","flickr":"","mobile":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.babypips.com/site/wp-content/plugins/wp-slimbox2/javascript/slimbox2_autoload.js?ver=1.0.4b"></script>
-<link rel="https://api.w.org/" href="http://www.babypips.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.babypips.com/site/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.babypips.com/site/wp-includes/wlwmanifest.xml">
-<link rel="shortlink" href="http://www.babypips.com/?p=10358">
-<link rel="alternate" type="application/json+oembed" href="http://www.babypips.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.babypips.com%2Fprivacy">
-<link rel="alternate" type="text/xml+oembed" href="http://www.babypips.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.babypips.com%2Fprivacy&amp;format=xml">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-<script type="text/javascript">jQuery.noConflict();</script>
-<link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="all" rel="stylesheet" type="text/css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="http://www.babypips.com/js/global.js.pagespeed.jm.o4PlCrfna8.js"></script>
-<script type="text/javascript">
-(function() {
-var useSSL = 'https:' == document.location.protocol;
-var src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
-googletag.defineSlot('/4062275/BP_Header_Leaderboard', [[728, 90], [970, 90]], 'div-gpt-ad-1398997182910-2').addService(googletag.pubads());
-// googletag.defineSlot('/4062275/Kiosked', [1, 1], 'div-gpt-ad-1455137687356-0').addService(googletag.pubads());
-googletag.defineSlot('/4062275/Top_Leaderboard_2', [728, 90], 'div-gpt-ad-1398997182910-10').addService(googletag.pubads());
-googletag.defineSlot('/4062275/Interstitial', [1, 1], 'interstitial').addService(googletag.pubads());
-// googletag.defineSlot('/4062275/Kiosked', [1, 1], 'div-gpt-ad-1455137687356-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-</script>
-<!-- Tynt -->
-<!-- 	<script type="text/javascript">
-		if (document.location.protocol == 'http:') {
-			var Tynt = Tynt || [];
-			Tynt.push('dHU-eOvo8r4k0gadbi-bnq');
-			Tynt.i = {"ap": "Read more:"};
-			(function () {
-				var s = document.createElement('script');
-				s.async = "async";
-				s.type = "text/javascript";
-				s.src = 'http://tcr.tynt.com/ti.js';
-				var h = document.getElementsByTagName('script')[0];
-				h.parentNode.insertBefore(s, h);
-			})();
-		}
-	</script> -->
-<!-- End Tynt -->
-<script type="text/javascript">
-	(function () {
-		function async_load() {
-			var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-			var s = document.createElement('script');
-			s.src = protocol + 'blockmetrics.com/static/adblock_detection/js/d.min.js';
-			var x = document.getElementsByTagName('script')[0];
-			x.parentNode.insertBefore(s, x);
-		}
+<!DOCTYPE html><html locale="en-US" og="http://ogp.me/ns#"><head>
+<title>Privacy Policy</title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script type="text/javascript" src="https://www.adblockanalytics.com/analyze.js"></script><script type="text/javascript" src="https://www.adblockanalytics.com/ads.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4609bcac3a","applicationID":"40062352","transactionName":"cwwIFRcJVAlQFB5FU1cGFU4WDlcS","queueTime":0,"applicationTime":144,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+<link href="//bpcdn.co" rel="dns-prefetch">
+<link href="//forums.babypips.com" rel="dns-prefetch">
+<link href="//disqus.com" rel="dns-prefetch">
+<link crossorigin="" href="https://bpcdn.co" rel="preconnect">
 
-		bm_website_code = 'FE465CB7328E4FD1';
-		jQuery(document).ready(async_load);
-	})();
-</script>
-<!-- AdRoll -->
-<script type="text/javascript">
-	adroll_adv_id = "WKE6MKSUNNB7PHMNEK4DGH";
-	adroll_pix_id = "QCPUQFKXDZCSJBCXUJZ6CC";
-	(function () {
-		var oldonload = window.onload;
-		window.onload = function () {
-			__adroll_loaded = true;
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] ||
-			document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-			if (oldonload) {
-				oldonload()
-			}
-		};
-	}());
-</script>
-<!-- End AdRoll -->
-<!-- Establish if user is a forums memeber for analaytics -->
-<!-- End Establish -->
-<!-- Facebook Custom Audience Pixel Code -->
-<script>(function () {
-		var _fbq = window._fbq || (window._fbq = []);
-		if (!_fbq.loaded) {
-			var fbds = document.createElement('script');
-			fbds.async = true;
-			fbds.src = '//connect.facebook.net/en_US/fbds.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(fbds, s);
-			_fbq.loaded = true;
-		}
-		_fbq.push(['addPixelId', '660613254010921']);
-	})();
-	window._fbq = window._fbq || [];
-	window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=660613254010921&amp;ev=NoScript"/></noscript>
-<!-- End Facebook Custom Audience Pixel Code -->
-<!-- Chartbeat code -->
-<!-- <scripttype='text/javascript'>var_sf_startpt=(newDate()).getTime()</script> -->
-<!-- End Chartbeat code -->
-<!-- Kosked tag -->
-<!--<script type='text/javascript'>-->
-<!--  googletag.cmd.push(function() {-->
-<!--    googletag.defineSlot('/4062275/Kiosked', [1, 1], 'div-gpt-ad-1453298122683-0').addService(googletag.pubads());-->
-<!--    googletag.pubads().enableSingleRequest();-->
-<!--    googletag.enableServices();-->
-<!--  });-->
-<!--</script>-->
-<!-- Kosked tag -->
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-6BN9');</script>
-<!-- End Google Tag Manager -->
-<script async="" type="text/javascript" src="//babypips.disqus.com/count.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="page page-id-10358 page-template page-template-onecolumn-page page-template-onecolumn-page-php">
-<div id="top" class="widget-area" role="complementary">
-<ul class="xoxo">
-<li id="execphp-7" class="widget-container widget_execphp">	<div class="execphpwidget"><!-- Lotame Tag -->
-<script type="text/javascript" src="http://tags.crwdcntrl.net/c/3101/cc.js?ns=_cc3101" id="LOTCC_3101"></script>
-<script type="text/javascript" language="javascript">_cc3101.bcp();</script>
-<!-- End Lotame -->
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6BN9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<!-- BP_Header_Leaderboard -->
-<div class="topLeadAd" id="div-gpt-ad-1398997182910-2" style="width:970px; height:90px;">
-<script type="text/javascript">
-googletag.display('div-gpt-ad-1398997182910-2');
-</script>
+
+<script type="application/ld+json" data-schema="WebSite">{"@context":"https://schema.org","@type":"WebSite","name":"BabyPips.com","url":"https://www.babypips.com/","potentialAction":{"@type":"SearchAction","target":"https://www.babypips.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json" data-schema="Organization">{"@context":"https://schema.org","@type":"Organization","name":"BabyPips.com","url":"https://www.babypips.com/","logo":"https://bpcdn.co/assets/images/organization-logo-4a25c2847d.png","sameAs":["https://facebook.com/babypips","https://twitter.com/babypips","https://plus.google.com/+babypips","https://www.linkedin.com/company/babypips"]}</script>
+
+<link rel="stylesheet" media="all" href="https://bpcdn.co/assets/gems-8949bc126ca663104289d988608466829c065757942fe9ff98de2fc612143c65.css">
+<link rel="stylesheet" media="all" href="https://bpcdn.co/assets/stylesheets/application-83d4b124b7.css">
+<link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+<link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon-precomposed" sizes="60x60">
+<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76">
+<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+<link href="/favicon-230x230.png" rel="icon" sizes="230x230" type="image/png">
+<meta content="BabyPips.com" name="application-name">
+<meta content="#ffffff" name="msapplication-TileColor">
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
+<meta content="/mstile-70x70.png" name="msapplication-square70x70logo">
+<meta content="/mstile-150x150.png" name="msapplication-square150x150logo">
+<meta content="/mstile-310x150.png" name="msapplication-wide310x150logo">
+<meta content="/mstile-310x310.png" name="msapplication-square310x310logo">
+
+
+<script id="omapi-script" src="//a.optnmstr.com/app/js/api.min.js" async=""></script><script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
+<body>
+
+<header class="site-header">
+<div class="wrapper">
+<h2 class="site-title">
+<a href="https://www.babypips.com/">BabyPips</a>
+</h2>
+<p class="site-tagline">The beginner's guide to FX trading</p>
+<ul class="site-navigation" role="navigation">
+<li class="news"><a href="/news">News</a></li><li class="trading"><a href="/trading">Trading</a><div data-react-class="CategoryNavigation" data-react-props="{&quot;category&quot;:{&quot;slug&quot;:&quot;trading&quot;,&quot;name&quot;:&quot;Trading&quot;,&quot;path&quot;:&quot;/trading&quot;,&quot;posts_path&quot;:&quot;/posts/latest/trading&quot;,&quot;children&quot;:[{&quot;slug&quot;:&quot;trading-systems&quot;,&quot;name&quot;:&quot;Trading Systems&quot;,&quot;path&quot;:&quot;/trading/trading-systems&quot;},{&quot;slug&quot;:&quot;psychology&quot;,&quot;name&quot;:&quot;Psychology&quot;,&quot;path&quot;:&quot;/trading/psychology&quot;},{&quot;slug&quot;:&quot;technical-analysis&quot;,&quot;name&quot;:&quot;Technical Analysis&quot;,&quot;path&quot;:&quot;/trading/technical-analysis&quot;},{&quot;slug&quot;:&quot;trade-ideas&quot;,&quot;name&quot;:&quot;Trade Ideas&quot;,&quot;path&quot;:&quot;/trading/trade-ideas&quot;}]}}" class="site-sub-navigation"></div>
+</li>
+<li class="education"><a href="/learn">Education</a><div class="site-sub-navigation site-sub-single-navigation">
+<ul>
+<li class="education school"><a href="/learn/forex"><span>How to Trade Forex</span></a></li>
+<li class="education quizzes"><a href="/quizzes"><span>Trading Quizzes</span></a></li>
+<li class="education glossary"><a href="/forexpedia"><span>Forex Glossary</span></a></li>
+</ul>
 </div>
+</li>
+<li class="community"><a href="https://forums.babypips.com/">Community</a></li>
+<li class="calendar"><a href="/economic-calendar">Calendar</a></li>
+<li class="rates"><a href="/rates">Rates</a></li>
+<li class="tools"><a href="/tools">Tools</a></li>
+</ul>
+<div data-react-class="SiteSearch" data-react-props="{&quot;searchUrl&quot;:&quot;https://www.babypips.com/search&quot;}" class="site-search"></div>
+<ul class="user-navigation">
+<li class="auth">
+<a class="sign-in" data-react-href="/account/sign-in" href="/account/sign-in">Sign In</a>
+|
+<a class="join" data-react-href="/account/join" href="/account/join">Join</a>
+</li>
+</ul>
+<input id="mobile-navigation-button" type="checkbox">
+<label for="mobile-navigation-button" id="mobile-navigation-button-label">View Menu</label>
+<ul class="mobile-navigation">
+<li class="auth">
+<a data-react-href="/account/sign-in" href="/account/sign-in">Sign In</a>
+/
+<a data-react-href="/account/join" href="/account/join">Join</a>
+</li>
+<li class="home"><a href="/">Home</a></li>
+<li class="news"><a href="/news">News</a></li><li class="trading"><a href="/trading">Trading</a><ul class="mobile-sub-navigation">
+<li class="trading trade-ideas"><a href="/trading/trade-ideas">Trade Ideas</a></li>
+<li class="trading technical-analysis"><a href="/trading/technical-analysis">Technical Analysis</a></li>
+<li class="trading psychology"><a href="/trading/psychology">Psychology</a></li>
+<li class="trading trading-systems"><a href="/trading/trading-systems">Trading Systems</a></li>
+</ul>
+</li><li class="education"><a href="/learn">Education</a><ul class="mobile-sub-navigation">
+<li class="education school"><a href="/learn/forex">How to Trade Forex</a></li>
+<li class="education glossary"><a href="/forexpedia">Forex Glossary</a></li>
+<li class="education quizzes"><a href="/quizzes">Trading Quizzes</a></li>
+</ul>
+</li><li class="community"><a href="https://forums.babypips.com/">Community</a><ul class="mobile-sub-navigation">
+<li class="community forums"><a href="https://forums.babypips.com/">Forums</a></li>
+</ul>
+</li><li class="calendar"><a href="/economic-calendar">Calendar</a><ul class="mobile-sub-navigation">
+<li class="calendar"><a href="/economic-calendar">Economic Calendar</a></li>
+</ul>
+</li><li class="rates"><a href="/rates">Rates</a><ul class="mobile-sub-navigation">
+<li class="rates live"><a href="/rates">Live Market Rates</a></li>
+<li class="rates eurusd"><a href="/rates/eurusd">EUR / USD</a></li>
+<li class="rates gbpusd"><a href="/rates/gbpusd">GBP / USD</a></li>
+<li class="rates usdchf"><a href="/rates/usdchf">USD / CHF</a></li>
+<li class="rates usdjpy"><a href="/rates/usdjpy">USD / JPY</a></li>
+<li class="rates eurjpy"><a href="/rates/eurjpy">EUR / JPY</a></li>
+</ul>
+</li><li class="tools"><a href="/tools">Tools</a><ul class="mobile-sub-navigation">
+<li class="tools pivot_point"><a href="/tools/pivot-point-calculator">Pivot Point Calculator</a></li>
+<li class="tools position_size"><a href="/tools/position-size-calculator">Position Size Calculator</a></li>
+<li class="tools gain_loss"><a href="/tools/gain-loss-percentage-calculator">Gain / Loss % Calculator</a></li>
+<li class="tools pip_value"><a href="/tools/pip-value-calculator">Pip Value Calculator</a></li>
+<li class="tools regulatory"><a href="/tools/forex-regulation">Regulatory Organizations</a></li>
+</ul>
+</li></ul>
+
 </div>
-</li>	</ul>
-</div><!-- #secondary .widget-area -->
-<div class="clear"></div>
-<div id="wrapper" class="hfeed">
-<div id="header">
-<div id="top-menu">
-<div class="right">
-<div class="left"><ul id="menu-topmenuguest" class="menu"><li id="menu-item-13072" class="sign-in-link-item menu-item menu-item-type-custom menu-item-object-custom menu-item-13072"><a href="/account/login.php">Sign In</a></li>
-<li id="menu-item-13073" class="join-link-item menu-item menu-item-type-custom menu-item-object-custom menu-item-13073"><a href="http://forums.babypips.com/register.php">Join</a></li>
-</ul></div>	<div class="social-header-box right">
-<a href="http://www.facebook.com/babypips">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-facebook fa-stack-1x fa-inverse" style=""></i>
-</span>
-</a>
-<a href="http://twitter.com/babypips">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-</span>
-</a>
-<a href="https://plus.google.com/101834145845701195741?prsrc=3">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-</span>
-</a>
-</div>
-<form class="right" action="http://www.babypips.com/" id="searchform" method="get" role="search">
-<div><label for="s" class="screen-reader-text">Search for:</label>
-<input type="text" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';" name="s" id="s">
-<input type="submit" value="Search" id="searchsubmit">
-</div>
-</form>
-</div>
-</div>
-<div id="masthead">
-<div id="branding" role="banner">
-<div id="site-title">
-<a href="http://www.babypips.com/"><img src="http://s3.amazonaws.com/babypips-media-production/images/2013/09/logo1.gif" width="378" height="80" alt="BabyPips.com"></a>
-</div>
-<div id="site-description">
-<div id="buzz_quote">“OMG!!! I wish I had found<br>this site three months ago!!!”</div>
-<div id="buzz_quotee">-<strong>Bonnie</strong> (<a href="/buzz">more buzz..</a>.) </div>
-</div>
-</div>
-<!-- #branding -->
-<div id="access" role="navigation">
-<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a>
-</div>
-<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-10366" class="main-menu-item-home menu-item menu-item-type-custom menu-item-object-custom menu-item-10366"><a href="/">Home</a></li>
-<li id="menu-item-10367" class="main-menu-item-school menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10367"><a href="http://www.babypips.com/school">School</a></li>
-<li id="menu-item-10368" class="main-menu-item-blogs menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10368"><a href="http://www.babypips.com/blogs">Blogs</a></li>
-<li id="menu-item-10369" class="main-menu-item-forums menu-item menu-item-type-custom menu-item-object-custom menu-item-10369"><a href="http://forums.babypips.com/">Forums</a></li>
-<li id="menu-item-10370" class="main-menu-item-tools menu-item menu-item-type-custom menu-item-object-custom menu-item-10370"><a href="/tools/">Tools</a></li>
-<li id="menu-item-10371" class="main-menu-item-forexpedia menu-item menu-item-type-custom menu-item-object-custom menu-item-10371"><a href="/forexpedia/">Forexpedia</a></li>
-<li id="menu-item-94498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94498"><a href="http://www.babypips.com/forex-rates-and-market-data">Rates</a></li>
-</ul></div>
-</div>
-<!-- #access -->
-</div>
-<!-- #masthead -->
-</div>
-<!-- #header -->
-<div id="main">
-<div id="searchbox"></div>
-<div id="container" class="one-column">
-<div id="content" role="main">
-<div id="post-10358" class="post-10358 page type-page status-publish hentry">
-<!-- <h1 class="entry-title">Privacy Policy</h1> -->
-<div class="entry-content">
-<h1 class="">
-Privacy Policy	</h1>
-<hr style="margin-bottom: 20px; margin-top: -15px;">
-<p><strong>BabyPips.com does not send SPAM or sell email addresses.</strong></p>
-<p>BabyPips.com LLC (“BabyPips.com” or “babypips.com” or “we” or “us” or “our site”) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from you. Please read the following to understand our practices regarding personal information and how they affect you as you use our features and services. This statement discloses our current privacy practices; if we make material changes to these practices, we will announce them. If you have any questions or concerns regarding this statement, you should contact babypips.com site coordinator at <a href="mailto:legal@babypips.com">legal@babypips.com</a>.</p>
+</header>
+
+<div data-react-class="SiteBanner" data-react-props="{}" class="react-site-banner"></div>
+<div class="site-content"><div data-react-class="AdUnit" data-react-props="{&quot;unit_id&quot;:&quot;top_billboard&quot;}" class="ad-unit top_billboard"></div>
+<article class="layout layout-one-column">
+<header class="page-header">
+<h1 class="title">Privacy Policy</h1>
+<div class="divider"></div>
+</header>
+<section>
+<div class="post-content page-content">
+<h2>BabyPips.com does not send SPAM or sell email addresses.</h2>
+<p>SPAM, when paired with eggs, is delicious for breakfast but we hate the other kind of SPAM as much as you do.</p>
+<p>BabyPips.com LLC (“BabyPips.com” or “babypips.com” or “we” or “us” or “our site”) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from you.</p>
+<p>Please read the following to understand our practices regarding personal information and how they affect you as you use our features and services. This statement discloses our current privacy practices; if we make material changes to these practices, we will announce them.</p>
+<p>If you have any questions or concerns regarding this statement, you should contact babypips.com site coordinator at <a href="mailto:legal@babypips.com">legal@babypips.com</a>.</p>
 <p>This Privacy Policy answers the following questions:</p>
 <ul>
 <li>What information does BabyPips.com gather about you?</li>
@@ -289,14 +142,14 @@ Privacy Policy	</h1>
 <li>What else should you know about your privacy?</li>
 <li>How will you know whether BabyPips.com’s privacy policy has changed?</li>
 </ul>
-<p><strong>What Information Does BabyPips.com Gather About You?</strong></p>
+<h3>What information does BabyPips.com gather about you?</h3>
 <p>BabyPips.com collects information about our readers so that we can provide a more interesting and useful service, as well as more appropriate advertising. We ask for your name and email address if you sign up for special or personalized services, such as our discussion boards or email newsletters. We may also ask for this information at other times, such as when you enter contests or other promotions sponsored by BabyPips.com. We sometimes conduct surveys as well, although you do not have to respond to them.</p>
 <p>If you use our recommendation service to email one of our articles to a friend, you will need to provide us with your friend’s email address and your email address as a return address. We will automatically send this person a one-time email, with the recommended article attached, as well as invite your friend to visit and register with our site. We will not use these email addresses for any other purpose.</p>
 <p>We collect IP addresses for site security and to help us understand how people use our site so that we can improve our site and our users’ respective experiences.</p>
-<p><strong>How Does BabyPips.com Use Your Personal Information?</strong></p>
+<h3>How does BabyPips.com use your personal information?</h3>
 <p>BabyPips.com collects personal information to provide you, the user, with the best and most personalized experience possible, and to provide our advertisers with an efficient way to reach the right audience. In short, by knowing a little about you, BabyPips.com can deliver more relevant content and advertisements to you.</p>
 <p>We conduct research on our users’ demographics, interests, and behavior based upon the information you provide us when you register or participate in contests or other promotions on our site, or based upon the information on our server log files. This research is compiled and analyzed on an aggregated basis. We may also notify you of products, services, or areas of our site that we think may interest you based on the information we’ve received. If you would prefer us not to contact you for these purposes, simply click the “unsubscribe” link found in our email messages.</p>
-<p><strong>How Do We Use “IP Addresses”, “Cookies”, “Web Beacons” and “Other Technologies”?</strong></p>
+<h3>How do we use “IP addresses”, “cookies”, “web beacons” and “other technologies”?</h3>
 <p><strong>IP Addresses</strong></p>
 <p>Your Web browser or email application automatically provides your Internet Protocol address (“IP address”) to other computers with which you communicate over the Internet, so that they know where to send you information.</p>
 <p>We receive an IP address each time you view one of our Web pages, because the browser automatically reports it to us. We also may store the IP address when you register with BabyPips.com, post a message, or buy something from us.</p>
@@ -315,7 +168,7 @@ Privacy Policy	</h1>
 <p>We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our site in order to recognize users, assess traffic patterns, identify preferred content and measure site engagement. We also include web beacons in our email messages, including newsletters, in order to count how many email messages have been opened.</p>
 <p>We&nbsp;also use reputable third parties to collect information, through the use of web beacons, browser cookies and other tracking technologies. We may collect various data provided by your browser while you are on our site via web beacons. This data is collected in the aggregate, but may include or be associated with other non-personal information or personal information that users have voluntarily submitted.</p>
 <p><b class="boldTxt">Other Technologies</b></p>
-<p>Other Technologies are technologies that store information in your browser or device utilizing local shared objects or local storage, such as flash cookies, HTML 5 cookies, and other web application software methods. These technologies can operate across all of your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device</p>
+<p>Other Technologies are technologies that store information in your browser or device utilizing local shared objects or local storage, such as flash cookies, HTML cookies, and other web application software methods. These technologies can operate across all of your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device</p>
 <p><b class="boldTxt">Your choice and our use of cookies, web beacons, and similar technologies</b></p>
 <p>We offer certain site features, services, applications, and tools that are available only through the use of these technologies. You are always free to block, delete, or disable these technologies if your browser, installed application, or device so permits. However, if you decline cookies or other similar technologies, you may not be able to take advantage of certain site features, services, applications, or tools. You may also be required to re-enter your password more frequently during your browsing session. For more information on how you can block, delete, or disable these technologies, please review your browser or device settings.</p>
 <p>Generally, these technologies allow our site, services, applications, and tools to store relevant information in your browser or device and later read that information in order to identify you to our servers or internal systems. Where applicable, we protect our cookies and other similar technologies to help ensure that only we and/or our authorized service providers can interpret them by assigning them a unique identifier that is designed for interpretation only by us. We do not store any of your personal information on any of our cookies or other similar technologies.</p>
@@ -350,150 +203,151 @@ Privacy Policy	</h1>
 <p>With the exception of the use of such technologies by our service providers or other authorized third parties, we do not permit any third-party content on our site to include or utilize any cookies, web beacons, local storage, or similar technologies for tracking purposes or to collect your personal information. If you believe a listing or other third-party content might be collecting personal information or using tracking technologies on our site, please report it to <a href="mailto:legal@babypips.com">legal@babypips.com</a>.</p>
 <p><b class="boldTxt">Ad networks and exchanges operated by authorized third parties</b></p>
 <p>We may use third parties, such as advertising networks and exchanges, to allow us to serve you advertisements. These third-party ad networks and exchange providers may use third-party cookies, web beacons, or similar technologies to collect information. They may also collect your device identifier, IP address, or identifier for advertising (IDFA). The information that these third parties collect may be used to assist us in providing you with more relevant advertising that we serve on our site. Third-party cookies are covered by the third parties’ privacy policy.</p>
-<p><strong>Will BabyPips.com Disclose Any of Your Personal Information?</strong></p>
+<h3>Will BabyPips.com disclose any of your personal information?</h3>
 <p>BabyPips.com will not disclose any personally identifiable information about individual users, except as described in this Privacy Statement. We do not give, rent, lend, or sell individual information to our advertisers, although we do provide aggregate information. For example, we might tell an advertiser that there are 20,000 registered email subscribers in Gotham City, but we will not tell them that Batman is one of them, nor will we tell them that his email address is bruce@statelywaynemanor.com.</p>
 <p>We reserve the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business. In the event BabyPips.com enters a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information may be among the assets transferred.</p>
 <p>We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating the law or may be causing injury to or interference with (either intentionally or unintentionally) BabyPips.com’s rights or property, other Site users, or anyone else that could be harmed by such activities. BabyPips.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our services.</p>
 <p>We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. We use industry standard practices to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.</p>
-<p><strong>How Do We Respect Children’s Privacy?</strong></p>
+<h3>Do we respect children’s privacy?</h3>
 <p>Our site is&nbsp;not directed at children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act and will not knowingly collect or use personally identifiable information from anyone under 13.</p>
-<p><strong>What Else Should You Know About Your Privacy?</strong></p>
+<h3>What else should you know about your privacy?</h3>
 <p>Many of our advertisers or partners link from our site to areas on their own sites where they sell their own products and services. &nbsp;If you follow links from our site to others, you should be aware that you are doing business with those other sites, which have their own privacy and data collection practices. BabyPips.com has no responsibility or liability for these independent policies (and we may not even know what they are). For more information regarding a site and its privacy policies, check that site.</p>
-<p><strong>How Will You Know Whether BabyPips.com’s Privacy Policy Has Changed? </strong></p>
+<h3>How will you know whether BabyPips.com’s Privacy Policy has changed?</h3>
 <p>We may change this Privacy Statement at any time, but we will give notice of any material changes (or any notices that we are required to give you) on our website and/or in email messages.</p>
 <p>Last Updated: February 20, 2015</p>
-</div><!-- .entry-content -->
-</div><!-- #post-## -->
-</div><!-- #content -->
-</div><!-- #container -->
-<div class="clear"></div>
-</div><!-- #main -->
-<div class="clear"></div>
-<div id="footer" role="contentinfo">
-<div id="footermenu">
-<div>
-<div id="site-info">
-<div class="babypips-lg">BabyPips.com</div>
-<p class="footer-info">Learn How to Trade Forex. BabyPips.com Is The Beginner's Guide to Forex Trading. Your Best Source for Forex Education on the Web.</p>
+
 </div>
-<div class="footer-menu wide">
-<div class="footer-title">Learn Forex</div>
-<ul id="menu-learn-forex" class="menu"><li id="menu-item-48924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48924"><a href="http://www.babypips.com/school/preschool/what-is-forex/what-is-forex.html">What is Forex?</a></li>
-<li id="menu-item-48925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48925"><a href="http://www.babypips.com/blogs">Forex Articles and News</a></li>
-<li id="menu-item-48926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48926"><a href="http://www.babypips.com/school">Forex Tutorials</a></li>
-<li id="menu-item-48927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48927"><a href="http://forums.babypips.com/quiz.php">Forex Quizzes</a></li>
-<li id="menu-item-48928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48928"><a href="http://forums.babypips.com">Forex Forums</a></li>
-<li id="menu-item-48929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48929"><a href="http://www.babypips.com/forexpedia/Main_Page">Forex Glossary</a></li>
-</ul>	</div>
-<div class="footer-menu wide">
-<div class="footer-title">Forex Tools</div>
-<ul id="menu-forex-tools" class="menu"><li id="menu-item-48916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48916"><a href="http://www.babypips.com/tools/forex-calendar/">Forex Calendar</a></li>
-<li id="menu-item-48917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48917"><a href="http://www.babypips.com/tools/forex-calculators/">Forex Calculators</a></li>
-<li id="menu-item-48918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48918"><a href="http://www.babypips.com/tools/forex-brokers-guide/">Choose a Forex Broker</a></li>
-</ul>	</div>
-<div class="footer-menu narrow">
-<div class="footer-title">COMPANY</div>
-<ul id="menu-company" class="menu"><li id="menu-item-48921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48921"><a href="http://www.babypips.com/about">About Us</a></li>
-<li id="menu-item-48919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48919"><a href="http://www.babypips.com/contact">Contact Us</a></li>
-<li id="menu-item-48922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48922"><a href="/advertise/">Advertise</a></li>
-<li id="menu-item-48923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48923"><a href="#">Contribute</a></li>
-<li id="menu-item-48920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48920"><a href="http://www.babypips.com/buzz">Testimonials</a></li>
-</ul>	</div>
-<div class="footer-menu narrow">
-<div class="footer-title">WEBSITE</div>
-<ul id="menu-website" class="menu"><li id="menu-item-47140" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10358 current_page_item menu-item-47140"><a href="http://www.babypips.com/privacy">Privacy Policy</a></li>
-<li id="menu-item-48914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48914"><a href="http://www.babypips.com/risk-disclosure">Risk Disclosure</a></li>
-<li id="menu-item-47142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47142"><a href="http://www.babypips.com/terms-of-use">Terms of Use</a></li>
-<li id="menu-item-48915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48915"><a href="http://www.babypips.com/faq">FAQ</a></li>
-</ul>	</div>
+</section>
+</article>
+<div data-react-class="AdUnit" data-react-props="{&quot;unit_id&quot;:&quot;mid_billboard&quot;,&quot;lazy&quot;:true}" class="ad-unit mid_billboard"></div>
+<section data-react-class="RelatedPosts" data-react-props="{&quot;path&quot;:&quot;/posts/additional&quot;,&quot;title&quot;:&quot;What to Read Next...&quot;}" class="layout layout-one-column"></section>
+
+
+<div data-react-class="AdUnit" data-react-props="{&quot;unit_id&quot;:&quot;bottom_billboard&quot;,&quot;lazy&quot;:true}" class="ad-unit bottom_billboard"></div>
 </div>
-<div class="clearfix"></div>
-<div class="footer-line-two">
-<div class="copyright">Copyright © 2005-2016 BabyPips.com LLC. All rights reserved.</div>
-<ul id="menu-social" class="menu"><li id="menu-item-48913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48913"><a href="https://www.facebook.com/babypips">Facebook</a></li>
-<li id="menu-item-48912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48912"><a href="https://plus.google.com/+babypips/posts">Google+</a></li>
-<li id="menu-item-48911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48911"><a href="https://twitter.com/babypips">Twitter</a></li>
-</ul>	</div>
-<div class="clearfix"></div>
-</div><!-- #footermenu -->
-</div><!-- #footer -->
-</div><!-- #wrapper -->
-<div class="execphpwidget">
-<!-- BP_Bottom_Leaderboard -->
-<div class="topLeadAd" id="div-gpt-ad-1398997182910-10" style="width:728px; height:90px; border-bottom:1px solid #999;">
+<div class="site-quote">
+<div class="divider"></div>
+<blockquote>
+<div class="quote"><p><span>Most things which are urgent are not important, and most things which are important are not urgent.</span><cite>Dwight Eisenhower</cite></p></div>
+</blockquote>
+</div>
+<footer class="site-footer">
+<div class="menus">
+<div class="wrapper">
+<div class="footer-menus">
+<div class="menu menu-learn">
+<div class="title">Learn Forex</div>
+<ul>
+<li><a href="/news">Forex News</a></li>
+<li><a href="/learn/forex">Forex Tutorials</a></li>
+<li><a href="/quizzes">Forex Quizzes</a></li>
+<li><a href="https://forums.babypips.com/">Forex Forums</a></li>
+<li><a href="/forexpedia">Forex Glossary</a></li>
+</ul>
+</div>
+<div class="menu menu-tools">
+<div class="title">Forex Tools</div>
+<ul>
+<li><a href="/economic-calendar">Forex Calendar</a></li>
+<li><a href="/tools">Forex Calculators</a></li>
+</ul>
+</div>
+<div class="menu menu-company">
+<div class="title">Company</div>
+<ul>
+<li><a href="/about">About</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/advertise">Advertise</a></li>
+<li><a href="/contribute">Contribute</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+<li><a href="https://www.babypips.com/faq">FAQ</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-info">
+<div class="title-line">
+<div class="title">BabyPips</div>
+<ul class="social">
+<li class="facebook"><a target="_blank" rel="noopener" href="https://facebook.com/babypips">Facebook</a></li>
+<li class="twitter"><a target="_blank" rel="noopener" href="https://twitter.com/babypips">Twitter</a></li>
+<li class="google"><a target="_blank" rel="noopener" href="https://plus.google.com/+babypips">Google+</a></li>
+<li class="linkedin"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/babypips">LinkedIn</a></li>
+</ul>
+
+</div>
+<p class="heading">BabyPips.com helps individual traders learn how to trade the forex market.</p>
+<p>We introduce people to the world of currency trading, and provide educational content to help them learn how to become profitable traders. We're also a community of traders that support each other on our daily trading journey.</p>
+<div class="newsletter" id="om-u2afn64xgvinmr6edn00-holder"></div>
+</div>
+</div>
+</div>
+<div class="legal">
+<div class="wrapper">
+<p class="copyright">Copyright © 2017 BabyPips.com LLC. All rights reserved.</p>
+<ul>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/risk-disclosure">Risk Disclosure</a></li>
+<li><a href="/terms-of-use">Terms of Use</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+<div data-react-class="Authentication" data-react-props="{}"></div>
+<div data-react-class="AdUnit" data-react-props="{&quot;unit_id&quot;:&quot;interstitial&quot;}" class="ad-unit interstitial"></div>
+<style type="text/css">@media (min-width: 1200px) { .ad-unit.top_billboard { min-width: 970px; min-height: 66px; } .ad-unit.mid_billboard { min-width: 970px; min-height: 66px; } .ad-unit.bottom_billboard { min-width: 970px; min-height: 66px; } }
+@media (min-width: 980px) and (max-width: 1199px) { .ad-unit.top_billboard { min-width: 970px; min-height: 66px; } .ad-unit.mid_billboard { min-width: 970px; min-height: 66px; } .ad-unit.bottom_billboard { min-width: 970px; min-height: 66px; } }
+@media (min-width: 768px) and (max-width: 979px) { .ad-unit.top_billboard { min-width: 728px; min-height: 90px; } .ad-unit.mid_billboard { min-width: 728px; min-height: 90px; } .ad-unit.bottom_billboard { min-width: 728px; min-height: 90px; } }
+@media (min-width: 0px) and (max-width: 767px) { .ad-unit.top_billboard { min-width: 320px; min-height: 50px; } .ad-unit.mid_billboard { min-width: 320px; min-height: 50px; } .ad-unit.bottom_billboard { min-width: 320px; min-height: 50px; } }</style>
 <script type="text/javascript">
-
-googletag.display('div-gpt-ad-1398997182910-10');
-
+//<![CDATA[
+window.adTargets={"page":"page","slug":"privacy"}
+//]]>
 </script>
-</div>
-<!-- Interstitial -->
-<div id="interstitial">
 <script type="text/javascript">
-googletag.display('interstitial');
+//<![CDATA[
+window.reactProps={"root_url":"https://www.babypips.com/","publisher":{"name":"BabyPips.com"},"disqus":{"shortname":"babypips","public_key":"BFQ5aTEOnZ2ELhSpmtgDcQfD3Vha6czsqDZyji8VErdqKHt4UAHevp906H05NBNw"},"analytics":{"google_tracking_id":"UA-103489-6"},"facebook":{"app_id":"671771519651047","api_version":"v2.8"},"google":{"client_id":"475655469180-2fpvqa1uua9vi7av76supf5g3v4ju0nm.apps.googleusercontent.com"}}
+//]]>
 </script>
-</div>
-<!-- End of Interstitial -->
-</div>
-<div class="execphpwidget"><div id="quotebox">
-<div id="quote">"Optimism is the one quality more associated with success and happiness than any other."</div>
-<div id="author">Brian Tracy</div>
-</div></div>
-<div class="clicky">
-<a title="Clicky Web Analytics" href="http://getclicky.com/31313"><img alt="Clicky Web Analytics" src="http://static.getclicky.com/media/links/badge.gif" border="0"></a>
-<script src="http://static.getclicky.com/31313.js" type="text/javascript"></script>
-<noscript><p><img alt="Clicky" src="http://in.getclicky.com/31313-db4.gif"/></p></noscript>
-</div>
-<!-- <div id="quotebox">
-	<div id="quote">"So long as there is breath in me, that long I will persist. For now I know one of the greatest principles on success; if I persist long enough I will win."</div>
-	<div id="author">Og Mandino</div>
-</div> -->
-<script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'babypips';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script');
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
-<script src="http://www.babypips.com/site/wp-includes,_js,_comment-reply.min.js,qver==4.6.1+wp-content,_plugins,_contact-form-7,_includes,_js,_jquery.form.min.js,qver==3.51.0-2014.06.20.pagespeed.jc.4JiNXVWKa5.js"></script><script>eval(mod_pagespeed_sXypAsfJuV);</script>
-<script>eval(mod_pagespeed_NNG5ARDJHm);</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.babypips.com\/site\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
-/* ]]> */
+<script src="https://bpcdn.co/assets/javascripts/vendor-d7361dcd3e.js"></script>
+<script src="https://bpcdn.co/assets/gems-d5738a79c14bffb070fada5815fa7a159ac6379ed4a0b18deba8b0a8d6dede6c.js" async="async"></script>
+<script src="https://bpcdn.co/assets/javascripts/application-f0f389af83.js" async="async"></script>
+<script>
+  var om5600fef660ec9,om5600fef660ec9_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om5600fef660ec9_poll(function(){if(window['om_loaded']){if(!om5600fef660ec9){om5600fef660ec9=new OptinMonsterApp();return om5600fef660ec9.init({"s":"5853.5600fef660ec9","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om5600fef660ec9=new OptinMonsterApp();om5600fef660ec9.init({"s":"5853.5600fef660ec9","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
 </script>
-<script src="http://www.babypips.com/site/wp-content,_plugins,_contact-form-7,_includes,_js,_scripts.js,qver==4.4.2+wp-content,_themes,_babypips,_js,_login_menu.js,qver==1.0.0+wp-includes,_js,_wp-embed.min.js,qver==4.6.1.pagespeed.jc.QKwzOz7bl9.js"></script><script>eval(mod_pagespeed_xGKSe81p1b);</script>
-<script>eval(mod_pagespeed_2R93wspWtb);</script>
-<script>eval(mod_pagespeed_oIIzCKU5HS);</script>
-<script type="text/javascript">var omapi_localized = { ajax: 'http://www.babypips.com/site/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '3bc1498f29' };</script>
-<!-- /4062275/Kiosked -->
-<!-- <div id='div-gpt-ad-1455137687356-0' style='height:1px; width:1px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455137687356-0'); });
+<script>
+  var clicky_site_ids = clicky_site_ids || [];
+  clicky_site_ids.push(31313);
+  (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://static.getclicky.com/js';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
 </script>
-</div> -->
-<!-- End Kiosked -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4609bcac3a","applicationID":"24826784","transactionName":"ZwYENRcHVhZUBUVcXV5MJwIRD1cLGglfUFFfDxMMC0tIBFID","queueTime":24,"applicationTime":281,"atts":"S0EHQ18dRRg=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4609bcac3a","applicationID":"24826784","transactionName":"ZwYENRcHVhZUBUVcXV5MMxMMSVELUQNJG0JYEw==","queueTime":24,"applicationTime":1,"atts":"S0EHQ18dRRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<noscript>
+<p>
+<img alt='Clicky' height='1' src='https://in.getclicky.com/31313ns.gif' width='1'>
+</p>
+</noscript>
+<script>
+  (function() {
+    function async_load(script_url){
+      var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+      var s = document.createElement('script'); s.src = protocol + script_url;
+      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    }
+    bm_website_code = 'FE465CB7328E4FD1';
+    jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+    jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+  })();
+</script>
+<script>
+  (function(){id='m5F9BUbsl1jT-mVic6opndbGk';function l(u){var e=document.createElement('script');e.type='text/javascript';e.src='https://www.adblockanalytics.com/'+u;e.async=0;var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(e,x);}l('ads.js');l('analyze.js');})();
+</script>
 
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Page Caching using memcached
-Object Caching 2580/2622 objects using apc
-Application Monitoring using New Relic
 
- Served from: babypips.com @ 2016-12-28 22:59:52 by W3 Total Cache --></body></html>
+
+</body></html>
