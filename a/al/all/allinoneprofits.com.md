@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207012327id_/http%3A//www.allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
 |   
 ---  
   
-| [**Hi-million!**](http://hi-million.com/land2/?ref=Atom77793)  
-Excellent advertisin  
-Good income  
-Fast output!| [ **Amazingly Powerful**](http://www.cashinonbanners.com/?r=17562)  
-FREE Method   
-of Generating  
-Traffic!| [ **Prosperity 4 Life**](http://www.jtl25.com/)  
-Register  
-Watch the Movie  
-Read the secrets| [ **We will deliver up**](http://trafficadbar.com/joinjoseph)  
-to 1,022 visitors to  
-your websites every   
-3 days for FREE| [ **Get PAID Weekly**](http://bit.ly/1jJqxzr)  
-Turn 1 Dollar per  
-Week into Thousands.  
-Huge Team Build NOW  
+| [**Show Your Offers**](http://www.theonlineadnetwork.com/affiliates/video1.php?rid=16104)  
+all over the world.  
+You might as well  
+get paid for it also| [ **Top 10 Blues**](http://pwcarrmusic.com/)  
+Get Your Free Song  
+download from Blues  
+artist Pat Carr| [ **Discover better**](http://andywhite.lumaxa.com/)  
+Lumaxa Business?  
+achieve it.   
+Its about you,| [ **AIOP**](http://www.allinoneprofits.com/gpj)  
+Join me,  
+See how big ,  
+WE ,CAN GROW !!!!!| [ **THE BEST TRAFFIC**](http://www.leasedadspace.com/?aid=johnweb63)  
+Banner Ads, Text  
+Ads, and Solo Ads  
+Earn Commissions  
 ---|---|---|---|---  
   
 
@@ -31,13 +31,30 @@ Allinoneprofits.com business, is committed to protecting your privacy.
 
 Our Privacy Policy is integral part and subject to our Terms. You can read our 
 
-[Terms and Conditions](https://web.archive.org/web/20160207012327id_/http%3A//www.allinoneprofits.com/terms.php) of use visiting the Terms page on our website at AllInOneProfits.com . By using or visiting our website, you agree to the terms and conditions of this Privacy policy and also you accept that we shall collect and use your personal information as described in this privacy policy. **WHAT INFORMATION WE COLLECT FROM YOU**
+[Terms and Conditions](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/terms.php) of use visiting the Terms page on our website at AllInOneProfits.com . By using or visiting our website, you agree to the terms and conditions of this Privacy policy and also you accept that we shall collect and use your personal information as described in this privacy policy. **WHAT INFORMATION WE COLLECT FROM YOU**
 
 When you subscribe to our website, in order to use our services and products, you could be asked to provide the following information: your real name, company name, email address, city, state, country, zip code, phone number. When you visit our website you automatically tell us certain information. This includes basic information such as your IP address, the date you visited, the website where you came from.  
-Our website automatically records this basic information about you. We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. If you withhold information or provide false information, we may restrict or deny your access to our services.  
-We may use cookies. The information provided by cookies can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual.
+Our website automatically records this basic information about you. We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. If you withhold information or provide false information, we may restrict or deny your access to our services.
 
- **WHAT WE DO WITH YOUR INFORMATION**
+**DO WE SET COOKIES**
+
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to "remember" your actions or preferences over time.  
+Per EU legislation an user must be informed and consent obtained for some kind of cookies.  
+We use cookies which do not require consent.   
+Consent is not required if the cookie is:  
+used for the sole purpose of carrying out the transmission of a communication, and strictly necessary in order for the provider of an information society service explicitly required by the user to provide that service.  
+We use only short time lifespan cookies, session cookies (user imput) which are erased when the user closes the browser, to identify you as user and we do not store cookies on your browser or any device.  
+As for the domain to which it belongs we use only first-party cookies which are set by the web server of the visited page and share the same domain.
+
+Accordingly to the EU legislation on cookies, we use cookies that are clearly exempt from consent accordingly to the EU advisory body on data protection- WP29 :  
+\- user-input cookies (session-id) such as first‑party cookies to keep track of the user's input when filling online forms, shopping carts, etc.,  
+  for the duration of a session or persistent cookies limited to a few hours in some cases  
+\- authentication cookies, to identify the user once he has logged in, for the duration of a session  
+\- user-centric security cookies, used to detect authentication abuses, for a limited persistent duration
+
+You can read more about cookies: <http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm>
+
+**WHAT WE DO WITH YOUR INFORMATION**
 
 The use of information collected through our service shall be limited to the purpose of providing the service to our customers. We use your information connect with you, to automatically setup your account, to provide you the proper access to the website and services, basically to operate our service activities. Other purposes to we may use your data: contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues.  
 AllInOneProfits.com will never disclose personally identifiable information about its customers to any third party without customer permission or unless necessary for legal reasons.  
@@ -62,7 +79,7 @@ If you are a customer of one of our clients and would no longer like to be conta
 We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy as part and subject of our Terms and the agreements with our service providers.  
 If you want to unsubscribe from a list of one of our clients you have more options: Unsubscribe clicking the unsubscribe link we provide at the bottom of each email. You will be unsubscribed from that list. Send us a removal request by email using our 
 
-[Support Center](https://web.archive.org/web/20160207012327id_/http%3A//www.allinoneprofits.com/support) with your name and the email used by you to subscribe. **CHILDREN PRIVACY PROTECTION**
+[Support Center](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/support) with your name and the email used by you to subscribe. **CHILDREN PRIVACY PROTECTION**
 
 We do not provide services to children. If you are below the age of 18, you may visit our website only with the permission and active involvement of a parent or legal guardian. If you are under 18 years old, please do not provide us or other website visitors with any personal information
 
@@ -109,8 +126,21 @@ We reserve the right to disclose your personal information as required by law an
 This privacy Policy may change from time to time.If such changes will be made we will notifiy you by email and posting on our website too. If you disagree with the changes that have been made, please contact us.   
 If you have any questions or concerns about this Privacy Policy you may contact us by email using our 
 
-[Customer Support](https://web.archive.org/web/20160207012327id_/http%3A//www.allinoneprofits.com/support) .  
+[Customer Support](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/support) .  
 By mail:   
 Bd.Unirii 8B/16, 120197, Bz, RO  
 By Phone: +40373781700; +400748411722  
-This privacy policy was last updated on 2014-11-01
+This privacy policy was last updated on 2014-11-01  
+  
+|   
+---  
+|   
+---  
+  
+This website is not using cookies stored on your computer or browser. More info in Privacy Policy and FAQ.
+
+Copyright © 2012 - 2023 and beyond • All In One Profits
+
+® • All rights reserved worldwide  
+AIOPBT Group Ltd. IBC nr.157188 New Horizon Building, Goldson Highway, Phone: +17029972417   
+Technical Service: North Brabant, Netherlands
