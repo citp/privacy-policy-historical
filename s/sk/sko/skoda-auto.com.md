@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skoda-auto.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121082814id_/http%3A//www.skoda-auto.com/en/system/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoda-auto.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624184757id_/http%3A//www.skoda-auto.com/en/system/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - ŠKODA
 
