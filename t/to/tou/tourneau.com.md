@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128174215id_/http%3A//www.tourneau.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624040436id_/http%3A//www.tourneau.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Tourneau Privacy Policy
 
