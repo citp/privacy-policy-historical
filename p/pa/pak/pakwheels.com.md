@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakwheels.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930104812id_/http%3A//www.pakwheels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakwheels.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624201054id_/https%3A//www.pakwheels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PakWheels
 
@@ -13,7 +13,7 @@ We collect non-personally identifiable information about you in a number of ways
 
 ### II. USE OF INFORMATION
 
-In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary. Users may opt-out of receiving future mailings from us and other entities by following the instructions set forth in the opt-out section below. Non-personal demographic and profile data is used to tailor your experience at our site and our mobile application, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis.
+In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary. Users may opt-out of receiving future mailings from us and other entities by following the instructions set forth in the opt-out section below. Non-personal demographic and profile data is used to tailor your experience at our site and our mobile application, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis. 
 
 ### III. USE OF IP ADDRESSES
 
@@ -21,11 +21,11 @@ We use your IP Address to help diagnose problems with our server, and to adminis
 
 ### IV. USE OF COOKIES
 
-When you view our Web site we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection. We may use an outside advertisement server company to display ads on our site and/or mobile application. These ads may contain cookies. The advertisement server company may collect cookies received with outside banner ads. We do not have access to information that would confirm the use of cookies by the advertisement server company.
+When you view our Web site we might store some information on your computer. This information will be in the form of a 'cookie' or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection. We may use an outside advertisement server company to display ads on our site and/or mobile application. These ads may contain cookies. The advertisement server company may collect cookies received with outside banner ads. We do not have access to information that would confirm the use of cookies by the advertisement server company.
 
 ### V. SECURITY
 
-Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information.
+Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as 'perfect security' on the Internet, we will take all reasonable steps to insure the safety of your personal information.
 
 ### VI. OTHER WEB SITES; LINKS
 
@@ -37,8 +37,9 @@ PakWheels gives its users the option to change or modify information previously 
 
 ### VIII. CHOICE; OPT OUT
 
-You may opt-out of receiving communications from our partners, and from us, by the following means:  
-(1) Click “unsubscribe” link in the communication emails you have received from us. 
+You may opt-out of receiving communications from our partners, and from us, by the following means:   
+(1) Click 'unsubscribe' link in the communication emails you have received from us.  
+
 
 ### IX. PUBLIC FORUMS
 
