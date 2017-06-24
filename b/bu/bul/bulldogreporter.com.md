@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulldogreporter.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123162355id_/https%3A//www.bulldogreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulldogreporter.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624132033id_/https%3A//www.bulldogreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Bulldog Reporter’s Web Site Usage and Privacy Policy | Bulldog Reporter
 
