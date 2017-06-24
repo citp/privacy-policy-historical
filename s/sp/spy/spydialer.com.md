@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120182052id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125527id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spy Dialer
 
@@ -10,7 +10,7 @@ Effective Date: June 2, 2016.
 
 1.1. PURPOSE OF POLICY. SpyDialer.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.spydialer.com (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand our information collection, storage and use policies. 
 
-1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20161120182052id_/http%3A//www.spydialer.com/OptOut.aspx). 
+1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20170624125527id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 1.3. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. Should you be aware of any child under 13 using the Site, please contact us so that we may terminate their account. 
 
@@ -61,7 +61,7 @@ We also store email messages you send to us. This information may not be edited 
 
 B. Credit Card Information. We do not store credit card information you provide with orders. However, our credit card processing company authorize.net does. Their privacy policy can be seen at <http://www.authorize.net/company/privacy/>
 
-C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20161120182052id_/http%3A//www.spydialer.com/OptOut.aspx). 
+C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20170624125527id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 D. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you by posting a notice on the Site for 30 days. 
 
