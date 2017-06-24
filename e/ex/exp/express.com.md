@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044021id_/http%3A//www.express.com/customer-service/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624050608id_/http%3A//www.express.com/customer-service/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy and Your Rights
 
@@ -61,7 +61,7 @@ For example, if you sign up for our mailing or email list or enter a contest or 
 
 #### We collect information from you passively.
 
-We use tracking tools like browser cookies, pixel tags, web beacons and similar technologies. We also collect information from our mobile apps. Learn more about these tools and how you can control them, [here](http://www.express.com/aboutads). We may also use video surveillance in our stores.
+We use tracking tools like browser cookies, pixel tags, web beacons and similar technologies. We also collect information from our mobile apps. Learn more about these tools and how you can control them, [here](https://web.archive.org/customer-service/About-Ads). We may also use video surveillance in our stores.
 
 #### We get information about you from third parties.
 
