@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044719id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624131211id_/https%3A//dribbble.com/privacy) for the most accurate reproduction.*
 
 # Dribbble - Show and tell for designers
 
@@ -14,7 +14,7 @@ Your privacy is critically important to us. At Dribbble we have a few fundamenta
 
 Below is our privacy policy which incorporates these goals:
 
-Dribbble LLC ( **Dribbble** ) operates dribbble.com. It is Dribbble’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Dribbble Holdings Ltd ( **Dribbble** ) operates dribbble.com. It is Dribbble’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
