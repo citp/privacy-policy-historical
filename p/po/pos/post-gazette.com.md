@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619035503id_/http%3A//www.post-gazette.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-gazette.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624105940id_/http%3A//www.post-gazette.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Pittsburgh Post-Gazette
 
