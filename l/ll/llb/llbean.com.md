@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229062409id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624075004id_/https%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
@@ -41,7 +41,7 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources, including our credit card issuer, Barclays Bank Delaware, whose policies meet the Direct Marketing Association's privacy standards.
 
-Our website also uses third-party analytics vendors such as Google Analytics. Please click here for more information about how data is collected and processed in connection with the Google Analytics service: [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We and our third-party vendors or partners use analytics data for a variety of purposes such as to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
+Our website also uses third-party analytics vendors such as Google Analytics. Please click here for more information about how data is collected and processed in connection with the Google Analytics service: [static_web_content.google.com/policies/privacy/partners/](https://static_web_content.google.com/policies/privacy/partners/). We and our third-party vendors or partners use analytics data for a variety of purposes such as to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
 
 We also gather information about how visitors navigate through our website by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See Cookies and Pixel Tags for further information.
 
@@ -65,11 +65,11 @@ At L.L.Bean, we always want to provide you with the best possible shopping exper
  return to top
 
 **Information We Share with Others and Your Privacy Rights**  
-We contract with other companies to provide certain services, including shipping, name and address verification, email distribution, market research, third party advertising, promotions management and payment processing (to view PayPal's privacy policy, please visit <https://www.paypal.com/privacy>). We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.
+We contract with other companies to provide certain services, including shipping, name and address verification, email distribution, market research, third party advertising, promotions management and payment processing (to view PayPal's privacy policy, please visit <https://static_web_content.paypal.com/privacy>). We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.
 
 From time to time, we make our mailing list (names and addresses only) and general shopping activity available to reputable companies whose products or services we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses for this purpose. If you do not want to receive mailings from other reputable companies and prefer that we do not share any information with these companies, please [contact us](https://web.archive.org/customerService/contactUs/index.html).
 
-If you apply for the L.L.Bean Visa Card, you provide the financial and personal information needed to process your application directly to Barclays Bank Delaware, the issuer and the administrator of the credit card program. Barclays Bank Delaware is independent of L.L.Bean and has its own privacy and security policies. You can review their policies at [_www.barclaycardus.com_](http://www.barclaycardus.com/).
+If you apply for the L.L.Bean Visa Card, you provide the financial and personal information needed to process your application directly to Barclays Bank Delaware, the issuer and the administrator of the credit card program. Barclays Bank Delaware is independent of L.L.Bean and has its own privacy and security policies. You can review their policies at [_static_web_content.barclaycardus.com_](http://static_web_content.barclaycardus.com/).
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
@@ -126,7 +126,7 @@ We may also send promotional emails about products, special offers, services or 
  return to top
 
 **Direct to Business Preferences**  
-Please note that the [My Account](https://www.llbeanbusiness.com/llbean/login) section of our Direct to Business website, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
+Please note that the [My Account](https://static_web_content.llbeanbusiness.com/llbean/login) section of our Direct to Business website, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
 
 L.L.Bean, Dept. CFM  
 Freeport, ME 04033  
