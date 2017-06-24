@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unplggd.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623165822id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unplggd.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624061450id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Therapy
 
@@ -6,7 +6,7 @@
 
 **PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective April 16, 2014. If you submitted personally identifiable information to us prior to April 16, 2014, and desire to opt-out of having that previously submitted personally identifiable information treated under the new policy, please contact us at** **legal@apartmenttherapy.com** **.**
 
-Welcome to apartmenttherapy.com (our " ** _Website_** "), an interactive online service operated by Apartment Therapy, LLC (" ** _us_** ", " ** _we_** " or " ** _our_** "). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov).](http://www.privacyprotection.ca.gov/)
+Welcome to apartmenttherapy.com (our " ** _Website_** "), an interactive online service operated by Apartment Therapy, LLC (" ** _us_** ", " ** _we_** " or " ** _our_** "). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [//www.privacyprotection.ca.gov).](http://www.privacyprotection.ca.gov/)
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website (however accessed and/or used, whether via personal computers, mobile devices or otherwise). We have adopted this Privacy Policy (this " ** _Privacy Policy_** ") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. 
 
