@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodhungama.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035459id_/http%3A//www.bollywoodhungama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodhungama.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052356id_/http%3A//www.bollywoodhungama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bollywood Hungama
 
@@ -55,3 +55,7 @@ This site collects and uses personally identifiable information without prior ve
 #### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+
+You hereby confirm that you shall abide to these Terms & Conditions and shall also abide to all the applicable laws of the land.
+
+Content on this website may occasionally contain strong language (which may be unsuitable for children), unusual humor (which may be unsuitable for adults), nudity, violence, and imitable behavior etc. Viewers are requested to exercise discretion when listening to and / or viewing such content.
