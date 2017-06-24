@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sponsoredtweets.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045823id_/https%3A//www.sponsoredtweets.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsoredtweets.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043607id_/https%3A//sponsoredtweets.com/privacy_policy) for the most accurate reproduction.*
 
-# SponsoredTweets : Native Ad Exchange
+# SponsoredTweets : The Creator Marketplace
 
-Updated **January 26, 2016**
+Updated **February 9, 2017**
 
 ContentMarketing.com, IZEA.com, and corp.izea.com (the “Sites”) are owned and operated by IZEA, Inc. Access to the Sites and any features is made available under IZEA's Terms & Conditions and Privacy Policy.
 
@@ -12,7 +12,7 @@ The following details our Privacy Policy (the “Policy") for the Sites and desc
 
 ## Use of Information Collected by Us
 
-IZEA may collect two types of information from users of our Sites: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Sites, search terms entered, Site pages most frequently accessed, browser type, etc.) We use this information in an effort to improve your experience on the Sites and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve our Sites, and to tailor our Sites to your interests.
+IZEA may collect two types of information from users of our Sites: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Sites, search terms entered, Site pages most frequently accessed, browser type, etc.) We use this information in an effort to improve your experience on the Sites and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to contact you for troubleshooting purposes, to help us develop and improve our Sites, and to tailor our Sites to your interests.
 
 ## Collecting and Using Your Personal Information
 
