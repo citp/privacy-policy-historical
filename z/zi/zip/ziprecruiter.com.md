@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050901id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092516id_/https%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
 
-Effective Date: September 28, 2016
+Effective Date: January 11, 2017
 
 Your privacy is important to us and maintaining your trust is our priority. To ensure that your privacy choices are respected, ZipRecruiter, Inc. (" **ZipRecruiter** ," " **we** ," or " **us** ") has set out in this Privacy Policy, an explanation of our online information practices as well as the decisions you may make regarding how your information is collected and used when viewing the [www.ziprecruiter.co.uk](https://www.ziprecruiter.co.uk/) website, the [www.ziprecruiter.com](https://www.ziprecruiter.com/) website, the [www.zipalerts.com](https://www.zipalerts.com/) website, and other ZipRecruiter-owned websites and our Mobile Applications (collectively, the " **Site** ").
 
@@ -21,6 +21,8 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 ##### U.S. - Swiss Safe Harbor Framework
 
 ZipRecruiter complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. ZipRecruiter has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZipRecruiter's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+
+With respect to complaints concerning human resources data that is transferred from the EU to the United States, ZipRecruiter participates in the dispute resolution procedures of the EU Data Protection Authorities. ZipRecruiter will cooperate with the appropriate EU Data Protection Authorities during investigation and resolution of complaints concerning human resources data that is transferred from the EU to the United States brought under Privacy Shield.
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Use](https://web.archive.org/terms) or in any other contractual document between you and us.
 
