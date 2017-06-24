@@ -1,59 +1,69 @@
-> *The following text is extracted and transformed from the browardschools.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123221425id_/http%3A//browardschools.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardschools.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624173728id_/http%3A//www.browardschools.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Broward County Public Schools - Privacy Policy
 
-Broward County Public Schools,(BCPS), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Broward County Public Schools of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+The School Board of Broward County, Florida recognizes and appreciates the importance of responsible use of information collected on this website. Information may be saved for a designated period of time in order to comply with the State of Florida's archiving policies. It is the policy of the State of Florida that all state records are open for public inspection. This policy is embodied in the Florida Constitution, together with the right of an individual to be free from unauthorized governmental intrusion into their private life, as provided in Article I, Section 23. In recognition of these policies, The School Board of Broward County, Florida has established this Internet Privacy Policy. When you use The School Board of Broward County, Florida's website, you are acknowledging that the personal information you provide is subject to Florida's Public Records Policy as stated in Chapter 119, Florida Statutes, and Article I, Section 24 of the Florida Constitution.
 
-THEREFORE, this Privacy Policy Agreement shall apply to Broward County Public Schools. Broward County Public Schools may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.
+##  **Consent to this Privacy Policy**
 
-Broward County Public Schools does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
+By using our website, you signify that you agree with the terms of our privacy policy as posted in this area of the site. If you do not agree with the privacy policy, do not provide any information personal or otherwise. If you choose not to provide personal information on this site, you may not be able to do certain things, like access particular parts of the site or send us e-mail.
 
-Broward County Public Schools may feel it necessary, from time to time, to make contact with you on behalf of other external business partners with regards to a potential new offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party.
+##  **Collection of Personal Information**
 
-Broward County Public Schools may find it beneficial to share specific data with our trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made.
+As used in the privacy policy, “Personal Information” means personally identifiable information such as the name, street address, credit card number, screen name and e-mail address of yourself or customers. The site you entered may collect some of all of these types of personal information. Be assured The School Board of Broward County, Florida will not collect any personal information from your visits unless you provide the information voluntarily.
 
-Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required, in accordance with this agreement, to maintain the strictest of confidentiality with regards to all your information.
+When you provide us with personal information, you are authorizing us to use that information in accordance with the terms of this privacy policy, which includes your right to limit our use of the personal information as described in this policy.
 
-Broward County Public Schools may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
+##  **How We Use Your Information**
 
-Broward County Public Schools may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
+When you supply Personal Information at this website, the product whose site you entered will use for the express purpose for which it was collected (e.g., to provide you with a specific service or to send you a message). It may also be used by the products whose site you entered, as well as by our other vendors, to contact you regarding other products and services that may be of interest to you. At any time, you may opt out of such future contact. (See “Who to contact below.)
 
-  * Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Broward County Public Schools and/or our website;
-  * Maintain, safeguard and/or preserve all the rights and/or property of Broward County Public Schools; and
-  * Perform under demanding conditions in an effort to safeguard the personal safety of users of http://browardschools.com and/or the general public.
+At times we may retain third parties to analyze data we collect on our web sites, including Personal Information, solely to help us improve our products and our web sites. Third parties vendors are only authorized by us to use your Personal Information as outlined in their agreement and not in any other way.
 
+Finally, please note that we will release your Personal Information if required by law, or by search warrant, subpoena or court order.
 
+##  **Use of Email Addresses**
 
-### Children Under Age of 13
+Pursuant to Chapter 668, Florida Statutes, Public records status of e-mail addresses; agency website notice.—Any agency, as defined in s. 119.011, or legislative entity that operates a website and uses electronic mail shall post the following statement in a conspicuous location on its website: Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
 
-Broward County Public Schools does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website. 
+Users do not have to provide personal information to visit The School Board of Broward County, Florida’s website, download publications, and use e-mail communications. Personal information will not be collected unless the user chooses to provide this information to The School Board of Broward County, Florida.
 
-### Unsubscribe or Opt-Out
+Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity online. Instead, you will need to use a non-web option for transacting that business with The School Board of Broward County, Florida.
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to webmaster@browardschool.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+Any information provided by you to The School Board of Broward County, Florida, including, but not limited to, feedback, questions, comments, and suggestions are non-confidential; moreover, such information is a public record subject to public inspection pursuant to law. The School Board of Broward County, Florida has no obligation of any kind with respect to such information and is free to reproduce, use, and disclose the information to others without limitation. Additionally, The School Board of Broward County, Florida is free to use any ideas, concepts, etc. contained in such information for any purpose whatsoever. 
 
-### Links to Other Web Sites
+##   
+**Children**
 
-Our website does contain links to affiliate and other websites. Broward County Public Schools does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Children's privacy is of primary concern to The School Board of Broward County, Florida, and this policy along with adopted School Board policies and practices reflect applicable laws and regulations on children's privacy. Save for student and educational records, The School Board of Broward County, Florida does not knowingly collect personal information from children under 13 years of age. 
 
-### Security
+##   
+**Use of "Cookies"**
 
-Broward County Public Schools shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
+When you visit The School Board of Broward County, Florida’s website, you can surf the site anonymously and access information without revealing your identity. In order to improve our site, we may use "cookies" to assist your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. The data allows your browser to communicate with our web servers. However, it cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. However, if you do not accept cookies, you will not be able to use some of our functions that require their use.
 
-The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users’ trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information. 
+For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages. While certain Web pages use cookies to assist your visit to The School Board of Broward County, Florida’s website, and while our web servers automatically log the IP address of your computer, this information does not identify you personally, and you remain anonymous unless you have otherwise provided personal information to a specific web page.
 
-### Changes to Privacy Policy Agreement
+##  **Links to Other Sites**
 
-Broward County Public Schools reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at http://browardschools.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Broward County Public Schools decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
+Information, data or material accessible via The School Board of Broward County, Florida's World Wide Web pages may contain hyperlinks to information, data or material held on networked information services beyond The School Board of Broward County, Florida's web pages. The School Board of Broward County, Florida makes no warranty, or guarantee of promise, express or implied, that the data, or material accessible via the hyperlinks contained on The School Board of Broward County, Florida's web pages is accurate, complete, up to date, or fit for any use whatsoever, nor represents or implies that its use will not infringe privately held rights. As such, The School Board of Broward County, Florida is not responsible for the content of any off-site material referenced from hypertext documents via The School Board of Broward County, Florida’s web pages. Use of information from those websites is voluntary. References at those websites to any specific commercial product, process, or service by trade name, trademark, or otherwise, does not constitute or imply endorsement, recommendation, affiliation, or favoring by the Official Site of The School Board of Broward County, Florida. When you link to another site you are subject to the privacy policy of the new site.
 
-### Acceptance of Terms
+NOTICE: FOR IMPORTANT INFORMATION ABOUT SAFE SURFING FROM THE FEDERAL TRADE COMMISSION REFER TO: http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html.
 
-Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+As required by Section 668.6076, Florida Statutes, you are hereby notified that:
 
-### How to Contact Us
+Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.  
+**Jurisdictional Issues**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of Florida as it is applied to contracts entered into by residents of the State of Florida including the public records law, found in Chapter 119, Florida Statutes. You also consent to the exclusive jurisdiction of the state courts in Broward County, Florida, and you further consent to the exercise of personal jurisdiction of the courts therein.
 
-Email: webmaster@browardschools.com Telephone Number: 754-321-0000
+If any provision(s) of this Privacy Policy are found to be contrary to law, then such provision(s) shall be construed, as nearly as possible, to reflect the intentions of the parties with the other provisions remaining in full force and effect.
 
-Mailing Address: Broward County Public Schools Public Information Office 600 SE 3rd Ave Fort Lauderdale, FL 33301
+The School Board of Broward County, Florida's failure to exercise or enforce any right or provision of the policy shall not constitute a waiver of such right or provision unless acknowledged and agreed to by The School Board of Broward County, Florida in writing.
+
+The section titles in this Privacy Policy are solely used for the convenience of the parties and have no legal or contractual significance. This Privacy Policy constitutes the entire agreement between you and The School Board of Broward County, Florida with respect to the subject matter herein and supersede any and all prior or contemporaneous oral or written agreements. You may not assign this agreement to any other party. 
+
+##   
+**Who to Contact**
+
+Please contact us at todd.sussman@browardschools.com or if you have any questions about this policy or to report any violations of the privacy policy. We will respond in a timely manner. 
