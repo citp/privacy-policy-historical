@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052102id_/https%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080424id_/https%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Avvo
 
 **AVVO.COM**
 
-Last Revised: January 28, 2016
+Last Revised: April 19, 2017
 
 Thanks for using Avvo. This privacy policy ( _"Policy"_ ) applies to your use of Avvo's website, products, apps, and services (together, the _"Services"_ ). The Policy is intended to inform you about how we collect and use information so you can make an informed decision about using the Services. Please read it carefully before using the Services or submitting any information to us. If you do not agree to any part of this Policy, then you should stop accessing the Services.
 
@@ -32,7 +32,7 @@ Personal Information that you post to public areas of the Services or via your P
 
  **1\. Non-personal information**
 
-We use information other than Personal Information, including aggregated or anonymized information, for ad targeting, to analyze trends, administer the Services, improve customer service, diagnose problems with our servers, track user movement, and gather demographic information for aggregate use. Third party ad platforms may use this information for a similar purpose, but you should follow up with third parties and confirm their information collection and usage practices directly.  _We may freely publish, disclose and use information other than Personal Information, including aggregated or anonymized Personal Information, to or with third parties._
+We use information other than Personal Information, including aggregated or anonymized information, for remarketing with Google Analytics, for ad targeting, to analyze trends, administer the Services, improve customer service, diagnose problems with our servers, track user movement, and gather demographic information for aggregate use. Third party ad platforms may use this information for a similar purpose, but you should follow up with third parties and confirm their information collection and usage practices directly.  _We may freely publish, disclose and use information other than Personal Information, including aggregated or anonymized Personal Information, to or with third parties._
 
  **2\. Personal information**
 
@@ -52,9 +52,14 @@ We do not ordinarily send text messages for marketing purposes, but to the exten
 
 We respect all browser instructions for setting or rejecting cookies on generally available browsers. This is one way to manage your preferences regarding the collection of information by Avvo. Additionally, and because data acquired across the internet is often associated with information about you acquired in other places online, you can manage online advertising preferences via these links:
 
-[Google Ad Preferences Manager](http://www.google.com/ads/preferences/ "Link: http://www.google.com/ads/preferences/")  
-[Facebook Ad Preferences Manager](http://www.facebook.com/help/247395082112892)  
-[Network Advertising Initiative](http://www.networkadvertising.org/choices/ "Link: http://www.networkadvertising.org/choices/")  
+[Google Ad Preferences Manager](http://www.google.com/ads/preferences/ "Link: http://www.google.com/ads/preferences/")
+
+[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/ "Link: https://tools.google.com/dlpage/gaoptout/")
+
+[Facebook Ad Preferences Manager](https://www.facebook.com/help/247395082112892 "Link: https://www.facebook.com/help/247395082112892")
+
+[Network Advertising Initiative](http://www.networkadvertising.org/choices/ "Link: http://www.networkadvertising.org/choices/")
+
 [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Link: http://www.aboutads.info/choices/")
 
 While Avvo will follow any such preferences, we make no representations regarding whether third parties, including third party ad platforms, will do so.
@@ -73,7 +78,7 @@ We may disclose Personal Information when we are required to or we believe it is
 You can correct certain information by logging into your account and changing the information, and you may also delete certain information by closing your account. In addition, lawyers may change certain information contained in their Profile by claiming their Profile and editing the information contained therein, or by sending us an email.  
 
 
-Please note that in certain circumstances, we may not, or may not be able to, remove or change certain information, even in the event an account is closed. For example, we may retain and continue to display any information you provided in connection with a question, answer, endorsement or client review. In addition, lawyers cannot remove their Profiles, ratings, endorsements or reviews by closing their accounts.
+Please note that in certain circumstances, we may not, or may not be able to, remove or change certain information, even in the event an account is closed. For example, we may retain and continue to display any information you provided in connection with a question, answer, endorsement or client review. In addition, lawyers cannot "unclaim" profiles, and cannot remove their Profiles, ratings, endorsements or reviews by closing their accounts.
 
  **Security measures**
 
@@ -100,7 +105,7 @@ Our Services are not intended for use by children under the age of 13, and such 
 
 We may change the provisions of this Policy at any time, and we will always post the most up-to-date version on our website. If we determine, in our sole discretion, that a modification to this Policy materially affects your rights, we will notify you (by, for example, sending a message to your account email or posting on the Avvo Blog).
 
-If you have any questions or comments about this Policy or the practices relating to our Services, or you wish to verify, correct or delete any Personal Information we have collected, please contact us via our [Support page](http://www.avvo.com/support/contact_us)[ ](http://www.avvo.com/support/contact_us)or at:
+If you have any questions or comments about this Policy or the practices relating to our Services, or you wish to verify, correct or delete any Personal Information we have collected, please contact us via our [Support page](http://www.avvo.com/support/contact_us "Link: http://www.avvo.com/support/contact_us")[ ](http://www.avvo.com/support/contact_us "Link: http://www.avvo.com/support/contact_us")or at:
 
 Avvo, Inc.  
 720 Olive Way, Suite 1400  
