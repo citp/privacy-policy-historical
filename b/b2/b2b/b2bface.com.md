@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219132245id_/http%3A//www.b2bface.com/about/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624200219id_/http%3A//www.b2bface.com/about/security) for the most accurate reproduction.*
 
 # B2Bface.com - Global B2B Marketplace. Manufacturers, Buyers, Product Catalogue
 
@@ -28,4 +28,4 @@ c. Attention
 We may change the information of it from time to time.If there is anything wrong or what you think have brought you some harm, Please contact us as soon as possible. 
 
 d. Feedback  
-Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20161219132245id_/http%3A//www.b2bface.com/about/contact.html). 
+Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20170624200219id_/http%3A//www.b2bface.com/about/contact.html). 
