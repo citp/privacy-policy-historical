@@ -1,33 +1,62 @@
-> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011731id_/http%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624213205id_/https%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
 
-# Photoblog - Privacy
+# PhotoBlog - Privacy
 
-Last Updated November 4, 2006
+## Privacy Policy
 
-This privacy statement covers the website www.photoblog.com. Because of our commitment to our users' privacy, we have disclosed our information and privacy practices below. 
+As with many websites, we collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the user. The information we collect is used to improve the content of our web pages and the quality of our service and is never shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or if it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
-Photoblog.com is an online service that connects friends across a wide range of weblog services and software. Photoblog.com users can view other members' personal profiles, send messages to one other, visit their friends' weblogs, meet new friends, post messages in the forums, and stay connected with friends. We request and display various personal information for the purpose of identification and allowing users to build a network of friends. Photoblog.com members can edit their information and privacy settings at any time to change how other users interact with them. 
+  
 
-Photoblog.com collects user submitted information such as name, email address, and age to authenticate members and to send notifications regarding our service. We also collect other information including but not limited to: gender, ethnicity, interests, and location in order to help users connect with their friends and with other users.
 
-Photoblog.com also collects non-personally identifiable information that is not directly submitted by users and visitors of the website. This includes but is not limited to: IP address, aggregate user data, browser type, and profile information. This data is used to improve the quality of our service, track usage, and manage the website. Non-personally identifiable information may be shared with third parties to provide services and advertisements that are more relevant to users. IP Addresses are used for management, security, and monitoring purposes.
+#### Information Gathering and Usage
 
-Personal profile information including but not limited to: name, email, and photograph, are displayed to people specified in a user's privacy settings for the purposes and function of this service. Names and email addresses will never be given to anyone outside the website without prior consent. 
+  1. When you register on PhotoBlog.com we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card. 
+  2. PhotoBlog uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
 
-This website contains links to other websites. Photoblog.com is not responsible for the privacy practices of other websites. Please be aware when leaving this website, and read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by Photoblog.com 
+  
 
-Photoblog.com uses cookies to store visitors' preferences and to record session information, for the purposes of the website including but not limited to: user profile information, website content, advertising, and customized preferences. A cookie is a piece of data stored on the user's computer tied to information about the user. We do not and will not use cookies to collect private information from any user. 
 
-The advertisements appearing on this website may be delivered to users by Photoblog.com or one of our web advertising partners. Our advertising partners may set cookies. Doing this allows the advertisers to recognize your computer every time they send you an online advertisement. In this way, they may compile information about where you, or others using your computer, saw their advertisements and determine which advertisements are clicked on. This information allows advertising networks to deliver targeted advertisements that they believe will be of most interest to you. Photoblog.com does not have access to or control over the cookies that may be used by third party advertising partners. This privacy statement covers the use of cookies by Photoblog.com and does not cover the use of cookies by any advertisers. 
+#### Cookies
 
-Photoblog.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as site preferences, member profile, and privacy settings. Information will be updated immediately and old information will never be displayed to any user of the service. 
+  1. A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+  2. Cookies are required to use the PhotoBlog.com service. 
+  3. We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your PhotoBlog.com account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
 
-Photoblog.com member accounts are password-protected. We take necessary precautions to protect our users' information to make sure account information is kept private. We cannot guarantee the security of member account information. Unauthorized entry or use, hardware and software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures used on Photoblog.com, please contact us at [privacy@photoblog.com](mailto:privacy@photoblog.com). 
+  
 
-Photoblog.com is intended for use by people who are at least 16 years old. We will not knowingly collect personally identifiable information from people under the age of 16. Our registration process is designed to make it clear that visitors must be at least 16 years old to create an account and participate in the functions of this website. 
 
-Except in the manners described above, Photoblog.com will not disclose personally identifiable information to any third party without a user's explicit permission unless required by law. In the event of an acquisition of Photoblog.com, we reserve the right to transfer personally identifiable information to the party of interest that acquires rights to that information as a result of the sale of this business or its assets. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. 
+#### Data Storage
 
-We reserve the right to make changes to our privacy policy at any time. If we make changes, we will post them on the website to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. If we are going to use the users' personally identifiable information in a manner differently than when stated at the time of collection, we will notify them by email. 
+PhotoBlog uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run PhotoBlog.com . Although PhotoBlog owns the code, databases, and all rights to the PhotoBlog.com website, you retain all rights to your data.
 
-If you have questions or comments concerning this privacy policy, the practices of this website, or your dealings with this website, please contact us by emailing [privacy@photoblog.com](mailto:privacy@photoblog.com). 
+  
+
+
+#### Disclosure
+
+PhotoBlog may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+  
+
+
+#### Data Location
+
+If you choose to provide PhotoBlog.com with your information, you consent to the transfer and storage of that information on our servers located in the United Kingdom.
+
+  
+
+
+#### Changes
+
+We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your PhotoBlog.com primary account holder information or by placing a prominent notice on our site.
+
+  
+
+
+#### Questions
+
+Any questions about this Privacy Policy should be addressed to info@PhotoBlog.com.
+
+  
+
