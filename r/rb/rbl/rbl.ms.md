@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rbl.ms privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906062504id_/http%3A//blog.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbl.ms privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624042256id_/https%3A//www.rebelmouse.com/st/Privacy_Policy) for the most accurate reproduction.*
 
-# RebelMouse Privacy Policy
+# RebelMouse
 
 We take your privacy seriously. We are providing this privacy policy (the “Policy”) to inform you of the types of information we may collect from you or that you may provide when you use the services we provide on our website ([www.RebelMouse.com](https://www.rebelmouse.com/), the “Site”) or mobile applications (collectively, the “Service”), as well our practices for collecting, using, maintaining, protecting and disclosing such information. 
 
