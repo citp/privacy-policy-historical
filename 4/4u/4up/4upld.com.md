@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4upld.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010235124id_/http%3A//4upld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4upld.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624194822id_/http%3A//4upld.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 4upld - File Sharing Made Simple
 
