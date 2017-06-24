@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229031041id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624043316id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -13,7 +13,7 @@
 
 <link rel="apple-touch-icon" href="http://media.boingboing.net/wp-content/themes/bng/i/apple-touch-icon.png">     
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//news.fark.com/data/js/86251.js" charset="utf-8"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 <script>
   WebFont.load({
     google: {
@@ -31,102 +31,315 @@
 		
 <!-- AD CODE -->
 
-
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
 
+  var pageType = 'Blog'; // 'Feature' or 'Homepage' or 'Blog'
 
-<script>
+  // Barkeep
+	(function() {
+		var url = '//burnside.dtcn.com/barkeep/barkeep.min.js';
+		var args = {
+			//main container of all bars
+			//if no container is found, one is made with the given selector
+			//all pints are collected and maintained within this one container
+			container_sel:   'h-bartender',
+			//target bars by this class
+			pint_bar_class:  'h-pint',
+			//first wrapper element class name, used for positioning
+			pint_pos_class:  'm-pint-pos',
+			//second wrapper element class name (this will be the outermost container of each bar)
+			pint_wrap_class: 'm-pint-wrap',
+			//class that's appeneded to the pint when in a fixed position
+			fixed_class:     'is-fixed',
+			//class to append when pint is no longer active
+			inactive_class:  'is-dead',
+			//default bar type (static | fixed)
+			bar_type:        'static' ,
+			//class to attach close event listener to
+			do_remove_sel:   'h-do-remove-pint',
+			//enable drop shadows on pints
+			drop_shadows:    false,
+			//fires on initialization of obj
+			//passed param is reference to the object itself
+			init: self => {},
+			//fires when pint moves from fixed to static positioning
+			//passed param is the bar element
+			on_bar_down: _bar => {}
+		};
 
-	var pageType = 'Blog'; // 'Feature' or 'Homepage' or 'Blog'
+		var _script = document.createElement('script');
+		_script.onload = function() {
+			window.Barkeep = new _Barkeep(args);
+			console.log('Barkeep Loaded');
 
-window.googletag = window.googletag || {};
-googletag.cmd = googletag.cmd || [];
+			var url = '//burnside.dtcn.com/burnside.min.js';
+			var _head = document.head || document.getElementsByTagName('head')[0];
+			var demo_key = 'dtdemo';
+			regex = new RegExp('[\\?&]' + demo_key + '=([a-zA-Z0-9_-]{1,50})');
+			results = regex.exec(window.location.search);
+			var demo = (results) ? decodeURIComponent(results[1]) : '';
 
-googletag.cmd.push(function() {
+			// Burnside
+			var _args = {
+				debug:     false,     // show logs in console
+				demo_key:  demo_key,  // demo targeting key
+				demo_val:  demo,      // demo targeting val, if adblocked, demo_val='adblock'
+				prefix:    'dtads',   // prefix for slots
+				krux_id:   'q7qawfhbx',
 
-    var mapLeaderboard = googletag.sizeMapping()
-        .addSize([970, 0], [[728, 90], [970, 90], [970, 250]])
-        .addSize([600, 0], [728, 90])
-        .addSize([0, 0], [[300, 50], [320, 50], [320, 100]])
-        .build();
-    var mapLeaderboardSquare = googletag.sizeMapping()
-        .addSize([970, 0], [[728, 90], [970, 90], [970, 250]])
-        .addSize([600, 0], [728, 90])
-        .addSize([0, 0], [300, 250])
-        .build();
-    var mapDesktopSidebar = googletag.sizeMapping()
-        .addSize([600, 0], [[300, 250], [300, 600]])
-        .addSize([0, 0], [])
-        .build();
-    var mapDesktopSquare1 = googletag.sizeMapping()
-        .addSize([600, 0], [[125, 125], [125, 275], [300, 250]])
-        .addSize([0, 0], [])
-        .build();
-    var mapDesktopSquare2 = googletag.sizeMapping()
-        .addSize([600, 0], [[125, 125], [125, 275], [300, 250]])
-        .addSize([0, 0], [])
-        .build();
-    var mapDesktopSquare3 = googletag.sizeMapping()
-        .addSize([600, 0], [[300, 300], [300, 445]])
-        .addSize([0, 0], [])
-        .build();
-    var mapMobileSidebar = googletag.sizeMapping()
-        .addSize([600, 0], [])
-        .addSize([0, 0], [[320, 50], [300, 250]])
-        .build();
+				experiences:  {
+					'desktop': 968,
+					'tablet':  600,
+					'mobile':  0,
+					onExperienceDefined: function( experience ) {}
+				},
+				adblock: {
+					blocked_class: 'plundered',
+					bait_class:    'ad_container afs_ads afs_ads_dt',
+					bait_style:    'width:300px; height:250px; position:absolute; left:11111px; top:111px; pointer-events:none;',
+					bait_select:   'afs_ads_dt',
+					init:          function( experience ) {},
+					onCaughtBait:  function( is_blocked, self ) {}
+				},
+				injector: {
+					content_target:  '#container',
+					inject_target:   '.dtads-inject-hook',
+					slot_type:       'mpu',
+					skip_targets:    ['alignleft', 'alignright'],
+					// opportunity to hand filter potential elements to parse through, must return back array of elements
+					// filterPotentials: function( _potentials, experience ) { return _potentials; },
+					options: {
+						desktop: {
+							start_index:         1,
+							look_back:           2,
+							look_ahead:          3,
+							skip_ahead:          10,
+							max_ads:             4,
+							min_good_length:     400,
+							min_content_length:  1100
+						},
+						tablet: {
+							start_index:         2,
+							look_back:           2,
+							look_ahead:          3,
+							skip_ahead:          7,
+							max_ads:             4,
+							min_good_length:     400,
+							min_content_length:  900
+						},
+						mobile: {
+							start_index:         1,
+							look_back:           1,
+							look_ahead:          2,
+							skip_ahead:          4,
+							max_ads:             8,
+							min_good_length:     140,
+							min_content_length:  500
+						}
+					}
+				},
+				ads: {
+					unit_name:        '/5611/boinboing',
+					demo_unit_name:   '/5611/boinboing',
+					lazy:             false,
+					lazy_mod:         140,
+					refresh_in_view:  true,
+					slot_args: {
+						"out_of_page": {
+							"class": "dtads-out-of-page",
+							"keyvals": {
+								"type": "roadblock"
+							}
+						},
+						"leaderboard": { // mapLeaderboard
+							"class": "dtads-slot-leaderboard",
+							"sizes": [
+								[728, 90],
+								[970, 90],
+								[970, 250],
+								[300, 50],
+								[320, 50],
+								[320, 100]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf",
+							}
+						},
+						"leaderboard_square": { // mapLeaderboardSquare
+							"class": "dtads-slot-leaderboardsquare",
+							"sizes": [
+								[728, 90],
+								[970, 90],
+								[970, 250],
+								[300, 250]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf",
+							}
+						},
+						"leaderboard_tablet": {
+							"class": "dtads-slot-leaderboard-tablet",
+							"sizes": [
+								[728, 90],
+								[728, 230]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						},
+						"mpu": { // mapDesktopSidebar
+							"class": "dtads-slot-mpu",
+							"sizes": [
+								[300, 250],
+								[300, 600]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						},
+						"feature_footer": { // mapDesktopSquare3
+							"class": "dtads-slot-feature-footer",
+							"sizes": [
+								[300, 300],
+								[300, 445]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						},
+						"blog_footer": { // mapDesktopSquare1
+							"class": "dtads-slot-blog-footer",
+							"sizes": [
+								[125, 125],
+								[125, 275],
+								[300, 250]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						},
+						"mobile_sidebar": {  // mapMobileSidebar
+							"class": "dtads-slot-mobile-sidebar",
+							"sizes": [
+								[320, 50],
+								[300, 250]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						},
+						"bigtop": {
+							"class": "dtads-slot-bigtop",
+							"sizes": [
+								[1400, 600]
+							],
+							"keyvals": {
+								"type": "roadblock",
+								"loc": "atf"
+							}
+						}
+					},
+					keyvals: {
+						"aid":   1234567,
+						"tags":  [],
+						"cat":   [],
+					},
+					// onAdsReady: () => {},
+					//last chance to manipulate configuration of gpt
+					handleGPT: () => {
+						//window.googletag.pubads().setTargeting(...);
+						        googletag.pubads().setTargeting('is_home', 'no');
+        googletag.pubads().setTargeting('is_testing', 'no');
 
-    if(pageType == 'Homepage')
-    {
-        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Homepage_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Homepage_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[320, 50]], 'Homepage_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Homepage_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());    
-    }
-    else if(pageType == 'Blog')
-    {
-        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Blog_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Blog_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Blog_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Blog_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Blog_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Blog_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-    }
-    else
-    {
-        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Feature_300x250_300x600').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Feature_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[970, 90], [970, 250], [300, 250], [728, 90]], 'Feature_300x250_728x90_970x90_970x250').defineSizeMapping(mapLeaderboardSquare).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Feature_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Feature_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Feature_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
-    }
+						googletag.pubads().setCentering(true);
+						// googletag.pubads().collapseEmptyDivs();
+						// googletag.pubads().enableSingleRequest();
+						// googletag.enableServices();
+					},
+					bigtop: {
+						enabled: false,
+						//must pass reference to Barkeep
+						barkeep: window.Barkeep,
+						//only allow bigtops on these experiences
+						allowed_experiences: [
+							'desktop',
+							'tablet',
+							'mobile'
+						],
+						//max width before scaling happens
+						max_width: 1920,
+						//max height of bigtop
+						max_height: 500,
+						//min width of bigtop, will default to width of body
+						min_width: null
+					},
+          supports: {
+						"desktop": ["bt","bt2"],
+						"tablet":[],
+						"mobile":[]
+					}
+				},
+				pre: {
+					enable: true,
+					enable_refresh: true,
+					timeout: 600,
+					refresh_timeout: 500,
+					onBidTimeout: function(module, data) {
+							if (data === 'timeout') {}
+					},
+					prebid: {
+						enable: true,
+						enable_refresh: true,
+						config: 'boingboing'
+					}
+				}
+			};
 
-		googletag.defineSlot('/5611/boinboing', [[300, 300], [300, 445]], '300x300_ad_squares').defineSizeMapping(mapDesktopSquare3).addService(googletag.pubads());
+			var _script = document.createElement('script');
+			_script.onload = function() {
+				console.log('Burnside Loaded');
+				Burnside = new _Burnside(_args);
+			};
+
+			_script.src = url;
+			_head.appendChild(_script);
+		};
+
+		_script.src = url;
+		document.head.appendChild(_script);
+		//End of DT Burnside
+	})();
+	</script><script src="//burnside.dtcn.com/barkeep/barkeep.min.js"></script>
+
+		<!-- UnrulyX tag -->
+	<script>var unruly=window.unruly || {};unruly.native=unruly.native || {};unruly.native.siteId=1021419;</script>
+	<script src="//video.unrulymedia.com/native/native-loader.js"></script>
 	
-		
- 
- 	googletag.pubads().setTargeting('is_home', 'no');
-	googletag.pubads().setTargeting('is_testing', 'no'); // staging server? 
-    googletag.pubads().setCentering(true);
-    googletag.pubads().collapseEmptyDivs();
-   
-	googletag.pubads().enableSingleRequest(); //  Added per DT framework
-	
-    googletag.enableServices();
-});
-</script>
+	<!-- BEGIN Krux ControlTag for "Boing Boing" -->
+	<!-- script class="kxct" data-id="q7qawfhbx" data-timing="async" data-version="3.0" type="text/javascript">window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);(function(){var k=document.createElement('script');k.type='text/javascript';k.async=true;k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/q7qawfhbx.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);}());</script -->
+	<!-- END Krux ControlTag -->
 
-<!-- UnrulyX tag -->
-<script>var unruly=window.unruly || {};unruly.native=unruly.native || {};unruly.native.siteId=1021419;</script>
-<script src="//video.unrulymedia.com/native/native-loader.js"></script>
+	<!-- DistroScale begin -->
+	<script async="" type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22428"></script>
+	<script src="http://boingboing.net/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script></head><body class="page-template-default page page-id-238808"><div id="ds_default_anchor"></div>
+	<!-- DistroScale end -->
 
-<!-- END OF AD CODE -->
+	<!-- Imonomy -->
+	<!-- script type='text/javascript' src='//tag.imonomy.com/script/14567721682/preload.js' async></script -->
+
+	<!-- Positive Mobile -->
+	<!-- to enable, also need wpse_ad_content filter -->
+	<!-- script src='https://cdn.parsiski.com/fplay/campaigns/tags/BoingBoing_MW_ST_Direct_Vertical.js'></script -->
+
+	<!-- END OF AD CODE -->
 
 
 <link rel="dns-prefetch" href="//s.w.org">
@@ -134,9 +347,9 @@ googletag.cmd.push(function() {
 <link rel="alternate" type="application/rss+xml" title="Boing Boing » Comments Feed" href="http://boingboing.net/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Boing Boing » Boing Boing Privacy Policy Comments Feed" href="http://boingboing.net/privacy/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://boingboing.net/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -151,11 +364,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="jetpack_css-css" href="http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=5.0" type="text/css" media="all">
 <link rel="https://api.w.org/" href="http://boingboing.net/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://boingboing.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://media.boingboing.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7">
+<meta name="generator" content="WordPress 4.8">
 <link rel="canonical" href="http://boingboing.net/privacy">
 <link rel="shortlink" href="http://boingboing.net/?p=238808">
 <link rel="alternate" type="application/json+oembed" href="http://boingboing.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboingboing.net%2Fprivacy">
@@ -182,8 +395,8 @@ img.emoji {
 <script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
 <meta http-equiv="X-UA-Compatible" content="IE=10">
 
-</head>
-<body class="page-template-default page page-id-238808">
+
+
     <!-- Header -->
    
          
@@ -310,10 +523,19 @@ when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/
 
 
 
+<div id="”pmAdTag”"><!-- Positive Mobile ad --></div>
+
+<!-- Fark ad -->
+<div id="unit_86251"><a href="http://boingboing.net/"></a></div>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.fark.com/data/js/86251.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script>
+
 <p>
-
-
-
 
 </p><div id="footer">
      
@@ -350,18 +572,18 @@ when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/
         <br>	<a href="http://boingboing.net/advertise">Advertise</a>
         <br>	<a href="http://bbs.boingboing.net">Forums</a>
 		<br>	<a href="http://store.boingboing.net">Shop</a>	
-		<br>	<a href="mailto:support+id154252@vipstack.zendesk.com">Shop Support</a>
+		<br>	<a href="mailto:pubsupport@stackcommerce.com">Shop Support</a>
        
   
      </p></div>
 
 </div>
 
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.7"></script>
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/wp-embed.min.js?ver=4.7"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.8"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
 <script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<link rel="stylesheet" id="custom-style-css" href="http://media.boingboing.net/wp-content/plugins/stackcommerce-deal-feed/wp/includes/css/custom_script.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="http://media.boingboing.net/wp-content/plugins/stackcommerce-deal-feed/wp/includes/css/custom_script.css?ver=4.8" type="text/css" media="all">
 <style id="custom-style-inline-css" type="text/css">
 
                 .stackCommerceWidgetSidebar .singlestackCommerceItem .stackCommerceItemPrice{
@@ -409,14 +631,14 @@ margin:0 !important;
 }                                                                                                                                                            
 </style>
 <script type="text/javascript" src="http://media.boingboing.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201652"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201652.js" async="" defer=""></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201725"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'87954168',post:'238808',tz:'-8',srv:'boingboing.net'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'87954168',post:'238808',tz:'-7',srv:'boingboing.net'} ]);
 	_stq.push([ 'clickTrackerInit', '87954168', '238808' ]);
 </script>
-
+<script>jQuery(function(){jQuery('#sidebar').height(jQuery('#features').height())});</script>
 
 <!-- Analytics-->
 
@@ -529,8 +751,6 @@ function clickTrack(url, action, label){
 
 </script>
 
-<!-- Secret Rune tag follows -->
-<script type="text/javascript" src="//cdn.secretrune.com/rune.min.js" async=""></script>
 
 <script src="http://tags.crwdcntrl.net/c/8753/cc_af.js"></script> 
 
