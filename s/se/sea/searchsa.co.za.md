@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchsa.co.za privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215024113id_/http%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsa.co.za privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625000852id_/http%3A//searchsa.co.za/legal-policies) for the most accurate reproduction.*
 
 # Legal Policies | Search SA
 
