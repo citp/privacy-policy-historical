@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120104258id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624234534id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
