@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050819id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070622id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy | The Time Now
 
@@ -14,15 +14,6 @@
 
 
   * [Opening Times](https://web.archive.org/local-businesses.php)
-
-
-  * [Science](http://www.thetimenow.com/blog/category/science/)
-
-
-  * [Geography](http://www.thetimenow.com/blog/category/geography/) ▼
-
-
-  * [Travel](http://www.thetimenow.com/blog/category/travel/)
 
 
   * More ▼
