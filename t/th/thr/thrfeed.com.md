@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrfeed.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229091547id_/http%3A//www.hollywoodreporter.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrfeed.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624045830id_/http%3A//www.hollywoodreporter.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hollywood Reporter
 
@@ -14,7 +14,7 @@ We may place a “cookie” on your computer. A cookie is a small amount of data
 
 We also may use a small piece of code (sometimes referred to as “1x1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
 
-**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our **Do Not Track** policy, please click [here](https://web.archive.org/web/20161229091547id_/http%3A//www.hollywoodreporter.com/legal/about-our-ads). 
+**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our **Do Not Track** policy, please click [here](https://web.archive.org/web/20170624045830id_/http%3A//www.hollywoodreporter.com/legal/about-our-ads). 
 
 B. Personally Identifiable Information. We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use [make link], or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
 
