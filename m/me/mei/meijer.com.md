@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115041317id_/https%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624193847id_/https%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
 
 # Privacy & Security | Meijer.com
 
 ###  Introduction
 
-We collect personal information on our websites and through our various promotional programs including, but not limited to, mPerks, text alerts, voice messaging alerts, email messaging coupons, and postal mailers ("Promotional Programs"). The following privacy policy (the "Policy") applies to the Meijer website located at www.meijer.com (the "Site") and all other sites, services, mobile applications, platforms and tools where this Policy appears or is linked(collectively the "Sites"), personal information we may collect from you at our stores, all Meijer Promotional Programs, and generally to Meijer's collection of personal information. Unless otherwise provided on the applicable website, this Policy does not apply to any websites linked to the Sites operated by our retail partners, including, but not limited to the following retail partner: Meijer Optical (US Vision). This Policy also does not apply to any websites linked to the Sites operated by our partners providing financial products and or specialty services to our customers, including, but not limited to the following partners: Meijer credit cards and charge cards (Comenity Bank), and the SIMPLR Protection Plans available for certain customer purchases (Asurion). These websites are not owned or operated by us and not under our control. They have their own privacy policies. You may want to review the privacy policies of these sites and how they collect and use personal information. Additionally, your use of the Sites is subject to our Terms and Conditions of Use located at:   
+We collect personal information on our websites and through our various promotional programs including, but not limited to, mPerks, text alerts, voice messaging alerts, email messaging, coupons, and postal mailers ("Promotional Programs"). The following privacy policy (the "Policy") applies to the Meijer website located at www.meijer.com (the "Site") and all other sites, services, mobile applications, platforms and tools where this Policy appears or is linked(collectively the "Sites"), personal information we may collect from you at our stores, all Meijer Promotional Programs, and generally to Meijer's collection of personal information. Unless otherwise provided on the applicable website, this Policy does not apply to any websites linked to the Sites operated by our retail partners, including, but not limited to the following retail partner: Meijer Optical (US Vision). This Policy also does not apply to any websites linked to the Sites operated by our partners providing financial products and or specialty services to our customers, including, but not limited to the following partners: Meijer credit cards and charge cards (Comenity Bank), Shipt home delivery(Shipt), and the SIMPLR Protection Plans available for certain customer purchases (Asurion). These websites are not owned or operated by us and not under our control. They have their own privacy policies. You may want to review the privacy policies of these sites and how they collect and use personal information. Additionally, your use of the Sites is subject to our Terms and Conditions of Use located at:   
 [www.meijer.com/Legal_Notice.cms](http://www.meijer.com/Legal_Notice.cms). 
 
 Please note that the Pharmacy portion of our Site has its own notice of privacy practices because of requirements by the federal government. You can find that notice linked to the Meijer Pharmacy webpage located at: [www.meijer.com/pharmacy](http://www.meijer.com/pharmacy)
@@ -68,21 +68,8 @@ You also can limit the collection of certain website information by deleting or 
     * For mPerks text messaging, text STOPMPERKS to 634537; 
     * For mCard text messaging, text STOPCREDIT to 634537;
     * For Gas Alert text messaging, (1) use the opt-out link at [intouch.meijer.com](http://intouch.meijer.com/); (2) call 800-313-2912; or (3) text ENDGAS to 634537.
-  * [Click here to access the End User Agreement for or to opt-out of in-store WiFi.](https://f91464f8-3f26-11e2-8513-4000da0a3e2d.optout.wifiops.io/optout/6a00c0ac-9a7b-11e3-8736-800047434a0d)
   * Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals. 
   * If you block or delete cookies, not all of the tracking that we have described in this policy will stop. 
-
-
-
-###  Your California Privacy Rights:
-
-  * This privacy policy generally describes how we share information for marketing purposes. Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain specific information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. 
-  * Pursuant to Section 17538 of the California Business and Professions Code, residents of California that are involved in internet transactions have the right to know certain information. This information as it applies to your transactions on [www.Meijer.com](http://www.meijer.com/) is as follows: 
-    * Vendor's Name: MeijerEcom, Inc. 
-    * Vendor's Address: 2929 Walker Ave., Grand Rapids, MI 49544 
-    * Return and Refund Policy 
-Further, within 30 days of accepting payment for a sale on [www.meijer.com](http://www.meijer.com/), we will either (1) ship the goods ordered, (2) provide a full refund, (3) send a written notice of a delay and offer a refund, or (4) provide substitute goods or services.
-  * To request an email or hard copy of the information disclosure provided by Meijer pursuant to Section 1798.83 of the California Civil Code or Section 17538 of the California Business and Professions Code, please contact [webprivacy@meijer.com](mailto:webprivacy@meijer.com). 
 
 
 
@@ -108,6 +95,6 @@ Phone:
 ###  Policy Revisions and Updates
 
   * This Policy will continue to be reviewed and revised as changes occur in Meijer's business and technology or to laws that affect this policy. All information collected is subject to the privacy policy in effect at the time of use. Changes will be posted on the Sites with an updated effective date. Please check our Sites periodically to see the current policy. 
-  * Last Revision Date: May 8, 2016 
+  * Last Revision Date: May 17, 2017 
 
 
