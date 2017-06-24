@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163024id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032600id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -17,6 +17,10 @@ Any personal data gathered by us in your use of this site will be recorded elect
 For the purpose of the Data Protection Act 1998, the data controller is Radley + Co Limited of McBeath House, 310 Goswell Road, London, EC1V 7LW 
 
 Some of our service providers store personal information outside of the EU. Where this is the case, we have taken steps to ensure your data will be maintained in accordance with EU standards. 
+
+You may have signed up to our Marketing Newsletters when creating an Account or placing an order, online or in a Radley store. If you remain subscribed to the Radley database, you will receive information regarding new collection launches, upcoming events and invitations, Sales, special offers, new and selected product information. 
+
+If you wish to unsubscribe from Radley Newsletters, please inform us by using the Newsletter unsubscribe option on the website which can be found here: <http://www.radley.co.uk/newsletter/>, by clicking ‘ **unsubscribe’** at the bottom of any Radley Newsletter, or by sending an email to us here stating your wish to be removed from the Radley Database: <http://www.radley.co.uk/contacts/>. 
 
 ## IP Addresses and Cookies
 
