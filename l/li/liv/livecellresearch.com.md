@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120211442id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624021537id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
 
 # Live Cell Research | Privacy Policy
 
-Please review this Privacy Policy carefully. We value your privacy and appreciate the importance of your trust and have set forth this Privacy Policy and Cookies Notice to explain how we (collectively, "Living Cell Research", "we", "us", or "our") collect, protect, and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites, and mobile apps.
+Please review this Privacy Policy carefully. We value your privacy and appreciate the importance of your trust and have set forth this Privacy Policy and Cookies Notice to explain how Living Cell Research, LLC d/b/a Live Cell Research™ (hereafter, "Live Cell Research™", "we", "us", or "our") collect, protect, and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites, and mobile apps.
 
-Your use of this Website constitutes your acceptance of this Privacy Policy. If you do not agree with the Privacy Policy, then you do not have the right to access, view, download or otherwise use this Website or purchase any product and, accordingly, you should not do so. 
+Your use of this Website constitutes your acceptance of this Privacy Policy. If you do not agree with the Privacy Policy, then you do not have the right to access, view, download or otherwise use this Website or purchase any product and, accordingly, you should not do so.
 
-You may visit or browser this Website without providing identifiable information about yourself. However, this may limit your ability to receive certain features, products, or services from Living Cell Research, LLC. 
+You may visit or browser this Website without providing identifiable information about yourself. However, this may limit your ability to receive certain features, products, or services from Live Cell Research™.
 
 #### Information We Collect
 
@@ -16,11 +16,11 @@ We may collect Personal information, information that can be used to identify yo
 
 ### Information We Collect Automatically:
 
-Site Usage Information: Living Cell Research, LLC. and its third-party service providers, such as Google Analytics™, may also use a variety of technologies that passively or automatically collect information about how this Website accesses and uses ("Usage Information"), including your browser type, device type, operating system, application version, the pages served to you, the time you browser, preceding page views, and your use of features or applications on this Website. This statistical data helps us understand what is interesting and relevant to users of this Website so we can best adapt our content. 
+Site Usage Information: Live Cell Research™ and its third-party service providers, such as Google Analytics™, may also use a variety of technologies that passively or automatically collect information about how this Website accesses and uses ("Usage Information"), including your browser type, device type, operating system, application version, the pages served to you, the time you browser, preceding page views, and your use of features or applications on this Website. This statistical data helps us understand what is interesting and relevant to users of this Website so we can best adapt our content.
 
-Device Identifiers: Living Cell Research, LLC. also automatically collects an IP address or other unique identifier information ("identifying Information") from the computer, mobile device, technology or other device (collectively, "Device") you use to access this Website. Identifying Information is a number that is automatically assigned to your device when you access a web site or its servers, and our computers identify your device by its identifying information. We may use the identifying information to, among other things, administer this Website, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, and gather broad demographic information for collected use. 
+Device Identifiers: Live Cell Research™ also automatically collects an IP address or other unique identifier information ("identifying Information") from the computer, mobile device, technology or other device (collectively, "Device") you use to access this Website. Identifying Information is a number that is automatically assigned to your device when you access a web site or its servers, and our computers identify your device by its identifying information. We may use the identifying information to, among other things, administer this Website, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, and gather broad demographic information for collected use.
 
-Cookies: Living Cell Research, LLC. uses "Cookies", which are data files placed on a device when it is used to visit this Website to facilitate site navigation and to personalize your experience, including adapting advertisements. Cookies may also be used to associate you with social networking sites like Facebook, Twitter, and Instagram and, if you so choose, enable interaction of your activities on this Website. 
+Cookies: Live Cell Research™ uses "Cookies", which are data files placed on a device when it is used to visit this Website to facilitate site navigation and to personalize your experience, including adapting advertisements. Cookies may also be used to associate you with social networking sites like Facebook, Twitter, and Instagram and, if you so choose, enable interaction of your activities on this Website.
 
 If you prefer not to accept cookies, you can change your browser settings to notify you when you receive cookies, which allow you to accept or reject it; or set your browser to not accept any cookies. Be aware that some features or services may not work properly if cookies are blocked.
 
@@ -30,7 +30,7 @@ We may receive information about you form third parties that include our product
 
 #### Use and Sharing of Information
 
-We use the information we collect about you for the following, including: 
+We use the information we collect about you for the following, including:
 
   * Verify your Identity;
   * Fulfill your product purchases;
@@ -43,9 +43,9 @@ We use the information we collect about you for the following, including:
 
 
 
-Except as provided in this Privacy Policy, we will not provide any of your personal information to third parties without your specific consent. We may share non-personal information, such as user statistics or demographics, as set forth in this agreement. 
+Except as provided in this Privacy Policy, we will not provide any of your personal information to third parties without your specific consent. We may share non-personal information, such as user statistics or demographics, as set forth in this agreement.
 
-We may share your personal information with other entities and our affiliates of companies controlled by Living Cell Research, LLC. for internal reasons, primarily for business and operational purposes. 
+We may share your personal information with other entities and our affiliates of companies controlled by Live Cell Research™ for internal reasons, primarily for business and operational purposes.
 
 Legal Disclosure: We may transfer and disclose information, including your Personal Information, Usage Information, and Identifying Information, including IP address, to third parties to comply with a legal obligation; at the request of governmental authorities conducting an investigation; or otherwise to protect the rights, property, safety, or security of third parties, visitors to this Website, or the public.
 
@@ -55,7 +55,19 @@ If you do not wish to receive targeted advertising, you can opt out. You can opt
 
 #### Security and Your Information
 
-Living Cell Research, LLC. maintains reasonable safeguards to protect Personal Information against loss, unauthorized use, disclosure or destruction and when transferring information for processing. However, no electronic data transmission or storage of information can be 100% secure. Please note that we cannot ensure or warrant the security of any information to you transmit to us. 
+Live Cell Research™ maintains reasonable safeguards to protect Personal Information against loss, unauthorized use, disclosure or destruction and when transferring information for processing. However, no electronic data transmission or storage of information can be 100% secure. Please note that we cannot ensure or warrant the security of any information to you transmit to us.
+
+#### California Residents
+
+Many browsers have a "Do Not Track" feature that allows you to instruct websites that you do not want them to track your online activities. These browser features are not uniform, so we are not currently set up to respond to this feature.
+
+California residents who have provided their personal information to us may request data regarding disclosures of their information to third parties for direct marketing purposes. Such requests may be submitted to us by email at support@LiveCellResearch.com or at the following mailing address: Attention: Live Cell Research™ Customer Service, 10866 Washington Blvd., #815, Culver City, CA 90232
+
+Please specify in your communication that you are making a "California Shine the Light" inquiry. We will respond to your inquiry within 30 days.
+
+#### Children's Privacy
+
+This Site is not directed to children under the age of thirteen (13). Children may not use our services, and we do not knowingly collect any personal information from children under the age of thirteen (13). We have no way of distinguishing the age of individuals who address our Site. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
 
 #### Consent to Processing of Information
 
@@ -83,3 +95,7 @@ To reach us by phone:
 
 Monday - Friday 5am to 7pm PST   
 Saturday - Sunday 6am to 4:30pm PST
+
+#### Effective Date
+
+4/13/2017
