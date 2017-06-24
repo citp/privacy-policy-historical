@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217013429id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624033815id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Digital UK | Privacy Policy
 
@@ -69,7 +69,7 @@ We will not retain your Personal Information for longer than is necessary for ou
 ### Your rights  
 
 
-You have the right to request a copy of the Personal Information that Digital UK holds on you and to have any errors in that information corrected - we do not typically charge for such requests. Please address your request to Web Feedback, Digital UK, Met Building, 22 Percy Street, London W1T 2BU. We will use reasonable efforts to supply, correct or delete Personal Information about you on our files. Please note that before we are able to provide you with any Personal Information or correct any inaccuracies, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavour to respond within an appropriate timeframe and, in any event, within any timescales required by law.  
+You have the right to request a copy of the Personal Information that Digital UK holds on you and to have any errors in that information corrected - we do not typically charge for such requests. Please address your request to Web Feedback, Digital UK, 2nd Floor, 27 Mortimer Street, London W1T 3JF. We will use reasonable efforts to supply, correct or delete Personal Information about you on our files. Please note that before we are able to provide you with any Personal Information or correct any inaccuracies, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavour to respond within an appropriate timeframe and, in any event, within any timescales required by law.  
 
 
 ### Information security  
@@ -85,6 +85,6 @@ From time to time we may update this Privacy Policy. A notice will be posted on 
 ### Questions about this Privacy Policy  
 
 
-This Website is maintained by Digital UK. If you have any queries about this Privacy Policy please write to Web Feedback, Digital UK, Met Building, 22 Percy Street, London W1T 2BU
+This Website is maintained by Digital UK. If you have any queries about this Privacy Policy please write to Web Feedback, Digital UK, 2nd Floor, 27 Mortimer Street, London W1T 3JF.
 
  
