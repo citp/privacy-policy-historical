@@ -1,62 +1,56 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901093131id_/http%3A//www.sltrib.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624123544id_/http%3A//www.sltrib.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Salt Lake Tribune
 
-PRIVACY POLICY 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-/ 
+##  What personal information do we collect from the people that visit our blog, website or app? 
 
-strives to offer our site visitors a high quality, interactive and personalized experience. The following sets forth the web site information gathering and dissemination practices of . This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . By using this site, you consent to the collection and use of your information as indicated in this policy and to the other terms of this policy. If you do not agree to the terms of this privacy policy, please do not use this site. It is important to note that this policy applies only to information collected by and does not apply to information obtained or used by or its affiliates through other means. 
+The Personally Identifying Information (PII) gathered by The Salt Lake Tribune includes, e-mail address, password, zip code, age, gender and whether you are a print subscriber, but may also include your name (and/or company name), street address, and date of birth, phone numbers, and credit card numbers or other billing information where necessary to contact you or to process your Web site purchases. MediaNews may also collect information such as household income, job title, personal interests and hobbies. The PIN collected depends on the page you are visiting and the services that you participate in. 
 
-collects information in several ways. Some personal information is automatically collected through server log files, cookies and page requests, including, but not limited to the domain and host from which you access the Internet, the Internet Protocol address of your computer, the browser software and operating system you are using, your geographic location, the time and date you accessed the site and the Internet address you visited prior to visiting the site. 
+##  How do we protect visitor information? 
 
-Personally identifiable information is collected when you submit such information to , when you download or use software, use services or purchase products or services from our web site. For example, personally identifiable information is gathered when you enter a contest or promotion, request vacation delivery stop, or post an online ad. The personally identifiable information collected includes, but is not limited to, name, company, e-mail address, street address, zip code, phone numbers and social security numbers and other information that permits contacting of an individual. 
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We use regular Malware Scanning.  
+We do not use an SSL certificate because we do not process any visitor/user information. 
 
-Access to the majority of content, services and features on requires users to become registered members. Member registration requires you to provide certain Personally identifiable information, such as your name, e-mail address, street address, gender, and date of birth. You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. You will also have the opportunity to subscribe to e-mail newsletters and alerts and elect to receive e-mail offers sent to you on behalf of advertisers. Some features and services may require additional Personally identifiable information or other demographic information. We may collect other personal information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you've won a prize. All users may decline to share such information with us by choosing not to register on the Web site or use our services. Only registered members, however, may access certain content, services and features. 
+##  Third-party disclosure 
 
-If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service. 
+The Salt Lake Tribune may share PII that is collected with third parties hired to perform services on our behalf, including, but not limited to, fulfilling subscription requests, sending e-mails and assisting in the provision of The Salt Lake Tribune site and services. 
 
-Aggregate information may be used to help diagnose problems with our services and site, to administer our web site and to study and report site usage and user demographics. Aggregate data may be used by and its affiliated companies and may be shared with advertisers and business partners. Aggregate information is not linked to personally identifiable information. 
+Cookies 
 
-Cookies are used to store and track information about you. A cookie is a small amount of data that is sent to your browser from a web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior and demographics and to track your entries in promotions and contests. Advertising networks that serve ads into our sites may also use cookies. 
+Cookies are used to store and track information about you. A cookie is a small amount of data that is sent to your browser from Web sites and stored on your computer’s hard drive. Cookies are used to deliver targeted advertising based on your behavior and demographics and to track your entries in promotions and contests. Cookies may be linked to PII. In addition, The Salt Lake Tribune uses web beacons provided by third-party advertising companies to help manage our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits The Salt Lake Tribune site, and to learn which banner ads bring users to The Salt Lake Tribune site. 
 
-When you provide personally identifiable information, you are sharing that information with and its affiliated companies. If you do not want to share your personally identifiable information, do not provide it or use the service that requires it. For example, promotions and contests require the collection of personally identifiable information that may be shared with third party sponsors and others. Collected information may be used for marketing and promotional purposes as well as account and web site management. may make chat rooms, forums, message boards, and/or news groups available to web site users. Some of these forums involve registration and the sharing of personally identifiable information. Any information that is disclosed in chat rooms, forums, message boards, and/or news groups becomes public information. You should exercise caution when deciding to disclose any personal information. 
+##  Google / Advertising 
 
-A user may indicate that he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from and/or any third parties by notifying at [](mailto:). Notwithstanding any "opt-out" of promotional information by the user, reserves the right to contact a user regarding account status, changes to this policy, the terms of use, license agreements and other matters relevant to the use of the web site, services or software provided through the web site, and/or the information collected. 
+Google's advertising requirements can be summed up by [Google's Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users. We use Google AdSense Advertising on our website. Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy. 
 
-While makes reasonable efforts to preserve user privacy, we may disclose personal information when required by law or when we have a reasonable belief that such action is necessary to comply with court orders, subpoenas or the legal process. We may disclose or share personal information, including, but not limited to personally identifiable information, if it is reasonably necessary for to protect its legal rights or defend legal claims, or if we reasonably believe that disclosure or sharing or such personal information is necessary in order to investigate, prevent or take action regarding illegal activities, breach of our terms of use or of license agreements. 
+We have implemented the following: 
 
-This statement and the policies outlined here are not intended to and do not create any contractual or other legal rights in or on behalf of any party. This privacy policy applies only to web sites owned or controlled by . Users should check the applicable privacy policies for any linked or other web sites. 
+DoubleClick Platform Integration. We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. **_Opting out:_** Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. No personal information needed. 
 
-Upon request, will take reasonable efforts to delete or correct a user's personally identifiable information from its database. It may be impossible to delete a user's entry without retaining some residual information because of backups and records of deletions. Also, upon request, will provide to a user a copy of that user's personal information that was collected though its web site. To request such action, send an email to at [](mailto:). 
+##  Fair Information Practices 
 
-This privacy policy is effective as of December, 2004. reserves the right to change this policy at any time. 
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-may change this privacy policy from time to time. When we do, we will post the revised policy on the web site. Please check this page periodically for changes. 
+In order to be in line with Fair Information Practices we will notify the users via in-site notification within 3 business days, should a data breach occur. 
 
-Please feel free to contact us at at [](mailto:) with questions or comments regarding our privacy policy. 
+##  COPPA (Children Online Privacy Protection Act) 
 
-CHILDREN'S PRIVACY POLICY 
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not specifically market to children under 13. 
 
-The following sets forth the web site information gathering and dissemination practices of relating to information collected from children. This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . This privacy policy is effective as of December, 2004. may change this privacy policy from time to time. The revised policy will be posted on the web site. Please check this page periodically for changes. 
+##  CAN SPAM Act 
 
-does not ask children to disclose more personal information than is necessary for them to participate in a particular activity. We urge children to check with their parents before entering information on any web site and we urge parents to discuss with their children restrictions regarding the online release of personal information. limits its collection of information from children to what is known as non-personally identifiable information (e.g. first name, screen names, age, gender, city, state, zip code and country of residence). This information is collected so children can participate in activities (e.g. completing polls or online surveys, posting jokes, book reviews, movie reviews, toy reviews, video reviews, concert reviews, game reviews, artwork or questions/comments online, or playing online games) without giving unnecessary personal information. From time to time, however, we may request personally identifiable information (e.g. child's email address and/or parent's or guardian's email address), as explained below, in order to conduct online contests or sweepstakes or offer other online activities. does not and cannot condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. Information is collected actively, such as through registration forms, and passively, such as through cookies. 
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
 
-occasionally offers contest and sweepstakes, which may be entered online. When a child under thirteen 13 enters a contest or sweepstakes, or participates in another activity that requires the use of personal information, we will ask for a parent's email address so that we can notify the parent of the child's entry and give the parent the option to have the child's entry deleted. All personally identifiable information collected by is securely maintained and used only for the purpose of conducting the contest or sweepstakes and awarding prizes. does not keep any personal information obtained through a contest or sweepstakes after the particular event is completed. Sometimes, we use agents or contractors to provide services that support the internal operations of the site, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, we require the agent or contractor to maintain the confidentiality, security and integrity of the information and limit use to the specific services they are performing on our behalf. 
+##  Contacting Us 
 
-may disclose information maintained as required by law, for example, in response to a court order or a subpoena. may also disclose such information in response to a specific law enforcement agency's request. Personal information is not disclosed to third parties except those who provide support for the internal operations of the site. Parents can consent to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-, MediaNews Group, Inc., and MediaNews Group Interactive, Inc. are the operators collecting information at this web site. Please send an email or letter to our Privacy Coordinator at the email or mailing address provided below if you would like to do any of the following: 
-
-* Access personally identifiable information that has collected from your child, 
-* Correct factual errors in such information, 
-* Request to have this information deleted, or 
-* Request that we no longer collect or maintain such information from your child. 
-
-Please include your email address and telephone number where we can reach you. takes steps to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian. 
-
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact the Privacy Coordinator using the contact information provided below. 
-
-,     
-\--  
-Email: [](mailto:)
+**_The Salt Lake Tribune_**  
+90 West 400 South  
+Suite 700  
+Salt Lake City, Utah 84101  
+United States  
+[webmaster@sltrib.com](mailto:webmaster@sltrib.com)
