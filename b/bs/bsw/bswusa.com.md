@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230140738id_/http%3A//bswusa.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624041653id_/http%3A//www.bswusa.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
