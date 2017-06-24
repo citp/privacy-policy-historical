@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the investor.gov privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216033939id_/https%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investor.gov privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624231746id_/https%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
-# SEC Web Site Privacy and Security Policy
-
-|  |   
-|  |   
----|---|---|---  
-  
-  [About the SEC](https://web.archive.org/about.shtml)  
-  
-  [Filings & Forms](https://web.archive.org/edgar.shtml)  
-  
-  [Regulatory Actions](https://web.archive.org/rules.shtml)  
-  
-  [Staff Interps](https://web.archive.org/interps.shtml)  
-  
-  [Investor Info](https://web.archive.org/investor.shtml)  
-  
-  [News & Statements](https://web.archive.org/news.shtml)  
-  
-  [Litigation](https://web.archive.org/litigation.shtml)  
-  
-  [Information for...](https://web.archive.org/info.shtml)  
-  
-  [Divisions](https://web.archive.org/divisions.shtml)  
-  
-  
-|   
-
-
-## The U. S. Securities and Exchange Commission (SEC)
+# SEC.gov | SEC Web Site Privacy and Security Policy
 
 ## Privacy Policy
 
@@ -36,7 +8,7 @@
   * Rights Under the Privacy Act of 1974
   * Information Collected and Stored Automatically
   * Information Collected for Website Improvement and Customization (Cookies)
-  * Security and Intrusion Detection
+  * Internet Security Policy
   * Personally Identifiable Information
   * Sharing of Your Information
   * Use of Social Media
@@ -57,13 +29,17 @@ The privacy of visitors to our web site is of the utmost importance to the SEC. 
 
 ## Rights Under the Privacy Act of 1974
 
-The [Privacy Act of 1974, as amended,](https://it.ojp.gov/PrivacyLiberty/authorities/statutes/1279) (5 U.S.C. § 552a), **** prohibits the disclosure without consent of information about individuals that the federal government maintains in a system of records. Agencies are required to give the public notice of their systems of records by publication in the Federal Register. [You may click here to see a list of the SEC's systems of records.](http://www.sec.gov/about/privacy/secprivacyoffice.htm) The Act also provides individuals with a means by which to seek access to and amendment of their records. The SEC’s Privacy Act Regulation can be found at: [17 C.F.R. Subpart H-Regulations Pertaining to the Privacy of Individuals and Systems of Records Maintained by the Commission.](http://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&SID=a2195d9e0503544dad5a2ddeca6576ac&r=PART&n=pt17.3.200#sp17.3.200.h) Personally identifiable information (“PII”) not contained in a system of records is protected under the Federal Information Security Modernization Act of 2014.  44 U.S.C. §§ [3554(a)(1)(A)(i)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554&num=0&edition=prelim), [3552(b)(3)(B)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim). 
+The [Privacy Act of 1974, as amended](https://it.ojp.gov/PrivacyLiberty/authorities/statutes/1279) (5 U.S.C. § 552a), **** prohibits the disclosure without consent of information about individuals that the federal government maintains in a system of records. Agencies are required to give the public notice of their systems of records by publication in the Federal Register. [You may click here to see a list of the SEC's systems of records.](https://web.archive.org/about/privacy/secprivacyoffice.htm) The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
 
-If we store information about you in a system of records from which we retrieve that information by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.) so that we may contact you, we will safeguard your information in accordance with the Privacy Act **.**
+If we store information about you in a system of records from which we retrieve that information by personal identifier (e.g., name, personal email address, home mailing address, personal or mobile phone number, etc.), we will safeguard your information in accordance with the Privacy Act. The SEC adheres to Privacy Act requirements with respect to all information about individuals that it collects, maintains, uses, or disseminates in a System of Records, regardless of whether the information pertains to a U.S. Citizen, lawful permanent resident, or a non-U.S. Citizen. However, the rights to seek access to and amendment of covered records, and to bring suit for alleged violations of the Privacy Act, only extend to U.S. citizens and legal permanent residents (as defined in 5 U.S.C. § 552a(a)(2)) and citizens of designated foreign countries or regional economic organizations (as defined under the [Judicial Redress Act of 2015, 5 U.S.C. § 552a note](https://www.congress.gov/114/plaws/publ126/PLAW-114publ126.pdf)).
+
+The SEC’s Privacy Act Regulation can be found at: [17 C.F.R. Subpart H-Regulations Pertaining to the Privacy of Individuals and Systems of Records Maintained by the Commission.](http://www.ecfr.gov/cgi-bin/text-idx?SID=173f890bf4175e24986905fe0e9f8efc&node=sp17.3.200.h&rgn=div6)
+
+Personally identifiable information not contained in a system of records is protected under the Federal Information Security Modernization Act of 2014.  44 U.S.C. §§ [3554(a)(1)(A)(i)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554&num=0&edition=prelim), [3552(b)(3)(B)](http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim).
 
 For the general contact information that may be submitted through www.sec.gov, we have completed a System of Records Notice (SORN) providing details about the privacy protections and redress options for information we collect from the public.  For further information, please reference the documentation below.
 
-[SEC-56 Mailing, Contact, and Other Lists](http://www.sec.gov/about/privacy/sorn/secsorn56.pdf)  System of Records Notice (July 22, 2009, FR 74-36281). 
+[SEC-56 Mailing, Contact, and Other Lists](https://web.archive.org/about/privacy/sorn/secsorn56.pdf)  System of Records Notice (July 22, 2009, FR 74-36281). 
 
 ## Information Collected and Stored Automatically 
 
@@ -110,11 +86,17 @@ We employ safeguards to maintain the security, confidentiality, and integrity of
 
 If you choose to block these technologies you will continue to have access to comparable information and services on our web site. 
 
-## Security and Intrusion Detection
+## Internet Security Policy
 
-By using this site, you are agreeing to security monitoring and auditing. For site security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic. Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation are prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the _Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996_ (see Title 18 U.S.C. §1030). 
+By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users.
 
-To ensure our web site performs well for all users, the SEC monitors the frequency of requests for SEC.gov content to ensure automated searches do not impact the ability of others to access SEC.gov content. If a single IP Address exceeds a threshold request per second rate, further requests from that IP Address will be limited for a brief period. Once the rate of web requests has dropped below the threshold for 10 minutes, the user may resume accessing content on SEC.gov. This SEC practice is designed to limit excessive automated searches on SEC.gov and is not intended or expected to impact individuals browsing the SEC.gov website. Note that the [SEC's File Transfer Protocol (FTP) server](http://www.sec.gov/edgar/searchedgar/ftpusers.htm) is available for bulk downloads of the SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval system) filings by corporations, funds, and individuals.
+Unauthorized attempts to upload information and/or change information on any portion of this site are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 (see Title 18 U.S.C. §§ 1001 and 1030).
+
+To ensure our website performs well for all users, the SEC monitors the frequency of requests for SEC.gov content to ensure automated searches do not impact the ability of others to access SEC.gov content. We reserve the right to block IP addresses that submit excessive requests.  Current guidelines limit users to a total of no more than 10 requests per second, regardless of the number of machines used to submit requests. 
+
+If a user or application submits more than 10 requests per second, further requests from the IP address(es) may be limited for a brief period. Once the rate of requests has dropped below the threshold for 10 minutes, the user may resume accessing content on SEC.gov. This SEC practice is designed to limit excessive automated searches on SEC.gov and is not intended or expected to impact individuals browsing the SEC.gov website. 
+
+Note that this policy may change as the SEC manages SEC.gov to ensure that the website performs efficiently and remains available to all users.
 
 ## Personally Identifiable Information
 
@@ -177,8 +159,3 @@ Information presented on [www.sec.gov](http://www.sec.gov/) is considered public
 We provide links to Federal and non-Federal websites if we think they may be useful to our visitors or necessary for the performance of agency functions. This includes commercial websites such as Facebook, Twitter, Flickr and YouTube.
 
 When you follow a link to a non-SEC website, you will first be directed to a web page that reminds you that you are leaving SEC.gov and that the website you are about to visit is not endorsed by the SEC. These other websites are not within the SEC’s control. The SEC does not guarantee the accuracy or completeness of any information on these sites. Be aware that the privacy protection provided to you on SEC.gov will not be available at the external link. Once you link to another site, you are subject to the policies of that site. 
-
-_http://www.sec.gov/privacy.htm_  
-
-
-* * *
