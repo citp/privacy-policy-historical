@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222542id_/http%3A//studyspanish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyspanish.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080100id_/http%3A//studyspanish.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - StudySpanish.com
 
 > Our most important asset is our relationship with you, and we want you to feel comfortable and secure when using our Website. Please be assured that we are serious about the protection of your personal information.
 
