@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123025553id_/http%3A//tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002018id_/https%3A//www.tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -131,4 +131,4 @@ Or you may lodge your complaint or enquiry online through our [online complaints
 
 ### Contact
 
-If you have any questions the personal information held by us and the steps we take to address our obligations under the _Information Privacy Act 2009_ , please contact [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au).
+If you have any questions about the personal information held by us and the steps we take to address our obligations under the _Information Privacy Act 2009_ , please contact [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au).
