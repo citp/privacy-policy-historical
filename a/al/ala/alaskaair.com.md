@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051655id_/https%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3DTAfooter%3Aprivacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044842id_/https%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3DTAfooter%3Aprivacynotice) for the most accurate reproduction.*
 
 # Online privacy notice - Alaska Airlines
 
