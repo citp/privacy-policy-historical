@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043720id_/http%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113828id_/http%3A//www.photoshopessentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photoshop Essentials.com -
 
-## Everything You Need To Know About Everything We Need To Know!
+## Everything you need to know about everything we need to know!
 
 Thank you for visiting Photoshop Essentials.com. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices. 
 
