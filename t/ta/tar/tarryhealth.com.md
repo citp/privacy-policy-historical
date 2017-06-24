@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tarryhealth.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045313id_/http%3A//www.tarryhealth.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarryhealth.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092954id_/http%3A//www.tarryhealth.com/policy) for the most accurate reproduction.*
 
-# Policy | Tarry Health
+# policy | Tarry Health
 
 **Privacy Policy**
 
