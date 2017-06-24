@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055312id_/http%3A//www.junkmail.co.za/blog/privacy-policy/36771) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624082249id_/http%3A//www.junkmail.co.za/blog/privacy-policy/36771) for the most accurate reproduction.*
 
 # Privacy Policy | Junk Mail Blog
 
@@ -47,5 +47,3 @@ Junk Mail Digital will occasionally update this Statement of Privacy to reflect 
 
 **Contact Information**  
 Junk Mail Digital welcomes your comments regarding this Statement of Privacy. If you believe that Junk Mail Digital has not adhered to this Statement, please contact Junk Mail Digital at [webmaster@junkmail.co.za](mailto:webmaster@junkmail.co.za). We will use commercially reasonable efforts to promptly determine and remedy the problem.
-
- 
