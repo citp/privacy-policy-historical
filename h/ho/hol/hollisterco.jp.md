@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003150746id_/http%3A//www.hollisterco.jp/en_JP/AF-ca-privacy-and-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.jp privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624045338id_/http%3A//www.hollisterco.jp/en_JP/AF-ca-privacy-and-terms.html) for the most accurate reproduction.*
 
 # AF-ca-privacy-and-terms
+
+Updated: June 2017
 
 In order to make your visits to the various online channels of Hollister Co. as responsive as possible, we provide this summary of what information we collect online, and how that information is used.
 
@@ -29,7 +31,7 @@ The information you provide through our Websites, Apps, communications and throu
 
 This policy will more specifically address the personal data we collect, transfer, use, and disclose, which generally includes name, address, telephone number, email address, date of birth, billing and payment information, account information, and other information that specifically relates to you, which we collect in the course of providing our marketing communications, goods, and services to you.
 
-Users under the age of 18 may not be permitted to use certain features of our Websites/Apps, such as click to chat and contact us. If you are under the age of 18 you will need to ask your parents or guardians to contact us on your behalf.
+Users under the age of 18 may not be permitted to use certain features of our Websites/Apps, such as click to chat and contact us. 
 
 #### 1\. General Browsing
 
@@ -37,7 +39,7 @@ We collect general information about our visitors’ experience with our Website
 
 #### 2\. Location Information
 
-Our Websites, Apps, and communications may use your IP address to determine the city where you are located. This allows us to tailor content to you, such as a map of nearby stores. Mobile devices include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Websites, Apps or communications may not be available. See the “Opt-Out” section below for the choices you have regarding collection of location information.
+Our Website, Apps, and communications may use your IP address to determine the approximate location of your Internet Service Provider (ISP). This allows us to tailor content to you, such as a map of nearby stores. Mobile devices include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Websites, Apps or communications may not be available. See the “Opt-Out” section below for the choices you have regarding collection of location information.
 
 #### 3\. Personal Data
 
@@ -49,15 +51,9 @@ If you use the Click to Chat feature on our Websites we may collect your name an
 
 #### Sign Up for Marketing Email List
 
-If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Abercrombie & Fitch, abercrombie kids, and Gilly Hicks. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the Opt Out section below for more details.
+If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Abercrombie & Fitch and abercrombie kids. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the Opt Out section below for more details.
 
 If you were on the Hollister Co. marketing email list prior to September 2014 and supply your email address on HollisterCo.jp you may receive emails catered to your location.
-
-We have a separate "Mailing List" registration process for children who state that they are under the age of 18. Children under the age of 18 will only be asked to provide their first name, age range, and parent's/guardian's email address. We will then send the parent/guardian an email notice and a request that the parent complete the "Mailing List" registration form for their child. Before the child can receive emails and other promotional materials from us, the child's parent/guardian must consent by completing the child's "Mailing List" registration information, which includes details such as the child's date of birth and home address. In addition to receiving our emails, information may be shared with third parties and our affiliates for our marketing purposes or to provide personalized messaging on our Websites, Apps, and in communications, and tracking may take place when a marketing email recipient clicks through a link in the email. Whenever a parent/guardian completes and submits the child's "Mailing List" registration form, we will send the parent/guardian a confirmation email notification.
-
-If a parent/guardian does not wish to consent by completing their child's "Mailing List" registration with our Websites/Apps, the parent/guardian may decline completing the "Mailing List" sign up and consent. Should a parent/guardian initially consent to their child's registration by completing the "Mailing List" registration, they can withdraw that consent at any time and request deletion of their child's personal information by emailing such a request to us at Privacy_Policy@HollisterCo.com.
-
-Parents/guardians who have completed their child's "Mailing List" registration, can review the personal information that they provided about their child online by emailing us at Privacy_Policy@HollisterCo.com. When making a written request to review such information, please be sure to include your email address and telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to verify your identity before granting you access to the personal information that you provide and we maintain about your child.
 
 #### Sending Electronic Postcards or Emailing an Item to a Friend
 
@@ -67,7 +63,7 @@ When you send an electronic postcard, or email an item to a friend from our Webs
 
 If you are 18 years of age or older you are given the opportunity to create an account on our Websites and Apps. Creating an account requires you to enter your email address, first and last name, and to create a password, and allows you to provide postal addresses, a phone number, payment details, date of birth, gender, and favorite categories. By providing this information we are able to offer you a more personalized experience on our Websites, Apps, and in communications. In addition, we may identify you when you sign into your account and we may personalize messaging, promotions or product recommendations. Some of the features in the account section allow you to create an address book, save a wish list, subscribe to and update your marketing email frequency, access your order history, and enjoy "quick checkouts" by having us automatically enter your name, phone number, email, postal address, and payment details in the checkout process. When you create an account you will receive a welcome email that will be delivered to the email address you inserted into the email field on the create an account page. .
 
-To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20141003150746id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
+To request to have your account cancelled send an email to [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20170624045338id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) from the email address associated with the account you wish to cancel.
 
 #### My Account – Payment Info
 
@@ -91,7 +87,7 @@ If you provide us with your email address to contact you when a product on the s
 
 #### Purchasing at the Online Store
 
-If you purchase merchandise through our Websites, we will gather your personal data (including your name, billing and shipping address information, email address, telephone number, and payment information), as well as information about your purchases on our Websites, which we may combine with your store purchase information. In addition, if you have created an account you will be able to view your order details in the account section. Some information provided in checkout may be used to personalize a future visit or communications, to cater products or offers to you or shared with affiliates or third parties for our marketing or advertising purposes.
+If you purchase merchandise through our Websites, we will gather your personal data (including your name, billing and shipping address information, email address, telephone number, banking and payment information), as well as information about your purchases on our Websites, which we may combine with your store purchase information. In addition, if you have created an account you will be able to view your order details in the account section. Some information provided in checkout may be used to personalize a future visit or communications, to cater products or offers to you or shared with affiliates or third parties for our marketing or advertising purposes.
 
 #### Surveys
 
@@ -118,9 +114,17 @@ In addition:
 
 
 
+Personal information may be collected directly by Hollister Co. through social media accounts (“Social Media Pages”) and may also be collected by the social media site hosting the Hollister Co. Social Media Page.
+
+Personal Information collected directly by Hollister Co.: The collection of personal information directly by Hollister Co. on our Social Media Pages will include the type of information addressed under "What is Personal Data" above. Examples of how personal information may be directly collected on Hollister Co. Social Media Pages include providing information through an application or form which has a link to this privacy policy. We will use and share the information we collect on our Social Media Pages in the manner specified below in "Using Information We Collect” and in "Information We Share With Third Parties."
+
+Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Hollister Co. has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
+
+The social media sites where Hollister Co. has Social Media Pages may provide aggregate information and analysis to Hollister Co. about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+
 We use the information collected through our Websites, Apps, and communications for the following purposes:
 
-  * To fulfil orders and complete transactions, including for processing payments, verifying addresses, and to ship merchandise.
+  * To fulfill orders and complete transactions, including for processing payments and refunds, verifying addresses, and to ship merchandise.
 
   * To conduct appropriate anti-fraud checks in the course of which the personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information.
 
@@ -157,7 +161,29 @@ We use the information collected through our Websites, Apps, and communications 
 
 Please note that if you do not provide us with the required personal information, we may not be able to provide the information, products or services you need or process your request.
 
-All of the information gathered through our Websites, Apps, and communications that you provide to us is sent to the United States and Hong Kong. We store and process your personal data and any other information that we collect from you through our Websites, Apps, and communications in the United States, Japan, and Hong Kong. Our third party service providers who offer services to us from time to time may also store and process your personal data in the United States, Japan, and Hong Kong. We, and our third party service providers mentioned above, may need to disclose your personal data that we store if required to do so under any applicable laws, rules or regulations.
+#### 1\. Email Addresses
+
+We do not sell, or grant rights to external third parties, to use your email address for their own marketing purposes.
+
+Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed by you on our Websites, or other operational emails.
+
+#### 2\. Postal Addresses
+
+We make the names and postal addresses in our postal mailing list, sometimes categorized by purchasing information, available to our affiliates (for example, Abercrombie & Fitch and abercrombie kids) and other unaffiliated companies for their marketing purposes. See the “Opt-Out” section below for instructions on how to opt out of sharing with unaffiliated companies.
+
+#### 3\. Service Providers
+
+Please be aware that we may share information collected with third parties to assist us with our e-commerce business, such as our Websites, Apps, and communications, and our Social Media Pages. Some examples of the assistance that may be provided by third party service providers are: fulfilling orders (including but not limited to, processing payments, assisting with shipment, providing fraud prevention services, and verifying addresses), providing advertising services - including on social media sites and internet search engines, sending marketing communications, your actions in response to our communications and the effectiveness of our advertising, monitoring and analyzing site activity, serving site content (including a site search feature, product options, and personalized messaging), organizing information, conducting surveys, administering and maintaining employment application information, offering interactive features on our App, evaluating potential models, and administering emails, sweepstakes or contests. Such third parties may have access to your personal data to provide services on our behalf, but may not use your information for any other purpose.
+
+#### 4\. Legal Disclosures
+
+You should also be aware that we may disclose specific information about you if we are required, or we genuinely believe that we are required, to do so by law or if we reasonably consider that it is necessary to protect the users of our Websites and Apps and that it is difficult to obtain consent from you. In the event that we, or our parent company, are acquired by a new owner, or if following a reorganization of our corporate group we become part of one of our affiliate companies, your information may be transferred to a new owner, or another of our affiliate companies, as part of our assets. If this occurs, we will take all reasonable steps to ensure that our new owner or the affiliate which we become part of will use your personal data only in accordance with the terms of this privacy policy.
+
+#### 5\. Sharing Information within our Group
+
+We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company and the subsidiaries of our holding company (including our affiliated companies). HCo and its affiliates will not subscribe you to their ongoing marketing email or text message programs unless you have separately consented to receive such marketing emails or texts from a given affiliate. These members may use information provided by you for marketing purposes or to serve personalized messaging on our Websites, Apps, and communications.
+
+All of the information gathered through our Websites, Apps, and communications that you provide to us is sent to the United States and Japan. We store and process your personal data and any other information that we collect from you through our Websites, Apps, and communications in the United States, Japan, and Japan. Our third party service providers who offer services to us from time to time may also store and process your personal data in the United States, Japan, and Japan. We, and our third party service providers mentioned above, may need to disclose your personal data that we store if required to do so under any applicable laws, rules or regulations.
 
 #### 1\. What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
@@ -173,7 +199,7 @@ We contract with third party advertising companies to serve you online display a
 
 By submitting your personal data to us through our Websites, Apps, and communications, you are agreeing that we may collect, use and disclose your personal data in accordance with the purposes and uses identified in this policy.
 
-#### 1.Collection of Location Information
+#### 1\. Collection of Location Information
 
 a. _Mobile Device Location Information Through our Mobile Sites and Apps._ Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites and Apps from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend you review the specific instructions provided for your mobile device. Note that some features on our Websites and Apps may not be available if you disable location-based services.
 
@@ -181,9 +207,9 @@ b. _Desktop Device Location Information Through Website Features._ Your desktop 
 
 c. _Location Information Through Email._ Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information. You can also unsubscribe from receiving our emails, as described in the Email Address section below.
 
-#### 2.Email Address
+#### 2\. Email Address
 
-If you no longer wish to receive emails from us, please [click here](http://www.hollisterco.jp/en_JP/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the email and phone page within the “My Account” section, click on the drop-down menu and select ‘No emails/Unsubscribe’ for the brand from which you no longer want to receive marketing emails, and press ‘SUBMIT.' Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address.
+If you no longer wish to receive emails from us, please [click here](https://www.hollisterco.jp/en_JP/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the email and phone page within the “My Account” section, click on the drop-down menu and select ‘No emails/Unsubscribe’ for the brand from which you no longer want to receive marketing emails, and press ‘SUBMIT.' Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address.
 
 Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed on our Websites or other operational emails.
 
@@ -193,11 +219,11 @@ Responsible Sender of Marketing Emails
 Abercrombie & Fitch Stores, Inc.  
 6301 Fitch Path  
 New Albany, Ohio 43054 USA  
-Privacy_Policy@HollisterCo.com
+[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20170624045338id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
 
 #### 3.Postal Address
 
-If you do not wish to receive marketing materials from us via postal mail, please email us at Privacy_Policy@HolliserCo.com and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
+If you do not wish to receive marketing materials from us via postal mail, please email us at [Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20170624045338id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com) and tell us to remove you from our postal mailing list, including the postal address you wish to have removed.
 
 If you would like to make sure that we do not disclose your name and postal mailing address to unaffiliated third parties for their marketing purposes, please email us at [Privacy_Policy@HollisterCo.com ](mailto:Privacy_Policy@HollisterCo.com)and ask us not to share your postal address with unaffiliated companies, including the postal address
 
@@ -207,7 +233,7 @@ Upon your written request, we will inform you of the personal data relating to y
 
 Please send your written request to the email address or postal address provided under "Questions About Privacy" below. In your written request, please include your name, address, phone number, and email address so that we may verify whether we retain any personal data about you.
 
-No one under the age of 18 should provide personal data on our Websites and Apps without the supervision of a parent or guardian
+Our Websites are not directed at children under the age of 18, and we do not knowingly collect any personal information from children under the age of 18. No one under the age of 18 should provide personal data on our Websites or at our stores. In the past Hollister Co. collected personal information from children under the age of 18 with the consent of the child’s parent or guardian. Any such personal information collected by Hollister Co. has been deleted, and Hollister Co. no longer has any information concerning that child. 
 
 For your convenience and enjoyment, our Websites and Apps may contain links to other websites operated by third parties ("Third Party Sites"). We do not monitor and are not responsible for the privacy practices or the content of such Third Party Sites. We would urge you to review the privacy policies of each Third Party Site to ensure that you are comfortable with the privacy policies and practices.
 
@@ -215,9 +241,11 @@ As we continue to offer our customers new and different types of content and ser
 
 We limit the number of employees that have access to the databases that contain personal information.
 
-HollisterCo.jp is designed to accept orders from web browsers that allow communication through Secure Socket Layer (SSL) technology, such as Mozilla Firefox 30.0+, Microsoft Internet Explorer 8.0+, Google Chrome 35.0+, and Apple Safari 7.0+. Additionally, some of the site content requires Adobe Flash Player 9.0 or later. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites.
+Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 4.4+, and Apple iOS 8+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
+
+If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
 
 If you have any questions, comments or concerns regarding our privacy practices or our legal compliance with the Japanese Act on Protection of Personal Information or other applicable privacy law or regulation, please email us at [Privacy_Policy@HollisterCo.com](mailto:Privacy_Policy@HollisterCo.com) or write to us at the address set out below:
 
@@ -229,4 +257,4 @@ Abercrombie & Fitch Stores, Inc.
 
 New Albany, Ohio 43054 USA
 
-Privacy_Policy@HollisterCo.com
+[Privacy_Policy@HollisterCo.com](https://web.archive.org/web/20170624045338id_/http%3A//www.hollisterco.jp/en_JP/Privacy_Policy@HollisterCo.com)
