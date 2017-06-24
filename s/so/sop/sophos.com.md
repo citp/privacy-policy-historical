@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045748id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065702id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal
 
-This document was last updated on 25 April 2016.
+This document was last updated on 10 April 2017.
 
 ### General
 
@@ -154,7 +154,12 @@ We send emails from a number of different domains in both plain text and HTML em
 @sophos.co.jp  
 @sophos.it  
 @sophos.au  
-@sophos.com.au
+@sophos.com.au  
+@confirmation.sophos.com  
+@go.sophos.com  
+@get.sophos.com  
+@renewals.sophos.com  
+@productalert.sophos.com
 
 Emails offering software downloads or free product trials will usually link to web pages on www.sophos.com or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to customerservice@sophos.com so we can investigate.
 
@@ -192,4 +197,4 @@ If you want to request any information about your personal data or believe that 
 
 ### Notification of changes
 
-This privacy policy was last updated on 25 November 2015. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 10 April 2017. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
