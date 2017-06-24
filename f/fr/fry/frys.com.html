@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229044031id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624115601id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,7 +11,7 @@
 
  
 
-  <script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="//cdn.rlcdn.com/js/ga.js?1580458008147"></script><script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="//cdn.rlcdn.com/js/ga.js?1580458007814"></script><script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
   <script type="text/javascript">
 	var optionSelect;
 	function chgBtnColor() {
@@ -37,6 +37,80 @@
 
 
 <link rel="stylesheet" href="/js/menus.css" type="text/css" media="screen">
+
+
+
+<!-- 629171 -->
+<script type="text/javascript">
+function fnvalidatePhoneNumber(phoneNumbers,id,event) {
+	  if(event!=null) {
+		 var x = event.which || event.keyCode;
+	  }
+	  if( x!=null && (x==37) || (x==39) ) 
+	  { } else {
+		  var phonenumber=jQuery(phoneNumbers).val().trim();
+		  var phonenumber_d=phonenumber.replace(/-/gi,"").replace(/[(]/gi,"").replace(/ /gi,"").replace(/[)]/gi,"");
+		  if(phonenumber!=null && phonenumber!='' && phonenumber!=' ') { 
+			  var regExp1 = "^[0-9]{11,}$";
+			  var phone = (phonenumber_d).match(regExp1);
+			  if (phone) {
+				  //document.getElementById(id).innerHTML ='* Only 10 digits are allowed';
+				  jQuery(phoneNumbers).val("("+phonenumber_d.substring(0,3)+")"+" "+phonenumber_d.substring(3,6)+"-"+phonenumber_d.substring(6,10));
+				  document.getElementById(id).innerHTML ='';
+				  return false;
+			  } else {
+				  var regExp2 = "^[0-9]{10}$";
+				  phone = (phonenumber_d).match(regExp2);
+				  if (phone) {
+					  document.getElementById(id).innerHTML ='';
+					  jQuery(phoneNumbers).val("("+phonenumber_d.substring(0,3)+")"+" "+phonenumber_d.substring(3,6)+"-"+phonenumber_d.substring(6,10));
+					  return true;
+				  } 
+				  else {
+					  document.getElementById(id).innerHTML ='* Phone numbers must be 10 digits';
+					  return false;
+				  }
+			  }	  
+		  } else {
+			  if((jQuery(phoneNumbers).attr('id').trim())!='evening_phone' ) {
+				  document.getElementById(id).innerHTML ='* Field cannot be blank';
+				  return false;
+			  } else {
+				  document.getElementById(id).innerHTML ='';
+				  return true;
+			  }
+		  }
+	  }  
+}
+
+function fnvalidform(){
+	if(jQuery("#day_phone").length>0) {
+		if(fnvalidatePhoneNumber(jQuery("#day_phone"),'msg-day_phone',null))
+		{ } else {
+			return false;
+		}
+	}	
+	if(jQuery("#evening_phone").length>0) {
+		var evening_phone=jQuery("#evening_phone").val();
+		if(evening_phone!=null && evening_phone!='' && evening_phone!=' ') {
+			if(fnvalidatePhoneNumber(jQuery("#evening_phone"),'msg-evening_phone',null))
+			{ } else {
+				return false;
+			}
+		}	
+	}
+	return true; 
+}
+
+function fnisNumber(event){
+	 var x = event.which || event.keyCode;
+	 if( event.shiftKey == false && ( (x>=48 && x<=57) || (x>=96 && x<=105) || (x==8) || (x==37) || (x==39) || (x==46) || (x==9) ) ){ }
+	 else {
+		 event.preventDefault();
+	 }
+}
+</script>
+<!-- 629171 end-->
 
 
 <!-- 516370 -->
@@ -100,6 +174,10 @@ function setGoogleRemarketingParam(pagetype,prodid,total){
 <style>
 	#cartCountDiv{width: 35px;top: 2.5px;right: 28px;position: absolute;color: rgb(0, 0, 0);font-size: 11px;font-weight: bold;text-align: center;}
 	.notShown{display:none;}
+	.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
 </style>
 <!-- SCR 485770 -->
 <script type="text/javascript">
@@ -124,13 +202,24 @@ $(document).ready(function(e){
 		e.preventDefault(); // otherwise, it won't wait for the ajax response
 	    $link = $(this);
 		var currentHref = window.location.href;
+		
 		var base_url=currentHref.substring(0, currentHref.indexOf("com")+3);
+		
 		if ($("#thankscontainer").length > 0){
 			currentHref = base_url+"/template/index/";
 		}
-		if(currentHref.endsWith("/wf")){
-			currentHref = base_url+"/template/index/";
+		
+		
+		//ticket#630126 start
+		/* if(currentHref.endsWith('/wf')){
+			alert('endWith wf');
+			currentHref = base_url+'/template/index/';
+		} */
+		if(currentHref.indexOf('/wf') >= 0){
+			
+			currentHref = base_url+'/template/index/';
 		}
+		//ticket#630126 end
 		$.ajax({
 	           type: 'POST',
 	           data: {currentPage: currentHref},
@@ -145,6 +234,26 @@ $(document).ready(function(e){
             	   var err = eval("(" + xhr.responseText + ")");
                } 
 	    });
+	});
+	jQuery(".sign_in_head").click(function(e){
+		e.preventDefault(); // otherwise, it won't wait for the ajax response
+		jQuerylink = jQuery(this);
+		var currentHref = window.location.href;
+		var base_url=currentHref.substring(0, currentHref.indexOf("com")+3);
+		jQuery.ajax({
+	          type: 'POST',
+	          data: {searchPage: currentHref},
+	          url:  base_url+'/include/searchLogin_page.jsp',
+	          success : function(type,data,url) {
+	        	 window.location.href = jQuerylink.attr('href');
+	             return true;
+	          },
+	          error : function(xhr,e) {
+	       	   console.debug(xhr); 
+	      		   console.debug(e);
+	       	   var err = eval("(" + xhr.responseText + ")");
+	          } 
+	   });
 	});
 });
 </script>
@@ -270,7 +379,7 @@ function chkWhiteSpace(f) {
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 <!-- End. -->
 
-    <link rel="stylesheet" href="css/cohead.css?ver=35" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/cohead.css?ver=41" type="text/css" media="screen">
 
     <style>
     /* Scr#558221  */
@@ -6384,7 +6493,7 @@ environment for the hi-tech professional.
 			<hr>
 			<li>
                     
-                    <a href="https://shop4.frys.com//wf?a%3DSIGN_IN_BRIDGE%2Cw%3DCHECKOUT=1" id="no_arrow" onmouseout="removeArrow()">Sign In</a>
+                    <a href="https://shop4.frys.com//wf?a%3DSIGN_IN_BRIDGE%2Cw%3DCHECKOUT=1" id="no_arrow" class="sign_in_head" onmouseout="removeArrow()">Sign In</a>
                         
              </li> 
 		
@@ -6666,6 +6775,8 @@ function showPopUp(e) {
     var moveLeft = 20;
     var width_div = 280;
     var total_width = 1000;
+    var newPopupWidth = 0;
+    var gridListValue = jQuery("#listGridVal").val();
     if(!placed){$('#hoverbox').appendTo("body");placed=true;}
     if( (total_width - (e.PageX + (width_div/2))) > 0 )
     	{
@@ -6673,8 +6784,14 @@ function showPopUp(e) {
     		$('#hoverbox').css('top', e.pageY + moveDown).css('left', e.pageX + moveLeft);
     	} else {
     		// need to show it right. (overflow case)
-    		moveLeft=($(window).width() - total_width)/2;
-    		$('#hoverbox').css('top', e.pageY + moveDown).css('right', moveLeft);
+    			if(gridListValue == "grid"){
+    				moveLeft=($(window).width() - total_width);
+    				newPopupWidth = e.clientX - moveLeft + 115;
+    				$('#hoverbox').css('top', e.clientY + moveDown).css('left', newPopupWidth).css('position','fixed');
+    			}else{
+    				moveLeft=($(window).width() - total_width)/2;
+    					$('#hoverbox').css('top', e.clientY + moveDown).css('right', moveLeft).css('position','fixed');
+    			}
     	}
 	$('#hoverbox').show();
     return false; 
@@ -6702,7 +6819,7 @@ function hidePopUp() {
 	<script type="text/javascript" src="bootstrap/js/jquery.js"></script>
 	<script src="bootstrap/js/bootstrap.min.js"></script>
 	<script src="bootstrap/js/custom.js"></script> 
-	<link rel="stylesheet" href="bootstrap/css/addToCartStyle.css?ver=35">
+	<link rel="stylesheet" href="bootstrap/css/addToCartStyle.css?ver=41">
 	
 
 
@@ -6736,6 +6853,73 @@ function addPscForHD(elem,prodId,parentQty,count,itemPrice){
 			 $(addPscLink).attr("href","/ShopCartServlet?purchase="+formattedPlu+"&parentPlu="+prodId+"&sequence="+parentQty+"&actualSubtotal="+totalPrice+"&editSelectPart=editPart&checkoutClick=true&coverageStatus=addCoverage");
 		 }
 	  }
+}
+
+
+function applyCoupon(couponsApp,prodExPrice,prodId){
+	var couponCode = document.getElementById("couponCode").value;
+	var data = {id:prodId,couponNum:couponCode,price:prodExPrice,coupons:couponsApp};
+	if (couponCode != null) {
+	        if (couponCode.length == 0) {
+	        	document.getElementById('validationerroresdPromo').innerHTML = "<div><span class='col-xs-12 alert-box error font_med'><span>Error: </span>Please Enter Promo Code</span></div>";
+	            return false;
+	        } else {
+	        	$("#promoapply").html("<button data-role='none' class='btn btn-success btn-sm btn_space btn_main font_med'><span class='glyphicon glyphicon-refresh glyphicon-refresh-animate'></span> Apply...</button>");
+	        	$.ajax({
+	 	        	type: 'POST',
+	 	        	data: data,
+	 	       		url: '/template/inc/price/applyCouponOnPopUp.jsp',
+	 	            datatype:'text',
+	 	            cache:false
+		 		  }).done(function ( response ) {
+		 			   var resdata = response.trim();
+		 			   if(resdata.indexOf("Success=")>-1){
+		 				  	var preString = "Success";
+		 				  	var searchString = "=";
+		 				  	var newPreString = "Disc";
+		 				  	var newPreIndex = resdata.indexOf(newPreString);
+		 				  	var coups = resdata.substring(0,newPreIndex);
+		 				  	var newSearchIndex = newPreIndex + resdata.substring(newPreIndex).indexOf(searchString);
+		 				  	var preIndex = resdata.indexOf(preString);
+		 				  	var searchIndex = preIndex + resdata.substring(preIndex).indexOf(searchString);
+		 				  	var extPrice = resdata.substring(newSearchIndex+1,preIndex);
+		 				  	var discPrice = prodExPrice - extPrice;
+		 				  	discPrice = parseFloat(Math.round(discPrice * 100) / 100).toFixed(2);
+		 				  	document.getElementById('esdCoupExt').innerHTML = "<Strong>Ext Price : $"+extPrice+"</Strong>";
+		 				  	document.getElementById('esdCoupDisc').innerHTML = "<Strong style='color:green;'>You Saved : $"+discPrice+"</Strong>";
+		 				  	resdata = resdata.substring(searchIndex+1,resdata.length);
+		 				  	if(coups != null && coups != "" && coups.indexOf(",")>-1) {
+		 				  		coups = coups.substring(0, coups.length - 1);
+		 				  	}
+		 					$("#promoapply").html("<a href='javascript:void(0);' id='couponClick' onclick='return applyCoupon(\""+coups+"\","+prodExPrice+","+prodId+")' data-ajax='false'><button id='applyPromo' data-role='none' class='btn btn-success btn-sm btn_space btn_main font_med' value='apply'> Apply </button></a>");
+		 					document.getElementById('validationerroresdPromo').innerHTML = "<div><span class='col-xs-12 font_med alert alert-success'><strong>Success!</strong>&nbsp;Coupon Applied Successfully. Please continue to download</span></div>";  
+		 					document.getElementById("couponCode").value='';
+		 					var loginlink = $('#esdloginlink').attr('href');
+		 					if(loginlink.indexOf("EBC=")>-1){
+		 						var ebcIndex = loginlink.indexOf("&EBC");
+		 						loginlink = loginlink.substring(0,ebcIndex);
+		 					}
+		 					loginlink = loginlink+"&EBC="+resdata;
+		 					$('#esdloginlink').attr('href',loginlink);
+		 					return true;
+		 			    }
+		 				else if(resdata.indexOf("Success=")<0){
+		 					$("#promoapply").html("<a href='javascript:void(0);' id='couponClick' onclick='return applyCoupon(\""+couponsApp+"\","+prodExPrice+","+prodId+")' data-ajax='false'><button id='applyPromo' data-role='none' class='btn btn-success btn-sm btn_space btn_main font_med' value='apply'> Apply </button></a>");
+		 					document.getElementById('validationerroresdPromo').innerHTML = "<div><span class='col-xs-12 alert-box error font_med'><span>Error: </span> "+resdata+"</span></div>";
+		 					return false;
+		 				}
+		 				else{
+		 					$("#promoapply").html("<a href='javascript:void(0);' id='couponClick' onclick='return applyCoupon(\""+couponsApp+"\","+prodExPrice+","+prodId+")' data-ajax='false'><button id='applyPromo' data-role='none' class='btn btn-success btn-sm btn_space btn_main font_med' value='apply'> Apply </button></a>");
+		 					document.getElementById('validationerroresdPromo').innerHTML = "<div><span class='col-xs-12 alert-box error font_med'><span>Error: </span> System Error. Please Try Again</span></div>";
+		 					return false;
+		 				}
+		 		  });
+	        }
+	 }
+	 else{
+		 document.getElementById('validationerroresdPromo').innerHTML = "<div><span class='col-xs-12 alert-box error font_med'><span>Error: </span>Please Enter Promo Code</span></div>";
+         return false;
+	 }
 }
 
 function addPsc(elementId,x,prod_id){
@@ -6801,6 +6985,24 @@ function addToCartBtnHome(plu_id ){
 			}
 }
 
+function addToCartBtnSearchDownload(plu_id ){
+	setSearchResultUrlCookie();//SCR#595427
+	 var cartUrl = '/template/inc/price/add2DownloadPopup.jsp?sku='+plu_id;
+	 var chkMedia = 'Desktop' ;
+	 	/*  $.ajax({
+	       type: "GET",
+	       url:"/ShopCartServlet?purchase=" + plu_id,
+	       dataType: "html"}).done(function (data) {  */
+	    	  if(chkMedia == 'Mobile' ){
+	    		  window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id;
+	    	  }  else { 
+	    		  $("#addToCartModal").find(".modal-content").load(cartUrl);	
+	    		  
+	    	  }  		
+	    	 /* });  */
+	 
+}
+
 	function addToCartBtnSearch(plu_id) {
 		setSearchResultUrlCookie();//SCR#595427
 		 //var cartUrl = '/template/inc/price/addToCartModal.jsp?sku='+plu_id;  
@@ -6818,7 +7020,34 @@ function addToCartBtnHome(plu_id ){
 		   	 }); 
 		 }	 
 	}
-	
+//589760
+ function addToCartBtnHomeNew(plu_id,neareststorename,defaultstoreno){
+	 setSearchResultUrlCookie();//SCR#595427
+	// var cartUrl = '/template/inc/price/addToCartModal.jsp?sku='+plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;		
+	var cartUrl  = "/ShopCartServlet?action=add_item&form_plu=" + plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;	
+	 var chkMedia = 'Desktop' ;
+		if(chkMedia == 'Mobile' ){ 
+			window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;
+		} else {
+		$("#addToCartModal").find(".modal-content").load(cartUrl);	
+		}
+	} 
+ 	
+ function addToCartBtnSearchNew(plu_id,neareststorename,defaultstoreno){
+	 	setSearchResultUrlCookie();//SCR#595427
+		 var chkMedia = 'Desktop' ;
+		 if(chkMedia == 'Mobile' ){
+   		  window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id;
+   	 	 }  else {
+		 	 $.ajax({
+		       type: "GET",
+		       url:"/ShopCartServlet?action=add_item&form_plu=" + plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno,
+		       dataType: "html"}).done(function (data){ 
+		    		  $("#addToCartModal").find(".modal-content").html(data);  		
+		    	 });  
+   	  		}
+	 } 
+ //589760
  function removeItemFromCart(plu_id){
 	 $.ajax({
 	       type: "GET",
@@ -6828,20 +7057,21 @@ function addToCartBtnHome(plu_id ){
 	    	 }); 
  }
 
- function removeHomeDeliveryItemFromCart (plu_id) {
-	 
-	 $.ajax({
-	       type: "GET",
-	       data: {seqNo: -1,
-	    	   plu: plu_id,
-      	  	   
-      	  	   },
-	       url:"/ShopCartServlet?action=clear_homedelivery_parts",
-	       dataType: "html"}).done(function (data) {
-	    	   window.location.reload();
-	    	 }); 
-	 
- }
+ function removeHomeDeliveryItemFromCart (plu_id,itmQty,sequence){
+	 	$.ajax({
+	 		type: "GET",
+			data: {
+			    form_plu: plu_id,
+			    quantity: itmQty,
+			    sequence:sequence
+		    },
+			url:"/ShopCartServlet?action=change_quantity",
+			dataType: "html"
+			}).done(function (data){
+				  //window.location.reload();
+				  window.location.href="/ShopCartServlet?action=display_cart";
+			});
+	}
 
  
  function refreshPage(){		
@@ -6858,7 +7088,6 @@ function addToCartBtnHome(plu_id ){
  
 <!-- End. -->
 <!-- End. -->
-
 
 <table border="0" width="1000" cellspacing="0" cellpadding="0">
   <tbody><tr valign="top">
@@ -7208,12 +7437,20 @@ Last Updated: February 26, 2015
 
 
 
-
+<script type="text/javascript">
+function goToMobile() {
+	event.defaultPrevented;
+	var currentHref = window.location.href;
+	currentHref = currentHref.substring(currentHref.lastIndexOf("/")+1);
+	var href = jQuery("#mobile_link").attr("href")+"?page="+currentHref;
+	jQuery("#mobile_link").attr('href',href);
+}
+</script>
 <center>
 
 <!-- By Trantor : SCR # 482142 , In order -->
 
-
+  
 
 
 
@@ -7494,7 +7731,7 @@ Find us: &nbsp;&nbsp;<a href="http://plus.google.com/105770605049937525517"><img
       </div>
 
 
-       <div id="bottom2" style="text-align:left" font-color="#555454">Copyright© 1995-2016 Fry's Electronics, Incorporated. <br>All rights reserved.Fry's Electronics, Frys.com and Outpost.com <br>are registered trademarks of Fry's Electronics, Incorporated.
+       <div id="bottom2" style="text-align:left" font-color="#555454">Copyright© 1995-2017 Fry's Electronics, Incorporated. <br>All rights reserved.Fry's Electronics, Frys.com and Outpost.com <br>are registered trademarks of Fry's Electronics, Incorporated.
       </div>
       
             <div id="bottom3" style="text-align:left" font-color="#555454">
@@ -7568,7 +7805,7 @@ s.parentNode.insertBefore(tagjs, s);
 
 
 
-<p style="font-size: 6px; color: #ddd;">111</p>
+<p style="font-size: 6px; color: #ddd;">160</p>
 
 </td>
 </tr>
