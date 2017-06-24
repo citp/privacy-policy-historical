@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space-facts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012742id_/http%3A//space-facts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space-facts.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624022945id_/http%3A//space-facts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Space Facts
 
