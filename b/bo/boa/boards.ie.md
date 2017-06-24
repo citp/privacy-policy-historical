@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233732id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002505id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
 
 # Boards.ie - Now Ye're Talkin'
 
