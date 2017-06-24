@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balastera.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617070449id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balastera.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624130657id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # iPage's Privacy Policy
 
