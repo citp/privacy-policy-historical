@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posadas.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218101346id_/http%3A//www.posadas.com/en/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posadas.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624075421id_/http%3A//www.posadas.com/en/privacidad) for the most accurate reproduction.*
 
 # Posadas - Security content
 
