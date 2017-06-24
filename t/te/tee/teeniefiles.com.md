@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeniefiles.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050254id_/http%3A//www.madthumbs.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeniefiles.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624074030id_/http%3A//www.madthumbs.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MadThumbs™
 
