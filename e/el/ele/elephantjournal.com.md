@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephantjournal.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222040748id_/http%3A//www.elephantjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephantjournal.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110103id_/https%3A//www.elephantjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | elephant journal
 
@@ -45,7 +45,8 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via Via [email](mailto:support@elephantjournal.org). 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via Via [email](mailto:support@elephantjournal.com).  
 
-[__](https://twitter.com/home?status=Found%20this%20on%20elephantjournal.com:%20http://www.elephantjournal.com/privacy/ "Tweet this article")[__](https://www.facebook.com/sharer/sharer.php?u=http://www.elephantjournal.com/privacy/ "Share this article")0 Shares  
-823 views
+
+[__](https://twitter.com/home?status=Found%20this%20on%20elephantjournal.com:%20https://www.elephantjournal.com/privacy/ "Tweet this article")[__](https://www.facebook.com/sharer/sharer.php?u=https://www.elephantjournal.com/privacy/ "Share this article")0 Shares  
+3,328 views
