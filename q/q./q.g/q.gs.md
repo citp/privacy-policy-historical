@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the q.gs privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505210848id_/http%3A//q.gs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q.gs privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624025020id_/https%3A//www.adf.ly/privacy) for the most accurate reproduction.*
 
 # AdFly - Terms & Conditions
 
 **This statement was last updated September 10, 2015.**
 
-The term 'AdFly' or 'adf.ly' or 'us' or 'we' refers to the owner of the website 'x19 Limited' whose registered office is x19 Limited, 27 Old Gloucester Street, London, WC1N 3AX. Our company registration number is 05995703, registered in England. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
+The term 'AdF.ly' or 'AdFly'' or 'us' or 'we' refers to the owner of the website 'x19 Limited' whose registered office is x19 Limited, 27 Old Gloucester Street, London, WC1N 3AX. Our company registration number is 05995703, registered in England. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
 We at x19 Limited respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
 
@@ -257,6 +257,8 @@ This will store a single cookie in your browser, you will need to repeat this fo
 ## Third Party Polices
 
 The majority of advertising shown by AdFly is hosted by a third party. We have no control over the information they collect, so you should refer to their individual privacy policies for more information. We do not share or sell your information to your advertisers, any PII information collected by our advertisers must be provided by yourself.
+
+Our third-party advertising partners may set cookies on your device when you visit our website to help them better understand your advertising preferences.
 
 Please see the Digital Advertising Alliance's consumer choice page (<http://www.aboutads.info/choices>) for more information and how to opt-out of interest based advertising from participating companies.
 
