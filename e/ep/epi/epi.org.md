@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122155734id_/http%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114221id_/http%3A//www.epi.org/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Economic Policy Institute
 
@@ -73,9 +73,13 @@ When our shopping cart (i.e., bookstore order form) asks users to enter sensitiv
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are housed in a secure environment.
 
-### **Correcting/Updating/Deleting/Deactivating Personal Information**
+**
 
- ****  
+### Correcting/Updating/Deleting/Deactivating Personal Information
+
+**
+
+****  
 If a user’s personally identifiable information changes (such as zip code, phone, email, or postal address), or if a user no longer desires our service, we provide a way to correct, update, or delete/deactivate users’ personally identifiable information. This can usually be done by emailing us at[webmaster@epi.org](mailto:webmaster@epi.org), or by contacting us via telephone or postal mail using the contact information listed below.
 
 ## Notification of Changes
