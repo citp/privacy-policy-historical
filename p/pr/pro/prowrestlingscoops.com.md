@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015033719id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625000615id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
 
 # WWE News & Rumors, Wrestling News, TNA, ROH - ProWrestlingSCOOPS.com - Wrestling News, WWE News, TNA News
 
