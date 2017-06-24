@@ -1,216 +1,185 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229072817id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624084412id_/https%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
-Effective Date: May, 2012
+Effective Date: February 7, 2017
 
 ## Overview
 
-This is our policy regarding the privacy of information we collect on our web sites: Education.com (collectively, the “Websites”). This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices.
+This is our policy regarding how we collect, use, and disclose the information we, Education.com, Inc. ( **“Education.com”** , **“we”** , **“us”** , or **“our”** ), collect on our website services at www.education.com (the **“Website”** ); through our mobile applications Bookbuilder, FunFinder, and Education.com Math and Reading Lessons (collectively, the **“Apps”** ); through browser and other web extension applications, such as the Education.com and Education.com Kids Google Web Store App, and through the services available through our ;Website, Apps, and other applications (such services, along with the Website, Apps, and applications are, collectively, the **“Services”** ). 
 
-## About Children
+This Privacy Policy applies to all of our users, including children under the age of 13, but for more specific information about our children’s privacy practices, please see our Children’s Online Privacy Protection Act (“COPPA”) Privacy Policy (“COPPA Policy”) <https://www.education.com/privacy/child-privacy/>.
 
-This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors under the age of 13. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. Parents should not include their child’s full name anywhere on the website. Within SchoolFinder, secondary students above the age of 13 may write school reviews, however students' names will never be displayed for privacy reasons.
+By visiting our Website or using any of our Apps or Services, you agree that any information that we collect from or about you through our Services will be handled as described in this Privacy Policy. Your use of our Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/), including its applicable limitations on damages and the resolution of disputes. The Education.com, Inc. [Terms of Use](https://web.archive.org/terms-of-use/) are incorporated by reference into this Privacy Policy.
 
-Education.com offers a premium service called Brainzy which is intended for use by children under 13. Parental registration is required for all children using Brainzy. During registration, Brainzy customers are asked to provide personal information about their children including participating children's names, genders and dates of birth. Children are never asked to provide personal information. Brainzy is an entirely ad-free environment and Education.com does not share information collected in Brainzy (either personal information gathered during registration or tracking information collected during use) with any 3rd party. Read complete Brainzy Privacy Policy below.
-
-## Information We Collect and How We Use It
-
-### Summary of Information We Gather and Track
-
-We gather two types of data about users:
-
-  1. personal information, which individual users provide (i) when registering as a member of our Websites via Education.com's internal registration form or using Facebook Connect, (ii) when registering as a subscriber to one of our partners’ premium subscription services, (iii) when using Worksheets, Activities, Workbooks, Collections, Blogs, JustAsk, SchoolFinder, MyEdu, or our Download All feature and any other community features on our site, (iv) when participating in surveys and polls,  (v) when participating in surveys or sweepstakes; (vi) when posting comments to Blogs; and (vii) when signing up to receive one or more of our free email newsletters and notifications; and
-  2. tracking information, which is automatically collected about all visitors to the Websites.
-
+  * Information We Collect
+  * Cookies and Other Tracking Mechanisms
+  * Use of the Information
+  * Choice and Opt-out
+  * Disclosure of Information
+  * Security
+  * Changes in this Privacy Policy
+  * Your Independent Relationship With Other Companies
+  * Contact Us
 
 
-### Personal Information
 
-We collect personal information in several places on our Websites, which are set forth generally below. We will always provide a secure area of our Websites for you to enter your information.
+## Information We Collect
 
-#### **Membership**
+We may collect information about you directly from you, from third parties, and automatically through your use of our Services. We may combine information collected from or about you from these various sources.
 
-Currently, visitors to our site are able to have access to some content without becoming a member. However, visitors who would like to download worksheets, gain access to the community features on our site, or rate editorial content on Education.com, are required to register to become a member. In order to register, visitors must supply us with a valid email address, a unique User Name and password, and some additional information about you (e.g., your "type": parent, teacher, or student; zip code, etc.).
+### Information We Collect Directly from You
 
-#### **Facebook Connect**
+We collect information directly from you in several places on our Services, as set forth generally below.
 
-Education.com offers Facebook users the opportunity to register with and share activity using Facebook Connect. By completing registration via Facebook Connect, you grant Education.com the permission to access your Facebook profile information and to use it in accordance with the Facebook terms of use and the Education.com Privacy Policy.
+#### **Registration**
 
-If you are not currently registered as an Education.com member and you use the Facebook Connect functions, you will first be asked to enter your Facebook credentials and then will be given the option to register and join Education.com. Once you register with Education.com and connect with Facebook, you will be given the opportunity to opt in to posting Education.com activity back to your Facebook wall.
+Currently, visitors to our Services are able to access some content without becoming a member. However, if you would like to download worksheets, engage in digital learning experiences, customize or personalize certain content, gain access to certain community features, or rate editorial content, you are required to register to become a member. In order to register, you must supply us with a valid email address and password; as well as some additional voluntary information about you (e.g., your "type": parent, teacher, or student; school affiliation, grade focus, zip code, etc.).
 
 #### **Premium Services**
 
-If you’d like access to one or more of our paid offerings (Education.com Plus, Workbooks, Brainzy), you'll need to register for our site, and you'll be asked to provide additional personal, billing, or other specified information that we'll need to charge for and activate the service or product. Customers purchasing Brainzy (Education.com's online learning program) will be asked to provide personal information about their children including name, gender and date of birth. Children using Brainzy will never be asked to provide personal information.
+If you’d like access to one or more of our paid offerings (including Education.com Pro, Plus, and Workbooks), you'll need to register for that offering, and you'll be asked to provide additional personal, billing, or other specified information that we'll need to charge for and activate the service or product. Customers purchasing one or more of our paid offerings will be asked to provide basic personal information about their children such as a screen name. 
 
-#### **Blogs, JustAsk, SchoolFinder, MyEdu and Comments**
+#### **Public Forums: Blogs and Comments**
 
-As a service to our users, we feature Blogs, JustAsk, SchoolFinder, MyEdu and Comments where users with similar interests can share information and support one another, send messages to one another, provide a review of a school, comment on editorial content, or where users can post questions for experts and other members of the community to answer. Information shared in Blogs, JustAsk, SchoolFinder, and Comments postings is accessible to the general public and may be viewed, disclosed to or collected by third parties that do not adhere to our Privacy Policy or that may use the information to send you unsolicited communications. In addition, we may retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. You should think carefully before disclosing any personal information in any public forum.
+As a service to our users, we feature Blogs and Comments where users with similar interests can share information and support one another, send messages to one another, provide a review of our products, comment on editorial content. Information shared in Blogs and through Comments postings is accessible to the general public and may be viewed, disclosed to, or collected by third parties that do not adhere to our [Terms of Use](https://web.archive.org/terms-of-use/) or this Privacy Policy or that may use the information to send you unsolicited communications. In addition, we may retain this information as necessary to resolve disputes, provide customer support, and troubleshoot problems as permitted by law. You should think carefully before disclosing any personal information in any public forum.
 
 #### **Surveys/Polls**
 
-At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, such as your reactions to a particular article or feature set on our site. Because information obtained in these surveys is connected with individual subscribers and is used internally to better market our services, participation is voluntary. In addition, some of our advertising partners will on occasion take polls of our visitors. Such polls are for use by the advertising partner, and participation is voluntary. We do not assure privacy of information voluntarily provided in response to a survey or poll.
+At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, such as your reactions to a particular article or feature set on our site. Because information obtained in these surveys is connected with individual subscribers and is used internally to improve our products or better market our services, participation is voluntary.
 
 #### **Contests and Sweepstakes**
 
 We sometimes offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants’ identities and notifying the winners. If the contest or sweepstakes is being administered by a third party, this information will be disclosed to that third party. However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
 
-### Tracking Information
+#### **Other Information You Provide Through Our Services**
+
+We will also collect any other information that you provide through our Services, such as your name, email address, job title, phone number, school or organization name, account type, payment type, and the contents of any message you submit through our Services.
+
+### Information We Collect from Third Parties
+
+You can create an account with us, by logging in through certain third-party accounts, such as Facebook, Google, and Clever. By logging in through a third-party account, you grant Education.com permission to access certain information from that third-party account as explained on the permissions page when you log in, including: your name, email and public profile ID.
+
+### Information We Collect Automatically
+
+We may also automatically collect information about users of our Services through cookies, web beacons, and other technologies. The collected information may include, but is not limited to, IP address, domain name; browser type and operating system; web pages viewed while logged in; links clicked; the length of time spent on our Services; and the referring URL, or the webpage that led a user to our Services. In addition, we will collect information about user activities within our Services, such as which games a user plays, the number of correct and incorrect answers, and download history.
+
+## Cookies and Other Tracking Mechanisms
+
+### Our Tracking
 
 Tracking data consists of both individual and aggregated tracking information and is automatically gathered using “cookies.” A cookie is a small data file containing information, such as a user’s member name, that is written to the user’s hard drive by a web server and used to track the pages visited.
 
-#### **Our Tracking**
+We use cookies in several ways to track users’ navigation through our Services. First, the information we gather on an individual basis is used for internal purposes only, such as accessing a member profile. We also use tracking information on an aggregate basis, to track the usage of our products, to analyze patterns on our Services, and to provide anonymous reporting of usage for internal and external clients. In all cases, our cookies are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as “action tags” (also known as “web beacons” or “one pixel .gif files”) to measure the effectiveness of our advertisements.
 
-We use cookies in several ways to track users’ navigation through our Websites. First, the information we gather on an individual basis is used for internal purposes only, such as accessing a Member Profile. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on the Websites, and to provide anonymous reporting of usage for internal and external clients. In all cases, our cookies are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as “action tags” (also known as “web beacons” or “one pixel .gif files”) to measure the effectiveness of our advertisements.
+You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our Services without having to constantly log in using your User Name and password, we recommend that you leave them turned on.
 
-You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our Websites without having to constantly log in using your User Name and password, we recommend that you leave them turned on.
+### Tracking by our contractors and agents
 
-#### **Tracking by our contractors and agents**
+We use third-party online business optimization software (including Google Analytics, Optimizely, and CrazyEgg), to assist us in the capture and analysis of customer usage information. These service providers act as limited agents to us, for the purpose of providing their services. Any information obtained by such third parties from our users or us is and will remain our property, and will be subject to this privacy policy. We do not permit these service providers to review, share, distribute, print, or reference any session data of visitors to our Services, except as specified in our agreements with them or as may be required by law. To learn more about the privacy practices of such service providers, we encourage you to review the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/); the [Salesforce Marketing Cloud Privacy Policy](https://www.marketingcloud.com/privacy-policy/); the [Optimizely Privacy Policy](https://www.optimizely.com/privacy/) and Optimizely’s [opt-out instructions](https://www.optimizely.com/opt_out/); and the [CrazyEgg Privacy Policy](https://www.crazyegg.com/privacy/) and the [Crazy Egg opt-out feature](https://www.crazyegg.com/opt-out/).
 
-We use third-party online business optimization software (including Omniture), to assist us in the capture and analysis of customer usage and tracking information. These service providers act as limited agents to us, for the purpose of providing their services. Any information obtained by such third parties from our users or us is and will remain our property, and will be subject to this privacy policy. We do not permit these service providers to review, share, distribute, print, or reference any session data of visitors to our Websites except as specified in our agreements with them or as may be required by law. To view the privacy policy of Omniture, [click here](http://www.omniture.com/privacy/policy). If you wish to opt out of Omniture’s information collection and analysis, follow the opt out instructions described in their privacy policy.
+### Tracking by Our Advertisers
 
-#### **Tracking by our Advertisers**
+Our advertisers include a wide variety of companies, such as financial services companies (e.g., brokerage firms, banks, and mortgage companies), computer manufacturers, software companies, automobile makers, toy manufacturers, and retail stores. Our advertisers and advertising vendors display targeted advertisements. Although we do not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you consent to the possibility that the advertiser will assume you meet the criteria used to target the ad.
 
-Our advertisers include a wide variety of companies, such as financial services companies (e.g., brokerage firms, banks, and mortgage companies), computer manufacturers, software companies, automobile makers, toy manufacturers, and retail stores. Our advertisers and advertising vendors display targeted advertisements. Although we do not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you consent to the possibility that the advertiser will assume you meet the criteria used to target the add.
+In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our Services or other services may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
 
-In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
+We use independent advertising networks to deliver advertising content to the pages that you view on our Services – such as Google AdX, Brealtime, Yieldbot, AOL, Appnexus, Sovrn among others. If you would like to know more about these companies’ privacy practices, please review their policies on their respective sites. If you wish to opt out of any of these company’s information collection and analysis, follow the opt out instructions described in their privacy policy.
 
-We use an independent network advertising server (DoubleClick) that delivers advertising content to the pages that you view on our Websites. If you would like to know more about the privacy practices of one such third-party ad server, please [click here to view DoubleClick’s privacy policy](http://www.google.com/policies/technologies/ads/). If you wish to opt out of DoubleClick’s information collection and analysis, follow the [opt out](http://www.google.com/ads/preferences/) instructions described in their privacy policy.
+  * [Google AdX](https://www.google.com/policies/technologies/ads/)
+  * [Brealtime](http://www.brealtime.com/privacy-policy/)
+  * [Yieldbot](https://www.yieldbot.com/privacy-policy/)
+  * [AOL](http://http//privacy.aol.com/)
+  * [Appnexus](https://www.appnexus.com/en/company/platform-privacy-policy)
+  * [Sovrn](https://www.sovrn.com/privacy-policy/)
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/choices/). 
+
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Services. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Services and other websites or applications in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/choices/).
+
+### Do Not Track Disclosure
+
+Our Services do not respond to Do Not Track signals. For more information about Do Not Track signals, please click [here](https://allaboutdnt.com/).
 
 ## Use of the Information
 
-We use personal information to enhance users’ experiences on our sites.
+We use your information, including personal information, as follows:
+
+#### **Provide Our Services**
+
+We use your information to provide and maintain our Services, including tailoring content to you; processing orders and payments; improving our Services; developing new features, products, or services; authenticating users; performing technical operations, such as updating software; and for other service and support-related purposes.
 
 #### **Free Newsletters**
 
-If you’re a registered member, we use your email address to send you free email newsletters containing selected editorial, educational content, advertisements and links to our sites and social media accounts. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting your [Newsletter Preferences page](https://web.archive.org/my/newsletters/).
+Email preferences page. 
 
 #### **Special Offers and Advertisements**
 
-We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by our company or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Newsletter Preferences page](https://web.archive.org/my/newsletters/).
+We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by us or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Email preferences page](https://web.archive.org/my/email-preferences/).
 
-#### **JustAsk Subscriptions**
+#### **Communications**
 
-If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/answers/subscriptions/).
+We use your information to communicate with you (including by email) about your use, or use by the children associated with your account, of our Services, including to send you product or service updates; respond to your inquiries; and for other informational, marketing, or promotional purposes. 
 
 #### **Webinars and Events**
 
 If you register for an Education.com webinar or event, we use your email address to send you notifications relevant to the webinar or event.
 
+#### **Research and Analytics**
+
+We use your information to analyze how users interact with our Services; to monitor and analyze usage and activity trends; and for other research, analytical, and statistical purposes.
+
+#### **Protecting Rights and Interests**
+
+We use your information to protect the safety, rights, property, or security of you, Education.com, the Services, any third party, or the general public; to detect, prevent, or otherwise address fraud, security, or technical issues; to prevent or stop activity that Education.com, in its sole discretion, may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity; to use as evidence in litigation; and to enforce this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/).
+
+#### **Legal Compliance**
+
+We use your information to comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority.
+
 ## Choice and Opt-out
 
-Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the [Newsletter Preferences page](https://web.archive.org/my/newsletters/). Updates, newsletters and email notifications will also include instructions for opting-out of those communications. Also, the “My Settings” page within MyEdu is where a member can opt-out of having his/her profile shown or featured on the site, and make other profile disclosure selections.
+#### **Opting Out of Marketing Communications**
 
-If you request restrictions on our uses or disclosures of your personal information, we may comply with your request by terminating your membership and deleting your account information. Opt out requests do not affect information that we have previously disclosed.
+Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the [](https://web.archive.org/my/email-preferences)Email preferences page. Updates, newsletters, and email notifications will also include instructions for opting out of those communications. 
+
+You may access, modify, or delete the personal information that you have provided to us by logging into your member profile page or emailing us at [support@education.com](mailto:support@education.com). If you request restrictions on our uses or disclosures of your personal information, we may comply with your request by terminating your membership and deleting your account information. Please note that we can only honor requests to out opt of disclosures on a going forward basis and opt-out requests do not affect information that we have previously disclosed. We may also retain certain information about you as required by law or as permitted by law for legitimate business purposes. For example, if you request that we delete your information but we believe that you have violated our [Terms of Use](https://web.archive.org/terms-of-use/), we may retain information about you in order to attempt to resolve the issue before deleting it.
 
 ## Disclosures of Information
 
-We do not sell or disclose the personal information about you described above to nonaffiliated parties (including but not limited to companies, authorities, institutions, or individuals) except to provide you with products or services, when we have your permission, or under the following circumstances:
+We do not sell or disclose the personal information about you described above to nonaffiliated parties (including but not limited to companies, authorities, institutions, or individuals) except to provide you with products or services, when we have your permission, or under the circumstances listed below. We do not disclose your personal information to third parties for those third parties’ own marketing purposes.
 
-  * We provide personal information to nonaffiliated companies that we engage as contractors or agents to perform services for us, such as administering our Websites, systems and software; sending direct mail communications; or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, consistent with this privacy policy;
+  * With other users of our services in order to provide our Services, such as disclosing a child’s information with a parent, teacher, or school administrator so that the parent, teacher, or school administrator can monitor his/her child’s progress on our Services;
+  * To nonaffiliated companies that we engage as contractors or agents to perform services for us, such as administering our Website, systems, and software; sending direct mail communications; or administering a sweepstakes or contest. We will disclose your information with such contractors only to the extent reasonably necessary for them to perform services on our behalf, consistent with this Privacy Policy;
   * In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators, or as otherwise required by law;
-  * To assert or defend our legal rights, including fraud prevention;
-  * To protect the rights, property, or safety of other persons;
+  * To assert or defend our legal rights, including fraud prevention and enforcing this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use/);
+  * To protect the rights, property, or safety of us or other persons, including to detect, prevent, or otherwise address fraud, security, or technical issues, or anything else that we may consider to be, or pose a risk of being, an illegal, unethical, or legally actionable activity;
   * As we deem appropriate to attempt to prevent physical or emotional harm to other persons and/or to their property based on overt or implied threat;
-  * In connection with an actual or proposed corporate merger, acquisition, asset purchase, or other transaction or proceeding involving all or part of the business or assets to which the information pertains.
-  * Disclosures for Joint Marketing and Servicing: We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or other institutions with whom we have joint marketing agreements.
+  * In connection with an actual or proposed corporate merger, acquisition, asset purchase, or other transaction or proceeding involving all or part of the business or assets to which the information pertains; and
+  * To other companies, such as direct marketers to perform marketing services on our behalf, or other institutions with whom we have joint marketing agreements.
 
 
 
-We do not disclose personal information directly or indirectly to third parties for these third parties’ own marketing purposes.
-
-## Correcting and Updating Information
-
-We offer members the ability to correct or update online certain information we collected during registration by visiting the [Member Profile page](https://web.archive.org/profile/my/).
+We may also disclose aggregate, anonymous, or de-identified information about users for marketing, advertising, research, compliance, or other purposes
 
 ## Security
 
-We limit access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with industry standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
+We have implemented safeguards to protect the information we collect. Please be aware that despite our efforts, no data security measures can guarantee 100% security.
+
+You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. 
+
+If you are a parent, teacher, or school administrator, we encourage you to talk to your children about online safety and how they can protect themselves online. For more information, see the Federal Trade Commission’s [Protecting Kids Online](https://www.consumer.ftc.gov/topics/protecting-kids-online) resource.
 
 ## Changes in this Privacy Policy
 
-If we decide to change our privacy policy, we will post changes to this privacy policy.
+If we decide to change this Privacy Policy, we will post changes to our Website.
 
-We reserve the right to modify this privacy policy at any time, so please review it before disclosing personal information on one of our Websites. If we make changes that materially affect our uses or disclosures of personally identifiable information that we have previously collected from you, we will provide a mechanism for you to opt out of the new use or disclosure.
+We reserve the right to modify this Privacy Policy at any time, so please review it before disclosing personal information on one of our Services. If we make changes that materially affect our uses or disclosures of personal information that we have previously collected from you, we will provide a mechanism for you to opt out of the new use or disclosure.
 
 ## Your Independent Relationship With Other Companies
 
-Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on the Websites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them.
+Our Services may contain links to third-party websites and applications. Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services, or are otherwise linked from on our Services. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them.
 
-## Brainzy Privacy Policy
+In addition, some of our advertising partners will on occasion take polls of our visitors, in which case you would provide your information directly to the advertising partner. Such polls are for use by the advertising partner, and participation is voluntary. We do not assure privacy of information voluntarily provided in response to a survey or poll.
 
-Education.com (“Education.com”) values the privacy of children and of all of its users. This COPPA Privacy Policy (“COPPA Policy”) is designed to comply with the Children's Online Privacy Protection Act ("COPPA") and contains important information for parents about how we collect, use and disclose the personal information we collect from children under thirteen years old who use our service Brainzy (“Brainzy”) and its associated web pages. For our Education.com Privacy Policy, go to http://www.education.com/privacy/. With Brainzy, Education.com offers an online, educational program for students. Through Education.com, teachers and parents can sign children up to use Brainzy. 
-
-When a parent or other adult signs up for Brainzy, and gives their child or student access to the Brainzy service, we will obtain the adult’s prior consent to the collection, use and disclosure of their child's personal information in connection with the service. This consent may be obtained via email, credit card transaction, or other acceptable method.
-
-Children's personal information will be handled as described in this Privacy Policy.
-
-## About Us
-
-Education.com operates the Site, Mobile App and Services and can be contacted at:  
-333 South B Street, Unit 101  
-San Mateo, CA 94401  
-
-
-Or via email at [support@education.com](mailto:support@education.com) or six five zero, three six two, four zero three four.
-
-## What Information Do We Collect About Children and Why? 
-
-We may collect information about children directly from parents and (where applicable) teachers, as well as automatically through a child's use of our Site or Services. 
-
-## Information We Collect Directly.
-
-During registration, we will collect a parent's, or where applicable a teacher's, name and email address, as well as the child's name, gender and date of birth. We will also collect credit card or billing information. This information is used to administer the service, obtain the necessary form of parental consent, communicate with account holders about their account, and send newsletters and promotional offers. 
-
-## Information We Collect Automatically. 
-
-We may also automatically collect non-personally identifiable information about users of our Site and Services through cookies, web beacons, and other technologies. The collected information may include domain name; browser type and operating system; web pages viewed while logged in; links clicked; the length of time spent on our Site, Mobile App or Services; and the referring URL, or the webpage that led a user to our Site. We also may collect IP address and other unique identifiers from children, but we will only use them to provide our Services and to understand user activity while using our Services. This information will be linked back to the parent/teacher’s email address on the account so that we may provide the account holder with personalized feedback about each child/student’s educational progress
-
-## How We Use Your Child's Information
-
-We do not use children's information for advertising and marketing purposes. We use the personal information that we gather about children for the following purposes: 
-
-  * To provide our Services, including to respond to customer service and technical support issues and requests; 
-  * To personalize the Services (as explained above), and
-  * To improve our Site and Services.
-
-
-
-We may also use aggregate or de-identified information about users of Brainzy. When we do so, we strip out names, email and contact information and other personal identifiers. We may use aggregate or de-identified information for the following purposes: 
-
-  * To better understand how users access and use our Site and Services; 
-  * To improve our Site and Services, as well as our other products and services, and respond to user desires and preferences; and 
-  * For other research and analytical purposes.
-
-
-
-## How We Share Your Child's Information 
-
-We do not sell children's personal information. In general, we may disclose the personal information that we collect about children to provide our Services, to comply with the law, and to protect Brainzy and other users of our Services. For example, we may share children's personal information as follows:
-
-  * Service Providers. We may disclose the information we collect from children to third party vendors, service providers, contractors or agents who perform functions on our behalf. These third parties are subject to confidentiality and security obligations. 
-  * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the personal information we have collected from to the other company. 
-  * In Response to Legal Process. We also may disclose the personal information we collect in order to comply with the law, a judicial proceeding, court order, subpoena or other legal process. 
-  * To Protect Us and Others. We also may disclose the personal information we collect where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this COPPA Policy, or as evidence in litigation in which Brainzy is involved. 
-  * With Parents and Teachers. Parents are able to log in to view information about their child's use of the Services, including their performance on certain games. In addition, if a child is given access to use Brainzy by a teacher, that teacher may view information about the child's activities. 
-  * Aggregate and De-Identified Information. We may also use and share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
-
-
-
-## Your Rights to Review, Delete and Control Our Use of Your Child's Personal Information
-
-Parents have a right to review the information we have collected about their child, to delete it, and to tell us to no longer use their child's personal information. You can review most of the information we collect about your child by logging in to your account and reviewing your account information and updating the information we maintain about your child. If you do not want us to collect and use your child's information anymore, then you may cancel your account and your child's use of the Services. You may also contact us at support@education.com to request access to your child's information or cancellation of your child's account. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time.
-
-## Changes to this COPPA Policy
-
-This COPPA Policy is current as of the Effective Date set forth below. We may change this COPPA Policy from time to time, so please be sure to check back periodically. We will post any changes to this COPPA Policy on our Site, at [http://www.education.com/privacy/brainzy/](https://web.archive.org/privacy/brainzy/). If we make any changes to this COPPA Policy that materially affect our practices with regard to the personal information we have previously collected from children, we will provide you with notice and obtain your prior verifiable consent in advance of such change.
-
-Effective Date: October 2, 2014.
-
-* * *
-
-## About Us
-
-Education.com operates the Site, Mobile App and Services. Questions or comments regarding this policy should be directed to [privacy@education.com,](mailto:privacy@education.com,) or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
+Education.com, Inc. operates the Services. Questions or comments regarding this policy should be directed to [privacy@education.com](mailto:privacy.education.com), or by writing to 333 South B Street, Unit 101, San Mateo, CA 94401.
