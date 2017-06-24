@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the us2.net privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419222623id_/https%3A//www.midphase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us2.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051444id_/https%3A//www.midphase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Midphase
 
 ## Midphase Privacy Policy
 
-[](http://www.etrust.org/cert/118372.html)
+[](https://www.privacytrust.com/cert/766452.html)
 
 ### Effective Date: August 22, 2014
 
@@ -12,11 +12,9 @@ This Privacy Policy discusses how Hosting Services, Inc. (HSI) collects, uses, m
 
 Upon request, we provide Users with access to all information they have provided to us. Users can access this information by e-mailing us at [billing@midphase.com](mailto:billing@midphase.com). If their personally identifiable information changes, Users may correct, update, or delete inaccuracies through [https://secure.mpcustomer.com](https://secure.mpcustomer.com/). If Users are having trouble accessing the contact address above, our customer support team can assist them, and they can be contacted at [1-866-MIDPHASE]() option 2. Users may also contact us at the address below to correct, amend or delete information we maintain about them.
 
-HSI complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. These frameworks address the collection, use and retention of personal information from European Union member countries and Switzerland. HSI has certified that it adheres to both Safe Harbor Privacy Principles’ respective provisions addressing notice, choice, onward transfer, security, data integrity, access and enforcement. The EU has recognized the US Safe Harbor as providing adequate data protection. The seven applicable Safe Harbor Principles can be found in this Privacy Policy. This Privacy Policy covers information collected during the pure base process. If Users have questions or complaints regarding our Privacy Policy or practices, please contact us at [sales@midphase.com](mailto:sales@midphase.com) or call [1-866-MIDPHASE]() option 1. If Users are not satisfied with our response, Users can contact eTRUST here.
+HSI complies with the EU-U.S. Privacy Shield Framework as set forth by the [U.S. Department of Commerce](https://www.commerce.gov/page/eu-us-privacy-shield) regarding the collection, use, and retention of personal information transferred from the European Union to the United States. HSI has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-The EU Safe Harbor program is due to be superseded by the [EU Privacy Shield](http://www.privacytrust.com/privacyshield/) later this year. Until such time any data collected will remain in accordance with Safe Harbor.
-
-HSI's Safe Harbor Certification can be found here: <http://www.etrust.org/cert/118372.html>
+Individuals have the right to access their personal data after careful screening of account verification and security protocol. Personal data will not be disclosed to third parties. HSI will be subject to investigatory and enforcement powers of the Federal Trade Commission (FTC) if necessary. HSI will also assume liability in cases of onward transfers to third parties.
 
 ## Information Collection and Use
 
@@ -107,6 +105,8 @@ We will share Users’ personal information with third parties only in the ways 
 
 HSI may aggregate information covered by this Privacy Policy and disclose it outside our business. This information will not identify Users individually.
 
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Uk2Group remains liable.
+
 ### Linked/Advertiser Sites
 
 From time-to-time, we may include links or banners for third-party sites, including sites that advertise. This privacy policy does not govern the information these sites collect when you visit them. These sites will know that you have visited them from our site.
@@ -119,9 +119,13 @@ The security of Users’ personal information is important to us. We use commerc
 
 We will retain User’s information for as long as their account is active or as needed to provide Users services. If Users wish to cancel their account or request that we no longer use their information to provide them services, contact us at [billing@midphase.com](mailto:billing@midphase.com). We will retain and use User information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Following termination of the Users’ agreement with us, Users will have no access to this information, and we may delete it for any reason, at any time.
 
+We retain your information for up to 24 months, and often beyond, following your last transaction with us
+
 ### Dispute Resolution
 
-You can raise any concerns with us, or with PrivacyTrust [(http://www.privacytrust.org/complaint/raise_privacy_complaint.php).](http://www.privacytrust.org/complaint/raise_privacy_complaint.php)
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complain to Privacy Trust, an independent third party. Visit [(https://www.privacytrust.com/drs/uk2group)](https://www.privacytrust.com/drs/uk2group) to file a complaint.
+
+Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
 ### Business Transitions
 
@@ -138,4 +142,4 @@ Providence, UT 84332
 Last Updated: July 1, 2014  
 
 
-Call us on 1-866-643-7427 or  Chat with us 
+Call us at 1-866-643-7427 or  Chat with us 
