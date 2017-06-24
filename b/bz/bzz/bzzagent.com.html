@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2016-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222041015id_/https%3A//www.bzzagent.com/pg/Privacy-Notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624105930id_/https%3A//www.bzzagent.com/pg/Privacy-Notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="//www.facebook.com/2008/fbml" xmlns:og="//opengraphprotocol.org/schema/" class="  js"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# bzzagent: http://ogp.me/ns/fb/bzzagent#">
     <title>BzzAgent Privacy Notice | the short version...</title>
@@ -12,9 +12,10 @@
 	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700|Roboto+Slab:400,700|Pacifico" rel="stylesheet" type="text/css">
 
 	<!-- Import the css file that gets built via handlebars/gulp -->
-	<link rel="stylesheet" type="text/css" href="/css/bm/rev/styles-bzz-2a7804c6f7.css">
+	<link rel="stylesheet" type="text/css" href="/css/bm/rev/styles-bzz-4dc10a2bba.css">
 	<!-- Angular CSS file -->
 	<link rel="stylesheet" type="text/css" href="/js/bm/bzz/ng-modules/dist/appStyles.css">
+	<link rel="stylesheet" type="text/css" href="/js/bm/bzz/ng-modules/dist/vendorStyles.css">
     
     
 
@@ -87,22 +88,16 @@
 		var body = document.getElementsByTagName('html');
 		body[0].className = body[0].className+' js';
 	</script>
-	<!-- ClickTale Top part -->
-	<script type="text/javascript">
-		var WRInitTime=(new Date()).getTime();
-	</script>
-	<!-- ClickTale end of Top part -->
 
 	<!-- @TODO - update cookie classes for US / UK - hide on the US -->
-	 <div class="cookie-message">
-			<div class="container padded bm-callout">
+	<div class="cookie-message">
+		<div class="container padded bm-callout">
 			<p>We use cookies to collect information about the way our website is used and to improve your experience. By continuing to use the site, you agree to our use of cookies. <a href="/pg/Privacy-Cookies-Policy">Find out more</a>.</p>
 			<a href="#" class="close icon-X2 icon">Close</a>
-			</div>
 		</div>
+	</div>
 	<div class="page-wrap">
 	<header>
-		
 		<nav>
 			<a href="/" class="logo">BzzAgent</a>
 			
@@ -192,8 +187,8 @@
 <footer>
 	<div class="container">
 		<div class="row">
-			<ul class="col-lg-9 col-12 footer-links">
-				<li class="col-xs-6"><a href="http://www.dunnhumby.com/bzzagent" target="_blank" class="bm-chevron">About Us</a></li>
+			<ul class="col-lg-12 col-12 footer-links">
+				<li class="col-xs-6"><a href="https://about.bzzagent.com/" target="_blank" class="bm-chevron">Work with BzzAgent</a></li>
 				<li class="col-xs-6"><a href="/pg/ContactUs" class="bm-chevron">Contact Us</a></li>
 				<li class="col-xs-6"><a href="/pg/Code-of-Conduct" class="bm-chevron">Code of Conduct</a></li>
 				<li class="col-xs-6"><a href="/pg/Terms-Conditions" class="bm-chevron">Terms</a></li>
@@ -205,6 +200,8 @@
                     
                     
                     
+                    
+                    
                         <li><a class="icon icon-Facebook" href="https://www.facebook.com/BzzAgent" target="_blank" title="Facebook"></a></li>
                         <li><a class="icon icon-Twitter" href="http://twitter.com/bzzagent" title="Twitter" target="_blank"></a></li>
                         <li><a class="icon icon-Instagram" href="http://instagram.com/bzzagent/" title="Instagram" target="_blank"></a></li>
@@ -213,18 +210,18 @@
 				<li><a class="icon icon-Pinterest" href="http://pinterest.com/bzzagent/" title="Pinterest" target="_blank"></a></li>
 			</ul>
 			
-				<div class="col-lg-3 col-8 clear-lg-left">
+				<div class="col-lg-3 col-8">
 					<span class="icon-Language"></span>
 					<language-toggle locale="'en-US'"></language-toggle>
 				</div>
 			
 			<div class="col-lg-4 col-5 footer-flags">
 				
-					<p><a href="https://bzzagent.co.uk/" class="bm-chevron">BzzAgent UK</a> <img src="/css/bm/dev/components/images/flagUK.png"></p>
+					<p><a href="https://bzzagent.co.uk/" class="bm-chevron">BzzAgent UK</a> <a href="https://bzzagent.co.uk/"><img src="/css/bm/dev/components/images/flagUK.png"></a></p>
 				
 				
 			</div>
-			<div class="col-lg-5 col-7 copyright">
+			<div class="col-lg-12 col-12 copyright">
 				<p>© BzzAgent from dunnhumby. <span>All Rights Reserved.</span></p>
 			</div>
 		</div>
@@ -242,6 +239,8 @@
 
 	
 
+	
+
 	<script type="text/javascript">
 	  // Using Asynchronous Google Tracking.
 	  var _gaq = _gaq || [];
@@ -256,38 +255,9 @@
 	  })();
 
 	</script>
-		
 	
 	
 	
-	
-	<script type="text/javascript">
-	//only run lucky orange 25% of the time
-
-	//if luckyorange isn't in session storage lets add it in there
-	if(!sessionStorage.getItem("luckyorange")){
-		
-		//random number from 1-10
-		var rand = Math.floor(Math.random() * (10 - 1 + 1)) + 1;
-		if(rand == 1){ //if rand is 1 run lucky orange for this session
-			sessionStorage.setItem('luckyorange', true);
-		}else{
-			sessionStorage.setItem('luckyorange', false);
-		}
-
-	}
-
-	if(sessionStorage.getItem("luckyorange") == 'true'){ //if luckyorange is set to true run for this session
-		window.__wtw_lucky_site_id = 23526;
-
-		(function() {
-		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
-		wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
-		 })();
-	}
-	
-	</script>
 
     
     
@@ -329,7 +299,13 @@
 
 	<script src="//assets.pinterest.com/sdk/sdk.js"></script>
 	<!-- Import the js file that gets built via handlebars/gulp -->
-	<script type="text/javascript" charset="utf-8" src="/js/bm/bzz/ng-modules/dist/rev/all-191e6d616b.js"></script>
+	<script type="text/javascript" charset="utf-8" src="/js/bm/bzz/ng-modules/dist/rev/all-89f1f30bf2.js"></script>
+	<!-- Dynamically add -->
+	
+	<script src="/js/bm/bzz/ng-modules/node_modules/angular-i18n/angular-locale_en-us.js"></script>
+    <!-- bzz.app.js added here so that we can use angular-i18n -->
+    <script type="text/javascript" src="/js/bm/bzz/ng-modules/bzz.app.js"></script>
+
 	<script data-main="/js/bm/bzz/dist/main" src="/js/bm/base/require-jquery.min.js" type="text/javascript" charset="utf-8"></script>
 	
 
@@ -364,7 +340,7 @@
             status: true, // check login status
             cookie: true, // enable cookies to allow the server to access the session
             xfbml: true,  // parse XFBML
-            version: 'v2.2'
+            version: 'v2.8'
         });
         
         FB.getLoginStatus(function(response) {
