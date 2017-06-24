@@ -1,103 +1,66 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045422id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624155359id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
-This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by New IT Solutions Ltd. (" **we** " or " **us** ") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the " **Service** ") and our mobile applications 4shared Photo, 4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about using the Service. 
+Last Revised: March 2, 2017
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
+This privacy policy ("Policy") explains how information you provide to us is collected, used and disclosed by 4shared ("we" or "us") with respect to your access and use of 4shared's online file storage and sharing service located at [www.4shared.com](http://www.4shared.com/), (the "Service") and our mobile applications ("Apps" or "App"), collectively, our Digital Properties, so you can make an informed decision about using the Service.
 
-**What Is Personal Information?**
-
-As used in this Policy, the term "personally identifiable information" means information that specifically identifies an individual (such as a name, user name or e-mail address), or information about that individual that is directly linked to information that specifically identifies an individual. Personally identifiable information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personally identifiable information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
+We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any information you provide to us or collected about you will be used.
 
 **What Information Do We Collect?**
 
-Active Collection: We collect information from you in various ways when you use the Service and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, date of birth, social network data and performance related data. When using our Apps we will collect information such as device type, operating system type and version. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service. 
+The following types of information may be collected while you use our Digital Properties:  
+\- Personal information you choose to provide to us such as your name, mailing address, and email address.  
+\- Non-personal information including, but not limited to, location, browser type, IP address, mobile device type and identifier, screen resolution, operating system, the date and time of a visit or use, the pages visited on this Service and areas accessed in the App, the time spent viewing the Digital Properties, and return visits to the Digital Properties.  
+\- Wireless Network usage information including, but not limited to, network performance, mobile identity, and network access point identifier.  
+\- Aggregated information as you and others browse and use our Digital Properties.
 
-We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services.
+We may also automatically collect certain information through the use of "cookies", beacons and other similar technology to improve the Service and your experience. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service.The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access or control over these cookies.
 
-Passive Collection: When you use the Service and our Apps, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
+**Uses of Information**
 
-We may also automatically collect certain information through the use of "cookies" when you use the Service. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us to improve the Service and your experience. If we link cookies to any personally identifiable information, we will treat this information as personally identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service. 
+The information we collect may be used for such purposes as:
 
-The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. 
+\- To respond your inquiries and requests.  
+\- To operate our Digital Properties and improve your experience.  
+\- To identify or repel possible threats to Digital Properties security.  
+\- To conduct research about Digital Properties usage.  
+\- For advertising purposes in order to deliver the most relevant ads to you.  
+\- To plan and evaluate wireless networks.  
+\- To analyze aggregate consumer trends.  
+\- To conduct cybersecurity research.
 
-We may use Web beacons or similar technology on the Service and in our Apps. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. Web beacons are small, invisible graphic images that may be used on the Service or in emails relating to the Service to collect certain information and monitor user activity on the Service, such as to count visits, understand usage effectiveness and to tell if an email has been opened and acted upon. Such technologies are used to collect aggregate statistics related to usage of the Service and do not collect personally identifiable information. 
+**Analytics and Research Services**
 
-Personally identifiable information will be stored on secured servers, and we may store and process personally identifiable information in the United States and other countries. 
+We may use third-party analytics and research services to better understand how visitors interact with Digital Properties. These services provide non-personally identifiable data including but not limited to data on where visitors came from, what actions they took, and where visitors went when they left Digital Properties. We use this information to improve your experience when visiting our Digital Properties. We may also work with other partners to conduct research surveys in order to improve the user experience on our Digital Properties. Their data practices are regulated by the privacy statements of these partners.
 
-**How Do We Use the Personally Identifiable Information We Collect?**
+**Sharing Information with Third Parties**
 
-We use personally identifiable information collected through the Service and Apps for the purposes described in this Policy or elsewhere on the Service or in the Apps. For example, we may use personally identifiable information we collect: 
+We partner with third-party ad networks to display advertising within our Digital Properties. Our ad network partners use Web beacons and log files to collect non-personally identifiable information about your activities on our Digital Properties to provide you targeted advertising based upon your interests.
 
-  * to process and complete any transactions in connection with the Service and Apps;
-  * to request feedback and to otherwise contact you about your use of the Service and Apps;
-  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service;
-  * to monitor and analyze Service and App usage and trends;
-  * to personalize and improve the Service or Apps, and our users' experiences with the Service and Apps (such as providing content or features that match interests), and to increase the Service's or Apps’ functionality and user friendliness;
-  * to send you confirmations, updates, security alerts, additional information about our products and services and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service or Apps. When sending marketing information about our services or products, we will only use your email address used during registration; we will not use other email addresses you may have provided to us, for instance in a feedback form, to send marketing emails;
-  * to notify you about important changes to the Service and Apps.
+We may also share non-personally identifiable information with third-party targeted interest-based advertising data providers for the purpose of facilitating advertising services for their customers, such as ad networks and other third-party websites and applications.
 
+You can opt out from interest-based advertising by visiting websites of advertising networks and data providers. You can also use opt-out instructions from websites of self-regulatory organizations:
 
+Network Advertising Initiative (NAI) – [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)  
+Digital Advertising Alliance (DAA) – [www.aboutads.info/choices](http://www.aboutads.info/choices/)  
+Digital Advertising Alliance Canada (DAAC) – [youradchoices.ca/choices](http://youradchoices.ca/choices)  
+Digital Advertising Alliance EU (EDAA) – [www.youronlinechoices.com](http://www.youronlinechoices.com/)  
+DAA AppChoices page – [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices)
 
-**What Personally Identifiable Information Do We Share With Third-Parties?**
+Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.
 
-We will not knowingly share the personally identifiable information we collect from you through the Service or Apps with third-parties, except as described in this Policy or on the Service or Apps. For example, we may share personally identifiable information as follows: 
+**Anonymous Data Collection:** Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information. You will see the ↓ icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market research purposes. For further information Airpush, Inc.’s data collection and use practices, please see Airpush, Inc.’s [Technology Privacy Statement](http://www.airpush.com/technology_privacy/) and [Privacy Policy](http://www.airpush.com/privacypolicy/). You may opt-out of interest-based ads by clicking [here](https://optout.mobi.info/).
 
-  * with vendors, consultants, and other service providers such as a credit card processing company to bill you for services, a forum provider for hosting our public forums, and an email service provider to send out emails on our behalf (“Service Providers”). When you sign up for our services we will share your personal information only as necessary for the third party to provide that service.;
-  * when you give us your consent to do so, including if we notify you on the Service or Apps that the information you provide will be shared in a particular manner and you provide such information;
-  * in an aggregated or anonymized form that does not directly identify you;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of New IT Solutions Ltd., our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting New IT Solutions Ltd. or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;
-  * to enforce or apply this Policy, the Terms, or our other policies or agreements;
-  * and in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of New IT Solutions Ltd.
+**Security**
 
+We take reasonable measures to help maintain data we collect through our Digital Properties in a secure manner.
 
+**Links to Third-Party Websites**
 
-You understand that when you use the Service, information you provide via the Service, information you grant access to by using the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases may be publicly available. 
+Our Digital Properties may contain links to other websites operated by third parties. We do not own or control such websites and this Privacy Policy applies solely to information collected through our Digital Properties. Their data practices are regulated by the privacy statements of these websites.
 
-We are not responsible for the actions of Service Providers or other third-parties, nor are we responsible for any additional information you provide directly to any other users or third- parties, and we encourage you to become familiar with third-party privacy practices before disclosing information directly to any such third-parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third-parties without your consent. 
+**Contact Us**
 
-**Access to Personally Identifiable Information**
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or delete it by making the change on our member information page or [contact](https://web.archive.org/web/helpCenter) our support. We will respond to your request to access within 30 days.
-
-If you wish to request the deletion of an unauthorized profile you may [contact](https://web.archive.org/web/helpCenter) our support.
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-**Tell a friend**
-
-If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. New IT Solutions Ltd. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
-
-**Open Blogs**
-
-We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please [contact](https://web.archive.org/web/helpCenter) us.
-
-**Links to Other Websites**
-
-The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third- party and is subject to that third- party's privacy policy. This Policy does not apply to such linked websites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to/from the Service. We encourage you to learn about their privacy and security practices and policies before providing them with personally identifiable information. 
-
-**What Steps Do We Take To Protect Your Information Online?**
-
-We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact](https://web.archive.org/web/helpCenter) us.
-
-**Advertising**
-
-We partner with a third party ad network to display advertising within our Apps. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our Apps to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt- out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
-
-**Facebook Connect**
-
-You can log in to our Service (or link your App to your social network) using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
-
-**Social Media Features and Widgets**
-
-Our Service includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-**What Choices Do You Have Regarding the Use of Your Information?**
-
-You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by following the instructions within such emails or [contact](https://web.archive.org/web/helpCenter) our support. You may also log into your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
-
-**Questions?**
-
-If you have any questions about this Policy, please [contact us](https://web.archive.org/web/helpCenter) or via postal mail at 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. 
+If you have questions about this Privacy Policy, please contact us at [legal@4shared.com](mailto:legal@4shared.com)
