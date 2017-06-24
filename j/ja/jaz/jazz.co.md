@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jazz.co privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930040146id_/https%3A//www.jazz.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazz.co privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070245id_/https%3A//www.jazzhr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jazz HR
+# Privacy Policy | JazzHR
 
 When you visit our Site or use our Service you may provide us with two types of information: personal information you actively choose to disclose ("Active Information"), information voluntarily provided within the Service (“Voluntary Information”), non-personally identifiable information collected, in a way not visible to you, on an aggregate basis as you and others use our Site ("Passive Information"). These three types of information are referred to collectively as "Subscriber Information."
 
@@ -48,36 +48,34 @@ You may be able to access other websites through our Site and/or Service. When y
 
 If you desire not to receive information about products or services we think may be of interest to you or if you wish to delete or correct your information, please visit the Account screen.  If you do not have an account, please contact support@jazz.co.
 
-## **EU-U.S. Privacy Shield**
+## Collection of HR and non-HR Data from the EEA
 
-Hireku, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Hireku, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit **www.commerce.gov/privacyshield**
+Hireku, Inc. collects and processes Passive Information, which may contain personal data about website users in the European Economic Area (“EEA”)  to collect information about how our Site and Service are used.  Hireku, Inc. may disclose Passive Information to affiliates, service providers, and other entities for activities related to these purposes.
 
-In compliance with the EU-US Privacy Shield Principles,, Hireku, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Hireku, Inc at:
+As a data processor, Hireku, Inc. collects and processes Voluntary Information, which may contain personal data entered voluntarily by EEA individuals into the Service and or by Subscriber’s authorized users who enter personal or employment related data about EEA employees or candidates into the Service.  Additionally, Active Information is also collected to support and allow access to the Service.
 
-EU-U.S. Privacy Shield Inquiry  
-40 24th St.  
-2nd Floor  
-Pittsburgh, PA 15222
+Hireku, Inc. processes Passive Information, Voluntary Information, and Active Information (collectively, "Subscriber Information") as authorized by its Subscribers.  Hireku, Inc. does not establish or maintain direct relationships with the individuals whose personal data it processes on behalf of Subscribers, and no direct control or ownership over the Subscriber Information it processes.
 
-Hireku, Inc. has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD PROGRAM, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+## **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield  
+**
 
-Individuals covered by the EU-U.S. Privacy Shield program have the right to access and/or correct their data by emailing [support@jazz.co](mailto:support@jazz.co) with their access requirements and/or corrections.  Additionally, in some scenarios, individuals may have the right to invoke binding arbitration before the joint EU-U.S. Privacy Shield Panel.  For the purposes of EU-U.S. Privacy Shield, Hireku Inc.’s participation is subject to enforcement by the Federal Trade Commission.  Hireku, Inc. retains liability for onward transfer to third parties for purposes other than the ones for which it was originally collected, as required by the [Onward Transfer principles](https://www.privacyshield.gov/article?id=3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER).
+Hireku, Inc. complies with the EU-US Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland to the United States, respectively. Hireku, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit **www.commerce.gov/privacyshield**
 
-## **US-Swiss Safe Harbor Framework**
+In compliance with the EU-US Privacy Shield and Swiss-U.S. Principles,, Hireku, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Hireku, Inc at:
 
-Hireku, Inc. complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Hireku, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+Privacy Shield Inquiry  
+1501 Reedsdale Street  
+Suite 300  
+Pittsburgh, PA 15233
 
-In compliance with the US-Swiss Safe Harbor Principles, Hireku, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Hireku, Inc at:
+Hireku, Inc. has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD PROGRAM, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
-Safe Harbor Inquiry  
-40 24th St.  
-2nd Floor  
-Pittsburgh, PA 15222
+Individuals covered by the EU-U.S. Privacy Shield and Swiss-U.S. programs have the right to access and/or correct their data by emailing [support@jazz.co](mailto:support@jazz.co) with their access requirements and/or corrections.  Additionally, in some scenarios, individuals may have the right to invoke binding arbitration before the joint EU-U.S. Privacy Shield or Swiss-U.S. Pirvacy Shield Panel.  For the purposes of EU-U.S. Privacy Shield and Siwss-U.S Privacy Shield, Hireku Inc.’s participation is subject to enforcement by the Federal Trade Commission.  Hireku, Inc. retains liability for onward transfer to third parties for purposes other than the ones for which it was originally collected, as required by the [Onward Transfer principles](https://www.privacyshield.gov/article?id=3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER).
 
-Hireku, Inc. has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Hireku, Inc. has further committed to cooperate with EU and Swiss data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU or Switzerland in the context of the employment relationship.  If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU or Swiss DPAs for more information or to file a complaint.  The services of EU or Swiss DPAs are provided at no cost to you.
 
 ## **Changes to Our Privacy Policy**
 
 Our Privacy Policy and Terms of Service may change from time to time. Hireku Inc. reserves the right, at its discretion, to modify this Privacy Policy at any time by posting a notice on the Site, or by sending you a notice via e-mail. You will be responsible for reviewing and becoming familiar with any such modifications. Your use of the Site and/or the Service following such notification constitutes Subscriber's acceptance of the terms and conditions of this Agreement as modified. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of Subscriber information collected in the past without the consent of affected Subscribers.
 
-_Last updated August 29th, 2016._
+_Last updated April 13th, 2017._
