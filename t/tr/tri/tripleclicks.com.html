@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229045327id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624050356id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
         <meta charset="utf-8">
@@ -7,8 +7,9 @@
               <title>TripleClicks Privacy Policy</title>
     		<!--<link href="//tripleclicks.com/common/styles/TCdefault.css" rel="stylesheet" type="text/css" media="all">-->
 		<link href="//tripleclicks.com/common/styles/buttons.css" rel="stylesheet" type="text/css" media="all">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-		<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" type="text/css">
+
+            <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><!-- ICON FONT -->
+		<link href="//fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" type="text/css">
     <link href="//tripleclicks.com/common/styles/sficons.css" rel="stylesheet">
     <link rel="stylesheet" href="//tripleclicks.com/common/styles/foundation.css">
 		<link href="//tripleclicks.com/common/styles/TC2016.css" rel="stylesheet" type="text/css">
@@ -25,14 +26,14 @@
 
     <script src="//tripleclicks.com/js/accounting.min.js"></script>
     <script type="text/javascript" src="//tripleclicks.com/common/tcsearch.js"></script>
-    <script src="/appJs/app.tc.Tcapp.js?2976327"></script>
+    <script src="/appJs/app.tc.Tcapp.js?7449774"></script>
     <script type="text/javascript" src="//tripleclicks.com/common/ajax.js"></script>
     <script type="text/javascript" src="//tripleclicks.com/common/currency.js"></script>
     <script type="text/javascript" src="//tripleclicks.com/common/checkFieldLength.js"></script>
 
     
   </head>
-  <body class="foundation-loaded">
+  <body class="foundation-loaded ">
 
   <style>
 	body { font-family:"Lato",sans-serif; font-size:16px }
@@ -155,9 +156,10 @@
         <h2 id="modalTitle">Log in</h2>
       </div>
   		<form method="post" action="https://www.tripleclicks.com/fp/Login">
+    <input type="hidden" name="csrf_token" value="06557f2acc925bceb8e26429e358dd2adf92ca85c0254db68d9bbad020688916">
 	<input type="hidden" name="red" value="%2Fprivacy_policy.php">
 	<div class="small-12 medium-6 columns">
-		<label>ID#
+		<label>E-Mail or ID#
 			<input type="text" name="username" placeholder="" tabindex="1">
 		</label>
 	</div>
@@ -172,8 +174,21 @@
 </form>
 
     </div>
-
-    <p>Not yet a TripleClicks Member? <a href="/go">Join FREE here</a></p>
+    
+    <div class="row">
+    <div class="small-12 columns">
+	    <p>Not yet a TripleClicks Member? <a href="#" onclick="$(&quot;#login&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;); $(&quot;.register&quot;).trigger(&quot;click&quot;)">Join FREE here</a></p>
+      <p></p><h3>Members enjoy these benefits:</h3>
+        <ul>
+          <li>Bid in Pricebenders™ Penny Auctions</li>
+          <li>Play Eager Zebra™ online games</li>
+          <li>Buy products from around the world</li>
+          <li>Sell your stuff to a worldwide audience</li>
+          <li>And More!</li>
+        </ul>  
+        <p></p>
+      </div>
+    </div>
 
     <a class="close-reveal-modal" aria-label="Close">×</a>
   </div>
@@ -528,6 +543,7 @@
 	<option value="PN">PITCAIRN</option>
 	<option value="PL">POLAND</option>
 	<option value="PT">PORTUGAL</option>
+	<option value="PR">PUERTO RICO</option>
 	<option value="QA">QATAR</option>
 	<option value="RE">REUNION</option>
 	<option value="RO">ROMANIA</option>
@@ -584,6 +600,7 @@
 	<option value="US">UNITED STATES</option>
 	<option value="UM">UNITED STATES MINOR OUTLYING ISLANDS</option>
 	<option value="UY">URUGUAY</option>
+	<option value="VI">US VIRGIN ISLANDS</option>
 	<option value="UZ">UZBEKISTAN</option>
 	<option value="VU">VANUATU</option>
 	<option value="VE">VENEZUELA</option>
@@ -612,7 +629,7 @@
     	<h4>Join FREE today</h4>
       <ul>
       	<li>Bid in Pricebenders™ Penny Auctions</li>
-      	<li>Play Eager Zebra™ a online games</li>
+      	<li>Play Eager Zebra™ online games</li>
       	<li>Buy products from around the world</li>
       	<li>Sell your stuff to a worldwide audience</li>
         <li>And More!</li>
@@ -968,42 +985,42 @@ function googleTranslateElementInit()
 	
 	<select name="currency" class="forms currencyDropdown chosen-select" style="margin-top:2px; padding-bottom:5px; width: 160px;" onchange="TC.currency.setCurrency(this.value)">
 					<option value="USD" multiplier="1" sign="$">United States Dollars</option>
-					<option value="EUR" multiplier="0.96" sign="€">Euros</option>
-					<option value="GBP" multiplier="0.82" sign="£">United Kingdom Pounds</option>
-					<option value="JPY" multiplier="117.59" sign="¥">Japanese Yen</option>
-					<option value="CAD" multiplier="1.36" sign="$">Canadian Dollars</option>
-					<option value="AUD" multiplier="1.39" sign="$">Australian Dollars</option>
-					<option value="RUB" multiplier="60.6" sign="¤">Russian Rubles</option>
-					<option value="MXN" multiplier="20.77" sign="$">Mexican Pesos</option>
-					<option value="NZD" multiplier="1.44" sign="$">New Zealand Dollars</option>
-					<option value="SGD" multiplier="1.45" sign="S$">Singapore Dollars</option>
-					<option value="HKD" multiplier="7.76" sign="HK$">Hong Kong Dollars</option>
-					<option value="SEK" multiplier="9.21" sign="kr">Swedish Kronor</option>
-					<option value="NOK" multiplier="8.71" sign="kr">Norwegian Kroner</option>
-					<option value="MYR" multiplier="4.48" sign="rm">Malaysian Ringgit</option>
-					<option value="ZAR" multiplier="13.93" sign="R">South African Rand</option>
-					<option value="CHF" multiplier="1.03" sign="¤">Swiss Francs</option>
-					<option value="INR" multiplier="68.23" sign="₹">Indian Rupees</option>
-					<option value="PHP" multiplier="49.78" sign="₱">Philippine Peso</option>
-					<option value="IDR" multiplier="13440" sign="Rp">Indonesian Rupiah</option>
-					<option value="NGN" multiplier="304.2" sign="₦">Nigerian Naira</option>
-					<option value="PKR" multiplier="104.83" sign="₨">Pakistani Rupee</option>
-					<option value="BDT" multiplier="78.25" sign="Tk">Bangladeshi Taka</option>
-					<option value="KES" multiplier="102.13" sign="KSh">Kenyan Shilling</option>
+					<option value="EUR" multiplier="0.89" sign="€">Euros</option>
+					<option value="GBP" multiplier="0.79" sign="£">United Kingdom Pounds</option>
+					<option value="JPY" multiplier="111.23" sign="¥">Japanese Yen</option>
+					<option value="CAD" multiplier="1.32" sign="$">Canadian Dollars</option>
+					<option value="AUD" multiplier="1.32" sign="$">Australian Dollars</option>
+					<option value="RUB" multiplier="59.48" sign="¤">Russian Rubles</option>
+					<option value="MXN" multiplier="18.05" sign="$">Mexican Pesos</option>
+					<option value="NZD" multiplier="1.37" sign="$">New Zealand Dollars</option>
+					<option value="SGD" multiplier="1.39" sign="S$">Singapore Dollars</option>
+					<option value="HKD" multiplier="7.8" sign="HK$">Hong Kong Dollars</option>
+					<option value="SEK" multiplier="8.74" sign="kr">Swedish Kronor</option>
+					<option value="NOK" multiplier="8.45" sign="kr">Norwegian Kroner</option>
+					<option value="MYR" multiplier="4.29" sign="rm">Malaysian Ringgit</option>
+					<option value="ZAR" multiplier="12.92" sign="R">South African Rand</option>
+					<option value="CHF" multiplier="0.97" sign="¤">Swiss Francs</option>
+					<option value="INR" multiplier="64.45" sign="₹">Indian Rupees</option>
+					<option value="PHP" multiplier="50.19" sign="₱">Philippine Peso</option>
+					<option value="IDR" multiplier="13316" sign="Rp">Indonesian Rupiah</option>
+					<option value="NGN" multiplier="322" sign="₦">Nigerian Naira</option>
+					<option value="PKR" multiplier="104.85" sign="₨">Pakistani Rupee</option>
+					<option value="BDT" multiplier="80.72" sign="Tk">Bangladeshi Taka</option>
+					<option value="KES" multiplier="103.37" sign="KSh">Kenyan Shilling</option>
 					<option value="AED" multiplier="3.67" sign="د.إ">UAE Dirham</option>
-					<option value="HUF" multiplier="296.03" sign="Ft">Hungarian Forint</option>
-					<option value="UGX" multiplier="3592" sign="USh">Ugandan Shilling</option>
-					<option value="BRL" multiplier="3.27" sign="R$">Brazilian Real</option>
-					<option value="LKR" multiplier="149.45" sign="Rs">Sri Lankan Rupee</option>
-					<option value="EGP" multiplier="19.3" sign="E£">Egyptian Pound</option>
-					<option value="RON" multiplier="4.35" sign="lei">Romanian Leu</option>
-					<option value="UZS" multiplier="3215" sign="¤">Uzbekistani Som</option>
+					<option value="HUF" multiplier="276.42" sign="Ft">Hungarian Forint</option>
+					<option value="UGX" multiplier="3582" sign="USh">Ugandan Shilling</option>
+					<option value="BRL" multiplier="3.34" sign="R$">Brazilian Real</option>
+					<option value="LKR" multiplier="153.1" sign="Rs">Sri Lankan Rupee</option>
+					<option value="EGP" multiplier="18.07" sign="E£">Egyptian Pound</option>
+					<option value="RON" multiplier="4.08" sign="lei">Romanian Leu</option>
+					<option value="UZS" multiplier="3900" sign="¤">Uzbekistani Som</option>
 					<option value="SAR" multiplier="3.75" sign="ر.س">Saudi Riyal</option>
-					<option value="KRW" multiplier="1207.65" sign="₩">South Korean Won</option>
+					<option value="KRW" multiplier="1135.79" sign="₩">South Korean Won</option>
 					<option value="BHD" multiplier="0.38" sign="BD">Bahraini Dinar</option>
-					<option value="CLP" multiplier="673.37" sign="$">Chilean Peso</option>
-					<option value="BAM" multiplier="1.88" sign="KM">Bosnia-Herzegovina Convertible Mark</option>
-					<option value="TWD" multiplier="32.23" sign="NT$">New Taiwan Dollar</option>
+					<option value="CLP" multiplier="663.11" sign="$">Chilean Peso</option>
+					<option value="BAM" multiplier="1.75" sign="KM">Bosnia-Herzegovina Convertible Mark</option>
+					<option value="TWD" multiplier="30.32" sign="NT$">New Taiwan Dollar</option>
 			</select>
 
         </div>
@@ -1033,7 +1050,7 @@ function googleTranslateElementInit()
   	<div id="f-care">
     	<div class="row text-center">
       	<div class="medium-12 columns hide-for-small-only">
-      		<img src="//tc.tripleclicks.com/images/logos/logo-Care_sm.png"> TripleClicks donates a portion of every sale to the international charity CARE.
+      		<img src="//tripleclicks.com/images/icons/icon-charity.png" alt="charity icon">&nbsp; <strong>GIVING BACK.</strong>  Learn about TripleClicks' "Round up for Charity" program <a href="/Support/Solution.php?catid=26469&amp;id=226580" target="_blank">HERE</a>.
         </div>
 			</div>
     </div>
@@ -1046,10 +1063,10 @@ function googleTranslateElementInit()
   	<div id="f-copy">
     	<div class="row">
       	<div class="medium-6 columns foot-copy">
-        	Copyright © 2016, Carson Services, Inc<span data-tooltip="" aria-haspopup="true" class="has-tip [tip-top] [radius round]" title="0.00789|8">.</span>
+        	Copyright © 2017, Carson Services, Inc<span data-tooltip="" aria-haspopup="true" class="has-tip [tip-top] [radius round]" title="0.00968|8">.</span>
         </div>
       	<div class="medium-6 columns foot-time">
-        	Official TripleClicks time: Dec. 28, 2016 10:53:27 PM
+        	Official TripleClicks time: Jun. 24, 2017 12:03:57 AM
         </div>
       </div>
 		</div>
