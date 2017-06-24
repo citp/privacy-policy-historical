@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051204id_/http%3A//stansberryresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624074434id_/http%3A//stansberryresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -28,7 +28,7 @@ Cookies are small files placed on your computer by a web page when you visit it.
 
 ## Information Collected by Third Parties
 
-We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](https://web.archive.org/web/20161229051204id_/http://stansberryresearch.com/privacy-policy/www.networkadvertising.org)).
+We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](https://web.archive.org/web/20170624074434id_/http://stansberryresearch.com/privacy-policy/www.networkadvertising.org)).
 
 ##  Copyright and Disclaimer 
 
