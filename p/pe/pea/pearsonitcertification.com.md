@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119212934id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093803id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pearson IT Certification
 
@@ -38,7 +38,7 @@ Like most standard web site servers we use log files. This includes internet pro
 
 We will share anonymous demographic information and/or webpage browsing patterns and history with our partners and advertisers who work with us to provide products and services or to help us market our products and services to you. This is not linked to any personal information that can identify any individual person. As specified in the Cookies section above, users can turn off all or certain cookies in their browser settings if they so desire.
 
-We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store, or use personally identifiable information for any secondary purposes.
+We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 From time-to-time we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
 
@@ -61,10 +61,6 @@ We communicate with users on a regular basis to provide requested services and i
 ### Surveys & Contests
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-### Email A Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. PearsonITCertification.com will automatically send the friend a one-time email inviting them to visit the site. PearsonITCertification.com stores this information for the sole purpose of sending this one-time email. The friend may contact PearsonITCertification.com at [customer-service@informit.com](mailto:customer-service@informit.com) to request the removal of this information from the database.
 
 ### Security
 
