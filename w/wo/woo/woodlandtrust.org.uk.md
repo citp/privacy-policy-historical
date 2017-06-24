@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223191819id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624160921id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Woodland Trust
 
@@ -146,8 +146,7 @@ Where you or we have provided a password enabling you to access parts of our web
 
 **Volunteering**
 
-If you register to become a volunteer we will use your information to process your application, update you with the latest news about our work, for administration, for fundraising, update you with how you can get involved and to ensure that you are receiving the right information.  
-
+If you register to become a volunteer we will use your information to process your application, update you with the latest news about our work, for administration, for fundraising, update you with how you can get involved and to ensure that you are receiving the right information.
 
 **Cookies and how they benefit you**
 
@@ -218,7 +217,8 @@ We use 'Advertising' cookies on Woodland Trust websites to:
 
 Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site includes the following third part functions which use cookies:
 
-  * [YouTube](http://www.youtube.com/)
+  * [YouTube](http://www.youtube.com/ "YouTube \(Opens in a new window\)")
+  * [Twitter](https://twitter.com/ "Twitter \(Opens in a new window\)")
 
 
 
