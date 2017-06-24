@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianropes.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002004807id_/http%3A//asianropes.com/ar_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianropes.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624133959id_/http%3A//asianropes.com/ar_privacy.html) for the most accurate reproduction.*
 
 # AsianRopes.com - Privacy Policy
 
@@ -50,4 +50,4 @@ By using our site, you consent to our on-line privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20161002004807id_/http%3A//asianropes.com/contact.php). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20170624133959id_/http%3A//asianropes.com/contact.php). 
