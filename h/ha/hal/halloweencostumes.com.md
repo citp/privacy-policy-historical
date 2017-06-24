@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025747id_/http%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624103455id_/https%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Effective on date 03/17/2016
 
-This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how HalloweenCostumes.com collects and uses the personal information you provide on our Web site [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) and does not cover information that may be collected through software downloaded from the website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.HalloweenCostumes.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](https://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how HalloweenCostumes.com collects and uses the personal information you provide on our Web site [www.HalloweenCostumes.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](https://www.fun.com/) and does not cover information that may be collected through software downloaded from the website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-HalloweenCostumes.com has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
+HalloweenCostumes.com has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](https://www.fun.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -51,11 +51,11 @@ As is true of most Web sites, we automatically gather information about your com
 
 ## Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](http://www.halloweencostumes.com/contact-us.aspx).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://www.halloweencostumes.com/contact-us.aspx).
 
 ## Testimonials
 
-We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to our [contact form](http://www.halloweencostumes.com/contact-us.aspx).
+We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to our [contact form](https://www.halloweencostumes.com/contact-us.aspx).
 
 ## Information Obtained from Third Parties
 
@@ -108,11 +108,11 @@ If you would like to opt out of being tracked using Google Analytics on any webs
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services please [contact us](http://www.halloweencostumes.com/contact-us.aspx). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services please [contact us](https://www.halloweencostumes.com/contact-us.aspx). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements.
 
 ## Security
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.halloweencostumes.com/contact-us.aspx).
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](https://www.halloweencostumes.com/contact-us.aspx).
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information (such as credit card information) collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information.
 
@@ -120,13 +120,13 @@ We provide two means for you to make a purchase on our site. You can either use 
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](http://www.halloweencostumes.com/contact-us.aspx).
+Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](https://www.halloweencostumes.com/contact-us.aspx).
 
 Live chat option is available on our websites, which will allow you to communicate with our customer service representative. You will be asked to provide your Personal Information to initiate a chat. This information is only used by HalloweenCostumes.com to assure proper quality control and will not be use for any other purpose than to provide the Live Chat service.
 
 ## Correcting and Updating Your Personal Information
 
-To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please [contact us](http://www.halloweencostumes.com/contact-us.aspx). We will respond to your request within a reasonable timeframe.
+To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please [contact us](https://www.halloweencostumes.com/contact-us.aspx). We will respond to your request within a reasonable timeframe.
 
 ## Notification of Privacy Policy Changes
 
@@ -140,12 +140,13 @@ HalloweenCostumes.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8388 (Monday to Friday 7am - 7pm CST.)
+Phone: (507) 386-8388 (Monday to Thursday 7am - 7pm CST  
+Friday 10am - 4pm CST.)
 
-[Contact Form](http://www.halloweencostumes.com/contact-us.aspx)
+[Contact Form](https://www.halloweencostumes.com/contact-us.aspx)
 
 ## California Residents: Your California Privacy Rights
 
 Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval.
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from HalloweenCostumes.com (via e-mail or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](http://www.halloweencostumes.com/contact-us.aspx). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from HalloweenCostumes.com (via e-mail or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](https://www.halloweencostumes.com/contact-us.aspx). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
