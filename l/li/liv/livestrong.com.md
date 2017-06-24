@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livestrong.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043857id_/https%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestrong.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624131320id_/https%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
 
 # LEAF GROUP PRIVACY POLICY | LIVESTRONG.COM
 
 Last Updated: November 9, 2016
 
-By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service:, collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.
+By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service", collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.
 
 Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission (“FTC”).
 
