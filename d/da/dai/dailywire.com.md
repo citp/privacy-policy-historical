@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailywire.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002807id_/http%3A//www.dailywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywire.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624094022id_/http%3A//www.dailywire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Wire
 
@@ -40,7 +40,7 @@ Cisco Tx 76437
 
 or
 
-info@dailywire.com
+**[online form](https://web.archive.org/contact-us#general)**
 
 **Scope of this Privacy Policy**  
 This policy applies to information we collect:
@@ -112,7 +112,7 @@ We will only disclose personally identifiable information that we collect or you
 We may also disclose your personally identifiable information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [Terms of Use](https://web.archive.org/terms-of-use) and other agreements, including for billing and collection purposes.
+  * To enforce or apply our **[Terms of Use](https://web.archive.org/terms-of-use)**  and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of FP, our customers, or others. 
 
 
@@ -120,7 +120,7 @@ We may also disclose your personally identifiable information:
 We may disclose aggregated, non-personally identifiable information about the Site users without restriction. 
 
 **Opt-Out Procedures**  
-If you do not wish to have your contact information used by FP or our third party providers to promote products or services of FP or our third party providers, you can opt out by contacting us at info@dailywire.com. 
+If you do not wish to have your contact information used by FP or our third party providers to promote products or services of FP or our third party providers, you can opt out by contacting us [here](https://web.archive.org/contact-us#general). 
 
 If we have sent you a promotional email, you may send us a return email asking to be omitted from future promotional email distributions. This opt-out does not apply to transactional emails regarding your transactions or updates to our policies. 
 
@@ -131,14 +131,14 @@ FP has implemented security measures to help protect against the risk of loss, m
 FP does not store your credit card information when you subscribe to our services. FP partners with third party providers to process credit card transactions.  FP uses Recurly to process credit card transactions. Recurly is a PCI-DSS Level 1 compliant credit card payment service provider.  Recurly  protects your sensitive subscription information using security practices that meet or exceed industry-standard payment security practices. 
 
 **Accessing and Correcting Your Information**  
-FP email subscribers may review or modify their contact information on file at the via their website account login or by contacting us at info@dailywire.com. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+FP email subscribers may review or modify their contact information on file at the via their website account login. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 **Your California Privacy Rights**  
 Under California law, a California resident with whom FP has an established relationship has the right to request certain information with respect to any personal information FP may have shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. In response to a written request, FP is allowed to provide a cost-free means to opt out of such sharing. 
 
 FP has opted to provide you with a cost-free means to opt out of such sharing. If you do not want FP to disclose information to other companies for their marketing purposes, please follow the opt-out procedures set forth above.
 
-You may also send an email to info@dailywire.com instructing us to no longer share your personal information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us. 
+You may also send an email **[here](https://web.archive.org/contact-us#general)** instructing us to no longer share your personal information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us. 
 
 **Transfer of Information to the United States**  
 The Site is operated in the United States and is intended for users located in the United States. If you are located outside the United States, please be aware that information we collect, including personal information, may be transferred to, processed, and stored in the United States. By using the Site or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. You are also consenting to the application of United States federal and Texas state law in all matters concerning the Site and this Privacy Policy.
