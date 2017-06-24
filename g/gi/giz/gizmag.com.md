@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gizmag.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720013047id_/http%3A//www.gizmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmag.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044230id_/http%3A//newatlas.com/privacy) for the most accurate reproduction.*
 
 # Gizmag Privacy Policy
 
-Below is the current policy regarding the usage of data collected by the Gizmag web site (hereafter referred to as "Gizmag"). We re-evaluate this policy on an ongoing basis and if we need to change our policy in the future, we will post these changes here on this page as soon as they go into effect. 
+Below is the current policy regarding the usage of data collected by the New Atlas web site (hereafter referred to as "New Atlas"). We re-evaluate this policy on an ongoing basis and if we need to change our policy in the future, we will post these changes here on this page as soon as they go into effect. 
 
-Gizmag collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. 
+New Atlas collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. 
 
-Gizmag may place a cookie in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable Gizmag to manage the banner advertisements presented to the user. 
+New Atlas may place a cookie in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable New Atlas to manage the banner advertisements presented to the user. 
 
 We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. 
 
@@ -18,17 +18,17 @@ We have contracted with ValueClick to monitor certain pages of our website for t
 
 Individual information on our customers will NEVER be provided to external parties. The aggregated information we collect is used for the following purposes: 
 
-  * to improve the content and design of the Gizmag web site and magazine,
+  * to improve the content and design of the New Atlas web site and magazine,
   * to verify our claims of traffic to the site,
   * and to help advertisers and potential advertisers assess the suitability of the site for their ad campaigns.
 
 
 
-All e-mail mailing lists maintained by Gizmag contain the names of people who have specifically and knowingly requested to receive information from us. Currently, e-mail addresses may be used by Gizmag to promote our products and for editorial consultations with users. We allow users to opt out of receiving e-mail from Gizmag.com when e-mail information is collected. 
+All e-mail mailing lists maintained by New Atlas contain the names of people who have specifically and knowingly requested to receive information from us. Currently, e-mail addresses may be used by New Atlas to promote our products and for editorial consultations with users. We allow users to opt out of receiving e-mail from newatlas.com when e-mail information is collected. 
 
-If you have any questions or comments about our privacy practices, you can contact the editor at [editor@gizmag.com](mailto:editor@gizmag.com). 
+If you have any questions or comments about our privacy practices, you can contact the editor at [editor@newatlas.com](mailto:editor@newatlas.com). 
 
-At gizmag.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit gizmag.com, and how we safeguard your information. We never sell your personal information to third parties.
+At newatlas.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit newatlas.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 ## Log Files
 
@@ -38,7 +38,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on gizmag.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on newatlas.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 ## DoubleClick DART cookies
 
