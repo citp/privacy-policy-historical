@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042037id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043611id_/https%3A//yandex.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Legal documents
 
@@ -6,7 +6,7 @@ Effective Date: September 18, 2012
 
 Current version available at: <https://yandex.com/legal/privacy/>
 
-This Privacy Policy (hereinafter — “ **Policy** ”) is an integral part of the Agreement. Capitalized terms used herein shall have the meaning ascribed to them in Yandex Terms of Service located on the Internet at: [https://yandex.com/legal/termsofservice/](https://web.archive.org/legal/termsofservice/index.xml) (hereinafter — “ **Terms** ”), unless otherwise specifically stated herein.
+This Privacy Policy (hereinafter — “ **Policy** ”) is an integral part of the Agreement. Capitalized terms used herein shall have the meaning ascribed to them in Yandex Terms of Service located on the Internet at: [https://yandex.com/legal/termsofservice/](https://web.archive.org/legal/termsofservice/index.html) (hereinafter — “ **Terms** ”), unless otherwise specifically stated herein.
 
 This Policy describes the information that is collected in relation to your use of the Site and the Services specifically identified in Clause 2.1 of the Terms (hereinafter — “ **Data** ”), explains how Data is used and instances when Yandex shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — “ **Partners** ”) of Yandex and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by Yandex, the Company and/or Partners. 
 
