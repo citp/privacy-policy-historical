@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045411id_/https%3A//www.gaadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624132533id_/https%3A//www.gaadi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaadi
 
@@ -18,7 +18,8 @@ IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS 
 
 ### Topics Covered:
 
-This policy is designed to make you understand: 
+This policy is designed to make you understand:
+
   * The type of information which You share with Us or which We collect during Your usage to Website.
   * The purpose of such collection, storage, processing and transferring of Your Information.
   * Security measures implemented by Us to protect Your Information as mandated by law.
@@ -28,7 +29,8 @@ This policy is designed to make you understand:
 
 ### Information We Collect (Your Information) and store:
 
-We collect Your information during your usage to Website or when you avail any of services or products available on Website, either as a registered user or otherwise. The information collected may consists of: 
+We collect Your information during your usage to Website or when you avail any of services or products available on Website, either as a registered user or otherwise. The information collected may consists of:
+
   * Your Personal Information including Your name, age, address, email id, phone number, date of birth, gender, financial information, any other sensitive personal data or information etc.
   * Non-personal information which may include your geographical location, your system details like OS version, internet browser & your telecom service provider etc.
 
@@ -42,7 +44,8 @@ Your Information will mostly be stored in electronic form however certain data m
 
 ### Purpose of Collection, Storage, Processing:
 
-**Girnar** collect Your Information solely for the purpose of providing you the product or service that is connected with the function or activity of the **Girnar** which includes but not limited to the following (“Purpose”): 
+**Girnar** collect Your Information solely for the purpose of providing you the product or service that is connected with the function or activity of the **Girnar** which includes but not limited to the following (“Purpose”):
+
   * To inform You about various products and services offered on Our Website.
   * To address Your queries and resolve your concerns pertaining to any service or product that you were looking for.
   * To send you survey and marketing communications or facilitate various programmes and initiatives launched either by Us or third party which We believes may be of interest to You.
@@ -56,7 +59,7 @@ Your Information will mostly be stored in electronic form however certain data m
 
 ### Sharing, Transfer or Disclosure:
 
-Any service or product provided through Our Website may be provided either by **Girnar** or its vendor, dealer, OEM, channel partners and other third parties (“other entities”) which are registered with **Girnar** to render the services or provide products through Website. 
+Any service or product provided through Our Website may be provided either by **Girnar** or its vendor, dealer, OEM, channel partners and other third parties (“other entities”) which are registered with **Girnar** to render the services or provide products through Website.
 
 You acknowledge and agree that **Girnar** may share, disclose, transfer or part with Your Information to other entities depending upon the type of service or product You are looking for or for one or more of the permissible purposes. **Girnar** may also share Your personal or non-personal information where it is required to share the same with such other entities for providing you the service or product and You provide Girnar, Your unconditional consent to do the same.
 
@@ -78,13 +81,13 @@ It is recommended that You should review the privacy policy of such third party 
 
 While We protect Your Personal information as per industry standards, You acknowledge that the internet or computer networks are not fully secure and that We cannot provide any absolute assurance regarding the security of Your Personal information. Therefore You acknowledge that You shall not hold responsible **Girnar** in any manner whatsoever for loss of Your Information, or any other data, which You shares with Us or which We have with Us if such loss or any damage caused to You because of Force Majeure events. You further acknowledge that any information (including your personal information) transmitted to Us or from Your use of Website will therefore be at Your own risk.
 
-It is clarified that Force Majeure events includes any event which is beyond the reasonable control of the **Girnar** which may include but not limited to sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer, computer system or computer network, computer crashes, breach of security and encryption. 
+It is clarified that Force Majeure events includes any event which is beyond the reasonable control of the **Girnar** which may include but not limited to sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer, computer system or computer network, computer crashes, breach of security and encryption.
 
 ### Update of Your Information:
 
 **Girnar** take all endeavours to update Our records with latest information as provided by you, however if you see any discrepancy in your personal information you may contact to Us through Grievance Officer to have Your Information updated with Us.
 
-You also acknowledge that all the information provided by You are out of Your free will and in compliance with applicable laws in Your territory. If We found that any of Your Information is in non-compliance with the terms and conditions and Privacy policy, **Girnar** reserves the right to remove your non-compliant information from its systems. Further, depending on the seriousness of the non-compliance, We may choose to discontinue some or all of the services being provided to You by Us.
+You also acknowledge that all the information provided by You are out of Your free will and in compliance with applicable laws in Your territory. If We found that any of Your Information is in non-compliance with the terms and conditions and Privacy policy, **Girnar** reserves the right to remove your non-compliant information from its systems. Further, depending on the seriousness of the non-compliance, We may choose to discontinue some or all of the services being provided to You by Us
 
 ### Authorization:
 
@@ -96,17 +99,18 @@ In purview of the Telecom Regulatory Authority of India (TRAI) guidelines, You h
 
 **Particulars of corporate entity, Grievance Officer pursuant to the provisions of Companies Act, 2013 and The Information Technology Act, 2000 and rules made thereunder:**
 
-The particulars of various corporate entities of **Girnar** for the above purposes are as under: 
+The particulars of various corporate entities of **Girnar** for the above purposes are as under:
+
   * **Girnar Software Private Limited**  
 CIN: U72200RJ2006PTC023499  
 Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
-  * **Gaadi Web Private Limited**   
+  * **Gaadi Web Private Limited**  
 CIN: U72300DL2007PTC169207  
 Registered office address: F-130, GF, Street No.7, Pandav Nagar Delhi - 110091, India 
-  * **Girnarsoft Education Services Private Limited**   
+  * **Girnarsoft Education Services Private Limited**  
 CIN: U80302RJ2015PTC047265  
 Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
-  * **Girnarsoft Automobiles Private Limited**   
+  * **Girnarsoft Automobiles Private Limited**  
 CIN: U50300RJ2010PTC032194  
 Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
 
@@ -114,11 +118,11 @@ Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Sin
 
 If you have any concern related to this Privacy Policy or collection, storage, retention or disclosure of Your Information under the terms of this Privacy Policy or Terms of Use or any other terms and conditions of **Girnar** or its other business entities including any queries or grievances, You can contact to **Girnar** through its Grievance Redressal Officer at the below given details:
 
-  * Name : Mr. Sunny Bajaj 
-  * E-mail : legal@girnarsoft.com
-  * Telephone Number : 0124-6510130
-  * Working Days : Monday to Friday
-  * Working Hours : 10:30 am to 6:30 pm
+  * Name: Mr. Sunny Bajaj
+  * E-mail: legal@girnarsoft.com
+  * Telephone Number: 0124-6510130
+  * Working Days: Monday to Friday
+  * Working Hours: 10:30 am to 6:30 pm
 
 
 
