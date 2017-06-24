@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052503id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624094050id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
+
+  * [**Free delivery** on orders over £49.99*](https://web.archive.org/help/delivery)
+  * [**Next day** collection only £1.98*](https://web.archive.org/help/delivery#clickandcollect)
+  * [**Finance available** from 14.9% APR](https://web.archive.org/finance)
+  * [**Never beaten** on price](https://web.archive.org/price-promise)
+
+
 
 Cookies help us deliver the best experience on our website. By using our website, you agree to our use of cookies. [Learn More](https://web.archive.org/privacy-and-cookies#tab3 "Learn more about cookies") Continue
 
