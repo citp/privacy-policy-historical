@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotair.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053708id_/http%3A//hotair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotair.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624072439id_/http%3A//hotair.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Hot Air
+# Privacy Policy - Hot Air Hot Air
 
 PRIVACY POLICY
 
@@ -94,6 +94,3 @@ In Summary. We understand your privacy is important to you. Accordingly, we do n
 Your Consent and Changes to this Policy. By using our Website, you consent to the collection and use of Your Information by Salem as set forth in this Privacy Policy. Additionally, your visit and any dispute over privacy are subject to this Privacy Policy and the Terms of Use applicable to this Website. Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the “Effective and Last Modified” date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates. 
 
 Last updated: January 31, 2015
-
-  
-
