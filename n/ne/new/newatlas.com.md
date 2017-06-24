@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newatlas.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033740id_/http%3A//newatlas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newatlas.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044230id_/http%3A//newatlas.com/privacy) for the most accurate reproduction.*
 
 # Gizmag Privacy Policy
 
