@@ -1,18 +1,28 @@
-> *The following text is extracted and transformed from the 12designer.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042554id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12designer.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043719id_/https%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
 [](https://privacy.truste.com/privacy-seal/99designs/validation?rid=2a20c3eb-0bfe-4271-b42b-0a7299b726c6 "TRUSTe Privacy Certification")
 
-**Last revised on:** 10th of May 2016
+**Last revised on:** 24th of January 2017
 
-99designs Pty Ltd, Australian Company Number 121 195 248 (“ **99designs** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.99designs.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <http://99designs.com/legal/terms-of-use>.
+99designs Pty Ltd, Australian Company Number 121 195 248 (“ **99designs** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.99designs.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <https://99designs.com/legal/terms-of-use>.
 
-The TRUSTe program covers only information that is collected through this Site, 99designs.com and its sub-domains.
+## EU-U.S. Privacy Shield
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+99designs, Inc. (our U.S Affiliate) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  99designs, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-99designs, Inc. (our U.S. Affiliate) complies with the U.S.—E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from the European Union member countries. 99designs, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more details regarding 99designs, Inc.'s compliance with the Safe Harbor Privacy Principles, please contact us at support@99designs.com. To learn more about the Safe Harbor program, and to view 99designs, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>.
+99designs, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  99designs, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, 99designs, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, 99designs, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+## U.S. - Swiss Safe Harbor Framework
+
+99designs, Inc. complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. 99designs, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view 99designs, Inc.’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ## 1\. User Consent.
 
@@ -41,16 +51,15 @@ Our Service is not offered to persons under the age of 13. Thus, we do not inten
 
 ### b. Tracking Technologies / Cookies.
 
-  * Technologies such as: cookies, beacons, tags and scripts are used by 99designs and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * 99designs and our marketing partners, affiliates, or analytics or service providers use cookies or similar technologies in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you automatically and store it in log files. The information may include your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, internet service provider (ISP), referring/exit pages, clickstream data and/or a date/time stamp for your visit. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
-  * We use Local Storage Objects (LSOs) such as HTML5 to store content information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
   * We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 
 
 ### c. Google Analytics.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20161229042554id_/https%3A//99designs.com/legal/www.google.com/ads/preferences/).
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20170624043719id_/https%3A//99designs.com/legal/www.google.com/ads/preferences/).
 
 ### d. ThreatMetrix.
 
@@ -84,7 +93,7 @@ We may share your Personal Information with third party service providers to: pr
 
 ### d. Affiliates and Acquisitions.
 
-We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. As described above, 99designs, Inc. (our U.S. Affiliate) complies with the U.S.—E.U. Safe Harbor Framework. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. As described above, 99designs, Inc. (our U.S. Affiliate) complies with the E.U.-U.S. Privacy Shield and U.S.-Swiss Safe Harbor Framework. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
 ### e. Frames
 
@@ -112,7 +121,7 @@ We offer you choices regarding the collection, use, and sharing of your Personal
 
 ### b. Changes to Personal Information.
 
-You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at support@99designs.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will respond to your request to access within 30 days.
+Upon request 99designs will provide you with information about whether we hold any of your personal information. You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at support@99designs.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your Account is active or as needed to provide you Services, for fraud prevention and similar purposes and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
