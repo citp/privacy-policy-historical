@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100downloads.xyz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084507id_/http%3A//100downloads.xyz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100downloads.xyz privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624023017id_/http%3A//100downloads.xyz/privacy.html) for the most accurate reproduction.*
 
 # 
 
