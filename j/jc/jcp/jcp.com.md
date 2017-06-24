@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcp.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229180904id_/http%3A//www.jcpenney.com/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625011450id_/http%3A//www.jcpenney.com/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
 
 # privacy policy - JCPenney
 
