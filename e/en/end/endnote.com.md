@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227081313id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endnote.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624081033id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - IP & Science - Thomson Reuters
+# Privacy Policy - Clarivate Analytics
 
 ### SCOPE
 
-Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by the Intellectual Property & Science business of Thomson Reuters, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
+Your privacy is important to Clarivate Analytics, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by the Intellectual Property & Science business of Clarivate Analytics, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
 
 Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
 
@@ -30,7 +30,7 @@ Our website may contain links to sites maintained by others. This Privacy Statem
 **Who has access to the personal information?**
 
   * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
-  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies; our affiliates are all required to preserve the confidentiality of any personal information they may access. 
   * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, as required by law, or as otherwise indicated in this Statement. 
 
 
@@ -45,7 +45,7 @@ Our website may contain links to sites maintained by others. This Privacy Statem
 
 ### FULL PRIVACY STATEMENT
 
-**WHAT PERSONAL INFORMATION DOES THE IP & SCIENCE BUSINESS OF THOMSON REUTERS COLLECT AND HOW DO WE USE IT? **  
+**WHAT PERSONAL INFORMATION DOES THE IP & SCIENCE BUSINESS OF CLARIVATE ANALYTICS COLLECT AND HOW DO WE USE IT? **  
 We collect information about our users in three ways: directly from the user, from our web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.  
 
 
@@ -54,7 +54,7 @@ When you register for our services or order products via our site, we ask you to
 
 If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
 
-Some Thomson Reuters websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
+Some Clarivate Analytics websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential. 
 
 **Web server logs**  
 When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
@@ -90,7 +90,7 @@ You should understand that some features of our web site may not function proper
 
 If you do not know how to control or delete cookies, then we recommend you visit [http://www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
-**Thomson Reuters cookies:**  
+**Clarivate Analytics cookies:**  
 The cookies we use include, but are not limited to, the following:
 
 **Cookie name** | 
@@ -173,7 +173,7 @@ jsessionid
 
 | 
 
-Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
 
 |   
   
@@ -181,7 +181,7 @@ laccount
 
 | 
 
-Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
 
 |   
   
@@ -189,7 +189,7 @@ luser
 
 | 
 
-Identifies user name on Thomson Reuters Pharma, Thomson Reuters Cortellis, Thomson Reuters Integrity, Thomson Reuters Drug News, Thomson Reuters Forecast, Thomson Reuters KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Thomson Innovation, ResearcherID, EndNote and InCites.
+Identifies user name on Clarivate Analytics Pharma, Clarivate Analytics Cortellis, Clarivate Analytics Integrity, Clarivate Analytics Drug News, Clarivate Analytics Forecast, Clarivate Analytics KOLexperts, Derwent Discovery, DOLPHIN, IDRAC, Newport Premium, Derwent Innovation, ResearcherID, EndNote and InCites.
 
 |   
   
@@ -272,7 +272,10 @@ Provides anonymous conversion tracking data to help us understand the effectiven
 **Third Party Services**  
 We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products and websites. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Some of the third parties collecting anonymous information about our customers’ use of our products or websites may use it to provide us feedback on our customers’ use of our products and websites or to help deliver relevant advertising to our customers. Please see "Cookies" in the section above for information on the cookies and how you can control the use of cookies on your computer. 
 
-**HOW DOES THE IP & SCIENCE BUSINESS OF THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**  
+**Google Invisible reCAPTCHA**  
+We may use Google Invisible reCAPTCHA to secure our products and websites from abuse. Invisible reCAPTCHA collects hardware, software, and user interaction data from your device for risk analysis. reCAPTCHA data collection and use are governed by the Google Privacy Policy.
+
+**HOW DOES CLARIVATE ANALYTICS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**  
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures**.
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement.
@@ -285,7 +288,7 @@ We will not sell, rent, or lease mailing lists or other customer data to others,
 
 
 
-We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Clarivate Analytics companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
 
 We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
 
