@@ -1,132 +1,98 @@
-> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232341id_/https%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043247id_/https%3A//fetlife.com/legalese/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FetLife
+# Privacy Policy | FetLife
 
-Your privacy is very important to us and we want to be transparent about our privacy policies so that you can feel comfortable using and sharing information about yourself on FetLife.
+Treat one's private data like you would want others to treat yours.
 
-The rule we live by when it comes to making decisions about privacy is:
+## What potentially personally identifiable information do you collect?
 
-> “Treat people's information like we would want others to treat ours.”
+When browsing FetLife, we log the same basic information that most websites do. For each request, we collect your IP address, browser type, language preference, the referring page, the page you requested, and the date and time.
 
-If you have any questions or feedback on our privacy policy please don't hesitate to email us at [privacy@fetlife.com](mailto:privacy@fetlife.com).
+We also track specific events for statistical purposes (like conversion rates and to test new designs).
 
- 
+When you join FetLife, we ask you to choose a nickname. If you would like to keep your kink life separate from other parts of your life, we recommend you choose a distinct nickname to use within the kinky community that’s different from any nickname you may use elsewhere.
 
-### Information You Provide Us
+We also ask you for your email address, mobile number, and date of birth. We ask you for your email address so that we can send you updates and other essential information. We ask for a potential new member's mobile number so that we can verify them via a one-time text message, which has resulted in improving the overall health of the community. And we ask for your date of birth to make sure you are of legal age.
 
-#### Personal Information
+We use cookies to keep you logged in and to remember your preferences. The cookies FetLife sets are essential for the operation of the site.
 
-To access FetLife you need to sign-up. When you sign-up, you provide us with a nickname people will use to refer to you, your email address, the gender you associate with, your sexual orientation, your role(s) (sexually speaking), date of birth and location. You can also add additional information about yourself once you finished signing-up such as a personal description of yourself, what you are looking for, relationships you are in, and fetishes you are into and curious about, amongst other things.
+When you write to FetLife with a question or to ask for help, we’ll keep that correspondence, and the email address, for future reference.
 
-But don't stress about it though, you can visit your profile at any time to modify your personal information. Nothing is permanent.
+We also store any information you volunteer, like surveys, for as long as it makes sense.
 
-#### Content
+## What information do we NOT collect?
 
-Anything posted on your profile can be removed at any time… it is your profile after all.
+If you choose to support us, and we hope you do, any personally identifiable information you provide uniquely for this purpose will not be stored in any of our systems and will only be used to process the transaction.
 
-You should think twice though before you start or comment on any discussions. To maintain the integrity of discussions we don't remove the original post or any comments unless they break one of our guidelines or our [Terms of Use](https://fetlife.com/fetlife/tou).
+If you're under the age of 18, you may not join FetLife. We do not knowingly collect information from anyone under the age of 18, and if we learn that a member is underage, we will delete their account immediately.
 
-#### Transaction Information
+## How is the information shared?
 
-If you choose to [support FetLife](https://fetlife.com/support), and we hope you do, you can via credit card, US bank transfer (ACH), or Interac e-Transfer. The services we use must adhere to strict confidentiality obligations in a way that is consistent with this Privacy Policy and the agreements we enter into with them.
+We do not share, sell, rent, or trade members’ personal information with third parties for their commercial purposes.
 
- 
+We do however sometimes share certain aggregated, non-personally identifying information with others about how the community collectively uses FetLife. For example, we may compile statistics on how many daily, weekly, and monthly active members we have. However, we do not sell this information to advertisers or marketers.
 
-### Information We Collect When You Interact With FetLife
+The only times we’ll ever share your info is:
 
-#### Site Activity
+  * To provide products or services you’ve requested.
 
-We log the actions you take on FetLife such as adding a friend, joining a group, uploading a picture or attending an event. The logs are used to create an activity feed for those who you are friends with.
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
-#### Logs and Analytics
+  * If FetLife is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-Web servers write to a log file every time you access a page on FetLife. In that log file your IP Address, browser information and page you requested is logged. This is the standard information logged by webservers.
 
-On top of that, we use Google Analytics to better understand how people use FetLife so that we can improve the experience for you. Google Analytics collects the information sent by your browser as part of a web page request. To get a better understanding of how Google uses the information we collect we recommend you read their [Privacy Policy](http://www.google.com/intl/en/privacy.html).
 
-#### Cookies
 
-> "C is for cookie that's good enough for me." - Sesame Street's Cookie Monster.
+## How do you respond to legal requests for information?
 
-FetLife uses cookies for authentication and to store information in between page requests. If you want to learn more about cookies you should read the [wikipedia article on HTTP cookies](http://en.wikipedia.org/wiki/HTTP_cookie).
+FetLife won’t hand your data over to anyone unless a court order says we have to. We reject requests from law enforcement when they seek data without a court order.
 
-At anytime, you can delete the cookies that are on you computer. Instructions: [Safari](https://discussions.apple.com/thread/7207312), [Chrome](https://support.google.com/chrome/answer/95647?hl=en&from=95626&rd=1), [Internet Explorer](http://support.microsoft.com/kb/278835), [Firefox](http://support.mozilla.com/en-US/kb/Deleting%20cookies?bl=n&s=deleting%20cookies&as=q), and [Opera](http://www.opera.com/help).
+If we’re going to share your information in response to legal process, we’ll give you notice so you can challenge it, unless we’re prohibited from doing so by law or court order.
 
- 
+We will object to requests for information about members of our site that we believe to be improper.
 
-### How We Use Your Information
+For more information, see our [Guidelines for Legal Requests](https://fetlife.com/legalese/legal_requests).
 
-#### To Contact You
+## How is my information stored?
 
-We use your email address attached to your profile to contact you and send you email notifications. If you want us to contact you using another email address and/or not send you certain email notifications, please update your settings on FetLife. _We do not give sell or share your email address with any third parties. That would be wrong_.
+We use third-party vendors and hosting partners for hardware, software, networking, storage, and related technology we need to run FetLife.
 
-#### To Serve Ads
+All data is written to multiple disks instantly, backed up daily, and stored in more than one location.
 
-We allow our advertisers to target their ads by location, gender, browser language, relationship status, orientation, and fetishes.  We use the information you specified on FetLife to do the targeting. We use [AdGear's](http://adgear.com/) ad platform to serve ads for us and we do not give advertisers any information about people who have clicked on their ads. We just give them aggregate non-personally-identifiable information. You can view AdGear's privacy policy [here](http://adgear.com/privacy/).
+## How is my information secured?
 
- 
+Whenever your data is in transit between you and us, everything is encrypted and sent using HTTPS. We are proud to say that FetLife was one of the first social networks to make HTTPS mandatory.
 
-### How We Share Information
+Other than your password, data isn’t encrypted while it’s live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
-#### Law and Harm
+Our database backups are encrypted using GPG.
 
-We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of anyone; to address fraud, security or technical issues; or to protect FetLife's rights or property.
+## What is your data retention policy?
 
-#### Service Providers
+When you delete something from your profile, it will no longer be accessible by another member on the site, but depending on the content type, it will take up to 30 days for it to be permanently deleted from our database.
 
-We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services. _Our personal information is on FetLife as well, we would never use companies that don't share a similar privacy philosophy as us._
+When you request your account to be deleted, it's enqueued for seven days and then permanently deleted from our database.
 
-#### Business Transfers
+Backups and web server logs are permanently deleted within 30 days of their creation.
 
-In the event that FetLife is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity. _No, we are not for sale and not planning to sell FetLife. This note is just one of those necessary evils._
+## How do you handle browser "Do Not Track" settings?
 
- 
+"Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity.
 
-### How You Can View and Modify Your Personal Information
+We do not track your online browsing activity on other sites, and we do not permit third-party services to track your activity on FetLife.
 
-Once you login to FetLife you can view and edit your profile and personal information we have on file for you. It's easy cheesy.
+Because we are not in the business of selling our friends (members) out, we don't believe we need to respond differently to an individual browser's "Do Not Track" setting.
 
- 
+## How can I manage or delete information about me?
 
-### Steps We Take To Protect Your Information
+You can view and update your personal info at any time from your account's [Edit Profile](https://fetlife.com/settings/profile) and [Settings](https://fetlife.com/settings/email) screens.
 
-#### We Encrypt Your Password
+You can deactivate or delete your account at any time by logging into FetLife and visiting [this page](https://fetlife.com/deactivate).
 
-Believe it or not, a lot of websites still store passwords in plain text so anyone who has access to the database can see your password. We encrypt your password so we have no way to tell what your password is. _Fun tip: To see if any specific site encrypts your password request your login information through their login form and if they send you back your password then you know they don't encrypt it._
+## How do you notify people of changes to this policy?
 
-#### We Use SSL to Login to FetLife
+To stay up to date with any changes related to our Privacy Policy, use GitHub’s watch feature on our [fetlife/docs repository](https://github.com/fetlife/docs) to get notifications for any changes or proposed changes to our Privacy Policy.
 
-When you login to FetLife it is done over SSL so if someone wanted to try to steal your login credentials when you login they wouldn't be able to sniff it over the network. SSL is the same technology your bank uses when you login to your account on their website.
+## How do I contact FetLife if I have any privacy questions?
 
-#### We Protect You From XSS Vulnerabilities
-
-We have gone to great lengths to protect all members of FetLife from XSS (Cross Site Scripting) vulnerabilities but if you do come across any vulnerabilities please email us ASAP at [security911@fetlife.com](mailto:security911@fetlife.com) so we can fix the problem right away.
-
-If you want to learn more about XSS check out [Cross-Site Scripting (XSS) on Wikipedia](http://en.wikipedia.org/wiki/Cross-site_scripting).
-
- 
-
-### General Surgeons Warning
-
-Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot ensure that information you share on FetLife will not become publicly available. We can't be responsible for third party circumvention of any privacy settings or security measures on FetLife. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
-
- 
-
-### Reporting Violations
-
-You should report any privacy and or security violations to us by emailing us at [privacy@fetlife.com](mailto:privacy@fetlife.com)
-
- 
-
-### Changes to this Policy
-
-We may revise this Privacy Policy from time to time. The current version of the policy will govern our use of your information and will always be available at <https://fetlife.com/fetlife/privacy>. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
-
- 
-
-### Got a Question?
-
-Send us an email day or night to [privacy@fetlife.com](mailto:privacy@fetlife.com).
-
-last updated   
-November 24, 2015 
+If you have any questions about our Privacy Policy, please get in touch with us at [legal@fetlife.com](mailto:legal@fetlife.com), and we’ll be happy to answer them!
