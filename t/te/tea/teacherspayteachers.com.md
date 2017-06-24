@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618021012id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055222id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Pay Teachers
 
@@ -16,7 +16,13 @@ During the registration process, we collect your e-mail address, address and bir
 
 ## Access To Your Personal Information
 
-You can view any personally identifiable information we have collected from you in your Member Profile Page, where you can add, edit, or remove information as you see fit. You can always access your Member Profile Page by logging in to your 'Manage My Account' pages at this link: http://www.TEACHERSPAYTEACHERS.COM.
+You can view any personally identifiable information we have collected from you in your Member Profile Page, where you can add, edit, or remove information as you see fit. You can always access your Member Profile Page by logging in to your 'Manage My Account' pages at this link: http://www.TEACHERSPAYTEACHERS.COM.  
+  
+Our Commitment to Children’s Privacy
+
+At TpT, we take children’s privacy very seriously. TpT is a site that is directed at adults and we do not knowingly collect personal information from children under the age of 13. If you are under 13, you should not use or attempt to use our Website or Services or send any information about yourself to TpT. If we discover that we have collected information from a child under the age of 13, we take the appropriate measures to promptly remove that information from our site.
+
+If you are a parent or guardian and believe that TpT may have collected personal information from your child, please contact us at [support@teacherspayteachers.com](mailto:support@teacherspayteachers.com) to let us know. We’ll work with you to make sure that information is removed from our site.
 
 ## NON-PERSONALLY IDENTIFIABLE INFORMATION AND THE USE OF COOKIE TECHNOLOGY.
 
@@ -52,7 +58,7 @@ Please note that we may revise our above policy without notice to users as the c
 
 We hope that you enjoy exploring and participating in our site.
 
-TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy LLC 51 Astor Place, New York, NY 10003. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
+TEACHERSPAYTEACHERS.COM is owned and operated by Teacher Synergy LLC 111 E. 18th Street, 11th Floor, New York, NY 10003. You can reach us from our [Contact Us](https://support.teacherspayteachers.com/) page. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
 
 The effective date of this Privacy Policy is September 20, 2014.
 
