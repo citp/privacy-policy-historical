@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222121136id_/http%3A//www.experian.co.uk/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624034546id_/http%3A//www.experian.co.uk/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - Experian UK and Ireland
 
@@ -34,7 +34,8 @@ Cookies may be used by us to provide you with customised information from our we
 
 We use cookies so that we can give you a better experience when you return to our web site. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. If you disable cookies from your browser you may not be able to access certain features of a particular web site.
 
-For more information about our use of cookies please [click here](https://web.archive.org/legal/cookies-policy.html "Cookies information").
+For more information about our use of cookies please [click here](https://web.archive.org/legal/cookies-policy.html "Cookies
+                     information").
 
 ### Security
 
