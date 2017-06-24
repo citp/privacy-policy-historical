@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035842id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070425id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##### Get Our Free Weekly Email!
+##### Get Our Free Money Tips Email!
 
-For all the latest deals, guides and loopholes - join the 10m who get it. _Don't miss out_
+For all the latest deals, guides and loopholes - join the 12m who get it. _Don't miss out_
 
 ### 1\. About us
 
@@ -70,19 +70,22 @@ By submitting your details to Credit Club, you are consenting to them being pass
 
 **2.4.3 Eligibility tools**
 
-We collect your name, date of birth, address, post code, email address and certain details about your personal circumstances if you choose to interact with our Eligibility tools. We operate these tools in conjunction with HD Decisions – an Experian business ("HD") which partners with the following UK credit reference agencies: Callcredit Limited ("Callcredit"), Equifax Limited ("Equifax") and Experian from time to time. We will use the information you submit as described above and to: 
+We collect your name, date of birth, address, post code, email address and certain details about your personal circumstances if you choose to interact with our Eligibility tools. We operate these tools in conjunction with Capital One plc ("Capital One") and HD Decisions – an Experian business ("HD") which partners with the following UK credit reference agencies: Callcredit Limited ("Callcredit"), Equifax Limited ("Equifax") and Experian from time to time. We will use the information you submit as described above and to: 
 
-  * Enable your interaction with the tools. This includes generating a credit report by carrying out a 'soft' credit check. 'Soft' credit checks allow you to get quotes without affecting your credit worthiness. The 'soft' credit checks will be used by HD to match against the providers' own lending criteria. We will then use HD's information to let you know your percentage chances of successfully obtaining a credit card or loan. Note that your credit report will not be provided to you directly and we will not receive it either; 
+  * Enable your interaction with the tools. This includes generating a credit report by carrying out a 'soft' credit check. 'Soft' credit checks allow you to get quotes without affecting your credit worthiness. The 'soft' credit checks will be used by Capital One to match against their lending criteria and HD to match against other providers' own lending criteria. We will then use Capital One and HD's information to let you know your percentage chances of successfully obtaining a credit card or loan. Note that your credit report will not be provided to you directly and we will not receive it either; 
   * Alert you to other MSE Personalised Tools which we think you may be interested in; and
   * Communicate with you at your request and enable your details to be moved across our tools (with your informed consent) in order to speed up form filling, or to personalise, or improve your experience on our Site.
 
 
 
-By submitting your details, you are consenting to HD passing them to Callcredit, Equifax and/or Experian. For further information about how your details will be used please see the rest of our Privacy Policy and HD's terms and conditions.
+By submitting your details, you are consenting to Capital One and HD passing them to Callcredit, Equifax and/or Experian. For further information about how your details will be used please see the rest of our Privacy Policy and [Capital One’s terms and conditions](https://www.capitalone.co.uk/creditcards/quotation-ts-and-cs.jsf) and [HD's terms and conditions](https://termsandconditions.hdd2.co.uk/).
+
+  
+
 
 **2.5 Internal reporting, insight and analysis**
 
-We may also use the information referred to in this clause 2 to generate aggregated, anonymised data for the purposes of internal reporting, insight and analysis, enabling us to improve our Site and the services we offer. Where necessary this exercise may be carried out on our behalf by a third party – please see clause 3 below.
+We may also use the information referred to in this clause 2 to generate aggregated, anonymised data for the purposes of internal reporting, insight and analysis, enabling us to improve and personalise our Site, the services we offer and search results for our Site. Where necessary this exercise may be carried out on our behalf by a third party – please see clause 3 below.
 
 **2.6 Our Group**
 
@@ -128,9 +131,13 @@ Please address requests and questions about this to us at [dpo@moneysavingexpert
 
 ### 5\. Cookies
 
-We use cookies (files which are sent by us to your computer or other access device) both in our Forum and as part of our Site. Many of these improve the functionality of our Site and the Forum.
+We use cookies (files which are sent by us to your computer or other access device) and tracking technology to help to improve the functionality and performance of our Site and the Forum.
 
-The information derived from our use of cookies will be aggregated to provide statistical information about the usage of our Site. However, we do not use any information derived from cookies, nor any IP addresses we collect, to identify any individual user of our Site. For details on what cookies we do use, information on how to stop them being stored or how to delete ones already stored, read our [Cookies Q&A](http://www.moneysavingexpert.com/site/cookies-qa). 
+The information derived from our use of cookies will be aggregated to provide statistical information about the usage of our Site. However, we do not use any information derived from cookies, nor any IP addresses we collect, to identify any individual user of our Site. 
+
+Some third-party technology we use (eg, embedded videos, social sharing) also drop cookies to improve your experience on their sites. 
+
+For details on what cookies we do use, information on how to stop them being stored or how to delete ones already stored, read our [Cookies Policy](http://www.moneysavingexpert.com/site/cookies-qa). 
 
 ### 6\. Links
 
@@ -146,8 +153,8 @@ We do our best to keep the information you disclose to us secure. However, we ca
 
 ### 8\. Changes
 
-This policy is effective from 14 November 2016 and replaces with immediate effect the Privacy Policy published on 09 June 2016. We may, from time to time, make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or Site enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
+This policy is effective from 28 March 2017 and replaces with immediate effect the Privacy Policy published on 2 March 2017. We may, from time to time, make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or Site enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
 
 * * *
 
-Effective as of: **14 November 2016**
+Effective as of: **28 March 2017**
