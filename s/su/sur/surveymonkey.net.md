@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveymonkey.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042150id_/https%3A//www.surveymonkey.net/mp/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveymonkey.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110229id_/https%3A//www.surveymonkey.net/mp/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SurveyMonkey
 
@@ -20,7 +20,7 @@ Under certain conditions, more fully described on the Privacy Shield website <ht
 
 **U.S. – Swiss Safe Harbor.  **SurveyMonkey Inc. (and its subsidiary company, Infinity Box Inc.) complies with the [US-Swiss Safe Harbor Framework](https://safeharbor.export.gov/swisslist.aspx) developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information received in the U.S. from Switzerland.  SurveyMonkey Inc. has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles with respect to such information. SurveyMonkey may process some data from individuals or companies in Switzerland via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. To learn more about the Safe Harbor program, and to view our certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 3050 S. Delaware Street, San Mateo, CA 94403, USA, or [electronically through this form](https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/).
+**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at One Curiosity Way, San Mateo, CA 94403, USA, or [electronically through this form](https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/).
 
 ## Key Privacy Points: The Stuff You Really Care About
 
