@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelimpressions.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209022622id_/http%3A//www.travimp.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelimpressions.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002030id_/http%3A//travimp.com/about/privacy.html) for the most accurate reproduction.*
 
 # Travel Impressions Customer Internet Privacy Statement
 
