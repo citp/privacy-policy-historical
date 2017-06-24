@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevendaysvt.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204214450id_/http%3A//www.sevendaysvt.com/vermont/Privacy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevendaysvt.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055947id_/http%3A//www.sevendaysvt.com/vermont/Privacy/Page) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Seven Days | Vermont's Independent Voice
 
@@ -25,7 +25,7 @@ We use cookies to record user-specific information on what pages users access or
 
 #### We use third-party advertising companies (like Google) to serve ads when you visit our website.
 
-These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://http//www.google.com/privacy_ads.html).
+These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://tools.google.com/dlpage/gaoptout/).
 
 #### With respect to ad servers
 
