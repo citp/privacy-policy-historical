@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressvenus.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231012742id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressvenus.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625010421id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
 
 # VENUS.com Privacy Policy - Website Terms of Use
 
@@ -49,7 +49,7 @@ Venus uses remarketing programs allowing us to reach people who previously visit
 
 For more information about your options regarding the use of data by Google Analytics, please go to: <https://support.google.com/analytics/answer/181881?hl=en> . 
 
-We do not respond to web browser “do not track” signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes by going to <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/> or [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) . 
+We do not respond to web browser "do not track" signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. We do allow you to exercise choice regarding the collection of information by third parties about your online activities over time and across third-party websites or online services for online interest based advertising purposes by going to <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/> or [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) . 
 
 For more information on your opt-out choices on your mobile device, please visit the iAd Network Advertising Settings page at <https://support.apple.com/en-us/HT202074> for iOS-based devices and Google’s Ads Settings page at <https://www.google.com/settings/u/0/ads/authenticated> for Android-based devices. 
 
@@ -101,7 +101,7 @@ To verify the security of our site, look at our URL in your browser window. The 
 
 Your California Privacy Rights
 
-If you are a resident of California, you may submit a written request to Venus to learn how Venus has shared your information with third parties for their direct marketing purposes. In response to your written request, Venus may provide you with a notice describing the cost-free means you may use to opt-out of Venus sharing your information with third parties if the third party will use your information for their direct marketing purposes. If you would like to exercise your rights under California law, please send your written request to the email address or mailing address listed below. Your written request must include your mailing address so that Venus may provide you with Venu’s notice and third-party direct marketing opt-out form. Venus will provide you with this form within thirty (30) days of receiving your written request. 
+If you are a resident of California, you may submit a written request to Venus to learn how Venus has shared your information with third parties for their direct marketing purposes. In response to your written request, Venus may provide you with a notice describing the cost-free means you may use to opt-out of Venus sharing your information with third parties if the third party will use your information for their direct marketing purposes. If you would like to exercise your rights under California law, please send your written request to the email address or mailing address listed below. Your written request must include your mailing address so that Venus may provide you with Venus' notice and third-party direct marketing opt-out form. Venus will provide you with this form within thirty (30) days of receiving your written request. 
 
 E-mail at email@venus.com   
 Address: Venus Fashion, Inc. 11711 Marco Beach Drive Jacksonville, FL 32224 
