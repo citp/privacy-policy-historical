@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108093941id_/http%3A//www.pollen-8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen-8.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114223id_/http%3A//www.pollen-8.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pollen-8
 
