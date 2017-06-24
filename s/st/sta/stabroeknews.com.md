@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stabroeknews.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231035442id_/http%3A//www.stabroeknews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stabroeknews.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624170811id_/http%3A//www.stabroeknews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Stabroek News
+# Privacy Policy – Stabroek News
 
 Thank you for visiting Stabroek News. We respect your privacy regarding any information we may collect while operating our website.  This document outlines such information.
 
