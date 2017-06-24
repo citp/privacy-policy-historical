@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055719id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052431id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
 # SteadyHealth.com
 
   * [About Us](https://web.archive.org/polices/aboutus/)
+  * [Medical Team](https://web.archive.org/polices/medical-team/)
   * [Terms of Use](https://web.archive.org/polices/terms-of-use/)
   * [Privacy Policy](https://web.archive.org/polices/privacy/)
   * [Advertising Policy](https://web.archive.org/polices/advertising/)
@@ -148,4 +149,4 @@ Steadyhealth.com may change this policy from time to time by updating this page.
 
 If you have any questions or comments about this Privacy Policy or Steadyhealth.com Apps, please [Contact Us](http://www.steadyhealth.com/contact).
 
- **Last updated on April, 17th 2012.**
+**Last updated on April, 17th 2012.**
