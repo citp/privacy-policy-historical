@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cougarboard.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119000115id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cougarboard.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624070946id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://edge.quantserve.com/quant.js"></script>
+<!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Policy - CougarBoard</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="ROBOTS" content="ALL">
@@ -12,16 +12,18 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="/images/2012/apple-touch-72.png">
 	<link rel="apple-touch-icon" sizes="57x57" href="/images/2012/apple-touch-57.png">
 	<meta name="theme-color" content="#0d2a4e">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/min/jquery-1440201134.js"></script>
-	<script src="/js/min/cb-1478538788.js"></script>
-	<script src="/js/min/fancybox-1440201134.js"></script>
-	<script src="/js/min/blockadblock-1441918196.js"></script>
-	<link href="/css/fancybox-1349841452.css" rel="styleSheet" type="text/css">
-	<link href="/css/bootstrap-1407185291.css" rel="styleSheet" type="text/css">
-	<link href="/css/font-icon-1472608311.css" rel="styleSheet" type="text/css">
-	<link href="/css/cb-1478563316.css" rel="styleSheet" type="text/css">
-	<link href="/css/categories-1475116121.css" rel="styleSheet" type="text/css">
-	<link href="/css/colors-1467646828.css" rel="styleSheet" type="text/css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.cougarboard.com/js/min/jquery-1440201134.js"></script>
+	<script src="https://www.cougarboard.com/js/min/cb-1498193488.js"></script>
+	<script src="https://www.cougarboard.com/js/min/fancybox-1440201134.js" defer=""></script>
+	<script src="https://www.cougarboard.com/js/min/bootstrap-1487864994.js" defer=""></script>
+	<script src="https://www.cougarboard.com/js/min/blockadblock-1441918196.js" defer=""></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.6/jstz.min.js"></script>
+	<link href="https://www.cougarboard.com/css/fancybox-1349841452.css" rel="styleSheet" type="text/css">
+	<link href="https://www.cougarboard.com/css/bootstrap-1407185291.css" rel="styleSheet" type="text/css">
+	<link href="https://www.cougarboard.com/css/font-icon-1486753930.css" rel="styleSheet" type="text/css">
+	<link href="https://www.cougarboard.com/css/cb-1494862863.css" rel="styleSheet" type="text/css">
+	<link href="https://www.cougarboard.com/css/categories-1486749983.css" rel="styleSheet" type="text/css">
+	<link href="https://www.cougarboard.com/css/colors-1467646828.css" rel="styleSheet" type="text/css">
 </head>
 <body class="os-unknown browser-unknown browser-unknown0 device-mouse device-desktop browser-not-MSIE ">
 <script type="text/javascript">
@@ -77,19 +79,47 @@ var bare = 0;
 var is_logged_in = 0;
 var is_donor = 0;
 var is_subscriber = 0;
-var user_hash = "fca4feed4bb8d7169d0e11aa77001ef3";
+var user_hash = "c183fc9db7dfcca487e4e047456aaabe";
 var is_mobile = false;
 var disable_sticky_nav = 0;
 var cb_username = "";
 var cb_http = "http://www.cougarboard.com";
 var cb_https = "https://www.cougarboard.com";
-var cb_ymdt = "2016-11-18 17:01:15";
+var cb_ymdt = "2017-06-24 01:09:46";
 var cb_aprilfools = 0;
-var cb_service_worker_url = "/push-service-worker-1454973121.js";
+var cb_service_worker_url = "/push-service-worker-1487284950.js";
 
 
+		$(function() {
+		if (is_flash_enabled()) {
+			dialog_alert("Some users have noticed problems caused by ads that use Adobe Flash. These problems include slowing down drastically, constant reloading, and the refresh button flickering. These days, Flash is used mostly for ads, so we recommend <a href='http://www.howtogeek.com/222275/how-to-uninstall-and-disable-flash-in-every-web-browser/'>disabling Flash</a> if you are experiencing these problems.");
+		}
+	});
 
-</script>
+	var detected_timezone, timezone_alert;
+	function change_timezone() {
+		console.log("Changing timezone...");
+		api_call("user", "change_timezone", { "tz" : detected_timezone }, function(new_tz) {
+			console.log("Timezone: " + new_tz);
+			$("#"+timezone_alert).remove();
+			dialog_alert("Timezone changed to " + new_tz);
+		});
+	}
+	$(function() {
+		console.log("Detecting timezone...");
+		
+					detected_timezone = jstz.determine().name();
+				
+		console.log("Timezone: " + detected_timezone);
+		api_call("user", "detect_timezone", { "tz" : detected_timezone }, function(changed) {
+			if (changed == 1) {
+				timezone_alert = dialog_alert("It appears that your browser timezone is different than what is currently being used. Do you want to switch to " + detected_timezone + "? <a href='javascript:void(0)' class='btn' onclick='return change_timezone()'>Change timezone</a>");
+			} else {
+				console.log(changed);
+			}
+		});
+	});
+	</script>
 
 <div id="cb-navbar" class="navbar">
 	<div class="navbar-inner">
@@ -199,14 +229,21 @@ var cb_service_worker_url = "/push-service-worker-1454973121.js";
 
 
 
-
 <div id="cb_page_wrapper" align="center">
 	<div id="cb_page_main" align="left">
 <div id="error-messages">
+<div class="alert alert-success"><a href="#" class="close" data-dismiss="alert">×</a>Sign up, and you'll be able to customize your font size and more! <a href="/account/signup.html" class="btn btn-success">Sign up</a></div>
 </div>
 
 <div id="dialog-modal" class="modal"></div>
 
+	<script language="javascript">
+	setTimeout(function() {
+		if ($(".alert").length == 0 || $(".alert").css("display") == "none") {
+			dialog_broken();
+		}
+	}, 500);
+	</script>
 <div class="well">
 	<h2>Privacy Policy</h2>
 	
@@ -305,18 +342,13 @@ var cb_service_worker_url = "/push-service-worker-1454973121.js";
 				This site is not affiliated with
 				<a target="_blank" href="http://www.byucougars.com/">Brigham Young University Athletics</a>.<br>
 				
-				All posts are owned by their author.  All other content is ©1999-2016 SM Consulting, LLC.<br>
+				All posts are owned by their author.  All other content is ©1999-2017 SM Consulting, LLC.<br>
 				
 				Partner of USA TODAY Sports Digital Properties<br>
 							</p>
 		</footer>
 			</div>
 </div>
-	<script src="/js/min/bootstrap-1440201133.js"></script>
-	<!--[if lte IE 8]>
-	<script type='text/javascript' src='/js/css3-selectors.js'></script>
-	<link href='/css/ie8-2.css' rel='styleSheet' type='text/css' />
-	<![endif]-->
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
