@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041918id_/http%3A//www.wwtdd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwtdd.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624040143id_/http%3A//www.wwtdd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWTDD
 
