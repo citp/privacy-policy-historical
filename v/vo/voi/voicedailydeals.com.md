@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicedailydeals.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110091241id_/http%3A//www.voicedailydeals.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicedailydeals.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624034021id_/http%3A//www.voicedailydeals.com/pages/privacy) for the most accurate reproduction.*
 
 # VOICE Daily Deals - Privacy Policy
 
