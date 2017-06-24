@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharat-movies.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515112633id_/http%3A//bharat-movies.com/sas/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharat-movies.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624024425id_/http%3A//www.bharat-movies.com/sas/privacy.htm) for the most accurate reproduction.*
 
 # Hindi Movies Online, Telugu Tamil Malayalam Movies Online
 
