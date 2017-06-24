@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myneurogym.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155904id_/http%3A//myneurogym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myneurogym.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624120601id_/http%3A//myneurogym.com/privacy-policy) for the most accurate reproduction.*
 
-# NeuroGym | Privacy Policy
+# NeuroGym - A Better You, A Better World!
 
 NeuroGym® ("we" or "us" or "NeuroGym") has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you online.
 
