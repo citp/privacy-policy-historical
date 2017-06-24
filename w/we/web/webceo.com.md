@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050119id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065913id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
