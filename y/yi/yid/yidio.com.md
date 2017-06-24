@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060051id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624054844id_/https%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
 # Yidio Privacy Policy
 
-This Privacy Policy applies to information we collect about you at [www.yidio.com](http://www.yidio.com/ "Yidio") (the "Website") and Yidio applications and how we use this information.
+This Privacy Policy applies to information we collect about you at <https://www.yidio.com/> (the "Website") and Yidio applications and how we use this information.
 
 **Collection of your Yidio Information**
 
@@ -41,7 +41,7 @@ We may use cookies, web beacons or similar technologies in combination with your
 
 Yidio and its advertisers may use advertising network providers to help present advertisements on Yidio. These advertising networks may use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event we utilize the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks.
 
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
 
 We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://networkadvertising.org/. 
 
@@ -55,12 +55,12 @@ Yidio is intended for a general audience. Registration for certain services on Y
 
 **California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging your user account page http://www.yidio.com/user_account.php. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging your user account page https://www.yidio.com/user_account.php. 
 
 **How to Contact Us**
 
-If you have any questions or concerns about Yidio's Privacy Policy or its implementation, you may contact us by going to the following link: <http://www.yidio.com/contact>.  
-You may opt out of Yidio Emails here:: <http://www.yidio.com/user_alerts.php>.
+If you have any questions or concerns about Yidio's Privacy Policy or its implementation, you may contact us by going to the following link: <https://www.yidio.com/contact>.  
+You may opt out of Yidio Emails here:: <https://www.yidio.com/user_alerts.php>.
 
 **Changes to this Privacy Policy and Additional Information**
 
