@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054210id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125606id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Made-in-China.com
 
@@ -18,7 +18,7 @@ Made-in-China.com makes a firm commitment to protect your privacy. The following
 
 Account Data: We collect all the information in your account on Made-in-China.com, such as your company name, address, contact person, telephone number, fax number, email and etc. This is to enforce the agreement between you and Made-in-China.com, to ensure that you are reachable by potential trade partners, or to troubleshoot problems with your account.
 
-Hidden Data: In addition to your account data, we also collect information recorded when you browse and visit our website, including but not limited to, cookies, IP address, etc. This information is not used to identify you, but for the necessary purpose to avoid being attacked by hackers, and for the purpose of making customized content service to users. Additionally, through processing comprehensive statistic analysis, we are endeavoring to provide you with more and more efficient functionalities to facilitate our service. To visit Made-in-China.com, your browser has to be configured to accept cookies.
+Hidden Data: In addition to your account data, we also collect information recorded when you browse and visit our website, including but not limited to, cookies, IP address, etc. **This information is not used to identify you, but for the necessary purpose to avoid being attacked by hackers, and for the purpose of making customized content service to users.** Additionally, through processing comprehensive statistic analysis, we are endeavoring to provide you with more and more efficient functionalities to facilitate our service. To visit Made-in-China.com, your browser has to be configured to accept cookies.
 
 Other Information: Sometimes we may contract with third parties to offer you products or services which we ourselves do not offer. To fully access and use such services, you may be asked to provide certain information.
 
@@ -26,7 +26,7 @@ Other Information: Sometimes we may contract with third parties to offer you pro
 
 ### How will Made-in-China.com use your information?
 
-Information, such as company name, address, contact person, telephone number, etc., will be posted on Made-in-China.com publicly, and accessible to all users. Users should thus exercise caution when deciding to release any information that is identifiable to you. Made-in-China.com conducts analysis and research on the above information regarding users' distribution of industry, geographic location, and so on. The purpose of this research is to gain a better understanding of our users, and is compiled and analyzed on an aggregated basis. Made-in-China.com maintains the right to share analytic results with its business partners.
+Information, such as company name, address, contact person, telephone number, etc., will be posted on Made-in-China.com publicly, and accessible to all users. **Users should thus exercise caution when deciding to release any information that is identifiable to you.** Made-in-China.com conducts analysis and research on the above information regarding users' distribution of industry, geographic location, and so on. The purpose of this research is to gain a better understanding of our users, and is compiled and analyzed on an aggregated basis. Made-in-China.com maintains the right to share analytic results with its business partners.
 
 [top](http://www.made-in-china.com/help/policy/#atop)
 
@@ -41,7 +41,7 @@ Once receiving your information, we make our best effort to ensure the stability
 
 
 
-You as a user are strongly recommended to keep your Member ID and password on Made-in-China.com safe and secure. To ensure the safety and security of your company and personal information do not divulge your password to others. If you feel that your Member ID or password is for any reason at risk, please contact us immediately.
+**You as a user are strongly recommended to keep your Member ID and password on Made-in-China.com safe and secure.** To ensure the safety and security of your company and personal information do not divulge your password to others. If you feel that your Member ID or password is for any reason at risk, please contact us immediately.
 
 [top](http://www.made-in-china.com/help/policy/#atop)
 
