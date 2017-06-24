@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126063353id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092817id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
-We've helped **442,101** companies choose the right software  
-by sharing our extensive research on over 1,657 systems.
+We've helped **492,197** companies choose the right software  
+by sharing our extensive research on over 1,693 systems.
 
 You are being presented this Privacy Policy because you are visiting a website (the "Website") that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. When you provide your Personal Information to Software Advice, you expressly accept this Privacy Policy and provide full consent to the collection, storage and processing of your Personal Information by Software Advice, and to the use and disclosure of your Personal Information to Software Advice Affiliates and third parties in accordance with the terms set out in this Policy. “Software Advice Affiliate” is any legal entity that controls, is controlled by or is under common control with Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice.
 
