@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126050350id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624035840id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
