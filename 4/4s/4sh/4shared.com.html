@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229045422id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624155359id_/https%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 15 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-  <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=2118177915">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/elements.4min.css?ver=1246632214">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/auth-popup.4min.css?ver=-2080519390">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/themes/account/icons.4min.css?ver=-1551370407">
+  <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=-742685716">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/elements.4min.css?ver=1706958101">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/auth-popup.4min.css?ver=-1494430887">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/themes/account/icons.4min.css?ver=-1881612694">
 <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tipTip.4min.css?ver=-207359769">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://static.4shared.com/js/jquery/jquery-1.9.1.4min.js?ver=-885436651"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://static.4shared.com/js/jquery/jquery-1.9.1.4min.js?ver=-885436651"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/jquery/jquery-migrate-1.2.1.4min.js?ver=1171340321"></script>
 <script type="text/javascript">
     $(function () {
@@ -34,19 +34,16 @@
   function Config() {
     return this
   }
-  document.domain='4shared.com';
-</script>
 
-<script type="text/javascript">
+  Config.isVideo4SyncDomain = location.href.indexOf('video.4sync.com') > -1;
   Config.mainSiteDomain = '4shared.com';
-  Config.mainSiteUrlPath = 'http://www.4shared.com/';
+  Config.mainSiteUrlPath = 'https://www.4shared.com/';
   Config.mainSiteUrlHttpsPath  = 'https://www.4shared.com/';
   Config.isRTLLanguage = false;
   Config.currentLanguage = 'en';
-  Config.isReplaceSearchNameForSeo = false;
-  Config.revisionNum = 56670;
+  Config.revisionNum = 58514;
   Config.syncDomain = 'https://www.4sync.com/';
-  Config.cdDomain = 'https://dc628.4shared.com/';
+  Config.cdDomain = 'https://dc717.4shared.com/';
   Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
   Config.isMobile = false;
   Config.isIpad = false;
@@ -58,19 +55,25 @@
     allowedUri: '/empty.js',
     blockedUri: '/show_ad_.gif',
     tg: 'img',
-    host : 'static3.test4s.com'
+    host : ''
   };
   Config.searchDomain = 'search.4shared.com';
+  Config.searchDomainOrWWW = 'https://www.4shared.com';
   Config.suggestionsDomain = 'suggestions.4shared.com';
-  Config.apkFileMetaInfoEnable = true;
-  Config.cookieDomain = (function(){
-    var domain = document.domain;
-    var splited = domain.split(".");
-    if(splited.length>2){
-      splited = splited.splice(splited.length-2, splited.length);
-    }
-    return "."+splited.join(".");
-  })();
+  Config.facebookVersion = 'v2.8';
+
+  if (!Config.isVideo4SyncDomain) {
+    document.domain = '4shared.com';
+    Config.cookieDomain = (function () {
+      var domain = document.domain;
+      var splited = domain.split(".");
+      if (splited.length > 2) {
+        splited = splited.splice(splited.length - 2, splited.length);
+      }
+      return "." + splited.join(".");
+    })();
+  }
+
   Config.userJustLogged = false;
 
   $(function() {
@@ -96,25 +99,27 @@
 
   
   function selectLang(lang){
-    $.post("/web/user/language",{code:lang}, // save langCode into UserEntity
-        function (data) {
-          if (data.status = 'ok') {
-            document.cookie = '4langcookie='+lang+'; path=/; domain=' + encodeURIComponent(Config.cookieDomain);
-            window.location.reload();
-          }
-        })
+    if (!Config.isVideo4SyncDomain) {
+      $.post("/web/user/language", {code: lang}, // save langCode into UserEntity
+          function (data) {
+            if (data.status = 'ok') {
+              document.cookie = '4langcookie=' + lang + '; path=/; domain=' + encodeURIComponent(Config.cookieDomain);
+              window.location.reload();
+            }
+          })
+    }
   }
 </script><script type="text/javascript" src="https://static.4shared.com/js/plugins/favicon.4min.js?ver=-1359120125"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=1100943343"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/header.4min.js?ver=-1316457689"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/purchaseStats.4min.js?ver=-1839898360"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/login_fnc.4min.js?ver=1858177710"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/authScripts.4min.js?ver=1623182956"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/utils.4min.js?ver=-615226918"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/authScripts.4min.js?ver=1179674931"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/tips.4min.js?ver=1053751440"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/cookie.4min.js?ver=355701517"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/swfobject.4min.js?ver=1822999650"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.jsonWithError.4min.js?ver=-1923802015"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/smallPlugins.4min.js?ver=-18564371"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/utils.4min.js?ver=-181902233"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/Events.4min.js?ver=1840410357"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.placeholder.patch.4min.js?ver=1679520602"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.cookie.4min.js?ver=1439298453"></script>
@@ -125,7 +130,6 @@
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/json2.4min.js?ver=1033538422"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.cycle.all.min.js?ver=-713535238"></script>
 <script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.mousewheel.4min.js?ver=-525679092"></script>
-<script type="text/javascript" src="https://static.4shared.com/js/plugins/jquery.clipboard/jquery.clipboard.4min.js?ver=1320405867"></script>
 <script type="text/javascript">
     function sendVerificationLetter(){
         $.get('https://www.4shared.com/account/sendEmailVerification.jsp?globSysLang=en&callback=?', {ajax: 'true'} ,function(data) {
@@ -183,50 +187,79 @@
 <meta property="og:image" content="https://www.4shared.com/images/social/general.png">
   <link rel="image_src" href="https://www.4shared.com/images/social/general.png">
 </head>
-<body class="site4shared notPremiumUser pageClass lang-en">
-<div id="fstickcontainer"><div id="fstickcontent"> <link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/header.4min.css?ver=-1014576359">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common.4min.css?ver=2136491660">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/mainWithoutCommon.4min.css?ver=1249453934">
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tempHeaderStyles.4min.css?ver=-233610394">
-<!--[if ie 9]>
-    <style type="text/css" media="screen">
-       .downloadApp {
-            filter: none;
-            background-image: url(https://static.4shared.com/gradient.svg?ver=568598074);
-            background-size: 200% 200%;
-            background-repeat: repeat-x;
-            background-position: 0 0;
-        }
-        .downloadApp:hover{
-            filter:none;
-            background-color:#12b0e3;
-        }
-    </style>
-    <![endif]-->
+<body class="site4shared pagePrivacy lang-en">
+<div id="fstickcontainer">
+  <div id="fstickcontent"><link rel="stylesheet" type="text/css" href="https://static.4shared.com/js/plugins/bootstrap/css/bootstrap.min.css?ver=-1235434608">
+<script type="text/javascript" src="https://static.4shared.com/js/plugins/bootstrap/js/bootstrap.min.js?ver=1454307403"></script>
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/headerAndFooterResponsive.4min.css?ver=156827561">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/media-queries.4min.css?ver=1306197881">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common.4min.css?ver=-1058970830">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tipTip.4min.css?ver=-207359769">
+<link rel="alternate" hreflang="de" href="https://www.4shared.com/privacy.jsp?locale=de">
+<link rel="alternate" hreflang="ru" href="https://www.4shared.com/privacy.jsp?locale=ru">
+<link rel="alternate" hreflang="ko" href="https://www.4shared.com/privacy.jsp?locale=ko">
+<link rel="alternate" hreflang="in" href="https://www.4shared.com/privacy.jsp?locale=in">
+<link rel="alternate" hreflang="ms" href="https://www.4shared.com/privacy.jsp?locale=ms">
+<link rel="alternate" hreflang="pt-BR" href="https://www.4shared.com/privacy.jsp?locale=pt-BR">
+<link rel="alternate" hreflang="en" href="https://www.4shared.com/privacy.jsp?locale=en">
+<link rel="alternate" hreflang="it" href="https://www.4shared.com/privacy.jsp?locale=it">
+<link rel="alternate" hreflang="fr" href="https://www.4shared.com/privacy.jsp?locale=fr">
+<link rel="alternate" hreflang="es" href="https://www.4shared.com/privacy.jsp?locale=es">
+<link rel="alternate" hreflang="zh" href="https://www.4shared.com/privacy.jsp?locale=zh">
+<link rel="alternate" hreflang="ar" href="https://www.4shared.com/privacy.jsp?locale=ar">
+<link rel="alternate" hreflang="vi" href="https://www.4shared.com/privacy.jsp?locale=vi">
+<link rel="alternate" hreflang="th" href="https://www.4shared.com/privacy.jsp?locale=th">
+<link rel="alternate" hreflang="ja" href="https://www.4shared.com/privacy.jsp?locale=ja">
+<link rel="alternate" hreflang="fa" href="https://www.4shared.com/privacy.jsp?locale=fa">
+<link rel="alternate" hreflang="pl" href="https://www.4shared.com/privacy.jsp?locale=pl">
+<link rel="alternate" hreflang="tr" href="https://www.4shared.com/privacy.jsp?locale=tr">
+<link rel="alternate" hreflang="x-default" href="https://www.4shared.com/privacy.jsp"><meta property="fb:app_id" content="255519317820035">
+<meta property="og:type" content="website">
 
-  <!--[if lt ie 9]>
-    <style type="text/css">
-      #valid_new_email{
-        width: 255px !important;
-      }
-    </style>
-   <![endif]-->
-
-  <!--[if lte ie 9]>
-    <style type="text/css">
-      .p_window .cc iframe{
-          margin:10px 20px 0;
-      }
-      .p_window.shPopup .hh{
-          width: auto !important;
-      }
-      .p_window .friend-share{
-          margin: 0 !important;
-      }
-    </style>
-    <![endif]-->
-<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/popup_n.4min.css?ver=244703502">
-<script type="text/javascript" src="https://static.4shared.com/js/PopupModule.4min.js?ver=-1588521253"></script>
+<meta property="og:image" content="https://www.4shared.com/images/social/general.png">
+  <link rel="image_src" href="https://www.4shared.com/images/social/general.png">
+<meta property="og:title" content="4shared - free file sharing and storage">
+<meta property="og:description" content="4shared is a perfect place to store your pictures, documents, videos and files, so you can share them with friends, family, and the world. Claim your free 15GB now!">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/common_n.4min.css?ver=-742685716">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/ui/elements.4min.css?ver=1706958101">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/auth-popup.4min.css?ver=-1494430887">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/themes/account/icons.4min.css?ver=-1881612694">
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/tipTip.4min.css?ver=-207359769">
+<script type="text/javascript">
+    function sendVerificationLetter(){
+        $.get('https://www.4shared.com/account/sendEmailVerification.jsp?globSysLang=en&callback=?', {ajax: 'true'} ,function(data) {
+            var msg;
+            if (data.ok) {
+                msg = data.verificationMailSentMsg;
+            }else{
+                msg = data.errorMessage;
+            }
+            PopupModule.popupWithButtons({title:"Check your e-mail", content:msg});
+        }, "jsonp");
+    }
+</script><script type="text/javascript">
+  function feedback() {
+    var windowname="Feedback";
+    var url="/feedback.jsp";
+    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600,left=50,top=50');
+    OpenWindow.focus();
+  }
+  function reportAbuse(alink) {
+    var windowname="abuse";
+    var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
+    var url="/web/abuse?abuseType=1" + link;
+    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
+    OpenWindow.focus();
+  }
+  function reportCopyright() {
+    var windowname="reportCopyright";
+    var url="/web/abuse?&abuseType=2&link=" + " ";
+    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=750,left=50,top=50');
+    OpenWindow.focus();
+  }
+</script><script type="text/javascript" src="https://static.4shared.com/js/reloadBackground.4min.js?ver=1302265784"></script>
+<link rel="stylesheet" type="text/css" href="https://static.4shared.com/css/popup_n.4min.css?ver=414772815">
+<script type="text/javascript" src="https://static.4shared.com/js/PopupModule.4min.js?ver=-546041071"></script>
 <div id="confirmPopup" style="display:none;">
   <input type="hidden" class="jsErrorDefaultTitle" value="Error">
   <input type="hidden" class="jsInfoDefaultTitle" value="Info">
@@ -259,225 +292,16 @@
   })
 </script>
 
-<script type="text/javascript" src="https://static.4shared.com/js/AjaxSuggestion.4min.js?ver=292062842"></script>
-<div class="holidayNewYear jsHeader newHeader mainHeader">
-<div class="centered clearFix">
-
-<div class="floatLeft logo">
-  <a href="https://www.4shared.com/" title="Free file sharing" data-ga="header.1">
-    <img src="https://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Free file sharing" data-ga="header.1">
-  </a>
-</div>
-
-<div class="floatLeft paddingL15 paddingR5 min">
-  <img src="https://static.4shared.com/images/newUi/hLogo-arrow.png?ver=-1973830473">
-</div>
-<script type="text/javascript" src="https://static.4shared.com/js/search.4min.js?ver=849676806"></script>
-<input type="hidden" id="sPrefix" value="//search.4shared.com">
-<input type="hidden" class="sLink file" value="/q/CCAD/1">
-<input type="hidden" class="sLink video" value="/q/CCQD/1/video">
-<input type="hidden" class="sLink music" value="/q/CCQD/1/music">
-<input type="hidden" class="sLink photo" value="/q/CCQD/1/photo">
-<input type="hidden" class="sLink books_office" value="/q/CCQD/1/books_office">
-<input type="hidden" class="sLink featured_videos" value="/q/CCQD/1/video">
-<input type="hidden" id="sBreadcrumbsPhrase" value="Searching">
-
-<div class="floatLeft paddingL20 searchbox">
-  <div class="searchform round4">
-    <div class="floatLeft filter roundTL4 roundBL4">
-      <div id="active_filter" class="active_filter roundTL4" data-ga="hsearch.1">
-        <i category="file" class="file file" data-ga="hsearch.1">
-          <span class="sprite1 floatRight"></span>
-        </i>
-      </div>
-
-      <div class="cclick_container cfilter f13 jsSearchFilter">
-        <div class="dropdownInner">
-          <div class="dropdownTopArrow"></div>
-            <a href="//search.4shared.com/q/CAAD/1" class="file" data-ga="hsearch.2" title="Files" style="border-top:0">Files</a>
-            <a href="//search.4shared.com/q/CAQD/1/photo" class="photo" data-ga="hsearch.3" title="Photo">Photo</a>
-            <a href="//search.4shared.com/q/CAQD/1/music" class="music" data-ga="hsearch.4" title="Music">Music</a>
-            <a href="//search.4shared.com/q/CAQD/1/books_office" class="book" data-ga="hsearch.5" title="Books">Books</a>
-            <a href="//search.4shared.com/q/CAQD/1/video" class="video" data-ga="hsearch.6" title="Video">Video</a>
-            </div>
-      </div>
-    </div>
-
-    <div class="floatLeft search roundTR4 roundBR4 paddingL10">
-      <form action="" class="floatLeft" id="search" data-ga="hsearch.8">
-        <input type="text" id="searchQuery" placeholder="Search files" data-ga="hsearch.8">
-      </form>
-      <a href="#" id="doSearch" class="floatRight proceed paddingR10 sprite1" data-ga="hsearch.9"></a>
-
-      <div class="suggest f13 round4" style="display: none;">
-  <div class="ii round4">
-    <ul>
-    </ul>
-  </div>
-</div>
-
-<input type="hidden" class="jsSearchSuggestedTerm" value="false">
-
 <script type="text/javascript">
-  var searchInputElement = $('#searchQuery');
-  AjaxSuggestion.init(searchInputElement);
-</script></div>
-  </div>
-</div><div class="floatRight controls lucida">
-<div class="sign item absmid">
-  <div class="textlink jsSignupLink" data-ga="header.2">
-    <i data-ga="header.2">Sign Up</i>
-  </div>
-
-  <div class="click_container csign in-tab round4">
-    <div class="i round4">
-      <div class="dropdownTopArrow"></div>
-      <div class="wr">
-        <form class="loginform" name="signupForm" action="https://www.4shared.com/web/acc/signup" method="post" id="signup_head" onsubmit="return loginFnc.doSignUp('','https://www.4shared.com/', null, false);" autocomplete="off">
-          <input type="hidden" name="fpRedirParam" value="http%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
-
-          <div class="input-light-small round4 marginT5">
-            <input type="text" id="regloginfield" name="login" tabindex="1" placeholder="E-mail" autocomplete="off" data-ga="header.3">
-          </div>
-          <div class="input-light-small round4 marginT5">
-            <input type="password" id="regpassfield" name="password" tabindex="2" placeholder="Password" autocomplete="off" data-ga="header.4">
-          </div>
-          <div class="input-light-small round4 marginT5">
-            <input type="password" id="regpassfield2" name="password2" tabindex="3" placeholder="Confirm Password" data-ga="header.5">
-          </div>
-          <div id="signUpErrorPwd" style="display:none;">
-            <div id="signUpErrorPwdRsn" class="small red paddingT5 alignRight nowrap"></div>
-          </div>
-          <div id="signUpErrorPwd2" style="display:none;">
-            <div id="signUpErrorPwd2Rsn" class="small red paddingT5 alignRight nowrap"></div>
-          </div>
-          <div id="signUpErrorLogin" style="display:none;">
-            <div id="signUpErrorLoginRsn" class="small red paddingT5 alignRight nowrap"></div>
-          </div>
-
-          <div class="capsWarning small red" style="display: none; padding: 3px 0 0 0 ; text-align:right">Caps Lock is on</div>
-          <div class="alignRight paddingT5 paddingB5">
-            <input type="submit" value="Sign Up" tabindex="4" class="button-orange round5 f15" data-ga="header.6">
-          </div>
-          <div class="clear"></div>
-        </form>
-
-        <script type="text/javascript">
-          if (!$.browser.msie) {
-            $('#regpassfield2').keyup(function (event) {
-              if (event.keyCode == '13') {
-                return loginFnc.doSignUp('', 'https://www.4shared.com/', null, false, null, true);
-              }
-            });
-          }
-        </script>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="hdivider sign absmid"><span></span></div>
-
-<div class="inline login item absmid">
-  <div class="llink textlink jsLoginLink" data-ga="header.7">
-    <i data-ga="header.7">Log In</i>
-  </div>
-
-  <div class="click_container clogin in-tab round4">
-    <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login" method="post" autocomplete="on" name="loginForm">
-      <div class="i round4 headLoginDropdown">
-        <div class="dropdownTopArrow"></div>
-        <div class="round1 alert jsErrorPlace" id="iloginRejectReason" style="display:none;"></div>
-        <div class="wr">
-          <div class="input-light-small round4 marginT5">
-            <input type="text" class="jsInputLogin" name="login" placeholder="Login" autocomplete="on" data-ga="header.8">
-          </div>
-          <div class="input-light-small round4 marginT5">
-            <input type="password" class="jsInputPassword" name="password" placeholder="Password" autocomplete="on" data-ga="header.9">
-          </div>
-
-          <input type="hidden" name="returnTo" value="http%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
-          <div class="capsWarning small red" style="display: none; padding: 3px 0 0 0 ; text-align:right">Caps Lock is on</div>
-
-          <div class="rememberMeBlock f12 paddingT10 floatLeft">
-            <input type="checkbox" name="remember" id="remember" checked="checked" class="absmid" data-ga="header.10">
-            <input type="hidden" value="on" name="_remember">
-            <label for="remember" class="absmid" data-ga="header.10">Remember me</label>
-          </div>
-
-          <div class="paddingT10 floatRight">
-            <input type="submit" value="Log In" class="submit-light round4" style="width: 100%;" data-ga="header.11">
-          </div>
-
-          <div class="clear"></div>
-
-          <div class="socialLogin f11">
-            <div class="ii lucida">
-              <a href="https://www.4shared.com//remindPassword.jsp" class="remindPassLink marginT5" data-ga="header.12">Forgot password?</a>
-
-              <div class="socialButtons">
-                <div class="floatLeft langCorrection">
-                  Login with:
-                </div>
-                <div class="floatRight">
-                  <a href="https://www.4shared.com/servlet/signin/twitter?fp=http%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="tw floatLeft sprite1" data-ga="header.13"></a>
-                  <a href="https://www.4shared.com/servlet/signin/facebook?fp=http%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="fb floatLeft sprite1" data-ga="header.14"></a>
-                  <a href="https://www.4shared.com/servlet/signin/google?fp=http%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="go floatLeft sprite1" data-ga="header.15"></a>
-                  </div>
-                <div class="clear"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </form>
-  </div>
-</div>
-
-<div class="hdivider sign absmid"><span></span></div>
-
-<div class="inline settings item absmid">
-  <div class="gear piclink sprite1 jsSettingsLink"><i data-ga="header.16">&nbsp;</i></div>
-  <div class="click_container csettings in-tab round4 f13 jsSettingDropdown">
-    <div class="i round4">
-      <div class="dropdownTopArrow"></div>
-      <div class="ls">
-        <a class="pr" href="/premium.jsp" data-ga="premLink.1">Premium</a>
-<a href="https://www.4shared.com/faq.jsp" class="clear" data-ga="header.17">FAQ</a>
-        <a href="https://www.4shared.com/web/helpCenter" data-ga="header.18">Help</a>
-        <a href="#" onclick="reportAbuse(); $('.jsSettingsLink').click()" data-ga="header.19">Report abuse</a>
-
-        <hr>
-        <a href="#" id="changeLang" class="jsChangeLang" data-ga="header.20">
-          Language<span class="pr floatRight paddingR5" data-ga="header.20">en</span>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-</div>
-
-<div class="clear"></div>
-</div>
-</div>
-
-<script type="text/javascript">
-  var mainSite = 'https://www.4shared.com/';
-
-  function getFakePass2(el) {
-    var parent = el.parents('div:first');
-    return $('input[type=password]', parent).val()
-  }
-
   var debugInfo = {
     loc: "Location = " + window.location,
     usrAgent: "UserAgent = " + navigator.userAgent,
     usrName: "Login = null",
     accountType: "AccType = null",
     winSize: "Window.W = " + screen.availWidth + "\nWindow.H = " + screen.availHeight,
-    title: "Title = dc573, rev=56670"
+    title: "Title = dc571, rev=58514"
   };
+
   var userInfo = debugInfo.loc + "<br>" + debugInfo.usrAgent + "<br>" + debugInfo.usrName + "<br>" + debugInfo.accountType + "<br>" + debugInfo.winSize + "<br>" + debugInfo.title;
 
   $(document).keydown(function (e) {
@@ -490,305 +314,461 @@
       })
     }
   });
+</script><script type="text/javascript">
+    function sendVerificationLetter(){
+        $.get('https://www.4shared.com/account/sendEmailVerification.jsp?globSysLang=en&callback=?', {ajax: 'true'} ,function(data) {
+            var msg;
+            if (data.ok) {
+                msg = data.verificationMailSentMsg;
+            }else{
+                msg = data.errorMessage;
+            }
+            PopupModule.popupWithButtons({title:"Check your e-mail", content:msg});
+        }, "jsonp");
+    }
+</script><style>
+  .gaHelperNumbers {
+    left: 0;
+    top: 0;
+    z-index: 998;
+    position: absolute;
+    background: #008bf6;
+    color: #fff;
+    padding: 3px 5px;
+    text-shadow: none;
+    font-size: 11px;
+    border-radius: 3px;
+    line-height: 14px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+    white-space: nowrap;
+    font-style: normal;
+    text-transform: none;
+  }
 
-  </script><div class="centered mob_regular">
-          <br>
-          <div class="large blue paddingT15">4shared Privacy Policy</div>
-            <div style="padding-top:20px;text-align:justify;">
-                
-                    This privacy policy ("<strong>Policy</strong>") explains how personally identifiable information is collected,
-                    used and disclosed by New IT Solutions Ltd. ("<strong>we</strong>" or "<strong>us</strong>") with respect to your access
-                    and use of 4shared's online file storage and sharing service located at <a target="_blank" href="http://www.4shared.com">www.4shared.com</a>,
-                    (the "<strong>Service</strong>") and our mobile applications 4shared Photo,
-                    4shared Music and 4shared ("Apps" or "App"), so you can make an informed decision about
-                    using the Service.
-                <br><br>
-                
-                    We reserve the right to change the provisions of this Policy at any time. We will alert you
-                    that changes have been made by indicating on this Policy the date it was last updated. If we
-                    make any material changes we will notify you by email (sent to the e-mail address specified in
-                    your account) or by means of a notice on this Site prior to the change becoming effective. We
-                    encourage you to review this Policy from time-to-time to make sure that you understand how any
-                    personally identifiable information you provide to us or collected about you will be used.
-                <br><br>
-                <b>What Is Personal Information?</b><br><br>
-                
-                    As used in this Policy, the term "personally identifiable information" means information
-                    that specifically identifies an individual (such as a name, user name or e-mail address), or
-                    information about that individual that is directly linked to information that specifically identifies
-                    an individual. Personally identifiable information does not include "aggregate" information,
-                    which is data we collect about the use of the Service or about a group or category of services
-                    or users, from which individual identities or other personally identifiable information has
-                    been removed. This Policy in no way restricts or limits our collection and use of aggregate
-                    information.
-                <br><br>
-                <b>What Information Do We Collect?</b><br><br>
-                
-                    <span style="text-decoration: underline;">Active Collection:</span> We collect information from you in various ways when you use the Service
-                    and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as
-                    when you send us an email); and (ii) to which you provide us access. Such information may
-                    include personal information, such as your name, email address, date of birth, social network
-                    data and performance related data. When using our Apps we will collect information such as
-                    device type, operating system type and version. Personal and demographic information may also
-                    be collected if you provide such information in connection with posting data, providing access to
-                    your online groups and other activities in connection with the Service.
-                <br><br>
-                We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services.<br><br>
-                
-                    <span style="text-decoration: underline;">Passive Collection:</span>
-                    When you use the Service and our Apps, some information is also
-                    automatically collected, such as your Internet Protocol (IP) address, your operating system, the
-                    browser type, the address of a referring website, and your activity on the Service. We may also
-                    automatically collect certain logistical information in server logs, including information about
-                    how you use various features of the Service and information about the number, frequency and
-                    length of each session.
-                <br><br>
-                
-                    We may also automatically collect certain information through the use of "cookies" when you
-                    use the Service. Cookies are small data files stored on your hard drive at the request of a website.
-                    Among other things, cookies help us to improve the Service and your experience. If we link
-                    cookies to any personally identifiable information, we will treat this information as personally
-                    identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your
-                    browser manufacturer to learn about these functions. However, if you choose to remove or reject
-                    cookies, this could affect certain features or services made available via the Service.
-                <br><br>
-                
-                    The use of cookies by our partners is not covered by our privacy statement. We do not have
-                    access or control over these cookies.
-                <br><br>
-                
-                    We may use Web beacons or similar technology on the Service and in our Apps. We do not tie
-                    the information gathered by clear gifs to our customers’ personally identifiable information.
-                    Web beacons are small, invisible graphic images that may be used on the Service or in emails
-                    relating to the Service to collect certain information and monitor user activity on the Service,
-                    such as to count visits, understand usage effectiveness and to tell if an email has been opened
-                    and acted upon. Such technologies are used to collect aggregate statistics related to usage of the
-                    Service and do not collect personally identifiable information.
-                <br><br>
-                
-                    Personally identifiable information will be stored on secured servers, and we may store and
-                    process personally identifiable information in the United States and other countries.
-                <br><br>
-                <strong>How Do We Use the Personally Identifiable Information We Collect?</strong>
-                <br><br>
-                
-                    We use personally identifiable information collected through the Service and Apps for the
-                    purposes described in this Policy or elsewhere on the Service or in the Apps. For example, we
-                    may use personally identifiable information we collect:
-                    <ul class="privacy-ul">
-                        <li>to process and complete any transactions in connection with the Service and Apps;</li>
-                        <li>to request feedback and to otherwise contact you about your use of the Service and Apps;</li>
-                        <li>to respond to your emails, questions, comments, requests and complaints, and to provide customer service;</li>
-                        <li>to monitor and analyze Service and App usage and trends;</li>
-                        <li>to personalize and improve the Service or Apps, and our users' experiences with the
-                            Service and Apps (such as providing content or features that match interests), and to
-                            increase the Service's or Apps’ functionality and user friendliness;</li>
-                        <li>to send you confirmations, updates, security alerts, additional information about our
-                            products and services and support and administrative messages, and otherwise facilitate
-                            your use of, and our administration and operation of, the Service or Apps. When sending
-                          marketing information about our services or products, we will only use your email address
-                          used during registration; we will not use other email addresses you may have provided to us,
-                          for instance in a feedback form, to send marketing emails;</li>
-                        <li>to notify you about important changes to the Service and Apps.</li>
-                    </ul>
-                <b>What Personally Identifiable Information Do We Share With Third-Parties?</b><br><br>
-                We will not knowingly share the personally identifiable information we collect from you through
-                    the Service or Apps with third-parties, except as described in this Policy or on the Service or
-                    Apps. For example, we may share personally identifiable information as follows:
-                    <ul class="privacy-ul">
-                        <li>with vendors, consultants, and other service providers such as a credit card processing
-                            company to bill you for services, a forum provider for hosting our public forums, and an
-                            email service provider to send out emails on our behalf (“Service Providers”). When you
-                            sign up for our services we will share your personal information only as necessary for the
-                            third party to provide that service.;</li>
-                        <li>when you give us your consent to do so, including if we notify you on the Service or
-                            Apps that the information you provide will be shared in a particular manner and you
-                            provide such information;</li>
-                        <li>in an aggregated or anonymized form that does not directly identify you;</li>
-                        <li>when we believe in good faith that we are lawfully authorized or required to do so or
-                            that doing so is reasonably necessary or appropriate to comply with the law or legal
-                            processes or to respond to lawful requests or legal authorities including, but not limited
-                            to, responding to lawful subpoenas, warrants, or court orders;</li>
-                        <li>when we believe in good faith that we are lawfully authorized or required to do so or that
-                            doing so is reasonably necessary or appropriate to protect the rights, property, or safety of
-                            New IT Solutions Ltd., our users, our employees, copyright owners, third-parties or the
-                            public including, but not limited to, protecting New IT Solutions Ltd. or our users from
-                            fraudulent, abusive, inappropriate, or unlawful use of the Service or Apps;</li>
-                        <li>to enforce or apply this Policy, the Terms, or our other policies or agreements;</li>
-                        <li>and in connection with, or during negotiations of, any merger, sale of company assets,
-                            financing or acquisition, or in any other situation where personally identifiable
-                            information may be disclosed or transferred as one of the business assets of New IT Solutions Ltd.</li>
-                    </ul>
-                <br>
-                
-                    You understand that when you use the Service, information you provide via the Service,
-                    information you grant access to by using the Service, as well as any information you share
-                    with individuals through the Service, will be available to other users and in some cases may be
-                    publicly available.
-                <br><br>
-                
-                    We are not responsible for the actions of Service Providers or other third-parties, nor are we
-                    responsible for any additional information you provide directly to any other users or third-
-                    parties, and we encourage you to become familiar with third-party privacy practices before
-                    disclosing information directly to any such third-parties. Nothing herein restricts the sharing of
-                    aggregated or anonymized information, which may be shared with third-parties without your
-                    consent.
-                <br><br>
+  .gaHelperNumbers:hover {
+    z-index: 1001 !important;
+    background: #006fc9;
+  }
 
-                <b>Access to Personally Identifiable Information</b><br><br>
-                If your personally identifiable information changes, or if you no longer desire our service, you may
-                correct, update or delete it by making the change on our member information page or <a href="/web/helpCenter">contact</a> our
-                support. We will respond to your request to access within 30 days.<br><br>
-                If you wish to request the deletion of an unauthorized profile you may <a href="/web/helpCenter">contact</a> our support.<br><br>
-                
-                    We will retain your information for as long as your account is active or as needed to provide
-                    you services. We will retain and use your information as necessary to comply with our legal
-                    obligations, resolve disputes, and enforce our agreements.
-                <br><br>
-                <b>Tell a friend</b><br><br>
-                
-                    If you choose to use our referral service to tell a friend about our Service, we will ask you for
-                    your friend’s name and email address. We will automatically send your friend a one-time email
-                    inviting him or her to visit the site. New IT Solutions Ltd. stores this information for the sole
-                    purpose of sending this one-time email and tracking the success of our referral program.
-                <br><br>
-                <b>Open Blogs</b><br><br>
-              We may offer publicly accessible blogs our Service. You should be aware that
-                any information you provide in these areas may be read, collected, and used by others who access them. To
-                request removal of your personal information from our blog or community forum, please <a href="/web/helpCenter">contact</a> us.<br><br>
-                <b>Links to Other Websites</b><br><br>
-                
-                    The Service may contain links to other websites. Any personally identifiable information you
-                    provide on the linked pages is provided directly to that third- party and is subject to that third-
-                    party's privacy policy. This Policy does not apply to such linked websites, and we are not
-                    responsible for the content or privacy and security practices and policies of these websites or
-                    any other websites that are linked to/from the Service. We encourage you to learn about their
-                    privacy and security practices and policies before providing them with personally identifiable
-                    information.
-                <br><br>
-                <b>What Steps Do We Take To Protect Your Information Online?</b><br><br>
-              We take reasonable measures to protect your personally identifiable information in an effort to
-                prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware,
-                however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data
-                transmission can guarantee against any interception or any other type of misuse. To assist with the
-                protection of personally identifiable information, you must keep your password confidential and not disclose
-                it to any other person. You are responsible for all uses of the Service and Apps by any person using your
-                password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot
-                guarantee its absolute security. If you have any questions about security on our Web site, you can <a href="/web/helpCenter">contact</a> us.<br><br>
-                <b>Advertising</b><br><br>
-                
-                    We partner with a third party ad network to display advertising within our Apps. Our ad network
-                    partner uses Web beacons and log files to collect non-personally identifiable information about
-                    your activities on our Apps to provide you targeted advertising based upon your interests. If you
-                    wish to not have this information used for the purpose of serving you targeted ads, you may opt-
-                    out by <a target="_blank" href="http://preferences-mgr.truste.com/">clicking here</a>. Please note this does not opt you out of being served advertising. You will
-                    continue to receive generic ads.
-                <br><br>
-                <b>Facebook Connect</b><br><br>
-                
-                    You can log in to our Service (or link your App to your social network) using sign-in services
-                    such as Facebook Connect or an Open ID provider. These services will authenticate your identity
-                    and provide you the option to share certain personal information with us such as your name and
-                    email address to pre-populate our sign up form. Services like Facebook Connect give you the
-                    option to post information about your activities on this Web site to your profile page to share
-                    with others within your network.
-                <br><br>
-                <b>Social Media Features and Widgets</b><br><br>
-                
-                    Our Service includes Social Media Features, such as the Facebook Like button and Widgets,
-                    such as the Share This button or interactive mini-programs that run on our site. These Features
-                    may collect your IP address, which page you are visiting on our site, and may set a cookie to
-                    enable the Feature to function properly. Social Media Features and Widgets are either hosted by
-                    a third party or hosted directly on our Site. Your interactions with these Features are governed by
-                    the privacy policy of the company providing it.
-                <br><br>
-                <b>What Choices Do You Have Regarding the Use of Your Information?</b><br><br>
-                You may "opt out" of receiving marketing or promotional emails from us by following the instructions
-                in those emails. You may also opt out of such marketing emails by following the instructions within such
-                emails or <a href="/web/helpCenter">contact</a> our support. You may also log into
-                your account and make the appropriate selections in the "communications" tab in the "settings" menu. If you
-                opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing
-                business relations.<br><br>
-                <b>Questions?</b><br><br>
-                
-                    If you have any questions about this Policy, please <a href="/web/helpCenter">contact us</a> or via
-                    postal mail at 4shared.com, 3080 South Court, Palo Alto, California 94306, USA.
-                <br><br>
-            </div>
-            <br><br>
-             </div>
-          </div><div id="fstickfooter">
-  <div class="footer_in">
-    <div id="footer">
-      <div class="footer">
-  <div class="centered">
-    <div class="fcol first">
-      <div>Site Links</div>
-      <a href="https://www.4shared.com/">Home</a><br>
-      <a href="https://www.4shared.com/premium.jsp?ref=footer">Premium</a><br>
-      <a href="https://www.4shared.com/links.jsp">Link to Us</a><br>
-      <a href="https://search.4shared.com:443/search.html">Search</a><br>
-    </div>
-    <div class="fcol">
-      <div>Help</div>
-      <a href="https://www.4shared.com/web/helpCenter">Support</a><br>
-      <a href="https://www.4shared.com/faq.jsp">FAQ</a><br>
-      <a href="https://www.4shared.com/tutorial/">Quick Tour</a><br>
-      <a href="https://www.4shared.com/features.jsp">Features</a><br>
-      <a href="https://www.4shared.com/contact.jsp">Contact Us</a>
-    </div>
-    <div class="fcol maxWidthLimited">
-      <div>About</div>
-      <a href="https://www.4shared.com/aboutus.jsp">Company</a><br>
-      <a href="https://www.4shared.com/advertise/">Advertising</a><br>
-      <a href="https://www.4shared.com/resellers.jsp">Resellers</a><br>
-      <a href="https://www.4shared.com/paymentContacts.jsp">Payment Contacts</a><br>
-      <a href="https://www.4shared.com/copyright-center.jsp">Copyright</a>
-    </div>
-    <div class="fcol maxWidthLimited">
-      <div>Legal</div>
-      <a href="https://www.4shared.com/terms.jsp">Terms of Use</a><br>
-      <a href="https://www.4shared.com/privacy.jsp">Privacy</a><br>
-      <a href="https://www.4shared.com/dmca.jsp">Copyright Infringement</a><br>
-      <a href="https://www.4shared.com/security.jsp">Security</a><br>
-      <a href="https://www.4shared.com/musicIdentification.jsp">Music Identification</a><br>
-      <a href="https://www.4shared.com/sla.jsp" title="Service Level Agreement">SLA</a><br>
-    </div>
-    <div class="fcol">
-      <div>Media</div>
-      <a href="https://www.4shared.com/press_room/">Press Room</a><br>
-      <a href="http://blog.4shared.com/" target="_blank">Blog</a><br>
-      <a href="http://twitter.com/4shared" target="_blank" title="Follow us on Twitter" rel="nofollow" style="white-space:nowrap;"><img src="https://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Twitter" class="tw"> Twitter</a><br>
-      <a href="http://www.facebook.com/official.4shared" target="_blank" title="Follow us on Facebook" rel="nofollow" style="white-space:nowrap;"><img src="https://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Facebook" class="fb"> Facebook</a><br>
-      <a href="https://plus.google.com/114619261879843970270?rel=author" target="_blank" title="Read Us on Google Plus" rel="nofollow"><img src="https://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Google+" class="gp"> Google+</a><br>
-    </div>
-    <div class="fcol last">
-      <div>Tools</div>
-      <a href="https://www.4shared.com/mobile.jsp">4shared Mobile</a><br>
-      <a href="https://www.4shared.com/developer/">Developer</a><br>
-      </div>
-  </div>
-  </div>
+  .p_window .gaHelperNumbers,
+  [class*="dropdown"] .gaHelperNumbers{
+    z-index: 1000;
+  }
+</style>
 
-<div class="copy">
-        <div class="centered">
-          <div class="floatLeft alignRight">
-             Copyright <span title="dc573, rev=56670">©</span> 2005-2016 4shared.com </div>
-          <div class="clear"></div>
-        </div>
+<script type="text/javascript">
+//  Universal Analytics Enabled
+//
+//  200,000 hits per user per day
+//  500 hits per session
+//  https://developers.google.com/analytics/devguides/collection/gajs/limits-quotas
+
+  if (typeof ga != "function") {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+
+//  new tracker for click events
+  ga('create', 'UA-306602-4', 'auto', '4shared_Clicks', {'sampleRate': 0});
+
+//  E - event (element ID)
+//  V - view (page size - lg, md, sm, xs)
+//  P - page (page name)
+//  S - subtype (element sub-ID)
+
+  var E, V, S;
+  var P = $('body').attr('data-ga-page');
+
+  function getPageViewSize() {
+    var bodyWidth = $('body').width();
+
+    if (bodyWidth >= 1200) {
+      V = 'lg';
+    } else if (bodyWidth >= 992) {
+      V = 'md';
+    } else if (bodyWidth >= 768) {
+      V = 'sm';
+    } else {
+      V = 'xs';
+    }
+  }
+
+  function clickGAelem(event) {
+    var targetElemID = $(event.target).attr('data-ga');
+    if (!targetElemID) return;
+
+    E = targetElemID.split('-')[0];
+    S = targetElemID.split('-')[1];
+
+    ga('4shared_Clicks.send', 'event', E, P, V, S);  /*we could change order here if needed*/
+    sendNativeAnalytics(E, P, V, S);
+  }
+
+  function sendNativeAnalytics(event, page, view, subtype) {
+    var element = $("<img/>");
+    var sub = subtype ? "&s="+subtype : "";
+    $("body").append(element.hide());
+    var url = "/web/rest/statistics/customTracker?e="+event+"&v="+view+"&p="+page+sub;
+    element.attr("src", url);
+  }
+
+  $(function () {
+    getPageViewSize();
+    $('body').click(function(e) {
+      clickGAelem(e)
+    });
+
+//    if (typeof(Events) != 'undefined') {
+//      Events.addListener('folder.reload', function () {
+//        $('body').off('click', clickGAelem).on('click', clickGAelem)
+//      });
+//
+//      Events.addListener("send.g.a", function (data) {
+//        ga('send', 'event', data[0], data[1]);
+//      });
+//    }
+
+    $(window).resize(getPageViewSize);
+  });
+
+  //  visual part
+
+  function showGANumbers() {
+    $('[data-ga]').each(function () {
+      var elementID = $(this).attr('data-ga');
+      if ($(this).css('position') != 'absolute') {
+        $(this).css('position', 'relative')
+      }
+      $(this).append($('<div/>').html(elementID).addClass('gaHelperNumbers'))
+    });
+  }
+
+  $(document).keydown(function (e) {
+    if (!e) e = window.event;
+    var k = e.keyCode;
+
+    if (e.ctrlKey && e.altKey && k == 71) { // Alt+Ctrl+G
+      showGANumbers()
+    }
+  });
+</script><div class="hidden-md hidden-lg">
+    <div id="epom-1d8a7f9c0ccb3eab2b4d451725ef16cc"></div>
+
+<script type="text/javascript" src="/web/escript/416199.js?ver=58514"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/ads/relativeAdsScript.4min.js?ver=61499480"></script>
+<script type="text/javascript" src="https://static.4shared.com/js/blockDetect/blockDetect2.4min.js?ver=870673091"></script>
+<script type="text/javascript">
+  prepareOrShowAds('epom-1d8a7f9c0ccb3eab2b4d451725ef16cc', '{"adsHost":"","placementInfo":"","moreParams":"xs-sm","format":"ads-async.js","width":"","key":"1d8a7f9c0ccb3eab2b4d451725ef16cc","height":""}', 'xs-sm');
+</script>
+
+</div>
+<!-- Login popup -->
+<div class="modal fade" id="loginPopup" tabindex="-1" role="dialog" aria-labelledby="loginPopupLabel">
+  <input type="hidden" class="jsReturnToOriginal" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login" method="post" autocomplete="on" name="loginForm">
+          <input type="hidden" name="returnTo" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+          <div class="jsPromoCouponCode">
+            <input name="skipChoosePlanPage" type="hidden" value="true" disabled="disabled">
+            <input name="forceVerify" type="hidden" value="true" disabled="disabled">
+            <input name="couponcode" type="hidden" value="" disabled="disabled">
+          </div>
+          <h1 class="text-center">Log In</h1>
+          <div class="social-buttons-holder">
+            <div class="middleLineBG"><span>via</span></div>
+            <div class="clearfix">
+              <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw pull-left jsTwBtn" data-ga="login.1"><span class="hidden-xs">Twitter</span></a>
+              <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb pull-left jsFbBtn" data-ga="login.2"><span class="hidden-xs">Facebook</span></a>
+              <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp pull-left jsGpBtn" data-ga="login.3"><span class="hidden-xs">Google</span></a>
+              </div>
+          </div>
+
+          <div class="middleLineBG"><span>or</span></div>
+          <input type="text" name="login" class="big-input jsInputLogin" id="login" placeholder="E-mail" data-ga="login.4">
+          <input type="password" name="password" class="big-input jsInputPassword" id="password" placeholder="Password" data-ga="login.5">
+          <div class="alert jsErrorPlace text-center" id="iloginRejectReason" style="display:none;"></div>
+          <button type="submit" class="big-button b-w jsLogIn" data-ga="login.6">Log In</button>
+
+          <div class="text-center popup-text"><a href="https://www.4shared.com/remindPassword.jsp" target="_blank" data-ga="login.7">Forgot your password?</a></div>
+        </form>
+        <form class="signUpForm jsSignUpForm" action="https://www.4shared.com/web/acc/signup" method="post" autocomplete="on" name="signUpForm">
+          <input type="hidden" name="fpRedirParam" class="jsReturnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+          <div class="text-center popup-text">Don't have an account?&nbsp;<button type="submit" data-ga="login.8">Sign Up</button></div>
+        </form>
       </div>
     </div>
   </div>
 </div>
 
-<!-- www.currDcID=573 -->
+<div class="modal fade" id="signupPopup" tabindex="-1" role="dialog" aria-labelledby="signupPopupLabel">
+  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login&quot;" method="post" autocomplete="on" name="loginForm">
+          <input type="hidden" name="returnTo" value="https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp">
+          <h1 class="text-center">Sign Up</h1>
+          <div class="social-buttons-holder">
+            <div class="middleLineBG"><span>via</span></div>
+            <div class="clearfix">
+              <a href="https://www.4shared.com/servlet/signin/twitter?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconTw button-block jsTWbutton" data-ga="signup.1">Twitter</a>
+              <a href="https://www.4shared.com/servlet/signin/facebook?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconFb button-block jsFBbutton" data-ga="signup.2">Facebook</a>
+              <a href="https://www.4shared.com/servlet/signin/google?fp=https%3A%2F%2Fwww.4shared.com%2Fprivacy.jsp" class="social-button iconGp button-block jsGPbutton" data-ga="signup.3">Google</a>
+              </div>
+          </div>
+
+          <div class="middleLineBG"><span>or</span></div>
+          <a href="https://www.4shared.com/web/acc/signup" class="social-button button-block iconMail" data-ga="signup.4">Email Address</a>
+          <div class="text-center popup-text paddingT15">Already have an account?&nbsp;<span class="jsToggleLoginSignupPopup" data-toggle="modal" data-target="#loginPopup" data-ga="signup.5">Log In</span>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="headerBG">
+<div class="container responsiveHeader ">
+
+  <div class=" row header-row">
+    <a href="https://www.4shared.com/" class="col-xs-6 col-sm-3 col-md-2  logo-block"></a>
+    <script type="text/javascript" src="https://static.4shared.com/js/headerSearch.4min.js?ver=-273966003"></script>
+<input type="hidden" id="sBreadcrumbsPhrase" value="Searching">
+    <form name="searchform" action="" id="search">
+      <div class="form-group col-sm-5 col-md-5 col-lg-6 search-holder search">
+        <button id="doSearch" type="button" class="search-button" data-ga="search.1"></button>
+        <input type="text" class="search-input small-input jsInputWithClearButton" value="" id="searchQuery" placeholder="Search for files, music, videos, pictures..." maxlength="200" data-ga="search.2">
+        <script type="text/javascript" src="https://static.4shared.com/js/AjaxSuggestion.4min.js?ver=-1746813269"></script>
+<div class="suggest f13 round4" style="display: none;">
+  <div class="ii round4">
+    <ul>
+    </ul>
+  </div>
+</div>
+
+<input type="hidden" class="jsSearchSuggestedTerm" value="false">
+
+<script type="text/javascript">
+  var searchInputElement = $('#searchQuery');
+  AjaxSuggestion.init(searchInputElement);
+</script><div class="jsClearSearchInput clearSearchInput"></div>
+      </div>
+    </form>
+    <div class="col-xs-6 col-sm-4 col-md-5 col-lg-4  header-buttons-holder text-right">
+      <button class="head-elem small-button w-b visible-xs-inline-block" type="button" data-toggle="modal" data-target="#loginPopup" data-ga="header.3">Sign In</button>
+        <button class="head-elem small-button hidden-xs" type="button" data-toggle="modal" data-target="#loginPopup" data-ga="header.2">Log In</button>
+        <button class="head-elem marginL15 small-button w-b hidden-xs jsOpenSignupButton" type="button" data-toggle="modal" data-target="#signupPopup" data-ga="header.1">Sign Up</button>
+      </div>
+  </div>
+</div>
+</div>
+
+<input type="hidden" class="jsNewSearchEnabled" value="true">
+
+<div class="centered mob_regular">
+    <br>
+    <div class="large blue paddingT15">4shared Privacy Policy</div>
+    <div style="padding-top: 20px; text-align:justify;">
+      <div class="small blue alignRight">Last Revised: March 2, 2017</div><br>
+      This privacy policy ("Policy") explains how information you provide to us is collected, used and disclosed by 4shared ("we" or "us") with respect to your access and use of 4shared's online file storage and sharing service located at <a target="_blank" href="http://www.4shared.com">www.4shared.com</a>, (the "Service") and our mobile applications ("Apps" or "App"), collectively, our Digital Properties, so you can make an informed decision about using the Service.<br><br>
+      We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any information you provide to us or collected about you will be used.<br><br>
+      <b class="big">What Information Do We Collect?</b><br><br>
+      The following types of information may be collected while you use our Digital Properties:<br>
+        - Personal information you choose to provide to us such as your name, mailing address, and email address.<br>
+        - Non-personal information including, but not limited to, location, browser type, IP address, mobile device type and identifier, screen resolution, operating system, the date and time of a visit or use, the pages visited on this Service and areas accessed in the App, the time spent viewing the Digital Properties, and return visits to the Digital Properties.<br>
+        - Wireless Network usage information including, but not limited to, network performance, mobile identity, and network access point identifier.<br>
+        - Aggregated information as you and others browse and use our Digital Properties.<br><br>
+      We may also automatically collect certain information through the use of "cookies", beacons and other similar technology to improve the Service and your experience. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service.The use of cookies and beacons by our partners is not covered by our privacy statement. We do not have access or control over these cookies.<br><br>
+      <b class="big">Uses of Information</b><br><br>
+      The information we collect may be used for such purposes as:<br><br>
+        - To respond your inquiries and requests.<br>
+        - To operate our Digital Properties and improve your experience.<br>
+        - To identify or repel possible threats to Digital Properties security.<br>
+        - To conduct research about Digital Properties usage.<br>
+        - For advertising purposes in order to deliver the most relevant ads to you.<br>
+        - To plan and evaluate wireless networks.<br>
+        - To analyze aggregate consumer trends.<br>
+        - To conduct cybersecurity research.<br><br>
+      <b class="big">Analytics and Research Services</b><br><br>
+      We may use third-party analytics and research services to better understand how visitors interact with Digital Properties. These services provide non-personally identifiable data including but not limited to data on where visitors came from, what actions they took, and where visitors went when they left Digital Properties. We use this information to improve your experience when visiting our Digital Properties. We may also work with other partners to conduct research surveys in order to improve the user experience on our Digital Properties. Their data practices are regulated by the privacy statements of these partners.<br><br>
+      <b class="big">Sharing Information with Third Parties</b><br><br>
+      We partner with third-party ad networks to display advertising within our Digital Properties. Our ad network partners use Web beacons and log files to collect non-personally identifiable information about your activities on our Digital Properties to provide you targeted advertising based upon your interests.<br><br>
+      We may also share non-personally identifiable information with third-party targeted interest-based advertising data providers for the purpose of facilitating advertising services for their customers, such as ad networks and other third-party websites and applications.<br><br>
+      You can opt out from interest-based advertising by visiting websites of advertising networks and data providers. You can also use opt-out instructions from websites of self-regulatory organizations:<br><br>
+
+      Network Advertising Initiative (NAI) – <a target="_blank" href="http://www.networkadvertising.org/choices/">www.networkadvertising.org/choices</a><br>
+      Digital Advertising Alliance (DAA) – <a target="_blank" href="http://www.aboutads.info/choices/">www.aboutads.info/choices</a><br>
+      Digital Advertising Alliance Canada (DAAC) – <a target="_blank" href="http://youradchoices.ca/choices">youradchoices.ca/choices</a><br>
+      Digital Advertising Alliance EU (EDAA) – <a target="_blank" href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a><br>
+      DAA AppChoices page – <a target="_blank" href="http://www.aboutads.info/appchoices">www.aboutads.info/appchoices</a><br><br>
+
+      Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third-party rights; and for purposes disclosed at time of collection.<br><br>
+      <strong>Anonymous Data Collection:</strong> Airpush, Inc. collects data relating to your use of this and other apps and your device and use of the device, such as Bluetooth beacon data, hashed or encrypted values of your email or phone number, geolocation, and other permission-based user information.  You will see the ↓  icon whenever data is being collected. Collected data will be shared with third parties for advertising, analytics and market
+      research purposes. For further information Airpush, Inc.’s data collection and use practices, please see Airpush, Inc.’s <a target="_blank" href="http://www.airpush.com/technology_privacy/">Technology Privacy Statement</a> and
+      <a target="_blank" href="http://www.airpush.com/privacypolicy/">Privacy Policy</a>. You may opt-out of interest-based ads by clicking <a target="_blank" href="https://optout.mobi.info/">here</a>.<br><br>
+
+      <b class="big">Security</b><br><br>
+      We take reasonable measures to help maintain data we collect through our Digital Properties in a secure manner.<br><br>
+
+      <b class="big">Links to Third-Party Websites</b><br><br>
+      Our Digital Properties may contain links to other websites operated by third parties. We do not own or control such websites and this Privacy Policy applies solely to information collected through our Digital Properties. Their data practices are regulated by the privacy statements of these websites.<br><br>
+
+      <b class="big">Contact Us</b><br><br>
+      If you have questions about this Privacy Policy, please contact us at <a href="mailto:legal@4shared.com">legal@4shared.com</a><br><br>
+    </div>
+    <br><br>
+  </div>
+</div>
+  <div class="black-bg fullpage-wrapper responsiveFooter">
+  <div class="container">
+    <div class="row rich-footer hidden-xs hidden-sm">
+      <div class="col-md-2">
+        <span>Site Links</span>
+        <div class="footer-link"><a href="https://www.4shared.com/" data-ga="foot.0">Home</a></div><div class="footer-link"><a href="//search.4shared.com/web/q/top" data-ga="foot.1">Search</a></div><div class="footer-link"><a href="https://www.4shared.com/web/acc/signup" data-ga="foot.2">Sign Up</a></div><div class="footer-link"><a href="https://www.4shared.com/premium.jsp?ref=footer" data-ga="foot.3">Premium</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/links.jsp" data-ga="foot.4">Link to Us</a></div>
+      </div>
+      <div class="col-md-2">
+        <span>Help</span>
+        <div class="footer-link"><a href="https://www.4shared.com/web/helpCenter" data-ga="foot.5">Support</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/faq.jsp" data-ga="foot.6">FAQ</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/tutorial/" data-ga="foot.7">Quick Tour</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/features.jsp" data-ga="foot.8">Features</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/contact.jsp" data-ga="foot.9">Contact Us</a></div>
+      </div>
+      <div class="col-md-2">
+        <span>About</span>
+        <div class="footer-link"><a href="https://www.4shared.com/aboutus.jsp" data-ga="foot.10">Company</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/advertise/" data-ga="foot.11">Advertising</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/resellers.jsp" data-ga="foot.12">Resellers</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/paymentContacts.jsp" data-ga="foot.13">Payment Contacts</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/copyright-center.jsp" data-ga="foot.14">Copyright</a></div>
+      </div>
+      <div class="col-md-2">
+        <span>Media</span>
+        <div class="footer-link"><a href="https://www.4shared.com/press_room/" data-ga="foot.15">Press Room</a></div>
+        <div class="footer-link"><a href="http://blog.4shared.com/" target="_blank" data-ga="foot.16">Blog</a></div>
+      </div>
+      <div class="col-md-2">
+        <span>Tools</span>
+        <div class="footer-link"><a href="https://www.4shared.com/mobile.jsp" data-ga="foot.17">4shared Mobile</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/developer/" data-ga="foot.18">Developer</a></div>
+        <div class="footer-link desktopVersionLink"><span onclick="classicView()" data-ga="foot.19.1">Desktop version</span></div>
+      </div>
+      <div class="col-md-2">
+        <span>Legal</span>
+        <div class="footer-link"><a href="https://www.4shared.com/terms.jsp" data-ga="foot.20">Terms of Use</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/privacy.jsp" data-ga="foot.21">Privacy</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/dmca.jsp" data-ga="foot.22">Copyright Infringement</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/security.jsp" data-ga="foot.23">Security</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/musicIdentification.jsp" data-ga="foot.24">Music Identification</a></div>
+        <div class="footer-link"><a href="https://www.4shared.com/sla.jsp" title="Service Level Agreement" data-ga="foot.25">SLA</a></div>
+      </div>
+    </div>
+
+    <div class="row pure-footer visible-sm-block visible-xs-block">
+      <div class="col-sm-4"><a href="https://www.4shared.com/terms.jsp" data-ga="foot.26">Terms of Use</a></div>
+      <div class="col-sm-4"><a href="https://www.4shared.com/privacy.jsp" data-ga="foot.27">Privacy</a></div>
+      <div class="col-sm-4"><a href="https://www.4shared.com/web/helpCenter" data-ga="foot.28">Support</a></div>
+      <div class="desktopVersionLink"><span onclick="classicView()" data-ga="foot.19.1">Desktop version</span></div>
+    </div>
+
+    <div class="row footer-buttons-wrapper">
+      <div class="col-md-2 hidden-xs hidden-sm logo-block">
+
+      </div>
+      <div class="col-xs-8 col-xs-push-2 col-md-7 col-md-push-3 col-sm-8 col-sm-push-2 lang-switcher-holder">
+        <div class="footer-button btn-lang jsLangSelectButton pull-right jsShowDropdown jsHideForSpecialDomain" data-ga="lang.1">
+          <div class="langboxabs" data-ga="lang.1"><span>•</span>
+    <b class="light-blue f11" data-ga="lang.1">English</b>
+
+    <div id="langPanel" class="alignLeft jsDropdown">
+        <div class="languages">
+          <div class="langItem" onclick="selectLang('de')" data-ga="lang.2-de">
+                <span data-ga="lang.2-de">Deutsch</span>
+              </div>
+            <div class="langItem" onclick="selectLang('ru')" data-ga="lang.2-ru">
+                <span data-ga="lang.2-ru">Русский</span>
+              </div>
+            <div class="langItem" onclick="selectLang('ko')" data-ga="lang.2-ko">
+                <span data-ga="lang.2-ko">한국어</span>
+              </div>
+            <div class="langItem" onclick="selectLang('in')" data-ga="lang.2-in">
+                <span data-ga="lang.2-in">Bahasa Indonesia</span>
+              </div>
+            <div class="langItem" onclick="selectLang('ms')" data-ga="lang.2-ms">
+                <span data-ga="lang.2-ms">Bahasa Melayu</span>
+              </div>
+            <div class="langItem" onclick="selectLang('pt-BR')" data-ga="lang.2-pt-BR">
+                <span data-ga="lang.2-pt-BR">Português (Brasil)</span>
+              </div>
+            <div class="langItem" onclick="selectLang('it')" data-ga="lang.2-it">
+                <span data-ga="lang.2-it">Italiano</span>
+              </div>
+            <div class="langItem" onclick="selectLang('fr')" data-ga="lang.2-fr">
+                <span data-ga="lang.2-fr">Français</span>
+              </div>
+            <div class="langItem" onclick="selectLang('es')" data-ga="lang.2-es">
+                <span data-ga="lang.2-es">Español</span>
+              </div>
+            <div class="langItem" onclick="selectLang('zh')" data-ga="lang.2-zh">
+                <span data-ga="lang.2-zh">中文</span>
+              </div>
+            <div class="langItem" onclick="selectLang('ar')" data-ga="lang.2-ar">
+                <span data-ga="lang.2-ar">العربية</span>
+              </div>
+            <div class="langItem" onclick="selectLang('vi')" data-ga="lang.2-vi">
+                <span data-ga="lang.2-vi">Tiếng Việt</span>
+              </div>
+            <div class="langItem" onclick="selectLang('th')" data-ga="lang.2-th">
+                <span data-ga="lang.2-th">ไทย</span>
+              </div>
+            <div class="langItem" onclick="selectLang('ja')" data-ga="lang.2-ja">
+                <span data-ga="lang.2-ja">日本語</span>
+              </div>
+            <div class="langItem" onclick="selectLang('fa')" data-ga="lang.2-fa">
+                <span data-ga="lang.2-fa">پارسی</span>
+              </div>
+            <div class="langItem" onclick="selectLang('pl')" data-ga="lang.2-pl">
+                <span data-ga="lang.2-pl">Polski</span>
+              </div>
+            <div class="langItem" onclick="selectLang('tr')" data-ga="lang.2-tr">
+                <span data-ga="lang.2-tr">Türkçe</span>
+              </div>
+            <div class="langCorner"></div>
+        </div>
+    </div>
+
+</div>
+
+</div>
+        <a href="https://www.youtube.com/channel/UCwGSH1iBEzNE0SeYJJs0QQw" target="_blank" class="footer-button btn-yt hidden-xs pull-right" data-ga="foot.30"></a>
+        <a href="https://www.facebook.com/official.4shared" target="_blank" class="footer-button btn-fb hidden-xs pull-right" data-ga="foot.31"></a>
+        <a href="https://twitter.com/4shared" target="_blank" class="footer-button btn-tw hidden-xs pull-right" data-ga="foot.32"></a>
+        <a href="https://plus.google.com/114619261879843970270?rel=author" target="_blank" class="footer-button btn-gp hidden-xs pull-right" data-ga="foot.33"></a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!--jscount-->
 <script type="text/javascript">
   document.write("<img src='//www.jscount.com/a/4/28b1a41b/z?ref=" +
       escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
-</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20161229045422id_/http%253A//www.4shared.com/privacy.jsp&amp;rand=0.13890279366740144" width="1" height="1" alt="" style="display:none">
+</script><img src="//www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20170624155359id_/https%253A//www.4shared.com/privacy.jsp&amp;rand=0.870627278512099" width="1" height="1" alt="" style="display:none">
 
+<script type="text/javascript">
+  Events.addListener("countEvent", function (data) {
+    $("<img/>").attr('src', "//www.jscount.com/a/" + data + "/z?ref=" +
+        escape(document.referrer) + "&url=" + escape(document.URL) + "&rand=" + Math.random());
+  });
+</script>
 <!--jscount-->
 
 
@@ -817,7 +797,22 @@
   }
 </script>
 
+<!-- applyDataCollect -->
+<iframe src="https://www.4shared.com/dataCollect.jsp?&amp;page=other" sandbox="allow-scripts" style="display:none" class="dataCollect"></iframe>
+<script type="text/javascript">
+  Events.addListener("search.results.reload", function (data) {
+    var category = data["category"];
+    if (category == undefined) {
+      category = 0;
+    }
+    var nameCategories = ["ALL", "AUDIO", "VIDEO", "IMAGE", "ARCHIVE", "BOOKS", "WEB", "MOBILE", "APPS"];
+    var dataCollect = $('.dataCollect');
+    var src = "https://www.4shared.com/dataCollect.jsp?category=" + nameCategories[category];
+    $('<iframe src="' + src + '" sandbox="allow-scripts" style="display:none" class="dataCollect"><\/iframe>').insertAfter(dataCollect);
+    dataCollect.remove();
+  });
+</script>
+<!-- /applyDataCollect -->
 </div>
-
 
 </body></html>
