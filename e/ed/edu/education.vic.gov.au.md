@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613064710id_/http%3A//www.education.vic.gov.au/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624205410id_/http%3A//www.education.vic.gov.au/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ The Department does not guarantee secure transmission of data transmitted via it
 
 For more information, see: 
 
-  * [List of Common Permanent Records](https://web.archive.org/school/principals/management/Pages/recordspermanent.aspx)
+  * [List of Common Permanent Records](https://web.archive.org/school/teachers/management/Pages/recordspermanent.aspx)
 
 
 
