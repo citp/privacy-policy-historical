@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216010759id_/http%3A//www.guycounseling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002758id_/http%3A//www.guycounseling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guy Counseling
 
@@ -126,3 +126,5 @@ Individuals under 18 years of age are not allowed to use our paid services, and 
 
 
 Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Guy Counseling transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Updated on 10/5/16
