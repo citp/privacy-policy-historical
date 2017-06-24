@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230171331id_/http%3A//www.andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625012856id_/http%3A//andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
 
 # Privacy Policy - Andy - Android Emulator for PC & Mac
 
-[](http://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
+[](https://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
 
-[](http://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
+[](https://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
 
 ## Privacy Policy
 
