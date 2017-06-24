@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225080838id_/http%3A//essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114204id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
 
@@ -41,7 +41,7 @@ Cookies are small text files stored on your computer. They relate to a specific 
 
 You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
 
-Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20161225080838id_/http%3A//essex.ac.uk/site/our_cookies.aspx).
+Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20170624114204id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
 
 For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -78,4 +78,4 @@ Where data is passed to third parties, it is done so in compliance with the Data
 
 Anonymised usage data may be provided in publicly-available web statistics; any such data cannot be traced to individual users.
 
-© 2016 University of Essex. All rights reserved.
+© 2017 University of Essex. All rights reserved.
