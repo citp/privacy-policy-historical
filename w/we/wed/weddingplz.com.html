@@ -1,52 +1,61 @@
-<!--The following is the downloaded HTML source of the weddingplz.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121220711id_/https%3A//www.weddingplz.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weddingplz.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624030737id_/https%3A//www.weddingplz.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MB7X3B"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"b9227f344e",applicationID:"15090953",sa:1,agent:"js-agent.newrelic.com/nr-918.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<title>Privacy Policy | WeddingPlz</title> <meta charset="UTF-8">
-<link rel="preconnect" href="//weddingplz-res.cloudinary.com">
-<link rel="preconnect" href="//staticxx.facebook.com">
-<link rel="preconnect" href="//connect.facebook.net">
-<link rel="preconnect" href="//www.googleadservices.com">
-<link rel="preconnect" href="//www.google-analytics.com">
-<link rel="preconnect" href="//googleads.g.doubleclick.net">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>        
+        <meta charset="utf-8">
+        <title>Privacy Policy | WeddingPlz</title>        <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">        
 <meta name="verify-v1" content="93f6a18557011fdb3e7f21050a0de07e">
 <meta name="msvalidate.01" content="B76D3D3CD2F5A14B2068C65628D868B1">
 <meta name="alexaVerifyID" content="f2e04f36-1c0c-4249-b620-e3ee5b7fb9c1">
 <meta name="google-site-verification" content="xySDg2op5RSKoQstYqe5Aqlt68x0Z4BzUtbrEGmTeDc">
 <meta name="geo.region" content="India">
-<meta name="robots" content="index,follow">
-<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
+<!-- <meta name="robots" content="index,follow" />
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW" /> -->
 <meta name="language" content="English">
 <meta name="country" content="India">
-<meta name="robots" content="ALL">
-<meta property="fb:app_id" content="106423413030579">
-<meta name="keywords" content="privacy policy weddingplz">
-<meta name="description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties."> <meta property="og:title" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="">
-<meta property="og:image:width" content="605">
-<meta property="og:image:height" content="460">
-<meta property="og:description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties.">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="weddingplz">
-<meta name="twitter:creator" content="@weddingplz">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties.">
+<!-- <meta name="robots" content="ALL" /> -->
+<meta property="fb:app_id" content="106423413030579">          
+        <meta name="keywords" content="privacy policy weddingplz">
+<meta name="description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties.">        <meta property="og:title" content="">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="">
+        
+        <meta property="og:image:width" content="605">
+        <meta property="og:image:height" content="460">
+        <meta property="og:description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties.">
+        
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="weddingplz">
+        <meta name="twitter:creator" content="@weddingplz">
+        <meta name="twitter:title" content="">
+        <meta name="twitter:description" content=" Read weddingplz.com privacy policy in detail for better business communication, dealings &amp; interactions about WeddingPlz provided services and properties.">
+        
+         
 <link rel="stylesheet" href="https://www.weddingplz.com/js/tabs-responsive/style.css">
 <link rel="stylesheet" href="https://www.weddingplz.com/css/event-style.css">
-<link href="https://plus.google.com/104608318393562333997/" rel="publisher">
- 
-<link rel="stylesheet" type="text/css" href="https://www.weddingplz.com/css/tooltipster.css">
-<link rel="stylesheet" href="https://www.weddingplz.com/css/animate.min.css">
- 
-<link rel="shortcut icon" href="https://www.weddingplz.com/images/favicon.ico" type="image/x-icon">
- 
+        <link href="https://plus.google.com/104608318393562333997/" rel="publisher">
+        <!--<link rel="stylesheet"  media="screen,projection" href="https://www.weddingplz.com/min/?f=css/jquery.bxslider.css,js/jcarousel/jcarousel.responsive.css,css/style.css,css/tooltipster.css" />-->		
+        <link rel="stylesheet" type="text/css" href="https://www.weddingplz.com/css/tooltipster.css">   	
+        <link rel="stylesheet" href="https://www.weddingplz.com/css/animate.min.css">
+        <!-- font icon css -->
+        <link rel="shortcut icon" href="https://www.weddingplz.com/images/favicon.ico" type="image/x-icon">
+<!--<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/colorbox/colorbox.css">-->
 <link type="text/css" rel="stylesheet" href="https://www.weddingplz.com/min/?b=css&amp;f=style.css,style-extension.css,style-extension-update.css,jquery/jquery.autocomplete.css,popup.css,form.css,loader.css,responsive.css,colorbox/colorbox.css,font-awesome.min.css">
- 
-<style></style>
-<script>
+<!--<link rel="stylesheet" href="https://www.weddingplz.com/css/style-extension.css" />-->
+<style>
+/*
+body{
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+}*/
+</style>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MB7X3B"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 //var loadScripts = function(){
 ////  alert('Dynamicaly adding stylesheet');
 //    var src=["css/font-awesome.min.css","css/style-extension.css","css/style.css","css/jquery/jquery.autocomplete.css","css/popup.css","css/form.css","css/loader.css","css/responsive.css","css/colorbox/colorbox.css"];
@@ -77,68 +86,119 @@
 //            }
 //  };
 //   window.addEventListener('load',loadScripts);
-</script> <link rel="stylesheet" href="https://www.weddingplz.com/css/animate.min.css">
-<link rel="stylesheet" href="https://www.weddingplz.com/css/font-awesome.min.css">
-<link href="https://www.weddingplz.com/css/jquery/jquery.bxslider.css" rel="stylesheet" media="screen">
-<link href="https://www.weddingplz.com/css/jquery/jcarousel.responsive.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="https://www.weddingplz.com/css/jquery/jquery.autocomplete.css">
-<script type="text/javascript">
+</script>        <link rel="stylesheet" href="https://www.weddingplz.com/css/animate.min.css">    
+        <link rel="stylesheet" href="https://www.weddingplz.com/css/font-awesome.min.css">
+        <link href="https://www.weddingplz.com/css/jquery/jquery.bxslider.css" rel="stylesheet" media="screen">
+        <link href="https://www.weddingplz.com/css/jquery/jcarousel.responsive.css" rel="stylesheet" media="screen">
+        <link rel="stylesheet" href="https://www.weddingplz.com/css/jquery/jquery.autocomplete.css">
+        <script type="text/javascript">
             var jsPath = 'https://www.weddingplz.com/';
             var URLCityName = 'delhi-ncr';
         </script>
-<style>.bg-contents h1{text-align:center;}.section-footer-top-link ul li a span.icon{padding-left:25px;width:22px;height:25px;display:inline-block;vertical-align:middle;padding-right:22px;}</style>
-<link href="https://www.weddingplz.com/css/all.css" rel="stylesheet">
- 
-<link rel="stylesheet" href="https://www.weddingplz.com/css/magnific-popup.css">
+        
+         <style>
+  .bg-contents h1{
+    text-align:center;
+    
+  }
+  .section-footer-top-link ul li a span.icon {
+  padding-left: 25px;
+  width: 22px;
+  height: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 22px;
+}
+</style>
+
+        <link href="https://www.weddingplz.com/css/all.css" rel="stylesheet">
+        <!--<link rel="stylesheet" href="css/util.carousel.skins.css" />-->
+        <link rel="stylesheet" href="https://www.weddingplz.com/css/magnific-popup.css">
 <!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
-<style>.section-trends-column{width:100%!important;float:left;position:relative;}.enquiry-btn a:hover{color:#ccc;}.jcarousel-wrapper{margin:40px 0px 60px 0px;}</style>
-<style>.topbottom{margin-top:60px;}</style> <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.min.js"></script>
-</head>
-<body>
-<div id="outer-wrapper">
+        <style>
+  /*iframe{
+    border-radius:100px !important;
+    webkit-border-radius:100px !important;
+    moz-border-radius:100px !important;
+  }*/
+  .section-trends-column {
+  width: 100% !important;
+  float: left;
+  position: relative;
+}
+.enquiry-btn a:hover{
+  color: #ccc;
+}
+.jcarousel-wrapper{
+  margin:40px 0px 60px 0px;
+}
+</style>
+<style>
+                .topbottom{ margin-top: 60px; }
+        </style>        <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.min.js"></script>
+    </head>
+    <body>
+        <div id="outer-wrapper">
+            <!-- Site Header start -->
  
 <div id="popup1" class="modal-box"></div>
 <div id="forgotPopup" class="modal-box planningpop"></div>
 <div id="fb-root"></div>
 <div class="screen-block" style="display: none;"></div>
 <header class="site-header change-search innerhead-bg bgcolr" id="header-fix">
-<div class="site-header-inner site-width  clearfix"> <a href="https://www.weddingplz.com/" class="site-logo">
-<img src="https://weddingplz-res.cloudinary.com/image/upload/v1/live/static_images/logo1.png" alt="WeddingPlz Logo">
-</a>
-<ul class="userrt">
-<li class="menu-log-user"><a href="javascript:void(0);" onclick="javascript:loginForm();" class="enqury" style="color: #fff!important;">Login</a></li>
-</ul>
-<div class="btnsearch"><i class="fa fa-search"></i></div>
-<div class="topform">
- 
-<div class="searchleft">
- 
-<input name="citylocationfield" id="citylocationfield" type="text" class="input-text homeseachloc precise1icon" value="" placeholder="Location" onkeypress="innerSearch(event)">
-<div id="city-location-auto" style="width:100%!important; position: relative;"></div>
-<input type="hidden" name="hidden_location" id="hidden_location" value="city">
-<input type="hidden" name="hidden_search_location" id="hidden_search_location">
-<input type="hidden" name="hidden_vendor_location" id="hidden_vendor_location">
-<input type="hidden" name="hidden_label_value" id="hidden_label_value" value="">
-<input type="hidden" name="search_city_id" id="search_city_id">
- 
-<input type="hidden" value="" id="search-city" name="search-city">
-<input type="hidden" value="Delhi/NCR" id="cityName" name="cityName">
-<input type="hidden" value="1" id="previous_cityid" name="previous_cityid">
-<input type="hidden" value="" id="hidden_search_type" name="hidden_search_type">
-<input type="hidden" value="" id="hidden_search_location_id" name="hidden_search_location_id">
-<input type="hidden" value="" id="hidden_search_location_name" name="hidden_search_location_name">
-<input type="hidden" value="delhi-ncr" id="hidden_city_url" name="hidden_city_url">
-<input type="hidden" value="" id="hidden_search_url" name="hidden_search_url">
-<ul class="" id="citylocationUL" style="display:none;float:left;">
-<li class="ui-menu-item city-log1" onclick="setType();"><a>Delhi/NCR</a></li>
-<li class="list-most">Other cities</li>
-<li class="ui-menu-item  city-log1" onclick="setCity('Mumbai', '2', 'city', 'mumbai');">Mumbai</li>
-<li class="ui-menu-item  city-log1" onclick="setCity('Bangalore', '5', 'city', 'bangalore');">Bangalore</li>
-<li class="ui-menu-item  city-log1" onclick="setCity('Ludhiana', '19', 'city', 'ludhiana');">Ludhiana</li>
-<li class="ui-menu-item  city-log1" onclick="setCity('Chandigarh', '38', 'city', 'chandigarh');">Chandigarh</li>
-</ul>
- 
+    <div class="site-header-inner site-width site-width-new clearfix"> <a href="https://www.weddingplz.com/" class="site-logo">
+      <img src="https://weddingplz-res.cloudinary.com/image/upload/v1/live/static_images/logo1.png" alt="WeddingPlz Logo">            
+        </a>
+         
+            <ul class="userrt">
+                <li class="menu-log-user"><a href="javascript:void(0);" onclick="javascript:loginForm();" class="enqury" style="color: #fff!important;">Login</a></li>
+            </ul>
+        <div class="btnsearch"><i class="fa fa-search"></i></div>
+
+        <div class="topform">
+            <!--            <div class="searchcenter">
+                            <span class="searchlist">
+                            </span>
+                        </div>-->
+            <div class="searchleft">
+   <!--        <input id="auto" type="text" placeholder="Banquet, Jewellers  etc." />-->
+                <input name="citylocationfield" id="citylocationfield" type="text" class="input-text homeseachloc precise1icon" value="" placeholder="Location" onkeypress="innerSearch(event)">
+                <div id="city-location-auto" style="width:100%!important; position: relative;"></div>
+
+                <input type="hidden" name="hidden_location" id="hidden_location" value="city">
+                <input type="hidden" name="hidden_search_location" id="hidden_search_location">
+                <input type="hidden" name="hidden_vendor_location" id="hidden_vendor_location">
+                <input type="hidden" name="hidden_label_value" id="hidden_label_value" value="">
+                <input type="hidden" name="search_city_id" id="search_city_id">
+
+
+    <!--<form method = "post" name = "search-city-frm" id = "search-city-frm" action = "/cityselect/citysectionprocess">-->
+    <input type="hidden" value="" id="search-city" name="search-city">
+        <input type="hidden" value="Delhi/NCR" id="cityName" name="cityName">
+        <input type="hidden" value="1" id="previous_cityid" name="previous_cityid">
+        <input type="hidden" value="" id="hidden_search_type" name="hidden_search_type">
+        <input type="hidden" value="" id="hidden_search_location_id" name="hidden_search_location_id">
+        <input type="hidden" value="" id="hidden_search_location_name" name="hidden_search_location_name">
+        <input type="hidden" value="delhi-ncr" id="hidden_city_url" name="hidden_city_url">
+        
+        <input type="hidden" value="" id="hidden_search_url" name="hidden_search_url">
+    
+    <ul class="" id="citylocationUL" style="display:none;float:left;">
+        <li class="ui-menu-item city-log1" onclick="setType();"><a>Delhi/NCR</a></li>
+        <li class="list-most">Other cities</li>
+        
+            <li class="ui-menu-item  city-log1" onclick="setCity('Mumbai', '2', 'city', 'mumbai');">Mumbai</li>
+        
+            <li class="ui-menu-item  city-log1" onclick="setCity('Bangalore', '5', 'city', 'bangalore');">Bangalore</li>
+        
+            <li class="ui-menu-item  city-log1" onclick="setCity('Ludhiana', '19', 'city', 'ludhiana');">Ludhiana</li>
+        
+            <li class="ui-menu-item  city-log1" onclick="setCity('Chandigarh', '38', 'city', 'chandigarh');">Chandigarh</li>
+                
+    </ul> 
+<!--</form>-->
+
 <script>
     function setCity(cityNameLabel, searchcityId, type, cityUrl, locationId, locationName, cityName) {
         if (typeof (locationId) === 'undefined') {
@@ -209,26 +269,37 @@
 
     }
 </script>
-</div>
-<div class="searchright">
-<input name="categoryfield" id="categoryfield" type="text" class="input-text" value="" placeholder="Find what you are looking for !" onkeypress="gotolocation(event)">
-<span id="cat-list-auto" style="width:100%!important; position: relative;"></span>
-<input type="hidden" name="hidden_category" id="hidden_category">
-<input type="hidden" name="hidden_vendor" id="hidden_vendor">
-<input type="hidden" name="hidden_vendor_count" id="hidden_vendor_count">
-<input type="hidden" name="hidden_vendor_url" id="hidden_vendor_url">
-<input type="hidden" name="hidden_vendor_category" id="hidden_vendor_category">
- 
-<ul class="" id="animatedUL" style="display:none;float:left;"></ul>
-</div>
-<span onclick="innerSearch('search', 'static')" class="searchvcat">
-<input type="button" value="search" class="desksearch">
-</span>
-<span class="ajaxloader-barall"></span>
-</div>
-</div>
+
+
+            </div> 
+            <div class="searchright">
+                <input name="categoryfield" id="categoryfield" type="text" class="input-text" value="" placeholder="Find what you are looking for !" onkeypress="gotolocation(event)">
+
+                <span id="cat-list-auto" style="width:100%!important; position: relative;"></span>
+
+                <input type="hidden" name="hidden_category" id="hidden_category">
+                <input type="hidden" name="hidden_vendor" id="hidden_vendor">
+                <input type="hidden" name="hidden_vendor_count" id="hidden_vendor_count">
+                <input type="hidden" name="hidden_vendor_url" id="hidden_vendor_url">
+                <input type="hidden" name="hidden_vendor_category" id="hidden_vendor_category">
+
+
+                <!--                <ul class="" id="animatedUL" style="display: none;"></ul>-->
+
+                <ul class="" id="animatedUL" style="display:none;float:left;"></ul>
+            </div>
+            <span onclick="innerSearch('search', 'static')" class="searchvcat">
+                <input type="button" value="search" class="desksearch">
+            </span>
+            <span class="ajaxloader-barall"></span>
+
+        </div>
+
+    </div>
 </header>
- 
+<!-- \\ End Site Header --> 
+
+
 <script type="text/javascript">
     // var __uzdbm_a = "";
     // var __uzdbm_b = "";
@@ -295,233 +366,299 @@
         });
     });
 </script>
+             
 <input type="hidden" id="currenturl" name="currenturl" value="http://www.weddingplz.com/privacypolicy">
-<div class="section-about-us" style="margin-top:64px; padding-top:50px;">
-<div class="site-width">
-<div id="breadcrumbs-cont"> <a href="https://www.weddingplz.com/">Home</a> › Privacy Policy</div>
-<h1 class="page-title text-center" style="padding-bottom:30px;"><span>Your Privacy Is Our Policy</span></h1>
-<div class="col-md-5">
-<a href="#"><img src="../images/static/privacy-policy.png" alt="Privacy Policy" class="fl-lt pad-rt" title="">
-</a></div><a href="#"> </a>
-<p>Virtual Space InfoTech (P) LTD. has created this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.</p>
-<p>If you have any questions or concerns regarding this statement, you should contact our Customer Support Desk at <a href="mailto:support@weddingplz.com">support@weddingplz.com</a> </p>
-<h5>GENERAL</h5>
-<p class="marg-top">We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>
-<p>Personal information means information about you that is personally identifiable including, but not limited to, your name, address, email address or other contact information.</p>
-<p>We do not require you to provide Personal Information in order to have access to information, which is publicly available on our Site. However, in order to provide you with certain services given under the Site or to share information with other members, you must create an account ("Account") and provide us with your email address and password that you will use for your Account ("Requested Details"). We may request additional Personal Information in the future.</p>
-<p>We use Personal Information for the following purposes:</p>
-<ul class="content-list"><li>To identify and authenticate your access to WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD.</li>
-<li>To provide you with the services provided under the Site</li>
-<li>To improve our services to you and to contact you.</li></ul>
-<h5>INFORMATION WE COLLECT</h5>
-<p class="marg-top">The information collected by us is used for providing better facilities to our customers. Certain information, such as your name, e-mail addresses, is collected in order to sign up for an account in our website. Our website may sometime require you to give us your contact information (like your name, address, telephone number and email address), and demographic information (like your Zip Code/ Pin Code). </p>
-<h5>COOKIES</h5>
-<p class="marg-top">We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small pieces of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information which is specific to a given user and hence, will eventually help us in providing you customized services. If you reject cookies, you may still browse our website, but your ability to make use of some of the areas of our site will be limited.</p>
-<h5>EXTERNAL LINKS ON WEBSITE</h5>
-<p class="marg-top">Our website may include hyperlinks to other web sites or content or resources. We may have no control over any websites or resources, which are provided by companies or persons other than us.</p>
-<p>You acknowledge and agree that WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources.</p>
-<p>You acknowledge and agree that WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.</p>
-<h5>OUR USE OF YOUR INFORMATION</h5>
-<p class="marg-top">We may use the contact information provided by you to communicate with you, viz informing you about your account and security updates. We may also use your information to send you password reminder and registration confirmation, Special offers, Newsletters etc.</p>
-<p>We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information. Finally, we may use your IP address to help protect our partners and ourselves from fraud. WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. will continue to enhance our security procedures as new technology becomes available. </p>
-We use the information we gather on the Site for the following purposes:
-<p>Individual user information
-</p><ul class="content-list"><li>To provide our services. This includes providing communications, promotions and information on new opportunities, and additional job postings which may be of interest to you, and providing information on job seekers and their credentials to prospective employers. </li>
-<li>To respond to any queries you may have and to communicate information to you. These include sending you e-mail or other communications regarding updates at the Site to contact you about your opinion of current products and services or potential new products and services that may be offered. </li>
-<li>To operating and improve the Site in order to foster a positive user experience. </li>
-<li>To deliver the products and service that we offer to jobseekers and employers;</li>
-<li>To comply with the applicable laws;</li>
-<li>To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of WeddingPlz.com's Terms of Use, or as otherwise required by law.</li></ul><p></p>
-<p>At the time of registration for an account, you have the option to elect or not elect to receive additional communications, information and promotions, including without limitation, free informational newsletters from us relating to topics that may be of special interest to you, such as career management advice and feedback on current and future products.</p>
-<i>Information about all visitors collectively:</i>
-<p>We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. Such data is used anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for them.
-We may also use this information for the purposes of complying with the applicable laws.</p>
-<h5>CONFIDENTIALITY</h5>
-<p class="marg-top">We do not collect sensitive personal data or information of users like password of your e mail account; password of your WeddingPlz.com account, financial information such as Bank Account details or Credit Card or Debit Card or other payment related details; physical and mental or other health conditions or medical records and history; Biometric information such as finger prints, voice &amp; facial patterns and DNA any other sensitive information which is confidential or sensitive by its nature, without your explicit consent or unless necessary by law.</p>
-<p>We also shall use payment gateways such as PayPal, and such information collected by PayPal will be bound by the terms of non disclosure and confidentiality inherent to such websites.</p>
-<p>You can choose who can access your resume and other personal information by way of changing the settings on your WeddingPlz.com account. For example, if you are a job- seeker, you can choose the people/companies/organizations who will view your profile and information within it, including your resume. You can privatize your settings and adjust the settings in such a way that you can limit those who can access your resume and other information you put up.</p>
-<p>We do not disclose information about your individual visits to WeddingPlz.com to any outside parties without your consent, except when to the extent necessary or appropriate to comply with applicable laws, rules or regulations or in legal proceedings when such information is relevant.</p>
-<h5>OUR DISCLOSURE OF YOUR INFORMATION</h5>
-<p class="marg-top">Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications would always remain private.</p>
-<p>As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed.</p>
-<p><i><strong>Advertiser</strong></i>: We gather up data such as personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number are never disclosed to marketing advertisers. We may use third-party advertising companies to serve advertisement on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.</p>
-<p><i><strong>External Service Providers</strong></i>: There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policy.</p>
-<p><i><strong>Other Corporate Entities</strong></i>: We share much of our data, including personally identifiable information about you, with our agencies and/ or affiliates that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. It is possible that We and/ or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that we would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs).</p>
-<p><i><strong>Law and Order</strong></i>: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws relating to intellectual property rights, frauds etc... We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.</p>
-<h5>CHILDREN</h5>
-<p class="marg-top">Children below the age of 13 years are not permitted to use our website except for prior written consent of their parents. When the consent is received, their account is treated like any other account, including being able to communicate with other users. Parents however reserves the right to change or revoke the consent as described in this privacy statement.</p>
-<h5>ACCESSING, REVIEWING AND CHANGING YOUR PROFILE</h5>
-<p class="marg-top">Following registration, you can review and change the information you submitted during registration. If you change any information we may keep track of your old information. You can change your registration information such as: name, address, city, state, zip code, country, phone number, and profile.</p>
-<p>To remove your profile so that others cannot view it, contact our customer support team at <a href="mailto:support@weddingplz.com">support@weddingplz.com</a>.
-We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.</p>
-<h5>CONTROL OF YOUR PASSWORD</h5>
-<p class="marg-top">When you sign up to become a Member, you will also be asked to choose a password. You are entirely responsible for maintaining the confidentiality of your password. You agree not to use the account, username, email address or password of another Member at any time or to disclose your password to any third party. If you choose to share this information with third parties to provide you additional services, you are responsible for all actions taken with your login information and password and therefore should review each third party's privacy policy. </p>
-<p>You are responsible for all actions taken with your login information and password. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. You agree to notify us immediately if you suspect any consistent unauthorized use of your account or access to your password even after changing it.</p>
-<h5>OTHER INFORMATION COLLECTORS</h5>
-<p class="marg-top">Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.</p>
-<h5>SECURITY</h5>
-<p class="marg-top">We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion. </p>
-<h5>DISCLAIMER</h5>
-<p class="marg-top">www.weddingplz.com cannot ensure that all of your private communications and other personal information (including sensitive information like credit card information and bank account number) will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.</p><p>
-</p><h5>NOTIFICATION OF MODIFICATIONS AND CHANGES TO THE T&amp;C AND PRIVACY POLICY</h5>
-<p class="marg-top">We reserve the right to change the Terms and Privacy Policy from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. We will announce that these changes have been made on our home page and on other key pages on the Website. </p>
-<p>You are therefore advised to re-read the Terms and Privacy Policy on a regular basis. Should it be that you do not accept any of the modifications or amendments to the Terms and Privacy Policy, you may terminate your use of this website immediately.</p>
+    
+        
+
+
+        <div class="section-about-us" style="margin-top:64px; padding-top:50px;">
+            <div class="site-width">
+                 <div id="breadcrumbs-cont"> <a href="https://www.weddingplz.com/">Home</a> › Privacy Policy</div>
+                
+                 <h1 class="page-title text-center" style="padding-bottom:30px;"><span>Your Privacy Is Our Policy</span></h1>
+                 <div class="col-md-5">
+                 <a href="#"><img src="../images/static/privacy-policy.png" alt="Privacy Policy" class="fl-lt pad-rt" title="">
+                    </a></div><a href="#">                                    </a>
+                <p>Virtual Space InfoTech (P) LTD. has created this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.</p>
+
+                <p>If you have any questions or concerns regarding this statement, you should contact our Customer Support Desk at <a href="mailto:support@weddingplz.com">support@weddingplz.com</a> </p>
+
+                <h5>GENERAL</h5>
+                <p class="marg-top">We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>
+
+                <p>Personal information means information about you that is personally identifiable including, but not limited to, your name, address, email address or other contact information.</p>
+
+                <p>We do not require you to provide Personal Information in order to have access to information, which is publicly available on our Site. However, in order to provide you with certain services given under the Site or to share information with other members, you must create an account ("Account") and provide us with your email address and password that you will use for your Account ("Requested Details"). We may request additional Personal Information in the future.</p>
+
+                <p>We use Personal Information for the following purposes:</p>
+                <ul class="content-list"><li>To identify and authenticate your access to WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD.</li>
+                    <li>To provide you with the services provided under the Site</li>
+                    <li>To improve our services to you and to contact you.</li></ul>
+
+                <h5>INFORMATION WE COLLECT</h5>
+                <p class="marg-top">The information collected by us is used for providing better facilities to our customers. Certain information, such as your name, e-mail addresses, is collected in order to sign up for an account in our website. Our website may sometime require you to give us your contact information (like your name, address, telephone number and email address), and demographic information (like your Zip Code/ Pin Code). </p>
+
+                <h5>COOKIES</h5>
+                <p class="marg-top">We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small pieces of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information which is specific to a given user and hence, will eventually help us in providing you customized services. If you reject cookies, you may still browse our website, but your ability to make use of some of the areas of our site will be limited.</p>
+
+                <h5>EXTERNAL LINKS ON WEBSITE</h5>
+                <p class="marg-top">Our website may include hyperlinks to other web sites or content or resources. We may have no control over any websites or resources, which are provided by companies or persons other than us.</p>
+
+                <p>You acknowledge and agree that WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources.</p>
+
+                <p>You acknowledge and agree that WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.</p>
+
+                <h5>OUR USE OF YOUR INFORMATION</h5>
+                <p class="marg-top">We may use the contact information provided by you to communicate with you, viz informing you about your account and security updates. We may also use your information to send you password reminder and registration confirmation, Special offers, Newsletters etc.</p> 
+
+                <p>We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information. Finally, we may use your IP address to help protect our partners and ourselves from fraud. WeddingPlz.com as well as any other website and/ or domain owned, operated and controlled by Virtual Space InfoTech (P) LTD. will continue to enhance our security procedures as new technology becomes available. </p>
+                We use the information we gather on the Site for the following purposes:
+                <p>Individual user information
+                </p><ul class="content-list"><li>To provide our services. This includes providing communications, promotions and information on new opportunities, and additional job postings which may be of interest to you, and providing information on job seekers and their credentials to prospective employers. </li>
+                    <li>To respond to any queries you may have and to communicate information to you. These include sending you e-mail or other communications regarding updates at the Site to contact you about your opinion of current products and services or potential new products and services that may be offered. </li>
+                    <li>To operating and improve the Site in order to foster a positive user experience. </li>
+                    <li>To deliver the products and service that we offer to jobseekers and employers;</li>
+                    <li>To comply with the applicable laws;</li>
+                    <li>To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of WeddingPlz.com's Terms of Use, or as otherwise required by law.</li></ul><p></p>
+
+                <p>At the time of registration for an account, you have the option to elect or not elect to receive additional communications, information and promotions, including without limitation, free informational newsletters from us relating to topics that may be of special interest to you, such as career management advice and feedback on current and future products.</p>
+
+                <i>Information about all visitors collectively:</i>
+
+                <p>We gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. Such data is used anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for them.
+                    We may also use this information for the purposes of complying with the applicable laws.</p>
+
+                <h5>CONFIDENTIALITY</h5>
+                <p class="marg-top">We do not collect sensitive personal data or information of users like password of your e mail account; password of your WeddingPlz.com account, financial information such as Bank Account details or Credit Card or Debit Card or other payment related details; physical and mental or other health conditions or medical records and history; Biometric information such as finger prints, voice &amp; facial patterns and DNA any other sensitive information which is confidential or sensitive by its nature, without your explicit consent or unless necessary by law.</p>
+
+                <p>We also shall use payment gateways such as PayPal, and such information collected by PayPal will be bound by the terms of non disclosure and confidentiality inherent to such websites.</p>
+
+                <p>You can choose who can access your resume and other personal information by way of changing the settings on your WeddingPlz.com account. For example, if you are a job- seeker, you can choose the people/companies/organizations who will view your profile and information within it, including your resume. You can privatize your settings and adjust the settings in such a way that you can limit those who can access your resume and other information you put up.</p>
+
+                <p>We do not disclose information about your individual visits to WeddingPlz.com to any outside parties without your consent, except when to the extent necessary or appropriate to comply with applicable laws, rules or regulations or in legal proceedings when such information is relevant.</p>
+
+                <h5>OUR DISCLOSURE OF YOUR INFORMATION</h5>
+                <p class="marg-top">Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Websites. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications would always remain private.</p>
+
+                <p>As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed.</p>
+
+                <p><i><strong>Advertiser</strong></i>: We gather up data such as personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number are never disclosed to marketing advertisers. We may use third-party advertising companies to serve advertisement on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.</p>
+
+                <p><i><strong>External Service Providers</strong></i>: There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policy.</p>
+
+                <p><i><strong>Other Corporate Entities</strong></i>: We share much of our data, including personally identifiable information about you, with our agencies and/ or affiliates that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. It is possible that We and/ or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that we would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs).</p>
+
+                <p><i><strong>Law and Order</strong></i>: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws relating to intellectual property rights, frauds etc... We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.</p>
+
+                <h5>CHILDREN</h5>
+                <p class="marg-top">Children below the age of 13 years are not permitted to use our website except for prior written consent of their parents. When the consent is received, their account is treated like any other account, including being able to communicate with other users. Parents however reserves the right to change or revoke the consent as described in this privacy statement.</p>
+
+
+                <h5>ACCESSING, REVIEWING AND CHANGING YOUR PROFILE</h5>
+                <p class="marg-top">Following registration, you can review and change the information you submitted during registration. If you change any information we may keep track of your old information. You can change your registration information such as: name, address, city, state, zip code, country, phone number, and profile.</p>
+
+                <p>To remove your profile so that others cannot view it, contact our customer support team at <a href="mailto:support@weddingplz.com">support@weddingplz.com</a>.
+                    We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.</p>
+
+
+
+                <h5>CONTROL OF YOUR PASSWORD</h5>
+                <p class="marg-top">When you sign up to become a Member, you will also be asked to choose a password. You are entirely responsible for maintaining the confidentiality of your password. You agree not to use the account, username, email address or password of another Member at any time or to disclose your password to any third party. If you choose to share this information with third parties to provide you additional services, you are responsible for all actions taken with your login information and password and therefore should review each third party's privacy policy. </p>
+
+                <p>You are responsible for all actions taken with your login information and password. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. You agree to notify us immediately if you suspect any consistent unauthorized use of your account or access to your password even after changing it.</p>
+
+
+
+                <h5>OTHER INFORMATION COLLECTORS</h5>
+                <p class="marg-top">Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.</p>
+
+                <h5>SECURITY</h5>
+                <p class="marg-top">We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion. </p>
+
+                <h5>DISCLAIMER</h5>
+                <p class="marg-top">www.weddingplz.com cannot ensure that all of your private communications and other personal information (including sensitive information like credit card information and bank account number) will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.</p><p>
+                </p><h5>NOTIFICATION OF MODIFICATIONS AND CHANGES TO THE T&amp;C AND PRIVACY POLICY</h5>
+                <p class="marg-top">We reserve the right to change the Terms and Privacy Policy from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. We will announce that these changes have been made on our home page and on other key pages on the Website. </p>
+                <p>You are therefore advised to re-read the Terms and Privacy Policy on a regular basis. Should it be that you do not accept any of the modifications or amendments to the Terms and Privacy Policy, you may terminate your use of this website immediately.</p>
+            </div>
+        </div>                
+<!-- Footer start -->
+<!--<footer class="site-footer" style="background:url('');">-->
+    <footer class="site-footer">
+    <div class="site-footer-inner site-width clearfix mobile_visibility">
+        
+         <div class="footer-column footer-column-one underlinewhite1">
+            <h4>Explore</h4>
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/checklist">Wedding Planning</a></li>
+                <!--<li><a href="#">Wedding Websites</a></li>-->
+                <li><a href="https://www.weddingplz.com/wedding-inspiration/search">Photo Gallery</a></li>
+                <li><a href="https://www.weddingplz.com/real-wedding/search">Real Weddings</a></li>
+                <li><a target="new" href="https://www.weddingplz.com/blog/">Blog</a></li>
+                <li><a href="https://www.weddingplz.com/reviews">Reviews</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/events">Events</a></li>
+            </ul>
+        </div>
+
+       
+        <div class="footer-column footer-column-three underlinewhite1">
+            <h4>Weddingplz</h4>
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/about-us">About Us</a></li>
+                 <!--<li><a href="">Our Story</a></li>-->
+<!--                <li><a href="/team">Team</a></li>-->
+                <li><a href="https://www.weddingplz.com/careers">Careers</a></li>
+                <li><a href="https://www.weddingplz.com/press">Press</a></li>
+                <li><a href="https://www.weddingplz.com/contact-us">Contact Us</a></li>
+                <li><a class="selected claim-link" href="https://www.weddingplz.com/claimbusiness/claimregister">Are You a Vendor</a></li>
+                <li><a class="selected claim-link" href="https://www.weddingplz.com/submit-wedding">Submit Your Wedding</a></li>
+            </ul>
+        </div>
+        <div class="footer-column footer-column-two underlinewhite1">
+            <h4>Featured Catg.</h4>
+            <ul class="list-reset">
+
+                      <li><a href="https://www.weddingplz.com/delhi-ncr/bands">Bands</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/banquets">Banquets</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/caterers">Caterers</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/makeup-artists">Make Up Artist</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/photographers-and-videographers">Photographer</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/wedding-planners">Wedding Planners</a></li>
+                <!--<li><a href="">Privacy Policy</a></li>-->
+                <!--<li><a href="">Terms & Conditions</a></li>-->
+            </ul>
+        </div>
+        <div class="footer-column footer-column-three underlinewhite1">
+            <h4>Choose Your City</h4>
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/delhi-ncr">Delhi</a></li>
+                <li><a href="https://www.weddingplz.com/mumbai">Mumbai</a></li>
+                <li><a href="https://www.weddingplz.com/bangalore">Bangalore</a></li>
+                <li><a href="https://www.weddingplz.com/chandigarh">Chandigarh</a></li>
+                <li><a href="https://www.weddingplz.com/ludhiana">Ludhiana</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/wedding-vendors">View All Categories</a></li>
+            </ul>
+        </div>
+      
+        <div class="footer-column footer-column-four">
+           
+            <div class="section-footer-top-link">
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/contact-an-expert"><span class="p_right fa fa-comments-o"></span>Contact an Expert Now</a></li>
+            <li><a href="https://www.weddingplz.com/advertise"><span class="p_right fa fa-bullhorn"></span>Advertise With Us</a></li>
+            <li><a href="https://www.weddingplz.com/claimbusiness/claimregister"><span class="p_right fa fa-plus-square-o"></span>Claim/Add Your Business</a></li>
+            <li class="social-icons">
+                <a target="_blank" class="icon icon-fb" href="https://www.facebook.com/WeddingPlz/">Facebook</a>
+                <a target="_blank" class="icon icon-tw" href="https://twitter.com/weddingplz">Twitter</a>
+                <a target="_blank" class="icon icon-gp" href="https://plus.google.com/104608318393562333997">Google plus</a>
+                <a target="_blank" class="icon icon-pin" href="https://www.pinterest.com/WeddingPlz/">pinterest</a>
+                <a target="_blank" class="icon icon-inst" href="https://www.instagram.com/weddingplz/">Instagram</a>
+            </li>
+        </ul>
+            </div>
+            
+           
+        </div>    
+    </div>
+        
+        <!----Mobile-Device-Footer---->
+        
+        
+        <div class="site-footer-inner site-width clearfix mobile_visibility_active">
+        
+        <div class="accordion_container">
+    <div class="accordion_head">Explore<span class="plusminus">+</span>
+
+    </div>
+   
+    <div class="accordion_body" style="display: none;">
+        <div class="footer-column footer-column-one underlinewhite1">
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/checklist">Wedding Planning</a></li>
+                <!--<li><a href="#">Wedding Websites</a></li>-->
+                <li><a href="https://www.weddingplz.com/wedding-inspiration/search">Photo Gallery</a></li>
+                <li><a href="https://www.weddingplz.com/real-wedding/search">Real Weddings</a></li>
+                <li><a target="new" href="https://www.weddingplz.com/blog/">Blog</a></li>
+                <li><a href="https://www.weddingplz.com/reviews">Reviews</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/events">Events</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="accordion_head">Weddingplz<span class="plusminus">+</span>
+    </div>
+    
+            <div class="accordion_body" style="display: none;">
+        <div class="footer-column footer-column-one underlinewhite1">
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/about-us">About Us</a></li>
+                 <!--<li><a href="">Our Story</a></li>-->
+<!--                <li><a href="/team">Team</a></li>-->
+                <li><a href="https://www.weddingplz.com/careers">Careers</a></li>
+                <li><a href="https://www.weddingplz.com/press">Press</a></li>
+                <li><a href="https://www.weddingplz.com/contact-us">Contact Us</a></li>
+                <li><a class="selected claim-link" href="https://www.weddingplz.com/claimbusiness/claimregister">Are You a Vendor</a></li>
+                <li><a class="selected claim-link" href="https://www.weddingplz.com/submit-wedding">Submit Your Wedding</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="accordion_head">Featured Catagories<span class="plusminus">+</span>
+
+    </div>
+    <div class="accordion_body" style="display: none;">        
+        <div class="footer-column footer-column-one underlinewhite1">
+        <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/delhi-ncr/bands">Bands</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/banquets">Banquets</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/caterers">Caterers</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/makeup-artists">Make Up Artist</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/photographers-and-videographers">Photographer</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/wedding-planners">Wedding Planners</a></li>
+                <!--<li><a href="">Privacy Policy</a></li>-->
+                <!--<li><a href="">Terms & Conditions</a></li>-->
+            </ul>
+        </div>
+    </div>
+            <div class="accordion_head">Choose Your City<span class="plusminus">+</span>
+
+    </div>
+    <div class="accordion_body" style="display: none;">        
+        <div class="footer-column footer-column-one underlinewhite1">
+        <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/delhi-ncr">Delhi</a></li>
+                <li><a href="https://www.weddingplz.com/mumbai">Mumbai</a></li>
+                <li><a href="https://www.weddingplz.com/bangalore">Bangalore</a></li>
+                <li><a href="https://www.weddingplz.com/chandigarh">Chandigarh</a></li>
+                <li><a href="https://www.weddingplz.com/ludhiana">Ludhiana</a></li>
+                <li><a href="https://www.weddingplz.com/delhi-ncr/wedding-vendors">View All Categories</a></li>
+            </ul>
+        </div>
+    </div>
+            
+            <div class="footer-column footer-column-four">
+           
+                <div class="section-footer-top-link">
+            <ul class="list-reset">
+                <li><a href="https://www.weddingplz.com/contact-an-expert"><span class="p_right fa fa-comments-o"></span>Contact an Expert Now</a></li>
+            <li><a href="https://www.weddingplz.com/advertise"><span class="p_right fa fa-bullhorn"></span>Advertise With Us</a></li>
+            <li><a href="https://www.weddingplz.com/claimbusiness/claimregister"><span class="p_right fa fa-plus-square-o"></span>Claim/Add Your Business</a></li>
+            <li class="social-icons">
+                <a target="_blank" class="icon icon-fb" href="https://www.facebook.com/WeddingPlz/">Facebook</a>
+                <a target="_blank" class="icon icon-tw" href="https://twitter.com/weddingplz">Twitter</a>
+                <a target="_blank" class="icon icon-gp" href="https://plus.google.com/104608318393562333997">Google plus</a>
+                <a target="_blank" class="icon icon-pin" href="https://www.pinterest.com/WeddingPlz/">pinterest</a>
+                <a target="_blank" class="icon icon-inst" href="https://www.instagram.com/weddingplz/">Instagram</a>
+            </li>
+        </ul>
+            </div>
+        </div>  
+            
 </div>
-</div>
- 
- 
-<footer class="site-footer">
-<div class="site-footer-inner site-width clearfix mobile_visibility">
-<div class="footer-column footer-column-one underlinewhite1">
-<h4>Explore</h4>
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/checklist">Wedding Planning</a></li>
- 
-<li><a href="https://www.weddingplz.com/wedding-inspiration/search">Photo Gallery</a></li>
-<li><a href="https://www.weddingplz.com/real-wedding/search">Real Weddings</a></li>
-<li><a target="new" href="https://www.weddingplz.com/blog/">Blog</a></li>
-<li><a href="https://www.weddingplz.com/reviews">Reviews</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/events">Events</a></li>
-</ul>
-</div>
-<div class="footer-column footer-column-three underlinewhite1">
-<h4>Weddingplz</h4>
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/about-us">About Us</a></li>
- 
- 
-<li><a href="https://www.weddingplz.com/careers">Careers</a></li>
-<li><a href="https://www.weddingplz.com/press">Press</a></li>
-<li><a href="https://www.weddingplz.com/contact-us">Contact Us</a></li>
-<li><a class="selected claim-link" href="https://www.weddingplz.com/claimbusiness/claimregister">Are You a Vendor</a></li>
-<li><a class="selected claim-link" href="https://www.weddingplz.com/submit-wedding">Submit Your Wedding</a></li>
-</ul>
-</div>
-<div class="footer-column footer-column-two underlinewhite1">
-<h4>Featured Catg.</h4>
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/delhi-ncr/bands">Bands</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/banquets">Banquets</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/caterers">Caterers</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/makeup-artists">Make Up Artist</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/photographers-and-videographers">Photographer</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/wedding-planners">Wedding Planners</a></li>
- 
- 
-</ul>
-</div>
-<div class="footer-column footer-column-three underlinewhite1">
-<h4>Choose Your City</h4>
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/delhi-ncr">Delhi</a></li>
-<li><a href="https://www.weddingplz.com/mumbai">Mumbai</a></li>
-<li><a href="https://www.weddingplz.com/bangalore">Bangalore</a></li>
-<li><a href="https://www.weddingplz.com/chandigarh">Chandigarh</a></li>
-<li><a href="https://www.weddingplz.com/ludhiana">Ludhiana</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/wedding-vendors">View All Categories</a></li>
-</ul>
-</div>
-<div class="footer-column footer-column-four">
-<div class="section-footer-top-link">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/contact-an-expert"><span class="p_right fa fa-comments-o"></span>Contact an Expert Now</a></li>
-<li><a href="https://www.weddingplz.com/advertise"><span class="p_right fa fa-bullhorn"></span>Advertise With Us</a></li>
-<li><a href="https://www.weddingplz.com/claimbusiness/findbusiness"><span class="p_right fa fa-plus-square-o"></span>Claim/Add Your Business</a></li>
-<li class="social-icons">
-<a target="_blank" class="icon icon-fb" href="https://www.facebook.com/WeddingPlz/">Facebook</a>
-<a target="_blank" class="icon icon-tw" href="https://twitter.com/weddingplz">Twitter</a>
-<a target="_blank" class="icon icon-gp" href="https://plus.google.com/+Weddingplzcom">Google plus</a>
-<a target="_blank" class="icon icon-pin" href="https://www.pinterest.com/WeddingPlz/">pinterest</a>
-<a target="_blank" class="icon icon-inst" href="https://www.instagram.com/weddingplz/">Instagram</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
- 
-<div class="site-footer-inner site-width clearfix mobile_visibility_active">
-<div class="accordion_container">
-<div class="accordion_head">Explore<span class="plusminus">+</span>
-</div>
-<div class="accordion_body" style="display: none;">
-<div class="footer-column footer-column-one underlinewhite1">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/checklist">Wedding Planning</a></li>
- 
-<li><a href="https://www.weddingplz.com/wedding-inspiration/search">Photo Gallery</a></li>
-<li><a href="https://www.weddingplz.com/real-wedding/search">Real Weddings</a></li>
-<li><a target="new" href="https://www.weddingplz.com/blog/">Blog</a></li>
-<li><a href="https://www.weddingplz.com/reviews">Reviews</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncrevents">Events</a></li>
-</ul>
-</div>
-</div>
-<div class="accordion_head">Weddingplz<span class="plusminus">+</span>
-</div>
-<div class="accordion_body" style="display: none;">
-<div class="footer-column footer-column-one underlinewhite1">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/about-us">About Us</a></li>
- 
- 
-<li><a href="https://www.weddingplz.com/careers">Careers</a></li>
-<li><a href="https://www.weddingplz.com/press">Press</a></li>
-<li><a href="https://www.weddingplz.com/contact-us">Contact Us</a></li>
-<li><a class="selected claim-link" href="https://www.weddingplz.com/claimbusiness/claimregister">Are You a Vendor</a></li>
-<li><a class="selected claim-link" href="https://www.weddingplz.com/submit-wedding">Submit Your Wedding</a></li>
-</ul>
-</div>
-</div>
-<div class="accordion_head">Featured Catagories<span class="plusminus">+</span>
-</div>
-<div class="accordion_body" style="display: none;">
-<div class="footer-column footer-column-one underlinewhite1">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/delhi-ncr/bands">Bands</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/banquets">Banquets</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/caterers">Caterers</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/makeup-artists">Make Up Artist</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/photographers-and-videographers">Photographer</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/wedding-planners">Wedding Planners</a></li>
- 
- 
-</ul>
-</div>
-</div>
-<div class="accordion_head">Choose Your City<span class="plusminus">+</span>
-</div>
-<div class="accordion_body" style="display: none;">
-<div class="footer-column footer-column-one underlinewhite1">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/delhi-ncr">Delhi</a></li>
-<li><a href="https://www.weddingplz.com/mumbai">Mumbai</a></li>
-<li><a href="https://www.weddingplz.com/bangalore">Bangalore</a></li>
-<li><a href="https://www.weddingplz.com/chandigarh">Chandigarh</a></li>
-<li><a href="https://www.weddingplz.com/ludhiana">Ludhiana</a></li>
-<li><a href="https://www.weddingplz.com/delhi-ncr/wedding-vendors">View All Categories</a></li>
-</ul>
-</div>
-</div>
-<div class="footer-column footer-column-four">
-<div class="section-footer-top-link">
-<ul class="list-reset">
-<li><a href="https://www.weddingplz.com/contact-an-expert"><span class="p_right fa fa-comments-o"></span>Contact an Expert Now</a></li>
-<li><a href="https://www.weddingplz.com/advertise"><span class="p_right fa fa-bullhorn"></span>Advertise With Us</a></li>
-<li><a href="https://www.weddingplz.com/claimbusiness/findbusiness"><span class="p_right fa fa-plus-square-o"></span>Claim/Add Your Business</a></li>
-<li class="social-icons">
-<a target="_blank" class="icon icon-fb" href="https://www.facebook.com/WeddingPlz/">Facebook</a>
-<a target="_blank" class="icon icon-tw" href="https://twitter.com/weddingplz">Twitter</a>
-<a target="_blank" class="icon icon-gp" href="https://plus.google.com/+Weddingplzcom">Google plus</a>
-<a target="_blank" class="icon icon-pin" href="https://www.pinterest.com/WeddingPlz/">pinterest</a>
-<a target="_blank" class="icon icon-inst" href="https://www.instagram.com/weddingplz/">Instagram</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<style>.accordion_head{background-color:transparent;color:#fff;cursor:pointer;font-size:15px;margin:0px 0 10px 0px;padding:15px 13px;font-weight:bold;border:1px solid #fff;text-align:center;}.accordion_body{background:transparent;}.plusminus{float:right;font-size:17px;}</style>
-<script>
+        
+        </div>
+        
+            
+            <script>
       /*          $(document).ready(function () {
     //toggle the component with class accordion_body
     $(".accordion_head").click(function () {
@@ -533,57 +670,118 @@ We will retain in our files information you have requested to remove for certain
             $(this).next(".accordion_body").slideUp(300);
             $(this).children(".plusminus").text('+');
         } else {
-            $(this).next(".accordion_body").slideDown(300);
+            $(this).next(".accordion_body").slideDown(':visible');
             $(this).children(".plusminus").text('-');
         }
     });
 }); */
                 </script>
-<div class="copy-wright">©2016. WeddingPlz. All Rights Reserved. &nbsp; |
-<a class="hov-underline" style="color: #fff;" href="https://www.weddingplz.com/privacypolicy"> Privacy Policy </a> |
-<a class="hov-underline" style="color: #fff;" href="https://www.weddingplz.com/termsconditions"> Terms of Use </a></div>
+        
+    <div class="copy-wright">©2017. WeddingPlz. All Rights Reserved. &nbsp;   | 
+        <a class="hov-underline" style="color: #fff;" href="https://www.weddingplz.com/privacypolicy"> Privacy Policy </a> | 
+        <a class="hov-underline" style="color: #fff;" href="https://www.weddingplz.com/termsconditions"> Terms of Use </a></div>
 </footer>
- 
- 
-<style></style>
-<script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.tooltipster.min.js"></script>
+
+<style>
+           
+.accordion_head {
+    background-color: transparent;
+color: #fff;
+cursor: pointer;
+font-size: 15px;
+margin: 0px 0 10px 0px;
+padding: 15px 13px;
+font-weight: bold;
+border: 1px solid #fff;
+text-align: center;
+}
+.accordion_body {
+    background: transparent;
+}
+.plusminus {
+    float:right; font-size: 17px;
+}
+            </style>
+<!--<a href="javascript:void(0);" id="backtotop">Back to Top</a>-->
+<!-- \\ End Footer -->
+
+<style>
+   /* #helpus_sucessmessage{ color: #fff!important; font-family: RobotoRegular;}*/
+
+body{
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+    
+</style>
+
+<script type="text/javascript">
+$(document).ready(function () {
+    //Disable full page
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+    
+    //Disable part of page
+    $("#id").on("contextmenu",function(e){
+        return false;
+    });
+});
+</script>            <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.tooltipster.min.js"></script>
 <script src="https://www.weddingplz.com/js/magnific-popup/jquery.magnific-popup.min.js"></script>
 <script src="https://www.weddingplz.com/js/placeholders.min.js"></script>
 <script src="https://www.weddingplz.com/js/jquery/jquery.bxslider.min.js"></script>
 <script type="text/javascript" src="https://www.weddingplz.com/js/fancyform/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="https://www.weddingplz.com/js/fancyform/jquery.hotkeys.js"></script>
- 
+<!--<script type="text/javascript" src="https://www.weddingplz.com/js/fancyform/jquery.fancyform.min.js"></script>-->
 <script type="text/javascript" src="https://www.weddingplz.com/js/jcarousel/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.easing.min.js"></script>
 <script type="text/javascript" src="https://www.weddingplz.com/js/jquery/jquery.mixitup.min.js"></script>
 <script src="https://www.weddingplz.com/js/jquery/typed.js"></script>
-<script src="https://www.weddingplz.com/js/fadeproperty1.js"></script>
+<script src="https://www.weddingplz.com/js/fadeproperty1.js"></script>	
 <script src="https://www.weddingplz.com/js/wow.min.js"></script>
-<script src="https://www.weddingplz.com/js/jquery/jquery.countto.js"></script>
+<script src="https://www.weddingplz.com/js/jquery/jquery.countto.js"></script> 	     
 <script src="https://www.weddingplz.com/js/tabs-responsive/modernizr.js"></script>
 <script src="https://www.weddingplz.com/js/tabs-responsive/main.js"></script>
 <script src="https://www.weddingplz.com/js/custom-scripts.js"></script>
 <script src="https://www.weddingplz.com/js/fade.js"></script>
- 
- 
- 
- 
-<script type="text/javascript" src="https://www.weddingplz.com//min/?b=js&amp;f=autocomplete/jquery.ui.core.js,autocomplete/jquery.ui.widget.js,autocomplete/jquery.ui.position.js,autocomplete/jquery.ui.menu.js,autocomplete/jquery.ui.autocomplete.js,autocomplete/jquery.autocomplete.js,home.js,validation/jquery.validate.min.js,validation/validation.js,fancyform/jquery.fancyform.min.js,colorbox/jquery.colorbox.js,colorbox/colorbox.js,jquery/jquery.lazyload.min.js,nprogress.js"></script>
- 
- 
+<!--<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.ui.core.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.ui.position.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.ui.menu.js"></script> 
+<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.ui.autocomplete.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/home.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/validation/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/validation/validation.js"></script>-->
+<!--<script type="text/javascript" async defer src="https://www.weddingplz.com/js/fancyform/jquery.fancyform.min.js"></script>-->
+<!--<script type="text/javascript" async src="https://www.weddingplz.com/js/colorbox/jquery.colorbox.js"></script>-->
+<!--<script type="text/javascript" src="https://www.weddingplz.com/js/all_common_js_files.js"></script>-->
+    <script type="text/javascript" src="https://www.weddingplz.com//min/?b=js&amp;f=autocomplete/jquery.ui.core.js,autocomplete/jquery.ui.widget.js,autocomplete/jquery.ui.position.js,autocomplete/jquery.ui.menu.js,autocomplete/jquery.ui.autocomplete.js,autocomplete/jquery.autocomplete.js,home.js,validation/jquery.validate.min.js,validation/validation.js,fancyform/jquery.fancyform.min.js,colorbox/jquery.colorbox.js,colorbox/colorbox.js,jquery/jquery.lazyload.min.js,nprogress.js"></script>
+<!--<script src="https://www.weddingplz.com/js/jquery/jquery.lazyload.min.js"></script>-->
+<!--<script type="text/javascript" src="https://www.weddingplz.com/js/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="https://www.weddingplz.com/js/colorbox/colorbox.js"></script>-->
 <script>$(function(){$("img.lazy").lazyload(),$("div.lazy").lazyload({failure_limit:10,threshold:1500})});</script>
- 
+<!--fb Share functionality here-->
 <script>/*$(window).load(function(){function e(e){for(var t="https://www.weddingplz.com/",o=0;o<e.length;o++){var a=!1,n=document.createElement("script");n.type="text/javascript",n.async=!0;var u=t+"js/"+e[o];n.src=u,n.onload=n.onreadystatechange=function(){a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(a=!0,n.onload=n.onreadystatechange=null,document.getElementsByTagName("body")[0].removeChild(n))},document.getElementsByTagName("body")[0].appendChild(n)}}!function(){var t=["autocomplete/jquery.ui.core.js","autocomplete/jquery.ui.widget.js","autocomplete/jquery.ui.position.js","autocomplete/jquery.ui.menu.js","autocomplete/jquery.ui.autocomplete.js","autocomplete/jquery.autocomplete.js","home.js","validation/jquery.validate.min.js","validation/validation.js","colorbox/colorbox.js"];e(t)}()});*/</script>
 <script>function loader(e,o,r){void 0==r&&(r="");var s="";s='"vbox-preloader '+r+'"';var d="<div class = "+s+' id = "showLoader"></div>';""!=e&&"undefined"!=e&&""!=o&&("show"==o&&($(d).insertBefore("#"+e),$("#"+e).hide()),"hide"==o&&($("#showLoader").remove(),$("#"+e).show()))}$(".custom-select").transformSelect(),$("#custom-selectlp").transformSelect();</script>
 <script>$(function(){var o="<div class='modal-overlay js-modal-close'></div>";$("a[data-modal-id]").click(function(a){a.preventDefault(),$("body").append(o),$(".modal-overlay").fadeTo(500,.7);var d=$(this).attr("data-modal-id");$("#"+d).fadeIn($(this).data())}),$(window).resize(function(){$(".modal-box").css({top:($(window).height()-$(".modal-box").outerHeight())/2,left:($(window).width()-$(".modal-box").outerWidth())/2})}),$(window).resize()});</script>
 <script>jQuery.fn.center=function(){return this.css("position","absolute"),this.css("top",(jQuery(window).height()-this.height())/2+jQuery(window).scrollTop()+"px"),this.css("left",(jQuery(window).width()-this.width())/2+jQuery(window).scrollLeft()+"px"),this};</script>
 <script type="text/javascript">function fblogin(){FB.login(function(e){e.authResponse&&(window.location.href="/user/fblogin")},{scope:"email"})}function onSignIn(e){var o=e.getBasicProfile();console.log("ID: "+o.getId()),console.log("Name: "+o.getName()),console.log("Image URL: "+o.getImageUrl()),console.log("Email: "+o.getEmail());var n="id="+o.getId()+"&name="+o.getName()+"&email="+o.getEmail()+"&imgUrl="+o.getImageUrl();$.ajax({url:jsPath+"user/getgmailsession",type:"POST",data:n,dataType:"json",success:function(e){1==e.status&&window.location.reload()}})}jQuery("#popup1,#popup2,#popup3,#popup0").center(),window.fbAsyncInit=function(){FB.init({appId:"106423413030579",channelURL:"",status:!0,cookie:!0,oauth:!0,xfbml:!0})},function(e){var o,n="facebook-jssdk",t=e.getElementsByTagName("script")[0];e.getElementById(n)||(o=e.createElement("script"),o.id=n,o.async=!0,o.src="//connect.facebook.net/en_US/all.js",t.parentNode.insertBefore(o,t))}(document);</script>
- 
+<!--- JS for after login menu and mobile search animation   -->
 <script type="text/javascript">$(document).ready(function(n){if($(".btnsearch").click(function(){$(".topform").slideToggle()}),$(window).width()<=760){var e=!1;$(".mobmenu").click(function(n){0==e?($(".menushow").animate({left:"0px"},200),e=!0):1==e&&($(".menushow").animate({left:"-700px"},200),e=!1)})}});</script>
 <script>function help_us_inprove(){var e=$("#helpus_email").val(),s=$("#helpus_comments").val();if(""==e)return $("#helpus_email").attr("placeholder","Plz enter email id"),$("#helpus_email").addClass("change-text-box-color"),$("#helpus_email").focus(),!1;var l=/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;if(!e.match(l))return $("#helpus_email").attr("placeholder","Plz enter valid email id"),$("#helpus_email").val(""),$("#helpus_email").addClass("change-text-box-color"),$("#helpus_email").focus(),!1;if(""==s||"Enter comments"==s)return $("#helpus_comments").attr("placeholder","Plz enter your message"),$("#helpus_comments").addClass("change-text-box-color"),$("#helpus_email").removeClass("change-text-box-color"),$("#helpus_comments").focus(),!1;var a="&helpus_email="+e+"&helpus_comments="+s; $.ajax({url:jsPath+"Search/helpusimprove",type:"POST",data:a,success:function(e){$("#helpus_email").val("");$("#helpus_comments").val("");$("#helpus_sucessmessage").html("<div class='color-box-hd'></div><div id='success' class='hd-box' style='padding:15px 20px 15px 20px; width:89%;'>Success</div><div style='padding:20px;'>Thanks for writing in. We'll get back to you shortly!</div>");$.colorbox({inline:true, height: "200px",width: "400px;", fixed:true, href:"#helpus_sucessmessage"}); $("#helpus_email").removeClass("change-text-box-color");$("#helpus_comments").removeClass("change-text-box-color");window.setTimeout(function(){ window.location.reload();}, 2000);}});}</script>
- 
+
+<!-- <script async type="text/javascript" src="https://cdn.perfdrive.com/static/browser_detect_min.js"></script> -->
 <script>NProgress.start();NProgress.done();</script>
 <script>$(document).ready(function(){$(".accordion_head").click(function(){$(".accordion_body").is(":visible")&&($(".accordion_body").slideUp(300),$(".plusminus").text("+")),$(this).next(".accordion_body").is(":visible")?($(this).next(".accordion_body").slideUp(300),$(this).children(".plusminus").text("+")):($(this).next(".accordion_body").slideDown(300),$(this).children(".plusminus").text("-"))})});</script>
+
+
+
 <script>
     function newsletter()
     {
@@ -641,6 +839,7 @@ We will retain in our files information you have requested to remove for certain
         });
     }
 </script>
+
 <script>
     function deleteerror()
     {
@@ -651,6 +850,7 @@ We will retain in our files information you have requested to remove for certain
         }
     }
 </script>
+
 <script>
     $('.mobile-search').click(function(e) {
         e.preventDefault();
@@ -665,6 +865,7 @@ We will retain in our files information you have requested to remove for certain
         }
     });
 </script>
+
 <script type="text/javascript">
 //    $(document).ready(function() {
 //        setTimeout(function() {
@@ -756,8 +957,9 @@ We will retain in our files information you have requested to remove for certain
         initHorizontalParallax();
         secondaryNav();
     });
-</script>
-<script>
+</script> 
+
+ <script>
     $(function(){
 
         $("#typed").typed({
@@ -861,19 +1063,35 @@ We will retain in our files information you have requested to remove for certain
         return false;
     }
     </script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43471550-1', 'auto');
-  ga('send', 'pageview');
-  setTimeout("ga('send','event','Engaged users','Google')",20000);
+ga('create', 'UA-43471550-1', 'auto');
+ga('send', 'pageview');
+setTimeout("ga('send','event','Engaged users','Google')",10000);
 </script>
- 
- 
- 
+
+
+<!-- Piwik -->
+<!--
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//www.weddingplz.com/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', 1]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//local.weddingplz-ui.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>-->
+<!-- End Piwik Code -->
+
 <script> (function() {
 var _fbq = window._fbq || (window._fbq = []);
 if (!_fbq.loaded) {
@@ -889,36 +1107,45 @@ _fbq.push(['addPixelId', '864305666995981']);
 window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
- 
- 
+<!--<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=864305666995981&amp;ev=PixelInitialized" /></noscript>-->
+<!-- Google knowledge graph search -->
 <script type="application/ld+json">
 { "@context" : "http://schema.org",
-  "@type" : "Organization",
-   "name" : "Weddingplz",
-  "url" : "https://www.weddingplz.com/",
-  "sameAs" : [ "https://www.facebook.com/WeddingPlz",
-    "https://twitter.com/weddingplz",
-    "https://plus.google.com/+Weddingplzcom/posts",
-                "https://www.instagram.com/weddingplz/",
-                "https://in.pinterest.com/WeddingPlz/" ]                                            
+"@type" : "Organization",
+"name" : "Weddingplz",
+"url" : "https://www.weddingplz.com/",
+"sameAs" : [ "https://www.facebook.com/WeddingPlz",
+"https://twitter.com/weddingplz",
+"https://plus.google.com/+Weddingplzcom/posts",
+"https://www.instagram.com/weddingplz/",
+"https://in.pinterest.com/WeddingPlz/" ]                                            
 }
 </script>
- 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB7X3B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB7X3B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MB7X3B');</script>
- 
- 
-<script type="text/javascript">
+
+<!-- End Google Tag Manager -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--<script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 965511372;
+/*var google_conversion_id = 965511372;
 var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
+var google_remarketing_only = true;*/
 /* ]]> */
-</script>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5ec53ef9b0","applicationID":"20770862","transactionName":"NQQGbBcDVhUEAEBeXwxOJVsRC1cISgdRUVEXDRAXFRBREAQATUdfDggHQUoLVgIAGw==","queueTime":0,"applicationTime":47,"atts":"GUMFGl8ZRRs=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+</script>-->
+
+        </div>
+    
+
+
 
 </body></html>
