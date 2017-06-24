@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052702id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624123243id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smart Insights Digital Marketing Advice
 
@@ -8,7 +8,7 @@ At Smart Insights, we aim to be open about the way our site works to collect use
 
 The data controller responsible in respect of the information processed on this website is Smart Insights (Marketing Intelligence) Limited.
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@smartinsights.com or by post to Smart Insights (Marketing Intelligence) Limited, 1 Featherbank Court, Leeds, LS18 4QF, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@smartinsights.com or by post to Smart Insights (Marketing Intelligence) Limited, Suite 5, West Wing, Jason House, Kerry Hill, Horsforth, Leeds, LS18 4JR, United Kingdom.
 
 ### 1.1.2     Your rights
 
@@ -112,7 +112,7 @@ By continuing to use our website, after having been informed about the cookies, 
 
 We want to be open about our use of cookies on SmartInsights.com.
 
-As required by the [UK interpretation of EU law on Cookies](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx), we have reviewed the cookies used by our service and give advice so that you can manage the use of cookies.
+As required by the [UK interpretation of EU law on Cookies](https://ico.org.uk/media/for-organisations/documents/1545/cookies_guidance.pdf), we have reviewed the cookies used by our service and give advice so that you can manage the use of cookies.
 
 A cookie consists of a piece of text sent by a web server to your web browser, which is then stored by your browser. The information is then sent back to our web server each time your browser requests a page from the server. This enables the web server to identify individual web browsers. It does not contain personally identifiable information such as your name or other personal details – but may enable us to identify and profile your activities if you are logged in to our site.
 
