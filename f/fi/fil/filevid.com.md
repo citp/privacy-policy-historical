@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filevid.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005946id_/http%3A//www.filevid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filevid.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624081440id_/http%3A//www.filevid.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Filevid.com
+# Privacy Policy - Filevid.com | Facebook Video Downloader | Download Facebook Videos
 
 [ ](http://filevid.com/ "facebook video downloader")
 
