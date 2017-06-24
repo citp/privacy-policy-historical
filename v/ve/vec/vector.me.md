@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vector.me privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182210id_/http%3A//vector.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector.me privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624103113id_/http%3A//vector.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vector.me
 
-Vector.me knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Vector.me website, you are accepting the practices outlined in this Privacy Policy.
+Vector.me knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Vector.me website, you are accepting the practices outlined in this Privacy Policy. 
 
 ## Information Collected by Vector.me
 
@@ -10,11 +10,11 @@ We receive and store any information you enter on our website or provide to us i
 
 ## E-mail Communications
 
-We are very concerned about your privacy and will never provide your email address to a third party without your explicit permission. We only send out e-mails with product-related if you accept to receive them, as detailed in your account page. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+We are very concerned about your privacy and will never provide your email address to a third party without your explicit permission. We only send out e-mails with product-related if you accept to receive them, as detailed in your account page. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
 
 ## Cookies
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Vector.me cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Vector.me cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
 ## Keeping Information Secure
 
@@ -22,12 +22,12 @@ Your Vector.me account information is protected by a password for your privacy a
 
 ## Changes to this Privacy Policy
 
-We may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Vector.me website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+We may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Vector.me website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
 
 ## Conditions of Use
 
-If you decide to visit Vector.me website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of California state law.
+If you decide to visit Vector.me website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of California state law. 
 
 ## Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of March 1, 2012.
+This Privacy Policy is effective as of March 1, 2012. 
