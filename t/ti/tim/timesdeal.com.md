@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045732id_/https%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624064554id_/https%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
 
 # CouponDunia: Coupons, Cashback, Offers and Promo Code
 
@@ -66,7 +66,7 @@ All information gathered on COUPONDUNIA is securely stored within the COUPONDUNI
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to support@coupondunia.in to Grievance Officer(Mr. Sarovar Chandra).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to support@coupondunia.in to Grievance Officer(Mr. Siddharth Bajpai).
 
 Communication with Users
 
@@ -78,7 +78,7 @@ Grievance Redressal
 
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
 
-Mr. Sarovar Chandra **(Grievance Officer)**
+Mr. Siddharth Bajpai **(Grievance Officer)**
 
  **CouponDunia Media Private Limited.**
 
