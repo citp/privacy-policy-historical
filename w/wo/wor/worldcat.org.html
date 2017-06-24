@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231192340id_/http%3A//www.oclc.org/policies/privacy.en.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624162306id_/http%3A//www.oclc.org/policies/privacy.en.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="  js canvas rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssgradients fontface generatedcontent video audio" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
-
 <link rel="stylesheet" href="/etc/clientlibs/social/commons/scf.css" type="text/css">
 <link rel="stylesheet" href="/libs/social/tally/components/hbs/voting/clientlibs.css" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/social/hbs/reviews.css" type="text/css">
@@ -62,11 +61,11 @@
     <meta name="DC.Publisher" content="OCLC">
     <meta name="DC.Creator" content="">
     <meta name="DC.Contributor" content="">
-    <meta name="DCTERMS.Created" scheme="DCTERMS.W3CTDF" content="2016-6-7">
+    <meta name="DCTERMS.Created" scheme="DCTERMS.W3CTDF" content="2017-1-12">
     <meta name="DCTERMS.Issued" scheme="DCTERMS.W3CTDF" content="">
-    <meta name="DCTERMS.Modified" scheme="DCTERMS.W3CTDF" content="2013-2-28">         
+    <meta name="DCTERMS.Modified" scheme="DCTERMS.W3CTDF" content="2016-12-8">         
     <meta name="DC.Language" content="en">
-    <meta name="DC.Modified" content="2013-2-28">
+    <meta name="DC.Modified" content="2016-12-8">
     <meta name="DC.Rights" content="null">  
     <meta property="og:title" content="OCLC Privacy policy">	
     <meta property="og:description" content="auto created">
@@ -276,7 +275,7 @@ if(typeof String.prototype.trim !== 'function') {
 <script type="text/javascript">
     $CQ(function() {
         CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
-        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/mainoclc/worldwide/en_us/policies/privacy");
+        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/marketing/publish/en_us/policies/privacy");
 
         
     });
@@ -287,7 +286,6 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 </head>
-
 
 
 
@@ -380,8 +378,8 @@ if(typeof String.prototype.trim !== 'function') {
 
             microLinks = $('<ul class="micro-links">')
                 .append('<li><a title="Sign out" id="signout-link" href="#">Sign out</a></li>');
-            if (!OCLC.empty('/content/mainoclc/worldwide/en_us/user/view-profile.html')) {
-                sitebarLink = CQ_Analytics.ProfileDataMgr.data.path + '.form.html/content/mainoclc/worldwide/en_us/user/view-profile.html';
+            if (!OCLC.empty('/content/marketing/publish/en_us/user/view-profile.html')) {
+                sitebarLink = CQ_Analytics.ProfileDataMgr.data.path + '.form.html/content/marketing/publish/en_us/user/view-profile.html';
                 sitebarName = CQ_Analytics.ProfileDataMgr.data.formattedName;
                 microLinks.append('<li><a title="View or edit your account info" href="' + sitebarLink + '">' + sitebarName + '</a></li>');
             }
@@ -402,19 +400,19 @@ if(typeof String.prototype.trim !== 'function') {
 <section class="micro-bar" id="micro-bar">
 <div class="cont-page mod" id="sitebar-contents">
     <div id="oclc-return">
-        <a href="/home.en.html" title="Home">OCLC.org</a>
+        <a href="/" title="OCLC.org Home">OCLC.org</a>
         
         <ul id="sitebar-sites" style="display: none; ">
            
-            <li><a href="/home.en.html" title=""><span class="oclc-return-home">OCLC.org Home</span></a></li>
+            <li><a href="/" title=""><span class="oclc-return-home">OCLC.org Home</span></a></li>
            
             <li><a href="/research.html" title="">Research</a></li>
            
             <li><a href="/support/home.en.html" title="">Support &amp; Training</a></li>
            
-            <li><a href="/content/community/en_us/home" title="">Community Center</a></li>
+            <li><a href="/content/community/en_us/home.html" title="">Community Center</a></li>
            
-            <li><a href="/content/developer/worldwide/en_us/home" title="">Developer Network</a></li>
+            <li><a href="/developer/home.en.html" title="">Developer Network</a></li>
            
             <li><a href="http://webjunction.org" title="">WebJunction</a></li>
            
@@ -449,7 +447,8 @@ if(typeof String.prototype.trim !== 'function') {
 (function ($) {
     $(function() {
         yepnope({
-            test: window.location.search != null && (window.location.search.indexOf("urlf=") >= 0 || window.location.search.indexOf("urlm=") >= 0), // test whether the url querystring has a parameter
+            test: window.location.search != null && (window.location.search.indexOf("urlf=") >= 0 ||
+              window.location.search.indexOf("urlm=") >= 0), // test whether the url querystring has a parameter
             yep: ['/apps/oclc/docroot/js/urlmapper.js']
         });
     });
@@ -464,13 +463,13 @@ if(typeof String.prototype.trim !== 'function') {
  <section class="universal-nav">
 
     <div id="url-mapper-msg"></div>
-  <div class="logo parbase globallogo">
+      <div class="logo parbase globallogo">
 
 
 
     <!-- logo -->
     <div itemscope="" itemtype="http://schema.org/Organization">
-    <a href="/home.en.html" itemprop="url">
+    <a href="/en/home.html" itemprop="url">
     
         
             <img itemprop="logo" src="/content/dam/oclc/design-images/navigation-logo.png" border="0" title="Home" class="oclc-logo">
@@ -481,58 +480,114 @@ if(typeof String.prototype.trim !== 'function') {
     </div>
 </div>
 
-  
-   
-    
-   
-    
+      
 
 
 
-    <script>
-    var OCLC = OCLC || {};
-    OCLC.designMode = true;
-    OCLC.defaultGlobalHomepage = '/content/mainoclc/worldwide/en_us/home.html';
-    OCLC.canadaENHomePage = '/content/mainoclc/canada/en_us/home.html';
-    OCLC.canadaFRHomePage = '/content/mainoclc/canada/fr_ca/home.html';
-    OCLC.americalatinaENHomePage = '/content/mainoclc/americalatina/en_us/home.html';
-    OCLC.americalatinaESHomePage = '/content/mainoclc/americalatina/es_mx/home.html';
-    OCLC.americalatinaPTHomePage = '/content/mainoclc/americalatina/pt_br/home.html';
-    OCLC.asiapacificENHomePage = '/content/mainoclc/asiapacific/en_us/home.html';
-    OCLC.asiapacificZHCNHomePage = '/content/mainoclc/asiapacific/zh_cn/home.html';
-    OCLC.asiapacificZHTWHomePage = '/content/mainoclc/asiapacific/zh_tw/home.html';
-    OCLC.unitedkingdomENHomePage = '/content/mainoclc/unitedkingdom/en_us/home.html';
-    OCLC.europeENHomePage = '/content/mainoclc/europe/en_us/home.html';
-    OCLC.deutschlandDEHomePage = '/content/mainoclc/deutschland/de_de/home.html';
-    OCLC.nederlandNLHomePage = '/content/mainoclc/nederland/nl_nl/home.html';
-    OCLC.australiaENHomePage = '/content/mainoclc/australia/en_us/home.html';
-    OCLC.unitedstatesENHomePage = '/content/mainoclc/unitedstates/en_us/home.html';
-    OCLC.designMode = 'true';
-    </script>
-    
-    
 <script>
-var contentLink = '/content/mainoclc/global-gateway/ww-en.html.html';
-var ggDesignMode = 'true';
+    var contentLink = '';
 </script>
 
-    <section class="region-language">
-        <p class="region"><a href="#" title="Select a different region" id="region-select">Worldwide</a></p>
-        <ul class="language">
+
+        <script type="text/javascript" src="/apps/oclc/components/page/oclcbase/ggclientlibs.js"></script>
+
+
+        <div id="gateway-display" style="display: none;">
+            <div id="gateway-msg-content">
+                <div id="gateway-msg" class="highlightbox section">
+                    <div class="hbox alert-message info">
+                        <div class="parsys">
+                            <div class="text parbase section">
+                                <p id="gateway-msg-close">Close</p>
+                                <p>
+                                    Based on your browser settings, we have selected <strong>English</strong> as your preferred language on the OCLC.org website. This setting will be used whenever content in that language is available. You can change your preferred language below.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="region-language lang-selector">
+            <p class="region">
+                <a href="#" title="Select a different language" id="region-select">English</a>
+            </p>
+            <div id="global-gateway" style="display: none;">
+                <div id="gateway-content">
+                    
+                        
+                            <ul class="language">
+                                
+                                    <li>
+                                            <a href="/de/policies/privacy.html" id="de">Deutsch</a>
+                                    </li>
+                                
+                                    <li>
+                                            <a href="/es/policies/privacy.html" id="es">Español</a>
+                                    </li>
+                                
+                                    <li>
+                                            <a href="/fr/policies/privacy.html" id="fr">Français</a>
+                                    </li>
+                                
+                                    <li>
+                                            <a href="/nl/policies/privacy.html" id="nl">Nederlands</a>
+                                    </li>
+                                
+                                    <li>
+                                            <a href="/zh-Hans/policies/privacy.html" id="zh">中文简体</a>
+                                    </li>
+                                
+                            </ul>
+                        
+                        
+                    
+                </div>
+            </div>
             
-                <li>English</li>
-            
-        </ul>
-        <div id="global-gateway"></div>
-    </section>
-<script src="/etc/designs/oclc/js/jquery/jquery.ba-outside-events.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript" src="/apps/oclc/components/page/oclcbase/ggclientlibs.js"></script>
+            <noscript>
+                <div id="global-gateway-noscript">
+                    <div id="gateway-content-noscript">
+                        
+                            
+                                <ul class="language">
+                                    
+                                        <li>
+                                                <a href="/de/policies/privacy.html" id="de">Deutsch</a>
+                                        </li>
+                                    
+                                        <li>
+                                                <a href="/es/policies/privacy.html" id="es">Español</a>
+                                        </li>
+                                    
+                                        <li>
+                                                <a href="/fr/policies/privacy.html" id="fr">Français</a>
+                                        </li>
+                                    
+                                        <li>
+                                                <a href="/nl/policies/privacy.html" id="nl">Nederlands</a>
+                                        </li>
+                                    
+                                        <li>
+                                                <a href="/zh-Hans/policies/privacy.html" id="zh">中文简体</a>
+                                        </li>
+                                    
+                                </ul>
+                            
+                            
+                        
+                    </div>
+                </div>
+            </noscript>
+        </section>
+        <script src="/etc/designs/oclc/js/jquery/jquery.ba-outside-events.js" type="text/javascript" charset="utf-8">
+        </script>
 
 
 
-   
-  
-  <div class="search">
+
+      <div class="search">
 
 
 
@@ -543,7 +598,7 @@ var ggDesignMode = 'true';
 
 <section class="search-box">
     
-    <form _lpchecked="1" method="get" action="/search-results.en.html" id="s_suggestion_form">
+    <form _lpchecked="1" method="get" action="/en/search-results.html" id="s_suggestion_form">
         <label for="search-terms" class="visuallyhidden">Search</label>
         <input type="text" value="Search" name="q" id="search-terms" size="25" maxlength="256" onclick="checkClear(this);" autocomplete="off">        
          
@@ -556,8 +611,8 @@ var ggDesignMode = 'true';
         <input type="submit" value="" id="submit-search">
     </form>
     	<!-- Do not delete used for Suggest Servlet-->
-		<input type="hidden" name="s_site" id="s_site" value="www_worldwide_all">    
-		<input type="hidden" name="s_client" id="s_client" value="www_worldwide">             
+		<input type="hidden" name="s_site" id="s_site" value="marketing_en">    
+		<input type="hidden" name="s_client" id="s_client" value="marketing_en">             
 </section>
 <script>
 function checkClear(input) {
@@ -571,7 +626,7 @@ function checkClear(input) {
 
 </div>
 
-  
+      
 
 
 
@@ -612,13 +667,6 @@ function checkClear(input) {
                 });
             }
         });
-        // Close gateway if open when clicked away from
-        $(".region-language").bind("clickoutside", function (event) {
-            if ($(".region").hasClass("gateway-open")) {
-                $(".region").removeClass("gateway-open");
-                $("#global-gateway").hide();
-            }
-        });
 
         $(window).bind("load", function () {}); // Not sure why this is here.
     });
@@ -632,41 +680,41 @@ function checkClear(input) {
     <div class="cont-page mod">
         <ul id="main-nav"> 
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/membership.en.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/membership.html" class="main-nav-link dropnav">Membership</a>
+                    <a href="/en/membership.html?cmpid=md_mem" title="" rel="/content/marketing/publish/en_us/megadrop-menus/membership.html" class="main-nav-link dropnav">Membership</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/services.en.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/products-services.html" class="main-nav-link dropnav">Products</a>
+                    <a href="/en/services.html?cmpid=md_prod" title="" rel="/content/marketing/publish/en_us/megadrop-menus/services.html" class="main-nav-link dropnav">Products</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/support/home.en.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/support.html" class="main-nav-link dropnav">Support</a>
+                    <a href="/support/home.en.html?cmpid=md_supp" title="" rel="/content/marketing/publish/en_us/megadrop-menus/support.html" class="main-nav-link dropnav">Support</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/research.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/research.html" class="main-nav-link dropnav">Research</a>
+                    <a href="/content/research.?cmpid=md_res" title="" rel="/content/marketing/publish/en_us/megadrop-menus/research.html" class="main-nav-link dropnav">Research</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/news.en.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/news-events.html" class="main-nav-link dropnav">News &amp; Events</a>
+                    <a href="/en/news.html?cmpid=md_news" title="" rel="/content/marketing/publish/en_us/megadrop-menus/news.html" class="main-nav-link dropnav">News &amp; Events</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item">
-                    <a href="http://www.oclc.org/about.en.html" title="" rel="/content/mainoclc/worldwide/en_us/megadrop-menus/v2/about.html" class="main-nav-link dropnav">About</a>
+                    <a href="/en/about.html?cmpid=md_ab" title="" rel="/content/marketing/publish/en_us/megadrop-menus/about.html" class="main-nav-link dropnav">About</a>
                     
                     <div class="dropnav-cont hidden-all"></div>
                 </li>
                 <li class="main-nav-item main-nav-item-right">
-                    <a href="/contacts.en.html" title="" class="main-nav-link "><span class="nav-right">Contacts</span></a>
+                    <a href="/en/contacts.html" title="" class="main-nav-link "><span class="nav-right">Contacts</span></a>
                     
                 </li>
                 <li class="main-nav-item main-nav-item-right">
-                    <a href="/services/logon.en.html" title="" class="main-nav-link "><span class="nav-right">Sign in to Services</span></a>
+                    <a href="/en/services/logon.html" title="" class="main-nav-link "><span class="nav-right">Sign in to Services</span></a>
                     
                 </li>
         </ul>
@@ -711,25 +759,7 @@ function checkClear(input) {
     <div class="parsys_column interior-content">
       <div class="parsys_column home-content-c0">       
         <div class="cont-page mod crumbs-tools">
-          <div class="breadcrumb">
-    
-    
-                <ul class="breadcrumbs">
-            
-                    <li class="crumb-home">
-                    <a href="/home.en.html" title=""> Home
-                    
-                    </a></li>
-                    <li>
-                    <a href="/policies.en.html" title=""> OCLC policies
-                    
-                    </a></li>
-                    <li><strong>
-                    OCLC Privacy policy
-                        </strong></li>
-                        
-        </ul>
-        </div>
+          <div class="breadcrumb"></div>
 
           <div class="parbase addThis">
 
@@ -766,66 +796,11 @@ function checkClear(input) {
         
         
         
-            <div class="interior-nav">
-               
-                   <div class="parsys iparsys leftNavigation"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys leftNavigation"><div class="interiornav section">
-
-
-
-    <section class="interior-nav-list">
-       <h1><a href="/policies.en.html" title="">OCLC policies</a></h1>
-       <ul>
-                                               <li>
-                                               <a href="/policies/security.en.html" title="">Security policy and ISO-27001 compliance</a>
-                                           </li>
-                                               <li class="interior-nav-active">OCLC Privacy policy
-                                           </li>
-                                               <li>
-                                               <a href="/policies/copyright.en.html" title="">Copyright policy</a>
-                                           </li>
-                                               <li>
-                                               <a href="/policies/cookies.en.html" title="">Cookie policy</a>
-                                           </li>
-                                               <li>
-                                               <a href="/policies/accessibility.en.html" title="">Accessibility statement</a>
-                                           </li>
-        </ul>
-        </section>
-
-
-
-</div>
-
-</div>
-</div>
-</div>
-
-               
-                
-                   <div class="parsys iparsys subscriptionArea"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys subscriptionArea">
-</div>
-</div>
-</div>
-
-               
-                
-                   <div class="parsys iparsys nextSteps"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys iparsys nextSteps">
-</div>
-</div>
-</div>
-
-               
-               <div class="parsys leftpar">
-</div>
-
-            </div>
+        
+           
         
         
-        
-        <div class="page-content ">
+        <div class="page-content no-nav">
           <div class="par parsys"><div class="text parbase section">
 
 
@@ -999,19 +974,19 @@ function checkClear(input) {
   
     <h3>About</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/about.en.html">About OCLC</a></li> 
-   <li><a href="/about/leadership.en.html">Leadership</a></li> 
-   <li><a href="/about/finance.en.html">Financial Statements and Reports</a></li> 
-   <li><a href="/technology.en.html">OCLC Technology</a><br> </li> 
-   <li><a href="/contacts.en.html">Contact Us</a></li> 
+   <li><a href="/en/about.html">About OCLC</a></li> 
+   <li><a href="/en/about/leadership.html">Leadership</a></li> 
+   <li><a href="/en/about/finance.html">Financial Statements and Reports</a></li> 
+   <li><a href="/en/technology.html">OCLC Technology</a></li> 
+   <li><a href="/en/contacts.html">Contact Us</a></li> 
   </ul> 
   <h3>Membership</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/membership.en.html">Overview</a></li> 
-   <li><a href="/membership/benefits.en.html">Member benefits</a></li> 
-   <li><a href="/membership/become-a-member.en.html">Become a member</a></li> 
-   <li><a href="/membership/councils.en.html">Councils</a></li> 
-   <li><a href="/membership/member-resources.en.html">Resources</a></li> 
+   <li><a href="/en/membership.html">Overview</a></li> 
+   <li><a href="/en/membership/benefits.html">Member benefits</a></li> 
+   <li><a href="/en/membership/become-a-member.html">Become a member</a></li> 
+   <li><a href="/en/membership/councils.html">Councils</a></li> 
+   <li><a href="/en/membership/member-resources.html">Resources</a></li> 
   </ul>
   
 
@@ -1034,12 +1009,12 @@ function checkClear(input) {
   
     <h3>Information for</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/academic.en.html">Academic libraries</a></li> 
-   <li><a href="/public.en.html">Public libraries</a></li> 
-   <li><a href="/rlibs.en.html">Research libraries</a></li> 
-   <li><a href="/special.en.html">Special libraries</a></li> 
-   <li><a href="/groups.en.html">Groups and consortia</a></li> 
-   <li><a href="/partnerships.en.html">Partners</a></li> 
+   <li><a href="/en/academic.html">Academic libraries</a></li> 
+   <li><a href="/en/public.html">Public libraries</a></li> 
+   <li><a href="/en/rlibs.html">Research libraries</a></li> 
+   <li><a href="/en/special.html">Special libraries</a></li> 
+   <li><a href="/en/groups.html">Groups and consortia</a></li> 
+   <li><a href="/en/partnerships.html">Partners</a></li> 
   </ul>
   
 
@@ -1056,12 +1031,12 @@ function checkClear(input) {
   
     <h3>News and events</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/news.en.html">Highlights</a></li> 
-   <li><a href="/news/latest-news.en.html">News</a></li> 
-   <li><a href="/events.en.html">Events</a></li> 
-   <li><a href="http://oclc.org/blog"><em>Next</em> blog</a></li> 
-   <li><a href="/news/media-kit.en.html"></a><a href="/events.en.html"></a><a href="/news/media-kit.en.html">Media kit</a></li> 
-   <li><a href="/content/forms/worldwide/en/sponsorship.html" target="_blank">Sponsorship requests</a></li> 
+   <li><a href="/en/news.html">Highlights</a></li> 
+   <li><a href="/en/news/latest-news.html">News</a></li> 
+   <li><a href="/en/events.html">Events</a></li> 
+   <li><a href="http://www.oclc.org/blog/main/"><em>Next</em> blog</a></li> 
+   <li><a href="/en/news/media-kit.html">Media kit</a></li> 
+   <li><a href="/content/forms/worldwide/en/sponsorship.html">Sponsorship requests</a></li> 
   </ul>
   
 
@@ -1084,16 +1059,16 @@ function checkClear(input) {
   
     <h3>Products</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/worldshare-management-services.en.html">WorldShare Management Services</a></li> 
-   <li><a href="/worldshare-metadata.en.html">WorldShare Metadata Services</a></li> 
-   <li><a href="/worldshare-ill.en.html">WorldShare Interlibrary Loan</a></li> 
-   <li><a href="/worldcat-discovery.en.html">WorldCat Discovery Services</a></li> 
-   <li><a href="/cataloging-subscription.en.html">OCLC Cataloging Subscription</a></li> 
-   <li><a href="/ezproxy.en.html">EZproxy</a></li> 
-   <li><a href="/dewey.en.html">Dewey Services</a></li> 
-   <li><a href="/illiad.en.html">ILLiad</a></li> 
-   <li><a href="/contentdm.en.html">CONTENTdm</a></li> 
-   <li><span class="small-gray-link"><a href="/services.en.html">All products and services »</a></span></li> 
+   <li><a href="/en/worldshare-management-services.html">WorldShare Management Services</a></li> 
+   <li><a href="/en/worldshare-metadata.html">WorldShare Metadata Services</a></li> 
+   <li><a href="/en/worldshare-ill.html">WorldShare Interlibrary Loan</a></li> 
+   <li><a href="/en/worldcat-discovery.html">WorldCat Discovery Services</a></li> 
+   <li><a href="/en/cataloging-subscription.html">OCLC Cataloging Subscription</a></li> 
+   <li><a href="/en/ezproxy.html">EZproxy</a></li> 
+   <li><a href="/en/dewey.html">Dewey Services</a></li> 
+   <li><a href="/en/illiad.html">ILLiad</a></li> 
+   <li><a href="/en/contentdm.html">CONTENTdm</a></li> 
+   <li><span class="small-gray-link"><a href="/en/services.html">All products and services »</a></span></li> 
   </ul>
   
 
@@ -1118,9 +1093,9 @@ function checkClear(input) {
   <ul class="no-bullets"> 
    <li><a href="/support/home.en.html">Support &amp; Training</a></li> 
    <li><a href="/research.html">OCLC Research</a></li> 
-   <li><a href="/content/developer/worldwide/en_us/home.html">Developer Network</a></li> 
+   <li><a href="/developer/home.en.html">Developer Network</a></li> 
    <li><a href="http://www.webjunction.org/">WebJunction</a></li> 
-   <li><a href="http://www.skipprichard.com/" target="_blank">President's Leadership Blog</a></li> 
+   <li><a href="http://www.skipprichard.com/">President's Leadership Blog</a></li> 
   </ul>
   
 
@@ -1135,10 +1110,10 @@ function checkClear(input) {
 
   
   
-    <p><img alt="OCLC has ranked in Computerworld's 100 Best Places to Work in IT every year since 2006." class="img-flt-right-nobrdr img-nobrdr" src="/content/dam/oclc/design-images/home-page/us-en/computerworld-2013.png"></p> 
+    <p><a href="/en/careers.html"><img src="/content/dam/oclc/design-images/home-page/ww/computerworld-2015.png" class="img-flt-right-nobrdr img-nobrdr" alt="OCLC has ranked in Computerworld's 100 Best Places to Work in IT every year since 2006."></a></p> 
   <h3>Careers</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/careers.en.html">About Careers</a></li> 
+   <li><a href="/en/careers.html">About Careers</a></li> 
    <li><a href="https://oclc.wd1.myworkdayjobs.com/OCLC_Careers">View open positions in the Americas</a></li> 
    <li><a href="https://oclc.wd1.myworkdayjobs.com/OCLC_EMEA_Careers">View open positions in Europe and Asia Pacific</a></li> 
   </ul>
@@ -1181,8 +1156,7 @@ function checkClear(input) {
 
   
   
-    <p><img src="/content/dam/oclc/design-images/home-page/oclc-logo-footer.png" alt="OCLC The world's libraries. Connected." class="img-nobrdr"></p> 
-  <p><a href="mailto:oclc@oclc.org">oclc@oclc.org</a><br> 614-764-6000<br> 800-848-5878 <span class="text-gray text-small">(USA / Canada only)</span></p>
+    <p><img src="/content/dam/oclc/design-images/home-page/footer-logo.png" alt="OCLC logo" class="img-nobrdr"></p>
   
 
 
@@ -1202,15 +1176,26 @@ function checkClear(input) {
 
   
   
-    <div class="copyright">
-   <p><a title="Read the OCLC copyright policy" href="/policies/copyright.en.html">© 2016 OCLC</a></p> 
-   <p><a title="View the OCLC and Affiliate Trademarks and Service Marks PDF" href="/policies/trademarks.en.html">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
-   <p>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href="/policies/cookies.en.html">Find out more.</a></p> 
-   <ul> 
-    <li><a href="/policies/privacy.en.html">Privacy policy</a></li> 
-    <li><a href="/policies/accessibility.en.html">Accessibility statement</a></li> 
-    <li><a href="/policies/security.en.html">ISO 27001 Certificate</a></li> 
-   </ul> 
+    <div style="padding: 10px 0 0 0;">
+   <div class="twitter-accounts" style="float: left; margin: 0 5px 0 0;">
+    <a href="http://twitter.com/oclc" title="Follow us on Twitter"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-twitter.png" alt="Twitter"></a>
+   </div> 
+   <div class="twitter-links" style="float: left; line-height: 14px; margin: 0 10px 0 0;">
+    <a href="http://twitter.com/oclc" title="Follow us on Twitter" style="font-size: 12px; color: #455560;">@OCLC</a>
+    <br> 
+    <a href="https://twitter.com/OCLC_ANZ" title="Follow OCLC Australia on Twitter" style="font-size: 12px; color: #455560;">@OCLC_ANZ</a>
+   </div> 
+   <div class="other-accounts" style="float: left;">
+    <a href="http://www.facebook.com/pages/OCLC/20530435726" title="Like us on Facebook"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-facebook.png" alt="Facebook" style="margin: 0 5px 0 0;"></a>
+    <a href="http://www.youtube.com/OCLCvideo" title="Watch videos on YouTube"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-youtube.png" alt="YouTube" style="margin: 0 5px 0 0;"></a>
+    <a href="https://www.linkedin.com/company/oclc" title="Connect with us on LinkedIn"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-linkedin.png" alt="LinkedIn" style="margin: 0 2px 0 0;"></a>
+    <a href="https://www.instagram.com/oclc_global/" title="Connect with us on Instagram"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-instagram.png" alt="Instagram" style="margin: 0 5px 0 0;"></a>
+    <a href="http://www.oclc.org/blog/main/" title="Read our blog"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-blog.png" alt="Next blog" style="margin: 0 5px 0 0;"></a>
+    <a href="/en/email/subscribe.html" title="Subscribe to email updates"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/footer/footer-mail.png" alt="Email" style="margin: 0 5px 0 0;"></a>
+   </div> 
+  </div> 
+  <div style="clear: both;">
+   &nbsp;
   </div>
   
 
@@ -1225,7 +1210,16 @@ function checkClear(input) {
 
   
   
-    <p style="clear: both; padding: 15px 0 0 0;"><a href="http://www.facebook.com/pages/OCLC/20530435726" title="Like us on Facebook"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/circle-icons/social-icon-facebook.png" alt="Facebook"></a> <a href="http://www.youtube.com/OCLCvideo" title="Watch videos on YouTube"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/circle-icons/social-icon-youtube.png" alt="YouTube"></a> <a href="http://twitter.com/oclc" title="Follow us on Twitter"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/circle-icons/social-icon-twittr.png" alt="Twitter"></a> <a href="/email/subscribe.en.html" title="Subscribe to email updates"><img class="img-nobrdr" src="/content/dam/common/images/social-icons/circle-icons/social-icon-email.png" alt="Email"></a></p>
+    <div class="copyright">
+   <p><a href="/en/policies/copyright.html" title="Read the OCLC copyright policy">© 2017 OCLC</a></p> 
+   <p><a href="/en/policies/trademarks.html" title="View the OCLC and Affiliate Trademarks and Service Marks PDF">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
+   <p>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href="/en/policies/cookies.html">Find out more about OCLC's cookie policy.</a></p> 
+   <ul> 
+    <li><a href="/en/policies/privacy.html">Privacy policy</a></li> 
+    <li><a href="/en/policies/accessibility.html">Accessibility statement</a></li> 
+    <li><a href="/en/policies/security.html">ISO 27001 Certificate</a></li> 
+   </ul> 
+  </div>
   
 
 
@@ -1288,16 +1282,15 @@ function checkClear(input) {
 
 </div>
 <div class="customjavascript section">
-<!-- Crazy Egg -->
 <script type="text/javascript">
+
+<!-- Crazy Egg -->
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/6913.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script> </div>
-<div class="customjavascript section">
-<!--Pardot-->
-<script type="text/javascript">
+ 
+<!-- Pardot -->
 piProfileId = 302;
 piAId = '48682';
 piCId = '9346';
@@ -1311,8 +1304,8 @@ piCId = '9346';
                if(window.attachEvent) { window.attachEvent('onload', async_load); }
                else { window.addEventListener('load', async_load, false); }
 })();
-</script>
-</div>
+
+</script></div>
 
 </div>
 </div>
@@ -1352,10 +1345,10 @@ document.write(unescape("%3Cscript src='" + s_code_js + "' language='JavaScript'
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 
-s.pageName = "/content/mainoclc/worldwide/en_us/policies/privacy"
+s.pageName = "/policies/privacy.html"
 s.channel = "Visitor tools"
 s.pageType = ""// "ERROR PAGE"
-s.prop1  = "Worldwide - english"
+s.prop1  = "English"
 s.prop2  = "en"
 s.prop3  = ""
 s.prop4  = ""//blogs
@@ -1365,12 +1358,12 @@ s.prop7  = ""
 s.prop8  = ""
 s.prop9  = "" //blogs namespace
 s.prop10 = "Top 500"
-s.prop11 = "2013 February 28"
+s.prop11 = "2016 December 08"
 s.prop12 = ""
 s.prop13 = ""
 s.prop14 = ""
 s.prop15 = ""
-s.prop16 = "Worldwide - english"
+s.prop16 = ""
 
 /* Conversion Variables */
 s.campaign= ""
