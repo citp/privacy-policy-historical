@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the line25.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054952id_/http%3A//line25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line25.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052213id_/https%3A//line25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Line25
 
-This Privacy Policy governs the manner in which Line25 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://line25.com](http://line25.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Line25.
+This Privacy Policy governs the manner in which Line25 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://line25.com](https://line25.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Line25.
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name and email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, although it may prevent them from engaging in certain Site related activities.
 
