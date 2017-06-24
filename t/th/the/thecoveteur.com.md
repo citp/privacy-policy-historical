@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823183032id_/http%3A//www.thecoveteur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624120011id_/http%3A//coveteur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Coveteur
+# Privacy Policy - Coveteur
 
-This Privacy Policy describes how The Coveteur Inc. (“we”/”us”) collects, stores, uses and distributes information when you visit our website, www.thecoveteur.com (the “Website”) and/or make purchases through our website or participate in contests offered by us. In addition to this Privacy Policy, you must read and agree to our Terms of Use when using the Website, including when ordering and buying goods online through the Website.
+This Privacy Policy describes how Coveteur Inc. (“we”/”us”) collects, stores, uses and distributes information when you visit our website, www.coveteur.com (the “Website”) and/or make purchases through our website or participate in contests offered by us. In addition to this Privacy Policy, you must read and agree to our Terms of Use when using the Website, including when ordering and buying goods online through the Website.
 
 **Personal Information: What we Collect.**
 
-We do not collect any personally identifiable information about you when you visit the Website unless you voluntarily provide this information, for example by creating an account, ordering products, submitting entries to contests, sending queries, comments or other feedback about the Website to us at http://thecoveteur.com/contact. Personal information collected in these cases may include your name, contact details, email address, telephone number, shipping and billing address, items purchased and other information which would be useful or necessary to process your orders (if applicable), provide customer support, allow you to use our website and send you communications such as newsletters (if you have opted to receive the same) and updates on your product orders.
+We do not collect any personally identifiable information about you when you visit the Website unless you voluntarily provide this information, for example by creating an account, ordering products, submitting entries to contests, sending queries, comments or other feedback about the Website to us at http://coveteur.com/contact. Personal information collected in these cases may include your name, contact details, email address, telephone number, shipping and billing address, items purchased and other information which would be useful or necessary to process your orders (if applicable), provide customer support, allow you to use our website and send you communications such as newsletters (if you have opted to receive the same) and updates on your product orders.
 
-It is always your choice whether to provide personal information to us and by doing so,  **you acknowledge and agree that you are giving us your consent to use that information to respond**  to your requests, to contact you and to provide information about our products, services and opportunities ( **see further:** _ **  Communications from The Coveteu**_r below). In relation to personal information provided by you in connection with a job listing, we will use that information for the purpose of assessing your application.
+It is always your choice whether to provide personal information to us and by doing so,  **you acknowledge and agree that you are giving us your consent to use that information to respond**  to your requests, to contact you and to provide information about our products, services and opportunities ( **see further:** _ **  Communications from Coveteu**_r below). In relation to personal information provided by you in connection with a job listing, we will use that information for the purpose of assessing your application.
 
 **Third Party Sources.**
 
@@ -22,7 +22,7 @@ We automatically collects certain statistical and other data about visitors use 
 
 The Website uses cookies to keep track of your shopping cart. We use cookies for other purposes such as site personalization. You can reject cookies and still browse the Website, however it will disable the ability for the site to recognize your cart, your account and any personalization efforts. We use this information to provide services to you, to measure and improve those services and to provide customer support. We may also use the information to detect and prevent unlawful activities.
 
-**Communications from The Coveteur.**
+**Communications from Coveteur.**
 
 Some messages from us are automatically sent when you open an account with us, place an order (including notification emails regarding the status of your order) or if we choose to email updates to this Policy or our Terms of Use. These communications cannot be opted out of by you unless you close your account. However, certain communications are optional (eg. if we make the option available to receive newsletters or product line updates from the Website) and can be opted-in and out of at your discretion. If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled ‘ _ **Amendment of this Policy**_ ’.
 
@@ -51,9 +51,3 @@ We will make every reasonable effort to keep your Personal Information accurate 
 **Contact Us.**
 
 If you have any questions or concerns regarding this privacy statement and/or our practices in relation to data, please contact us at customersupport@thecoveteur.com.
-
-Wake up to Louboutins with our newsletter.
-
-Sign up Already!
-
-It's the internet equivalent of a friendship bracelet.
