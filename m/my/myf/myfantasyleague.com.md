@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043539id_/http%3A//home.myfantasyleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624063022id_/http%3A//home.myfantasyleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyFantasyLeague.com
 
@@ -43,4 +43,4 @@ How You Can Correct Your Information:**
 | You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
 **  
 How To Contact Us:**  
-| Should you have other questions or concerns about these privacy policies, please fill out our [support form](http://www03.myfantasyleague.com/2016/support?SHOWFORM=1).
+| Should you have other questions or concerns about these privacy policies, please fill out our [support form](http://www03.myfantasyleague.com/2017/support?SHOWFORM=1).
