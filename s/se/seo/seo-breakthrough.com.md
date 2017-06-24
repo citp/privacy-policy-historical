@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-breakthrough.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126144137id_/http%3A//seo-breakthrough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-breakthrough.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624071017id_/http%3A//seo-breakthrough.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — SEO BreakThrough
 
