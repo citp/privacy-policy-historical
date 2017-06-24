@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xs-kw.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130164824id_/http%3A//www.xs-kw.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-kw.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624140145id_/http%3A//www.xs-kw.com/t/PrivacyInfo) for the most accurate reproduction.*
 
 # XS Kuwait. Privacy policy
 
