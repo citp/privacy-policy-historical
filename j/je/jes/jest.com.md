@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jest.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621013533id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jest.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624073511id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - CollegeHumor
 
@@ -110,7 +110,7 @@ United States of America
 
 content@collegehumor.com
 
-© 2007 IAC/InterActiveCorp. All rights reserved.
+2007 IAC/InterActiveCorp. All rights reserved.
 
 ### LINKED INFORMATION
 
@@ -122,7 +122,7 @@ Through the use of a cookie, we also may automatically collect information about
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site.These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site.These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). You may opt out of mobile ad targeting by following the instructions posted [here](https://support.apple.com/en-us/HT202074) (for iOS) and [here](https://support.google.com/ads/answer/2662922?hl=en) (for Android).
 
 Web Beacons:
 
