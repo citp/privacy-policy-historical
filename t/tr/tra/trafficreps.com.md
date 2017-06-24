@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the trafficreps.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficreps.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625010016id_/http%3A//www.traffichaus.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Traffic Haus
 
 ## Privacy Policy
 
-We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the [terms and conditions](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/tos.php) surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the [TrafficHaus](http://www.traffichaus.com/) website that you were viewing when you clicked through to this policy, which is operated directly by us.
+We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the [terms and conditions](https://web.archive.org/web/20170625010016id_/http%3A//www.traffichaus.com/tos.php) surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the [TrafficHaus](http://www.traffichaus.com/) website that you were viewing when you clicked through to this policy, which is operated directly by us.
 
 ### What information does Traffic Haus collect?
 
 
 
 
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our websites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, participation in message boards, and use of our Services (as defined in our [Terms of Use](https://web.archive.org/web/20160529200036id_/http%3A//traffichaus.com/tos.php)) in general.   
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our websites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, participation in message boards, and use of our Services (as defined in our [Terms of Use](https://web.archive.org/web/20170625010016id_/http%3A//www.traffichaus.com/tos.php)) in general.   
 
 
 We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, when you provide it to us, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
