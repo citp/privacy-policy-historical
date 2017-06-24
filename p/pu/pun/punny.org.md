@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punny.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120626id_/http%3A//www.punny.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punny.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624021431id_/http%3A//www.punny.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Punny Money
 
