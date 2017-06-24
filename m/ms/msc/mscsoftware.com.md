@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127110549id_/http%3A//www.mscsoftware.com/node/77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043634id_/http%3A//www.mscsoftware.com/node/77) for the most accurate reproduction.*
 
 # MSC Software Online Privacy Statement
 
@@ -78,7 +78,7 @@ E-Mail: [dataprivacy@mscsoftware.com](mailto:dataprivacy@mscsoftware.com)
 If you are subject to the European Commission's Directive on Data Protection and do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed you can then contact the competent European Data Protection Authority (DPA). The DPA will serve as a liaison with MSC.Software to resolve your concerns. Information about complaint handling of DPAs is available at: <http://circa.europa.eu/Public/irc/secureida/safeharbor/home>.
 
 **_Contacting Our Web Site_**  
-If you have questions, comments, or concerns, or wish to update or change any personal information submitted on this Site, or have any questions regarding our Privacy Statement, you should first contact us by using our [Web form](https://web.archive.org/web/20161127110549id_/http://www.mscsoftware.com/page/www.mscsoftware.com/contact-msc-software).
+If you have questions, comments, or concerns, or wish to update or change any personal information submitted on this Site, or have any questions regarding our Privacy Statement, you should first contact us by using our [Web form](https://web.archive.org/contact-msc-software).
 
 To find the MSC.Software subsidiary in your country or region, please refer to: <http://www.mscsoftware.com/locations/>.
 
