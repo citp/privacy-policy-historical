@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204133105id_/http%3A//www.tesco.ie/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624090039id_/http%3A//www.tesco.ie/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies Policy- Tesco.ie
 
-We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. [Find out more.](http://www.tesco.ie/help/privacy-and-cookies/)
+We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. [Find out more.](https://www.tesco.ie/help/privacy-and-cookies/)
 
 Tesco.ie ("the Website") is owned and operated by Tesco Ireland Limited, part of the Tesco Group. This policy, together with our Terms and Conditions, explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our Terms and Conditions carefully; by accessing the Website you confirm to have understood and agreed to them.
 
