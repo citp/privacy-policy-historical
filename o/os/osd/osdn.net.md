@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229083430id_/https%3A//osdn.net/docs/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624115809id_/https%3A//osdn.net/docs/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - OSDN Docs (English) Wiki - OSDN Docs (English) - OSDN
 
