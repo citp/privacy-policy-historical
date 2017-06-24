@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geolog.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116220812id_/http%3A//www.geolog.com/legal-advice/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolog.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624061010id_/http%3A//www.geolog.com/legal-advice/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
