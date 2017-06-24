@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203065359id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624130342id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
@@ -36,9 +36,7 @@ If you would like more information about this practice and to know your choices 
 
 Some of our advertising partners may use cookies on our site. Our advertising partners include:  
 <http://www.google.com/doubleclick/>  
-<http://affiliates.sideshowtoy.com/>  
-<http://affiliate-program.amazon.com/>  
-<http://www.lijit.com/>
+<http://affiliate-program.amazon.com/>
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
@@ -57,8 +55,6 @@ By using this site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**  
 If you require any more information or have any questions about this Privacy Policy, please feel free to contact us at:  
 First Showing LLC  
-[www.FirstShowing.net](http://www.firstshowing.net/about/)  
-&#40&#55&#49&#57&#41&#32&#57&#54&#52&#45&#53&#57&#57&#53  
-[&#109&#111&#118&#105&#101&#115&#64&#102&#105&#114&#115&#116&#115&#104&#111&#119&#105&#110&#103&#46&#110&#101&#116](https://web.archive.org/web/20161203065359id_/http%3A//www.firstshowing.net/&#109&#97&#105&#108&#116&#111&#58&#109&#111&#118&#105&#101&#115&#64&#102&#105&#114&#115&#116&#115&#104&#111&#119&#105&#110&#103&#46&#110&#101&#116)
+[www.FirstShowing.net](http://www.firstshowing.net/about/)
 
-_This document was last updated on June 24th, 2014_.
+_This document was last updated on January 31, 2017_.
