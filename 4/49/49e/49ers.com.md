@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119232558id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624134244id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # 49ers.com | Privacy Policy
 
@@ -6,9 +6,9 @@ Effective Date: November 11, 2015
 
 The San Francisco 49ers organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our website and online services located at 49ers.com, including any mobile application or version of the site (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, you cannot use the Services. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=6a7c24c1-ce4b-46e1-8ae9-445c6980d711 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=05c305d0-08cd-4d4c-aa04-5c8bea3126ca)
 
-We have received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **
 
