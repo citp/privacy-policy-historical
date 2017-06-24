@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219164247id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624162708id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MediaMath
 
 ## **Privacy Policy**
 
-_Effective as of September 30, 2016_
+_Effective as of March 28, 2017_
 
 ### **Introduction**
 
@@ -18,7 +18,7 @@ MediaMath is committed to protecting the privacy of consumers when we process in
 
 MediaMath is an active member of the industry associations that govern the policies around online consumer privacy in the context of interest-based advertising, including: the Digital Advertising Alliance (DAA) in the US, EU, and Canada; the Direct Marketing Association in the US and the UK; the Interactive Advertising Bureau (IAB) in Australia, Brazil, Canada, Europe, Germany, Italy, Mexico, Singapore, the US and the UK; and the Network Advertising Initiative (NAI) ([www.networkadvertising.org](http://www.networkadvertising.org/)). MediaMath complies with the DAA Self-Regulatory Principles for Online Behavioral Advertising and their Application to the Mobile Environment, and the 2015 NAI Code of Conduct. We believe that these programs’ principles help protect individual consumer privacy.
 
-[](http://www.networkadvertising.org/) | [](http://www.iab.net/) | [](http://thedma.org/) | [](http://www.edaa.eu/participating-companies/) | [](http://www.youradchoices.com/) | [](https://www.tagtoday.net/)  
+[](http://www.networkadvertising.org/) | [](http://www.iab.net/) |    [](http://thedma.org/) |    [](http://www.edaa.eu/participating-companies/) |    [](http://www.youradchoices.com/) |    [](https://www.tagtoday.net/)  
 ---|---|---|---|---|---  
   
 ### **The MediaMath Platform**
@@ -37,7 +37,7 @@ We and our clients and partners use the information we collect to create data se
 
 We also receive pseudonymous information from third parties, when they choose to provide it to us. This information may include identifiers (like mobile advertising IDs) and interest-based advertising data tied to those identifiers, including segments provided by third-party data providers for our clients to use in targeting ads through the Platform. MediaMath does not use this data to personally identify you.
 
-We may assign a MediaMath ID to your browser, computer or mobile device when we serve an ad to it or we identify it on a client’s website or mobile app. The MediaMath ID may be stored in a cookie on your computer or mobile device. It helps us understand your interests and deliver more relevant ads to you. The MediaMath ID and other information collected via the Platform can also help our advertising clients measure your activity on their sites and determine the effectiveness of advertisements delivered via the Platform. This information can then be used by our advertising clients to better cater to your needs and deliver ads to you for the types of products and services in which you might be interested. None of these technologies enable us to personally identify an individual. Instead, they enable the Platform to determine within a reasonable level of confidence that a computer or device is the same as one with which the Platform has previously interacted. For instance, the Platform can determine that a computer or device to which we served an ad on Monday may be the same computer or device for which we observed a purchase on Tuesday.
+We may assign a MediaMath ID to your browser, computer or mobile device when we serve an ad to it or we identify it on a client’s website or mobile app. The MediaMath ID may be stored in a cookie on your computer or mobile device. It helps us understand your interests and deliver more relevant ads to you. The MediaMath ID and other information collected via the Platform can also help our advertising clients measure your activity on their sites and determine the effectiveness of advertisements delivered via the Platform. This information can then be used by our advertising clients to better cater to your needs and deliver ads to you for the types of products and services in which you might be interested. None of these technologies enable us to personally identify an individual. Instead, they enable the Platform to determine within a reasonable level of confidence that a computer or device is the same as one with which the Platform has previously interacted. For instance, the Platform can determine that a browser or device to which we served an ad on Monday may be the same browser or device for which we observed a purchase on Tuesday.
 
 In some cases, MediaMath is able to infer within a reasonable probability that a particular computer or mobile device should be associated with the same MediaMath ID that we have previously assigned to another computer or mobile device. In other words, in such cases we are able to infer that a device (e.g. your computer) and another device (e.g. your smartphone) are used by the same user. Where we are able to make such inferences, we may use this information to deliver targeted ads across multiple computers or devices, and to improve the services we provide to our clients. This is sometimes referred to as cross-device advertising.
 
@@ -70,7 +70,7 @@ Cookies set via the Platform expire within 13 months. MediaMath also expires wit
 
 #### **Opt-Out**
 
-You may opt out from receiving MediaMath interest-based advertising at any time through one of the ways described below. If you wish to opt out of MediaMath tracking and interest-based advertising on both internet browsers and mobile applications, you need to opt out separately for each browser or device via the methods described below.
+You may opt out from MediaMath tracking and interest-based advertising at any time through one of the ways described below. If you wish to opt out of MediaMath tracking and interest-based advertising on both internet browsers and mobile applications, you need to opt out separately for each browser or device via the methods described below.
 
 **Two Reasons You May Not Want to Opt Out**
 
@@ -81,18 +81,20 @@ Without interested-based advertising, you will still see ads, but those ads are 
 There is also a second benefit to you: companies that create websites and apps rely on the revenue from interest-based advertising to support the rich array of content they produce. Without that revenue, the content would either be unavailable or consumers would have to pay for it.
 
 **What does it mean to opt-out?**  
-In general, “opting out” means that you don’t want MediaMath to deliver ads that are targeted to your interests on your computer or device. If you use multiple browsers, computers or mobile devices and do not wish to receive MediaMath interest-based advertising on any of them, you must opt out from each browser, computer, and mobile device individually. Please note that if cookies are not enabled in your browser, or if you use certain ad-blocking tools, our opt-out mechanism may not work properly. Please also note that deleting your cookies does not opt you out.
+In general, “opting out” means that you want MediaMath to limit the information it collects and stores about your computer or device and to not target ads that are based on your interests to your browser or device. Your opt-out is only applicable to the MediaMath Platform and does not opt you out from platforms provided by third-party companies. However, you can out from both MediaMath and many third-party companies at once; to do so, please see “Other ways to opt out” below. 
 
-**Opt out of interest-based advertising on this browser (if using a browser)**  
-Your current interest-based advertising status with MediaMath in this web browser is:
+If you use multiple browsers, computers or mobile devices and wish to limit the information MediaMath collects and stores or do not wish to receive MediaMath interest-based advertising on any of them, you must opt out from each browser, computer, and mobile device individually. Please note that if cookies are not enabled in your browser, or if you use certain ad-blocking tools, our opt-out mechanism may not work properly. Please also note that deleting your cookies does not opt you out.
 
-When you opt out, we record the opt-out on our servers and in browser environments will attempt to place an HTTP opt-out cookie onto your computer or device. When you opt out, MediaMath stops serving interest-based advertising in that browser. In many instances, even if you delete your cookies, we are able to maintain a record of your opt-out on our servers. _**Nonetheless, please note that if you clear your cookies, or if you use a different browser or device, you may need to renew your opt-out choice.**_
+**Opt out this browser (if using a browser)**  
+Your current opt-out status with MediaMath in this web browser is: 
 
-**Opt out of mobile application-based data collection**
+When you opt out, we record the opt-out on our servers and in browser environments we will attempt to place an HTTP opt-out cookie onto your computer or device. When you opt out, MediaMath will collect and store information from your browser or device only as needed to honor your opt-out and for limited research and development purposes to improve our browser- and device-recognition technology, which also helps to improve our ability to honor your opt-out. When you opt out, MediaMath also stops targeting interest-based advertising to that browser. In many instances, even if you delete your cookies, we are able to maintain a record of your opt-out on our servers. _**Nonetheless, please note that if you clear your cookies, or if you use a different browser or device, you may need to renew your opt-out choice.**_
 
-You may opt out of interest-based advertising in mobile app environments using the “AppChoices” mobile application, which you can download to your mobile device from your App Store or via the Digital Advertising Alliance App Choices page [here](http://www.aboutads.info/appchoices).
+**Opt out in the mobile application environment**
 
-_**Please note that you will still see ads if you opt out.** _The ads delivered via MediaMath will just not be as relevant to you. When you opt out, MediaMath stops serving interest-based advertising in mobile apps on that device.
+You may opt out in mobile app environments using the “AppChoices” mobile application, which you can download to your mobile device from your App Store or via the Digital Advertising Alliance AppChoices page [here](http://www.aboutads.info/appchoices).
+
+_**Please note that you will still see ads if you opt out.** _The ads delivered via MediaMath will just not be as relevant to you. When you opt out, MediaMath will collect and store information from your device only as needed to honor your opt-out and for limited research and development purposes to improve our device-recognition technology, which also helps to improve our ability to honor your opt-out. When you opt out, MediaMath also stops serving interest-based advertising in mobile apps on that device. 
 
 **Other ways to opt out**
 
@@ -106,7 +108,7 @@ You may learn more about interest-based advertising and opt out of interest-base
 
 
 
-**Other ways to exercise choice**
+**Other ways to limit ad tracking in the mobile application environment**
 
 You may also limit ad tracking in mobile app environments on your device. For the most effective and up-to-date methods for doing so, you should consult instructions provided by those device manufacturers. We offer the following information solely for informational purposes, and we cannot guarantee that the methods below are the most current:
 
@@ -115,7 +117,7 @@ You may also limit ad tracking in mobile app environments on your device. For th
 
 
 
-Where MediaMath receives a signal to limit ad tracking, we will not serve interest-based advertising in the mobile app environment of that device.
+Where MediaMath receives a signal to limit ad tracking, we will collect and store information from your device only as needed to honor your choice and for limited research and development purposes to improve our device-recognition technology, which also helps to improve our ability to honor your choice. Where MediaMath receives a signal to limit ad tracking, MediaMath also will not serve interest-based advertising in the mobile app environment of that device.
 
 If you have questions about how to opt out or limit mobile tracking, please contact us at [privacy@mediamath.com](mailto:privacy@mediamath.com).
 
@@ -234,6 +236,3 @@ By email at [privacy@mediamath.com](mailto:privacy@mediamath.com) or by post to 
 
 
 By email at [privacy@mediamath.com](mailto:privacy@mediamath.com) or by post to MediaMath, Inc, Attn: Alice Lincoln, 4 World Trade Center, 45th Floor, New York, NY 10007.
-
-  
-
