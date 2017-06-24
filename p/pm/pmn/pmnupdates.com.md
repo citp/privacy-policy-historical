@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmnupdates.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202115644id_/http%3A//www.pmnupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmnupdates.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624100632id_/http%3A//www.pmnupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PMN Updates
 
