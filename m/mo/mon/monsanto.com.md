@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221113937id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051247id_/https%3A//monsanto.com/privacy-policy) for the most accurate reproduction.*
 
-# Monsanto | Monsanto Privacy Policy
+# Monsanto Privacy Policy
 
 Monsanto Company values the privacy of individuals who visit the web sites which are operated throughout the world by Monsanto or its subsidiaries and adheres to the privacy standards which have been adopted by the countries in which Monsanto companies operate. This statement sets forth the important information which individuals who visit these sites need to know about how Monsanto companies collect and use personal information from web site visitors.
 
