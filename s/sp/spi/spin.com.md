@@ -1,84 +1,55 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002451id_/http%3A//www.spinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624111623id_/http%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
 
-# SpinMedia - Defining Culture. Addicting Audiences
+# Privacy Policy | SPIN
 
-PRIVACY POLICY & CONSUMER EDUCATION
+Effective Date: 12/22/2016
 
-It is our policy to respect the privacy of the people who access and use our network of websites, including the site you linked from (the “Site”) and the services we provide to you on the Site (the “Services”). Your accessing and continued use of our Site and Services constitutes your consent to and acceptance of the terms and conditions of this Privacy Policy. This Privacy Policy applies to information that you provide to us through the Site and our Services, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to SpinMedia and any of its affiliates or affiliated websites.
+This Privacy Policy is applicable to this site and any other site that may be operated by or for Prometheus Global Media (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use (link to site ToU), which govern the basic operation of the Websites.
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+1\. The Information We Collect and Use
 
-## INFORMATION COLLECTION AND USE
+A. Non-Personally Identifiable Information.  
+When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.
 
-When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (“Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
+We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after thirty (30) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.  
+We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
 
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please click here.
 
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (“Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site. We use this information to monitor and analyze use of the Site and Services, for technical administration, to increase functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve information appropriate to your interests.
+B. Personally Identifiable Information.  
+We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use [make link], or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Prometheus Global Media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.
 
-We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
+We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.  
+From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.
 
-### CHILDREN'S PRIVACY
+We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Prometheus Global Media at 1-212-493-4100 to request that we not share your Personally Identifiable Information with third parties.
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [privacy@spinmedia.com](mailto:privacy@spinmedia.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.
 
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+2\. Data Security
 
-### Consumer Education Related to Social Networking
+Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.  
+We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.
 
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+3\. Children
 
-<http://onguardonline.gov/socialnetworking.html>  
-<http://onguardonline.gov/socialnetworking_youth.html>
+This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact [contact@bbthr.com](mailto:contact@bbthr.com)
 
-## INFORMATION SHARING AND DISCLOSURE
+4\. Access to your information
 
-We will not disclose to any unauthorized third party a member’s name or contact information. We will also not monitor, edit or disclose the contents of any member’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on us; (2) protect and defend our rights or property; (3) act under exigent circumstances to protect the personal safety of our users or the public; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with our servers/software/service.
+You may contact us at [contact@bbthr.com](mailto:contact@bbthr.com) if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
 
-### Members
+5\. How To Contact Us
 
-In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.
+You may contact Prometheus Global Media regarding our privacy practices at the following address:  
+Prometheus Global Media  
+340 Madison Avenue-6th Floor  
+New York, New York 10173  
+1-212-493-4100  
+[contact@bbthr.com](mailto:contact@bbthr.com)
 
-Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.
+6\. Changes To The Privacy Policy
 
-### Aggregate Information and Non-Identifying Information.
-
-We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
-
-### Service Providers.
-
-We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-### Business Transfers.
-
-We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-
-## INVITE-A-FRIEND
-
-If you choose to invite your friends to use our Services, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. We store this information to send this one-time invitation, and to track the success of this referral feature.
-
-## CHANGING OR DELETING YOUR INFORMATION
-
-All members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
-
-## SECURITY
-
-We employ administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure including encrypting your communication by utilizing Secure Sockets Layer (SSL) software.
-
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-## INTERNATIONAL TRANSFER
-
-Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-## LINKS TO OTHER SITES
-
-The Site and Services may contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-## CONTACT US
-
-If you have any questions about this Privacy Policy you can contact us at **[contact@spinmedia.com](mailto:contact@spinmedia.com)**. You may also contact us by mail to SpinMedia, 276 Fifth Ave, 7th Floor, New York, NY 10001.
-
-**LAST UPDATED** : 03/25/2013
+This Privacy Policy is effective as of 12/22/2016. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
