@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redboxinstant.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050342id_/http%3A//www.redbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redboxinstant.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044718id_/http%3A//www.redbox.com/privacy) for the most accurate reproduction.*
 
 # Redbox Privacy Policy | Redbox customer Privacy Policy
 
@@ -34,7 +34,7 @@ Please review this Privacy Policy carefully. In addition, please review the [ *
   * HOW WE RESPOND TO “DO NOT TRACK” SIGNALS
   * CHANGING YOUR INFORMATION
   * YOUR CHOICES
-  * Marketing Emails and Mobile Messages
+  * MARKETING EMAILS AND MOBILE MESSAGES
   * YOUR CALIFORNIA PRIVACY RIGHTS
   * THIRD PARTY CONTENT, SITES & DEVICES 
   * SECURITY
@@ -122,7 +122,7 @@ With your consent, we may send promotional and non-promotional push notification
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
 California Civil Code Section 1798.83 permits residents of California to request certain details about how their personal information has been shared during the calendar year with third parties for those third-parties’ own direct marketing purposes, unless the business permits California residents to opt in to, or opt out of, this type of sharing. Redbox qualifies for this alternative option. As noted above, we will not share personal information about you with third parties for their own direct marketing purposes if you do not opt-in, or if you choose to opt-out, at the time Redbox offers you that choice.
 
-If you are a California resident and you have questions about our practices with respect to sharing personal information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request by email to [Questions@redbox.com](mailto:Questions@redbox.com) or write us at Attention Legal, Redbox Automated Retail, LLC, 1 Tower Lane, Suite 900, Oakbrook Terrace, Illinois 60181. You must put the statement “Your California Privacy Rights” in the subject field of your email or in the address line of your envelope. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a California resident and you have questions about our practices with respect to sharing personal information with third parties for their direct marketing purposes and your ability to exercise choice, please write us at Attention Legal, Redbox Automated Retail, LLC, 1 Tower Lane, Suite 900, Oakbrook Terrace, Illinois 60181. You must put the statement “Your California Privacy Rights” in the subject field of your email or in the address line of your envelope. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 **THIRD PARTY CONTENT, SITES & DEVICES **  
 The Redbox Platforms may contain content that is served by someone else or links to third-party content or web sites that Redbox does not control. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding relationship. You may also be able to access the Redbox Platforms through third-party devices and platforms, such as a set-top box, internet-connected TV, or similar device. The third-party operators and content providers may send their own cookies to your device, they may independently collect data or solicit Personal Information, and may or may not have their own published privacy policies. Redbox is not responsible for the privacy practices employed by any third party.
