@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209060729id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624101457id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
-Effective date: September 24, 2004 • Last reviewed and updated October 31, 2016
+Effective date: September 24, 2004 • Last reviewed and updated December 12, 2016
 
-[](http://privacy.truste.com/privacy-seal/Medallia,-Inc-/validation?rid=97940707-77d5-495c-94ba-4b8bf361f4ee "TRUSTe")
-
-This Privacy Statement applies to [www.medallia.com]() owned and operated by Medallia, Inc (“Medallia”). Medallia is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy. The policy complies with the privacy principles of TRUSTe, in which Medallia is a member.
+This Privacy Statement applies to [www.medallia.com]() owned and operated by Medallia, Inc (“Medallia”). Medallia is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy.
 
 For the purposes of this policy, Medallia defines the term “client” as a business with which Medallia has an established relationship, “customer” as a customer of a Medallia client, and “respondent” as an individual who takes Medallia’s surveys independent of Medallia’s clients.
 
@@ -94,12 +92,6 @@ From time to time, Medallia may contract with third parties to perform functions
 
 We understand the importance of data security to our customers—many of whom operate in highly regulated industries like finance, healthcare, and energy; as such, we maintain industry-leading security practices to protect their data. Such practices include storing data in Tier III, SSAE-16 and/or ISO 27001 certified data centers, hardening our systems according to industry best practices, segregating customer data, continuously scanning and monitoring our network, and role-based access control. We have successfully undergone a SOC 2 audit and a HIPAA assessment. For more details, see an overview of how we have built security at Medallia – www.medallia.com/trust
 
-**Enforcement**
-
-The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, //www.medallia.com and does not cover information that may be collected through our mobile application and our service platform. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at  _https://feedback-form.truste.com/watchdog/request_.
-
 **Legal Disclaimer**
 
 When requested by legal authorities to disclose personally identifiable information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. However, Medallia may be required by law to disclose personally identifiable information where judicial or other governmental subpoenas, warrants, or orders are properly issued or if the Medallia reasonably believes that use or disclosure is necessary to protect its rights. Individuals’ unsubscribe option in no way limits Medallia’s use, disclosure or distribution of personally-identifiable information to the extent such use, disclosure or distribution is required by law, court order or other valid legal process.  Medallia will communicate with the affected client as soon as possible, unless prohibited by law or court order.
@@ -134,4 +126,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 **Privacy Contact**
 
-If you have any questions or comments about this privacy policy or the practices of this site, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
+If you have any questions or comments about this privacy policy or the practices of this site, or unresolved privacy and data use concerns, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
