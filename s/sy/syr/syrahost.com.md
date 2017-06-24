@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the syrahost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055850id_/https%3A//www.crazydomains.com.au/privacy/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syrahost.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624191247id_/https%3A//www.crazydomains.com.au/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of Service | CrazyDomains.com.au
 
 This privacy policy applies to www.crazydomains.com.au owned and operated by DreamScape Networks FZ-LLC ("DreamScape", "Us", or "We"). This privacy policy describes how DreamScape Networks FZ-LLC collects and uses the personal information you provide on our website: www.crazydomains.com, www.crazydomains.com.au, www.crazydomains.co.nz, www.crazydomains.co.uk, www.crazydomains.in, www.crazydomains.ae, www.crazydomains.hk, www.crazydomains.ph, www.crazydomains.my, www.crazydomains.id, www.crazydomains.sg ("website"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-DreamScape Networks FZ-LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this website, and does not cover mobile applications.
 
 This policy governs the use and disclosure by us of personal information of our users and outlines how users can access that information. It is only applicable on the assumption that:
 
@@ -14,14 +10,14 @@ This policy governs the use and disclosure by us of personal information of our 
 
 We collect or maintain the following personal information about our users:
 
-  * Name;
-  * Address;
-  * Telephone Number;
-  * Email Address;
-  * Username & Password;
-  * Credit Card details (if applicable), including a protected scan/photo of the card;
-  * Photo/Official Identification;
-  * Business/entity/organisation details and identification.
+  * Name
+  * Address
+  * Telephone Number
+  * Email Address
+  * Username & Password
+  * Credit Card details (if applicable)), including a protected scan/photo of the card
+  * Photo/Official Identification
+  * Business/entity/organisation details and identification
 
 
 
@@ -31,17 +27,17 @@ This information will be collected with your knowledge and participation. If you
 
 We use cookies for to remember users' settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-We, and/or our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, tags, and scripts to analyze trends, administering the website, track users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
+We, and/or our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, tags, and scripts to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
 
 The third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Shared Objects (Flash cookies) to store content information and preferences. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We do link this automatically-collected data to personal information. IP addresses are tied to personal information for the purposes of logging site actions (updating information, buying products, etc.) so that in the event of a bug or a dispute, we can review the actions taken that led to the outcome and attempt to reproduce the issues. 
+We do link this automatically-collected data to personal information. IP addresses are tied to personal information for the purposes of logging site actions (updating information, buying products, etc) so that in the event of a bug or a dispute, we can review the actions taken that led to the outcome and attempt to reproduce the issues.
 
 7.3 Behavioural targeting
 
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests.
 
 7.4 Sensitive information
 
@@ -51,7 +47,7 @@ The personal information we collect may be used for the following purposes:
 
   * To administer our network;
   * For billing purposes;
-  * If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the account settings in your members console or you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com);
+  * If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the account settings in your members console or you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com); or
   * For any other purpose for which you would reasonably expect your personal information to be used.
 
 
@@ -66,12 +62,12 @@ Your personal information may be disclosed, and you hereby irrevocably consent t
   * To companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us;
   * Under compulsion of law, for example if a warrant or court order is received or such as to comply with a subpoena, or similar legal process;
   * To lessen or prevent a serious and imminent threat to an individual's life or health;
-  * If DreamScape Networks FZ-LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
-  * To you or with your consent.
+  * If DreamScape Networks FZ, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; or
+  * To you or with your consent,
 
 
 
-Otherwise, we will use reasonable endeavours to avoid the disclosure of your personal information, save that aggregated demographic information may be disclosed so long as the information is unable to identify you or any other individual.
+Otherwise we will use reasonable endeavours to avoid the disclosure of your personal information, save that aggregated demographic information may be disclosed so long as the information is unable to identify you or any other individual.
 
 7.6 Accessing your personal information
 
@@ -83,16 +79,16 @@ Access of your personal information may be refused if:
 
   * Providing access would pose a serious and imminent threat to life or health of a person;
   * Providing access would create an unreasonable impact on the privacy of others;
-  * The request is frivolous and vexatious;
+  * The request is frivolous and vexatious; or
   * Denial of access is authorised or required by law.
 
 
 
 7.8 Data quality
 
-We will use all reasonable endeavours to ensure the accuracy and quality of the information collected about you. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate your account by making the change on our member information page or by emailing us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com). Alternatively, you can contact us via other avenues specified on our [Contact Us](http://www.crazydomains.com.au/contact/) page. Should personal information that you know has been collected about you change, it is your responsibility to bring the changes to our attention.
+We will use all reasonable endeavours to ensure the accuracy and quality of the information collected about you. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate your account by making the change on our member information page or by emailing us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com). Alternatively, you can contact us via other avenues specified on our [Contact Us](https://www.crazydomains.com.au/contact/) page. Should personal information that you know has been collected about you change, it is your responsibility to bring the changes to our attention.
 
-We will retain your information for as long as your account is active or as needed to provide you services. Deactivation of your account will not delete your personal information from our database entirely. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. Deactivation of your account will not delete your personal information from our database entirely We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 7.9 Data security
 
@@ -108,7 +104,7 @@ For .ae domain registrations please see .aeDA's WhoIs Data Collection and Displa
 
 7.11 Links to 3rd party sites
 
-Our Site includes links to other websites whose privacy practices may differ from those of DreamScape Networks FZ-LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Our Site includes links to other websites whose privacy practices may differ from those of DreamScape Networks FZ, LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 7.12 Social media widgets
 
@@ -120,7 +116,7 @@ You can import contacts from your email account address book(s) to invite your c
 
 7.14 Use of Non-personal information
 
-You acknowledge and agree that any testimonials or feedback you provide to us may be used for training and/or marketing purposes. We reserve the right to use any testimonials or feedback for any purpose at our sole discretion. You acknowledge and agree that any feedback you provide may be shared with third parties via social media and associated programs. 
+You acknowledge and agree that any testimonials or feedback you provide to us may be used for training and/or marketing purposes. We reserve the right to use any testimonials or feedback for any purpose at our sole discretion. You acknowledge and agree that any feedback you provide may be shared with third parties via social media and associated programs.
 
 You acknowledge that you relinquish any proprietary rights you may hold over information, data, or opinions that you provide to us by way of a testimonial, complaint, or feedback.
 
@@ -128,7 +124,7 @@ If you wish to update or delete your testimonial or feedback, you can contact us
 
 7.15 Changes to this policy
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 7.16 Contact us
 
