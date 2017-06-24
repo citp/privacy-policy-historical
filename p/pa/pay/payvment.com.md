@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050233id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070240id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,7 @@ Ecwid.com may contain links to third-party websites. Ecwid is not responsible 
 
 ## Privacy Shield
 
-Ecwid complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Ecwid has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
-
-## US-Swiss Safe Harbor
-
-Ecwid complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  Ecwid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+Ecwid complies with the EU-US and US-Swiss Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecwid has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 ## Notice
 
@@ -126,7 +122,7 @@ Ecwid posts a list of users and testimonials on our user interfaces, includi
 
 ## Accessing, Reviewing and Changing Your Personal Information
 
-If you are registered to receive the Services, you have the right to access, review and modify your personal information at any time by logging into your Profile page located at [https://my.ecwid.com](https://my.ecwid.com/). If you cannot access personal information collected by Ecwid by the aforeging link or through the Ecwid services, you may contact Ecwid at the address below and Ecwid will respond to requests to access or edit your personal information within thirty (30) days.
+If you are registered to receive the Services, you have the right to access, review and modify your personal information at any time by logging into your Profile page located at [https://my.ecwid.com](https://my.ecwid.com/). If you cannot access personal information collected by Ecwid by the a foregoing link or through the Ecwid services, you may contact Ecwid at the address below and Ecwid will respond to requests to access or edit your personal information within thirty (30) days.
 
 We may delete personal information when we no longer need it for the purposes we described earlier. We may retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent the recurrence of fraud or other illegal or improper activity.
 
@@ -136,13 +132,9 @@ To prevent unauthorized access, promote data security, and encourage appropria
 
 ## Enforcement
 
-In compliance with the EU-US Privacy Shield Principles, Ecwid commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Ecwid at [legal@ecwid.com.](mailto:legal@ecwid.com)
+In compliance with the EU-US and US-Swiss Privacy Shield Principles, Ecwid commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Ecwid at [legal@ecwid.com.](mailto:legal@ecwid.com)
 
-Ecwid has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Ecwid is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
-
-In compliance with the US-Swiss Safe Harbor Principles, Ecwid commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Ecwid at [legal@ecwid.com.](mailto:legal@ecwid.com).
-
-Ecwid has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Ecwid has further committed to refer unresolved privacy complaints under the EU-US and US-Swiss Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Ecwid is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 ## Changes to This Privacy Policy
 
@@ -152,4 +144,4 @@ We may amend this Privacy Policy at any time by posting the amended terms o
 
 To access your information, ask questions about our privacy practices, or issue a complaint, please contact us at info@ecwid.com or mail your correspondence to: Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA.
 
-Effective date of this policy: August 1, 2016
+Effective date of this policy: April 12, 2017
