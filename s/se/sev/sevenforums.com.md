@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031206id_/http%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenforums.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044949id_/https%3A//www.sevenforums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Windows 7 Help Forums
 
@@ -152,4 +152,4 @@
 
 > This website is owned and operated by Designer Media Ltd. 
 > 
-> If you have any questions about our cookies or this cookies policy, please [contact us.](http://www.sevenforums.com/sendmessage.php)
+> If you have any questions about our cookies or this cookies policy, please [contact us.](https://www.sevenforums.com/sendmessage.php)
