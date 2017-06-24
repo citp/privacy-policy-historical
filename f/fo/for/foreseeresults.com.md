@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222091159id_/http%3A//www.foresee.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624082329id_/http%3A//www.foreseeresults.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | ForeSee
 
-## ForeSee Results, Inc. Privacy Statement Effective date: August 12, 2016
+## **ForeSee Results, Inc. Privacy Statement Effective date: August 12, 2016**
 
 If you have taken a ForeSee® survey, we thank you. If not, we hope you will do so in the future. ForeSee’s clients use the data we collect to improve your experience as a customer or web browser, and we want your voice to be heard.
 
@@ -12,11 +12,9 @@ This Privacy Statement describes how ForeSee Results, Inc. (“ForeSee”) colle
 
 ForeSee recognizes that the European Union (“EU”) has established strict protections regarding the handling of Personal Data, and ForeSee therefore has elected to adhere to the US-EU and Privacy Shield Principles (the “Privacy Shield”) with respect to such Personal Data that it receives in the United States about individuals located in the EU. ForeSee also engages with its Clients in the EU Model Clauses for data processing.
 
-For further background and information about Privacy Shield, and to see ForeSee’s representation on the Privacy Shield List, please refer to the Privacy Shield website at [www.privacyshield.gov](http://www.privacyshield.gov/).
+For further background and information about Privacy Shield, and to see ForeSee’s representation on the Privacy Shield List, please refer to the Privacy Shield website at [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 If you are located outside of the United States, please be aware that ForeSee’s Clients may transfer your Personal Data to ForeSee for processing in the United States.  By using our website, contracting with us to receive our products or services, or submitting any information to us through a customer satisfaction survey or otherwise, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction that may not provide the same level of privacy protection as the laws in your home jurisdiction.
-
-* * *
 
 ### Personal Data Collection and Purposes of Use
 
@@ -36,7 +34,7 @@ ForeSee will not request, access or otherwise track any location based informati
 
 Most of the data we collect is anonymous, but some of our Clients may direct us to ask for your contact information, which is Personal Data. Wherever we obtain access to Personal Data about our Clients’ customers or website visitors, we are acting as a mere data processor on behalf of our Clients, and we therefore process such Personal Data strictly in accordance with their instructions and pursuant to our contractual arrangements with them.  ForeSee’s Clients are the data controllers and data owners.  If you are a customer or website visitor with an existing relationship with one of our Clients, you should refer to the Client’s website to understand the privacy practices that apply to Personal Data that we may maintain about you on behalf of the Client.  Our Clients are encouraged to participate in privacy initiatives to protect the privacy and security of the data collected; however, since we do not have direct control over the policies or practices of our Clients, we cannot be responsible for their actions.  We recommend that you always review the privacy policies of the Client for which you have been presented a survey before you provide any Personal Data.
 
-You have the right to access your Personal Data. If you would like to access and review Personal Data that you provided to us, you can either contact our Client with any such requests, or make your request directly to us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).  We will cooperate as appropriate with requests from our Clients to assist with such responses and will respond to such requests within 30 days.
+You have the right to access your Personal Data.  If you would like to access and review Personal Data that you provided to us, you can either contact our Client with any such requests, or make your request directly to us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).  We will cooperate as appropriate with requests from our Clients to assist with such responses and will respond to such requests within 30 days.
 
 #### Surveys with Sweepstakes Incentives
 
@@ -54,7 +52,7 @@ Our Clients may contact us if any of their Personal Data changes, if they wish t
 
 #### ForeSee’s Website Visitors
 
-If you visit our website located at [www.foresee.com](http://www.foresee.com/) and download information or choose to contact us, you may provide certain Personal Data about yourself, such as your name, email address, phone number and mailing address.  We use this information to respond to your inquiry and, if necessary, to correspond with you.
+If you visit our website located at [www.foresee.com](https://www.foresee.com/) and download information or choose to contact us, you may provide certain Personal Data about yourself, such as your name, email address, phone number and mailing address.  We use this information to respond to your inquiry and, if necessary, to correspond with you.
 
 * * *
 
@@ -64,7 +62,7 @@ ForeSee does not sell any Personal Data gathered from individual survey responde
 
 ForeSee may disclose Personal Data to business partners and subcontractors, such as sweepstakes administrators, as necessary in connection with the performance of requested services or solutions, or as otherwise appropriate in connection with a legitimate business need. ForeSee may also disclose Personal Data as necessary in connection with the sale or transfer of all or part of the business. In these situations, ForeSee will require the recipient of the Personal Data to protect the Personal Data in accordance with the relevant Privacy Shield principles, or otherwise take steps to ensure that the Personal Data is appropriately protected. ForeSee may also disclose Personal Data where required or permitted by law, or where ForeSee believes that such disclosures are appropriate in connection with a law enforcement request.
 
-If you have provided Personal Data to us, and wish to limit our use and disclosure of that data, you can contact us at Privacy@ForeSee.com.
+If you have provided Personal Data to us, and wish to limit our use and disclosure of that data, you can contact us at [Privacy@ForeSee.com](mailto:Privacy@ForeSee.com).
 
 ### Data Retention
 
@@ -74,7 +72,7 @@ ForeSee retains all data, including the Personal Data we process on behalf of ou
 
 Many websites use “cookies” to help personalize a website visitor’s online experience. A cookie is a text file that is placed on the hard drive of a computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-We use session level cookies on [www.foresee.com](http://www.foresee.com/) to make it easier for you to navigate our site. A session level cookie expires when you close your browser. We do not link any Personal Data you provide to cookies.
+We use session level cookies on [www.foresee.com](https://www.foresee.com/) to make it easier for you to navigate our site. A session level cookie expires when you close your browser. We do not link any Personal Data you provide to cookies.
 
 ForeSee and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
 
@@ -84,7 +82,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 We allow our third party tracking utility company to use cookies throughout our website. Although we do not have technological control over cookies they place in your browser, they are contractually restricted in their use of such cookies to uses consistent with this Privacy Statement. Our tracking utility company uses session level cookies to make it easier for you to navigate our site and to track how many pages a particular visitor has passed over.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/).
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](https://preferences-mgr.truste.com/).
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
@@ -145,11 +143,9 @@ Ann Arbor, MI 48105
 800-621-2850  
 [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com)
 
-* * *
-
 ## ForeSee and Privacy Shield
 
-This Privacy Statement covers the website [www.foresee.com](http://www.foresee.com/), all ForeSee-hosted surveys, including the collection of Personal Data about ForeSee’s Clients and ForeSee’s Clients’ customers and website and mobile website visitors.
+This Privacy Statement covers the website [www.foresee.com](https://www.foresee.com/), all ForeSee-hosted surveys, including the collection of Personal Data about ForeSee’s Clients and ForeSee’s Clients’ customers and website and mobile website visitors.
 
 If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [Privacy@ForeSee.com](mailto:ForeSeePrivacy@answers.com). This email is directed to our legal department and Chief Privacy Officer (Cara Edwards, Vice President and General Counsel). If you are not satisfied with our response and have a complaint about our privacy practices, you can contact your local Data Protection Authority.
 
@@ -159,6 +155,6 @@ ForeSee may be required to disclose Personal Data in response to lawful requests
 
 ## Dispute Resolution
 
-ForeSee participates in the Privacy Shield Framework. As part of our participation in that program, we have agreed to adhere to its principles for the resolution of disputes relating to our compliance with Privacy Shield. If you have any complaints regarding our compliance with Privacy Shield, you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with your local Data Protection Authority in accordance with the Privacy Shield Framework guidance published here: <http://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf>
+ForeSee participates in the Privacy Shield Framework. As part of our participation in that program, we have agreed to adhere to its principles for the resolution of disputes relating to our compliance with Privacy Shield. If you have any complaints regarding our compliance with Privacy Shield, you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with your local Data Protection Authority in accordance with the Privacy Shield Framework guidance published here: <https://ec.europa.eu/commission/index_en>
 
-ForeSee is subject to the investigatory and enforcement powers of the United States Federal Trade Commission and other regulatory agencies. In some circumstances, an individual having a dispute with ForeSee may invoke binding arbitration through the Privacy Shield Panel in accordance with the Privacy Shield Framework guidance published here: <http://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf>
+ForeSee is subject to the investigatory and enforcement powers of the United States Federal Trade Commission and other regulatory agencies. In some circumstances, an individual having a dispute with ForeSee may invoke binding arbitration through the Privacy Shield Panel in accordance with the Privacy Shield Framework guidance published here: [http://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf](https://ec.europa.eu/justice/data-protection/document/citizens-guide_en.pdf)
