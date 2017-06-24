@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229074744id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093218id_/https%3A//unity3d.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Unity - Privacy Policy
 
-Last Updated: December 22, 2016
+[ ](https://web.archive.org/)
 
-## 1\. FREQUENTLY ASKED QUESTIONS – FAQS
+**Last Updated: June 16, 2017**
+
+## 1\. Frequently Asked Questions – FAQs
 
 Because we realize that privacy policies tend to be long and not terribly exciting, we’ve developed these FAQs to provide shortcuts to certain information in our Privacy Policy. These shortcuts are intended to enhance rather than replace the important notices we provide in our complete Privacy Policy. The complete version of our Privacy Policy governs our collection, use, storage and sharing of information we collect or receive from you.
 
 ### Q: I am a game developer that uses Unity software to build my game, what should I know?
 
-A: You can access and update your account info by logging into your Unity account on our website.  We use analytics services to understand how developers use our software in order for Unity to improve its software and services. We also include certain device data collection in the runtime of the Software which is incorporated into the applications you create with the software. You should be sure that your privacy policy explains to your players the variety of technical information that is collected and shared with third parties like Unity. If you use Unity developer services such as mobile advertising and analytics, read the applicable FAQs below and our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies).
+A: You can access and update your account info by logging into your Unity account on our website.  We use analytics services to understand how developers use our software in order for Unity to improve its software and services. We also include certain device data collection in the runtime of the Software which is incorporated into the applications you create with the software. You should be sure that your privacy policy explains to your players the variety of technical information that is collected and shared with third parties like Unity. If you use Unity developer services such as mobile advertising and analytics, read the applicable FAQs below and our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies).
 
 ### Q: I visit the Unity website, what should I know?
 
@@ -59,7 +61,7 @@ A: Unity has probably collected information about your device, including IP addr
 
 A: Unity has probably collected information about your device, including IP address, and your use of the Asset Store as well as any information you actively provided when you created your account. Our primary uses of your information will be to facilitate your access to the Asset Store and any assets you have purchased. Other uses might include sending you updates on changes or promotions in the Asset Store. You can access and update your account info by logging in to Asset Store and visiting your My Account page.
 
-## 2\. PRIVACY POLICY OVERVIEW
+## 2\. Privacy Policy Overview
 
 Unity Technologies and its subsidiaries and affiliates (collectively “Unity”) offer a variety of products and services for game developers and game players that will be referred to in this policy as the “Service” or “Services.”  Because we’d like to avoid excessive formality and to make this policy more readable, the policy will often refer to Unity as “we” or “us” and to the reader as “you”. When we say “device” we mean any device, including desktop, laptop, PC or Mac computers, smartphones, tablets, or any other device that is used to access or interact with the Service. When we say “Developer”, we mean a third party that develops and/or distributes a game or other app made with Unity software and/or a game using Unity Services. By using the Service, you agree to this Privacy Policy and that we may transfer your data outside of the European Economic Area (“EEA”).
 
@@ -97,7 +99,7 @@ We receive information about Users, their devices, locations and interactions wi
 
 
 
-## 3\. INFORMATION WE MAY COLLECT OR RECEIVE (DEPENDING ON WHICH PRODUCT OR SERVICE IS USED)
+## 3\. Information We May Collect or Receive (Depending on Which Product or Service Is Used)
 
 ### Information that you or others actively provide, including:
 
@@ -218,18 +220,18 @@ We receive information about Users, their devices, locations and interactions wi
 
   * Cookies and choices concerning Unity Ads:
 
-    * Unity and others working on Unity’s behalf may employ cookies and related technologies to store information on or read information from your browser or device. The technologies used for these purposes may include: (i) cookies; (ii) web beacons; (iii) tracking pixels; and/or (iv) local shared objects (also known as flash cookies). To learn more see our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies).
+    * Unity and others working on Unity’s behalf may employ cookies and related technologies to store information on or read information from your browser or device. The technologies used for these purposes may include: (i) cookies; (ii) web beacons; (iii) tracking pixels; and/or (iv) local shared objects (also known as flash cookies). To learn more see our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies).
 
-    * Unity may collect information including the App List to provide personalized ads. To learn more see our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies).
+    * Unity may collect information including the App List to provide personalized ads. To learn more see our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies).
 
-    * Third party advertisers (and the ad networks they use) who place ads within the Service may use cookies or related technologies to deliver ads. To learn more about the use of cookies and related technologies within the Service see our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies).
+    * Third party advertisers (and the ad networks they use) who place ads within the Service may use cookies or related technologies to deliver ads. To learn more about the use of cookies and related technologies within the Service see our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies).
 
   * Other information: We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any other subscription, product, or service we provide.
 
 
 
 
-## 4\. HOW WE USE THE INFORMATION WE COLLECT OR RECEIVE
+## 4\. How We Use the Information We Collect or Receive
 
 We primarily use the information we collect to provide, administer, operate and improve our Services. We may use your information for the following purposes:
 
@@ -260,7 +262,7 @@ We primarily use the information we collect to provide, administer, operate and 
 
 
 
-## 5\. SHARING INFORMATION
+## 5\. Sharing Information
 
 ### How we might share the information we collect or receive
 
@@ -288,7 +290,7 @@ We primarily use the information we collect to provide, administer, operate and 
 
     * By Unity Ads – we may utilize the data collected from Developer’s apps to place personalized ads in Developers’ apps and elsewhere. This usage will permit other parties, such as publishers and attribution companies, to learn about the devices that received, viewed or interacted with ads.
 
-    * Third party products and services – as discussed in our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies) and elsewhere, we may permit advertisers and their agents to use cookies or related technologies within the Service to store information on or read information from your browser or device so that they can optimize their advertising campaigns, including to frequency cap and deliver targeted ads.
+    * Third party products and services – as discussed in our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies) and elsewhere, we may permit advertisers and their agents to use cookies or related technologies within the Service to store information on or read information from your browser or device so that they can optimize their advertising campaigns, including to frequency cap and deliver targeted ads.
 
   * With your consent: We may share your information for other purposes if (i) you direct us to do so or (ii) you consent to such sharing.
 
@@ -314,7 +316,7 @@ We primarily use the information we collect to provide, administer, operate and 
 
 
 
-## 6\. OUR POLICIES CONCERNING CHILDREN
+## 6\. Our Policies Concerning Children
 
 The Services are intended for general audiences and Unity does not knowingly collect any personal information from children, except as expressly described otherwise in our terms.
 
@@ -325,7 +327,7 @@ The Services are intended for general audiences and Unity does not knowingly col
 
 
 
-## 7\. ACCESSING/UPDATING YOUR INFORMATION
+## 7\. Accessing/Updating Your Information
 
 We provide Users with a variety of ways to access and update their information as described below.
 
@@ -361,7 +363,7 @@ Developers: Log in to [Everyplay](https://everyplay.com/) and navigate to the ed
 
 Users: Log in to [Everyplay](https://everyplay.com/) and navigate to the user settings page by using the drop down menu on the profile tab. On the user settings page, you can view and update your profile description, avatar, and cover photo. You can also change your password and delete your profile.
 
-## 8\. YOUR CHOICES ABOUT UNITY’S COLLECTION AND USE OF YOUR INFORMATION
+## 8\. Your Choices About Unity’s Collection and Use of Your Information
 
   * You always have the option to refrain from using the Service or to discontinue using the Service if you do not want information collected about you.  
 
@@ -375,7 +377,7 @@ Users: Log in to [Everyplay](https://everyplay.com/) and navigate to the user se
 
     * Users who opt-out of marketing messages may still receive administrative, relationship, or transactional messages (for example, we might send a notice about changes to our Terms of Service or changes to the functionality of a product or Service).
 
-  * Unity Ads opt-out: You can’t opt-out of receiving ads in games or apps using Unity Ads, but you can take steps to opt-out of certain personalized ads. See our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies) for more information on your choices for tracking and targeting of ads in apps on mobile devices and the options available to you.
+  * Unity Ads opt-out: You can’t opt-out of receiving ads in games or apps using Unity Ads, but you can take steps to opt-out of certain personalized ads. See our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies) for more information on your choices for tracking and targeting of ads in apps on mobile devices and the options available to you.
 
   * Analytics opt-out: Unity Analytics does not currently offer an opt-out to Users of Developer apps. If you do not want your information collected by Unity Analytics, you may have to stop using the game or application utilizing Unity Analytics.
 
@@ -383,42 +385,44 @@ Users: Log in to [Everyplay](https://everyplay.com/) and navigate to the user se
 
   * We use Google Analytics to understand how our sites are used and to improve experiences within the Service. If you want to know more about how Google Analytics works or to exercise choice in regard to the data collected by it please visit <http://www.google.com/policies/privacy/partners/>. In order to control the collection of data for analytical purposes by Google, you may install the [Google Analytics Opt-out Browser Add-On](https://tools.google.com/dlpage/gaoptout).
 
+  * We use Twitter's ad platform to bring you more useful and interesting advertising content. If you are on the web, you can visit the Digital Advertising Alliance's ("DAA") consumer choice tool at [optout.aboutads.info](http://optout.aboutads.info/) to opt out of interest-based advertising from Twitter in your current browser. On your mobile device, enable the "Limit Ad Tracking" setting in your iOS phone's settings, or the setting to "Opt Out of Ads Personalization" in your Android phone's settings.
+
   * Account Deletion: Everyplay Users can request an account deletion from the User Settings page in their account. All other Users must contact [support@unity3d.com](mailto:support@unity3d.com). to delete their Unity Account. Deleting your Unity Account does not relieve you of the obligation to pay any remaining amounts owed for your subscriptions.
 
 
 
 
-## 9\. TRANSFERS OUT OF COUNTRY OF COLLECTION
+## 9\. Transfers out of Country of Collection
 
-  * Unity has implemented and maintains a framework consistent with applicable law for transfers of data outsude of the country of collection, including for transfers out of the EEA. In addition, Unity is certified under the US-Swiss Safe Harbor Framework regarding the collection, use, and retention of personal information from Switzerland, and Unity complies with the US-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the US-Swiss Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
+  * Unity has implemented and maintains a framework consistent with applicable law for transfers of data outside of the country of collection, including for transfers out of the EEA. In addition, Unity is certified under the US-Swiss Safe Harbor Framework regarding the collection, use, and retention of personal information from Switzerland, and Unity complies with the US-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the US-Swiss Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
 
   * Your use of the Services may involve the transfer, storage and processing of your information to and in various countries around the world where our servers are located and our databases are operated that may have different levels of privacy protection than your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
 
 
 
 
-## 10\. SAFEGUARDS
+## 10\. Safeguards
 
 We employ a variety of measures to safeguard the collection, transmission and storage of the information we collect. These measures vary based on the sensitivity of the information that we collect, process and store and the current state of technology. Please note that no system can be guaranteed to be 100% secure. Therefore, while we strive to employ reasonable protections for your information that are appropriate to its sensitivity, we cannot guarantee or warrant the security of the information you share with us and we cannot be responsible for the theft, destruction, loss or inadvertent disclosure of your information.
 
-## 11\. CHANGES TO THIS PRIVACY POLICY
+## 11\. Changes to This Privacy Policy
 
 We reserve the right to change our practices and this policy at any time. We may also send an email or provide notice within some or all of our offerings when this policy changes. We encourage you to check this page regularly so that you know what our current practices are.
 
-## 12\. CALIFORNIA PRIVACY RIGHTS
+## 12\. California Privacy Rights
 
   * Sharing with third parties for direct marketing purposes: California residents have the right to request the identity of any third parties to whom the resident’s personal information was shared, if such sharing was to enable the third party’s direct marketing efforts. If you are a California resident and wish to make such a request, please submit your request to privacy@unity3d.com OR to opt out of having your personal information shared with third parties for their direct marketing purposes, please email us at privacy@unity3d.com
 
-  * How we respond to “Do Not Track” signals: We are committed to providing you with meaningful choices about the information collected on our Services for third-party purposes, and that is why we provide information in our [Cookie Policy](https://web.archive.org/de/legal/cookie-policy#cookies) about how to prevent the delivery of targeted ads and information in this policy about how to prevent Google Analytics from collecting information. We do not, however, recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations and solutions. To learn more about Do Not Track signals, you can visit [allaboutdnt.com](http://www.allaboutdnt.com/).
+  * How we respond to “Do Not Track” signals: We are committed to providing you with meaningful choices about the information collected on our Services for third-party purposes, and that is why we provide information in our [Cookie Policy](https://web.archive.org/legal/cookie-policy#cookies) about how to prevent the delivery of targeted ads and information in this policy about how to prevent Google Analytics and Twitter from collecting information. We do not, however, recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations and solutions. To learn more about Do Not Track signals, you can visit [allaboutdnt.com](http://www.allaboutdnt.com/).
 
 
 
 
-## 13\. LINKS TO SITES AND SERVICE OPERATED BY OTHERS
+## 13\. Links to Sites and Service Operated by Others
 
 The Service may contain links to other sites, applications and services. Because Unity does not operate those other sites, applications and services, we can’t take responsibility for the privacy practices of the entities that operate them. We recommend that you consistently check privacy policies to understand an operator’s practices. As a reminder this policy describes Unity’s practices.
 
-## 14\. CONTACT US:
+## 14\. Contact Us:
 
   * privacy@unity3d.com
 
@@ -427,7 +431,7 @@ The Service may contain links to other sites, applications and services. Because
 
 
 
-## 15\. COOKIE POLICY
+## 15\. Cookie Policy
 
 ### What are cookies?
 
@@ -463,7 +467,7 @@ As described below Unity employs a number of technologies to provide and improve
 
   * Local Shared Objects: Unity may use local shared objects (also known as Flash cookies) on its sites. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.
 
-  * Beacons, pixel tags, clear gifs: Unity or its service providers or third parties advertising within the Service may use these technologies to learn the online behavior and interests of Users and to personalize ads that Users see. To learn more about behavioral advertising, please visit the Network Advertising Initiative’s [website](https://www.networkadvertising.org/understanding-online-advertising.)..
+  * Beacons, pixel tags, clear gifs: Unity or its service providers or third parties advertising within the Service may use these technologies to learn the online behavior and interests of Users and to personalize ads that Users see. To learn more about behavioral advertising, please visit the Network Advertising Initiative’s [website](https://www.networkadvertising.org/understanding-online-advertising).
 
   * Device IDs and digital fingerprinting: The Service may use one or more of a variety of unique identifiers to recognize users and their devices, including MAC address, IDFA, Android Ad ID, and digital fingerprint, which may be comprised of several types of data, including device name, the app list or applications installed on the device, and browser characteristics. NOTE: Unity may also generate and assign a user ID when you access or use one of its Services.
 
@@ -476,7 +480,7 @@ Advertising helps to defray certain costs of providing Services, especially cost
 
 If Unity delivers personalized advertising, Unity will provide notice and information about how you may be able to opt-out of such personalized advertisements.  Such opportunity to opt out may occur through your device settings (See “Information and choices regarding tracking and targeting on mobile devices” below).
 
-Developers may use other third party advertising networks. If you do not wish to receive personalized advertising that is delivered by third parties, you may be able to exercise that choice through opt-out programs that are administered by third parties, including the Network Advertising Initiative (NAI), the Digital Advertising Alliance (DAA), and/or the European Interactive Digital Advertising Alliance (EIDAA). Where applicable, you may exercise your opt-out choices at the [NAI website](http://www.networkadvertising.org/choices/), the [DAA website](http://www.aboutads.info/choices/), or the [EIAA website](http://www.youronlinechoices.eu/). Unity does not control these third-party provided opt-out processes and is not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+Developers may use other third party advertising networks. If you do not wish to receive personalized advertising that is delivered by third parties, you may be able to exercise that choice through opt-out programs that are administered by third parties, including the Network Advertising Initiative ("NAI"), the DAA, and/or the European Interactive Digital Advertising Alliance ("EIDAA"). Where applicable, you may exercise your opt-out choices at the [NAI website](http://www.networkadvertising.org/choices/), the [DAA website](http://www.aboutads.info/choices/), or the [EIAA website](http://www.youronlinechoices.eu/). Unity does not control these third-party provided opt-out processes and is not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
 
 Unity uses Google to provide advertising through the Services and on third party websites. We may use the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. To opt-out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the [Google Ads Settings page](https://www.google.com/settings/ads).
 
