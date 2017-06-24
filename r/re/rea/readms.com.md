@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readms.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045815id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readms.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065401id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Manga Stream
 
