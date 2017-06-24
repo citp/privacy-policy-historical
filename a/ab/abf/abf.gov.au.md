@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617235155id_/http%3A//www.border.gov.au/about/access-accountability/plans-policies-charters/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051125id_/http%3A//www.border.gov.au/about/access-accountability/plans-policies-charters/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
