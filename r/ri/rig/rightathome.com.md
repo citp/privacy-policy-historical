@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202022841id_/http%3A//privacy.scjbrands.com/en-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624212809id_/http%3A//privacy.scjbrands.com/en-us) for the most accurate reproduction.*
 
 # Privacy Notice | SC Johnson
 
-Last Updated: 10-29-2015
+Last Updated: 04-10-2017
 
   * What information may be collected and the means of collection  Your information may be collected in several ways, for example, when you provide information to us (such as name, date-of-birth, mailing address, and email address or other personal information); when you use or interact with our website or services, general non-personal information about your use of our website or services may be collected (such as IP addresses) through the use of automated technology like cookies and beacons; and when information is collected from publicly available sources or shared with us by a third party. Click here to read more. 
   * How we use information  We may use information for various purposes, including providing you with information about our company, products, promotions and other special offers, personalizing your website experience, and conducting research and analysis on our website, products, marketing efforts and sales. Click here to read more. 
@@ -11,7 +11,6 @@ Last Updated: 10-29-2015
   * More on cookies, beacons, and how to stop automated collection of information  Automated technology (e.g., cookies and beacons) is used to collect general non-personal information and, in some cases, IP addresses. Click here to read more. 
   * More on online advertising in unrelated websites (third party ad serving or targeted advertising) and how to stop its delivery  We use information collected through automated technology (e.g., cookies and beacons) to engage in third party ad serving/targeted advertising. Click here to read more. 
   * What laws govern the operation of SC Johnson’s websites and international transfers of personal information  Our websites are governed and operated in accordance with the laws of the United States, while designed to be compatible with the laws of the countries in which we operate. Click here to read more. 
-    * Information about SC Johnson’s participation in US-EU and US-Swiss Safe Harbor We self-certify compliance with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework. We have also committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Click here to read more.
   * How we will inform you of changes to this Privacy Notice  We may change this Privacy Notice at any time. If we make material changes, we will seek to provide you with reasonable notice of the changes. Changes will be effective immediately upon the posting of the revised Privacy Notice on our corresponding website.  Click here to read more. 
   * How you can communicate with us about this Privacy Notice or your personal information  This Privacy Notice contains contact information if you have any questions or concerns about this Privacy Notice or your personal information. Click here to read more. 
   * Country Specific Information 
@@ -211,19 +210,6 @@ Canada
 Mexico
 
 South Korea
-
-**Information about SC Johnson’s participation in US-EU and US-Swiss Safe Harbor**
-
-SC Johnson complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SC Johnson has certified that it adheres to the Safe Harbor Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://safeharbor.export.gov/companyinfo.aspx?id=10216>.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, SC Johnson commits to resolve complaints about your privacy and our collection and use of your personal information. European Union or Swiss citizens with inquires or complaints regarding this Privacy Notice should first contact SC Johnson at:
-
-c/o S.C. Johnson & Son, Inc. - Privacy Inquiries  
-1525 Howe Street MS048 Racine, WI 53403  
-USA  
-[PrivacyInquiries@scj.com](mailto:PrivacyInquiries@scj.com)
-
-SC Johnson has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint has not been satisfactorily addressed by SC Johnson, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ## How we will inform you of changes to this Privacy Notice
 
