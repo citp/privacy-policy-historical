@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgadget.org privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918164114id_/http%3A//www.newgadget.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgadget.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624151408id_/http%3A//www.newgadget.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
