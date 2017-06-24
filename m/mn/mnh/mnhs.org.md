@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130091030id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625014530id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minnesota Historical Society
 
@@ -20,11 +20,11 @@ Personally identifying information that you provide by e-mail or web forms will 
 
 From time to time our site requests information from users via surveys. Participation in surveys is completely voluntary, and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code, age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-## Cookies
+## Cookies, Pixel Tags, Tracking Code
 
-A form of anonymous website user information that we are collecting is called a "cookie." A cookie is a small text file of information that our web server stores on your Internet-connected device to distinguish your visit to our site from the hundreds or thousands who may be visiting our site at the same time. This cookie is anonymous and is only active while you are visiting our site and is not used for marketing purposes or for any reason that may compromise your privacy.
+MNHS websites use technologies such as "cookies", "pixel tags", and other tracking code to improve the functioning of our websites and your experience. Cookies are small data files that are automatically sent to your browser from a Web server and stored on your computer's hard drive. Cookies enable us to personalize your experience. "Pixel tags" are tiny graphical images embedded in emails or webpages. Pixel tags are used to determine what parts of a website a visitor has viewed, or whether an email was successfully opened. These technologies do not contain any personal information about you; they are used to gather information to analyze traffic to the websites, to improve our content and navigation, to enhance our marketing efforts, to personalize your experience, and to provide online display advertising tailored to your interests based on your online behavior. MNHS also works with third-party marketing partners who use technologies such as cookies and pixel tags on our behalf. 
 
-If you choose not to accept cookies, certain sections of our websites may not work as intended.
+You may choose to set your browser so that it does not accept cookies, but some areas of MNHS websites will not function properly without cookies. For an optimal experience with our sites, we recommend that you allow cookies.
 
 ## Links to Other Sites
 
