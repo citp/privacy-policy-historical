@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053805id_/http%3A//www.campaigner.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624051453id_/http%3A//campaigner.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Campaigner
 
@@ -8,7 +8,7 @@ If users have questions or concerns regarding this statement, they should contac
 
 A) Information Collection 
 
-j2 Global is the sole owner of the information collected on its web properties, including [www.myfax.com](http://www.myfax.com/), [www.my1voice.com](http://www.my1voice.com/), [www.campaigner.com](http://www.campaigner.com/) and [www.jblast.com](http://http/www.jblast.com). j2 Global collects information from its users at several different points on our Web sites. 
+j2 Global is the sole owner of the information collected on its web properties, including [www.myfax.com](http://www.myfax.com/), [www.my1voice.com](http://www.my1voice.com/), [www.campaigner.com](http://www.campaigner.com/) and [www.jblast.com](http://www.jblast.com/). j2 Global collects information from its users at several different points on our Web sites. 
 
 1) Registration 
 
