@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codecademy.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055957id_/https%3A//www.codecademy.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecademy.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624073924id_/https%3A//www.codecademy.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Codecademy
 
-Codecademy, Inc. (“Codecademy,” “we,” or “us”) is committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information about you or associated with you (“personal information”), and your choices about the collection and use of your information. This Privacy Policy applies to the online services offered by Codecademy at [www.codecademy.com](https://web.archive.org/web/20161229055957id_/https%3A//www.codecademy.com/www.codecademy.com). 
+Codecademy, Inc. (“Codecademy,” “we,” or “us”) is committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information about you or associated with you (“personal information”), and your choices about the collection and use of your information. This Privacy Policy applies to the online services offered by Codecademy at [www.codecademy.com](https://web.archive.org/web/20170624073924id_/https%3A//www.codecademy.com/www.codecademy.com). 
 
 Click on the links below to jump to each section:
 
