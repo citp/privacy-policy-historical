@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217120030id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathblaster.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032027id_/http%3A//www.mathblaster.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Math Blaster
 
-**LAST UPDATED: 05/20/2016**
+**LAST UPDATED: 10/01/2016**
 
 Our Privacy Policy applies to and governs all websites, games, online services, and software made available at all websites owned and operated by JumpStart Games, Inc. (collectively, the “Sites” and, individually, “Site”), on mobile devices, tablets, personal computers and other devices. By accessing any of the Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Sites collect from users, including children, when they visit the Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. 
 
-Our users’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such users. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. In all cases, younger users should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. In order for a child to fully participate on any of the Sites, no personally identifiable information is collected from a child until such time as verifiable parental consent is received from the child’s parent or guardian. For more information about how the Sites deal with users under the age of 13, click [here](https://web.archive.org/customercare/privacy-policy/ka-and-coppa "KA and COPPA"). In order to register on our site as a user, the child’s parent or guardian must activate their account. Users may choose to play as Guests with no information collected, nor game play history recorded and prizes or gems collected may not be available upon the users return. 
+Our users’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such users. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. In all cases, younger users should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. In order for a child to fully participate on any of the Sites, no personally identifiable information is collected from a child until such time as verifiable parental consent is received from the child’s parent or guardian. For more information about how the Sites deal with users under the age of 13, click [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/ka-and-coppa "KA and COPPA"). In order to register on our site as a user, the child’s parent or guardian must activate their account. Users may choose to play as Guests with no information collected, nor game play history recorded and prizes or gems collected may not be available upon the users return. 
 
 ## SUMMARY.
 
@@ -24,7 +24,7 @@ We only collect information necessary for the activities on the Sites. We do not
 
 
 
-For more detailed information regarding the information we collect, please go [here](https://web.archive.org/customercare/privacy-policy#sectioni).  
+For more detailed information regarding the information we collect, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).  
   
 ---|---  
   
@@ -43,7 +43,7 @@ While we take reasonable steps to secure your personal information, no system is
 
 
 
-For more detailed information regarding how we store information, please go [here](https://web.archive.org/customercare/privacy-policy#sectioniv).  
+For more detailed information regarding how we store information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniv).  
   
 ### How We Use the Information: 
 
@@ -63,7 +63,7 @@ Allow us to:
 
 It may also allow you access to enhanced features available to registered users and on behalf of third-parties whose products or services might be of interest to you; measure analytics; and manage and improve the services available on the Sites.
 
-For more detailed information regarding how we use such information, please go [here](https://web.archive.org/customercare/privacy-policy#sectioni).   
+For more detailed information regarding how we use such information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).   
   
 ### What We Share:
 
@@ -87,7 +87,7 @@ Please be aware that we cannot control the activities of third parties to whom w
 
 Our sites may also have message boards and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board or chat area, please be aware that the information is being made publicly available online and the user does so at his or her own risk.
 
-For more detailed information regarding our information sharing practices, please go [here](https://web.archive.org/customercare/privacy-policy#sectionii).   
+For more detailed information regarding our information sharing practices, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionii).   
   
 ### Who Else Is Collecting Information: 
 
@@ -95,7 +95,7 @@ For more detailed information regarding our information sharing practices, pleas
 
 We may use a number of advertising networks, analytics service providers and other such companies to, for example, serve advertisements or analyze the performance of the Sites. These companies may use their own unique identifiers, and their use of these technologies is within their control and not ours. These companies may use the information they collect from you consistent with their own privacy policies, which we encourage you to review.
 
-For more information about these third parties and how you might be able to control how they use your information, please go [here](https://web.archive.org/customercare/privacy-policy#sectionid).   
+For more information about these third parties and how you might be able to control how they use your information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionid).   
   
 ### How You Can Control Your Own Information:
 
@@ -110,51 +110,51 @@ We make every attempt to allow you to control the way that we use personally ide
 
 
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at opt-out@jumpstart.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380 Torrance, California 90503. You can also contact us by e-mailing us at opt-out@jumpstart.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
-For more detailed information regarding your control over your information, please go [here](https://web.archive.org/customercare/privacy-policy#sectionic) and [here](https://web.archive.org/customercare/privacy-policy#sectionv).   
+For more detailed information regarding your control over your information, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionic) and [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionv).   
   
 ### Who We Are:
 
 | 
 
 These Sites are made available by JumpStart Games, Inc., If you have any questions about our information handling practices, including our practices with respect to children’s personal information, please contact us at:  
-JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [opt-out@jumpstart.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy55097%20=%20'opt-out'%20+%20'@';%20addy55097%20=%20addy55097%20+%20'jumpstart'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy55097%20+%20'\\'%3E'\);%20document.write\(addy55097\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E "Email Jump
+JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380 Torrance, California 90503. You can also contact us by e-mailing us at [opt-out@jumpstart.com. Please indicate what publications or services you no longer wish to receive so that we may better address your needs. ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy55097%20=%20'opt-out'%20+%20'@';%20addy55097%20=%20addy55097%20+%20'jumpstart'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy55097%20+%20'\\'%3E'\);%20document.write\(addy55097\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E "Email Jump
 Start")  
   
 ## QUICK LINKS.
 
-  1. [INFORMATION COLLECTION AND USE](https://web.archive.org/customercare/privacy-policy#sectioni).
-    1. [Registration Information ](https://web.archive.org/customercare/privacy-policy#sectionia)
-    2. [Social Platform Registrations and Social Media Plugins ](https://web.archive.org/customercare/privacy-policy#sectionib)
-    3. [Computer Information Collected By Us](https://web.archive.org/customercare/privacy-policy#sectionic)
-    4. [Computer Information Collected By Others ](https://web.archive.org/customercare/privacy-policy#sectionid)
-    5. [Contests and Sweepstakes ](https://web.archive.org/customercare/privacy-policy#sectionie)
-    6. [Electronic Postcards and Messages ](https://web.archive.org/customercare/privacy-policy#sectionif)
-    7. [Electronic Newsletters ](https://web.archive.org/customercare/privacy-policy#sectionig)
-    8. [Interactive Features and Services ](https://web.archive.org/customercare/privacy-policy#sectionih)
-    9. [Wireless Marketing Services](https://web.archive.org/customercare/privacy-policy#sectioniwireless)
-    10. [Geolocation Information ](https://web.archive.org/customercare/privacy-policy#sectionij)
-    11. [Financial Information ](https://web.archive.org/customercare/privacy-policy#sectionik)
-    12. [Other Data Collection and Use ](https://web.archive.org/customercare/privacy-policy#sectionil)
-  2. [DISCLOSURE TO THIRD PARTIES.](https://web.archive.org/customercare/privacy-policy#sectionii)
-    1. [Law Enforcement and Safety ](https://web.archive.org/customercare/privacy-policy#sectioniia)
-    2. [Agents ](https://web.archive.org/customercare/privacy-policy#sectioniib)
-    3. [Third Parties/Advertisers](https://web.archive.org/customercare/privacy-policy#sectioniic)
-    4. [Co-Branded Sites And Features ](https://web.archive.org/customercare/privacy-policy#sectioniid)
-    5. [JumpStart Games and Other Affiliated Businesses ](https://web.archive.org/customercare/privacy-policy#sectioniie)
-    6. [Business Transfer](https://web.archive.org/customercare/privacy-policy#sectioniif)
-    7. [With Your Consent ](https://web.archive.org/customercare/privacy-policy#sectioniig)
-  3. [INTERNATIONAL USERS.](https://web.archive.org/customercare/privacy-policy#sectioniii)
-  4. [SECURITY, STORAGE AND RETENTION OF INFORMATION.](https://web.archive.org/customercare/privacy-policy#sectioniv)
-  5. [ACCESSING AND CORRECTING INFORMATION; TERMINATION OF WIRELESS SERVICES.](https://web.archive.org/customercare/privacy-policy#sectionv)
-    1. [Reviewing Your Information](https://web.archive.org/customercare/privacy-policy#sectionva)
-    2. [Parental Access](https://web.archive.org/customercare/privacy-policy#sectionvb)
-    3. [Termination Of Wireless Services ](https://web.archive.org/customercare/privacy-policy#sectionvc)
-  6. [ONLINE SAFETY.](https://web.archive.org/customercare/privacy-policy#sectionvi)
-  7. [LINKS TO THIRD PARTIES.](https://web.archive.org/customercare/privacy-policy#sectionvii)
-  8. [YOUR CALIFORNIA PRIVACY RIGHTS.](https://web.archive.org/customercare/privacy-policy#sectionviii)
-  9. [CONTACT US](https://web.archive.org/customercare/privacy-policy#sectionix)
+  1. [INFORMATION COLLECTION AND USE](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioni).
+    1. [Registration Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionia)
+    2. [Social Platform Registrations and Social Media Plugins ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionib)
+    3. [Computer Information Collected By Us](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionic)
+    4. [Computer Information Collected By Others ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionid)
+    5. [Contests and Sweepstakes ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionie)
+    6. [Electronic Postcards and Messages ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionif)
+    7. [Electronic Newsletters ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionig)
+    8. [Interactive Features and Services ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionih)
+    9. [Wireless Marketing Services](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniwireless)
+    10. [Geolocation Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionij)
+    11. [Financial Information ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionik)
+    12. [Other Data Collection and Use ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionil)
+  2. [DISCLOSURE TO THIRD PARTIES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionii)
+    1. [Law Enforcement and Safety ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniia)
+    2. [Agents ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniib)
+    3. [Third Parties/Advertisers](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniic)
+    4. [Co-Branded Sites And Features ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniid)
+    5. [JumpStart Games and Other Affiliated Businesses ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniie)
+    6. [Business Transfer](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniif)
+    7. [With Your Consent ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniig)
+  3. [INTERNATIONAL USERS.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniii)
+  4. [SECURITY, STORAGE AND RETENTION OF INFORMATION.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectioniv)
+  5. [ACCESSING AND CORRECTING INFORMATION; TERMINATION OF WIRELESS SERVICES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionv)
+    1. [Reviewing Your Information](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionva)
+    2. [Parental Access](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvb)
+    3. [Termination Of Wireless Services ](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvc)
+  6. [ONLINE SAFETY.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvi)
+  7. [LINKS TO THIRD PARTIES.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionvii)
+  8. [YOUR CALIFORNIA PRIVACY RIGHTS.](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionviii)
+  9. [CONTACT US](https://media.jumpstart.com/MBWeb/customercare/privacy-policy#sectionix)
 
 
 
@@ -361,11 +361,11 @@ Information collected through the Sites may be transferred, disclosed or shared 
 **C. Third Parties/Advertisers.**  
 
 
-JumpStart Games uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit The Sites. For a list of these third parties on The Sites, please go [here](https://web.archive.org/customercare/privacy-policy/third-party-information-collection-through-our-sites-and-applications "Third Party Information Collection"). Some The Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, or mobile phone provider to offer you electronic cards, games, social networking, or text messaging services. These partners operate websites and services that are separate and independent from the Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
+JumpStart Games uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit The Sites. For a list of these third parties on The Sites, please go [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/third-party-information-collection-through-our-sites-and-applications "Third Party Information Collection"). Some The Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, or mobile phone provider to offer you electronic cards, games, social networking, or text messaging services. These partners operate websites and services that are separate and independent from the Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
 
 In addition, Third Party Advertising Service Providers may use their own Tracking Technologies to gather information about you. Please see Section I(D) above for more detailed information regarding such use of Tracking Technologies.
 
-For more information on our use of third party advertisers and the self-regulatory principles, please click [here](https://web.archive.org/customercare/privacy-policy/advertizing-option-icon-request "Advertizing Option Icon Request"). 
+For more information on our use of third party advertisers and the self-regulatory principles, please click [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/advertizing-option-icon-request "Advertizing Option Icon Request"). 
 
 **D. Co-Branded Sites and Features**  
 Some Sites offer co-branded services and features, such as events and promotions that we put together with another company ("Co-Branded Partner"). Such services may be hosted on a Site and/or our Co-Branded Partner's website. We may share your information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and affirmatively consent to both the Sites and our Co-Branded Partner collecting and using the information you provided during registration and/or in connection with the specific co-branded feature for fulfillment, marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. 
@@ -397,14 +397,14 @@ Information collected at the Sites will not be stored for longer than is necessa
 You have the right to access, update and correct factual inaccuracies in personally identifiable information that we collect online at the Sites, subject to certain exceptions. To do so, you should log into your account or you may e-mail us at privacy@jumpstart.com. To help protect your privacy and the security of your personally identifiable information, we will take reasonable steps to verify your identity before granting access. 
 
 **B. Parental Access**  
-Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected with their permission, about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](https://web.archive.org/customercare/privacy-policy/knowledge-adventure-personal-information-access-inquiry-form "Download the Form Here"). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
+Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected with their permission, about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/knowledge-adventure-personal-information-access-inquiry-form "Download the Form Here"). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian. 
 
 **C. Termination of Wireless Services**  
 If you have registered for wireless services, you may cancel one or more wireless services via your wireless device at any time by using the unsubscribe mechanism provided by the Sites at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". The Sites will terminate your registration for the most recent wireless service you received. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with the Sites. If you unsubscribe from one or all of wireless service(s) via your wireless device, the service(s) will be terminated immediately and will cancel your previous opt-in. 
 
 ## VI. ONLINE SAFETY.
 
-Some of the Sites offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. Of course, involvement in your family’s online lives is the most important safety tool available. Some of the various guides are available by clicking [here](https://web.archive.org/customercare/privacy-policy/knowledge-adventure-online-safety-guide).
+Some of the Sites offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. Of course, involvement in your family’s online lives is the most important safety tool available. Some of the various guides are available by clicking [here](https://media.jumpstart.com/MBWeb/customercare/privacy-policy/knowledge-adventure-online-safety-guide).
 
 ## VII. LINKS TO THIRD PARTIES.
 
@@ -412,13 +412,13 @@ The websites that comprise the Sites may contain links to other sites, including
 
 ## VIII. YOUR CALIFORNIA PRIVACY RIGHTS.
 
-California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at opt-out@jumpstart.com . Please indicate what publications or services you no longer wish to receive so that we may better address your request.
+California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380 Torrance, California 90503. You can also contact us by e-mailing us at opt-out@jumpstart.com . Please indicate what publications or services you no longer wish to receive so that we may better address your request.
 
 This document is the sole statement of the Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
 
 ## IX. CONTACT US
 
 If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:  
-JumpStart Games, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at privacy@jumpstart.com.
+JumpStart Games, Inc., 21250 Hawthorne Blvd., Ste. 380 Torrance, California 90503. You can also contact us by e-mailing us at privacy@jumpstart.com.
 
 ________________________________________ 
