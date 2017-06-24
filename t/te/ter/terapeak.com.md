@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222035604id_/https%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110336id_/https%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
 # Terapeak | Item Pricing, Online Sales Reports | eBay Research Tools & Market Data
 
-Last Updated: 2016-05-26
+**Last Updated: 2017-04-12**
 
-Terapeak Inc., a Delaware company, Terapeak (Canada) Inc., a Canadian company, Terapeak GmbH, a German company, and their affiliates and subsidiaries (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the "Website") and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
+Terapeak (Canada) Inc., a Canadian company and its wholly owned subsidiary Terapeak Inc., a Delaware company (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the “Website”) and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
 
-**Terapeak (Canada) Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through the website http://www.terapeak.com and does not cover information that may be collected through downloadable software. If you have questions or complaints regarding this Privacy Policy or our practices with respect to privacy, please contact us via email at privacy@terapeak.com or telephone at 1.866.959.8372 . If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.**
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## PURPOSE
 
@@ -32,13 +32,13 @@ The collection of personal information is limited to information reasonably rela
 
 
 
-## Login/Password
+### Login/Password
 
 In order for users to use some aspects of the Website or subscribe for the Products and Services, users must use unique identifiers such as a username and password. The username is the user’s email address. The password is chosen by the user and encrypted. We do collect passwords, which are recoverable.
 
-## Analytics/ Log Files
+### Analytics/ Log Files
 
-We automatically track certain information based on the user's use of the Website and the Products and Services. This includes: 
+We automatically track certain information based on the user's use of the Website and the Products and Services. This includes:
 
   * URL that the user came from (whether from the Website or not)
   * which URL the user goes to next (whether this URL is on the Website or not)
@@ -49,21 +49,21 @@ We automatically track certain information based on the user's use of the Websit
 
 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
 We do not link this automatically-collected data to personally identifiable information.
 
-## User Communications
+### User Communications
 
 We collect unsolicited information posted by users on the Website including blog postings and communications between users, or sent to us by users in messages, such as emails or letters.
 
-## Links
+### Links
 
 The Website contain links to other website. This Privacy Policy applies solely to the Website and the Products and Services. We are not responsible for the privacy practices of other websites. We encourage you to read the privacy policy of any such website prior to submitting your personal information.
 
-## Social Media Features
+### Social Media Features
 
-Our Website includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by  third parties . Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Website includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by  third parties. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ## USE OF INFORMATION
 
@@ -77,19 +77,19 @@ We create a profile of our users that details their viewing preferences. This pr
 
 We use the information obtained through the tracking of our users activities to administer the Website and Products and Services and generate statistics and aggregate reports, for internal use only, on our users demographics, interests, and behavior to better understand the users and our client base.
 
-### Tracking technologies
+### Tracking Technologies
 
 Technologies such as: cookies, beacons, tags and scripts are used by Terapeak and our marketing partners and service providers . These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole.
 
 We use cookies to remember users’ settings (e.g. language preference, for authentication and tracking users’ movements around the site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store user information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
+We use Local Storage Objects (LSOs) such as HTML5 to store user information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [http://preferences-mgr.truste.com](https://web.archive.org/preferences-mgr.truste.com).  If you use an iOS enabled device you can follow the opt-out steps provided here ([https://support.apple.com/en-us/HT202074](https://web.archive.org/support.apple.com/en-us/HT202074)) or if you use an Android enabled device you can follow the opt-out steps provided here ([https://support.google.com/ads/answer/2662922?hl=en](https://web.archive.org/support.google.com/ads/answer/2662922?hl=en)). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/).  If you use an iOS enabled device you can follow the opt-out steps provided here (<https://support.apple.com/en-us/HT202074>) or if you use an Android enabled device you can follow the opt-out steps provided here (<https://support.google.com/ads/answer/2662922?hl=en>). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 ### Testimonials
 
@@ -119,9 +119,9 @@ From time to time we conduct surveys and contests, participation in which may re
 
 ### Legal
 
-We may disclose personal information to a Court or public agency if legally required to do so such as to protect our rights and property, take emergency action regarding personal safety or where required by operation of law. We may also disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process.  When possible, we will advise you in the event that such action is necessary.
+In certain situations, Terapeak may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to a Court or public agency if legally required to do so such as to protect our rights and property, take emergency action regarding personal safety or where required by operation of law. We may also disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process.  When possible, we will advise you in the event that such action is necessary.
 
-### Sharing Of Personal Information With Third Parties
+### Sharing Of Personal Information with Third Parties
 
 Except as described in this Privacy Policy, we do not share personal information with third parties who are not service providers.
 
@@ -141,19 +141,19 @@ We may disclose your personal information to your authorized agents.
 
 ## SECURITY
 
-When you submit personal information to the Website or while using the Products and Services, your personal information is protected both online and offline. Only employees who need the personal information to perform a specific job (for example, a customer service representative) are granted access to personal information. Furthermore, all employees are kept up-to-date on our security and privacy practices. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacy@terapeak.com](mailto:privacy@terapeak.com).  When you submit personal information to the Website or while using the Products and Services, your personal information is protected both online and offline. Only employees who need the personal information to perform a specific job (for example, a customer service representative) are granted access to personal information. Furthermore, all employees are kept up-to-date on our security and privacy practices. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 You acknowledge and agree that we cannot ensure or guarantee your secure access or privacy on our Website given that no transmission over the Internet can be guaranteed to be 100% secure.
 
 ## OPTING OUT
 
-You may choose to refuse or withdraw consent to our use of your personal information as provided herein by refusing to provide personal information or withdrawing such consent, subject to any applicable notice provisions, by emailing [privacy@terapeak.com](mailto:privacy@terapeak.com).
+You may choose to refuse or withdraw consent to our use of your personal information as provided herein by refusing to provide personal information or withdrawing such consent, subject to any applicable notice provisions, by emailing [privacy@terapeak.com](mailto:privacy@terapeak.com).
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [privacy@terapeak.com](http://mailto:privacy@terapeak.com/)
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [privacy@terapeak.com](mailto:privacy@terapeak.com).
 
 ## ACCESSING AND UPDATING YOUR PERSONAL INFORMATION
 
-If you wish to access, change or delete your personal information, you can access, correct, update or delete your personal information or ask to have it removed from a testimonial on our site by emailing [privacy@terapeak.com](mailto:privacy@terapeak.com). We will respond to your request within a reasonable timeframe.
+Upon request Terapeak will provide you with information about whether we hold any of your personal information. If you wish to access, change or delete your personal information, you can access, correct, update or delete your personal information or ask to have it removed from a testimonial on our site by emailing privacy@terapeak.com. We will respond to your request within a reasonable timeframe.
 
 ### Retention of Personal Information
 
@@ -169,9 +169,9 @@ Notwithstanding any changes to our Privacy Policy, we will use personal informat
 
 If you have any questions, concerns or suggestions regarding this Privacy Policy or our privacy practices, please contact us at:
 
-**Terapeak Inc.**  
+_**Terapeak (Canada) Inc.**  
 200 – 1019 Wharf St.  
 Victoria, BC, Canada V8W 2Y9  
-Phone: 1 (866) 959-8372
+Phone: 1 (866) 959-8372_
 
-Email: [privacy@terapeak.com](mailto:privacy@terapeak.com)
+_Email:  [privacy@terapeak.com](mailto:privacy@terapeak.com)_
