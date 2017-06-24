@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609065525id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624150122id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Fairfax Digital - Australian Digital Media publisher
+# Privacy Policy - Fairfax Media - Australian Digital Media publisher
 
-You have come through to this page from a website which is owned and operated by Fairfax Media Limited. 
+You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited. 
 
-In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate, partnerships and joint venture entities. 
 
 This policy sets out: 
 
@@ -19,7 +19,7 @@ This policy sets out:
 
 
 
-We are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (subject to exemptions that apply to us under that Act). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate and employee records exemptions in the Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>. 
+We are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (subject to exemptions that apply to us under that Act). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate, employee records and other exemptions in the Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>. 
 
 We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. Your privacy matters to us, so whether you are new to Fairfax or are a long time user, please take the time to get to know our practices. 
 
@@ -45,7 +45,7 @@ We may collect the following types of personal information:
 
 ## COOKIES
 
-In some cases we may also collect your personal information through the use of cookies. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
+In some cases we may also collect your personal information through the use of cookies and other tracking devices. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users' habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
 
 We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
@@ -73,11 +73,11 @@ We may also collect personal information from third parties including:
 
 ## WHY DO WE COLLECT, HOLD, USE AND DISCLOSE PERSONAL INFORMATION
 
-The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer service. We collect, hold, use and disclose your personal information for the following purposes: 
+The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer experience. We collect, hold, use and disclose your personal information for the following purposes: 
 
   * to provide products and services to you;
   * to provide you with news, information or advice about our existing and new products and services;
-  * to communicate with you including by email, mail or telephone;
+  * to communicate with you, including but not limited to, by email, mail, SMS or telephone;
   * to manage and enhance our products and services;
   * to personalise and customise your experience;
   * to provide you with access to protected areas of our websites;
@@ -108,8 +108,8 @@ If you do not provide us with the personal information described in this policy,
 
 We may disclose your personal information to: 
 
-  * our employees, related bodies corporate, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
-  * our existing or potential agents, business partners or joint venture entities or partners;
+  * our employees, related bodies corporate, partnerships, joint venture entities, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
+  * our existing or potential agents and/or business partners;
   * our sponsors, or promoters of any competition that we conduct or promote via our services;
   * specific third parties authorised by you to receive information held by us;
   * the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary;
@@ -121,7 +121,7 @@ We may disclose your personal information to:
 
 We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the Spam Act 2004 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
 
-In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
+In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our "MyAccount" or Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
 
 If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
 
@@ -152,11 +152,11 @@ Email: [privacy@fairfaxmedia.com.au](mailto:privacy@fairfaxmedia.com.au)
 
 ## DISCLOSURE OF PERSONAL INFORMATION OUTSIDE AUSTRALIA
 
-We may disclose personal information to our related bodies corporate and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
+We may disclose personal information to our related bodies corporate, partnerships, joint venture entities and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
 
 We may disclose your personal information to entities located outside of Australia, including the following: 
 
-  * our related bodies corporate, located in New Zealand and South East Asia;
+  * our related bodies corporate partnerships and joint venture entities, located in New Zealand and South East Asia;
   * our data hosting and Cloud-based IT service providers;
   * other external service providers located in the Philippines and U.S.; and
   * other third parties operating in jurisdictions including China, India, Indonesia, New Zealand, Hong Kong and the United States where you have authorised us to do so.
@@ -175,7 +175,7 @@ Our website may contain links to other websites operated by third parties. We ma
 
 ## CHANGES TO OUR PRIVACY POLICY
 
-We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2014. 
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2017. 
 
 Fairfax Media Limited. ABN 15 008 663 161  
 1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
