@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129183806id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055342id_/https%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge Privacy Policy
 
@@ -195,8 +195,6 @@ THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WI
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
 
-TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <http://export.gov/safeharbor/>. 
-
 Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
 Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement. 
@@ -215,11 +213,13 @@ UNDER NO CIRCUMSTANCES WILL OUR COMPANY, ITS SERVICE PROVIDERS OR AFFILIATES BE 
 
 Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet. 
 
+International Visitors and the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks: RelevantKnowledge complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area and Switzerland to the United States. To learn more, please view our [EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Statement](https://www.comscore.com/content/download/39199/2259669/file/EN-Privacy+Shield+Statement+-+Comscore.pdf). 
+
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
 RelevantKnowledge does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
 
-This Agreement is effective as of April 28, 2015.
+This Agreement is effective as of May 25, 2017 .
 
 Whom can I contact if I have additional questions? 
 
@@ -237,4 +237,4 @@ USA
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1515
+LP 1721
