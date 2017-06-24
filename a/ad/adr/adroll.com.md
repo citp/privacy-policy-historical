@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229100501id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624115352id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
 
 # AdRoll - Privacy Policy
 
-Last updated July 31, 2016  
+Last updated June 19, 2017  
 [View archived Privacy Policy](https://web.archive.org/about/privacy-archived)
 
 We have prepared this Privacy Notice to explain how, why, and when we collect data from you to provide targeted advertising services for our clients.
@@ -70,7 +70,6 @@ We recognize how important your online privacy is to you, so we offer the follow
     * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
     * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
     * Other ad companies’ opt-outs may function differently than our opt-out.
-  * You can opt-out of our tracking your online activity for targeted advertising purposes (Do Not Track): We respond to “do not track” or “DNT” signals sent from your browser. If the website of one of our Advertisers receives a DNT signal, during that visit, we will not link data we collect to your browser identifier so that new data collected about you will not be used by us for targeted advertising purposes, but older data collected about you may still be used.
   * To opt out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices: 
     * _iOS 7 or Higher:_ Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting
     * _For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher:_ Open your Google Settings app > Ads > Enable “Opt out of interest-based advertising”
@@ -78,6 +77,8 @@ We recognize how important your online privacy is to you, so we offer the follow
 
 
 Opting out will not prevent you from seeing ads, but those ads will likely be less relevant because they won’t be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
+
+Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal.
 
 In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [delight@adroll.com](mailto:delight@adroll.com). Please note that in many cases, we hold identifiable information only on behalf of our Advertiser clients, and we may instead direct you to contact them.
 
@@ -94,8 +95,6 @@ We apply technical, administrative and organizational security measures to prote
 ### 8\. International transfers
 
 We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
-
-Pending further developments relating to the status of data transfers to the US under the previous Safe Harbor regime, to the extent they are applicable, AdRoll, Inc. (our U.S.-based parent company) will continue to comply with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from the relevant European countries, effective as of the date its certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>. To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact AdRoll, Inc. as described below, and our Advertisers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (<http://info.adr.org/safeharbor>). To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>.
 
 ### 9\. Changes to this Privacy Notice
 
@@ -114,7 +113,7 @@ Level 6
 Burlington Road  
 Dublin 4, Ireland
 
-Last updated July 31, 2016  
+Last updated June 19, 2017  
 [View archived Privacy Policy](https://web.archive.org/about/privacy-archived)
 
 We have prepared this Privacy Notice to explain how, why, and when we collect data from you on our website.
@@ -191,10 +190,11 @@ We recognize how important your online privacy is to you, so we offer the follow
     * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
     * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
     * Other ad companies’ opt-outs may function differently than our opt-out.
-  * You can opt-out of our tracking your online activity for targeted advertising purposes (Do Not Track): We respond to “do not track” or “DNT” signals sent from your browser. If the website of one of our Advertisers receives a DNT signal, during that visit, we will not link data we collect to your browser identifier so that new data collected about you will not be used by us for targeted advertising purposes, but older data collected about you may still be used.
   * You can request that we stop email marketing to you. You can use the unsubscribe link in our marketing emails or contact [delight@adroll.com](mailto:delight@AdRoll.com).
 
 
+
+Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal.
 
 In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [delight@adroll.com](mailto:delight@adroll.com).
 
@@ -209,8 +209,6 @@ We apply technical, administrative and organizational security measures to prote
 ### 8\. International transfers
 
 We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
-
-Pending further developments relating to the status of data transfers to the US under the previous Safe Harbor regime, to the extent they are applicable, AdRoll, Inc. (our U.S.-based parent company) will continue to comply with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from the relevant European countries, effective as of the date its certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>. To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact AdRoll, Inc. as described below, and our Advertisers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (<http://info.adr.org/safeharbor>). To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>.
 
 ### 9\. Changes to this Privacy Notice
 
