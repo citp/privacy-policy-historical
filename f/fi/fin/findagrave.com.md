@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113642id_/https%3A//findagrave.com/privacy.html) for the most accurate reproduction.*
 
 # Find A Grave - Privacy Statement
 
-[](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/index.html)
+[](https://web.archive.org/web/20170624113642id_/https%3A//findagrave.com/index.html)
 
 **Last updated on 23 May, 2014**
 
-This Privacy Statement discusses the collection, use, storage and disclosure of your personal information by Find A Grave, Inc., 360 W 4800 N, Provo, UT 84604, United States (referred also as "Find A Grave", "us", "our" or "we") and applies to visitors and members registering on the websites and the mobile websites and applications that we operate worldwide, including FindAGrave.com and the Find A Grave mobile application and which link directly to this Privacy Statement (collectively, the "Websites"). For previous versions of the Privacy Statement click [here](https://web.archive.org/privacy-old.html).
+This Privacy Statement discusses the collection, use, storage and disclosure of your personal information by Find A Grave, Inc., 1300 W Traverse Parkway, Lehi, UT 84043, United States (referred also as "Find A Grave", "us", "our" or "we") and applies to visitors and members registering on the websites and the mobile websites and applications that we operate worldwide, including FindAGrave.com and the Find A Grave mobile application and which link directly to this Privacy Statement (collectively, the "Websites"). For previous versions of the Privacy Statement click [here](https://web.archive.org/privacy-old.html).
 
 ### Our Privacy Commitment
 
@@ -125,11 +125,11 @@ If you have any questions or complaints about this Privacy Statement, Find A Gra
 
 **Need Help?**
 
-**Email us at:** [info@findagrave.com](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/info@findagrave.com)
+**Email us at:** [info@findagrave.com](https://web.archive.org/web/20170624113642id_/https%3A//findagrave.com/info@findagrave.com)
 
 **Or write to us at:**  
 Find A Grave, Inc.  
 Attn: Legal Department  
-360 W 4800 N  
-Provo, UT 84604, United States  
+1300 W Traverse Parkway  
+Lehi, UT 84043, United States  
 
