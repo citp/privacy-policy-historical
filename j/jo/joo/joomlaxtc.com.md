@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaxtc.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044312id_/http%3A//www.joomlaxtc.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaxtc.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624052011id_/http%3A//www.joomlaxtc.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website and products here: [Term and Conditions](http://www.joomlaxtc.com/terms-and-conditions). 
+Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website and products here: [Term and Conditions](https://www.joomlaxtc.com/terms-and-conditions). 
 
 ## Your Consent
 
@@ -78,7 +78,7 @@ We reserve the right to change or modify this Privacy Policy without notice.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.joomlaxtc.com  
+https://www.joomlaxtc.com  
 202 S. 22nd Street, Suite 103  
 Tampa, Florida 33605  
 USA  
