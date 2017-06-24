@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127044113id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113155id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
 
 # KHL Group - Privacy Policy
 
