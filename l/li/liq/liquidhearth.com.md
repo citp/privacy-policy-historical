@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidhearth.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010202id_/http%3A//www.liquidhearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidhearth.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624083117id_/http%3A//www.liquidhearth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ By accepting cookies and using this website, you consent to the processing of da
 
 ## Data Security
 
-Team Liquid runs on dedicated hosting servers which only a few trusted senior site staff have access to. These servers are located in a professionally managed and secure data center in New York, USA.
+Team Liquid runs on dedicated hosting servers which only a few trusted senior site staff have access to. Our servers are located in professionally managed and secure data centers in Canada and France.
 
 ## Children's Privacy
 
