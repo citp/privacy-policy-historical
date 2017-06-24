@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715225926id_/https%3A//tictail.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624201929id_/https%3A//tictail.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tictail
+# Sobre nosotros • Tictail
 
 Your privacy is important to us at Tictail, Inc. (“ _Tictail_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”), so we’ve created this privacy policy (this “ _Privacy Policy_ ”) to explain Tictail’s information collection and use practices in connection with the Service. You’re bound to the Privacy Policy, too: it’s part of the Agreement, and by using the Service you agree that you have read it, that you understand it, and that you will comply with it.
 
@@ -8,11 +8,11 @@ If you see any capitalized terms that aren’t defined in this Privacy Policy, t
 
 ## 1\. The Information We Collect and/or Receive
 
-_A. Personal Information_
+### _A. Personal Information_
 
 When you sign up to become a User or when you purchase a Product, you may be required to provide us with personal information about yourself, including, without limitation, your name, phone number, e-mail address, and profile picture. And, if you contact us via the Contact Us page or decide to purchase a Product, you’ll need to provide your name and other contact information. All information that we receive under this section is collectively called “ _Personal Information_.” We don’t collect any Personal Information from Visitors or Users when they use the Service, unless they provide such information voluntarily. Some of this Personal Information will be publically accessible through the Service, and you agree that we may display this publically accessible Personal Information to other Users or elsewhere on the Service, by itself or in connection with Other Information (defined below) relating to your activities on the Service or with any User Content you provide.
 
-_B. Other Information_
+### _B. Other Information_
 
 In addition to the Personal Information, we may collect or receive additional information (collectively, the “ _Other Information_ ”). Such Other Information may be collected:
 
@@ -25,7 +25,7 @@ In addition to the Personal Information, we may collect or receive additional in
 
 
 
-_C. Billing Information_
+### _C. Billing Information_
 
 In order to process any transactions through the Service, such as for a Product or Application, you may be required to provide certain billing information, such as information related to your PayPal account, debit card number, credit card number, expiration date, bank account information, billing address, activation code, and similar information (collectively, the “ _Billing Information_ ”). This Billing Information may be collected and processed by our third-party payment vendors (“ _Payment Platform_ ”) pursuant to the terms and conditions of their privacy policies and terms of use. If we obtain access to your Billing Information in connection with those transactions, we promise not to share it with any third parties unless it is necessary to process your transaction or administer the Service.
 
@@ -33,28 +33,18 @@ In order to process any transactions through the Service, such as for a Product 
 
 You authorize us to share Other Information about your activity on the Website with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Website and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.
 
-## 3\. How We Use and Share the Information
-
 You authorize us to use the Personal Information and the Other Information (collectively, the “ _Information_ ”) to provide and improve our Website, Service, and other products and services; to process transactions you request; to inform you about our products and services and those of our promotional partners; and to bring you customized content (such as newsletters) based on your activity in connection with the Service.
 
 You also authorize us to use and/or share Information as described below.
 
   * We may share the Information concerning our Users with our resellers, distributors, and sales representatives, which may use the Information to help inform Users about our products and services.
-
   * We may, from time to time, share Information with other companies, which may provide you information about the products and services they or their partners offer. However, to the extent required by law, you will be given the opportunity to opt-out of such sharing.
-
   * We will access, use, and share the Information as required to fulfill our contractual obligations to you and to address your questions or requests regarding our products, services, and/or support.
-
   * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing technical assistance, recruiting services, order fulfillment, customer service, and marketing assistance. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.
-
   * In an ongoing effort to better understand our Visitors, Users, Website, Service, and other products and services and those of our promotional partners, we may analyze certain Information in anonymized and aggregate form. This aggregate information does not identify you personally. We may share and/or license this aggregate data to our affiliates, agents, business and promotional partners, and other third parties. We may also disclose aggregated user statistics in order to describe the Website and these products and services to current and prospective business partners and to other third parties for other lawful purposes.
-
   * We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
-
   * As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
-
   * To the extent permitted by law, we may also disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing the Information is necessary or advisable, for example, to protect the rights, property, or safety of Tictail or others.
-
 
 
 
@@ -76,11 +66,11 @@ The Website may contain links to External Sites. Tictail has no control over the
 
 ## 8\. Children
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the Website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us at [accounts@tictail.com](https://web.archive.org/web/20160715225926id_/https%3A//tictail.com/legal/accounts@tictail.com), and we will endeavor to delete that information from our databases.
+We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the Website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us at [legal@tictail.com](mailto:legal@tictail.com), and we will endeavor to delete that information from our databases.
 
 ## 9\. California Residents
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Tictail may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [legal@tictail.com](https://web.archive.org/web/20160715225926id_/https%3A//tictail.com/legal/legal@tictail.com) with “PRIVACY POLICY” in the subject line.
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Tictail may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [legal@tictail.com](mailto:legal@tictail.com) with “PRIVACY POLICY” in the subject line.
 
 In addition, Tictail does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
 
