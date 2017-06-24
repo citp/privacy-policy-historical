@@ -1,28 +1,41 @@
-> *The following text is extracted and transformed from the apkpc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021001id_/http%3A//apkpc.com/node/1323650) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkpc.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125220id_/https%3A//apkpc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy APK for Android | ApkPC
+# Privacy Policy - ApkPC.com
 
-The privacy of our visitors at PubApk.com is extremely important to us.
+ApkPC.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect our users, but also increase users confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. ApkPC.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. By using our site, you consent to our website’s privacy policy and [Terms of use](https://apkpc.com/terms.html "Terms of use").
 
-At Apkpc.com, we recognize that privacy of your personal information is important. Here are the information on what types of personal information we receive and collect when you use visit Apkpc.com, and how we safeguard your information.  **We will never sell your personal information to third parties**.
+How We Gather Information and Technologies We Use?
 
-## Log Files
+This section provides information about the information we collect and how the technologies we utilize work.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+1\. Cookies.  
+We use "cookies." The cookies we place on your computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. We use cookies to improve the quality of ApkPC.com. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. They also allow us to optimize ApkPC.com to make sure that we are delivering the best possible experience to our users. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly. To learn more about controlling browser cookies visit: <http://www.aboutcookies.org/Default.aspx?page=1>.
 
-## Cookies and Web Beacons
+Additionally, we allow third parties that display advertisements, search listings, and other content on portions of ApkPC.com to set and access their cookies on your computer or device and any cookies are subject to the applicable third parties privacy policies and not ours. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to ApkPC.com in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We also partner with a limited number of interest-based advertising companies to serve ads and/or collect certain information when you visit our websites. Interest-based advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this 'interest-based advertising' practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp.>
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This may allow us to keep you logged into special site features such as our Forums, or automatically fill in data for you in various forms.
+2\. Device Information.  
+We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access ApkPC.com to ensure that ApkPC.com is optimized for those devices.
 
-We also use third party advertisements on PubApk.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (for example showing Los Angeles real estate ads to someone in Los Angeles) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequently visit cooking sites).
+3\. Analytics.  
+We use third party information, reports and analysis about the usage and browsing patterns of users of ApkPC.com. We allow the third party analytics companies to include web beacons and cookies on ApkPC.com. The collected information includes search terms, search parameters, click-throughs by users, and other similar information. We utilize this information to improve ApkPC.com and make sure we are delivering relevant content to our users. The Analytics we use do not identify individual users of ApkPC.com.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+4\. Log Files.  
+We may also automatically log certain anonymous information about visitors to ApkPC.com, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed.
 
-## Use of the collected Data
+Use of Third Party Ad Networks and Social Networks
 
-  * The User to be informed of any Site maintenance or inconvenience
-  * To improve user experience with this site
-  * To display banners related to User interests (behavioral targeting / advertising)
-  * Defense by the Website Owner, in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.
+ApkPC.com expects its partners, advertisers to respect the privacy of our users. However, third parties, including our partners, advertisers and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on ApkPC.com page, certain content that is actually created or hosted by a third party. Also, through ApkPC.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. ApkPC.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. ApkPC.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personal information (i.e., information that does not include your name, address, email address or telephone number) about your visits to this and other Web sites in an effort to provide advertisements about goods and services that may be of interest to you. To learn more about third-party advertising or to opt-out of such advertising, you can visit both the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/).
+
+In addition to the above, we have implemented at ApkPC.com certain "Google Analytics" features that support display advertising, including re-targeting. Visitors to ApkPC.com may opt out of Google Analytics, customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/) and learn more about how google serves ads by viewing its [Customer Ads Help Center](https://support.google.com/ads/?hl=en). If you do not wish to participate in Google Analytics, you may also download the [Google Analytics pt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+Changes in Privacy Policy
+
+ApkPC.com reserves the right to change or update this Privacy Policy at any time by posting a notice at the Site explaining that we are changing our Privacy Policy.
+
+Contacting the Site
+
+This information is used to respond directly to your questions or comments. If you have any questions about this Privacy Policy, please feel free to contact us [here](https://apkpc.com/contact-us.html "Contact ApkPC") .
