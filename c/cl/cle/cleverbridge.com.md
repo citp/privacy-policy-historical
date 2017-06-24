@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014545id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624221107id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cleverbridge Global Subscription Billing Solutions
 
