@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zi.ma privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119121733id_/http%3A//name.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zi.ma privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055041id_/http%3A//name.ly/privacy) for the most accurate reproduction.*
 
 # Name.ly » Privacy Policy
 
@@ -34,4 +34,4 @@ If we intend to transfer your information outside the EEA (European Economic Are
 
 We may use technology to track the patterns of behaviour of visitors to our site(s). This can include using a “cookie” which would be stored on your browser. You can usually modify your browser to prevent this happening, however you will be unable to complete your order online. The information collected in this way can be used to identify your computer activity on our web sites.
 
-Short link: [](http://www.facebook.com/share.php?u=http://name.ly/~rQNI$7) [](http://twitter.com/intent/tweet?text=http://name.ly/~rQNI$7) [](mailto:have.a.look@thatis.me?subject=http://name.ly/~rQNI$7) Copy \- <http://name.ly/~rQNI$7>
+Short link: [](http://www.facebook.com/share.php?u=http://name.ly/~iMUL$7) [](http://twitter.com/intent/tweet?text=http://name.ly/~iMUL$7) [](mailto:have.a.look@thatis.me?subject=http://name.ly/~iMUL$7) Copy \- <http://name.ly/~iMUL$7>
