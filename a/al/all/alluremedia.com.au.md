@@ -1,133 +1,182 @@
-> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311031240id_/http%3A//www.alluremedia.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624150122id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | Allure Media
+# Privacy Policy - Fairfax Media - Australian Digital Media publisher
 
-This website is owned and operated by Allure Media Pty Limited (Allure Media, we, us or our).
+You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited. 
 
-Allure Media is bound by the National Privacy Principles (NPPs) in the Privacy Act 1988 and this Privacy Policy applies to Allure Media and the websites it operates.
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate, partnerships and joint venture entities. 
 
-This Privacy Policy applies to all Allure Media's business activities. Also, to the extent that it relates to personal information supplied by users of our websites, it forms part of the terms and conditions of those websites. This is explained in more detail in the terms and conditions of each of the websites we operate. 
+This policy sets out: 
 
-This Privacy Policy outlines how Allure Media handles personal information. "Personal information" is information or an opinion that identifies an individual, or from which an individual's identity reasonably can be ascertained. 
+  * what is considered personal information;
+  * what personal information we collect and hold;
+  * how we collect, hold, use or disclose personal information;
+  * the purposes for which we collect personal information;
+  * what happens if we are not able to collect personal information;
+  * how to seek access to and correct your personal information;
+  * whether we disclose personal information outside Australia; and
+  * how to contact us.
 
-**1\. What personal information do we collect and why?**
 
-**(a) Website users**
 
-Much of the personal information that Allure Media collects is information that website users volunteer to us (through our websites). 
+We are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (subject to exemptions that apply to us under that Act). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate, employee records and other exemptions in the Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>. 
 
-For instance, personal information is provided by users who register for our website services (Registration Information), including: 
+We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. Your privacy matters to us, so whether you are new to Fairfax or are a long time user, please take the time to get to know our practices. 
 
-  * Discussion boards: Sometimes we provide a discussion board service on our websites so that users can discuss common topics of interest. If a user chooses to sign up to a discussion board service, they must provide us with some personal information including a valid email address. Allure Media uses this personal information to identify users who leave comments prohibited by our terms and conditions of use, and also to identify topics of interest to discussion board users; and 
-  * Comments: Also, website users can choose to leave comments on particular articles of interest. To leave a comment, users must submit personal information including a valid email address. Allure Media uses this information to screen out users who leave comments prohibited by our terms and conditions of use only.
+## WHAT IS PERSONAL INFORMATION
 
+When used in this policy, the term “personal information” has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, postcode and contact details (including phone numbers and email addresses) and possibly financial information, including your credit card, direct debit or PayPal account information. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information. 
 
+## WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD
 
-Also, Allure Media may aggregate personal information that is Registration Information. This is for research purposes only (and the aggregated data will not identify any individual users). 
+We may collect the following types of personal information: 
 
-The discussion boards and comment pages that we provide through our websites are public spaces. For this reason, website users who post information to discussion boards or comment pages are taken to consent to such information and comments being disclosed to other users of those websites. 
+  * name;
+  * mailing or street address;
+  * email address;
+  * telephone number;
+  * age or birth date;
+  * profession, occupation or job title;
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through our representatives or otherwise;
+  * information you provide to us through our service centre, customer surveys or visits by our representatives from time to time.
 
-**(b) Competition entrants**
 
-As explained in the terms and conditions of our websites, from time to time, Allure Media conducts competitions and promotions. Allure Media will collect personal information when it does so, in order to distribute prizes and administer the relevant competition or promotion. 
 
-If we collect personal information in this way, when you enter the competition or promotion we may also ask you to consent to us using that information for marketing purposes or for other purposes. 
+## COOKIES
 
-**(c) Business contacts**
+In some cases we may also collect your personal information through the use of cookies and other tracking devices. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users' habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
 
-We also collect personal information from people we do business with, such as contact people in our external service providers and related bodies corporate. This information is needed so that we can manage our business, and is collected in the ordinary course of business.
+We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
-**(d) Journalism subjects**
+## HOW WE COLLECT PERSONAL INFORMATION
 
-In the course of operating the www.defamer.com.au and www.gizmodo.com.au websites, Allure Media operates as a media organisation (ie in that it collects and disseminates of news and information, and related commentary and opinions). The NPPs do not apply to acts done or practices engaged in by media organisations in the course of journalism if they are publicly committed to observing standards that deal with privacy in the context of their media activities, and which have been published in writing.
+We collect your personal information directly from you unless it is unreasonable or impractical to do so.   
+We do this in ways including: 
 
-In operating the www.defamer.com.au and www.gizmodo.com.au websites, Allure Media is committed to complying with the Journalism Privacy Standards in Annexure A of this Privacy Policy.
+  * through your access and use of our website, apps or sending SMS/MMS to us;
+  * through someone else who has provided us with your information (e.g. a gift subscription);
+  * during conversations between you and our representatives; and
+  * when you complete an application or purchase order.
 
-**(e) Employees**
 
-Allure Media also collects personal information about its own employees, but its handling of employee information is not within the scope of this privacy policy.
 
-**2\. Will personal information be given to anyone else?**
+We may also collect personal information from third parties including: 
 
-Subject to the exceptions outlined below, Allure Media's policy is not to disclose personal information that is Registration Information to third parties. 
+  * third party companies such as credit reporting agencies, law enforcement agencies and other government entities;
+  * advertisers;
+  * mailing lists;
+  * recruitment agencies;
+  * contractors and business partners.
 
-Like most businesses, Allure Media uses a number of external service providers to help us perform functions such as delivery, mailing, IT and website support. For our service providers to perform those functions effectively and efficiently it is sometimes necessary for them to handle personal information on our behalf. This may include Registration Information and other personal information held by us. Under the terms of our service agreements with our service providers, we require those external service providers to respect your privacy, and authorise them only to use personal information that we disclose to them in order to provide the services we require. 
 
-We may also disclose personal information we are under a legal requirement to do so (eg under a court order, or if required under legislation), or if an authorised request is made (eg from a law enforcement agency). 
 
-As noted above, website users who post information to discussion boards or comment pages consent to such information and comments being disclosed to other users of those websites. 
+## WHY DO WE COLLECT, HOLD, USE AND DISCLOSE PERSONAL INFORMATION
 
-**3\. Access and Correction**
+The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer experience. We collect, hold, use and disclose your personal information for the following purposes: 
 
-Under the Privacy Act, you have a right to seek access to information which we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. 
+  * to provide products and services to you;
+  * to provide you with news, information or advice about our existing and new products and services;
+  * to communicate with you, including but not limited to, by email, mail, SMS or telephone;
+  * to manage and enhance our products and services;
+  * to personalise and customise your experience;
+  * to provide you with access to protected areas of our websites;
+  * to conduct competitions or promotions on behalf of Fairfax and selected third parties;
+  * to verify your identity;
+  * to provide as part of business data to third parties if you have authorised us to do so;
+  * to conduct business processing functions for operation of our websites or our business;
+  * for our administrative, marketing (including direct marketing), promotional, planning, product/service development, quality control and research purposes, or those of our contractors or external service providers;
+  * to provide your updated personal information to us, our contractors or external service providers;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
 
-As noted, the personal information that we hold about you will generally be information that you have provided to us. However, if you wish to exercise your right under the Privacy Act to seek access to personal information that we hold about you, we ask that you contact our Privacy Officer (details at point 7 below), who will explain how we will handle your access request. Our policy is to consider any requests for correction in a timely way. 
 
-**4\. Is personal information stored safely?**
 
-Allure Media takes reasonable steps to ensure that the personal information we hold is stored in a secure environment protected from unauthorised access, modification or disclosure. We remind our staff and contractors of the importance of storing personal information in a secure way, and to treat it like confidential information. 
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy. 
 
-**5\. Cookies & Log Files**
+## WHAT HAPPENS IF WE CAN’T COLLECT YOUR PERSONAL INFORMATION
 
-**Cookies:** The discussion boards hosted by our websites may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+If you do not provide us with the personal information described in this policy, some or all of the following may happen: 
 
-By setting a cookie on an Allure Media site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use any products or services we offer that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all of our services require that you accept cookies. 
+  * we may not be able to provide you with the products or services you requested, either to the same standard, or at all (for example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only);
+  * we may not be able to provide you with information about products and services that you may want, including information about discounts sales or special promotions; or
+  * we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful.
 
-**Log Files:** Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, information about you browser type and your internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks you make. This is used to analyse trends, administer the site, track users' movements in the aggregate, and gather broad demographic information for aggregate use. However, this information is not linked to the personal information that you provide to the site. 
 
-**6\. Email/SMS marketing**
 
-We will not email or SMS you marketing material unless you have consented to this. This is a requirement of the Spam Act 2003. Further, you can unsubscribe from our electronic communications by using the "unsubscribe" facility contained in each electronic publication we send. 
+## HOW DO WE DISCLOSE YOUR PERSONAL INFORMATION
 
-**7\. Contacting us**
+We may disclose your personal information to: 
 
-If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer: 
+  * our employees, related bodies corporate, partnerships, joint venture entities, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
+  * our existing or potential agents and/or business partners;
+  * our sponsors, or promoters of any competition that we conduct or promote via our services;
+  * specific third parties authorised by you to receive information held by us;
+  * the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary;
+  * as required or permitted by any law (including the Privacy Act).
 
-  * by telephone (+61 2 9947 2920); or 
-  * by letter (The privacy officer, Allure Media, Level 4, 71 Macquarie St, Sydney NSW 2000). 
 
 
+## DIRECT MARKETING MATERIALS
 
-**8\. Changes to this Privacy Policy**
+We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the Spam Act 2004 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
 
-We review our privacy policy from time to time to make sure it is complying with legislative requirements and is in line with our users' expectations. We reserve the right to change the policy accordingly. 
+In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our "MyAccount" or Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
 
-This policy was last updated in May 2007. 
+If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
 
-**ANNEXURE A: JOURNALISM PRIVACY STANDARDS**
+## ACCESSING AND CORRECTING YOUR PERSONAL INFORMATION
 
-**Introduction**
+You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you. We will not charge for simply making a request and will not charge for making any corrections to your personal information. If you make an access request, we will ask you to verify your identity. There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others, or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. 
 
-The National Privacy Principles contained in the Privacy Act 1988 do not apply to "acts done or practices engaged in by a media organisation in the course of journalism", so long as that media organisation is publicly committed to observing standards that deal with privacy in the context of its activities and those standards have been published in writing by the organisation. 
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it. 
 
-Allure Media acts as a media organisation to the extent that it operates the www.defamer.com.au and www.gizmodo.com.au websites (Website). These Journalism Privacy Standards (Standards) outline how Allure Media's employees who are engaged in the provision of content for the Website (Journalists) will handle personal information.
+Members of our websites will generally be able to access and update their membership details online. We request that you keep your information as current as possible so that we may continue to improve our service to you. 
 
-The objective of these Standards is to balance the right of a person to privacy against the media's right to inform the public about newsworthy matters and other matters of public interest. 
+## HOW YOU CAN COMPLAIN ABOUT A BREACH OF PRIVACY
 
-**What is personal information?**
+If you believe your privacy has been breached by us, have any questions or concerns about our Privacy Policy please, contact us using the contact information below and provide details of the incident so that we can investigate it. 
 
-"Personal information" is information or an opinion that identifies an individual, or from which an individual's identity reasonably can be ascertained.
+We have a formal procedure for investigating and dealing with privacy breaches. Once the Privacy Officer receives a complaint, whether it is in writing or verbal means, the Privacy Officer will commence an investigation with the relevant business unit from which the alleged breach stemmed. The investigator will endeavour to determine the nature of the breach and how it occurred. We may contact you during the process to seek any further clarification if necessary. If a breach is found, the Privacy Officer will escalate the matter to management so that the process can be rectified to prevent any further breaches from taking place. We will also contact you to inform you of the outcome of the investigation. We will endeavour to resolve all investigations within a reasonable time. 
 
-**Collection of personal information by Journalists**
+We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner. 
 
-Journalists will collect personal information in the course of compiling reports and other information for the Website. Journalists should only collect personal information that is needed for an actual or anticipated report or Website posting. 
+Please contact our Privacy Officer at: 
 
-**How will personal information be used or disclosed by Journalists?**
+Privacy Officer   
+Fairfax Media Limited   
+Post: GPO Box 506   
+Sydney NSW 2001   
+Tel: 02 9282 2040   
+Email: [privacy@fairfaxmedia.com.au](mailto:privacy@fairfaxmedia.com.au)
 
-Personal information collected by Journalists should be used or disclosed for the purpose for which it was collected (eg for the publication of a story on the Website) or for related purposes (eg formulating commentary about such information, for publication on the Website). Personal information should only be disclosed on the Website if it is relevant to the story in question. 
+## DISCLOSURE OF PERSONAL INFORMATION OUTSIDE AUSTRALIA
 
-**How will personal information be stored and checked?**
+We may disclose personal information to our related bodies corporate, partnerships, joint venture entities and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
 
-It is a responsibility of Journalists to take reasonable steps to check that the personal information they use is accurate, complete and up-to-date, and that it is stored in a secure way. 
+We may disclose your personal information to entities located outside of Australia, including the following: 
 
-**Can our sources stay anonymous?**
+  * our related bodies corporate partnerships and joint venture entities, located in New Zealand and South East Asia;
+  * our data hosting and Cloud-based IT service providers;
+  * other external service providers located in the Philippines and U.S.; and
+  * other third parties operating in jurisdictions including China, India, Indonesia, New Zealand, Hong Kong and the United States where you have authorised us to do so.
 
-Journalists are not required by privacy laws to reveal the identity of confidential sources.
 
-**What is sensitive information?**
 
-Under the NPPs, sensitive information includes details of a person's religion, race, sexual preferences, health or union/association membership. Sometimes, media organisations need to collect sensitive information if it is relevant information for a story. Journalists must take care in relation to the use of sensitive information by taking reasonable steps to ensure that they do not portray any person in a negative light on the basis of that information only (eg by placing gratuitous emphasis on age, colour, gender, national origin, physical or mental disability, race, religion or sexual preference). The focus should be upon the conduct or omissions, rather than the racial or other sensitive characteristics of the person who engages (or fails to engage in) in the relevant conduct. 
+## SECURITY
 
-**Complaints**
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions. 
 
-If you have a complaint about the handling of personal information by Journalists, please contact our Privacy Officer (see details in section 7 of the Allure Media Privacy Policy). 
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
+
+## LINKS
+
+Our website may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices. 
+
+## CHANGES TO OUR PRIVACY POLICY
+
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2017. 
+
+Fairfax Media Limited. ABN 15 008 663 161  
+1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
+[Contact us](https://membercentre.fairfax.com.au/ContactUs.aspx)
