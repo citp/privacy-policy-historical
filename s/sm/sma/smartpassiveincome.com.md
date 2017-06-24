@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055048id_/http%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624153314id_/https%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Smart Passive Income Blog
 
@@ -28,7 +28,7 @@ Flynndustries, LLC dba SmartPassiveIncome.com (“us,” “we,” or “Company
 
 (e) Do Not Track Signals. We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
-(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](https://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
+(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](http://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
 
   * [Facebook](https://www.facebook.com/about/privacy/)
   * [LinkedIn](https://www.linkedin.com/legal/pop/pop-privacy-policy)
