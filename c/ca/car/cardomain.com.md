@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621002412id_/http%3A//www.enthusiastnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624124615id_/http%3A//www.enthusiastnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TEN: The Enthusiast Network
 
@@ -61,7 +61,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
 3\. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
 
-4\. If you do not wish to have your personal information shared with third parties or with other entities in the TEN corporate family, please [click here](http://www.enthusiastnetwork.com/unsubscribe/).
+4\. If you do not wish to have your personal information shared with third parties or with other entities in the TEN corporate family, please [click here](http://enthusiastnetwork.com/unsubscribe/).
 
 5\. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to TEN: The Enthusiast Network at 831 South Douglas Street, El Segundo, CA 90245; Attention: Legal Department. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us.
 
@@ -99,4 +99,5 @@ TEN: The Enthusiast Network
 El Segundo, CA 90245  
 Attention: Legal Department  
 _  
-Last Update May 24, 2014
+Last Update May 24, 2014  
+
