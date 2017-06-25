@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drikpanchang.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223909id_/http%3A//www.drikpanchang.com/contactus/privacy-policy/dp-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drikpanchang.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625172642id_/http%3A//www.drikpanchang.com/contactus/privacy-policy/dp-privacy-policy.html) for the most accurate reproduction.*
 
 # DrikPanchang.com Privacy Policy
 
