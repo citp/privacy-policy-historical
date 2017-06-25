@@ -1,48 +1,17 @@
-> *The following text is extracted and transformed from the rapidmassprofits.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219110203id_/http%3A//rapidmassprofits.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidmassprofits.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Rapid Mass Profits
+# Legal
 
-#### Privacy Terms
+* * *
 
-We will never sell, barter, or rent your email address to any unauthorized third party. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-How we gather information from users:
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-How we collect and store information depends on the page you are visiting. Like most Web sites, this website collects information automatically and through the use of electronic tools that may be transparent to our visitors.   
-For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit.
 
-**What we do with the information we collect:**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
-
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).
-
-We may use Personally Identifiable Information collected on the website to communicate with you about your registration; our privacy policy; services and products offered by this website and other topics we think you might find of interest. 
-
-Affiliated sites, linked sites and advertisements: 
-
-This website expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you might click a link to, or view as part of a frame, page, certain content that is actually created or hosted by a third party. Also, through this website you may be introduced to, or be able to access, information, Web sites, features offered by other parties. This website is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
-
-**Children:**
-
-We do not knowingly collect or solicit Personally Identifiable Information from or about children under 13. 
-
-If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that we have any information from or about anyone under 13, please contact us at the email address listed below. Only persons 18 years of age and older and who qualify as Major emancipated persons in terms of the laws of their country, may participate or purchase our products or receive our services. 
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and we do not accept responsibility for any actions or policies of such third parties. 
-
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat or comment areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of this website. 
-
-Changes to this Policy:
-
-We reserve the right to change this policy at any time. Please check this page periodically for changes.
-
-Governing law:
-
-This policy and the use of this Site and purchase of any product from this site are governed by the laws of England and Wales.
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-By becoming a member of this website or using this website you agree that you unconditionally accept this disclaimer agreement.
-
-You further agree that the owners of this website, its Directors and representatives can not be held liable for any loses, injury or damages the user may claim as per the laws of England and Wales or any other country.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
