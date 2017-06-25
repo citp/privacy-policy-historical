@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the quotient.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033641id_/https%3A//www.quotient.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotient.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625214557id_/https%3A//www.quotient.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quotient Technology Inc.
 
-Close
-
 Effective from November 7, 2016.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=c7089cba-f9ee-4208-a8ae-178e00da5c4d)
+[](https://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=37&sealid=112)
 
   1. **Introduction**
 
@@ -76,7 +74,8 @@ We may receive information from third parties about you, including Personal Info
 
 If you choose to use any of our referral services to tell someone else about our Services, or to email a promotion, we will ask you for that person’s name and email address. We will use the information you provide to automatically send to that person the referral, such as an email inviting him or her to the Services you recommended. We do not share this email with any third party, other than those third party service providers used to transmit the referral.
 
-**(e)   _Information From Use Of Our Mobile Websites and Applications_**
+   
+**(e) _Information From Use Of Our Mobile Websites and Applications_**
 
 In addition to other information described above, when you download or use one of our mobile applications, or access the Services through a mobile device, we may automatically collect information about your location and your mobile device, including your operating system, device type, and device identifier. We may also request access to the device storage and camera, and permission to send you push notifications. You may decline to provide location information, storage and camera access, and push notification permission at any time using your mobile device’s system settings. Please consult your mobile device’s instruction manual for additional information about controlling system and application settings.
 
@@ -134,8 +133,6 @@ Please contact us using [this form](http://www.quotient.com/contact-us/) to dete
 **California Do Not Track Disclosure.** Because at this time, there is no general agreement on how companies should interpret Do Not Track signals, we do not currently respond to Do Not Track signals, whether a signal is received on a computer or on a mobile device. However, we offer you [choices](http://www.quotient.com/cookie-policy/#ad-opt-out) about how we use the information we collect through online tracking.
 
 **Interest-Based Advertising**. Our Ad Partners, vendors and other third parties may track your online activities and collect information for use in providing content and advertising tailored to your interests.  For information about how to opt out of receiving certain behavioral advertisements, please click [here](http://www.quotient.com/cookie-policy/#ad-opt-out). ** **
-
-**Coupon Printer and Toolbars.** Instructions on uninstalling the Coupons.com toolbar and our coupon printer software are available [here](http://www.couponsinc.com/corp/source/u_uninstall.asp).
 
   7. **Registration via Third Party Accounts and Social Media Sharing**
 
