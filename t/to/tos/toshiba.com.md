@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127124643id_/http%3A//us.toshiba.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625155447id_/http%3A//us.toshiba.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,6 @@ We may also share your personal information in connection with law enforcement, 
 
 ## Cookies and Various Technologies
 
-## 
-
 We use technology to help us deliver customized visitor experiences and understand trends and patterns.
 
 We may engage third parties to collect non-personal information using "cookies" and/or other industry standard technologies (e.g., clear GIFS, web beacons, pixel tags, javascript tag) to generate statistics or measure and analyze website activity (including page usage and paths followed during visits through our sites and/or the items you view or place in your shopping bag) in order to improve Toshiba Online functionality, deliver content specific to you and/or targeted for your interests while using Toshiba Online and/or a third party web site, and to better manage advertising of our products. The collected data also helps us determine which product, service or support information may be appropriate for you and to help us maintain an efficient shopping experience for you.
@@ -52,13 +50,10 @@ Toshiba does not seek to collect personal information about children through Tos
 
 ## Notification of Changes
 
-From time to time, we may choose to change our privacy practices and this Privacy Statement. We will notify you of material changes to the Privacy Statement by posting a revised Privacy Statement via Toshiba Online with an updated effective date. We recommend that you check back at Toshiba Online at [www.us.toshiba.com/website/privacy-policy](http://www.us.toshiba.com/website/privacy-policy) on a periodic basis to review the then current Privacy Statement. Any updates, revisions, supplements, modifications or amendments to this Privacy Statement shall be effective immediately upon its posting via Toshiba Online and will only be applicable to disputes arising, or arising out of events occurring, after such posting has been made. You agree that you will continue to be bound by this Privacy Statement, however and whenever it is updated, revised, supplemented, modified, or amended, if you continue to use Toshiba Online after, the updates, revisions, supplements, modifications or amendments have been posted.
+From time to time, we may choose to change our privacy practices and this Privacy Statement. We will notify you of material changes to the Privacy Statement by posting a revised Privacy Statement via Toshiba Online with an updated effective date. We recommend that you check back at Toshiba Online at [www.us.toshiba.com/website/privacy-policy](https://web.archive.org/website/privacy-policy) on a periodic basis to review the then current Privacy Statement. Any updates, revisions, supplements, modifications or amendments to this Privacy Statement shall be effective immediately upon its posting via Toshiba Online and will only be applicable to disputes arising, or arising out of events occurring, after such posting has been made. You agree that you will continue to be bound by this Privacy Statement, however and whenever it is updated, revised, supplemented, modified, or amended, if you continue to use Toshiba Online after, the updates, revisions, supplements, modifications or amendments have been posted.
 
 ## Questions regarding our privacy statement
 
 If you have any questions about this Privacy Statement or our privacy practices, please contact us at: tais-privacy@toshiba.com. This Privacy Statement is effective as of **May 16, 2016**.
 
-© 2004-2016 Toshiba America Information Systems, Inc.
-
-Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, Intel Logo, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside,   
-Intel Inside Logo, Intel vPro, Pentium, Pentium Inside, vPro Inside, are trademarks of Intel Corporation in the U.S. and/or other countries.
+© 2004-2017 Toshiba America Information Systems, Inc.
