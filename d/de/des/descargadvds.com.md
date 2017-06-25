@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the descargadvds.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804205000id_/http%3A//www.descargadvds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descargadvds.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# DVD Store
+# Legal
 
-## Privacy Policy
+* * *
 
-Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-When you chose to sign-up as a service user of this site, you will be required to provide certain information such as your name, email address, home address and banking information. We also collect your IP address and keep the username and password you use to access our site.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-You should know that none of the personally identifiable information can be accessed or used by the public to identify you as a specific individual.
 
-We collect all information and include it in our customer/user database.
 
-If we feature or conduct any special events, promotions or offers, contests or polls, service users may be asked to provide information in order to participate. If users voluntarily provide us with the said information, all such information may be collected and included in our customer/user database.
-
-We may also use your personally identifiable information to deliver information to you that is specially targeted to your interests.
-
-If you send any personal communication, in any way, to us, or any of our Customer Service employees, agents or representatives, we may include that information in our customer/user database.
-
-We may use the information collected to improve our marketing campaigns, contents and products. We may also send periodic information such as newsletters to our consenting users via email.
-
-We may disclose your information to affiliated sites and upon request of law enforcement agencies in order to enforce intellectual property or other rights. We may further disclose your personal information to any third party should there be a well founded accusation or suspicion you infringed the law through our services.
-
-If you want to update or delete your information from our database, please contact our Customer Service team at [support@spanetworks.com](mailto:support@spanetworks.com).
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
