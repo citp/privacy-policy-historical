@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210081634id_/http%3A//www.theesa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625121259id_/http%3A//www.theesa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Entertainment Software Association
 
-#####  [](http://www.esrb.org/confirm/esa-confirmation.aspx)
+##### Last updated: May 31, 2017 
+
+[](http://www.esrb.org/confirm/esa-confirmation.aspx)
 
 The Entertainment Software Association, and its subsidiaries and affiliates (collectively, “ESA”), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store and use the information you provide to us.
 
-This Privacy Policy and the ESRB Privacy Certified certification seals shown on our websites (“Websites”) confirm that ESA is a member in good standing of [ESRB’s Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10).  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Websites where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our Websites and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Policy and the ESRB Privacy Certified certification seals shown on our websites (“Websites”) confirm that ESA is a member in good standing of [ESRB’s Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10).  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Websites where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our Websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 **Table of Contents**
 
@@ -50,11 +52,15 @@ This information may include:
 
   * Name
   * E-mail Address
+  * Mailing Address
   * Telephone Number
+  * Photo
 
 
 
-Please note that, if you donate to our fundraising campaign, we collect the amount of your contribution, occupation and employer or home address, in addition to your name. This information is then sent to our vendor, Democracy Engine, for processing purposes. ESA does not collect any of your financial information. We encourage you to review Democracy Engine’s privacy policy at [**http://www.democracyengine.com/subscriber_privacy_policy**](http://www.democracyengine.com/subscriber_privacy_policy) to learn more about what information they may require from you, as well as how such information may be used and disclosed.
+Please note that, if you donate to our fundraising campaign, we collect the amount of your contribution, occupation and address (whichever address you provide), in addition to your name. This information is then sent to our vendor, Democracy Engine, for processing purposes. ESA does not collect any of your financial information. We encourage you to review Democracy Engine’s privacy policy at [**http://www.democracyengine.com/subscriber_privacy_policy**](http://www.democracyengine.com/subscriber_privacy_policy).
+
+Additionally, if you have access to our Policy Arcade website, please note that if you upload a document, the name and e-mail address you provide will be visible to other users who are logged into the website.
 
 _Children_
 
@@ -72,7 +78,7 @@ Back to top ** **
 
 **3\. How is your personally identifiable information used and shared?**
 
-We don’t share, sell or rent your personal information to third parties without your consent.  Besides technical information required for the support of our internal operations (i.e., IP address), we don’t require disclosure of personal information to access most of our Websites.  If you prefer not to disclose any personal information, you may not be able to enjoy certain features of our Websites.
+We don’t share, sell or rent your personal information to third parties without your consent.  Besides technical information required for the support of our internal operations (i.e., IP address), we don’t require disclosure of personal information to access most of our Websites.  If you prefer not to disclose any personal information, you may not be able to enjoy certain features of our Websites.
 
 We will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
@@ -83,6 +89,8 @@ Information collected from those who voluntarily submit it to us is used to prov
 _Operational Uses_
 
 We may also use the personal information you provide to us for other “Operational Uses.”  For example, we may use your information to send you administrative communications either about your account with us or about features of our Websites, including any future changes to this Privacy Policy.
+
+Please note that, through our Website at [**www.areweinyourstate.org**](http://www.areweinyourstate.org/), we use your mailing address for the purpose of compiling and providing users with statistics relative to their congressional district. You have the option of determining whether or not your name, city and state are displayed in our feed of video game industry advocates. You may also optionally upload a photo to be displayed with your name and generate a support banner that can be shared on your social media profile. We will never share your full mailing address with other users or with third parties outside of the scope of this Privacy Policy.
 
 _Third Parties_
 
@@ -106,6 +114,8 @@ Back to top ** **
 
 As mentioned above, you have control over the personal information you submit to us.  If at any time you decide to remove your personal information from our database, you may do so by e-mailing us at [ **privacy@theESA.com**](mailto:privacy@theESA.com).
 
+You may opt-out of receiving our newsletters at any time by clicking the “Unsubscribe” link at the bottom of the newsletter email or by reaching out to us using our contact information provided later in this Privacy Policy.
+
 Back to top ** **
 
 **5\. What kinds of security measures do we take to safeguard your personally identifiable information?**
@@ -124,8 +134,8 @@ Since 2005, California Civil Code Section 1798.83 permits our customers who are 
 
 ESA  
 Attn.: Privacy Policy Administrator  
-575 7th Street, NW #300  
-Washington, DC 20004  
+601 Massachusetts Avenue, NW, Suite 300 West  
+Washington, DC 20001  
 202-223-2400  
 [**privacy@theESA.com**](mailto:privacy@theESA.com)
 
@@ -137,8 +147,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 ESA  
 Attn.: Privacy Policy Administrator  
-575 7th Street, NW #300  
-Washington, DC 20004  
+601 Massachusetts Avenue, NW, Suite 300 West  
+Washington, DC 20001  
 202-223-2400  
 [**privacy@theESA.com**](mailto:privacy@theESA.com)
 
