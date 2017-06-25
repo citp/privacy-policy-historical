@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dart.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230005624id_/http%3A//dart.org/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dart.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625144058id_/http%3A//dart.org/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # DART.org - Privacy Policy
 
