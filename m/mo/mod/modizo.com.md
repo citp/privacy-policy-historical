@@ -1,76 +1,17 @@
-> *The following text is extracted and transformed from the modizo.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014172908id_/http%3A//www.modizo.com/en-US/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modizo.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-Your privacy is important to Intelligent Communication Enterprise Corporation (the Company).  This privacy statement provides information about the personal information that the Company collects, and the ways in which the Company uses that personal information.
+* * *
 
-**This privacy statement**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Personal information collection**
-
-The Company may collect and use the following kinds of personal information: 
-
-  * information about your use of this website (including any mobile client applications related to the website);
-  * information that you provide using for the purpose of registering with the website;
-  * information about transactions carried out over this website; 
-  * information that you provide for the purpose of subscribing to the website services; and
-  * any other information that you send to this or any other web service operated by Intelligent Communication Enterprise Corp.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**Using personal information**
-
-The Company may use your personal information to: 
-
-  * administer this website;
-  * personalize the website for you;
-  * enable your access to and use of the website services;
-  * publish information about you on the website;
-  * send to you products that you purchase;
-  * supply to you services that you purchase;
-  * send you statements and invoices;
-  * collect payments from you; and
-  * send you marketing communications.
-
-
-
-Where the Company discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
-
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, the Company may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
-
-**Securing your data**
-
-The Company will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-The Company will store all the personal information you provide on its secure servers. 
-
-Information relating to electronic transactions entered into via this website will be protected by encryption technology.
-
-**Cross-border data transfers**
-
-Information that the Company collects may be stored and processed in and transferred between any of the countries in which the Company operates to enable the use of the information in accordance with this privacy policy.
-
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
-
-You agree to such cross-border transfers of personal information.
-
-**Updating this statement**
-
-The Company may update this privacy policy by posting a new version on this website. 
-
-You should check this page occasionally to ensure you are familiar with any changes. 
-
-**Other websites**
-
-This website contains links to other websites. 
-
-The Company is not responsible for the privacy policies or practices of any third party.
-
-**Contact Intelligent Communication Enterprise Corporation.**
-
-If you have any questions about this privacy policy or the Company’s treatment of your personal information, please write to:
-
-  * by email to[ contact@modizo.com](mailto:contact@modizo.com) or 
-  * by post to Modizo Support, Intelligent Communication Enterprise Corp, 13 Spottiswoode Park Road, Singapore 088640.
-
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
