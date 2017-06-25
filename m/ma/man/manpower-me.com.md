@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the manpower-me.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601081436id_/http%3A//www.manpowergroup.ae/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower-me.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625210852id_/http%3A//www.manpowergroup.ae/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
-
-Effective Date: December 1, 2015
+# ManpowerGroup | Manpower Global Privacy Policy
 
 We at ManpowerGroup Inc., along with our subsidiaries and affiliates listed [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/list+of+subsidiaries+and+affiliates/subsidiaries-and-affiliates#.VmgY4HYrJII) ("ManpowerGroup"), respect your concerns about privacy. This Global Privacy Policy applies to (1) our job candidates, (2) our associates, who are people we source or place on assignment with one of our clients, or individuals to whom we provide career transition services, (3) users of the websites and apps listed [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/apps+and+sites/sites-and-apps#.VmgZhHYrJII) (the "Sites"), and (4) representatives of our clients and vendors. This Policy does not apply to our headquarters and country-based staff employees, who are individuals employed by ManpowerGroup and who work directly for ManpowerGroup and not directly with a ManpowerGroup client.
 
@@ -41,7 +39,7 @@ Click on one of the links below to jump to the listed section:
 
 * * *
 
-###  **Information We Collect**
+### **Information We Collect**
 
 We collect personal information about you in various ways, such as through our Sites and social media channels; at our events and through phone and fax; through job applications and in connection with in-person recruitment; and in connection with our interactions with clients and vendors. We may collect the following types of personal information (as permitted under local law):
 
@@ -93,13 +91,13 @@ In addition, if you are an associate or job candidate and you apply for a positi
 
 In addition, we may collect information you provide to us about other individuals, such as information related to emergency contacts.
 
-####  _Information Collected By Automated Means_
+#### _Information Collected By Automated Means_
 
 When you visit our Sites, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we may collect in this manner includes IP address, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Sites, dates and times of visits to our Sites and other usage statistics. A "cookie" is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and is used to transmit information collected through cookies back to a web server. Through these automated collection methods, we may obtain "clickstream data," which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites.  To the extent required by applicable law, we will obtain your consent before collecting personal information using cookies or similar automated means.
 
 The providers of third-party apps, tools, widgets and plug-ins on our Sites, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of the features and is subject to the privacy policies or notices of these providers. Subject to applicable law, ManpowerGroup is not responsible for these providers’ information practices.
 
-###  **How We Use The Information We Collect**
+### **How We Use The Information We Collect**
 
 We use the information described above to perform the following activities (as permitted under local law):
 
@@ -200,7 +198,7 @@ If you are a resident of the United Arab Emirates, the following UAE-specific pr
 
 The section [How We Protect Personal Information](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/privacy-policy#section9) in the Global Privacy Policy will be replaced with the following section:
 
-####  How We Protect Personal Information
+#### How We Protect Personal Information
 
 In accordance with Data Protection Law DIFC Law No. 1 of 2007, we maintain appropriate technical and organizational measures to protect the personal data you provide against willful, negligent, accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access and against all other unlawful forms of processing.
 
