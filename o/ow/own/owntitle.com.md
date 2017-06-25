@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the owntitle.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126015934id_/http%3A//www.owntitle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owntitle.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625231324id_/http%3A//www.owntitle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to information we collect about you at [www.OwnTitle.com](http://www.owntitle.com/) (the "Website") and OwnTitle applications and how the information will be used. 
+This Privacy Policy applies to information we collect about you at [www.owntitle.com](http://www.owntitle.com/) (the "Website") and OwnTitle applications and how the information will be used. 
 
 ## Collection of your Information
 
-Your information gathered or received as you visit OwnTitle includes only technical information which does not directly identify you. Such information collected, without limitation includes: (a) the type of browser you are using (e.g., Chrome, Internet Explorer), (b) the type of operating system you are using (e.g., Windows or Mac OS), (c) your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); (d) which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. 
+Your information gathered or received as you visit OwnTitle includes technical information which does not directly identify you. Such information collected, without limitation includes: (a) the type of browser you are using (e.g., Chrome, Internet Explorer), (b) the type of operating system you are using (e.g., Windows or Mac OS), (c) your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); (d) which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. 
 
-While OwnTitle currently do not provide any account registration, email subscription or any other personal information required services to visitors, there will be no personal security information risks involved during visiting OwnTitle. 
+OwnTitle collects emails for newsletters only when users submit their email of their own free will, to require timely notification on new movie release information and movie news. OwnTitle do not collect personal name and will not identify you when you submitting Email address. 
+
+While OwnTitle currently do not provide any account registration and any other personal information required services to visitors, there will be no personal security information risks involved during visiting OwnTitle. 
 
 ##  How we use your information
 
 As we cannot and will not identify you by collecting your browsing information, we use this information including, without limitation, to serve better content to you, to better target advertising and content, to generate statistics, reports and for various analytic purposes. 
+
+The email we collect is submitted by your own free will, and we use email address for newsletters purpose only. Newsletter including the general movie / TV show release date alert, advertisement and movie news only. We don’t collect any more personal information together with emails, and we will never disclose user email information to any third party. 
 
 ##  Cookies, Web Beacons and Similar Technologies
 
@@ -34,4 +38,4 @@ OwnTitle is intended for a general audience and is not intended for children und
 
 We may update this Privacy Policy from time to time, and so you are welcomed to review this Policy periodically. If there are significant changes to the website's information practices, we will provide appropriate online notice on the website. 
 
-Last Updated: March 16, 2016
+Last Updated: June 16, 2017
