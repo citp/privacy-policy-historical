@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finerminds.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207163555id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finerminds.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625213833id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -135,3 +135,5 @@ Our Company reserves the right to revise, amend, or modify this policy, our [Ter
 ## Where to direct questions about our privacy policy
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.mindvalley.com/contact) provided on this website.
+
+6075 South Eastern Ave, Suite 1, Las Vegas, NV 89119
