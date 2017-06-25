@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101702id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedata.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625193411id_/http%3A//www.collegedata.com/cs/content/content_privacy_tmpl.jhtml%3Ftype%3Dinfo) for the most accurate reproduction.*
 
 # CollegeData - Privacy Policy
 
