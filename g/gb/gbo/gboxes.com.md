@@ -1,38 +1,17 @@
-> *The following text is extracted and transformed from the gboxes.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525113613id_/http%3A//www.gboxes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gboxes.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Green Boxes - File Upload - Share & Earn Money - Easy way to share your files
+# Legal
 
-This policy covers how GBoxes use your personal information. We take your privacy seriously and will take all measures to protect your personal information.
+* * *
 
-Any personal information received will only be used to fill your order. GBoxes will not sell or redistribute your information to anyone.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## IP addresses of users
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-GBoxes .. File Storage can detect the IP address of your browser according to Internet-technology. This IP address is registered by our server especially for to help administer the website and track user's actions on the website. These details do not contain any personally identifiable information.
 
-## E-mail
 
-Our server writes in the register of GBoxes .. File Storage users e-mails only for their registration and calculation. GBoxes will not lease, sell, or provide your personal information to any companies.
-
-## Sharing of Information
-
-GBoxes.. will only share information with 3rd parties if required to do so by law, or if by doing so we can protect the GBoxes website and/or it's users. If you do not wish for others to know your personal details (for example - name and email address), it is recommended that you do not apply for membership.
-
-## Cookies use
-
-GBoxes uses cookies for the users comfort in order to save the browser settings and to help make each user's visit easier and more interactive. GBoxes does not any methods for tracking users (the so-called “spy” or “1x1” gif images and so on).
-
-## Advertisements
-
-Advertisements located on our website can be posted by a third party – advertisement firms. These companies can use the information regarding your visits on these or other web pages (your name, address, e-mail, and phone number are excluded) to place an advertisement of wares and services that might be interesting to you.
-
-## Links
-
-GBoxes links to several other websites and does not control the content of any outside websites and can not be held accountable for their content. We also are not in control of the privacy policies of these sites and recommend that all members carefully read the privacy policies of other websites that collect personally identifiable information.
-
-## Changes to the Privacy Policy
-
-If we make changes to this policy, we will let members know by posting mention of the changes on the homepage of this website. If we decide to use the personal details collected at membership signup (or during any other stage of a user's onsite activity) in any manner different from that stated at the time it was collected, we will let the user know via email. Users will be given a choice as to whether they want their information used in a different manner.
-
-  
-Powered by [Green Boxes Website © 2014](http://www.gboxes.com/)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
