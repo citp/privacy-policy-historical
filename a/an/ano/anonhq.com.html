@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anonhq.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221152530id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anonhq.com privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625181156id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome"><!--<![endif]--><head>
 <title>Privacy Policy</title>
@@ -17,231 +17,25 @@
 <meta property="og:site_name" content="AnonHQ">
 <meta property="og:image" content="http://anonhq.com/wp-content/uploads/2014/08/Unbenannt.png">
  
-<link rel="dns-prefetch" href="//code.responsivevoice.org">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="AnonHQ » Feed" href="http://anonhq.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="AnonHQ » Comments Feed" href="http://anonhq.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="AnonHQ » Privacy Policy Comments Feed" href="http://anonhq.com/privacy-policy/feed/">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/anonhq.com\/wp-includes\/js\/wp-emoji.js?ver=4.7","twemoji":"http:\/\/anonhq.com\/wp-includes\/js\/twemoji.js?ver=4.7"}};
-			( function( window, document, settings ) {
-	var src, ready, ii, tests;
-
-	/*
-	 * Create a canvas element for testing native browser support
-	 * of emoji.
-	 */
-	var canvas = document.createElement( 'canvas' );
-	var context = canvas.getContext && canvas.getContext( '2d' );
-
-	/**
-	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
-	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
-	 *
-	 * @since 4.2.0
-	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
-	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
-	 */
-	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, technologist, technologist2;
-
-		if ( ! context || ! context.fillText ) {
-			return false;
-		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
-
-		/*
-		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
-		 * it doesn't work when the font is bolder than 500 weight. So, we
-		 * check for bold rendering support to avoid invisible emoji in Chrome.
-		 */
-		context.textBaseline = 'top';
-		context.font = '600 32px Arial';
-
-		switch ( type ) {
-			case 'flag':
-				/*
-				 * This works because the image will be one of three things:
-				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
-				 * - The United Nations flag
-				 *
-				 * The first two will encode to small images (1-2KB data URLs), the third will encode
-				 * to a larger image (4-5KB data URL).
-				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				if ( canvas.toDataURL().length < 3000 ) {
-					return false;
-				}
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				/*
-				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
-				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
-				 * Unicode support is up to date.
-				 *
-				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
-				 */
-				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
-				/*
-				 * Emoji 4 has the best technologists. So does WordPress!
-				 *
-				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
-				 * then compare it to how it would look if the browser doesn't render it correctly
-				 * (woman technologist: medium skin tone + personal computer).
-				 */
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
-				technologist = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
-				technologist2 = canvas.toDataURL();
-
-				return technologist !== technologist2;
-		}
-
-		return false;
-	}
-
-	function addScript( src ) {
-		var script = document.createElement( 'script' );
-
-		script.src = src;
-		script.defer = script.type = 'text/javascript';
-		document.getElementsByTagName( 'head' )[0].appendChild( script );
-	}
-
-	tests = Array( 'flag', 'emoji4' );
-
-	settings.supports = {
-		everything: true,
-		everythingExceptFlag: true
-	};
-
-	for( ii = 0; ii < tests.length; ii++ ) {
-		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
-
-		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
-
-		if ( 'flag' !== tests[ ii ] ) {
-			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
-		}
-	}
-
-	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
-
-	settings.DOMReady = false;
-	settings.readyCallback = function() {
-		settings.DOMReady = true;
-	};
-
-	if ( ! settings.supports.everything ) {
-		ready = function() {
-			settings.readyCallback();
-		};
-
-		if ( document.addEventListener ) {
-			document.addEventListener( 'DOMContentLoaded', ready, false );
-			window.addEventListener( 'load', ready, false );
-		} else {
-			window.attachEvent( 'onload', ready );
-			document.attachEvent( 'onreadystatechange', function() {
-				if ( 'complete' === document.readyState ) {
-					settings.readyCallback();
-				}
-			} );
-		}
-
-		src = settings.source || {};
-
-		if ( src.concatemoji ) {
-			addScript( src.concatemoji );
-		} else if ( src.wpemoji && src.twemoji ) {
-			addScript( src.twemoji );
-			addScript( src.wpemoji );
-		}
-	}
-
-} )( window, document, window._wpemojiSettings );
-		</script><script src="http://anonhq.com/wp-includes/js/twemoji.js?ver=4.7" type="text/javascript" defer=""></script><script src="http://anonhq.com/wp-includes/js/wp-emoji.js?ver=4.7" type="text/javascript" defer=""></script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="rv-style-css" href="http://anonhq.com/wp-content/plugins/responsivevoice-text-to-speech/includes/css/responsivevoice.css?ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_open_sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&amp;ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_roboto-css" href="http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&amp;ver=4.7" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://anonhq.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_front-css" href="http://anonhq.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1" type="text/css" media="all">
-<link rel="stylesheet" id="td-theme-css" href="http://anonhq.com/wp-content/themes/Newspaper/style.css?ver=7.5" type="text/css" media="all">
-<script type="text/javascript" src="https://code.responsivevoice.org/responsivevoice.js?ver=4.7"></script>
-<script type="text/javascript" src="http://anonhq.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://anonhq.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="http://anonhq.com/wp-json/">
+<link rel="stylesheet" id="google-fonts-style-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://anonhq.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="td-theme-css" href="http://anonhq.com/wp-content/themes/Newspaper/style.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://anonhq.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://anonhq.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://anonhq.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://anonhq.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.7">
+<meta name="generator" content="WordPress 4.8">
 <link rel="shortlink" href="http://anonhq.com/?p=1500">
 <link rel="alternate" type="application/json+oembed" href="http://anonhq.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fanonhq.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://anonhq.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fanonhq.com%2Fprivacy-policy%2F&amp;format=xml">
 <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
- 
-<script type="text/javascript">
-
-					var sampling_active = 0;
-					var sampling_rate   = 100;
-					var do_request = false;
-
-					if ( !sampling_active ) {
-						do_request = true;
-					} else {
-						var num = Math.floor(Math.random() * sampling_rate) + 1;
-						do_request = ( 1 === num );
-					}
-
-					if ( do_request ) {
-
-						/* Create XMLHttpRequest object and set variables */
-						var xhr = ( window.XMLHttpRequest )
-						  ? new XMLHttpRequest()
-						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
-						url = 'http://anonhq.com/wp-admin/admin-ajax.php',
-						params = 'action=update_views_ajax&token=91597f4e7d&wpp_id=1500';
-						/* Set request method and target URL */
-						xhr.open( "POST", url, true );
-						/* Set request header */
-						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
-						/* Hook into onreadystatechange */
-						xhr.onreadystatechange = function() {
-							if ( 4 === xhr.readyState && 200 === xhr.status ) {
-								if ( window.console && window.console.log ) {
-									window.console.log( xhr.responseText );
-								}
-							}
-						};
-						/* Send request */
-						xhr.send( params );
-
-					}
-
-				</script>
- 
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://anonhq.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://anonhq.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://anonhq.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
  
 <script>
     
@@ -339,15 +133,11 @@
     
     
 var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
-var td_animation_stack_effect="type0";
-var tds_animation_stack=true;
-var td_animation_stack_specific_selectors=".entry-thumb, img";
-var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
-var td_ajax_url="http:\/\/anonhq.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.5";
+var td_ajax_url="http:\/\/anonhq.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.0";
 var td_get_template_directory_uri="http:\/\/anonhq.com\/wp-content\/themes\/Newspaper";
 var tds_snap_menu="";
 var tds_logo_on_sticky="";
-var tds_header_style="";
+var tds_header_style="3";
 var td_please_wait="Please wait...";
 var td_email_user_pass_incorrect="User or password incorrect!";
 var td_email_user_incorrect="Email or username incorrect!";
@@ -375,8 +165,30 @@ var td_ad_background_click_target="";
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript></head>
-<body class="page-template-default page page-id-1500 privacy-policy wpb-js-composer js-comp-ver-4.12.1 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+</script><script type="application/ld+json">
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "BreadcrumbList",
+                            "itemListElement": [{
+                            "@type": "ListItem",
+                            "position": 1,
+                                "item": {
+                                "@type": "WebSite",
+                                "@id": "http://anonhq.com/",
+                                "name": "Home"                                               
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 2,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "http://anonhq.com/privacy-policy/",
+                                "name": "Privacy Policy"
+                            }
+                        }    ]
+                        }
+                       </script><noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript></head>
+<body class="page-template-default page page-id-1500 privacy-policy global-block-template-1 wpb-js-composer js-comp-ver-5.1.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
 <div class="td-menu-background"></div>
 <div id="td-mobile-nav">
@@ -395,6 +207,8 @@ var td_ad_background_click_target="";
  
 <div class="td-mobile-content">
 <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-79513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-79513"><a href="http://anonhq.com">Home</a></li>
+<li id="menu-item-98401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98401"><a href="http://anonhq.com/archives/">Articles<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
 <li id="menu-item-40644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-40644"><a href="http://anonhq.com/category/activism/anonymous/">Anonymous<i class="td-icon-menu-right td-element-after"></i></a>
 <ul class="sub-menu">
 <li id="menu-item-3384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384"><a href="http://anonhq.com/category/activism/">Activism</a></li>
@@ -415,22 +229,32 @@ var td_ad_background_click_target="";
 <li id="menu-item-16855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16855"><a href="http://anonhq.com/category/police/">Police</a></li>
 </ul>
 </li>
-<li id="menu-item-36855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36855"><a href="http://anonhq.com/category/real-politics/intelligence/">Intelligence</a></li>
+<li id="menu-item-36855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36855"><a href="http://anonhq.com/category/real-politics/intelligence/">Intelligence<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-1356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1356"><a href="http://anonhq.com/category/tech/">Technology</a></li>
+</ul>
+</li>
 <li id="menu-item-3434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3434"><a href="http://anonhq.com/category/ecology-environment/">Environment<i class="td-icon-menu-right td-element-after"></i></a>
 <ul class="sub-menu">
 <li id="menu-item-36857" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36857"><a href="http://anonhq.com/category/ecology-environment/health/">Health</a></li>
 </ul>
 </li>
-<li id="menu-item-3487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3487"><a href="http://anonhq.com/category/cyber-security/">Cyber Security<i class="td-icon-menu-right td-element-after"></i></a>
-<ul class="sub-menu">
-<li id="menu-item-1356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1356"><a href="http://anonhq.com/category/tech/">Technology</a></li>
 </ul>
 </li>
-<li id="menu-item-18820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18820"><a href="http://www.anonboards.com/">Forum</a></li>
-<li id="menu-item-40487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40487"><a href="http://anonhq.com/category/podcast/">Podcast</a></li>
-<li id="menu-item-40216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40216"><a href="http://www.cpaclickz.com/c/71/1?s1=&amp;s2=&amp;s3=&amp;s4=&amp;s5=&amp;s6=&amp;s7=&amp;s8=&amp;s9=&amp;s10=">Anonymous Shop</a></li>
-<li id="menu-item-45801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45801"><a href="https://discord.gg/0kxxWVQyfa4s0LGT">ChatRooms</a></li>
-<li id="menu-item-47033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47033"><a href="https://discord.gg/0mHbJxuQGzcTRkoh">Podcast Chat</a></li>
+<li id="menu-item-90460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90460"><a href="https://www.anonboards.com/">Forum</a></li>
+<li id="menu-item-94344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94344"><a href="https://discord.gg/TNB8Zua">Chat<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-90459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90459"><a href="https://discord.gg/0kxxWVQyfa5jomIp">Old Chat</a></li>
+</ul>
+</li>
+<li id="menu-item-98402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-98402"><a href="#">Links<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-98403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98403"><a href="http://anonhq.com/be-anonymous/">Be Anonymous</a></li>
+<li id="menu-item-98404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98404"><a href="http://anonhq.com/get-your-anonymous-mask/">The Mask</a></li>
+<li id="menu-item-98405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98405"><a href="http://anonhq.com/submit/">Submit an article!</a></li>
+<li id="menu-item-98406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98406"><a href="http://anonhq.com/downloads/">Downloads</a></li>
+</ul>
+</li>
 </ul></div> </div>
 </div>
  
@@ -450,87 +274,34 @@ var td_ad_background_click_target="";
 <div id="td-aj-search-mob"></div>
 </div>
 </div>
-<div id="td-outer-wrap">
+<div id="td-outer-wrap" class="td-theme-wrap">
  
-<div class="td-header-wrap td-header-style-1">
-<div class="td-header-top-menu-full">
+<div class="td-header-wrap td-header-style-3">
+<div class="td-header-top-menu-full td-container-wrap ">
 <div class="td-container td-header-row td-header-top-menu">
 <div class="top-bar-style-1">
 <div class="td-header-sp-top-menu">
 </div>
 </div>
  
-<div id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
-<div class="td-login-wrap">
-<a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
-<div id="td-login-div" class="td-login-form-div td-display-block">
-<div class="td-login-panel-title">Sign in</div>
-<div class="td-login-panel-descr">Welcome! Log into your account</div>
-<div class="td_display_err"></div>
-<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required=""><label>your username</label></div>
-<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required=""><label>your password</label></div>
-<input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
-<div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
-</div>
-<div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
-<div class="td-login-panel-title">Password recovery</div>
-<div class="td-login-panel-descr">Recover your password</div>
-<div class="td_display_err"></div>
-<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required=""><label>your email</label></div>
-<input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
-<div class="td-login-info-text">A password will be e-mailed to you.</div>
 </div>
 </div>
-</div>
-</div>
-</div>
-<div class="td-banner-wrap-full td-logo-wrap-full">
+<div class="td-banner-wrap-full td-container-wrap ">
 <div class="td-container td-header-row td-header-header">
 <div class="td-header-sp-logo">
 <a class="td-main-logo" href="http://anonhq.com/">
-<img class="td-retina-data" data-retina="http://anonhq.com/wp-content/uploads/2016/11/logox2.jpg" src="http://anonhq.com/wp-content/uploads/2016/11/logo.jpg" alt="Anonymous News Headquarters" title="Anonymous News Network">
+<img class="td-retina-data" data-retina="http://anonhq.com/wp-content/uploads/2016/11/logox2.jpg" src="http://anonhq.com/wp-content/uploads/2016/11/logo_1.jpg" alt="Anonymous News Headquarters" title="Anonymous News Network">
 <span class="td-visual-hidden">AnonHQ</span>
 </a>
 </div>
 <div class="td-header-sp-recs">
 <div class="td-header-rec-wrap">
- 
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header ">
-<script type="text/javascript">
-var td_screen_width = window.innerWidth;
-
-                    if ( td_screen_width >= 1140 ) {
-                        /* large monitors */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-            
-	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
-	                        /* landscape tablets */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-	                        (adsbygoogle = window.adsbygoogle || []).push({});
-	                    }
-	                
-                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
-                        /* portrait tablets */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-                
-                    if ( td_screen_width < 768 ) {
-                        /* Phones */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-                </script><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>
-</div>
- 
 </div> </div>
 </div>
 </div>
-<div class="td-header-menu-wrap-full">
-<div class="td-header-menu-wrap td-header-gradient">
-<div class="td-container td-header-row td-header-main-menu">
+<div class="td-header-menu-wrap-full td-container-wrap ">
+<div class="td-header-menu-wrap">
+<div class="td-container td-header-row td-header-main-menu black-menu">
 <div id="td-header-menu" role="navigation">
 <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
 <div class="td-main-menu-logo td-logo-in-header">
@@ -538,10 +309,12 @@ var td_screen_width = window.innerWidth;
 <img class="td-retina-data" data-retina="http://anonhq.com/wp-content/uploads/2016/11/logox2.png" src="http://anonhq.com/wp-content/uploads/2016/11/logo.png" alt="Anonymous News Headquarters" title="Anonymous News Network">
 </a>
 <a class="td-header-logo td-sticky-disable" href="http://anonhq.com/">
-<img class="td-retina-data" data-retina="http://anonhq.com/wp-content/uploads/2016/11/logox2.jpg" src="http://anonhq.com/wp-content/uploads/2016/11/logo.jpg" alt="Anonymous News Headquarters" title="Anonymous News Network">
+<img class="td-retina-data" data-retina="http://anonhq.com/wp-content/uploads/2016/11/logox2.jpg" src="http://anonhq.com/wp-content/uploads/2016/11/logo_1.jpg" alt="Anonymous News Headquarters" title="Anonymous News Network">
 </a>
 </div>
 <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-79513"><a href="http://anonhq.com">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-98401"><a href="http://anonhq.com/archives/">Articles</a>
+<ul class="sub-menu">
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-40644"><a href="http://anonhq.com/category/activism/anonymous/">Anonymous</a>
 <ul class="sub-menu">
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3384"><a href="http://anonhq.com/category/activism/">Activism</a></li>
@@ -562,22 +335,32 @@ var td_screen_width = window.innerWidth;
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-16855"><a href="http://anonhq.com/category/police/">Police</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-36855"><a href="http://anonhq.com/category/real-politics/intelligence/">Intelligence</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-36855"><a href="http://anonhq.com/category/real-politics/intelligence/">Intelligence</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1356"><a href="http://anonhq.com/category/tech/">Technology</a></li>
+</ul>
+</li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3434"><a href="http://anonhq.com/category/ecology-environment/">Environment</a>
 <ul class="sub-menu">
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-36857"><a href="http://anonhq.com/category/ecology-environment/health/">Health</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3487"><a href="http://anonhq.com/category/cyber-security/">Cyber Security</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1356"><a href="http://anonhq.com/category/tech/">Technology</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-18820"><a href="http://www.anonboards.com/">Forum</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-40487"><a href="http://anonhq.com/category/podcast/">Podcast</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-40216"><a href="http://www.cpaclickz.com/c/71/1?s1=&amp;s2=&amp;s3=&amp;s4=&amp;s5=&amp;s6=&amp;s7=&amp;s8=&amp;s9=&amp;s10=">Anonymous Shop</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-45801"><a href="https://discord.gg/0kxxWVQyfa4s0LGT">ChatRooms</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-47033"><a href="https://discord.gg/0mHbJxuQGzcTRkoh">Podcast Chat</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-90460"><a href="https://www.anonboards.com/">Forum</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-94344"><a href="https://discord.gg/TNB8Zua">Chat</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-90459"><a href="https://discord.gg/0kxxWVQyfa5jomIp">Old Chat</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-98402"><a href="#">Links</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-98403"><a href="http://anonhq.com/be-anonymous/">Be Anonymous</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-98404"><a href="http://anonhq.com/get-your-anonymous-mask/">The Mask</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-98405"><a href="http://anonhq.com/submit/">Submit an article!</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-98406"><a href="http://anonhq.com/downloads/">Downloads</a></li>
+</ul>
+</li>
 </ul></div></div>
 <div class="td-search-wrapper">
 <div id="td-top-search">
@@ -605,12 +388,10 @@ var td_screen_width = window.innerWidth;
 </div>
 </div>
 </div>
-<div class="td-main-content-wrap">
-<div class="td-container ">
+<div class="td-main-content-wrap td-container-wrap">
+<div class="td-container tdc-content-wrap ">
 <div class="td-crumb-container">
-<div class="entry-crumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">
-<a title="" class="entry-crumb" itemscope="" itemprop="item" itemtype="http://schema.org/Thing" href="http://anonhq.com/">
-<span itemprop="name">Home</span> </a> <meta itemprop="position" content="1"></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Privacy Policy</span></div> </div>
+<div class="entry-crumbs"><span><a title="" class="entry-crumb" href="http://anonhq.com/">Home</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Privacy Policy</span></div> </div>
 <div class="td-pb-row">
 <div class="td-pb-span8 td-main-content" role="main">
 <div class="td-ss-main-content">
@@ -646,58 +427,29 @@ We have included links on this site for your use and reference. We are not respo
 </div>
 <div class="td-pb-span4 td-main-sidebar" role="complementary">
 <div class="td-ss-main-sidebar">
-<aside class="widget widget_search"><form method="get" class="td-search-form-widget" action="http://anonhq.com/">
+<aside class="td_block_template_1 widget widget_search"><form method="get" class="td-search-form-widget" action="http://anonhq.com/">
 <div role="search">
 <input class="td-widget-search-input" type="text" value="" name="s" id="s"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="searchsubmit" value="Search">
 </div>
-</form></aside><aside class="widget widget_text"> <div class="textwidget"> 
- 
-<script data-cfasync="false" src="//ads-by.madadsmedia.com/tags/29724/16514/async/300x250.js" type="text/javascript"></script>
- </div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Farmyanonymous&amp;width=300&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe></div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Farmyanonymous&amp;width=300&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe></div>
-</aside><aside class="widget widget_text"><div class="block-title"><span>Anonymous Wear</span></div> <div class="textwidget"><a href="http://www.cpaclickz.com/c/71/1?s1=&amp;s2=&amp;s3=&amp;s4=&amp;s5=&amp;s6=&amp;s7=&amp;s8=&amp;s9=&amp;s10=">
-<img src="//anonhq.com/wp-content/uploads/2015/07/Anonymous-spreadshirt.jpg">
-</a>
-</div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</form></aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5986748907447277" data-ad-slot="1812857352" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</aside><aside class="td_block_template_1 widget widget_text"><h4 class="block-title"><span>Anonymous Wear</span></h4> <div class="textwidget"><a href="http://www.cpaclickz.com/c/71/1?s1=&amp;s2=&amp;s3=&amp;s4=&amp;s5=&amp;s6=&amp;s7=&amp;s8=&amp;s9=&amp;s10=">
+<img width="300" height="308" src="//anonhq.com/wp-content/uploads/2015/07/Anonymous-spreadshirt.jpg">
+</a>
+</div>
+</aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  
 <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="4735133355"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
-</aside><aside class="widget widget_text"><div class="block-title"><span>Follow Us on Twitter</span></div> <div class="textwidget"><a href="https://twitter.com/AnonymousNewsHQ" class="twitter-follow-button" data-show-count="true">Follow @AnonymousNewsHQ</a>
+</aside><aside class="td_block_template_1 widget widget_analytic-bridge-popular-posts"><h4 class="block-title"><span>Popular Posts</span></h4><ol class="count-5"><li class="post-8255 post type-post status-publish format-standard has-post-thumbnail hentry category-anonymous"><h5><a href="http://anonhq.com/anonymous-says-pirate-bay-new-domain-old-domain-compromised/">WARNING: Old ‘The Pirate Bay’ Back Online, BUT Seized by FBI – Real TPB Website Has New Domain</a></h5></li><li class="post-15621 post type-post status-publish format-standard has-post-thumbnail hentry category-health"><h5><a href="http://anonhq.com/much-life-addictions-costing/">How Much of Your Life Are Your Addictions Costing You?</a></h5></li><li class="post-41338 post type-post status-publish format-standard has-post-thumbnail hentry category-real-economy"><h5><a href="http://anonhq.com/african-woman-boldly-speaks-about-the-exploitation-of-africa-by-wealthy-countries-at-ted-conference-video-investigative/">A Must Watch: African Woman Boldly Speaks About The Exploitation Of Africa By Wealthy Countries At TED Conference [Video]</a></h5></li><li class="post-21066 post type-post status-publish format-standard has-post-thumbnail hentry category-tech"><h5><a href="http://anonhq.com/you-can-now-get-6020-vision-without-wearing-glasses-or-contacts/">You Can Now Get 60/20 Vision Without Wearing Glasses Or Contacts!</a></h5></li><li class="post-33647 post type-post status-publish format-standard has-post-thumbnail hentry category-cyber-security tag-alternatives-to-tor tag-tor"><h5><a href="http://anonhq.com/best-alternatives-tor-network-browsing/">Best Alternatives to Tor Network Browsing</a></h5></li></ol></aside><aside class="td_block_template_1 widget widget_text"><h4 class="block-title"><span>Follow Us on Twitter</span></h4> <div class="textwidget"><a href="https://twitter.com/AnonymousNewsHQ" class="twitter-follow-button" data-show-count="true">Follow @AnonymousNewsHQ</a>
 <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
-</aside><aside class="widget widget_text"> <div class="textwidget"> 
-<div id="div-gpt-ad-1449066460703-0" style="height:250px; width:300px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1449066460703-0'); });
-</script>
-</div></div>
-</aside><aside class="widget widget_text"><div class="block-title"><span>ANONYMOUS RECOMMENDS:</span></div> <div class="textwidget"><a href="https://store.cyberghostvpn.com/848/cookie?affiliate=35451&amp;redirectto=http%3a%2f%2fwww.cyberghostvpn.com%2f&amp;redirecthash=CD0A9C88BC644C42DFA754C136444F60"><img src="//anonhq.com/wp-content/uploads/2014/09/cyberghost-5.jpg"></a></div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><div id="rcjsload_93f449"><script id="rc_617" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=13775&amp;t=rc_617&amp;c=1580375120822&amp;width=800" async=""></script></div>
-<script data-cfasync="false" type="text/javascript">
-(function() {
-var rcel = document.createElement("script");
-rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
-rcel.type = 'text/javascript';
-rcel.src = "http://trends.revcontent.com/serve.js.php?w=13775&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
-rcel.async = true;
-var rcds = document.getElementById("rcjsload_93f449"); rcds.appendChild(rcel);
-})();
-</script></div>
-</aside><aside class="widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
- 
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="3887842151"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
+</aside><aside class="td_block_template_1 widget widget_text"><h4 class="block-title"><span>ANONYMOUS RECOMMENDS:</span></h4> <div class="textwidget"><a href="https://store.cyberghostvpn.com/848/cookie?affiliate=35451&amp;redirectto=http%3a%2f%2fwww.cyberghostvpn.com%2f&amp;redirecthash=CD0A9C88BC644C42DFA754C136444F60"><img src="//anonhq.com/wp-content/uploads/2014/09/cyberghost-5.jpg"></a></div>
 </aside> </div>
 </div>
 </div>  
@@ -705,70 +457,21 @@ var rcds = document.getElementById("rcjsload_93f449"); rcds.appendChild(rcel);
 </div>  
  
  
-<div class="td-footer-wrapper">
+<div class="td-footer-wrapper td-container-wrap td-footer-template-9 ">
 <div class="td-container">
 <div class="td-pb-row">
 <div class="td-pb-span12">
- 
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-footer_top ">
-<script type="text/javascript">
-var td_screen_width = window.innerWidth;
-
-                    if ( td_screen_width >= 1140 ) {
-                        /* large monitors */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-            
-	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
-	                        /* landscape tablets */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-	                        (adsbygoogle = window.adsbygoogle || []).push({});
-	                    }
-	                
-                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
-                        /* portrait tablets */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-                
-                    if ( td_screen_width < 768 ) {
-                        /* Phones */
-                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>');
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    }
-                </script><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5986748907447277" data-ad-slot="9250886959"></ins>
-</div>
- 
 </div>
 </div>
 <div class="td-pb-row">
 <div class="td-pb-span4">
-<aside class="widget widget_nav_menu"><div class="block-title"><span>Useful Links</span></div><div class="menu-footer-w1-container"><ul id="menu-footer-w1" class="menu"><li id="menu-item-2164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-2164"><a href="http://anonhq.com/downloads/">Downloads</a></li>
+<aside class="td_block_template_1 widget widget_nav_menu"><h4 class="block-title"><span>Useful Links</span></h4><div class="menu-footer-w1-container"><ul id="menu-footer-w1" class="menu"><li id="menu-item-2164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-2164"><a href="http://anonhq.com/downloads/">Downloads</a></li>
 <li id="menu-item-2163" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-2163"><a href="http://anonhq.com/get-your-anonymous-mask/">The Mask</a></li>
 <li id="menu-item-2162" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-2162"><a href="http://anonhq.com/be-anonymous/">Be Anonymous</a></li>
-</ul></div></aside><aside class="widget widget_nav_menu"><div class="block-title"><span>Jobs</span></div><div class="menu-jobs-container"><ul id="menu-jobs" class="menu"><li id="menu-item-6130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-6130"><a href="http://anonhq.com/jobs/">Jobs</a></li>
-</ul></div></aside>
- 
-<aside class="widget popular-posts">
-<div class="block-title"><span>Most popular this week</span></div>
-<ul class="wpp-list">
-<li><a href="http://anonhq.com/women-chop-onions-footballers-naked-body-film-gruesome-sexual-assault/" title="Women Chop Onions On Footballer’s Naked Body, Film Gruesome Sexual Assault" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/sex-assault-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="sexual assault" srcset="http://anonhq.com/wp-content/uploads/2016/12/sex-assault-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/sex-assault-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/women-chop-onions-footballers-naked-body-film-gruesome-sexual-assault/" title="Women Chop Onions On Footballer’s Naked Body, Film Gruesome Sexual Assault" class="wpp-post-title" target="_self">Women Chop Onions On Footballer’s Naked Body, Film Gruesome Sexual Assault</a> <span class="post-stats"><span class="wpp-views">99,836 views</span></span> </li>
-<li><a href="http://anonhq.com/passengers-aboard-flight-europe-see-man-like-figure-walking-clouds-photos/" title="Passengers Aboard Flight in Europe See a Man-Like Figure Walking in the Clouds [PHOTOS]" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/s-1-12-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="man in clouds" srcset="http://anonhq.com/wp-content/uploads/2016/12/s-1-12-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/s-1-12-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/passengers-aboard-flight-europe-see-man-like-figure-walking-clouds-photos/" title="Passengers Aboard Flight in Europe See a Man-Like Figure Walking in the Clouds [PHOTOS]" class="wpp-post-title" target="_self">Passengers Aboard Flight in Europe See a Man-Like Figure Walking in the Clouds [PHOTOS]</a> <span class="post-stats"><span class="wpp-views">87,957 views</span></span> </li>
-<li><a href="http://anonhq.com/shocking-syrias-un-envoy-reveals-west-breeds-terrorists-destroys-countries/" title="SYRIA: The Mask Is Falling – Truth Comes To Light" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/11/syria-2-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="syria" srcset="http://anonhq.com/wp-content/uploads/2016/11/syria-2-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/11/syria-2-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/shocking-syrias-un-envoy-reveals-west-breeds-terrorists-destroys-countries/" title="SYRIA: The Mask Is Falling – Truth Comes To Light" class="wpp-post-title" target="_self">SYRIA: The Mask Is Falling – Truth Comes To Light</a> <span class="post-stats"><span class="wpp-views">75,333 views</span></span> </li>
-<li><a href="http://anonhq.com/robots-set-to-perform-oral-sex-at-londons-first-fellatio-cafe/" title="Robots Set to Perform Oral Sex at London’s First ‘Fellatio Café’" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/sex-1-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://anonhq.com/wp-content/uploads/2016/12/sex-1-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/sex-1-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/robots-set-to-perform-oral-sex-at-londons-first-fellatio-cafe/" title="Robots Set to Perform Oral Sex at London’s First ‘Fellatio Café’" class="wpp-post-title" target="_self">Robots Set to Perform Oral Sex at London’s First ‘Fellatio Café’</a> <span class="post-stats"><span class="wpp-views">60,407 views</span></span> </li>
-<li><a href="http://anonhq.com/anonymous-message-indigo-children-world/" title="Anonymous Message to The Indigo Children of the World" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/meeki-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://anonhq.com/wp-content/uploads/2016/12/meeki-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/meeki-324x332.jpg 324w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/anonymous-message-indigo-children-world/" title="Anonymous Message to The Indigo Children of the World" class="wpp-post-title" target="_self">Anonymous Message to The Indigo Children of the World</a> <span class="post-stats"><span class="wpp-views">54,906 views</span></span> </li>
-<li><a href="http://anonhq.com/powerful-nsfw-photo-series-exposes-president-elect-really/" title="Powerful NSFW Photo Series Exposes Who The President-Elect ‘Really Is’" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/6-4-768x487-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://anonhq.com/wp-content/uploads/2016/12/6-4-768x487-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/6-4-768x487-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/powerful-nsfw-photo-series-exposes-president-elect-really/" title="Powerful NSFW Photo Series Exposes Who The President-Elect ‘Really Is’" class="wpp-post-title" target="_self">Powerful NSFW Photo Series Exposes Who The President-Elect ‘Really Is’</a> <span class="post-stats"><span class="wpp-views">43,281 views</span></span> </li>
-<li><a href="http://anonhq.com/russian-scientists-develop-technology-transmute-chemical-elements-using-bacteria/" title="Russian Scientists Develop Technology to Transmute Chemical Elements Using Bacteria" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/elements-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="elements" srcset="http://anonhq.com/wp-content/uploads/2016/12/elements-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/elements-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/russian-scientists-develop-technology-transmute-chemical-elements-using-bacteria/" title="Russian Scientists Develop Technology to Transmute Chemical Elements Using Bacteria" class="wpp-post-title" target="_self">Russian Scientists Develop Technology to Transmute Chemical Elements Using Bacteria</a> <span class="post-stats"><span class="wpp-views">43,191 views</span></span> </li>
-<li><a href="http://anonhq.com/nasa-releases-10000-high-res-photos-prove-moon-landing-real/" title="NASA Releases 10,000+ High-Res Photos to Prove Moon Landing was Real" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/Moon-Landing-11-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="Moon Landing" srcset="http://anonhq.com/wp-content/uploads/2016/12/Moon-Landing-11-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/Moon-Landing-11-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/nasa-releases-10000-high-res-photos-prove-moon-landing-real/" title="NASA Releases 10,000+ High-Res Photos to Prove Moon Landing was Real" class="wpp-post-title" target="_self">NASA Releases 10,000+ High-Res Photos to Prove Moon Landing was Real</a> <span class="post-stats"><span class="wpp-views">42,193 views</span></span> </li>
-<li><a href="http://anonhq.com/vet-trophy-hunter-dies-falling-ravine-hunting-trip/" title="Vet Trophy Hunter Dies After Falling Down Ravine During Hunting Trip" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/hunter-veterinarian-dies-luciano-ponzetto-italy-fb__700-png-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://anonhq.com/wp-content/uploads/2016/12/hunter-veterinarian-dies-luciano-ponzetto-italy-fb__700-png-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/hunter-veterinarian-dies-luciano-ponzetto-italy-fb__700-png-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/vet-trophy-hunter-dies-falling-ravine-hunting-trip/" title="Vet Trophy Hunter Dies After Falling Down Ravine During Hunting Trip" class="wpp-post-title" target="_self">Vet Trophy Hunter Dies After Falling Down Ravine During Hunting Trip</a> <span class="post-stats"><span class="wpp-views">39,668 views</span></span> </li>
-<li><a href="http://anonhq.com/83768-2/" title="Authorities Arrest 51, Including Lawmakers, In Child Sex Ring" target="_self"><img width="50" height="50" src="http://anonhq.com/wp-content/uploads/2016/12/handcuffs-e1481597506320-150x150.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://anonhq.com/wp-content/uploads/2016/12/handcuffs-e1481597506320-150x150.jpg 150w, http://anonhq.com/wp-content/uploads/2016/12/handcuffs-e1481597506320-356x364.jpg 356w" sizes="(max-width: 50px) 100vw, 50px"></a> <a href="http://anonhq.com/83768-2/" title="Authorities Arrest 51, Including Lawmakers, In Child Sex Ring" class="wpp-post-title" target="_self">Authorities Arrest 51, Including Lawmakers, In Child Sex Ring</a> <span class="post-stats"><span class="wpp-views">36,450 views</span></span> </li>
-</ul>
-</aside>
- 
-</div>
+</ul></div></aside><aside class="td_block_template_1 widget widget_nav_menu"><h4 class="block-title"><span>Jobs</span></h4><div class="menu-jobs-container"><ul id="menu-jobs" class="menu"><li id="menu-item-6130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-6130"><a href="http://anonhq.com/jobs/">Jobs</a></li>
+</ul></div></aside> </div>
 <div class="td-pb-span4">
-<aside class="widget widget_categories"><div class="block-title"><span>Categories</span></div> <ul>
+<aside class="td_block_template_1 widget widget_categories"><h4 class="block-title"><span>Categories</span></h4> <ul>
 <li class="cat-item cat-item-25"><a href="http://anonhq.com/category/activism/">Activism</a>
 <ul class="children">
 <li class="cat-item cat-item-11"><a href="http://anonhq.com/category/activism/anonymous/">Anonymous</a>
@@ -816,45 +519,32 @@ var td_screen_width = window.innerWidth;
 </ul>
 </li>
 </ul>
-</aside><aside class="widget widget_nav_menu"><div class="menu-footer-w3-container"><ul id="menu-footer-w3" class="menu"><li id="menu-item-2167" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1500 current_page_item menu-item-first td-menu-item td-normal-menu menu-item-2167"><a href="http://anonhq.com/privacy-policy/">Privacy Policy</a></li>
+</aside><aside class="td_block_template_1 widget widget_nav_menu"><div class="menu-footer-w3-container"><ul id="menu-footer-w3" class="menu"><li id="menu-item-2167" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1500 current_page_item menu-item-first td-menu-item td-normal-menu menu-item-2167"><a href="http://anonhq.com/privacy-policy/">Privacy Policy</a></li>
 </ul></div></aside> </div>
 <div class="td-pb-span4">
-<aside class="widget widget_text"> <div class="textwidget"><div style="max-width: 320px; margin: 0 auto"><img src="//anonhq.com/wp-content/uploads/2014/08/anonymous_headquarters_2.jpg"></div></div>
+<aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><div style="max-width: 320px; margin: 0 auto"><img width="300" height="259" src="//anonhq.com/wp-content/uploads/2014/08/anonymous_headquarters_2.jpg"></div></div>
 </aside> </div>
 </div>
 </div>
 </div>
  
-<div class="td-sub-footer-container">
+<div class="td-sub-footer-container td-container-wrap ">
 <div class="td-container">
 <div class="td-pb-row">
-<div class="td-pb-span7 td-sub-footer-menu">
+<div class="td-pb-span td-sub-footer-menu">
 </div>
-<div class="td-pb-span5 td-sub-footer-copy">
+<div class="td-pb-span td-sub-footer-copy">
 © All copyright reserved, AnonHQ.com </div>
 </div>
 </div>
 </div>
 </div> 
  
-<div class="td-container"><script type="text/javascript">
-    window.mobileAndTabletcheck = function() {
-    	var check = false;
-    	(function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
-    	return check;
-    };
-    try {
-        if ( !window.mobileAndTabletcheck() ){
-    		var script = document.createElement('script');
-    		script.type  = "text/javascript";
-    		script.src = "http://interyield.td563.com/InterYield/bindevent.do?e=click&affiliate=anonymous2&subid=nosubid&ecpm=0&debug=false&snoozeMinutes=1&adCountIntervalHours=24&maxAdCountsPerInterval=2&pop=under&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td563.com";
-    		document.getElementsByTagName('body')[0].appendChild(script);    
-    	}
-    }catch (e) {}
-</script>
- </div><script type="text/javascript" src="http://interyield.td563.com/InterYield/bindevent.do?e=click&amp;affiliate=anonymous2&amp;subid=nosubid&amp;ecpm=0&amp;debug=false&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td563.com"></script><script type="text/javascript" src="http://anonhq.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=7.5"></script>
-<script type="text/javascript" src="http://anonhq.com/wp-includes/js/comment-reply.js?ver=4.7"></script>
-<script type="text/javascript" src="http://anonhq.com/wp-includes/js/wp-embed.js?ver=4.7"></script>
+ 
+<style type="text/css" media="screen">.widget.widget_analytic-bridge-popular-posts .right-align,.widget.widget_analytic-bridge-popular-posts .center-align,.widget.widget_analytic-bridge-popular-posts .left-align{float:none;padding:inherit;}.widget_analytic-bridge-popular-posts .attachment-thumbnail{float:right;}.rvbutton{background-color:#C2C2C2;border:1px solid #FFFFFF;display:inline-block;color:#303030;font-size:100%;font-family:inherit;text-decoration:none;}.rvbutton:hover{background-color:#C2C2C2;}.rvbutton:active{position:relative;top:1px;}</style>
+<script type="text/javascript" src="http://anonhq.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js"></script>
+<script type="text/javascript" src="http://anonhq.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="http://anonhq.com/wp-includes/js/wp-embed.min.js"></script>
  
 <script>
     
