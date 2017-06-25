@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learning-theories.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822193419id_/https%3A//www.learning-theories.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning-theories.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625200630id_/https%3A//www.learning-theories.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Learning Theories
 
@@ -27,3 +27,7 @@ At any time, Learning-Theories.com may update this privacy policy by posting a n
 **Other Websites**
 
 This website contains links to other websites that are not affiliated with Learning-Theories.com.  Learning-Theories.com is not responsible for the privacy policies or practices of any third party.
+
+  
+Also check out:   
+
