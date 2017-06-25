@@ -1,84 +1,17 @@
-> *The following text is extracted and transformed from the mydatabasesupport.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217112425id_/http%3A//dbaspot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydatabasesupport.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Google Adsense Privacy Policy
+# Legal
 
-##  [Google Adsense 3rd Party Cookie Info]() [](http://dbaspot.com/privacy_policy.php#top)
+* * *
 
-As with most other websites, We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-  
-
-
-##  [Registration]() [](http://dbaspot.com/privacy_policy.php#top)
-
-Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.We are the sole owner of the information collected on this Web site.
-
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-##  [Inappropriate Language]() [](http://dbaspot.com/privacy_policy.php#top)
 
-The use of inappropriate or offensive language is not permitted in these forums. Inappropriate or offensive language includes, but is not limited to, any language or content that is sexually oriented, sexually suggestive or abusive, harassing, defamatory, vulgar, obscene, profane, hateful, or that contains racially, ethnically or otherwise objectionable material of any kind. We ask that you please be considerate to other members in the forums when posting your messages.
-
-  
-
-
-##  [Posting Links]() [](http://dbaspot.com/privacy_policy.php#top)
-
-Our policy on linking to other forums is pretty simple. Members may link to any other site that provides information that helps answer another member's question or is just of general interest to members of that particular forum. One of the most basic tenets of the Web is the open exchange of information.
-
-  
-
-
-##  [Security]() [](http://dbaspot.com/privacy_policy.php#top)
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-  
-
-
-##  [Ad Servers]() [](http://dbaspot.com/privacy_policy.php#top)
-
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-[ **Google**](http://www.google.com/privacypolicy.html) **  
-[vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
- **If you have any questions about security on our Web site, you can send email:[Here](http://dbaspot.com/sendmessage.php)**
-
-  
-
-
-##  [Opt-Out Policy]() [](http://dbaspot.com/privacy_policy.php#top)
-
-We give users options wherever necessary and practical. Such choices include:  
-Opting not to register to receive our electronic newsletters.  
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user
-
-  
-
-
-##  [Consent]() [](http://dbaspot.com/privacy_policy.php#top)
-
-By using this site, you consent to the collection and use of this information by us.
-
-  
-
-
-##  [Disclaimer]() [](http://dbaspot.com/privacy_policy.php#top)
-
-reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-  
-
-
-##  [Changes in this Privacy Statement]() [](http://dbaspot.com/privacy_policy.php#top)
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
-
-
-  
-**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://dbaspot.com/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
-[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
----|---  
-  
-Content Relevant URLs by vBSEO ©2011, Crawlability, Inc.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
