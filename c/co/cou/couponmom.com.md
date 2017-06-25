@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmom.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102507id_/http%3A//www.couponmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmom.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625211751id_/http%3A//www.couponmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Coupons, Grocery Coupons, The Coupon Mom
 
@@ -33,4 +33,4 @@ By using this website, you signify your assent to the Couponmom.com Privacy Poli
 Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at: [Contact Coupon Mom](http://www.couponmom.com/contact-us-12).   
 
 
-Copyright © 2016 CouponMom.com - Find All The Latest Printable Coupons & Special Offers Online 
+Copyright © 2017 CouponMom.com - Find All The Latest Printable Coupons & Special Offers Online 
