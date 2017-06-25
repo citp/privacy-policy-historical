@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faithwire.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123204953id_/http%3A//www.faithwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithwire.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625193656id_/http%3A//www.faithwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Faithwire
-
-Posted September 20, 2016
 
 Faithwire Inc. realizes you are concerned about how information you give us is used and shared. This notice describes our privacy policy. By visiting Faithwire.com, you are accepting the practices described in this Privacy Policy.
 
