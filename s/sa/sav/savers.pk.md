@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the savers.pk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040425id_/http%3A//www.savers.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savers.pk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625145058id_/https%3A//www.savers.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Customer Privacy at Savers.pk**
-
-Savers.pk is a Part of **25th Hour Pvt. Ltd**. We highly admire your privacy and like to protect customer private information. When you register initially on our site, we gather details from you when you place your order. You also are subscribed to our promotional offers that we offer occasionally. We have set some basic yet the most essential privacy policy, so to keep our consumer’s confidential information highly protected.
+Savers.pk is a Part of  **25th Hour Pvt. Ltd**. We highly admire your privacy and like to protect customer private information. When you register initially on our site, we gather details from you when you place your order. You also are subscribed to our promotional offers that we offer occasionally. We have set some basic yet the most essential privacy policy, so to keep our consumer’s confidential information highly protected.
 
 **What information do we collect?  **
 
@@ -18,35 +16,25 @@ Google, as a third party vendor, make use of cookies to serve ads on your sites.
 
 Any of the information we accumulate from you may be used for one of the following reasons: 
 
-  * To personalize your online experience 
+**\- To personalize your online experience  **
 
+  (Your information helps us to better respond to your individual requests)
 
+**\- To improve our website  time to time**
 
-(Your information helps us to better respond to your individual requests)
+  (We constantly strive to progress our website based on the information and feedback we obtain from consumers)
 
-  * To improve our website time to time
+**\- To improve customer service  **
 
+  (Your information supports us to more effectively respond to your buyer service requests and support needs)
 
+**\- To process transactions easily**
 
-(We constantly strive to progress our website based on the information and feedback we obtain from consumers) 
+  Your information, whether public or private, will not be shared, exchanged, transferred, or given to any other business for any reason whatsoever,   without your consent, other than for the express purpose of delivering the purchased product or service requested!
 
-  * To improve customer service 
+**\- To send periodic emails  **
 
-
-
-(Your information supports us to more effectively respond to your buyer service requests and support needs) 
-
-  * To process transactions easily
-
-
-
-Your information, whether public or private, will not be shared, exchanged, transferred, or given to any other business for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested! 
-
-  * To send periodic emails 
-
-
-
-The email address that customer provides for order processing, will only be used to send you info and updates relating to your order.
+  The email address that customer provides for order processing, will only be used to send you info and updates relating to your order.
 
 **How do we protect your information?  **
 
@@ -82,12 +70,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding our privacy policy, you may contact us using the information below.  
 
-[http://www.Savers.pk](http://www.savers.pk/ "Savers Pakistan")
-
-A Part of 25th Hour Pvt. Ltd.
+[http://www.savers.pk](http://www.savers.pk/ "Savers Pakistan")
 
 Pakistan
 
 You can also send us your email at:
 
-[support@25thhour.pk](mailto:support@25thhour.pk)
+[support@savers.pk](mailto:support@savers.pk)
