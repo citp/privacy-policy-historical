@@ -1,151 +1,162 @@
-> *The following text is extracted and transformed from the tinypass.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230073818id_/http%3A//piano.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypass.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625232135id_/http%3A//piano.io/privacy) for the most accurate reproduction.*
 
 # Piano — Privacy policy
 
-##### Effective as of November 7, 2011
+##### Effective as of June 1, 2017
 
 ## Introduction
 
-We take your privacy and the privacy of our Piano website very seriously. Please read this Privacy Policy to learn more about how Piano Inc. (“Piano,” “we,” our,” or “us”) treats information, including personally identifiable information when you visit our website located at [http://piano.io](http://www.piano.io/) (this “Site”). We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at support@Piano.io or in writing at: Piano Privacy Concerns, One World Trade Center, Suite 46 D, New York NY 10006.
+Protecting your privacy is very important to us. This is the online privacy policy of Piano Software Inc.(collectively, “Piano”, “we”, “us”, “our”, or “we”), formerly known as Piano Media, Press Plus and Tinypass. We are dedicated to protecting your privacy and we are committed to enforcing our privacy policy while providing a personalized and valuable service to our account holders and readers.
 
-### What This Policy Covers
+Piano sells products and subscriptions on behalf of the owners and publishers of websites and other digital products (“Publishers”). This Privacy Policy describes how we collect, use and disclose personal data and other information that you give us on our website at piano.io, mypressplus.com, and any other site where this privacy policy is posted (the “Site(s)”) and through our online subscription management platform (the “Platform”). We may refer to the Platform and Sites as collectively as our “Service”.
 
-This policy covers the ways in which Piano treats information, including personally identifiable information, which we obtain when you use the Piano Service (as defined in our [Consumer terms of use](http://www.piano.io/consumer-terms-and-conditions/ "Consumer Terms of Use")). We regard personally identifiable information as information that someone can use to identify or contact you in person, such as your real name, telephone number, birth date, email address, or physical mailing address. Information that we use internally to identify you as a user in our system is not considered personally identifiable information.
+If you have any questions concerning how we collect, use, process or share your personal information, you can contact us at support@piano.io. This privacy policy is part of our [Terms and Conditions](https://web.archive.org/publisher-terms-and-conditions/), and any capitalized terms not defined in this privacy policy have the meaning provided our Terms and Conditions.
 
-### What This Policy Does Not Cover
+## Information collected
 
-This policy does not cover the privacy practices of third parties that we do not own or control, such as the practices of Publishers (as defined in our [Terms & conditions](http://www.piano.io/publisher-terms-and-conditions/ "Terms & conditions")), third-party payment processing services, or our business partners and advertisers. In addition, we may provide links to other services and on occasion to other sites that may interest you. All of these sites operate independently of Piano and they have their own privacy and security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
+Through our Service, we may collect information about identified or identifiable individuals (“Personal Data”). We typically collect and use Personal Data in the following ways.
 
-### Types of Users
+### Publisher Registration
 
-There are two types of users of the Piano Service: Publishers and Viewers. Publishers create accounts at http://Piano.io, and use the Piano Service to make their content available to Viewers. Viewers use the Piano Service to purchase and view content made available by Publishers. Viewers may elect to create user accounts if they choose. Unless the context of this policy makes clear the type of user (Publisher or Viewer) referenced by the, the term “you,” as used in this policy, refers to both Publishers and Viewers.
+During the process by which Publishers register for an account, we require the Publisher’s users to provide Personal Data, such as the name and email of the users and account administrators. If you are a Publisher and choose to receive payments by check, you will also need to provide a physical mailing address. You will also choose a username that we will use to identify you in our system. In order to meet “Know-Your-Customer” banking mandates or Anti-money-laundering legislation (or similar purposes), Piano may be required to request additional information to verify Publisher’s compliance with the Terms and Conditions agreed to as part of the registration process. For more information, please refer to the Publisher Registration [Terms and Conditions](https://web.archive.org/publisher-terms-and-conditions/).
 
-## How we collect information: information publishers provide during account creation
+### Reader Registration
 
-### Registration Information For Publishers
+We may collect Personal Data when readers or others wish to access content through the Piano Service. For example, when you register on a Publisher site using our Service we typically collect your:
 
-During the process by which Publishers register for a user account, we require that the Publisher provide its name and email address. We will send you an email to verify that you are the owner of the provided email address. If you are a Publisher and choose to receive payments by check, you will also need to provide your physical mailing address. You will also choose a User Name that we will use to identify you in our system. In order to meet “Know-Your-Customer” (“KYC”) banking mandates or Anti-money-laundering (“AML”) legislation or similar purposes), Piano may be required to request additional information to verify Publisher’s compliance with the Terms and Conditions agreed to as part of the registration process. For more information, please refer to the Publisher Registration Terms and Conditions.
+  * full name;
+  * email address;
+  * physical address (when needed to verify an accompanying print subscription);
+  * telephone number (when needed to verify an accompanying print subscription); and
+  * any other Personal Data you provide during the registration process.
 
-### Access To Your Personal Information
 
-In general, we make it easy for Publishers to view the personally identifiable information we have collected from that Publisher. That information is available at the Publisher’s user account page, where Publishers can add, edit, or delete such personally identifiable information as the Publisher sees fit.
 
-## Optional Information You Provide
+If you make a purchase (e.g. a subscription or one-time purchase) we will collect payment information, as described below. Further, if have an account in our Service or if you use our Sites, we may also collect information from you regarding your use of our Service or Sites, including information that we collect automatically through the use of “cookies,” as described in our Use of Cookies section for more information.
+
+### Payment Information
+
+When you register for an account, and purchase a subscription or one-time access to content through our Service, we ask you for the for the following Personal Data — which is used for the purposes for which you specifically provided it — to allow us to process and fulfill your subscription or other purchase:
+
+  * credit card number;
+  * expiration date;
+  * name on the credit card;
+  * address of billing residence;
+  * card security code.
+
+
+
+We do not keep this information or store it, rather it is processed and stored by the third party we use to process your payment transaction using this information, exclusively for the purposes of executing your transaction on our Service.
+
+### Newsletters and Other Communications
+
+We may offer you the ability to sign up for optional email communications, such as regular updates from Piano. When we do so, we will collect your email address, name, and if applicable, your company name and job title. These communications are enhancements to our service and are entirely optional. We will ask for your consent before sending you promotional communications, and will make it easy for you to unsubscribe from these communications either through the emails themselves or through your account management options page.
 
 ### Surveys and Contests
 
-Your participation in contests or surveys offered by and through the Piano Service is entirely optional. Should you choose to participate in a contest or survey, we may collect personally identifiable information from you as a condition of that participation. If you do not wish to disclose the requested information, please do not participate in the contest or survey for which it is required.
-
-## Information Provided By Viewers Before Viewing Content
-
-Viewers must provide Piano with a valid email address to view content provided through the Piano Service. In addition, when selecting paid content, Viewers will be presented with the option to establish a Piano user account or to pay for Publisher Services (as defined in the Terms of Use *link*) on a one-time-transaction (e.g., a la carte) basis.
-
-If you choose to create a Piano user account, we require that you provide your name and email address. We will send you an email to verify that you are the owner of the provided email address. You will also be required to provide payment information (e.g., PayPal account information) that can be used to purchase content through the Piano Service. Piano will never store your password for any third-party payment processing services.
-
-If you choose to create an account using a credit card, Piano will collect your credit card number; expiration date; name on the credit card; card security code, zip/postal code; and physical address.
-
-If you choose to pay for the content on a one-time-transaction (e.g., a la carte) basis, you will be required to provide payment information (e.g., PayPal account information) that can be used to complete that purchase. Because the Piano Service allows you to replay content you have purchased (subject to the terms selected by the Publisher of such content) we will also create a temporary account in our system that will allow you to access the content in accordance with its terms. Once the temporary account is no longer useful, we will schedule this temporary account and all information associated with the temporary account for deletion.
-
-## Editing / Deleting Account Information
-
-Any user who establishes a Piano user account (whether a Publisher or a Viewer) can view the personally identifiable information we have collected from that user. That information is available at the user’s account page, where users can add, edit, or delete such personally identifiable information as the user sees fit. To completely delete your account and accompanying personal information, please contact us at [support@piano.io](mailto:support@piano.io).
-
-## Information We Do Not Collect From Any Users
-
-### Children
-
-As explained further in our Consumer terms of use and Publisher terms of use (available at <http://www.piano.io/consumer-terms-and-conditions/>), you must be 18 years of age or older – or, if you are under the age of majority in your jurisdiction, have the consent of your parent or guardian – to use the Piano Service. Therefore, we do not knowingly collect personally identifiable information about children. In accordance with Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Piano will never knowingly solicit, nor will we accept, personally identifiable information from users known to be under thirteen (13) years of age. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [support@piano.io](mailto:support@piano.io) or write to our Privacy Officer at the address noted above.
-
-### Social Security Number
-
-We do not require your social security number to use the Piano Service or to access any part of our site. Piano will never ask for your social security number except in the course of required tax documentation prior to publisher payments.
-
-## Information We Track
-
-### Log Files
-
-Similar to many websites and internet services, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and click stream data. We use this information to improve our site, analyze trends, administer the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed, and therefore does not include your personally identifiable information. Of course, if you complete transactions through the Piano site, we will collect and track payment information so that we can properly pay our publisher partners.
-
-### Cookies
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. It can also help us understand how our site visitors click to our site, what pages they view during their visit, and their account and preference information as users of the Piano Service. Similar to many websites, the Piano Service stores an encrypted cookie on your computer so we can remember you when you come back without requiring you to log in each time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site. Cookies used by Piano do not include your personally identifiable information.
-
-If you prefer not to receive cookies, you can set your web browser software to disable them. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. Please note that your browser must be configured to accept cookies to use the Piano Service.
-
-## How we use information
-
-### In Piano Communications
-
-We use emails and/or prominent notifications on our website as our primary means to inform our users of important service and promotional announcements.
-
-### Service-Related Announcements
-
-When a Publisher establishes an account at [http://piano.io](http://piano.io/), we use the email address provided during account creation to deliver important service-related announcements to that Publisher. Examples of service-related announcements include: email verification during registration, requests for password reset, important security or server maintenance updates, upgrades, and new releases, or policy changes. These service-related announcements are considered a fundamental part the Piano Service, and Publishers cannot opt-out of these email announcements.
-
-### Promotional Announcements
-
-In order to improve the experience for our users, we will offer you the ability to sign up for optional email communications, such as regular updates from Piano. These communications are enhancements to our service and are entirely optional. We will ask for your consent before sending you promotional communications, and will make it easy for you to unsubscribe from these communications either through the emails themselves or though your account management options page.
+Your participation in contests or surveys offered by and through our Service is entirely optional. Should you choose to participate in a contest or survey, we may collect Personal Data from you as a condition of that participation. If you do not wish to disclose the requested information, please do not participate in the contest or survey for which it is required.
 
 ### Refer A Friend Program
 
-If you choose to use our referral tool to tell a friend about the Piano Service, we will ask you for your friend’s name and email address. At your request we will automatically send your friend a one-time email inviting him or her to visit this Site. We store this information for the purpose of sending this one-time email, and to track the success of our referral program only. Piano will not use this email address for any other purpose.
+If you choose to use our referral tool to tell a friend about the Piano Service, we will ask you for your friend’s name and email address. At your request we will automatically send your friend a one-time email inviting him or her to visit our Site. We store this information for the purpose of sending this one-time email, and to track the success of our referral program only. Piano will not use this email address for any other purpose.
 
-## On Our Website
+By providing the Personal Data of a third party, you represent and warrant that you personally know this third party and they have agreed that we may collect and use their Personal Data. We reserve the right to reject submissions or refuse to deliver messages to individuals and/or addresses that we believe are subject to a jurisdiction where refer-a-friend programs are unlawful.
 
-### Identification Of Publishers By User Name
+### Anonymous Usage Data and IP Address
 
-When Publishers enable Viewers to pay for Publisher Services using the Piano Service, such Publisher Services will be identified by the Publisher’s User Name, Publisher’s legal name or Publisher’s popularly recognized name. In making Publisher Services available for purchase using the Piano Service, Publishers are not required to provide or publicize any personally identifiable information.
+Before you sign up on our Service, if you are visiting one of our Publisher’s sites, we or the Publisher may collect Personal Data, such as anonymous usage data and your computer or device’s IP address while you are on the Publisher’s or our Sites. This information is not personally identifiable on its own and is used to enhance the Service to better meet your needs. It is shared with our Publishers.
 
-### Site Statistics
+### Log Information
 
-As noted above, we use information collected from our web log files to calculate and publish anonymous, non-personal, aggregate statistics that we believe our users are interested in viewing. For example, we may track and publish the total number of users who have viewed a Publisher Service. We publish this data in aggregate form only, and do not tie it to any personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-### For Internal Reporting and Analysis
+We may combine this automatically collected log information with other information we collect about you. We do this to facilitate our ability to provide fast, convenient service, to improve marketing, analytics, or site functionality.
 
-As noted above, we use information gathered from log files and cookies to improve our site, analyze trends, administer the site, track users’ movements around the site, and to gather aggregate information about our user base as a whole. We do not tie this data to personally identifiable information.
+### Social Media Widgets
 
-## How we share and disclose information
+Our Site or Service may include social media features, such as the Twitter or Facebook button. This feature may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with this feature are governed by the privacy policy of the company providing it.
 
-### With Third-Parties
+### Cookies and Similar Technologies
 
-We share your personally identifiable information, i.e. user name and email address, with Publishers that use the Piano Service to make their content available to Viewers. We do so because when a Viewer purchases content from one of our Publisher partners they are in effect acting as a customer of the Publisher. Your data is co-owned with the Publisher and Piano.
+Our Service may use technologies such as: cookies, beacons, tags, scripts and other similar technologies. These technologies may be used by us, as well as our Publishers, analytics services, or other service providers to manage access for subscribers on our Service, and for us and our Publishers to better understand and market to subscribers. Specifically, these technologies are also used in analyzing trends, administering our Service, tracking users’ movements around our Site or across our Service, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our users. We do not tie this shared or published data to the personally identifiable information of any person.
+We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you do not want information collected through the use of cookies, you can turn off cookies using your browser’s settings menu; however, this may eliminate our ability to provide a personalized or user-friendly experience. To learn more about, or to opt-out of Google’s analytic and marketing services, visit [Google Analytics Terms of Use](https://web.archive.org/web/20170625232135id_/http://www.piano.io/privacy/www.google.com/analytics/tos.html), the [Google Privacy Policy](https://web.archive.org/web/20170625232135id_/http://www.piano.io/privacy/www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-### Linked Services
+### Third-Party Websites
 
-In some cases, we allow you to access or link to other web services through our website. We also allow you to pay for Publisher Services using the Piano Service using selected third party payment processing services (e.g., PayPal). We make it easy for you to determine when you are accessing or linking to these other web services through our website. In all of these cases, those sites may choose to collect your personal information as they deem appropriate. As noted above, we are not responsible for or in control of how third parties collect, use, or disclose your information obtained through these linked services. We encourage you to be aware when you are using these third party services and, for your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of Personal Data that we collect from you through our Service. Our Service and Site include links to and from websites operated by other companies, including our Publishers. For example, our link may appear on a newspaper website that you are reading. We are not responsible for the privacy practices of websites that are operated by third parties that are linked to our Site or Service. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-## As Necessary In Certain Legal Circumstances
+## How We Use Your Data
 
-### Legal Requirements
+When you provide us with Personal Data through our Service (including through the registration form or the purchase of any of our services or products), we use it in the following ways:
 
-We reserve the right to disclose your information, including personally identifiable information, when we have a good faith belief that access, use, preservation or disclosure of such information is necessary to (a) comply with any law, regulation, legal process or enforceable governmental request, (b) enforce this Privacy Policy, including investigation of potential violations of this Privacy Policy, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Piano, its users, or the public as required or permitted by law.
+  * to provide you with a personalized service;
+  * to process your subscriptions, entitlements, and inquiries;
+  * to conduct aggregated anonymous market research for our Publishers only;
+  * to provide you with information about the products and services we offer (if you opt to receive such information);
+  * to supplement your Personal Data with third party information, such as address verification.
 
-### Acquisition
 
-If Piano becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, including bankruptcy, our assets, including user information, may be transferred to a third party. At that time, your user information may become subject to that third party’s privacy policy. Before we transfer your user information, we will notify you either by email or by posting a prominent notice on our site, and we will remind you of your ability to add, edit or delete your personally identifiable information from your account management options page in advance of any such transfer.
 
-## How we keep information secure
+We also use this information to communicate with you via e-mail. We reserve the right to contact you with information specific to your account transactions. However, you may at any time opt out of receiving marketing or promotional materials from Piano by updating your account at our website or unsubscribing in the email.
 
-### Security of Account Information
+## Sharing Your Information
 
-Publisher’s account information is password-protected.
+We take the confidentiality of your Personal Data very seriously and share it only in the following ways:
 
-### Network Security
+To Readers – We may share information provided by Publishers to users of the Piano Service. Such Publisher will be identified on our Services by the Publisher’s User Name, Publisher’s legal name or Publisher’s popularly recognized name. In making Publisher Services available for purchase using the Piano Service, Publishers are not required to provide or publicize any Personal Data.
 
-We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We have implemented a variety of industry standard encryption and security technologies and procedures to protect your information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, thus we strive to use commercially reasonable means to protect your personal information, but we cannot guarantee its absolute security.
+Publishers – If you access Publisher content using our Services, we share your Personal Data with any Publishers with whom you subscribe through our Service as part of our business relationship with them. Your data is co-owned by the Publisher and us. You should read the privacy policies of any Publisher with whom you subscribe to fully understand their policy. We do this because by buying subscriptions from us, you are becoming their customers, too.
 
-### Management Procedures
+Anonymized Data – Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our users. We do not tie this shared or published data to the Personal Data of any person.
 
-We also maintain industry standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
+Service Providers and Affiliates – We may also share Personal Data and other information with entities under our control or under common control with Piano (our affiliates), and with vendors providing services to us (such as vendors storing or serving information and content or creating or maintaining our equipment or software). We may also provide Personal Data to certain third-party companies and individuals we work with to help us provide, analyze, and improve the Service. For example, we may share your email address and first name with an email service provider for the sole purpose of sending you emails regarding your account. This company is authorized to use this information only as necessary to provide this service to us.
 
-### Receiving Communications
+Payment Service Providers – As described above, we share your payment information with the third party payment service providers we have engaged to process your payment transactions when you use the Service. These third parties are only authorized to use your payment information as necessary to process your payments.
 
-If you subscribe to any optional promotional communications, you will be able to unsubscribe from these communications through your account management options or through the emails we send you.
+Legal disclosures – we may release your Personal Data and any other information we possess when necessary or appropriate to comply with the law; cooperate with law enforcement or national security requirements; respond to lawful requests; protect the rights of Piano or a Publisher, other Piano customers and users, and third parties; or to enforce our Terms of Use. However, in doing so, we may: (i) dispute demands for release to the extent we believe, in our sole discretion, are unwarranted, illegitimate or overbroad; and (ii) when appropriate and permitted, we will notify you of any requests for release.
 
-If you agree to share personally identifiable information with any third party, you acknowledge that Piano does not control and shall not be responsible for any use of that information. Piano may facilitate the sharing of your personal information with your consent or request, but information shared with any third party is then subject to separate agreement between you and the third party.
+Other disclosures – in the event we, or some or all of our assets are acquired by or merged with a third party entity, we may transfer or assign Personal Data in connection with such transaction. Your Personal Data will still be subject to the terms of the then-current Privacy Policy. We will notify you (for example, via email or by posting to the Site or Services) of any such event and outline your options regarding your Personal Data.
 
-## Updates to our privacy policy
+## Security Policy
 
-From time to time, we will review and may make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at <http://piano.io/privacy>.
+The security of your Personal Data is important to us. Your Service account information is protected by a password for your privacy and security. When you enter sensitive information (such as your credit card number), that information is encrypted using secure socket layer technology. Piano follows generally accepted industry standards and has appropriate measures in place to ensure that your data is protected against unauthorized access or use, alteration, unlawful, or accidental destruction and accidental loss. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+## User Access and Control of Data
+
+Any user who establishes a Piano user account (whether as a Publisher or a reader) can view the Personal Data we have collected from that user. That information is available at the user’s account page, where users can add, edit, or delete such personally identifiable information as the user sees fit. To completely delete your account and accompanying personal information, please contact us at support@piano.io.
+
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you the Service. If you wish to cancel your account, request that we no longer use your information to provide you the Service or delete your account, please contact us at support@piano.io. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request within 30 days.
+
+## International Data
+
+If you are accessing our Service from outside of the United States, any information provided will be transferred to us or our service providers in the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. You consent to such transfer through your continued use of our Service.
+
+### Canada
+
+Piano recognizes and has controls in place to ensure that the privacy of personal information about an “identifiable individual” used in the course of “commercial activity” is protected and managed in such a manner which meets or exceeds the guidelines set out in the Canadian statute known as PIPEDA and applicable Canadian provincial legislation.
+
+### EU-US Privacy Shield
+
+We comply with the principles of the Privacy Shield Framework. Our adherence to Privacy Shield reflects our commitment to protect the privacy of our EU users when we collect, process, and transfer personal data collected from users in the EU. We adhere to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse/enforcement/liability. Furthermore, we require third party recipients of EU citizens’ Personal Data to agree to respect these principles, and we accept liability for third parties’ processing of EU citizens’ data to the extent required by law.
+
+We encourage EU (and US) users to contact us if you have any concerns about our compliance with this Privacy Policy and the Privacy Shield Framework. Any questions or concerns may be sent to the address or email below. Piano will respond to complaints from EU citizens within 45 days.
+
+If any complaints cannot be resolved between you and Piano, we have agreed to participate in the dispute resolution procedures of JAMS to resolve disputes pursuant to the Privacy Shield Principles. EU residents with unresolved complaints may refer them to JAMS (See [here](https://www.jamsadr.com/eu-us-privacy-shield) for more details). If required by law, we will work with the appropriate panel of DPAs or individual DPA in the EU to resolve disputes. Under certain circumstances, these dispute resolution processes may result in your ability to invoke binding arbitration. As a US company, we are also subject to the investigatory and enforcement power of the FTC regarding our compliance with the Privacy Shield Framework and this Privacy Policy, and users may direct complaints to the FTC in the event the dispute resolution processes described above is unsatisfactory.
+
+You may view the list of Privacy Shield companies [here](https://www.privacyshield.gov/list).
+
+## Changes to this Privacy Policy
+
+This Policy may change from time to time. We post our current Policy and its effective date on our website. If we believe we need your express consent following any changes, then we will notify you. Your continued use of our Site after we make any changes manifests your consent to the modified version of this Policy.
+
+## Contact Information
+
+If you have any questions or comments about this privacy policy, contact us at:
+
+Piano Inc.  
+One World Trade Center, Ste. 46D  
+New York, NY 10006  
+[support@piano.io](mailto:support@piano.io)
