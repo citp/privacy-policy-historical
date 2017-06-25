@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215224349id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625052600id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
 
-# igHome - Personal Dashboard
+# igHome - Personalized Homepage
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us. 
 
