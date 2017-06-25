@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112024434id_/https%3A//www.flightglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625210431id_/https%3A//www.flightglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # FlightGlobal Privacy Policy | flightglobal.com
 
@@ -16,11 +16,11 @@ Any information provided by you in connection with any transaction regarding you
   **Contact details**   
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by clicking [here](http://www.flightinternational.com/Jobseeker/Profile.aspx?)
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by clicking [here](https://login.flightglobal.com/AccountManagement)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.flightinternational.com/Jobseeker/Profile.aspx?)
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](https://login.flightglobal.com/AccountManagement)
 
-If you wish to alter any of your registration details please click [here](http://www.flightinternational.com/Jobseeker/Profile.aspx?)
+If you wish to alter any of your registration details please click [here](https://login.flightglobal.com/AccountManagement)
 
 **Voluntary Information**   
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.
