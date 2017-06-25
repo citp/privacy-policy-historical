@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noceilings.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208205250id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noceilings.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625202514id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clinton Foundation
 
