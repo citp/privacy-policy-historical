@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanevisions.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129044217id_/http%3A//insanevisions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanevisions.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625104406id_/http%3A//www.insanevisions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insane Visions
 
