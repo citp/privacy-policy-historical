@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunnysidesoft.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120020440id_/http%3A//www.sunnysidesoft.com/virtualtablet/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysidesoft.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625155810id_/http%3A//www.sunnysidesoft.com/virtualtablet/privacy-statement) for the most accurate reproduction.*
 
-# SUNNYSIDESOFT | Privacy Statement
+# SUNNYSIDESOFT| Privacy Statement
 
 This Privacy Policy governs the manner in which SunnysideSoft collects, uses, maintains and discloses information collected from users (each, a “User”) of the VirtualTablet application (“App”). This privacy policy applies to the App offered by SunnysideSoft.
 
