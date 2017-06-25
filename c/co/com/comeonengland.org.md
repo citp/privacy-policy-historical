@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220120004id_/http%3A//www.comeonengland.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625131349id_/http%3A//www.comeonengland.org/privacy) for the most accurate reproduction.*
 
 # 
 
