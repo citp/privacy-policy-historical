@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaticonnect.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917121341id_/http%3A//www.gaticonnect.com/content.aspx%3Fpgid%3D175957) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaticonnect.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625135150id_/http%3A//www.gaticonnect.com/pages/privacy-policy/pgid-1171326.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 ##  Privacy Policy
 
