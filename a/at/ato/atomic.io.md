@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the atomic.io privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810095555id_/https%3A//atomic.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomic.io privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625153157id_/http%3A//www.atomic.io/privacy) for the most accurate reproduction.*
 
 # Atomic: Privacy Policy
 
-This Policy was last updated on 25 November 2015.
+This Policy was last updated on 14 March 2017.
 
-This update included a small number of edits to align it with revisions made at the same time to the [Atomic Terms of Use](https://web.archive.org/terms). Key changes from the previous edition include:
+This update includes a small number of edits to align it with revisions made at the same time to the [Atomic Terms of Use](https://web.archive.org/terms) upon the introduction of the Atomic team functionality.
 
-  * updating the terms used to describe user accounts and account status to make them simpler and easier to understand; and
-
-  * updating section 6 with a reference to related information contained within the [Atomic Terms of Use](https://web.archive.org/terms).
-
-
-
+* * *
 
 _1._ **Your privacy**
 
-_1.1._ Atomic is a software as a service design collaboration system provided by Atomic.io Limited (New Zealand Company Number 4917919) (“ **us** ”, “ **we** ”) at atomic.io (“ **Atomic** ”). Atomic has two types of users,
-
-a) those who can log into our application where they may be able to create work using the Atomic software and who can comment on their own and others’ work on Atomic (“ **Account Holders** ”) and;
-
-b) those who do not have log in details to Atomic but can view work created by others and browser other areas of the Atomic website without signing in (“ **Viewers** ”).
+_1.1._ Atomic is a software as a service design collaboration system provided by Atomic.io Limited (New Zealand Company Number 4917919) (“ **us** ”, “ **we** ”) at atomic.io (“ **Atomic** ”).
 
 _1.2._ We do our best to protect your privacy, and to treat your personal information as required by the New Zealand Privacy Act 1993. We want to make sure that you understand how your personal information is used so please read this Privacy Policy carefully.
 
@@ -31,7 +22,7 @@ _2.2._ By accessing or using Atomic, you consent to the collection, use, disclos
 
 _3._ **What information we collect about you**
 
-_3.1._ We collect personal information about you when you create an account (whether it be a Design Account or a Reviewer Account) and when you access and use Atomic. In particular we will collect:
+_3.1._ We collect personal information about you when you create an account (whether it be a Team Account or an Individual Account) and when you access and use Atomic. In particular we will collect:
 
   * your company/personal name;
   * your contact details;
@@ -88,14 +79,14 @@ _6.2._ More information about cancelling a paid subscription, permanently deleti
 
 _7._ **Changes to our Privacy Policy**
 
-_7.1._ We may amend or update this Privacy Policy from time to time, with or without notice to you. You agree to be bound by the Privacy Policy that is in effect at the time you use Atomic. Revised versions will be effective immediately once posted on our website.
+_7.1._ We may amend or update this Privacy Policy from time to time, with or without notice to you, to better reflect changes to laws, regulatory requirements and/or enhancements to our services. You agree to be bound by the Privacy Policy that is in effect at the time you use Atomic. Revised versions will be effective immediately once posted on our website.
 
 _8._ **Contact us**
 
 _8.1._ If you have any questions about this Privacy Policy, the practices of Atomic, or if you would like to request access to, or correction of, your personal information, you can contact us in the following ways:
 
 **Email:** [privacy@atomic.io](mailto:privacy@atomic.io)  
-**Post:** Level 1, 90 Dixon Street, Wellington, New Zealand 6011
+**Post:** Atomic.io Limited, Level 1, 90 Dixon Street, Wellington, New Zealand 6011
 
 _9._ **More information about privacy**
 
