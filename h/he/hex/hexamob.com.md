@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121142235id_/http%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625145639id_/http%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Hexamob
 
@@ -13,5 +13,3 @@ The user expressly accepts the inclusion of data collected while browsing the we
 Hexamob informs the user that to ensure full availability of the data in your files has concluded its hosting services and maintenance of data with different suppliers located in the European Union as well as in USA. These suppliers have signed a contract to provide services Hexamob, and found inside the European Economic Area or U.S. entities are adhering to the principles of “Safe Harbor” (safe harbor), in accordance with Decision 2000/520/EC . the Commission on July 26, 2000 For more information about the Safe Harbor program, visit: <http://export.gov/safeharbor>
 
 The USER agrees unequivocally international communication and data transfer in terms of expressing finishes. This transfer will take place automatically upon submit your information to Hexamob, so if you are not agree with it must provide them to refrain from it. The user can exercise their rights of access, rectification, cancellation or opposition, and where applicable, withdrawal of consent to receive information, by writing to the address of your permanent establishment located in Monestir de Poblet,13 1 B, 12540 – Villarreal (Castellon – Spain), or if you prefer, send your request from the email address you have provided when registering at THE WEB TO privacy@hexamob.com. 
-
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://hexamob.com/es/aviso-legal-y-politica-de-privacidad/#cookies)
