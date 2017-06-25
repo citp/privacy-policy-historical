@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namegenerator.biz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020513id_/http%3A//www.namegenerator.biz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namegenerator.biz privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625050638id_/http%3A//namegenerator.biz/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of NameGenerator.biz
 
