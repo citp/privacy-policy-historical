@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsandresults.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204000537id_/http%3A//www.jobsandresults.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsandresults.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625174921id_/http%3A//www.jobsandresults.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - JobsandResults.com
 
