@@ -1,40 +1,17 @@
-> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225170910id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# None
+# Legal
 
-* Use of the Site and the Service is further governed by Eye and Buy's Privacy Policy, which is incorporated into this Agreement by reference. Eye and Buy Retail Private Limited is the operator and licensee of [www.unwrapindia.com](http://www.unwrapindia.com/). We ensure the protection and security of your personal information.
+* * *
 
-Personal Information refers to any information that identifies or can be used to identify, contact or locate the person, to whom such information pertains including, but not limited to, IP address, name, physical address, email address, phone number, cell phone number, fax number, email address, financial profiles, identification number and credit card information and other information such as gender, occupation and other demographic information.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-#### With whom does UWI share my personally identifiable information?
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We don't sell your name or other personally identifiable information to third parties. We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information when we believe in good faith that the law requires it, or if we consider it necessary to maintain service and improve our products and services.
 
-We may use your IP address and share it with third parties to help diagnose problems with our servers, to manage the Site and the Service, and to enhance the Site and the Service based on usage pattern data.
 
-#### How does UWI use cookies, tags, and similar technologies?
-
-We use cookies, tags and similar technologies to recognize your preferences and effectively and efficiently administer the Site. We use the information we collect to enhance your visit to the Site and provide you with information tailored to your interests.
-
-You may elect to refuse cookies, however doing so may affect your use of some portions of the Services and our partners services.
-
-#### Does the Site contain links to other websites?
-
-unwrapindia.com may contain links to other sites not owned by us that may have different privacy practices from ours. We aren't responsible for the content or privacy practices of those sites, and our Privacy Policy doesn't apply to information collected by those sites. We encourage you to read the privacy statements of each site that collects information from you. When you leave our Site or Service via a link to interact with a site not governed by our Privacy Policy, a new browser window will open.
-
-#### How is my personally identifiable information protected?
-
-To prevent unauthorized access, disclosure or improper use of your information, and to maintain data accuracy, we've established reasonable physical, electronic and managerial safeguards to protect the information we collect. Although we take reasonable steps to safeguard and prevent unauthorized access to your personally identifiable information, we can't be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.
-
-#### How should I contact UWI about my personally identifiable information?
-
-If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
-
-**Eye and Buy Retail Pvt Ltd**  
-#55, Double Road   
-Indiranagar,   
-Bangalore - 560038, India.
-
-#### Changes to this Privacy Policy
-
-If the privacy policy is changed, UWI will post changes so that you are aware of those changes. If UWI makes material changes to this policy you will be notified by email, or other places UWI deems appropriate.UWI reserves the right to modify this privacy statement at any time, so please review it frequently. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
