@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202043111id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625161637id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Quotezone.co.uk
 
@@ -86,6 +86,7 @@ Insurance| • Car
 • Pet  
 • Personal  
 • Other insurances  
+• Car Warranty - Car Protect  
 Travel| • Holidays  
 • Hotel  
 • Airlines  
@@ -112,7 +113,7 @@ Once you have given your consent to be contacted by third parties, you can howev
 
  _Post_
 
-You can also withdraw your consent for **postal marketing** from anyone by adding your details to the **Mail Preference Service**. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20161202043111id_/http%3A//www.quotezone.co.uk/www.mpsonline.org.uk).
+You can also withdraw your consent for **postal marketing** from anyone by adding your details to the **Mail Preference Service**. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20170625161637id_/http%3A//www.quotezone.co.uk/www.mpsonline.org.uk).
 
  _E-mail or SMS (text message)_
 
@@ -120,7 +121,7 @@ You can unsubscribe from receiving **e-mail or SMS marketing communications** fr
 
  _Telephone calls_
 
-To withdraw your consent for **live or automated calls** from anyone you can add your name to the **Telephone Preference Service** which is maintained at this website address: [www.tpsonline.org.uk](https://web.archive.org/web/20161202043111id_/http%3A//www.quotezone.co.uk/www.tpsonline.org.uk).
+To withdraw your consent for **live or automated calls** from anyone you can add your name to the **Telephone Preference Service** which is maintained at this website address: [www.tpsonline.org.uk](https://web.archive.org/web/20170625161637id_/http%3A//www.quotezone.co.uk/www.tpsonline.org.uk).
 
 You can also opt out at any time from communications by third parties via any of the methods described above by e-mailing us at [info@quotezone.co.uk](mailto:info@quotezone.co.uk). Please note that such opt-out will only apply to communications from those third parties with whom we have a business relationship. If you opt out this way, you may still receive communications from third parties with whom we have no relationship.
 
