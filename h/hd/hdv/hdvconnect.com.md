@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224012351id_/http%3A//hdvconnect.com/blog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625075711id_/http%3A//www.hdvconnect.com/blog/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 2017 Recommendations For Antivirus, Identity Theft Protection, Internet Security, Mobile Security &amp; Firewall
 
