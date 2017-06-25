@@ -1,55 +1,17 @@
-> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030054845id_/http%3A//www.webmasterbond.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterbond.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-### What information do we collect?
+* * *
 
-We collect information from you when you register on our site: you will be asked to enter your name and e-mail address. You may, however, visit our site anonymously and use our free tools without registering.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-### Do we use cookies?
-
-Yes, we use cookies to understand and save your preferences for future visits. (Cookies are small files that a site transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and remember certain information.
-
-### Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-### California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We will not distribute your personal information to outside parties without your consent.
-
-Users who create an account on our site can change their information anytime by logging in and then clicking 'My Dashboard' at the top-right of any page.
-
-### Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). Our website, products and services are all directed to people who are at least 13 years old or older.
-
-### Terms and Conditions
-
-For information on the policies specific to our [AdServer](https://web.archive.org/advertising/solutions/adserver/) application, visit these links:
-
-  * [AdServer Privacy Policy](http://kevin.webmasterbond.com/policies/adserver-privacy/)
-  * [AdServer Terms & Conditions](http://kevin.webmasterbond.com/policies/adserver-terms/)
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-### Your Consent
-
-By using our site, you consent to our online privacy policy.
-
-### Changes to our Privacy Policy
-
-If we change our privacy policy, those changes will be post on this page. The modification date below indicates the last time this policy was updated:
-
-This policy was last modified on **August 1, 2011**
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us at: [WebmasterBond Support](mailto:support@webmasterbond.com).
-
-  
-This policy is powered by Trust Guard PCI compliant security scanning.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
