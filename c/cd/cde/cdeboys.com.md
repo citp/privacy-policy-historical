@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdeboys.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219164221id_/http%3A//www.cdeboys.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdeboys.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625040755id_/http%3A//www.cdeboys.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
