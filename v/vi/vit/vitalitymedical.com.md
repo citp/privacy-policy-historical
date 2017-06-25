@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalitymedical.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121140026id_/http%3A//www.vitalitymedical.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalitymedical.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625132006id_/http%3A//www.vitalitymedical.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
