@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotteryusa.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122857id_/http%3A//www.lotteryusa.com/lottery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotteryusa.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625161329id_/http%3A//www.lotteryusa.com/lottery/privacy.html) for the most accurate reproduction.*
 
 # LotteryUSA Privacy Policy
 
