@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the agcku.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820060926id_/http%3A//agcku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agcku.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# privacy policyagcku.com | agcku.com
+# Legal
 
-Data Privacy
+* * *
 
-Thank you for visiting our website. This privacy policy tells you how to use the personal information collected on this site. Please read this privacy policy before using the site or send any personal information. By using the site, you accept the practices described in this privacy policy. These practices may be changed, but the changes will be posted and changes will only apply to activities and information to move forward, not retroactively. You are encouraged to review the privacy policy whenever you visit the site to ensure that you understand how any personal information you provide will be used.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Information Collection
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We may collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by visitors. The information you provide is used to meet the specific order. This information is only used to fulfill your specific request, unless you give us permission to use it differently, for example, to add to one of our mailing lists.
 
-Cookie / Tracking Technology
 
-The site may use cookies and tracking technology depending on the features offered. Cookies and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help customize the site for visitors. Personal information can not be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. information tracking cookies total and may be shared with third parties. The Site or the advertisers on the site may use cookies and / or web beacons to collect data in the ad serving process.
-
-Distribution Information
-
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We can do so when: (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
-
-Commitment to Data Security
-
-Your personal information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allows you to switch to other mails.
-
-Privacy [Contact](http://agcku.com/contact "Contact") Information
-
-If you have questions, concerns or comments about our privacy policy, please contact me
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
