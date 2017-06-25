@@ -1,34 +1,317 @@
-<!--The following is the downloaded HTML source of the haptik.co privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609185711id_/http%3A//www.haptik.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the haptik.co privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625101430id_/http%3A//haptik.ai/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head><meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcCUFBRGwIBVVlTBggO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"b755b7638a","agent":"","transactionName":"ZldQbUNXW0YEABYNXl8ddExfVUFcCg1NBUFYHERQVEFGGxIGADtCWEZXZkcED0UXChQFUkg=","applicationID":"11181199","errorBeacon":"bam.nr-data.net","applicationTime":50}</script><meta name="HandheldFriendly" content="true"><meta name="MobileOptimized" content="320"><meta name="apple-itunes-app" content="app-id=640450339"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"><link rel="icon" href="https://haptikimg.s3.amazonaws.com/img/icon.png" type="image/png"><!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://haptikimg.s3.amazonaws.com/img/icon.png"><!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://haptikimg.s3.amazonaws.com/img/icon.png"><!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://haptikimg.s3.amazonaws.com/img/icon.png"><!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="https://haptikimg.s3.amazonaws.com/img/icon.png"><meta name="ROBOTS" content="NOFOLLOW"><title> Haptik - Privacy Policy </title><meta name="description" content="Haptik is Everyone's Personal Assistant to get things done over chat. Now sit back, relax and outsource all your work to a Haptik Assistant with a simple message."><meta name="keywords" content="personal assistant, messaging app, flipkart, amazon, myntra, paytm, bookmyshow, cleartrip, makemytrip, oneplus, motorola service centre india, dena bank number, hathway broadband number, vodafone network issue, tata sky helpline, tata sky customer care number, airtel postpaid plan, bsnl customer care number, micromax lollipop update, reliance netconnect, bsnl, reliance customer care, videocon d2h customer care, ebay, panasonic customer care, online chat, credit card lost, icici credit card customer care, sun direct customer care,customer service on instant messaging, customer support on instant messaging,customer care on instant messaging, go air"><meta name="author" content="Haptik, Inc."><meta name="copyright" content="Haptik, Inc. (c) 2014"><link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" type="text/css"><link rel="stylesheet" href="https://haptikimg.s3.amazonaws.com/CACHE/css/014a1e6273fa.css" type="text/css"><script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><script type="text/javascript" src="https://haptikimg.s3.amazonaws.com/CACHE/js/15ed4880f23e.js"></script><script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-44198980-1']);
-            _gaq.push(['_trackPageview']);
+<html lang="en"><head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>Haptik - We Get It Done</title>
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/application.css" rel="stylesheet">
+<link href="css/vistyle.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="https://d6eef4ynlreig.cloudfront.net/images/favicon.png">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
 
-            (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-        </script><link rel="alternate" href="android-app://co.haptik/haptik/business/haptik"></head><body id="main_website"><nav class="navbar navbar-default navbar-fixed-top navbar-haptik inner-pages noshadow " role="navigation"><div class="container"><!-- Brand and toggle get grouped for better mobile display --><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/">
-                        
-                            Haptik
-                            <img src="https://haptikimg.s3.amazonaws.com/img/site_v2/logo.png" alt="menu-logo"></a></div><div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"><ul class="nav navbar-nav navbar-right"><li><a href="#" data-toggle="modal" data-target="#bs-example-modal" onclick="_gaq.push(['_trackEvent', 'Home', 'Get the App'])">Get the app</a></li><li><a href="/careers" onclick="_gaq.push(['_trackEvent', 'Header', 'Careers'])">Careers</a></li><li><a href="/assistant_form" onclick="_gaq.push(['_trackEvent', 'Header', 'Become an assistant'])">Become an Assistant</a></li><li><a href="/partner_with_us" onclick="_gaq.push(['_trackEvent', 'Header', 'Partner with us'])">Partner with us</a></li><li><a href="http://blog.haptik.co" onclick="_gaq.push(['_trackEvent', 'Header', 'Blog'])">Blog</a></li></ul></div><!-- /.navbar-collapse --></div><!-- /.container-fluid --></nav><!-- Section block7res Starts here --><section class="block7res"><article class="privacyblkres"><h4>Privacy Policy</h4><h5>A. GENERAL</h5><p>1.1 Haptik is committed to the protection of personal information provided by the users to us. You agree that your use of Haptik’s mobile application (the “Application”), owned by Haptik Inc (the “Company”), implies your consent to the collection and use of your personal information (or your children's personal information) in accordance with the terms of this Privacy Policy.</p><p>1.2    	We at Haptik take the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service.</p><p>1.3    	No user information is rented or sold to any third party. When a user uses the Application, Haptik may collect users’ mobile phone number, mailing address, email ID, Pin Code, other apps on users’ phones, login information for Facebook, Twitter and Google account and other personal information such as service Account Numbers. A high standard of security is maintained by Haptik for its users; however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect user information, particularly with respect to protection of personal data, we cannot ensure the security of user data transmitted to us via the internet or any other medium</p><h5>B. INFORMATION COLLECTED</h5><p>2.1    	We collect personal information from you at registration and other times (for instance, when you download the Application) such as [your name, your picture, email address, postal address, mobile phone number, a list of all apps on your phone].</p><p>2.2    	You are under no obligation to provide us with such information. However, if you choose to withhold requested information, you may not be able to use the Application and we may not be able to respond effectively to your query or provide you with certain services.</p><h5>C. DISCLOSURE OF PERSONAL INFORMATION</h5><p style="padding-bottom:0;">3.1 We do not disclose your information to any third parties other than Haptik’s affiliates.
+    <style type="text/css">
+    .header-link ul li a {
+        color: #000;
+        text-shadow: none;
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #161b1f;
+    }
+    </style>
+</head>
 
-                <br>3.2 We also use information in aggregate form (so that no individual user is identified):</p><p style="padding-left:10px;">(i) to build up marketing profiles;<br>(ii)     	to aid strategic development ;<br>(iii)    	to manage our relationship with advertisers and partners; and<br>(iv) to audit usage of the Application.</p><p>3.3    	Haptik reserves the right to disclose personal information if required to do so by law or if we believe that it is necessary to do so to protect and defend the rights, property or personal safety of Haptik, the Application, or its users.
-</p><h5>D. YOUR ACCEPTANCE OF THIS POLICY</h5><p>4.1    	By using this Application, you consent to the collection and use of your information by Haptik and to this Privacy Policy. If we change the Privacy Policy then we will post these changes on this page.</p><p>4.2    	Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the internet, the world wide web or any other type of network cannot always be guaranteed as 100% secure and therefore that you use the Application at your own risk.</p><h5>E. YOUR RIGHTS</h5><p>5.1    	You have a legal right to a copy of any personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to request that we cease to use your personal information for direct marketing purposes.</p><p>If you have questions or concerns, feel free to email us or to correspond at hello@haptik.co and we will attempt to address your issue.</p></article><div style="font-size:12px; padding-bottom: 20px">Last updated on: <b>May 5, 2015</b></div></section><!-- Section block7res Ends here --><!--&lt;!&ndash; Pop ups &ndash;&gt;--><!--<div id="congratulate-modal" class="reveal-modal" data-reveal>--><!--<div class="pop-up">--><!--<div class="forgotpop">--><!--<aside class="congrate">--><!--<div class="close"><a class="close-reveal-modal" title="Close" />Close</a></div>--><!--<h5>Congratulations</h5>--><!--<h6>We have sent you the link to download via SMS</h6>--><!--<p>Spread the word and make others lives easier too</p>--><!--<ul class="socialiconspop" style="width: 800px;">--><!--<li class="twitterpop"><a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fhaptik.co%2Fdownload3&text=Check%20out%20Haptik%20%E2%80%93%20it%E2%80%99s%20like%20WhatsApp%2C%20but%20instead%20you%20talk%20to%20support%20experts%20of%20carriers%2C%20airlines%2C%20banks%2C%20etc" title="Twitter" onclick="_gaq.push(['_trackEvent', 'Congrats', 'Twitter Share'])">Twitter</a></li>--><!--<li class="facebookpop"><a  href="https://www.facebook.com/dialog/feed?app_id=723996210947328&display=popup&link=http%3A%2F%2Fwww.haptik.co%2Fdownload2&redirect_uri=http%3A%2F%2Fwww.haptik.co&name=Haptik&caption=Customer%20support%20over%20texting&description=Haptik%20allows%20you%20to%20chat%20with%20%20with%20support%20experts%20of%20carriers%2C%20airlines%2C%20banks%2C%20and%20many%20others%20to%20get%20help%20with%20customer%20support%20issues%2C%20FAQs%2C%20information%2C%20or%20anything%20else%20within%20minutes.%20Think%20WhatsApp%20-%20but%20instead%20with%20a%20certified%20expert%20who%20knows%20the%20company%20insie%20out.%20Available%20now%20in%20India%20on%20iOS%20%26%20Android%20for%20over%20100%20brands%20across%2011%20categories.&picture=http%3A%2F%2Fhaptik.co%2Fstatic%2Fimg%2Ficon-120.png" target="_blank" title="Facebook">Facebook</a></li>--><!--</ul>--><!--</aside>--><!--</div>--><!--</div>--><!--</div>--><!--<div id="getTheApp-modal" class="reveal-modal" data-reveal>--><div class="modal fade bs-example-modal appmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="bs-example-modal"><div class="modal-dialog"><div class="modal-content"><div class="app-modal"><header><h1>Get Haptik</h1><h4>A Better way to get help</h4></header><div class="modal-apps"><div class="modal-app"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/app-1.png" style="width: 200px; height: 300px"><p class="text-primary bold lato">Download for Android</p><a href="https://play.google.com/store/apps/details?id=co.haptik&amp;hl=en" target="_blank"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/play-store.png" class="stores"></a></div><div class="modal-app"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/app-2.png" style="width: 200px; height: 300px"><p class="text-primary bold lato">Download for iPhones</p><a href="https://itunes.apple.com/in/app/haptik-messenger-customer/id640450339?mt=8" target="_blank"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/app-store.png" class="stores"></a></div></div></div></div></div></div><!--<div class="forgotpop"><aside class="congrate1"><h5>Download away!</h5><div class="close1"><a class="close-reveal-modal" title="Close" />Close</a></div><p style="padding: 0 0 20px;">(and while at it, tell your friends!)</p><p><span><a href="https://play.google.com/store/apps/details?id=co.haptik" target="_blank" title="Google Play" onclick="_gaq.push(['_trackEvent', 'Congrats', 'Google Play Store'])"><img src="{% static 'img/newsite/link_google-play.png" /></a><a href="https://itunes.apple.com/in/app/haptik-personal-assistant/id640450339" target="_blank" title="App Store" style="padding-left: 15px;" onclick="_gaq.push(['_trackEvent', 'Congrats', 'Apple App Store'])"><img src="{% static 'img/newsite/link_app-store.png" /></a></span></p><h6>or send yourself the download link as an SMS</h6><aside style="padding-left:285px;" class="getblk"><aside class="getblk-lt"><input type="text" value="+91" id="q1" name="q1" autocomplete="off"></aside><aside class="getblk-rt" style="height: 75px;"><form id="searchForm1"><fieldset style=""><div class="input1" style="width: 429px; margin-left: 0px; float:none !important"><input onClick="if(this.value=='Enter your mobile number') this.value='';" onBlur="if(this.value=='')this.value='Enter your mobile number';" value="Enter your mobile number"  style="font-style: italic; color: rgb(0, 0, 0);" id="s1" name="s1" autocomplete="off"></div><input onclick="sendText()" id="searchSubmit1" style="background-image:url(/static/img/newsite/blueicon.png); display: block;"></fieldset></form></aside></aside></aside></div>--><!--video modal--><section class="vid-holder"><div class="container"><div class="row"><div class="col-xs-12"><ul class="vid-block"><li><a class="youtube" href="https://www.youtube.com/embed/VJQNTa9WlMw?rel=0&amp;autoplay=1"><img src="https://haptikimg.s3.amazonaws.com/img/newsite/slider/btn-play.png" style="padding-right:20px"></a></li><li style="font-size:30px">
+<body class="bodyPadd">
+    <!-- Header Link -->
+    <div id="toast"></div>
+<div class="head-link">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="logo-pan">
+                <a href="/"><img src="images/logo.png" alt="Haptik"></a>
+            </div>
+            <div class="header-link">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top_menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="top_menu">
+                    <ul>
+                        <li><a href="#" data-toggle="modal" data-target="#bs-example-modal" onclick="_gaq.push(['_trackEvent', 'New Home', 'Get the App'])">GET THE APP</a></li>
+                        <li><a href="partners">PARTNER WITH US</a></li>
+                        <li><a href="http://haptik.ai/blog/" target="_block">BLOG</a></li>
+                        <li><a href="careers">CAREERS</a></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </nav>
+</div>
+<div class="modal fade bs-example-modal appmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="bs-example-modal">
+    <div class="modal-dialog pop-dialog">
+        <div class="modal-content">
+            <div class="app-modal">
+                <header>
+                    <h1>Get Haptik</h1>
+                    <h4>We Get It Done</h4></header>
+                <div class="modal-apps">
+                    <div class="modal-app"><img src="images/android-store.png" style="width: 200px; height: 300px">
+                        <p class="text-primary bold lato">Download for Android</p>
+                        <a href="http://get.haptik.ai/getapp" target="_blank"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/play-store.png" class="stores"></a>
+                    </div>
+                    <div class="modal-app"><img src="images/ios-store.png" style="width: 200px; height: 300px">
+                        <p class="text-primary bold lato">Download for iPhones</p>
+                        <a href="http://get.haptik.ai/getapp" target="_blank"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/app-store.png" class="stores"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-                                    Watch Our Entire Team Rage and when
-                                    <span>you are done, come join us! We’re Hiring!</span></li></ul></div></div></div></section><div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content video-modal"><video class="video-js" preload="auto" poster="https://haptikimg.s3.amazonaws.com/img/site_v2/video/poster.jpg" data-setup="{}"><source src="https://haptikimg.s3.amazonaws.com/img/site_v2/video/echo-hereweare.mp4" type="video/mp4"></video></div></div></div><!--end video modal--><!-- footer --><section class="site-footer clearfix"><div class="container"><div class="row"><div class="col-lg-9"><div class="footer-blks"><div class="footer-logo"><a href="/"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/footer-logo.png"></a></div><ul class="footer-list"><li class="heading">Get the app</li><li><a href="https://play.google.com/store/apps/details?id=co.haptik"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/gapps.png"></a></li><li><a href="https://itunes.apple.com/in/app/haptik-personal-assistant/id640450339"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/papps.png"></a></li></ul><ul class="footer-list"><li class="heading">Haptik</li><li><a href="/about_us" onclick="_gaq.push(['_trackEvent', 'Footer', 'About Us'])">About Us</a></li><li><a href="/careers" onclick="_gaq.push(['_trackEvent', 'Footer', 'Careers'])">Careers</a></li><li><a href="/news_media" onclick="_gaq.push(['_trackEvent', 'Footer', 'News &amp; Media'])">News &amp; Media</a></li><li><a href="/contact" onclick="_gaq.push(['_trackEvent', 'Footer', 'Contact us'])">Contact Us</a></li><li><a href="/partner_with_us" onclick="_gaq.push(['_trackEvent', 'Footer', 'Partner with us'])">Partner With Us</a></li></ul><ul class="footer-list"><li class="heading">Assistants</li><li><a href="/assistants" onclick="_gaq.push(['_trackEvent', 'Footer', 'Meet the assistants'])">Meet the Assistants</a></li><li><a href="/assistant_form" onclick="_gaq.push(['_trackEvent', 'Footer', 'Join Us'])">Join Us</a></li></ul><ul class="footer-list"><li class="heading">Blogs</li><li><a href="/blog" onclick="_gaq.push(['_trackEvent', 'Footer', 'Company Blog'])">Company</a></li><!-- <li><a href="#">FAQs</a></li><li><a href="#">IVR Menus</a></li> --><li><a href="/tech" onclick="_gaq.push(['_trackEvent', 'Footer', 'Tech Blog'])">Tech</a></li><li><a href="https://medium.com/haptik-inc" onclick="_gaq.push(['_trackEvent', 'Footer', 'Medium Blog'])">Medium</a></li></ul></div></div><div class="col-lg-3"><div class="blk-heading" style="width: 100%;"><p>Get Social</p></div><ul class="social-list" style="width: 100%;"><li><a target="_blank" href="https://twitter.com/hellohaptik"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/tweet.png"></a></li><li><a target="_blank" href="https://www.facebook.com/haptik"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/fb.png"></a></li><li><a target="_blank" href="https://www.instagram.com/hellohaptik"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/inst.png"></a></li><li><a target="_blank" href="https://plus.google.com/+HaptikCo/about"><img src="https://haptikimg.s3.amazonaws.com/img/site_v2/gplus.png"></a></li></ul></div></div><div class="row"><div class="col-xs-12"><p class="copyright">
-                            Copyright © Haptik, Inc. 2014-2015 | <a href="/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a> | <a href="/grievance">Grievance Policy</a><span>Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other
-                            countries. App Store is a service mark of Apple Inc.</span><span>The Android robot is reproduced or modified from work created and shared by Google and used
-                            according to terms described in the Creative Commons 3.0 Attribution License. Android is a trademark
-                            of Google Inc. Whatsapp is a trademark of Whatsapp Inc., as registered in the U.S. and other countries.</span></p><a href="#main_website" id="scroll-up" class="scroll-up scroller" alt="scroll-up"></a><!--<a class="scroller" href="#landing-fold"><img src="{% static 'img/site_v2/scroll.png" alt="scroll-up"></a>--></div></div></div></section><link rel="stylesheet" href="https://haptikimg.s3.amazonaws.com/CACHE/css/70ac4606be43.css" type="text/css"><!--<script type="text/javascript" src="https://haptikimg.s3.amazonaws.com/js/site_v2/jquery.elastislide.js"></script>--><!--<script src="https://haptikimg.s3.amazonaws.com/js/site_v2/bootstrap.min.js"></script>--><!--<script><!--$(document).ready(function ($) {
-                    $('#news-carousel').elastislide({
-                    minItems: 2
-                });
-            });
-        </script>--><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://haptikimg.s3.amazonaws.com/CACHE/js/5cb619a02378.js"></script><script type="text/javascript" src="https://haptikimg.s3.amazonaws.com/js/site_v2/site_v2.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script><!--<script src="https://haptikimg.s3.amazonaws.com/js/site_v2/bootstrap.min.js"></script>--><script>
-            videojs.options.flash.swf = "https://haptikimg.s3.amazonaws.com/js/site_v2/video-js/video-js.swf"
-        </script></body></html>
+    <!-- /Header Link -->
+    <!-- Section block7res Starts here -->
+    <section class="container" style="padding-top: 100px;">
+        <article>
+            <h1>Privacy Policy</h1>
+            <h3>A. GENERAL</h3>
+            <p>1.1 Haptik is committed to the protection of personal information provided by the users to us. You agree that your use of Haptik’s mobile application, website and WAPsite(the "Application"), owned by Haptik Infotech Private Limited (“Haptik”), implies your consent to the collection and use of your personal information (or your children's personal information) in accordance with the terms of this Privacy Policy.</p>
+            <p>1.2 We at Haptik take the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service.</p>
+            
+            <h3>B. PERSONAL INFORMATION</h3>
+            <p>2.1 This Privacy Policy is published in compliance of:
+            
+            <br>
+            <span style="padding-left:10px;">(i) Section 43A of the Information Technology Act, 2000; and </span>
+            <br>
+
+            <span style="padding-left:10px;">(ii) Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (the “SPI Rules”) </span>
+            </p>
+
+            <p>2.2 “Personal Information” is defined under the SPI Rules to mean any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.</p>
+
+            <p>2.3 The SPI Rules further define “sensitive personal data or information” of a person to mean Personal Information about that person relating to:
+            <br>
+            <span style="padding-left:10px;">(i) passwords; </span>
+            <br>
+            <span style="padding-left:10px;">(ii) financial information such as bank accounts, credit and debit card details or other payment instrument details; </span><br>
+            <span style="padding-left:10px;">(iii) physical, physiological and mental health condition; </span>
+            <br>
+            <span style="padding-left:10px;">(iv) name, age, address, e-mail, phone number, date of birth, sexual orientation; </span><br>
+            <span style="padding-left:10px;">(v) medical records and history; </span><br>
+            <span style="padding-left:10px;">(vi) biometric information; </span><br>
+            <span style="padding-left:10px;">(vii) information received by body corporate under lawful contract or otherwise;</span><br>
+            <span style="padding-left:10px;">(viii) visitor details as provided at the time of registration or thereafter; and </span><br>
+            <span style="padding-left:10px;">(ix) call data records. </span>
+            </p>
+
+            <p> All the aforementioned information is collectively referred to as “Personal Information.” </p>
+
+            <h3> C. INFORMATION COLLECTED </h3>
+            
+            <p>3.1 We collect Personal Information from you at registration and other times (for instance, when you download the Application) such as your name, your picture, email address, postal address, mobile phone number, a list of all apps on your phone, your SMS, among other things.</p>
+            <p>3.2 You are under no obligation to provide us with such information. However, if you choose to withhold requested information, you may not be able to use the Application and we may not be able to respond effectively to your query or provide you with certain services.</p>
+
+            <h3>D. DISCLOSURE OF PERSONAL INFORMATION</h3>
+            <p>4.1 When a user uses the Application, Haptik may collect users’ mobile phone number, mailing address, email ID, Pin Code, other apps on users’ phones, login information for Facebook, Twitter and Google account and other Personal Information such as service Account Numbers. A high standard of security is maintained by Haptik for its users; however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect user information, particularly with respect to protection of personal data, we cannot ensure the security of user data transmitted to us via the internet or any other medium.</p>
+
+            <h3>E. COOKIES </h3>
+            <p> 5.1 To improve the responsiveness for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only Personal Information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
+            </p>
+            
+            <h3>F. INFORMATION SHARING </h3>
+            <p> 6.1 Haptik may share the sensitive Personal Information to any third party/ service provider/Alliance Partner without obtaining the prior consent of the user in the following limited circumstances:
+            <br>
+
+            <span style="padding-left:10px;">(a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.</span>
+
+            <br>
+
+            <span style="padding-left:10px;">(b) Haptik proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing Personal Information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</span>
+
+            <br>
+
+            <span style="padding-left:10px;">(c) Haptik may use third-party advertising companies to serve ads when the user visits the Application. These companies may use Personal Information about the user’s visit to the Application and other Applications in order to provide advertisements about goods and services of interest to the user.</span>
+
+            <br>
+
+            <span style="padding-left:10px;">(d) Haptik shall transfer information about the user in case Haptik is acquired by or merged with another company.</span>
+            </p> 
+
+            <p>
+            6.2 Once the user permits, we may obtain additional information such as transactional information available on your device, to personalise your experience and improve the Application suggestions. This data may be shared within Times Internet Limited (“TIL”) portals/applications including TIL ad network ‘Colombia’. Please be informed that the data collection is handled securely, including transmitting it using modern cryptography (secure HTTPS connection). Please note that the transactional information shall neither be stored nor be shared with any third party and shall be purely utilized for enhancing the user experience and personalising the services within TIL networks.
+            </p>
+
+
+            <h3>G. YOUR ACCEPTANCE OF THIS POLICY</h3>
+            <p>7.1 By using this Application, you consent to the collection and use of your information by Haptik and to this Privacy Policy. If we change the Privacy Policy then we will post these changes on this page.</p>
+            <p>7.2 Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the internet, the world wide web or any other type of network cannot always be guaranteed as 100% secure and therefore that you use the Application at your own risk.</p>
+            <h3>H. YOUR RIGHTS</h3>
+            <p>8.1 You have a legal right to a copy of any personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to request that we cease to use your personal information for direct marketing purposes.</p>
+            
+            <h3> I. ACCESSING AND UPDATING PERSONAL INFORMATION </h3>
+
+            <p>9.1 When you use Haptik's Applications, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any Personal Information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+            </p>
+
+            <h3> J. INFORMATION SECURITY </h3>
+
+            <p>10.1 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.             
+            </p>
+
+            <p>10.2 All information gathered on Haptik is securely stored within the Haptik controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. </p>
+
+            <p>10.3 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. </p>
+
+            <p>10.4 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to hello@haptik.co to Mr. Aakrit Vaish (Grievance Officer). </p>
+
+            <h3> K. GRIEVANCE REDRESSAL </h3>
+            <p>
+            11.1 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to .
+            <br>
+            Mr. Aakrit Vaish (Grievance Officer).
+            <br>
+            Haptik Infotech Private Limited
+            <br>
+            Email: hello@haptik.co
+            <br>
+            Address: 8th Floor, Cello Triumph, IB Patel Rd, Goregaon East, Mumbai, Maharashtra 400063
+            <br>
+            Ph: +912226854067
+            <br>
+            We request you to please provide the following information in your complaint:-
+            <br>
+            <span style="padding-left:10px;">(a) A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+</span>
+            <br><span style="padding-left:10px;">(b) Identification of the copyrighted work claimed to have been infringed. </span>           
+            <br>
+            <span style="padding-left:10px;">(c) Identification of the material on our Application that is claimed to be infringing or to be the subject of infringing activity. </span>
+            <br>
+
+            <span style="padding-left:10px;">(d) The address, telephone number or e-mail address of the complaining party. </span>
+
+            <br>
+            <span style="padding-left:10px;">(e) A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law. </span>
+            </p>
+        </article>
+        <div style="font-size:12px; padding-bottom: 20px">Last updated on: <b>January 11, 2017</b></div>
+    </section>
+    <!-- Footer -->
+    <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-5">
+                <h2>Haptik</h2>
+                <ul>
+                    <li><a href="about-us">About Us </a></li>
+                    <li><a href="careers">Careers </a></li>
+                    <li><a href="news-media">News &amp; Media </a></li>
+                    <li><a href="contact-us">Contact Us </a></li>
+                    <li><a href="partners">Partner With Us </a></li>
+                </ul>
+            </div>
+            <div class="col-sm-4">
+                <h2>Blogs</h2>
+                <ul>
+                    <li><a href="http://haptik.co/blog/" target="_blank">Company </a>
+                    </li>
+                    <li><a href="http://haptik.co/tech/" target="_blank">Tech </a>
+                    </li>
+                    <li><a href="https://medium.com/haptik-inc" target="_blank">Medium </a></li>
+                </ul>
+            </div>
+            <div class="col-sm-2 top-margin20">
+                <img src="images/footer-logo.png">
+            </div>
+        </div>
+        <div class="row footer-top-padd">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-5">
+                <h2 class="text-left">Get the App </h2>
+                <div class="footer-app-link">
+                    <a style="margin: 28px 8px 28px 0" href="https://play.google.com/store/apps/details?id=co.haptik" target="_blank"><img src="images/android.svg" alt=""> </a>
+                    <a href="https://itunes.apple.com/in/app/haptik-personal-assistant/id640450339?mt=8" target="_blank"><img src="images/apple.svg" alt=""></a>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="footer-social-logo">
+                    <a href="https://www.facebook.com/haptik" target="_blank"><img style="margin: 9px 19px 19px 0" src="images/facebook.png" alt=""></a>
+                    <a href="https://www.instagram.com/hellohaptik/" target="_blank"><img src="images/instagram.png" alt=""></a>
+                    <a href="https://twitter.com/hellohaptik" target="_blank"><img src="images/twitter.png" alt=""></a>
+                    <a href="https://www.linkedin.com/company/haptik-inc" target="_blank"><img src="images/linkedin.png" alt=""></a>
+                    <a href="https://www.youtube.com/channel/UCEeT8gTq3PKhbA-vB7k7GiQ" target="_blank"><img src="images/youtube.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+        <div class="row footer-top-padd">
+            <div class="col-sm-12">Copyright © Haptik, Inc. 2015-2016 | <a href="terms-conditions">Terms &amp; Conditions</a> | <a href="privacy-policy">Privacy Policy</a> | <a href="grievance-policy">Grievance Policy</a>
+                <br> Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+                <br> The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License. Android is a trademark of Google Inc. Whatsapp is a trademark of Whatsapp Inc., as registered in the U.S. and other countries.</div>
+        </div>
+    </div>
+</div>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
+<!-- Google analytics code -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-44198980-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+        n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+}(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '838755869589845');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=838755869589845&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <!-- /Footer -->
+
+
+
+</body></html>
