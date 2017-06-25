@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130191100id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626010758id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
 
 # UDIS Privacy Policy - Udi’s® Gluten Free BreadUdi’s® Gluten Free Bread
 
-**Pinnacle Foods Inc.**
+**Boulder Brands USA Inc.**
 
 **Privacy Policy**
 
-Your privacy is important to us. As such, we provide this privacy policy (this “Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at this Pinnacle Foods Inc. (“Pinnacle”, “we” or “us”) site, and among Pinnacle’s affiliated and operated websites, which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Pinnacle that collect data and display these terms (each a “Site”, collectively the “Sites”).
+** ** Your privacy is important to us. As such, we provide this privacy policy (this “Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at this Boulder Brands USA Inc. (“Boulder Brands”, “we” or “us”) site, and among Boulder Brands’s affiliated and operated websites, which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Boulder Brands that collect data and display these terms (each a “Site”, collectively the “Sites”).
 
 **The Information We Collect**
 
-Pinnacle collects many types of information in order to operate effectively and provide you the best products, services and experiences we can. This information includes:
+Boulder Brands collects many types of information in order to operate effectively and provide you the best products, services and experiences we can. This information includes:
 
   * Information you provide (such as your e-mail address, first and last name, home address or telephone number);
   * Information collected automatically (for example, we may use cookies, web beacons and similar technologies that collect non-personal information about your use of our sites, such as your IP address and information about your computer and web browser);
@@ -20,7 +20,7 @@ Pinnacle collects many types of information in order to operate effectively and 
 
 **How We Use Your Personal Information**
 
-Pinnacle uses the information we collect for many important purposes, including to:
+Boulder Brands ** ** uses the information we collect for many important purposes, including to:
 
   * Improve our products and services and deliver services you request;
   * Provide you with news, updates, coupons, special offers and respond to your questions and comments;
@@ -47,15 +47,15 @@ Through some social networking sites’ privacy settings, you can control what i
 
 **How We Share Your Personal Information**
 
-Pinnacle does not sell, rent, lease or disclose your personal information to unaffiliated third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personally identifiable information is not transferred to the third party. Pinnacle may also share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pinnacle, and they are required to maintain the confidentiality of your information.
+Boulder Brands does not sell, rent, lease or disclose your personal information to unaffiliated third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personally identifiable information is not transferred to the third party. Boulder Brands may also share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Boulder Brands, and they are required to maintain the confidentiality of your information.
 
 In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
 
-During the normal course of our business, Pinnacle may sell or purchase assets or equity. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this Site in a manner that is consistent with this Policy.
+During the normal course of our business, Boulder Brands may sell or purchase assets or equity. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this Site in a manner that is consistent with this Policy.
 
 **How We Protect Your Information  **
 
-Pinnacle takes reasonable precautions to secure your personal information from unauthorized access, use or disclosure. Pinnacle maintains safeguards to protect your personal information such as:
+Boulder Brands takes reasonable precautions to secure your personal information from unauthorized access, use or disclosure. Boulder Brands maintains safeguards to protect your personal information such as:
 
   * Storing data in controlled facilities;
   * Company-wide training on privacy and data security;
@@ -68,13 +68,13 @@ Users are warned, however, that the Internet and electronic databases may be sub
 
 **Choice and Control Over Your Personal Information**
 
-You are ultimately in control of the personal information you provide to us on our sites. To change how Pinnacle contacts you, to correct or change your information or to cancel your registration with us, email our Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
+You are ultimately in control of the personal information you provide to us on our sites. To change how Boulder Brands contacts you, to correct or change your information or to cancel your registration with us, email our Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
 
 **Your California Privacy Rights**
 
 The California Civil Code allows California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact us at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com) and include the words “CA Privacy Request” in the subject line, or, you may write us at:
 
-Pinnacle Consumer Relations
+Boulder Brands Consumer Relations
 
 PO Box 971
 
@@ -82,11 +82,11 @@ Miami, Florida 33152
 
 **Children’s Privacy**
 
-Our sites are intended for general audiences and Pinnacle is mindful of the need to protect the privacy of children under the age of 13. At Sites or areas of Sites directed to children under the age of 13, Pinnacle follows the guidelines established by the Children’s Advertising Review Unit and the requirements under the Children’s Online Privacy Protection Act (COPPA).
+Our sites are intended for general audiences and Boulder Brands is mindful of the need to protect the privacy of children under the age of 13. At Sites or areas of Sites directed to children under the age of 13, Boulder Brands follows the guidelines established by the Children’s Advertising Review Unit and the requirements under the Children’s Online Privacy Protection Act (COPPA).
 
-We may ask visitors to enter a birthdate to restrict those who are underage from accessing certain Sites, areas or features. Pinnacle does not collect and store personal information online from children who are under the age of 13 without the consent of a parent or a legal guardian, except as authorized by law and described in this Policy. In any Site or area of a Site directed to children under 13, Pinnacle does not require children to disclose more information than reasonably necessary to participate in online activities.
+We may ask visitors to enter a birthdate to restrict those who are underage from accessing certain Sites, areas or features. Boulder Brands does not collect and store personal information online from children who are under the age of 13 without the consent of a parent or a legal guardian, except as authorized by law and described in this Policy. In any Site or area of a Site directed to children under 13, Boulder Brands does not require children to disclose more information than reasonably necessary to participate in online activities.
 
-Pinnacle may collect a child’s first name and e-mail address without parental consent for the sole purpose of responding to a one-time question or request from a child, or in connection with certain sweepstakes or contests, but Pinnacle will promptly delete this information after providing a response or at the end of the promotion. When a child under 13 seeks to participate in an activity that will require multiple online contacts, such as signing up for an online newsletter, or for certain internal marketing activities, Pinnacle may also ask the child for a parent’s or guardian’s e-mail address to notify them and obtain permission or provide them with an opportunity to opt-out of that activity. Pinnacle may collect additional personally identifiable information from a child, such as the child’s address, in connection with special offers, sweepstakes, contests, and games, so it can award prizes. Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database. They may also request that the information be deleted from our database, and refuse to permit further collection or use of their child’s information. If you are a parent and wish to exercise these rights, please contact the Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
+Boulder Brands may collect a child’s first name and e-mail address without parental consent for the sole purpose of responding to a one-time question or request from a child, or in connection with certain sweepstakes or contests, but Boulder Brands will promptly delete this information after providing a response or at the end of the promotion. When a child under 13 seeks to participate in an activity that will require multiple online contacts, such as signing up for an online newsletter, or for certain internal marketing activities, Boulder Brands may also ask the child for a parent’s or guardian’s e-mail address to notify them and obtain permission or provide them with an opportunity to opt-out of that activity. Boulder Brands may collect additional personally identifiable information from a child, such as the child’s address, in connection with special offers, sweepstakes, contests, and games, so it can award prizes. Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database. They may also request that the information be deleted from our database, and refuse to permit further collection or use of their child’s information. If you are a parent and wish to exercise these rights, please contact the Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
 
 **Your Ability to Control Cookies and Similar Technologies**
 
