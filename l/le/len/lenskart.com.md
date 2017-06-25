@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219104545id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625093335id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lenskart
 
