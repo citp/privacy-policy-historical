@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the local8now.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224093857id_/http%3A//www.local8now.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local8now.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625084451id_/http%3A//www.local8now.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 4:50 PM, Jan 27, 2016  | 
+Posted: Wed 9:30 AM, Jun 20, 2012  | 
 
-Updated: Mon 4:47 PM, Jul 18, 2016 
+Updated: Thu 4:10 PM, May 11, 2017 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
@@ -48,8 +48,9 @@ Under the California “Shine the Light Act,” if you reside in California and 
 Gray Television, Inc.  
 Attn: Mike Braun/Your California Privacy Rights  
 VP, Gray Digital Media  
-126 N. Washington Street  
-Albany, GA 31701
+4370 Peachtree Road, NE  
+Suite 400  
+Atlanta, GA 30319
 
 Non-affiliated third parties are independent from GTI and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
 
@@ -146,7 +147,8 @@ If you have any questions or comments regarding this Privacy Policy, please cont
 Gray Television, Inc.  
 Attn: Mike Braun  
 VP Digital Media  
-126 N. Washington Street  
-Albany, GA 31701
+4370 Peachtree Road, NE  
+Suite 400  
+Atlanta, GA 30319
 
 Copyright © 2015 Gray Television, Inc. All Rights Reserved.
