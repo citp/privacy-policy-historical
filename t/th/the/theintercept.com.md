@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122233308id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625025349id_/https%3A//theintercept.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Intercept
 
@@ -47,6 +47,8 @@ On some pages within our Services, we may embed content from Twitter. Twitter ma
 On some pages within our Services, we may embed content from DocumentCloud. DocumentCloud collects information including but not limited to IP address, browser type, operating system, the web address of the _Intercept_ page on which the content is embedded, and date and time of access. DocumentCloud stores documents using Amazon Web Services. DocumentCloud’s privacy policy can be found [here](https://www.documentcloud.org/privacy). The Amazon Web Services privacy policy can be found [here](http://aws.amazon.com/privacy/).
 
 On some pages within our Services, we may embed content from SoundCloud. SoundCloud collects information including but not limited to IP address, the web address of the _Intercept_ page on which the content is embedded, the time and duration of your use of SoundCloud, browser type, operating system, and cookies. SoundCloud’s cookies include those used by Google Analytics. SoundCloud’s privacy policy can be found [here](https://soundcloud.com/pages/privacy). Google’s privacy policy can be found [here](https://www.google.com/intl/en/policies/privacy/). Google’s opt-out page can be found [here](https://tools.google.com/dlpage/gaoptout).
+
+On some pages within our Services, we may embed content from Panoply. Panoply may collect information including but not limited to IP address, browser type, operating system, the web address of the Intercept page on which the content is embedded, your location (potentially derived from IP address), and cookie information. Panoply’s privacy policy can be found [here](http://www.panoply.fm/privacy-policy).
 
 On some pages within our Services, we may embed content from Vimeo. Vimeo collects information including but not limited to IP address, browser type, browser language, access times, and cookies. Vimeo’s cookies include those used for ad targeting and for analytics. Vimeo’s privacy policy can be found [here](https://vimeo.com/privacy).
 
