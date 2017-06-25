@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademark-clearinghouse.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002550id_/http%3A//www.trademark-clearinghouse.com/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademark-clearinghouse.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625213927id_/http%3A//www.trademark-clearinghouse.com/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | www.trademark-clearinghouse.com
 
