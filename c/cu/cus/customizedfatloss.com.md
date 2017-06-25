@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customizedfatloss.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016152623id_/http%3A//www.customizedfatloss.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customizedfatloss.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625224811id_/http%3A//www.customizedfatloss.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customized Fat Loss
 
