@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchmgr.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121141225id_/http%3A//support.searchmgr.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmgr.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626003535id_/http%3A//support.searchmgr.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy (the **"Policy"** ) describes the privacy practices with respect to the service ("Services", as such term is defined in the end user license agreement available here: <http://searchmgr.com/eula.html> ("EULA"). Please also review the EULA as your use of the Services is subject to the terms of this Policy and the EULA. 
+This Privacy Policy (the **"Policy"** ) describes the privacy practices with respect to the service ("Services", as such term is defined in the end user license agreement available here: <http://support.searchmgr.com/eula.html> ("EULA"). Please also review the EULA as your use of the Services is subject to the terms of this Policy and the EULA. 
 
 By downloading and/or installing and/or using the Services and/or by accepting this Policy and the EULA, you also consent to the following privacy policy of Yahoo, whose product is offered to you as part of the Services (as explained in the EULA). We recommend that you review such privacy policy. Yahoo privacy policy, available in the following link: <https://info.yahoo.com/privacy/us/yahoo/search/details.html> ( **"Third Party's Policies"** ). Nothing herein shall deem to imply an affiliation between us and any third parties whose products are included in the Services. 
 
