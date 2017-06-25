@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090052id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625194814id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ We collect information from you when you register on our site, place an order or
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve [ads](http://mypeads.co.za/) on your site. Google’s use of the DART cookie enables it to serve [ads](http://mypeads.co.za/) to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -58,11 +58,11 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **3rd Party Advertisers**
 
-We use third-party [advertising](http://mypeads.co.za/) companies to serve [ads](http://mypeads.co.za/) when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party [advertising](http://mypeads.co.za/) companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**[Online](http://mypeads.co.za/) Privacy Policy Only**
+**Online Privacy Policy Only**
 
-This [online](http://mypeads.co.za/) privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**
 
@@ -97,11 +97,11 @@ www.MyPE.co.za (“MyPE”) offers on-line listing of commercial providers of go
 
   * Invoicing is on a calendar month option or on a discounted annual, bi-annual or quarterly payment option.
   * Monthly payments must be paid in advance, before the 1st of every month and no later than the 8th day of each respective month.
-  * MyPE reserves the right to deactivate your [advert](http://mypeads.co.za/) from the website for accounts in arrears of 30 days from the issuing of invoice, until payment of the full amount outstanding as well as proof thereof is received.
+  * MyPE reserves the right to deactivate your advert from the website for accounts in arrears of 30 days from the issuing of invoice, until payment of the full amount outstanding as well as proof thereof is received.
   * The onus is on the lister to alert MyPE to the fact that payment of arrears amounts have been made.
-  * In the case of an Annual [Advert](http://mypeads.co.za/) being initiated after the 15th day of a particular month, invoicing will only commence with the next calendar month, i.e. the month of initiation will be deemed to be free.
+  * In the case of an Annual Advert being initiated after the 15th day of a particular month, invoicing will only commence with the next calendar month, i.e. the month of initiation will be deemed to be free.
   * Annual payments are payable up front and in full for a 12 month listing period.
-  * Annual payments are non-refundable, regardless of the reason for the discontinuation of the [Advert](http://mypeads.co.za/).
+  * Annual payments are non-refundable, regardless of the reason for the discontinuation of the Advert.
   * MyPE shall not be liable for the repayment of any annual payments should MyPE for any reason whatsoever no longer be in a position to provide the Advert service.
   * If any amount due and payable by the Advertiser is not paid within the agreed term (payment on delivery of invoice), the Advertiser shall be liable for interest at a rate of 2% above the prime lending rate of Capitec Bank.
 
@@ -120,7 +120,7 @@ www.MyPE.co.za (“MyPE”) offers on-line listing of commercial providers of go
   * Notice of cancellation will be given to the advertiser, in writing, on the day on which the advert is to be deactivated.
   * MyPE is under no obligation to offer any explanation as to why the contract is being cancelled.
   * Should the advertiser be owed any amount in regard to monthly or annual fees, such fees will be credited to the advertiser within one (1) week of notice of cancellation from MyPE to the advertiser.
-  * Should the advertiser owe any monies to MyPE in lieu of fees for advertising, such amount will be payable to MyPE within one (1) week of notice of cancellation from MyPE, as described above.
+  * Should the advertiser owe any monies to MyPE in lieu of fees for [advertising](http://mypeads.co.za/), such amount will be payable to MyPE within one (1) week of notice of cancellation from MyPE, as described above.
 
 
 
