@@ -1,19 +1,124 @@
-> *The following text is extracted and transformed from the omd.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119202634id_/http%3A//omd.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omd.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625230137id_/http%3A//www.omd.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OMD - Privacy Policy
 
-OMD is one of the world's foremost media communications specialists.
+[](https://privacy.truste.com/privacy-seal/validation?rid=31dc2b28-1b57-4217-81a0-6fb7191ef130)
 
-OMD is very respectful about the privacy concerns of the visitor's to its sites on the Internet. As a general policy, no personal information is automatically collected from visitors to this site. However, certain non-personal information of visitors is recorded by the standard operation of OMD's Internet servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of browser being used by the visitor, the type of operating system in use by the visitor, and the domain name of the visitor's Internet service provider. By having this information, Web pages optimized for a particular visitor's computer are automatically made available to that visitor. Other use of this information may include internal review of the number of visitors to this site but only in an aggregate and non-personally-identifiable form. E-mail addresses and other personally identifiable data about visitors to this site are known to OMD only when voluntarily submitted by the users. OMD will only use personally identifiable data provided at this site for the purposes described at the time it is collected (for example, the e-mail addresses visitors provide in order to receive e-mail alerts will only be used for the purpose of sending these e-mail alerts). OMD sites, as well as any other third party sites linked to or from this Web site, may each have different privacy policies and practices. You should carefully review these other Web sites' privacy policies in order to determine how each site may use any personal information you provide.
+Last updated: February 9, 2017
 
-As we operate internationally, and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union.
+We at Omnicom Media Group Holdings Inc. (“OMG”), respect your concerns about privacy. This Online Privacy Notice applies solely to information we obtain through this website (“Site”). This Online Privacy Notice describes the types of personal information we obtain through the Site, how we may use the information, with whom we may share it and the choices you may have regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+OMG consists of a network of affiliates, including but not limited to Accuen, Hearts &Science, OMD, PHD, Outdoor Media Group, Optimum Sports/Fuse, Content Collective, Pathway and Resolution Media. This Online Privacy Notice only applies to the affiliates on whose website this Online Privacy Notice appears. For the privacy practices of our affiliates, you should visit their websites to review their own privacy notices.
 
-###  Cookies and Other Technical Information
+Click on one of the links below to jump to the listed section:
 
-We send "cookies" to your computer primarily to enhance your online experience. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). We may also use "Web beacons" that monitor your use of our sites. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail.
+  * Information We Obtain
 
-On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish the site with personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+  * How We Use The Information We Obtain
 
-By using this website, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
+  * Information We Share
+
+  * Your Options
+
+  * Access and Correction
+
+  * Data Transfers
+
+  * Links To Other Websites
+
+  * How We Protect Personal Information
+
+  * Updates To Our Online Privacy Notice
+
+  * How To Contact Us
+
+
+
+
+##  Information We Obtain
+
+We may obtain the following types of personal information when you choose to provide it through our Site:
+
+  * Contact information, such as your name, postal address, email address and telephone number;
+
+  * personal information in content you provide on our Site; and
+
+  * information about your education, work and military history, legal work eligibility status, and other information relevant to specific jobs for which you may apply.
+
+
+
+
+In addition, when you visit our Site, we may collect certain information by automated means, such as cookies and web beacons. The information we obtain in this manner includes IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
+
+Information about our cookie practices in the European Union is available [here](http://www.omnicomgroup.com/cookie-consent-page/). To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
+
+##  How We Use The Information We Obtain
+
+We use the information we obtain through the Site to:
+
+  * respond to and communicate with you about your requests, questions and comments;
+
+  * operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analyzing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities);
+
+  * perform data analyses and other processing (including market and consumer research and trend analysis);
+
+  * protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+
+  * comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+
+
+
+
+In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Site and (ii) providing services to you. We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.
+
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+
+We may use third-party web analytics services on our Site, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Site. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Site. To learn more about Google Analytics and how to opt out, please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
+
+We do not sell or otherwise share personal information about you, except as described in this Online Privacy Notice. We share personal information with third parties who perform services on our behalf. These third parties are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also share the personal information we obtain with our affiliates and subsidiaries for the purposes described in the section of this Online Privacy Notice called “How We Use the information We Obtain.”
+
+In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials based on a lawful disclosure request, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution, bankruptcy or liquidation).
+
+##  Your Options
+
+We offer you certain choices about how we communicate with you and what information we collect from you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice.
+
+##  Access and Corrections
+
+To the extent provided by the law of your jurisdiction, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. A charge may be applicable before we provide you with a copy of any of your personal information that we maintain.
+
+##  Data Transfers
+
+Some of the personal information we collect about you through the Site will be transferred to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Online Privacy Notice and will comply with applicable legal requirements.
+
+If you are located in the EEA, with respect to transfers of personal information to the U.S., OMG is certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European commission regarding the transfer of personal information from the EEA to the U.S. [Click here](https://web.archive.org/privacy-shield) to view our EU-U.S. Privacy Shield Privacy Policy.
+
+If you have an unresolved privacy or data use concern regarding the EU-U.S. Privacy Shield that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. OMG is also subject to the investigatory and enforcement powers if the U.S. Federal trade Commission.
+
+##  Links To Other Websites
+
+Our Site may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with OMG. Linked websites typically have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with OMG, any use of those websites, or the privacy practices of those websites.
+
+##  How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+##  Updates To Our Online Privacy Notice
+
+This Online Privacy Notice will be updated periodically and without prior notice to you to reflect changes in our information practices. We will post a prominent notice on our Site to notify you of any significant changes to our Online Privacy Notice and indicate at the top of the notice when it was most recently updated.
+
+If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@omnicommediagroup.com](mailto:privacy@omnicommediagroup.com) or write to us at:
+
+_Omnicom Media Group Holdings Inc._  
+_Attn: Privacy Counsel_  
+_195 Broadway, Floor 28_  
+_New York, NY 10007_
+
+If you are in the European Union, please contact:
+
+_Omnicom Media Group_  
+_Attn: General Counsel_  
+_10 Regents Wharf_  
+_London_  
+_N1 9RL_  
+_Tel: +44 (0)203 349 6777_
