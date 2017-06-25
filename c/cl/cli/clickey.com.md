@@ -1,55 +1,17 @@
-> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206002409id_/http%3A//www.clickey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Clickey.com - Privacy Policy
-
-|    
-**Privacy Policy**   
-
+# Legal
 
 * * *
 
-  
-**OUR PLEDGE TO YOUR PRIVACY:**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Clickey Corp. ("Clickey.com") has created this privacy policy in order to demonstrate our sincere commitment to issues regarding your privacy. The following discloses the information gathering and dissemination practices for Clickey.com. 
-
-  1. We pledge that Clickey will not use personal information about you without your permission. 
-  2. We pledge that Clickey will provide the means for you to manage and control the information that you provide to us. 
-  3. We pledge that Clickey will provide means for you to communicate your privacy concerns to us and that we will respond to them in a timely and thoughful manner. 
-
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-  
-**INFORMATION WE MAY COLLECT:**
 
-Clickey collects information for a variety of different purposes. Some of these purposes may include the registration of special promotions such as contests and surveys. During such registration, Clickey may ask for information which may be considered personal information such as email address, phone numbers, income level, age, etc. in order to help create what we call "user profiles." These user profiles allow us to use your information for the purpose of enhancing our Service [(see Terms of Service)](https://web.archive.org/terms.html) such as personalization, verification and delivering targeted advertising based on individual user profiles. 
-
-  
-**COOKIES:**
-
-When visiting Clickey, a "cookie" may be used in order to track your visit. Cookies are pieces of information that web sites transfer to your computer's hard drive for record-keeping purposes. Clickey uses cookies to make visiting our site easier. Cookies allow us to save passwords and/or preferences for you so that you won't have to re-enter them the next time you visit. Cookies contain identification information that enable us to see how our users are interacting with our site and how frequently they are returning. In addition, third party advertising networks may issue cookies when serving advertisements. Cookies do not contain any personally identifiable information. The use of cookies has now become now an industry standard, and you'll find them used on most major web sites. Most browsers are initially set up to accept cookies, however if you prefer, you can reset your browser either to notify you when you've received a cookie, or to refuse to accept a cookie. You should understand and be aware that certain areas of Clickey.com may not function properly if you do not allow your browser to accept cookies. 
-
-  
-**LINKS TO OTHER WEB SITES**
-
-Clickey contains many links to other sites. Clickey is not responsible for the privacy practices or the content of such web sites. Clickey does not share any of the individual personal information you provide Clickey with any of these sites. However, Clickey may share aggregate data with third party sites for the purpose of displaying how many people use our site. This may includes other third party sites on the Internet for which Clickey provides search services. 
-
-Please check with those third party sites to determine their privacy policies. 
-
-  
-**OPT-OUT**
-
-End users whom do not wish to receive future communications from us may send an email to [privacy@clickey.com](mailto:privacy@clickey.com). **Please note that web site listing account owners may not opt out from receiving pertinent information regarding their listing account(s).**
-
-  
-**CONTACTING US**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Clickey, please contact our: 
-
-Legal Department  
-Clickey Corporation  
-2815 Camino Del Rio South, Suite #270  
-San Diego, CA 92108  
-[privacy@clickey.com](mailto:privacy@clickey.com)
-
-| 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
