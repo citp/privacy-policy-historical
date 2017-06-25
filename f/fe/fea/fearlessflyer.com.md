@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207055233id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625210309id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Fearlessflyer.com
 
 This privacy policy sets out how Fearlessflyer uses and protects any information that you submit when you use this website.
 
