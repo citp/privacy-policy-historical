@@ -1,54 +1,17 @@
-> *The following text is extracted and transformed from the pinoyechannel.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216102310id_/http%3A//www.pinoyechannel.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyechannel.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pinoy e-Channel | Pinoy e-Channel
+# Legal
 
-At pinoyechannel.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pinoyechannel.net and how it is used.
+* * *
 
-When  registering on our site, as appropriate, you may be asked to enter your name, e-mail address or Contact Info. You may, however, visit our site anonymously.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience – your information helps us to better respond to your individual needs.
-  * To improve customer service  – your information helps us to more effectively respond to your customer service requests and support needs.
-  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To send periodic emails – The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Log Files**
-
-Like many other Web sites, pinoyechannel.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons**
-
-Pinoyechannel.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on pinoyechannel.net.
-
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to pinoyechannel.net and other sites on the Internet.
-
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-Pinoyechannel.net uses third-party advertising companies in order to provide and support through serving and displaying advertisements. The third-party companies may use cookies and web beacons when you visit pinoyechannel.net which will send the advertisers some information which will include you Internet Protocol (IP) address, Internet Service Provider (ISP), browser you used when visiting pinoyechanel.net, your page views and other relevant information in order to provide advertiser about services of interest wanted by the guest.
-
-Pineyechannel.net has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Pinoyechannel.net ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](http://www.pinoyechannel.net/terms/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pinoyechannel@gmail.com.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
