@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025022444id_/http%3A//yessy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625201621id_/https%3A//www.yessy.com/privacy.html) for the most accurate reproduction.*
 
 # Yessy > Privacy Policy
 
@@ -32,7 +32,7 @@ Yessy reserves the right to send you certain communications relating to Yessy, s
 
 6\. CHANGES TO THIS PRIVACY POLICY
 
-By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.html). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [http://www.yessy.com/privacy.html](https://web.archive.org/privacy.html).
+By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.html). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [https://www.yessy.com/privacy.html](https://web.archive.org/privacy.html).
 
 7\. QUESTIONS AND SUGGESTIONS
 
