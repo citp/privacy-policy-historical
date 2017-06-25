@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094726id_/http%3A//nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625050035id_/http%3A//www.nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # National Library Board > Privacy Statement
 
@@ -34,7 +34,7 @@ The NLB takes special care to protect the privacy needs of children under the ag
 
 **Can you opt out?**
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at [helpdesk@library.nlb.gov.sg](mailto:helpdesk@nlb.gov.sg "helpdesk@nlb.gov.sg").
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg "enquiry@nlb.gov.sg").
 
 **Will your personal information be shared with anyone?**
 
@@ -58,7 +58,7 @@ This site may contain links to non-Singapore Government sites whose data protect
 
 **Contact Us**
 
-Please email to [qsm@library.nlb.gov.sg](mailto:qsm@library.nlb.gov.sg "qsm@library.nlb.gov.sg").
+Please email to [qsm@nlb.gov.sg](mailto:qsm@library.nlb.gov.sg "qsm@nlb.gov.sg").
 
   
 (a) For any enquires or feedback on our data protection policies and procedures,  
