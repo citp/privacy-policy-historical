@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstontx.gov privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201220217id_/http%3A//www.houstontx.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstontx.gov privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625134559id_/http%3A//www.houstontx.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
