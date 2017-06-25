@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042256id_/https%3A//www.researchgate.net/application.PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625034754id_/https%3A//www.researchgate.net/application.PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ResearchGate
 
@@ -104,7 +104,7 @@ ResearchGate reserves the right to appoint third parties to certain tasks, such 
 
 ###  Whom can I contact if I have a request or complaint about Privacy or Data Protection? 
 
-ResearchGate considers privacy and data protection to be very important issues, as they directly affect the trust between us and our valued users. Therefore, ResearchGate has implemented specific measures to supervise data protection issues. For any requests or complaints relating to privacy and data protection, please directly contact the data protection officer, Mr. Dennis Jlussi. 
+ResearchGate considers privacy and data protection to be very important issues, as they directly affect the trust between us and our valued users. Therefore, ResearchGate has implemented specific measures to supervise data protection issues. For any requests or complaints relating to privacy and data protection, please directly contact the data protection officer, Mr. Jay Monahan. 
 
 ## SECTION VIII: Changes to Statement on Privacy and Data Protection
 
