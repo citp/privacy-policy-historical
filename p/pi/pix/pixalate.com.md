@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixalate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010014id_/http%3A//www.pixalate.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixalate.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625224218id_/http%3A//www.pixalate.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixalate
 
@@ -16,7 +16,7 @@ Pixalate encourages you to review the privacy statements of websites you choose 
 
 Cookies & Cookie Opt-Out Policy
 
-Cookies are small pieces of text that are stored on your browser by websites you visit. These pieces of text help websites identify you when you re-visit the site. Pixalate.com and adrta.com currently use four cookies. 
+Cookies are small pieces of text that are stored on your browser by websites you visit. These pieces of text help websites identify you when you re-visit the site. Pixalate.com, adrta.com, p.adrta.com and r.adrta.com currently use four cookies. 
 
 Cookies will be removed automatically when they expire, or by manually deleting them. To manually delete cookies on the website, please refer to the following link:   
 http://www.allaboutcookies.org/manage-cookies/
@@ -38,8 +38,8 @@ Contact Information
 Pixalate welcomes your questions or comments regarding this Statement of Privacy. If you believe that Pixalate has not adhered to this Statement, please contact Pixalate at: 
 
 Pixalate Inc   
-929 Colorado Ave. #125   
-Santa Monica, California 90401 
+12655 Jefferson Blvd. 4th Floor   
+Los Angeles, CA 90066 
 
 Email address: info@pixalate.com   
 Telephone number: 1-888-PIXALATE   
