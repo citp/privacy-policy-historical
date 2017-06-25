@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211145227id_/https%3A//avn.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625201158id_/https%3A//avn.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# AVN - AVN Privacy Policy
+# AVN Privacy Policy | AVN
 
 AVN.com and its subsidiary websites, as well as show websites are an AVN Media Network, Inc. site. In protecting your privacy we are providing this statement detailing our online data practices and the options you have about the way your data is collected and used on these AVN Media Network, Inc. sites.
 
