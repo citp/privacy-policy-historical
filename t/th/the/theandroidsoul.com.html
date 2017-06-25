@@ -1,111 +1,1089 @@
-<!--The following is the downloaded HTML source of the theandroidsoul.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628090651id_/http%3A//www.theandroidsoul.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theandroidsoul.com privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625152454id_/http%3A//www.theandroidsoul.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;appId=219159714809241&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(window.NREUM||(NREUM={})).loader_config={xpid:"VgcGVFdRGwAJXFdbDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#00B0FF">
-<link rel="icon" sizes="192x192" href="http://www.theandroidsoul.com/favicon.png">
-<title>Privacy Policy</title>
-<link rel="pingback" href="http://www.theandroidsoul.com/xmlrpc.php">
+<!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.theandroidsoul.com/xmlrpc.php">
+			<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		/* <![CDATA[ */
+		var ajaxurl = "http://www.theandroidsoul.com/wp-admin/admin-ajax.php";
+		/* ]]> */
+	</script>
+	<title>Privacy Policy – The Android Soul</title>
 <!-- Jetpack Site Verification Tags -->
 <meta name="google-site-verification" content="s-QjrbftcpZVERUDLEBeA6q_AoMEL8qeJVDpUAoiKx8">
 <meta name="msvalidate.01" content="C5F83AF6AF3BBF5C8C6964DE6442DA16">
-<script>document.documentElement.className=document.documentElement.className.replace("no-js","js");</script>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="TheAndroidSoul.com respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-ma">
-<link rel="canonical" href="http://www.theandroidsoul.com/privacy-policy/">
-<link rel="publisher" href="https://plus.google.com/b/117965656000456141092/+TheAndroidSoul/posts">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="TheAndroidSoul.com respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-ma">
-<meta property="og:url" content="http://www.theandroidsoul.com/privacy-policy/">
-<meta property="og:site_name" content="The Android Soul">
-<meta property="article:publisher" content="https://www.facebook.com/TheAndroidSoul">
-<meta property="article:author" content="http://www.facebook.com/shivy.drake">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="TheAndroidSoul.com respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-ma">
-<meta name="twitter:title" content="Privacy Policy">
-<meta name="twitter:site" content="@TheAndroidSoul">
-<meta name="twitter:domain" content="The Android Soul">
-<meta name="twitter:creator" content="@TheAndroidSoul">
-<!-- / Yoast WordPress SEO plugin. -->
-<link rel="alternate" type="application/rss+xml" title="The Android Soul » Feed" href="http://feeds.feedburner.com/TheAndroidSoul">
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="The Android Soul » Feed" href="http://www.theandroidsoul.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Android Soul » Comments Feed" href="http://www.theandroidsoul.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Android Soul » Privacy Policy Comments Feed" href="http://www.theandroidsoul.com/privacy-policy/feed/">
-<script>window._wpemojiSettings={"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.theandroidsoul.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="http://www.theandroidsoul.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
-<style>img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
-<script pagespeed_no_defer="">(function(){var d=function(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}};window.pagespeed=window.pagespeed||{};var p=window.pagespeed,q=function(){this.a=!0};q.prototype.c=function(b){b=parseInt(b.substring(0,b.indexOf(" ")),10);return!isNaN(b)&&b<=Date.now()};q.prototype.hasExpired=q.prototype.c;q.prototype.b=function(b){return b.substring(b.indexOf(" ",b.indexOf(" ")+1)+1)};q.prototype.getData=q.prototype.b;q.prototype.d=function(b){var a=document.getElementsByTagName("script"),a=a[a.length-1];a.parentNode.replaceChild(b,a)};q.prototype.replaceLastScript=q.prototype.d;
-q.prototype.e=function(b){var a=window.localStorage.getItem("pagespeed_lsc_url:"+b),c=document.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(document.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.d(c)};q.prototype.inlineCss=q.prototype.e;
-q.prototype.f=function(b,a){var c=window.localStorage.getItem("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),f=document.createElement("img");c&&!this.c(c)?f.src=this.b(c):(f.src=b,this.a=!0);for(var c=2,k=arguments.length;c<k;++c){var g=arguments[c].indexOf("=");f.setAttribute(arguments[c].substring(0,g),arguments[c].substring(g+1))}this.d(f)};q.prototype.inlineImg=q.prototype.f;
-var r=function(b,a,c,f){a=document.getElementsByTagName(a);for(var k=0,g=a.length;k<g;++k){var e=a[k],m=e.getAttribute("pagespeed_lsc_hash"),h=e.getAttribute("pagespeed_lsc_url");if(m&&h){h="pagespeed_lsc_url:"+h;c&&(h+=" pagespeed_lsc_hash:"+m);var l=e.getAttribute("pagespeed_lsc_expiry"),l=l?(new Date(l)).getTime():"",e=f(e);if(!e){var n=window.localStorage.getItem(h);n&&(e=b.b(n))}e&&(window.localStorage.setItem(h,l+" "+m+" "+e),b.a=!0)}}},s=function(b){r(b,"img",!0,function(a){return a.src});
-r(b,"style",!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})};
-p.g=function(){if(window.localStorage){var b=new q;p.localStorageCache=b;d(function(){s(b)});d(function(){if(b.a){for(var a=[],c=[],f=0,k=Date.now(),g=0,e=window.localStorage.length;g<e;++g){var m=window.localStorage.key(g);if(!m.indexOf("pagespeed_lsc_url:")){var h=window.localStorage.getItem(m),l=h.indexOf(" "),n=parseInt(h.substring(0,l),10);if(!isNaN(n))if(n<=k){a.push(m);continue}else if(n<f||0==f)f=n;c.push(h.substring(l+1,h.indexOf(" ",l+1)))}}k="";f&&(k="; expires="+(new Date(f)).toUTCString());
-document.cookie="_GPSLSC="+c.join("!")+k;g=0;for(e=a.length;g<e;++g)window.localStorage.removeItem(a[g]);b.a=!1}})}};p.localStorageCacheInit=p.g;})();
-pagespeed.localStorageCacheInit();</script><link rel="stylesheet" id="responsive-lightbox-swipebox-group-css" href="http://www.theandroidsoul.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css,wp-content/plugins/super-rss-reader/public/srr-css.css,wp-content/plugins/wp-visual-icon-fonts/css/wpvi-fa4.css,wp-content/themes/hueman/style.css,wp-content/themes/hueman/responsive.css,wp-content/themes/hueman/fonts/font-awesome.min.css,wp-content/plugins/wordpress-popup/css/animate.min.css,wp-content/plugins/jetpack/css/jetpack.css&amp;ver=1435446806" type="text/css" media="all">
-<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-5164253-4','auto');__gaTracker('set','forceSSL',true);__gaTracker('require','displayfeatures');__gaTracker('send','pageview');</script>
-<!-- / Google Analytics by Yoast -->
-<script src="http://www.theandroidsoul.com/wp-includes/js/jquery/jquery.js,qver=1.11.2.pagespeed.jm.0kUhGt7Mm3.js"></script>
-<script src="http://www.theandroidsoul.com/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.2.1.pagespeed.jm.mhpNjdU8Wl.js"></script>
-<script src="http://www.theandroidsoul.com/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.5.7"></script>
-<script>var rlArgs={"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"0","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};</script>
-<script src="http://www.theandroidsoul.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.5.7"></script>
-<script src="http://www.theandroidsoul.com/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=4.2.2"></script>
-<script src="http://www.theandroidsoul.com/wp-content/themes/hueman/js/jquery.flexslider.min.js?ver=4.2.2"></script>
-<meta name="generator" content="WordPress 4.2.2">
-<link rel="shortlink" href="http://www.theandroidsoul.com/?p=11556">
-<!--Plugin WP Admin Bar Removal 2014.0816.0392 Active - Tag 74be16979710d4c4e7c6647856088456-->
-<!--Site Optimized to Speedup Control Panel Minimize Memory Consumption with Disabled Toolbar-->
-<style>img#wpstats{display:none}</style><!--[if lt IE 9]>
-<script src="http://www.theandroidsoul.com/wp-content/themes/hueman/js/ie/html5.js"></script>
-<script src="http://www.theandroidsoul.com/wp-content/themes/hueman/js/ie/selectivizr.js"></script>
-<![endif]-->
-<style>.boxed #wrapper,.container-inner{max-width:1130px}.sidebar .widget{padding-left:20px;padding-right:20px;padding-top:20px}::selection{background-color:#00b0ff}::-moz-selection{background-color:#00b0ff}a,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.s1 .widget_calendar a,#footer .widget_calendar a,.s1 .alx-tab .tab-item-category a,.s1 .alx-posts .post-item-category a,.s1 .alx-tab li:hover .tab-item-title a,.s1 .alx-tab li:hover .tab-item-comment a,.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item>a,.wp-pagenavi a{color:#00b0ff}.themeform input[type="submit"],.themeform button[type="submit"],.s1 .sidebar-top,.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor>.comment-body:after,.commentlist li.comment-author-admin>.comment-body:after{background-color:#00b0ff}.post-format .format-container{border-color:#00b0ff}.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{border-bottom-color:#00b0ff!important}.s2 .post-nav li a:hover i,.s2 .widget_rss ul li a,.s2 .widget_calendar a,.s2 .alx-tab .tab-item-category a,.s2 .alx-posts .post-item-category a,.s2 .alx-tab li:hover .tab-item-title a,.s2 .alx-tab li:hover .tab-item-comment a,.s2 .alx-posts li:hover .post-item-title a{color:#00bfa5}.s2 .sidebar-top,.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.s2 .widget_calendar caption{background-color:#00bfa5}.s2 .alx-tabs-nav li.active a{border-bottom-color:#00bfa5}.post-comments span:before{border-right-color:#00bfa5}.search-expand,#nav-topbar.nav-container{background-color:#fff}@media only screen and (min-width:720px){#nav-topbar .nav ul{background-color:#fff}}#header{background-color:#eaeaea}@media only screen and (min-width:720px){#nav-header .nav ul{background-color:#eaeaea}}.site-title a img{max-height:50px}</style>
-<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://www.theandroidsoul.com/?custom-css=1&amp;csblog=1&amp;cscache=6&amp;csrev=140">
-<script type="text/javascript" async="" src="https://cdn1.DeveloperMedia.com/a.min.js"></script><script async="" type="text/javascript" src="//theandroidsoul.disqus.com/count.js"></script></head>
-<body class="page page-id-11556 page-template page-template-template-onecolumn page-template-template-onecolumn-php desktop col-2cl full-width unknown">
-<div id="fb-root"></div>
-<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=219159714809241&version=v2.3";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
-<div id="wrapper">
-<header id="header">
-<div class="container group">
-<div class="container-inner">
-<div class="group pad">
-<!-- php echo alx_site_title(); -->
-<div style="text-align:center;margin:15px 0">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.theandroidsoul.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.theandroidsoul.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="aps-animate-css-css" href="http://www.theandroidsoul.com/wp-content/plugins/accesspress-social-icons/css/animate.css" type="text/css" media="all">
+<link rel="stylesheet" id="aps-frontend-css-css" href="http://www.theandroidsoul.com/wp-content/plugins/accesspress-social-icons/css/frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="pirate_forms_front_styles-css" href="http://www.theandroidsoul.com/wp-content/plugins/pirate-forms/css/front.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-lightbox-prettyphoto-css" href="http://www.theandroidsoul.com/wp-content/plugins/responsive-lightbox/assets/prettyphoto/css/prettyPhoto.css" type="text/css" media="all">
+<link rel="stylesheet" id="thim-style-css" href="http://www.theandroidsoul.com/wp-content/themes/tas-child/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="fixedtoc-style-css" href="http://www.theandroidsoul.com/wp-content/plugins/fixed-toc/frontend/assets/css/ftoc.min.css" type="text/css" media="all">
+<style id="fixedtoc-style-inline-css" type="text/css">
+#ftwp-container.ftwp-fixed-to-post.ftwp-top-left #ftwp-trigger, #ftwp-container.ftwp-fixed-to-post.ftwp-top-left #ftwp-contents { top: 150px; } .ftwp-in-post #ftwp-container-outer { height: auto; } #ftwp-container.ftwp-wrap #ftwp-contents { width: auto; height: auto; font-size: 11px; } .ftwp-in-post #ftwp-container-outer #ftwp-contents { height: auto; } #ftwp-container.ftwp-wrap #ftwp-trigger { width: 45px; height: 45px; font-size: 27px; } #ftwp-container #ftwp-trigger.ftwp-border-medium { font-size: 26px; } #ftwp-container.ftwp-wrap #ftwp-header { font-size: 17.6px; font-family: 'Trebuchet MS', Helvetica, sans-serif; } #ftwp-container.ftwp-wrap #ftwp-header-title { font-weight: bold; } #ftwp-container.ftwp-wrap #ftwp-list { font-size: 11px; font-family: 'Trebuchet MS', Helvetica, sans-serif; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-anchor::before { font-size: 4.4px; } #ftwp-container #ftwp-list.ftwp-strong-first>.ftwp-item>.ftwp-anchor .ftwp-text { font-size: 12.1px; } #ftwp-container.ftwp-wrap #ftwp-list.ftwp-strong-first>.ftwp-item>.ftwp-anchor::before { font-size: 5.5px; } #ftwp-container.ftwp-wrap #ftwp-trigger { color: #ff512f; background: rgba(255,255,255,0.95); } #ftwp-container.ftwp-wrap #ftwp-trigger { border-color: rgba(255,81,47,0.95); } #ftwp-container.ftwp-wrap #ftwp-contents { border-color: rgba(255,81,47,0.95); } #ftwp-container.ftwp-wrap #ftwp-header { color: #ff512f; background: rgba(255,255,255,0.95); } #ftwp-container.ftwp-wrap #ftwp-contents:hover #ftwp-header { background: #ffffff; } #ftwp-container.ftwp-wrap #ftwp-list { color: #ff512f; background: rgba(255,255,255,0.95); } #ftwp-container.ftwp-wrap #ftwp-contents:hover #ftwp-list { background: #ffffff; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-anchor:hover { color: #ff512f; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-anchor:focus, #ftwp-container.ftwp-wrap #ftwp-list .ftwp-active, #ftwp-container.ftwp-wrap #ftwp-list .ftwp-active:hover { color: #000000; } #ftwp-container.ftwp-wrap #ftwp-list .ftwp-text::before { background: rgba(255,255,255,0.95); } .ftwp-heading:target::before { background: rgba(255,81,47,0.95); } #ftwp-container #ftwp-list.ftwp-effect-fade .ftwp-anchor.ftwp-active, #ftwp-container #ftwp-list.ftwp-effect-fade .ftwp-anchor:focus { background: rgba(255,255,255,0.95); }
+nav#ftwp-contents { max-height: 300px; }
+</style>
+<link rel="stylesheet" id="bfa-font-awesome-css" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="thim-parent-style-css" href="http://www.theandroidsoul.com/wp-content/themes/tas/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="kirki_google_fonts-css" href="https://fonts.googleapis.com/css?family=Lora%3Aregular%2Citalic%2C700%2C700italic%7CMontserrat%3Aregular%2C700&amp;subset" type="text/css" media="all">
+<link rel="stylesheet" id="thim-style-options-css" href="//www.theandroidsoul.com/wp-content/uploads/tc_stylesheets/tas.1497516964.css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.theandroidsoul.com/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all">
+<link rel="stylesheet" id="contactbuddy_css-css" href="http://www.theandroidsoul.com/wp-content/plugins/contactbuddy-by-pluginbuddycom/css/contactbuddy.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp_edit_column-styles-css" href="http://www.theandroidsoul.com/wp-content/plugins/wp-edit/css/column-style.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/accesspress-social-icons/js/frontend.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en_GB&amp;ver=4.8"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/pirate-forms/js/scripts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pirateFormsObject = {"errors":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/pirate-forms/js/scripts-general.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/responsive-lightbox/assets/prettyphoto/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rlArgs = {"script":"prettyphoto","selector":"lightbox","customEvents":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"1","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0","woocommerce_gallery":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/responsive-lightbox/js/front.js"></script>
+<link rel="https://api.w.org/" href="http://www.theandroidsoul.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theandroidsoul.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.theandroidsoul.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8">
+<link rel="canonical" href="http://www.theandroidsoul.com/privacy-policy/">
+<link rel="shortlink" href="http://wp.me/P7PF3Z-30o">
+<link rel="alternate" type="application/json+oembed" href="http://www.theandroidsoul.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.theandroidsoul.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.theandroidsoul.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.theandroidsoul.com%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css">
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Site Header -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5713936726450098" data-ad-slot="4150908337" data-ad-format="auto"></ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5713936726450098",
+    enable_page_level_ads: true
+  });
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5164253-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="dns-prefetch" href="//widgets.wp.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+			<meta name="theme-color" content="#2E1044">
+			<link rel="shortcut icon" href="http://www.theandroidsoul.com/wp-content/themes/tas/assets/images/favicon.png" type="image/x-icon">            <script type="text/javascript">
+                function tc_insert_internal_css(css) {
+                    var tc_style = document.createElement("style");
+                    tc_style.type = "text/css";
+                    tc_style.setAttribute('data-type', 'tc-internal-css');
+                    var tc_style_content = document.createTextNode(css);
+                    tc_style.appendChild(tc_style_content);
+                    document.head.appendChild(tc_style);
+                }
+            </script>
+			<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.theandroidsoul.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.theandroidsoul.com/wp-content/uploads/2017/05/cropped-1favicon512-32x32.png" sizes="32x32">
+<link rel="icon" href="http://www.theandroidsoul.com/wp-content/uploads/2017/05/cropped-1favicon512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://www.theandroidsoul.com/wp-content/uploads/2017/05/cropped-1favicon512-180x180.png">
+<meta name="msapplication-TileImage" content="http://www.theandroidsoul.com/wp-content/uploads/2017/05/cropped-1favicon512-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.the-content a:hover {
+    cursor: pointer;
+}
+
+.updateNotice {
+    margin-bottom: 25px;
+    background: #ebebeb;
+    padding: 10px 20px;
+}
+
+@media(max-width: 1200px) {
+.theiaStickySidebar {
+    position: relative !important;
+}
+}
+
+@media(min-width: 800px) {
+.the-content p, .updateNotice {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.page-content article.style-1 .entry-content .the-content li {
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+.the-content p a {
+    padding: 2px 3px;
+    border-bottom: 1px solid;
+    font-weight: bold;
+}
+.the-content p a:hover {
+    background: #ff512f;
+    color: #fff;
+}
+ol ol, ol ul, ul ol, ul ul {
+    margin: 10px 0 15px -20px;
+}
+}
+
+a {
+    color: #ff512f;
+}
+
+p, .the-content img {
+    margin-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 15px 0 20px 0;
+}
+
+.tags-links a:before {
+    content: "#";
+}
+
+.page-content article .content-inner .entry-content .entry-main .tags-links a {
+    font-weight: 700;
+    color: #ff512f;
+}
+
+
+.page-content article .tags-links a {
+    background: none;
+}
+
+.page-content article .tags-links a:hover {
+    background: none;
+}
+
+.item .title a {
+    color: #ff512f;
+}
+
+.sc-title {
+    font-weight: 400 !important;
+}
+
+tr:first-child td {
+    font-weight: bold;
+}
+
+.the-content .post-formats-wrapper img {
+    margin-bottom: 20px;
+}
+
+.post-formats-wrapper {
+    text-align: center;
+}
+
+.thim-sc-news.layout-3 .sc-loop .item:nth-child(2) .thumbnail {
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.type-page .entry-content img {
+    margin: 30px auto;
+}
+
+.page-content article.format-video .entry-content .the-content, .page-content article.style-1 .entry-content .the-content, .page-content article.style-2 .entry-content .the-content, .page-content article.style-3 .entry-content .the-content {
+    overflow-wrap: break-word;
+}
+
+tr td {
+    text-align: center;
+}
+
+a.post-image, a.post-image:hover, .wp-caption a, .wp-caption a:hover, .ftwp-heading a, .ftwp-heading a:hover {
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+#ftwp-contents {
+    max-height: 400px !important;
+}
+
+.thim-sc-social-links.list .box-title {
+    color: #ff512f;
+    background-color: #2e1044;
+}
+
+.thim-sc-news.layout-3 .sc-loop .item .thumbnail {
+    max-height: 80px;
+	overflow: hidden;
+}
+
+a[href$=jpg], a[href$=jpeg], a[href$=jpe], a[href$=png], a[href$=gif] {
+    border: none !important;
+    padding: 0 !important;
+}
+
+.thim-sc-news.layout-3 .sc-loop .item:nth-child(1) .thumbnail {
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.related-archive li.post .thumbnail {
+    max-height: 160px;
+    overflow: hidden;
+}
+
+.related-archive li.post:nth-child(1) .thumbnail, .related-archive li.post:nth-child(2) .thumbnail {
+    max-height: 160px;
+    overflow: hidden;
+}
+
+.rootStatus {
+    background: #e8e8e8;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+.page-content article .content-inner .entry-top .entry-info {
+    margin-bottom: 20px;
+}
+
+.tas-title-ad {
+    margin: 29px auto 20px;
+    width: 728px;
+}
+
+.thim-sc-news .item .thumbnail {
+    max-height: 360px;
+    overflow: hidden;
+}
+
+.blog-content article .content-inner .thumbnail {
+    max-height: 250px;
+    overflow: hidden;
+}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script type="text/javascript" async="" src="https://cdn1.DeveloperMedia.com/a.min.js"></script></head>
+
+<body class="page-template page-template-template-onecolumn page-template-template-onecolumn-php page page-id-11556 group-blog bg-type-color responsive box-shadow creative-left sticky-advanced thim-header_v1 wpb-js-composer js-comp-ver-5.1.1 vc_responsive has-ftoc">
+
+
+	<nav class="visible-xs mobile-menu-container mobile-effect">
+				
+<button class="menu-mobile-effect-close navbar-toggle">
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+</button><!-- .menu-mobile-effect -->
+
+	<ul class="nav navbar-nav">
+		<li id="menu-item-90781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90781 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/news/" class="tc-menu-inner">News</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-sc-megamenu layout-tabs " data-max-page="4532" data-params="{&quot;layout&quot;:&quot;layout-tabs&quot;,&quot;category&quot;:&quot;0&quot;,&quot;post_format&quot;:&quot;&quot;,&quot;navigation&quot;:&quot;&quot;,&quot;filter&quot;:&quot;&quot;,&quot;thumbnail_size&quot;:&quot;255x145&quot;,&quot;display_category&quot;:&quot;yes&quot;,&quot;display_author&quot;:&quot;yes&quot;,&quot;display_date&quot;:&quot;yes&quot;,&quot;category_number&quot;:&quot;4&quot;,&quot;posts_per_page&quot;:&quot;3&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;el_class&quot;:&quot;&quot;,&quot;sc-name&quot;:&quot;megamenu&quot;,&quot;current_page&quot;:1}" id="thim_594fd5c6b528e">
+			<div class="sc-loop">
+			<div class="nav-filter col-sm-3 alignleft"><ul class="cat-list"><li class="cat-item current"><a data-cat="0" href="http://www.theandroidsoul.com/tas-news/">All</a></li><li class="cat-item"><a data-cat="accessories" href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></li><li class="cat-item"><a data-cat="android-apps" href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></li><li class="cat-item"><a data-cat="android-customization" href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></li><li class="cat-item"><a data-cat="android-games-2" href="http://www.theandroidsoul.com/category/android-games-2/">Android Games</a></li></ul></div><div class="tabs col-sm-9 alignright"><div class="tab row 0 current" data-cat="0" data-max-page="4532">	<div class="sc-loop">
+						<div class="item col-sm-4 post-128906 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-root tag-oneplus tag-oneplus-5 tag-root tag-twrp-recovery post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/OnePlus-5-root-255x145.jpg" alt="How to root OnePlus 5 and install TWRP recovery" class="lazy-hidden"><a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/">
+				How to root OnePlus 5 and install TWRP recovery			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/"><i class="fa fa-clock-o"></i>About 9 hours ago</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128898 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-updates tag-att tag-samsung tag-samsung-galaxy-note-4 tag-samsung-galaxy-note-edge post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Note-4-June-Patch-ATT-255x145.png" alt="AT&amp;T begins rolling out June security patch to Samsung Galaxy Note 4" class="lazy-hidden"><a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/">
+				AT&amp;T begins rolling out June security patch to Samsung Galaxy Note 4			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128896 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-edge-sense tag-htc tag-htc-u11 post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-31-at-12.47.01-pm-255x145.png" alt="HTC teases a bunch of new Edge Sense features that are coming to U11" class="lazy-hidden"><a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/">
+				HTC teases a bunch of new Edge Sense features that are coming to U11			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/prajith/" rel="author">Prajith</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row accessories" data-cat="accessories" data-max-page="5">	<div class="sc-loop">
+						<div class="item col-sm-4 post-112487 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories category-news tag-earbuds-2 tag-motorola tag-motorola-earbuds trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/motorola-earbuds-2-255x145.jpg" alt="Motorola Earbuds 2 announced, will come in various color options" class="lazy-hidden"><a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/">
+				Motorola Earbuds 2 announced, will come in various color options			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/sid/" rel="author">Sid</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/"><i class="fa fa-clock-o"></i>March 6, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91735 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories category-news tag-galaxy-note-7 tag-leak tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/note-7-led-view-cover-255x145.jpg" alt="Samsung’s LED View Cover for Galaxy Note 7 leaks" class="lazy-hidden"><a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/">
+				Samsung’s LED View Cover for Galaxy Note 7 leaks			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/"><i class="fa fa-clock-o"></i>July 16, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-72916 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories tag-galaxy-s6-edge-cases tag-samsung tag-samsung-galaxy-s6-edge trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2015/03/Galaxy-S6-edge-Features-Curved-Display-255x145.jpg" alt="Best Samsung Galaxy S6 edge Cases" class="lazy-hidden"><a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/">
+				Best Samsung Galaxy S6 edge Cases			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/staff/" rel="author">theAndroidSoul Staff</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/"><i class="fa fa-clock-o"></i>March 3, 2015</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-apps" data-cat="android-apps" data-max-page="251">	<div class="sc-loop">
+						<div class="item col-sm-4 post-128854 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-games category-news tag-lineage-2-revolution tag-netmarble post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/unnamed-2-255x145.jpg" alt="Lineage 2 Revolution is now available on Google Play Store in select countries" class="lazy-hidden"><a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/">
+				Lineage 2 Revolution is now available on Google Play Store in select countries			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/prajith/" rel="author">Prajith</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128829 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-news tag-action-launcher tag-android-o tag-app-updates tag-pixel-launcher post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/action-launcher-june-update-255x145.jpg" alt="Action Launcher introduces new icon, animated clock and other massive features" class="lazy-hidden"><a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/">
+				Action Launcher introduces new icon, animated clock and other massive features			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/mehvish/" rel="author">MehVish</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128819 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-news tag-whatsapp post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/whatsapp-share-any-type-of-file-255x145.jpg" alt="WhatsApp now lets you share all types of file formats" class="lazy-hidden"><a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/">
+				WhatsApp now lets you share all types of file formats			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/mehvish/" rel="author">MehVish</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-customization" data-cat="android-customization" data-max-page="14">	<div class="sc-loop">
+						<div class="item col-sm-4 post-117272 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization tag-galaxy-s8 tag-icon-pack tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/04/galaxy-s8-icon-pack-255x145.png" alt="Download Galaxy S8 icon pack" class="lazy-hidden"><a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/">
+				Download Galaxy S8 icon pack			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/sid/" rel="author">Sid</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/"><i class="fa fa-clock-o"></i>April 3, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91833 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization category-tips tag-android-nougat tag-galaxy-s6 tag-galaxy-s6-edge tag-galaxy-s6-edge-plus tag-galaxy-s7 tag-galaxy-s7-edge tag-nougat tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/Nougat-notififcation-shade-galaxy-s6-s7-255x145.jpg" alt="Get Android Nougat Notification Shade on Galaxy S6, S7 and Edge variants" class="lazy-hidden"><a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/">
+				Get Android Nougat Notification Shade on Galaxy S6, S7 and Edge variants			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/"><i class="fa fa-clock-o"></i>July 23, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91481 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization category-downloads tag-rintones tag-wallpapers trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/moto-z-stock-wallpaper-collection-255x145.jpg" alt="Download Moto Z Stock Wallpapers and Ringtones" class="lazy-hidden"><a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/">
+				Download Moto Z Stock Wallpapers and Ringtones			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/"><i class="fa fa-clock-o"></i>July 1, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-games-2" data-cat="android-games-2" data-max-page="40">	<div class="sc-loop">
+						<div class="item col-sm-4 post-123159 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-niantic tag-spalsh-magikarp tag-the-pokemon-company trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Jump-MagiKarp-Website-Live-255x145.jpg" alt="Splash! Magikarp website goes live" class="lazy-hidden"><a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/">
+				Splash! Magikarp website goes live			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/"><i class="fa fa-clock-o"></i>May 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-116872 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-app-updates tag-asphalt-8-airborne tag-game-updates trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/Asphalt-8-3-255x145.png" alt="Asphalt 8: Airborne update adds new Car Assembly feature and other exclusive deals" class="lazy-hidden"><a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/">
+				Asphalt 8: Airborne update adds new Car Assembly feature and other exclusive deals			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/"><i class="fa fa-clock-o"></i>March 30, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-116778 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-app-updates tag-xbox trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/xbox-android-app-255x145.jpg" alt="Latest update to the Xbox app brings gamerscore leaderboards and much more" class="lazy-hidden"><a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/">
+				Latest update to the Xbox app brings gamerscore leaderboards and much more			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/"><i class="fa fa-clock-o"></i>March 30, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="thim-icon-loading">
+<div class="sk-spinner sk-spinner-pulse"></div></div></div>		</div>
+	</div></div></div></div></div></div></li>
+<li id="menu-item-127340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127340 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/deals/" class="tc-menu-inner">Deals</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-sc-megamenu layout-slider " data-max-page="19" data-params="{&quot;layout&quot;:&quot;layout-slider&quot;,&quot;category&quot;:&quot;deals&quot;,&quot;post_format&quot;:&quot;&quot;,&quot;navigation&quot;:&quot;&quot;,&quot;filter&quot;:&quot;&quot;,&quot;thumbnail_size&quot;:&quot;150x100&quot;,&quot;display_category&quot;:&quot;no&quot;,&quot;display_author&quot;:&quot;no&quot;,&quot;display_date&quot;:&quot;yes&quot;,&quot;category_number&quot;:5,&quot;posts_per_page&quot;:&quot;6&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;el_class&quot;:&quot;&quot;,&quot;sc-name&quot;:&quot;megamenu&quot;,&quot;current_page&quot;:1}" id="thim_594fd5c6cb0aa">
+			<div class="sc-loop">
+			<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
 </div>
+<div class="row">
+	
+			<div class="item col-sm-2 col-xs-6  first post-128849 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-att tag-lg tag-lg-watch-sport post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/LGWatchSport-150x100.jpg" alt="[Deal] AT&amp;T selling LG Watch Sport for free with 2-year contract" class="lazy-hidden"><a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/">
+				[Deal] AT&amp;T selling LG Watch Sport for free with 2-year contract			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128824 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-lg tag-lg-v20 post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-24-at-12.13.14-pm-150x100.png" alt="[Hot Deal] Unlocked LG V20 is currently going for just $370 at eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/">
+				[Hot Deal] Unlocked LG V20 is currently going for just $370 at eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128650 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-samsung tag-samsung-galaxy-s8 tag-us trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Galaxy_S8-2-1-150x100.jpg" alt="[Deal] Unlocked Galaxy S8 on sale for $600 through Samsung’s official eBay store" class="lazy-hidden"><a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/">
+				[Deal] Unlocked Galaxy S8 on sale for $600 through Samsung’s official eBay store			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128637 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-moto tag-moto-g4-play tag-motorola tag-us trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/motorola_01006nartl_moto_g4_play_xt1607_1471361727000_1274293-150x100.jpg" alt="[Hot Deal] Grab a Moto G4 Play 16GB for just $100 at B&amp;H ($50 off)" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/">
+				[Hot Deal] Grab a Moto G4 Play 16GB for just $100 at B&amp;H ($50 off)			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128566 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-huawei tag-huawei-watch-2 trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-1.01.22-pm-150x100.png" alt="[Hot Deal] Huawei Watch 2 is currently going for just $265 on eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/">
+				[Hot Deal] Huawei Watch 2 is currently going for just $265 on eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6  last post-128550 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-lg tag-lg-g6 post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/LG_G6_-150x100.png" alt="[Hot Deal] LG G6 is on sale for just $476 on eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/">
+				[Hot Deal] LG G6 is on sale for just $476 on eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			</div>
+
+<div class="thim-icon-loading">
+<div class="sk-spinner sk-spinner-pulse"></div></div>		</div>
+	</div></div></div></div></div></div></li>
+<li id="menu-item-121173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121173 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/tips/" class="tc-menu-inner">Tips</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"></div></li>
+<li id="menu-item-121174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121174 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://www.theandroidsoul.com/category/android-apps/" class="tc-menu-inner">Android Apps</a></li>
+	</ul><!-- .nav -->
+
+		<div class="thim-social-links"><ul class="social-links"><li><a class="link facebook" title="Facebook" href="http://facebook.com/theandroidsoul/" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a></li><li><a class="link twitter" title="Twitter" href="http://twitter.com/theandroidsoul/" rel="nofollow" data-show-count="true" data-size="medium"><i class="fa fa-twitter" aria-hidden="true"></i></a></li><li><a class="link rss" title="RSS" href="http://www.theandroidsoul.com/feed/" rel="nofollow"><i class="fa fa-rss" aria-hidden="true"></i></a></li></ul></div>	</nav><!-- nav.mobile-menu-container -->
+
+<div id="wrapper-container" class="content-pusher">
+
+	
+		
+		<header id="masthead" class="no-js site-header  header_v1 header-boxed sticky-header has-retina-logo">
+			<div class="navigation affix-top">
+	<div class="container">	<div class="nav-inner">
+		<div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</div><!-- .menu-mobile-effect -->
+
+		<div class="width-logo sm-logo">
+			<a class="no-sticky-logo" href="http://www.theandroidsoul.com/" title="The Android Soul - News about Android update and devices" rel="home"><img class="logo" src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/4tas-new-logo-72.png" alt="The Android Soul"><img class="retina-logo" src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/4tas-new-logo-72.png" alt="The Android Soul"><img class="mobile-logo" src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/4tas-new-logo-36.png" alt="The Android Soul"></a>			<a class="sticky-logo" href="http://www.theandroidsoul.com/" title="The Android Soul - News about Android update and devices" rel="home"><img class="logo" src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/4tas-new-logo-36.png" alt="The Android Soul"></a>		</div><!-- .width-logo -->
+
+		<nav class="width-navigation main-navigation">
+			<div class="inner-navigation">
+				
+<ul id="primary-menu" class="navbar">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90781 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/news/" class="tc-menu-inner">News</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-sc-megamenu layout-tabs " data-max-page="4532" data-params="{&quot;layout&quot;:&quot;layout-tabs&quot;,&quot;category&quot;:&quot;0&quot;,&quot;post_format&quot;:&quot;&quot;,&quot;navigation&quot;:&quot;&quot;,&quot;filter&quot;:&quot;&quot;,&quot;thumbnail_size&quot;:&quot;255x145&quot;,&quot;display_category&quot;:&quot;yes&quot;,&quot;display_author&quot;:&quot;yes&quot;,&quot;display_date&quot;:&quot;yes&quot;,&quot;category_number&quot;:&quot;4&quot;,&quot;posts_per_page&quot;:&quot;3&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;el_class&quot;:&quot;&quot;,&quot;sc-name&quot;:&quot;megamenu&quot;,&quot;current_page&quot;:1}" id="thim_594fd5c6d0941">
+			<div class="sc-loop">
+			<div class="nav-filter col-sm-3 alignleft"><ul class="cat-list"><li class="cat-item current"><a data-cat="0" href="http://www.theandroidsoul.com/tas-news/">All</a></li><li class="cat-item"><a data-cat="accessories" href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></li><li class="cat-item"><a data-cat="android-apps" href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></li><li class="cat-item"><a data-cat="android-customization" href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></li><li class="cat-item"><a data-cat="android-games-2" href="http://www.theandroidsoul.com/category/android-games-2/">Android Games</a></li></ul></div><div class="tabs col-sm-9 alignright"><div class="tab row 0 current" data-cat="0" data-max-page="4532">	<div class="sc-loop">
+						<div class="item col-sm-4 post-128906 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-root tag-oneplus tag-oneplus-5 tag-root tag-twrp-recovery post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/OnePlus-5-root-255x145.jpg" alt="How to root OnePlus 5 and install TWRP recovery" class="lazy-hidden"><a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/">
+				How to root OnePlus 5 and install TWRP recovery			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/oneplus-5-root-and-twrp-recovery/"><i class="fa fa-clock-o"></i>About 9 hours ago</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128898 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-updates tag-att tag-samsung tag-samsung-galaxy-note-4 tag-samsung-galaxy-note-edge post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Note-4-June-Patch-ATT-255x145.png" alt="AT&amp;T begins rolling out June security patch to Samsung Galaxy Note 4" class="lazy-hidden"><a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/">
+				AT&amp;T begins rolling out June security patch to Samsung Galaxy Note 4			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/att-begins-rolling-out-june-security-patch-to-samsung-galaxy-note-4/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128896 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-edge-sense tag-htc tag-htc-u11 post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-31-at-12.47.01-pm-255x145.png" alt="HTC teases a bunch of new Edge Sense features that are coming to U11" class="lazy-hidden"><a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/news/">News</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/">
+				HTC teases a bunch of new Edge Sense features that are coming to U11			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/prajith/" rel="author">Prajith</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/htc-teases-a-bunch-of-new-edge-sense-features-that-are-coming-to-u11/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row accessories" data-cat="accessories" data-max-page="5">	<div class="sc-loop">
+						<div class="item col-sm-4 post-112487 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories category-news tag-earbuds-2 tag-motorola tag-motorola-earbuds trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/motorola-earbuds-2-255x145.jpg" alt="Motorola Earbuds 2 announced, will come in various color options" class="lazy-hidden"><a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/">
+				Motorola Earbuds 2 announced, will come in various color options			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/sid/" rel="author">Sid</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/motorola-earbuds-2-announced-will-come-in-various-color-options/"><i class="fa fa-clock-o"></i>March 6, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91735 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories category-news tag-galaxy-note-7 tag-leak tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/note-7-led-view-cover-255x145.jpg" alt="Samsung’s LED View Cover for Galaxy Note 7 leaks" class="lazy-hidden"><a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/">
+				Samsung’s LED View Cover for Galaxy Note 7 leaks			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/samsung-led-view-cover-galaxy-note-7/"><i class="fa fa-clock-o"></i>July 16, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-72916 post type-post status-publish format-standard has-post-thumbnail hentry category-accessories tag-galaxy-s6-edge-cases tag-samsung tag-samsung-galaxy-s6-edge trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2015/03/Galaxy-S6-edge-Features-Curved-Display-255x145.jpg" alt="Best Samsung Galaxy S6 edge Cases" class="lazy-hidden"><a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/accessories/">Accessories</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/">
+				Best Samsung Galaxy S6 edge Cases			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/staff/" rel="author">theAndroidSoul Staff</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/best-samsung-galaxy-s6-edge-cases/"><i class="fa fa-clock-o"></i>March 3, 2015</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-apps" data-cat="android-apps" data-max-page="251">	<div class="sc-loop">
+						<div class="item col-sm-4 post-128854 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-games category-news tag-lineage-2-revolution tag-netmarble post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/unnamed-2-255x145.jpg" alt="Lineage 2 Revolution is now available on Google Play Store in select countries" class="lazy-hidden"><a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/">
+				Lineage 2 Revolution is now available on Google Play Store in select countries			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/prajith/" rel="author">Prajith</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/lineage-2-revolution-is-now-available-on-google-play-store-in-select-countries/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128829 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-news tag-action-launcher tag-android-o tag-app-updates tag-pixel-launcher post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/action-launcher-june-update-255x145.jpg" alt="Action Launcher introduces new icon, animated clock and other massive features" class="lazy-hidden"><a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/">
+				Action Launcher introduces new icon, animated clock and other massive features			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/mehvish/" rel="author">MehVish</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/action-launcher-introduces-new-icon-animated-clock-and-other-massive-features/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-128819 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-news tag-whatsapp post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/whatsapp-share-any-type-of-file-255x145.jpg" alt="WhatsApp now lets you share all types of file formats" class="lazy-hidden"><a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/">
+				WhatsApp now lets you share all types of file formats			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/mehvish/" rel="author">MehVish</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/whatsapp-now-lets-you-share-all-types-of-file-formats/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-customization" data-cat="android-customization" data-max-page="14">	<div class="sc-loop">
+						<div class="item col-sm-4 post-117272 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization tag-galaxy-s8 tag-icon-pack tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/04/galaxy-s8-icon-pack-255x145.png" alt="Download Galaxy S8 icon pack" class="lazy-hidden"><a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/">
+				Download Galaxy S8 icon pack			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/sid/" rel="author">Sid</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/download-galaxy-s8-icon-pack/"><i class="fa fa-clock-o"></i>April 3, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91833 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization category-tips tag-android-nougat tag-galaxy-s6 tag-galaxy-s6-edge tag-galaxy-s6-edge-plus tag-galaxy-s7 tag-galaxy-s7-edge tag-nougat tag-samsung trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/Nougat-notififcation-shade-galaxy-s6-s7-255x145.jpg" alt="Get Android Nougat Notification Shade on Galaxy S6, S7 and Edge variants" class="lazy-hidden"><a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/">
+				Get Android Nougat Notification Shade on Galaxy S6, S7 and Edge variants			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/get-android-nougat-notification-shade-on-galaxy-s6-s7-and-edge-variants/"><i class="fa fa-clock-o"></i>July 23, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-91481 post type-post status-publish format-standard has-post-thumbnail hentry category-android-customization category-downloads tag-rintones tag-wallpapers trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2016/07/moto-z-stock-wallpaper-collection-255x145.jpg" alt="Download Moto Z Stock Wallpapers and Ringtones" class="lazy-hidden"><a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-customization/">Android Customization</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/">
+				Download Moto Z Stock Wallpapers and Ringtones			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/ka1385/" rel="author">Kapil Malani</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/download-moto-z-stock-wallpapers-and-ringtones/"><i class="fa fa-clock-o"></i>July 1, 2016</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="tab row android-games-2" data-cat="android-games-2" data-max-page="40">	<div class="sc-loop">
+						<div class="item col-sm-4 post-123159 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-niantic tag-spalsh-magikarp tag-the-pokemon-company trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Jump-MagiKarp-Website-Live-255x145.jpg" alt="Splash! Magikarp website goes live" class="lazy-hidden"><a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/">
+				Splash! Magikarp website goes live			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/splash-magikarp-website-goes-live/"><i class="fa fa-clock-o"></i>May 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-116872 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-app-updates tag-asphalt-8-airborne tag-game-updates trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/Asphalt-8-3-255x145.png" alt="Asphalt 8: Airborne update adds new Car Assembly feature and other exclusive deals" class="lazy-hidden"><a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/">
+				Asphalt 8: Airborne update adds new Car Assembly feature and other exclusive deals			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/asphalt-8-airborne-udpate/"><i class="fa fa-clock-o"></i>March 30, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+								<div class="item col-sm-4 post-116778 post type-post status-publish format-standard has-post-thumbnail hentry category-android-apps category-android-games-2 category-news tag-app-updates tag-xbox trending post-ftoc ftwp-in-post">
+					<div class="item-inner">
+	<div class="thumbnail">
+		<img width="255" height="145" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-255x145.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/03/xbox-android-app-255x145.jpg" alt="Latest update to the Xbox app brings gamerscore leaderboards and much more" class="lazy-hidden"><a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/" class="img-link"></a>					<div class="meta-category"><a href="http://www.theandroidsoul.com/category/android-apps/">Android Apps</a></div>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/">
+				Latest update to the Xbox app brings gamerscore leaderboards and much more			</a>
+		</h5>
+		<div class="meta">
+							<span class="author vcard"><i class="fa fa-user"></i><a href="http://www.theandroidsoul.com/author/tsam/" rel="author">Teffy</a></span>										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/microsoft-xbox-for-android-update/"><i class="fa fa-clock-o"></i>March 30, 2017</a></span></span>
+					</div>
+	</div>
+</div>				</div>
+					</div>
+<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
+</div></div><div class="thim-icon-loading">
+<div class="sk-spinner sk-spinner-pulse"></div></div></div>		</div>
+	</div></div></div></div></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127340 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/deals/" class="tc-menu-inner">Deals</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-sc-megamenu layout-slider " data-max-page="19" data-params="{&quot;layout&quot;:&quot;layout-slider&quot;,&quot;category&quot;:&quot;deals&quot;,&quot;post_format&quot;:&quot;&quot;,&quot;navigation&quot;:&quot;&quot;,&quot;filter&quot;:&quot;&quot;,&quot;thumbnail_size&quot;:&quot;150x100&quot;,&quot;display_category&quot;:&quot;no&quot;,&quot;display_author&quot;:&quot;no&quot;,&quot;display_date&quot;:&quot;yes&quot;,&quot;category_number&quot;:5,&quot;posts_per_page&quot;:&quot;6&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;el_class&quot;:&quot;&quot;,&quot;sc-name&quot;:&quot;megamenu&quot;,&quot;current_page&quot;:1}" id="thim_594fd5c6de02b">
+			<div class="sc-loop">
+			<div class="page-navigation">
+	<div class="nav-wrapper">
+		<span class="nav nav-prev disabled" data-page="0"><i class="fa fa-caret-left"></i></span><span class="nav nav-next " data-page="2"><i class="fa fa-caret-right"></i></span>	</div>
 </div>
-</div><!--/.container-inner-->
-</div><!--/.container-->
-</header><!--/#header-->
-<div class="container" id="page">
-<div class="container-inner">
-<div class="main">
-<div class="main-inner group">
-<section class="content">
-<div class="page-title pad group">
-<h2>Privacy Policy</h2>
-</div><!--/.page-title-->
-<div class="pad group">
-<article class="group post-11556 page type-page status-publish hentry">
-<div class="entry themeform">
-<h3>TheAndroidSoul.com respects your privacy.</h3>
+<div class="row">
+	
+			<div class="item col-sm-2 col-xs-6  first post-128849 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-att tag-lg tag-lg-watch-sport post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/LGWatchSport-150x100.jpg" alt="[Deal] AT&amp;T selling LG Watch Sport for free with 2-year contract" class="lazy-hidden"><a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/">
+				[Deal] AT&amp;T selling LG Watch Sport for free with 2-year contract			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/deal-att-selling-lg-watch-sport-for-free-with-2-year-contract/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128824 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-lg tag-lg-v20 post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-24-at-12.13.14-pm-150x100.png" alt="[Hot Deal] Unlocked LG V20 is currently going for just $370 at eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/">
+				[Hot Deal] Unlocked LG V20 is currently going for just $370 at eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-unlocked-lg-v20-is-currently-going-for-just-370-at-ebay/"><i class="fa fa-clock-o"></i>June 24, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128650 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-samsung tag-samsung-galaxy-s8 tag-us trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/Galaxy_S8-2-1-150x100.jpg" alt="[Deal] Unlocked Galaxy S8 on sale for $600 through Samsung’s official eBay store" class="lazy-hidden"><a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/">
+				[Deal] Unlocked Galaxy S8 on sale for $600 through Samsung’s official eBay store			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/deal-unlocked-galaxy-s8-on-sale-for-600-through-samsungs-official-ebay-store/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128637 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-moto tag-moto-g4-play tag-motorola tag-us trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/motorola_01006nartl_moto_g4_play_xt1607_1471361727000_1274293-150x100.jpg" alt="[Hot Deal] Grab a Moto G4 Play 16GB for just $100 at B&amp;H ($50 off)" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/">
+				[Hot Deal] Grab a Moto G4 Play 16GB for just $100 at B&amp;H ($50 off)			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-grab-a-moto-g4-play-16gb-for-just-100-at-bh-50-off/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6 post-128566 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-huawei tag-huawei-watch-2 trending post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-22-at-1.01.22-pm-150x100.png" alt="[Hot Deal] Huawei Watch 2 is currently going for just $265 on eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/">
+				[Hot Deal] Huawei Watch 2 is currently going for just $265 on eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-huawei-watch-2-is-currently-going-for-just-265-on-ebay/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			
+			<div class="item col-sm-2 col-xs-6  last post-128550 post type-post status-publish format-standard has-post-thumbnail hentry category-deals category-news tag-ebay tag-lg tag-lg-g6 post-ftoc ftwp-in-post">
+				<div class="item-inner">
+	<div class="thumbnail">
+		<img width="150" height="100" src="http://www.theandroidsoul.com/wp-content/uploads/tas/blank-150x100.png" data-src="http://www.theandroidsoul.com/wp-content/uploads/2017/05/LG_G6_-150x100.png" alt="[Hot Deal] LG G6 is on sale for just $476 on eBay" class="lazy-hidden"><a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/" class="img-link"></a>			</div>
+	<div class="content">
+		<h5 class="title">
+			<a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/">
+				[Hot Deal] LG G6 is on sale for just $476 on eBay			</a>
+		</h5>
+		<div class="meta">
+										<span class="date"><span class="entry-date"><a href="http://www.theandroidsoul.com/hot-deal-lg-g6-is-on-sale-for-just-476-on-ebay/"><i class="fa fa-clock-o"></i>June 22, 2017</a></span></span>
+					</div>
+	</div>
+</div>			</div>
+
+			</div>
+
+<div class="thim-icon-loading">
+<div class="sk-spinner sk-spinner-pulse"></div></div>		</div>
+	</div></div></div></div></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121173 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder"><a href="http://www.theandroidsoul.com/category/tips/" class="tc-menu-inner">Tips</a><div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu"></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121174 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://www.theandroidsoul.com/category/android-apps/" class="tc-menu-inner">Android Apps</a></li>
+<li class="menu-right"></li>
+</ul><!-- #primary-menu -->			</div>
+		</nav><!-- .width-navigation -->
+	</div>
+	</div></div><!-- .navigation -->		</header><!-- #masthead -->
+
+	
+	<div id="main-content" class="bg-type-color"><div class="container site-content "><div class="row"><div id="main" class="site-main col-sm-12 full-width">
+	
+<article id="post-11556" class="post-11556 page type-page status-publish hentry post-ftoc ftwp-in-post">
+	<div class="content-inner">
+		
+					<div class="container">
+					<header class="entry-header">
+						<ul itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><li itemprop="itemListElement home-page item" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="name" href="http://www.theandroidsoul.com" title="Home">Home</a></li></ul><h2 class="entry-title"><a href="http://www.theandroidsoul.com/privacy-policy/" rel="bookmark">Privacy Policy</a></h2>					</header><!-- .entry-header -->
+				</div>
+			<!-- .entry-top -->
+				<div class="container site-content "><div class="row"><div id="main" class="site-main col-sm-12 full-width">		<div class="entry-content">
+			<div id="ftwp-container-outer" class="ftwp-float-none"><div id="ftwp-container" class="ftwp-wrap ftwp-hidden-state ftwp-minimize ftwp-top-left"><button type="button" id="ftwp-trigger" class="ftwp-shape-square ftwp-border-medium" title="click To Maximize The Table Of Contents"><span class="ftwp-trigger-icon ftwp-icon-menu"></span></button><nav id="ftwp-contents" class="ftwp-shape-square ftwp-border-thin"><header id="ftwp-header"><span id="ftwp-header-control" class="ftwp-icon-menu"></span><button type="button" id="ftwp-header-minimize" class="ftwp-icon-expand"></button><h3 id="ftwp-header-title">Table of content</h3></header><ol id="ftwp-list" class="ftwp-liststyle-circle ftwp-effect-fade ftwp-list-nest ftwp-strong-first ftwp-colexp ftwp-colexp-icon"><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-theandroidsoul-com-respects-your-privacy"><span class="ftwp-text">TheAndroidSoul.com respects your privacy.</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-credit-card-details"><span class="ftwp-text">Credit card details</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-external-sites"><span class="ftwp-text">External Sites.</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-log-files"><span class="ftwp-text">Log Files</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-cookies-and-web-beacons"><span class="ftwp-text">Cookies and Web Beacons</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-doubleclick-dart-cookie"><span class="ftwp-text">DoubleClick DART Cookie</span></a></li><li class="ftwp-item"><a class="ftwp-anchor" href="#jump-remember-the-risks-whenever-you-use-the-internet"><span class="ftwp-text">Remember The Risks Whenever You Use The Internet</span></a></li></ol></nav></div></div>
+<div id="ftwp-postcontent-start"></div>
+<h3 id="jump-theandroidsoul-com-respects-your-privacy" class="ftwp-heading">TheAndroidSoul.com respects your privacy.</h3>
 <p>Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of TheAndroidSoul.com.</p>
-<h3>Credit card details</h3>
+<h3 id="jump-credit-card-details" class="ftwp-heading">Credit card details</h3>
 <p>TheAndroidSoul.com will <strong>never</strong> ask for Credit Card details and request that you do not enter it on any of the forms on TheAndroidSoul.com.</p>
-<h3>External Sites.</h3>
+<h3 id="jump-external-sites" class="ftwp-heading">External Sites.</h3>
 <p>TheAndroidSoul.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.</p>
-<h3>Log Files</h3>
+<h3 id="jump-log-files" class="ftwp-heading">Log Files</h3>
 <p>Like many other Web sites, TheAndroidSoul.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
-<h3>Cookies and Web Beacons</h3>
+<h3 id="jump-cookies-and-web-beacons" class="ftwp-heading">Cookies and Web Beacons</h3>
 <p>TheAndroidSoul.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
-<h3>DoubleClick DART Cookie</h3>
+<h3 id="jump-doubleclick-dart-cookie" class="ftwp-heading">DoubleClick DART Cookie</h3>
 <p>.:: Google, as a third party vendor, uses cookies to serve ads on TheAndroidSoul.com.</p>
 <p>.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to TheAndroidSoul.com and other sites on the Internet.</p>
 <p>.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
@@ -114,118 +1092,185 @@ pagespeed.localStorageCacheInit();</script><link rel="stylesheet" id="responsive
 <p>TheAndroidSoul.com has no access to or control over these cookies that are used by third-party advertisers.</p>
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TheAndroidSoul.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
-<h3>Remember The Risks Whenever You Use The Internet</h3>
+<h3 id="jump-remember-the-risks-whenever-you-use-the-internet" class="ftwp-heading">Remember The Risks Whenever You Use The Internet</h3>
 <p>While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to TheAndroidSoul.com and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through TheAndroidSoul.com have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.</p>
 <p>Please contact those vendors and others directly if you have any questions about their privacy policies.</p>
 <p>For any other information email <strong>admin</strong> at <strong>theandroidsoul.com</strong></p>
-<div class="clear"></div>
-</div><!--/.entry-->
-</article>
-</div><!--/.pad-->
-</section><!--/.content-->
-<div class="sidebar s1">
-<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
-<div class="sidebar-content">
-<div class="sidebar-top group">
-<a href="http://www.theandroidsoul.com/"><img src="http://www.theandroidsoul.com/wp-content/uploads/2015/06/278x27xtas-logo.png.pagespeed.ic.NddT5kbe-u.png" width="278" height="27" scale="0"></a>
-</div>
-<div id="text-27" class="widget widget_text">	<div class="textwidget"><div class="lqm_ad" lqm_publisher="lqm.theandroidsoul.site" lqm_tags="Android%2cPhone%2cTablet%2cMobile" lqm_zone="ron" lqm_format="300x250"></div></div>
-</div><div id="search-4" class="widget widget_search"><form class="searchform themeform" action="http://www.theandroidsoul.com/">
-<div>
-<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter">
-</div>
-</form></div><div id="pis_posts_in_sidebar-3" class="widget posts-in-sidebar"><h3><a class="pis-title-link" href="http://www.theandroidsoul.com/category/root-2/">RECENT NEWS</a></h3>
-<ul class="pis-ul">
-<li class="pis-li">
-<p class="pis-title">
-<a class="pis-title-link" href="http://www.theandroidsoul.com/bbm-receives-update-bringing-material-design-changes-and-security-features-81171/" title="Permalink to BBM receives update bringing Material Design changes and security features" rel="bookmark">
-BBM receives update bringing Material Design changes and security features	</a>
-</p>
-</li>
-<li class="pis-li">
-<p class="pis-title">
-<a class="pis-title-link" href="http://www.theandroidsoul.com/android-5-1-soak-tests-for-moto-g-2013-in-the-u-s-and-moto-x-2014-on-verizon-and-att-begin-81169/" title="Permalink to Android 5.1 soak tests for Moto G (2013) in the U.S. and Moto X (2014) on Verizon and AT&amp;T begin" rel="bookmark">
-Android 5.1 soak tests for Moto G (2013) in the U.S. and Moto X (2014) on Verizon and AT&amp;T begin	</a>
-</p>
-</li>
-<li class="pis-li">
-<p class="pis-title">
-<a class="pis-title-link" href="http://www.theandroidsoul.com/sony-e5663-with-4-6-inch-display-and-13-mp-selfie-camera-leaks-via-benchmarks-81166/" title="Permalink to Sony E5663 with 4.6 inch display and 13 MP selfie camera leaks via benchmarks" rel="bookmark">
-Sony E5663 with 4.6 inch display and 13 MP selfie camera leaks via benchmarks	</a>
-</p>
-</li>
-<li class="pis-li">
-<p class="pis-title">
-<a class="pis-title-link" href="http://www.theandroidsoul.com/samsung-develops-new-tech-to-increase-lithium-battery-capacity-twofold-81163/" title="Permalink to Samsung develops new tech to increase lithium battery capacity twofold" rel="bookmark">
-Samsung develops new tech to increase lithium battery capacity twofold	</a>
-</p>
-</li>
-<li class="pis-li">
-<p class="pis-title">
-<a class="pis-title-link" href="http://www.theandroidsoul.com/alleged-samsung-galaxy-note-5-case-renders-leak-online-tipping-possible-design-81160/" title="Permalink to Alleged Samsung Galaxy Note 5 case renders leak online tipping possible design" rel="bookmark">
-Alleged Samsung Galaxy Note 5 case renders leak online tipping possible design	</a>
-</p>
-</li>
-</ul>	<!-- / ul#pis-ul -->
-<!-- Generated by Posts in Sidebar v1.28 - Cache is active -->
-</div><div id="text-80" class="widget widget_text">	<div class="textwidget"><div class="lqm_ad" lqm_publisher="lqm.theandroidsoul.site" lqm_tags="Android%2cPhone%2cTablet%2cMobile" lqm_zone="ron" lqm_format="300x250"></div></div>
-</div><div id="text-82" class="widget widget_text">	<div class="textwidget"><div class="lqm_ad" lqm_publisher="lqm.theandroidsoul.site" lqm_tags="Android%2cPhone%2cTablet%2cMobile" lqm_zone="ron" lqm_format="300x250"></div></div>
-</div><div id="text-63" class="widget widget_text">	<div class="textwidget"><div class="lqm_ad" lqm_publisher="lqm.theandroidsoul.site" lqm_tags="Android%2cPhone%2cTablet%2cMobile" lqm_zone="ron" lqm_format="300x250"></div></div>
-</div>
-</div><!--/.sidebar-content-->
-</div><!--/.sidebar-->
-</div><!--/.main-inner-->
-</div><!--/.main-->
-</div><!--/.container-inner-->
-</div><!--/.container-->
-<footer id="footer">
-<nav class="nav-container group" id="nav-footer">
-<div class="nav-toggle"><i class="fa fa-bars"></i></div>
-<div class="nav-text"><!-- put your mobile menu text here --></div>
-<div class="nav-wrap"><ul id="menu-footer" class="nav container group"><li id="menu-item-77586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-77586"><a href="http://www.theandroidsoul.com/">Home</a></li>
-<li id="menu-item-80016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80016"><a href="http://www.theandroidsoul.com/about/">About</a></li>
-<li id="menu-item-68774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68774"><a href="http://www.theandroidsoul.com/contact-us/">Contact</a></li>
-<li id="menu-item-68773" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11556 current_page_item menu-item-68773"><a href="http://www.theandroidsoul.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div>
-</nav><!--/#nav-footer-->
-<section class="container" id="footer-bottom">
-<div class="container-inner">
-<a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
-<div class="pad group">
-<div class="grid one-half">
-<img id="footer-logo" src="http://www.theandroidsoul.com/wp-content/uploads/2014/11/xtas_logo.png.pagespeed.ic.swGDWvfHV0.png" alt="">
-<div id="copyright">
-<p>The Android Soul © 2015. All Rights Reserved.</p>
-</div><!--/#copyright-->
-</div>
-<div class="grid one-half last">
-<ul class="social-links"><li><a rel="nofollow" class="social-tooltip" title="Google+" href="https://plus.google.com/+TheAndroidSoul/posts" target="Array"><i class="fa fa-google-plus" style="color:#fff"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="Facebook" href="http://www.facebook.com/TheAndroidSoul" target="Array"><i class="fa fa-facebook" style="color:#fff"></i></a></li><li><a rel="nofollow" class="social-tooltip" title="Twitter" href="http://www.twitter.com/TheAndroidSoul" target="Array"><i class="fa fa-twitter" style="color:#fff"></i></a></li></ul>	</div>
-</div><!--/.pad-->
-</div><!--/.container-inner-->
-</section><!--/.container-->
-</footer><!--/#footer-->
-</div><!--/#wrapper-->
-<!--#DM code-->
-<script>function _dmBootstrap(file){var _dma=document.createElement('script');_dma.type='text/javascript';_dma.async=true;_dma.src=('https:'==document.location.protocol?'https://':'http://')+file;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(_dma);}
-function _dmFollowup(file){if(typeof DMAds==='undefined')_dmBootstrap('cdn2.DeveloperMedia.com/a.min.js');}
-(function(){_dmBootstrap('cdn1.DeveloperMedia.com/a.min.js');setTimeout(_dmFollowup,2000);})();</script>
-<!--/#DM code-->
-<!--Plugin WP Admin Bar Removal 2014.0816.0392 Active - Tag 74be16979710d4c4e7c6647856088456-->
-<!--Site Optimized to Speedup Control Panel Minimize Memory Consumption with Disabled Toolbar-->
-<span id="bruteprotect_uptime_check_string" style="display:none">7ads6x98y</span> <script>var disqus_shortname='theandroidsoul';(function(){var nodes=document.getElementsByTagName('span');for(var i=0,url;i<nodes.length;i++){if(nodes[i].className.indexOf('dsq-postid')!=-1){nodes[i].parentNode.setAttribute('data-disqus-identifier',nodes[i].getAttribute('data-dsqidentifier'));url=nodes[i].parentNode.href.split('#',1);if(url.length==1){url=url[0];}
-else{url=url[1];}
-nodes[i].parentNode.href=url+'#disqus_thread';}}
-var s=document.createElement('script');s.async=true;s.type='text/javascript';s.src='//'+disqus_shortname+'.disqus.com/count.js';(document.getElementsByTagName('HEAD')[0]||document.getElementsByTagName('BODY')[0]).appendChild(s);}());</script>
-<script>window._popup_data={"ajaxurl":"http:\/\/www.theandroidsoul.com\/wp-admin\/admin-ajax.php","do":"get_data","ajax_data":{"orig_request_uri":"\/privacy-policy\/"}};</script><script src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201526"></script>
-<script src="http://www.theandroidsoul.com/wp-content,_themes,_hueman,_js,_jquery.jplayer.min.js,qver==4.2.2+wp-content,_themes,_hueman,_js,_scripts.js,qver==4.2.2+wp-content,_themes,_hueman,_js,_jquery.sharrre.min.js,qver==4.2.2+wp-includes,_js,_comment-reply.min.js,qver==4.2.2+wp-content,_plugins,_wordpress-popup,_js,_public.min.js,qver==4.2.2.pagespeed.jc.T1U6ZITS29.js"></script><script>eval(mod_pagespeed_O9HKFSxxm_);</script>
-<script>eval(mod_pagespeed_7md7fjyNg8);</script>
-<script>eval(mod_pagespeed_tc3pfEqaee);</script>
-<script>eval(mod_pagespeed_O883pN9VWD);</script>
-<script>eval(mod_pagespeed_1L0cu4xA8v);</script>
-<!--[if lt IE 9]>
-<script src="http://www.theandroidsoul.com/wp-content/themes/hueman/js/ie/respond.js"></script>
-<![endif]-->
-<script src="http://stats.wp.com/e-201526.js" async="" defer=""></script>
-<script>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:3.5.3',blog:'14142995',post:'11556',tz:'5.5',srv:'www.theandroidsoul.com'}]);_stq.push(['clickTrackerInit','14142995','11556']);</script>
-<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ca0e489ec2","applicationID":"3986982","transactionName":"YwNVMEJWV0AHB0xaXFpJYhZZGFBdAgFAHUNcFg==","queueTime":0,"applicationTime":1,"atts":"T0RWRgpMRE4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<div id="ftwp-postcontent-end"></div>
+
+			
+<div id="disqus_thread">
+    </div>
+
+
+		</div><!-- .entry-content -->
+		</div></div></div>	</div>
+</article><!-- #post-## -->
+</div></div></div></div><!-- #main-content -->
+
+	<footer id="colophon" class="site-footer">
+		
+	<div class="footer no-padding">
+		<div class="container">
+			<div class="row">
+							<div class="footer-sidebars">
+				<div class="footer-sidebar col-sm-12">
+									</div>
+			</div>
+					</div>
+		</div>
+	</div><!-- .footer -->
+		<div class="copyright-area">
+		<div class="container">
+			<div class="copyright-content">
+				<div class="row">
+					<div class="col-sm-5">
+									<p class="copyright-text">
+				Copyright 2017 - <a href="$1$s">The Android Soul</a>			</p>
+							</div>
+					<div class="col-sm-7 text-right">
+						<ul id="footer-menu" class="footer-menu"><li id="menu-item-108650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108650 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="http://www.theandroidsoul.com/about-us/" class="tc-menu-inner">About Us</a></li>
+<li id="menu-item-108651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108651 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="http://www.theandroidsoul.com/contact-us/" class="tc-menu-inner">Contact</a></li>
+<li id="menu-item-83505" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11556 current_page_item menu-item-83505 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="http://www.theandroidsoul.com/privacy-policy/" class="tc-menu-inner">Privacy Policy</a></li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	</div><!-- .copyright-area -->
+			</footer><!-- #colophon.site-footer -->
+	</div><!-- wrapper-container -->
+<div id="back-to-top">
+	<i class="fa fa-chevron-up" aria-hidden="true"></i>
+</div><!-- #back-to-top --><script type="text/javascript">
+function _dmBootstrap(file) {
+    var _dma = document.createElement('script');
+    _dma.type = 'text/javascript';
+    _dma.async = true;
+    _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+}
+function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+(function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+
+<script type="text/javascript" src="//services.brid.tv/player/build/brid.outstream.min.js"></script> <script type="text/javascript"> $bos("Brid_95637710", {"id":"2517","width":"500","height":"280"}); </script>	<div style="display:none">
+	</div>
+		<!--[if lte IE 9]>
+			<script>
+				(function($) {
+					$(document).ready(function() {
+						$( '#ftwp-container' ).addClass( 'ftwp-ie9' );
+					});
+				})(jQuery);
+			</script>
+		<![endif]-->
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.theandroidsoul.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css" type="text/css" media="all">
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/jetpack/modules/wpgroho.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/underscore.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/wp-util.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thim_js_translate = {"login":"Email","password":"Password"};
+var thim_personal_news = {"is_single":"","is_category":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/themes/tas/assets/js/main.min.js"></script>
+<script type="text/template" id="tmpl-thim-search-results">
+
+	<div class="row">
+		<# if (_.isEmpty(data)) { #>
+			<p class="no-results">Oops! No posts matched your query.</p>
+			<# } else{ #>
+				<# if (_.size(data.posts) > 0) { #>
+					<!-- posts -->
+					<div class="col-sm-5 result-posts">
+						<h5 class="title"><i class="fa fa-line-chart" aria-hidden="true"></i>All Results</h5>
+						<ul>
+							<# _.each(data.posts, function(post){ #>
+								<li><a href="{{ post.url }}">{{{ post.title }}}</a></li>
+								<# }); #>
+						</ul>
+					</div>
+					<# } #>
+						<!-- tags -->
+						<# if (_.size(data.tags) > 0) { #>
+							<div class="col-sm-2 result-tags">
+								<h5 class="title"><i class="fa fa-tags" aria-hidden="true"></i>Tags</h5>
+								<ul>
+									<# _.each(data.tags, function(tag){ #>
+										<li><a href="{{ tag.url }}">{{{ tag.title }}}</a></li>
+										<# }); #>
+								</ul>
+							</div>
+							<# } #>
+								<!-- users -->
+								<# if (_.size(data.users) > 0) { #>
+									<div class="col-sm-2 result-author">
+										<h5 class="title"><i class="fa fa-users" aria-hidden="true"></i>People</h5>
+										<ul>
+											<# _.each(data.users, function(user){ #>
+												<li>
+													<a href="{{ user.url }}">{{{ user.display_name }}}</a>
+												</li>
+												<# }); #>
+										</ul>
+									</div>
+									<# } #>
+										<!-- suggestions -->
+										<# if (_.size(data.suggestions) > 0) { #>
+											<div class="col-sm-3 result-suggestions">
+												<h5 class="title"><i class="fa fa-chain-broken" aria-hidden="true"></i>Suggested</h5>
+												<ul>
+													<# _.each(data.suggestions, function(post){ #>
+														<li>
+															<a href="{{ post.url }}">{{{ post.title }}}</a>
+														</li>
+														<# }); #>
+												</ul>
+											</div>
+			<# } #>
+		<# } #>
+	</div>
+			
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fixedtocOption = {"showAdminbar":"","inOutEffect":"fade","isNestedList":"1","isColExpList":"1","showColExpIcon":"1","isAccordionList":"1","isQuickMin":"1","isEscMin":"1","isEnterMax":"1","fixedMenu":"","scrollOffset":"30","fixedOffsetX":"20","fixedOffsetY":"150","fixedPosition":"top-left","contentsFixedHeight":"0","inPost":"1","contentsFloatInPost":"none","contentsWidthInPost":"250","contentsHeightInPost":"0","inWidget":"","fixedWidget":"","triggerBorder":"medium","contentsBorder":"thin","triggerSize":"45"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/fixed-toc/frontend/assets/js/ftoc.min.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.8","language":""},"disqusIdentifier":"11556 http:\/\/www.theandroidsoul.com\/?page_id=11556","disqusShortname":"theandroidsoul","disqusTitle":"Privacy Policy","disqusUrl":"http:\/\/www.theandroidsoul.com\/privacy-policy\/","options":{"manualSync":false},"postId":"11556"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/disqus-comment-system/media/js/disqus.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"theandroidsoul"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.theandroidsoul.com/wp-content/plugins/disqus-comment-system/media/js/count.js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'115746931',post:'11556',tz:'5.5',srv:'www.theandroidsoul.com'} ]);
+	_stq.push([ 'clickTrackerInit', '115746931', '11556' ]);
+</script>
+
 </body></html>
