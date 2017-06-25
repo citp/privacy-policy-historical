@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122103143id_/http%3A//yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626011641id_/http%3A//www.yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobile and Online Advertising Technology C
 
