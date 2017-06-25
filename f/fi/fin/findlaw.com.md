@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129144719id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625092453id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
 
 # FindLaw's Privacy Policy - FindLaw
 
