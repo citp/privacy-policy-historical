@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the activebed.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506011416id_/http%3A//activebed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebed.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-At our website ActiveBed.com, we know how your privacy is important to us. Therefore, we never ask about your confidential information like your phone number, passwords, account number etc. You can freely visit to our website without informing us who you are? We collect your general information during navigation on the site like your IP address, browser type and Operating System. We are promising you that, we will never share or sell your information to any third parties under any circumstances, unless ordered by the court of law (to protect against misuse or unauthorized use of our website).
+* * *
 
-This website has also security measures to protect the loss, misuse and alteration of the information under our control. We do offer secured-server transactions that encrypt your data.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Cookies
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Cookie is string of information that any website stores on visitor’s computer. Each time the visitor requests a page with a browser, server will send the cookie too. Cookie is often used to identify a user. Because when a user visits any website again and again, then cookie allows a website’s server to identify and track that user when it visit to the site. ActiveBed.com.com visitors, if they don’t wish to have cookies placed on our computers can disable the cookies before visiting to our website.
 
-Security at ActiveBed.com
 
-As we have mentioned that we don’t share or sell your personal information with any third party. On our website, we have tried to keep the best and safest information with link included of other websites for your use and reference. We are not responsible for the privacy policies on these websites.
-
-Changes to the Privacy Policy
-
-ActiveBed.com reserves the right to change the terms and conditions of this privacy policy time to time. Your continued use of this site after any changes in this privacy policy will constitute your acceptance of such change. ActiveBed.com visitors should frequently visit this page for any changes to the privacy policies.
-
-If you have any queries about this privacy statement or the practices of this website, you can contact us via our contact us form.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
