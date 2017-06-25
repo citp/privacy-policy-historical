@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227090456id_/http%3A//www.nickjr.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625140037id_/http%3A//www.nickjr.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nick Jr. UK
 
