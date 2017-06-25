@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217053401id_/http%3A//www.esr.cri.nz/footer/privacy-police) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625142928id_/http%3A//www.esr.cri.nz/footer/privacy-police) for the most accurate reproduction.*
 
 # Privacy Policy | ESR
 
