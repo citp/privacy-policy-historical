@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the infographicworld.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210121910id_/http%3A//infographicworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicworld.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625154036id_/http%3A//infographicworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infographic World
 
-Infographicworld.com, has created this privacy statement (“Privacy Policy”) in order to demonstrate our firm commitment to your privacy. This Privacy Policy explains the policies put in place and used by Infographicworld.com, to protect your privacy as you visit and use the website, Infographicworld.com and associated sub-domains. Your use of the Infographicworld.com, website constitutes an acceptance of our User Agreement and Privacy Policy. Your use of any services offered by Infographicworld.com, further constitutes acceptance of our User Agreement and Privacy Policy.  
-
+Infographicworld.com, has created this privacy statement (“Privacy Policy”) in order to demonstrate our firm commitment to your privacy. This Privacy Policy explains the policies put in place and used by Infographicworld.com, to protect your privacy as you visit and use the website, Infographicworld.com and associated sub-domains. Your use of the Infographicworld.com, website constitutes an acceptance of our User Agreement and Privacy Policy. Your use of any services offered by Infographicworld.com, further constitutes acceptance of our User Agreement and Privacy Policy.
 
 ##### THE INFORMATION WE COLLECT
 
