@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230233920id_/http%3A//www.emulatorworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulatorworld.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Emulator World
+# Legal
 
-**Legal Issues**  
-This webpage and all materials on this server (unless stated otherwise) are Copyright of EmulatorWorld.com. It is prohibited by law to copy/re-make these pages without written permission from the author. You may not link to any files on these servers without written permission from the author. Any individual found to be breaking these rules will have their web hosts and ISPs contacted without warning.
+* * *
 
-**Privacy Statement**  
-We strongly respect your privacy. All information collected at EmulatorWorld.com will be kept strictly confidential and will not be sold, resued, or rented in any way. Any information we collect, such as operating systems, screen resolution and browser types are used to help make your visit more enjoyable. EmulatorWorld.com does not collect any personally identifiable information about you such as name, address, phone number. The information collected by EmulatorWorld.com is used for the purpose of demographics. In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, EmulatorWorld.com may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, EmulatorWorld.com may combine this information with other users’ information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**External Link**  
-EmulatorWorld.com contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or content of such web sites.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
