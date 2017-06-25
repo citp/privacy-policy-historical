@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121105849id_/http%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625113325id_/http%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer | LoveSove.com
+
+Privacy Policy/Disclaimer
 
 All Pictures uploaded on this page are taken from google or tumblr. Watermark on the images just represent that the pictures are collected by this page. They are not originally captured by us.  
 24×7 Email: **support@lovesove.com**
