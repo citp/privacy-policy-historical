@@ -1,53 +1,17 @@
-> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610193451id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# EDUFINDME - Privacy Policy
+# Legal
 
-This Privacy Policy determines the legally binding use of your data provided on Edufindme. Edufindme respects fully the privacy of its users and allows its users to decide themselves in their Edufindme account which data will be visible to other users and visitors and which will not. In order to use Edufindme.com you must agree to the terms mentioned in this policy upon your registration.
+* * *
 
-####  **Safe Environment**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Edufindme reviews each registration on Edufindme.com made by institutions, agencies and organizations, which use Edufindme in a professional manner, in order to maintain a safe and high quality environment. An account for the professional use of Edufindme (designed for institutions, agencies, organizations) needs to be verified and approved in order to network with students and to utilize the features available on Edufindme.com. Edufindme requires accurate information from users and only approves accounts for professional use if it deems the information authentic. Accounts with dubious or non-sufficient information are not approved and/or deleted. Agents must provide references, which can only be seen by the Edufindme moderator. Notwithstanding, Edufindme is not responsible for the information provided by its users and has no obligation to review the accuracy of its User Content.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-####  **What information is visible**
 
-Edufindme allows students and professionals working in the field of education to create profiles and to network with one another. A public student profile displays information provided by users on Edufindme except for their full name and contact details and this information be seen by both visitors and members of Edufindme. On public profiles, features of Edufindme are disabled. Once a network between a student and an educational provider/agency is built, both parties gain full access to the others' profile and can use all features of Edufindme to establish communication. In this network, full profile information can be seen, which contains the full name and contact information. Students can determine in their profile if they prefer to hide such information and can provide it to the institution/agency upon request.
 
-####  **What information is collected**
-
-Students will be asked to enter their contact and background information, educational information, interests, educational plans and may upload files such as CVs. This information, except for their full name and contact information, can be seen by any members and/or visitors of Edufindme.com. Institutions, agencies and organizations are asked to provide information about themselves, contact information and information on their programs and services.
-
-####  **Use of collected information**
-
-The information provided by its users on Edufindme.com will be processed in order to match students with institutions, agencies and organizations on Edufindme.com with the purpose of putting students and institutions in contact in terms of study abroad. The information will only be used for the above-mentioned purposes.
-
-Edufindme neither gives away nor markets, under any circumstances, individual information about its users without their express authorization. Edufindme may release data about its user profiles either generally or segmented, such as distribution by region, gender, age, education level, etc. Nevertheless, we guarantee that no individual user information will be supplied to third parties, unless we have express authorization from the user.
-
-Edufindme guarantees that it does not deliver information to third parties for mass mailings by email or SMS, without your express authorization. Emails and SMS messages sent to users require user authorization by means of the registration form.
-
-Edufindme reserves the right to release its users' personal information in case they are requested to by judicial authorities.
-
-####  **How information is collected**
-
-All information available on Edufindme is gathered solely via registration forms and can only be edited by the user him/herself from the user's account. This information is used transparently and Edufindme maintains control over the obtaining and use of said information.
-
-####  **Institutions, agencies and organizations**
-
-Edufindme is designed for institutions, agencies and organizations as a recruitment tool, lead management system and Customer-Relationship-Management System. Each registration will be checked and assessed if it fits the quality requirements and purpose of Edufindme. Accounts must be approved in order to build networks and to use features on Edufindme.com. Edufindme staff assists each user with their recruitment efforts and difficulties on Edufindme.com via email.
-
-####  **Changes in information provided to Edufindme.com**
-
-Edufindme.com users may access, control and update the information supplied by them through the data update tool. They may do so by modifying or eliminating profile data, logging into their account with their login and password. If the user has participated in the Edufindme.com forums, he/she will not be able to remove the comments left by him/her.
-
-####  **Cookies**
-
-Edufindme uses cookies in order to better get to know user browsing on Edufindme.com and in general, by Internet. Cookies are information files that are stored on your computer and help to recognize it upon returning to the Edufindme.com page, which allows it to adjust to your personal information. 
-
-#### **Security of your other social media accounts that are synchronized with Edufindme**
-
-We do not access or request your other personal information from other social networks, such as status updates, wall posts, interests, check-ins and current location. Edufindme stresses that your private Facebook profile cannot be accessed through Edufindme by anyone who does not already have access to it based on your Facebook Privacy Settings.
-
-Edufindme only has access to your Facebook information that you choose to share on Edufindme. Our use of limited information keeps your private life on Facebook and your educational profile on Edufindme. This means that your status updates, photo albums, and other personal information are NOT visible on Edufindme to your contacts. For this reason, Edufindme is also the perfect place and alternative to connect with students and schools when you do not want to engage with them on Facebook.
-
-####  **Contact**
-
-If you would like to contact us with questions about our privacy policy or products and services, feel free to send an email to: info@edufindme.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
