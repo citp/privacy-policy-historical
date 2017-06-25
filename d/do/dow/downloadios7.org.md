@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadios7.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125134603id_/http%3A//www.downloadios7.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadios7.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625101726id_/http%3A//www.downloadios7.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
