@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugaltravelguy.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223160804id_/http%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaltravelguy.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625182252id_/http%3A//www.internetbrands.com/privacy/privacy-main.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -129,7 +129,7 @@ In addition, we, or our third party service providers, may collect other non-per
 
 #### Cookies
 
-We, or our third party service providers, also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more information, please read our [Cookie Policy](https://web.archive.org/web/20161223160804id_/http%3A//www.internetbrands.com/privacy/cookie-policy.html). We also have implemented and use Google Analytics Display Advertising, specifically the Demographics and Interest Reporting feature to advertise online, sell advertising, and develop content. You can opt-out of Google Analytics for Display Advertising and customize Google’s Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads). You can opt-out of Google Analytics by using [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+We, or our third party service providers, also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more information, please read our [Cookie Policy](https://web.archive.org/web/20170625182252id_/http%3A//www.internetbrands.com/privacy/cookie-policy.html). We also have implemented and use Google Analytics Display Advertising, specifically the Demographics and Interest Reporting feature to advertise online, sell advertising, and develop content. You can opt-out of Google Analytics for Display Advertising and customize Google’s Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads). You can opt-out of Google Analytics by using [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
 You can set your browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Adobe Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. If you disable cookies, you may lose some of the features and functionality of our sites and services. Please note that companies delivering advertisements on our sites may also use cookies or other technologies, and those practices are subject to their own policies. By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
 
@@ -191,7 +191,7 @@ Requested communications include, for instance, email newsletters or software up
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END" or contact the applicable site or company affiliate.
   * Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions.
-  * [Contact us](https://web.archive.org/web/20161223160804id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
+  * [Contact us](https://web.archive.org/web/20170625182252id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
   * To re-opt in, reply “START”, unless otherwise provided by the text messaging terms and conditions applicable to the text message program.
 
   
@@ -210,7 +210,7 @@ General communications provide information about products, services, and/or supp
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END" or contact the applicable site or company affiliate.
-  * [Contact us](https://web.archive.org/web/20161223160804id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
+  * [Contact us](https://web.archive.org/web/20170625182252id_/http%3A//www.internetbrands.com/privacy/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
 
 
 * ### Protecting Personal and Protected Health Information
