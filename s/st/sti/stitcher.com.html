@@ -1,43 +1,13 @@
-<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120003953id_/http%3A//www.stitcher.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625180353id_/http%3A//www.stitcher.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFUV5RGwEDUVlRAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//experience.tinypass.com/xbuilder/experience/load?aid=IiWNtF2lON"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFUV5RGwEDUVlRAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+		<meta property="og:image" content="images/stitcher-logo-large.png">
 		<title>Stitcher Radio | Privacy Statement</title>
 		<link rel="shortcut icon" href="/favicon.png">
-		<!-- IE<9 HTML/CSS3 Compatibility -->
-			<!--[if lte IE]>
-				<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-				<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-			<![endif]-->
-		<!--[if lte IE 8]>
-			<style>
-				body {
-					width 2000px;
-					background-color: #ffffff !important;
-				}
-				.wrapper #content {
-					width : 900px !important;
-					margin: 0 auto;
-				}
-			</style>
-		<![endif]-->
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-				    <link rel="stylesheet" type="text/css" href="/assets/css/stitcher-rd.css,privacy-terms.css">
-		    	<script src="/assets/js/stitcher-min.js?"></script>
-		    	<script src="/assets/js/libs/mustache.min.js?"></script>
-		    	<script src="/assets/js/libs/jquery.dotdotdot-min.js?"></script>
-		    	<script src="/assets/js/search-live-min.js?"></script>
-		
 		<script>
-// Kill the stitcherGA & ga.js cookies that we are obsoleting
-// document.cookie = "stitcherGA=; domain=.stitcher.com; expires=Thu, 01 Jan 1970 00:00:00 GMT"; 
-// document.cookie = "__utma=; domain=.stitcher.com; expires=Thu, 01 Jan 1970 00:00:00 GMT"; 
-// document.cookie = "__utmb=; domain=.stitcher.com; expires=Thu, 01 Jan 1970 00:00:00 GMT"; 
-// document.cookie = "__utmv=; domain=.stitcher.com; expires=Thu, 01 Jan 1970 00:00:00 GMT"; 
-// document.cookie = "__utmz=; domain=.stitcher.com; expires=Thu, 01 Jan 1970 00:00:00 GMT"; 
-
 if (typeof(ga) === "undefined") {
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -92,228 +62,398 @@ if (typeof(gaSendEvent) !== "function") {
     });
   }
 }
-</script>		<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "17817737" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
+</script>				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+		<script>
+	(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("//experience.tinypass.com/xbuilder/experience/load?aid=IiWNtF2lON");
+
+	tp = window.tp || [];
+	tp.push(["setAid", 'IiWNtF2lON']);
+	tp.push(["setSandbox",  false]);
+	tp.push(["setUseTinypassAccounts", false ]);
+	tp.push(['setCustomVariable', 'height', $(window).height()]);
+
+	ga(function(tracker) {
+		var clientId = ga.getAll()[0].get('clientId');
+		tp.push(['setGAClientId', clientId]);
+	});
+			var subscription = false;
+	</script>
+
+					<link rel="stylesheet" type="text/css" href="/assets/build/css/privacy-terms-min.css?v=1498259238">
+
+			<link rel="stylesheet" href="/assets/build/css/stitcher-rd-min.css?v=1498259238">
+			<link rel="stylesheet" href="/assets/build/css/appnag-min.css">
+			<script src="/assets/js/jquery.simplemodal.1.4.4.min.js"></script>
+			<script src="/assets/js/libs/mustache.min.js?v=1498259238"></script>
+			<script src="/assets/js/libs/lodash.core.min.js"></script>
+			<script src="/assets/js/libs/cookie.js"></script>
+			<script src="/assets/js/libs/jquery.dotdotdot.min.js"></script>
+			<script src="/assets/build/js/stitcherLib-min.js?v=1498259238"></script>
+			<script src="/assets/build/js/search-live-min.js?v=1498259238"></script>
+			<script src="/assets/build/js/appnag-min.js"></script>
+		
+		
+<!-- Facebook Website Custom Audience Code for StitcherPixel -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '415640998573325']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17817737&cv=2.0&cj=1" />
-</noscript>	</head>
-	<body>
-	<div class="wrapper">
-		
+	<img height="1" width="1" border="0" alt="" style="display:none"
+	src="https://www.facebook.com/tr?id=415640998573325&amp;ev=NoScript" />
+</noscript>
+		<script>
+			var isMobile = false;
+		</script>
+	</head>
+	<body class="desktop">
+		<script>
+  function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+      stitcher.user.FBStatusChangeCallback(response, function(){ stitcher.util.toggleLoading();});
+    });
+  }
+
+  window.fbAsyncInit = function() {
+	  FB.init({
+	    appId      : '65522782132',
+	    cookie     : true,  // enable cookies to allow the server to access
+	                        // the session
+	    xfbml      : true,  // parse social plugins on this page
+	    version    : 'v2.5' // use graph api version 2.5
+	  });
+
+    fbApiInit = true; //init flag
+  };
+
+  function fbEnsureInit(callback) {
+        if(!window.fbApiInit) {
+            setTimeout(function() {fbEnsureInit(callback);}, 50);
+        } else {
+            if(callback) {
+                callback();
+            }
+        }
+    }
+
+	// Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>		<div class="wrapper">
+			    <div id="siteLoading" style="display:none"><div class="overlay"></div><div class="spinner"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div><div class="rect4"></div><div class="rect5"></div></div></div>
+
 <!--HTML header-->
 <header id="header_main" class="current">
 	<div id="header_content">
 		<nav id="header_nav">
-			<a href="/" class="stitcherLogo"><img src="/images/stitcher-header-logo.png" alt="Stitcher"></a>
-
-			<ul id="header_nav-list">
+			<a href="/" class="stitcherLogo"><img src="/assets/images/stitcher-header-logo.png" alt="Stitcher"></a>
+					<ul id="header_nav-list">
 				<li class=""><a onclick="gaSendEvent('PageRequest', 'Click', 'download-global_header',{ 'hitCallback' : function() {
             				window.location.href='/dl/';
             			}
             		});">GET THE APP</a></li>
 				<li class=""><a href="/learn-more">LEARN MORE</a></li>
+				<li class=""><a href="/premium">PREMIUM</a></li>
 				<li class=""><a href="/stitcher-list/">TOP SHOWS</a></li>
-				<li class=""><a href="/toplists/">TOP EPISODES</a></li>
 				<li class=""><a onclick="gaSendEvent('WebAppRequest', 'Click', 'header_bar',{ 'hitCallback' : function() {
             				window.location.href='http://app.stitcher.com';
             			}
             		});">LISTEN</a></li>
             </ul>
 
-            <script id="templateSearchShowLive" type="text/html">
-            	{{#.}}
-            	<li>
-            		<a data-fid="{{fid}}" href="{{url}}">
-            			<img src="{{image}}" width="70" height="70" alt="{{showName}}">
-                		<h3 class="ellipsis">{{showName}}</h3>
-            		</a>
-            	</li>
-            	{{/.}}
-            </script>
+                            <script id="templateSearchShowLive" type="text/html">
+                    {{#.}}
+                    <li>
+                        <a data-fid="{{fid}}" href="{{url}}">
+                            <img src="{{image}}" width="70" height="70" alt="{{showName}}">
+                            <h3 class="ellipsis">{{showName}}</h3>
+                        </a>
+                    </li>
+                    {{/.}}
+                </script>
 
-            <form id="searchform" class="inactive" action="/search">
-            	<input id="search" name="q" placeholder="What do you want to listen to?" size="50" autocomplete="off">
-				<a href="" class="searchButton"></a>
-				<a href="" class="cancelButton"></a>
+                <form id="searchform" class="inactive" action="/search">
+                	<input id="search" name="q" placeholder="What do you want to listen to?" size="50" autocomplete="off">
+    				<a href="" class="searchButton"></a>
+    				<a href="" class="cancelButton"></a>
 
-            	<div id="results">
-            		<h2>Shows</h2>
-            		<ul id="showResults">
-            		</ul>
+                	<div id="results">
+                		<h2>Shows</h2>
+                		<ul id="showResults"></ul>
+                		<a id="seeMoreResults" class="more"><span>See More Shows and Episodes</span></a>
+                	</div>
+                </form>
 
-            		<a id="seeMoreResults" class="more"><span>See More Shows and Episodes</span></a>
-            	</div>
-            </form>
-
-
-
-
+    			    				    			    	<ul class="masthead-login">
+    			    		<li><a rel="login" class="button" data-showpremium="false">Sign in</a></li>
+    			    		<li><a rel="register" class="button" data-showpremium="false">Sign up</a></li>
+    			    	</ul>
+    		            		                
 			<a href="/"><div id="mobile-home"></div></a>
-		</nav>
+			 		</nav>
 	</div>
 </header>
-<div id="header_spacer"></div>		<!-- Header -->
+<div id="header_spacer"></div>
+			<!-- Header -->
 
-		<!-- Content -->
-		<div id="content">
-			<div class="wrapper">
-				<div id="privacy-main-box-text">
+			<!-- Content -->
+			<div id="content">
+				<div class="wrapper">
+					<div id="privacy-main-box-text">
 
-		<div id="advertiser-header" class="page-header-container dotted-underline">
-		<h1 class="page-header">Stitcher Privacy Policy</h1>
+						<div id="advertiser-header" class="page-header-container">
+						<h1 class="page-header">Stitcher Privacy Policy</h1>
+						</div>
+
+						<div id="privacy-box">
+
+						<div class="privacy-header-text">Last Revision: 11/26/2012</div>
+
+						<p>
+						Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at <a href="http://www.stitcher.com">http://www.stitcher.com</a>, the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”).  This Privacy Policy is supplementary to our <a href="http://www.stitcher.com/terms.php">Terms of Use</a>.
+						</p>
+
+						<p>
+						<strong>BY INSTALLING, USING, REGISTERING FOR OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE SERVICES.</strong>
+						</p>
+
+						<p>
+						Stitcher may update this Privacy Policy from time-to-time at our sole discretion. It is your responsibility to review the Privacy Policy for any changes each time that you use our Services and you are bound by such changes. Use of the Services by you following the posting of a new privacy policy on our website at <a href="http://www.stitcher.com">http://www.stitcher.com</a> constitutes your acceptance of the Privacy Policy as modified.
+						</p>
+
+						<div class="privacy-header-text">What information do we collect, and how do we use it?</div>
+						<p>
+						Stitcher collects information about our users in various ways, including by your voluntary submissions, participation in and access to the Services, as well as through cookie and other tracking technology. The information Stitcher collects may be used in a variety of ways, including for internal review, to improve the Services, to notify you about updates to the Services,or promotions that you may be interested in, and to fulfill and provide Services requested by you. The information we collect currently includes, but is not limited to, the following:
+						</p>
+
+						<div class="privacy-header-text">Non-Personal Data</div>
+						<p>
+						For purposes of this Privacy Policy, “Non-Personal Data” means information that does not directly identify you, including "aggregate" and "de-personalized" information, which is data Stitcher collects about the use of Stitcher, from which any personally identifiable data has been removed.
+						</p>
+						<p>
+						Stitcher may use tools or third party analytical software to automatically collect and use certain Non-Personal Data that does not directly enable Stitcher to identify you. The types of Non-Personal Data Stitcher may collect and use include, but are not limited to: (i) device properties, including, but not limited to unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and location; and (v) other Non-Personal Data to help us enhance our Services.
+						</p>
+
+						<div class="privacy-subheader-text">Aggregate Information</div>
+						<p>
+						From time to time, we may collect general, non-personal, statistical information about the use of the Services, such as how many visitors visit a specific page on our website or in our mobile apps, how long they stay on that page, and which hyperlinks/buttons, if any, they click on. This information represents a generic overview of our users, including their collective viewing habits, and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. We collect this information through the use of technologies such as 'cookies', which are discussed in greater detail in this Privacy Policy. We collect this information in order to determine which Services are most popular and to enhance our Services. We may also group this information into aggregate visitor data in order to describe the use of the Services to our existing or potential business partners or other third parties, or in response to a government request. From time to time, we may use this non-personal information to optimize third-party offers of products and/or services. We also may share aggregated demographic and preference data with third parties to enable the provision of targeted information, promotions, offers and/or discounts on products and services. However, please be assured that this aggregate data will in no way personally identify you.
+						</p>
+
+						<div class="privacy-subheader-text">Cookies and Other Tracking Technologies</div>
+						<p>
+						Stitcher may automatically collect non-personally identifiable information and data through the use of cookies. Cookies are small text files a website uses to recognize repeat users, facilitate the user's ongoing access to the website and facilitate the use of the website. Cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set your browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our Services may not function or may be slower if you refuse cookies. You may occasionally get cookies from our advertisers or other third parties. We do not control these cookies. The use of advertising cookies sent by third party ad servers is standard in the Internet industry.
+						</p>
+						<p>
+						Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Services are accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that 'serve up' webpages, automatically identify your computer by its IP address. We may link the information we record using tracking technologies to Personal Information we collect from you for our own marketing and advertising purposes. In addition, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with our <a href="http://www.stitcher.com/terms.php">Terms Of Use</a>, to protect our Services, our customers or others, or when we believe in good faith that the law requires it.
+						</p>
+						<p>
+						You recognize and agree that the analytics companies and marketing partners utilized by Stitcher may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
+						</p>
+
+						<div class="privacy-header-text">Personal Information</div>
+						<p>
+						"Personal Information" refers to information that tells us specifically who you are, such as your name, phone number, email, postal address, and possibly information relating to certain support or customer service issues. In many cases, we need this information to provide to you many of the Services that you may have requested.  We use this Personal Information to manage and provide our Services, monitor user activity, and otherwise to improve our Services. We might ask for or collect additional Personal Information in the future.
+						</p>
+
+						<div class="privacy-subheader-text">Who do we share your personal information with?</div>
+						<p>
+						We do not disclose Personal Information to third parties, except when one or more of the following conditions is true:
+						</p>
+						<ul>
+							<li>We have your permission to make the disclosure;</li>
+							<li>The disclosure is consistent with the purpose for which the personal information was obtained;</li>
+							<li>The disclosure is permitted by relevant law;</li>
+							<li>The Personal Information to be disclosed is publicly available;</li>
+							<li>The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;</li>
+							<li>The disclosure is for our own marketing purposes, or, with your authorization, for the marketing purposes of third parties;</li>
+							<li>The party to whom the disclosure is made controls, is controlled by, or is under common control with Stitcher;</li>
+							<li>The disclosure is in our sole discretion necessary for the establishment or maintenance of legal claims or legal compliance, to satisfy any law, regulation, subpoena or government request, or in connection with litigation;</li>
+							<li>The disclosure is in our sole discretion about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Use, even without a subpoena, warrant or court order; or</li>
+							<li>The disclosure is to outside businesses to perform certain services for us, such as maintaining our Services, providing marketing assistance, and data analysis.</li>
+						</ul>
+						<p>
+						Prior to sharing of your Personal Information with others, agreements are made between Stitcher and such outside parties to whom we are sharing data. If Stitcher becomes aware that any such outside party is improperly using or disclosing Personal Information, it will notify that outside party and request that it take reasonable steps to cease such use or disclosure.
+						</p>
+
+						<div class="privacy-header-text">Choice: Opt-In/Opt-Out</div>
+						<p>
+						You can also ask us whether we are keeping information about you; how your information is being used; update or delete your information, or opt-out of the collection and use of certain information by sending an email or by writing to us specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that the Services may no longer be available to you. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within ten (10) days of the date on which we receive the request.
+						</p>
+
+						<div class="privacy-header-text">Email</div>
+						<p>
+						As part of our Services provided to you, we may send you email with news and other information.  You may, at any time, opt-out of receiving these type of email from us; however, you agree that we may continue to use your email address from time to time to contact you about your account.
+						</p>
+
+						<div class="privacy-header-text">Data Security</div>
+						<p>
+						The Personal Information you provide and we collect is stored within databases that we control directly or through our service providers. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls, to protect your Personal Information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+						</p>
+						<p>
+						Your information may be transferred to, and maintained on, computers located outside of your state, province, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personal Information to the United States and process and store it there. By submitting your Personal Information, you consent to having your personal data transferred to, processed, and stored in the United States.
+						</p>
+
+						<div class="privacy-header-text">Links to Other Sites</div>
+						<p>
+						Our Services may contain hyperlinks and pointers to Internet sites maintained by third parties. These links are provided for your reference only. We do not control, operate or endorse in any respect information, products or services on such third-party sites and are not responsible for their content. Many third-party sites have their own privacy policies that may differ from ours. This Privacy Policy only covers our Services and does not cover any other site. While we make every effort to keep your information secure, we do not control the policies of other sites.
+						</p>
+
+						<div class="privacy-header-text">Children's Privacy</div>
+						<p>
+						We do not seek or knowingly collect any Personal Information about children under 13 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database.
+						</p>
+
+						<div class="privacy-header-text">Governing Law; Visitors Residing Outside the United States</div>
+						<p>
+						This Privacy Policy and the privacy practices of Stitcher will be subject exclusively to the laws of California, without regard to its conflict of law principles. Stitcher makes no representation that this Privacy Policy and such practices comply with the laws of any country outside the United States.
+						</p>
+
+
+						<div class="privacy-header-text">How To Contact Us</div>
+						<p>
+						Should you have any questions relating to this Privacy Policy, please contact us at
+						<script>
+						m1 = "support";
+						m2 = "stitcher";
+						m3 = ".com";
+						document.write('<a href=\"mailto:' + m1 + '@' + m2 + m3 + '\">');
+						document.write(m1 + '@' + m2 + m3 + '<\/a>.');
+						</script><a href="mailto:support@stitcher.com">support@stitcher.com</a>.
+						You may also contact us by mail: Stitcher, Inc., 527 Howard St. 4th Floor San Francisco CA 94105.
+						</p>
+
+						</div>
+
+
+				</div>
+			</div>
+			<!-- Content -->
+			</div>
+			
+	<script id="templateLoginOrRegister" type="text/html">
+		<div id="welcomeModal" class="registrationTemplate">
+
+			<h1 class="header">Hello. Let's Go!</h1>
+			<a rel="fbLogin" class="button fb">Sign In with Facebook</a>
+			<a rel="register" class="button" data-showPremium="true">Sign Up with Email</a>
+			<p>Already have an account? <a rel="login" class="login" data-showPremium="true">Sign In</a></p>
+			<p><a class="cancel" rel="cancel">Cancel</a></p>
 		</div>
+	</script>
+	<script id="templateRegister" type="text/html">
+		<div id="registerModal" class="registrationTemplate">
 
-		<div id="privacy-box">
+			<a rel="back" class="back hide">back</a>
+			<h1 class="header">Sign Up to Get Started</h1>
+			<div class="error">
+				<div>
+					<span class="txt"></span>
+				</div>
+			</div>
+			<form name="register" method="post" id="registerForm">
+				<label for="email" class="modal-form-label">Email Address</label>
+				<input type="email" autocapitalize="off" autocorrect="off" name="email" id="register-email-field" placeholder="you@email.com">
+				<label for="password" class="modal-form-label">Password</label>
+				<input type="password" name="password" id="register-password-field" placeholder="enter your password">
+				<label for="confirm" class="modal-form-label">Confirm Password</label>
+				<input type="password" name="confirm" id="register-confirm-field" placeholder="re-enter password">
+				<a class="button" rel="submit">Sign Up</a>
 
-		<div class="privacy-header-text">Last Revision: 11/26/2012</div>
-
-		<p>
-		Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at <a href="http://www.stitcher.com">http://www.stitcher.com</a>, the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”).  This Privacy Policy is supplementary to our <a href="http://www.stitcher.com/terms.php">Terms of Use</a>.
-		</p>
-
-		<p>
-		<strong>BY INSTALLING, USING, REGISTERING FOR OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE SERVICES.</strong>
-		</p>
-
-		<p>
-		Stitcher may update this Privacy Policy from time-to-time at our sole discretion. It is your responsibility to review the Privacy Policy for any changes each time that you use our Services and you are bound by such changes. Use of the Services by you following the posting of a new privacy policy on our website at <a href="http://www.stitcher.com">http://www.stitcher.com</a> constitutes your acceptance of the Privacy Policy as modified.
-		</p>
-
-		<div class="privacy-header-text">What information do we collect, and how do we use it?</div>
-		<p>
-		Stitcher collects information about our users in various ways, including by your voluntary submissions, participation in and access to the Services, as well as through cookie and other tracking technology. The information Stitcher collects may be used in a variety of ways, including for internal review, to improve the Services, to notify you about updates to the Services,or promotions that you may be interested in, and to fulfill and provide Services requested by you. The information we collect currently includes, but is not limited to, the following:
-		</p>
-
-		<div class="privacy-header-text">Non-Personal Data</div>
-		<p>
-		For purposes of this Privacy Policy, “Non-Personal Data” means information that does not directly identify you, including "aggregate" and "de-personalized" information, which is data Stitcher collects about the use of Stitcher, from which any personally identifiable data has been removed.
-		</p>
-		<p>
-		Stitcher may use tools or third party analytical software to automatically collect and use certain Non-Personal Data that does not directly enable Stitcher to identify you. The types of Non-Personal Data Stitcher may collect and use include, but are not limited to: (i) device properties, including, but not limited to unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as zip code, area code and location; and (v) other Non-Personal Data to help us enhance our Services.
-		</p>
-
-		<div class="privacy-subheader-text">Aggregate Information</div>
-		<p>
-		From time to time, we may collect general, non-personal, statistical information about the use of the Services, such as how many visitors visit a specific page on our website or in our mobile apps, how long they stay on that page, and which hyperlinks/buttons, if any, they click on. This information represents a generic overview of our users, including their collective viewing habits, and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. We collect this information through the use of technologies such as 'cookies', which are discussed in greater detail in this Privacy Policy. We collect this information in order to determine which Services are most popular and to enhance our Services. We may also group this information into aggregate visitor data in order to describe the use of the Services to our existing or potential business partners or other third parties, or in response to a government request. From time to time, we may use this non-personal information to optimize third-party offers of products and/or services. We also may share aggregated demographic and preference data with third parties to enable the provision of targeted information, promotions, offers and/or discounts on products and services. However, please be assured that this aggregate data will in no way personally identify you.
-		</p>
-
-		<div class="privacy-subheader-text">Cookies and Other Tracking Technologies</div>
-		<p>
-		Stitcher may automatically collect non-personally identifiable information and data through the use of cookies. Cookies are small text files a website uses to recognize repeat users, facilitate the user's ongoing access to the website and facilitate the use of the website. Cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set your browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our Services may not function or may be slower if you refuse cookies. You may occasionally get cookies from our advertisers or other third parties. We do not control these cookies. The use of advertising cookies sent by third party ad servers is standard in the Internet industry.
-		</p>
-		<p>
-		Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Services are accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that 'serve up' webpages, automatically identify your computer by its IP address. We may link the information we record using tracking technologies to Personal Information we collect from you for our own marketing and advertising purposes. In addition, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with our <a href="http://www.stitcher.com/terms.php">Terms Of Use</a>, to protect our Services, our customers or others, or when we believe in good faith that the law requires it.
-		</p>
-		<p>
-		You recognize and agree that the analytics companies and marketing partners utilized by Stitcher may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
-		</p>
-
-		<div class="privacy-header-text">Personal Information</div>
-		<p>
-		"Personal Information" refers to information that tells us specifically who you are, such as your name, phone number, email, postal address, and possibly information relating to certain support or customer service issues. In many cases, we need this information to provide to you many of the Services that you may have requested.  We use this Personal Information to manage and provide our Services, monitor user activity, and otherwise to improve our Services. We might ask for or collect additional Personal Information in the future.
-		</p>
-
-		<div class="privacy-subheader-text">Who do we share your personal information with?</div>
-		<p>
-		We do not disclose Personal Information to third parties, except when one or more of the following conditions is true:
-		</p>
-		<ul>
-			<li>We have your permission to make the disclosure;</li>
-			<li>The disclosure is consistent with the purpose for which the personal information was obtained;</li>
-			<li>The disclosure is permitted by relevant law;</li>
-			<li>The Personal Information to be disclosed is publicly available;</li>
-			<li>The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;</li>
-			<li>The disclosure is for our own marketing purposes, or, with your authorization, for the marketing purposes of third parties;</li>
-			<li>The party to whom the disclosure is made controls, is controlled by, or is under common control with Stitcher;</li>
-			<li>The disclosure is in our sole discretion necessary for the establishment or maintenance of legal claims or legal compliance, to satisfy any law, regulation, subpoena or government request, or in connection with litigation;</li>
-			<li>The disclosure is in our sole discretion about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Use, even without a subpoena, warrant or court order; or</li>
-			<li>The disclosure is to outside businesses to perform certain services for us, such as maintaining our Services, providing marketing assistance, and data analysis.</li>
-		</ul>
-		<p>
-		Prior to sharing of your Personal Information with others, agreements are made between Stitcher and such outside parties to whom we are sharing data. If Stitcher becomes aware that any such outside party is improperly using or disclosing Personal Information, it will notify that outside party and request that it take reasonable steps to cease such use or disclosure.
-		</p>
-
-		<div class="privacy-header-text">Choice: Opt-In/Opt-Out</div>
-		<p>
-		You can also ask us whether we are keeping information about you; how your information is being used; update or delete your information, or opt-out of the collection and use of certain information by sending an email or by writing to us specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that the Services may no longer be available to you. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within ten (10) days of the date on which we receive the request.
-		</p>
-
-		<div class="privacy-header-text">Email</div>
-		<p>
-		As part of our Services provided to you, we may send you email with news and other information.  You may, at any time, opt-out of receiving these type of email from us; however, you agree that we may continue to use your email address from time to time to contact you about your account.
-		</p>
-
-		<div class="privacy-header-text">Data Security</div>
-		<p>
-		The Personal Information you provide and we collect is stored within databases that we control directly or through our service providers. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls, to protect your Personal Information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
-		</p>
-		<p>
-		Your information may be transferred to, and maintained on, computers located outside of your state, province, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personal Information to the United States and process and store it there. By submitting your Personal Information, you consent to having your personal data transferred to, processed, and stored in the United States.
-		</p>
-
-		<div class="privacy-header-text">Links to Other Sites</div>
-		<p>
-		Our Services may contain hyperlinks and pointers to Internet sites maintained by third parties. These links are provided for your reference only. We do not control, operate or endorse in any respect information, products or services on such third-party sites and are not responsible for their content. Many third-party sites have their own privacy policies that may differ from ours. This Privacy Policy only covers our Services and does not cover any other site. While we make every effort to keep your information secure, we do not control the policies of other sites.
-		</p>
-
-		<div class="privacy-header-text">Children's Privacy</div>
-		<p>
-		We do not seek or knowingly collect any Personal Information about children under 13 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database.
-		</p>
-
-		<div class="privacy-header-text">Governing Law; Visitors Residing Outside the United States</div>
-		<p>
-		This Privacy Policy and the privacy practices of Stitcher will be subject exclusively to the laws of California, without regard to its conflict of law principles. Stitcher makes no representation that this Privacy Policy and such practices comply with the laws of any country outside the United States.
-		</p>
-
-
-		<div class="privacy-header-text">How To Contact Us</div>
-		<p>
-		Should you have any questions relating to this Privacy Policy, please contact us at
-		<script>
-		m1 = "support";
-		m2 = "stitcher";
-		m3 = ".com";
-		document.write('<a href=\"mailto:' + m1 + '@' + m2 + m3 + '\">');
-		document.write(m1 + '@' + m2 + m3 + '<\/a>.');
-		</script><a href="mailto:support@stitcher.com">support@stitcher.com</a>.
-		You may also contact us by mail: Stitcher, Inc., 527 Howard St. 4th Floor San Francisco CA 94105.
-		</p>
-
+				<p>Already have a Stitcher account? <a class="action-signin" rel="signIn">Sign In</a></p>
+				<a href="http://www.stitcher.com/privacy" class="privacy" target="_NEW">Privacy</a>
+			</form>
+			<p><a class="cancel" rel="cancel">Cancel</a></p>
 		</div>
+	</script>
+	<script id="templateLogin" type="text/html">
+		<div id="loginModal" class="registrationTemplate">
+
+			<a rel="back" class="back hide">back</a>
+			<h1 class="header">Welcome Back.</h1>
+			<div class="error">
+				<div>
+					<span class="txt"></span>
+				</div>
+			</div>
+			<a rel="fbLogin" class="button fb">Sign In with Facebook</a>
+			<form name="login" method="post" id="loginForm">
+				<label for="email" class="modal-form-label">Email Address</label>
+				<input type="email" autocapitalize="off" autocorrect="off" name="email" id="login-email-field" value="" placeholder="you@email.com">
+				<label for="password" class="modal-form-label">Password</label>
+				<input type="password" name="password" id="login-password-field" value="" placeholder="enter your password">
+				<a class="button" rel="submit">Sign In</a>
+
+				<div class="footer">
+					<a href="http://www.stitcher.com/forgot-password" class="forgotPW">Forgot your password?</a>
+					<p>New to Stitcher? <a class="action-register" rel="register">Sign Up</a></p>
+				</div>
+			</form>
+			<p><a class="cancel" rel="cancel">Cancel</a></p>
+		</div>
+	</script>
+	<script id="templateAlreadySubscribed" type="text/html">
+		<div id="alreadySubscribed" class="screen">
+		   <h1 class="header">
+		     Good News! You're Already a Subscriber.
+		   </h1>
+		  <a class="button simplemodal-close">OK</a>
+		</div>
+	</script>
 
 
+
+<script id="templateError" type="text/html">
+	<div id="errorModal" class="screen">
+		<div class="error">
+			<div>
+				<span class="txt"></span>
 			</div>
 		</div>
-		<!-- Content -->
-		</div>
+		<p></p>
+	</div>
+</script>
+<script id="templateKillSwitch" type="text/html">
+	<div id="errorModal" class="screen">
+		<h1>Sign ups for Stitcher Premium are temporarily suspended. Please try again later.</h1>
+	</div>
+</script>
 			<!--HTML footer-->
 <footer id="footer_main" class="desktopOnly">
 	<div id="footer_content">
 		<div id="footer_primary">
 			<div id="footer_primary_about">
-				<h3 id="footer_section">Stitcher</h3>
+				<h3 class="footer_section">Stitcher</h3>
 				<p>Stream the latest in news, sports, talk, and entertainment radio anywhere, on demand. Stitcher is the easiest way to discover the best of over 65,000+ radio shows, live radio stations and podcasts.</p>
 			</div>
 			<div id="footer_primary_download">
-				<h2 id="footer_section">Get the Free App</h2>
+				<h2 class="footer_section">Get the Free App</h2>
 				<p>Now available for iPhone, iPad, Android, Kindle Fire</p>
 				<div id="footer_primary_download-buttons">
 					<a onclick="gaSendEvent('Download', 'Click','AppStore-ios_download_footer', { 'hitCallback' : function() {
-								window.location.href='http://itunes.apple.com/us/app/stitcher-radio/id288087905?mt=8';
+								window.location.href='https://itunes.apple.com/us/app/id288087905?mt=8';
 							}
-						});"><img id="download-iphone-app" src="/toplists/assets/images/badge-app-store-263x90.png"></a>
+						});"><img id="download-iphone-app" src="/assets/images/badge-app-store-263x90.png"></a>
 					<a onclick="gaSendEvent('Download', 'Click','AppStore-android_download_footer', { 'hitCallback' : function() {
 								window.location.href='https://play.google.com/store/apps/details?id=com.stitcher.app';
 							}
-						});"><img id="download-google-app" src="/toplists/assets/images/badge-google-play-259x89.png"></a>
+						});"><img id="download-google-app" src="/assets/images/badge-google-play-259x89.png"></a>
 				</div>
 			</div>
 			<div id="footer_primary_copyright">
@@ -322,8 +462,9 @@ if (typeof(gaSendEvent) !== "function") {
 		</div>
 		<nav id="footer_secondary">
 			<nav id="footer_secondary_radio-podcasts" class="footer_secondary-section">
-				<h3 id="footer_section">Radio &amp; Podcasts</h3>
+				<h3 class="footer_section">Radio &amp; Podcasts</h3>
 				<ul>
+                    <li><a href="/stitcherpresents">Stitcher Presents</a></li>
 					<li><a href="/stitcher-list/all-podcasts-top-shows">The Stitcher List</a></li>
 					<li><a href="http://app.stitcher.com/browse/23/1117909">News Radio</a></li>
 					<li><a href="http://app.stitcher.com/browse/28/890562">Technology Podcasts</a></li>
@@ -333,7 +474,7 @@ if (typeof(gaSendEvent) !== "function") {
 				</ul>
 			</nav>
 			<nav id="footer_secondary_partners" class="footer_secondary-section">
-				<h3 id="footer_section">Partners</h3>
+				<h3 class="footer_section">Partners</h3>
 				<ul>
 					<li><a href="/content-providers">Partner Signup</a></li>
 					<li><a href="http://partners.stitcher.com">Partner Portal</a></li>
@@ -342,7 +483,7 @@ if (typeof(gaSendEvent) !== "function") {
 				</ul>
 			</nav>
 			<nav id="footer_secondary_about" class="footer_secondary-section">
-				<h3 id="footer_section">About</h3>
+				<h3 class="footer_section">About</h3>
 				<ul>
 					<li><a onclick="gaSendEvent('Click', 'download-generic_footer', '', { 'hitCallback': function() {
 									window.location.href='/dl/';
@@ -359,18 +500,16 @@ if (typeof(gaSendEvent) !== "function") {
 				</ul>
 			</nav>
 			<nav id="footer_secondary_follow-us" class="footer_secondary-section">
-				<h3 id="footer_section">Follow Us</h3>
-				<a href="http://twitter.com/stitcher"><img src="/images/badge-twitter_19x19.png" alt="Twitter"></a>
-				<a href="http://facebook.com/stitcherradio"><img src="/images/badge-fb_19x19.png" alt="Facebook"></a>
-				<a href="http://www.linkedin.com/company/stitcher"><img src="/images/badge-linkedin_19x19.png" alt="LinkedIn"></a>
-				<a href="http://google.com/+stitcher"><img src="/images/badge-google-plus_19x19.png" alt="Google+"></a>
+				<h3 class="footer_section">Follow Us</h3>
+				<a href="http://twitter.com/stitcher"><img src="/assets/images/badge-twitter_19x19.png" alt="Twitter"></a>
+				<a href="http://facebook.com/stitcherradio"><img src="/assets/images/badge-fb_19x19.png" alt="Facebook"></a>
+				<a href="http://www.linkedin.com/company/stitcher"><img src="/assets/images/badge-linkedin_19x19.png" alt="LinkedIn"></a>
+				<a href="http://google.com/+stitcher"><img src="/assets/images/badge-google-plus_19x19.png" alt="Google+"></a>
 			</nav>
 		</nav>
 	</div>
 </footer>
 <!--/HTML footer-->
-
-		</div><!-- Wrapper -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b847bd531","applicationID":"2358357","transactionName":"NFABMkBZChUDBxBRCg0aNhRbFxQUCxIFWxxNRQsW","queueTime":0,"applicationTime":2,"atts":"GBcCRAhDGRs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
+		</div>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b847bd531","applicationID":"2358357","transactionName":"NFABMkBZChUDBxBRCg0aNhRbFxQUCxIFWxxNRQsW","queueTime":0,"applicationTime":59,"atts":"GBcCRAhDGRs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
