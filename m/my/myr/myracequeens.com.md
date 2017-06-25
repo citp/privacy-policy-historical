@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923132812id_/http%3A//www.myracequeens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625104853id_/http%3A//www.myracequeens.com/privacy) for the most accurate reproduction.*
 
-# MYRaceQueens.com - Privacy Statement
+# MyRaceQueens.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected or submitted on MYRaceQueens.com and all websites in the network.
+This notice applies to all information collected or submitted on MyRaceQueens.com and all websites in the network.
 
 **What information do we collect?**
 
@@ -62,8 +62,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Questions and Contact Information**
 
-All questions to Mentarinet ltd regarding these terms and conditions must be directed to: 
+All questions to  regarding these terms and conditions must be directed to: 
 
-Mentarinet ltd registered address at 
+registered address at 
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
