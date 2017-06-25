@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmygalaxy.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233812id_/http%3A//rootmygalaxy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmygalaxy.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625110306id_/http%3A//rootmygalaxy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,9 +24,9 @@ RootMygalaxy.net itself does not use any cookies to store information. Third par
 
 ### Cookies & 3rd Party Advertisements
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/choices/).
 
 Some of our advertising partners, like Google AdSense, may use cookies and web beacons on our site.
 
@@ -34,7 +34,7 @@ Some of our advertising partners, like Google AdSense, may use cookies and web b
 
 Please read our disclosure notice as part of our compliance to the EU user consent policy:
 
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link:<http://www.google.com/intl/en/policies/privacy/partners/>
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link:[http://www.google.com/intl/en/policies/privacy/partners/](https://www.google.com/intl/en/policies/privacy/partners/)
 
 ### Google AdSense
 
