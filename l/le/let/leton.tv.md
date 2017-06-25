@@ -1,35 +1,17 @@
-> *The following text is extracted and transformed from the leton.tv privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122152158id_/http%3A//dotstream.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leton.tv privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# .Stream.tv - Privacy Policy
+# Legal
 
-### Purpose
+* * *
 
-This document sets out dotstream.tv commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the General Terms of Use.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### Data collected
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, and valid email address. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings.
 
-### Purpose of processing
 
-Data indicated on the Website as mandatory is required in order to use the Website's features. Data automatically collected by the Website allows us to compile statistics on web page visits.
-
-### Data recipients
-
-Your Data is not transmitted to third parties. However, dotstream.tv may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect dotstream.tv rights and interests. It is dotstream.tv policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court.
-
-### Data security
-
-dotstream.tv attaches great importance to the security of your Data, and takes all appropriate steps to limit the risk that it may be lost, damaged or misused.
-
-### Data retention
-
-Data is stored on the premises of the Website host and is kept only as long as necessary for the purposes set out above. After that point, data is kept only for statistical purposes and shall not be used for any other reason.
-
-### Youth Restrictions and Parental Control
-
-Children under the age of 13 are not permitted to register with dotstream.tv . It is dotstream.tv policy not to collect any information from anyone under the age of 13.Â 
-
-In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the dotstream.tv website at any time or in any manner.
-
-If you are the parent or legal guardian of a child under 13, and that child has somehow registered with dotstream.tv , please send an e-mail to dotstream@rambler.ru for instructions on how to cancel your child's registration. Â In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. dotstream.tv will use this information only to verify that you are the child's parent or legal guardian and for no other purposes.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
