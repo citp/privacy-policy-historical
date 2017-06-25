@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the mobotechie.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224223id_/http%3A//mobotechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotechie.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Mobotechie.com
+# Legal
 
-[Home](http://mobotechie.com/) Privacy Policy
+* * *
 
-We at Mobotechie.com give prime importance to our users’ privacy and are committed to protecting it always. If you have any doubt concerned with our website [privacy policy](http://mobotechie.com/privacy-policy "privacy policy") or software, please feel free to [contact us](http://mobotechie.com/contact-us "contact us"). Please read our [Privacy Policy](http://mobotechie.com/privacy-policy "Privacy Policy") below to learn more about how we treat personally identifiable information, how it is protected and used.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-#### Log Files:
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Mobotechie.com does NOT collect any personally-identifiable information, such as name, address, [phone](http://mobotechie.com/tag/phone "phone") number or email address from users of this web site without their knowledge, and takes measures to protect their privacy.
 
-However, like other standard web site servers, we use log files to collect information purely to identify the number of visitors to this web site, what those visitors looked at and how long they spent browsing. These information will only be used to judge the popularity of this web site and to make future improvements. These includes IP address, internet service provider, type of browser, date/time stamp, operating system, referring/exit pages, number of clicks to different pages, time spent on the site, demographic information, etc. These data are not linked to any information that is personally identifiable.
 
-#### Cookies and/ or web beacons:
-
-A cookie is a small data text file stored in your browser for recognizing you each time you visit a site. Our site doesn’t use cookies. However, some of our advertising partners may use cookies and/or web beacons on our site to collect data in the ad serving process. mobotechie.com has no access to or control over these cookies. However, you can remove them at any time using your browser tools.
-
-#### Third Party Advertising:
-
-We use third party advertising companies to display advertisement on this site. They may use cookies to serve ads on this site and use information (not including your name, address, email address, or telephone number) about your visits in order to provide advertisements about goods and services of interest to you.
-
-#### External Links:
-
-This web site contains many links to other sites. Please be aware that we are not responsible for the privacy practices of any other sites. We encourage our users to read the privacy statements of each and every Web site that collects personally identifiable information.
-
-#### Contact:
-
-For any questions or concern regarding privacy and data usage policy of this website, Please mail to: prajune[at]hotmail[dot]com
-
-[Last edited on 2012 December]
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
