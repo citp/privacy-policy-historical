@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopinsight.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003704id_/http%3A//www.loopinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopinsight.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625022620id_/http%3A//www.loopinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
