@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219144801id_/http%3A//summertomato.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625131054id_/http%3A//www.summertomato.com/contact/privacy) for the most accurate reproduction.*
 
 # Privacy | Summer Tomato
 
