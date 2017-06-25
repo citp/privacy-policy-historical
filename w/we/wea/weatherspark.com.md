@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714200545id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625061519id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
 
-# Beautiful Weather Graphs and Maps - WeatherSpark
+# The Typical Weather Anywhere on Earth - Weather Spark
 
 Last Modified: Nov 15, 2013. 
 
@@ -8,7 +8,7 @@ Last Modified: Nov 15, 2013.
 
 ## Introduction
 
-Cedar Lake Ventures, Inc ("Cedar Lake Ventures") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [weatherspark.com](http://weatherspark.com/) website and domain name, and any other linked pages, features, content, or application services offered from time to time by Cedar Lake Ventures in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Cedar Lake Ventures, Inc ("Cedar Lake Ventures") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [weatherspark.com](https://weatherspark.com/) website and domain name, and any other linked pages, features, content, or application services offered from time to time by Cedar Lake Ventures in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 ## What Does This Privacy Policy Cover?
 
