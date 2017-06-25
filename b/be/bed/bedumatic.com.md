@@ -1,33 +1,17 @@
-> *The following text is extracted and transformed from the bedumatic.com privacy policy that was archived on 2015-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150107030924id_/http%3A//www.bedumatic.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedumatic.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# bedumatic.com » Privacy Policy
+# Legal
 
-### About this Notice
+* * *
 
-We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### What information do you collect about me?
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We consider the information you give us to quote and service your insurance policy to be “Nonpublic Personal Information” if it identifies you and is not available to the public.
 
-### Who do we share your information with?
 
-We will share information about you only as permitted by law. We will not share your Nonpublic Personal Information with other companies.
-
-Disclosures include those that we feel are required to provide insurance claims and customer service, prevent fraud, perform research or comply with the law. Recipients include, our family of insurance companies, their claims representatives, service providers, consumer reporting agencies, law enforcement, courts and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with which you do business.
-
-Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.
-
-### Do you protect my information?
-
-We restrict access to your Nonpublic Personal Information to our employees and others who we feel must use it to provide our products and services. Their use of the information is limited by law, our employee code of conduct, and written agreements where appropriate. We also maintain physical, electronic and procedural safeguards to protect your information.
-
-### Why do you collect my email address?
-
-We collect your e-mail address so that we can send you e-mails concerning your transactions with us, and other useful information.
-
-To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.
-
-### Is there additional information for Website visitors?
-
-When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
