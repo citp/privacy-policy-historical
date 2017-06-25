@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121173237id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625173539id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,27 +66,27 @@ TowerData maintains physical, electronic and administrative safeguards to help p
 
 ## Enforcement
 
-TowerData has a designated individual who is responsible for the internal supervision of TowerData's privacy policies. TowerData educates relevant employees about compliance with the Privacy Shield Principles and has self-assessment procedures in place to ensure its compliance. The U.S. Direct Marketing Association (DMA) serves as TowerData's third-party dispute resolution provider, as required under the Privacy Shield and Safe Harbor Privacy Principles.
+TowerData has a designated individual who is responsible for the internal supervision of TowerData's privacy policies. TowerData educates relevant employees about compliance with the Privacy Shield Principles and has self-assessment procedures in place to ensure its compliance. The DMA serves as TowerData's third-party dispute resolution provider, as required under the Privacy Shield and Safe Harbor Privacy Principles.
 
 If you believe TowerData is not complying with the Privacy Shield or Safe Harbor principles or this policy, contact our company by at:
 
 TowerData, Inc.   
 Attn: Privacy Shield  
 379 Park Avenue South, 5th Floor  
-New York, NY 10016, USA   
+New York, NY 10016, USA  
 Email: [privacyshield@towerdata.com ](mailto:privacyshield@towerdata.com)  
 Phone: +1.646.742.1771
 
 If your inquiry with TowerData has not been satisfactorily addressed, you may contact the DMA Privacy Shield/Safe Harbor Dispute Resolution Program at:
 
-Privacy Shield/Safe Harbor  
-Direct Marketing Association   
-1333 Broadway, Suite #301   
-New York, NY 10018   
-[https://thedma.org/resources/consumer-resources/eu-u-s-privacy-shield-u-s-swiss-safe-harbor-program-for-consumers/ ](https://thedma.org/resources/consumer-resources/eu-u-s-privacy-shield-u-s-swiss-safe-harbor-program-for-consumers/)  
+DMA Privacy Shield  
+1333 Broadway, Suite #301  
+New York, NY 10018  
 [ ](https://thedma.org/resources/consumer-resources/eu-u-s-privacy-shield-u-s-swiss-safe-harbor-program-for-consumers/)
 
-In the event complaints to TowerData and the U. S. Direct Marketing Association do not result in a satisfactory resolution, a consumer may seek binding arbitration. 
+<https://thedma.org/resources/consumer-resources/privacyshield-consumers/>
+
+In the event complaints to TowerData and the U. S. Data & Marketing Association do not result in a satisfactory resolution, a consumer may seek binding arbitration. 
 
 TowerData is subject to the investigatory and enforcement powers of the Federal Trade Commission. We are required to disclose personal information in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
 
