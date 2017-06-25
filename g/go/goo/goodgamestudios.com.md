@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201095004id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625091318id_/https%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goodgame Studios
 
@@ -90,8 +90,10 @@ In the case that Goodgame Studios, companies controlled by Goodgame Studios, cer
 For our own liability, we maintain the right to review this content. In addition, we shall strive to clarify and prevent any fradulent measures (e.g. illegal game rigging at the expense of Goodgame) via independent reviews.  
   
 **9** | **Changing or deletion of data**  
-| As a registered user you can review, update, correct or delete your personal data in your profile settings or by contacting us.   
-You also have the option to delete your player account with us. Please keep in mind that once an account has been deleted, it cannot be reactivated. If you would like to permanently delete your account from our game server, please notify us at: [https://support.goodgamestudios.com](https://support.goodgamestudios.com/).  
+| As a registered user you can review, update, correct or delete your personal data in your profile settings or by contacting us at: <https://support.goodgamestudios.com/>. 
+
+Goodgame Studios will delete personal data upon request, unless mandatory obligations contradict such a deletion.  
+  
 **10** | **Security of your personal information**  
 | The data collected from you is processed according to the German Data Protection Act. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations. 
 
