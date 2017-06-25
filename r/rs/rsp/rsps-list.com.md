@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsps-list.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185354id_/http%3A//www.rsps-list.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsps-list.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221423id_/http%3A//www.rsps-list.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSPS List - RuneScape Private Servers
 
