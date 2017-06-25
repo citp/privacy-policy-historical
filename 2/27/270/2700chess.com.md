@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2700chess.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209130335id_/http%3A//www.2700chess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2700chess.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625165118id_/http%3A//2700chess.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 2700chess.com
 
