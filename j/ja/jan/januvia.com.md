@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the januvia.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216170652id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the januvia.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625051631id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.*
 
 # Merck.com | About | How We Operate | Privacy | Internet Privacy Policy
 
