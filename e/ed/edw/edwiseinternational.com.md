@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwiseinternational.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528071212id_/http%3A//www.edwiseinternational.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwiseinternational.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625195059id_/http%3A//edwiseinternational.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Study in UK, Study in USA Consultants, Study in UK from India, Study in Top University in Singapore, Study in Australia Consultants, Study in Canada University, Study Masters in France, Study in Universities of New Zealand, Study in Australia University, Study in Singapore University, Study in UK Consultants, Study in USA from India, Study in UK, Study in USA Consultants, Study in UK from India, Study in USA, Study in UK Consultants, Study in USA from India
 
