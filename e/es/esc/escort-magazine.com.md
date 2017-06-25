@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escort-magazine.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316234531id_/http%3A//www.vivastreet.co.uk/privacy-policy-s00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escort-magazine.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625113956id_/http%3A//www.vivastreet.co.uk/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 2\. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with applicable data protection legislation.
 
-3\. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address and credit card or other details. This personal information will be stored together with any additional information you may provide to us from time to time, and will be used by us (and our necessary service providers) to provide you with the Services and other activities associated with them. We may also use your personal information:  
+3\. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address and credit card or other details. This personal information will be stored together with information we hold including, but limited to, your IP address, email content and photos you may upload to the Site and any additional information you may provide to us from time to time, and will be used by us (and our necessary service providers) to provide you with the Services and other activities associated with them. We may also use your personal information:  
 -To facilitate our provision of the Services to you  
 -To analyse use of the Site  
 -To keep you up-to-date with new features, products and other services which we think may be of interest to you.
@@ -17,7 +17,7 @@
 
 6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area. Please note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
 
-7\. We may also disclose your personal information if required to do so by law or if we hold a good faith belief that disclosure is necessary to comply with any applicable law or to defend our own rights or property, or to protect the personal safety of others. 
+7\. We may also disclose your personal information if required to do so by law or if we believe that disclosure is necessary to comply with any applicable law or to defend our own rights or property, or to safeguard others. This may involve disclosing the information we hold to NUM (National Ugly Mugs) Organisation or to enforcement agencies if we believe that you are using the Site to engage in criminal and/or illegal activity. NUM may also choose to disclose this information to law enforcement agencies or other security service to comply with any applicable law or if they believe doing so will safeguard others. 
 
 8\. If you have any queries about the Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us.
 
@@ -46,9 +46,9 @@ For example, we use cookies to store your login details so that it's easier for 
 \- You can remove or block cookies using the settings in your browser, but in some cases, this may impact your ability to use Vivastreet.  
 \- You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)
 
-[Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.uk/cookies-s00).
+[Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.uk/s/cookies).
 
-To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20160316234531id_/http%3A//www.vivastreet.co.uk/www.allaboutcookies.org)
+To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20170625113956id_/http%3A//www.vivastreet.co.uk/s/www.allaboutcookies.org)
 
 **Consent**
 
