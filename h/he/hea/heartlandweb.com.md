@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130191728id_/http%3A//www.heartlandweb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandweb.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625043334id_/http%3A//www.heartlandweb.com/privacy.asp) for the most accurate reproduction.*
 
 # HeartlandWeb Online Classifieds - Classifieds - Privacy Policy
 
@@ -27,9 +27,9 @@ If you need any assistance, click here or call: 1-229-227-6629
   
 [](http://www.bigcityadvertising.com/?refid=www.HeartlandWeb.com)  
   
-**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20161130191728id_/http%3A//www.heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20161130191728id_/http%3A//www.heartlandweb.com/terms.asp). **  
+**Your use of this website constitutes acceptance of our[Privacy Policy](https://web.archive.org/web/20170625043334id_/http%3A//www.heartlandweb.com/privacy.asp) and [Terms & Conditions](https://web.archive.org/web/20170625043334id_/http%3A//www.heartlandweb.com/terms.asp). **  
   
-  | © Copyright 1998 - 2016 by HeartlandWeb.com - All Rights Reserved.  
+  | © Copyright 1998 - 2017 by HeartlandWeb.com - All Rights Reserved.  
 Contact: 25390 3420 E St., LaMoille, IL 61330  Ph: 1-229-227-6629 - [Site Map](https://web.archive.org/sitemap.asp) | 
 
 [](http://www.mgaweb.com/)
