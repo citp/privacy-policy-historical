@@ -1,59 +1,17 @@
-> *The following text is extracted and transformed from the keywordeye.co.uk privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816011643id_/http%3A//www.keywordeye.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordeye.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Keyword Eye
+# Legal
 
-## Cookies and Privacy Policy
+* * *
 
-This policy explains how we, Keyword Eye Limited, use your personal information which you provide to us when using our website.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### What information do we collect about you?
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We collect personal information from you when you order services from us or use our website. We also collect information when you complete any customer survey. We collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our websites.
 
-### Cookies
 
-Cookies are small text files placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website.
-
-The table below list the cookies we use. These cookies are seen as essential to the running of the website, without them, desktop, mobile and tablet devices will not display the images properly and the blog comments will not work.
-
-Name | Set by/for | Description | Further reading  
----|---|---|---  
-disqus_unique  
-__qca  
-__utma  
-__utmb  
-__utmc  
-__utmz  
-quantserve.com mc  
-scorecardresearch.com UID  
-scorecardresearch.com UIDR  
-media.cdn.disqus.com testCookie | Disqus Comment system | We use a third party solution to handle our blog comments, this solution stores cookies to ease return use of the blog, further information can be found on their privacy policy. This is seen as an ESSENTIAL cookie and will always be stored in your web browser. | [The Disqus Privacy Policy](http://docs.disqus.com/help/30/ "Disqus Privacy Policy")  
-  
-The following table lists any cookies that are seen as non-essential to the workings of the website.
-
-PLEASE NOTE, by switching off cookies, it will severely harm our business, we will no longer be able to track visits to our website, see what the most popular pages are or devices looking at our website, it will be the equivalent of running a sweet shop, blindfolded with no stock-taking facility available.
-
-Name | Set by/for | Description | Further reading  
----|---|---|---  
-__utma  
-__utmb  
-__utmc  
-__utmz | Google Analytics | We use Google Analytics to allow us to analyse the traffic to our site and to review a number of statistics regarding our visitors. | [Click here for an overview of Google Analytics privacy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Google Privacy Policy")  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). However, please note that if you choose to disable cookies, then parts of this website may not function correctly.
-
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
-
-### How will we use the information we collect from you?
-
-Information that we collect from you is used to process your order and to manage your account. We may also use your information to email you about other products or services that we think may be of interest to you.
-
-In processing your order we may send your information to credit reference and fraud prevention agencies.
-
-### Access to your information
-
-You have a right to request a copy of the information we hold on you at any time. Please email us if you would like to receive a copy of this information: [contact@keywordeye.com](mailto:contact@keywordeye.com). There will be a small charge for processing this request.
-
-### Other Websites
-
-Our website may have links to other websites. This privacy policy only applies to this website. You should therefore read the privacy policies of the other websites when you are using those sites.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
