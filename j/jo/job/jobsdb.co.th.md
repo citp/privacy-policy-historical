@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127224440id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625130724id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Thailand
 
