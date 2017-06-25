@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208000935id_/http%3A//www.aetn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625235818id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | A+E Networks
 
@@ -15,6 +15,7 @@ Please read carefully and contact us with any questions. Click on the sections b
   * HOW WE SHARE YOUR INFORMATION
   * VIDEO AND CONTENT VIEW INFORMATION
   * YOUR CHOICES
+  * DO NOT TRACK SIGNALS
   * STORAGE AND SECURITY OF YOUR INFORMATION
   * COOKIES AND OTHER TRACKING TECHNOLOGIES
   * CHILDREN
@@ -28,7 +29,11 @@ Please read carefully and contact us with any questions. Click on the sections b
 
 **_SCOPE OF THIS PRIVACY POLICY_**
 
-Welcome to A+E Networks. The Privacy Policy below explains how A&E Television Networks, LLC and its affiliates ("A+E Networks," "we" or "us") collect, use and share information about you when you interact with one of our US-based digital properties, such as websites, mobile apps, smart TV apps, games or other interactive features, or installed software (each, a "Site"). This Privacy Policy describes how we use data we collect from your use of our Sites, including tracking technologies, cookies and browsing data, the measures we take to protect your information, and how to contact us if you have any questions or concerns. Please read this Privacy Policy carefully to understand our practices regarding your information and how we will treat it. BY USING A SITE YOU ARE EXPRESSLY ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND OUR [TERMS OF USE.](http://www.aenetworks.com/terms) This Privacy Policy applies to US-based Sites owned or operated by A&E Television Networks, LLC or Lifetime Entertainment, LLC. Some websites, apps or online services we own or operate may be governed by a separate privacy policy. In those cases, we will post the applicable privacy policy in an easily accessible location on that website, app or online service. 
+Welcome to A+E Networks. The Privacy Policy below explains how A&E Television Networks, LLC and its affiliates ("A+E Networks," "we" or "us") collect, use and share information about you when you interact with one of our US-based digital properties, such as websites, mobile apps, smart TV apps, games or other interactive features, or installed software (each, a "Site"). This Privacy Policy describes how we use data we collect from your use of our Sites, including tracking technologies, cookies and browsing data, the measures we take to protect your information, and how to contact us if you have any questions or concerns. 
+
+Please read this Privacy Policy carefully to understand our practices regarding your information and how we will treat it. BY USING A SITE YOU ARE EXPRESSLY ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND OUR [TERMS OF USE.](http://www.aenetworks.com/terms)
+
+This Privacy Policy applies to US-based Sites owned or operated by A&E Television Networks, LLC or Lifetime Entertainment, LLC. Some websites, apps or online services we own or operate may be governed by a separate privacy policy. In those cases, we will post the applicable privacy policy in an easily accessible location on that website, app or online service. 
 
 **_TYPES OF INFORMATION WE COLLECT_**
 
@@ -104,6 +109,10 @@ You may choose to opt-out of certain communications or uses of information colle
 
 For more information or to opt-out of certain online behavioral advertising, please visit [http://www.aenetworks.com/adchoices.](http://www.aenetworks.com/adchoices)
 
+Facebook is an advertising partner and may collect and use data to display advertisements on all A+E Networks' digital websites and apps. For more information and to control the ads you see, visit [https://www.facebook.com/ads/about/?page_number=6.](https://www.facebook.com/ads/about/?page_number=6) ** _DO NOT TRACK SIGNALS_**
+
+At this time, A+E does not respond to browser ‘Do Not Track’ signals, which is a standard still under development. To learn more please go to [www.allaboutdnt.com ](https://allaboutdnt.com/)
+
 **_STORAGE AND SECURITY OF YOUR INFORMATION_**
 
 By using our Sites or submitting information to us, you are consenting to the collection, transfer, storing, and processing of your information in the United States. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
@@ -120,7 +129,7 @@ A+E reserves the right to monitor all network traffic to our Sites to identify a
 
 Our Sites may use cookies and other tracking technologies to enable certain features and functionality of our Sites and to provide you with content that is customized to your interests. Our Sites may also collect information as described in this policy, including identifiers designed to enable advertising on your mobile device or other internet connected device. Some tracking technologies used on our Sites may be implemented and controlled by third party partners. This may include collection, use and disclosure of information as described in this Privacy Policy.
 
-Depending on your mobile device or other internet connected device, you may be able to reset the device’s advertising identifier at any time by accessing the privacy settings. If you are using an iOS based device, please visit <http://support.apple.com/en-us/HT202074>. If you are using an Android based device (including Kindle), please visit <http://www.google.com/intl/en/policies/technologies/ads>. If you are using an Xbox or Windows based device, please visit <http://choice.microsoft.com/en-US/opt-out>. If you are using an Amazon Kindle,please visit <http://www.amazon.com/gp/dra/info>. If you are using a Roku device, please visit: <https://www.roku.com/about/privacy>. If you use a device based on another platform, you should check the provider’s instructions for opting out.
+Depending on your mobile device or other internet connected device, you may be able to reset the device’s advertising identifier at any time by accessing the privacy settings.  If you are using an iOS based device, please visit <http://support.apple.com/en-us/HT202074>.  If you are using an Android based device (including Kindle), please visit <http://www.google.com/intl/en/policies/technologies/ads/>. **    **If you are using an Xbox or Windows based device, please visit http://choice.microsoft.com/en-US/opt-out.  If you are using an Amazon Kindle, please visit <http://www.amazon.com/gp/dra/info>. If you are using a Roku device, please visit: https://www.roku.com/about/privacy. If you use a device based on another platform, you should check the provider’s instructions for opting out. ** __**
 
 **_CHILDREN_**
 
