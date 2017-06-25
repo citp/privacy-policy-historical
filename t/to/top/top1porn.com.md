@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top1porn.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217221609id_/http%3A//top1porn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top1porn.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625145338id_/http%3A//top1porn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download porn movies
 
