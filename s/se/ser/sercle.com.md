@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sercle.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824061235id_/http%3A//www.sercle.com/Services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sercle.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625143026id_/http%3A//www.sercle.com/Services/privacy.html) for the most accurate reproduction.*
 
 # SerCle Inc. Privacy Policy
 
