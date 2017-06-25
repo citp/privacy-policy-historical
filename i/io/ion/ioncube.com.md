@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052743id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625151735id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy - PHP Encoder, protection, installer and performance tools from ionCube
 
@@ -16,7 +16,7 @@ For your security, information gathered and processed for effecting a purchase i
 
 ### THE USE OF COOKIES
 
-A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20161119052743id_/http%3A//www.ioncube.com/cookies_policy.php).
+A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20170625151735id_/http%3A//www.ioncube.com/cookies_policy.php).
 
 ### TRANSACTION AND LOG FILES
 
