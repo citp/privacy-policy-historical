@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phys.org privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045942id_/http%3A//phys.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625080002id_/https%3A//phys.org/help/privacy) for the most accurate reproduction.*
 
 # Phys.org : FAQ | Contact Us | Suggest a story idea
 
