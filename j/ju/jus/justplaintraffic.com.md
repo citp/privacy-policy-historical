@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justplaintraffic.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211135527id_/http%3A//justplaintraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justplaintraffic.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625140047id_/http%3A//www.justplaintraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Just Plain Traffic Privacy Policy
 
