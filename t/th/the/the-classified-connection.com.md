@@ -1,73 +1,17 @@
-> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429153845id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy – We take Your Privacy Seriously
+# Legal
 
----  
-  |  | 
+* * *
 
-|   
-  
----  
-  
-| 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Creative Software Systems takes your privacy seriously. Please read the following to learn more about our privacy policy. 
-
-**What This Privacy Policy Covers**
-
-  * This policy covers how Creative Software Systems treats personal information that Creative Software Systems collects and receives, including information related to your past use of Creative Software Systems products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-This policy does not apply to the practices of companies that Creative Software Systems does not own or control, or to people that Creative Software Systems does not employ or manage. 
-
-**Information Collection and Use**
-
-  * Creative Software Systems collects personal information when you register with Creative Software Systems, when you use Creative Software Systems products or services, when you visit Creative Software Systems pages. 
-  * When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Creative Software Systems and sign in to our services, you are not anonymous to us. 
-  * Creative Software Systems collects information about your transactions with us. 
-  * Creative Software Systems automatically receives and records information on our server logs from your browser, including your IP address, Creative Software Systems cookie information, and the page you request. 
-
-
-
-**Information Sharing and Disclosure**
-
-  * Creative Software Systems does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-    * We provide the information to trusted partners who work on behalf of or with Creative Software Systems under confidentiality agreements. These companies may use your personal information to help Creative Software Systems communicate with you about offers from Creative Software Systems and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Creative Software System's terms of use, or as otherwise required by law.   
-
-
-
-
-| 
-
-    * We transfer information about you if Creative Software Systems is acquired by or merged with another company. In this event, Creative Software Systems will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-
-
-**Information Sharing and Disclosure**
-
-  * Creative Software Systems does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Creative Software Systems under confidentiality agreements. These companies may use your personal information to help Creative Software Systems communicate with you about offers from Creative Software Systems and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Creative Software System's terms of use, or as otherwise required by law. 
-    * We transfer information about you if Creative Software Systems is acquired by or merged with another company. In this event, Creative Software Systems will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-
-
-**Cookies**
-
-Creative Software Systems may set and access Creative Software Systems cookies on your computer.
-
-**Confidentiality and Security**
-
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-**Changes to this Privacy Policy**
-
-Creative Software Systems may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Creative Software Systems account or by placing a prominent notice on our site.  
-  
----|---  
-  
- 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
