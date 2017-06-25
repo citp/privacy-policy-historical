@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517105202id_/http%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625114551id_/https%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | @thetorquemag
 
