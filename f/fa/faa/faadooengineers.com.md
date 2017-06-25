@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227062301id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115559id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FaaDoOEngineers.com
 
@@ -40,7 +40,7 @@ All information gathered on FE is securely stored within FE controlled database.
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [copyright.infringement@faadooengineers.com](mailto:copyright.infringement@faadooengineers.com) or write at the following address:   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [admin@faadooengineers.com](mailto:admin@faadooengineers.com) or write at the following address:   
 FaaDoOEngineers.com   
 No.1497,  
 Wazir Nagar Kotla Mubarakpur, Delhi, 110003  
