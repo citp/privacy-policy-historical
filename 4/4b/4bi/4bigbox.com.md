@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4bigbox.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002145229id_/http%3A//4bigbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4bigbox.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625054213id_/http%3A//4bigbox.com/privacy) for the most accurate reproduction.*
 
 # 4bigbox - Free Online Storage, Secure File Hosting
 
@@ -47,4 +47,4 @@ We use third-party advertising companies to serve ads when you visit our website
 * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Contact   
-If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact](https://web.archive.org/web/20161002145229id_/http%3A//contact). 
+If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact](https://web.archive.org/web/20170625054213id_/http%3A//contact). 
