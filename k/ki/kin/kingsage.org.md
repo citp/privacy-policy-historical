@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629173514id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dkingsage%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsage.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625080321id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dkingsage%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy - KingsAge - Gameforge 4D GmbH
 
