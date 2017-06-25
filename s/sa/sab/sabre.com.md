@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523190203id_/http%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625045426id_/https%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Sabre
 
-_Last modified: March 21, 2014_
-
-Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the _Sabre®_ global distribution system, the _SynXis_ hotel central reservation system, and the _SabreSonic®_ airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
+Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the Sabre global distribution system, the SynXis hotel central reservation system, and theSabreSonic airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
 
 ## Introduction
 
@@ -95,6 +93,26 @@ We do not knowingly collect personal information from children under age 13. In 
 ## US-EU and US-Swiss safe harbor for travel network
 
 Please see our [Travel Network Safe Harbor Privacy Statement](http://sabretravelnetwork.com/home/page/travel_network_safe_harbor_privacy_statement) to understand how Sabre Travel Network complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Frameworks.
+
+## Recruiting Statement
+
+Your privacy is important to us. This Statement aims to inform you of how we will use the information you submit when applying for a position via our website (the “Site”), [sabre.com/careers/](http://www.sabre.com/careers/).  Sabre GLBL Inc. (“Sabre”), a Delaware, United States corporation, operates the Site. By submitting your resume or other personal information through the Site you acknowledge and consent to the uses and transfers of data described in this Statement.
+
+**Collecting personal information**
+
+You may provide personal information to Sabre via the Site. The Site may ask for personal information related to education, employment, contacts, preferences, job qualifications, and jobs when you submit an application. You may also choose to provide Sabre with additional information, such as resumes, CVs, transcripts, references, and compensation requests. We recommend that you do not disclose sensitive personal information (e.g., height, weight, religion, philosophical or political beliefs, financial data, sexual orientation, membership in a trade union or political party) in your resume/CV or any materials in support of your application. To the extent information you provide sensitive personal information you expressly authorize Sabre to handle such details as specified in this Statement.
+
+**Use of personal information**
+
+We will use your personal information for recruitment purposes, and if you are offered a job or become employed by Sabre or one of its direct or indirect subsidiaries (collectively “ **us** “), we will use it for other employment-related purposes.  These purposes include, but are not limited to: verifying past employment and/or education, checking references, confirming ability to legally work in the relevant country, contacting you and/or your emergency contacts at home if necessary, setting/adjusting compensation, job duties and titles, administering benefits, including health insurance, administering savings and pension plans, managing performance, withholding and payment of applicable taxes and complying with legal and regulatory obligations.
+
+**Retention**
+
+We may also retain your information after the recruitment process is complete to contact you about potential future opportunities or for record keeping purposes but we will delete your information when we no longer need it. However, we may retain your information for longer in an anonymized form for statistical purposes. If you provide information about others (i.e. reference contact details), please ensure you have informed them that you will be providing their information.
+
+**Consent to use and transfer**
+
+By submitting your resume/CV or other information and any subsequent application materials to us, you agree that we may use such information for recruitment, hiring and employment purposes. You also agree that we may including transfer the data to the United States and
 
 ## Changes to our privacy statement
 
