@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionofbeauty.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418130019id_/https%3A//functionofbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionofbeauty.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625041640id_/https%3A//functionofbeauty.com/privacy) for the most accurate reproduction.*
 
 # Function of Beauty: Privacy Policy
 
