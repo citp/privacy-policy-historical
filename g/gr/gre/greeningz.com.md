@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greeningz.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225082103id_/http%3A//greeningz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeningz.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625091340id_/http%3A//www.greeningz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy - Greeningz
 
-Last updated: April 01, 2016  
+Last Updated: April, 2017  
 Greeningz (“us”, “we”, or “our”) operates the http://www.greeningz.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
