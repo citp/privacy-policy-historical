@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the modscape.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118205917id_/http%3A//modscape.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modscape.com.au privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625165045id_/http%3A//modscape.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Modscape
+# Privacy Policy - Modscape - Modular Homes & Prefab Homes
+
+## Website Privacy Policy
 
 Modscape Pty Ltd (ABN: 73122909040) of 430 Francis St, Brooklyn, Victoria 3012, Australia (“Modscape”) is committed to upholding the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) and the Privacy Amendment (Enhancing Privacy Protection) Act 2012. We recognise the importance of privacy and community awareness regarding the collection, use, disclosure and security of personal information which we may collect during the course of our functions. This Privacy Policy sets out how we manage your personal information and protect your privacy.
 
@@ -66,6 +68,11 @@ We are committed to protecting your privacy and upholding the Australian Privacy
 
 We welcome and appreciate your feedback or comments in relation to our Privacy Policy and the collection of personal information. If you have any questions in relation to privacy please contact our Privacy Officer during business hours Monday to Friday:
 
+**Postal address:** | 430 Francis Street, Brooklyn, VIC 3012  
+---|---  
+**Email:** | [info@modscape.com.au](mailto:info@modscape.com.au)  
+**Phone:** | 03 9314 7769  
+  
 ## 8\. Supplementary Information – Internet and Email Privacy
 
 The information below supplements the above Privacy Policy and relates to your use of this website.
