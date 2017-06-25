@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapspell.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201200113id_/http%3A//wapspell.com/terms.php%3Ftnz%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapspell.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625133550id_/http%3A//wapspell.com/terms.php%3Ftnz%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
