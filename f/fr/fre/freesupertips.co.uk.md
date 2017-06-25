@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesupertips.co.uk privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813200606id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625114606id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
@@ -19,7 +19,7 @@ We may use the information we collect from you when you register, make a purchas
 • To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
 • To allow us to better service you in responding to your customer service requests.  
 • To administer a contest, promotion, survey or other site feature.  
-• To send you an email newsletter. You may choose to opt out of this newsletter at any time
+• To send you an email newsletter. You may choose to opt out of this newsletter at any time by clicking unsubscribe.
 
 We also use your location (after you have given us permission) to confirm that you are located within the UK and Ireland.
 
@@ -29,9 +29,15 @@ We only provide articles and information, and we never ask for personal or priva
 
 The information we do store on visitors will not be shared with unassociated third parties.
 
- ** _Do we use ‘cookies’?_**
+ ** _Cookie Policy_**
 
-We do not use cookies for tracking purposes
+We collect anonymous statistics regarding each user’s visits, such as which pages on the website were viewed and for how long. This information can’t be linked back to any specific individual and is collected via Google Analytics. If you wish to opt out of Google Analytics you can do so [here](https://tools.google.com/dlpage/gaoptout), or you can learn more about it [here](https://support.google.com/analytics/answer/6004245).
+
+Facebook and Twitter may use cookies to track that you are logged in and allow for sharing of our articles. We do not have any access to this information.
+
+We don’t share any cookie data with 3rd parties apart from where it is necessary for the smooth running of our website, and it will still remain anonymous
+
+By registering to our app, you will be signed up to our newsletter. You will be free to unsubscribe at any time.
 
  ** _Third Party Disclosure_**
 
@@ -47,7 +53,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  ** _Google_**
 
-We have not enable Google Adwords on our site but we may do so on the future.
+We have not enabled Google Adwords on our site but we may do so in the future.
 
  ** _Other_**
 
@@ -61,8 +67,9 @@ Users are able to change their personal information:
 
 We honor them and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-Does our site allow third party behavioral tracking?  
-We do allow third party behavioral tracking to
+ _ **Does our site allow third party behavioral tracking?**_
+
+We do allow third party behavioral tracking to help develop the site and improve features and functionality on offer.
 
  ** _Fair Information Practices_**
 
@@ -76,13 +83,6 @@ We agree to the individual redress principle, which requires that individuals ha
 
  ** _Contact Information_**
 
-Freesupertips.co.uk
-
-Flat 28  
-42 Triangle West  
-Park Street  
-Bristol  
-Avon  
-BS81ES
+freesupertips.co.uk
 
 info@freesupertips.co.uk
