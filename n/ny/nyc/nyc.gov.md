@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyc.gov privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612140318id_/http%3A//www1.nyc.gov/home/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.gov privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625105202id_/http%3A//www.nyc.gov/home/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | City of New York
 
