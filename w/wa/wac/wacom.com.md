@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201005134id_/http%3A//www.wacom.com/en-ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625020236id_/http%3A//www.wacom.com/en-us/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Wacom
 
 Last Updated: 12 October 2015
 
@@ -21,7 +21,7 @@ If a user elects to use our referral service for informing a friend about our we
     * **Promotions and News**  
 We may use information about you to communicate with you about products, services, offers, promotions, and events offered by Wacom and others, and provide news and information we think will be of interest to you. You may opt out of receiving promotional emails from us by following the instructions in those emails or by deactivating it within your My account/Manage profile/Manage preferences. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
     * **Advertising and Analytics Services Provided by Others**  
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161201005134id_/http%3A//www.wacom.com/en-ca/www.aboutads.info/choices). 
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 Wacom is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
   * **2\. Information Sharing**  
 
