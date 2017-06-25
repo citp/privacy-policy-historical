@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002111036id_/http%3A//www.awempire.com/privacy-policy%3Fawesec_session%3Dawe0fe8b13807440ded528bec91ec642dcb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awempire.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626003843id_/http%3A//www.awempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Awempire.com - Privacy Policy of Adult Webmaster Empire
 
 [ ](http://www.awempire.com/)
+
+[ ](https://web.archive.org/blog/affiliate-program/whitelabel-4-the-ace-of-the-cam-game?awesec_session=awe7f181404d6fb4c6455c92de21c8ed720)
 
 Duodecad IT Services Luxembourg S.à.r.l., with the address at 44, Avenue John F. Kennedy, L-1855 Luxembourg, E-mail: [info@duodecadits.com](mailto:info@duodecadits.com), Phone: +352-26-11-18-40, registered in the trade and companies registry of the Grand-Duchy of Luxembourg under the number B 171358 (hereinafter referred to as "Company" or "Awempire") is committed to protecting its members' privacy. The Company takes all appropriate security measures to protect all personal information against unauthorized access, unauthorized alteration, disclosure or destruction.
 
