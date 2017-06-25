@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225000154id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625125949id_/http%3A//www.twinkl.com/privacy-policy) for the most accurate reproduction.*
 
-# Primary Resources - FREE for Early Years (EYFS) KS1 & KS2 |
+# Our Security and Privacy Policies - Online Safety | Twinkl
 
 ## A message from Jon Seaton, Twinkl's CEO, about our commitment to your security and privacy.
 
