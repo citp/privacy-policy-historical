@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230091337id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625160346id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fliptab Privacy Policy
 
 FlipTab.io (“FlipTab.io”), respects the privacy of users of our home. FlipTab.io website and related services, and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the “Privacy Policy”) are intended to describe for you, as an individual who is a user of the FlipTab.io website or related application(s) or service(s) (hereafter, collectively, the “FlipTab.io Products,” “FlipTab.io Homepage” or “Website”) the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using any of our FlipTab.io Homepage Products or transacting business with us. By using any of the FlipTab.io Homepage Products, you are accepting the practices described in this Privacy Policy.  
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
