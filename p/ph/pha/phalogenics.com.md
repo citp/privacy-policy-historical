@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122070740id_/http%3A//phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625170951id_/https%3A//www.phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Order Now](https://www.phalogenics.com/recjoin/joinform/secureform.php)
+
+Just $69 USD for the complete Video Training Series + 3 bonus sites!
 
 **HOW WE PROTECT YOUR PRIVACY**
 
@@ -65,7 +69,7 @@ You may also mail your concerns to us at the following address:
 Web Health Products Inc.  
 PO BOX 40059 RPO Liberty Village  
 Toronto, Ontario M5V 0K7  
-Canada 
+Canada
 
 **CALIFORNIA PRIVACY RIGHTS**
 
@@ -76,6 +80,6 @@ You may also mail your concerns to us at the following address:
 Web Health Products Inc.  
 PO BOX 40059 RPO Liberty Village  
 Toronto, Ontario M5V 0K7  
-Canada 
+Canada
 
 This privacy policy was last updated on 10/16/2014.
