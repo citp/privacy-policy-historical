@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114195711id_/https%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625073638id_/https%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Data Policy | Contract Hire And Leasing
 
-At Really Good Domains Ltd we are registered under the 1998 Data Protection and are committed to protecting your data and privacy. We have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
+At Really Good Domains Ltd we are registered under the Data Protection Act 1998 and are committed to protecting your data and privacy. We have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
 ## What information do we collect and how do we obtain it?
 
@@ -45,7 +45,7 @@ By completing any of our online forms, you are consenting to the collection, pro
 
 ## Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name,address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practise and to know your choices about not having this information used by these companies [contact us](http://www.reallygooddomains.com/).
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name,address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you If you would like more information about this practise and to know your choices about not having this information used by these companies contact us.
 
 ## Cookies and Your Privacy
 
@@ -53,7 +53,7 @@ At Really Good Domains we use cookies to help improve our websites and make your
 
 ### What are Cookies
 
-Cookies are small encrypted text files that are stored on your computer or other device by this website. They are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Our cookies do not collect any data that could be used to personally identify you.
+Cookies are small encrypted text files that are stored on your computer or other device by our websites. They are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Our cookies do not collect any data that could be used to personally identify you.
 
 ### Types of Cookies
 
@@ -63,7 +63,7 @@ Session cookies are stored in your computer's memory for the length of your brow
 
 #### Persistent Cookies
 
-Persistent cookies are stored on the user's computer memory and are not deleted when the browser is closed. They are used to keep your preferences for the website, so that they will be remembered for next time you visit the website. They are also used to collect information about the numbers of visitors, the average time spent on a particular page and analyse browsing behaviour on the website. This information is used to find out how the well the website works and where it can be improved.
+Persistent cookies are stored on the user's computer memory and are not deleted when the browser is closed. They are used to keep your preferences for the website, so that they will be remembered for next time you visit the website. They are also used to collect information about the numbers of visitors, the average time spent on a particular page and analyse browsing behaviour on the website. This information is used to find out how well the website works and where it can be improved.
 
 #### First Party Cookies
 
@@ -75,7 +75,7 @@ We want to provide interesting and engaging content on our website. On a number 
 
 #### Sharing with social networks
 
-If you use the buttons that allow you to share products and content with your friends via social networks like twitter and facebook, these companies may set a cookie on your computer. Find out more about these here:
+If you use the buttons that allow you to share products and content with your friends via social networks like Twitter and Facebook, these companies may set a cookie on your computer. Find out more about these here:
 
 <https://www.facebook.com/about/privacy/>  
 <http://twitter.com/privacy>  
@@ -85,6 +85,6 @@ If you use the buttons that allow you to share products and content with your fr
 
 To make full use of the features on our site you will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
 
-If you'd prefer to restrict, block or delete cookies from contracthireandleasing.com or any other website, you can use your browser to do this though your experience of using the site will be significantly impaired should you do so.
+If you'd prefer to restrict, block or delete cookies from our websites or any other website, you can use your browser to do this though your experience of using the site will be significantly impaired should you do so.
 
 Please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). Information on these websites will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
