@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justborn.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201024455id_/http%3A//www.justborn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justborn.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625225329id_/http%3A//www.justborn.com/privacy-policy) for the most accurate reproduction.*
 
 # Just Born Candy Company: Privacy Policy
 
