@@ -1,32 +1,17 @@
-> *The following text is extracted and transformed from the keybol.org privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109071601id_/http%3A//www.keybol.org/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybol.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-I respect your privacy and I am committed to safeguarding your privacy while online at my site www.keybol.org. The following discloses the information gathering and dissemination practices for this Web site.
+* * *
 
-Log Files  
-Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-E-mail Subscription  
-If a user wishes to subscribe to my posts via e-mail (powered by Feedburner), I ask for contact information such as name and email address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
-
-Cookies  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
-
-Links  
-This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-Advertisers  
-I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. I work with the ad companies: Google Adsense, Adbrite, Infolinks, Widgetbucks and Chitika.   
-Google, as a third-party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
-Please check their websites for complete privacy policies.
-
-Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form.
-
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-[](http://feeds2.feedburner.com/Keybolorg)
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
