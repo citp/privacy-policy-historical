@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229174825id_/http%3A//redrocksonline.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625102549id_/http%3A//redrocksonline.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Red Rocks Entertainment Concerts | Info | Privacy Policy
 
