@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apnipsp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119154048id_/http%3A//apnipsp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnipsp.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625174643id_/http%3A//www.apnipsp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Apni Pakistani Services Portal
+# Privacy Policy – Apni PSP
 
 This privacy statement discloses the privacy practices for all pages and services offered by apnipsp.com  
 **» Personally Provided Information**  
