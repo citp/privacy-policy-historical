@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everypost.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119182615id_/http%3A//everypost.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everypost.me privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625175411id_/http%3A//everypost.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everypost
 
