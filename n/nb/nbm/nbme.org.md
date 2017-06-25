@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523150402id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625180306id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NBME
 
-Date Updated:  October 6, 2015
+Date Updated:  October 3, 2016
 
 National Board of Medical Examiners (NBME®) is committed to protecting your privacy and to maintaining the integrity and privacy of personal information that NBME collects through the NBME website (the "Site") located at [www.nbme.org ](http://www.nbme.org/). The following Privacy Policy ("Policy") explains NBME's information collection and dissemination practices in connection with the Site. Please review the Policy and feel free to contact us at [communications@nbme.org ](mailto:%63%6F%6D%6D%75%6E%69%63%61%74%69%6F%6E%73%40%6E%62%6D%65%2E%6F%72%67) if you have any questions. 
 
-## TRUSTe Privacy Seal
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=6317a366-df16-4f82-8b5b-35ac460d4da2 "TRUSTe Privacy Certification")
-
-NBME has received TRUSTe's privacy seal, signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, http://www.nbme.org, and does not cover information that may be collected through software downloaded from the website. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please [click here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's dispute resolution process is only available in English. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ## 1\. General Users
 
@@ -57,21 +51,11 @@ If, for any reason, you should choose not to provide your personal information o
 
 ## 4.  Cookies and Tracking Technologies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do not use cookies on the [www.nbme.org](http://www.nbme.org/) general website, but we may use cookies on the web pages related to NBME Licensing Examination Services, NBME Self-Assessment Services, and the NBME Services Portal. We do not link the information we store in cookies to any personally identifiable information you submit while on any of our sites. 
-
-We use non-persistent cookies to make it easier for you to navigate our site. These non-persistent cookies are deleted when you close your browser. 
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
-
-The use of cookies by our tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to provide usage pattern information about our site.
-
-Technologies such as cookies, beacons, tags and scripts are used by NBME and our affiliates or analytics or service providers (Google Analytics). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site, and gathering geographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+NBME and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 As is true of most websites, we gather certain information automatically and store it in lo g files. This information may include IP addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve site functionality.
-
-Third parties with whom we partner to provide certain features on our website also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs 
+We may combine this automatically collected log information with other information we collect about you. We do this to improve site functionality. 
 
 ## 5.  Credit Card
 
@@ -81,7 +65,11 @@ All credit card transactions are processed through a vendor via SSL. NBME uses a
 
 NBME collects and uses the personal information you provide to better serve you. Such information may be used to process your applications and requests for services or materials, to receive support for the services we provide, to verify that you meet the minimum qualifications for our programs and services, to allow us to contact you to provide those services, to complete delivery of services, for billing purposes, and to protect you and NBME from fraudulent transactions. We also use the information we collect to tailor and improve your experience if you use the NSP. Additionally, NBME may use aggregated personal information for research and statistical purposes. NBME does not use your personal information for marketing or promotional purposes.
 
-Your credit card information is used to bill you for services. We will not use your credit card information for any other purpose.
+Your credit card information is used to bill you for services. We will not use your credit card information for any other purpose. 
+
+### User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
 
 ## 7.  Disclosure of Personal Information to Third Parties
 
@@ -101,6 +89,8 @@ Please also note that all of your activities on the NBME Services Portal are tra
 
 At times we may be required by law, court order or legal process to disclose your personal information. We may disclose information about you, in our sole discretion, if we believe that disclosure is necessary: (a) to satisfy any law, regulation, governmental request or to respond to a subpoena; (b) to operate this website; (c) to protect the safety, rights or property of NBME or users of the NSP or any of NBME's websites; and (d) or as otherwise permitted under this Policy.
 
+In certain situations, NBME may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
 Other than as noted in this Policy, or as NBME shall notify users in the future, NBME does not sell, rent, share, offer, or otherwise disclose any personal information, such as names, e-mail addresses, mailing addresses, telephone numbers, and other personal information that you voluntarily provide to NBME, to any organization or individual without a legitimate interest (collectively "Third Parties"), except to the extent necessary to comply with applicable laws or valid legal process, or to protect the rights or property of NBME.
 
 In the event that we sell or transfer all or a portion of our business and assets, we reserve the right to transfer your personally identifiable information in connection with that transaction and you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. In such event, we will use reasonable efforts to ensure that your personally identifiable information remains protected.
@@ -109,7 +99,7 @@ In the event that we sell or transfer all or a portion of our business and asset
 
 ### A.  NBME Self-Assessment Services
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by making the change within your account by selecting "Personal Information" or by emailing our Customer Support at [assessmentservices@nbme.org](mailto:%61%73%73%65%73%73%6D%65%6E%74%73%65%72%76%69%63%65%73%40%6E%62%6D%65%2E%6F%72%67)   or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. 
+Upon request NBME will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by making the change within your account by selecting "Personal Information" or by emailing our Customer Support at [assessmentservices@nbme.org](mailto:%61%73%73%65%73%73%6D%65%6E%74%73%65%72%76%69%63%65%73%40%6E%62%6D%65%2E%6F%72%67)   or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. 
 
 ### B.  NBME Licensing Examination Services
 
@@ -141,8 +131,11 @@ The NBME is committed to protecting your privacy. While we cannot guarantee priv
 
 ### A.   Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.  
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+
+You may sign-up to receive newsletters or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the "Unsubscribe" link found in emails we send to you or by contacting us at [medicalschoolservices@nbme.org](mailto:me%64%69c%61l%73choolser%76%69ces%40nbm%65.org). 
 
 ### B.  Customer Service
 
