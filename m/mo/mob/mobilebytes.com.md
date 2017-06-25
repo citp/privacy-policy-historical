@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilebytes.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928004441id_/http%3A//www.mobilebytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilebytes.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625150338id_/http%3A//www.mobilebytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileBytes | Restaurant POS for iPad
 
