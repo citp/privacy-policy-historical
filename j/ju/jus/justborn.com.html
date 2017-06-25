@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the justborn.com privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201024455id_/http%3A//www.justborn.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justborn.com privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625225329id_/http%3A//www.justborn.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:example="" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:example="" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>Just Born Candy Company: Privacy Policy</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="UTF-8">
@@ -19,7 +17,7 @@
 		<link href="/resource/corporate2/style/ie8.css" type="text/css" rel="stylesheet">
 	<![endif]-->
 <link href="http://fonts.googleapis.com/css?family=Asap:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="/resource/corporate2/script/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="/resource/corporate2/script/jquery.parallax-1.1.3.js"></script>
 <script type="text/javascript" src="/resource/corporate2/script/jquery.localscroll-1.2.7-min.js"></script>
@@ -62,6 +60,8 @@
 		}
 	});
 </script>
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
 <script type="text/javascript">/* <![CDATA[ */
 	if (window.ColdFusion) ColdFusion.required['strKeywords']=true;
@@ -129,6 +129,77 @@
 						}
 					});
 				</script>
+			<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['strKeywords']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkfrmSearch = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element strKeywords required check
+        if( !_CF_hasValue(_CF_this['strKeywords'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "strKeywords", _CF_this['strKeywords'].value, "Please enter a word or phrase in the search field");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+				<script type="text/javascript">
+					var _gaq = _gaq || []; 
+			                 _gaq.push(['_setAccount', 'UA-5640246-2']); 
+			                 _gaq.push(['_trackPageview']); 
+ 
+			                 (function() { 
+			                   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+			                   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+			                   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+			                 })();
+				</script>
+				<script>
+					$(".clickforVideo").click(function(){
+						$('#youtubeFrameSite').attr('src', 'http://player.vimeo.com/video/77099001?');
+					});
+					$('#siteVidContainer').click(function() {
+						$('#youtubeFrameSite').attr('src', '');
+						if(typeof(api)!="undefined") api.play();
+					});
+					$(document).mouseup(function (e){
+						var container = $("#youtubeFrameSite");				if (container.has(e.target).length === 0)
+						{
+							$('#youtubeFrameSite').attr('src', '');
+							if(typeof(api)!="undefined") api.play();
+						}
+					});
+				</script>
 			</head>
 <body>		<div id="masterContainer">			<div class="masterWrapper">
 				<!-- start desktop header-->
@@ -173,7 +244,7 @@
 							<form name="frmSearch" id="frmSearch" action="/search-results#mainSubPageContentContainerSearchResults" method="POST" onsubmit="return _CF_checkfrmSearch(this)"><input name="strKeywords" id="strKeywords" type="text" placeholder="SEARCH">
 								<input type="image" src="/resource/corporate2/image/redesign/glass.png">
 								<input type="hidden" name="intPageNumber" value="1">
-							<input type="text" style="display:none"></form>
+							</form>
 
 						</div>
 						<div class="clr"></div>
@@ -208,7 +279,7 @@
 									<a href="/brands-you-love">
 										<strong>Brands</strong> you love									</a>										<ul id="brandSubNav" class="subNav">												<a href="/brands-you-love/mike-and-ike">
 													<li>
-														MIKE AND IKE | Chewy Fruit Flavored Candy | Just Born
+														MIKE AND IKE<sup>®</sup>
 													</li>
 												</a>												<a href="/brands-you-love/peeps">
 													<li>
@@ -344,7 +415,7 @@
 								</li>
 								<div class="brandSubNav subnavWrapper">										<a class="subNav" href="/brands-you-love/mike-and-ike">
 											<li>
-												MIKE AND IKE | Chewy Fruit Flavored Candy | Just Born
+												MIKE AND IKE<sup>®</sup>
 											</li>
 										</a>										<a class="subNav" href="/brands-you-love/peeps">
 											<li>
