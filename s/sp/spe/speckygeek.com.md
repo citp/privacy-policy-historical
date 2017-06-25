@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204184410id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625155808id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Specky Geek
 
@@ -6,7 +6,7 @@
 
 How to Start a Blog & Make Money Online, Ethically
 
-[Home](http://www.speckygeek.com/) / Privacy Policy
+[Home](http://www.speckygeek.com/) » Privacy Policy
 
 At Specky Geek, we take your privacy very seriously and are aware of our responsibility  to protect it. We let you know what information we collect when you use our website(s) and services, and why. If you need more clarification, **[contact us](http://www.speckygeek.com/contact-us/ "Contact Specky Geek")**.
 
