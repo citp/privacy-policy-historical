@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamut.media privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122125510id_/http%3A//www.gamut.media/%3Fp%3D275) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamut.media privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625093312id_/http%3A//gamut.media/%3Fp%3D275) for the most accurate reproduction.*
 
 # Gamut | Privacy Policy
 
@@ -18,11 +18,11 @@ Website Privacy Policies. We encourage you to review the privacy policies of th
 
 How long do we keep the Data? Gamut stores cookie targeting data is for 60 days. Certain data, such as the category of ads on specific sites and pages are retained, in aggregate, to inform our decision engine for serving the most relevant ads to any consumer on a non-targeted basis. Frequency-capping cookie data is retained on the consumer’s browser for as long as specified in specific campaign requirements. Gamut’s servers do not store frequency-capping cookie data.
 
-Opt Out Program. As part of our commitment to giving you control and transparency, we provide you with a way to determine if your browser has a Gamut cookie and a way to opt-out of receiving cookie-targeted online ads from networks hosted on Gamut’s platform. [Click here to learn more.](https://web.archive.org/web/20161122125510id_/http://www.gamut.media/privacy-policy/?p=278)
+Opt Out Program. As part of our commitment to giving you control and transparency, we provide you with a way to determine if your browser has a Gamut cookie and a way to opt-out of receiving cookie-targeted online ads from networks hosted on Gamut’s platform. [Click here to learn more.](https://web.archive.org/web/20170625093312id_/http://www.gamut.media/privacy-policy/?p=278)
 
 FURTHER INFORMATION
 
-If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Gamut via [help@gamut.media](mailto:help@gamut.media) or:
+If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Gamut via info@gamut.media or:
 
 Gamut. Smart media from Cox., LLC  
 Office of the General Counsel  
