@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108040140id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625060947id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
-(Updated 13th November 2015) 
+(Updated 13th November 2015)
 
 Hobbycraft are committed to protecting your privacy online. Here we explain how we collect information, what we do with it and what controls you have.
 
@@ -21,7 +21,7 @@ We collect personal information through the use of [cookies](http://www.hobbycra
 
 
 
-We also monitor who uses our website. For example, we may collect information about you like the type of internet browser you use, the website from which you have come to ours and your IP address (the unique address which identifiesyour computer on the internet). This lets us improve our website.
+We also monitor who uses our website. For example, we may collect information about you like the type of internet browser you use, the website from which you have come to ours and your IP address (the unique address which identifies your computer on the internet). This lets us improve our website.
 
 ## Privacy promise
 
