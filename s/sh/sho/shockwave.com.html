@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2016-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226171205id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2017-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170625195649id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/LocalBusiness"><head prefix="og: http://ogp.me/ns# shockwavegames: http://ogp.me/ns/apps/shockwavegames#">
 		<title>
@@ -22,7 +22,7 @@
 		
 
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MV9FHH"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KTF7V8"></script><script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MV9FHH"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KTF7V8"></script><script>
 	window.SW = window.SW || {};
 	SW.envConfig = SW.envConfig || {};
 
@@ -78,13 +78,13 @@
 		<script type="text/javaScript">
     var dartGenre = 'wordgames';
     var dartCategory = 'wordgames';
-    var dartKeyword = 'wordroundupfrenzy';
+    var dartKeyword = 'jumblewordvault';
 </script>
 <script type="text/javaScript">
     SW.adSettings = {};
     SW.adSettings.DoubleClickDartSite = 'sw.nol';
     SW.adSettings.DoubleClickPositionThreshold = '1';
-    SW.adSettings.DoubleClickSections='wordgames/wordroundupfrenzy';
+    SW.adSettings.DoubleClickSections='wordgames/jumblewordvault';
     SW.adSettings.DoubleClickKeyValues = '!category=wordgames;!category=pop;!category=float;!category=expand;';
     SW.adSettings.DoubleClickAutoDcopt=true;
 </script>
@@ -269,6 +269,8 @@
     
 
 
+<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt08975259d7c5a4606567f8ea7d036aa5.js"></script>
+
 
 
 
@@ -282,40 +284,31 @@
     window.SW = window.SW || {};
     SW.globals = SW.globals || {};
 
-    SW.globals.GTM_TIMEOUT = 5000; // Wait 5 seconds
     SW.globals.GPT_REFRESHRATE = 120000; // Refresh every 2 minutes
 
-    setTimeout(function() {
-
-        if(!googletag.apiReady) { // Check if GPT API is already loaded (by GTM)
-
-            (function() {
-                var gads = document.createElement('script');
-                gads.async = true;
-                gads.type = 'text/javascript';
-                var useSSL = 'https:' == document.location.protocol;
-                gads.src = (useSSL ? 'https:' : 'http:') +
-                        '//www.googletagservices.com/tag/js/gpt.js';
-                var node = document.getElementsByTagName('script')[0];
-                node.parentNode.insertBefore(gads, node);
-            })();
-
-        } else {
-            //GPT already loaded
-        }
-
-    }, SW.globals.GTM_TIMEOUT);
-
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
     
     // Setup Ads
     googletag.cmd.push(function() {
     	
     	  
     	  
-    	    googletag.defineSlot('/4678/shockwave_web/ros', [[300, 250]], 'ad300x250').addService(googletag.companionAds()).addService(googletag.pubads());
+    	    googletag.defineSlot('/4678/shockwave_web/ros-right-atf', [[300, 250]], 'ad300x250-right-atf').addService(googletag.companionAds()).addService(googletag.pubads());
+    	    googletag.defineSlot('/4678/shockwave_web/ros-right-mid', [[300, 250]], 'ad300x250-right-mid').addService(googletag.companionAds()).addService(googletag.pubads());
     	  
     	
-    	googletag.defineSlot('/4678/shockwave_web/ros', [[728, 90],[960,1]], 'ad728x90').addService(googletag.pubads());
+    	googletag.defineSlot('/4678/shockwave_web/ros-top', [[728, 90],[960,1]], 'ad728x90-top').addService(googletag.pubads());
+    	googletag.defineSlot('/4678/shockwave_web/ros-bottom', [[728, 90],[970, 250]], 'ad728x90-bottom').addService(googletag.pubads());
+    	googletag.defineSlot('/4678/shockwave_web/ros-top-popout', [[728, 90],[960,1]], 'ad728x90-top-popout').addService(googletag.pubads());
     	
         // Sets Ad Targeting
         
@@ -336,20 +329,6 @@
         }
 
         googletag.enableServices();
-
-        
-        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-
-            // if the ad is not empty, track the event
-            if (!event.isEmpty) {
-                dataLayer.push({
-                    eAction: 'DFP Responded',
-                    eCategory: event.slot.getName().split('/').pop(), // get the adZone from the ad slot path
-                    eLabel: '',
-                    event: 'trackEvent'
-                });
-            }
-        });
     });
 
     window.setInterval(function(){
@@ -458,7 +437,7 @@
                     <li><a title="Download Games" href="/download.jsp" class="download-tab">download games</a></li>
                     <li><a title="Free Online Gaming Community" href="/myShockwave.jsp" class="shockwave-tab">my shockwave</a></li>
                     <li class="search-games">
-                        <form id="globalSearch" name="globalSearch" method="get" action="/games/elasticsearch.jsp">
+                        <form id="globalSearch" name="globalSearch" method="get" action="/games/find.jsp">
                             <input id="globalSearchInput" type="text" value="" placeholder="Search Games" name="q" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
                             <input type="submit" id="game-search-submit" value=" ">
                         </form>
@@ -701,31 +680,21 @@
 
 
 
+    
+        
+    
+    
+
+
+
 	
-	<div class="bannerWrapper">
+	<div class="bannerWrapperAdLeaderboard">
 		<div class="banner">
-			<div id="ad728x90">
+			<div id="ad728x90-top" style="height:90px;overflow:hidden;">
 				<script>
 					googletag.cmd.push(function() {
 						
-							dataLayer.push({
-								eAction: 'DFP Called',
-								eCategory: '/ros',
-								eLabel: '',
-								event: 'trackEvent'
-							});
-
-							// Moved to adSlots.jsp
-							// googletag.defineSlot('/4678/shockwave_web/ros-top', [[728, 90],[960,1]], 'ad728x90').addService(googletag.pubads());
-
-							googletag.display('ad728x90');
-
-							dataLayer.push({
-								eAction: 'Slot rendered',
-								eCategory: '/ros',
-								eLabel: '',
-								event: 'trackEvent'
-							});
+							googletag.display("ad728x90-top");
 						
 					});
 				</script>
@@ -1184,7 +1153,7 @@
 					<li><a href="/about/copyrightCompliance.jsp" class="corpLinks">Copyright Compliance Policy</a></li>
 					
 				</ul>
-				<div class="clear" id="footerLogo">Copyright © 2016 Defy Media, LLC; all rights reserved.<br>
+				<div class="clear" id="footerLogo">Copyright © 2017 Defy Media, LLC; all rights reserved.<br>
 				Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.</div>
 			</div>
 			
@@ -1389,22 +1358,7 @@
 	<div id="ad1x1">
 		<script>
 			googletag.cmd.push(function() {
-				dataLayer.push({
-					eAction: 'DFP Called',
-					eCategory: '/ros',
-					eLabel: '',
-					event: 'trackEvent'
-				});
-
 				googletag.defineOutOfPageSlot('/4678/shockwave_web/ros-interstitial', 'ad1x1').addService(googletag.pubads());
-
-				dataLayer.push({
-					eAction: 'Slot rendered',
-					eCategory: '/ros',
-					eLabel: '',
-					event: 'trackEvent'
-				});
-
 				googletag.display('ad1x1');
 			});
 		</script>
