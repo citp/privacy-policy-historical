@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ayondo.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606045445id_/http%3A//www.ayondo.com/en/legal/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayondo.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625212100id_/http%3A//www.ayondo.com/en/privacy-policy) for the most accurate reproduction.*
 
-# ayondo: Privacy Policy
+# Privacy Policy | ayondo.com
 
 ## Overview
 
@@ -55,4 +55,4 @@ You may request (in writing) not to receive any marketing material.
 
 If our privacy policy changes our website will show the amended terms. We advise you to check for updates.
 
-If you have any queries about this privacy policy contact our [Customer Services department](https://web.archive.org/en/contact).
+If you have any queries about this privacy policy contact our [Customer Services department](https://web.archive.org/en/contact/ "Contact").
