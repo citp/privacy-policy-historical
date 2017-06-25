@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioneyewear.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201032252id_/http%3A//www.fashioneyewear.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioneyewear.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625164341id_/http%3A//www.fashioneyewear.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ We may wish to use certain technology such as web cookies in order to track your
 
 Any computer has the option to decline cookies.  Your web browser options include an “enable” button to decline cookies.  It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.
 
-[Learn more about our Cookie Policy ▶](https://web.archive.org/web/20161201032252id_/http%3A//www.fashioneyewear.co.uk/cookie-policy "Learn more about our Cookie Policy")
+[Learn more about our Cookie Policy ▶](https://web.archive.org/web/20170625164341id_/http%3A//cookie-policy "Learn more about our Cookie Policy")
 
   
 **Our use of information and data**
@@ -50,6 +50,6 @@ You can contact us by:
 
   * Email : [info@fashioneyewear.co.uk](mailto:info@fashioneyewear.co.uk)
   * Tel: +44 (0)20 8987 2400
-  * Writing : Fashion Eyewear, 426 Chiswick High Road, London, W4 5TF
+  * Writing : Fashion Eyewear, 150 Chiswick High Road, London, W4 1PR
 
 
