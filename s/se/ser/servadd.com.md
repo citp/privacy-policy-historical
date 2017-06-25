@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the servadd.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102171914id_/http%3A//servadd.com/doc-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servadd.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# ServAdd - Private Policy
+# Legal
 
-[](https://web.archive.org/web/20091102171914id_/http%3A//servadd.com/)
+* * *
 
-## ServAdd Privacy Policy
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-At ServAdd, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here:
-
-PAYPAL: <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-
-## Cookies
-
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. 
-
-At ServAdd, We may use cookies to: 
-
-::Store your password so you don't have to re-enter it each time you visit our sites. 
-
-  * We will not use cookies to identify, monitor or track any personally identifiable information. 
-  * Our cookies do not contain any personally identifiable information about you. 
-  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit [http://www.cookiecentral.com/faq/ ](http://www.cookiecentral.com/faq/). 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
-
-## Third Party Cookies At Our Sites
-
-While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above. 
-
-## Registration Forms
-
-Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared. 
-
-## External Links
-
-This site contains links to other sites. ServAdd is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. 
-
-[webmaster@servadd.com ](mailto:webmaster@servadd.com)
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: 
-
-[webmaster@servadd.com ](mailto:webmaster@servadd.com)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
