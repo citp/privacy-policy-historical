@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenguide.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010854id_/http%3A//www.womenguide.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenguide.in privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625171919id_/http%3A//www.womenguide.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy,Woman's Health,Fitness,RelationShips,Stress MaintainWomenGuide
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [Here](https://web.archive.org/web/20161119010854id_/http%3A//www.womenguide.in/contact.php)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [Here](https://web.archive.org/web/20170625171919id_/http%3A//www.womenguide.in/contact.php)
 
 | 
