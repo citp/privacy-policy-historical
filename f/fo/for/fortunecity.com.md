@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortunecity.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617110353id_/http%3A//www.dotster.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunecity.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625114424id_/http%3A//www.dotster.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Dotster's Privacy Policy
 
