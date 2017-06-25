@@ -1,35 +1,17 @@
-> *The following text is extracted and transformed from the ipad-transfer.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319062737id_/http%3A//www.ipad-transfer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipad-transfer.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-[Home](http://www.ipad-transfer.com/) > Privacy Policy 
+* * *
 
-Our software is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to the commitment to protecting your privacy. We will not sell your personal information in any manner whatsoever.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**1\. Why we collect personal information?**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-**2\. What information we collect and how we may use it?**
 
-There are a number of situations in which your personal information may help us give you better products or service. For example: 
-
-We may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product. 
-
-We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them. 
-
-We also collect information for market research purposes — such as your occupation and where you use your computer - to gain a better understanding of our customers and thus provide more valuable service.
-
-We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve the software products and service.
-
-**3\. How do the 3rd party credit card processors protect customer information?**
-
-Our software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
-
-Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist product registration.
-
-**4\. About cookies**
-
-In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
-
-You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
