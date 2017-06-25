@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the outinpublic.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027051738id_/http%3A//outinpublic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outinpublic.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625181249id_/http%3A//outinpublic.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site outinpublic.com and all other sites owned or controlled by GEPARD GLOBAL INVESTMENTS, LTD. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site outinpublic.com and all other sites owned or controlled by FXGrade Assets, Ltd. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
