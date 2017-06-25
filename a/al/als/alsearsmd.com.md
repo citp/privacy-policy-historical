@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222161631id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626014405id_/http%3A//alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
