@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xthost.info privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123181728id_/http%3A//xthost.info/index.php%3Fl%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xthost.info privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625084847id_/http%3A//xthost.info/index.php%3Fl%3Dpp) for the most accurate reproduction.*
 
 # XT Host - Free Webhosting 30MB Webspace, No Ads, Instant Signup
 
@@ -18,6 +18,6 @@ We may share information with governmental agencies or other companies assisting
 **Commitment to Data Security** Your personally identifiable information is kept secure. Only authorized employees (who have agreed to keep information secure and confidential) have access to this information. 
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us [here](https://web.archive.org/web/20161123181728id_/http%3A//xthost.info/index.php%3Fl%3Dpp?l=a)
+If you have any questions, concerns, or comments about our privacy policy you may contact us [here](https://web.archive.org/web/20170625084847id_/http%3A//xthost.info/index.php%3Fl%3Dpp?l=a)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
