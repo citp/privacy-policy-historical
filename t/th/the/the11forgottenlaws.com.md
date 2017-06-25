@@ -1,88 +1,139 @@
-> *The following text is extracted and transformed from the the11forgottenlaws.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315022513id_/http%3A//www.the11forgottenlaws.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the11forgottenlaws.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625213833id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
-# The 11 Forgotten Laws
+# Privacy Policy
 
-Y our privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+## The Skinny on Our Privacy Policy
 
-## Personal Information Our Company Collects and How It Is Used
+For those who want the short and relevant answer, we will always, ALWAYS, respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us. But I’m sure you’ve got some questions. Here’s our answers to what may be running through your mind. 
 
-### Introduction
+## How’s my information going to be used?
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
+When you sign up on our Products or Services, you’ll be receiving relevant information about Mindvalley, invites to our online events, as well as information about programs or products that pertain to meditation, spirituality, and personal growth.
 
-### Disclosure
+## How do I to stop receiving emails from you in the future?
 
-We may disclose Member and Visitor information to the following third parties, under the following circumstances:
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there for you!
 
-  * **Companies who work on our behalf:** We contract with other companies to perform business support functions on our behalf, which may involve limited access to your personal information. We require these companies to use the information only to provide the contracted services; they are prohibited from transferring the information to another party except as needed to provide those services. Some examples of these business support functions include order fulfillment, coupon fulfillment, award and rebate fulfillments, customer survey execution and information systems management. We also may make aggregate non-personal information available to select service providers.
-  * **Subsidiaries and joint ventures:** A subsidiary or a joint venture is an organization in which we own at least a 50% interest. If our Company shares your information with a subsidiary or joint venture partner, our Company will require that they not transfer your information to another party for marketing purposes or use your information contrary to your expressed choices. If you have indicated that you do not want to receive any marketing information from our Company, we will not share your information with our subsidiary or joint venture partner for their marketing purposes.
-  * **Co-branded and Partner Pages:** Our Company may share information with partner companies who jointly present special offers or promotions on co-branded pages within our site. You will be notified of this sharing when you are asked to furnish personal data on such a page. The partner’s use of any information you submit will be governed by the partner’s own privacy notice, which you can review before submitting your information.
-  * **Business Transfers:** Our Company reserves the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, our Company will give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that our Company provided.
-  * **Law Enforcement:** Our Company may disclose personal information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of our Company or its subsidiaries.
-  * **With Your Consent:** In all other cases, our Company will obtain your express consent before sharing your information with third parties. For example, our Company may conduct a joint offer or contest with a third party and you will be asked whether your personal information should be shared with that third party.
+All you have to do is drop our Customer Happiness Manager an email at [support@mindvalley.com](mailto:support@mindvalley.com) or [send one from our ‘Contact’ page here](http://www.mindvalley.com/contact). 
 
+## Who’s going to get my information?
 
+Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. We’ll never give out your email address or any of the information you submit on this site to anyone else. 
 
-### Online Shopping
+## What if I email you guys?
 
-If you order services or products directly from our Company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us. 
 
-If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site.
+## Do you guys use cookies?
 
-### Online Advertisements
+Yup, but our cookies don’t contain any personal information. We use them to help you make using our website easier, such as:
 
-Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+**1.** To remember your country and language preferences 
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies. Information about how to opt-out of online advertisements you may receive from our Company will be contained in the ads themselves.
+**2.** To deliver information that match your interests 
 
-### Responses to Email Inquiries
+**3.** To help us understand our audience and traffic patterns 
 
-When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**4.** To let you automatically log into programs and parts of our site that require membership 
 
-### Voluntary Customer Surveys
+**5.** To manage and present site info displayed on our website that will be specific to you 
 
-We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. Information about how to opt-out of surveys will be contained in survey communications.
+We also use Web Beacons to collect non-personal data on how you use our site, such as how long did you visit our page, what web browser you’re using, what’s your operating system, and who’s your Internet service provider. In addition we also use Google Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to our website. This data is collected from thousands of site visits and analyzed as a whole. This helps us build a better website to match our visitors’ needs. 
 
-We may take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+## What if I post in one of your forums or blog posts?
 
-### Automatic Collection of Information
+Occasionally we hold public discussions through forums within our site. This may be on blog posts we put up or in our membership area. Please be aware that this is public space. Would you shout out your credit card information in public? Probably not. Use this same discretion when you post in our forums and when commenting. 
 
-Cookies: Our Company may use ““Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+## How tech savvy are you guys when it comes to data security?
 
-  * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
-  * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
-  * to remember your country and language preferences;
-  * to help us understand the size of our audience and traffic patterns;
-  * to collect and record information about what you viewed on our Web site and what you viewed in our e-mail;
-  * to manage and present site information and the pictures displayed on your computer, and
-  * to deliver information specific to your interests.
+We’re real good. We have a ton (and wide variety, may I mention) of administrative, managerial, and technical security measures put in place to protect your personal information. We’ve never had a breach of security and always strive for excellence in maintaining your privacy. 
 
+Got more questions? You can get a hold of our customer happiness manager at [support@mindvalley.com](mailto:support@mindvalley.com) or [over here for more info](http://www.mindvalley.com/contact). 
 
+## Your privacy is very important to us
 
-Web Beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
+**We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.**
 
-Disabling Cookies and Beacons : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
 
-### Child Privacy
+## Introduction
 
-Protecting the online privacy of children is especially important, and those under the age of 13 are protected by federal law. For that reason, our Company does not knowingly permit children under the age of 13 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. Our Company does not knowingly collect or solicit personal information about children under 13, except with their parent’s express consent.
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described below. 
 
-If we ever include children under the age of 13 as part of our intended site audience, those specific web pages will, in accordance with the provisions of the Children’s Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice; and we will provide processes to obtain parental approval, provide access to information and allow parents to request removal of their children’s personal information.
+## Affiliate links
 
-Our Company encourages parents and guardians to spend time with their children online and to participate in their interactive activities and interests.
+Occasionally you may have clicked on one of Mindvalley’s affiliate links and signed up or bought something via that link. In this case, the person or organization in charge of the affiliate link will have the information that you have submitted. This may be your email address, name, address, or whatever else they asked you. If you have signed up for bought something from Mindvalley via an affiliate link, please check the privacy policy on their site. 
 
-### Public Forums
+## Online shopping
 
-Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people’s comments to be offensive, harmful or inaccurate.
+If you order services or products directly from our Company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-### Our Company’s Commitment to Data Security
+If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site. 
+
+## Responses to email inquiries
+
+When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
+
+Thanks for reading our privacy policy. 
+
+## What if I email you guys?
+
+Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us. 
+
+## Automatic collection of information
+
+Cookies: Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+
+**1.** To keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download 
+
+**2.** To register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership 
+
+**3.** To remember your country and language preferences 
+
+**4.** To help us understand the size of our audience and traffic patterns 
+
+**5.** To collect and record information about what you viewed on our Web site and what you viewed in our e-mail 
+
+**6.** To manage and present site information and the pictures displayed on your computer 
+
+**7.** To deliver information specific to your interests 
+
+Web Beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites. 
+
+**Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support. 
+
+You may also opt out of the DoubleClick cookie by visiting the Google advertising opt-out page: <http://www.google.com/policies/privacy/ads/>
+
+Or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page: <http://tools.google.com/dlpage/gaoptout>
+
+## Public forums
+
+Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We try to moderate the comments as best we can but we can’t guarantee total control of the comments that you may receive while you participate in these services. Sometimes, you may find other people’s comments to be offensive, harmful or inaccurate.
+
+But none of these sentences are offensive at all: 
+
+**1.** You’re wonderful! 
+
+**2.** My goodness, your butt looks amazing in those jeans. 
+
+**3.** How can someone as beautiful as you be allowed out on the streets? 
+
+**4.** Thanks for gracing our website with your presence 
+
+## Our company’s commitment to data security
 
 We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our Company has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
 
 Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-## Where to Direct Questions About Our Privacy Policy
+## Revisions to this policy
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our Company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
+Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](http://www.mindvalley.com/terms-of-use), and our other policies and agreements at any time and in any manner, by updating this posting.
+
+## Where to direct questions about our privacy policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.mindvalley.com/contact) provided on this website.
+
+6075 South Eastern Ave, Suite 1, Las Vegas, NV 89119
