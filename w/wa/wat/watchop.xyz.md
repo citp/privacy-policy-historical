@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchop.xyz privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225112732id_/http%3A//www1.watchop.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchop.xyz privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625083716id_/http%3A//www1.watchop.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watchop
 
