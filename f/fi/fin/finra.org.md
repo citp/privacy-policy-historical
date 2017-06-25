@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128033643id_/http%3A//www.finra.org/finra-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625102134id_/http%3A//www.finra.org/finra-website-privacy-policy) for the most accurate reproduction.*
 
 # FINRA Website Privacy Policy | FINRA.org
 
