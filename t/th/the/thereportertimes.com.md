@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thereportertimes.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232158id_/http%3A//www.thereportertimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereportertimes.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625212327id_/http%3A//www.thereportertimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Reporter Times
+# Privacy Policy | The Reporter Times
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
