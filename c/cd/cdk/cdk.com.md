@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610221313id_/http%3A//cdkglobal.com/cdk-online-privacy-portal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdk.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625043411id_/http%3A//www.cdkglobal.com/cdk-online-privacy-portal) for the most accurate reproduction.*
 
 # CDK Online Privacy Portal | CDK Global
 
@@ -35,7 +35,7 @@ A “cookie” is a small computer file that is sent to your computer when you v
   * __General.__ We use the information we collect from you on this Site primarily to enable us to effectively provide our products and services, including:  
 
     * To provide you the information, products or services you have requested; 
-    * For our internal purposes such as to monitor and analyse Site traffic and usage patterns to help improve our website, better understand our customers’ needs, or to develop new offerings in which you may be interested; 
+    * For our internal purposes such as to monitor and analyze Site traffic and usage patterns to help improve our website, better understand our customers’ needs, or to develop new offerings in which you may be interested; 
     * To compile statistics and reports regarding the users of this Site, products and/or services, which may include combining the personal information you provide with information we obtain from business partners or other companies; 
     * To deliver interest-based content and advertising to you that is targeted to the interests we identify through your online activities;
     * To share with our related companies or trusted third parties so that they may assist us with our use of the information as described above; and
@@ -57,8 +57,6 @@ Our Site includes social media features, such as the Facebook “Like” button.
 ##### International Visitors
 
 CDK’s Site is hosted and operated in the United States (“US”) and elsewhere in the world. By using the Site, you are consenting to the transfer of any information related to your use of this Site (including your personal information) to the US or to another jurisdiction other than your own. If you are accessing this Site from outside the US, please be advised that US law (or the law of the jurisdiction ultimately hosting this Site or the related content) may not offer the same privacy protections as the law of your jurisdiction. 
-
-CDK participates in the US – EU and US – Swiss Safe Harbor Privacy Programs. We protect all personal information of prospective, current and former employees we receive from the EU/EEA and/or Switzerland for human resources activities and employment purposes, in accordance with the Safe Harbor Principles. To learn more about the Safe Harbor Framework, the Safe Harbor Principles, and to view CDK’s certification, please visit the US Department of Commerce’s Website:[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
 ##### Your California Privacy Rights
 
@@ -84,4 +82,4 @@ Hoffman Estates, IL 60169
 ##### Last Date for Updates  
 
 
-This Privacy Policy was last updated on July 20, 2015. 
+This Privacy Policy was last updated on November 8, 2016. 
