@@ -1,36 +1,26 @@
-> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205191529id_/http%3A//www.attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115133id_/http%3A//www.attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Attendance on Demand time and attendance systems
 
-Your privacy is important to Attendance on Demand, Inc. ("Attendance on Demand") Please read the following carefully to understand our policies and practices regarding your personal information and how we treat it. 
+Your privacy is important to Attendance on Demand, Inc. ("Attendance on Demand"). Please read the following carefully to understand our policies and practices regarding your personal information and how we treat it.
 
-By accessing or using this website ("Site") or the products or services offered on or through the Site ("Services"), you agree to this policy. This policy may be changed from time to time and your continued use of the Website or Services is deemed to be acceptance of such changes, so please check the policy periodically for updates. 
+By accessing or using our website ("Site"), the ESS Mobile App or the Mobile Manager App (each, an “App”) or the products or services offered on or through the Site or an App ("Services"), you agree to this policy. 
 
 In order to improve Services, our Site may gather information about you and the pages you visit. This policy explains how this may happen, how we may use information collected about you and how you can contact us to request correction of such information.
 
 ### Personal Data Information Collected
 
-In order to access the Services, you may be asked to provide information that allows you to be identified as a particular person, such as your name, your address or phone number ("Personal Data").We collect certain types of Personal Data when you register for a white paper or contact us. This Personal Data may include:
+In order to access the Services, you may be asked to provide information that allows you to be identified as a particular person, such as your name, your address or phone number, your email address and your company ("Personal Data").
 
-  * your name
-  * your address
-  * your phone number
-  * your email address
-  * your company
-
-
-
-By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy, including without limitation, your acknowledgement and agreement that such Personal Data may be transferred from your current location to offices and servers of Attendance on Demand and/or those third party providers with whom we have a relationship, including analytics and advertising partners ("Service Providers"), and to our affiliates, employees and contractors located in the United States and other countries. 
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy, including without limitation, your acknowledgement and agreement that such Personal Data may be transferred from your current location to offices and servers of Attendance on Demand and/or those third party providers with whom we have a relationship, including analytics and advertising partners ("Service Providers"), and to our affiliates, employees and contractors located in the United States and other countries.
 
 ### Other Information
 
-Attendance on Demand, or its Service Providers may send a cookie to your computer or use web beacons to gather statistical information. Neither cookies nor web beacons personally identify you. A cookie is a piece of data that a website can send to your browser, which is then stored on your computer as an anonymous tag that identifies your computer. When a visitor accesses certain pages on the Site an anonymous notice of that visit is generated which may be processed by us or by our Service Providers. Web beacons work in conjunction with cookies to let us know what portions of the Site are of interest to you and to help us provide you with tailored information from our Site. We use the information primarily to provide you with a personalized Internet experience that delivers information, resources, and services that are most relevant and helpful to you.
-
-If you never provide us with Personal Data, then your visits – despite us using cookies or web beacons – are anonymous. We don't know the actual person linked with the cookie or web beacon.
-
-If you do provide Personal Data, then we could potentially link that with your cookie, then gather the visits with web beacons and understand how you personally have acted when visiting the Site.
-
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. If you turn off cookies, web beacon technology will still detect anonymous visits, but the notices they generate cannot be associated with other anonymous information or Personal Data and are disregarded. 
+Cookies: Attendance on Demand, or its Service Providers may send a cookie to your computer or use web beacons to gather statistical information. Neither cookies nor web beacons personally identify you. A cookie is a piece of data that a website can send to your browser, which is then stored on your computer as an anonymous tag that identifies your computer. When a visitor accesses certain pages on the Site an anonymous notice of that visit is generated which may be processed by us or by our Service Providers. Web beacons work in conjunction with cookies to let us know what portions of the Site are of interest to you and to help us provide you with tailored information from our Site. We use the information primarily to provide you with a personalized Internet experience that delivers information, resources, and services that are most relevant and helpful to you.  
+If you never provide us with Personal Data, then your visits to our Site – despite us using cookies or web beacons – are anonymous. We don't know the actual person linked with the cookie or web beacon.  
+If you do provide Personal Data, then we could potentially link that with your cookie, then gather the visits with web beacons and understand how you personally have acted when visiting the Site.  
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. If you turn off cookies, web beacon technology will still detect anonymous visits, but the notices they generate cannot be associated with other anonymous information or Personal Data and are disregarded.   
+GPS: When you use the App, we also collect global positioning (GPS) data through your mobile devices.
 
 ### How We May Use Your Information
 
@@ -45,6 +35,10 @@ We will only disclose your Personal Data and other information collected on our 
 
 
 
+### Security
+
+Attendance on Demand implements a variety of security measures to protect your Personal Data. Your Personal Data is contained behind secured networks. When you access your Personal Data, we offer the use of a secure server. Any sensitive information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database.
+
 ### Third Party Monitoring
 
 Third-party vendors, including Google (www.google.com/policies/privacy/partners/), show Attendance on Demand ads on sites across the Internet. Third-party vendors, including Google, may use cookies and/or web beacons to serve ads based on past visits to our website. You may opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
@@ -55,7 +49,7 @@ This Privacy Policy only addresses the use and disclosure of information by Atte
 
 ### Notice to Residents of Countries outside the United States
 
-Attendance on Demand is headquartered in the United States of America. Your personal information may be accessed by or transferred to the United States or to our affiliates or third party elsewhere in the world. By providing us with your personal information, you consent to this transfer. We will always use commercial reasonable measures to protect the privacy of your personal information, regardless of where it is processed or stored. 
+Attendance on Demand is headquartered in the United States of America. Your personal information may be accessed by or transferred to the United States or to our affiliates or third party elsewhere in the world. By providing us with your personal information, you consent to this transfer. We will always use commercial reasonable measures to protect the privacy of your personal information, regardless of where it is processed or stored.
 
 ### Children Under 13
 
@@ -64,4 +58,4 @@ We do not intentionally collect information from children under 13 on the Site. 
 ### Updating Your Information
 
 You can update your information in the following ways:  
-By postal mail to: Attention: Privacy, Attendance on Demand, Inc., 23206 Commerce Drive, Suite 100,, Farmington Hills, MI 48335, by phone at 248-476-0008 or to opt-out utilize the Unsubscribe option at the bottom of your newsletter.
+By postal mail to: Attention: Privacy, Attendance on Demand, Inc., 22300 Haggerty Road, Northville, MI 48167, by phone at 248-476-0008 or to opt-out utilize the unsubscribe option at the bottom of your newsletter.
