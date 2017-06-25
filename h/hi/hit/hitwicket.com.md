@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214071733id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625162901id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
 
@@ -67,6 +67,10 @@ All other information that you directly or indirectly create or access within Hi
 ### Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These include firewalls, physical security and password protection. 
+
+### Community Guidelines
+
+The Hitwicket Community is the heart of the game! Please go through the detailed "[Community Guidelines](https://web.archive.org/site/communityGuidelines)" to know the "do's & don'ts" while interacting with the community.
 
 ### Opt-Out
 
