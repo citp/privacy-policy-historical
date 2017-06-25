@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnimedia.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120193435id_/http%3A//www.pnimedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnimedia.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625140123id_/http%3A//www.pnimedia.com/privacypolicy) for the most accurate reproduction.*
 
 # privacy-policy — PNI Media
 
