@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223105043id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625074551id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.*
 
 # Buzzen Chat - Privacy Agreement
 
 **COPYRIGHT© BUZZEN:**
 
-Buzzen in its entirety is copyrighted © 2002-2016 BUZZEN. All rights reserved. Buzzen will always and forever be, a FREE and loyal service. Any unauthorized use of Buzzen materials is strictly prohibited without prior written consent from a Buzzen Admin. 
+Buzzen in its entirety is copyrighted © 2002-2017 BUZZEN. All rights reserved. Buzzen will always and forever be, a FREE and loyal service. Any unauthorized use of Buzzen materials is strictly prohibited without prior written consent from a Buzzen Admin. 
 
 **Your Personal Information:**
 
