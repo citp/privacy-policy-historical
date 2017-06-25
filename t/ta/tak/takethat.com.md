@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takethat.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227203052id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takethat.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625103846id_/http%3A//takethat.com/privacy) for the most accurate reproduction.*
 
-# Universal Music Group Privacy Policy
+# Take That
 
 _VERSION: 1.3_GLOBAL_  
 Effective Date: 1st January 2016
@@ -118,7 +118,7 @@ We may share your personal information with any UMG Company, listed [here](http:
   * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you in order to provide you with a product or service;
   * Business partners, suppliers and sub-contractors to provide you with information about promotions and offers;
   * Relevant Universal Music artists and/or their representatives;
-  * Aggregated, anonymized or other data to advertisers, advertising networks and social networks that require the data to select and serve relevant adverts to you and others.  We may also use aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience;
+  * Aggregated, anonymized or other data to advertisers, advertising networks and social networks that require the data to select and serve relevant adverts to you and others. We may also use aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience;
   * Universal Music works with a number of carefully selected third party companies (including Comufy, Facebook, Twitter, Videology) that provide a broad range of online solutions, from traffic analysis and advertising to user experience enhancements, such as enabling you to use the same login details across multiple websites. It is sometimes necessary for Universal Music to provide these companies with access to limited personal information about our users. In such cases Universal Music will share only the personal data required to for these companies to perform their functions and will not allow them to use this data for any other purposes;
   * Analytics and search engine providers that assist us in the improvement and optimisation of our Site.
 
@@ -157,15 +157,15 @@ This Site is not directed toward children under 13 years of age nor does UMG kno
 
 Where applicable under local law, you may request a copy of the personal information held by UMG about you and may ask about all recipients of the information, the purpose of the processing, request the correction of incorrect data, and request the blocking and deletion of such data by contacting us as described in the “Contact” section below. We may require you to prove your identity with approved identification if you request this information.
 
-You are responsible for keeping your information current and up-to-date.  You may update your information by contacting us as described in the “Contact” section below. You also have the right, where provided under applicable law, to ask us not to process your personal data 
+You are responsible for keeping your information current and up-to-date. You may update your information by contacting us as described in the “Contact” section below. You also have the right, where provided under applicable law, to ask us not to process your personal data 
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove it by contacting us as described in the “Contact” section below.  We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove it by contacting us as described in the “Contact” section below. We will respond to your request to access within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us as described in the “Contact” section below.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us as described in the “Contact” section below.
 
-Where provided under applicable law, you may have the right to ask us for a list of your personal data we share with third parties and information regarding those third parties, if the third parties use the personal data for their direct marketing purposes.  We will seek your consent (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us as described in the “Contact” section below.
+Where provided under applicable law, you may have the right to ask us for a list of your personal data we share with third parties and information regarding those third parties, if the third parties use the personal data for their direct marketing purposes. We will seek your consent (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us as described in the “Contact” section below.
 
 ## LINKS TO THIRD PARTY WEBSITES
 
