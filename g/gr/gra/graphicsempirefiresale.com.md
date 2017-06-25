@@ -1,23 +1,17 @@
-> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112190843id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-GraphicsEmpireFiresale.com values and respects the privacy of its visitors and members. This policy, known as the Privacy Policy, details the type of information we collect from you, and what we do with that information.
+* * *
 
-**Personal Information**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-GraphicsEmpireFiresale.com collects your First Name, and E-mail address when you first sign up with the site. We might also in the near future ask for additional, optional information through our registration form, including but not limited to your mailing address.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Use of Information**
 
-We respect your privacy and will never rent, share, trade or sell your information. You may easily unsubscribe at any time.
 
-Upon request, GraphicsEmpireFiresale.com may disclose your contact information to customers of your website, government agencies, any trademark or copyright owner requiring to contact you in regards to transactions or content on your site.
-
-Information submitted by you at the time of registration (including but not limited to your name and e-mail address) may be used but not limited to marketing and promotional purposes by GraphicsEmpireFiresale.com.
-
-This information may also be shared with other companies who offer a co-branded or rebranded versions of our site, who offer services in conjunction with GraphicsEmpireFiresale.com, or who are business partners of GraphicsEmpireFiresale.com. GraphicsEmpireFiresale.com will not otherwise identify you personally to other companies, or to any advertisers. GraphicsEmpireFiresale.com provides demographic information in aggregate form to advertisers on our site, without identifying any user personally.
-
-We may use information provided by you when you participate in contests or surveys on our site to send information about GraphicsEmpireFiresale.com to you, or to give information to advertisers in aggregate form.
-
-By using GraphicsEmpireFiresale.com and disclosing information to us you expressly consent to the uses described in this Privacy Statement.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
