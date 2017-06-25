@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123225013id_/http%3A//www.superlawyers.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625103247id_/http%3A//www.superlawyers.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
