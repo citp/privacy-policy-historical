@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124165610id_/http%3A//www.rhb.com.my/malaysia/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625154202id_/https%3A//www.rhbgroup.com/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to RHB Banking Group
 
@@ -78,14 +78,12 @@ Email : [customer.service@rhbgroup.com](mailto:customer.service@rhbgroup.com)
   
 
 
-  1. RHB 
-  2. Malaysia 
-  3. General Info 
-  4. Privacy Policy 
+  1. General Info 
+  2. Privacy Policy 
 
 
 
-[](http://www.rhb.com.my/#)
+[](https://www.rhbgroup.com/#)
 
 You are about to enter a third party website and RHB Banking Group's privacy policy will cease to apply.
 
