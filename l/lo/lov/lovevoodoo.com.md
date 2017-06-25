@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219200500id_/http%3A//www.lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115842id_/https%3A//lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
 
 # LoveVoodoo.com Privacy Statement
 
@@ -66,14 +66,4 @@ Our policy only addresses the use and disclosure of information we collect from 
 Security  
 LoveVoodoo.com has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. LoveVoodoo.com uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at LoveVoodoo.com work hard to ensure your secure use of our services. 
 
-Update/Delete  
-LoveVoodoo.com Members have the following choices to modify or delete their information from our database:
-
-Send an email to our customer service rep. at info@LoveVoodoo.com or call 1 (866) 408-1369;
-
-Log in with your password and modify your profile;
-
-Send a snail mail to LoveVoodoo.com at Social Media Marketing, P.O. Box 262, Kenner, LA 70063 
-
-\--------------------------  
-Updated July, 2003
+\--------------------------
