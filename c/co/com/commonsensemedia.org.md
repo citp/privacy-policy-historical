@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231021137id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625192818id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Common Sense Media
 
 [En Español](https://web.archive.org/about-us/our-mission/politica-de-privacidad-0)
+
+**Our updated privacy policy explains how we protect donor's information. Please read the full privacy policy for details!**
 
 At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full [Common Sense Media Privacy Policy](https://web.archive.org/about-us/our-mission/privacy-policy#privacy-policy).
 
@@ -51,7 +53,7 @@ You can contact us at: Common Sense Media, 650 Townsend Street, Suite 435, San F
 
 **COMMON SENSE MEDIA PRIVACY POLICY**
 
-Effective Date of Policy: July 14, 2016
+Effective Date of Policy: April 19, 2017
 
 Welcome! Below you will find the privacy policy for Common Sense Media, Inc. (" **we** " or " **us** "). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the " **Policy** " or the " **Privacy Policy** ") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, [www.commonsensemedia.org](http://www.commonsensemedia.org/) (the " **Site** "), other Common Sense Media websites, the Common Sense Media mobile application and other applications (" **apps** ") that we operate and that link to this Privacy Policy (collectively, the " **Services** "). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
 
@@ -194,7 +196,17 @@ To learn about our practices regarding children's personal information, please r
 
 
 
-**V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION**
+**V. Donor Privacy Policy**
+
+At Common Sense, we are strongly committed to protecting the privacy of our donors. We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect.
+
+We are not in the business of renting, selling, or trading our donors’ names or personal information, nor of sending mailings to our donors on behalf of other organizations. If this should ever change, we would only do so with your prior consent.
+
+We may use third-party service providers to provide certain services on our behalf, including to process donations. To the extent that any third-party service provider is used to process donations, that service provider has assured Common Sense it will not use personal donor information for any purpose other than what is necessary to process the gift transaction for Common Sense.  And any additional service providers, such as email providers, are given access to personal donor information only as needed to provide their functions for Common Sense.
+
+This policy applies to all donor personal information received by Common Sense, both online and offline, on any Platform ("Platform", includes the Common Sense website and mobile applications), as well as through any electronic, written, or oral communications.
+
+**VI. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION**
 
 _Links_. This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply our endorsement of the linked site or service. In addition, we are not responsible for the information collection, use, disclosure or security policies and practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer.
 
@@ -206,7 +218,7 @@ Please note we are unable to update or delete any of your Personal Information t
 
 _Changes to the Privacy Policy_. We reserve the right to change this Policy, and any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Services following such changes constitutes your acceptance of the revised Policy then in effect. If we make changes to this Policy we will take reasonable steps to alert users of the Services that the Policy has been updated.
 
-**VI. CONTACTING US**
+**VII. CONTACTING US**
 
 If you have any questions about this Policy, or the practices of the Services, please contact us at [privacy@commonsense.org](mailto:privacy@commonsense.org). Or write to us at:
 
@@ -215,7 +227,7 @@ Common Sense Media
 650 Townsend Street, Ste. 435  
 San Francisco, CA 94103
 
-**VII. NOTICE TO CALIFORNIA RESIDENTS**
+**VIII. NOTICE TO CALIFORNIA RESIDENTS**
 
 For adults who have specifically opted-in and chosen to become Common Sense Kids Action Advocates, we may share with our affiliates and like-minded coalitions working on behalf of children the email address and/or zip code that you provided to us when you signed up to participate in Common Sense Kids Action. California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to or write us: [privacy@commonsense.org](mailto:privacy@commonsense.org) or you may contact us via regular mail at:
 
