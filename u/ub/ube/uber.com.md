@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229233032id_/https%3A//www.uber.com/legal/privacy/users/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625043522id_/https%3A//www.uber.com/legal/privacy/users/en) for the most accurate reproduction.*
 
 # Legal | Uber
-
-Select document
 
 ### USER PRIVACY STATEMENT
 
@@ -133,7 +131,7 @@ We may allow others to provide audience measurement and analytics services for u
 
 ##### Account Information
 
-You may correct your account information at any time by logging into your online or in-app account. If you wish to cancel your account, please email us at [support@uber.com](mailto:support@uber.com). Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debt on your account, or if we believe you have committed fraud or violated our Terms, we may seek to resolve the issue before deleting your information.
+You may correct your account information at any time by logging into your online or in-app account. If you wish to delete your account, please log into your Uber account at uber.com or in the app, and the follow the directions in [this link](https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a) or “Delete my Uber Account” under the “Account and Payment” option. Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debt on your account, or if we believe you have committed fraud or violated our Terms, we may seek to resolve the issue before deleting your information.
 
 ##### Access Rights
 
@@ -165,4 +163,4 @@ We may change this Statement from time to time. If we make significant changes i
 
 #### Contact Us
 
-If you have any questions about this Privacy Statement, please contact us at [privacy@uber.com](mailto:privacy@uber.com), or write us at Uber Technologies, Inc., Attn: Legal,1455 Market Street, Suite 400, San Francisco, CA 94103 (if you reside in the U.S.), or at Uber B.V., Attn: Legal, Vijzelstraat 68-78, 1017 HL Amsterdam, Netherlands (if you do not reside in the U.S.).
+If you have any questions about this Privacy Statement, please review the FAQ’s in the “Legal & Privacy” section [here](https://help.uber.com/h/6477a37b-3faa-42b0-8b01-677bc61d3ea4), where you may also submit your questions, or write us at Uber Technologies, Inc., Attn: Legal,1455 Market Street, Suite 400, San Francisco, CA 94103 (if you reside in the U.S.), or at Uber B.V., Attn: Legal, Vijzelstraat 68-78, 1017 HL Amsterdam, Netherlands (if you do not reside in the U.S.).
