@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014170015id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625164942id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | REEDS Jewelers
 
-**Last updated on: November 11, 2014**
+**Last updated on: May 26, 2015**
 
 Your privacy is important to us. To best serve your shopping needs, we strive to provide products, services, and offers of value to you. We are able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. REEDS Jewelers has procedures in place to ensure that your personal information is handled in a safe, secure, and responsible manner.
 
@@ -13,8 +13,6 @@ REEDS Jewelers, Inc. and our brands which include but are not limited to stores 
 ### Who is REEDS Jewelers?
 
 Founded in 1946, REEDS Jewelers is a leading full-service multi-channel jewelry retailer, with stores in multiple states, a national direct mail catalog, and an ecommerce web site, [www.Reeds.com](https://web.archive.org/), serving customers across all 50 states and those stationed abroad at APO/FPO addresses. To view our current roster of REEDS Jewelers store locations, please visit our [ Store Locator](https://web.archive.org/about/ReedsLocations.html).
-
-In 2013, REEDS Jewelers established the website [www.reeds.com/jewelerswife/](https://web.archive.org/jewelerswife) to provide fashion-forward, quality styles at affordable prices. 
 
 _PLEASE NOTE: REEDS Jewelers, is not associated with any other jewelry chain or store using the name Reeds, Reeds Jewelers or Jewelers Wife._
 
