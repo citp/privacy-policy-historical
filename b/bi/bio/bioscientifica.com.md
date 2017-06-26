@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bioscientifica.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015143433id_/http%3A//bioscientifica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioscientifica.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626035251id_/http%3A//www.bioscientifica.com/privacy-policy) for the most accurate reproduction.*
 
 # Bioscientifica | Privacy policy
 
-Bioscientifica is dedicated to ensuring that your privacy is protected in accordance with current UK and EU legislation. This privacy policy tells you what to expect when Bioscientifica Ltd collects information from you via our website.
+Bioscientifica are dedicated to ensuring that your privacy is protected in accordance with current UK and EU legislation. This privacy policy tells you what to expect when Bioscientifica Ltd collects information from you via our website.
 
 ## Contact details
 
@@ -10,13 +10,13 @@ By submitting your contact details on our website, you give Bioscientifica permi
 
 ## Cookies
 
-When you visit the Bioscientifica website, Bioscientifica sends your computer a small file called a cookie, which we can access when you visit our site in future.  Bioscientifica collect this information to help our website run smoothly, and to analyse general trends in the way our users interact with the website (such as the most popular content) so that we can ensure the website meets the demands of our users.
+When you visit the Bioscientifica website, Bioscientifica send your computer a small file called a cookie, which we can access when you visit our site in future. Bioscientifica collect this information to help our website run smoothly, and to analyse general trends in the way our users interact with the website (such as the most popular content) so that we can ensure the website meets the demands of our users.
 
 To analyse our cookie data, Bioscientifica use a third party service provided by Google Inc called Google Analytics. Google Analytics does not associate your anonymous cookie data with any other identifiable data that Google may hold about you.
 
 Further details on cookies, and how to de-activate them, can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-Cookie| Purpose  
+Cookie | Purpose  
 ---|---  
 __gads | Targeting/advertising  
 __utma | Performance  
