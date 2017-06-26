@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wistv.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217234259id_/http%3A//www.wistv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistv.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626185512id_/http%3A//www.wistv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wistv.com - Columbia, South Carolina
 
