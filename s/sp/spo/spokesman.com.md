@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120200545id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626061638id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
 
-# The Spokesman-Review
-
-* * *
+# Privacy policy | The Spokesman-Review
 
 ### Privacy policy
 
@@ -17,7 +15,7 @@ This privacy policy applies to Cowles Publishing Company d/b/a SR Media Group, a
   * How you can learn of changes to our privacy policy.
   * How to contact us.
 
-
+[](https://web.archive.org/web/20170626061638id_/http%3A//www.spokesman.com/what)
 
 #### PERSONAL INFORMATION
 
