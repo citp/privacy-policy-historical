@@ -1,33 +1,70 @@
-> *The following text is extracted and transformed from the y8gamesfun.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729041548id_/http%3A//www.y8gamesfun.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8gamesfun.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626182448id_/http%3A//www.y8.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.bugy.com
+# Y8.com - Privacy Policy
 
-Privacy Policy for www.bugy.com 
+PRIVACY POLICY Last modified: January 15, 2013
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@bugy.com. 
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to Our websites and to all games and other activities that are offered by Us on or through Our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Web Entertainment Limited (hereafter referred to as "WEL" or any second-person pronoun), is the responsible party as referred to in the Hong Kong Personal Data Protection Act. WEL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing Our Websites, You are accepting the practices described in this Privacy Policy.
 
-At www.bugy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.bugy.com and how it is used. 
+Y8 is committed to providing an entertaining, fun and educational service. Y8.com is a property of WEL. WEL respects the privacy concerns of visitors to Y8 network websites. It does not target its Website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while being online. For example, We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
-**Log Files**  
-Like many other Web sites, www.bugy.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+1\. INFORMATION YOU PROVIDE TO US
 
-**Cookies and Web Beacons**  
-www.bugy.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of Our website and or to provide and or to enhance services. Email addresses of persons under 13 years of age are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register, You provide Us with Your date of birth, username, password and email address.
 
-**DoubleClick DART Cookie**
+Y8 Network website does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.bugy.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.bugy.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+2\. INFORMATION WE RECEIVE ABOUT YOU
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Valueclickmedia 
+The information that We receive about You concerns
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.bugy.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+  * Non-personal information 
+    1. Data in relation to the use of the Website and Our services, such as high scores, game rankings game challenges, avatars, etc.;
+    2. Keyword popularity reports regionally Website migration patterns;
+  * Technical information, including: 
+    1. Your IP address;
+    2. Your browser;
+    3. the Operating system You use;
+    4. if You are logged in to id.net, Your User ID.
 
-www.bugy.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.bugy.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+3\. HOW WE USE THE INFORMATION
+
+We do not retain any information You provide to Us beyond the time it is needed. We may use information to ensure that users are in compliance with Our terms. Persons over 13 years of age authorize Us to send them email notifications related to Y8.com products and services including the Y8 Newsletter. Y8 Network may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Y8 network’s property, visitors, or anyone else that could be harmed by such activities.
+
+We may sometimes use non-personal information that We receive about You to improve the design and content of Our website, to personalize Our visitors' experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services.
+
+4\. INFORMATION WE SHARE, THIRD PARTY AND SPONSORS
+
+We do not disclose personally identifiable information of users under 13 years of age to third parties.
+
+We use Google AdSense to serve ads when You visit Our website. WEL may use share information (not including your name, address, email address or telephone number) about Your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to You. Third parties and/or WEL may be placing and reading standard and or flash cookies on Your browser and machine, or using web beacons to collect receive information about Your use of on the website, and in the course of ads being served.
+
+We will share Your information with Our business partners or clients, with Your consent, so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from You which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to You. We may use Your information to improve Our services and or to help serve advertising to You.
+
+You may manage or opt out of your flash cookies here You may manage or opt out of Your standard cookies via Your web browser and if You would like more information about this practice and to know Your options in order to prevent these companies from using this information, please click here.
+
+5\. SECURITY
+
+We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information We receive from You.
+
+6\. THIRD PARTY LOGIN SYSTEM ID.NET
+
+We offer You the opportunity to login to Our Website through the use of Your id.net identity linked to Our Website.
+
+Id.net is a login system that allows You to create an id.net account that gathers a set of id.net identities. The purpose of having id.net identities is so that You can determine under which one You want to access third party websites and what information You want to share. In addition, You can review which information You share with third party websites.
+
+Only Your information about Your id.net identity linked to Our Website, such as Your nickname, email, date of birth, country and gender from Your id.net account will be sent to Us when You use it to register or login. We do not have access or receive any information about Your id.net account without Your consent.
+
+For Members who are already registered and have an Account on Our Website, You agree and consent to the migration of Your account to an id.net account and id.net identity linked to Our Website.
+
+7\. PARENTAL REVIEW
+
+Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to Our Privacy Manager at Web Entertainment Limited, Room 409 Yu To Sang Building, 37 Queen's Road Central Hong Kong SAR. Please be sure to include your email address and a telephone number where We can reach you. To protect your child's privacy and security, We will take reasonable steps to help verify your identity before granting you access to the personal information that We collect and maintain about your child.
+
+8\. CHANGES TO THE PRIVACY POLICY
+
+We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.
+
+If you have any questions, you can contact us through our [contact form](https://web.archive.org/contact/new).
