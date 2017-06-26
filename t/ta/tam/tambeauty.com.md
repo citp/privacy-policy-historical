@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tambeauty.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015093525id_/https%3A//www.tambeauty.com/en/Privacy-Policy/cc-4.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tambeauty.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626213352id_/https%3A//www.tambeauty.com/en/Privacy-Policy/cc-4.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TAM Beauty
 
@@ -32,16 +32,15 @@
 
 5.3 Cookies are used on this website for the following purposes:
 
-  1. **_Session cookies:_** We use session cookies to enable the website to keep track of your movement from page to page and store your selections so you do not get asked repeatedly for the same information. These cookies allow you to proceed through many pages of the website quickly and easily without having to authenticate or reprocess each new area you visit. For example, the session cookie remembers your shopping cart selection so will have the items you selected when you are ready to check out.
-  2. **_Cookie to store your settings:_** We use a persistent cookie (up to three years) to remember your settings such as your country, language and currency as well as any items you may add to the shopping basket, which are stored in a database on our secure server. This cookie enables you to have access to your settings and items if you return to the site.
+  1. **_Session cookie:_** This cookie is used to identify you as a user between page loads. This allows the site to remember certain settings, like which part of the website you were using before you were asked to sign in or register. This cookie is destroyed each time you close your browser.
+  2. **_Cookie to store your settings:_** This is a unique id linking your web browser visit to the site to your particular user settings. This includes settings such as your country, language and currency as well as any items you may add to the basket. The items you add to the basket are stored in a database on our secure server. This cookie is available for 3 years so you can return anytime to the site and still have your settings and items you have added to the site available.
   3. **_Google cookies:_** Persistent cookies (up to four years we believe) are set in connection with the following Google services on our site and these cookies may involve certain non-personally identifying information being sent to Google: 
     1. **_Google Analytics (“GA”):_** We use cookies to recognise and count the number of website visitors as well as providing other information about the visit such as duration, route through the website and what sites the visitor came from. This information helps us to improve the way our website works, for example by making sure users find what they need easily.
     2. **_More information and opt out:_** Click [here](http://www.google.com/policies/privacy/) for Google’s privacy policy and [here](https://www.google.co.uk/policies/technologies/types/) for more information about the kinds of cookies placed by Google. Click [here](http://www.google.com/intl/en/policies/privacy/partners/) for information about how Google uses data from its partners’ sites or apps as well as how to opt out of Google cookies.
-  4. **_Cookie-warning cookie:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the website. This persistent cookie will remember your preference for up to [insert] days.
 
 
 
-5.4 By continuing to use our website, having seen our cookie notice, we assume that you consent to use of the cookies outlined above.
+5.4 By continuing to use our website, we assume that you consent to use of the cookies outlined above.
 
 **6\. How do we use your personal data?**
 
@@ -71,18 +70,16 @@
 
 8.2 We may allow access to your personal data by third parties who supply us with a service. Examples include e-commerce platform providers, couriers (to enable delivery of goods), website hosts, content delivery networks and businesses which assist us in undertaking communications or monitoring our website.
 
-8.3 Email addresses and other contact information are provided to or collected by Mailchimp, who we use to send emails. Please see their privacy policy for more information.
-
-8.4 We may disclose personal data so far as reasonably necessary:
+8.3 We may disclose personal data so far as reasonably necessary:
 
   1. if we have reason to believe that it breaches our terms and conditions, or that such steps are necessary to protect us or others, or that a criminal act has been committed, or if there has been a complaint about content posted by you, or if we are required to do so by law or appropriate authority; or
   2. in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving all or the relevant part of our business.
 
 
 
-8.5 We may store or transfer personal data outside the European Economic Area (EEA) for the purposes stated in this policy. If so, we will of course comply with the applicable laws relating to data transfer outside the EEA.
+8.4 We may store or transfer personal data outside the European Economic Area (EEA) for the purposes stated in this policy. If so, we will of course comply with the applicable laws relating to data transfer outside the EEA.
 
-8.6 Except as otherwise specifically included in this policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to third parties, whether they are suppliers of services on our website (e.g. payment providers) or other websites, different rules will apply to their use or disclosure of your information. Please check their privacy policies carefully.
+8.5 Except as otherwise specifically included in this policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to third parties, whether they are suppliers of services on our website (e.g. payment providers) or other websites, different rules will apply to their use or disclosure of your information. Please check their privacy policies carefully.
 
 **9\. How can you access and rectify personal data?**
 
