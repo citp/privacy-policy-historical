@@ -1,198 +1,62 @@
-> *The following text is extracted and transformed from the ploose.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202062610id_/http%3A//www.ploose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ploose.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626033152id_/http%3A//injurysurvey.com/privacy) for the most accurate reproduction.*
 
-# Ploose : Privacy Policy : Exclusive CPA Network
+# Privacy – Injury Survey
 
-## Ploose Privacy Policy 
+PRIVACY POLICY
 
-  
+Last Updated: May 3, 2016
 
+Welcome to www.InjurySurvey.com, the Web site (“Site”) of InjurySurvey.com (“InjurySurvey.com”, “we” or “us”).
 
-### Last Revised: 08/30/2011
+InjurySurvey.com respects the privacy of those who access and/or use the Site (“you”, “your”, “user” or collectively “users”) and is committed to protecting the personally identifiable information we collect.
 
-  
+1\. CHANGES TO THIS POLICY  
+If the online Privacy Policy changes, we will post all changes in an amended version with a new “Last Updated” date at the top of this Privacy Policy.
 
+2\. INFORMATION THAT WE COLLECT  
+We collect two types of information from you. The first type is personal information that you actively choose to disclose (“Active Information”) and the second type is anonymous aggregate information collected in a manner not visible to you or others visiting the Site (“Passive Information”).
 
-BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
+a. Active Information. Examples of personally identifiable data that you provide to us may include your name, address, email address and telephone number. In providing Active Information, you consent and agree to being contacted with information related to your inquiry and/or information regarding our or third parties’ products and services. If you provide personally identifiable data to us, you may later elect to have that information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
-PLEASE NOTE: THIS PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. WE DO NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
+b. Passive Information. We record information relating to your use of the Site, such as the information you click on, your browser type, IP address, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We may also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
-This policy describes the information collection, use, and dissemination practices of NextGenAds Inc, ("NextGenAds") and applies to NextGenAds's collection, use, storage and disclosure of information by NextGenAds on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various Third Party websites, and (c) to NextGenAds 's other information collection, including the purchase of customer lists from Third Parties. NextGenAds is not responsible for the information collection or privacy practices of Third Party websites or applications.
+3\. HOW COLLECTED INFORMATION IS USED  
+We will share or sell your Active and/or Passive Information with our marketing partners and affiliates to provide you legal services and commercial products that may be of interest. We also use this information to better target content in an effort to create a more personally relevant experience. Please note that we also reserve the right to, and will, rent, sell, share or transfer your personal information to third parties for any legally permissible purpose in our sole discretion.
 
-##### CALIFORNIA RESIDENTS PRIVACY RIGHTS
+4\. USE OF COOKIES  
+We use cookies to store users’ preferences and to record session information, for purposes including ensuring that users are not repeatedly offered the same material and to customize any newsletter, advertising, and Web page content based on browser type and user profile information. We may share, sell, or license cookies collected from your browser and hard drive to third-party advertisers. These authorized third parties may link your name, address, and e-mail address to other information which they collect, such as past online/offline purchase information and Web usage from other sites. These authorized companies are contractually bound to secure the data they receive. You may disable cookies by adjusting the settings on your Web browser. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so you may wish to review the “Help” menu of your browser to learn how to change your cookie preferences. Note, however, that you may be required to enable cookies in order to use certain functions on our Site.
 
-Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: NextGenAds Inc, 21 Kristin Drive, Schaumburg, IL 60195. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at             916-445-1254       or             800-952-5210      ; or by email to dca@dca.ca.gov
+5\. INFORMATION SHARING AND DISCLOSURE  
+We may share, license, or sell information we collect to third parties for various marketing purposes, including their online marketing programs. We also reserve the unequivocal right to release all your information, to the maximum extent permitted by law in the event that (i) we believe that the Site is being or has been used to commit unlawful acts, (ii) the information is subpoenaed or otherwise required in a court proceeding, (iii) you violate or breach an agreement with the Site, (iv) you have submitted fraudulent or otherwise invalid information to this Site, (v) we believe that you may harm, or have harmed, the property or other rights of us, our members, our employees, the Site’s other users or any other third party, (vi) we are sold to or otherwise acquired by any individual, entity or organization (i.e. to a successor entity in the event of sale of the business, including merger, bankruptcy or other ownership change), or (vii) when we otherwise deem it necessary or appropriate. We may disclose any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended from time to time, or any other applicable state or federal law, rule or regulation.
 
-##### THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF  
-NextGenAds.
+6\. OPTING-OUT  
+You may opt-out of having some of your personally identifiable information used for certain purposes when providing us with this information. You may also decline to provide certain personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly or at all as a result.
 
-##### 1\. Collection of Information.
+If you no longer wish to receive newsletter and promotional communications, you may opt-out by following the instructions included in each newsletter or communication or by contacting us as provided in this Privacy Policy. You may continue to receive email communications from us for up to ten (10) business days from the time we receive your Unsubscribe – [Unsubscribe](http://unsubscribe.injurysurvey.com/) request. Please note that InjurySurvey.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
-##### 1.1 Survey Information
+7\. ACCESS/ACCURACY  
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send updates and corrections about your personally identifiable information to support@digitizeiq.com and we will make reasonable efforts to make changes to the information we hold as soon as possible.
 
-NextGenAds collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by Third Parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, NextGenAds or a Third Party (a "Third Party") may ask an individual to provide various information to NextGenAds, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). NextGenAds may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to NextGenAds or Third Party, but an individual may receive incentives from NextGenAds or a Third Party in exchange for providing Survey Information to NextGenAds.
+8\. SECURITY OF INFORMATION  
+Use of the Site is at your own risk. Nonetheless, we do make reasonable efforts to secure your information. Such efforts may include but are not limited to monitoring of our network and data for intrusions. We also use industry-accepted standards to protect your information, including SSL encryption if and when transmitting any sensitive information. We have implemented certain physical, encrypted, electronic, and managerial procedures to safeguard and secure the information we collect. Communications you may have with us via email or mail may not be secure unless we advise you that security measures are in place prior to your sending information.
 
-##### 1.2 Site Membership or Registration
+9\. LINKS TO THIRD PARTY SITES  
+The Site may contain links to third party Web sites including sites with which we have no affiliation. We are not responsible for their privacy practices. It is recommended you read the privacy policies on all such third party Web sites.
 
-To the extent registration is required to receive email and possibly postal communications from NextGenAds or a Third Party Advertiser, this Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from NextGenAds or a Third Party Advertiser, whether at our Website, via email, on Third Party websites or otherwise. We collect information in certain portions of our Website, where guests provide content submissions and suggestions or participate in interactive online activities (i.e., by way of responding to questions and surveys, community listings, ratings, searches and comparison searches, bidding, purchasing, chat, games, or bulletin boards, etc.). The personal profile information you submit to NextGenAds or Third Party Advertisers remains your property, but by submitting that information to NextGenAds or Third Party Advertisers, you grant NextGenAds and/or Third Party Advertisers, the right to use that information for marketing purposes. NextGenAds or Third Party Advertisers may also use such information for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to you. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. In addition, NextGenAds reserves the right to release current or past information in the event NextGenAds believes that the information is being or has been used in violation of the Rules or to commit unlawful acts, if the information is subpoenaed, if NextGenAds is sold or acquired, or when NextGenAds deems it necessary or appropriate. By agreeing to these terms, you hereby consent to disclosure of any record or communication to any Third Party when NextGenAds in its sole discretion, determines the disclosure to be appropriate.
+10\. CALIFORNIA PRIVACY RIGHTS  
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, simply email us support@digitizeiq.com with the words “Opt Out” in the subject header.
 
-"Subscription" occurs when an end-user registers for NextGenAds's and/or Third Party Advertisers' services, either via registration at our website, via co-registration at a marketing partner's website, or via a permission pass / opt-out / no-opt mailing NextGenAds collects personally identifiable information about our subscribers, based on: information gathered at the time of registration, subscriber interaction and response to subsequent electronic mailings and website use, information provided by marketing partners, and information appended from data aggregators. Information collected may include, but is not necessarily limited to: name, email address, postal address, gender, birth date, telephone number, activity, interests, user behavior and other demographic information. This information enables us to better tailor our content to subscribers' needs and to help our clients to promote and sell their products and services.
+11\. CHILDREN  
+If you are under 18, you may not access or use the Site. BY ACCESSING OR USING THE SITE, YOU REPRESENT THAT YOU ARE AT LEAST 18. In compliance with COPPA, we do not knowingly collect personally identifiable information from users under 13.
 
-##### 1.3 Third Party List Information
+12\. NON-U.S. USERS  
+FOR USERS VISITING THE SITE FROM THE EUROPEAN ECONOMIC AREA OR OTHER NON-U.S. TERRITORIES, PLEASE NOTE THAT ANY DATA YOU VOLUNTARILY PROVIDED US WILL BE TRANSFERRED OUTSIDE THE EUROPEAN ECONOMIC AREA OR SUCH OTHER NON-U.S. TERRITORY FOR USE BY InjurySurvey.com FOR ANY OF THE PURPOSES DESCRIBED HEREIN.
 
-NextGenAds collects information from individuals when an individual provides information to a Third Party and NextGenAds subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, NextGenAds seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to NextGenAds and that the Seller has a right to provide offers from Advertisers to the individuals whose personal information is included on the Seller's list.
+13\. CONTACT INFORMATION  
+For more information, or if you have questions or concerns regarding our Privacy Policy, or you wish to opt-out as provided above in this policy, you may email us at support@digitizeiq.com or you can send correspondence to the following address:
 
-##### 1.4 Other Information.
-
-Other occasions when NextGenAds obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by NextGenAds or by a Third Party, (2) when an individual requests assistance through NextGenAds's customer service department, (3) when an individual voluntarily subscribes to a service or newsletter; (4) when private information is provided by means of a referral by a third party to NextGenAds or a Third Party Advertiser (together, "Other Information").
-
-##### 1.5 Cookies, Web Beacons, and Other Info Collected using Technology.
-
-NextGenAds currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, NextGenAds may use other new and evolving sources of information in the future (together, "Technology Information").
-
-  1. ##### Cookies.
-
-A cookie is a small amount of data stored on the hard drive of the individual's computer that allows NextGenAds to identify the individual with his or her corresponding data that resides in NextGenAds's database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
-
-  2. ##### Web Beacons.
-
-A web beacon is programming code that can be used to display an image on a web page (by using an <img src="x"> programming function -- see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows NextGenAds to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, NextGenAds might place, with the consent of a Third Party website, a web beacon on the Third Party's website where cosmetics are sold. When Jane, an individual listed in NextGenAds's database, visits the cosmetic website, NextGenAds receives notice by means of the web beacon that Jane visited the cosmetics site, and NextGenAds would then update Jane's profile with the information that Jane is interested in cosmetics. NextGenAds may thereafter present offers of cosmetic related products and services to Jane. In addition to using web beacons on web pages, NextGenAds also uses web beacons in email messages sent to individuals listed in NextGenAds's database.
-
-  3. ##### New Technology.
-
-The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is NextGenAds's use of new and evolving technology. As a result, NextGenAds strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
-
-  4. ##### Usage Tracking.
-
-NextGenAds tracks information related to the electronic mailings and web pages viewed by users and subscribers, as well as the hyperlinks clicked by subscribers, while viewing our emails or visiting our websites.
-
-  5. ##### Log Files.
-
-Log files are used to track and monitor subscriber usage.
-
-  6. ##### Optional Registration.
-
-NextGenAds may offer free voluntary registration to potential subscribers. During such registration, the subscriber is required to supply an email address and other personal information. This information is required if the subscriber wants to participate in Company services or Third Party Services.
-
-  7. ##### Feedback and Inquiries.
-
-You have the ability to contact NextGenAds to provide us with your feedback. NextGenAds uses this information to respond to you and analyze customer service issues.
-
-
-
-
-##### 1.6 Outside Information
-
-NextGenAds may receive information about individuals from Third Parties or from other sources of information outside of NextGenAds including information located in public databases ("Outside Information").
-
-##### 1.7 Individual Information
-
-As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information NextGenAds gathers or receives about individuals.
-
-##### 1.8 No Information Collected from Children.
-
-NextGenAds will never knowingly collect any personal information about children under the age of 18. If NextGenAds obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from our database. Because it does not collect such information, NextGenAds has no such information to use or to disclose to Third Parties. NextGenAds has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
-
-##### 1.9 Credit Card Information.
-
-NextGenAds may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from NextGenAds. When the Credit Card Information is submitted to NextGenAds, such information is encrypted and is protected with SSL encryption software. NextGenAds will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. Although NextGenAds takes all commercially reasonable action to protect Credit Card Information, you ultimately assume the risk of any damage or loss as a result of transmitting such information to NextGenAds, including but not limited to, identify theft, credit card fraud or credit card loss.
-
-##### 1.10 Links to External Websites.
-
-NextGenAds's emails and websites contain links to external websites. You will be taken to external websites if you click on these links. Your information may be passed from NextGenAds's database to the external website, and/or external database, for your convenience (e.g. your information may be used to pre-fill a form at a destination website). NextGenAds is not responsible for the privacy practices or content of any external website owner. We encourage you to review the privacy policy of any website they visit.
-
-##### 2\. Use of Individual Information.
-
-##### 2.1 Discretion of Information.
-
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION.
-
-The following paragraphs in Section 2 describe how NextGenAds currently uses Individual Information, but NextGenAds may change or broaden its use at any time. As noted below, NextGenAds may update this policy from time to time. NextGenAds may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
-
-##### 2.2 Email and Unsubscribe Policy.
-
-NextGenAds uses Individual Information to provide promotional offers by email to individuals. NextGenAds may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all NextGenAds's email lists, a person must send an email to support@ploose.com.
-
-NextGenAds's unsubscribe process impacts only the future delivery of electronic mailings disseminated by NextGenAds on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
-
-You should also note that unsubscribing from NextGenAds's electronic mailings will not automatically unsubscribe the subscriber's information from any Third Party associates and licensees of the data. Since Third Party associates and licensee partners maintain separate databases from NextGenAds, and you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue.
-
-##### 2.3 Content of Email Messages.
-
-In certain commercial email messages sent by NextGenAds, an Advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to NextGenAds. The "Subject:" line of NextGenAds email messages will usually contain a line provided from the Advertiser to NextGenAds.
-
-##### 2.4 Solicited Email.
-
-NextGenAds only sends email to individuals who have agreed on the Websites to receive email from NextGenAds or to individuals who have agreed on Third Party websites to receive email from Third Parties. As such NextGenAds does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to NextGenAds's email messages.
-
-##### 2.5 Targeted Advertising.
-
-NextGenAds uses Individual Information to target advertising to an individual. When an individual is using the Internet, NextGenAds uses Technology Information (see also Section 2.7 below) to associate an individual with that person's Individual Information, and NextGenAds attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. NextGenAds may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
-
-##### 2.6 Direct Mail and Telemarketing.
-
-NextGenAds uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.
-
-##### 2.7 Use of Technology Information.
-
-NextGenAds uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of NextGenAds's websites are most frequently visited. This information helps NextGenAds to better understand the online habits of individuals so that NextGenAds can target advertising and promotions to them.
-
-##### 2.8 Profiles of Individuals.
-
-NextGenAds uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as behavioral and other information obtained from public databases. NextGenAds may also publish personal information in the form of a testimonial if such information is sent to NextGenAds by you.
-
-##### 2.9 Storage of Individual Information.
-
-NextGenAds stores the Individual Information in a database on our computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under NextGenAds's control. Not withstanding such measures, NextGenAds cannot guarantee that its security measures will prevent our computers from being illegally accessed, and the Individual Information on them stolen or altered.
-
-##### 3\. Dissemination of Individual Information.
-
-##### 3.1 Sale or Transfer to Third Parties.
-
-NextGenAds MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN NextGenAds'S SOLE DISCRETION.
-
-##### 3.2 Order Fulfillment.
-
-NextGenAds will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using NextGenAds websites or when responding to offers provided by NextGenAds.
-
-##### 3.3 Legal Process.
-
-NextGenAds may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
-
-##### 3.4 Summary Data.
-
-NextGenAds may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
-
-##### 3.5 Access.
-
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting support@ploose.com. NextGenAds may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
-
-##### 4\. Privacy Practices of Third Parties.
-
-##### 4.1 Advertiser cookies and web beacons.
-
-Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. NextGenAds does not control Advertisers' use of such technology and NextGenAds has no responsibility for the use of such technology to gather information about individuals.
-
-##### 4.2 Links.
-
-The Websites and email messages sometimes contain hypertext links to the websites of Third Parties. NextGenAds is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by Third Parties. Such links are provided for your convenience and reference only. NextGenAds does not operate or control in any respect any information, software, products or services available on such Third Party websites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
-
-##### 4.3 Affiliated Companies.
-
-NextGenAds may disclose, transfer, and sell Individual Information to entities affiliated with NextGenAds in NextGenAds's discretion.
-
-##### 5\. Unsubscribe Procedures.
-
-If you wish to discontinue receiving email messages from NextGenAds, you have several options:
-
-  1. ##### Unsubscribe from one email list.
-
-To unsubscribe from a particular list, either (1) send an email to support@ploose.com or (2) follow the instructions in each promotional email message sent by NextGenAds.
-
-  2. ##### Unsubscribe from all of NextGenAds's email lists.
-
-We reserve the right to add Individual Information to multiple lists maintained by NextGenAds. To globally unsubscribe from all of NextGenAds's lists, send an email to support@ploose.com.
-
-
-
-
-**For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at support@ploose.com.**
+DigitizeIQ LLC  
+10624 S. Eastern Ave,  
+Ste A-910  
+Henderson, NV 89052  
+support@digitizeiq.com
