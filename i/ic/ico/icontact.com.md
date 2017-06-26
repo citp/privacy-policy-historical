@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016011036id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626204242id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iContact
 
@@ -114,13 +114,13 @@ We will retain your information for as long as your account is active or as need
 
  **Social Media Widgets.** Our Web site includes social media features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-iContact complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iContact adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iContact’s certification, please visit <http://www.export.gov/safeharbor/>.
+iContact complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iContact adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iContact’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
 The majority of our customers are businesses; however, some the information we collect about customers and potential customers may identify or relate to an individual, rather than a business. We will use such data in accordance with this Privacy Policy. For example, we may send marketing communications to our customers and potential customers, and we may also allow our affiliated companies to send marketing communications to our customers and potential customers; you may opt out of receiving marketing communications from us and from our affiliated companies by emailing us at [customercare@icontact.com](mailto:customercare@icontact.com).
 
 We may also receive personal data about individual Customer Message Recipients (defined above), from or on behalf of iContact’s customers. We process personal data about Customer Message Recipients only on behalf of and under the direction of our customers, and the collection, use and disclosure of such data is subject to the customer’s privacy policy, not this one.
 
-For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). For complaints, please see the section below entitled “How Do You Submit a Question or Complaint?“
+For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). 
 
 #### What About Children Under 13?
 
@@ -128,11 +128,9 @@ Our Site and services are not intended to be used by children under 13 years old
 
 #### How Do You Submit a Question or Complaint?
 
-If you have any questions or complaints about your account, this Privacy Policy, or how we use the data we collect and maintain in the course of providing our services, please contact us at [customercare@icontact.com](mailto:customercare@icontact.com).
-
 iContact has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.icontact.com](https://www.icontact.com/).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [_here_](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 #### How Will We Notify You of Privacy Policy Changes?
 
@@ -146,7 +144,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 iContact LLC (“iContact”) understands and values the importance of individual privacy. This Privacy Policy (“Policy”) is designed to inform our European Customers of: (1) how we collect, use and disclose Personal Data that is transferred to iContact in the United States; (2) individuals’ choices with regard to how such Personal Data will be used or disclosed by iContact; and (3) individuals’ other rights with regard to that Personal Data.
 
-This Policy complies with the Safe Harbor Principles as agreed upon by the U.S. Department of Commerce with the European Commission, as well as those agreed upon with the Federal Data Protection and Information Commissioner of Switzerland (collectively, “Safe Harbor Principles”), which can be found at <http://www.export.gov/safeharbor/>.
+This Policy complies with the Safe Harbor Principles as agreed upon by the U.S. Department of Commerce with the European Commission, as well as those agreed upon with the Federal Data Protection and Information Commissioner of Switzerland (collectively, “Safe Harbor Principles”), which can be found at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/").
 
 This Policy applies only to the processing of Personal Data (defined below) that iContact receives in the United States from its European Customers (defined below). Most iContact Customers are businesses, not individuals. However, iContact may also receive Personal Data about individual Message Recipients (defined below) on a Customer’s e-mail marketing or contact lists. We process the Personal Data of a Customer’s Message Recipients only on behalf of and under the direction of the Customer, and the collection, use and disclosure of such data is subject to the Customer’s privacy policy.
 
@@ -199,9 +197,7 @@ E-Mail: [customercare@icontact.com](mailto:customercare@icontact.com "customerca
 
 #### 9\. ENFORCEMENT AND DISPUTE RESOLUTION
 
-As part of our annual Safe Harbor re-certification process, iContact will periodically review this Policy for accuracy, as well as for conformity with the Safe Harbor Principles and applicable data privacy and protection laws. If you have any questions, complaints or disputes regarding the manner in which iContact handles or protects your Personal Data, please contact Nicholas Manzione (contact information above). iContact will promptly investigate and attempt to resolve complaints and disputes in a manner that complies with the principles described in this Policy.
-
-With respect to any complaints related to this Policy that cannot be resolved through our internal process, we agree to participate in the dispute resolution procedures set forth by TRUSTe. In the event that we or TRUSTe conclude that we did not comply with the Policy, we will take appropriate steps to address any adverse effects and assure our future compliance.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
 
 The defined terms in this Policy have the following meanings:
 
