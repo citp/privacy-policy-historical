@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surya.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121004315id_/http%3A//surya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surya.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627014332id_/http%3A//www.surya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Surya | Rugs, Pillows, Wall Decor, Lighting, Accent Furniture, Throws, Bedding
 
