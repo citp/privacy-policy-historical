@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629095047id_/http%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodate.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626132401id_/http%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UpToDate
 
@@ -39,3 +39,7 @@ This Privacy Policy is effective as of October 27, 2007 and will remain in effec
 ## Contacting the Website
 
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact [info@uptodate.com](mailto:info@uptodate.com). 
+
+Sign up today to receive the latest news and updates from UpToDate.
+
+[Sign Up](http://go.wolterskluwer.com/utd_ind_cms_contact_info.html)
