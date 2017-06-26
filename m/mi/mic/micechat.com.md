@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125224115id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190805id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
 
 # MiceChat - Privacy Policy
 
-## The MiceChat Web site interface, columnists and guides are part of MiceChat. Our policy is to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how we use it.
+The MiceChat Web site interface, columnists and guides are part of MiceChat. Our policy is to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how we use it.
 
 **Personal Information**
 
