@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingforsuccess.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207043733id_/http%3A//www.marketingforsuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingforsuccess.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627011153id_/http%3A//www.marketingforsuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
