@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118083640id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626022356id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Americas Job Exchange
 
-Thank you for visiting the America's Job Exchange (AJE) website which is owned and operated by NaviSite, Inc. This website is designed to make it easier and more efficient for job seekers to learn about employment opportunities and businesses to find capable and competent workers. AJE recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit the AJE website and are therefore committed to respecting your privacy when visiting this website.
+Thank you for visiting the America's Job Exchange (AJE) website. This website is designed to make it easier and more efficient for job seekers to learn about employment opportunities and businesses to find capable and competent workers. AJE recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit the AJE website and are therefore committed to respecting your privacy when visiting this website.
 
 Because this privacy policy only applies to this website, you should examine the privacy policy of any website AJE links to, including employer websites.
 
