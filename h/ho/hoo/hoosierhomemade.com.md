@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127081317id_/http%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626061910id_/http%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
 
-# Disclosures
+# Disclosures - Hoosier Homemade
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
