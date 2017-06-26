@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al-monitor.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183340id_/http%3A//www.al-monitor.com/pulse/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al-monitor.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626065708id_/http%3A//www.al-monitor.com/pulse/privacy) for the most accurate reproduction.*
 
 # Al-Monitor Privacy Statement
 
