@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042257id_/http%3A//www.partycity.com/category/company/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001208id_/http%3A//www.partycity.com/category/company/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Party City
 
 Privacy and Security
 
-Last updated: November 2015.
+Last updated: May 2017.
 
 Party City takes the privacy of our customers very seriously. We understand that you want to know how information about you is used, stored, and shared and we know the importance of protecting your personal information. Nobody wants to have his or her personal information sold or misused. We do not rent or sell your personal information to anyone, period. 
 
@@ -18,16 +18,17 @@ We collect information to deliver the products and services you request and to h
 
 You share personal information with us when you make an in-store or online purchase with us, when you create an account on one of our Websites or mobile services, when you visit or post a comment on one of our social media pages, and when you contact us or request customer service. 
 
-Other types of information that we collect cannot be used to personally identify you, but provides Party City with information that we use to improve the products and services we offer to you. This information includes details about your internet connection, traffic data, IP address, and the equipment you use to access our Website and usage details. It may be collected by Party City or it may be collected through third party advertisers or partners who provide the advertisements on our Website. This information is collected automatically through the use of cookies, web beacons, and other tracking technologies. Information that is collected through the use of third party cookies, web beacons, and other third party tracking technologies are subject to such third parties’ privacy policies and opt-out mechanisms and are not governed by this Policy. 
+Other types of information that we collect cannot be used to personally identify you, but provides Party City with information that we use to improve the products and services we offer to you. This information includes details about your internet connection, traffic data, IP address, and the equipment you use to access our Website and usage details. It may be collected by Party City or it may be collected through third party advertisers or partners who provide the advertisements on our Website. This information is collected automatically through the use of cookies, web beacons, and other tracking technologies. Information that is collected through the use of third party cookies, web beacons, and other third party tracking technologies are subject to such third parties' privacy policies and opt-out mechanisms and are not governed by this Policy. 
+
+In order to invite others to view your Party City page or to use Party City's online invitation services, you must provide us with email addresses of your guests or invitees. In order to send messages to your guests or invitees, we require that you submit to Party City current, valid email addresses for your guests or invitees. When you send messages to your guests or invitees, we collect and retain the email addresses or other pertinent contact information for those persons to whom you send the message. 
 
 How We Use Your Information
 
-Party City uses the personal information that we collect about you or that you provide to us: 
-
-to process and ship your online orders; for marketing or advertising purposes; to inform you about promotional offers; to maintain your user account; to keep track of your order history; to respond to customer support inquiries; to present our Website and its contents to you; to tell you about changes to our Website; to let you know about products or services; to allow you to participate in interactive features on our Website in a way that  
-we describe to you at the time that you provide Party City your personal information; to fulfill any other purpose for which you provide it.
+Party City uses the personal information that we collect about you or that you provide to us: to process and ship your online orders ;for marketing or advertising purposes; to inform you about promotional offers; to maintain your user account; to keep track of your order history; to respond to customer support inquiries; to present our Website and its contents to you; to tell you about changes to our Website; to let you know about products or services; to allow you to participate in interactive features on our Website in a way that we describe to you at the time that you provide Party City your personal information; to fulfill any other purpose for which you provide it. 
 
 The non-personal information that we collect may automatically be combined with other information that you provide and may be aggregated and used for statistical purposes. It helps us to improve our Website and to deliver better and more personalized products, services and advertisements. It also helps us to estimate how many people may be interested in certain products, store your user preferences allowing us to customize the Website to your individual interests, recognize you when you revisit our Website, and speed up your online experience with Party City. 
+
+For its online invitation services or other services that Party City makes available from time to time where you provide us email addresses or other contact information of your guests and invitees, Party City may retain such email addresses and contact information that you provide to us, but we will not use these email addresses and contact information to send promotional communications, newsletters, or services announcements without your express permission. Additionally, we will not intentionally sell or otherwise disclose to any unaffiliated third party the email addresses or other contact information of your guests and invitees that you submit to us. 
 
 Information Sharing
 
