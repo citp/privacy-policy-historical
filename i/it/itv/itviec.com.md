@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itviec.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731193611id_/http%3A//blog.itviec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itviec.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626030145id_/http%3A//blog.itviec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ITviec
 
@@ -69,10 +69,10 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use two types of cookies on our website:
 
-**‘Session Cookies’**  
+ **‘Session Cookies’**  
 ---  
 These are temporary cookies, which only exist in the period you access the website (or more strictly, until you close the browser after accessing the website). Session cookies help our website remember what you chose on the previous page, therefore avoiding having to re-enter information. On our website, these cookies do not contain personal information, and cannot be used to identify you.  
-**‘Persistent Cookies’**  
+ **‘Persistent Cookies’**  
 These are cookies remain on your device after you have visited our website. These cookies help us to identify you as a unique visitor (by storing a randomly generated number).  
   
 #### WHY DO WE USE COOKIES?
@@ -105,21 +105,21 @@ Anyone who prefers not use Google’s DoubleClick cookie can opt out. This opt-o
 
 #### How to check cookies are enabled on windows platforms
 
-**Microsoft Internet Explorer**  
+ **Microsoft Internet Explorer**  
 Select ‘Tools’ from the top menu of your browser and then select ‘Internet options’, then click on the ‘Privacy’ tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies
 
-**Mozilla Firefox**  
+ **Mozilla Firefox**  
 1\. Select ‘Tools’ from the top menu of your browser and then select ‘Options’ 2. Then select the Privacy icon 3. Click on Cookies, then select ‘allow sites to set cookies’
 
-**Google Chrome**  
+ **Google Chrome**  
 1\. Select ‘Tools’ from the top menu of your browser and then select ‘Options’ 2. Click the ‘Under the Hood’ tab, locate the ‘Privacy’ section, and select the ‘Content settings’ button 3. Now select ‘Allow local data to be set’
 
-**Safari**  
+ **Safari**  
 1\. Select the cog icon’ from the top menu of your browser and then select ‘Preferences’ 2. Select ‘Security and, check the option that says ‘Block third-party and advertising cookies’ 3. Click ‘Save’ How to check cookies are enabled for apple platforms Microsoft Internet Explorer 5.0 on OSX 1. Select ‘Explorer’ from the top menu of your browser and select ‘Preferences’ options 2 Scroll to the ‘Cookies’ option under Receiving Files 2. Select the ‘Never Ask’ option
 
-**Safari on OSX**  
+ **Safari on OSX**  
 1\. Select ‘Safari’ from the top menu of your browser and select the ‘Preferences’ option 2. Click on ‘Security’ then ‘Accept cookies’ 3. Select the ‘Only from site you navigate to’
 
 If you are using a different browser please consult your product documentation, online help files or the browser manufactures website.
 
-_This policy was updated in January 2014._
+ _This policy was updated in January 2014._
