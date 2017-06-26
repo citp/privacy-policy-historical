@@ -1,55 +1,50 @@
-> *The following text is extracted and transformed from the johncrestani.com privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225075753id_/http%3A//johncrestani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncrestani.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626114733id_/http%3A//johncrestani.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - John Crestani
 
-**Collecting information**
+**THIS PRIVACY POLICY (THE “POLICY”) EXPLAINS THE PRIVACY PROCEDURES PERFORMED BY PENDRAGON LABS LLC (THE “COMPANY”, “PENDRAGON”, “PENDRI”, “WE” OR “US”) IN PROVIDING SERVICES TO ITS CUSTOMERS (“CLIENT”, “YOU”, OR “YOUR”) AND SHOULD BE READ IN CONJUNCTION WITH THE COMPANY’S TERMS & CONDITIONS.**
 
-I collect information from you when you register on my site or subscribe to my newsletter. When ordering or registering on my site, as appropriate, you may be asked to enter your e-mail address. You may, however, visit my site anonymously.
+THE COMPANY COLLECTS INFORMATION ABOUT YOU THROUGH THE FOLLOWING MEANS:
 
-**Use of information**
+– WHEN YOU PROVIDE INFORMATION THROUGH THE WEBSITE
 
-Any of the information I collect from you may be used in one of the following ways:
+– WHEN YOU PROVIDE INFORMATION DURING YOUR COMMUNICATIONS WITH US
 
-  * To personalize your experience (your information helps me to better respond to your individual needs)
-  * To improve customer service (your information helps me to more effectively respond to your customer service requests and support needs)
-  * To process transactions securely and appropriately
+INFORMATION WE COLLECT FROM YOU MAY INCLUDE INFORMATION ABOUT YOUR COMPUTER, INCLUDING YOUR IP ADDRESS, OPERATING SYSTEM AND BROWSER TYPE, INFORMATION ABOUT YOU, INCLUDING YOUR EMAIL ADDRESS, TELEPHONE NUMBER AND LOCATION, INFORMATION ABOUT YOUR USE OF THE SERVICES, YOUR CREDIT CARD INFORMATION, AND ANY OTHER INFORMATION WE MAY REQUIRE IN ORDER TO PROVIDE YOU WITH THE SERVICES. WE MAY ALSO RECORD AND MONITOR PHONE CALLS BETWEEN YOU AND COMPANY REPRESENTATIVES FOR QUALITY CHECKS.
 
+THE INFORMATION THAT WE COLLECT FROM YOU IS USED FOR IN THE FOLLOWING WAYS:
 
+TO OPERATE AND MANAGE YOUR USE OF THE SERVICES;
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested; to administer a contest, promotion, survey or other site feature; or to send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, promotions, and so on. If at any time you would like to unsubscribe from receiving future emails, I have included a one-click unsubscribe link at the bottom of each email.
+TO PERSONALIZE YOUR EXPERIENCE IN USING THE SERVICES;
 
-**Protecting your information**
+TO ASSESS YOUR SUITABILITY FOR USING THE SERVICES;
 
-I implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+TO IDENTIFY, PREVENT, DETECT OR TACKLE FRAUD AND OTHER CRIMES;
 
-**Use of cookies**
+TO ADMINISTER A CONTEST, PROMOTION OR SURVEY;
 
-I do not use cookies.
+TO SEND PERIODIC PROMOTIONAL EMAILS;
+
+TO PROCESS TRANSACTIONS; AND,
+
+TO IMPROVE CUSTOMER SERVICE.
+
+ADDITIONALLY, YOUR EMAIL ADDRESS MAY BE USED TO SEND YOU INFORMATION AND UPDATES PERTAINING TO THE SERVICES, IN ADDITION TO RECEIVING OCCASIONAL COMPANY NEWS, UPDATES, RELATED PRODUCT OR SERVICE INFORMATION AND PROMOTIONS. IF AT ANY TIME YOU WOULD LIKE TO UNSUBSCRIBE FROM RECEIVING SUCH EMAILS, CLICK ON THE UNSUBSCRIBE LINK AT THE BOTTOM OF ONE OF THE EMAILS.
+
+**Protecting Your Information  
+**
+
+I IMPLEMENT A VARIETY OF SECURITY MEASURES TO MAINTAIN THE SAFETY OF YOUR PERSONAL INFORMATION WHEN YOU PLACE AN ORDER OR ENTER, SUBMIT, OR ACCESS YOUR PERSONAL INFORMATION.
+
+THE COMPANY MAY USE COOKIES TO TRACK USAGE PATTERNS ON THE WEBSITE, TO PERSONALIZE CONTENT, AS WELL AS TO FACILITATE AN IMPROVED USER EXPERIENCE (FOR EXAMPLE, BY SPEEDING UP YOUR LOG-IN WHEN YOU VISIT THE WEBSITE).
 
 **Disclosing information to outside parties**
 
-I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential. I may also release your information when I believe release is appropriate to comply with the law, enforce my site policies, or protect our own (or others) rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+NO PERSONAL INFORMATION WILL BE SHARED WITH ANY THIRD PARTIES WITHOUT YOUR PERMISSION. THE COMPANY DOES NOT SELL, TRADE, OR OTHERWISE TRANSFER TO OUTSIDE PARTIES YOUR PERSONALLY IDENTIFIABLE INFORMATION. THE COMPANY MAY RELEASE YOUR INFORMATION WHEN IT HAS GROUNDS TO BELIEVE SUCH RELEASE IS APPROPRIATE TO COMPLY WITH THE LAW, TO ENFORCE SITE POLICIES, OR TO PROTECT OUR OWN (OR OTHERS’) RIGHTS, PROPERTY, OR SAFETY. NON-PERSONALLY IDENTIFIABLE VISITOR INFORMATION MAY BE PROVIDED TO OTHER PARTIES FOR MARKETING, ADVERTISING, OR OTHER USES.
 
-**Third party links**
+OCCASIONALLY, AT THE COMPANY’S DISCRETION, WE MAY INCLUDE OR OFFER THIRD PARTY PRODUCTS OR SERVICES ON THIS WEBSITE. THESE THIRD PARTY SITES HAVE SEPARATE AND INDEPENDENT PRIVACY POLICIES. THE COMPANY HAS NO RESPONSIBILITY OVER AND ASSUMES NO LIABILITY FOR THE CONTENT AND ACTIVITIES OF THESE LINKED SITES. NONETHELESS, THE COMPANY SEEKS TO PROTECT THE INTEGRITY OF THIS WEBSITE AND WELCOMES ANY FEEDBACK ABOUT THESE THIRD PARTY SITES.
 
-Occasionally, at my discretion, I may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. I therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, I seek to protect the integrity of this website and welcome any feedback about these third party sites.
+BY USING THIS WEBSITE AND THE ASSOCIATED SERVICES, YOU CONSENT TO THE POLICY.
 
-**California online privacy protection act**
-
-Because I value your privacy, I’ve taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. I therefore will not distribute your personal information to outside parties without your consent.
-
-**COPPA compliance**
-
-I am in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), as I do not collect any information from anyone under 13 years of age. This website, products and services are all directed to people who are at least 13 years old or older.
-
-**Terms and conditions**
-
-Please also visit my [Terms and Conditions](http://johncrestani.com/terms/) section establishing the use, disclaimers, and limitations of liability governing the use of this website.
-
-**Your consent**
-
-By using this site, you consent to my website privacy policy.
-
-**Changes to this privacy policy**
-
-If I decide to change this privacy policy, I’ll post those changes on this page. This privacy policy for John Crestani was last modified on August 13th, 2015.
+THE COMPANY RESERVES THE RIGHT AMEND THE POLICY. PLEASE CHECK BACK REGULARLY TO SEE UPDATES TO THE POLICY. YOUR CONTINUED USE OF THE WEBSITE AND SERVICES FOLLOWING UPDATES TO THE POLICY INDICATES YOUR ACCEPTANCE OF SUCH UPDATES.
