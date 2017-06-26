@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019125143id_/http%3A//www.gnomicfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203506id_/http%3A//www.gnomicfun.com/privacy) for the most accurate reproduction.*
 
 # gnomicfun.com - Privacy Policy
 
 ### Privacy Policy
 
-Groove Clip LTD ("gnomicfun") operates a variety of web sites ("Web Site" or "Site") including www.gnomicfun.com and is committed to protecting the privacy of our Web Site users ("Users") and Groove Clip LTD members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Groove Clip LTD will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
+Groove Clip LTD ("") operates a variety of web sites ("Web Site" or "Site") including www.gnomicfun.com and is committed to protecting the privacy of our Web Site users ("Users") and Groove Clip LTD members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Groove Clip LTD will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
 Groove Clip LTD defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
 
@@ -43,11 +43,11 @@ Groove Clip LTD uses cookie technology to make your use of the Sites more conven
 
 ### What Other Mechanisms Does Groove Clip LTD Use to Track User Behavior?
 
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies.
 
 Groove Clip LTD and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Groove Clip LTD is owned and used by Groove Clip LTD. Groove Clip LTD reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 ### How Does Groove Clip LTD Handle Information from Children?
 
@@ -65,12 +65,6 @@ You may receive products and communications associated with your transactions wi
 
 You may periodically receive from Groove Clip LTD, its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Groove Clip LTD, its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Groove Clip LTD?
 
-### How Can I Opt Out of Receiving Direct Marketing from Groove Clip LTD?
-
-By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Groove Clip LTD is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
-
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Groove Clip LTD are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
-
 ### What Personal Information Does Groove Clip LTD Give to Others?
 
 Transfer of Personal Information to Third Party Goods and Services Providers. Groove Clip LTD employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
@@ -87,15 +81,19 @@ Public postings. If you disclose your personal information in a manner that will
 
 ### How does Groove Clip LTD Protect Personal Information?
 
-Groove Clip LTD takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Groove Clip LTD. For example, Groove Clip LTD uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+Groove Clip LTD takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Groove Clip LTD. For example, Groove Clip LTD uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
+
+### What About Links to Other Web Sites?
+
+This Privacy Policy applies solely to information collected by Groove Clip LTD. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Groove Clip LTD's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Groove Clip LTD is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
 ### How Can I Access or Correct My Personal Information?
 
 If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
 
-You can review and change certain account related information by visiting Groove Clip LTD, submiting suitable identification and giving the Groove Clip LTD your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+You can review and change certain account related information by visiting Groove Clip LTD, submiting suitable identification and giving the Groove Clip LTD your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
 
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area.
 
 Note that in most cases, Groove Clip LTD will retain the previously entered data.
 
