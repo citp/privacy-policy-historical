@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205120732id_/http%3A//www.casinocitytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626043721id_/http%3A//www.casinocitytimes.com/privacy) for the most accurate reproduction.*
 
 # Casino City Times - Privacy Policy
 
@@ -15,10 +15,8 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
 
 ## What This Privacy Policy Covers 
 
-  * This policy covers how Casino City treats personal information that Casino City collects and receives, including information related to your past use of Casino City products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
-
-  * This policy applies only to information gathered during your use of products and services provided by the Casino City Network of websites.  
-
+  * This policy covers how Casino City treats personal information that Casino City collects and receives, including information related to your past use of Casino City products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy applies only to information gathered during your use of products and services provided by the Casino City Network of websites. 
   * This policy does not apply to the practices of companies that Casino City does not own or control, or to people that Casino City does not employ or manage. 
 
 
@@ -27,8 +25,8 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
 
 **General**
 
-  * Casino City collects personal information when you register with Casino City, when you use Casino City products or services, when you visit Casino City pages or the pages of certain Casino City partners, and when you enter promotions or sweepstakes. Casino City may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, address or zip code, occupation, industry, and personal interests. Once you register with Casino City and sign in to our services, you are not anonymous to us. 
+  * Casino City collects personal information when you register with Casino City, when you use Casino City products or services, when you visit Casino City pages or the pages of certain Casino City partners, and when you enter promotions or sweepstakes. Casino City may combine information about you that we have with information we obtain from business partners or other companies.
+  * When you register we ask for information such as your name, email address, birth date, gender, address or zip code, occupation, industry, and personal interests. Once you register with Casino City and sign in to our services, you are not anonymous to us.
   * Casino City collects information about your transactions with us and with some of our business partners.  
 
   * Casino City automatically receives and records information on our server logs from your browser, including your IP address, Casino City cookie information, and the page you request.   
@@ -62,7 +60,7 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
 
   * Casino City may set and access Casino City cookies on your computer. 
   * Casino City lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Casino City's cookies. 
-  * Casino City uses uses web beacons to access Casino City cookies inside and outside our network of web sites and in connection with Casino City products and services. 
+  * Casino City uses uses web beacons to access Casino City cookies inside and outside our network of web sites and in connection with Casino City products and services.
 
 
 
@@ -73,14 +71,14 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
   * You can edit your Casino City Account Information, including your communications preferences, at any time. 
   * New categories of communications preferences may be added to the communication preferences page from time to time. Users who visit this page can opt out of receiving future communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
   * Certain communications from Casino City, such as service announcements and administrative messages, are considered part of Casino City membership and you may not opt out of receiving them as long as your account is active. 
-  * You may request that we de-activate or delete your account at any time. We may retain information regarding de-activated and deleted accounts in our information archives. 
+  * You may request that we de-activate or delete your account at any time. We may retain information regarding de-activated and deleted accounts in our information archives.
 
 
 
 ##  Confidentiality and Security 
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
   * Your Casino City Account Information is password-protected. 
   * In certain areas Casino City uses industry-standard SSL encryption to protect data transmissions.
 
@@ -97,7 +95,7 @@ NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information
   * If you have questions or suggestions, please complete a feedback form or you can contact us at: 
 
 Casino City Customer Care - Privacy Policy Issues   
-95 Wells Avenue Newton Centre, MA 02459 (617) 332-2850 
+95 Wells Avenue Newton Centre, MA 02459 (617) 332-2850
 
 
 
