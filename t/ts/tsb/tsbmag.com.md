@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229175458id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbmag.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626200936id_/http%3A//www.tsbmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – TSB Magazine | Dating and Lifestyle Advice for Men
 
 ## TSBMag.com – PRIVACY POLICY and STATEMENT
 
