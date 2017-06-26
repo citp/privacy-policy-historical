@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024083514id_/https%3A//yourstory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626223150id_/http%3A//yourstory.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - YourStory.com
 
 You consent to the use of your personal information by YourStory.com and/or its third party providers and distributors in accordance with the terms of and for the purposes set forth in our Privacy Policy. YourStory does not rent, sell, or share personal information about you with other people or non affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
