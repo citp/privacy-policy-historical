@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205164912id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626170628id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
@@ -53,7 +53,7 @@ You may also provide personal information about other people in your household, 
 
 ### Opting Out
 
-You may revoke your consent for us to contact you at any time. If you no longer wish to receive communications from IndividualHealthQuotes.com or our affiliated marketing partners, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at customerservice@IndividualHealthQuotes.com or calling us at 1-888-250-2309 or writing to the address below: 
+You may revoke your consent for us to contact you at any time. If you no longer wish to receive communications from IndividualHealthQuotes.com or our affiliated marketing partners, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at customerservice@IndividualHealthQuotes.com or calling us at 1-855-579-9206 or writing to the address below: 
 
 IndividualHealthQuotes.com  
 220 W. Huron Street  
