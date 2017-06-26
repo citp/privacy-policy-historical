@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226195011id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626223012id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | GameStop
 
 Last updated: August 26, 2015
 
-GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source and in any way – through our Websites, applications or other Internet based interactions, in our retail stores, and through our Power-Up Rewards™ Program. 
+GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source and in any way – through our Websites, applications or other Internet based interactions, in our retail stores, and through our PowerUp Rewards™ Program. 
 
 By visiting a GameStop Website or retail store, using a GameStop app or other Internet based interaction, participating in our PowerUp Rewards™ Program, or otherwise providing information to GameStop you are accepting the practices described in this Privacy Policy. 
 
@@ -149,4 +149,4 @@ Whether or not you have viewed our terms and conditions of use of our Websites, 
 
 Conditions of Website Use may be found by clicking [here](http://www.gamestop.com/gs/help/disclaimer.aspx).
 
-[► Return to Help Center](https://web.archive.org/web/20161226195011id_/http%3A//www.gamestop.com/gs/help/default.aspx)
+[► Return to Help Center](https://web.archive.org/web/20170626223012id_/http%3A//www.gamestop.com/gs/help/default.aspx)
