@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aima.in privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729224025id_/http%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aima.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626215855id_/http%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | AIMA
 
 [ ](http://www.dmca.com/Protection/Status.aspx?ID=237b7c46-b60d-4916-a5a6-a8a4128ed535 "DMCA.com Protection Program")
 
