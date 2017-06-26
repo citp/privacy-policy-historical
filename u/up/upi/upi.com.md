@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210084539id_/http%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221240id_/http%3A//about.upi.com/privacy-policy) for the most accurate reproduction.*
 
 # About United Press International | About UPI
 
-[Home](http://about.upi.com/) » Miscellaneous » **Privacy Policy**
+[Home](https://about.upi.com/) » Miscellaneous » **Privacy Policy**
 
 United Press International (referred to herein as "UPI") recognizes the importance of protecting the information it collects from users in the operation of UPI.com, email newsletters, and other online activities. As such, UPI takes reasonable steps to maintain the security, integrity and privacy of this information. 
 
