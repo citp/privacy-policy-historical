@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mywebrewardsurvey.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025255id_/http%3A//finermedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebrewardsurvey.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626113705id_/http%3A//survey.dealeez.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
-(Last update: May 2014)
+(Last update: Oct 2013)
 
 ### Information we gather
 
@@ -15,7 +15,7 @@ We use the information to enhance your visitor experience and to keep track of o
 
 ### The people that are given access to this information
 
-Your personal information is accessible by the Finer Media administrator(s). We may also share your data with interested third parties.
+Your personal information is accessible by the Dealeez.com administrator(s). We may also share your data with interested third parties.
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
@@ -88,9 +88,12 @@ We use reasonable technical efforts to prevent unauthorized access or disclosure
 If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may choose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent to our Customer Service Manager at the following email address:
 
 Customer Service Department  
-[Email us](mailto:support@finermedia.com)
+[Email us](mailto:contact@mywebrewardsurvey.com)
 
-P.O Box 681731, Kansas City MO 64168 
+Opt Out Link  
+[Unsubscribe](https://web.archive.org/web/20170626113705id_/http%3A//survey.dealeez.com/unsubscribe.php)
+
+Please note that we do not directly conduct email campaigns. Entry of your email in the unsubscribe link above will not stop email delivery from the publisher from which you received the original offer (i.e. you may still receive emails from this publisher, with offers other than our services). To opt out of receiving any email offers from the publisher, please follow the publisher's opt out instructions provided in the email. 
 
 If you choose to proceed in the unsubscribe link above, your email will be compiled into a suppression file for future email campaigns for this offer. This suppression file list will be provided to all third parties providing email solicitations for our services. By entering your email, you authorize us to provide this aggregate list to those third parties for the purpose of removing your email address from the future of this offer via email. It may take up to 10 business days/ 2 weeks) to take effect, and we will do our best to ensure that all publishers sending this offer will remove your email address prior to deployment. 
 
