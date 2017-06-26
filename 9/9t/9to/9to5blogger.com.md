@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9to5blogger.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231152006id_/http%3A//www.9to5blogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9to5blogger.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626041032id_/http%3A//www.9to5blogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,9 +67,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 9to5Blogger@gmail.com
 
 This document was last updated on October 14, 2012
-
-#### Get Free Email Alerts
-
-Stay Updated with Useful [Blogging Tips](http://www.9to5blogger.com/). Get Free Email Newsletter Updates..
-
-And, Next Confirm Your Email Subcription
