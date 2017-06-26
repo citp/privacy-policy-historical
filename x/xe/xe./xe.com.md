@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xe.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005958id_/http%3A//www.xe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xe.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626163748id_/http%3A//www.xe.com/privacy.php) for the most accurate reproduction.*
 
 # XE - Privacy Policy
 
-Effective as of September 01, 2012 (the "Effective Date"). 
+Effective as of May 30, 2017 (the "Effective Date"). 
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Aggregate technical information (such as IP addresses, screen resolution, browse
 
 ## What is done with the information collected?
 
-We use personal information and other demographic or profile information you provide to us to fulfill your orders or requests, to attempt to prevent fraudulent transactions, to improve the content of our web page in order to enhance your experience, and to contact you when necessary.
+We use personal information and other demographic or profile information you provide to us to fulfill your orders or requests, to attempt to prevent fraudulent transactions, to improve the content of our web page in order to enhance your experience, to contact you when necessary and, if you have consented and you have not withdrawn your consent, to contact you with marketing communications in relation to our Services (see Direct marketing by XE and Our Group below).
 
 Whenever possible, we use non-identifiable information (such as IP addresses and anonymous demographic information) rather than personal information. Non-identifiable information is used to tailor your experiences with our Services by showing content in which we think you will be interested and displaying content according to your preferences. We may use aggregate data for a variety of purposes, including analyzing user behavior and characteristics in order to measure interest in (and use of) the various portions and areas of our Services. We also use the information collected to evaluate and improve our services and analyze traffic to our Services.
 
@@ -24,7 +24,9 @@ Personal information collected on our Services is typically stored and processed
 
 ## Is information collected shared with third parties?
 
-XE may share your information with our agents, processors, or contractors in order to fulfil your purchase order. We may also transfer information between XE affiliates and our related companies. You should note, however, that XE is opposed to spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data for such purposes.
+XE may share your information with our agents, processors, or contractors in order to fulfil your purchase order. We may also transfer information to affiliate companies in the Euronet Worldwide Inc. group (of which we are part) including HiFX Europe Limited and companies operating under the “HiFX” brand ( **“HiFX”** ) and Euronet Payment Services Limited and companies operating under the “Ria” brand ( **“Ria”** ) (see: [www.euronetworldwide.com](https://web.archive.org/web/20170626163748id_/http%3A//www.xe.com/www.euronetworldwide.com)) ( **“Our Group”** ). If you have consented and you have not withdrawn your consent, affiliate companies in Our Group may contact you directly with marketing communications in relation to the Services or their respective services (see Direct marketing by XE and Our Group below).
+
+You should note that XE is opposed to third party spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data to third parties for such purposes.
 
 We may use statistical analysis of aggregate information to inform advertisers of aggregate user demographics and behavior, as well as the number of users that have been exposed to or clicked on their advertising banners. We will provide only aggregate data from these analyses to third parties.
 
@@ -32,7 +34,7 @@ We may share information we collect with third party service providers to manage
 
 Posts you make to XE Community forums are screened for spam using Mollom, whose privacy policy can be found at: <http://mollom.com/web-service-privacy-policy>
 
-We may transfer your information to a third party as a result of a sale, acquisition, merger, or reorganization involving XE, its affiliates, related companies, or any of their respective assets.
+We may transfer your information to a third party as a result of a sale, acquisition, merger, or reorganization involving XE, Our Group, related companies, or any of their respective assets.
 
 We may also disclose your information in special cases if required to do so by law, court order, or other governmental authority, or when we believe in good faith that disclosing this information is otherwise necessary or advisable, such as to identify, contact, or bring legal action against someone who may be causing injury to – or interfering with – the rights or property of XE, the Services, another user, or anyone else that could be harmed by such activities (for example, identify theft or fraud).
 
@@ -50,6 +52,13 @@ We use a small number of industry-leading advertising services suppliers, each o
   * [Platform-A Privacy Center](http://www.platform-a.com/privacy)
 
 
+
+  
+The XE.com website uses Google AdWords, including the remarketing and Similar Audiences features. This enables Google, through the use of cookies, to identify the fact that you have visited our website, to track aspects of your usage of our website, and combine that with what it knows about your usage of other websites in the Google ad network. We use these services to advertise to visitors of Google ad network websites who have previously visited our website or who Google deems to have shared interests with visitors of our website.
+
+Of course, any data collected through your use of our site will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), including opting out of interest-based advertising. 
 
 ## Do our Services use cookies?
 
@@ -85,22 +94,21 @@ We are committed to maintaining the security of your information and have measur
 
 No. The Services contain links to other Internet websites. By clicking on a third party advertising banner or certain other links, you will be redirected out of the Services and to such third party websites.
 
-We may also permit third parties to offer subscription or registration-based services promoted through our own Services. In some instances, these other services may be co-branded or use XE's trademarks under license; however, others services have their own respective privacy policies. For example, "XE Trade" is branded using XE's trade marks, but it is a third party service operated by Custom House Ltd. (not XE); consequently, "XE Trade" is subject to Custom House Ltd.'s privacy policy, and not this Policy. 
+We may also permit third parties to offer subscription or registration-based services promoted through our own Services. In some instances, these other services may be co-branded or use XE's trademarks under license; however, others services have their own respective privacy policies. For example, "XE Money Transfer" is branded using XE's trade marks, but it is a third party service operated by our affiliate company, HiFX (not XE); consequently, "XE Money Transfer" is subject to HiFX's privacy policy, and not this Policy. 
 
 We are not responsible for the privacy policies of other websites or services. You should make sure that you read and understand any applicable third party privacy policies, and you should direct any questions concerns to the relevant third party administrators or webmasters prior to providing any personally identifiable information.
 
-## How can I unsubscribe?
+## Direct marketing by XE and Our Group
 
-With your permission, we sometimes e-mail you in order to provide targeted marketing from our Services. We only send such e-mails when you have specifically requested them. All e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
+With your consent, we and/or affiliate companies within Our Group may sometimes contact you (by email, SMS text, letter or phone) in order to provide targeted marketing about our Services or their services (as the case may be). Such marketing communications will only be sent to you if you have given your consent when you registered for our Services and have not withdrawn such consent.
 
-  * select the opt-out link at the bottom of any XE e-mail and follow the instructions provided; or,
-  * contact us as directed at: <http://www.xe.com/contact.php>
+All marketing e-mails you receive from us or companies in Our Group will include specific instructions on how to unsubscribe and you may unsubscribe at any time.
 
-
+Additionally, you can contact us as directed at the following link to unsubscribe from marketing from us and Our Group: <http://www.xe.com/contact.php>
 
 ## Can personal information be updated or corrected?
 
-Yes. You may correct or update your personal information by writing to our Privacy Officer:
+Yes. You may correct or update your personal information or to otherwise request removal of your information from our database by writing to our Privacy Officer:
 
   * by e-mail to [privacy@xe.com](mailto:privacy@xe.com) ; or,
   * as directed at: <http://www.xe.com/contact.php>
