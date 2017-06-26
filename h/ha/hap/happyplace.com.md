@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061501id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627015009id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | someecards.com
+# Privacy Policy | Someecards.com
 
 At Someecards we believe information privacy is an important issue. Therefore, we have developed the following policy. This policy may be updated, revised and re-posted from time to time. This policy applies to all visitors to Someecards.com. By visiting Someecards, and any other linked pages, features, content, or application services offered from time to time by Someecards in connection therewith (collectively, the "Site"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
