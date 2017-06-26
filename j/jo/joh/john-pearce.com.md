@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the john-pearce.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408050528id_/http%3A//john-pearce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-pearce.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626174347id_/http%3A//john-pearce.com/privacy-policy) for the most accurate reproduction.*
 
-# 
-
-Privacy Policy
-
-Privacy Policy
+# Privacy Policy — John Pearce
 
 We have created this privacy statement for John Pearce in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [John Pearce](http://john-pearce.com/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
-**What Information Do We Collect?** ****
+**What Information Do We Collect?**
 
 When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
@@ -39,6 +35,10 @@ A cookie is a very small text document, which often includes an anonymous unique
 **How Do We Use Information We Collect from Cookies?**
 
 As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+
+**PayPal Transactions**
+
+PayPal transactions are subject to the PayPal Privacy Policy.  We employ all reasonable administrative, technical and physical measures to maintain the security and confidentiality of any and all PayPal data and information, including data and information about PayPal users.  Such data is held securely by our shopping cart service, and is never transmitted to outside parties.
 
 **IP Addresses**
 
