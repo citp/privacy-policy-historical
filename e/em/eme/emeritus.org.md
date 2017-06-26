@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeritus.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031030217id_/http%3A//emeritus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeritus.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626051829id_/http%3A//emeritus.org/privacy-policy) for the most accurate reproduction.*
 
 # EMERITUS Institute of Management - Privacy Policy
 
