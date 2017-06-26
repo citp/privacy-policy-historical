@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imjustcreative.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129112145id_/http%3A//imjustcreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imjustcreative.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626225833id_/http%3A//imjustcreative.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | The Logo Smith | Freelance Logo & Brand Identity Designer
 
 What is this Privacy Policy for?
 
