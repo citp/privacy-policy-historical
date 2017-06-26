@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123004728id_/http%3A//andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626195919id_/http%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
 
 # Terms and conditions / privacy policy - The official André Rieu website
 
