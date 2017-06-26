@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeshippuuden.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216143726id_/http%3A//mangafox.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeshippuuden.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626172610id_/http%3A//mangafox.me/privacy.php) for the most accurate reproduction.*
 
 # Manga Fox: Privary Policy
 
