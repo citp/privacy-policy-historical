@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120061221id_/http%3A//home.crowdtap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221137id_/http%3A//home.crowdtap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,4 +98,4 @@ EMAIL
 contact us  
 [support@crowdtap.com](mailto:support@crowdtap.com?subject=Privacy%20Policy%20Inquiry)
 
-Effective Date: This privacy policy is effective and was last updated on March 14st, 2016.
+Effective Date: This privacy policy is effective and was last updated on March 14, 2016.
