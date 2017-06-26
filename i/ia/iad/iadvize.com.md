@@ -1,87 +1,81 @@
-> *The following text is extracted and transformed from the iadvize.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028131924id_/http%3A//www.iadvize.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iadvize.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626150721id_/http%3A//www.iadvize.com/en/privacy) for the most accurate reproduction.*
 
-# iAdvize Privacy policy: data and cookies
+# Privacy Policy - iAdvize - EN
 
-**1\. Introduction**
+Date of last amendment: 29 September 2016
 
-iAdvize is committed to the responsible use of information and protecting individual privacy rights on iadvize.com. We want to inform our visitors about which data iAdvize collects and how it is used. You are entitled to review your personal information and to require that this data is deleted. The survey, handling and use of data is carried out in accordance with the data protection laws of the country where the centre which is responsible for handling the data is located. We take the necessary measures to ensure this.
+By browsing the sites [www.iadvize.com](http://www.iadvize.com/), www.ibbu.com and other sites or mini-sites belonging to iAdvize (each of these sites is referred to as the “Site”), you agree that iAdvize may collect and process your personal data.
 
-The iAdvize SAS (hereinafter referred to as “iAdvize” or “We”) owns and manages iadvize.com (the “Website”) and services provided by the iAdvize brand. iAdvize respects the privacy of its users and protects their personal data. iAdvize respects the protection of  personal data of its software users and informs these users what information will be processed. Accepting the Terms and Conditions for the use of all iAdvize products or deciding to use iAdvize products and services is equated with the acceptance of the Terms and Conditions and Privacy Policy of these services.
+We strongly believe in confidentiality. This is why we design and provide our services taking into account the protection of your privacy. This privacy policy describes the types of personal data that we collect, the use made thereof and how these data and your rights are protected.
 
-**2\. Your data**
+**What data do we collect on our Website?**
 
-In compliance with the code issued by the Information Commissioner under section 51 of the Data Protection Act 1998 (DPA), the user is hereby informed that iAdvize processes personal data in order to provide its service. Personal data and user information is collected in order to ensure registration and access to the iAdvize-service. When you sign up for the use of iAdvize services, iadvize.com asks you to provide personal contact information such as your name, company name, address, telephone number and email address. When you purchase the service, you are asked to provide  information about your credit-worthiness and when you make the final payment such as the invoice recipient’s name and address, their credit card number.
+If you are just a visitor of our Website, iAdvize does not collect your personal data, except for the use of cookies.
 
-This personal information will only be used to answer your questions more accurately and to provide a better service.
+In particular, we collect and process your name, address, email address, password, telephone number, login data and browsing data, products viewed, claims, and other personal information that you provide directly to us.
 
-_2.1 What information do we collect about you?_
+The mandatory or optional nature of the data is marked by an asterisk when the data are collected. Some data are automatically collected by your actions on the website.
 
-iAdvize guarantees that its data processing is compliant with the Data Protection Act. The  use of personal data and user information is used to improve the service and product. iAdvize will not disclose information or personal information to third parties for sales or marketing reasons.
+**When?**
 
-iAdvize reserves the right to use the user’s provided data to send its own special offers and directly contact the user. In processing your order, we may send your details to, and also use information from credit reference agencies and fraud prevention agencies.  With the exception of the above situations iAdvize will never publish or disclose information about users.
+We collect the information that you provide to us, in particular when:
 
-The user may at any time request information about his or her personal data saved by iAdvize. In addition, the user has the right to revoke the iAdvize’s authorization to collect, process and use personal data.
+  * you browse our sites and applications and view products
+  * you create, change or access your personal account
+  * you fill in a contact form or apply to our job openings
+  * you contact our Customer Service
 
-_2.2 How will we use the information about you?_
 
-The company collects data from iAdvize customers in order to provide the requested service. For example, when you filled out the online form to send an email, iAdvize will use this information to contact you about your interest in our services.
 
-The company is entitled to use the data about iAdvize customers for marketing purposes. iadvize.com may use the information you provide to contact you in order to discuss your interests in our services and to send you information about iAdvize or its partners, such as special offers and events.
+**Recipients of the data**
 
-Credit card information may only be used to verify the credit-worthiness of prospective clients and to charge for the provided services. The iAdvize user is the person who is  exclusively responsible for the way in which iAdvize is installed. It is the user’s responsibility to use web analytics tools in compliance with data protection regulations.
+The data collected on iAdvize’s sites and applications are exclusively intended for iAdvize.
 
-**3\. Cookies**
+They may be forwarded to companies which are subsidiaries of the iAdvize Group or to companies – sub-contractors – which iAdvize uses for the provision of services (e.g.: hosting of the Site). iAdvize requests its service providers to put in place strict confidentiality and data protection measures. Once the processing is completed, the information is protected by contracts which require third-parties to process the information only in accordance with iAdvize’s instructions and with the provisions of this confidentiality undertaking, by all applying all appropriate security and confidentiality measures.
 
-For a simple and practical use of company websites, iadvize.com uses cookies. If you visit one of the iadvize.com websites, the company’s servers send a cookie to your computer.   Cookies as such do not personally identify you. They merely recognize your browser. Unless you choose to identify yourself to the company – for example, by subscribing to the newsletter, or by opening an account and filling out an online form (to get in contact or register for a 14-day trial) – you remain anonymous for iadvize.com.
+**How we use the data collected** ****
 
-iadvize.com uses session cookies and persistent cookies. Session cookies are only active during an online session. They are deleted from your computer when you close your browser or shut down your computer. Persistent cookies are stored on your computer even after your browser or computer are shut down.
+The data collected by us allow us to [supply](https://www.google.fr/intl/en/policies/privacy/example/provide-services.html), [manage](https://www.google.fr/intl/en/policies/privacy/example/maintain-services.html), [protect](https://www.google.fr/intl/en/policies/privacy/example/protect-services.html) and improve our products and services, to [develop new ones](https://www.google.fr/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect both our users and ourselves](https://www.google.fr/intl/en/policies/privacy/example/protect-google-and-our-users.html). These data are also used to send you information that we believe would be of interest to you, including information on products, services, promotions and other news and events relating to iAdvize, insofar as this complies with the local applicable laws.
 
-For further information, visit <http://www.aboutcookies.org.uk/>
+**Social networks**
 
-If you have identified yourself on iadvize.com, iAdvize will use session cookies which contain encrypted information to enable the system to clearly identify you, as long as you are registered. Each time you log in to one of the iAdvize services, a session cookie with a specific ID associated with your account is placed in your browser. With the help of these session cookies, the company is able to recognize you when you are logged in to one of the services, and can process your online transactions and requests. Session cookies are necessary for the use of services.
+The use of social networks and of the services or applications of iAdvize via these social networks may lead to the collection and exchange of certain data between the social networks and iAdvize. Please read the privacy policies of these social networks to ensure that you are aware of the information they may collect and send to iAdvize via their sites and applications, as well as the usage purposes of your data, in particular advertising. You can configure and directly control on the social networks the accessibility and confidentiality of your data. iAdvize shall not be liable for the use made of your data by the social networks for their own purpose.
 
-The company also uses persistent cookies which can only be read and used by iadvize.com  to identify browsers that have already visited the company websites. When you buy services or provide the company with certain personal data, you will be assigned a specific ID. This specific ID is connected to a persistent cookie which the company places on your Web browser. The company pays special attention to the security and privacy of the information stored in persistent cookies. For example, account numbers and passwords are not stored in persistent cookies. If you set your browser not to accept cookies on your browser, you can continue to use the full range of iadvize.com features, but not all our services. Persistent cookies are stored for one year maximum.
+**Minors**
 
-**4\. Google Analytics**
+The Site does not target and is not intended for children under the age of 16. iAdvize’s policy does not in any way provide for the intentional collection or storage of personal data or other information on any person under the age of 16.
 
-This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses “cookies”, small pieces of data which are stored on your computer, to help the website analyse how users use the website. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
+If you are under the age of 16, you should not access the Site and should not provide personal data to iAdvize.
 
-If the IP anonymisation is activated on this website, your IP address will be shortened within Member States of the European Union or signatories of the Agreement on the European Economic Area. Only in exceptional cases is the complete IP address transmitted to a Google server in the USA and shortened there. The IP-anonymisation is active on this site. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, compiling reports on website activity and providing other website and internet related services to the website operator.
+If you are 16 years or above but have not reached full legal age (which is 18 years old in most countries), before deciding whether or not to access this Website and to share personal data with iAdvize, please read this privacy policy with your parents or your legal representative to ensure that you, your parents or legal representative understand it fully.
 
-The IP address which Google Analytics gets from your browser is not associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, we would point out that in this case, you will not be able to use all the features of this website. You can also prevent the data about your use of the website with cookies (including your IP address) from being collected and processed by Google. All you have to do is download and install the browser plugin available here: <https://tools.google.com/dlpage/gaoptout?hl=en>.
+**Cookies**
 
-**5\. Security**
+This Site uses cookies to improve its performance and offer you a better browsing experience.
 
-iAdvize has taken strong security measures to protect customer data against unauthorized access. The security measures taken ensure the security of user data. iAdvize’s highest priority is to protect user data. However, the security of data transmission over the Internet can not be 100 percent guaranteed.
+A “cookie” is a small piece of information that we can provide to your browser when you are on our Site. Cookies are not used to determine your personal identity. Cookies allow us to monitor browser habits on our Site in order to determine the user’s preferred localisation and language and direct him immediately to the correct home page when he accesses our Site.
 
-All iAdvize servers are located in hosting facilities secured by a firewall, they are on the cutting edge of technology and are subject to a full-time supervision by the facility. iAdvize is able to monitor the system 24 hours a day and 7 days a week, so it can respond to problems immediately. The user data is distributed between two data centers and a backup is saved every 24 hours. The user is aware that iAdvize can only guarantee the highest level of privacy if the user keeps his or her login information safe. This login information enables the user to access his or her data. The user, and not iAdvize, is responsible for the content and consequences of his or her chat conversations.
+If you do not wish to receive cookies from our Site, you can change your browser settings to be able to refuse them or restrict your acceptance of them. However, if you wish to cancel all cookies of your browser, you will not be able to fully enjoy all the options offered by our Site.
 
-**6\. Changes to this Privacy Policy**
+**Information security**
 
-We keep our privacy policy under regular review and we will place any updates on this webpage. The continued use of iAdvize services is deemed as acceptance of changes made to the Privacy Policy. This privacy policy was last updated on 23 August 2013.
+iAdvize takes all necessary security measures to protect itself against any unauthorised access to data stored or any alteration, disclosure or unauthorised destruction of these data. iAdvize restricts access to your personally identifiable information solely to employees who require such information to run, develop or improve the company’s services.
 
-**7\. Terms and Conditions**
+**Your rights under the French Data Protection Act**
 
-By using the iAdvize products and services, the user accepts the terms and conditions, which are available at:
+Pursuant to the French Data Protection Act, you have the right of access, rectification, deletion or objection over your personal data. These rights may be exercised by writing to privacy@iadvize.com or by sending a letter to:
 
-<http://www.iadvize.com/terms_of_use_iadvize.html>
+iAdvize  
+Service Juridique  
+2 bis quai François Mitterrand, 44200 Nantes, France  
+For any information on privacy, you can also consult the site of the _Commission Informatique et Liberté_ (French Data Protection Authority), [www.cnil.fr](http://www.cnil.fr/)
 
-**8\. Legal Notices**
+**Identity of the data controller**
 
-iAdvize constantly checks and updates the information on its website. Despite all efforts, data may meanwhile have changed. Therefore, we can not be accountable nor provide the guarantee that the information shared on our website is up to date, correct and complete. Our website also contains links to other websites. This privacy policy only applies to this website so when you link to other websites, you should read their own privacy policies. Furthermore iAdvize reserves the right to make changes or additions to the information provided.
+iAdvize  
+2 ter quai François Mitterrand, 44200 Nantes, France  
+Nantes Trade and Companies Register 519 698 914
 
-**9\. Contact**
+**Amendments**
 
-Please contact us if you have any questions about our privacy policy or information we hold about you:
-
-By email: [contact-uk@iadvize.com](mailto:kontakt@iadvize.com)
-
-Or write to us at:
-
-iAdvize SAS
-
-2ter Quai François Mitterrand,
-
-44200 Nantes
-
-France
+iAdvize reserves the right to amend this privacy policy. We would advise you to regularly check the latest version of this information document.
