@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journeytosaving.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117203353id_/http%3A//journeytosaving.com/about-journey-to-saving/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeytosaving.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626153741id_/http%3A//journeytosaving.com/about-journey-to-saving/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Journey to Saving
+# Privacy Policy –
 
 This Privacy Policy governs the manner in which Journey to Saving collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.journeytosaving.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Journey to Saving.
 
