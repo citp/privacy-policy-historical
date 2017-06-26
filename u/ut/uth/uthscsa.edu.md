@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uthscsa.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220145212id_/http%3A//www.uthscsa.edu/university/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uthscsa.edu privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626220534id_/http%3A//www.uthscsa.edu/university/web-privacy) for the most accurate reproduction.*
 
-# Web Privacy Policy | UT Health Science Center San Antonio
+# Web Privacy Policy | UT Health San Antonio
 
 The University of Texas Health Science Center at San Antonio maintains its website, [www.uthscsa.edu](http://www.uthscsa.edu/), as a service to its students, employees and the public. The following is the privacy policy for this site  and includes all pages with the domain name "uthscsa.edu" in them:
 
