@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227100009id_/http%3A//cnycentral.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626181948id_/http%3A//cnycentral.com/station/privacy) for the most accurate reproduction.*
 
 # Syracuse Privacy | News, Weather, Sports, Breaking News | WSTM
 
