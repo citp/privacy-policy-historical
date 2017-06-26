@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119070957id_/http%3A//1keydata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626034251id_/http%3A//1keydata.com/privacy.php) for the most accurate reproduction.*
 
 # 1Keydata Privacy Policy
 
@@ -25,5 +25,5 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 * * *
 
-Copyright 2016   1keydata.com   All Rights Reserved     [Privacy Policy](https://web.archive.org/web/20161119070957id_/http%3A//1keydata.com/privacy.php)   [About](https://web.archive.org/web/20161119070957id_/http%3A//1keydata.com/about.php)   [Contact](https://web.archive.org/web/20161119070957id_/http%3A//1keydata.com/contact-us.php)  
+Copyright 2016   1keydata.com   All Rights Reserved     [Privacy Policy](https://web.archive.org/web/20170626034251id_/http%3A//1keydata.com/privacy.php)   [About](https://web.archive.org/web/20170626034251id_/http%3A//1keydata.com/about.php)   [Contact](https://web.archive.org/web/20170626034251id_/http%3A//1keydata.com/contact-us.php)  
 
