@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042715id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626132156id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
@@ -6,11 +6,11 @@
 Updated: December 19, 2016**  
 
 
-[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=b8d8b33d-156e-4672-977b-96e6d27ebda7 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=bf0716d0-1755-4b11-b735-fa2786bd8c3e)
 
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, "NFL," "we," "our," "us") respect your privacy and value your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites, mobile applications, and other online and mobile services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
-Please note that this Privacy Policy does not apply to NFL properties that do not link to this Privacy Policy (including [http://www.NFLShop.com](http://www.nflshop.com/) and [http://www.NFLRush.com](http://www.nflrush.com/)) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs"). In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
+Please note that this Privacy Policy does not apply to NFL properties that do not link to this Privacy Policy (including www.NFLShop.com and www.NFLRush.com) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs"). In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
 
 NFL Enterprises LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
