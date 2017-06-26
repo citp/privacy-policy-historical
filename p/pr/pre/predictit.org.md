@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226224627id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626224706id_/https%3A//www.predictit.org/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# PredictIt | Privacy Policy
+# Privacy Policy
 
 **_Last updated on November 1, 2014_**
 
