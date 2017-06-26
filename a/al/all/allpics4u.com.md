@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617033006id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626031520id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
