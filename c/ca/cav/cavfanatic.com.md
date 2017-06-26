@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavfanatic.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231095748id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavfanatic.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626162403id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com Network Privacy Policy - NBA.com
 
@@ -20,18 +20,18 @@ If you have any questions, comments, or requests regarding this Policy or the in
 
 ### TABLE OF CONTENTS
 
-  1. The organizations collecting the information
-  2. What personally identifiable and other information is collected
-  3. How personally identifiable and other information is used
-  4. With whom the information may be shared
-  5. Online Advertising
-  6. Special policies applicable to Third-Party Sections
-  7. What choices are available to you regarding collection, use and distribution of the information; Opting-out
-  8. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control
-  9. How you can correct any inaccuracies in the information
-  10. Choice of Law
-  11. Data Stored in the United States
-  12. Your California Privacy Rights
+  1. [The organizations collecting the information](http://www.nba.com/news/privacy_policy.html#priv1)
+  2. [What personally identifiable and other information is collected](http://www.nba.com/news/privacy_policy.html#priv2)
+  3. [How personally identifiable and other information is used](http://www.nba.com/news/privacy_policy.html#priv3)
+  4. [With whom the information may be shared](http://www.nba.com/news/privacy_policy.html#priv4)
+  5. [Online Advertising](http://www.nba.com/news/privacy_policy.html#priv5)
+  6. [Special policies applicable to Third-Party Sections](http://www.nba.com/news/privacy_policy.html#priv6)
+  7. [What choices are available to you regarding collection, use and distribution of the information; Opting-out](http://www.nba.com/news/privacy_policy.html#priv7)
+  8. [The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control](http://www.nba.com/news/privacy_policy.html#priv8)
+  9. [How you can correct any inaccuracies in the information](http://www.nba.com/news/privacy_policy.html#priv9)
+  10. [Choice of Law](http://www.nba.com/news/privacy_policy.html#priv10)
+  11. [Data Stored in the United States](http://www.nba.com/news/privacy_policy.html#priv11)
+  12. [Your California Privacy Rights](http://www.nba.com/news/privacy_policy.html#priv12)
 
 
 
@@ -131,7 +131,7 @@ The practices described in this section apply only to information gathered throu
 
 The NBA.com Network has engaged FRGNI to perform services in connection with the management and operation of the NBA/WNBA Store. As such, in connection with the NBA/WNBA Store, FRGNI and its service providers will have access to and will use the personally identifiable information you provide in connection with your shopping and purchase activity on the NBA/WNBA Store, including providing customer service regarding your order, subject to the terms of this Policy. Examples of how FRGNI and its service providers may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis. You may update your NBA/WNBA Store account information or e-mail preferences by visiting the "My Account" area at NBAStore.com or WNBAStore.com.
 
-In addition, FRGNI may use the personally identifiable information you provide in order to send you marketing and promotional material regarding products and services offered through other sites operated by FRGNI and/or its affiliates – which currently includes, but is not limited to, Fanatics.com and FansEdge.com. If you wish to opt-out of receiving such communications, you may do so by following the instructions provided within the materials received, or by contacting FRGNI at [privacy@fanatics.com](http://www.nba.com/news/Mail%20To:privacy@fanatics.com). To learn more about how FRGNI collects, uses, protects and discloses your personally identifiable information, please visit [fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard](https://fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard).
+In addition, FRGNI may use the personally identifiable information you provide in order to send you marketing and promotional material regarding products and services offered through other sites operated by FRGNI and/or its affiliates – which currently includes, but is not limited to, Fanatics.com and FansEdge.com. If you wish to opt-out of receiving such communications, you may do so by following the instructions provided within the materials received, or by contacting FRGNI at privacy@fanatics.com. To learn more about how FRGNI collects, uses, protects and discloses your personally identifiable information, please visit [fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard](https://fanatics.custhelp.com/app/answers/detail/a_id/129/theme/standard).
 
  **NBA Photo Store.** At the NBA Photo Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, date of birth, telephone number, and credit card information.
 
