@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepaintstudio.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717075115id_/http%3A//www.thepaintstudio.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaintstudio.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626075229id_/http%3A//www.thepaintstudio.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | The Paint Studio | Ace Hardware
 
