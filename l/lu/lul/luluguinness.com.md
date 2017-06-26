@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122000019id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626141159id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Lulu Guinness
 
@@ -56,7 +56,7 @@ When you place an order or access your account information, we use a Secure Sock
 
 If you require further information about our Privacy Policy, please go to the help section of the website where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send an email to the relevant Lulu Guinness department.
 
-If you wish to talk to a member of the Lulu Guinness online Customer Service Team please call +44 (0) 843 2080177 or write to: c/o Data Protection Officer, Lulu Guinness, 326 Kensal Road, London, W10 5BZ
+If you wish to talk to a member of the Lulu Guinness online Customer Service Team please call +44 (0) 800 044 3741 or write to: c/o Data Protection Officer, Lulu Guinness, Courtyard 1, Highgate Studios, 53-79 Highgate Road, London NW5 1TL.
 
 ### COOKIE POLICY
 
