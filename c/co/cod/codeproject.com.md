@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028141851id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626172618id_/https%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
@@ -8,7 +8,7 @@ CodeProject is committed to protecting your privacy and to developing technology
 
 This privacy statement explains data collection and use practices of CodeProject and CodeProject's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, CodeProject and the Site shall collectively, be referred to as " **We** " or " **CodeProject** ").
 
-The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by CodeProject now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of CodeProject).
+The "Site" refers to https://www.codeproject.com and all other Web properties owned or operated by CodeProject now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of CodeProject).
 
 By providing personal information to CodeProject, you are consenting to the information collection and use practices described in this privacy statement.
 
