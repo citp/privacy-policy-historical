@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pianu.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312050622id_/https%3A//pianu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianu.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626163453id_/https%3A//pianu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn Piano Online - Pianu is an interactive website you can play with a real keyboard.
+# Privacy Policy - Pianu - The Online Piano That Teaches You How to Play
 
 The use of the Website and/or Pianu’s Software Products and any other related websites, software, upgrades or updates and all related services and special offers provided by Pianu are subject to the hereunder provisions of this Privacy Policy.:
 
