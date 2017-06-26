@@ -1,79 +1,121 @@
-> *The following text is extracted and transformed from the iconosquare.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522005946id_/http%3A//iconosquare.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconosquare.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626165141id_/https%3A//pro.iconosquare.com/privacy-policy) for the most accurate reproduction.*
 
-# Iconosquare | Privacy Policy
+# Privacy policy | Iconosquare
 
-## 1\. ACCEPTANCE OF THE PRIVACY POLICY
+[](https://web.archive.org/ "Iconosquare Pro")
 
-The Terms of Use Iconosquare Site are incorporated herein by reference. By using the Site you agree to be bound by the Terms of Use Iconosquare Site, whether you are a User or an Organizer.
+## 1\. OBJECTIVE OF THIS PRIVACY POLICY
 
-Capitalized terms hereunder shall be defined under the Terms of Use Iconosquare Site.
+The words below whose first letters are capitalized will have the meanings which are defined for them in the General Terms and Conditions of the Iconosquare Site.
 
-## 2\. COLLECTION OF INFORMATION AND USE BY ICONOSQUARE
+The personal data that we collect is subject to the regulations set out in the French “Informatique et libertés” law of 6 January, 1978, amended in 2004, and to all other applicable legislation and regulations.
 
-### 2.1 Collection of information
+For personal data collected in France, the data controller is Tripnity, a simplified limited company (société par actions simplifiée) under French law, capitalized at €150,000, headquartered at 90, route du Palais 87000, Limoges, France, registry number 480 850 346 at the Paris Registre du Commerce et des Sociétés.
 
-You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us. 
+The present privacy policy describes the personal data that we collect, the reasons for and the means of collecting, the ways in which we use the data, and under which circumstances we will share it with third parties.
 
-We collect two types of information from Users/Organizers of the Site: “Automatic Anonymous Information” (hereafter known as “AAI”) and “Identifiable Personal Information” (hereafter known as “IPI”). We process AAI and IPI differently, and the following articles describe both **AAI** and **IPI** and indicate how each type of information is collected and used by Iconosquare.
+## 2\. PERSONAL DATA
 
-The Site/Contest Tool make it possible to monitor certain information automatically, based on your behaviour. This information does not identify you personally. We use this information to improve the Content and functionality of the Site/Contest Tool, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information. This information is referred to herein as the AAI.
+### 2.1 Collection of Personal Data
 
-IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your e-mail address, billing address, and/or other personal information. You may choose to provide IPI in order to access certain functions on the Site, to Publish your Content, to create an Account, to organize a Photo Contest, to participate in a Photo Contest or to make comments. When possible, we tell you which fields of information are required and which are optional. You can always choose not to provide certain information, but in that case it may be that you cannot use certain of the Site’s functions mentioned above.
+We collect personal data about you such as your family names, first names, billing address, email address, and phone numbers, limited to what you have agreed to tell the Site in order particularly to publish your Content, create your Account, organize a Photo Contest, participate in a Photo contest, or to post comments.
 
-Iconosquare does not collect or keep information on Users/Organizers whom we know to be under 18 years of age.
+In cases where the entry of certain personal data is absolutely required for us to carry out a Service, we will indicate that. 
 
-### 2.2 Use of your information
+### 2.2 Use of Your Personal Data
 
-We use your AAI which we collect mainly in order to improve the quality of the Site and to provide you with personalized service. We may also use your AAI internally, to manage the Site.
+We use your personal data with the following goals in mind: 
 
-When you register on the Site we may ask you for certain IPI, such as your e-mail address, so as to provide you with different functions. Your consent to this promotional use and disclosure of this information is a condition for your participation.
+\- to allow you to benefit from the Services offered by Iconosquare;  
+\- to improve the quality of the Site, of the Services, and of the functionality of the Services;  
+\- to provide you personalized service;  
+\- to manage the Site internally;  
+\- to understand our visitors better in order to help satisfy them;  
+\- to let us identify you in order to contact you;  
+\- with your consent, if it is required by law, to contact you by email/SMS/post with information about our Services and/or contests.
 
-### 2.3 Shared information
+If you no longer wish to receive commercial marketing information from us, you can at any time unsubscribe from our list by clicking on the link at the bottom of the emails. 
 
-Iconosquare may share your IPI: ( **i** ) with Iconosquare’s affiliates or subsidiaries or, as the case may be, with third parties who are bound by an obligation of confidentiality; or ( **ii** ) if Iconosquare has obtained your consent; or ( **iii** ) if Iconosquare is required to do so by law; or ( **iv** ) in the event of a transfer of ownership of Iconosquare, a merger or any similar act; or ( **v** ) as mentioned elsewhere in the present Privacy Policy.
+### 2.3 Sharing of Personal Data
 
-The following provisions describe some of the ways in which your IPI may be disclosed to third parties: we may make use of third parties to provide functions on our behalf in order to improve our communication and our efforts in the areas of promotion, marketing or other services. These third parties may include approved service providers, consultants and other companies working with us (referred to collectively as “Representatives”). They have access only to the IPI necessary to perform their functions and may not share the IPI with others or use it for any purpose other than providing or improving the Site.
+Iconosquare may share your personal data: (i) with affiliated companies or subsidiaries of Iconosquare in order for them to use it for the same reasons as indicated above, and/or with third parties, on condition that you have expressedly consented to these sharing arrangements; (ii) with service providers acting on its behalf; (iii) with a third party in order to comply with a legal obligation; or (iv) in the event of a transfer of ownership or merger if you have expressedly consented to the transfer or merger. 
 
-Iconosquare reserves the right to share or transfer your IPI in order to comply with a legal order, disclose your activities or IPI as part of the application of the law when, at its sole discretion, Iconosquare believes it necessary or appropriate, as part of an investigation of fraud, violation of intellectual property rights or some other illegal activity or activity that may engage your or our liability.
+### 2.4 Duration of the Personal Data Retention Period
 
-## 3\. LINKS
+We undertake not to retain your personal data longer than the length of time necessary to manage the commercial relationship. 
 
-On the Site you will find various links directing you to Third Party Sites or to Third Party Content. Iconosquare shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use Iconosquare Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.
+In the event that your account becomes inactive, the personal data associated with your account will be automatically deleted after three years, except for that data which we would need to preserve as proof, for legal or administrative needs, or in order to comply with applicable legislation. 
 
-## 4\. USE OF COOKIES
+## 3\. Links
 
-With an eye for quality, Iconosquare reserves the right to install cookies on your computer; under no circumstances shall these cookies infringe your privacy; these cookies make it possible to record User/Organizer preferences as well as information about your session on the Site. Cookies allow you to better use the Site/Contest Tool, in particular enabling you to avoid always consulting the same Contents on the Site.
+On the Site you will find various links that direct you to third party sites. Iconosquare cannot be held responsible for links posted by the Users, nor for the privacy policies of these third parties. The General Terms and Conditions of the Iconosquare Site, and in particular the privacy policy, do not govern third party sites or content of third parties accessed by Site Users. 
 
-The information that Iconosquare records with cookies is not linked to the personal information you otherwise supply Iconosquare.
+## 4\. Use of cookies
 
-The use of these cookies is optional; you can configure your browser not to accept, or to only sometimes accept, cookies.
+### 4.1 Placing of Cookies
 
-However, for optimum use of the Site/Photo Contest, we advise you to accept Iconosquare cookies. Certain functions may require the use of cookies in order to function correctly.
+We can deposit information about how your computer navigates our site onto your computer, by storing data files on it. These files are called “Cookies.” 
 
-## 5\. COMMENTING OR POSTING ON THE SITE
+### 4.2 Use of Cookies
 
-When you post information (a tag, a link, a comment…) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.
+When you access our Site for the first time, a scrolling banner automatically appears at the bottom of the page. The presence of this banner aims to inform you about the use of Cookies by our site and to ensure that you consent to the presence of some of them. 
 
-## 6\. SECURITY
+We only use three types: 
 
-Iconosquare uses its best efforts to ensure the confidentiality of your personal data.
+\- Functional Cookies to make sure our site functions;  
+\- Statistical Cookies to measure the audience on our site;  
+\- Marketing Cookies, targeted marketing support, coming from third parties. 
 
-Iconosquare uses secure technology according to industry standards to protect the Content and the User/Organizer’s privacy. All Iconosquare personnel have a duty to respect the confidentiality of the Users/Organizer. A confidentiality obligation is included in each employment contract of Iconosquare employees with access to personal data.
+The marketing Cookies require your explicit consent, which is why we request your consent for them to be deposited on your computer, and on your first visit to our site. 
 
-**HOWEVER, ICONOSQUARE ASSUMES NO LIABILITY FOR UNAUTHORIZED ACCESS TO ANY CONTENT. THE INTERNET IS NOT A SECURE MEDIUM, AND RESPECT FOR PRIVACY CANNOT BE GUARANTEED WHEN INFORMATION IS TRANSMITTED. E-MAIL ADDRESSES ON THE INTERNET AND ON WEB SITES ARE EXPOSED TO INTERCEPTION, INFRINGEMENT AND UNAUTHORIZED ACCESS. INFORMATION SENT OR RECEIVED ON THE INTERNET IS NOT GENERALLY SECURE, AND ICONOSQUARE CANNOT AND DOES NOT MAKE ANY DECLARATION, GUARANTEE OR PROMISE CONCERNING THIRD-PARTY INTERCEPTION OF THE USER’S/ORGANIZER’S PERSONAL, FINANCIAL OR OTHER INFORMATION. ICONOSQUARE SHALL NOT BE HELD LIABLE FOR DAMAGES WHICH THE USER/ORGANIZER MAY SUFFER AFTER TRANSMITTING ANY INFORMATION FROM OR TO THE SITE OR IN ASSOCIATION WITH IT. ANY INFORMATION TRANSMITTED VIA THE SITE IS SENT AT THE USER’S/ORGANIZER’S OWN RISK.**
+### 4.3 Duration of Cookie Preservation
 
-As set forth in the Terms of Use Iconosquare Site, your Login Details are confidential and you are not to disclose this Login Details to others; **YOU MAY NOT HOLD ICONOSQUARE LIABLE FOR THE DISCLOSURE OF YOUR LOGIN DETAILS OR ANY CONSEQUENCE OF THIS DISCLOSURE, IF YOU DISCLOSE YOUR LOGIN DETAILS TO ANY THIRD PARTY**.
+In compliance with the recommendations of the Commission Nationale de l'Informatique et des Libertés, Cookies are not preserved longer than 13 months after their first deposit in the User's terminal equipment. At the end of this time period, they are deleted, and consent, if needed, will be sought anew. 
 
-## 7\. MODIFICATION OF THE PRIVACY POLICY
+### 4.4 Refusal of Cookies
 
-Iconosquare reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon Iconosquare posting the same on the Site. Continued use by you of the Site after Iconosquare has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.
+Browser settings can be configured to inform the User of the presence of cookies, and even to refuse them. It therefore falls to Users themselves to set their browsers to refuse cookies. 
 
-## 8\. APPLICABLE LAW
+To do that, Users may follow the following recommendations: 
 
-The present Privacy Policy is part of the Terms of Use Iconosquare Site, and as such it will be governed by French law and will be interpreted according to French law, without taking into account principles relating to conflicts of laws. 
+**For Mozilla Firefox:**
 
-Any dispute arising from, or in connection with, this Privacy Policy, shall be submitted to the exclusive jurisdiction of the French courts in Paris, France. 
+\- Go to the “Tools” menu, and then to “Options”; \- Click on the “Privacy” icon; \- Locate the “Cookies” subsection and select the options that suit the User. 
 
-## 9\. CONTACT
+**For Microsoft Internet Explorer:**
 
-For any questions concerning this Privacy Policy, other policies for the Site or how to use the Site, please contact us at the following e-mail address: help@iconosquare.com.
+\- Go to the “Tools” menu, and then to “Internet Options”;  
+\- Click on the “Privacy” tab;   
+\- Select the preferred level using the slider. 
+
+However, users are informed that it is possible that after having blocked cookies, certain pages on the Site will no longer be available to them. 
+
+## 5\. DATA SECURITY
+
+Iconosquare maintains the confidentiality of your personal data. Iconosquare uses technology, which is secure to industry standard to protect the content and the privacy of Users. All Iconosquare staff have a duty to respect User confidentiality. A confidentiality obligation is included in every employment contract of Iconosquare, employees who have access to the personal data, as well as in those with its subcontractors. 
+
+## 6\. CNIL DECLARATION
+
+In accordance with the French “Informatique et libertés” law of 6 January, 1978, amended by the law of 6 August, 2004, the processing of your personal data collected via the Site has been declared to CNIL under number 1513594 v 0. 
+
+## 7\. CHANGES TO THE PRIVACY POLICY
+
+Iconosquare may modify or amend this privacy policy. All changes or amendments will come into force from the date of posting on the Iconosquare Site. Your continuing usage of the Site after the publication by Iconosquare of an updated version of the Privacy Policy implies that you consent to the Privacy Policy, as modified. Consequently, it is important that you regularly read this Privacy Policy to make sure that you are fully aware of all the changes that may have been applied to it. 
+
+## 8\. RIGHTS OF OPPOSITION, ACCESS, RECTIFICATION AND DELETION
+
+Pursuant to French “Informatique et Libertés” law no. 78-17 of 6 January, 1978, each User possesses rights of access, modification, rectification and deletion of personal data which concerns him or her. 
+
+Users may also, at any time, access their data in order to modify, rectify, or totally or partially delete their personal data, by logging into their accounts and using the “delete account” function. 
+
+Users may also modify or delete their personal data by sending a letter to the following address: Iconosquare, 90, route du Palais, 87000 Limoges France, and/or an email to [contact@iconosquare.com](mailto:contact@iconosquare.com "contact@iconosquare.com"). 
+
+Users must include with all communication their Login Credentials, a photocopy of their official identification document with photo, as well as details on the modifications and/or deletions that they wish to carry out. 
+
+## 9\. APPLICABLE LAW
+
+The current privacy policy is part of the General Terms and Conditions of the Iconosquare Site, and as such, it will be governed by and construed in accordance with the laws of France, without regard to conflict of laws principles. 
+
+## 10\. CONTACT
+
+If you have any questions about this Privacy Policy, or questions about the use of the Site, please contact us by email at the following address: [contact@iconosquare.com](mailto:contact@iconosquare.com "contact@iconosquare.com"). 
