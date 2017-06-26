@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umidigi.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215024920id_/http%3A//www.umidigi.com/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umidigi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626201005id_/http%3A//www.umidigi.com/page-Policy.html) for the most accurate reproduction.*
 
-# Policy Company Profile UMi Smartphone
+# UMIDIGI Smartphone
 
 Privacy Policy
 
