@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015339id_/http%3A//www.buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626150641id_/http%3A//buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & COOKIE Policy | Buongiorno SpA
 
@@ -14,7 +14,7 @@ The spontaneous, explicit and voluntary sending e-mail messages to the addresses
 
 #### Cookie
 
-On the Company’s website, only so-called technical cookie are used. This kind of cookie allows a better experience of web navigation and helps users to enjoy the contents of the Company’s website itself. In particular, no cookie are used to transmit personal information, nor the so-called persistent cookie or user tracking systems are implemented. The cookie used on this website make unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation and the cookie do not allow acquiring the user’s personal identification data. In order to know which cookie are used on the Company’s website, please visit [this page](https://web.archive.org/cookies-eng), while if you want to refuse the use of any cookie, please correct the settings of your internet browser. In this case, please remind that the web navigation and the enjoyment of the contents of the Company’s website could be compromised. 
+On the Company’s website, only so-called technical cookie are used. This kind of cookie allows a better experience of web navigation and helps users to enjoy the contents of the Company’s website itself. In particular, no cookie are used to transmit personal information, nor the so-called persistent cookie or user tracking systems are implemented. The cookie used on this website make unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation and the cookie do not allow acquiring the user’s personal identification data. In order to know which cookie are used on the Company’s website, please visit [this page](http://www.buongiorno.com/cookies-eng), while if you want to refuse the use of any cookie, please correct the settings of your internet browser. In this case, please remind that the web navigation and the enjoyment of the contents of the Company’s website could be compromised. 
 
 #### Processing arrangement
 
