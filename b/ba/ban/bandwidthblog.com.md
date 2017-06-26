@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015220726id_/http%3A//www.bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthblog.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626080909id_/http%3A//www.bandwidthblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bandwidth Blog
+# Privacy Policy | Bandwidth Blog - South African technology & gadget news
 
-## This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. 
+### This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online.
 
 _PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context._
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-### What personal information do we collect from the people that visit our blog, website or app?
+**What personal information do we collect from the people that visit our blog, website or app?**
 
 When registering on our site mailing list, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
@@ -20,7 +20,7 @@ We collect information from you when you subscribe to a newsletter, fill out a f
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  *   ****To administer a contest, promotion, survey or other site feature.
+  * To administer a contest, promotion, survey or other site feature.
 
 
 
@@ -34,7 +34,7 @@ We use regular Malware Scanning.
 
 We do not use an SSL certificate
 
-  *   ****We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
+  * Â  ****We only provide articles and information. We never ask for personal or private information like email addresses, or credit card numbers.
 
 
 
@@ -64,7 +64,7 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google�
 
 ### We have implemented the following:
 
-  *   ****Remarketing with Google AdSense
+  * Remarketing with Google AdSense
 
 
 
@@ -96,7 +96,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **To be in accordance with CANSPAM we agree to the following:**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at **editor@bandwidthblog.com  **and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at **editor@bandwidthblog.comÂ  **and we will promptly remove you from **ALL** correspondence.
 
 ### Contacting Us
 
@@ -112,4 +112,4 @@ South Africa
 
 editor@bandwidthblog.com
 
-**Last Edited on 2016-08-01**
+**Last Edited on 2017-03-16**
