@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226201002id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626182502id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Chicago Reader | About | PrivacyPolicy
 
