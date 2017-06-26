@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freekatlitter.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425143235id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freekatlitter.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203415id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
 
 # Privacy @ The Animal Rescue Site
 
@@ -6,9 +6,9 @@
 
 CharityUSA, owners and operators of the GreaterGood family of websites, has created this privacy policy to disclose our information gathering and dissemination practices. CharityUSA does not sell, rent, trade, or share Personal Information with third parties except as disclosed within this privacy policy.
 
-CharityUSA has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the GreaterGood family of websites.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@greatergood.com](mailto:customerservice@greatergood.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+[](https://privacy.truste.com/privacy-seal/validation?rid=29c6d5ae-af4c-4d29-96ad-e44c3c86589d)
 
 This privacy policy covers the following:
 
@@ -34,17 +34,48 @@ This privacy policy covers the following:
 > [Global Girlfriend](http://globalgirlfriend.com/)   
 > [Pink Ribbon Store](http://pinkribbonstore.com/)   
 > [Hope Faith Love](http://hopefaithlove.greatergood.com/store/hfl/site)   
-> [Faithhub](http://faithhub.net/)   
 > [Ecology Fund](http://ecologyfund.com/)   
 > **GreaterGood Kids**   
 > [Creative Kidstuff](http://creativekidstuff.com/)   
 > [Sensational Beginnings](http://sensationalbeginnings.com/)   
-> **Family Pet**   
+> [**Family Pet**](http://familypet.com/)   
 > [Coupaw](http://coupaw.com/)   
-> [Petsitting.com](http://petsitting.com/)   
+> [Doggyloot](http://doggyloot.com/)   
+> [Petsitting](http://petsitting.com/)   
+> [RescueBox](http://rescuebox.com/)   
 > [**GreaterGood Wholesale**](http://greatergoodwholesale.com/)   
-> [Alpha Pooch](http://alphapooch.com/)   
-> [Unreal Lambskin](http://unreallambskin.com/)
+> [GreaterGood Global](https://greatergood.global/)   
+> [Sasa Designs](https://shopsasadesigns.com/)   
+> [Global Girlfriend](https://www.globalgirlfriend.com/)   
+> **Great Life Publishing**   
+> [12 Tomatoes](http://12tomatoes.com/)   
+> [24 Blocks](http://24blocks.com/)   
+> [Big Hawgs](http://bighawgs.com/)   
+> [Crafty House](http://crafty.house/)   
+> [Daily Craftsman](http://dailycraftsman.com/)   
+> [Dusty Old Thing](http://dustyoldthing.com/)   
+> [FaithHub](http://faithhub.net/)   
+> [Fine Southern Dish](http://finesoutherndish.com/)   
+> [The Good Old Days](http://thegoodolddays.club/)   
+> [Grizzly Fare](http://grizzlyfare.com/)   
+> [The Humble Gardener](http://thehumblegardener.com/)   
+> [The Knitting Circle](http://theknittingcircle.net/)   
+> [Leathers On](http://leatherson.com/)   
+> [My Old Photos](http://myoldphotos.com/)   
+> [Pickups & Beer](http://pickupsandbeer.com/)   
+> [The Reader’s Nook](http://thereadersnook.com/)   
+> [Saddled & Ready](http://saddledandready.com/)   
+> [Smoking Rubber](http://smokingrubber.com/)   
+> [Spilled Color](http://spilledcolor.com/)   
+> [Star & Sky](http://starandsky.com/)   
+> [Starting Chain](http://startingchain.com/)   
+> [Surrounded By Flowers](http://surroundedbyflowers.com/)   
+> [Three Pound Trout](http://threepoundtrout.com/)   
+> [Trail Crawlers](http://trailcrawlers.com/)   
+> [Warbler Calls](http://warblercalls.com/)   
+> [Wind On Sail](http://windonsail.com/)   
+> [The Writer’s Circle](http://writerscircle.com/)   
+> [Yard Sale Finds](http://topyardsalefinds.com/)
 
 * * *
 
@@ -126,7 +157,7 @@ You do not have to accept cookies in order to make your free, daily click and ha
 
 ### Local Storage Objects (LSOs)
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third party partners who provide certain features on our site or display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third party partners who provide certain features on our site or display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 ### Behavioral Targeting/Retargeting
 
@@ -168,14 +199,16 @@ Please note: Your credit card statement will show the name of the store where yo
 > The Alzheimer's Site   
 > The Diabetes Site   
 > The Literacy Site   
-> The Earth Site   
+> The Eatrrh Site   
 > The Rainforest Site   
 > Creative Kidstuff   
 > Sensational Beginnings   
 > Coupaw   
+> Doggyloot   
+> RescueBox   
 > Global Girlfriend   
+> Sasa Designs   
 > Hope Faith Love   
-> Jackson Galaxy   
 > Pink Ribbon Store 
 
 If we cannot identify which storefront you entered through, charges will appear on your statement as CharityUSA.com, LLC.
@@ -215,4 +248,4 @@ You will be notified if your personal information is collected by any third part
 
 We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you by means of a notice on this Site or by email prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-This Privacy Policy was last updated on April 18, 2016.
+This Privacy Policy was last updated on September 6, 2016.
