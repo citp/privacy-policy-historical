@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hindugodwallpaper.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207040917id_/http%3A//www.hindugodwallpaper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindugodwallpaper.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626135758id_/http%3A//hindugodwallpaper.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Download FREE Wallpapers & Beautiful Picture of Hindu Gods - Webmaster
+# Privacy Policy - HinduGodWallpaper.com
 
 This Privacy Policy governs the manner in which HinduGodWallpaper collects, uses, maintains and discloses information collected from users (each, a “User”) of the hindugodwallpaper.com (“Site”). This privacy policy applies to the Site and all products and services offered by HinduGodWallpaper.com.
 
@@ -44,6 +44,6 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 **By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us  
-**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, Please **[Contact Us](https://web.archive.org/web/20161207040917id_/http%3A//contact_us.html)** here.
+**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, Please **[Contact Us](https://web.archive.org/web/20170626135758id_/http%3A//contact_us.html)** here.
 
 This document was last updated on August 1, 2016
