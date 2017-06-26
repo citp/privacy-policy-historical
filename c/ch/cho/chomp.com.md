@@ -1,73 +1,139 @@
-> *The following text is extracted and transformed from the chomp.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930230525id_/http%3A//chomp.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chomp.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626175927id_/https%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chomp
+# Privacy - Our Privacy Policy - Apple
 
-## CHOMP INC.
+Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
-### PRIVACY POLICY
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
-_Last Updated: February 9, 2012_
+##### Collection and Use of Personal Information
 
-Thank you for your interest in Chomp Inc., (“Chomp”), the Chomp application (the “Application”), our service and our website located at http://chomp.com (the “Website”). Your use of the Application, is subject to this Privacy Policy. We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information in connection with your use of the Application.
+Personal information is data that can be used to identify or contact a single person.
 
-#### Information We Collect
+You may be asked to provide your personal information anytime you are in contact with Apple or an Apple affiliated company. Apple and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.
 
-The data that we regularly collect about users of our Application (e.g., phone, location information, IP address, browser type, pages accessed, duration of visit, etc.) does not necessarily enable us to personally identify you, and that is not our intention. We do collect personally identifiable information about you, such as your name, email address, phone number, and location, when you voluntarily provide it by registering with us or using the Application. Once you become a user, you may provide additional information in your profile section. Providing additional information is optional. To facilitate your use of the Application, Chomp may automatically collect certain types of information when you access or use the Application. In order to collect this data, Chomp may utilize automated tools and files such as “cookies” or utilize location information from your iPhone or iPod Touch. These automated tools and files may reside on our servers or on your computer or device. If you restrict our ability to use automated tools and files, your ability to access and use all or part of the Application may be limited or disabled completely.
+Here are some examples of the types of personal information Apple may collect and how we may use it:
 
-#### Use of Information
+###### What personal information we collect
 
-Chomp uses your personally identifiable information primarily to provide you with the Application and to provide customized content on the Application that is of interest to you. The information is also used to verify your authority to access the Application and to contact you when reasonably necessary. Chomp may also use any information you have provided as reasonably necessary to administer or provide customer support for the Application, and to provide you with periodic printed or e-mail communications about new products and services, discounts, special promotions or upcoming events. You may opt-out of receiving some or all non- Application related communications by logging in to the Website at http://chomp.com/u/messaging_prefs and changing your preferences. Also, your full name and email address may be used when you use the Application to send a message to another user. Additionally, we use your email address to contact you on behalf of other friends on the site (such as when another user sends you a message).
-
-#### Controlling Your Personal Information
-
-When you use our Application, some of the information that you submit, such as your username, photographs and reviews, will be publicly available to third parties and we may not have control over what they do with it. By using our Application, you consent to such disclosure. Chomp may make available to users chat rooms, forums, message boards, and other interactive features. You should be aware that when you voluntarily disclose personally identifiable information (e.g. user name, e-mail address) via forums, postings, profiles or other areas of the Website, that information, along with any substantive information disclosed in your communication, can be collected, correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Chomp. Please do not post any personal information on the Website or in other areas that you expect to keep private.
-
-#### Disclosure
-
-Chomp will disclose your personally identifiable information as it believes is reasonably necessary to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. Chomp may also contract with various third parties who help us provide and maintain the Application. For example, we may use a third party to process payments, and may subcontract out production, fulfillment, or other operations. In these cases, we will use commercially reasonable efforts to prevent such third parties from disclosing your personal information, except for the purpose of providing the services in question. Additionally, as part of the Application, Chomp will make your profile information available to other users of the Application. Finally, Chomp may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Chomp’s stock or assets in Chomp’s line of business to which this Privacy Policy relates or upon any bankruptcy or other corporate reorganization.
-
-#### Links
-
-For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services, such as the Apple App Store. If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not the Chomp privacy policy, will govern your activities and any information you disclose while interacting with the third party.
-
-#### Third Party Advertisements
-
-Certain advertisements that appear on this Website or within the Application are served by Chomp based on the keywords and searches for applications that you enter into the Application. Some third party advertisers automatically receive some of your personally identifiable information if and when you interact with an advertisement (such as, when you click on an ad). These third party advertisers may also download non-personally identifiable cookies to your phone, or use other technologies such as "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Their use of your personally identifiable information will be governed by the terms of their privacy policies and their privacy policies may explain the way in which you can "opt-out" of certain tracking by their advertisements.
-
-#### Security
-
-Because any personally identifiable information you submit to Chomp is purely voluntary and should not be of a particularly sensitive nature, we employ our standard security measures with respect to this information and do not use special encryption methods at this time. Chomp user accounts are secured by user-created passwords.
-
-#### Collection of Information From Children
-
-We do not knowingly collect personally identifiable information relating to children. In the event that we learn that we have collected personally identifiable information from anyone under 13 years of age without prior parental consent, we will take steps to promptly delete such information. By providing your personal information to Chomp, through the Application or our Website, you represent that you are 13 years of age or older.
-
-#### Policy Changes
-
-Chomp reserves the right to change this privacy policy, and will post any revisions on the Website. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Application Website will be subject to the then-current privacy policy.
-
-#### International Visitors and Customers
-
-The Chomp service and the Website is hosted in the United States. If you are visiting from the European Union (EU) or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
-
-  1. The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
-  2. The transfer of your personal data to the United States as indicated above.
+  * When you create an Apple ID, apply for commercial credit, purchase a product, download a software update, register for a class at an Apple Retail Store, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
+  * When you share your content with family and friends using Apple products, send gift certificates and products, or invite others to participate in Apple services or forums, Apple may collect the information you provide about those people such as name, mailing address, email address, and phone number. Apple will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
+  * In certain jurisdictions, we may ask for a government issued ID in limited circumstances including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law.
 
 
 
-#### No Error-Free Performance
+###### How we use your personal information
 
-Chomp does not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.
+  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://appleid.apple.com/cgi-bin/WebObjects/MyAppleId.woa/wa/chooseYourCountry).
+  * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
+  * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of Apple ID account holders.
+  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
+  * If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
-#### Legal Notices
 
-This Privacy Policy is subject to the terms in our Terms of Use, available for review at http://chomp.com/us/privacy_policy, including terms regarding limitations on damages, disclaimers of warranties, and resolution of disputes. Our Terms of Use take precedence over any conflicting provision in this Privacy Policy.
 
-#### Questions
+##### Collection and Use of Non-Personal Information
 
-If you have any questions about our privacy practices, please feel free to contact us at:
+We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-Chomp Inc.  
-138 10th Street  
-San Francisco, CA 94103  
+  * We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+  * We may collect information regarding customer activities on our website, iCloud services, our iTunes Store, App Store, MAC App Store, App Store for Apple TV and iBooks Stores and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non‑personal information for the purposes of this Privacy Policy.
+  * We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.
+  * With your explicit consent, we may collect data about how you use your device and applications in order to help app developers improve their apps.
 
+
+
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
+
+##### Cookies and Other Technologies
+
+Apple’s websites, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://web.archive.org/legal/privacy/en-ww/cookies/) such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+Ads that are delivered by Apple’s advertising platform may appear in Apple News and in the App Store. If you do not wish to receive ads targeted to your interests from Apple’s advertising platform, you can choose to enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads regardless of what device you are using. If you enable Limit Ad Tracking on your mobile device, third-party apps cannot use the Advertising Identifier, a non-personal device identifier, to serve you targeted ads. You may still see ads in the App Store or News based on context like your search query or the channel you are reading. In third-party apps, you may see ads based on other information.
+
+Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
+
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to manage your preferences. On your Apple mobile device, go to Settings, then Safari, scroll down to the Privacy & Security section, and tap on "Block Cookies" to manage your preferences. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled.
+
+As is true of most internet services, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit websites and applications, operating system, date/time stamp, and clickstream data.
+
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, to improve our product and services, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
+
+In some of our email messages, we use a “click-through URL” linked to content on the Apple website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
+
+##### Disclosure to Third Parties
+
+At times Apple may make certain personal information available to strategic partners that work with Apple to provide products and services, or that help Apple market to customers. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies. Personal information will only be shared by Apple to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.
+
+###### Service Providers
+
+Apple shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Apple operates.
+
+###### Others
+
+It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Apple to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+
+##### Protection of Personal Information
+
+Apple takes the security of your personal information very seriously. Apple online services such as the Apple Online Store and iTunes Store protect your personal information during transit using encryption such as Transport Layer Security (TLS). When your personal data is stored by Apple, we use computer systems with limited access housed in facilities using physical security measures. iCloud data is stored in encrypted form including when we utilize third-party storage.
+
+When you use some Apple products, services, or applications or post on an Apple forum, chat room, or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
+
+If you or anyone else using Family Sharing logs on to a device that is owned by a third party, any information shared within your Family—including calendar, location, photos, and iTunes purchases—may be downloaded on to that third-party device thereby disclosing any such shared information. [See [About Family Sharing](https://web.archive.org/icloud/family-sharing/) for more information.]
+
+##### Integrity and Retention of Personal Information
+
+Apple makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+##### Access to Personal Information
+
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information we hold, we will provide you with access for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+##### Children & Education
+
+We understand the importance of taking extra precautions to protect the privacy and safety of children using Apple products and services. Children under the age of 13, or equivalent minimum age in the relevant jurisdiction, are not permitted to create their own Apple IDs, unless their parent provided verifiable consent or as part of the child account creation process in Family Sharing or they have obtained a Managed Apple ID account (where available) through their school. For example, a parent must review the [Apple ID and Family Sharing Disclosure](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/) and agree to the [Consent to Apple’s Collection, Use and Disclosure of Your Child’s Information](https://web.archive.org/legal/privacy/en-ww/parent-disclosure/#consent); and the [iTunes Store Terms and Conditions](https://web.archive.org/legal/internet-services/itunes), before they can begin the Apple ID account creation process for their child. In addition, schools that participate in Apple School Manager and have reviewed and consented to the Managed Apple IDs for Students Disclosure may create Managed Apple IDs for students. The [Managed Apple IDs for Students Disclosure](https://web.archive.org/legal/education/apple-school-manager) describes how Apple handles student information and supplements Apple’s Privacy Policy. Learn more about [Family Sharing](https://web.archive.org/icloud/family-sharing), the [Managed Apple IDs](https://web.archive.org/education/it) and [Restrictions](http://support.apple.com/kb/HT4213) for children’s accounts.
+
+If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, outside the above circumstances we will take steps to delete the information as soon as possible.
+
+If at any time a parent needs to access, correct, or delete data associated with their Family Sharing account or child’s Apple ID, they may contact us through our [Privacy Contact Form](https://web.archive.org/legal/privacy/en-ww/contact/).
+
+Or by using the contact information [here](https://www.apple.com/legal/privacy/en-ww/?#questions).
+
+##### Location-Based Services
+
+To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work.
+
+##### Third‑Party Sites and Services
+
+Apple websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, a third‑party iPhone app.
+
+Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+
+If you purchase a subscription in a third party app or within News, we create a Subscriber ID that is unique to you and the developer or publisher which we use to provide reports to the developer or publisher that include information about the subscription you purchased, and your country of residence. If you cancel all of your subscriptions with a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers so that they can understand the performance of their subscriptions.
+
+##### International Users
+
+All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple uses approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland. Apple, as a global company, has a number of legal entities in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc. For example, point of sale information in our Retail entities outside the U.S. is controlled by our individual Retail entities in each country. Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S. as reflected in the terms of each service.
+
+Apple abides by the [Asia-Pacific Economic Cooperation (APEC) Cross Border Privacy Rules System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. To learn more about the APEC Certification and Dispute Resolution, please click on the TRUSTe seal.
+
+##### Our Companywide Commitment to Your Privacy
+
+To make sure your personal information is secure, we communicate our privacy and security guidelines to Apple employees and strictly enforce privacy safeguards within the company.
+
+##### Privacy Questions
+
+If you have any questions or concerns about Apple’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please [contact us](https://web.archive.org/legal/privacy/en-ww/contact/). You can always contact us by phone at the relevant [Apple Support](http://support.apple.com/kb/HE57) number for your country.
+
+All such communications are examined and replies issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+
+Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
