@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221112513id_/http%3A//www.weather.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.gov privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626172028id_/http%3A//www.weather.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ Cookies are small files that Web servers place on a user's hard drive. They can 
 
 We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
 
-If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <https://www.usa.gov/optout_instructions.shtml>.
 
 Top of Page
 
@@ -100,7 +100,7 @@ Top of Page
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our Web sites. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with[ National Archives and Records Administration General Schedule 20](http://www.archives.gov/records_management/ardor/grs20.html).
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with[ National Archives and Records Administration General Schedule 20](https://www.archives.gov/records_management/ardor/grs20.html).
 
 Top of Page
 
@@ -112,7 +112,7 @@ Top of Page
 
 ##  Your Rights Under the Privacy Act
 
-[Privacy Act Reference Materials](http://www.pueblo.gsa.gov/call/foia.htm) and[ NOAA Freedom Of Information Act](http://www.rdc.noaa.gov/~foia/).
+[Privacy Act Reference Materials](https://www.pueblo.gsa.gov/call/foia.htm) and[ NOAA Freedom Of Information Act](https://www.rdc.noaa.gov/~foia/).
 
 Top of Page
 
