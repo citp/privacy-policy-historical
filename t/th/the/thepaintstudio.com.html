@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thepaintstudio.com privacy policy that was archived on 2014-07-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140717075115id_/http%3A//www.thepaintstudio.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thepaintstudio.com privacy policy that was archived on 2017-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170626075229id_/http%3A//www.thepaintstudio.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy | The Paint Studio | Ace Hardware</title>
@@ -10,18 +10,22 @@
 	<meta name="keywords" content=""> 
 	
 	<meta name="rating" content="general"> 
-	<meta name="robots" content="all"> 
-	<meta name="distribution" content="global">
+<meta name="robots" content="all"> 
+<meta name="distribution" content="global">
     
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	
-	<link href="css/reset.css" rel="stylesheet">
-	<link href="css/fonts.css" rel="stylesheet">
-	<link href="css/screen.css" rel="stylesheet">
-	<link href="css/legal.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link href="css/reset.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,600,700,900" rel="stylesheet">
+<link href="css/fonts.css" rel="stylesheet">
+<!-- <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6741492/744424/css/fonts.css" /> -->
+
+<link href="css/screen.css" rel="stylesheet">
 	
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-58QPJK"></script><script type="text/javascript" src="js/jquery.js"></script>	
 <script type="text/javascript" src="js/paintstudio.js"></script>
+<script src="//cdn.optimizely.com/js/2120440116.js"></script>
+<script type="text/javascript" src="js/js.cookie.js"></script>	<link href="css/legal.css" rel="stylesheet">
+	
 
 </head>
 
@@ -41,12 +45,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<a class="logo" href="index.php"></a>
 				<div class="menu">
 					<a class="btn-ace" href="http://www.acehardware.com/home/index.jsp" target="_blank" style="margin-top:20px;"></a>
-					<a class="btn-color" href="colors.php" style="margin-left:20px;">COLOR</a>
-					<a class="btn-inspiration" href="inspiration.php">INSPIRATION</a>
-					<a class="btn-products" href="products.php">PRODUCTS</a>
-					<a class="btn-tips" href="tips-and-tools.php">TIPS + TOOLS</a>
+					<a class="btn-color" href="/colors.php" style="margin-left:20px;">COLOR</a>
+					<a class="btn-opi" href="/opi.php">OPI</a>
+                    <a class="btn-inspiration" href="/inspiration.php">INSPIRATION</a>
+					<a class="btn-products" href="/products.php">PRODUCTS</a>
+					<a class="btn-tips" href="/tips-and-tools.php">TIPS + TOOLS</a>
 					<!--<a class="btn-search">SEARCH</a>-->
-					<a class="btn-stores" href="stores.php">STORES</a>				
+					<a class="btn-stores" href="/stores.php">STORES</a>				
 				  <div class="cb"></div>
 				</div>
 </div>
@@ -55,15 +60,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--menu 2-->
 <div id="nav_inner" class="nav" style="height:50px; display:none;">
 	
-				<a class="logo" href="index.php" style="margin-top:5px; height:45px;"></a>
+				<a class="logo" href="/index.php" style="margin-top:5px; height:45px;"></a>
 				<div class="menu" style="height:50px;">
 					<a class="btn-ace" href="http://www.acehardware.com/home/index.jsp" target="_blank" style="margin-top:-5px;"></a>	
-					<a class="btn-color backnone" href="colors.php" style="margin-left:20px;">COLOR</a>
-					<a class="btn-inspiration backnone" href="inspiration.php">INSPIRATION</a>
-					<a class="btn-products backnone" href="products.php">PRODUCTS</a>
-					<a class="btn-tips backnone" href="tips-and-tools.php">TIPS + TOOLS</a>
+					<a class="btn-color backnone" href="/colors.php" style="margin-left:20px;">COLOR</a>
+                    <a class="btn-opi backnone" href="/opi.php">OPI</a>
+					<a class="btn-inspiration backnone" href="/inspiration.php">INSPIRATION</a>
+					<a class="btn-products backnone" href="/products.php">PRODUCTS</a>
+					<a class="btn-tips backnone" href="/tips-and-tools.php">TIPS + TOOLS</a>
 					<!--<a class="btn-search backnone">SEARCH</a>-->
-					<a class="btn-stores backnone" href="stores.php">STORES</a>									
+					<a class="btn-stores backnone" href="/stores.php">STORES</a>									
 					<div class="cb"></div>
 				</div>
 </div>
@@ -88,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
 $(document).ready(function() {
 	$('.nav .menu a').each(function(idx,elem) {
-		console.log('bbb');
+		
 		if(window.location.href.indexOf($(elem).attr('href')) != -1) {
 			$(elem).addClass('selected');
 		}
@@ -199,10 +205,11 @@ $(window).scroll(function() {
 			<div class="cb"></div>
 	</div>
 	<div class="sections">
-		<a href="about.php">ABOUT</a>  |  <a href="contact.php">CONTACT</a>  |  <a href="site-map.php">SITEMAP</a>  |  <a href="privacy-policy.php" class="active">PRIVACY POLICY</a> |  <a href="terms-and-conditions.php">TERMS &amp; CONDITIONS</a>
+		<a href="/about.php">ABOUT</a>  |  <a href="/contact.php">CONTACT</a>  |  <a href="/site-map.php">SITEMAP</a>  |  <a href="/privacy-policy.php" class="active">PRIVACY POLICY</a> |  <a href="/terms-and-conditions.php">TERMS &amp; CONDITIONS</a>
 	</div>
 	<div class="cb"></div>
 </div>
+<!--script type="text/javascript" src="https://jira.gsdm.com/s/en_USku1tkk-1988229788/6099/2/1.4.0-m3/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?collectorId=455aba94"></script-->
 <script>
 function adjustTopBtn() {
 	if($(window).scrollTop() > 0) {
@@ -225,7 +232,8 @@ $(document).ready(function() {
 	});
 	
 });
-</script>		
+</script>
+		
 </div>
 
 
