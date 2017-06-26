@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icio.us privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203052146id_/http%3A//del.icio.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icio.us privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221113id_/https%3A//del.icio.us/privacy) for the most accurate reproduction.*
 
 # Delicious
 
@@ -73,3 +73,5 @@ This Service is not directed to children under 13. We do not knowingly collect p
 ### We may make Modifications or Changes
 
 Delicious Media may, its sole discretion, choose to modify, discontinue or terminate the Service, at any time and without prior notice. Delicious Media may also choose to modify the Terms. Once they become effective your continued use of the Service will mean you agree to be bound by the new terms. If you don't agree then you need to stop using the Service.
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use user information (e.g., hashed, de-identified, data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Your Online Choices at <http://www.youronlinechoices.com/uk/>.
