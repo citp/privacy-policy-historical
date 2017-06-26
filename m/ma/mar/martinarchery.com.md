@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinarchery.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126044330id_/http%3A//www.martinarchery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinarchery.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626222947id_/http%3A//martinarchery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Martin Archery
 
@@ -44,7 +44,7 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-509-529-2554 or via email.
 
-######  Can't find what you're looking for?
+###### Can't find what you're looking for?
 
 Please call us at 1-509-529-2554 and press 0 for sales or press 3 for tech support during regular business hours:  
 Monday - Friday – 8:00 a.m. - 4:30 p.m. PST
