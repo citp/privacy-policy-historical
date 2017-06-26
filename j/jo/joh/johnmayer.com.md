@@ -1,81 +1,170 @@
-> *The following text is extracted and transformed from the johnmayer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133222id_/http%3A//johnmayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmayer.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626205628id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# John Mayer Privacy Policy
+# Privacy Policy | Sony Music
 
-**PRIVACY POLICY**
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.
 
-Your privacy is very important to us. We want to make your experience on the Website as enjoyable and rewarding as possible.
+When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
-Rodemode, Inc. (“Company”, “we”, “our”, or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information we receive via our Website (as defined in the Terms of Use available at  [http://www.johnmayer.com](http://johnmayer.com/terms-of-service)) from users of our Website (“Visitors”). This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Website. Your use of the Website following any such notice will signify and constitute your assent to and acceptance of such revised Privacy Policy. Unless otherwise defined in this Privacy Policy, capitalized terms used herein have the same meanings as in our Terms of Use.
+Sony Music has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. Please note that TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-This Privacy Policy does not apply to the products or services of our business partners or to any other third parties, even if their products or services are linked to, or embedded within, our Website.  We recommend that you review the privacy statements of the other parties with whom you interact before submitting your information.
+We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
 
-For the purposes of this Privacy Policy, “Personal Information” means information that can be used to uniquely identify you, such as your name, address and/or e-mail address.
+* * *
 
-**_Personal Information We Collect_**
+Collection and Use of Personal Information
 
-When you interact with us, we may ask you to supply us with Personal Information.  For example, when you contact us, subscribe to our mailing list, or otherwise use our Website, we may ask you to provide information such as your name, address and/or e-mail address.
+Social Networks/Online Communities
 
-**_Our Use of Your Information_**
+Transactions
 
-We mainly use your Personal Information, either alone or in combination with other information, so that we can provide, enhance and personalize our Website and related content, and marketing efforts.
+Information Sharing
 
-The following are examples of a variety of ways that we may collect and use your Personal Information.
+Choice/Opt-Out
 
-**Membership and Mailing List**. Visitors are asked to provide certain Personal Information when they register as a member on the Website and/or subscribe to our mailing list to receive newsletters and updates, including, their name and email address. When registering for membership Visitors are provided with an option to connect as a member of the Website using Facebook. In such case, we will have access to any publicly available Personal Information that a member connecting through Facebook has on his or her Facebook page. The Personal Information so collected from Visitors during this registration and/or subscription process is generally not shared with third parties, unless specifically stated otherwise or under the circumstances described below (see “Information Sharing and Disclosure” below). However, in instances where Company and a partner jointly promote the Website, Company may provide the partner certain Personal Information, such as the name and email of persons who registered as members or subscribed to the mailing list resulting from the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.  In this instance, Personal Information may not be used by the partner for any other purpose. Company may also generate non-identifying and aggregate profiles from the Personal Information we collect from Visitors during registration and/or subscription (such as the total number, but not the names, of Visitors). As explained in more detail below, we may use this aggregated and Non-Identifying Information to sell advertisements that appear on the Website.
+Tracking Technologies
 
-**Email Inquiries**.  When Visitors send email inquiries to Company, the Visitor’s return email address is used to answer the email inquiry we receive. Company does not use the Visitor’s return email address for any other purpose and does not share the return email address with any third party except as described in this Policy.
+Security
 
-**Online Advertisements.** Company may display online advertisements. We may share Non-Identifying Information about our Visitors with these advertisers. Additionally, in some instances, we may use Non-Identifying Information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and Non-Identifying Information we have collected, we may then display the advertisement to the intended audience. Company does not share Personal Information about its Visitors with these advertisers.
+Updating Your Personal Information
 
-**_Collection and Use of Non-Identifying Information_**
+Consent to Processing
 
-We may collect, use, transfer, and disclose information in a form that does not personally identify you (“Non-Identifying Information”) for any purpose.  Non-Identifying Information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain Non-Identifying Information about you from information that you provide us, either separately or together with your Personal Information. We and/or our third party service providers also automatically collect certain Non-Identifying Information from you when you access our Website.
+Additional Information
 
-Certain Non-Identifying Information about you would be considered a part of your Personal Information if it were combined with other identifiers in a way that enables you to be identified. However, the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users or sources to attempt to provide you with a better experience, to improve the quality and value of our products and services, and to analyze and understand how our products and services are used. We may also use the combined information without aggregating it to serve you specifically.
+Changes to This Policy
 
-**_Non-Identifying Information We Automatically Collect  _**
+Your California Privacy Rights
 
-We and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically record certain usage information. This information may include your Internet Protocol address (and other unique identifiers for the particular device you use to access the Internet), browser type, your web or application request, your interaction with our Website, your interaction with other websites and online services, the webpage or other feature you were using before you came to our Website, pages of our Website that you visit, information you search for via our Website, access times and dates, and other similar information. We use this information for a variety of purposes, including analyzing and enhancing our products and services, and to help personalize our Website for you. We do not treat this information as Personal Information (except to the extent required by local law), although if we combine it with the Personal Information you provide, we will treat the combined information as Personal Information.  We and our third-party service providers may automatically collect Non-Identifying Information using various methods, including, without limitation, cookies.
+Questions About This Privacy Policy
 
-**_Information Sharing and Disclosure.  _**
+* * *
 
-It is Company’s policy not to share the Personal Information we collect about Visitors in ways other than the ones described in this Privacy Policy without first obtaining such Visitors’ consent.
+**Collection and Use of Personal Information**
 
-In addition to the types of information-sharing described above, Company may also disclose Personal Information about Visitors as follows:
+We may collect the following personal information from you:
 
-We may engage third party companies and individuals to perform services on our behalf (e.g., without limitation, payment processing, software maintenance services, e-mail notifications, product delivery services, database management, web analytics and other services). These third parties may have access to your Personal Information.  If they do, this access is provided so that they may perform these tasks on our behalf and they are not authorized by us to otherwise use or disclose your Personal Information, except to the extent required by law.
+  * Contact information such as name, email address, street address, and phone number
+  * Billing information such as credit card number and billing address
+  * Demographic information such as age, gender, interests, country and zip code
+  * Unique identifiers such as user name and password
+  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
+  * Location information such as your actual or approximate location
 
-In addition, we may share your Personal Information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your Personal Information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.
 
-We also cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.
 
-Circumstances may arise where, whether for strategic or other business reasons, we may sell, transfer or otherwise disclose some or all of our assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. It’s Company’s practice to seek appropriate protection for information in these types of transactions.
+We or one of our trusted partners may use this information to:
 
-**“Cookies” and How Company Uses Them**.  A “cookie” is a small data file that can be placed on your hard drive when you visit certain websites. Company, and our third party service providers, may use cookies to collect, store, and sometimes track information. If you are a Visitor and have signed up for our mailing list, news letters or updates, we may use a cookie. These cookies do not enable third parties to access any of your Personal Information in our databases. Additionally, be aware that if you visit non- Company websites, you may be required to accept cookies. Our advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+  * Send you requested updates and newsletters about an artist, type of music or related special offers
+  * Send you requested product or service information
+  * Send a one-time email or e-card to your friends upon your request when you provide their email address
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests, questions and concerns
+  * Administer your account
+  * Process information submitted with a job application
+  * Send you marketing communications
+  * Administer promotions and sweepstakes you enter and notify you of the results
+  * Improve our marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your location and/or interests
+  * To provide location services such as “tagging” and “check-in”
 
-**Company’s Commitment to Children’s Privacy.** We do not knowingly collect personally identifiable information from children under 13 via our Website, and do not target our Website to children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests.
 
-**Public Forums.** Please remember that any information you may disclose or submit to us, or display on other public areas of our Website or the Internet, becomes public information. You should exercise caution when deciding to disclose Personal Information in these public areas, as the protections described in the policy do not apply to that information.
 
-**Company’s Commitment to Data Security**.  Our Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+To help protect you and others, we monitor use of the Sites, and we use the information we collect, including personal information, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sites; ensure compliance with the applicable terms of service and this privacy policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Sony Music, its partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the Sites. If you do not consent to these conditions, you must discontinue your use of the Sites.
 
-**Changing or Deleting Your Information.   **Company makes good faith efforts to provide individuals with reasonable access to Personal Information that they have provided to Company and the reasonable ability to review and correct it or ask for deletion, as applicable, if it is not otherwise required to be retained by law or for legitimate business purposes.  Please send any access, change, or deletion requests to us at the mailing address set forth below.  Please note we may retain server/backup copies of all data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.
+We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-**Data Transfer _.   _**Company processes personal information on our servers in the United States of America.  Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside of the United States, such export is a requirement of providing your information to Company.
+**Social Networks/Online Communities**
 
-**Where to Direct Questions About Company’s Privacy Policy.   **If you have any questions about this Privacy Policy or the practices described herein, you may contact:
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](https://web.archive.org/feedback/). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
-Rodemode Inc.
+**Transactions**
 
-c/o Mick Management
+You may purchase artists’ music or merchandise from some of our Site(s).  This Privacy Policy applies to any personal information you provide in connection with any such purchases.  In some instances, you may be directed to a third party site to initiate your transaction.  These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information.  You should refer to those policies for any privacy-related concerns regarding your purchase with them.
 
-35 Washington Street, Brooklyn, NY 11201
+**Information Sharing**
 
-212.425.6425
+We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising.  These companies are authorized to use your personal information only as necessary to provide these services.
 
-info@mickmgmt.com
+We may also share your personal information:
 
-**Revisions to This Policy.   **Company reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner.
+  * With Sony Music affiliates and representatives of our current recording artists
+  * With affiliated Sony Group companies (i.e. any company in which Sony Corporation of America owns, directly or indirectly, 50% or more of its outstanding shares and any company with the name “SONY” as part of its trade name)
+  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
+  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
+  * As required by law, such as to comply with a subpoena or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
+  * In connection with a corporate change including a merger, acquisition or sale of assets
+  * To any other third party with your prior consent to do so
 
-_____________________________
+
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
+
+If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with “STOP.” You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+
+If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
+
+**Tracking Technologies**
+
+We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
+
+We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information.  This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information.  For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+
+In some of our email messages, we use “click-through URLs” or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications.  This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information.  We encourage you to read that privacy statement before providing your information.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
+
+**Updating Your Personal Information**
+
+Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
+
+To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
+
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](https://web.archive.org/feedback/).
+
+**Consent to Processing**
+
+Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+**Additional Information**
+
+Widgets – Our Site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, “liking” or sharing content, etc.), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
+
+Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
+
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](https://web.archive.org/feedback/) immediately and this information will be removed.
+
+For more information on how to protect your children online:
+
+**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
+
+**Changes To This Policy**
+
+By using our Site(s), you agree to the terms of this Privacy Policy.  We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective.  Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
+
+**Your California Privacy Rights**
+
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](https://web.archive.org/feedback/). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
+
+**Questions About This Privacy Policy**
+
+If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
+
+Sony Music Entertainment 25 Madison Avenue, Room 22.401
+
+New York, NY 10010
+
+Or you can [click here](https://web.archive.org/feedback/) to submit feedback online.
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. 
