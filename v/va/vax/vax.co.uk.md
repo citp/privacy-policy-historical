@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124055810id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626185914id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # VAX Ltd Privacy Policy & Data Handling Terms
 
