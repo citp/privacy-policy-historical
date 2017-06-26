@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportedphonenumber.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215113437id_/http%3A//www.reportedcallnumber.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportedphonenumber.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626131929id_/http%3A//www.reportedcallnumber.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Reported Call Number
 
