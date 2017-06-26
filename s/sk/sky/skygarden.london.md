@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skygarden.london privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420091759id_/http%3A//skygarden.london/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skygarden.london privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626031745id_/https%3A//skygarden.london/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | SkyGarden
 
 Land Securities Properties Limited (“we”, “us” or “our”) are committed to protecting the privacy of users of this website. This policy explains how we will use any personal information we collect about you when you use this website. Please read this policy carefully.
 
-For the purposes of the Data Protection Act 1998, the “data controller” for this website is Land Securities Properties Limited (company number 00961477) of 5 The Strand, London, WC2N 5AF.
+For the purposes of the Data Protection Act 1998, the “data controller” for this website is Land Securities Properties Limited (company number 00961477) of 100 Victoria Street London SW1E 5JL.
 
 ### 1         HOW DO WE COLLECT INFORMATION FROM YOU?
 
@@ -24,11 +24,11 @@ c)      to collect statistics, responses to any surveys and questionnaires,
 
 2.2         Additionally, if you agree, we may:
 
-a)      use the information to contact you by email or SMS about our new developments, services and any other information we think may be of interest to you based on your use of the website
+a)      use the information to contact   you via social media, email or SMS  about our new developments, services and any other information we think may be of interest to you based on your use of the website
 
-b)      pass the information on to companies within our group of companies so that they can contact you by email or SMS with details of developments and activities which may interest you;
+b)      pass the information on to companies within our group of companies so that they can contact  you via social media, email or SMS  with details of developments and activities which may interest you;
 
-c)      pass the information on to other third parties so that they can contact you by email or SMS with details of developments and activities which may interest you.
+c)      pass the information on to other third parties so that they can contact you via social media, email or SMS  with details of developments and activities which may interest you.
 
 2.3         We may pass on or allow access to your information:
 
