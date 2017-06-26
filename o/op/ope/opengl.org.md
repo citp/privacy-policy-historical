@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510142604id_/https%3A//www.opengl.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190411id_/https%3A//www.khronos.org/legal/privacy) for the most accurate reproduction.*
 
-# OpenGL.org Privacy Policy
+# Privacy Policy
 
-This Privacy Policy governs the manner in which The Khronos Group, Inc. ("Khronos") collects, uses, maintains and discloses information collected from the user ("User") of the opengl.org website ("Site"). This privacy policy applies to the Site and all products and services offered by the Company on the Site.
+This Privacy Policy governs the manner in which The Khronos Group, Inc. ("Khronos") collects, uses, maintains and discloses information collected from the user ("User") of the www.khronos.org, chapters.khronos.org, cn.khronos.org, jp.khronos.org and kr.khronos.org websites ("Site(s)"). This privacy policy applies to the Site and all products and services offered by Khronos on the Site(s).
 
 ## Personal identification information
 
