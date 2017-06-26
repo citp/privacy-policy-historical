@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacticalclips.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226210945id_/http%3A//tacticalclips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalclips.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190815id_/https%3A//tacticalclips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tactical Clips
 
