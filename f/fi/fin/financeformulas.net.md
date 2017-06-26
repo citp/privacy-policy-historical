@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130105135id_/http%3A//financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626121153id_/http%3A//financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,5 +24,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
   
-Return to Top  
+[Return to Top](http://www.financeformulas.net/PrivacyPolicy.html#top)  
 
