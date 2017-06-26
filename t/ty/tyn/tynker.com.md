@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231023530id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626130324id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
 
 # Tynker | Programming courses for kids | Coding for Kids | Tynker
 
@@ -94,9 +94,9 @@ privacy@tynker.com
 
 Tynker
 
-480 San Antonio Rd, Suite 100
+4410 El Camino Real, Suite 104
 
-Mountain View, CA 94040
+Los Altos, CA 94022
 
 Phone: (six-five-zero) four-eight-eight one-four-one-one
 
