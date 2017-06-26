@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015191556id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626232936id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 3D Car Shows
 
@@ -20,19 +20,19 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 3D Car Shows collects and uses Users personal information for the following purposes:
 
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
+  * _To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  *  _To improve customer service_  
+  * _To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  *  _To process transactions_  
+  * _To process transactions_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  *  _To share your information with third parties_  
+  * _To share your information with third parties_  
 We may share or sell information with third parties for marketing or other purposes.
-  *  _To administer a content, promotion, survey or other Site feature_  
+  * _To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -73,7 +73,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 3D Car Shows has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-##  **Your acceptance of these terms**
+## **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy and [terms of service](https://3d-car-shows.com/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
