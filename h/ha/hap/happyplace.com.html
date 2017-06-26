@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the happyplace.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229061501id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the happyplace.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627015009id_/https%3A//www.someecards.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#"><head>
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" id="sec-meta-viewport">
 
-    <title>Privacy Policy | someecards.com</title>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>var useArbitrage = false</script>
 
+    <title>Privacy Policy | Someecards.com</title>
     <meta name="description" content="Send free funny ecards, like birthday e-cards, thank you online cards, and funny wedding invitations. Many free e-cards, video ecards, free online greeting cards, and printable cards.">
 
     <meta name="keywords" content="someecards.com,some ecards,someecards,some ecards.com,Online Greetings,card,ecards,greeting cards,greetings,electronic cards,e cards,e-cards,electronicgreetings,email cards,e-mail,email,postcard,electronic postcard,animated greetings,holidays,funny holiday cards,funny birthday cards,funny friendship ecards,funny hello ecards,funny get well ecards,funny business ecards,funny thank you ecards,funny anniversary ecards,funny congratulations ecards,funny graduation ecards,funny wedding ecards,funny love ecards,funny romance ecards,funny new baby ecards,funny sorry ecards,funny thinking of you ecards,funny sympathy ecards,funny belated birthday ecards,funny invitations ecards,funny new job ecards,funny retirement ecards,funny moving ecards,funny good luck ecards,funny reminder ecards">
@@ -16,8 +17,8 @@
 
 
 
-<link href="//fonts.googleapis.com/css?family=Raleway:400,500,300,600,700" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet">
+
+<link rel="search" type="application/opensearchdescription+xml" title="Someecards" href="https://cdn.someecards.com/assets/xml/someecards-search-v1.xml">
 
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.someecards.com/assets/images/icons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.someecards.com/assets/images/icons/apple-touch-icon-114x114.png">
@@ -47,17 +48,92 @@
 <!-- Pinterest verification code -->
 <meta name="p:domain_verify" content="b9b60a9aacefcae0b6992526093f59b8">
 
-<link rel="stylesheet" href="//cdn.someecards.com/assets/css/dist/someecards-6810829.css">
+<link rel="stylesheet" href="//cdn.someecards.com/assets/css/dist/someecards-d8d6385.css">
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript">
+    var _global_state = {};
+    var SITE_GUTTER = 20;
+
+    var DESKTOP_WIDTH = 1020;
+    var TABLET_MAX_WIDTH = 1019;
+    var TABLET_MIN_WIDTH = 680;
+
+    var HEADER_MOBILE_MAX_WIDTH = 1020;
+
+    var THROTTLING_SPEED = 100;
+
+    var UNKNOWN = -1;
+    var DESKTOP = 0;
+    var TABLET = 1;
+    var MOBILE = 2;
+
+    var _isScrollbarShowing = function () {
+        var body = document.body,
+            html = document.documentElement;
+
+        var documentHeight = Math.max( body.scrollHeight, body.offsetHeight,
+            html.clientHeight, html.scrollHeight, html.offsetHeight );
+
+        return documentHeight > window.innerWidth;
+    };
+
+    var _determineScrollbarWidth = function () {
+        var scrollbarCheck = document.getElementsByClassName('scrollbar-check');
+        if (!scrollbarCheck || scrollbarCheck.length <= 0) {
+            return 0;
+        }
+
+        return (scrollbarCheck[0].offsetWidth -  scrollbarCheck[0].clientWidth);
+    };
+
+
+    function _determineHeaderResponsiveMode() {
+        var windowWidth = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+        if (_isScrollbarShowing()) {
+            windowWidth += _determineScrollbarWidth();
+        }
+
+        var responsiveMode = UNKNOWN;
+        if (windowWidth >= HEADER_MOBILE_MAX_WIDTH) {
+            responsiveMode = DESKTOP;
+        } else {
+            responsiveMode = MOBILE;
+        }
+
+        return responsiveMode;
+    }
+
+    function _determineResponsiveMode () {
+        var windowWidth = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+        if (_isScrollbarShowing()) {
+            windowWidth += _determineScrollbarWidth();
+        }
+
+        var responsiveMode = UNKNOWN;
+        if (windowWidth >= DESKTOP_WIDTH) {
+            responsiveMode = DESKTOP;
+        } else if (windowWidth <= TABLET_MAX_WIDTH && windowWidth >= TABLET_MIN_WIDTH) {
+            responsiveMode = TABLET;
+        } else {
+            responsiveMode = MOBILE;
+        }
+
+        return responsiveMode;
+    }
+</script>
+
+<script>
     var someecards_config = {
         'urls' : {
             'user' : {
-                'profile': '/profile'
+                'profile': 'https://www.someecards.com/profile/'
             },
-            'lobster_cdn_base' : '//cdn.someecards.com/someecards/usercards/',
             'forced_test_ad_url' : 'https://www.someecards.com/card/getForcedTestAdCode',
-            'click_tracking_url' : 'https://stats.someecards.com/clicktracking'
+            'click_tracking_url' : 'https://stats.someecards.com/clicktracking/'
         },
         'fb_key'                : '32911495680',
         'cookie_domain'         : '.someecards.com',
@@ -68,18 +144,15 @@
             'account_id' : 'p-880wF3y-pNyF6'
         },
         'chartbeat' : {
-            'top_pages_callback' : '/cbeat/top-pages'
-        },
-        'domains'               : {"happyplace":"happyplace.someecards.com","someecards":"www.someecards.com","secure":"secure.someecards.com","shorturl":"some.ly","shorturl_prebid":"a.some.ly","prebid":"articles.someecards.com","backend":"uc.someecards.com","stats":"stats.someecards.com","microsites":"%MICROSITE%.someecards.com"},
-	'lobster_suffix' : 20161004,
-        'recaptcha_site_key' : '6LcHnQsTAAAAAH4ztUQTwV0Cy188gjW44tVCc47h',
-        'page_loads_for_like_modal' : '2',
-        'page_loads_for_newsletter_modal' : '4',
-        'show_autoloaded_overlays' : '1',
+                            'top_pages_callback' : 'https://www.someecards.com/cbeat/top-pages'
+                    },
+        'domains'               : {"happyplace":"happyplace.someecards.com","articles":"articles.someecards.com","someecards":"www.someecards.com","secure":"secure.someecards.com","shorturl":"some.ly","backend":"uc.someecards.com","stats":"stats.someecards.com","microsites":"%MICROSITE%.someecards.com"},
+        'recaptcha_site_key' : '6Lf3CRAUAAAAAG-4l1jpUUWYU7ISUbMJFPN03CFd',
         'comscore' : {
             'c1' : "2",
             'c2' : "8259767"
-        }
+        },
+        'ab_testing_enabled' : false
     };
 </script>
 
@@ -91,10 +164,23 @@
 </script>
     
     
-    </head>
+    
+    
+        <noscript><style> .jsonly { display: none } </style></noscript>
+    <script src="https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13397057" id="sBeacon"></script>
+</head>
 <body class=" ">
 
-     
+ 
+    <script type="text/javascript">
+    var PREBID_TIMEOUT = 1000;
+    var pbjs = pbjs || {};
+
+    pbjs.que = pbjs.que || [];
+</script>
+
+    <script type="text/javascript" src="//cdn.someecards.com/assets/js/prebid-d8d6385.js"></script>
+
 <script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -109,9 +195,658 @@
         node.parentNode.insertBefore(gads, node);
     })();
 
+    var sec_global_targeting = {};
+            sec_global_targeting['subcategory'] = 'privacy';
+            sec_global_targeting['env'] = 'production';
+    
+    if (typeof someecards_config.google_tags != "undefined") {
+        for (var key in someecards_config.google_tags) {
+            if (someecards_config.google_tags.hasOwnProperty(key)) {
+                sec_global_targeting[key] = someecards_config.google_tags[key];
+            }
+        }
+    }
+</script>
+
+<script type="application/javascript">
+    var someecards_ads = function () {
+        var MOBILE_AD_SHOWN_FROM_TOP = 350;
+
+        var _state = {
+            adsProcessing : false,
+            mainLeaderBoardLoaded : false,
+            bottomAdCanBeRemoved : false,
+            useArbitrage : false,
+            usePrebid : false,
+            prebidDone : false,
+            sovrnPrebidIds : [414507, 432036, 432037, 432038, 432039, 432040, 432128, 432130, 432131, 432132, 432133,
+                432134, 432135]
+        };
+
+        var _getAdSlotDefinitions = function () {
+            var slots = {
+                'box' : {
+                    slot: '/1006171/300x250_Grid',
+                    size: [300, 250]
+                },
+                'tallbox' : {
+                    slot: '/1006171/300x250_Grid',
+                    size: [[300, 250], [300, 600]]
+                },
+                'leaderboard' : {
+                    slot: '/1006171/970x90_LargeLeaderboard',
+                    size: [[1, 1], [970, 90],[970, 250],[728, 90]]
+                },
+                'mobile-leaderboard' : {
+                    slot: '/1006171/320x50',
+                    size: [[1, 1], [320, 50], [320, 100]]
+                }
+            };
+
+            if (_state.usePrebid) {
+                // Super confusing names ... but we use arbitrage for prebid for historical reasons...
+                slots["box"].slot = '/1006171/arbitrage_project_300x250';
+                slots["tallbox"].slot = '/1006171/arbitrage_project_300x250';
+                slots["leaderboard"].slot = '/1006171/arbitrage_project_970x90';
+                slots["mobile-leaderboard"].slot = '/1006171/arbitrage_project_320x50';
+            } else if (_state.useArbitrage) {
+                slots["box"].slot = '/1006171/articles_300x250';
+                slots["tallbox"].slot = '/1006171/articles_300x250';
+                slots["leaderboard"].slot = '/1006171/articles_970x90';
+                slots["mobile-leaderboard"].slot = '/1006171/articles_320x50';
+            }
+
+            return slots;
+        };
+
+        var getSquareAd = function (visibilityClass) {
+            var adCount = 1;
+            var insertedAds = document.getElementsByClassName("inserted-ad");
+            if (insertedAds && insertedAds.length) {
+                adCount = insertedAds.length + 1;
+            }
+            return '<div class="inserted-ad '+ visibilityClass +'"><div class="container-fluid '+ visibilityClass +' ad-module"><div class="row"><div class="col-xs-12"><div class="ad-container-responsive anywhere" data-sec-ad-id="single-content-' + adCount +'" data-sec-ad-placement="anywhere"><div class="ad-pre"></div><div class="ad-inner"><div class="ad-label">Advertising</div><div class="ad-wrapper"></div></div><div class="ad-post"></div></div></div></div></div></div>';
+        };
+
+        var removeElementsByClass = function (className) {
+            var elements = document.getElementsByClassName(className);
+
+            if (elements && elements.length) {
+                while(elements.length > 0) {
+                    elements[0].parentNode.removeChild(elements[0]);
+                }
+            }
+        };
+
+        var _initialize = function (usePrebid, useArbitrage) {
+            _determineHeaderResponsiveMode();
+
+            if (usePrebid) {
+                _state.usePrebid = true;
+                pbjs.setPriceGranularity("high");
+            }
+
+            if (useArbitrage) {
+                _state.useArbitrage = true;
+            }
+
+            if (typeof googletag === "undefined") {
+                return;
+            }
+
+            googletag.cmd.push(function () {
+                googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                    if (typeof someecards_grid !== "undefined") {
+                        someecards_grid.ensureGridIsFlush();
+                    }
+                });
+            });
+
+
+            var body = document.getElementsByTagName("body")[0];
+            var bodyPostSlideShow = body.className.match(/post-slideshow/);
+
+            if (bodyPostSlideShow) {
+                removeElementsByClass('main-leaderboard');
+            }
+
+            _state.dynamicAdCounts = [];
+
+            var adSlotDefinitions = _getAdSlotDefinitions();
+            for (var tempSize in adSlotDefinitions) {
+                tempAdDef = adSlotDefinitions[tempSize];
+                _state.dynamicAdCounts[tempAdDef.slot] = 0;
+            }
+
+            _whenOrIfDocumentReady(function() {
+                var throttledResize = _.throttle(someecards_ads.onWindowResize, THROTTLING_SPEED);
+                window.addEventListener("orientationchange", throttledResize);
+                window.addEventListener("resize", throttledResize);
+
+                setTimeout(function () {
+                    var throttledScroll = _.throttle(someecards_ads.checkBottomAdDisplay, THROTTLING_SPEED);
+                    window.addEventListener('scroll', throttledScroll);
+                    _checkBottomAdDisplay();
+
+                    _state.bottomAdCanBeRemoved = true;
+                }, 6000);
+
+                            });
+
+            _onWindowResize();
+
+            _initialAdLoad();
+        };
+
+        var _checkBottomAdDisplay = function () {
+            var mobileBottomAdContainer = document.getElementById("mobile-bottom-ad-container");
+            var skinData = document.getElementById('skin-data');
+
+            if (skinData && skinData.length) {
+                mobileBottomAdContainer.style.display = "none";
+            } else {
+                _whenOrIfDocumentReady(function() {
+                    var $mobileBottomAdContainer = $("#mobile-bottom-ad-container");
+
+                    if (_determineHeaderResponsiveMode() == MOBILE && _state.bottomAdCanBeRemoved) {
+                        if (_global_state.openOverlayId) {
+                            $mobileBottomAdContainer.fadeOut();
+                        } else {
+                            if ($(window).scrollTop() > MOBILE_AD_SHOWN_FROM_TOP && !$('#skin-data').length) {
+                                $mobileBottomAdContainer.fadeOut();
+                            } else if ($(window).scrollTop() <= MOBILE_AD_SHOWN_FROM_TOP && !$('#skin-data').length) {
+                                if (!$('#entity-fixed-footer .share-container').hasClass('open')) {
+                                    $mobileBottomAdContainer.fadeIn();
+                                }
+                            }
+                        }
+                    } else if (_determineHeaderResponsiveMode() != MOBILE) {
+                        $mobileBottomAdContainer.hide();
+                    }
+                });
+            }
+        };
+
+        var _onWindowResize = function () {
+            if (typeof googletag === "undefined") {
+                return;
+            }
+
+            _resizeAdSkin();
+            _resizeAds();
+        };
+
+        var _refreshSlots = function (slots) {
+            if (_state.usePrebid) {
+                _refreshPrebidSlots(slots);
+            } else {
+                googletag.pubads().refresh(slots);
+            }
+        };
+
+        var _refreshPrebidSlots = function(slots) {
+            var slotElementIds = [];
+
+            for (var i = 0, len = slots.length; i < len; i++) {
+                slotElementIds.push(slots[i].getSlotElementId());
+            }
+
+            pbjs.que.push(function() {
+                pbjs.requestBids({
+                    timeout: PREBID_TIMEOUT,
+                    adUnitCodes: slotElementIds,
+                    bidsBackHandler: function() {
+                        pbjs.setTargetingForGPTAsync(slotElementIds);
+                        googletag.pubads().refresh(slots);
+                    }
+                });
+            });
+        };
+
+        var _initialAdLoad = function () {
+            if (typeof googletag === "undefined" || document.body.className.match('no-ads')) {
+                return;
+            }
+
+            // hide the sticky bottom mobile ad if dfp skin or not MOBILE
+            _checkBottomAdDisplay();
+
+            var ads = document.getElementsByClassName('ad-container-responsive');
+
+            var leaderboadAd = null;
+            var first300x250 = null;
+
+            if (ads && ads.length) {
+                for (var adCnt = 0; adCnt < ads.length; adCnt++) {
+                    if (ads[adCnt].offsetWidth > 0 && ads[adCnt].offsetHeight > 0) {
+                        if (leaderboadAd === null && ads[adCnt].classList.contains("main-leaderboard")) {
+                            leaderboadAd = ads[adCnt];
+                        }
+
+                        if (first300x250 === null && !ads[adCnt].classList.contains("main-leaderboard")) {
+                            first300x250 = ads[adCnt];
+
+                        }
+                    }
+                }
+            }
+
+            var pageLoaded = false;
+            if (document.readyState !== "loading" && document.readyState !== "uninitialized") {
+                pageLoaded = true;
+            }
+
+            if (!pageLoaded) {
+                if (!leaderboadAd || (!first300x250 && !false)) {
+                    _state.resizeAdsTimeoutNotReady = setTimeout(function () {
+                        _initialAdLoad();
+                    }, 50);
+                    return;
+                }
+            }
+
+            googletag.cmd.push(function () {
+                var slots = [];
+                if (leaderboadAd != null) {
+                    slots.push(_processAd(leaderboadAd));
+                }
+
+                if (first300x250 != null) {
+                    slots.push(_processAd(first300x250));
+                }
+
+                _refreshSlots(slots);
+
+                
+                _state.adsProcessing = true;
+                setTimeout(function () {
+                    _state.adsProcessing = false;
+                    _resizeAds();
+                }, 200);
+            });
+        };
+
+        var _getBatchOfAds = function () {
+            var ads = document.getElementsByClassName('ad-container-responsive');
+            var limit = 4;
+
+            var visibleAds = [];
+            if (ads && ads.length) {
+                for (var adCount = 0; adCount < ads.length && visibleAds.length < limit; adCount++) {
+                    if (ads[adCount].offsetWidth > 0 && ads[adCount].offsetHeight > 0) {
+                        if (!ads[adCount].classList.contains("processed")) {
+                            visibleAds.push(ads[adCount]);
+                        }
+                    }
+                }
+            }
+
+            return visibleAds;
+        };
+
+        var _resizeAds = function () {
+            if (typeof googletag === "undefined" || document.body.className.match('no-ads')) {
+                return;
+            }
+
+            // hide the sticky bottom mobile ad if dfp skin or not MOBILE
+            _checkBottomAdDisplay();
+
+            clearTimeout(_state.resizeAdsTimeout);
+            if (_state.adsProcessing || !_state.mainLeaderBoardLoaded) {
+                _state.resizeAdsTimeout = setTimeout(function () {
+                    _resizeAds();
+                }, 100);
+                return;
+            }
+
+            ads = _getBatchOfAds();
+
+            if (ads.length > 0) {
+                googletag.cmd.push(function () {
+                    slots = [];
+                    for (var adCount = 0; adCount < ads.length; adCount++) {
+                        slots.push(_processAd(ads[adCount]));
+                    }
+
+                    _refreshSlots(slots);
+
+                    _state.adsProcessing = true;
+                    setTimeout(function () {
+                        _state.adsProcessing = false;
+                        _resizeAds();
+                    }, 200);
+                });
+            }
+
+                    };
+
+        var _processAd = function (ad) {
+            ad.className += ' processed';
+
+            var placementId = ad.getAttribute('data-sec-ad-placement');
+            var dynamicAdDef = _placementToResponsiveDef(placementId);
+            if (dynamicAdDef === null) {
+                return;
+            }
+
+            var secAdId = ad.getAttribute('data-sec-ad-id');
+            var dynamicAdId = 'sec-ad-' + secAdId + '-' + dynamicAdDef['slot'].replace(/\W/g, '');
+            var dynamicAdElement = document.createElement('div');
+            dynamicAdElement.setAttribute("id", dynamicAdId);
+            ad.getElementsByClassName("ad-wrapper")[0].appendChild(dynamicAdElement);
+
+            _state.dynamicAdCounts[dynamicAdDef.slot]++;
+
+            var slot = googletag.defineSlot(dynamicAdDef.slot, dynamicAdDef.size, dynamicAdId);
+            _state.slots = _state.slots || {};
+            _state.slots[secAdId] = slot;
+            slot.setTargeting('position', _state.dynamicAdCounts[dynamicAdDef.slot]);
+
+            responsiveHeaderType = _determineHeaderResponsiveMode();
+            slot.setTargeting('platform', responsiveHeaderType == MOBILE ? 'mobile' : 'desktop');
+
+            if (sec_global_targeting) {
+                for (var key in sec_global_targeting) {
+                    slot.setTargeting(key, sec_global_targeting[key]);
+                }
+            }
+
+            slot.setTargeting("qcsegs",quantSegs);
+            slot.addService(googletag.pubads());
+            googletag.enableServices();
+
+            googletag.display(dynamicAdId);
+
+            googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                if (event.slot != slot) {
+                    return
+                }
+
+                adId = ad.getAttribute('data-sec-ad-id');
+
+                if (adId == 'page-top' || adId == 'mobile-sticky-bottom') {
+                    if (event.slot === slot) {
+                        _onWindowResize();
+
+                        if (event.size[0] !== 1 || event.size[1] !== 1) {
+                            _state.mainLeaderBoardLoaded = true;
+                        } else {
+                            setTimeout(function () {
+                                _state.mainLeaderBoardLoaded = true;
+
+                                var skinData = document.getElementById('skin-data');
+                                if (skinData) {
+                                    var targetingCriteria = skinData.getAttribute('data-targeting-criteria');
+                                    if (targetingCriteria) {
+                                        sec_global_targeting['Skin'] = targetingCriteria;
+                                    }
+                                }
+
+                                _onWindowResize();
+                                _state.adsProcessing = false;
+                            }, 2000);
+                        }
+                    }
+                }
+
+                if (adId == 'page-top') {
+                    var adSlotDefinitions = _getAdSlotDefinitions();
+                    _whenOrIfDocumentReady(function() {
+                        $('iframe[name="google_ads_iframe_'+adSlotDefinitions['leaderboard'].slot+'_0"]').contents().find('body').css('text-align', 'center');
+                    });
+                }
+            });
+
+            if (_state.usePrebid) {
+                pbjs.que.push(function () {
+                    var adUnits = [{
+                        code: dynamicAdId,
+                        sizes: dynamicAdDef.size,
+                        bids: dynamicAdDef.bids
+                    }];
+
+                    pbjs.addAdUnits(adUnits);
+                });
+            }
+
+            return slot;
+        };
+
+        var _whenOrIfDocumentReady = function (f) {
+            if (document.readyState !== "loading" && document.readyState !== "uninitialized") {
+                f();
+            } else {
+                document.addEventListener("DOMContentLoaded", function (event) {
+                    f();
+                });
+            }
+        };
+
+        
+        var _placementToResponsiveDef = function (placement) {
+            var responsiveMode = _determineResponsiveMode();
+            var size = null;
+
+            switch (placement) {
+                case 'main-leaderboard':
+                    size = 'leaderboard';
+                    var headerResponsiveMode = _determineHeaderResponsiveMode();
+
+                    if (headerResponsiveMode == MOBILE) {
+                        size = 'mobile-leaderboard';
+                    }
+
+                    break;
+
+                case 'page-breaker':
+                    size = 'leaderboard';
+                    if (responsiveMode == MOBILE || responsiveMode == TABLET) {
+                        size = 'mobile-leaderboard';
+                    }
+
+                    break;
+
+                case 'mobile-hero':
+                    size = 'box';
+
+                    if (responsiveMode != MOBILE) {
+                        size = null;
+                    }
+
+                    break;
+
+                case 'anywhere':
+                    size = 'box';
+                    break;
+
+                case 'tallbox':
+                    size = 'tallbox';
+
+                    if (responsiveMode == MOBILE) {
+                        size = 'box';
+                    }
+                    break;
+
+                default:
+                    size = null;
+                    break;
+            }
+
+            if (size === null) {
+                return null;
+            }
+
+            var adSlotDefinitions = _getAdSlotDefinitions();
+            var slotDefinition = adSlotDefinitions[size];
+
+            if (_state.usePrebid) {
+                slotDefinition = _prebidAddBiddersToSlotDefinition(size, slotDefinition);
+            }
+
+            return slotDefinition;
+        };
+
+        var _prebidAddBiddersToSlotDefinition = function(size, slotDefinition) {
+            if (size == "box") {
+                var aolPlacementId = 4488157;
+
+                if (_determineResponsiveMode() == MOBILE) {
+                    aolPlacementId = 4488162;
+                }
+
+                slotDefinition.bids = [
+                    {
+                        bidder: 'sovrn',
+                        params: {
+                            tagid: _state.sovrnPrebidIds[0],
+                            sizes: [300, 250]
+                        }
+                    },
+                    {
+                        bidder: 'rubicon',
+                        params: {
+                            accountId: "14846",
+                            siteId: "119558",
+                            zoneId: "565850",
+                            sizes: [15]
+                        }
+                    },
+                    {
+                        bidder: 'aol',
+                        params: {
+                            placement: aolPlacementId,
+                            network: "10913.1"
+                        }
+                    },
+                    {
+                        bidder: 'appnexus',
+                        params: {
+                            placementId: 11085153
+                        }
+                    }
+                ];
+
+                // Cycle through the available sovrn IDs
+                _state.sovrnPrebidIds.push(_state.sovrnPrebidIds.shift());
+            } else if (size == "leaderboard") {
+                slotDefinition.bids = [
+                    {
+                        bidder: 'sovrn',
+                        params: {
+                            tagid: '414509',
+                            sizes: [728, 90]
+                        }
+                    },
+                    {
+                        bidder: 'rubicon',
+                        params: {
+                            accountId: "14846",
+                            siteId: "119558",
+                            zoneId: "565850",
+                            sizes: [2]
+                        }
+                    },
+                    {
+                        bidder: 'aol',
+                        params: {
+                            placement: 4488156,
+                            network: "10913.1"
+                        }
+                    },
+                    {
+                        bidder: 'appnexus',
+                        params: {
+                            placementId: 11083131
+                        }
+                    }
+                ];
+            } else if (size == "mobile-leaderboard") {
+                slotDefinition.bids = [
+                    {
+                        bidder: 'sovrn',
+                        params: {
+                            tagid: '414510',
+                            sizes: [320, 50]
+                        }
+                    },
+                    {
+                        bidder: 'rubicon',
+                        params: {
+                            accountId: "14846",
+                            siteId: "119560",
+                            zoneId: "565852",
+                            sizes: [43]
+                        }
+                    },
+                    {
+                        bidder: 'aol',
+                        params: {
+                            placement: 4488162,
+                            network: "10913.1"
+                        }
+                    },
+                    {
+                        bidder: 'appnexus',
+                        params: {
+                            placementId: 11085154
+                        }
+                    }
+                ];
+            }
+
+            return slotDefinition;
+        };
+
+        var _resizeAdSkin = function () {
+            _whenOrIfDocumentReady(function () {
+                var $addSkinContainer = $('.ad-skin-container');
+
+                if ($addSkinContainer.length == 0) { // don't resize if there's no ad skin
+                    return;
+                }
+
+                var $adSkinTop = $addSkinContainer.children('.top');
+                var $adSkinPlaceholder = $('#sec-ad-skin-placeholder');
+                var $createCardHero = $('#sec-create-card-hero');
+
+                $adSkinTop.height($adSkinPlaceholder.height());
+
+                var responsiveMode = _determineResponsiveMode();
+                var $siteWrapper = $('.site-wrapper');
+                var siteWrapperWidth = $(window).width() - (2 * 146);
+                if (responsiveMode == DESKTOP) {
+                    siteWrapperWidth = DESKTOP_WIDTH;
+                    $createCardHero.width(siteWrapperWidth);
+                } else {
+                    $siteWrapper.width('auto');
+                    $createCardHero.width('100%');
+                }
+
+                var $adSkinLeft = $addSkinContainer.find('.left, .left-top');// two items changing here
+                var adSkinLeftMarginLeft = -(Math.floor(siteWrapperWidth / 2) + $adSkinLeft.width());
+                $adSkinLeft.css('margin-left', adSkinLeftMarginLeft);
+                $adSkinLeft.css('display', 'block');
+
+                var $adSkinRight = $addSkinContainer.find('.right, .right-top');// two items changing here
+                var adSkinRightMarginLeft = Math.floor(siteWrapperWidth / 2);
+                $adSkinRight.css('margin-left', adSkinRightMarginLeft);
+                $adSkinRight.css('display', 'block');
+            });
+        };
+
+        return {
+            initialize: _initialize,
+            resizeAds: _resizeAds,
+            getSquareAd: getSquareAd,
+            onWindowResize: _onWindowResize,
+            checkBottomAdDisplay: _checkBottomAdDisplay
+        };
+    }();
+
     googletag.cmd.push(function() {
-                    googletag.pubads().setTargeting("subcategory", "privacy");
-                    googletag.pubads().setTargeting("env", "production");
+                googletag.pubads().setTargeting("subcategory", "privacy");
+                googletag.pubads().setTargeting("env", "production");
         
         googletag.pubads().setTargeting("qcsegs", quantSegs);
 
@@ -128,18 +863,9 @@
         googletag.enableServices();
     });
 
-    var sec_global_targeting = {};
-            sec_global_targeting['subcategory'] = 'privacy';
-            sec_global_targeting['env'] = 'production';
-    
-    if (typeof someecards_config.google_tags != "undefined") {
-        for (var key in someecards_config.google_tags) {
-            if (someecards_config.google_tags.hasOwnProperty(key)) {
-                sec_global_targeting[key] = someecards_config.google_tags[key];
-            }
-        }
-    }
-</script>
+            usePrebid = true;
+        someecards_ads.initialize(usePrebid, false);
+    </script>
 
 
 <script type="text/javascript">
@@ -180,13 +906,11 @@
     window.fbAsyncInit = function() {
         FB.init({
             appId       : 32911495680,
-            version    : 'v2.6',
+            version    : 'v2.8',
             status      : true,
             cookie      : true,
-            xfbml       : false
+            xfbml       : true
         });
-
-        FB.XFBML.parse();
 
         var fbLoginChecked = true; // Temporarily turning this off while facebook has issues.
         FB.getLoginStatus(function(response) {
@@ -220,9 +944,6 @@
             if (Cookies.get('socialLike')) {
                 Cookies.remove('socialLike', { expires: 365*10, domain: someecards_config.cookie_domain });
             }
-
-            // set counter so it will make sure the next page load gives them the modal
-            Cookies.set('socialLikePageLoadCounter', someecards_config.page_loads_for_like_modal - 1, { expires: 365*10, domain: someecards_config.cookie_domain });
         });
     };
 
@@ -271,6 +992,7 @@
 
 <div class="site-wrapper">
     <div id="body-content">
+        <div id="overlay-curtain"></div>
         <div id="responsive-ads">
             
 <div class="ad-container-responsive main-leaderboard" data-sec-ad-id="page-top" data-sec-ad-placement="main-leaderboard" id="ad-leaderboard">
@@ -289,11 +1011,11 @@
             <div class="mobile" id="sec-nav-link-item-mobile"><a href="#" class="mobile-link" data-sec-dropdown="mobile">Mobile</a></div>
         </div>
         <div class="left logo">
-            <a href="/" class="some">
+            <a href="https://www.someecards.com/" class="some">
                                     <span class="logo-text">some</span>
                             </a>
 
-                                                <a href="/" class="logo-extra">ecards</a>
+                                                <a href="https://www.someecards.com/" class="logo-extra">ecards</a>
                                     </div>
 
         <div class="avatar-wrapper hidden-xs">
@@ -307,9 +1029,9 @@
     <div class="dropdown-inner">
         <div class="column logged-in">
             <ul class="dropdown-links">
-                <li class="dropdown-link-item"><a href="/profile">My Profile</a></li>
-                <li class="dropdown-link-item"><a href="/profile">My Cards</a></li>
-                <li class="dropdown-link-item"><a href="/profile#edit" data-path="/profile" class="header-account-edit-link">Edit Info</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/profile/">My Profile</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/profile/">My Cards</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/profile/#edit" data-path="https://www.someecards.com/profile/" class="header-account-edit-link">Edit Info</a></li>
                 <li class="dropdown-link-item"><a class="logout" href="https://www.someecards.com/session/logout">Logout</a></li>
             </ul>
         </div>
@@ -343,10 +1065,9 @@
 </div>
         </div>
 
-        
         <div class="popular-wrapper">
             <div class="popular" id="sec-nav-link-item-popular">
-                <a href="/popular-now" title="popular" class="popular-link">Popular</a>
+                <a href="https://www.someecards.com/popular-now/" title="popular" class="popular-link">Popular</a>
             </div>
         </div>
 
@@ -357,28 +1078,28 @@
         <div class="column">
             <div class="dropdown-links-header">Top Categories</div>
             <ul class="dropdown-links">
-                <li class="dropdown-link-item"><a href="/ecards/all/?sort=newest">Newest</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/all/?sort=newest">Newest</a></li>
                 <li class="dropdown-link-item">
-                    <a href="/ecards/all/?sort=popular">
+                    <a href="https://www.someecards.com/ecards/all/?sort=popular">
                         Popular
                         <span class="popular-icon"></span>
                     </a>
                 </li>
-                <li class="dropdown-link-item"><a href="/ecards/all/?sort=classics">Classics</a></li>
-                <li class="dropdown-link-item" style="margin-top: 10px;"><a href="/usercards/create">Create Card <span class="create-icon"></span></a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/all/?sort=classics">Classics</a></li>
+                <li class="dropdown-link-item" style="margin-top: 10px;"><a href="https://www.someecards.com/usercards/create">Create Card <span class="create-icon"></span></a></li>
 
-                                                            <li class="dropdown-link-item"><a href="/ecards/charts-and-graphs/">Charts And Graphs</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/birthday/">Birthday</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/confession/">Confession</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/congratulations/">Congratulations</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/flirting/">Flirting</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/news/">News</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/thinking-of-you/">Thinking Of You</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/weekend/">Weekend</a></li>
-                                                                                <li class="dropdown-link-item"><a href="/ecards/workplace/">Workplace</a></li>
+                                                            <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/charts-and-graphs/">Charts And Graphs</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/birthday/">Birthday</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/confession/">Confession</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/congratulations/">Congratulations</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/flirting/">Flirting</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/news/">News</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/thinking-of-you/">Thinking Of You</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/weekend/">Weekend</a></li>
+                                                                                <li class="dropdown-link-item"><a href="https://www.someecards.com/ecards/workplace/">Workplace</a></li>
                                                 </ul>
             <div class="view-all-wrapper">
-                <a href="/card/categories/">View All Categories</a>
+                <a href="https://www.someecards.com/card/categories/">View All Categories</a>
             </div>
             <div class="border-right"></div>
         </div>
@@ -386,26 +1107,25 @@
             <div class="dropdown-links-header">Upcoming Holidays</div>
             <ul class="dropdown-links">
                                     <li class="dropdown-link-item">
-                        <a href="/ecards/hanukkah/">
-                            Hanukkah <span class="date">Dec 24</span>
+                        <a href="https://www.someecards.com/ecards/gay-pride-parade/">
+                            Gay Pride Month <span class="date">Jun 01</span>
                         </a>
                     </li>
                                     <li class="dropdown-link-item">
-                        <a href="/ecards/kwanzaa/">
-                            Kwanzaa <span class="date">Dec 26</span>
+                        <a href="https://www.someecards.com/ecards/canada-day/">
+                            Canada Day <span class="date">Jul 01</span>
                         </a>
                     </li>
                                     <li class="dropdown-link-item">
-                        <a href="/ecards/new-years/">
-                            New Year's <span class="date">Dec 31</span>
+                        <a href="https://www.someecards.com/ecards/independence-day/">
+                            Independence Day <span class="date">Jul 04</span>
                         </a>
                     </li>
                             </ul>
                             <div class="dropdown-links-header">Our Partners</div>
                 <ul class="dropdown-links">
-                                                                                                        <li class="dropdown-link-item"><a href="/stop-stalling/">Stop Stalling</a></li>
-                                                                                                                                                            <li class="dropdown-link-item"><a href="/tgi-fridays/">TGI Fridays</a></li>
-                                                                                                                                                            <li class="dropdown-link-item"><a href="/office-christmas-party/">Office Christmas Party</a></li>
+                                                                                                        <li class="dropdown-link-item"><a href="https://www.someecards.com/bringchangetomind/">Bring Change to Mind</a></li>
+                                                                                                                                                            <li class="dropdown-link-item"><a href="https://www.someecards.com/the-house/">The House</a></li>
                                                                                         </ul>
                     </div>
     </div>
@@ -415,7 +1135,7 @@
         <div class="center-wrapper">
             <ul class="nav-links ">
                             <li class="nav-link-item dropdown" id="sec-nav-link-item-news">
-            <a href="/news/" class="nav-link" data-sec-dropdown="news">
+            <a href="https://www.someecards.com/news/" class="nav-link" data-sec-dropdown="news">
                                     News
                             </a>
             <div class="nav-dropdown-container section-menu news" id="sec-nav-dropdown-news" data-sec-dropdown="news">
@@ -423,28 +1143,28 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/so-that-happened/">So That Happened</a>
+                                        <a href="https://www.someecards.com/news/so-that-happened/">So That Happened</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/dumb-crime/">Dumb Crime</a>
+                                        <a href="https://www.someecards.com/news/dumb-crime/">Dumb Crime</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/weird-news/">Weird News</a>
+                                        <a href="https://www.someecards.com/news/weird-news/">Weird News</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/women/">Women</a>
+                                        <a href="https://www.someecards.com/news/women/">Women</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/politics/">Politics</a>
+                                        <a href="https://www.someecards.com/news/politics/">Politics</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/lgbt/">LGBT</a>
+                                        <a href="https://www.someecards.com/news/lgbt/">LGBT</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/sports/">Sports</a>
+                                        <a href="https://www.someecards.com/news/sports/">Sports</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/news/tweet-picks/">Tweet Picks</a>
+                                        <a href="https://www.someecards.com/news/tweet-picks/">Tweet Picks</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -452,7 +1172,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-entertainment">
-            <a href="/entertainment/" class="nav-link" data-sec-dropdown="entertainment">
+            <a href="https://www.someecards.com/entertainment/" class="nav-link" data-sec-dropdown="entertainment">
                                     Entertainment
                             </a>
             <div class="nav-dropdown-container section-menu entertainment" id="sec-nav-dropdown-entertainment" data-sec-dropdown="entertainment">
@@ -460,25 +1180,25 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/celebrities/">Celebrities</a>
+                                        <a href="https://www.someecards.com/entertainment/celebrities/">Celebrities</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/tv/">TV</a>
+                                        <a href="https://www.someecards.com/entertainment/tv/">TV</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/movies/">Movies</a>
+                                        <a href="https://www.someecards.com/entertainment/movies/">Movies</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/music/">Music</a>
+                                        <a href="https://www.someecards.com/entertainment/music/">Music</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/web/">Web</a>
+                                        <a href="https://www.someecards.com/entertainment/web/">Web</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/video-games/">Video Games</a>
+                                        <a href="https://www.someecards.com/entertainment/video-games/">Video Games</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/books/">Books</a>
+                                        <a href="https://www.someecards.com/entertainment/books/">Books</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -486,7 +1206,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-life">
-            <a href="/life/" class="nav-link" data-sec-dropdown="life">
+            <a href="https://www.someecards.com/life/" class="nav-link" data-sec-dropdown="life">
                                     Life
                             </a>
             <div class="nav-dropdown-container section-menu life" id="sec-nav-dropdown-life" data-sec-dropdown="life">
@@ -494,34 +1214,34 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/fashion-beauty/">Fashion &amp; Beauty</a>
+                                        <a href="https://www.someecards.com/life/fashion-beauty/">Fashion &amp; Beauty</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/digital-life/">Digital Life</a>
+                                        <a href="https://www.someecards.com/life/digital-life/">Digital Life</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/workplace/">Workplace</a>
+                                        <a href="https://www.someecards.com/life/workplace/">Workplace</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/health/">Health</a>
+                                        <a href="https://www.someecards.com/life/health/">Health</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/birthdays/">Birthdays</a>
+                                        <a href="https://www.someecards.com/life/birthdays/">Birthdays</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/food-drink/">Food &amp; Drink</a>
+                                        <a href="https://www.someecards.com/life/food-drink/">Food &amp; Drink</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/weekend/">Weekend</a>
+                                        <a href="https://www.someecards.com/life/weekend/">Weekend</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/school/">School</a>
+                                        <a href="https://www.someecards.com/life/school/">School</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/holidays/">Holidays</a>
+                                        <a href="https://www.someecards.com/life/holidays/">Holidays</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/life/tech/">Tech</a>
+                                        <a href="https://www.someecards.com/life/tech/">Tech</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -529,7 +1249,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-love">
-            <a href="/love/" class="nav-link" data-sec-dropdown="love">
+            <a href="https://www.someecards.com/love/" class="nav-link" data-sec-dropdown="love">
                                     Love
                             </a>
             <div class="nav-dropdown-container section-menu love" id="sec-nav-dropdown-love" data-sec-dropdown="love">
@@ -537,19 +1257,19 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/love/dating-relationships/">Dating &amp; Relationships</a>
+                                        <a href="https://www.someecards.com/love/dating-relationships/">Dating &amp; Relationships</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/love/sex/">Sex</a>
+                                        <a href="https://www.someecards.com/love/sex/">Sex</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/love/weddings/">Weddings</a>
+                                        <a href="https://www.someecards.com/love/weddings/">Weddings</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/love/friends/">Friends</a>
+                                        <a href="https://www.someecards.com/love/friends/">Friends</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/love/breakups/">Breakups</a>
+                                        <a href="https://www.someecards.com/love/breakups/">Breakups</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -557,7 +1277,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-cute">
-            <a href="/cute/" class="nav-link" data-sec-dropdown="cute">
+            <a href="https://www.someecards.com/cute/" class="nav-link" data-sec-dropdown="cute">
                                     Cute
                             </a>
             <div class="nav-dropdown-container section-menu cute" id="sec-nav-dropdown-cute" data-sec-dropdown="cute">
@@ -565,10 +1285,10 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/cute/animals/">Animals</a>
+                                        <a href="https://www.someecards.com/cute/animals/">Animals</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/cute/kids/">Kids</a>
+                                        <a href="https://www.someecards.com/cute/kids/">Kids</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -576,7 +1296,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-parenting">
-            <a href="/parenting/" class="nav-link" data-sec-dropdown="parenting">
+            <a href="https://www.someecards.com/parenting/" class="nav-link" data-sec-dropdown="parenting">
                                     Parenting
                             </a>
             <div class="nav-dropdown-container section-menu parenting" id="sec-nav-dropdown-parenting" data-sec-dropdown="parenting">
@@ -584,16 +1304,16 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/parenting/moms/">Moms</a>
+                                        <a href="https://www.someecards.com/parenting/moms/">Moms</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/parenting/dads/">Dads</a>
+                                        <a href="https://www.someecards.com/parenting/dads/">Dads</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/parenting/children/">Children</a>
+                                        <a href="https://www.someecards.com/parenting/children/">Children</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/parenting/pregnancy/">Pregnancy</a>
+                                        <a href="https://www.someecards.com/parenting/pregnancy/">Pregnancy</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -601,7 +1321,7 @@
             </div>
         </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-videos">
-            <a href="/videos/" class="nav-link" data-sec-dropdown="videos">
+            <a href="https://www.someecards.com/videos/" class="nav-link" data-sec-dropdown="videos">
                                     Videos
                             </a>
             <div class="nav-dropdown-container section-menu videos" id="sec-nav-dropdown-videos" data-sec-dropdown="videos">
@@ -609,25 +1329,25 @@
                     <div class="column">
                         <ul class="dropdown-links">
                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/videos/comedy/">Comedy</a>
+                                        <a href="https://www.someecards.com/videos/comedy/">Comedy</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/videos/stupidity/">Stupidity</a>
+                                        <a href="https://www.someecards.com/videos/stupidity/">Stupidity</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/celebrities/">Celebrities</a>
+                                        <a href="https://www.someecards.com/entertainment/celebrities/">Celebrities</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/movies/">Movies</a>
+                                        <a href="https://www.someecards.com/entertainment/movies/">Movies</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/entertainment/tv/">TV</a>
+                                        <a href="https://www.someecards.com/entertainment/tv/">TV</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/cute/cute/">Cute</a>
+                                        <a href="https://www.someecards.com/cute/cute/">Cute</a>
                                     </li>
                                                                                                                                 <li class="dropdown-link-item">
-                                        <a href="/videos/wtf/">WTF</a>
+                                        <a href="https://www.someecards.com/videos/wtf/">WTF</a>
                                     </li>
                                                                                     </ul>
                     </div>
@@ -637,7 +1357,7 @@
     
 
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-ecards">
-                    <a href="/ecards/all/?sort=popular" class="nav-link" data-sec-dropdown="ecards">Ecards</a>
+                    <a href="https://www.someecards.com/ecards/all/?sort=popular" class="nav-link" data-sec-dropdown="ecards">Ecards</a>
                 </li>
                 <li class="nav-link-item dropdown" id="sec-nav-link-item-more">
                     <a href="#" class="nav-link no-click" data-sec-dropdown="more">More</a>
@@ -646,17 +1366,17 @@
         <div class="column">
             <div class="dropdown-links-header">Company</div>
             <ul class="dropdown-links">
-                <li class="dropdown-link-item"><a href="/page/about">About</a></li>
-                <li class="dropdown-link-item"><a href="/page/contact">Contact</a></li>
-                <li class="dropdown-link-item"><a href="/page/press">Press</a></li>
-                <li class="dropdown-link-item"><a href="/page/advertise">Advertise</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/about">About</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/contact">Contact</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/press">Press</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/advertise">Advertise</a></li>
                 <li class="dropdown-link-item"><a href="#" class="sec-newsletter-subscribe-link">Subscribe</a></li>
-                <li class="dropdown-link-item"><a href="/page/jobs">Jobs</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/jobs">Jobs</a></li>
             </ul>
             <div class="dropdown-links-header">Legal</div>
             <ul class="dropdown-links">
-                <li class="dropdown-link-item"><a href="/page/terms">Terms of Use</a></li>
-                <li class="dropdown-link-item"><a href="/page/privacy">Privacy Policy</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/terms">Terms of Use</a></li>
+                <li class="dropdown-link-item"><a href="https://www.someecards.com/page/privacy">Privacy Policy</a></li>
             </ul>
         </div>
     </div>
@@ -677,7 +1397,7 @@
     <div class="mobile-inner">
         <div class="row top-header-row header-row">
             <div class="col-xs-3" style="height: 40px; padding-top: 2px;">
-                <div><a href="/">HOME</a></div>
+                <div><a href="https://www.someecards.com/">HOME</a></div>
             </div>
             <div class="col-xs-3 text-center">
                 <div class="search-wrapper">
@@ -707,56 +1427,56 @@
         <div class="row button-row">
                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/news/">
+                                                            <a href="https://www.someecards.com/news/">
                                                                             News
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/view/all/popular">
+                                                            <a href="https://www.someecards.com/view/all/popular">
                                     POPULAR <img src="//cdn.someecards.com/assets/images/header/whitearrow.png" class="popular-icon" alt="White Arrow">
                                 </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/entertainment/">
+                                                            <a href="https://www.someecards.com/entertainment/">
                                                                             Entertainment
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/life/">
+                                                            <a href="https://www.someecards.com/life/">
                                                                             Life
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/love/">
+                                                            <a href="https://www.someecards.com/love/">
                                                                             Love
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/cute/">
+                                                            <a href="https://www.someecards.com/cute/">
                                                                             Cute
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/parenting/">
+                                                            <a href="https://www.someecards.com/parenting/">
                                                                             Parenting
                                                                     </a>
                                                     </div>
                     </div>
                                                                 <div class="col-xs-6">
                         <div>
-                                                            <a href="/videos/">
+                                                            <a href="https://www.someecards.com/videos/">
                                                                             Videos
                                                                     </a>
                                                     </div>
@@ -768,59 +1488,59 @@
         </div>
         <div class="row button-row">
             <div class="col-xs-6">
-                <div><a href="/ecards/all/?sort=newest">NEWEST</a></div>
+                <div><a href="https://www.someecards.com/ecards/all/?sort=newest">NEWEST</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/ecards/all/?sort=popular">
+                <div><a href="https://www.someecards.com/ecards/all/?sort=popular">
                     POPULAR <img src="//cdn.someecards.com/assets/images/header/whitearrow.png" class="popular-icon" alt="White Arrow">
                 </a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/usercards/create">
+                <div><a href="https://www.someecards.com/usercards/create">
                     Create Card <img src="//cdn.someecards.com/assets/images/header/pencil-white.png" class="popular-icon create-icon" alt="White Pencil">
                 </a></div>
             </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/birthday/">Birthday</a>
+                                            <a href="https://www.someecards.com/ecards/birthday/">Birthday</a>
                                         </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/confession/">Confession</a>
+                                            <a href="https://www.someecards.com/ecards/confession/">Confession</a>
                                         </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/flirting/">Flirting</a>
+                                            <a href="https://www.someecards.com/ecards/flirting/">Flirting</a>
                                         </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/friendship/">Friendship</a>
+                                            <a href="https://www.someecards.com/ecards/friendship/">Friendship</a>
                                         </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/thinking-of-you/">Thinking Of You</a>
+                                            <a href="https://www.someecards.com/ecards/thinking-of-you/">Thinking Of You</a>
                                         </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                                            <a href="/ecards/workplace/">Workplace</a>
+                                            <a href="https://www.someecards.com/ecards/workplace/">Workplace</a>
                                         </div>
                 </div>
                                         <div class="col-xs-6">
                     <div>
-                        <a href="/ecards/hanukkah/">
-                            <div class="event-name">Hanukkah</div> <div class="date">Dec 24</div>
+                        <a href="https://www.someecards.com/ecards/gay-pride-parade/">
+                            <div class="event-name">Gay Pride Month</div> <div class="date">Jun 01</div>
                         </a>
                     </div>
                 </div>
                             <div class="col-xs-6">
                     <div>
-                        <a href="/ecards/kwanzaa/">
-                            <div class="event-name">Kwanzaa</div> <div class="date">Dec 26</div>
+                        <a href="https://www.someecards.com/ecards/canada-day/">
+                            <div class="event-name">Canada Day</div> <div class="date">Jul 01</div>
                         </a>
                     </div>
                 </div>
@@ -832,23 +1552,16 @@
             <div class="row button-row">
                                     <div class="col-xs-6">
                         <div>
-                                                                                    <a href="/stop-stalling/">Stop Stalling</a>
+                                                                                    <a href="https://www.someecards.com/bringchangetomind/">Bring Change to Mind</a>
                             
-                            <a href="/ecards/stop-stalling/">Stop Stalling</a>
+                            <a href="https://www.someecards.com/ecards/bringchangetomind/">Bring Change to Mind</a>
                                                 </div>
                     </div>
                                     <div class="col-xs-6">
                         <div>
-                                                                                    <a href="/tgi-fridays/">TGI Fridays</a>
+                                                                                    <a href="https://www.someecards.com/the-house/">The House</a>
                             
-                            <a href="/ecards/tgi-fridays/">TGI Fridays</a>
-                                                </div>
-                    </div>
-                                    <div class="col-xs-6">
-                        <div>
-                                                                                    <a href="/office-christmas-party/">Office Christmas Party</a>
-                            
-                            <a href="/ecards/office-christmas-party/">Office Christmas Party</a>
+                            <a href="https://www.someecards.com/ecards/the-house/">The House</a>
                                                 </div>
                     </div>
                             </div>
@@ -858,22 +1571,22 @@
         </div>
         <div class="row button-row">
             <div class="col-xs-6">
-                <div><a href="/page/about">About</a></div>
+                <div><a href="https://www.someecards.com/page/about">About</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/page/contact">Contact</a></div>
+                <div><a href="https://www.someecards.com/page/contact">Contact</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/page/press">Press</a></div>
+                <div><a href="https://www.someecards.com/page/press">Press</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/page/advertise">Advertise</a></div>
+                <div><a href="https://www.someecards.com/page/advertise">Advertise</a></div>
             </div>
             <div class="col-xs-6">
                 <div><a href="#" class="sec-newsletter-subscribe-link">Subscribe</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/page/jobs">Jobs</a></div>
+                <div><a href="https://www.someecards.com/page/jobs">Jobs</a></div>
             </div>
         </div>
 
@@ -882,10 +1595,10 @@
         </div>
         <div class="row button-row">
             <div class="col-xs-6">
-                <div><a href="/page/terms">Terms of Use</a></div>
+                <div><a href="https://www.someecards.com/page/terms">Terms of Use</a></div>
             </div>
             <div class="col-xs-6">
-                <div><a href="/page/privacy">Privacy Policy</a></div>
+                <div><a href="https://www.someecards.com/page/privacy">Privacy Policy</a></div>
             </div>
         </div>
     </div>
@@ -968,7 +1681,6 @@
         </div>
     </section>
         <section class="login-register-overlay sec-overlay-container" id="sec-login-register-overlay" data-captcha="https://www.someecards.com/login/checkCaptcha">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner">
             <div class="logo">
@@ -1132,7 +1844,6 @@
 </section>
 
         <section class="newsletter-subscribe-overlay sec-overlay-container" id="sec-newsletter-subscribe-overlay" data-submit-href="https://www.someecards.com/newsletter/subscribe" data-unsubscribe-href="https://www.someecards.com/newsletter/unsubscribe">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner">
             <h4 class="overlay-header subscribe">Subscribe</h4>
@@ -1180,7 +1891,6 @@
     </div>
 </section>
         <section class="newsletter-subscribe-overlay sec-overlay-container" id="sec-newsletter-subscribe-popup" data-submit-href="https://www.someecards.com/newsletter/subscribe">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner">
             <h4 class="overlay-header subscribe">Get our Newsletter</h4>
@@ -1209,7 +1919,6 @@
     </div>
 </section>
         <section class="share-embed-overlay sec-overlay-container" id="sec-share-embed-overlay">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner">
             <h4 class="overlay-header">Copy Links</h4>
@@ -1238,12 +1947,11 @@
             </div>
         </div>
         <div class="col-sm-4 copyright-container">
-            <div class="copyright"> © Copyright 2016 Someecards, Inc.</div>
+            <div class="copyright"> © Copyright 2017 Someecards, Inc.</div>
         </div>
     </div>
 </div>
         <section class="send-card-overlay sec-overlay-container" id="sec-send-card-overlay" sec-send-submit-url="https://www.someecards.com/send">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner">
             <div class="step-container" id="sec-send-card-overlay-step-1">
@@ -1256,8 +1964,10 @@
     <div class="inner-card ">
         <div class="img-wrapper">
                             <a href="#">
-                                                                        <img class="img-responsive" src="">
-                                                </a>
+                            
+                                    <img class="img-responsive" alt="" src="">
+                
+                            </a>
         </div>
     </div>
 </div>
@@ -1322,8 +2032,10 @@
     <div class="inner-card ">
         <div class="img-wrapper">
                             <a href="#">
-                                                                        <img class="img-responsive" src="">
-                                                </a>
+                            
+                                    <img class="img-responsive" alt="" src="">
+                
+                            </a>
         </div>
     </div>
 </div>
@@ -1360,7 +2072,6 @@
     </div>
 </section>
         <section class="confirm-email-overlay edit-account-overlay sec-overlay-container" id="sec-confirm-email-overlay">
-    <div class="curtain"></div>
     <div class="content">
         <div id="confirm-email-step-1" class="content-inner" style="padding-bottom: 15px;">
             <div style="padding-top: 20px;">
@@ -1400,7 +2111,6 @@
     </div>
 </section>
         <section class="confirm-registration-email-overlay edit-account-overlay sec-overlay-container" id="sec-confirm-registration-email-overlay">
-    <div class="curtain"></div>
     <div class="content">
         <div class="content-inner" style="padding-bottom: 15px;">
             <div style="padding-top: 20px;">
@@ -1417,26 +2127,7 @@
         </div>
     </div>
 </section>
-        <section class="sec-overlay-container" id="sec-social-like-overlay">
-    <div class="curtain"></div>
-    <div class="content" style="overflow: visible;">
-        <div class="content-inner" style="padding: 20px;">
-            <div class="close-button"><a href="#">Close</a></div>
-            <p class="overlay-header big-text">Let's take this relationship to the next level.</p>
-            <div class="divider"></div>
-            <div class="content-area" style="">
-                <p class="top-text">Just click this tiny button to like us on Facebook.</p>
-                <div class="fb-like" data-ref="social-like-overlay" data-href="//www.facebook.com/someecards" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false">
-                </div>
-                <p class="bottom-text" style="">
-                    If you've already liked us on Facebook just <a href="#" class="text-close-button">click here</a> and let's pretend this never happened.
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
         <section class="sec-overlay-container" id="sec-error-overlay">
-    <div class="curtain"></div>
     <div class="content" style="overflow: visible;">
         <div class="content-inner" style="padding: 20px;">
             <div class="close-button"><a href="#">Close</a></div>
@@ -1511,9 +2202,10 @@
 <!-- End Quantcast tag -->
 <script>function recaptchaOnloadCallback() { secRecaptcha.loaded() }</script>
 <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&amp;render=explicit"></script>
-<script type="text/javascript" src="//cdn.someecards.com/assets/js/someecards-6810829.js"></script>
+<script type="text/javascript" src="//cdn.someecards.com/assets/js/someecards-d8d6385.js"></script>
+
 
 <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyDUAtWZhAR-Ek_bAMJfDDgHQkO99imUJWE" async="" defer=""></script>
- <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+ 
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
