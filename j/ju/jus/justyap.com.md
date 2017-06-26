@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justyap.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021223107id_/http%3A//justyap.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justyap.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626161509id_/http%3A//justyap.com/privacypolicy.html) for the most accurate reproduction.*
 
 # JUSTYAP
 
@@ -6,7 +6,7 @@ Effective date : November 1, 2015
 
 ## Who We Are and What This Policy Is
 
-We at JustYap, Inc. (“JustYap”, “Us”, “We, or “Our”) know You (“You” or “Your”) care about how Your personal information (“Personal Information”) is used and shared, and we take Your privacy seriously. Please read the following to learn more about our Privacy Policy.
+We at Reach communications Inc("Reach" or "JustYap", “Us”, “We, or “Our”) know You (“You” or “Your”) care about how Your personal information (“Personal Information”) is used and shared, and we take Your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
 By using or accessing the “JustYap” mobile application (“App”) or the website located at [www.JustYap.com](http://www.justyap.com/) (the “Website”) (collectively, the “Service”) in any manner, You acknowledge that You accept the practices and policies outlined in this Privacy Policy, and You hereby consent that we will collect, use, and share Your information in the following ways.
 
@@ -102,7 +102,7 @@ We will share Your online status with other Service users.
 
 ### Business Transfers:
 
-We may choose to buy or sell the assets of JustYap, Inc. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Your information could be one of the assets transferred to or acquired by a third party.
+We may choose to buy or sell the assets of Reach communications Inc. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Your information could be one of the assets transferred to or acquired by a third party.
 
 ### Protection of JustYap and Others:
 
@@ -110,13 +110,13 @@ We reserve the right to access, read, preserve, and disclose any information tha
 
 ### California Residents:
 
-UNDER CALIFORNIA CIVIL CODE SECTIONS 1798.83-1798.84, CALIFORNIA RESIDENTS ARE ENTITLED TO ASK US FOR A NOTICE IDENTIFYING THE CATEGORIES OF PERSONAL INFORMATION WHICH WE SHARE WITH OUR AFFILIATES AND/OR THIRD PARTIES FOR MARKETING PURPOSES, AND PROVIDING CONTACT INFORMATION FOR SUCH AFFILIATES AND/OR THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT AND WOULD LIKE A COPY OF THIS NOTICE, PLEASE SUBMIT A WRITTEN REQUEST TO: [SUPPORT@JUSTYAP.COM](mailto:SUPPORT@JUSTYAP.COM) OR JustYap Communications, Inc. (ATTN: Privacy), 99 Almaden Boulevard, Suite 600, San Jose, CA 95113.
+UNDER CALIFORNIA CIVIL CODE SECTIONS 1798.83-1798.84, CALIFORNIA RESIDENTS ARE ENTITLED TO ASK US FOR A NOTICE IDENTIFYING THE CATEGORIES OF PERSONAL INFORMATION WHICH WE SHARE WITH OUR AFFILIATES AND/OR THIRD PARTIES FOR MARKETING PURPOSES, AND PROVIDING CONTACT INFORMATION FOR SUCH AFFILIATES AND/OR THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT AND WOULD LIKE A COPY OF THIS NOTICE, PLEASE SUBMIT A WRITTEN REQUEST TO: [support@justyap.com](mailto:support@justyap.com) OR Reach communications Inc. (ATTN: Privacy), 99 Almaden Boulevard, Suite 600, San Jose, CA 95113.
 
 ## What You can Do to Your Personal Information.
 
 ### Deleting Your account:
 
-You can delete Your account by emailing customer support at [SUPPORT@JUSTYAP.COM](mailto:SUPPORT@JUSTYAP.COM) In addition, You can simply go to the “More” tab in the App and tap the “Deactivate Account” option. Subject to the “Limitations on Deletion” section below, when You request us to delete Your account for the Service, Your data will be permanently deleted from Our servers and access to Your account will be disabled.
+You can delete Your account by emailing customer support at [support@justyap.com](mailto:support@justyap.com) In addition, You can simply go to the “More” tab in the App and tap the “Deactivate Account” option. Subject to the “Limitations on Deletion” section below, when You request us to delete Your account for the Service, Your data will be permanently deleted from Our servers and access to Your account will be disabled.
 
 ### Limitations on Deletion:
 
@@ -154,13 +154,13 @@ While Your Personal Information is in our possession, it will be stored at hosti
 
 JustYap takes certain precautions to protect Your Personal Information and to limit the risk that it will be accessed without authorization, including use of certain industry standard technologies and practices. That said, we cannot guarantee the security of such information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. No security system is perfect - so Your use of the Service is at Your own risk.
 
-If we learn of a security systems bJustyap, then we may attempt to notify You via email, phone, physical mail, or by a posting on Your Service account page - so that You can take appropriate protective steps. By using the Service You consent to receive such notice by electronic means (provided that such consent is void where prohibited by applicable law). To receive a free written notice of a security b Justyap, or if You have any questions about the security of the Service, please contact us at [SUPPORT@JUSTYAP.COM.](mailto:SUPPORT@JUSTYAP.COM)
+If we learn of a security systems bJustyap, then we may attempt to notify You via email, phone, physical mail, or by a posting on Your Service account page - so that You can take appropriate protective steps. By using the Service You consent to receive such notice by electronic means (provided that such consent is void where prohibited by applicable law). To receive a free written notice of a security b Justyap, or if You have any questions about the security of the Service, please contact us at [support@justyap.com](mailto:support@justyap.com)
 
 In addition to the security measures referenced above, Your Service account is protected by a password for Your privacy and security. You must prevent unauthorized access to Your account and Personal Information by selecting and protecting Your password appropriately and limiting access to Your computer or device and browser by signing off after You 
 
 ## Protecting Children.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If You are under 13, please do not attempt to register for the Service or send any personal information about Yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If You believe that a child under 13 may have provided us personal information, please contact us at [SUPPORT@JUSTYAP.COM](mailto:SUPPORT@JUSTYAP.COM)
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If You are under 13, please do not attempt to register for the Service or send any personal information about Yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If You believe that a child under 13 may have provided us personal information, please contact us at [support@justyap.com](mailto:support@justyap.com)
 
 ## Changes to This Policy
 
@@ -168,4 +168,4 @@ This Privacy Policy was last changed on the date set forth at the top of the pol
 
 ## Contacting Us.
 
-If You have any questions or concerns regarding our privacy policies, please send us a detailed message to [SUPPORT@JUSTYAP.COM](mailto:SUPPORT@JUSTYAP.COM) or JustYap Communications, Inc. (ATTN: Privacy), 99 Almaden Boulevard, Suite 600, San Jose, CA 95113.
+If You have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@justyap.com](mailto:support@justyap.com) or Reach communications Inc. (ATTN: Privacy), 99 Almaden Boulevard, Suite 600, San Jose, CA 95113.
