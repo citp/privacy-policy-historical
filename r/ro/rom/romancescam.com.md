@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancescam.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013131621id_/http%3A//www.romancescam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancescam.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627002914id_/http%3A//romancescam.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceScam - Privacy Policy
 
@@ -26,4 +26,4 @@ This website takes every precaution to protect our users' information. When user
 
 If you have any questions about this privacy statement, the practices of this site, oryour dealings with this website, you can contact us via e-mail.
 
-[Return to Main Page](http://www.romancescam.com/)
+[Return to Main Page](https://www.romancescam.com/)
