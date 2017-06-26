@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117210220id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626060943id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MassMutual
 
-**UPDATED AS OF: **March 25, 2015**  
+**UPDATED AS OF: **May 1, 2017**  
 **
 
 MassMutual Financial Group is a marketing name for Massachusetts Mutual Life Insurance Company (“MassMutual”) and its affiliated companies and sales representatives. This online privacy policy is being provided by the following companies in the MassMutual Financial Group:
@@ -10,8 +10,7 @@ MassMutual Financial Group is a marketing name for Massachusetts Mutual Life Ins
 \-- Massachusetts Mutual Life Insurance Company   
 \-- C.M. Life Insurance Company   
 \-- MML Investors Services   
-\-- MML Bay State Life Insurance Company;  
-\-- MSI Financial Services, Inc.
+\-- MML Bay State Life Insurance Company;
 
 At MassMutual (“we”, “us”, or “our”) we are committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, interactive features, applications, and social network pages (“Platforms”).
 
@@ -29,7 +28,7 @@ Device Identifier. We automatically collect your IP address or other unique iden
 
 Cookies; Pixel Tags. The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation, to perform analytics, and personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server.
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, or prevent tracking activities, please refer to your browser’s tools or help menu or other instructions related to your browser. Because an industry-standard Do-Not-Track protocol has not yet been established, our information collection practices on our Platforms will continue to operate as described in this online privacy notice regardless of any “Do Not Track” signals that may be sent by certain browsers. However, you may refuse to accept cookies in order to prevent tracking activities. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, or prevent tracking activities, please refer to your browser’s tools or help menu or other instructions related to your browser. Because an industry-standard Do-Not-Track protocol has not yet been established, our information collection practices on our Platforms will continue to operate as described in this online privacy policy regardless of any “Do Not Track” signals that may be sent by certain browsers. However, you may refuse to accept cookies in order to prevent tracking activities. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
 **2\. HOW WE USE THE INFORMATION WE COLLECT**
 
@@ -37,7 +36,7 @@ We use the information we collect about and from you for a variety of business p
 
 **3\. SHARING OF INFORMATION**
 
-Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances:
+Except as described here or in our customer [privacy notices](https://web.archive.org/privacy-notices), we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
 
 Third Parties Providing Services. We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as:
 
@@ -59,7 +58,7 @@ We may receive information about you from third parties such as consumer or othe
 
 **5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**
 
-You control the Personal Information that you provide to us on the Platforms, but some Personal Information is required by us in order for you to obtain services from us or for you to use the Platforms. If you choose not to provide us with your Personal Information on the Platforms, you may not be able to take advantage of some of the services we offer or use some functionality on the Platforms. Except as provided above in section 3, we will not share Personal Information collected on the Platforms with third parties without your consent. You may also direct us to stop sending you promotional emails by following the removal instructions in a communication you receive from us. Your opt-out request will be processed within 30 days of the date on which we receive it.
+You control the Personal Information that you provide to us on the Platforms, but some Personal Information is required by us in order for you to obtain services from us or for you to use the Platforms. If you choose not to provide us with your Personal Information on the Platforms, you may not be able to take advantage of some of the services we offer or use some functionality on the Platforms. Except as provided above in section 3, we will not share Personal Information collected on the Platforms with third parties without your consent. You may also direct us to stop sending you promotional emails by following the removal instructions in a communication you receive from us. Your opt-out request will be processed within 10 business days of the date on which we receive it.
 
 If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your online account or request that we no longer use your information to provide you services through the platform, [contact us](https://web.archive.org/about-us/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
@@ -79,12 +78,12 @@ We take information security seriously and use certain reasonable security measu
 
 The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
 
-The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
+The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Policy.
 
 **10\. CHANGES**
 
-We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **11\. CONTACT US**
 
-If you have any questions or concerns about this Privacy Notice, the practices of the Platforms, or your experiences with the Platforms, please [contact us](https://web.archive.org/about-us/contact-us).
+If you have any questions or concerns about this Privacy Policy, the practices of the Platforms, or your experiences with the Platforms, please [contact us](https://web.archive.org/about-us/contact-us).
