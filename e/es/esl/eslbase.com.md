@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227062858id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626142600id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Eslbase.com
 
@@ -6,8 +6,8 @@ We are committed to protecting your privacy and maintaining the security of any 
 
 The purpose of this statement is to explain to you what information we collect, and how and why we collect it. 
 
-**When you register with Eslbase**  
-We collect information about you when you register with us. We ask you for your name, email address and a display name for any posts you make in the [forum](https://web.archive.org/forum/). We also ask you to tell us whether you are registering as an employer or as a forum member only. We use this information to provide you with the most appropriate features and resources when you sign into your account. You can check, update or remove this information on your [account page](https://web.archive.org/account/).
+**When you create an account with Eslbase**  
+We collect information about you when you create an account with us. We ask you for your name, email address and a display name for any posts you make in the [forum](https://web.archive.org/forum/). We also ask you to tell us whether you are creating an account as an employer or as a forum member only. We use this information to provide you with the most appropriate features and resources when you sign into your account. You can check, update or remove this information on your [account page](https://web.archive.org/account/).
 
 **When you submit information in a form**  
 We collect information that you submit voluntarily through forms, for example when you add a comment to a page, post in the forum or post a job advert. Any information that you submit voluntarily in this way will be available for other visitors to see. For example, if you include your email address or other personal information in an advert or comment, this will be visible to other visitors. 
@@ -24,7 +24,7 @@ The cookies we use are as follows:
 
 _Necessary cookies_
 
-These cookies help make our website usable by enabling basic functions like page navigation and access to pages which require visitors to register and login. The website cannot function properly without these cookies.
+These cookies help make our website usable by enabling basic functions like page navigation and access to pages which require visitors to create an account and login. The website cannot function properly without these cookies.
 
 Cookie Name | Set by | Expiry | Purpose  
 ---|---|---|---  
