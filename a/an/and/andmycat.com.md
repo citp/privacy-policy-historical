@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andmycat.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210191725id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andmycat.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203415id_/http%3A//theanimalrescuesite.greatergood.com/clickToGive/ars/privacy) for the most accurate reproduction.*
 
 # Privacy @ The Animal Rescue Site
 
@@ -6,9 +6,9 @@
 
 CharityUSA, owners and operators of the GreaterGood family of websites, has created this privacy policy to disclose our information gathering and dissemination practices. CharityUSA does not sell, rent, trade, or share Personal Information with third parties except as disclosed within this privacy policy.
 
-CharityUSA has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the GreaterGood family of websites.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@greatergood.com](mailto:customerservice@greatergood.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+[](https://privacy.truste.com/privacy-seal/validation?rid=29c6d5ae-af4c-4d29-96ad-e44c3c86589d)
 
 This privacy policy covers the following:
 
@@ -45,8 +45,8 @@ This privacy policy covers the following:
 > [RescueBox](http://rescuebox.com/)   
 > [**GreaterGood Wholesale**](http://greatergoodwholesale.com/)   
 > [GreaterGood Global](https://greatergood.global/)   
-> [Global Girlfriend](https://globalgirlfriend.com/)   
 > [Sasa Designs](https://shopsasadesigns.com/)   
+> [Global Girlfriend](https://www.globalgirlfriend.com/)   
 > **Great Life Publishing**   
 > [12 Tomatoes](http://12tomatoes.com/)   
 > [24 Blocks](http://24blocks.com/)   
