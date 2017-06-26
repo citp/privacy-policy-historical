@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027235621id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626072516id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
