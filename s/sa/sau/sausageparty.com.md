@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sausageparty.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209130518id_/http%3A//sausageparty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sausageparty.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626040742id_/http%3A//sausageparty.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site sausageparty.com and all other sites owned or controlled by FARLINK CORPORATION, LTD. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site sausageparty.com and all other sites owned or controlled by Farlink Corporation Limited ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
