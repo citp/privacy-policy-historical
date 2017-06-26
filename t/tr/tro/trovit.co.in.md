@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trovit.co.in privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129062504id_/http%3A//corporate.trovit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovit.co.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626161057id_/https%3A//corporate.trovit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Trovit Corporate
+# Privacy policy - Trovit Corporate
 
 This Privacy Policy was originally published in Spanish and translated to other languages for informative reasons and to facilitate its consultation. In case of a discrepancy between this version and the [spanish version](http://corporate.trovit.com/politica-de-privacidad/) of this Privacy Policy, the Spanish version shall prevail and shall be used to the effects of interpretation and/or application.
 
