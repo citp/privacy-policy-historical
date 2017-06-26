@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitality.news privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215104100id_/http%3A//vitality.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitality.news privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052751id_/http%3A//vitality.news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Vitality.news
 
