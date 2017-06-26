@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163738id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626184400id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eSchool News
 
@@ -96,7 +96,7 @@ Top of Page
 
 #### Additional Information Or to Report a Problem:
 
-Please eMail [Nancy David](mailto:ndavid@eschoolnews.com), or call directly at 1-800-394-0115 ext 110.
+Please eMail [Nancy David](mailto:ndavid@eschoolnews.com), or call directly at 1-301-913-0115 ext 110.
 
 Address:
 
