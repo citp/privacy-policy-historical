@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the upwork.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231092025id_/https%3A//www.upwork.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upwork.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626155455id_/https%3A//www.upwork.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Pages
 
-Effective Date: December 14, 2016
-
+Effective Date: December 14, 2016 | [](https://privacy.truste.com/privacy-seal/validation?rid=5e2dc6e2-427e-415b-96ce-e6fc8795170f "TRUSTe Privacy Certification")  
+---|---  
+  
 Upwork Global Inc. (“ **Upwork** ”) provides this Privacy Policy to let you know our policies and procedures regarding the collection, use and disclosure of information through [www.upwork.com](http://www.upwork.com/) (the “ **Site** ”), and any other websites, features, applications, widgets or online services that are owned or controlled by Upwork and that post a link to this Privacy Policy (together with the Site, the “ **Service** ”), as well as any information Upwork collects offline in connection with the Service. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information _._ **Note that we combine the information we collect from you from the Site, through the Service generally, or offline.**
 
 By accessing or using the Service, you consent to the information collection, disclosure and use practices described in this Privacy Policy. Please note that certain features or services referenced in this Privacy Policy may not be offered on the Service at all times. Please also review our **Terms of Service,** which governs your use of the Service, and which is accessible at [**https://www.upwork.com/legal/terms/**](https://www.upwork.com/legal/terms/).
