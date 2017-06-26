@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trovit.com.pk privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203185443id_/http%3A//about.trovit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovit.com.pk privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626161057id_/https%3A//corporate.trovit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | About Trovit
-
-###### Legal
+# Privacy policy - Trovit Corporate
 
 This Privacy Policy was originally published in Spanish and translated to other languages for informative reasons and to facilitate its consultation. In case of a discrepancy between this version and the [spanish version](http://corporate.trovit.com/politica-de-privacidad/) of this Privacy Policy, the Spanish version shall prevail and shall be used to the effects of interpretation and/or application.
 
@@ -10,19 +8,19 @@ This Privacy Policy is applicable to all the services offered via www.trovit.es 
 
 We inform you that the data that you provide us when you access to and use each of the services offered through the Web Site will be added to a file which is duly registered at the General Registry of the Spanish Data Protection Agency under the responsibility of Trovit, and will be processed with the purposes described below:
 
-  * **myTrovit**
+* **myTrovit**
 
 Trovit will process your data with the purpose of registering you in the service, allowing you to create a Trovit profile. In order to register with this service, you must provide an e-mail address that will be linked with your registration account.
 
 In order to be able to access to the other services offered through the Portal (alert service and MyCVs), you must previously have been registered in MyTrovit.
 
-  * **Alert Service**
+* **Alert Service**
 
 Trovit will process your data for the purpose of sending you commercial information based on the personalised alerts that you have previously created. Thus, whenever Trovit finds a new advertisement which might be of your interest, you will receive a notification by e-mail.
 
 Unless otherwise indicated in the check box enabled during the registration process, you give your express consent for the processing of your data by Trovit with the purpose of sending you commercial information (including electronic newsletter) on the services eventually offered by Trovit via postal mail, e-mail, SMS or any other equivalent means of electronic communication.
 
-  * **MyCVs Service**
+* **MyCVs Service**
 
 Trovit will process your data with the following purposes:
 
@@ -43,6 +41,3 @@ At any moment, you may exercise your access, cancellation, rectification or obje
 Trovit will process your data at all times in an absolutely confidential manner and in accordance with the required duty of secrecy with regard to them, in accordance with the provisions of the applicable regulations, adopting for the purpose the measures of a technical and organisational nature that are necessary to guarantee the security of your data and prevent their alteration, loss, treatment or unauthorised access taking into account the state of technology, the nature of the data stored and the risks to which they are exposed.
 
 Finally, we inform you that Trovit’s services are designed to be used by persons of over fourteen years of age. If you have not yet reached your fourteenth birthday, you cannot use these services or give Trovit any personal data. If you are aged between fourteen and eighteen, you state that you have looked through these terms and conditions with a parent or legal guardian and you state that both you and your parent or legal guardian understand the present privacy policy, as well as Trovit’s [General Conditions](http://corporate.trovit.com/terms-conditions/). If you are a parent or legal guardian and you permit a minor to use Trovit’s services, you undertake to: supervise the use made by the minor of Trovit’s services; (ii) accept all the risks associated with the use that the minor makes of the contents or other information received from the services, including the transfer of materials, contents or other information to and from third parties over the internet; (iii) accept the responsibility resulting from the use by the minor of Trovit’s services; and (iv) ensure that all the information sent by the minor is accurate, up to date and true. 
-
-
-
