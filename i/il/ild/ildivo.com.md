@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ildivo.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313213911id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ildivo.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626205628id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sony Music
 
@@ -78,7 +78,7 @@ We also automatically collect information about your computer as you browse our 
 
 **Social Networks/Online Communities**
 
-We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](http://hub.sonymusic.com/about/feedback.php). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](https://web.archive.org/feedback/). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
 **Transactions**
 
@@ -131,7 +131,7 @@ Our Sites may offer different methods for updating your personal information. To
 
 To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
 
-If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](http://hub.sonymusic.com/about/feedback.php).
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](https://web.archive.org/feedback/).
 
 **Consent to Processing**
 
@@ -143,7 +143,7 @@ Widgets – Our Site(s) may include interactive mini-programs that provide speci
 
 Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) immediately and this information will be removed.
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](https://web.archive.org/feedback/) immediately and this information will be removed.
 
 For more information on how to protect your children online:
 
@@ -155,16 +155,16 @@ By using our Site(s), you agree to the terms of this Privacy Policy.  We may am
 
 **Your California Privacy Rights**
 
-If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](http://hub.sonymusic.com/about/feedback.php). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](https://web.archive.org/feedback/). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
 
 **Questions About This Privacy Policy**
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
 
-Sony Music Entertainment 550 Madison Avenue, Room 2316
+Sony Music Entertainment 25 Madison Avenue, Room 22.401
 
-New York, NY 10022
+New York, NY 10010
 
-Or you can [click here](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) to submit feedback online.
+Or you can [click here](https://web.archive.org/feedback/) to submit feedback online.
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. 
