@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmybrain.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010123id_/http%3A//blogmybrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmybrain.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626172617id_/http%3A//blogmybrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blog My Brain
 
