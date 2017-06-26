@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vlive.tv privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618104148id_/http%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlive.tv privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626171218id_/http%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.*
 
 # V LIVE - Privacy
 
@@ -11,7 +11,7 @@ information etc may be automatically generated and collected.
 ### Personal information collection methods
 
 The company collects personal information to provide services in the following methods.  
-• Directly collect from the user during the course of subscription and use of V services  
+• Directly collect from the user during the course of subscription and use of V LIVE services  
 • Provided from the affiliated partners  
 • Collect through the created information-gathering tools 
 
@@ -41,7 +41,8 @@ The company has consigned the personal information for the service supply as bel
 Trustee company and consigned details  
 (1) Customer Service: inComms  
 (2) Infrastructure operation for service supply and prevention of illegal use of services: NAVER Business Platform Corp.  
-(3) Payment processing for using the paid service : PayPal (PayPal)  
+(3) National data backup storage for the protection of user data from disasters and catastrophes, etc.: NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD)  
+(4) Payment processing for using the paid service : PayPal (PayPal)  
 • Period of retention and use of personal information: Until withdrawing from the membership or the termination of consignment contract 
 
 ### Rights of users and their legal representatives, and how to exercise the rights
@@ -88,6 +89,6 @@ With regard to the collection of personal information by other business operator
 If there is any addition, deletion or modification to the current contents of privacy policy, it will be notified through the “Bulletin board” from 7 days ahead of the revision. However, if there is a significant modification to the user’s rights such as collecting and use, and the supply of personal information to a  
 third party etc, it will be notified at least 30 days before its effectiveness. 
 
-Privacy Policy announced on May 19th, 2016
+Privacy Policy announced on September 16, 2016
 
-Privacy Policy enforced on May 26, 2016.
+Privacy Policy enforced on September 30, 2016
