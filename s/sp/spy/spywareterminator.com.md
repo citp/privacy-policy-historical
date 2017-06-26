@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219174632id_/http%3A//www.spywareterminator.com/Legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626211501id_/http%3A//www.spywareterminator.com/Legal/privacy.aspx) for the most accurate reproduction.*
 
 # Spyware Terminator 2015
 
@@ -38,7 +38,7 @@ If you specifically allow us to access your social network user data such as you
 
 **_Cookies_**. "Cookies" are small files that collect information that we use to track trends and patterns of how people search. We may send one or more cookies to your computer that uniquely identifies your user account or computer. We use cookies for such functions as verifying that you are one of our users, maintaining a history of services provided and enabling the fulfillment of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, many of our Services or features may not function properly if your receipt of cookies is disabled.
 
-**_Use of Remarketing with Google Analytics™._** We send and use cookies to enable basic web traffic analysis using Google Analytics™ to capture information about page visits (showing us which areas of the website are popular and those that are not often visited, this allows us to prioritize our enhancements to our website). This information is anonymous and we use this information only internally - to deliver the most effective content to our visitors. We use analytics data to serve ads based on a user's prior visits to our websites. Website visitors may opt out of the Google Analytics™ cookie by visiting the [Google® advertising opt-out page](http://www.google.com/policies/technologies/ads/) or they may opt out of Google Analytics™ by visiting the [Google Analytics™ opt-out page](http://tools.google.com/dlpage/gaoptout). Google® has additional information available about their [Remarketing Privacy Guidelines](https://support.google.com/adwordspolicy/answer/143465?hl=en), [Policies](https://support.google.com/adwordspolicy/answer/143465?hl=en), and [Restrictions](https://support.google.com/adwords/answer/2549116?hl=en).
+**_Use of Remarketing with Google Analytics™._** We send and use cookies to enable basic web traffic analysis using Google Analytics™ to capture information about page visits (showing us which areas of the website are popular and those that are not often visited, this allows us to prioritize our enhancements to our website). This information is anonymous and we use this information only internally - to deliver the most effective content to our visitors. We use analytics data to serve ads based on a user's prior visits to our websites. Website visitors may opt out of the Google Analytics™ cookie by visiting the [Google® advertising opt-out page](https://www.google.com/policies/technologies/ads/) or they may opt out of Google Analytics™ by visiting the [Google Analytics™ opt-out page](https://tools.google.com/dlpage/gaoptout). Google® has additional information available about their [Remarketing Privacy Guidelines](https://support.google.com/adwordspolicy/answer/143465?hl=en), [Policies](https://support.google.com/adwordspolicy/answer/143465?hl=en), and [Restrictions](https://support.google.com/adwords/answer/2549116?hl=en).
 
 **_Geo-Location Information_**. Some devices, mobile or otherwise, allow applications to access real-time location-based information (for example, GPS). Our mobile apps do not collect such information from your mobile device at any time while you download or use our mobile apps as of the date this policy went into effect, but may do so in the future with your consent to improve our Services. Some photos and videos you place in or on our Services may contain recorded location information. We may use this information to optimize your experience. If you do not wish to share files embedded with your geo-location information with us, please do not upload them. If you don't want to store location data in your photos or videos, please consult the documentation for your camera, phone or other device to turn off that feature.
 
@@ -63,7 +63,7 @@ If you specifically allow us to access your social network user data such as you
 
 
 
-If you would like more information and to know your choices about this practice, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
+If you would like more information and to know your choices about this practice, please visit: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **Third-Party Applications.** We may share your information with a third party application with your request or consent, for example when you choose to access our Services through such an application, for example through a mobile device application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you prior to accessing our Services using any third party applications.
 
@@ -93,4 +93,4 @@ If we propose to use personal information for any purposes other than those desc
 
 This Privacy Policy may change from time to time. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
-**Last Updated:** July 17, 2014
+**Last Updated:** January 26, 2017
