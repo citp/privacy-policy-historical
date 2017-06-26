@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000510id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626063856id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-By: Live Law | May 29, 2013 
-
-[](whatsapp://send?text=http://www.livelaw.in/privacy-statement/)
 
 **_Live Law_** is committed to protect the privacy of all its users. In terms of our Privacy Statement:
 
