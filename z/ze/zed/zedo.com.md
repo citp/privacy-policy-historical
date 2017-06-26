@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045652id_/https%3A//www.zedo.com/about-zedo/privacy-policy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626165149id_/https%3A//www.zedo.com/about-zedo/privacy-policy-highlights) for the most accurate reproduction.*
 
 # Privacy Policy Highlights - ZEDO, Inc.
 
 ## ZEDO, Inc. Privacy Policy Highlights
+
+_Updated April  2016 ([See archived privacy policy](https://www.zedo.com/about-zedo/privacy-policy-may2012/))_
 
 Your privacy is important to us. This privacy statement explains what personal data we collect from you and how we use it. We encourage you to read the summaries below. For detailed information, please read the [complete Privacy Policy](http://www.zedo.com/about-zedo/privacy-policy-apr2016/).
 
