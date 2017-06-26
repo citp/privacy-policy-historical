@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202183006id_/http%3A//www.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626210409id_/http%3A//www.webjam.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Webjam - privacypolicy
 
 Webjam Privacy Policy  
 Updated April 22, 2009
