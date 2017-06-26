@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224032651id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627012624id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SarahStaar.com
 
@@ -29,4 +29,4 @@ The content of this statement may be altered at any time.
 Have a question? Just contact me at sarah@sarahstaar.com[  
 ](mailto:your@email.here)
 
-Technorati Tags: [Security](http://technorati.com/tag/Security)
+Technorati Tags: [Contact Me](http://technorati.com/tag/Contact+Me), [Privacy Policy](http://technorati.com/tag/Privacy+Policy), [Security](http://technorati.com/tag/Security)
