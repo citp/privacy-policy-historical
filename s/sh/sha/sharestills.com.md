@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharestills.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180231id_/http%3A//sharestills.com/common/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharestills.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626052856id_/http%3A//sharestills.com/common/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Sharestills
+# Privacy Policy
 
 This Privacy Statement discloses the way in which sharestills.com collects, uses, maintains and discloses information collected from users. This privacy policy applies to the sharestills.com website ("Site") and all products and services offered by the Site.
 
