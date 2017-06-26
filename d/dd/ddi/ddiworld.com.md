@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124050314id_/http%3A//www.ddiworld.com/privacy/en-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626114556id_/http%3A//www.ddiworld.com/privacy/en-us) for the most accurate reproduction.*
 
 # Development Dimensions International's Privacy Statement in English | DDI
 
-This Privacy Statement is effective as of March 31, 2015.  
-[(Click here to download a PDF version of this policy.)](https://web.archive.org/ddi/media/privacy-statements/ddi-comprehensive-privacy-statement-eusafeharbor-en.pdf "Development Dimensions International's Privacy Statement")
+This Privacy Statement is effective as of January 12, 2017.  
+[(Click here to download a PDF version of this policy.)](https://web.archive.org/DDI/media/privacy-statements/ddi-comprehensive-privacy-statement-en.pdf "Development Dimensions International's Privacy Statement")
 
-Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function. This privacy statement applies to the collection and use of information of the websites and platforms listed below in Appendix A.
+Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support corporate Human Resources departments. This privacy statement applies to the collection and use of information of the websites and platforms listed below in Appendix A.
 
-DDI has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com). If you have unresolved privacy or data use concerns that we have not addressed satisfactorily, please [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request), the TRUSTe certification applies to the websites and platforms listed below in Appendix A. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged DDI.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged DDI.
 
-DDI complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DDI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DDI’s certification, please visit <http://www.export.gov/safeharbor/>.
+DDI participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  DDI is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+
+DDI is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  DDI complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, DDI is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, DDI may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 This Privacy Statement addresses the following privacy issues:
 
@@ -68,7 +74,7 @@ Information collected is never sold to third parties nor shared without prior co
 
 For sites where you have a user account, you are solely responsible for maintaining the confidentiality of your user name and password. If you believe that confidentiality has been compromised, contact [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com).
 
-DDI collects information under the direct of its Clients, and has no direct relationship with the individual whose personal data it processes. 
+DDI collects information under the direct of its Clients, and has no direct relationship with the individual whose personal data it processes.
 
 ###  Information Use
 
@@ -90,7 +96,7 @@ We communicate with users on a regular basis to provide requested services and i
 
 ###  Sharing
 
-Though we make industry standard and reasonable effort to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Sites, to protect your rights, protect your safety or the safety of others and investigate fraud.  We do not share personal information with Third Parties except as otherwise noted in this Statement.
+Though we use industry standard and reasonable effort to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Sites, to protect your rights, protect your safety or the safety of others and investigate fraud.  We do not share personal information with Third Parties except as otherwise noted in this Statement.
 
 ###  Third Party Intermediaries and Service Providers
 
@@ -112,7 +118,7 @@ This Privacy Statement applies solely to information collected by the Sites.
 
 ###  Social Media Features
 
-Our Web site includes Social Media Features, such as the Facebook and Linkedin button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Site includes Social Media Features, such as the Facebook and Linkedin button. These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ###  Security
 
@@ -176,7 +182,7 @@ This section constitutes a binding legal agreement governing the use of DDI Disc
 
 ###  Email a Colleague
 
-If you choose to use our referral service to tell a colleague about our Sites, we will ask you for your colleague’s name and email address.  We will automatically send your colleague a one-time email inviting him or her to visit the site.  DDI stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to tell a colleague about our Sites or invite them to use our services, we will ask you for your colleague’s name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site.  DDI stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 Your colleague can contact us at [webmaster@ddiworld.com](mailto:webmaster@ddiworld.com) to request that we remove this information from our database.
 
@@ -208,13 +214,13 @@ We are not responsible for the personally identifiable information you choose to
 
 ###  Customer Testimonials
 
-We post customer testimonials on our web site, which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your personal information removed from this section of our site, please contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com).
+We post customer testimonials on our Site, which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your personal information removed from this section of our site, please contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com).
 
 ###  Information Use
 
-Site visitors provide all personal information on a voluntary basis through visible means of data entry or collection.  Any personal information, such as your email and/or postal addresses, telephone numbers and other data, becomes available to DDI only when voluntarily submitted by you.  Once DDI receives such information, it is sent to the particular office at DDI that is equipped to respond to your request or comment. We do not rent, sell, or exchange information about you to third parties, except as otherwise noted in this privacy statement.
+Site visitors provide all personal information on a voluntary basis through visible means of data entry or collection. Any personal information, such as your email and/or postal addresses, telephone numbers and other data, becomes available to DDI only when voluntarily submitted by you. Once DDI receives such information, it is sent to the particular office at DDI that is equipped to respond to your request or comment. We do not rent, sell, or exchange information about you to third parties, except as otherwise noted in this privacy statement.
 
-DDI may also use such information to provide advance notice of events and new products and services.  DDI does not share any personally identifiable information with any other individual or organization for any purpose, except as otherwise noted in this privacy statement.  DDI uses the collected information to improve the content of our Web Site, to enhance existing products and services, and to communicate with you more effectively. However, despite all best efforts, Internet and email communications are never 100% confidential, and it is possible that information transmitted to us may be read or obtained by other parties. We do not release any of your information for any purpose other than its intended use.
+DDI may also use such information to provide advance notice of events and new products and services. DDI does not share any personally identifiable information with any other individual or organization for any purpose, except as otherwise noted in this privacy statement. DDI uses the collected information to improve the content of our Web Site, to enhance existing products and services, and to communicate with you more effectively. However, despite all best efforts, Internet and email communications are never 100% confidential, and it is possible that information transmitted to us may be read or obtained by other parties. We do not release any of your information for any purpose other than its intended use.
 
 ###  Online Customer Service Chat Cookies
 
@@ -226,15 +232,13 @@ Our third party business service provider uses cookies to link visits to our sit
 
 Some of our third party business service providers (e.g., aggregate traffic analytic services such as Google Analytics, search engines and live help chat) use cookies on our site. We have no access to or control over these cookies.
 
-Our third party business service provider does not associate a user's search activity with his/her ad click history. The information collected is only in aggregate form and is not tied to any personal information.  Users who don't want to participate in tracking activities can not accept this cookie by setting their Internet browser user preferences.  These users will simply not be included in our conversion tracking statistics.
-
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+Our third party business service provider does not associate a user's search activity with his/her ad click history. The information collected is only in aggregate form and is not tied to any personal information.  Users who don't want to participate in tracking activities can not accept this cookie by setting their Internet browser user preferences. These users will simply not be included in our conversion tracking statistics.
 
 This Privacy Statement covers the use of cookies by the Sites and does not cover the use of cookies by any third parties.
 
 ###  Tracking Technologies
 
-Technologies such as cookies, beacons, tags, and scripts are used by DDI and our marketing partners on some of our sites. These technologies are used in analyzing trends, storing user name and password so that you do not have to enter it each time you visit the site, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies or similar technologies are used by DDI and our marketing partners on some of our sites. These technologies are used in analyzing trends, storing user name and password so that you do not have to enter it each time you visit the site, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 ###  Local Storage – HTML 5/Flash Cookies
 
@@ -242,7 +246,7 @@ Third parties with whom we partner to provide certain features on our site or to
 
 ###  Advertising
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ###  Log Files
 
@@ -280,5 +284,6 @@ List of web sites covered by this Privacy Policy
   6. <http://talentportal.ddiworld.com/psg> \- DDI TALENT PORTAL
   7. [http://tsaccess.ddiworld.com](http://tsaccess.ddiworld.com/) \- TS: ACCESS®
   8. <https://www.ddiworld.com/myddi> – MYDDI
+  9. [assessingtalent.ddi.com](http://assessingtalent.ddi.com/) \- ASSESSING TALENT
 
 
