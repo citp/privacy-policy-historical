@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227234207id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626051506id_/https%3A//www.prsformusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-  
-
 
 _PRS for Music_ Limited takes your privacy very seriously. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed.  By visiting [www.prsformusic.com](http://www.prsformusic.com/) you accept and consent to the practices outlined in this policy.
 
 For the purposes of the Data Protection Act 1998, the data controller is PRS for Music Limited of 2 Pancras Square London N1C 4AG. 
-
-## Information we may collect from you
 
 We may collect and process the following information about you:
 
@@ -52,11 +47,11 @@ We may also share your information with selected third parties including:
 
 ## Use of cookies
 
-Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website.  For more details on the cookies we use and the purposes for which we use them, see our [Cookie policy](https://web.archive.org/Pages/Cookiepolicy.aspx). 
+Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website.  For more details on the cookies we use and the purposes for which we use them, see our [Cookie policy](https://web.archive.org/cookies). 
 
 ## Registered users
 
-Certain sections of this website are only open to registered users and give those registered users the ability to review and modify personal information previously provided to us. We ask that you do not share user names, passwords or any other secure access information with anyone – you are responsible for keeping this information confidential and secure. You must [notify us](https://web.archive.org/aboutus/contact_us) in the event that such information is revealed to, or accessed by, anyone else or where you become aware of a breach of confidentiality or any unauthorised use of this website. 
+Certain sections of this website are only open to registered users and give those registered users the ability to review and modify personal information previously provided to us. We ask that you do not share user names, passwords or any other secure access information with anyone – you are responsible for keeping this information confidential and secure. You must notify us in the event that such information is revealed to, or accessed by, anyone else or where you become aware of a breach of confidentiality or any unauthorised use of this website. 
 
 ## Direct marketing
 
@@ -67,7 +62,7 @@ Where you have registered with us and provided your consent, we will use the inf
 
 
 
-You can opt out of this at any time by [contacting us here](https://web.archive.org/aboutus/contact_us/Pages/contactus.aspx).
+You can opt out of this at any time by contacting us.
 
 ## Other websites
 
@@ -87,7 +82,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Changes to this privacy policy
 
-Any changes we make to our privacy policy will be posted on this page.  Please check to see if any updates or changes have been made. This policy was last reviewed on 14 August 2014.
+Any changes we make to our privacy policy will be posted on this page.  Please check to see if any updates or changes have been made. This policy was last reviewed on 22 March 2017.
 
 ## Contact us
 
@@ -95,6 +90,6 @@ Please send any questions on this privacy policy to the following address:
 
 Data Protection Officer  
 Legal Department  
- _PRS for Music Ltd_   
+_PRS for Music Ltd_   
 2 Pancras Square  
 London N1C 4AG
