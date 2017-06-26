@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mkels.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229062426id_/http%3A//www.mkels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkels.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626202529id_/http%3A//www.mkels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MKELS.COM
-
-__January 6, 2013 [Privacy Policy](http://www.mkels.com/privacy)2013-01-06T16:11:10+00:00 __
 
 **The privacy of our visitors to MKELS.COM is important to us.**
 
@@ -30,9 +28,4 @@ We use outside advertising companies to display ads on this blog. These ads may 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-<http://www.mkels.com/privacy>2013-01-06T16:11:10+00:00Micheal
-
-The privacy of our visitors to MKELS.COM is important to us. We recognize that privacy of your personal information is important. Here are the information on what types of personal information we receive and collect when you visit MKELS.COM, and how we safeguard your information. We never sell your personal...
-
-Micheal[https://plus.google.com/111592124660217710786](https://plus.google.com/111592124660217710786?rel=author)Micheal Kelsingermkelsinger@gmail.comAdministratorOwner and creator of mkels.com. He lives in Boston and love to work on Website Designs, Logo Designs, Graphic Designs and Icon Designs.MKELS.COM
-  *[January 6, 2013]: 2013-01-06T16:11:10+00:00
+<http://www.mkels.com/privacy>2013-01-06T16:11:10+00:00Micheal The privacy of our visitors to MKELS.COM is important to us. We recognize that privacy of your personal information is important. Here are the information on what types of personal information we receive and collect when you visit MKELS.COM, and how we safeguard your information. We never sell your personal... Micheal[https://plus.google.com/111592124660217710786](https://plus.google.com/111592124660217710786?rel=author)Micheal Kelsingermkelsinger@gmail.comAdministratorOwner and creator of mkels.com. He lives in Boston and love to work on Website Designs, Logo Designs, Graphic Designs and Icon Designs.MKELS.COM
