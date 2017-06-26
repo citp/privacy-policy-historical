@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202203343id_/http%3A//ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626054432id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy at ¤ Only Free at Only Free
+# Privacy Policy at ¤ Only Free at ¤ Only Free
 
 Ofree.net has created this privacy policy to demonstrate our business in the highest ethical standards and to uphold our promise to the public. However, our policy might change periodically, due to the changes within the environment.
 
