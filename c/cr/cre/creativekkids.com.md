@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the creativekkids.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202112033id_/http%3A//creativekkids.com/adsense-privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativekkids.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626024055id_/http%3A//creativekkids.com/adsense-privacy-policy-2) for the most accurate reproduction.*
 
 # Adsense Privacy Policy - Creative K Kids
+
+###### This post may contain affiliate links. If you purchase those items through my links I will earn a commission. You will not pay more when buying a product through my link.
 
 ### If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at creativekkids@creativekkids.com.
 
