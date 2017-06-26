@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221105210id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626231720id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
   * #### Announcements
 
-Odisha State is fast emerging as the manufacturing hub of the East in India through its industry friendly environment and policy framework. 
-
 [More News](https://web.archive.org/news/index/8)
-
-  * #### Consulate News
-
-[More News](https://web.archive.org/news/index/2)
 
   * #### India News
 
-The Ministry of Tourism has introduced a 24x7 Toll Free Multi-Lingual Tourist Help Line to facilitate visits of foreign tourist visiting India.
+Latest information on eVisa facility
 
 [More News](https://web.archive.org/news/index/1)
 
+  * #### Consulate News
+
+Consular camp at Shenzhen to be held on last Saturday of every month
+
+[More News](https://web.archive.org/news/index/2)
+
   * #### Events organised by Consulate General of India, Guangzhou
 
-The Consulate General of India in Guangzhou is organzing a painting exhibition of Modern India titled “Modern India: Color, Pattern and Life” from 21st to 26th November, 2016. 
+On the occasion of the 68th Republic Day of India, the Consulate General of India in Guangzhou will be organizing a flag-hoisting ceremony on Thursday, 26th January, 2017 at 0900 hrs. at the residence of the Consul General.
 
 [More News](https://web.archive.org/news/index/7)
 
