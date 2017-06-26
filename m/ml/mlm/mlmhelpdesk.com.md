@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027024128id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626082212id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | MLM News Desk
 
@@ -23,14 +23,14 @@ We automatically collect and/or track the following:
 
 **Section 2 – Use of Data Collected**
 
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and [services](http://mlmhelpdesk.com/social-marketing-resources/ "services"), upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry. 
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry. 
 
 **Section 3 – Disclosure of Data to Third Parties**
 
 If you choose to provide personal information, it will be used for the following purposes:  
 1\. considering you for a MLMHelpDesk.com product;  
 2\. as required by law; and  
-3\. for marketing products and [services](http://mlmhelpdesk.com/social-marketing-resources/ "services") which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and [services](http://mlmhelpdesk.com/social-marketing-resources/ "services") which we determine, in our sole judgment, that you might find of interest.
+3\. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
 **Section 4 – Your Opt-Out Rights**
 
@@ -38,11 +38,11 @@ You may opt-out of receiving communications from us and/or our partners by not s
 
 **Section 5 – We Do Not Intend to Collect Data from Children**
 
-The information and [services](http://mlmhelpdesk.com/social-marketing-resources/ "services") provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside MLMHelpDesk.com. No part of MLMHelpDesk.com’s web site is structured to attract anyone under the age of 18. 
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside MLMHelpDesk.com. No part of MLMHelpDesk.com’s web site is structured to attract anyone under the age of 18. 
 
 **Section 6 – Our Right to Contact You**
 
-We reserve the right to contact you regarding your [account](http://mlmhelpdesk.com/account/ "account") status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you. 
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you. 
 
 **Section 7 – Our Right to Change**
 
@@ -50,7 +50,7 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 **Section 8 – Our Contact Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](http://mlmhelpdesk.com/contact-us/ "contact us") via email sent to: MarketingATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .) 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: MarketingATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .) 
 
 **Section 9 – Anti Spam Policy. Can-Spam Act Compliance**
 
@@ -59,8 +59,8 @@ MLMHelpDesk.com is dedicated to ensuring compliance with the ‘Can-Spam Act’,
 2\. Requests for additional information to support your current application  
 3\. Response to your inquiries regarding the status of your transactional requests  
 4\. Thanking you for your valued business  
-5\. Advertisements for our products, [services](http://mlmhelpdesk.com/social-marketing-resources/ "services"), changes in [services](http://mlmhelpdesk.com/social-marketing-resources/ "services"), new product availability  
-6\. Advertisements for third party products and [services](http://mlmhelpdesk.com/social-marketing-resources/ "services") where we have determined that such product or service may be of interest to our customers
+5\. Advertisements for our products, services, changes in services, new product availability  
+6\. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
 
 To ensure compliance with the Can-Spam Act, MLMHelpDesk.com has implemented the following guidelines for email delivery:  
 1\. All emails sent to you by MLMHelpDesk.com will clearly identify MLMHelpDesk.com as the sender. FROM / SENDER: someone@MLMHelpDesk.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MLMHelpDesk.com.  
@@ -83,4 +83,4 @@ From time to time, MLMHelpDesk.com will enter into an arrangement with a third p
 1\. that the data was collected voluntarily from individuals on website registrations and co-registrations,  
 2\. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and  
 3\. that MLMHelpDesk.com has the right to send marketing offers to the individuals.  
-We hope this information satisfies any questions or concerns you may have regarding the email practices of TheNetworkMarketingAdvocates.com. If you have additional questions or wish to discuss this matter further, please [contact us](http://mlmhelpdesk.com/contact-us/ "contact us") at: supportATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of TheNetworkMarketingAdvocates.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .)
