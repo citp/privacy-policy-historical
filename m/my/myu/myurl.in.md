@@ -1,65 +1,66 @@
-> *The following text is extracted and transformed from the myurl.in privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107094347id_/http%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myurl.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626021107id_/http%3A//myurl.in/support/privacy.php) for the most accurate reproduction.*
 
-# Hostwinds Privacy Policy
+# Privacy Policy - MyURL.in Web Solutions
 
-### PROMISE
+At MyURL.in we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-HOSTWINDS.COM is committed to maintaining your trust and confidence. The following online privacy policy is intended to protect and secure the personally identifiable information (any information by which you can be identified) you provide to us online.
+#### Collection of Information
 
-In addition, HOSTWINDS.COM will not send you e-mail that you have not agreed to receive. We may periodically send you e-mail announcing news and event information. If you choose to supply your postal address in an online form, you may receive mailings from us as well.
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-### NO SHARING POLICY
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-HOSTWINDS.COM will never sell, rent, lease or exchange your personal information with other organizations. HOSTWINDS.COM assures you that the identity of all who contact us through this Web site will be kept confidential.
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-### SECURITY
+#### Use of Information
 
-HOSTWINDS.COM is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-HOSTWINDS.COM uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted HOSTWINDS.COM employees who have been specially trained in processing this information.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the MyURL.in Customer Master Agreement
 
-### COOKIES
 
-From time to time, we may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard drive or read cookie files created by other sites. 
 
-Cookies do not damage your system. We use cookies to recognize you when you return to our sites, or to identify which areas of our network of Web sites you have visited (i.e. e-commerce sites, etc.). We may use this information to better personalize the content you see on our sites. 
+#### No-Spam Policy
 
-Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-### CHILDREN'S ONLINE PRIVACY
+#### Choices for Personal Information
 
-We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under 13. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected.
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-To read more about online safety and how to become more involved with your child's online experience, visit the Federal Trade Commission Web site. You may also benefit from the information and resources available on ProtectKids.com.
+#### Information Sharing
 
-### BILLING POLICY
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-We accept Visa, MasterCard, Discover, and American Express. All online orders are processed through 128 bit SSL encryption to protect your credit card information during your online transaction. All prices and figures are listed in US Dollars.
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the MyURL.in Customer Master Agreement
 
-### RETURN POLICY
 
-See our Guarantees page for our return guarantees.
 
-### ACCOUNT POLICY
+#### Information Security
 
-HOSTWINDS.COM reserves the right to de-activate or remove any user accounts provided at www.hostwinds.com without notice if user has provided wrong information, has violated common Internet policies or if the account has been inactive for more than 60 days.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-### DOWNLOAD LICENSE
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Downloads are solely for personal, noncommercial use. Copies of download can only be stored on computers or devices owned by the person or entity that purchased the download. Additional licenses of downloads can be purchases from www.hostwinds.com.
+#### Accessing and Updating Personal Information
 
-### CONTACTING US
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
 
-Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-918-960-0191 during office hours (9am - 5pm CST). 
+#### Changes to this Privacy Policy
 
-Our mailing address is:  
-304 Reunion Center  
-9 East 4th Street  
-Tulsa, Ok 74103  
-918-960-0191
-
-  Hostwinds received the November 2014 Editor’s Choice Award for Best VPS Hosting from FindMyHost.com! The FMH website states that “Web Hosts whom have won the FindMyHost Editors’ Choice Award[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/hostwinds-gets-editors-choice-award-for-vps-hosting/)
-
-Unknown to many of our clients, friends and some of our newest staff members, Hostwinds is in the middle of celebrating it’s FOURTH YEAR in the web hosting business. In our case[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/getting-to-know-hostwinds-our-support-staff/)
-
-  As the winter months approach and it gets colder here in our headquarter city of Tulsa, Oklahoma, Hostwinds puts their “back to the wind” and prepares to hit the streets to[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/hostwinds-gets-ready-for-ungagged-2014/)
+Please note that this Privacy Policy may change from time to time.
