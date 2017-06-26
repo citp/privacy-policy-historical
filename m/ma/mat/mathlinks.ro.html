@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mathlinks.ro privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211014611id_/http%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mathlinks.ro privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627000903id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta name="globalsign-domain-verification" content="OvIprFfRfzOBWVs2-rdM0ibo4M262alXjLl09s0y8R">
@@ -16,7 +16,7 @@
 		<title>Art of Problem Solving</title>
 
 
-		<link rel="stylesheet" href="/assets/css/main.css?__v__=1169">
+		<link rel="stylesheet" href="/assets/css/main.css?__v__=1336">
 
 
 		<script>
@@ -49,14 +49,16 @@
 							<div id="header-login" class="login-button item no-select" style="margin-right:6px;">
 								Log In / Join
 							</div>
-
 							
 							
-
-							<!-- <a href="/community/search"><div class="item aops-font search"></div></a> -->
-							<!-- <input class="item" type="search" style="height:18px;border-radius:9px;border:none;margin-top:3px;width:125px;line-height:18px;padding-left:5px;margin-right:10px;" placeholder="Search"> -->
-						</div>
-
+							
+														<div id="search-widget" class="item">
+								<div>
+									<input id="search-site" type="text" placeholder="Search AoPS" style="">
+									<span id="search-clicker" class="aops-font search"></span>
+								</div>
+							</div>
+													</div>
 					</div>
 
 
@@ -114,7 +116,7 @@
 									<div class="pointer"></div>
 									<div id="resources-dropdown" class="dropdown-menu">
 										<a href="/alcumus">Alcumus</a>
-										<a href="/polymath/mitprimes2016">MIT PRIMES/AoPS CrowdMath</a>
+										<a href="/polymath">MIT PRIMES/AoPS CrowdMath</a>
 										<a href="/videos">Videos</a>
 										<a href="/ftw">For the Win!</a>
 										<a href="/mathcounts_trainer">MATHCOUNTS Trainer</a>
@@ -518,7 +520,7 @@
 				<div class="container clearfix">
 					<div class="copy">
 						<span>
-						© 2016<br>
+						© 2017<br>
 						AoPS Incorporated
 						</span>
 					</div>
@@ -528,7 +530,7 @@
 			<div id="small-footer-wrapper">
 				<div id="small-footer-panel">
 					<span class="copyright">
-						© 2016 Art of Problem Solving
+						© 2017 Art of Problem Solving
 					</span>
 					<a href="/company/tos">Terms</a>
 					<a href="/company/privacy">Privacy</a>
@@ -603,10 +605,10 @@
 				</div>
 			</div>
 					</div>
-		<div id="print-footer" class="printer">Copyright © 2016 Art of Problem Solving</div>
+		<div id="print-footer" class="printer">Copyright © 2017 Art of Problem Solving</div>
 
 
-		<script src="/assets/vendor/common-combined.js?__v__=1169"></script>
+		<script src="/assets/vendor/common-combined.js?__v__=1336"></script>
 		<script>_.mixin(_.str.exports());</script>
 
 
@@ -618,13 +620,36 @@
 			AoPS.protected_url = 'https://artofproblemsolving.com/';
 		</script>
 
-		<script src="/assets/js/aops.js?__v__=1169"></script>
-				<script src="/assets/js/ui.js?__v__=1169"></script>
+		<script src="/assets/js/aops.js?__v__=1336"></script>
+				<script src="/assets/js/ui.js?__v__=1336"></script>
 
 				
 				
 		
 				<!-- /search:off -->
+
+<form action="/search" method="post" id="form-site-search">
+	<input id="form-site-search-field" type="hidden" name="q" value="">
+</form>
+<script>
+document.getElementById( "search-site" ).addEventListener( "keyup", function ( e ) {
+	if ( e.keyCode === 13 ) {
+		var value = this.value.trim();
+		if ( value ) {
+			document.getElementById( "form-site-search-field" ).value = value;
+			document.getElementById( "form-site-search" ).submit();
+		}
+	}
+} );
+document.getElementById( "search-clicker" ).addEventListener( "click", function ( e ) {
+	var value = document.getElementById( "search-site" ).value.trim();
+	if ( value ) {
+		document.getElementById( "form-site-search-field" ).value = value;
+		document.getElementById( "form-site-search" ).submit();
+	}
+} );
+</script>
+
 
 <!-- bing -->
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5105596"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5105596&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
