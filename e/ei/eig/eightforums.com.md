@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042045id_/http%3A//www.eightforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626063124id_/https%3A//www.eightforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Windows 8 Forums - Privacy Policy
 
