@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollytrendz.in privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205230347id_/http%3A//tollytrendz.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollytrendz.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626182312id_/http%3A//tollytrendz.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - News And All Updates
 
@@ -67,3 +67,5 @@ ap
 contact@tollytrendz.in
 
 This document was last updated on july 03, 2015
+
+For More News Follow : [Tollytrendz](http://tollytrendz.in/)
