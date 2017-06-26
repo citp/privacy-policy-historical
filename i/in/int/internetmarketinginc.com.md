@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606144246id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626122158id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Marketing Inc
 
