@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tataaia.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502030152id_/http%3A//www.tataaia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataaia.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626222144id_/http%3A//www.tataaia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Life insurance Solutions | Tata AIA Life Insurance Company, India
+# Tata AIA Life Insurance Company: Best Life Insurance Plans in India
 
 Tata AIA Life Insurance Company Limited (referred to as "TALIC") is committed to protecting the privacy of every individual who visits our website and have taken reasonable steps to protect your Personal Information and/or Sensitive Personal Data or Information.
 
@@ -40,16 +40,16 @@ In case you do not provide your information or consent for usage of personal inf
 
 The Personal Information and Sensitive personal Data or Information that we collect from you is held in accordance with applicable laws and regulations in India. It may be used by us for a number of lawful purposes connected with our business operations and functions, which include but not limited to:
 
-  1. Verification of your identity as per prevalent laws and regulation; 
-  2. Processing your request and providing you with products and/or services requested or administering your account; 
-  3. Settling accounts with those who provide related services to us; 
-  4. Dealing with requests, enquiries or complaints and other customer care related activities; and all other general administrative and business purposes; 
-  5. Carrying out market and product analysis and marketing our companies’ products and services and communicate updates, offers and promotion. 
-  6. Customer analytics on usage pattern and deliver customized content and advertising that may be of interest to you; 
-  7. Provide you with the best customer experience possible; 
-  8. Address network integrity and security issues; 
-  9. Carrying out any activity in connection with a legal, governmental or regulatory requirement , for the purpose of compliance of a legal obligation, in connection with legal proceedings, in connection with prevention, detection , investigation including cyber incidents, prosecution, and punishment of offences protect and defend our rights or property or act in an emergency to protect someone's safety or to help investigations, monitor or prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person. 
-  10. Carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer; 
+  * Verification of your identity as per prevalent laws and regulation; 
+  * Processing your request and providing you with products and/or services requested or administering your account; 
+  * Settling accounts with those who provide related services to us; 
+  * Dealing with requests, enquiries or complaints and other customer care related activities; and all other general administrative and business purposes; 
+  * Carrying out market and product analysis and marketing our companies’ products and services and communicate updates, offers and promotion. 
+  * Customer analytics on usage pattern and deliver customized content and advertising that may be of interest to you; 
+  * Provide you with the best customer experience possible; 
+  * Address network integrity and security issues; 
+  * Carrying out any activity in connection with a legal, governmental or regulatory requirement , for the purpose of compliance of a legal obligation, in connection with legal proceedings, in connection with prevention, detection , investigation including cyber incidents, prosecution, and punishment of offences protect and defend our rights or property or act in an emergency to protect someone's safety or to help investigations, monitor or prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person. 
+  * Carrying out activities connected with the running of our business such as personnel training, quality control, network monitoring, testing and maintenance of computer and other systems and in connection with the transfer of any part of our business in respect of which you are a customer or a potential customer; 
 
 
 
@@ -57,9 +57,9 @@ The Personal Information and Sensitive personal Data or Information that we coll
 
 We may disclose and/or transfer your Personal Information and/or Sensitive personal Data or Information at times to third parties in cases it is necessary for providing services to you and/or if you have consented for the same. We may disclose and/or transfer your information to:
 
-  1. Other companies that provide services directly to you on our behalf or provide services to us by collecting, receiving, processing, storing, dealing or handling your information. To enable them to do this, we may need to share your personal information and/or Sensitive personal Data or Information with them. 
-  2. anyone we transfer our business to in respect of which you are a customer or a potential customer; 
-  3. to any other entity or organization in order for them to understand our environment and consequently, provide you with better services. We may share your Personal Information including Sensitive personal Data or Information, without obtaining your prior written consent, with government agencies mandated under the law to obtain information including Sensitive Personal Data Or Information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences, or where disclosure is necessary for compliance of a legal obligation.
+  * Other companies that provide services directly to you on our behalf or provide services to us by collecting, receiving, processing, storing, dealing or handling your information. To enable them to do this, we may need to share your personal information and/or Sensitive personal Data or Information with them. 
+  * anyone we transfer our business to in respect of which you are a customer or a potential customer; 
+  * to any other entity or organization in order for them to understand our environment and consequently, provide you with better services. We may share your Personal Information including Sensitive personal Data or Information, without obtaining your prior written consent, with government agencies mandated under the law to obtain information including Sensitive Personal Data Or Information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences, or where disclosure is necessary for compliance of a legal obligation.
 
 
 
@@ -79,14 +79,14 @@ We reserve the right to update this Policy as necessary from time to time. Pleas
 
 "Personal information" means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person "Sensitive personal data or information" of a person means such personal information which consists of information relating to:-
 
-  1. password; 
-  2. financial information such as Bank account or credit card or debit card or other payment instrument details ; 
-  3. physical, physiological and mental health condition; 
-  4. sexual orientation; 
-  5. medical records and history; 
-  6. Biometric information; 
-  7. provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules. 
-  8. Third party: For the purposes of this document, a ‘Third Party’ is a service provider who associates with TALIC and is involved in handling, managing, storing, processing, protecting and transmitting information of TALIC and also includes all sub-contractors, consultants and/or representatives of the Third party. 
+  * password; 
+  * financial information such as Bank account or credit card or debit card or other payment instrument details ; 
+  * physical, physiological and mental health condition; 
+  * sexual orientation; 
+  * medical records and history; 
+  * Biometric information; 
+  * provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules. 
+  * Third party: For the purposes of this document, a ‘Third Party’ is a service provider who associates with TALIC and is involved in handling, managing, storing, processing, protecting and transmitting information of TALIC and also includes all sub-contractors, consultants and/or representatives of the Third party. 
 
 
 
