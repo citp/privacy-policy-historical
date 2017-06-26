@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybuilder.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190745id_/http%3A//skybuilder.net/discovery/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybuilder.net privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626214454id_/http%3A//skybuilder.net/discovery/privacy.txt) for the most accurate reproduction.*
 
 # 
 
