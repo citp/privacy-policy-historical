@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714041245id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626204243id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
 # Privacy policy for My.jobs
 
