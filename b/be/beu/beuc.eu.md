@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beuc.eu privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012220548id_/http%3A//www.beuc.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beuc.eu privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626195459id_/http%3A//www.beuc.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.beuc.eu
 
@@ -21,7 +21,7 @@ We also use the services of third parties to analyse the use of our website and 
 ### Cookies we use
 
   1. Session cookie: This cookie remembers the information you have been searching for on our website. It is deleted as soon as you close your browser.
-  2. Cookie banner: This cookie is used to remember your choice when you land on our website for the first time and you decide whether or not to accept our cookies. It expires after XXX and is not set again unless you change your browser’s cookie settings.
+  2. Cookie banner: This cookie is used to remember your choice when you land on our website for the first time and you decide whether or not to accept our cookies.
   3. Analytics cookie: We use PIWIK to monitor and analyse traffic on our website. PIWIK will collect usage statistics such as the number of page visits, documents downloaded etc. and provides us with aggregate numbers. Any IP addresses collected have the last octet removed and we will therefore never know your exact IP. This cookie is very important for us to evaluate the correct functioning of our website and is therefore always installed by default. Further information on how PIWIK respects your privacy can be found here.
   4. Dailymotion cookie: We use the video sharing platform Dailymotion which requires the installation of their cookie to embed videos into our website. To find out more about the privacy policy of Dailymotion please click here.
   5. Social media: Normally, social media buttons install cookies on your website. We do not use any third party social media plugins and therefore no cookies are installed. However, our website offers the possibility to share content with the most common social media platforms. Only when you decide to share a piece of content with a platform, our website will link you to that platform. Be advised that when you use such social sharing media you are bound by the terms and conditions as well as the privacy policies of each social media platform.
