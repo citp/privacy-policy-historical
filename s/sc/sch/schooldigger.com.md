@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808180621id_/https%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626230443id_/https%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # SchoolDigger.com - Privacy Policy
 
@@ -73,7 +73,14 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Third party advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 **Google**
+
+  
+
 
 We use Google AdSense Advertising on our website.
 
@@ -184,5 +191,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 contact@schooldigger.com and we will promptly remove you from **ALL** correspondence.
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact.aspx).  
+  
 
+
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact.aspx).
