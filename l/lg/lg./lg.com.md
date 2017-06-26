@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lg.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221133430id_/http%3A//www.lg.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lg.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626211622id_/http%3A//www.lg.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LG Electronics US
 
@@ -116,7 +116,7 @@ the transfer of your personally identifiable information to the United States as
 
 From time to time, we communicate with users who subscribe to our services via email or text message. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional and you have consented to receiving such e-mails by providing your email address. Where you have provided your mobile phone number to receive text message alerts, you consent to receive SMS/MMS and/or autodialed and/or pre-recorded telemarketing messages from or on behalf of us at the mobile number that you provided at sign-up. You understand that consent to receiving messages on your mobile device is not a condition of purchase.
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at christopher.welgos@lge.com or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply.
+However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at isaac1.kim@lge.com or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply.
 
 ## H. Forums, Chat Rooms and Other Public Posting Areas
 
@@ -150,7 +150,7 @@ This Agreement shall be governed by the laws of the State of New Jersey and by t
 
 ## N. Contacting LGEUS
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at [Christopher.welgos@lge.com]. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at [isaac1.kim@lge.com]. All information you provide in any written communication will also be covered by this policy.
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
