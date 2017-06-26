@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229172539id_/http%3A//www.iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626221811id_/http%3A//iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
 
-# Welcome to Indian Institute of Banking & Finance
+# IIBF Privacy Policy
 
 **Data :** The information that we gather from you is protected responsibly, keeping your privacy in mind. We do this by implementing the following measures.
 
@@ -26,3 +26,6 @@ World Trade Center,
 Mumbai - 400 005.**
 
 Any changes to this Privacy Policy will be posted accordingly. This policy was last updated on February 28, 2001. 
+
+  
+
