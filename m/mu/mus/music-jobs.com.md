@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091906id_/http%3A//uk.music-jobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626211351id_/http%3A//www.media-match.com/uk/music/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Music Jobs
 
@@ -20,7 +20,7 @@ In addition you can chose to opt in or out of other communication from us which 
 
 You may chose to whether or not you wish to receive information from third parties, the content of which will be approved by us. You may edit your choice at any time using your profile settings.
 
-This site uses cookies as described in the [Cookie Policy](http://uk.music-jobs.com/cookies.php)
+This site uses cookies as described in the [Cookie Policy](http://www.media-match.com/uk/music/cookies.php)
 
 ## Information sharing and onward transfer
 
@@ -34,4 +34,4 @@ You may change your choices at any time through your profile settings.
 
 You may cancel the service and unsubscribe at any time you like using the cancel button in your profile settings.
 
-If you have any queries or concerns you can email us at: [ uk-info@music-jobs.com](mailto:uk-info@music-jobs.com "Contact Us!").
+If you have any queries or concerns you can email us at: [ uk-music@media-match.com](mailto:uk-music@media-match.com "Contact Us!").
