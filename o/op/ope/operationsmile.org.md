@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224095645id_/http%3A//www.operationsmile.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627011735id_/http%3A//www.operationsmile.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Operation Smile
 
@@ -40,7 +40,7 @@ We respect your time and attention by controlling the frequency of our emails. H
 
 **Communications Preferences**
 
-We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange mailing addresses with select non-profit groups. We will not sell, rent or share your email address or telephone number. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in mailing address exchange activities, please call 1-888-OPSMILE (1-888-677-6453) or email [drelations@operationsmile.org](mailto:drelations@operationsmile.org). A gift made through this appeal represents a gift to the entire Operation Smile mission. To help the most children, we use your gift where it can do the most good by pooling it with the gifts of others.
+We strive for accurate, respectful and relevant communications with our donors.  We will not sell, rent or share your email address or telephone number.  We may occasionally exchange mailing addresses and other information with select non-profit groups and other third party service providers who provide or assist us and other parties with marketing or promotional services.  If you would like to correct or update your personal information, modify your mailing preferences, or do not wish to participate in mailing address exchange activities or have your information shared with our third party marketing services providers, please call 1-888-OPSMILE (1-888-677-6453) or email [drelations@operationsmile.org](mailto:drelations@operationsmile.org).
 
 ### **EXTERNAL LINKS**
 
