@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tynker.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231023530id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tynker.com privacy policy that was archived on 2017-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170626130324id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -24,7 +24,7 @@
 <meta property="twitter:image:height" content="628">
 <meta name="twitter:url" content="https://www.tynker.com/privacy">
 <meta name="twitter:creator" content="@gotynker">
-<meta property="fb:app_id" content="682472498534700">
+<meta property="fb:app_id" content="909780672492748">
  
 <meta property="og:title" content="Tynker | Coding for Kids">
 <meta property="og:type" content="website">
@@ -46,9 +46,10 @@
 <link rel="stylesheet" type="text/css" href="/ext/css/base/minified/jquery-ui.min.css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/ext/jquery.js"></script>
 <script type="text/javascript" src="/js/lib/angular/angular.min.js"></script>
+<script type="text/javascript" src="/js/lib/angular-animate/angular-animate.min.js"></script>
 <script type="text/javascript" src="/js/lib/angular-ui-router/angular-ui-router.min.js"></script>
 <script type="text/javascript" src="/js/lib/ng-infinite-scroll.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/site.css?v=40">
+<link rel="stylesheet" type="text/css" href="/css/site.css?v=164">
  
  
  
@@ -59,24 +60,24 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-34332914-1', 'auto');
-    ga('require', 'ec');
 
     // Optimizely Universal Analytics Integration Code
     // (optimizely will set dimension4 on its own)
     window.optimizely = window.optimizely || [];
     window.optimizely.push("activateUniversalAnalytics");
 
-    ga('send', 'pageview');
+    // Dimension 1: the member type custom dimension
+    ga('set', 'dimension1', 'Browser');
 
-    // Set the Member Type custom dimensions
-    ga('set', 'dimension1','Browser');
-    ga('set', 'dimension3','Student');
+    // Dimension 2: A/B test tracking, if applicable
+    
+    ga('set', 'dimension3', 'Unknown');
 
-    // Add tracking for A/B tests
-    // (outputs JS code to set the custom vars)
+        ga('require', 'ec');
+            ga('send', 'pageview');
     </script>
  
- 
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script> 
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -86,10 +87,40 @@
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="//static.hotjar.com/c/hotjar-133938.js?sv=5"></script><meta class="foundation-mq"></head>
-<body class="site-app flat-header bg-default ">
-<div class="mm-page-wrapper sticky-container" data-sticky-container="" style="height: 268px;">
-<header class="header--colorful sticky" data-sticky="cxz6jr-sticky" data-sticky-on="small" data-options="marginTop:0;" data-top-anchor="100" data-btm-anchor="sticky-btm-anchor" data-resize="203y2l-sticky" style="max-width: 1350px;">
+</script><script async="" src="//static.hotjar.com/c/hotjar-133938.js?sv=5"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><meta class="foundation-mq"></head>
+<body class="site-app flat-header bg-default"><nav id="menu-left" class="hide-for-large mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0">
+<li class="">
+<a href="/"><img src="/image/tynker-logo-white.png" style="height: 20px;"></a>
+</li>
+<li class="">
+<a href="/parents/">Parents</a>
+</li>
+<li class="">
+<a href="/school">Educators</a>
+</li>
+<li class="">
+<a href="/kids-experience">How Kids Learn</a>
+</li>
+<li class="">
+<a href="http://www.tynker.com/blog/">Blog</a>
+</li>
+<li class="">
+<a href="https://forum.tynker.com">Forum</a>
+</li>
+<li class="">
+<a href="#/sign-in">Sign In</a>
+</li>
+<li class="">
+<a href="#/join">Join for Free</a>
+</li>
+<li class="">
+<a href="/stories"><span class="icon-heart-2"></span></a>
+</li>
+<li>
+</li>
+</ul></nav>
+<div class="mm-page mm-slideout"><div class="mm-page-wrapper sticky-container" data-sticky-container="" style="height: 60px;">
+<header class="header--colorful sticky" data-sticky="zkdx2b-sticky" data-sticky-on="small" data-options="marginTop:0;" data-top-anchor="100" data-btm-anchor="sticky-btm-anchor" data-resize="f92inn-sticky" style="max-width: 1366px;">
 <div class="zf-row">
 <div class="hamburger">
 <a href="#menu-left" onclick="javascript:void(0)"></a>
@@ -99,34 +130,52 @@
 </div>
 <ul class="mini-nav">
 <li class="">
-<a href="#/join/" class="btn-round btn-round--nav green small hide-when-stuck">Join for Free</a>
+<a href="#/join" class="btn-round btn-round--nav green small hide-when-stuck">Join for Free</a>
 </li>
 </ul>
 <ul class="nav">
-<li class="  ">
-<a class="nav__item__link nav__item__link--highlighted" href="/hour-of-code/"><span class="icon-gamepad"></span> Hour of Code</a>
+<li class="nav-menu  ">
+<a class="nav__item__link nav__item__link--highlighted" href="/play/"><span class="icon-gamepad"></span> Play</a>
+<ul class="drop-down-menu">
+<li><a href="/play/">Coding Games</a></li>
+<li><a href="/minecraft/">Minecraft Modding</a></li>
+</ul>
 </li>
 <li class="nav-menu  ">
 <a class="nav__item__link " href="/parents/">Parents</a>
 <ul class="drop-down-menu">
 <li><a href="/parents/">Overview</a></li>
-<li><a href="/kids-experience">How Kids Learn</a></li>
+<li><a href="/kids-experience/">How Kids Learn</a></li>
+<li><a href="http://www.tynker.com/blog/articles/category/success-stories/featured-makers/" target="_blank">Maker Stories</a></li>
 </ul>
 </li>
 <li class="nav-menu  ">
 <a class="nav__item__link " href="/school">Educators</a>
 <ul class="drop-down-menu">
-<li><a href="/school/">Schools</a></li>
-<li><a href="/hour-of-code/">Hour of Code</a></li>
-<li><a href="/school/courses/">Curriculum</a></li>
-<li><a href="/camps/">Camp &amp; After-School</a></li>
+<li><a href="/school/">Tynker for Schools</a></li>
+<li><a href="/school/courses/">School Curriculum</a></li>
+<li><a href="/school/courses/request">Request a School Quote</a></li>
+<li><hr></li>
+<li><a href="/camps/">Start a Coding Camp</a></li>
 </ul>
 </li>
+<li class="nav-menu  ">
+<a class="nav__item__link " href="">Paths</a>
+<ul class="drop-down-menu">
+<li><a href="/learn-to-code/minecraft/">Minecraft</a></li>
+<li><a href="/everyone-can-code/">iPad</a></li>
+<li><a href="/learn-to-code/code-this-drone/">Drones</a></li>
+<li><a href="/hour-of-code/">Hour of Code</a></li>
+</ul>
+</li>
+<li class="  ">
+<a class="nav__item__link " href="/blog">Blog</a>
+</li>
 <li class="">
-<a href="#/sign-in/" onclick="ga('send', 'event', 'Header', 'Sign in')" class="nav__item__link" rel="nofollow">Sign In</a>
+<a href="#/sign-in" onclick="ga('send', 'event', 'Header', 'Sign in')" class="nav__item__link" rel="nofollow">Sign In</a>
 </li>
 <li class=" ">
-<a href="#/join/" onclick="ga('send', 'event', 'Header', 'Sign up')" class="btn-round-box green small" rel="nofollow">Join for Free</a>
+<a href="#/join" onclick="ga('send', 'event', 'Header', 'Sign up')" class="btn-round-box green small" rel="nofollow">Join for Free</a>
 </li>
 <li class="nav-menu ">
 </li>
@@ -245,8 +294,8 @@ from that site or service may be automatically imported to the Services, and suc
 </p>
 <p class="c2"><span>privacy@tynker.com</span></p>
 <p class="c2"><span>Tynker</span></p>
-<p class="c2"><span>480 San Antonio Rd, Suite 100</span></p>
-<p class="c2"><span>Mountain View, CA 94040</span></p>
+<p class="c2"><span>4410 El Camino Real, Suite 104</span></p>
+<p class="c2"><span>Los Altos, CA 94022</span></p>
 <p class="c2"><span>Phone: (six-five-zero) four-eight-eight one-four-one-one</span></p>
 <p class="c2"><span class="c4">Effective Date: October 8, 2015</span></p>
 <p class="c2 c3"><span></span></p>
@@ -279,17 +328,20 @@ from that site or service may be automatically imported to the Services, and suc
 <li><a href="/about/press/">Press</a></li>
 <li><a href="/about/career">Jobs</a></li>
 <li><a href="/mobile/">Mobile Apps</a></li>
+<li><a href="//forum.tynker.com" target="_blank">Forum</a></li>
+<li><a href="//shop.tynker.com" target="_blank">Store</a></li>
 </ul>
 </div>
 <div class="zf-column small-4">
 <h2>Parents</h2>
 <ul>
 <li><a href="/content/why-coding">Why Coding</a></li>
-<li><a href="/free-play/">Free Play</a></li>
+<li><a href="/play/">Play</a></li>
 <li><a href="/courses/">Courses</a></li>
 <li><a href="/kids-experience/">How Kids Learn</a></li>
-<li><a href="/hour-of-code/projects">Kids Gallery</a></li>
+<li><a href="/explore">Kids Gallery</a></li>
 <li><a href="/gift/">Give a Gift</a></li>
+<li><a href="/redeem/">Redeem</a></li>
 </ul>
 </div>
 <div class="zf-column small-4">
@@ -328,12 +380,12 @@ from that site or service may be automatically imported to the Services, and suc
 </div>
 <div class="zf-column small-8 medium-7 large-12">
 <h2>Parent Newsletter</h2>
-<form id="subscribe-form" class="subscribe-form" action="/forms/subscribe" method="post">
+<form id="subscribe-form" class="subscribe-form js-subscribe-form" action="/forms/subscribe" method="post">
 <input type="hidden" name="type" value="email-collector-footer">
 <input type="hidden" name="strict" value="false">
 <div class="alert-error hidden js-error"></div>
 <input type="text" required="" name="email" placeholder="Enter Your Email">
-<input class="btn-default blue" type="submit" name="subscribe" value="OK">
+<input class="button secondary" type="submit" name="subscribe" value="OK">
 </form>
 </div>
 <div class="hide-for-medium zf-column small-4">
@@ -361,7 +413,7 @@ from that site or service may be automatically imported to the Services, and suc
 <div class="footer-bottom zf-row">
 <div class="zf-column">
 <a class="kid-safe-seal show-for-medium" href="http://www.kidsafeseal.com/certifiedproducts/tynker.html" target="_blank"><img border="0" alt="Tynker.com (student login area) is certified by the kidSAFE Seal Program." src="//www.kidsafeseal.com/sealimage/12561472311528278049/tynker_small_darktm.png"></a>
-2016 Neuron Fuel
+2017 Neuron Fuel
 <a href="/terms" target="_blank">Terms &amp; Conditions</a>
 <a class="privacy-policy" href="/privacy" target="_blank">Privacy Policy</a>
 <a href="/kids-online-safety" target="_blank">Kids &amp; Online Safety</a>
@@ -370,48 +422,18 @@ from that site or service may be automatically imported to the Services, and suc
 </div>
 </div>
 </footer>
-</div>
-<nav id="menu-left" class="hide-for-large">
-<ul>
-<li class="">
-<a href="/"><img src="/image/tynker-logo-white.png" style="height: 20px;"></a>
-</li>
-<li class="">
-<a href="/parents/">Overview</a>
-</li>
-<li class="">
-<a href="/kids-experience">How Kids Learn</a>
-</li>
-<li class="">
-<a href="http://www.tynker.com/blog/">Blog</a>
-</li>
-<li class="">
-<a href="#/sign-in/">Sign In</a>
-</li>
-<li class="">
-<a href="#/join/">Join for Free</a>
-</li>
-<li class="">
-<a href="/mobile/">Mobile App</a>
-</li>
-<li class="">
-<a href="/stories"><span class="icon-heart-2"></span></a>
-</li>
-<li>
-</li>
-</ul>
-</nav>
- 
- 
-<div class="reveal reveal--video large">
+</div><div class="reveal reveal--video large">
 <iframe src="/ide/imgs/blank.png" width="100%" height="674" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 <div class="close-button" data-close="" aria-label="Close modal" type="button">
 <span aria-hidden="true">×</span>
 </div>
-</div>
+</div></div>
+
+ 
+
  
 <script type="text/javascript" src="/js/lib/foundation/foundation.min.js"></script>
-<script type="text/javascript" src="/js/app_site_combined.js?v=50"></script>
+<script type="text/javascript" src="/js/app_site_combined.js?v=175"></script>
 <script type="text/javascript" src="/ide/js/characters"></script>
 <script>
     var g_timeoutId;
@@ -498,6 +520,10 @@ from that site or service may be automatically imported to the Services, and suc
         // (redirect to the /about/newsletter page in edit mode
         $('#subscribe-form').ajaxForm({
             success: function(data) {
+                if (!data.subscription_id) {
+                    $(this).find('.js-error').text(data.error);
+                    return;
+                }
                 var subscriptionId = data.subscription_id;
                 window.location = '/about/newsletter?id=' + subscriptionId;
             }
@@ -526,7 +552,7 @@ from that site or service may be automatically imported to the Services, and suc
         // Adding .js-play-modal-video auto-applies playVideoModal plug-in, with default arguments
         $('.js-play-modal-video').playModalVideo({modalSelector: '.reveal--video'});
 
-        $('.js-play-project').playProject({facebookAppId: '682472498534700'});
+        $('.js-play-project').playProject({facebookAppId: '909780672492748'});
 
         $('.flippable.flippable--flip-on-click').click(function() {
             var $this = $(this);
@@ -559,7 +585,9 @@ from that site or service may be automatically imported to the Services, and suc
         });
 
         // We supporting popping up a foundation modal (identified by #id)
-        var landingModalId = null;
+        var requestLandingModalId = null;
+        var varLandingModalId = null;
+        var landingModalId = varLandingModalId || requestLandingModalId;
         if (landingModalId) {
             var $landingModal = $(landingModalId);
             if ($landingModal.length > 0) {
@@ -597,7 +625,7 @@ function _log(module, action, label, value) {
     }
 
     // Assemble the category dynamically
-    var category = '(student) portal - ' + module;
+    var category = '(teacher) portal - ' + module;
 
     // @TODO: Temporary, for assessing the event quota (too many events) hypothesis
     // Silencing all events with category "(student) portal - myclass"
@@ -616,11 +644,11 @@ function _log(module, action, label, value) {
 }
 </script>
  
-<script type="text/javascript" src="/js/site_combined.js?v=50"></script>
+<script type="text/javascript" src="/js/site_combined.js?v=175"></script>
  
-<script type="text/javascript" src="/js/projectplayer.js?v=50"></script>
-<script type="text/javascript" src="/js/projects.js?v=50"></script>
-<script type="text/javascript" src="/global/js/inc/_project_tile.js?v=50"></script>
+<script type="text/javascript" src="/js/projectplayer.js?v=175"></script>
+<script type="text/javascript" src="/js/projects.js?v=175"></script>
+<script type="text/javascript" src="/global/js/inc/_project_tile.js?v=175"></script>
 <script type="text/javascript">
         // Adding responsiveness to iframe videos
         $('.responsive-video').fitVids();
@@ -629,6 +657,6 @@ function _log(module, action, label, value) {
 <script type="text/javascript" src="/js/lib/jquery-waypoint/waypoints.min.js"></script>
 <script type="text/javascript" src="/js/lib/jquery-waypoint/waypoints-sticky.min.js"></script>
 <script type="text/javascript" src="/global/js/parent/index.js"></script>
+ 
 
-
-</body></html>
+<div id="mm-blocker" class="mm-slideout"></div></body></html>
