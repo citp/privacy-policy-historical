@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the fotojet.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113083037id_/https%3A//www.fotojet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotojet.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626051644id_/https%3A//www.fotojet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last Updated: September 13, 2016
-
-This Privacy Policy will govern all privacy issues that may possibly arise in relation to your access to www.fotojet.com or use of its mobile application (FotoJet, the App), resources, social media, or related services to make a collage, create a design, or edit your photos like a professional (the Services). Please review this Privacy Policy before accessing or using any feature or service being offered or made available on this website (Site and Services). If you do not want to consent or have any reservations, you must not use FotoJet or access our Site and Services.
-
-This Privacy Policy shall be deemed as part of your entire agreement with PearlMountain Limited When you download/install FotoJet, create an account on the App/website, or otherwise use our Site and Services, PearlMountain Limited shall be entitled to collect, process, retain, use, share, or disclose your personal information as mentioned in this Privacy Policy.
-
-However, this Privacy Policy will not apply to third-party websites and services that are not being owned or controlled by PearlMountain Limited. This Privacy Policy will also not apply to anything that you share on social media or public forums and platforms being made available as part of our Site and Services. PearlMountain Limited reserves a right to use your shared pictures, profile, or content for its business promotion.
 
 ### What We May Collect
 
@@ -93,7 +85,7 @@ You can use the following options to manage your privacy on our Site and Service
 
 Your privacy on our Site and Services is very important to us. We have implemented internationally accepted standards and safeguards, including the physical, electronic and procedural security measures to ensure that your personal information on FotoJet or this website is never compromised, misused, altered, deleted, or lost.
 
-We will never store your credit card information on our servers. Your payment details will be encrypted and directly passed to the third party payment processor. Please acknowledge that your use of third party services is subject to your consent to the terms and privacy policies of the respective service providers. However, we may receive some of your payment details from our payment processor. Any information that we may receive from such third parties will be handled according tothis Privacy Policy.
+We will never store your payment information on our servers. Your payment details will be encrypted and directly passed to the third party payment processor. Please acknowledge that your use of third party services is subject to your consent to the terms and privacy policies of the respective service providers. However, we may receive some of your payment details from our payment processor. Any information that we may receive from such third parties will be handled according tothis Privacy Policy.
 
 It shall be your responsibility to ensure that your device and login passwords remain confidential and you are not accessing our Site and Services from any device with compromised or vulnerable run-time environment. You should also ensure that your device does not have any non-enterprise application with permissions to access the data on your device.
 
