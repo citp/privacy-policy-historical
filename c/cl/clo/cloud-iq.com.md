@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127054157id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627001435id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
 
 # Privacy - cloud.IQ
 
-### Our Privacy Policy explains:
+###   
+Our Privacy Policy explains:
 
 cloud.IQ Limited ("We/Us/Our") is committed to protecting and respecting your privacy.
 
@@ -10,15 +11,16 @@ This Privacy Policy (together with our terms of use and any other documents refe
 
 Our nominated representative for the purpose of the Data Protection Act 1998 (the Act), is [Paul Phillips].
 
-We explain in this Policy what information We collect and why We collect it.
+We explain in this Policy:
 
+  * What information We collect and why We collect it.
   * How We use that information.
   * The choices We offer, including how to access and update information.
   * The use of cookies.
+  * Your privacy matters to Us, so please take the time to read Our Policy carefully.
 
+  
 
-
-Your privacy matters to Us, so please take the time to read Our Policy carefully.
 
 ## Information that we collect
 
@@ -28,8 +30,7 @@ Your privacy matters to Us, so please take the time to read Our Policy carefully
 
 
 
-(i) technical information, including the Internet protocol (IP) address used to connect your computer or device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
-
+(i) technical information, including the Internet protocol (IP) address used to connect your computer or device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and  
 (ii) information about your visit, including the full URL (Uniform Resource Locators) clickstream to, through and from Our website (including date and time) or that of our customer deploying any of Our products or services; products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page, and any phone number used to call any customer service number.
 
 ## How we use information that We collect
@@ -74,11 +75,9 @@ We will never share any personal information.
 
 We do not share personal information with anyone outside cloud.IQ Limited unless it is:
 
-  * With your consent; or
-  * For analysis and improvement of our services and products; or
-  * For legal reasons
-
-
+With your consent; or  
+For analysis and improvement of our services and products; or  
+For legal reasons
 
 We may share your information with selected third parties including: Business partners, suppliers and sub-contractors for the performance of any contract We enter into with them.
 
@@ -87,7 +86,7 @@ We may disclose your personal information to third parties:
   * In the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If cloud.IQ Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If We are under a duty to disclose or share your personal data in order to enforce or apply Our Terms and other agreements; or to protect the rights, property, or safety of cloud.IQ Limited our customers, or others.
-  * If We agree to share your details as part of a partnership agreement to offer content and training services. 
+  * If We agree to share your details as part of a partnership agreement to offer content and training services.
 
 
 
@@ -109,7 +108,7 @@ You can exercise your right to prevent such processing by checking certain boxes
 
 You can also exercise the right to prevent such processing at any time by contacting Us at [support@cloud-iq.com.](mailto:support@cloud-iq.com)
 
-Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. ]]
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 The Data Protection Act 1998 (“the Act”) gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet Our costs in providing you with details of the information We hold about you.
 
