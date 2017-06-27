@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225131419id_/http%3A//www.seraphine.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627035623id_/http%3A//www.seraphine.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Seraphine
 
@@ -34,6 +34,10 @@ If you are interested in placing an order with us online, but are concerned abou
   * As soon as your credit card payment has been verified, your card details are deleted from our database.
 
 
+
+**WHERE WE STORE YOUR PERSONAL INFORMATION**
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or business partners. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support and associated services. Our suppliers and business partners may also transfer, store, use and otherwise process your information outside the EEA for the purpose of fulfilling their obligations to you and to provide you with information, goods and services. By using the sites, stores, social media and submitting your information during the purchase of items or participation in competitions and other promotions, you agree to this transfer, storing or processing inside and outside the EEA as stated above. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. 
 
 **COOKIES**
 
@@ -77,6 +81,6 @@ Séraphine is committed to supporting the requirements of the Data Protection Ac
   * Personal data held by the company will only be kept for as long as is necessary for a particular purpose - the Company specifically needs to keep names and addresses of customers in order to deal with any queries, complaints or after sales service enquiries.
   * The Company will advise any customer who enquires, whether the Company holds personal data on that customer and will respond appropriately if the customer requires the data to be corrected or erased.
   * The Company has in place appropriate security measures against unauthorised access or alteration, disclosure or destruction of personal data and against accidental loss or destruction of such data.
-  * Any enquiries relating to the Company's data protection policy should be addressed in writing to the Data Compliance Officer at Séraphine, Newlands House 4th Floor, Berners Street, London. W1T 3NA, United Kingdom
+  * Any enquiries relating to the Company's data protection policy should be addressed in writing to the Data Compliance Officer at Seraphine, Suite 3.01, Grand Union Studios, 332 Ladbroke Grove London, W10 5AD United Kingdom
 
 
