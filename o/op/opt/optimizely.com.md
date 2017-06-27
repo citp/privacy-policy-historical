@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029140459id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003853id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Optimizely, Inc.
 
-Previous Privacy Policy ([available here](https://web.archive.org/privacy/2/26/2016))
+Previous Privacy Policy ([available here](https://web.archive.org/privacy/9/30/2016))
 
 This Privacy Policy applies to the Optimizely, Inc. owned and operated websites available via optimizely.com and its subdomains (“ **Sites** ”). Optimizely, Inc. (“ **Optimizely** ,” “ **we** ,” or “ **us** ”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Optimizely when you access the Sites and Optimizely Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service. The use of information collected through our Sites shall be limited to the purposes under this Privacy Policy and our [Terms of Service](https://web.archive.org/terms) (or other relevant customer contracts) to customers the (“ **Terms** ”).
 
@@ -35,6 +35,9 @@ This Privacy Policy applies to the Optimizely, Inc. owned and operated websites 
 **Cookies And Tracking Technologies:** Technologies such as: cookies, beacons, tags and scripts are used by Optimizely and our partners (such as advertising, marketing and analytics), affiliates or analytics or service providers. These technologies may be used in analyzing trends, administering the Sites, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by such companies on an individual as well as aggregated basis. Our partners may also use such technologies to deliver advertisements to you as described below. While we respect the privacy of our users, we are not able to respond to Do Not Track signals set by your browser at this time.
 
 We use cookies to remember users’ settings as well as for authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited.
+
+You may opt-out of Cookies using the preference manager: <http://preferences-mgr.truste.com/>  
+In Europe only: If you are based in Europe, you also can adjust your Cookie preferences through the Cookie Consent Manager, which can be found here.
 
 **Log File Information:** Log file information is automatically reported by your browser or mobile application each time you access our Sites or the Optimizely Service. For example, when you access our Sites or the Optimizely Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and other such information. We do not link this automatically-collected data to personally identifiable information.
 
