@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614033508id_/http%3A//www.christianpost.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210736id_/http%3A//www.christianpost.com/aboutus/privacy) for the most accurate reproduction.*
 
-# Christian news, Christian Post
+# Privacy Policy | Christian news, Christian Post
 
 ## Privacy Policy
 
@@ -46,19 +46,19 @@ The Christian Post may collect personal information from you in connection with 
 
 We use various Internet technologies to manage our Website and track use of the Website. Non-personal information that we collect using these technologies may be combined with other information about you.
 
-Device Information: We may collect non-personal information about the computer, mobile device or other device you use to access The Christian Post website, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
+**Device Information:** We may collect non-personal information about the computer, mobile device or other device you use to access The Christian Post website, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-Cookies, Beacons, Local Storage and Other Similar Technologies: We use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Website, recognize you and provide personalization, and help us understand how readers use the Website. 
+**Cookies, Beacons, Local Storage and Other Similar Technologies:** We use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Website, recognize you and provide personalization, and help us understand how readers use the Website. 
 
 The Christian Post may transmit non-personally identifiable website usage information about our visitors to a reputable third party in order to show you advertising for The Christian Post when you visit other sites. 
 
-Analytics Technologies: The Christian Post works with third parties to provide us information, reports and analysis about the usage, browsing patterns of readers of our website.
+**Analytics Technologies:** The Christian Post works with third parties to provide us information, reports and analysis about the usage, browsing patterns of readers of our website.
 
-IP Addresses: We may log your IP address. We use IP addresses for system administration and troubleshooting purposes, to customize content for specific regions, including currency display, recommendations and serving certain advertisements and to track access and use of our website.
+**IP Addresses:** We may log your IP address. We use IP addresses for system administration and troubleshooting purposes, to customize content for specific regions, including currency display, recommendations and serving certain advertisements and to track access and use of our website.
 
-Log Files and Your Reading History: We automatically log certain usage information about your use of The Christian Post website, including a reading history of the pages you view. We use this information in order to provide you with customized Recommendations on www.ChristianPost.com based on your reading history
+**Log Files and Your Reading History:** We automatically log certain usage information about your use of The Christian Post website, including a reading history of the pages you view. We use this information in order to provide you with customized Recommendations on www.ChristianPost.com based on your reading history
 
-Location Information: Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.
+**Location Information:** Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.
 
 Ads may be displayed within our mobile site and apps. The ads you see are not targeted to you based on your current GPS location, but they may be targeted to you based on your device's IP address or ZIP code.
 
@@ -79,37 +79,37 @@ Your access to our websites should not be affected if you do not accept cookies 
 
 #### Here Is How We Use Your Information
 
-Customizing Your Experience: We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the Website to provide you with an enhanced experienced based on the type of device you are using to access The Christian Post. We may use demographic and preference information to allow advertising on the Website to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
+**Customizing Your Experience:** We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the Website to provide you with an enhanced experienced based on the type of device you are using to access The Christian Post. We may use demographic and preference information to allow advertising on the Website to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
 
-Statistical Analysis: We perform statistical, demographic and marketing analyses of readers of The Christian Post, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our reader base. We use this information for analysis purposes, including analysis to improve customer relationships.
+**Statistical Analysis:** We perform statistical, demographic and marketing analyses of readers of The Christian Post, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our reader base. We use this information for analysis purposes, including analysis to improve customer relationships.
 
-Email Newsletters: We will periodically send you email newsletters or promotional email about services offered by The Christian Post and its advertisers.
+**Email Newsletters:** We will periodically send you email newsletters or promotional email about services offered by The Christian Post and its advertisers.
 
 #### Here Is With Whom We Share Your Information
 
-Within The Christian Post: We may share your information with companies that are affiliated with us.
+**Within The Christian Post:** We may share your information with companies that are affiliated with us.
 
-Third Parties: If you have used The Christian Post, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We also share information about our audience in aggregate or de-identified form. 
+**Third Parties:** If you have used The Christian Post, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We also share information about our audience in aggregate or de-identified form. 
 
-Vendors: We contract with other companies to provide services on our behalf, including credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These vendors are restricted from using this data in any way other than to provide services for The Christian Post, and they may not share, resell or use the data for their own direct marketing purposes.
+**Vendors:** We contract with other companies to provide services on our behalf, including credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These vendors are restricted from using this data in any way other than to provide services for The Christian Post, and they may not share, resell or use the data for their own direct marketing purposes.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. 
 
 #### Email Policies
 
-Account and Service-Related Email: The Christian Post reserves the right to send you email relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional emails and notifications about major changes to The Christian Post website and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.
+**Account and Service-Related Email:** The Christian Post reserves the right to send you email relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional emails and notifications about major changes to The Christian Post website and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.
 
-Email Newsletters: The Christian Post offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. 
+**Email Newsletters:** The Christian Post offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. 
 
-Promotional EBlast: The Christian Post may periodically email you messages about products and services from our advertisers. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each email.
+**Promotional EBlast:** The Christian Post may periodically email you messages about products and services from our advertisers. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each email.
 
-Survey Email: We may send you an email inviting you to participate in user surveys, asking for feedback on our website and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve The Christian Post, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
+**Survey Email:** We may send you an email inviting you to participate in user surveys, asking for feedback on our website and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve The Christian Post, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
 
-HTML Email: When you sign up to receive email from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not readers viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer. 
+**HTML Email:** When you sign up to receive email from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not readers viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer. 
 
-Emails From You: If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
+**Emails From You:** If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
 
-Email This Article Feature: ChristianPost.com readers may use this feature to email links to articles. The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.
+**Email This Article Feature:** ChristianPost.com readers may use this feature to email links to articles. The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.
 
 #### How to Access, Correct or Update Your Information
 
