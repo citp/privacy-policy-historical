@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edulands.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118214634id_/http%3A//www.edulands.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edulands.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627173549id_/http%3A//www.edulands.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - edulands.com
 
