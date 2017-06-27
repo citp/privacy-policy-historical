@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024231000id_/https%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627020639id_/https%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – ClearSlide
+# ClearSlide Privacy Policy | ClearSlide
 
 ## Introduction
 
@@ -12,21 +12,17 @@ The use of information collected through our Services shall be limited to the pu
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=1fc22ab8-47fc-4283-9df2-4ac1ecb6dd00)
 
-**EU-U.S. Privacy Shield**
+**EU-U.S. and Swiss-US Privacy Shield**
 
-ClearSlide, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  ClearSlide is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+ClearSlide, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  ClearSlide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-ClearSlide is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  ClearSlide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+ClearSlide is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  ClearSlide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ClearSlide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission **.** In certain situations, ClearSlide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ClearSlide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission **.  **In certain situations, ClearSlide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-**U.S. – Swiss Safe Harbor Framework**
-
-ClearSlide complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. ClearSlide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ClearSlide **’** s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 The Site and Services (including Content viewed thereon) may contain links to other web sites. We are not responsible for the information practices or the content of such other web sites. Please note that in the event that you submit PII to any of those sites, your information is governed by their privacy policies. We encourage you to review the privacy policies of other web sites to understand their information practices.
 
@@ -50,7 +46,7 @@ We may transfer PII to companies that help us provide our Services. Transfers to
 
 **Referral Service:**  If you choose to use ClearSlide’s referral service to tell a friend about ClearSlide’s Site or Services, ClearSlide will ask you for your friend’s name, company name, and email address. ClearSlide will automatically send your friend an email inviting him or her to visit the Site or utilize the Services. ClearSlide stores this information for the purpose of sending this one time email and tracking the success of our referral program.
 
-If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, for service fee and process of removal, please contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com).
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, for service fee and process of removal, please contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com).
 
 Information We Automatically Collect and How We Use It
 
@@ -94,7 +90,7 @@ Navigational Information
 
 **Other Statistical Information:**  ClearSlide may monitor Customers’ use of the Services, analyze Customer data, and compile statistical and performance information related to the provision and operation of the Services. ClearSlide may make such statistical and performance information publicly available in an anonymized and aggregated manner, provided that such information does not incorporate identifiable Customer data and/or Customer confidential information.
 
-**Google Maps:**  Google Maps API is used in the Site and Services. ClearSlide incorporates the Google privacy policy, http://www.google.com/privacy.html, and ClearSlide Customers agree to be bound by the Google privacy policy, as amended by Google from time to time.
+**Google Maps:**  Google Maps API is used in the Site and Services. ClearSlide incorporates the Google privacy policy, <http://www.google.com/privacy.html>, and ClearSlide Customers agree to be bound by the Google privacy policy, as amended by Google from time to time.
 
 **Re-Targeting:**  ClearSlide partners with third parties to either display advertising on our Site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -170,4 +166,4 @@ ClearSlide reserves the right to modify this privacy policy at any time in our s
 
 In the event you have any questions about this privacy policy or ClearSlide’s information practices please contact us by clicking [here](mailto:privacy@clearslide.com) or by mailing us at ClearSlide, Inc. Attn: Privacy, 45 Fremont Street, 32nd Floor, San Francisco, California, 94105, U.S.A.
 
-**Effective Date of this Privacy Policy:**  September 30, 2016
+**Effective Date of this Privacy Policy:**  April 28, 2017
