@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002839id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627230636id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy, Policies & Notices | Millennium Challenge Corporation
+# Website Privacy, Policies & Notices
 
 ## Privacy Policy
 
@@ -157,7 +157,7 @@ With respect to the content of this site, neither the United States Government, 
 
 ### Request for Correction (RFC)
 
-If you believe that MCC has disseminated information that does not comply with the Office of Management and Budget Information Quality Guidelines and you are directly affected by this information, then you can submit a request to have this information corrected by contacting [Rickermt@mcc.gov](mailto:Rickermt@mcc.gov).
+If you believe that MCC has disseminated information that does not comply with the Office of Management and Budget Information Quality Guidelines and you are directly affected by this information, then you can submit a request to have this information corrected by contacting [MCC through our website](https://www.mcc.gov/contact-us).
 
 Include your name, mailing address, fax number, e-mail address, telephone number, and organizational affiliation, if any. MCC needs this information to respond to your Request for Correction and contact you, if necessary.
 
@@ -170,7 +170,7 @@ Include your name, mailing address, fax number, e-mail address, telephone number
 
 ### Submitting a Request for Reconsideration (RFR)
 
-If you are dissatisfied with a MCC decision regarding your Request for Correction, you can submit a Request for Reconsideration in the web form below. To submit a Request for Reconsideration you should have already submitted a Request for Correction to MCC and received a response to that request.
+If you are dissatisfied with a MCC decision regarding your Request for Correction, you can submit a Request for Reconsideration [through our website](https://www.mcc.gov/contact-us). To submit a Request for Reconsideration you should have already submitted a Request for Correction to MCC and received a response to that request.
 
 ## Security Notice
 
