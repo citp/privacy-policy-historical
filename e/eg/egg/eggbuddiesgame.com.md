@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggbuddiesgame.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025020id_/http%3A//eggbuddies.com/%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggbuddiesgame.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627205442id_/http%3A//eggbuddies.com/%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Egg Buddies
 
@@ -51,6 +51,3 @@ Egg Buddies will not sell, trade or rent your personal information to others unl
 Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users. 
 
 Any data processors with access to your data in providing services on our behalf are subject to contractual restrictions to ensure that your data is protected, and not used independently by such third party. 
-
-  
-
