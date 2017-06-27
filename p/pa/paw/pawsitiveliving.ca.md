@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawsitiveliving.ca privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211052606id_/http%3A//pawsitiveliving.ca/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawsitiveliving.ca privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627101634id_/http%3A//pawsitiveliving.ca/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Pawsitive Living
 
