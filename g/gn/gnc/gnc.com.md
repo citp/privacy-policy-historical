@@ -1,86 +1,185 @@
-> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126210117id_/http%3A//www.gnc.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnc.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628002449id_/http%3A//www.gnc.com/Privacy%2520Statement/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Statement - GNC
+# Privacy Statement
 
-PRIVACY STATEMENT
+### GNC Privacy Statement
 
-GNC respects the privacy needs and concerns of our customers. That is why how we handle any personal information, such as your name, address, email address or phone number ("Personal Information") that you provide to us is important to us. To earn your trust, we respect your privacy in handling Personal Information relating to you and your transactions with us, whether at one of our General Nutrition Center (GNC) stores, our Call Center or through GNC.com or one of our related Internet web sites ("Sites"). This Privacy Statement describes the Personal Information we gather about you, what we do with it, the safeguards we have in place to protect it, and how you can control our use of it. By using the Sites, the user agrees, without limitation or qualification, to be bound by this Privacy Statement.
+**Last Updated: June 5, 2017**
 
-When you provide Personal Information at our Stores, our Call Centers, and our Sites, you are consenting to the manner in which GNC will collect, use, disclose and otherwise manage your Personal Information, as set out below.
+Your privacy is as important to us as it is to you! We treat the information you provide us (such as your name or email – aka "Personal Information" as further defined below) with the highest level of integrity and responsibility. This statement describes what we collect, what we do with it and how you can manage it, plus some information about how the site operates and the security safeguards we have in place. 
 
-**Who May Use the Sites** The Sites are not intended or designed to attract users under the age of 18. We do not collect Personal Information from any person we know to be under the age of 18. If you are under 18, we ask that you not send us any Personal Information.
+The policies below are applicable to data and information collected through GNC websites (including any versions optimized for viewing on a wireless or tablet device) (“GNC Websites”), all apps published by GNC (“GNC Apps”), all email newsletters published or distributed by GNC, all other interactive features and communications provided by GNC, and to any and all data and information provided by you to GNC at GNC stores, call centers, events, or promotions, and all data and information provided by you or collected through your membership in the GNC Loyalty Program (“GNC Outlets”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by General Nutrition Corporation (collectively “GNC” or “we”, “us”, or “our”). THESE POLICIES DO NOT APPLY TO FRANCHISEES OF GNC. OUR FRANCHISEES OPERATE THEIR OWN STORES AND WEBSITES AND MAY ENGAGE IN OTHER DATA COLLECTION AND USE PRACTICES OR MAY PARTNER WITH OTHER THIRD PARTIES WHO MAY TREAT YOUR DATA DIFFERENTLY OR USE OTHER TRACKING METHODS AND TECHNOLOGIES. WE DO NOT CONTROL THESE WEBSITES OR THE BUSINESS PRACTICES OF THESE FRANCHISEES. IF YOU HAVE A QUESTION ABOUT THE PRIVACY PRACTICES OF A GNC FRANCHISEE, YOU SHOULD CONTACT THAT FRANCHISEE DIRECTLY. 
 
-The Sites are intended for users from the United States and those not governed by privacy policies of other countries. Users from the European Union are advised not to disclose Personal Information to GNC. Information sent to us will be housed on servers located in the states of New Jersey, Pennsylvania and Virginia, in the United States. Do not send us information unless you consent to the application of U.S law and to the use and disclosure of your information consistent with this Privacy Statement.
+**By using our GNC Outlets, you are accepting the practices described in this Privacy Statement. If you do not agree to the terms of this Privacy Statement, please do not use the GNC Outlets and/or supply us with your Personal Information. We reserve the right to modify or amend the terms of this Privacy Statement from time to time without notice. Your continued use of the GNC Outlets following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Statement retroactively or to personal information already in our possession, we will provide you with specific notice of the modifications or amendments.**
 
-**Collection and Use of Personal Information** We may collect Personal Information that you provide us when you: 
+**What Information We Collect:**
 
-  * Purchase, order, return, exchange or request certain information about our products and services;
-  * Contact a Call Center or customer service desk;
-  * Visit or register with our Sites or participate in another feature of our Sites, such as our Fitness Planner
-  * Enter into a contest or sweepstakes or respond to one of our surveys; or 
-  * Provide us with comments or suggestions.
+We collect two basic types of information from you in conjunction with your use of the GNC Outlets, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you make a purchase, obtain a subscription, complete a survey or participate in a promotion, attend or participate in a program, register on the GNC Outlets, upload content to a website or app, participate in a community, or provide your e-mail address. Non-personal information includes information that does not personally identify you, but it may include tracking and usage information about your location, demographics, use of the GNC Outlets and use of the internet (“Non-Personal Information”). 
+
+In order to provide you with the best customer experience, we occasionally ask you to tell us a little about yourself. The type of personal information we collect when you register on or use our GNC Outlets, check out online or pay at the register may include the following (“Personal Information”): 
+
+  * Your name, address, telephone number, birthdate, and email address.
+  * Credit or debit card information.
+  * Loyalty Program Membership number and expiration date.
+  * Passwords and usernames associated with our GNC Outlets and/or to authenticate your participation in a program or purchase of goods or services. 
 
 
 
-We may also collect Personal Information about you from our Service Providers who provide us with e-commerce related services related to the Sites.
+In addition, when you interact with the GNC Outlets, we may collect certain information that does not identify you individually and to the extent you interact with GNC Outlets that are our websites, interactive communications or apps, our servers may automatically keep an activity log of your use of our GNC Outlets. Generally, we collect and store the following categories of Non-Personal Information: 
 
-**Shopping at GNC** When you purchase products and services at one of our Stores, you can do so anonymously when you pay with cash. If you use a credit or debit card for any of your purchases, we will collect your credit or debit card information and keep a history of your purchases. We use this information to process your orders and to better assist you when you visit or call us. We may also ask for your zip code as well, to help us improve our product and service offerings to your area.
+  * Non-identifiable demographic data such as age, gender, and five digit zip code.
+  * Device information about your computer, browser, mobile device, or other device that you use to access certain of the GNC Outlets. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
+  * Analytics and usage information about your use of the GNC Outlets. 
+  * Additional “traffic data” and log files such as time of visit, date of visit, software crash reports, session identification number, access times, and referring website addresses.
+  * Other information regarding your visits to and use of the GNC Outlets that is not Personal Information.
 
-When you return previously purchased merchandise or request a refund or exchange, you may be asked to give your name, address, phone number and show information that identifies you, such as your driver's license. We collect this information to help prevent fraud.
 
-**Call Centers** When you call one of our Call Centers about a product, delivery, billing question or for customer service, you may be asked for Personal Information that identifies you along with additional information we need to help us promptly answer your question, such as your name and address and a phone number where we might contact you. We may retain this information to assist you in the future.
 
-**Site Registration** Registration is an optional service provided by our Sites. You do not have to register to browse on our Sites, but you do have to register to purchase products on our Sites. When you register, you are asked for information such as your name, address, phone number, e-mail address, a password that you select, and your interests, if you choose to register them. Your registration information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information. When you register you will have the opportunity to sign up for future marketing information from GNC. 
+**Collection of Your Source IP Address/Location Information**
 
-**Contests, Questions or Surveys** When you ask a question, participate in a survey or enter a contest or sweepstakes at a Store, a GNC sponsored event or through our Sites, we may collect your name, address, phone number and e-mail address. We use this information to administer your participation in a contest or sweepstakes. At the time you are entering a contest or sweepstakes, we may ask your permission to send you future marketing information from GNC.
+We may collect and store location information about you associated with your account that you volunteer on or at a GNC Outlet or enable to be collected through certain of the GNC Outlets on your device. Except for the collection of your source IP address which may disclose the location of your device at the time you access the GNC Outlets, we do not collect any location information that you do not volunteer or enable. We will delete any location information that you request us to delete. 
 
-**Other Uses of Personal Information** GNC also uses Personal Information, including information provided to us from our Service Providers, to continually assess and improve the products and services we offer. To serve you better, we may combine the Personal Information that you give us with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
+**Collection of Personal Information Through Social Media Platforms or Using Your Social Media Logon**
 
-**Promotional Information and Marketing Materials** We would like to inform you of products and services, sales and special offers that might benefit you. When you register online or participate in a survey, you will have the opportunity to sign up for e-mails about our products, services, sales and special offers. 
+When you interact with any GNC page or account on a social media platform, including, but not limited to, Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube, Instagram, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms. If you publish your social media profile to GNC, we may collect personal information that you make available as part of that profile.
 
-We may also send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Stores, Call Centers or Sites. If you would like to stop receiving such promotional information from GNC, please see the "Privacy Preferences/Opt-Out" section of this Privacy Statement.
+**Collection of Information From Other Sources**
 
-**Disclosure of Personal Information** We enter into marketing relationships with advertisers or other companies that provide products or services that we believe may be of interest to GNC customers. We will share your Personal Information with those marketing partners in order to help them send you information that we believe will be of interest to you. We may share non-identifiable aggregated information with these companies. We will not disclose your telephone number, credit card account information or e-mail address for these purposes. We may also provide Personal Information to any of our affiliated businesses.
+We also may collect information about you that we may receive from other sources to, among other things, enable us to verify, update information contained in our records and to better customize the GNC Outlets for you. We may also collect Personal Information from credit reporting agencies to, for example, determine your creditworthiness, credit score, and credit usage, in accordance with applicable laws.
 
-**Access to Personal Information by Companies that Work with or on Behalf of GNC** Some of our operations, such as our electronic commerce, may be managed by Service Providers who are unaffiliated companies. These companies may share Personal Information with their affiliates and with service providers whom they engage to perform services related to our Sites or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. These companies may have access to your Personal Information on a confidential basis only to the extent necessary to perform their functions. In no event will we authorize these companies to use your Personal Information for any reason other than to provide you with those specific services. 
+**Collection of Personal and Non-Personal Information Through Surveys, Sweepstakes and Promotions**
 
-If your purchases are being shipped to you, your shipping information will be shared with our delivery service providers (U.S. Postal Service, UPS, or other delivery companies we or you select). Our delivery service providers are asked not to use your Personal Information for any purpose other than making the delivery. 
+From time to time we may provide you with the opportunity to participate in surveys, sweepstakes or other promotions through the GNC Outlets, which might be sponsored or conducted by us or a third party. If you participate, we will request certain Personal Information from you. Participation in these sweepstakes and promotions is completely voluntary and you therefore have a choice whether or not to disclose this Personal Information. The requested Personal Information typically includes contact information. If there is a third party sponsor involved please make sure to review that party's privacy policy. 
 
-**Sale of Business** In the event that GNC or some of our assets are sold or transferred or used as security, your Personal Information may be transferred to third parties as part of that transaction.
+**Collection of Third Party Personal Information Through Tell-A-Friend Feature**
 
-**Disclosures of Personal Information in Legal Proceedings** If GNC or any of our Service Providers is requested by law enforcement officials or judicial authorities to provide Personal Information on individual users, GNC or the applicable Service Provider may, without your consent, provide such information. In matters involving claims of personal or public safety, GNC or the applicable Service Provider may provide your Personal Information to appropriate authorities without your consent or court process. GNC or our Service Providers also will provide your Personal Information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or in litigation involving GNC, the applicable Service Provider, or otherwise as required by law. We may also disclose Personal Information to assist in debt collection where you owe a debt to us.
+We may from time to time conduct a referral service to introduce people you know to our GNC Outlets. If you choose to use our referral service to tell someone about our GNC Outlets or a discount on the GNC Outlets, we will ask you for your contact’s name and email address. We will automatically send your contact a one-time email inviting him or her to visit one or more of the GNC Outlets. We store this information for the purpose of sending this one-time email and tracking the success of our referral program. Your contact may contact us at [customerservice@gnc.com](mailto:customerservice@gnc.com) to request that we remove this information from our database.
 
-**Access to Personal Information** You may request access to the Personal Information that we have about you. If you are a registered user with our Sites, you can access your profile information at any time by clicking on the "My Account" link at the top of any page on the Sites on which you registered.
+**How We Use Your Information:**
 
-For further instructions on accessing the Personal Information that GNC may have about you, please see the "Contacting Us" section of this Privacy Statement. 
+You can browse our Websites, download our App, pay with cash at a store, or use certain of our other GNC Outlets without telling us anything personal about yourself. But we need some Personal Information to do many things on or at the GNC Outlets. For example, we can’t ship your order if we don’t know your address. Your Personal Information also helps us provide personalized support. We use your Personal Information and Non-Personal Information to: 
 
-**Privacy Preferences / Opt-Out** We now offer an on-line preference page located within the My Account section on www.gnc.com where you can register and change your preferences to receive or not receive marketing materials. You may also update what product/lifestyle preferences you prefer, which may determine what offers and promotional materials you may receive. You may update these preferences at any time, but you must first register by creating an account before you can update any of your preferences. Please allow sufficient time for your preferences to be processed.
+  * Process a purchase made online or with a credit card in store. 
+  * Process a return or exchange of a previously purchased item.
+  * Assist you with questions about products, delivery, billing or other issues.
+  * Register you for an account on our GNC Outlets or for a GNC event.
+  * Facilitate an easier, customized online or in-store experience when you register on our GNC Outlets or give us your preferences.
+  * Improve product offerings or services in your area or in-store.
+  * Send email receipts, order confirmations and delivery confirmations.
+  * Send customized mailings and emails with special offers, information and notices.
+  * Provide benefits and content for Loyalty Program members.
+  * Enable posting and follow-up of customer comments, reviews and suggestions.
+  * Confirm your identity to help prevent fraud or theft.
+  * Facilitate your participation in communities, forums, or other areas where you contribute content, reviews, or other feedback.
+  * Administer your participation in a contest, sweepstakes, survey, or other event.
+  * Evaluate, improve and administer our services, products and programs.
+  * Utilize services administered or hosted by one of our contracted service providers or in-store associates.
 
-You may also change your marketing preferences or remove yourself from our mailing list by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you or by contacting us at: GNC, Marketing Department - 14th Floor, 300 Sixth Avenue, Pittsburgh, PA 15222, Attn: Privacy Manager or by e-mailing us at [privacyconcerns@gnc.com](mailto:privacyconcerns@gnc.com).
 
-**Information Sharing Disclosure Requests** If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom GNC or any of our affiliates has shared the Personal Information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at. GNC, Marketing Department - 14th Floor, 300 Sixth Avenue, Pittsburgh, PA 15222, Attn: Privacy Manager or by e-mailing us at customerservice@gnc.com We will respond to your request for a Notice of Information-Sharing Disclosure within 30 days.
 
-**Additional Information about Our Sites**
+**Use of Your Location Information**
 
-**Visiting Our Sites** In general, you can visit our Sites without telling us who you are or providing us with any information. However, we collect the IP (Internet protocol) addresses of all visitors to our Sites and other related information such as page requests, browser type, operating system and average time spent on our Sites. We use this information to monitor and improve our Sites.
+Further, we use your location information specifically to: 
 
-**Cookies and Tracer Tags** Our Sites use a technology called "cookies". A cookie is a tiny element of data that our Sites can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. All pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Sites, these cookies (1) may let us know who you are, (2) are necessary to access your account information (stored on our computers) in order to deliver products and personalized services, and (3) will provide us and our Service Providers with information that we will use to personalize our Sites in accordance with your preferences. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Sites. Tracer Tags: Our Sites may also use a technology called "tracer tags". These may also be referred to as "Clear GIFs" or "Web Beacons". This technology allows us to understand which pages you visit on our Sites. These tracer tags are used to help us optimize and tailor our Sites for you and other future website visitors.
+  * Personalize content on or in the GNC Outlets, including providing you reports, recommendations and feedback based on your preferences.
+  * Optimize or improve our products, services and operations.
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal.
+  * Perform statistical, demographic, and marketing analyses of users of the Website, App, and interactive communications and their purchasing patterns as well as targeted communication via our mobile devices.
 
-**Security of Personal Information** We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of Personal Information in our custody and control. We also are committed to employing reasonable technology in order to protect the security of our Sites. However, even with the best technology, no website is 100% secure. We will take reasonable measures which we believe are appropriate to protect your Personal Information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer such information to take comparable steps to protect that security.
 
-**Secure Shopping** When you place orders on our Sites, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our Sites from capturing and viewing your Personal Information. Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape Navigator™ and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively. 
 
-**Passwords** To provide you with an increased level of security, online access to your Personal Information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. GNC will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
+**Combination of Your Personal Information**
 
-**Our Privacy Statement and Outside Links** This Privacy Statement only applies to the various Sites. Our Sites may include links to the websites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Statement. Remember to consult that website's own privacy policy, as once you are outside any of the Sites, any information you submit is no longer in our control. 
+We use the information from one of the GNC Outlets on or in other GNC Outlets or elsewhere in our network of stores, distribution channels, websites, apps, and other interactive features, or in reports and analysis, all of which are owned and operated or franchised by GNC, and we may combine information gathered from multiple GNC Outlets into a single customer record or analysis or report. We also use and/or combine information that we collect or receive from third party sources to enhance, expand, and check the accuracy of your customer records. 
 
-**Privacy Statement Modifications** From time to time we may modify or amend this Privacy Statement in order to comply with new laws or regulations or to reflect future changes in our business practices. Any changes in our policies will be communicated in this page so please check back on occasion. We also may post a notice on our Sites or send an email describing the changes.
+**When We Can Share Your Information:**
 
-**Contacting Us** If you have any questions about our handling of Personal Information, please contact us at GNC, Marketing Department - 14th Floor, 300 Sixth Avenue, Pittsburgh, PA 15222, Attn: Privacy Manager or e-mail us at [privacyconcerns@gnc.com](mailto:privacyconcerns@gnc.com). Alternatively, you may call us toll-free at 1-877-GNC-4700.
+We do not disclose any of your Personal Information collected by us to any companies except (a) to GNC’s parent, subsidiaries, or related entities or (b) to GNC franchisees or their parent, subsidiaries or related entities or (c) as otherwise disclosed in this Privacy Statement. In no event will we sell or rent your Personal Information as part of a customer list or similar transaction. When information is shared with a third party, that party is instructed to use your Personal Information only to the extent necessary to perform their contracted functions. They are instructed to maintain the security of your personal data. We may share your Personal Information with: 
 
-Last Updated: December 26, 2005
+  * A delivery service (e.g. UPS, U.S. Postal Service) when a purchase or return is being shipped.
+  * A contracted service provider (or an affiliate of a contracted service provider) in the administration or performance of any aspect of our business operation or GNC Outlets (e.g. payment processing). 
+  * Advertisers or other companies with whom we have a marketing relationship in order to send you information/offers that we believe will be of interest to you.
+  * An affiliated business of GNC or GNC franchisee.
+  * A business party to whom GNC or a GNC asset is sold, transferred or used as security, as part of that transaction.
+  * Law enforcement officials or judicial authorities when required of GNC or any of our service providers. This includes: matters involving claims of personal or public safety; in response to a search warrant or other legally valid inquiry or order; a request by an investigative body in the case of a breach of agreement or contravention of law; in litigation involving GNC or a contracted service provider; or as otherwise required by law. 
+  * Appropriate persons in emergency situations as we determine reasonably necessary to protect and defend our rights or property, you, or any of our other customers, employees, agents, or users. 
+  * Appropriate persons or entities to assist in debt collection where you owe a debt to us.
+  * Appropriate persons or entities in conjunction with fraud protection.
 
-Copyright © 2005 General Nutrition Corporation All rights reserved
 
-  
 
+**Accessing & Controlling Your Personal Information**
+
+_Privacy Preferences / Opting Out:_
+
+When you register on or at one of our GNC Outlets or provide us with your email address, you are automatically opted in to receive marketing emails about our products, services, sales and offers. 
+
+You may change your marketing preferences or remove yourself from our mailing lists by clicking on the "unsubscribe" link in the footer of promotional emails, by e-mailing us at [customerservice@gnc.com](mailto:customerservice@gnc.com) or by contacting us at: GNC, Customer Service, 300 Sixth Avenue, Pittsburgh, PA 15222 or by phone at 1-888-462-2548. 
+
+Please allow sufficient time for your preferences to be processed. Please note, however, that you generally cannot opt-out of service related announcements, e.g. if one of the GNC Outlets is temporarily suspended or if delivery of a product or service is delayed. 
+
+_Access to Personal Information_
+
+You may request access to the Personal Information we have about you. For detailed instructions, please contact us. 
+
+_Information Sharing Disclosure Requests (California residents)_
+
+California residents have the right to request one Notice of Information-Sharing Disclosure per year that will identify the third parties with whom GNC or any of our affiliates has shared your Personal Information. You may request the Notice of Information-Sharing Disclosure by writing to us at: GNC, Customer Service, 300 Sixth Avenue, Pittsburgh, PA 15222 or by e-mailing us at [customerservice@gnc.com](mailto:customerservice@gnc.com). We will respond to your request for a Notice of Information-Sharing Disclosure within 30 days. 
+
+**Security of Your Personal Information:**
+
+We maintain administrative, technical and physical safeguards designed to protect against unauthorized access, use, modification and disclosure of Personal Information in our custody and control. We also are committed to employing reasonable technology and processes in order to protect the security of the GNC Outlets. However, even with the best technology, no location is 100% secure. Where possible, we will ask that any third parties to whom we transfer your Personal Information to take comparable steps to protect that security. 
+
+_Secure Shopping:_
+
+When you place orders on or through the GNC Websites and Apps, all of your order information, including your card number and delivery address, is transmitted through the Internet using SSL technology, which encrypts your order information before transmitting it to our secure server. This is designed to prevent someone other than operators of the GNC Websites and Apps from capturing and viewing your Personal Information. If your Web browser or device cannot support this level of security, you will not be able to order products through the GNC Websites and Apps. Nearly all current internet browsers and devices can support a secure connection. Visit your browser or device’s website to download a current version. 
+
+_Passwords:_
+
+To provide you with an increased level of security, online access to your Personal Information is protected with a password that you select. We strongly recommend that you do not disclose your password to anyone. GNC will never ask you for your password in any unsolicited communication (including unsolicited correspondence, such as letters, phone calls or e-mail messages). 
+
+**Use and Operation of Our GNC Outlets**
+
+_Intended Site Use:_
+
+GNC Websites and the GNC Apps and any interactive features are not intended or designed to attract users under the age of 13. We do not collect Personal Information from any person we know to be under the age of 13. If you are under 13, we ask that you not send us any Personal Information. 
+
+The GNC Websites and the GNC Apps and any interactive features are intended for users from the United States and those not governed by privacy policies of other countries. Users from the European Union are advised not to disclose Personal Information to GNC. Information sent to us will be housed on servers located in the U.S. states of New Jersey, Pennsylvania and Virginia. Do not send us information unless you consent to the application of U.S law and to the use and disclosure of your information consistent with this Privacy Statement. 
+
+_Cookies:_
+
+The GNC Websites and interactive features use cookies so that we (1) know who you are, (2) can access your account information (stored on our computers) in order to deliver products and services, and (3) can personalize the GNC Websites according to your preferences. Any pages on the GNC Websites where you are prompted to log in or that are customizable require you to accept cookies. Cookies are also required in order for you to add multiple items to your shopping cart before checking out. You may set your Web browser to notify you when you receive a cookie. However, if you do not accept cookies from the GNC Websites, you will limit the functionality of the GNC Websites. 
+
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our Websites that is used for interest-based GNC.com advertising during your visits to other websites. To opt out of our cookies used for this online advertising served through our service provider, Conversant, click here. 
+
+We may use various services of third parties to collect and use anonymous information about your visits to and interactions with the GNC Outlets through the use of technologies such as cookies to personalize advertisements for goods and services. Some of these personalized advertisements will impact your experience on the GNC Websites and interactive features. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
+
+_Tracer Tags:_
+
+GNC Websites may also use a technology called tracer tags. These may also be referred to as Clear GIFs or Web Beacons. This technology allows us to understand which pages you visit on the GNC Websites. These tracer tags are used to help us optimize and tailor the GNC Websites for you and future visitors. 
+
+_Do Not Track:_
+
+Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, GNC’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this Privacy Statement, whether or not a Do Not Track signal is received. 
+
+_Outside Links:_
+
+This Privacy Statement only applies to GNC Outlets. The GNC Websites, GNC Apps and GNC interactive features may include links to the websites of business partners, vendors and advertisers. These other sites and the information you submit to them are outside of our control. These websites may collect information about you and operate according to their own privacy practices, which may differ from those in this Privacy Statement. Consult that website's privacy policy for more information about their practices and policies. 
+
+**How Long Do We Keep Your Information?**
+
+Following termination or deactivation of your account, GNC, its affiliates, or its service providers may retain Personal Information for a commercially reasonable time for backup, archival, and/or audit purposes. If you have any questions about termination or deactivation of your account, please contact us directly at [customerservice@gnc.com](mailto:customerservice@gnc.com). 
+
+**Assignment**
+
+We may change our ownership or corporate organization while providing the GNC Outlets. We may also sell certain assets associated with the GNC Outlets. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Statement, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Statement. 
+
+**Policy Changes and Getting More Information**
+
+From time to time, we may modify or amend this Privacy Statement in order to comply with new laws or regulations or to reflect changes in our business practices. Any changes in our policies will be communicated on this page. Changes may be made at any time, without prior notice. However, we may post a notice on or in the relevant GNC Outlets or send an email describing any changes. 
+
+If you have any questions about our handling of Personal Information, you may e-mail us at: [customerservice@gnc.com](mailto:customerservice@gnc.com), call us toll-free at 1-888-462-2548 or send correspondence to: 
+
+GNC Customer Service 300 Sixth Avenue Pittsburgh, PA 15222 
+
+**Copyright © 2017 General Nutrition Corporation All rights reserved**
