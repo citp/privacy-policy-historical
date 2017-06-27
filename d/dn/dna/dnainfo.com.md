@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413170823id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627223106id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - DNAinfo.com New York
+# Privacy Policy - About Us - DNAinfo New York
 
 DNAinfo (" _DNA_ ") is committed to protecting your privacy.  This Privacy Policy will advise you about how DNA protects your personal information and about what choices you have concerning the use of that information.  Please read this policy carefully.
 
