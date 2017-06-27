@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218132506id_/http%3A//www.dealdetectingdiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627130347id_/http%3A//hearthookhome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Deal Detecting Diva
+# Privacy Policy - Heart Hook Home
 
-This post was hand-picked for you, and _may_ contain affiliate links for your convenience. See our [disclosure policy](http://dealdetectingdiva.com/disclosure-policy/).
-
-**0** Flares **0** Flares ×
+This post was hand-picked for you, and _may_ contain affiliate links for your convenience. See our [disclosure policy](http://hearthookhome.com/disclosure-policy/).
 
 Your Privacy
 
@@ -12,13 +10,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Cookies and Web Beacons
 
-We use third party advertisements on DealDetectingDiva.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We use third party advertisements on HeartHookHome.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Collection of Personal Information
 
-When visiting Deal Detecting Diva, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting HeartHookHome, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 Links to Third Party Websites
 
@@ -30,8 +28,10 @@ Any information collected during giveaways, such as names and email addresses, w
 
 The contents of this statement may be altered at any time, at our discretion.
 
-[Contact us](http://dealdetectingdiva.com/contact/) if you have any questions regarding this privacy policy.
+[Contact us](http://hearthookhome.com/contact/) if you have any questions regarding this privacy policy.
 
 _This policy last updated July 2016._
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 Email \-- StumbleUpon 0 **0** Flares ×
+### Join us!
+
+Join us here at Heart • Hook • Home and get CROCHET tips and DIY ideas, YARN hacks and FREE crochet patterns + yummy new RECIPES along with FAMILY and HEART + BUDGETING tips sent directly to your email! 
