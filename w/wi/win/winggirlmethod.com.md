@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607170448id_/http%3A//www.winggirlmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214330id_/http%3A//www.winggirlmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marni's Wing Girl MethodMarni's Wing Girl Method
 
