@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiceupthecurry.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123025646id_/http%3A//www.spiceupthecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceupthecurry.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627151523id_/http%3A//www.spiceupthecurry.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Spice up the Curry
+# Privacy Policy - Spice up the Curry
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us using the Contact tab at the top of this page.
 
