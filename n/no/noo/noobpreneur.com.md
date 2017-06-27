@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126211258id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627082334id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Noobpreneur.com
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-Copyright © 2008-2016 Noobpreneur.com. All rights reserved. "Noobpreneur", :Noobpreneur.com" and ™ are trademarks of Previso Media.
+Copyright © 2008-2017 Noobpreneur.com. All rights reserved. "Noobpreneur", :Noobpreneur.com" and ™ are trademarks of Previso Media.
