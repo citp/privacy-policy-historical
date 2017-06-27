@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingreviewslist.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702040740id_/http%3A//www.webhostingreviewslist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingreviewslist.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627100822id_/http%3A//www.webhostingreviewslist.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Hosting Review Boards ™
 
@@ -47,6 +47,6 @@ Unfortunately each web hosting site has its own set of policies and therefore ma
 
 **Policy Changes**
 
-As with any modifications of the website, Web Hosting Review Boards has the option to change its policies from time to time. In order to protect the rights of Web Hosting Review Boards, the updated policies can be read on this page since the continued use of the website indicates your understanding and consent to the websites’ privacy policy. 
+As with any modifications of the website, Web Hosting Review Boards has the option to change its policies from time to time. In order to protect the rights of Web Hosting Review Boards, the updated policies can be read on this page since the continued use of the website indicates your understanding and consent to the websites’ privacy policy.
 
 Privacy0Jennifer Sandra2011-11-20 05:45:28Web Hosting Review Boards is vigilant in protecting the personal information given by the client, which will only be given to the government or regula…
