@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235220id_/http%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627220341id_/http%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Free Beacon
 
@@ -6,7 +6,7 @@
 
 Effective Date: January 19, 2015
 
-The Washington Free Beacon values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the Washington Free Beacon website (freebeacon.com), and any other website or online service that we operate and that links to this Privacy Policy (the “Services”).
+The Washington Free Beacon values your support and is committed to protecting your privacy. This statement (the "Privacy Policy") sets forth our policies and practices for handling your information on the Washington Free Beacon website (freebeacon.com), and any other website or online service that we operate and that links to this Privacy Policy (the "Services").
 
 **I. COLLECTION OF INFORMATION**
 
@@ -23,7 +23,7 @@ Information you provide directly to us. For certain activities, such as when you
 
 Information we collect automatically. We may collect certain information automatically when you use our Services, such as your Internet protocol (IP) address and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information.
 
-We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Services, you consent to our use of cookies and similar technologies.
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs," that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Services, you consent to our use of cookies and similar technologies.
 
 Information we obtain from other sources. We may receive information about you from other sources, including through third-party services and organizations. For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services.
 
@@ -61,13 +61,13 @@ We use reasonable measures to help protect information from loss, theft, misuse 
 
 **V. YOUR CHOICES**
 
-You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). Please note that if you choose to refuse, disable, or delete cookies, some of the functionality of the Services may no longer be available to you.
+You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the "help" section). Please note that if you choose to refuse, disable, or delete cookies, some of the functionality of the Services may no longer be available to you.
 
 **VI. THIRD-PARTY LINKS, CONTENT, AND COOKIES**
 
 Some of the Services may contain links to content maintained by third parties that we do not control. We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information automatically through the sites and online services. We are not responsible for the privacy practices of these third parties, and we recommend that you visit the privacy policies of each website that you visit.
 
-_Do-Not-Track Signals_. Some web browsers may transmit “do-not-track” signals. However, web browsers incorporate and activate this feature differently, and it is not always clear whether users intend for these signals to be transmitted or are aware of them. Because these browser features are not uniform, we currently do not take action in response to these signals.
+_Do-Not-Track Signals_. Some web browsers may transmit "do-not-track" signals. However, web browsers incorporate and activate this feature differently, and it is not always clear whether users intend for these signals to be transmitted or are aware of them. Because these browser features are not uniform, we currently do not take action in response to these signals.
 
 **VII. INTERNATIONAL USERS**
 
@@ -75,7 +75,7 @@ The Services are designed for and targeted to U.S. audiences and are governed by
 
 **VIII. CHANGES TO THE PRIVACY POLICY**
 
-We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the "Effective Date" date above and post the new Privacy Policy. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
 
 **IX. STILL HAVE QUESTIONS?**
 
