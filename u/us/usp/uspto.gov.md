@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193224id_/http%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214558id_/https%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USPTO
 
 Thank you for visiting the United States Patent and Trademark Office website and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See the [Privacy Act of 1974 (P.L. 93-579)](https://www.gpo.gov/fdsys/) for more information on your rights under the Privacy Act. Except for the purposes described below, no other attempts are made to identify individual users while on the USPTO websites. Here is how we handle information about your visit to our website:
+Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See the [Privacy Act of 1974 (P.L. 93-579)](https://www.gpo.gov/fdsys/pkg/STATUTE-88/pdf/STATUTE-88-Pg1896.pdf) for more information on your rights under the Privacy Act. Except for the purposes described below, no other attempts are made to identify individual users while on the USPTO websites. Here is how we handle information about your visit to our website:
 
 ## Information Collected and Stored Automatically
 
@@ -16,7 +16,7 @@ For site security purposes and to ensure that USPTO Web services remain availabl
 
 ## Use of Cookies and Tracking Technology
 
-The Office of Management and Budget Memorandum [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) defines conditions under which Federal agencies may use session and persistent cookies, and categorizes them in "tiers" to identify their characteristics. You may control permissions for cookies on this or any other website by adjusting your individual browser settings for customized privacy protection - see <http://www.usa.gov/optout_instructions.shtml> for helpful guidance.
+The Office of Management and Budget Memorandum [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf) defines conditions under which Federal agencies may use session and persistent cookies, and categorizes them in "tiers" to identify their characteristics. You may control permissions for cookies on this or any other website by adjusting your individual browser settings for customized privacy protection - see <http://www.usa.gov/optout_instructions.shtml> for helpful guidance.
 
 Session cookies
 
@@ -58,7 +58,7 @@ Our Web pages may contain links to websites outside the USPTO, including those o
 
 Where a USPTO website requests information that will be stored in a Privacy Act system of records, an individual Privacy Act Statement is provided. Should there ever be a need to use information for a purpose other than one already provided for under the Privacy Act, we will give you specific instructions on how you may consent to such use. You are never required to give such consent.
 
-Information stored in any Privacy Act System of Records is handled as set forth in the applicable System of Records Notice in order to preserve its security and confidentiality. Privacy Act System of Records notices are available at: <http://www.gpoaccess.gov/privacyact/index.html>.
+Information stored in any Privacy Act System of Records is handled as set forth in the applicable System of Records Notice in order to preserve its security and confidentiality. Privacy Act System of Records notices are available at: <https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=PAI>.
 
 Access the [USPTO Systems of Records Notices](https://web.archive.org/uspto-systems-records-notices).
 
