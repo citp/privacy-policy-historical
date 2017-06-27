@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebook-studio.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615152024id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook-studio.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175112id_/https%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
 
 # Data Policy
 
@@ -68,7 +68,7 @@ We use your information to send you marketing communications, communicate with y
 
 Show and measure ads and services.
 
-We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://l.facebook.com/l.php?u=ATMNUTmhhuReY6oGL4HmQ7cYUWtb2kuxOIhZngxFd5Tc6iFJwZ_C0f5ExxcPKBp1KEV5LkRkIAohrveEnIeHjA&h=ATOXCrJhNE-SpDR7aZXudUHvmBWFywNf_85YjWfU8PZi8NQYR96Aj5OP1CKb8Z2bjQrXFmF5h6S7FvrSlopOGJ83Bv9cOFlMud--nEf9nz3R-Bu-inooecgg26YSB-UxOxtMIA&s=1) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
 Promote safety and security.
 
@@ -138,11 +138,9 @@ We may access, preserve and share your information in response to a legal reques
 
 ###  How our global services operate 
 
-Facebook, Inc. complies with the US-EU and US-Swiss Safe Harbor framework for the collection, use and retention of information from the European Union and Switzerland, as set out by the Department of Commerce. To view our certification, visit the [Safe Harbor website](https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=eAQF8GEVk&s=1). 
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries. 
 
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through TRUSTe. You can contact TRUSTe through [their website](https://www.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=RAQFccO5X&s=1). 
-
-Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. 
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMtPGImb7LOkGe78F7Ksr_YpDuQ9ppP7t6TyQC_LK7PJISKyyOxcv2i0PcYomfM-1JXZrCH05JrCoLoLFJEt4E4HNVN9S-S-0aNBQGoxWgs0QGl-9Mce77OR0VmHSvXA1ST&s=1). 
 
 ###  How will we notify you of changes to this policy? 
 
@@ -169,4 +167,4 @@ Facebook Ireland Ltd.
 Grand Canal Harbour  
 Dublin 2 Ireland 
 
-Date of Last Revision: January 30, 2015 
+Date of Last Revision: September 29, 2016 
