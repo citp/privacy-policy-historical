@@ -1,102 +1,193 @@
-> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623150727id_/http%3A//www.nothingbundtcakes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627150856id_/http%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Mobo Systems, Inc. d/b/a Olo (" **Olo** ", " **us** " or " **we** ") and the company whose branding is displayed on the website (" **Site** ") and/or mobile application (" **Application** ") that links to this Privacy Policy (the " **Branded Company** ") respects the privacy of use to our Sites, Applications and online services (" **Services** "). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information that we collect from users of our Site, Applications and Services (collectively, the " **Properties** ") while providing such Properties to users on behalf of the Branded Company. This Privacy Policy does not apply to any websites, mobile applications or other online services that do not link to this policy. 
+### Your Privacy Rights
 
-## A NOTE TO USERS OUTSIDE THE UNITED STATES
+Thank you for visiting us online at [www.nothingbundtcakes.com](http://www.nothingbundtcakes.com/) (the “Site”).  We are committed to protecting and safeguarding consumer privacy on the internet, especially for children.  Nothing Bundt Franchising, LLC d/b/a Nothing Bundt Cakes is a Nevada limited liability company (“NBF”, “We” or “Us”). Our corporate office is located at 4560 Beltline Road, Suite 350, Addison, Texas 75001.  NBF is pleased to provide information to all of its guests about its online privacy policy (“Privacy Statement”).  Please be assured that NBF values the privacy of its visitors to its Site and is dedicated to protecting your personal information and provide you with Notice, Consent, Security and Access.
 
-If you are a non U.S. user of the Properties, by using the Properties and providing us with data, you acknowledge and agree that your personal information may be processed in the country in which it was collected, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your data, you acknowledge such transfer. 
+### Information Covered by This Statement
 
-## THE TYPES OF INFORMATION WE COLLECT
+This Privacy Statement applies to information, including personal information, collected about you by NBF.  Personal information is information that could reasonably allow you to be identified.  Some NBF pages may contain links to non-NBF sites.  We are not responsible for the privacy policies of those sites.  We recommend you review the privacy policies of each site you visit.
 
-Olo collects information from you in various ways when you access or use the Properties. We collect personal information from you in the following ways: 
+### Information We Collect
 
-  1. _Personal Information You Provide to Us_. We collect the information you voluntarily provide to us. For example: 
-    * We may collect personal information from you, such as your first and last name, e-mail, telephone number and password when you create an account (" **Account** ").
-    * If you tell us where you are (e.g., by allowing your mobile device to send us your location or by entering your city, state and/or zip code information), we may use that information to provide you with location-based information, such as the location of Branded Company restaurants near you. If you want to deactivate this feature, you can deactivate GPS on your mobile device.
-    * Our Services allow you to store preferences such as your location, recent orders and favorite menu items in order to make it more convenient for you to place additional orders in the future.
-    * When you order menu items from the Branded Company on our Services, we will collect all information necessary to complete the transaction, including your name and payment information. We store this information on our servers, in order to make it easier for you to place orders for the Branded Company’s menu items in the future.
-    * If you provide us feedback or contact us via email, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.
-    * We also collect other types of personal information that you provide to us voluntarily, such as any information requested by Olo if you contact us via email regarding support for the Services.
-  2. _Personal Information Collected Via Technology_. We collect certain information from you automatically when you access and use our Properties as described below: 
-    * _Information Collected by our Servers_. To make the Properties more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including the referring/exit pages, your browser type, domain name, date/time stamp for your visit and your Internet Protocol (IP) address (a number that is automatically assigned to your computer or device when you use the Internet). We use this information to analyze trends, administer the Properties, monitor for fraudulent activities and for the efficacy of our fraud management tools, and better tailor our Services to our users’ needs.
-    * _Cookies_. Like many online services, we use cookies to collect information. "Cookies" are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Properties. This type of information is collected to make the Properties more useful to you and to tailor the experience with us to meet your special interests and needs.
-    * _Mobile Services_. We may also collect non-personal information from your mobile device if you have downloaded our Application. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the Application(s), and information about the type of device you use. In addition, in the event our Application crashes our your mobile device, we will receive information about your mobile device model software version and device carrier, which allow us to identify and fix bugs and otherwise improve performance of our Application. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
-    * _Third Party Analytics_. We use third party service providers to help analyze how users use the Properties ("Analytics Companies"). These Analytics Companies use Cookies to collect information such as how often users visit the Site, what pages they visit and what other sites they used prior to coming to the Site. We use the information we get from these Analytics Companies to improve our Properties.
-  3. _Facebook and other Social Networking Services_. The Services may allow users to access Facebook and other social networking sites (each, an "SNS") to interact with and share their experiences with the Branded Company’s products and services with their friends. If you are not a registered user of the Services, you can create an Account by clicking on "Sign In" using Facebook or another SNS that we support, and then entering your SNS login credentials. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an Account on the Properties and show our relevant content from your Facebook and SNS friends. Once you register on the Properties and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
-  4. _Location Information_. If you have enabled location services on your phone and agree to the collection of your location when prompted by the Properties, we will collect your location information when you use the Properties; for example, to locate those restaurants and locations of the Branded Company that are near you or when you "check in" via the Properties. If you do not want this information collected by us, you may decline the collection of your location when prompted, or disable location services on your device.
+We may collect information about you from a variety of sources, includes information we collect from you directly; information we collect about you when you visit our site, use our services, or view our online advertisements; and information we collect about you from other sources.  We collect personal information about our users over time and across different websites when you use this website or service.  Third party service providers may also collect personal information this way.
 
+Information we collect directly from you:
 
+We collect information directly from you when you choose to register with our site, participate in our offers and programs, purchase products from our site, call Guest Services, or otherwise provide information directly to us.  The following is what we may collect directly from you:
 
-## HOW WE USE YOUR INFORMATION
-
-  1. _General Use_. In general, we use your personal information to respond to your requests as submitted through the Services, to provide you the Services you request, or to aid us in serving your better. We use your personal information in the following ways: 
-    * facilitate the creation of and secure your Account on our network;
-    * identify you as a user in our system;
-    * provide improved administration of our Site, Application and Services;
-    * provide the Services you request;
-    * improve the quality of experience when you interact with our Site, Application and Services;
-    * send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
-    * send you administrative e-mail notifications, such as security or support and maintenance advisories;
-    * respond to your inquiries related to employment opportunities or other requests;
-    * to solicit your feedback; and
-    * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of the Branded Company.
-  2. Creation of Anonymous Data. We may create anonymous information records from personal information by excluding information (such as your name) that make the information personally identifiable to you. We may use this anonymous information to analyze request patterns and usage patterns so that we may enhance our products and services. Olo reserves the right to use and disclose Anonymous Information to third parties in its discretion.
+  * Name, email address, postal address
+  * Username and password
+  * Phone number or mobile number
+  * Age
+  * Date of birth
+  * Demographic information
+  * Payment information (such as a credit card)
+  * Future communications preferences.
 
 
 
-## DISCLOSURE OF YOUR PERSONAL DATA.
+Information we collect when you visit our sites, use our services, or view our online advertisements:
 
-We disclose your personal data as described below and as described elsewhere in this Privacy Policy. 
+We use cookies and other technologies to collect information about you when you visit our sites, use our services, or view online advertisements.  The following is what we may collect directly from you:
 
-  1. Branded Company. When you order menu items on the Properties, we will transmit your order to the Branded Company location designated by you, so that the Branded Company can fulfill your order. We may also share your personal information with the Branded Company or their Third Party Providers so that they can directly market their products and services to you.
-
-
-
-BECAUSE WE DO NOT CONTROL THE PRIVACY PRACTICES OF THE BRANDED COMPANY, YOU SHOULD READ AND UNDERSTAND ITS PRIVACY POLICIES. NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS (AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83) 
-
-**A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A "CALIFORNIA CUSTOMER") MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL INFORMATION TO ANY THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL DATA, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL DATA THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY E-MAILING CACUSTOMER@OLO.COM. PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.**
-
-  1. _Third Party Service Providers_. We may share your personal information with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate the creation of accounts; to process payments; to provide technical support; and/or to provide other services to Olo.
-  2. _Affiliates_. We may share some or all of your personal information with our parent company, subsidiaries, joint ventures, or other companies under common control ("Affiliates"), in which case we will require our Affiliates to honor this Privacy Policy.
-  3. _Corporate Restructuring_. We may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction involving the sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset. If our company, business or assets is acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
-  4. _Social Networking Sites_. Our Application and Services may enable you to post content to SNSs (e.g. Facebook and Twitter). If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We will not be liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs.
-  5. _Other Disclosures_. Regardless of any choices you make regarding your personal information, we may disclose your personal information if we believe in good faith that such disclosure is necessary (a) to comply with relevant laws or to respond to subpoenas or warrants served on Olo; (b) to protect and defend the rights or property of Olo, the Branded Company or users of our Properties; (c) in connection with a legal investigation; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.
+  * Your browser type and operating system
+  * Web pages you view
+  * Links you click
+  * IP address
+  * Site you visited before coming to our site
+  * NBF emails you open and/or forward
+  * NBF offers or links you connect to via emails
 
 
 
-## A NOTE ABOUT CHILDREN
+Information we collect from other sources:
 
-We do not intentionally gather personal information about visitors who are under the age of 13. Furthermore, we do not intentionally allow visitors under the age of 18 to register for the Services. If a child under 13 submits personal information to Olo and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: 26 Broadway, 24th Floor, New York, New York 10004. 
+We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases.  The following is what we may collect directly from you: 
 
-## LINKS TO OTHER SITES
-
-Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect personal and/or anonymous information from you. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. 
-
-## YOUR CHOICES REGARDING YOUR INFORMATION.
-
-You have several choices regarding use of information on our Services.
-
-  1. _Cookies_. If you decide at any time that you no longer wish to accept cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser’s technical information. If you do not accept cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify cookies, please let us know at the contact information provided below.
-  2. _De-Linking SNS_. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook or Twitter) linked to your Account, then you may close your account with the Branded Company. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your social media account or mobile device.
-  3. _Application_. You can stop all collection of information by the Application by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-  4. _How We Respond to Do Not Track Signals_. Some web browsers transmit "do not track" signals to the websites and other online services with which your web browser communications. There is currently no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard is established, we may revise our policy on responding to these signals.
+  * Name, postal address
+  * Age
+  * Income level
+  * Marital status and number of children
+  * Consumer and market research data
+  * Purchase behavior
+  * Publicly observed data or activities, such as blogs, videos, internet postings, use generated content, and in-store shopping behavior.
 
 
 
-## PRIVACY POLICY UPDATES
+All of the information we collect about you may be combined, which helps us tailor our communications to you and maximize your customer experience with NBF.
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we collect, use, or disclose your personal information, we will post a notice on the Site and within the Application. Any changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. If you object to any such changes, you must notify us prior to the effective date of such changes that you wish to deactivate your Account with us. Continued use of our Properties following notice of any such changes shall indicate your acknowledgement of such changes.
+### “Do Not Track”
 
-## CONTACT US
+Do Not Track (DNT) is a privacy preference that users can set in certain web browsers.  When a user turns on DNT, the browser may send a signal or other message to web services requesting that they “do not track” the user.  At this time, we do not change our practices in response to Do Not Track browser settings.  For information about do not track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-If you have any questions or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
+How We Use This Information
 
-Olo  
-26 Broadway  
-24th Floor  
-New York, NY 10004 USA  
-Attn: Privacy Officer 
+To provide offers, products and services.  We use the information we collect to provide the products and services you request, to tell you about other products and services offered by NBF, and to manage our sites and services.
 
-Last Updated: November 20, 2015 
+The following are ways we may use the information we collect about you:
+
+  * Send offers and information
+  * Develop new products and services
+  * Enroll you in contests, programs, or offers you request
+  * To provide you with other services that we have offered to you
+  * Create and manage your account
+  * Process payment for purchases or other services
+  * Protect against or identify possible fraudulent transactions
+  * Provide you with customized, unsolicited offers and information about NBF’s products and services
+  * Develop and provide advertising tailored to your interest
+  * Analyze the use of our products, services and sites.
+  * Understand how you arrived at our site
+  * Determine the effectiveness of our advertising
+  * Enforce our Terms and Conditions and otherwise manage or protect our business.
+
+
+
+### Your Choices & Access to Your Information
+
+We give you choices about how we communicate with you.
+
+Electronic Communications.  We only send you promotional email messages if you provide us with your contact information and opt in to receive the messages.  You can stop receiving promotional email messages from NBF by following the instructions provided in any such message you receive.
+
+Postal Mail.  We may mail you unsolicited offers or product information that we believe is of interest to you.  Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
+
+Access.  You can view, correct or update the personal contact information you provide us by navigating to “My Account” and logging in with your username and password. 
+
+How to Opt-In and Opt-Out of Communications
+
+Our Site provides you the opportunity to opt-in and opt-out of receiving communications from NBF.  To have your information removed from the NBF database, please contact us with your request online, by email or by phone as follows:
+
+Online.  Visit the “My Account” section on our website, and follow the instructions provided.
+
+By email.  Send an email to [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com) from your email address of record with a subject line of UNSUBSCRIBE.
+
+Click “Unsubscribe”.  Each email we send you contains an “UNSUBSCRIBE” link at the bottom of the email.  Open your email, click “UNSUBSCRIBE”, and follow the instructions on the screen to change your communication preferences.
+
+By U.S. Mail.  Let us know that you do not wish to receive some or all of these promotional communications by writing to us at NBF Guest Concerns, 4560 Beltline Road, Suite 350, Addison, Texas 75001.
+
+PLEASE NOTE:  If you choose to stop receiving promotional messages from us, we will honor your request.  However, we may need to keep the information we have collected about you for record keeping, analysis or other reasons, to the extent permitted by law.
+
+### Tracking Tools:  Cookies, Web Beacons and other Technologies
+
+We may use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities.  We might permit third parties to gather information through our websites, including for behavioral advertising purposes.  You can opt out of online behavioral advertising by going to [www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+Cookies.  A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie.  We use cookies to monitor how our sites are used and to help personalize your online experience.  For example, when you register on our sites, we may store a unique code in a cookie on your computer.  The next time you come back to the site from that computer, our servers use the cookie to recognize you.  We can then use the information you provided when you registered, combined with your activities, on our sites to provide you advertising and offers of interest.  Most browsers automatically accept cookies.  Your browser gives you the ability to delete or reject browser cookies.  If you block cookies, certain features on our website may not work.  We do not store any sensitive personal information about you in the cookie.  If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
+
+Web Beacons.  Web beacons are small bits of code embedded in web pages or in emails.  We may use web beacons to deliver or communicate with cookies, to count users who have visited a web page, and to understand usage patterns.  We also may include web beacons in e-mails to learn if messages have been opened, acted on, or forwarded.
+
+Other Technologies.  Examples of other technologies we may use to provide better service to you include:
+
+  * Web Session Variables.  Information that is passed from one web URL to another as you browse.
+  * Brower plug-ins/add ons.  Additional web components that you may need to be installed to enable certain web features on our sites.  You have the option not to install these components.
+
+
+
+### Information Sharing, Service Partners and Affiliates
+
+Third-party service providers.  We rely on third-party service providers to perform a variety of services on our behalf.  In so doing, we may need to share your personal information with them.  Please note that we provide our service providers with only the personal information they need to perform their services and require that they protect this information and not use it for any other purpose.
+
+For example, we may rely on a service provider to:
+
+  * Host our sites and deliver our email messages.
+  * Contact contest winners, manage payments or take other actions on our behalf.
+  * Analyze data, sometimes combined with other sources, to send more targeted communications to you.
+  * Conduct research and analyze data to improve our products, services and sites.
+
+
+
+In addition, we may also rely on a service provider to:
+
+  * Combine personal information about you that NBF has collected with personal information about you that our business partner has collected so that we can jointly send tailored promotional communications to you.  In such instances, our business partner will not have direct access to any information we share about you with the service provider, and only the service provider will be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you.  If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or by logging in to your account on Nothingbundtcakes.com and changing your communication settings.
+  * Perform other services that we request.
+
+
+
+We provide these companies with the personal information they need to provide these services on our behalf.  We require these companies to protect this personal information and to not use the information for any other purpose,
+
+Other situations.  We may disclose your personal information:
+
+  * If NBF, a NBF entity or business is sold to another company
+  * To protect and defend the rights and property of our customers, the public, or NBF (including enforcing our Terms and Conditions); and
+  * When we believe disclosure is necessary to comply with law, regulatory requirements or requests from public authorities.
+
+
+
+Aggregated and non-personal information.  We may share aggregated information that cannot identify you for general business analysis.  For example, we may disclose the number visitors to NBF sites or services.
+
+### Information Security
+
+We use technical, administrative, and procedural measures in an attempt to safeguard your personal and other information from unauthorized access or use.  No such measure is 100% effective though, so we do not guarantee that your personal and other information will be secure from theft, loss, or unauthorized access or use, and we make no representation as to the reasonableness, efficacy, or appropriateness of the measures we use to safeguard such information.  Users are responsible for maintaining the secrecy of their own passwords.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com).
+
+Please note that email may not be encrypted and cannot be considered a secure means of transmitting credit card numbers.  NBF will never ask you to submit your credit card information via email.
+
+### Children’s Online Privacy
+
+Like you, we have children of our own and are concerned about their safety when they use the internet.  We want you and your family to be safe while visiting our Site.  That is why, consistent with the Federal Children’s Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly request personally identifiable information from any child.  We urge parents to regularly monitor and supervise their children’s online activities.  No one under the age of 18 should submit any personal information to us without the consent of a parent or guardian.
+
+### Changes to This Privacy Policy
+
+We will post changes to this Privacy Policy and update the effective date when this Privacy Policy is updated.  The changes will take effect as soon as posted.  We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### State and Country Specific Information
+
+CALIFORNIA
+
+If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes.  To request a notice, please submit your request by postal mail to:  Nothing Bundt Cakes Guest Services, 4560 Beltline Road, Suite 350, Addison, Texas 75001.  We will make every effort to promptly respond to your request.
+
+CANADA
+
+NBF complies with Canadian Federal and Provincial privacy laws and regulations including the Personal Information Protection and Electronic Documents Act.
+
+NBF will only use your personal information for purposes intended as detailed in this Privacy Statement unless we have obtained your consent to use it for other purposes.
+
+Residents of Canada are notified that the personal information they provide to NBF is stored in the company’s databases outside of Canada including in the United States and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand pursuant to the laws of that country.
+
+### Consumers with Disabilities
+
+We are committed to world-class service for all of our guests.  In compliance with the Americans with Disabilities Act As Amended and other state, local and provincial laws, we provide effective communication with our hearing-impaired customers and assistance for customers with any special need.  Please let us know how we can accommodate you!
+
+### Refund Policy
+
+If you are unsatisfied with your order, please contact the local Nothing Bundt Cakes bakery that provided you with your order. If you need further assistance with a refund request, contact our support offices at [contact@nothingbundtcakes.com](mailto:contact@nothingbundtcakes.com). 
