@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227042613id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627212513id_/https%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Complete University Guide
 
@@ -6,7 +6,7 @@
 
 This policy (together with our [Terms of Use](https://web.archive.org/terms-and-conditions/ "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this policy carefully before you use the site.
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. If you have a query about the use of your personal information on our site, please contact [editorial@thecompleteuniversityguide.co.uk](mailto:editorial@thecompleteuniversityguide.co.uk). We may charge a reasonable fee for such requests as permitted by law.
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. If you have a query about the use of your personal information on our site, please contact [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk). We may charge a reasonable fee for such requests as permitted by law.
 
 It is very important to us that you should be able to use and enjoy the website without your privacy being compromised in any way. Please read the following to understand how your personal information will be treated. Please note that this policy may change from time to time as the website develops so please check back regularly. However, we will not reduce your rights under this privacy policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of privacy policy changes).
 
@@ -36,9 +36,9 @@ We use information held about you in the following ways:
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+We may also use your data, or permit selected third parties, such as universities during clearing, to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+If you do not want us to use your data in this way, or to pass your details on to third parties, including universities, for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
@@ -87,7 +87,7 @@ We use the following cookies:
   * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
   * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
   * Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  * Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+  * Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties, such as universities during clearing, for this purpose.
 
 
 
@@ -125,7 +125,7 @@ We may disclose your personal information to third parties:
 
 #### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party, such as universities at clearing, for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
