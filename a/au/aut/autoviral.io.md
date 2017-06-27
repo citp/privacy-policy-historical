@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoviral.io privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071506id_/http%3A//autoviral.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoviral.io privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627053012id_/http%3A//autoviral.io/privacy) for the most accurate reproduction.*
 
 # Privacy — Autoviral
 
