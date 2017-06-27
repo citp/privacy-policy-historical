@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231080038id_/http%3A//www.createandcraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627153749id_/http%3A//www.createandcraft.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Create and Craft USA
+# Privacy Policy | Create and Craft
 
-At Create and Craft, we want you to know how we collect and use information about you when you use the [www.createandcraft.com](https://web.archive.org/web/20161231080038id_/http%3A//www.createandcraft.com/www.createandcraft.com) website, place an order by telephone (including through our interactive voice response service) , use our mobile applications or otherwise provide us with information by email or other means (the “ C&C Services”). This Privacy Policy describes information that can identify you (“personal information”) that we collect, what we use your personal information for, when we might disclose that information, and how you can manage use of that information. By using the [www.createandcraft.com](https://web.archive.org/web/20161231080038id_/http%3A//www.createandcraft.com/www.createandcraft.com) website (the “Site”) or the C&C Services, you are accepting the practices described in this policy. 
+At Create and Craft, we want you to know how we collect and use information about you when you use the [www.createandcraft.com](https://web.archive.org/web/20170627153749id_/http%3A//www.createandcraft.com/us/www.createandcraft.com) website, place an order by telephone (including through our interactive voice response service) , use our mobile applications or otherwise provide us with information by email or other means (the “ C&C Services”). This Privacy Policy describes information that can identify you (“personal information”) that we collect, what we use your personal information for, when we might disclose that information, and how you can manage use of that information. By using the [www.createandcraft.com](https://web.archive.org/web/20170627153749id_/http%3A//www.createandcraft.com/us/www.createandcraft.com) website (the “Site”) or the C&C Services, you are accepting the practices described in this policy. 
 
 ### Information We May Collect
 
@@ -43,7 +43,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
 •To comply with any court order, law or legal process, including to respond to any government or regulatory request.  
-•To enforce or apply our [Terms and Conditions](http://www.createandcraft.com/terms-and-conditions-use.aspx "Terms and Conditions") of Use and other agreements, including for billing and collection purposes.  
+•To enforce or apply our [Terms and Conditions](http://www.createandcraft.com/us/terms-and-conditions-use.aspx "Terms and Conditions") of Use and other agreements, including for billing and collection purposes.  
 •If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Craft, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 We may disclose or share information that is not personal information in any other manner that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Site and who our users are so we can improve our Site and the C&C Services. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Site. 
@@ -89,3 +89,5 @@ We may update the Privacy Policy from time to time to reflect changes in our Ser
 ### How to Contact Us
 
 If you have any questions about this Privacy Policy, you should contact us by email at [customer.services@createandcraft.com](mailto:customer.services@createandcraft.com) with “PRIVACY POLICY” in the subject line.
+
+Last updated: December 4th 2014
