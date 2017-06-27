@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyfu.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113213012id_/http%3A//www.spyfu.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyfu.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210445id_/http%3A//www.spyfu.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # SpyFu Keyword Research Tools | Privacy Policy
 
