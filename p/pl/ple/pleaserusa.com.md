@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120070412id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214959id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.*
 
 # PLEASER USA, THE LEADER IN SEXY & ALTERNATIVE FOOTWEAR
 
