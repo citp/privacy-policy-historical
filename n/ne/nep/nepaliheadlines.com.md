@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nepaliheadlines.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230114113id_/http%3A//nepaliheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nepaliheadlines.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627153218id_/http%3A//nepaliheadlines.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Nepaliheadlines - Nepali Headlines
+# Privacy Policy of Nepaliheadlines - Nepali Headlines,Nepal News, Nepali News, News Nepal
+
+[vc_row][vc_column][vc_column_text]
 
 #### **Privacy Policy of Nepaliheadlines**
 
@@ -13,3 +15,5 @@ Third party vendors, including Google, use cookies to serve ads based on your p
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to this website and other websites on the internet.
 
 Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
+
+[/vc_column_text][/vc_column][/vc_row]
