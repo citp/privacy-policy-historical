@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uga.edu privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031161446id_/http%3A//eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uga.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627062936id_/http%3A//eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies, Standards, and Guidelines | Policies and Regulations | Office of Information Security | Access and Security | EITS
 
@@ -72,9 +72,9 @@ Violation of this policy may incur the same types of disciplinary measures and c
 
 #### 6.0 References
 
-  * [Progressive Discipline Guide](http://www.hr.uga.edu/progressive-discipline-guide)
+  * [Guide to Performance Management](http://www.hr.uga.edu/employees/workplace-concerns/performance-management-guide/)
   * [Student Code of Conduct](https://conduct.uga.edu/content_page/code-of-conduct)
-  * [FERPA Basics for Faculty/Staff](http://www.reg.uga.edu/ferpa_privacy_act/ferpa_for_faculty_and_staff)
+  * [FERPA Basics for Faculty/Staff](https://apps.reg.uga.edu:8743/FERPA)
   * [GLBA Policy](https://web.archive.org/access_and_security/infosec/pols_regs/policies/cisp)
   * [HIPAA Information](https://web.archive.org/access_and_security/infosec/pols_regs/hipaa)
   * [Human Subjects Office](http://www.ovpr.uga.edu/hso/)
