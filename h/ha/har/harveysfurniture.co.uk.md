@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225013846id_/http%3A//www.harveysfurniture.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627143827id_/http%3A//www.harveysfurniture.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,4 +110,4 @@ Accrington
 Lancashire  
 BB5 6NU
 
-[marketing@harveys-furnishing.co.uk](mailto:marketing@harveys-furnishing.co.uk)
+[marketing-communications@harveys-furnishing.co.uk](mailto:marketing-communications@harveys-furnishing.co.uk)
