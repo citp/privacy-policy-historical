@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021060305id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005358id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Best Wordpress Themes | Best WordPress Themes 2015
+# Privacy Policy for Best Wordpress Themes | Best WordPress Themes 2017
 
 The privacy and security of our visitors is the highest priority for us. It is the policy of **[Best WordPress Business Themes](http://bestwordpressbusinessthemes.com/ "Best WordPress Business Themes")** (BWBT) that your personal information, such as your name, address, personal postal and email address, telephone number are all kept privately and confidentially. Because your privacy is so important to us, BWBT maintains the privacy policies to protect your personal information.
 
