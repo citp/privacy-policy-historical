@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the keep2share.cc privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222033658id_/http%3A//keep2share.cc/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keep2share.cc privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200020id_/http%3A//keep2share.cc/page/policy.html) for the most accurate reproduction.*
 
 # Keep2Share Privacy Policy
-
-Keep2Share Privacy Policy
 
 Your privacy is important to us. We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose Personal Information and Usage Data when you use the Keep2Share online file hosting service ("Service"). This Privacy Policy also explains your choices for managing your information and your preferences. 
 
