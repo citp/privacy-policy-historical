@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031202id_/https%3A//www.dudamobile.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200314id_/https%3A//www.dudamobile.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -82,7 +82,7 @@ We may combine certain Personal Information with Non-Personal Information in ord
 
 ##### Compliance with Laws and Law Enforcement.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. Duda is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 ##### Business Transfers.
 
@@ -125,15 +125,15 @@ Duda Legal Department
 legal@dudamobile.com  
 +1.866.776.1550 
 
-Duda Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20161229031202id_/https%3A//www.dudamobile.com/legal/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
+Duda Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20170627200314id_/https%3A//www.dudamobile.com/legal/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
-##### US-Swiss Safe Harbor
+##### Swiss-US Privacy Shield
 
-Duda Inc. complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Duda Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+Duda Inc. complies with the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland to the United States. Duda Inc. has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification page, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/)
 
-In compliance with the US-Swiss Safe Harbor Principles, Duda Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Duda Inc. at: 
+In compliance with the Swiss-U.S. Privacy Shield Principles, Duda Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Duda Inc. at: 
 
 Duda Legal Department  
 577 College Avenue, Palo Alto, CA 94306  
@@ -141,7 +141,7 @@ legal@dudamobile.com
 +1.866.776.1550  
 
 
-COMPANY Inc. has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Duda Inc. has further committed to refer unresolved privacy complaints under Swiss-U.S. Privacy Shield to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 #### 9\. Contacting Us
 
