@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfreshwithafriend.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224012656id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreshwithafriend.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627132458id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Kimberly-Clark | Privacy Policy
 
