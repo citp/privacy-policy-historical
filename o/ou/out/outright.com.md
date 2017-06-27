@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022071631id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627211853id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GoDaddy Respects Your Privacy - GoDaddy
 
-**Last Revised: October 20, 2016**
+**Last Revised: June 8, 2017**
 
 GoDaddy Respects your privacy
 
 This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Sites that link to this Privacy Policy and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=6081aaf3-bb57-47af-af92-d6fe2430d3bc "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
 ## **EU-U.S. Privacy Shield**
 
@@ -34,7 +34,7 @@ We use your information to contact you regarding functionality changes to our pr
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. In addition, it will also describe any choice options the individual has in regards to the use and/or sharing of PII by the participant and its co-branded partner, as well as how to exercise those options.
 
-Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Madmimi to send emails your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
+Certain services offered may allow you to import contacts by uploading a file or copying and pasting from a spreadsheet to add to your account (e.g., using Mad Mimi to send emails on your behalf).  We will only use this information for your legitimate business purpose of importing the contacts as directed by you.  When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com).
 
 Our Site and mobile applications use cookies and/or other tracking technologies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.  You can control the use of cookies, at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
@@ -51,6 +51,8 @@ We use mobile analytics software to allow us to better understand the functional
 This Site and our mobile applications contain links to third party websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.  We encourage you to carefully read the privacy statement of any website you visit.
 
 For domain name registrations, please review the privacy portion (where available) of the [Registry Policies](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=20012) for the top-level domain in which you wish to or have registered a domain name to better understand how your WHOIS data is utilized by the individual registry.
+
+**_For additional information, and to manage how we use cookies, web beacons and similar technologies on your devices, please click  [here](http://www.godaddy.com/agreements/ShowDoc.aspx?pageid=24668). _**
 
 **Security**
 
@@ -133,13 +135,13 @@ Upon request we will provide you with information about whether we hold, or proc
 
 
 
-To deactivate your account, please contact our Support team for the fastest service at (480) 505-8877. If you are an international customer, you may find a list of our support phone numbers listed [here.](https://my.godaddy.com/contact-us.aspx) We have the following options for changing, terminating, and modifying your account information or contact preferences.
+To deactivate your account, please contact our Support team for the fastest service at (480) 505-8877. If you are an international customer, you may find a list of our support phone numbers listed [here.](https://www.godaddy.com/contact-us.aspx) We have the following options for changing, terminating, and modifying your account information or contact preferences.
 
 We will respond to your request for access or to modify or deactivate your information within thirty (30) days. 
 
 **Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. Furthermore, you acknowledge and agree that in order to best and promptly service our customers' requests, inquiries and/or issues, our customer support operations, including support provided via telephone and chat, are spread around the world (click [here](https://www.godaddy.com/contact-us.aspx) for list of Global Support locations and phone numbers or to chat with a representative). Accordingly, when you originate a call or chat from your country of residence, it is possible that the call or chat will be supported by a representative in another country (including, for example, one outside of the EEA), and that such information provided will be transferred to that country.  In any event, your information will be processed in accordance with this Privacy Policy.  By visiting this Site, calling or chatting with our customer service representatives, or otherwise communicating electronically with us, you consent to such transfers.
 
 **Compliance with Laws and Law Enforcement**
 
@@ -162,3 +164,5 @@ ATTN: Web Team
 14455 North Hayden Rd.  
 Suite 219   
 Scottsdale, AZ, 85260, U.S.A.
+
+To avoid any confusion here we would suggesting expanding the transfers section of the GoDaddy privacy policy, to also make clear that, if a user requests a product support call this may be resourced from  GoDaddy's wider Global support team resulting in a transfer of their contact information across international boundaries and the follow up call being made by one of GoDaddy's international support team members. 
