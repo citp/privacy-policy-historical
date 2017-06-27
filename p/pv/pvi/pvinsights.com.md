@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvinsights.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081637id_/http%3A//pvinsights.com/others/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvinsights.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627065617id_/http%3A//pvinsights.com/others/Privacy_Policy.php) for the most accurate reproduction.*
 
 # PVinsights: Privacy Policy
 
