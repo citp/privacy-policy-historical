@@ -1,823 +1,914 @@
-<!--The following is the downloaded HTML source of the autosport.com privacy policy that was archived on 2016-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223014447id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-  
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P5PMGL"></script><script src="//tags.tiqcdn.com/utag/haymarket/haymarket-corporate-site/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"91b8976abd","applicationID":"8778536","transactionName":"MgMAY0tRChUDAEFRXAtJL2F6HzQHBQZ2V10RFA1bVVUWSTICUl17BAgGW1xC","queueTime":0,"applicationTime":41,"ttGuid":"84A987A6E190C899","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss">
-  
-  
-  <meta name="robots" content="all">
-  <meta name="google-site-verification" content="e6d3YjC5Ro_nRn5Gx1VnCFIi5OSrVW7e_rUvTQPitOk">
-  <meta name="verify-v1" content="xtdSgzD4eGA8noHOtvH9pUdE9llpUzC5sW3jUqIUQkU=">
-  <meta name="Built-By" content="Haymarket Network Digital">
-
-		<meta name="title" property="og:title" content="Haymarket Media Group Privacy Policy">
-  
-  
-  
-  
-  <title>Haymarket Media Group Privacy Policy - Haymarket</title>
-
-  	
-  <link href="http://d39klmotcr4bpc.cloudfront.net/assets/static/css/base.min.css?v=14" rel="stylesheet">
-  <!--[if IE 9]>
-  <link href="http://d39klmotcr4bpc.cloudfront.net/assets/static/css/ie.css" rel="stylesheet">
-<![endif]-->
-	
-  <script type="text/javascript" src="http://d39klmotcr4bpc.cloudfront.net/assets/static/Scripts/builder.queryBuilder.js"></script>
-  <script type="text/javascript" src="http://d39klmotcr4bpc.cloudfront.net/assets/static/Scripts/jquery/2.1.1/version/dist/jquery.min.js"></script>
-  
-
-
-  <link rel="apple-touch-icon" href="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/apple-touch-icon-precomposed.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/apple-touch-icon-114x114.png">
-  <link rel="icon" sizes="196x196" href="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/apple-touch-icon.png">
-  <meta name="apple-mobile-web-app-title" content="Haymarket Media Group">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-
-  
-  
-  <script type="text/javascript">
-  var utag_data = {
-  }
-  </script>
-
-  <!-- Loading script asynchronously -->
-  <script type="text/javascript">
-      (function(a,b,c,d){
-      a='//tags.tiqcdn.com/utag/haymarket/haymarket-corporate-site/prod/utag.js';
-      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
-      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-      })();
-  </script>
-
-  <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P5PMGL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P5PMGL');</script>
-<!-- End Google Tag Manager -->
-  
-</head>
-<body>
-  
-  
-  
-<div class="container">
-
-	<div class="row topnav clearfix">
-		<div class="col-md-12 column ins">
-      
-			<nav class="navbar navbar-default" role="navigation">
-				<div class="navbar-header">
-					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="#">Regions:</a>
-				</div>
-				
-				<div class="regionsnav row clearfix">
-					<ul class="nav navbar-nav col-md-8">
-                      <span class="subtitle">Regions: </span>
-                            <li><a class="" href="/uk">UK</a></li>
-                            <li><a class="" href="/usa">US</a></li>
-                            <li><a class="" href="/asia">Asia</a></li>
-                            <li><a class="" href="/germany">Germany</a></li>
-                            <li><a class="" href="/india">India</a></li>
-						
-						
-					</ul>
-						<form class="col-md-4" role="search" action="/search/" method="get" onsubmit=" this.submit(); return false; ">
-                        <div class="input-group search">
-                            <input type="text" class="form-control" placeholder="Search" name="q">
-                              <input type="image" src="http://haycorp.s3.amazonaws.com/assets/static/img/icon-search.png">
-                        </div>
-                    </form>
-		
-				</div>
-				
-			</nav>
-		
-        </div>
-	</div>
-      <!-- start content -->
-	<div class="row clearfix main-nav">
-      <header class="ins">
-		<div class="col-md-4 col-sm-3 column menu-button">
-          	<div class="navbar-header">
-					      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                            <span class="sr-only">Toggle navigation</span>
-                              <i class="fa fa-align-right"></i>
-                            <span class="m-icon-t">MENU</span></button> 
-               </div>
-			<a href="/" class="main-logo"><img alt="Haymarket logo" src="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/Haymarket-logo.png"></a>
-            <img class="sub-logo hidden-xs hidden-sm" src="http://d39klmotcr4bpc.cloudfront.net/assets/static/img/MediaGroup.png" alt="MediaGroup Logo">
-		</div>
-		<div class="col-md-8 col-sm-9 column">
-			<nav class="navbar navbar-default" role="navigation">
-				<div class="navbar-header">
-					     <a href="tel:+442082675000" class="m-icon">
-                         <i class="fa fa-phone fa-lg"></i>
-                         <span class="m-icon-t">CONTACT</span></a>
-                  		 <button type="button" class="navbar-toggle mobile-search-button" data-toggle="collapse" data-target="#mobile-search-field">
-                             <span class="sr-only">Toggle search</span>
-                             <i class="fa fa-search fa-lg"></i>
-                             <span class="m-icon-t">SEARCH</span>
-                         </button>
-                </div>
-              
-                <div class="mobile-search visible-xs">
-                   <div class="collapse navbar-collapse " id="mobile-search-field">
-                    	<form class="col-md-12" role="search" action="/search/" method="get" onsubmit=" this.submit(); return false; ">
-                        <div class="input-group search">
-                            <input type="text" class="form-control" placeholder="Search" name="q">
-                               <button>GO</button>
-                        </div>
-                    </form>
-                   </div>
-                </div>
-				
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav">
-						<li>
-							<a href="/">Home</a>
-						</li>
-					<li class="dropdown aboutnav"> <a href="#" data-nav="/who-we-are" class="dropdown-toggle" data-toggle="dropdown">Who we are<strong class="caret"></strong></a>
-                <ul class="dropdown-menu">
-                  <div class="ins">
-                    <div class="col-md-3 col-sm-3 col-xs-12 column">
-                      <ul class="subnav">
-                        <li> <a href="/who-we-are/about-us">About us</a></li>
-                            <li> <a href="/who-we-are/our-leadership">Our leadership</a></li>
-                        <li><a href="/who-we-are/our-values">Our values</a></li>
-                        <li><a href="/who-we-are/our-vision">Our vision</a>	</li>                       
-                        <li> <a href="/who-we-are/our-contribution">Our contribution</a></li>
-                     
-                      </ul>
-                    </div>
-                    <div class="col-md-9 col-sm-9 col-xs-12 column">
-                      <div class="aboutnav-panel">
-                        <h4>Millions trust us with their big decisions</h4>
-                        <p> Our market-leading brands help people when it really matters, from buying their next car to accelerating their careers.</p>
-                        <p> It takes expertise to earn that kind of trust.</p>
-                      </div>
-                    </div>
-                  </div>
-                </ul>
-              </li>
-						<li class="dropdown brandsnav">
-							 <a href="#" class="dropdown-toggle" data-nav="/what-we-do" data-toggle="dropdown">What we do<strong class="caret"></strong></a>
-							<ul class="dropdown-menu">
-                                       <div class="ins">
-                            <div class="col-md-3 col-sm-4 col-xs-12 column">
-                                  <ul class="subnav"> 
-                                                 <li><a href="/brands" onclick="ga('send', 'event', 'What We Do Nav', 'click', 'Brands');">Our brands</a></li>         
-                                <li><a href="/what-we-do/services/list-rentals" onclick="ga('send', 'event', 'What We Do Nav', 'click', 'Services > List rentals');">List rentals</a></li>
-                                    </ul>
-								</div>
- 							<div class="col-md-9 col-sm-8 col-xs-12 column">
-								
-
-
-        <ul class="col-md-12 clientGrid">
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/pr-week" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'PRWeek');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/3903547af5dd438881bf78d8cf0e5f9a.png" alt="PRWeek">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/medical-marketing-and-media" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'Medical Marketing and Media');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/ac1f8e9874404f13912c52d561feef68.png" alt="Medical Marketing and Media">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/sc-magazine" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'SC Magazine');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/aca4aa5de3f144de93d6b6b5171af105.png" alt="SC Magazine">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/psychiatry-advisor" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'Psychiatry Advisor');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/c2f5d555c6cd43f6b3ee02d027504c49.png" alt="Psychiatry Advisor">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/mpr" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'MPR');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/28a780e0ff6646bf8afcdbb71be04e7e.png" alt="MPR">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/mycme" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'myCME');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/82f81dcfb4024b72a9ac4a87e9bead83.png" alt="myCME">
-                </a>
-            </li>
-            <li class="col-md-3 col-sm-4 col-xs-6">
-                <a href="/brands/dmn" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'DMN');">
-                    <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/cd3ff7b608894a1f8dd611c1830ea80d.jpg" alt="DMN">
-                </a>
-            </li>
-          <li class="col-md-3 col-sm-4 col-xs-6"><a href="/brands" onclick="ga('send', 'event', 'What We Do Nav > Brands', 'click', 'View All Brands');">View All Brands</a></li>
-          
-        </ul>
-
-                             </div>
-							 </div>
-							</ul>
-                          
-						</li>
-                       
-						<li class="dropdown worknav">
-							 <a href="#" class="dropdown-toggle" data-nav="/work-with-us" data-toggle="dropdown">Work with us<strong class="caret"></strong></a>
-							<ul class="dropdown-menu">
-                            <div class="ins">
-                            <div class="col-md-3 col-sm-3 col-xs-12 column">
-                                  <ul class="subnav"> 
-								<li>
-									<a href="/work-with-us/build-your-career">Build your career</a>
-</li>
-								<li>
-<a href="/work-with-us/advertise-with-us">Advertise with us</a>
-</li>
-								<li>
-<a href="/work-with-us/partner-with-us">Partner with us</a>
-</li>
-								<li>
-<a href="/work-with-us/be-a-supplier">Be a supplier</a>
-								</li>							
-							
-                         </ul>
-								</div>
-
-
- <div class="col-md-9 col-sm-9 col-xs-12  column">
-                           
-                                  <ul class="jobsGrid">
-                                  <li class="latestjobs">Latest jobs</li>
-            <li>
-                <a href="/work-with-us/build-your-career/job/irc24189" onclick="_gaq.push(['_trackEvent', 'Vacancy', 'Click', 'Associate Editor - MIMS']);">
-                    Associate Editor - MIMS
-                </a>
-              <span class="jobtype">Editorial &amp; Content Creation</span>
-              <span class="jobtype">Other</span>
-               <span class="location">  Twickenham</span> 
-            
-              
-            </li>
-            <li>
-                <a href="/work-with-us/build-your-career/job/irc25882" onclick="_gaq.push(['_trackEvent', 'Vacancy', 'Click', 'Writers - Volkswagen Group - Milton Keynes']);">
-                    Writers - Volkswagen Group - Milton Keynes
-                </a>
-              <span class="jobtype">Editorial &amp; Content Creation</span>
-              <span class="jobtype">Other</span>
-               <span class="location">  Twickenham</span> 
-            
-              
-            </li>
-            <li>
-                <a href="/work-with-us/build-your-career/job/irc25877" onclick="_gaq.push(['_trackEvent', 'Vacancy', 'Click', 'Editor - Autocar']);">
-                    Editor - Autocar
-                </a>
-              <span class="jobtype">Editorial &amp; Content Creation</span>
-               <span class="location">  Twickenham</span> 
-            
-              
-            </li>
-        </ul>
-  					  </div>
-							 </div>                             
-							</ul>                        
-                         
-						</li>
-                         <li class="dropdown newstopnav">
-							 <a href="#" class="dropdown-toggle" data-nav="/news" data-toggle="dropdown">News<strong class="caret"></strong></a>
-							<ul class="dropdown-menu">
-                            <div class="ins">
-                              
-                              
-                            <div class="col-md-3 col-sm-3 col-xs-12 column">
-                                  <ul class="subnav"> 
-								<li>
-									<a href="/news">Company news</a>
-</li>
-								<li>
-<a href="/news/social">Brand news</a>
-</li>
-								
-							
-                         </ul>
-								</div>
-
-
- <div class="col-md-9 col-sm-9 col-xs-12  column">                           
-                                  <ul class="newsGrid col-md-12">      
-		  
-                <li class="col-md-4 col-sm-4 col-xs-4">
-                    <a href="/news/autocar-courland-2016-winner-announced" onclick="ga('send', 'event', 'News Nav', 'click', 'Article > Autocar-Courland Next Generation Award 2016 winner announced');">
-
-                        <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/fb9e39edada04c28b975988a19791cb1.jpg" alt="">
-                    </a>
-
-                    <div class="meta">
-                        <span class="date">30 November 2016</span>
-                        <span class="description">
-                            <a href="/news/autocar-courland-2016-winner-announced">
-                                 Autocar-Courland Next Generation Award 2016 winner announced
-                            </a>
-                        </span>
-                    </div>
-                </li>
-                <li class="col-md-4 col-sm-4 col-xs-4">
-                    <a href="/news/skills-academy-apprentice-graduates-2016" onclick="ga('send', 'event', 'News Nav', 'click', 'Article > Third apprentice cohort “graduates” from the Skills Academy ');">
-
-                        <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/b7bcc1dfc1444ec19e8395ab3862a6a8.jpg" alt="">
-                    </a>
-
-                    <div class="meta">
-                        <span class="date">29 November 2016</span>
-                        <span class="description">
-                            <a href="/news/skills-academy-apprentice-graduates-2016">
-                                 Third apprentice cohort “graduates” from the Skills Academy 
-                            </a>
-                        </span>
-                    </div>
-                </li>
-                <li class="col-md-4 col-sm-4 col-xs-4">
-                    <a href="/news/autocar-extends-partnership-with-btcc" onclick="ga('send', 'event', 'News Nav', 'click', 'Article > Autocar and British Touring Car Championship extend agreement');">
-
-                        <img src="http://d39klmotcr4bpc.cloudfront.net/assets/instance/813ca6c59a30414c86518f4e1f773cfd.jpg" alt="">
-                    </a>
-
-                    <div class="meta">
-                        <span class="date">23 November 2016</span>
-                        <span class="description">
-                            <a href="/news/autocar-extends-partnership-with-btcc">
-                                 Autocar and British Touring Car Championship extend agreement
-                            </a>
-                        </span>
-                    </div>
-                </li>
-		  
-		  
-        </ul>
-  					  </div>
-							 </div>                             
-							</ul>                        
-                         
-						</li>
-                        <li>
-							<a href="/contact">Contact</a>
-						</li>
-					</ul>
-			
-				</div>
-				
-			</nav>
-		</div>
-        </header>
-	</div>
- 
-  
-  
- 
-		
-
-<div class="row clearfix WhoWeArenav">
-    		<div class="col-md-12 column ins"> 
-              <a class="" href="/terms-and-conditions"> Terms &amp; Conditions</a>
-              <a class="active" href="/privacy-policy"> Haymarket Media Group Privacy Policy</a>
-              <a class="" href="/cookies-policy"> Cookies Policy</a>
-  </div>     
-</div>
-
-
-
-
-<div class="row clearfix people-page" id="ourpeople">
-  
-  <div class="col-md-12 column ins">
-     
-
-          <h1>Haymarket Media Group Privacy Policy</h1>
-         
-       
-        <article>
-            <div class="inner">
-              
-              <p>&nbsp;</p>
-
-<p><strong>1 INTRODUCTION</strong></p>
-
-<p>[Haymarket Media Group Limited (“Haymarket”], “Us”, “We”, “Our”) registered in England and Wales under company number 00267189 is the Data Controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). &nbsp;&nbsp;Our VAT registration number is GB232584272</p>
-
-<p>We respect your privacy and we are committed to protecting your personal Information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.</p>
-
-<p>And here’s our upfront promise.&nbsp; We know how important it is for you to have control over any communications that you receive from us,&nbsp;<strong>so here’s a quick and easy way of opting-out of all marketing communications.</strong>&nbsp; BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you.&nbsp;<strong>Otherwise&nbsp;<a href="http://pages.haymarket.com/optout">please</a>&nbsp;<a href="http://pages.haymarket.com/optout">click here</a>.</strong></p>
-
-<p>Please read in conjunction with our&nbsp;<u><a href="http://haymarket.com/terms-and-conditions">Terms and Conditions</a></u>&nbsp;and our&nbsp;<u><a href="http://haymarket.com/CookiePolicy.aspx">Cookie Policy</a>.</u></p>
-
-<p>This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a few moments to read and understand the Policy.</p>
-
-<p>By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will update this Policy to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.</p>
-
-<p>In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the end of this document.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>2 WHAT INFORMATION DO WE COLLECT?</strong></p>
-
-<p>All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please email us at:&nbsp;<u><a href="mailto:datacontroller@haymarket.com?subject=Privacy%20Policy">datacontroller@haymarket.com</a></u>, or write to us at the address given at the end of this Policy. When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:</p>
-
-<p><strong>2.1 Information you voluntarily provide to us</strong></p>
-
-<p>We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:</p>
-
-<ul>
-	<li>When you register on our website or for a product or service, you may provide us with certain Information including your name, email address, user name, password and demographic Information</li>
-	<li>If you sign up to our service via a social network we may use the profile Information you enable us to access regarding your interests.</li>
-	<li>If you sign up to receive a newsletter, a magazine, enter a competition or participate in social networking activities, you may provide us with contact Information (e.g., email, telephone and/or or physical address)</li>
-	<li>You may provide us with Information in the course of email, customer support interactions and surveys.</li>
-</ul>
-
-<p>Different websites operated by us may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our websites. For more Information, please see the “How We Use Your Information” section of the Policy below.</p>
-
-<p><strong>2.2 Information we collect through your use of our Website</strong></p>
-
-<p>As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our&nbsp;<u><a href="http://haymarket.com/CookiePolicy.aspx">Cookie Policy</a> </u>for more Information.</p>
-
-<p><strong>2.3 Information we receive from third parties</strong></p>
-
-<p>We may also combine online and/or offline Information received from third parties (including other members of our&nbsp;group of companies – see point 15) with your Information. The third party Information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and relevance of the advertising we provide to you.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>3 PROTECTION OF CHILDREN’S PERSONAL INFORMATION</strong></p>
-
-<p><strong>3.1</strong> Most of our sites are not designed for children, but one or two may receive visits by children and young people under the age of 16 and we encourage them to speak to their parents before submitting any personal Information on any of our sites.</p>
-
-<p><strong>3.2 </strong>We recommend that parents or guardians supervise young people while they are online.</p>
-
-<p><strong>3.3</strong> We are dedicated to the protection of children’s and young people’s personal Information and we do not knowingly market to children.</p>
-
-<p><strong>3.4</strong> If you are under 16 years of age you should always ask your parent or guardian before:</p>
-
-<ul>
-	<li>Responding to anything on any of our sites</li>
-	<li>Asking us to send anything to you or another young person</li>
-	<li>Enter a competition or a game online – you must generally be over 16 years of age to enter, but please do check the specific Terms &amp; Conditions for each instance.</li>
-	<li>Post anything on a bulletin board or any chat room</li>
-	<li>Offer to agree to buy anything online</li>
-</ul>
-
-<p><strong>3.5</strong> A parent or guardian may submit a request to <a href="mailto:datacontroller@haymarket.com">datacontroller@haymarket.com</a> to stop any further use of a child or young person’s personal Information or to request that we suppress any Information as far as we are able.&nbsp; Before disclosing Information about a child, we may request that the parent or guardian provide reasonable Information for identification purposes.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>4 HOW WE USE YOUR INFORMATION</strong></p>
-
-<p>We will use your Information in the ways described below and as described at the time that the Information is collected.</p>
-
-<p><strong>4.1 To Provide the Services</strong></p>
-
-<p>In general, we use your Information as necessary or appropriate for our business purposes including to:</p>
-
-<ul>
-	<li>Administer your account where you have opened an account with us</li>
-	<li>Register you and provide you access to the website or services requested by you</li>
-	<li>Respond to inquiries or requests that you direct to us</li>
-	<li>Fulfil your requests for products or services</li>
-	<li>Send communications and administrative emails about the website or our services</li>
-	<li>Personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services</li>
-	<li>Run competitions</li>
-	<li>Deliver customer services</li>
-	<li>Other purposes related to any of the above</li>
-</ul>
-
-<p style="margin-left:22.5pt;"><strong>4.2 Marketing</strong></p>
-
-<p>Where you have provided us with the appropriate consents, or where the Act entitles us to do so, we may send you marketing materials about other products or services offered by Haymarket Media Group Ltd, including products or services offered by our group companies.</p>
-
-<p>In addition, where you have provided us with the appropriate consents, we may also pass your Information for marketing purposes or host messages on behalf of&nbsp; one or more of our group companies (see point &nbsp;15) or other selected third parties in the following sectors where the Information they provide will be relevant to you:&nbsp; Professional Associations, Automotive, Charity, Education and Training, Recruitment, Business and Leisure Travel, Events, Conferences and Exhibitions, Financial Services, Surveys and Research, Media, Broadcast and Marketing, Publishing and Subscriptions, Business and Information Services, Electronics, computers, Software and AV, Sports and Sportswear, Gaming, Betting, Telecoms and Retail and Partners and Sponsors of Promotions, Events and Competitions.</p>
-
-<p>However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the Act and the Privacy and Electronic Communications Regulations 2003, updated 2004 and 2011 are respected.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>4.3 Behavioural Advertising – customer-relevant advertising</strong></p>
-
-<p>We believe that advertising is more interesting to you when it is relevant. Accordingly, we may customise the advertisements that you see based upon:</p>
-
-<ul>
-	<li>The Information you voluntarily provide to us</li>
-	<li>Geographic location Information, which we may determine through your IP address, from your mobile device, or other ways</li>
-	<li>Data we receive from third parties</li>
-	<li>Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our&nbsp;<a href="http://www.haymarket.com/cookies-policy">Cookie</a>&nbsp;Policy&nbsp;for further Information.</li>
-	<li>Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our Cookie Policy. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our&nbsp;<u><a href="http://www.haymarket.com/cookies-policy">Cookie Policy</a></u>&nbsp;for further Information.</li>
-</ul>
-
-<p>You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our&nbsp;<u><a href="http://www.haymarket.com/cookies-policy">Cookie Policy</a></u>&nbsp;for more details of how to delete cookies.</p>
-
-<p>After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>5 CAN I FIND OUT WHAT PERSONAL INFORMATION HAYMARKET HOLDS ON ME?</strong></p>
-
-<p>Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request, as permitted by the Act, and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group Limited, Bridge House, 69 London Rd, Twickenham TW1 3SP.&nbsp; The statutory time for our response is 40 days but with your help in providing us with relevant Information we endeavour to respond sooner.</p>
-
-<p>If any of the Information that we hold about you is incorrect and you’d like it amended, please email<u><a href="mailto:datacontroller@haymarket.com">datacontroller@haymarket.com</a></u>and we’ll review your request.&nbsp;</p>
-
-<p>If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on 0344 543 8035 who will update your details as soon as practically possible.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>6 HOW WE DISCLOSE YOUR INFORMATION TO THIRD PARTIES</strong></p>
-
-<p>We may share your Information with third parties as specifically approved by you or under the circumstances described below and in this Policy.</p>
-
-<p><strong>6.1 Disclosure for legal reasons</strong></p>
-
-<p>We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging Information with other companies and organisations for fraud protection and credit risk reduction.</p>
-
-<p>We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organisations act as data processors and are strictly contractually controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.</p>
-
-<p><strong>6.2 Promotions and Sponsors</strong></p>
-
-<p>Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent, or with the terms published at the time your personal data is collected. We are not responsible for the privacy policy or practices of third parties.</p>
-
-<p>When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional Information about the specific privacy practices associated with the Promotion.</p>
-
-<p><strong>6.3 Changes to our Company</strong></p>
-
-<p>In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.</p>
-
-<p><strong>6.4 Message Boards and Chats</strong></p>
-
-<p>We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>7 UPDATING AND CONTROL OF YOUR INFORMATION</strong></p>
-
-<p>There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences.</p>
-
-<p><strong>7.1 Opting-Out on Receipt of Marketing Communications</strong></p>
-
-<p>When you receive electronic marketing communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in e-mails covering any marketing communication from us.</p>
-
-<p><strong>7.2 Preference Services</strong></p>
-
-<p>The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing contact. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent.&nbsp;</p>
-
-<p><strong>7.3 Contacting Us</strong></p>
-
-<p>If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you&nbsp;<u><a href="http://pages.haymarket.com/optout">click here</a></u>.</p>
-
-<p>Please note that:</p>
-
-<ul>
-	<li>Even if you delete Information, we may retain your Information in conformance with our data retention policy most specifically for legal and tax reasons and to honour your opt-out requests; and</li>
-	<li>We do not keep Information longer than we deem necessary.</li>
-	<li>We are not responsible for updating or removing your Information contained in the lists or databases of third parties who have previously been provided with Information as permitted by this Policy.</li>
-</ul>
-
-<p style="margin-left:35.45pt;">&nbsp;</p>
-
-<p><strong>8 THIRD PARTY LINKS AND SERVICES</strong></p>
-
-<p>Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the Information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>9 WHERE WE STORE YOUR INFORMATION</strong></p>
-
-<p>The Information that we collect from you may be transferred to, stored and processed at a destination outside the European Economic Area, (all EU countries plus Norway, Iceland and Liechtenstein). Your Information may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers, for instance, for customer service purposes. By submitting Information to us, you agree to this transfer, storing or processing. We will take all reasonable steps necessary, including the use of the Model Contractual Arrangements as approved by the EU, or other contractual means to ensure that your Information is treated securely and in accordance with this Policy and the Act.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>10 SECURITY OF YOUR INFORMATION</strong></p>
-
-<p>We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal Information to comply with the same. However, unfortunately, the transmission of Information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>11 REPORTING OF SECURITY VULNERABILITIES</strong></p>
-
-<p>Haymarket Media Group Ltd is committed to the privacy, safety and security of our customers.&nbsp; If you discover a potential security vulnerability, we would appreciate it if you could report it just to us in a responsible manner.&nbsp; Please email us at <a href="mailto:data.protection@haymarket.com">data.protection@haymarket.com</a> and we will respond to you as soon as possible.&nbsp; This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>12 SOCIAL MEDIA</strong></p>
-
-<p><strong>12.1 Haymarket Media Group&nbsp;</strong>provides users with the ability to use their social media credentials to sign in to our website(s)&nbsp;</p>
-
-<p>When you create your&nbsp;<strong>Haymarket</strong>&nbsp;account, and authenticate via a third-party service like Twitter or Facebook, you grant permission to the social network to share your user details with us.</p>
-
-<p>Depending on the network this will include</p>
-
-<ul>
-	<li>Basic account Information included in your public profile such as name and email address required to verify and facilitate your sign in</li>
-	<li>Other Information that is publically available based upon the privacy settings you have with your social media account.</li>
-	<li>Any other details you choose to share according to your specific account settings.</li>
-</ul>
-
-<p>We will be clear when we do request more than just basic account Information from you and request that you should also check what permissions we are asking for before you connect with these apps and services. We want to use this Information to better tailor any content we provide to you.</p>
-
-<p><strong>Social sign-in may be provided by&nbsp;Haymarket or a third party</strong></p>
-
-<p><strong>12.2</strong> Social networking sites, such as Facebook, Linked-In, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.</p>
-
-<p><strong>12.3</strong> We do not control how your personal Information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the Information they may be sharing. If you do not want your networking sites to share Information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such Information. Haymarket is not responsible for how these third party sites may use Information collected from or about you.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>13 ANTI-SPAM POLICY</strong></p>
-
-<p>Haymarket Media Group (Haymarket) provides exciting and thought-provoking content in our emails and aims to tailor them to the specific needs &amp; interests of our brand audiences. We hope you enjoy receiving and reading them.</p>
-
-<p>Haymarket has zero tolerance concerning the sending of unsolicited/bulk commercial email - “spam”. In respect of this policy, please also refer to our full&nbsp;<u><a href="http://www.haymarket.com/terms-and-conditions">T&amp;C’s</a></u>&nbsp;and&nbsp;<u><a href="http://www.haymarket.com/cookies-policy">Cookie Policy</a></u>.</p>
-
-<p><strong>13.1</strong> Automated Spam Filtering: We automatically scan all incoming electronic messages and filter out those that appear to be spam.&nbsp; As no system can be 100% accurate in detecting genuine emails from spam, authentic messages may occasionally be filtered. If you believe this may have happened, please contact the recipient by another means.</p>
-
-<p><strong>13.2</strong> Unwanted messages from Haymarket: Any recipient of email communication from us may request, at any time, to unsubscribe.&nbsp; In the unlikely event you are in receipt of email communication from Haymarket which could be considered as spam, we encourage you to report it to us by forwarding a copy to us at:&nbsp;<u><a href="mailto:datacontroller@haymarket.com">datacontroller@haymarket.com</a></u></p>
-
-<p>We will fully investigate any reports of abuse.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>14 HOW TO CONTACT US</strong></p>
-
-<p>If you have any questions regarding privacy or this Policy, you may contact us as follows:</p>
-
-<p>Data Protection Officer, Haymarket Media Group Ltd, Bridge House, 69 London Rd, Twickenham TW1 3SP Email us:&nbsp;<u><a href="mailto:datacontroller@haymarket.com?subject=DataControllerEmail">datacontroller@haymarket.com</a></u></p>
-
-<p>&nbsp;</p>
-
-<p><strong>15. LIST OF THE HAYMARKET GROUP OF COMPANIES – REGISTERED IN ENGLAND AND WALES</strong></p>
-
-<p>Haymarket Media Group Ltd – company number 00267189</p>
-
-<p>Haymarket Exhibitions Ltd – company number 2457048</p>
-
-<p>Haymarket Group Ltd – company number 2809261</p>
-
-<p>Haymarket Publishing Services – company number 0813651</p>
-
-<p>Haymarket Network Ltd – company number 0834207</p>
-
-<p>Haymarket Connect Ltd – company number 08359216</p>
-
-<p>&nbsp;</p>
-
-<p><strong><u>Changes to this Policy</u></strong></p>
-
-<p>We may amend/update this policy by publishing a new version on this website at any time, so we encourage you to check back regularly to make sure that you are still happy with the terms under which we process your personal data.</p>
-
-<p><em>Updated 3<sup>rd</sup> October 2016.</em></p>
-
-<p>&nbsp;</p>
-
-                
-            </div>
-        </article>
-    </div>
-
-</div>
-         
-      <div class="row clearfix twitter-panel">
-		<div class="col-md-12 column ins">			
-				<div class="col-md-4 col-sm-5 column follow-panel">
-					<p class="follow">
-						Follow us: </p>
-                  	<div class="table">
-                        <ul class="social-icons">
-                            <li><a href="https://twitter.com/haymarket_media" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/haymarket-media-group" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
-                            <li><a href="https://www.instagram.com/haymarket.media/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a></li>
-                        </ul>
-                    </div>
-				</div>
-				<div class="col-md-8 col-sm-7 column">
-                   <div id="twitterul"></div>
-			</div>
-			</div>
-		</div>
-
-   <footer>
-   	<div class="row clearfix footer">
-		<div class="col-md-12 column ins">
-			<div class="row clearfix">
-				<div class="col-md-4 column">
-					<h3>
-						Who we are
-					</h3>
-                    <p>
-                    We create award-winning specialist content for international audiences
-                    </p>
-					<ul>
-					<li>
-							<a href="/who-we-are/about-us">About us</a>
-						</li>	
-                       <li>
-							<a href="/who-we-are/our-leadership">Our leadership</a>
-						</li>
-						<li>
-							<a href="/who-we-are/our-values">Our values</a>
-						</li>
-                      <a href="/who-we-are/our-vision">Our vision</a>	
-                      
-						<li>
-							<a href="/who-we-are/our-contribution">Our contribution</a>
-						</li>
-                     
-					</ul>
-				</div>
-				<div class="col-md-4 column">
-					<h3>
-						What we do
-					</h3>
-                    <p>
-                    How we can help you grow your business
-                    </p>
-					 
-                            <ul>
-                              <li><a href="/brands/a-z">Our brands</a></li>
-                                <li><a href="/what-we-do/services/list-rentals" onclick="ga('send', 'event', 'FooterLink', 'Services > List rentals');">List rentals</a></li>
-                              <li><a href="/what-we-do/services">Our services</a></li>
-                            </ul>
-				</div>
-				<div class="col-md-4 column">
-								<h3>
-						Contact
-					</h3>
-                    <p>
-                    Get in touch with us
-                    </p>
-					<ul>
-						<li>
-							<a href="/contact">Our offices</a>
-						</li>
+<!--The following is the downloaded HTML source of the autosport.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627051448id_/https%3A//www.autosport.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+        <title>Privacy Policy</title><meta name="description" content=""><meta name="keywords" content="Autosport, motorsport, Formula One, F1, MotoGP, WRC, IndyCar, F2, WEC, Le Mans, NASCAR"><meta name="author" content="Autosport.com"><meta name="copyright" content="Autosport Media UK"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TLC5DZ"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><link rel="canonical" href="http://www.autosport.com"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="format-detection" content="telephone=no"><script src="/js/vendor/jquery-1.12.4.min.js"></script><script type="text/javascript">try { var pageDnaObj = {}; pageDnaObj.system = {"server":"10.0.1.145","controller":"index.privacy","action":"privacy","userstatus":"anonymous"};pageDnaObj.navigation = {"site":"autosport","sitecode":"ASPO","site_name":"autosport","site_domain":"www.autosport.com","locale":"en-GB","hierarchy":"About,Privacy","section_child1":"About","section_child2":"Privacy"};} catch (e) { }</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TLC5DZ');</script><link rel="stylesheet" href="/css/app.css?v=12"><link rel="stylesheet" href="/css/autosport.min.css?v=12"><link rel="stylesheet" href="/css/home.min.css?v=12"><link rel="stylesheet" href="/css/menu.min.css?v=12"><link rel="stylesheet" href="/css/print.min.css?v=12"><link rel="stylesheet" href="/css/mobilefooter.min.css?v=12"><link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/152x152.png"><link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/144x144.png"><link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/120x120.png"><link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/114x114.png"><link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/72x72.png"><link rel="apple-touch-icon-precomposed" href="/img/favicons/57x57.png"><script src="//use.edgefonts.net/source-sans-pro:n3,n4,n6,n7,n9;source-serif-pro:n3,n4,n6,n7,n9;bebas-neue.js"></script><link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css"><script type="text/javascript" src="/js/vendor/jquery.countdown.min.js"></script><script src="/js/vendor/modernizr.js"></script><script>document.createElement( "picture" );</script><script type="text/javascript" src="/js/vendor/picturefill.js"></script><script type="text/javascript" src="/js/code.js?v=10"></script><link rel="stylesheet" href="/slick/slick.css"><link rel="stylesheet" href="/slick/slick-theme.css"><script src="/slick/slick.min.js"></script>    </head>
+    <body class="privacy anonymous"> 
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLC5DZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+        
+        
+<div id="main-menu">
+	<div id="loginwrapper">
+		<div id="logincontent">
+			<span class="subscriptionlogin">
+				<ul>
+					<li><a class="signin"><i class="fa fa-user" aria-hidden="true"></i>Sign in</a></li>
+										<li><a href="/plus/?sub_campaign=newsite&amp;sub_source=topnav&amp;sub_medium=Subscribe">Subscribe to Autosport Plus</a></li>
+					<li><a href="https://secure.autosport.com/subs/signup/?package=4&amp;sub_campaign=newsite&amp;sub_source=topnav&amp;sub_medium=Register">Register for free and access more stories</a></li>
 									
-					</ul>
+				</ul>
+			</span>
+
+									<span class="subscriptionmessage">
+				<ul>
+					<li><a href="/premium/feature/7587/how-f1-title-fight-exploded-amid-baku-chaos"><span>Autosport Plus</span> <em class="divider">/</em> How F1's title fight exploded amid Baku ...</a></li>
+										<li><a href="/plus/?sub_campaign=newsite&amp;sub_source=topnav&amp;sub_medium=Latest"><span>Subscribe now</span></a></li>
+									</ul>
+			</span>
+			    		</div>
+	</div>
+
+	
+<div id="gpt_7294_leaderboard1_big" class="lb_container"></div>
+
+    					<div id="navheadlines" class="clearfix">
+				<div class="title">Highlights</div>
+				<div class="headlines slick-initialized slick-slider"><i class="fa fa-arrow-circle-left slick-arrow slick-disabled" aria-disabled="true" style="display: block;"></i>
+																					<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1449px; transform: translate3d(0px, 0px, 0px);" role="listbox"><div class="content slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide00">
+							<a href="/premium/feature/7587/how-f1-title-fight-exploded-amid-baku-chaos" class="headline" tabindex="0">
+								<span class="navprefix feature"> Autosport Plus</span> <em class="divider">/</em> 
+								 How F1's title fight exploded amid Baku chaos 							</a>
+						</div><div class="content slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide01">
+							<a href="/premium/feature/7588/azerbaijan-grand-prix-driver-ratings" class="headline" tabindex="0">
+								<span class="navprefix feature"> Autosport Plus</span> <em class="divider">/</em> 
+								 Azerbaijan Grand Prix driver ratings 							</a>
+						</div><div class="content slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide02">
+							<a href="/news/report.php/id/130402/wolff-wants-to-hear-vettel-side-of-the-story" class="headline" tabindex="0">
+								<span class="navprefix series">F1</span> <em class="divider">/</em> 
+								Wolff wants to hear Vettel's side of the story							</a>
+						</div><div class="content slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide03">
+							<a href="/news/report.php/id/130396/hamilton-dismisses-vettel-request-for-talks" class="headline" tabindex="0">
+								<span class="navprefix series">F1</span> <em class="divider">/</em> 
+								Hamilton dismisses Vettel's request for talks							</a>
+						</div><div class="content slick-slide" data-slick-index="4" aria-hidden="true" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide04">
+							<a href="/news/report.php/id/130404/ferrari-determined-to-avoid-war-of-words" class="headline" tabindex="-1">
+								<span class="navprefix series">F1</span> <em class="divider">/</em> 
+								Ferrari determined to avoid war of words							</a>
+						</div><div class="content slick-slide" data-slick-index="5" aria-hidden="true" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide05">
+							<a href="/news/report.php/id/130398/horner-puts-vettel-actions-down-to-red-mist" class="headline" tabindex="-1">
+								<span class="navprefix series">F1</span> <em class="divider">/</em> 
+								Horner puts Vettel actions down to 'red mist'							</a>
+						</div><div class="content slick-slide" data-slick-index="6" aria-hidden="true" style="width: 207px;" tabindex="-1" role="option" aria-describedby="slick-slide06">
+							<a href="/news/report.php/id/130408/coronel-crash-with-fire-van-was-25g-impact" class="headline" tabindex="-1">
+								<span class="navprefix series">WTCC</span> <em class="divider">/</em> 
+								Coronel's crash with fire van was 25G impact							</a>
+						</div></div></div>
+																																				
+																										
+																										
+																										
+																										
+																										
+														<i class="fa fa-arrow-circle-right slick-arrow" style="display: block;" aria-disabled="false"></i></div>
+			</div>
+		    	
+	<div id="main-menu-wrapper">
+		<div id="menu-wrap">
+			<div id="autosportmenu" style="position: static;">
+				<a href="/"><img src="/img/menu/autosport-logo.png" class="logo"></a>
+				<div id="mobilemenu"><a id="nav-toggle"><span></span></a></div>
+				
+				<ul class="mobilemenu">
+					<a href="/f1" onclick="return false;" class="dropmenu" data-menu="f1menu"><li class="menuitem">Formula 1 <i class="fa fa-caret-down"></i></li></a>
+					<a href="/motorsport" onclick="return false;" class="dropmenu" data-menu="seriesmenu"><li class="menuitem">More Series <i class="fa fa-caret-down"></i></li></a>
+					<a href="/gallery"><li class="menuitem">Gallery</li></a>
+					<a href="/live"><li class="menuitem">Live</li></a>
+					<a href="http://forums.autosport.com/"><li class="menuitem">Forum</li></a>
+					<a href="/other" onclick="return false;" class="dropmenu" data-menu="moremenu"><li class="menuitem">More <i class="fa fa-caret-down"></i></li></a>
+					<li class="search"><i class="fa fa-search"></i></li>
+				</ul>
+				<div id="searchbg">
+	<div id="searchcontent">
+		<form method="get" action="https://www.secure.autosport.com/search/" name="as"><input type="text" name="q" placeholder="Search will currently send you to our old site" class="searchfield"> <input type="submit" value="Search (beta)" class="searchsubmit"><input type="hidden" value="timestamp" name="s"><input type="hidden" value="0" name="g"><input type="hidden" value="new" name="site"></form>
+	</div>
+	<div class="searchclose"><i class="fa fa-times"></i></div>
+</div>				<div id="f1menu" class="expandedmenu">
+	<div class="menubg"></div>
+	<div class="menucontent">
+		<div class="menusubnav">
+			<ul class="menu">
+			  <li><a href="/f1">Formula 1</a></li>
+			  <li><i class="fa fa-caret-right"></i></li>
+			  <li><a href="/f1">News</a></li>
+			  <li><a href="/f1">Features</a></li>
+			  <li><a href="/gallery">Gallery</a></li>
+			  <li><a href="/f1/calendar">Calendar</a></li>
+			  <li><a href="/live">Live</a></li>
+			  <li><a href="/f1/standings">Standings</a></li>
+			  <li><a href="/results.php">Results</a></li>
+			  <li><a href="http://forix.autosport.com/">Statistics</a></li>
+			</ul>
+		</div>
+		
+					<div class="row">
+				<div class="small-4 columns">
+					<span class="headerbar smaller white clean nopadding">Azerbaijan <em class="divider">/</em> <span>Results</span></span>
+					
+					<table>
+					<thead>
+						<tr>
+							<th>Pos</th>
+							<th>Driver</th>
+							<th class="text-right">Time</th>
+						</tr>
+					</thead>
+					<tbody>
+												<tr>
+							<td>1</td>
+							<td><a href="/driver/1989070100/Daniel+Ricciardo">Daniel Ricciardo</a></td>
+							<td class="text-right">2h03m55.573s</td>
+						</tr>
+						 						<tr>
+							<td>2</td>
+							<td><a href="/driver/1989082800/Valtteri+Bottas">Valtteri Bottas</a></td>
+							<td class="text-right">2h03m59.477s</td>
+						</tr>
+						 						<tr>
+							<td>3</td>
+							<td><a href="/driver/1998102900/Lance+Stroll">Lance Stroll</a></td>
+							<td class="text-right">2h03m59.582s</td>
+						</tr>
+						 						<tr>
+							<td>4</td>
+							<td><a href="/driver/1987070300/Sebastian+Vettel">Sebastian Vettel</a></td>
+							<td class="text-right">2h04m01.549s</td>
+						</tr>
+						 						<tr>
+							<td>5</td>
+							<td><a href="/driver/1985010700/Lewis+Hamilton">Lewis Hamilton</a></td>
+							<td class="text-right">2h04m01.761s</td>
+						</tr>
+						 					</tbody>
+					</table>
+				</div>
+				<div class="small-4 columns">
+					<span class="headerbar smaller white clean nopadding">Standings <em class="divider">/</em> <span>After 8 races</span></span>
+					
+					<table>
+					<thead>
+						<tr>
+							<th>Pos</th>
+							<th>Driver</th>
+							<th class="text-right">Points</th>
+						</tr>
+					</thead>
+					<tbody>
+												<tr>
+							<td>1</td>
+							<td><a href="/driver/1987070300/Sebastian+Vettel">Sebastian Vettel</a></td>
+							<td class="text-right">153</td>
+						</tr>
+						 						<tr>
+							<td>2</td>
+							<td><a href="/driver/1985010700/Lewis+Hamilton">Lewis Hamilton</a></td>
+							<td class="text-right">139</td>
+						</tr>
+						 						<tr>
+							<td>3</td>
+							<td><a href="/driver/1989082800/Valtteri+Bottas">Valtteri Bottas</a></td>
+							<td class="text-right">111</td>
+						</tr>
+						 						<tr>
+							<td>4</td>
+							<td><a href="/driver/1989070100/Daniel+Ricciardo">Daniel Ricciardo</a></td>
+							<td class="text-right">92</td>
+						</tr>
+						 						<tr>
+							<td>5</td>
+							<td><a href="/driver/1979101700/Kimi+Raikkonen">Kimi Raikkonen</a></td>
+							<td class="text-right">73</td>
+						</tr>
+						 						<tr>
+							<td colspan="3"><i class="fa fa-caret-right"></i> <a href="/f1/standings">Browse full championship table</a></td>
+						</tr>
+					</tbody>
+					</table>
+					
+				</div>
+				<div class="small-4 columns">
+					<span class="headerbar smaller white clean nopadding">Coming up</span>
+					
+					<table>
+					<thead>
+						<tr>
+							<th>Race</th>
+							<th>Circuit</th>
+							<th class="text-right">Date</th>
+						</tr>
+					</thead>
+					<tbody>
+												<tr>
+							<td>Austria</td>
+							<td>Red Bull Ring</td>
+							<td class="text-right">9 Jul</td>
+						</tr>
+												<tr>
+							<td>Great Britain</td>
+							<td>Silverstone</td>
+							<td class="text-right">16 Jul</td>
+						</tr>
+												<tr>
+							<td>Hungary</td>
+							<td>Hungaroring</td>
+							<td class="text-right">30 Jul</td>
+						</tr>
+												<tr>
+							<td>Belgium</td>
+							<td>Spa-Francorchamps</td>
+							<td class="text-right">27 Aug</td>
+						</tr>
+												<tr>
+							<td>Italy</td>
+							<td>Monza</td>
+							<td class="text-right">3 Sep</td>
+						</tr>
+												<tr>
+							<td colspan="3"><i class="fa fa-caret-right"></i> <a href="/f1/calendar">See full Formula 1 calendar</a></td>
+						</tr>
+					</tbody>
+					</table>
 				</div>
 			</div>
-		</div>	
-    </div>
-    <div class="trademark">
-    	<span class="copyright">© Haymarket Media Group 2016</span> <a href="/privacy-policy">Privacy Policy</a>  |  <a href="/terms-and-conditions">Terms &amp; Conditions</a>  |  <a href="/cookies-policy">Cookies Policy</a>
-      <p class="built">Built by <a href="http://www.haymarketnetwork.com/?utm_source=haymarket.com&amp;utm_medium=builtby&amp;utm_campaign=Link" onclick="ga('send', 'event',  'builtby', 'linkout');" target="_blank">Haymarket Network</a>, Haymarket's content and digital agency.</p>
-     </div>
-   </footer>
+		 	</div>
+</div>				<div id="seriesmenu" class="expandedmenu">
+	<div class="menubg"></div>
+	<div class="menucontent">
+		<div class="row small-up-7">
+			<div class="column">
+				<a href="/single-seaters" class="series">Single-seaters
+				<img src="/img/menu/single-seaters.jpg"></a>
+				<a href="/indycar">IndyCar</a>
+				<a href="/f2">F2</a>
+				<a href="/gp3">GP3</a>
+				<a href="/fv8+3.5">Formula V8 3.5</a>
+				<a href="/f3">Formula 3</a>
+				<a href="/fe">Formula E</a>
+			</div>
+			<div class="column">
+				<a href="/motogp" class="series">MotoGP
+				<img src="/img/menu/motogp.jpg"></a>
+				<a href="/motogp">MotoGP</a>
+				<a href="/moto2">Moto2</a>
+				<a href="/moto3">Moto3</a>
+			</div>
+			<div class="column">
+				<a href="/sportscars" class="series">Sportscars
+				<img src="/img/menu/sportscars.jpg"></a>
+				<a href="/wec">World Endurance Championship</a>
+				<a href="/gt">GT</a>
+				<a href="/imsa">IMSA Sportscar Championship</a>
+			</div>
+			<div class="column">
+				<a href="/rallying" class="series">Rally
+				<img src="/img/menu/rally.jpg"></a>
+				<a href="/wrc">World Rally Championship</a>
+				<a href="/erc">European Rally Championship</a>
+				<a href="/dakar">Dakar Rally</a>
+			</div>
+			<div class="column">
+				<a href="/touring+cars" class="series">Touring cars
+				<img src="/img/menu/touringcars.jpg"></a>
+				<a href="/wtcc">World Touring Car Championship</a>
+				<a href="/btcc">British Touring Car Championship</a>
+				<a href="/dtm">DTM</a>
+				<a href="/supercars">Supercars</a>
+			</div>
+			<div class="column">
+				<a href="/us" class="series">U.S.
+				<img src="/img/menu/us.jpg"></a>
+				<a href="/indycar">IndyCar</a>
+				<a href="/nascar">NASCAR</a>
+			</div>
+			<div class="column">
+				<a href="/national" class="series">More
+				<img src="/img/menu/more.jpg"></a>
+				<a href="/national">National</a>
+				<a href="/rallycross">Rallycross</a>
+				<a href="/other">Other series</a>
+				<a href="/performance">Performance</a>
+				<a href="/historics">Historics</a>
+			</div>
+		</div>
+	</div>
+</div>				<div id="moremenu" class="expandedmenu">
+	<div class="menubg"></div>
+	<div class="menucontent">
+		<div class="row moremenu">
+			<div class="small-8 columns">
+				<span class="headerbar smaller white clean nopadding">More on Autosport</span>
+				
+				<div class="row">
+					<div class="small-6 columns">
+						<table>
+						<tbody>
+							<tr>
+								<td>
+									<a href="/news">News and Features</a>
+									<span class="sell">Browse all our editorial content in one place</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="/live">Autosport Live</a>
+									<span class="sell">Minute-by-minute live race commentary</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="/gallery">Gallery</a>
+									<span class="sell">The best photography from around the world</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="https://gppredictor.com/">Grand Prix Predictor</a>
+									<span class="sell">Predict the winners for every race of the season</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://forix.autosport.com/">Forix Stats</a>
+									<span class="sell">The world's best motorsport stats database</span>
+								</td>
+							</tr>
+						</tbody>
+						</table>
+					</div>
+					<div class="small-6 columns">
+						<table>
+						<tbody>
+							<tr>
+								<td>
+									<a href="http://digitalmagazine.autosport.com/">Autosport Digital Magazine</a>
+									<span class="sell">Read or download today. New issue out every week.</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://awards.autosport.com/">Autosport Awards</a>
+									<span class="sell">Motorsport's most prestigious awards.</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://www.autosportinternational.com/">Autosport International</a>
+									<span class="sell">Our 4-day live event for motorsport fans</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://motorsport-jobs.autosport.com/">Motorsport Jobs</a>
+									<span class="sell">Browse the latest job vacancies</span>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="http://business-directory.autosport.com/">Business Directory</a>
+									<span class="sell">Search from almost 4,000 motorsport business</span>
+								</td>
+							</tr>
+						</tbody>
+						</table>
+					</div>
+				</div>					
+			</div>
+			<div class="small-4 columns">
+				<span class="headerbar smaller white clean nopadding social">Follow us</span>
+				
+				<table class="social">
+				<tbody>
+					<tr><td><a href="https://facebook.com/autosport"><i class="fa fa-facebook-square"></i>Facebook</a></td></tr>
+					<tr><td><a href="https://twitter.com/autosport"><i class="fa fa-twitter-square"></i>Twitter</a></td></tr>
+					<tr><td><a href="https://www.instagram.com/autosportdotcom/"><i class="fa fa-instagram"></i>Instagram</a></td></tr>
+					<tr><td><a href="https://soundcloud.com/autosport"><i class="fa fa-soundcloud"></i>The Autosport Podcast</a></td></tr>
+					<tr><td><a href="https://www.youtube.com/autosportdotcom"><i class="fa fa-youtube-play"></i>Youtube</a></td></tr>
+					<tr><td><a href="/rss"><i class="fa fa-rss-square"></i>RSS Feeds</a></td></tr>
+					<tr><td><a href="https://secure.autosport.com/subs/signup/?package=4"><i class="fa fa-envelope"></i>Weekly newsletter</a></td></tr>
+				</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>			</div>
+		</div>
+	</div>
+	<div id="menuoverlay">
+	<div class="menuwrapper">
+				<div class="row collapse">
+			<div class="small-12 columns"><a href="javascript:void(0)" onclick="jQuery('div#loginoverlay').removeClass('deactive'); return true;" class="button radius expanded signin">Sign in</a></div>
+		</div>
+		<div class="row collapse">
+			<div class="small-6 columns text-center"><a href="/plus" class="signout">Subscribe to<br>Autosport Plus</a></div>
+			<div class="small-6 columns text-center"><a href="https://secure.autosport.com/subs/signup/?package=4&amp;sub_campaign=newsite&amp;sub_source=mobilenav&amp;sub_medium=Register" class="signout">Register for free</a></div>
+		</div>
+				
+		<div class="searchbox">
+			<div class="row">
+				<div class="small-12">
+					<form method="get" action="https://www.secure.autosport.com/search/" name="as">
+					<div class="row collapse">
+						<div class="small-10 columns">
+							<input type="text" name="q" placeholder="Search Autosport (beta)">
+						</div>
+						<div class="small-2 columns">
+							<a href="/search" type="submit" class="button postfix" onclick="document.getElementById('as').submit(); return false;"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+					<div class="row collapse">
+						<div class="small-12 columns" style="margin-top:5px; font-size:12px; line-height:15px; color:#c3cdd3;">Search will currently send you to our old site.</div>
+					</div>
+					<input type="hidden" value="timestamp" name="s"><input type="hidden" value="0" name="g"><input type="hidden" value="new" name="site"></form>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="small-12 medium-6 columns hide-for-small-only">
+				<ul>
+					<li>Formula 1</li>
+					<li><a href="/f1">Formula 1</a></li>
+					<li><a href="/f1">News</a></li>
+					<li><a href="/f1">Features</a></li>
+					<li><a href="/gallery">Gallery</a></li>
+					<li><a href="/f1/calendar">Calendar</a></li>
+					<li><a href="/live">Live</a></li>
+					<li><a href="/f1/standings">Standings</a></li>
+					<li><a href="/results.php">Results</a></li>
+					<li><a href="http://forix.autosport.com/">Statistics</a></li>
+				</ul>
+			</div>
+			<div class="small-12 medium-6 columns">
+				<ul>
+					<li>Explore <span>More Series</span></li>
+					<li class="hide-for-medium-only"><a href="/f1">Formula 1</a></li>
+					<li><a href="/Single-seaters">Single-seaters</a></li>
+					<li><a href="/motogp">MotoGP</a></li>
+					<li><a href="/sportscars">Sportscars</a></li>
+					<li><a href="/rallying">Rallying</a></li>
+					<li><a href="/touring+cars">Touring cars</a></li>
+					<li><a href="/us">U.S.</a></li>
+					<li><a href="/national">National</a></li>
+					<li><a href="/other">Other</a></li>
+					<li><a href="/performance">Performance</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="small-12 medium-6 columns">
+				<ul>
+					<li class="more">More from Autosport</li>
+					<li><a href="/news">All News and Features</a></li>
+					<li><a href="http://forums.autosport.com/">Forum</a></li>
+					<li><a href="/live">Live</a></li>
+					<li><a href="/gallery">Gallery</a></li>
+					<li><a href="http://forix.autosport.com/">Forix Stats</a></li>
+					<li><a href="http://motorsport-jobs.autosport.com/">Motorsport Jobs</a></li>
+					<li><a href="http://business-directory.autosport.com/">Business Directory</a></li>
+					<li><a href="http://awards.autosport.com/">Autosport Awards</a></li>
+					<li><a href="http://www.autosportinternational.com/">Autosport International</a></li>
+					<li><a href="http://gppredictor.com">Grand Prix Predictor</a></li>
+					<li><a href="http://digitalmagazine.autosport.com/">Digital Magazine</a></li>
+				</ul>
+			</div>
+			<div class="small-12 medium-6 columns">
+				<ul>
+					<li class="social">Follow us</li>
+					<li><a href="https://twitter.com/autosport">Twitter</a></li>
+					<li><a href="https://facebook.com/autosport">Facebook</a></li>
+					<li><a href="https://www.instagram.com/autosportdotcom/">Instagram</a></li>
+					<li><a href="https://soundcloud.com/autosport">Soundcloud</a></li>
+					<li><a href="https://www.youtube.com/autosportdotcom">Youtube</a></li>
+					<li><a href="/rss">RSS</a></li>
+					<li><a href="https://secure.autosport.com/subs/signup/?package=4">Weekly newsletter</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div></div>
+        
+		<div class="skinbody">
+			<div class="wrapper"><div id="header">
+	<h1>Privacy Policy</h1>
 </div>
-  
-  
-  
-  
-    <!-- RequireJS -->
-    <script src="http://d39klmotcr4bpc.cloudfront.net/assets/static/Scripts/requirejs/2.1.15/version/require.js"></script>
-  	<script>
-      
-      // contents of app.js:
-      require.config({
-        	"urlArgs": "v=11",
-            "baseUrl": "http://d39klmotcr4bpc.cloudfront.net/assets/static/Scripts/",
-            "paths": {
-                "jquery": "jquery/2.1.1/version/dist/jquery.min",
-                "jqueryui": "jquery.ui/jquery-ui-1.11.4.custom/jquery-ui.min",
-                "knockout": "knockout/3.2.0/version/build/output/knockout-latest",
-                "bootstrap": "bootstrap/3.3.1/version/dist/js/bootstrap.min",
-                "jqote": "misc-legacy/jquery.jqote2.min",
-                "twitterFetcher": "twitterFetcher/twitterFetcher_min",
-        		"bxslider": "bxslider/jquery.bxslider.min",
-            },
-            "shim": {
-                "jqueryui": { "deps": ["jquery"] },
-                "bootstrap": { "deps": ["jquery"] },
-                "jqote": { "deps": ["jquery"] },
-        		"bxslider": { "deps": ["jquery"], exports: "jQuery.fn.bxSlider" },
-            },
-        });
-      
-        require(["app/jquery"]); //load jquery
-        require(["app/knockout"]); //load knockout
-        require(["app/bootstrap"]); //load knockout
-        require(["app/twitterFetcher"]); //load twitterFetcher
-		require(["app/bxSlider"]); //load bxSlider
-      
-    </script>
-    <!-- RequireJS -->
-  
-    <script type="text/javascript">
-    var fby = fby || [];
-    fby.push(['showTab', { id: '9240', position: 'right', color: '#F41C49' }]);
-    (function () {
-        var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
-        f.src = '//cdn.feedbackify.com/f.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
-    })();
-    </script>
-  
 
+<div class="leftColumn full">
+	<div class="body" style="font-size:13px;">
+		<p></p><h2>1. Introduction</h2><p></p>
+
+		<p>[Autosport Media UK Limited (“Autosport Media”], “Us”, “We”, “Our”) registered in England and Wales under company number 10321187 is the Data Controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). &nbsp;&nbsp;Our VAT registration number is GB251 4236 33</p>
+
+		<p>We respect your privacy and we are committed to protecting your personal Information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.</p>
+
+		<p>And here’s our upfront promise.&nbsp; We know how important it is for you to have control over any communications that you receive from us,&nbsp;so here’s a quick and easy way of opting-out of all marketing communications.&nbsp; BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you.&nbsp;Otherwise&nbsp;please&nbsp;click here.</p>
+
+		<p>Please read in conjunction with our&nbsp;<a href="/terms-and-conditions">Terms &amp; Conditions</a>&nbsp;and our&nbsp;<a href="/cookies-policy">Cookie Policy</a>.</p>
+
+		<p>This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a few moments to read and understand the Policy.</p>
+
+		<p>By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will update this Policy to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.</p>
+
+		<p>In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the end of this document.</p>
+		&nbsp;
+		<p></p><h2>2. What information do we collect?</h2><p></p>
+
+		<p>All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please email us at: datacontroller@autosport.com, or write to us at the address given at the end of this Policy. When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:</p>
+
+		<p>2.1. Information you voluntarily provide to us</p>
+
+		<p>We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:</p>
+
+		<ul>
+			<li>When you register on our website or for a product or service, you may provide us with certain Information including your name, email address, user name, password and demographic Information</li>
+			<li>If you sign up to our service via a social network we may use the profile Information you enable us to access regarding your interests.</li>
+			<li>If you sign up to receive a newsletter, a magazine, enter a competition or participate in social networking activities, you may provide us with contact Information (e.g., email, telephone and/or or physical address)</li>
+			<li>You may provide us with Information in the course of email, customer support interactions and surveys.</li>
+		</ul>
+
+		<p>Different websites operated by us may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our websites. For more Information, please see the “How We Use Your Information” section of the Policy below.</p>
+
+		<p>2.2. Information we collect through your use of our Website</p>
+
+		<p>As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our&nbsp;Cookie Policy&nbsp;for more Information.</p>
+
+		<p>2.3. Information we receive from third parties</p>
+
+		<p>We may also combine online and/or offline Information received from third parties (including other members of our&nbsp;group of companies – see point 15) with your Information. The third party Information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and relevance of the advertising we provide to you.</p>
+		&nbsp;
+		<p></p><h2>3. Protection of children’s personal information</h2><p></p>
+
+		<p>3.1.&nbsp;Most of our sites are not designed for children, but one or two may receive visits by children and young people under the age of 16 and we encourage them to speak to their parents before submitting any personal Information on any of our sites.</p>
+
+		<p>3.2.&nbsp;We recommend that parents or guardians supervise young people while they are online.</p>
+		
+		<p>3.3.&nbsp;We are dedicated to the protection of children’s and young people’s personal Information and we do not knowingly market to children.</p>
+		
+		<p>3.4.&nbsp;If you are under 16 years of age you should always ask your parent or guardian before:</p>
+
+		<ul>
+			<li>Responding to anything on any of our sites</li>
+			<li>Asking us to send anything to you or another young person</li>
+			<li>Enter a competition or a game online – you must generally be over 16 years of age to enter, but please do check the specific Terms &amp; Conditions for each instance.</li>
+			<li>Post anything on a bulletin board or any chat room</li>
+			<li>Offer to agree to buy anything online</li>
+		</ul>
+
+		<p>3.5.&nbsp;A parent or guardian may submit a request to&nbsp;datacontroller@autosport.com to stop any further use of a child or young person’s personal Information or to request that we suppress any Information as far as we are able.&nbsp; Before disclosing Information about a child, we may request that the parent or guardian provide reasonable Information for identification purposes.</p>
+		&nbsp;
+		<p></p><h2>4. How we use your information</h2><p></p>
+
+		<p>We will use your Information in the ways described below and as described at the time that the Information is collected.</p>
+
+		<p>4.1. To Provide the Services</p>
+
+		<p>In general, we use your Information as necessary or appropriate for our business purposes including to:</p>
+
+		<ul>
+			<li>Administer your account where you have opened an account with us</li>
+			<li>Register you and provide you access to the website or services requested by you</li>
+			<li>Respond to inquiries or requests that you direct to us</li>
+			<li>Fulfil your requests for products or services</li>
+			<li>Send communications and administrative emails about the website or our services</li>
+			<li>Personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services</li>
+			<li>Run competitions</li>
+			<li>Deliver customer services</li>
+			<li>Other purposes related to any of the above</li>
+		</ul>
+
+		<p>4.2. Marketing</p>
+		
+		<p>Where you have provided us with the appropriate consents, or where the Act entitles us to do so, we may send you marketing materials about other products or services offered by Autosport Media UK Ltd, including products or services offered by our group companies.</p>
+		
+		<p>In addition, where you have provided us with the appropriate consents, we may also pass your Information for marketing purposes or host messages on behalf of&nbsp; one or more of our group companies (see point &nbsp;15) or other selected third parties in the following sectors where the Information they provide will be relevant to you:&nbsp; Professional Associations, Automotive, Charity, Education and Training, Recruitment, Business and Leisure Travel, Events, Conferences and Exhibitions, Financial Services, Surveys and Research, Media, Broadcast and Marketing, Publishing and Subscriptions, Business and Information Services, Electronics, computers, Software and AV, Sports and Sportswear, Gaming, Betting, Telecoms and Retail and Partners and Sponsors of Promotions, Events and Competitions.</p>
+		
+		<p>However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the Act and the Privacy and Electronic Communications Regulations 2003, updated 2004 and 2011 are respected.</p>
+		&nbsp;
+		<p>4.3. Behavioural Advertising – customer-relevant advertising</p>
+		
+		<p>We believe that advertising is more interesting to you when it is relevant. Accordingly, we may customise the advertisements that you see based upon:</p>
+
+		<ul>
+			<li>The Information you voluntarily provide to us</li>
+			<li>Geographic location Information, which we may determine through your IP address, from your mobile device, or other ways</li>
+			<li>Data we receive from third parties</li>
+			<li>Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our&nbsp;Cookie&nbsp;Policy&nbsp;for further Information.</li>
+			<li>Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our Cookie Policy. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our&nbsp;Cookie Policy&nbsp;for further Information.</li>
+		</ul>
+
+		<p>You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our&nbsp;Cookie Policy&nbsp;for more details of how to delete cookies.</p>
+		
+		<p>After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.</p>
+		&nbsp;
+		<p></p><h2>5. Can i find out what personal information Autosport Media holds on me?</h2><p></p>
+		
+		<p>Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request, as permitted by the Act, and it will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Autosport Media UK Limited, 1 Eton Street, Richmond, TW9 1EF.&nbsp; The statutory time for our response is 40 days but with your help in providing us with relevant Information we endeavour to respond sooner.</p>
+		
+		<p>If any of the Information that we hold about you is incorrect and you’d like it amended, please email datacontroller@autosport.com and we’ll review your request.</p>
+		
+		<p>If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on 0344 543 8035 who will update your details as soon as practically possible.</p>
+		&nbsp;
+		<p></p><h2>6. How we disclose your information to third parties</h2><p></p>
+
+		<p>We may share your Information with third parties as specifically approved by you or under the circumstances described below and in this Policy.</p>
+		
+		<p>6.1. Disclosure for legal reasons</p>
+		
+		<p>We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging Information with other companies and organisations for fraud protection and credit risk reduction.</p>
+		
+		<p>We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organisations act as data processors and are strictly contractually controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.</p>
+		
+		<p>6.2. Promotions and Sponsors</p>
+		
+		<p>Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent, or with the terms published at the time your personal data is collected. We are not responsible for the privacy policy or practices of third parties.</p>
+		
+		<p>When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional Information about the specific privacy practices associated with the Promotion.</p>
+		
+		<p>6.3. Changes to our Company</p>
+		
+		<p>In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.</p>
+		
+		<p>6.4. Message Boards and Chats</p>
+		
+		<p>We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.</p>
+		&nbsp;
+		<p></p><h2>7. Updating and control of your information</h2><p></p>
+
+		<p>There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences.</p>
+		
+		<p>7.1. Opting-Out on Receipt of Marketing Communications</p>
+		
+		<p>When you receive electronic marketing communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in e-mails covering any marketing communication from us.</p>
+		
+		<p>7.2. Preference Services</p>
+		
+		<p>The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing contact. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent.</p>
+		
+		<p>7.3. Contacting Us</p>
+		
+		<p>If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you&nbsp;click here.</p>
+		
+		<p>Please note that:</p>
+
+		<ul>
+			<li>Even if you delete Information, we may retain your Information in conformance with our data retention policy most specifically for legal and tax reasons and to honour your opt-out requests; and</li>
+			<li>We do not keep Information longer than we deem necessary.</li>
+			<li>We are not responsible for updating or removing your Information contained in the lists or databases of third parties who have previously been provided with Information as permitted by this Policy.</li>
+		&nbsp;</ul>
+
+		<p></p><h2>8. Third party links and services</h2><p></p>
+
+		<p>Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the Information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.</p>
+		&nbsp;
+		<p></p><h2>9. Where we store your information</h2><p></p>
+
+		<p>The Information that we collect from you may be transferred to, stored and processed at a destination outside the European Economic Area, (all EU countries plus Norway, Iceland and Liechtenstein). Your Information may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers, for instance, for customer service purposes. By submitting Information to us, you agree to this transfer, storing or processing. We will take all reasonable steps necessary, including the use of the Model Contractual Arrangements as approved by the EU, or other contractual means to ensure that your Information is treated securely and in accordance with this Policy and the Act. We do not store credit card details nor do we share customer details with any 3rd parties.</p>
+		&nbsp;
+		<p></p><h2>10. Security of your information</h2><p></p>
+
+		<p>We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal Information to comply with the same. However, unfortunately, the transmission of Information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it.</p>
+		&nbsp;
+		<p></p><h2>11. Reporting of security vulnerabilities</h2><p></p>
+
+		<p>Autosport Media UK Ltd is committed to the privacy, safety and security of our customers.&nbsp; If you discover a potential security vulnerability, we would appreciate it if you could report it just to us in a responsible manner.&nbsp; Please email us at&nbsp;datacontroller@autosport.com&nbsp;and we will respond to you as soon as possible.&nbsp; This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.</p>
+		&nbsp;
+		<p></p><h2>12. Social Media</h2><p></p>
+
+		<p>12.1. Autosport Media UK Limited&nbsp;provides users with the ability to use their social media credentials to sign in to our website(s)</p>
+		
+		<p>When you create your&nbsp;Autosport Media account, and authenticate via a third-party service like Twitter or Facebook, you grant permission to the social network to share your user details with us.</p>
+		
+		<p>Depending on the network this will include</p>
+
+		<ul>			
+			<li>Basic account Information included in your public profile such as name and email address required to verify and facilitate your sign in</li>
+			<li>Other Information that is publically available based upon the privacy settings you have with your social media account.</li>
+			<li>Any other details you choose to share according to your specific account settings.</li>
+		</ul>
+
+		<p>We will be clear when we do request more than just basic account Information from you and request that you should also check what permissions we are asking for before you connect with these apps and services. We want to use this Information to better tailor any content we provide to you.</p>
+		
+		<p>Social sign-in may be provided by&nbsp;Autosport Media or a third party</p>
+		
+		<p>12.2.&nbsp;Social networking sites, such as Facebook, Linked-In, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.</p>
+		
+		<p>12.3.&nbsp;We do not control how your personal Information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the Information they may be sharing. If you do not want your networking sites to share Information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such Information. Autosport Media is not responsible for how these third party sites may use Information collected from or about you.</p>
+		&nbsp;
+		<p></p><h2>13. Anti-spam policy</h2><p></p>
+
+		<p>Autosport Media UK Limited (Autosport Media) provides exciting and thought-provoking content in our emails and aims to tailor them to the specific needs &amp; interests of our brand audiences. We hope you enjoy receiving and reading them.</p>
+		
+		<p>Autosport Media has zero tolerance concerning the sending of unsolicited/bulk commercial email - “spam”. In respect of this policy, please also refer to our full&nbsp;<a href="/terms-and-conditions">Terms &amp; Conditions</a>&nbsp;and <a href="/cookies-policy">Cookie Policy</a>.</p>
+		
+		<p>13.1.&nbsp;Automated Spam Filtering: We automatically scan all incoming electronic messages and filter out those that appear to be spam.&nbsp; As no system can be 100% accurate in detecting genuine emails from spam, authentic messages may occasionally be filtered. If you believe this may have happened, please contact the recipient by another means.</p>
+		
+		<p>13.2.&nbsp;Unwanted messages from Autosport Media: Any recipient of email communication from us may request, at any time, to unsubscribe.&nbsp; In the unlikely event you are in receipt of email communication from Autosport Media which could be considered as spam, we encourage you to report it to us by forwarding a copy to us at:&nbsp;datacontroller@autosport.com</p>
+		
+		<p>We will fully investigate any reports of abuse.</p>
+		&nbsp;
+		<p></p><h2>14. How to contact us</h2><p></p>
+
+		<p>If you have any questions regarding privacy or this Policy, you may contact us as follows:</p>
+		
+		<p>Data Protection Officer, Autosport Media UK Ltd, 1 Eton Street, Richmond, TW9 1EF Email us:&nbsp;datacontroller@autosport.com</p>
+		&nbsp;
+		<p></p><h2>15. List of the Autosport Media companies – registered in England and Wales</h2><p></p>
+
+		<p>Amalgam Collections – company number 05210453</p>
+		
+		<p>Amalgam Holdings – company number 06452453</p>
+		
+		<p>LAT Archive – company number 10595488</p>
+		
+		<p>LAT Images – company number 10595199</p>
+		
+		<p>Motor1 UK Media Ltd – company number 10042383</p>
+		
+		<p>Motorsport Forix Ltd – company number 10595284</p>
+		
+		<p>Motorsport Stats Ltd – company number 09537398</p>
+
+		<p></p><h2>Changes to this Policy</h2><p></p>
+		
+		<p>We may amend/update this policy by publishing a new version on this web site at any time, so we encourage you to check back regularly to make sure that you are still happy with the terms under which we process your personal data.
+		
+		</p><p><em>Updated 10&nbsp;February 2017.</em></p>
+	</div>
+</div></div>
+		</div>
+		
+        
+        		
+		<div class="skinbody">
+	        <div id="footer">
+	<div class="row">
+		<div class="small-12 columns text-center">
+			<img src="/img/logos/autosport-logo-inverse.png">
+		</div>
+	</div>
+	<div class="row social">
+		<div class="small-12 columns text-center">
+			<a href="https://twitter.com/autosport" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href="https://www.facebook.com/autosport/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a href="https://www.instagram.com/autosportdotcom/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			<a href="https://www.youtube.com/user/AUTOSPORTdotcom" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+			<a href="https://soundcloud.com/autosport" target="_blank"><i class="fa fa-soundcloud" aria-hidden="true"></i></a>
+		</div>
+	</div>
+	<div class="row footer">
+		<div class="row small-up-1 medium-up-2 large-up-4">
+			<div class="column">
+				<ul class="menu vertical">
+					<li><span class="headerbar smaller white">Autosport</span></li>
+					<li><a href="javascript:void(0)" onclick="jQuery('div#loginoverlay').removeClass('deactive'); return true;">Sign into your account</a></li>
+										<li><a href="/plus/?sub_campaign=newsite&amp;sub_source=footer&amp;sub_medium=Subscribe">Subscribe to Autosport Plus</a></li>
+					<li><a href="https://secure.autosport.com/subs/signup/?package=4&amp;sub_campaign=newsite&amp;sub_source=footer&amp;sub_medium=Register">Register for free and access more stories</a></li>
+										<li><a href="https://secure.autosport.com/subs/signup/?package=4&amp;sub_campaign=newsite&amp;sub_source=Footer&amp;sub_medium=Register">Newsletter</a></li>
+					<li><a href="http://digitalmagazine.autosport.com/">Autosport Digital Magazine</a></li>
+					<li><a href="/rss">RSS Feeds</a></li>
+					<li><a class="oldsite" href="http://classic.autosport.com">Old version of Autosport.com</a></li>
+				</ul>
+			</div>
+			<div class="column">
+				<ul class="menu vertical">
+					<li><span class="headerbar smaller white">Formula 1</span></li>
+					<li><a href="/f1">News</a></li>
+					<li><a href="/features">Autosport Plus</a></li>
+					<li><a href="/gallery">Gallery</a></li>
+					<li><a href="/f1/calendar">Calendar</a></li>
+					<li><a href="/live">Live</a></li>
+					<li><a href="/f1/standings">Standings</a></li>
+					<li><a href="/results.php">Results</a></li>
+				</ul>
+			</div>
+			<div class="column">
+				<ul class="menu vertical">
+					<li><span class="headerbar smaller white">Series</span></li>
+					<li><a href="/single-seaters">Single Seaters</a></li>
+					<li><a href="/motogp">MotoGP</a></li>
+					<li><a href="/sportscars">Sportcars</a></li>
+					<li><a href="/rallying">Rally</a></li>
+					<li><a href="/touring+cars">Touring Cars</a></li>
+					<li><a href="/us">U.S.</a></li>
+					<li><a href="/national">National</a></li>
+					<li><a href="/other">Other</a></li>
+				</ul>
+			</div>
+			<div class="column">
+				<ul class="menu vertical">
+					<li><span class="headerbar smaller white">More from Autosport</span></li>
+					<li><a href="http://forix.autosport.com/">Forix Stats Database</a></li>
+					<li><a href="http://motorsport-jobs.autosport.com/">Motorsport Jobs</a></li>
+					<li><a href="http://business-directory.autosport.com/">Business Directory</a></li>
+					<li><a href="http://awards.autosport.com/">Autosport Awards</a></li>
+					<li><a href="http://www.autosportinternational.com/">Autosport International</a></li>
+					<li><a href="https://gppredictor.com/">Grand Prix Predictor</a></li>
+				</ul>
+			</div>
+		</div>  
+	</div>
+    
+    <div class="row">
+        <div class="small-12 columns">
+        	<ul class="menu legal">
+				<li><a href="https://www.autosport.com/">© 2017 Autosport Media UK</a>. All rights reserved.</li>
+				<li><span>Part of <a href="http://www.motorsportnetwork.com/" target="_blank" style="color:#FF0000">MOTORSPORT NETWORK</a></span></li>
+				<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+				<li><a href="/cookies-policy">Cookie Policy</a></li>
+				<li><a href="/privacy-policy">Privacy Policy</a></li>
+				<li><a href="http://www.autosport.com/contact.html" target="_blank">Contact Us</a></li>
+			</ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="small-12 columns" style="line-height:13px;">
+        	<br>
+        	<small>Please note that unauthorised reproduction or translation of any content (including words, data, information, photos, videos and any other intellectual property) published on this page and any other copyrighted content published on Autosport.com is strictly prohibited. Please see our <a href="/terms-and-conditions" style="font-size:100%; color:#6e6e6e;">terms and conditions</a> for further information.</small>
+        </div>
+    </div>
+</div>
+		</div>
+		
+		
+<div id="meteringfooter" class="message popmessage">
+	<button class="close-button" aria-label="Close alert" type="button" onclick="jQuery('div#meteringfooter').removeClass('active'); return true;">
+		<span aria-hidden="true">×</span>
+	</button>
+	<div class="messagecontainer">
+		<div class="row">
+			<div class="small-12 columns">
+				<span class="meteringheadline">You are not currently logged in to Autosport</span>
+				<span class="meteringsell">It looks like you were previously logged in at our old site, but you will need to log in again to access your Autosport Plus membership benefits. <br><br>You can log in by using the link at the top left of this page or by <a href="/userlogin">clicking here.</a></span>
+				
+				<a href="javascript:void();" onclick="jQuery('div#loginoverlay').removeClass('deactive'), jQuery('div#meteringfooter').removeClass('active'); return true;" class="button expand small radius">Sign into the new Autosport</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="loginoverlay" class="overlayanimation deactive">
+	<div id="loginoverlaycontainer">
+		<img src="/img/logos/autosport-logo-inverse.png" class="logo">
+			<button class="close-button" aria-label="Close alert" type="button" onclick="jQuery('div#loginoverlay').addClass('deactive'); return true;">
+				<span aria-hidden="true">×</span>
+			</button>
+			
+			<div class="row">
+				<div class="small-12 columns">
+				   <span class="title">Sign in to Autosport</span>
+				   <span id="loginerror"></span>
+				</div>
+				<form action="/login" method="post" novalidate="novalidate" id="signin-form">
+					<input type="hidden" name="modal" value="true">
+					<div class="small-12 columns">
+					   <input placeholder="Username" type="email" name="user_email" autofocus="">
+					</div>
+					<div class="small-12 columns">
+					   <input placeholder="Password" type="password" name="user_password">
+					</div>
+					<div class="small-6 columns text-left">
+					   <label for="signin-rememberme"><input type="checkbox" name="autologin" value="1" id="signin-rememberme" checked="true">Remember me</label>
+					</div>
+					<div class="small-6 columns text-right">
+						<a href="https://secure.autosport.com/account/reset" class="link">Forgot password</a>
+					</div>
+					<div class="small-12 columns">
+						<div class="loginbutton"><input type="submit" class="button success expanded" value="Submit"><div class="loader"><i class="fa fa-2x fa-circle-o-notch fa-spin"></i></div></div>
+					</div>
+				</form>
+			</div>
+			<div class="row"><div class="small-12 columns"><br></div></div>
+			<div class="row">
+				<div class="small-6 columns">	
+					<p><a href="https://secure.autosport.com/subs/signup/?package=4&amp;sub_campaign=newsite&amp;sub_source=LoginBox&amp;sub_medium=Register" class="link">Register for free</a></p>
+				</div>
+				<div class="small-6 columns">	
+					<p><a href="/plus/?sub_campaign=newsite&amp;sub_source=LoginBox&amp;sub_medium=Subscribe" class="link">Subscribe to Autosport Plus</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+  
+                        <div id="gpt_7294_skin" style="height: 0;position:absolute;bottom: -25px;"></div>
+        <div id="gpt_7294_extra" style="height: 0;position:absolute;bottom: -25px;"></div>
+        			
+    <script src="/js/vendor/foundation.min.js"></script>
+    <script src="/js/app.js"></script>
+	
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"84a7657be3","applicationID":"36466605","transactionName":"ZgFQYEpVX0pYU0dcWV9Lc1dMXV5XFlRWU1dECEYbUVpVXEEfQ0dfRwVRTQ==","queueTime":0,"applicationTime":135,"atts":"SkZTFgJPTEQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    <!--user: anonymous cache: 06-27 6:14:49, calls: 5 -->
 
 </body></html>
