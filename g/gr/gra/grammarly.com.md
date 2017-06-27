@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031118id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195920id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grammarly
 
@@ -81,7 +81,7 @@ We do not share your information with third parties for the purpose of enabli
 
 ### Does Grammarly Review User Content?
 
-As a rule, Grammarly employees do not monitor or view your Personal Information or User Content stored in or transferred through our Products, but it may be viewed if we believe the Terms of Service have been violated and confirmation is required, if we need to do so in order to respond to your requests for user support or we otherwise determine that we have an obligation to review it as described in the Terms of Service. In addition, our proofreaders may also read your User Content in connection with our provision of proofreading services. Finally, your Personal Information may be viewed where necessary to protect the rights, property or personal safety of Grammarly and its users, or in order to comply with our legal obligations, such as responding to warrants, court orders or other legal process.
+As a rule, Grammarly employees do not monitor or view your Personal Information or User Content stored in or transferred through our Products, but it may be viewed if we believe the Terms of Service have been violated and confirmation is required, if we need to do so in order to respond to your requests for user support, if we otherwise determine that we have an obligation to review it as described in the Terms of Service, or to improve our algorithms as described in the User Content section of our Terms of Service. In addition, our proofreaders may also read your User Content in connection with our provision of proofreading services. Finally, your Personal Information may be viewed where necessary to protect the rights, property or personal safety of Grammarly and its users, or in order to comply with our legal obligations, such as responding to warrants, court orders or other legal process.
 
 ### Does Grammarly Ever Make Any of My Personal Information or User Content Public?
 
