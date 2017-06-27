@@ -1,142 +1,116 @@
-> *The following text is extracted and transformed from the presidentmommy.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115062006id_/http%3A//presidentmommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentmommy.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627040715id_/http%3A//www.presidentmommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – President Mommy
+# PresidentMommy
 
-President Mommy Privacy policy
+Last Updated: April, 2017  
+PresidentMommy (“us”, “we”, or “our”) operates the http://www.presidentmommy.com website (the “Service”).  
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
+We will not use or share your information with anyone except as described in this Privacy Policy.  
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.presidentmommy.com  
+**Information Collection And Use**
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+  * While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. 
 
-**What personal information do we collect from the people that visit our blog, website or app?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-**When do we collect information?**
+**Log Data**
 
-We collect information from you when you subscribe to a newsletter competitions or enter information on our site.
+  * We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.  
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**How do we use your information?**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
+**Cookies**
 
+  * Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
 
-**How do we protect visitor information?**
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+**DoubleClick Cookie**
 
-We do not use Malware Scanning.
+  * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/ 
 
-We do not use an SSL certificate
 
-  * We do not need an SSL because:
+  * **Behavioral Remarketing**  
+PresidentMommy uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
 
 
-We only provide articles and information, never ask for credit card numbers.
+**Facebook**
 
-**Do we use ‘cookies’?**
+  * Facebook remarketing service is provided by Facebook Inc.  
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217  
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.  
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation 
 
-We do not use cookies for tracking purposes
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+**AppNexus**
 
-However, you can still place orders .
+  * AppNexus remarketing service is provided by AppNexus Inc.  
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: http://www.appnexus.com/platform-policy#choices  
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: http://www.appnexus.com/platform-policy 
 
-**Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Service Providers**
 
-**Third party links**
+  * We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.  
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+**Compliance With Laws**
 
-We use Google AdSense Advertising on our website.
+  * We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service. 
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**We have implemented the following:**
 
-  * Remarketing with Google AdSense
-  * Google Display Network Impression Reporting
+**Business Transaction**
 
+  * If PresidentMommy is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy. 
 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-_Opting out:_
+**Security**
 
-_Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
+  * The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
-**COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-We do not specifically market to children under 13.
+**International Transfer**
 
-**Fair Information Practices**
+  * Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.  
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify the users via email
+**Links To Other Sites**
 
-  * Other
+  * Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
 
 
 
-30 days
+**Children’s Privacy**
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+  * Our Service does not address anyone under the age of 13 (“Children”).  
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers. 
 
-**CAN SPAM Act**
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+**Changes To This Privacy Policy**
 
-  * Send information, respond to inquiries, and/or other requests or questions.
-  * Process orders and to send information and updates pertaining to orders
-  * We may also send you additional information related to your product and/or service.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+  * We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.  
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
 
 
 
-**To be in accordance with CANSPAM we agree to the following:**
+**Contact Us**
 
-  * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
-  * Include the physical address of our business or site headquarters
-  * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
+  * If you have any questions about this Privacy Policy, please contact us: info@presidentmommy.com 
 
 
-
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-[presidentmommy@gmail.com](mailto:presidentmommy@gmail.com) and we will promptly remove you from **ALL** correspondence.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[www.presidentmommy.com](http://www.presidentmommy.com/)
-
-Israel
-
-[presidentmommy@gmail.com](mailto:presidentmommy@gmail.com)
-
-Last Edited on 2015-04-12
