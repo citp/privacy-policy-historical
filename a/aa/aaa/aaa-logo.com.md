@@ -1,37 +1,33 @@
-> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002511id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-logo.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627140533id_/http%3A//www.aaa-logo.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy statement - www.AAA-Logo.com
 
-PRIVACY POLICY
+At aaa-logo.com we are committed to protecting your privacy. When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. Unless you provide, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of aaa-logo.com
 
- **Everyone’s and anyone’s privacy must be respected!**
+However, when you place an order we ask you to provide your personal information
 
-At **aaa-logo.com** we are committed to protecting your privacy. When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. Unless you provide, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of aaa-logo.com
+**What purpose and when does aaa-logo.com collect personal information for?**
 
-However, when you place an order we ask you to provide your personal information.
+When you contact us, we need only an email address which we use to send the information you requested
 
- **What purpose and when does aaa-logo.com collect personal information for?**
+We may also use the information we collect to occasionally notify you about new aaa-logo.com's products and special offers we think you'll find valuable. If you would rather not receive this information, confirm it through an email to us
 
-When you contact us, we need only an email address which we use to send the information you requested.
+Presently, when you place an order, you will be transferred to our online retailer PayPro Global, Inc. to provide your name, email address, mailing address, credit number, and expiration date
 
-We may also use the information we collect to occasionally notify you about new **aaa-logo.com** 's products and special offers we think you'll find valuable. If you would rather not receive this information, confirm it through an email to us.
+As a product vendor, we will collect your name, email address, mailing address, and the registration key. These information will be used to support you
 
-Presently, when you place an order, you will be transferred to our online retailer Digital River, Inc. to provide your name, email address, mailing address, credit number, and expiration date. 
+**Will aaa-logo.com disclose the information it collects to outside parties?**
 
-As products vendor, we will collect your name, email address, mailing address, and the registration key. These information will be used to support you.
+We do not sell, trade, rent or lease your personal information to others
 
- **Will aaa-logo.com disclose the information it collects to outside parties?**
+**Your Consent**
 
-We do not sell, trade, rent or lease your personal information to others.
+By using our Web site, you consent to the collection and use of this information by aaa-logo.com as described in this Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it
 
- **Your Consent**
+**Other Terms and Conditions**
 
-By using our Web site, you consent to the collection and use of this information by **aaa-logo.com** as described in this Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it.
+In the event that you desire to purchase our products, the software, you agree not to use the software in any manner that is illegal, unethical, harassing, threatening, intimidating, abusive, obscene, profane, defamatory, hateful or a nuisance
 
- **Other Terms and Conditions.**
+Should you have any question concerning this Policy, you may [contact us](http://www.aaa-logo.com/support.php)
 
-In the event that you desire to purchase our products, the software, you agree not to use the software in any manner that is illegal, unethical, harassing, threatening, intimidating, abusive, obscene, profane, defamatory, hateful or a nuisance.
-
-Should you have any question concerning this Policy , you may [contact us](http://www.aaa-logo.com/support.php).
-
- **Hope you enjoy your visit at our Web site!**
+**Hope you enjoy your visit at our Web site!**
