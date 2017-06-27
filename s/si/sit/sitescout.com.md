@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218185831id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescout.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195903id_/http%3A//www.sitescout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SiteScout by Centro
 
@@ -6,7 +6,7 @@
 
 This is SiteScout’s* privacy policy and applies to our websites, and any services that we provide to you through our website (including the SiteScout DSP, and the SiteScout Ad Server). It is effective as of September 16, 2014 (“ _Effective Date_ “).
 
-This policy is incorporated into, and subject to, SiteScout’s [Terms of Service](http://www.sitescout.com/legal/sitescout_terms_of_use/).
+This policy is incorporated into, and subject to, SiteScout’s [Terms of Service](https://web.archive.org/legal/sitescout_terms_of_use/).
 
 By using the SiteScout site, or any product or service offered by SiteScout, (collectively, the ‘ _Services”_ ), you acknowledge that you have read, and agree to, this policy.
 
@@ -97,7 +97,7 @@ For more information on cookies, see: <http://www.allaboutcookies.org/faqs/cooki
 
 **Want to stop seeing ads delivered through SiteScout?**
 
-There is more than one way to opt out of cookies: manually delete your cookies by following the instructions contained in the “Help” section of your browser; or, go to our [Opt Out page](http://www.sitescout.com/opting-out/). We will no longer deliver ads targeted to your preferences and usage patterns.
+There is more than one way to opt out of cookies: manually delete your cookies by following the instructions contained in the “Help” section of your browser; or, go to our [Opt Out page](https://web.archive.org/opting-out/). We will no longer deliver ads targeted to your preferences and usage patterns.
 
 In order to opt-out you must have cookies enabled: In order for the opt-out process to work correctly on your computer, the browser must be set to accept third party cookies. If you use a different computer, change web browsers or delete this cookie, you will need to opt-out again.
 
