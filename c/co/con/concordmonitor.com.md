@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124175334id_/http%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182838id_/http%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
 
 # NH news, sports, opinion and photos | Concord Monitor
 
