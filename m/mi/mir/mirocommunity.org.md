@@ -1,71 +1,183 @@
-> *The following text is extracted and transformed from the mirocommunity.org privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328224152id_/http%3A//pculture.org/pcf/websites-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirocommunity.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015041id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
 
-# Participatory Culture Foundation - PCF - Open-source video tools for a better world.
+# GitHub Privacy Statement - User Documentation
 
-Last Updated: August 10, 2010 
+Effective date: **January 26, 2017**
 
-This privacy policy applies to all web sites and web services operated by the Participatory Culture Foundation (refered to as attached in this policy) unless the web site or service has a separate privacy policy. 
+Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
-Except as described below, PCF does not collect or require visitors to its web sites to furnish personally identifying information such as names, email addresses, and phone numbers. Like most web site operators, PCF does collect non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, operating system, language preference, referring site and date and time of each visitor request. PCF also collects potentially-personally identifying information like Internet Protocol (IP) addresses, which are non-personally identifying in and of themselves but could be used in conjunction with other information to personally identify users. 
+###  The short version
 
-PCF's purpose in collecting this information is to better understand how PCF's visitors use its web sites. To that end, PCF may share potentially-personally identifying information with its employees, contractors, service providers, and subsidiaries and related organizations. PCF may also release its results of such analyses of non-personally identifying information about visitors by publishing a report on web site usage trends. Otherwise, PCF will not publicly release potentially-personally identifying information except under the same circumstances as PCF releases personally identifying information. Those circumstances are explained below. 
+We collect your information only with your consent; we only collect the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. If you're visiting us from the EU: we comply with the [Privacy Shield framework](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).
 
-Community Members   
-Certain members of the PCF community (contributors, customers, etc.) choose to interact with PCF in ways that require PCF and others to know more about them. The amount and type of information that PCF gathers from those members depends on the nature of the interaction. For example, members who wish to post content to certain portions of PCF's web sites or participate in live chat session(s) are asked to provide usernames that are used to identify content as having been posted by a particular member (who is identified by the username). 
+Of course, the short version doesn't tell you everything, so please read on for more details!
 
-Developers, by comparison, are asked to provide contact information, up to and sometimes including telephone or fax numbers, so that they can be contacted as necessary. Typically, developers will be contacted by email, IRC (internet relay chat), or IM (instant messaging services). However, in the event of a time-sensitive question relating to the work the developer is doing in connection with PCF and where other means of contact have failed, a developer's phone number or fax number may be used to contact the developer. This information is available to PCF employees, contractors, subsidiaries, and potentially to other members of the community. A developer can choose not to provide a phone number or fax number. On occasion, developers and other community members are contacted by email and asked for a physical address or geographic location so that they may be sent PCF-related t-shirts and other schwag or invited to a meetup or other PCF-related gathering. In such cases, the purpose for which their physical address is sought will be made explicit. 
+###  What information GitHub collects and why
 
-Customers of PCF stores (which sell merchandise and services on behalf of PCF) are asked to provide even more information, including billing and shipping addresses and credit card or similar information to third party vendors so that their transactions can be processed and fulfilled by PCF or a third-party fulfillment vendor. 
+####  Information from website browsers
 
-We also permit community members to provide their name and email addresses so that they can have a more direct engagement with PCF and so that PCF can send them information related to PCF, such as educational material, promotional and cross-promotional material, surveys to be completed, messages about PCF, events information, and other such information and materials. These are opt-in interactions where community members affirmatively sign-up for inclusion in a direct communication with PCF (and with an ability to unsubscribe/opt-out on any email received). These campaigns may be conducted with the help of a third-party customer relationship manager to help us manage the database of information and its analysis and use, in each case such third party's involvement with all the data collected will be solely on PCF's behalf. As part of these marketing campaigns, we might also ask you to provide demographic information such as gender, age, job or role, country, geographic location, and areas of interest. If we ask you for this information, we will use it to customize our communication with you and to better understand those interested in PCF and its products. As part of these marketing campaigns, we may collect a campaign source ID, marketing campaign ID, and a campaign referrer ID. These types of information are used so that we may better understand your interests and the effectiveness of particular marketing campaigns. We may also use this information to customize our communications with you. For example, if a community member plans to host a PCF-themed party to promote a product launch or other event and would like to receive PCF promotional items like t-shirts, buttons, and stickers for her guests (which we call "schwag"), the community member may submit her name, mailing address, and details about the event (such as date and number of anticipated guests) through Bugzilla so that we (or our service providers) can process this request. In each case, PCF collects personally identifying information only insofar as is necessary to fulfill the purpose of the community member's interaction with PCF. And in the case of a schwag request, those bugs allow you to select restricted access so that only PCF contractors and employees and the individuals listed in the bug can access your information via Bugzilla itself. 
+If you're **just browsing the website** , we collect the same basic information that most websites collect. We use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
 
-Applicants for employment with PCF are required to provide contact information, including name, street address, telephone number, and email address, as well as resume information. We use this information to process and evaluate the application for employment, and to communicate with the applicant about employment opportunities. If we elect to make an offer of employment, this information may become part of the employee file and may be used for other employment and work-related purposes. 
+The information we collect about all visitors to our website includes the visitor’s browser type, language preference, referring site, additional websites requested, and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
 
-PCF is an open organization that believes in sharing as much information as possible about its products, its operations and its associations. Accordingly, community members should assume - as should most folks who interact with PCF - that any personally identifying information provided to PCF will be made available to the public. There are four broad exceptions to that rule: 
+#####  Why do we collect this?
 
-1\. PCF does not publicly release information gathered in connection with commercial transactions (i.e., transactions involving money), including transactions conducted through PCF Store or donations to PCF.   
-2\. PCF does not publicly release personally identifying information collected in connection with an application for employment with PCF.   
-3\. PCF does not make publicly available information that is used to authenticate users the publication of which would compromise the security of PCF's web sites (e.g., passwords).   
-4\. PCF does not make publicly available information that it specifically promises at the time of collection to maintain in confidence. 
+We collect this information to better understand how our website visitors use GitHub, and to monitor and protect the security of the website.
 
-Outside those four contexts, users should assume that personally identifying information provided through PCF's web sites may be made available to the public. 
+####  Information from users with accounts
 
-Interactive Product Features   
-Certain PCF products contain features that report, or that permit users to report, the user's usage patterns and problems - whether caused by PCF's software, third-party software, or third-party web sites - to PCF. The reports generated by these features typically include non-personally identifying information such as the configuration of the user's computer and the code running at the time the problem occurred. 
+If you **create an account** , we require some basic information at the time of account creation. You will create your own user name and password, and we will ask you for a valid email account. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
-Some of these features give users the option of providing personally identifying information, though none of these features require it. Some PCF software features that do permit users to provide personally identifying information advise, in advance, that such information will not be made publicly available. PCF analyzes the information provided by these interactive product features to develop a better understanding of how its products are performing and being used. It does not use the information to track the usage of its products by identifiable individuals. 
+"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name and password, an email address, a real name, and a photograph are examples of “User Personal Information.”
 
-Protection of Certain Personally-Identifying Information 
+User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
-Where PCF has collected personally identifying information subject to one of the four exceptions described in the Community Members section, above, it discloses that information only to those of its employees, contractors, service providers, and subsidiaries and related organizations that need to know that information in order to process it on PCF's behalf and that have agreed not to disclose it to others. Some of these employees, contractors, service providers, and subsidiaries and related organizations may be located outside of your home country; by using PCF's web sites, you consent to the transfer of your information to them, which may involve the transfer of your information to countries that may provide a lesser level of data protection than your country of residence. PCF does not rent or sell such information to anyone. PCF may be required to disclose information to the government or others. This may happen if we receive a valid search warrant, subpoena, court order, or other legal mandate. For example, the DMCA framework (specifically Section 512(h)) contains an expedited subpoena process for copyright holders to request and receive information service providers have regarding the identity of alleged copyright infringers. In certain other limited situations, PCF may disclose personally identifying or other information, such as when necessary to protect our websites and operations (e.g., against attacks); to protect the rights, privacy, safety, or property of PCF or its users; to enforce our terms of service; and to pursue available legal remedies. Additionally, PCF may need to transfer personally identifying information to an affiliate or successor in the event of a change of our corporate structure or status, such as in the event of a restructuring, sale, or bankruptcy. We will retain any personally identifying information for the period necessary to fulfill the purposes outlined in this privacy policy. 
+#####  Why do we collect this?
 
-Security   
-PCF undertakes a range of security measures including physical access restraints, technical security monitoring, and internal security reviews of the environment to help to protect your personal information from unauthorized access, alteration, disclosure, or destruction. We also have policies in place to prohibit employees from viewing personal information without business justification. 
+  * We need your User Personal Information to create your account, and to provide the services you request.
+  * We use your User Personal Information, specifically your user name, to identify you on GitHub.
+  * We use it to fill out your profile and share that profile with other users if you ask us to.
+  * We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section on email communication for more information.
+  * We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
 
-Updating of Personally-Identifying Information   
-You may request access, correction, or deletion of your personally identifiable information or potentially personally identifiable information, as permitted by law. PCF will seek to comply with such requests, provided that we have sufficient information to identify the personally identifiable information or potentially personally identifiable information related to you. To do so, users should look for links or contact information available on whichever PCF web sites store the relevant information (e.g., Bugzilla users should go to Account Settings) or contact PCF by using one of the email addresses listed below. 
 
-Cookies and Clear GIFs   
-What Are Cookies? A cookie is a string of information that a web site stores on a visitor's computer, and that the visitor's browser provides to the web site each time the visitor returns. Most major web sites use cookies. Because the browser provides this cookie information to the web site at each visit, cookies serve as a sort of label that allows a web site to "recognize" a browser when it returns to the site. The domain name in PCF cookies will clearly identify their affiliation with PCF and, where applicable, its third-party service provider. 
 
-What Are Clear GIFs?   
-Clear gifs (also known as web beacons) are used in combination with cookies to help web site operators understand how visitors interact with their web sites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the site to measure the actions of the visitor opening the page that contains the clear gif. It makes it easer to follow and record the activities of a recognized browser, such as the path of pages visited at a web site. 
+###  What information GitHub does not collect
 
-How We Use Cookies and Clear GIFs.   
-PCF's web sites use cookies to help PCF identify and track visitors, their usage of PCF web sites, and their web site access preferences across multiple requests and visits to PCF's web sites. Our web sites, and advertisements that PCF may run occasionally on thirdparty advertising networks, also may use clear gifs for these purposes. The basic idea is to gather aggregate data about how people use PCF web sites. The term usually used to describe this is "web analytics" and the cookies and clear gifs are the tools by which a website owner collects this web analytics data. 
+We do not intentionally collect **sensitive personal information** , such as social security numbers, genetic data, health information, or religious information. Although GitHub does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a repository. If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, which are in the United States.
 
-PCF will use the web analytics data only to determine aggregate usage patterns for our web sites as described above. PCF web sites do this by using either our own internal analytics software or by sending this information to a third-party service provider to help PCF analyze this data. PCF web sites using third-party web analytics tools are listed here. PCF has agreements with its third-party service providers that they will not share this information with others or use the information for purposes other than to maintain the services they provide to PCF. It is possible to link cookies and clear gifs to personally identifying information, thereby permitting web site operators, including our third-party analytics providers, to track the online movements of particular individuals. PCF does not do so and its third-party service providers are not allowed to correlate PCF data with any other data. 
+We do not intentionally collect information that is **stored in your repositories** or other free-form content inputs. Information in your repositories belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](https://web.archive.org/articles/github-terms-of-service/). GitHub employees [do not access private repositories unless required to](https://web.archive.org/articles/github-security/#employee-access) for security or maintenance, or for support reasons, with the consent of the repository owner.
 
-PCF uses the information provided by cookies and clear gifs to develop a better understanding of how PCF's visitors use PCF's web sites, and to facilitate those visitors' interactions with PCF's web sites. PCF may make the aggregate data obtained from web analytics (including from our third-party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information 
+If your repository is public, anyone (including us) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures.
 
-Other Third Party Cookies.   
-Content from other sources that is hosted on PCF web sites may sometimes contain cookies that send information to those third parties. In certain cases, often associated with embedded content such as YouTube videos and other site linking buttons, a third party cookie may be set by the 3rd party content or provider. In these cases, the privacy policy of the 3rd party governs with respect to information that may be collected by and sent to the respective 3rd party. If you are concerned about these third party cookies, please see the information below on how to decline cookies. 
+If you're a **child under the age of 13** , you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](https://web.archive.org/articles/github-terms-of-service/) for information about account termination.
 
-How to Control the Use of Cookies.   
-You have the ability to accept or decline cookies. PCF visitors who do not wish to have cookies placed on their computers by PCF, its contractors, or third-party service providers should set their browsers to refuse cookies before linking to PCF's web sites. Certain features of PCF's web sites may not function properly without the aid of cookies. 
+###  How we share the information we collect
 
-Opt-out Procedures   
-If you do not want to allow your session visitation information on PCF web sites to be aggregated and analyzed by PCF (or its third-party analytics providers) you may utilize the following opt-out mechanisms listed here. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from PCF, you can opt-out from receiving these communications by following the "unsubscribe" instructions in any such communication you receive. 
+We **do not** share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
 
-Privacy Policy Changes   
-By using the web sites, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the web sites. PCF may change its Privacy Policy from time to time. Any and all changes will be reflected on this page. Substantive changes will also be announced through the standard mechanisms through which PCF communicates with the PCF community, including PCF's "announce" mailing list and newsgroup. 
+We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on Compelled Disclosure.
+
+We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across GitHub](https://github.com/blog/1964-open-source-license-usage-on-github-com). However, we do not sell this information to advertisers or marketers.
+
+We do not host advertising on GitHub. We may occasionally embed content from third party sites, such as YouTube, and that content may include ads. While we try to minimize the amount of ads our embedded content contains, we can't always control what third parties show.
+
+We may share User Personal Information with your permission, so we can perform services you have requested.
+
+We may share User Personal Information with a limited number of third-party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under [Privacy Shield](https://web.archive.org/articles/github-privacy-statement/#githubs-global-privacy-practices), we remain responsible for it.
+
+We may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Statement or in our Terms of Service.
+
+####  Public Information on GitHub
+
+Much of GitHub is public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing GitHub information.
+
+Your Personal Information, associated with your content, may be gathered by third parties in these compilations of GitHub data. If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to [configure your email address to be private in your user profile](https://github.com/settings/emails).
+
+If you would like to compile GitHub data, you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
+
+Similarly, projects on GitHub may include publicly available Personal Information collected as part of the collaborative process. In the event that a GitHub project contains publicly available Personal Information that does not belong to GitHub users, we will only use that Personal Information for the limited purpose for which it was collected, and we will secure that Personal Information as we would secure any User Personal Information. If you have a complaint about any Personal Information on GitHub, please see our section on resolving complaints.
+
+###  Our use of cookies and tracking
+
+####  Cookies
+
+GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of GitHub.
+
+A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting GitHub; however, a cookie may store a unique identifier for each logged in user. The cookies GitHub sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use GitHub’s services.
+
+####  Google Analytics
+
+We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use GitHub. This helps us evaluate our users' use of GitHub; compile statistical reports on activity; and improve our content and website performance.
+
+Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of GitHub. We do not link this information to any of your personal information such as your user name.
+
+GitHub will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
+
+Certain pages on our site may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
+
+####  Tracking
+
+"[Do Not Track](http://donottrack.us/)" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of [here](https://tools.google.com/dlpage/gaoptout). Because we do not share this kind of data with third party services or permit this kind of third party data collection on GitHub for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
+
+If you are interested in turning on your browser’s privacy and Do Not Track settings, the [Do Not Track](http://donottrack.us/) website has browser-specific instructions.
+
+Please see our section on email communication to learn about our use of pixel tags in marketing emails.
+
+###  How GitHub secures your information
+
+GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](https://web.archive.org/articles/github-security/).
+
+###  GitHub's global privacy practices
+
+**Information that we collect will be stored and processed in the United States** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
+
+We provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We have appointed a Privacy Counsel and we work hard to comply with the applicable data privacy laws wherever we do business. Additionally, we require that if our vendors or affiliates have access to User Personal Information, they must comply with our privacy policies and with applicable data privacy laws, including signing data transfer agreements such as Standard Contractual Clause agreements.
+
+In particular:
+
+  * GitHub provides clear methods of unambiguous, informed consent at the time of data collection, when we do collect your personal data.
+  * We collect only the minimum amount of personal data necessary, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
+  * We offer you simple methods of accessing, correcting, or deleting the data we have collected.
+  * We provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing. We also provide our users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
+  * GitHub adheres to the [Privacy Shield Framework](https://www.privacyshield.gov/). You may view our entry in the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI). In addition to providing our users methods of unambiguous, informed consent and control over their data, we participate in and comply with the Privacy Shield framework, and we are committed to subject any Personal Information we receive from the EU and EEA to the Privacy Shield Principles. In addition, we continue to participate in the Safe Harbor Framework for Swiss data transfers to the US. Please read more about [GitHub's Privacy Shield and Safe Harbor commitments](https://web.archive.org/articles/global-privacy-practices/).
+
+
+
+###  Resolving Complaints
+
+If you have concerns about the way GitHub is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://github.com/contact/privacy). You may also email us directly at [privacy@github.com](mailto:privacy@github.com) with the subject line "Privacy Shield Concerns." We will respond within 45 days at the latest.
+
+####  Dispute Resolution Process
+
+In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may [contact JAMS and submit a Privacy Shield claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU or EEA, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
+
+####  Independent Arbitration
+
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+
+We are subject to the jurisdiction of the Federal Trade Commission.
+
+###  How we respond to compelled disclosure
+
+GitHub may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
+
+In complying with court orders and similar legal processes, GitHub strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
+
+For more information, see our [Guidelines for Legal Requests of User Data](https://web.archive.org/articles/guidelines-for-legal-requests-of-user-data/).
+
+###  How you can access and control the information we collect
+
+If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://github.com/contact).
+
+####  Data Retention and Deletion
+
+GitHub will retain User Personal Information for as long as your account is active or as needed to provide you services.
+
+We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.
+
+If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://github.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days.
+
+###  How we communicate with you
+
+We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
+
+If you would like your email to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You can also [update your local Git configuration to use your private email address](https://web.archive.org/articles/keeping-your-email-address-private/). This will not change how we contact you, but it will affect how others see you.
+
+Depending on your email settings, GitHub may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
+
+Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email. If you prefer not to receive pixel tags, please opt out of marketing emails.
+
+###  Changes to our Privacy Statement
+
+Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your GitHub primary account. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check this page frequently.
+
+###  License
+
+This Privacy Statement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
+
+###  Contacting GitHub
+
+Questions regarding GitHub's Privacy Statement or information practices should be directed to our [Privacy contact form](https://github.com/contact/privacy).
