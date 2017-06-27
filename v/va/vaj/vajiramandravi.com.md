@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the vajiramandravi.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011101811id_/http%3A//vajiramandravi.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vajiramandravi.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628011309id_/http%3A//www.vajiramandravi.com/privacy-and-policy.php) for the most accurate reproduction.*
 
-# Vajiram & Ravi : Institute for Civil Services Examination
+# Privacy and Policy - Vajiram and Ravi
 
-## Privacy Policy
+When you use one of our paid products, we track the web pages, and information that has been accessed by you, and store it on our servers. This enables us to track items that you have completed, and those that you need to see.
 
-Privacy Policy is intended to inform the User of Site's policies and practices regarding the collection, use and disclosure of any Personal Information that the User submitted to us through our Website. The Site is committed to protecting the privacy of the Users' personal information. The purpose of this policy is to inform the User of the personal information that he/she provides to the Site when using the Site. This privacy statement applies solely to information collected by the Site. This Privacy Policy is incorporated into and subject to the terms of the Site's Terms of Service and forms part of Terms and Conditions of Use. If the User does not agree to the terms of this Privacy Policy, he/she must discontinue using the services on this Site and terminate the User registration. By using or accessing the Site, the User expressly and impliedly accepts the practices described in this Privacy Policy. 
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some of our features and services may not function properly if your cookies are disabled. 
 
-#### **User Consent**
+If use a feature requiring payment of a fee, we transmit your payment details to our payment service provider for processing. If we encounter a problem with payment, we may review the order information with you and our service provider to resolve it. We do not otherwise disclose your credit card information. We do not share your email address or your personal information with third party marketers.
 
-By submitting personal information the user profile, including contact particulars, pictures, interests etc., the User joins the site and agrees to the terms of this Privacy Policy and expressly consents to the processing of his/her Personal Information according to this Privacy Policy. User Personal Information may be processed by the Site in the country where it was collected as well as other countries (including India). This data is used to customize his/her visit to the Site, showing the User content that we think you may be interested in. 
+We use administrative, physical and technical precautions to help protect the confidentiality, security and integrity of personal information stored on our system. We host the Site at a commercial-grade data center that employs extensive security practices. While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-#### Collection and Use of Information 
+**Information sharing**
 
-The Site uses any information voluntarily given by the User to enhance their experience in the network of the Site so as to make the content useful for the users on the basis of their interest. At this Site we want to make the experience of our Users satisfying and worthwhile. User posts the Content on the Site at his/her own risk. Although the Site allows to set privacy options that limit access to User pages, please be aware that no security measures are perfect or impenetrable. The Site cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, the Site cannot guarantee that User Content User posts on the Site will not be viewed by unauthorized persons. The Site is not responsible for circumvention of any privacy settings or security measures contained on the Site. User must understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored the User Content.   
-To provide you with some of the features that the site community offers to its Users, Personal Information may be used that is stored in User profile after User has requested such features, for example to send invitation e-mails to people that you specified as being interested in joining the community. Please be aware that every visitor of the Website can access any information that is publicly posted throughout the Site network.   
-The Site may analyze any collected information for its own internal purposes. In addition, it may remove personally identifying information from collected information to render it anonymous. The Site may use Anonymous Information for any purpose and disclose Anonymous Information in its discretion. 
+Other than the above mentioned sharing of data related to payment details, we only share personal information with other companies or individuals outside of Vajiram and Ravi IAS Study Centre LLP in the following limited circumstances:
 
-#### Confidentiality 
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to :
 
-This Site only shares User Information with others when it has user's permission or under the types of circumstances described in this Privacy Policy. In addition, the Site may limit access to User Information to only those employees who we believe reasonably need to come into contact with that information to provide products or services to the User.   
-The site operates security and networks protected by the password protection systems. The security and the Policies are reviewed periodically and enhanced as necessary and only the authorized individuals have access to the information provided by the Users.   
-The Site has physical, electronic, and procedural safeguards to protect personal information about User and his/her account information is protected by a password selected by the User. The Site uses industry-standard (Secure Socket Layer) SSL encryption in certain areas of the Website to protect data transmissions. However, no site can fully eliminate security risks associated with Personal Information.   
-Legal Matters; Protection of Rights, Property and Interests; Safety The Site may, without User consent, access and disclose his/her Information, any communications sent or received by them, and any other information that it may have about User or User account: as may be permitted or required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of the Terms of Service, or activity that appears to be illegal or may expose Site to legal liability. Additionally, the Site may disclose User Information in situations that it believes to be emergencies involving potential threats to the physical safety of any person or property if we believe that his/her Information in any way relates to that threat. 
+a. Satisfy any applicable law, regulation, legal process or enforceable governmental request
 
-#### Other Sites 
+b. Enforce applicable Terms of Use, including investigation of potential violations thereof
 
-The Site's provision of a link to any other website or location is for User convenience and does not signify its endorsement of such other website or location or its contents. It has no control over, does not review, and cannot be held responsible for the outside websites or their content. Please be aware that the term of our Privacy Policy does not apply to these outside websites. 
+c. Detect, prevent, or otherwise address fraud, security or technical issues, or
 
-####  Opt-out policy 
+d. Protect against imminent harm to the rights, property or safety of vajiramandravi.com or Vajiram and Ravi IAS Study Centre LLP., its users or the public as required or permitted by law. We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users subscribed to a particular product, or the number of users registered on our website. Such information does not identify you individually.
 
-The site gives users wherever necessary and practical such choices which include:   
-Opting not to register to receive the electronic newsletters.   
-Opting not to participate in certain interactive area that completely alleviates the need to gather any personally identifiable information of the users. 
+We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to our specified purposes.
 
-#### Changes in the Privacy Policy 
+How Long Do We Retain User Data?
 
-If there is a change in the privacy policy, it will prominently be posted as a link to those changes on site's homepage so that the users are always aware of what information is being collected, how is it being used it, and under what circumstances, if any, it is disclosed.   
-If at any point the Site decides to use personally identifiable information in a manner different from that stated at the time it was collected, it would be notified to the users by way of an email.   
-Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages the User to periodically review this page for the latest information on Site's privacy practices. 
+Currently, we plan to retain user data while an account is active and for at least three years afterward. We may alter this practice according to legal and business requirements. For example, we may lengthen the retention period for some data if needed to comply with law or voluntary codes of conduct. Unless otherwise prohibited, we may shorten the retention period for some types of data if needed to free up storage space.
+
+ **Your Consent to This Policy**
+
+By accessing our website, you agree to this Privacy Policy. This document supersedes any prior communication on this topic and reflects the entire and exclusive Privacy Policy for this Site. This Policy is subject to our Terms of Use, which take precedence over any conflicting Policy provision. We may change our Policy by posting a new version of it on our Site.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us by writing to us at:
+
+**Address: Vajiram and Ravi IAS Study Centre LLP., 9-B, Bada Bazaar Marg, Old Rajinder Nagar, New Delhi -110060.**
