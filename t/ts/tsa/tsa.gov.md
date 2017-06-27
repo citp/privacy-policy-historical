@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229194826id_/https%3A//www.tsa.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627192855id_/https%3A//www.tsa.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transportation Security Administration
 
 TSA is committed to protecting privacy and securing personal information made available when accessing this website. This page provides information on what is collected on this website, how the information is used and retained. As a general rule, TSA does not collect personal information when you are browsing tsa.gov. Personal information is collected only when it is voluntarily provided to us. You do not have to provide personal information in order to visit this website. The information you provide is shared with another government agency if your inquiry relates to that agency, or is otherwise required by law.
 
-TSA will collect and protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacy-act-1974), [E-Government Act of 2002](https://it.ojp.gov/default.aspx?area=privacy&page=1287) and [Federal Records Act](http://www.archives.gov/records-mgmt/laws/). Learn about the [privacy impact assesments](http://www.dhs.gov/privacy-documents-transportation-security-administration-tsa), also known as PIA.
+TSA will collect and protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacy-act-1974), [E-Government Act of 2002](https://it.ojp.gov/default.aspx?area=privacy&page=1287) and [Federal Records Act](http://www.archives.gov/records-mgmt/laws/). Learn about the [privacy impact assessments](http://www.dhs.gov/privacy-documents-transportation-security-administration-tsa), also known as PIA.
 
 ## Information Collected Automatically
 
@@ -24,7 +24,7 @@ TSA uses the information collected to count the number and type of visitors to t
 
 ## How TSA Uses Cookies
 
-The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
+The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
 
@@ -79,7 +79,7 @@ TSA does not guarantee or warrant that any information posted by individuals is 
 TSA does not moderate comments prior to posting, but reserves the right to delete comments that contain:
 
   * Threats to individuals or groups.
-  * Obscene, harassing or defamatory language. 
+  * Obscene, harassing or defamatory language.
   * Discrimination targeting individuals or groups.
   * Unsolicited bulk messages and posts that contain harmful links, also known as "spam."
   * Promotion of services or products (not including non-commercial links that are relevant to the topic).
