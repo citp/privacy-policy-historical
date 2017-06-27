@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123134539id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627041022id_/https%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
 
 # AusGamers Privacy Policy - AusGamers.com
 
@@ -73,4 +73,4 @@ For more information about privacy in general, you can visit the Federal Privacy
 ## Advertising
 
 Cookies are used by Third Party vendors to serve ads on our website, including Google AdSense and DoubleClick.   
-You can opt out interest-based ads served from Google by visiting [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/). 
+You can opt out interest-based ads served from Google by visiting <http://www.google.com/ads/preferences/>. 
