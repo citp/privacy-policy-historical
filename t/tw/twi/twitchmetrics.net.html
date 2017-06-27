@@ -1,0 +1,269 @@
+<!--The following is the downloaded HTML source of the twitchmetrics.net privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627150432id_/http%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d700509639","applicationID":"42138403","transactionName":"IQpYTUFaW19TS04SBQUARRZDR15FV1oY","queueTime":6,"applicationTime":13,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <title>Privacy Policy - Twitchmetrics</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <meta property="og:title" content="Privacy Policy - Twitchmetrics">
+      <meta property="og:description" content="">
+      <meta property="og:image" content="http://www.twitchmetrics.net/assets/MrDestructoid-2c17d0dd83c79eb7da6c2fd8501e96b5a446cd5d158474a685a75b0730c19ce4.png">
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="http://www.twitchmetrics.net/privacy">
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,400italic,600italic,700,700italic" rel="stylesheet" type="text/css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" media="all" href="/assets/application-d6f79f4688fdb35b083491007beb686e6685602e84ae013582a0090ab6738f15.css">
+  <script src="/assets/application-d1d0cec2c533b7f683d35ad436d22f41d690a1a5034a1c264a05aabd1083417f.js"></script>
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="IKetEGkTCGXgEOb2CAX5t4vpRs+HrShFRqWKucDL84GbdxMhFbdqvi45eoj1YdQyz1EZ2BOFq2PAqvVw4RRCdA==">
+
+      <!-- GA tracking code -->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-74931546-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+
+      <!-- Hotjar Tracking Code for www.twitchmetrics.net -->
+      <script>
+        (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:438796,hjsv:5};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+      </script><script async="" src="//static.hotjar.com/c/hotjar-438796.js?sv=5"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-toggleable-sm navbar-inverse navbar-tm">
+  <div class="container flex-wrap">
+    <div class="d-flex justify-content-between mb-3 mb-lg-0">
+      <a class="navbar-brand" href="/">
+          <img height="24" alt="Twitchmetrics" src="/assets/twitchmetrics-logo-14b0043c3183c589c38daa8fcc63d0ca936afbcac77a54948a00d54219d6019b.png">
+</a>      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_nav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse flex-lg-last ml-auto" id="navbar_nav" style="width:auto">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/emotes">Emotes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/games/viewership">Game Leaderboards</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/channels/viewership">Channel Leaderboards</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-8 offset-2">
+          
+<h1 class="mb-4">Privacy Policy</h1>
+<p>Twitchmetrics is a technology company focused on delivering knowledge through vivid, contextually-rich presentations, called Twitchmetrics Visualizations. These Twitchmetrics Visualizations put data into context for researchers, journalists and enterprise. This Privacy Policy exists to explain how this data and your information may be collected, used, and protected. This Privacy Policy may be updated by us from time to time in which case we will provide notice of material changes to this Privacy Policy by posting a notification on the Twitchmetrics website.</p>
+<h5>Notice and Choice</h5>
+<p>We collect Personal Information, Non-Personal Information, and Public Information.</p>
+<p>We collect Personal Information when you provide it to us, for example by creating an account. We may ask for your email address if you wish to be notified when listings have changed, for confirmation emails, authenticating your account, accounting notices and other reasons including instances in which you have requested specific information or updates.</p>
+<p>If you use Facebook or Google to create an account on any of our network sites, we will receive information such as your name and email address, as well as other information you may provide to us through those services. These companies may also receive certain data as described in their privacy policies.</p>
+<p>We do not share the Personal Information you provide to us with third parties. However we do provide Personal Information to our vendors or others who are acting to fulfill the services we provide. For example, servers we use to host our website and store information may be managed by other vendors in order to make our site more reliable.</p>
+<p>We collect Public Information when you provide it to us for public display or when we assemble information from publicly accessible databases in order to help you find services or conduct research. For example, some listings ask for, require or include names, phone numbers, email addresses, and other personally identifiable information. This information is optional and is intended to benefit you, your business, or the item listed to assist with promotion or display. If you post information in reviews, or make edits to a listing, please be aware that you have made this information public.</p>
+<p>Please do not post any Personal Information on listings that you wish to keep private. If you have provided us with information that you wish to remove you may edit that listing or contact us directly to remove that information. Please be aware that if the information has originated in a public database you will need to contact the source of this information to ensure this information does not continue to be displayed in the future. You may find the source of such information on the bottom of the listing page or by contacting us directly.</p>
+<p>We collect Non-Personal Information such as web-logs to help us to diagnose problems with our system and to provide better services to our customers. These logs are deleted on a regular basis.</p>
+<p>We and our vendors use cookies, web beacons, advertising identifiers, and other tracking technologies to understand site usage and to manage our advertising and affiliate relationships. Furthermore, emails we send may contain a web beacon that allows us to understand the time and date of when a user has opened an email and when he or she has used a link within an email to visit a website. We use third-party vendors, including Google, for analytics and to serve advertisements and collect non-personally identifiable information when you visit one of our websites. These companies may use non-personally identifiable information (not including your name, address, human-readable email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our sites, other websites, and other forms of media, including emails, about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here.To opt out of interest based ads served by Google, you can visit the Google advertising opt-out page.See our detailed cookie policy for further details about our use of cookies for analytics and advertising and for your opt-out choices. Email users wishing to disable our email web beacons should do so by turning images "off" in their email client (e.g., Outlook, Gmail). Please see your email client for more information.</p>
+<p>We do not presently respond to Do Not Track browser settings. See All About Do Not Track for more information.</p>
+<p>If you click on an advertisement or a link to purchase or learn more about a listing you may be directed to a contact form, website or phone number of a third party. Any information you may provide to such third parties will be subject to their Privacy Policy.</p>
+<p>We do not knowingly collect any information from persons under the age of 13. If we learn that we have inadvertently received personal information from a person under the age of 13, we will make every attempt to remove that data.</p>
+<h5>Access</h5>
+<p>Registered users can access and update their account information via links accessible on the site homepage. If you have created an account with us and wish to remove it you may do so by selecting the Delete Account option at the bottom of your account settings page.</p>
+<h5>Third Parties</h5>
+<p>We may disclose information about our users if required to do so by law or when such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may also disclose information about our users when we have a good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use Agreement; respond to claims that any Listing or other content violates the rights of third-parties; or protect the rights, property, or personal safety of us, our users, or the general public at large.</p>
+<h5>Security</h5>
+<p>For visitors outside the European Economic Area (EEA) and Switzerland, by visiting our web site and providing us with data, you acknowledge and consent that due to the international scope of Twitchmetrics we may use the data collected in the course of our relationship for the reasons outlined in this policy or in our other communications with you, including the transmission of information outside of your resident jurisdiction. Such information may be stored on servers located in the United States. By providing us with your information, you acknowledge and consent to the transfer of such data under the terms herein and to this locale.</p>
+<p>For visitors within the European Economic Area (EEA) and Switzerland, Twitchmetrics complies with the US-EU and US-Swiss Safe Harbor Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland governed under this privacy policy. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <a href="http://www.export.gov/safeharbor">http://www.export.gov/safeharbor</a>.</p>
+<p>In compliance with US-EU and US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Twitchmetrics by clicking here.</p>
+<p>Twitchmetrics has further committed to refer unresolved privacy complaints under the US-EU and US- Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR website for more information or to file a complaint.</p>
+<h5>Contact Us</h5>
+<p>We welcome your questions and feedback on our Privacy Policy. To contact us, <a href="mailto:contact@twitchmetrics.net">email us</a>.</p>
+
+        </div>
+      </div>
+    </div>
+
+
+<footer class="footer py-5 mt-5">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-md-4 col-12 mb-2 mb-sm-0">
+        <select class="form-control form-control-sm bg-inverse text-white" name="tz" id="timezone_select">
+  <option value="Pacific/Midway">(UTC-11:00) Midway Island, American Samoa</option>
+  <option value="America/Adak">(UTC-10:00) Aleutian Islands</option>
+  <option value="Pacific/Honolulu">(UTC-10:00) Hawaii</option>
+  <option value="Pacific/Marquesas">(UTC-09:30) Marquesas Islands</option>
+  <option value="America/Anchorage">(UTC-09:00) Alaska</option>
+  <option value="America/Tijuana">(UTC-08:00) Baja California</option>
+  <option value="America/Los_Angeles">(UTC-08:00) Pacific Time (US and Canada)</option>
+  <option value="America/Phoenix">(UTC-07:00) Arizona</option>
+  <option value="America/Chihuahua">(UTC-07:00) Chihuahua, La Paz, Mazatlan</option>
+  <option value="America/Denver">(UTC-07:00) Mountain Time (US and Canada)</option>
+  <option value="America/Belize">(UTC-06:00) Central America</option>
+  <option value="America/Chicago">(UTC-06:00) Central Time (US and Canada)	</option>
+  <option value="Pacific/Easter">(UTC-06:00) Easter Island</option>
+  <option value="America/Mexico_City">(UTC-06:00) Guadalajara, Mexico City, Monterrey</option>
+  <option value="America/Regina">(UTC-06:00) Saskatchewan</option>
+  <option value="America/Bogota">(UTC-05:00) Bogota, Lima, Quito</option>
+  <option value="America/Cancun">(UTC-05:00) Chetumal</option>
+  <option value="America/New_York">(UTC-05:00) Eastern Time (US and Canada)</option>
+  <option value="America/Port-au-Prince">(UTC-05:00) Haiti</option>
+  <option value="America/Havana">(UTC-05:00) Havana</option>
+  <option value="America/Indiana/Indianapolis">(UTC-05:00) Indiana (East)</option>
+  <option value="America/Asuncion">(UTC-04:00) Asuncion</option>
+  <option value="America/Halifax">(UTC-04:00) Atlantic Time (Canada)</option>
+  <option value="America/Caracas">(UTC-04:00) Caracas</option>
+  <option value="America/Cuiaba">(UTC-04:00) Cuiaba</option>
+  <option value="America/Manaus">(UTC-04:00) Georgetown, La Paz, Manaus, San Juan</option>
+  <option value="America/Santiago">(UTC-04:00) Santiago</option>
+  <option value="America/Grand_Turk">(UTC-04:00) Turks and Caicos</option>
+  <option value="America/St_Johns">(UTC-03:30) Newfoundland</option>
+  <option value="America/Fortaleza">(UTC-03:00) Araguaina</option>
+  <option value="America/Sao_Paulo">(UTC-03:00) Brasilia</option>
+  <option value="America/Cayenne">(UTC-03:00) Cayenne, Fortaleza</option>
+  <option value="America/Buenos_Aires">(UTC-03:00) City of Buenos Aires</option>
+  <option value="America/Godthab">(UTC-03:00) Greenland</option>
+  <option value="America/Montevideo">(UTC-03:00) Montevideo</option>
+  <option value="America/Miquelon">(UTC-03:00) Saint Pierre and Miquelon</option>
+  <option value="America/Bahia">(UTC-03:00) Salvador</option>
+  <option value="America/Noronha">(UTC-02:00) Fernando de Noronha</option>
+  <option value="Atlantic/Azores">(UTC-01:00) Azores</option>
+  <option value="Atlantic/Cape_Verde">(UTC-01:00) Cabo Verde Islands</option>
+  <option value="UTC">(UTC+00:00) UTC, GMT</option>
+  <option value="Africa/Casablanca">(UTC+00:00) Casablanca</option>
+  <option value="Europe/London">(UTC+00:00) Dublin, Edinburgh, Lisbon, London</option>
+  <option value="Africa/Monrovia">(UTC+00:00) Monrovia, Reykjavik</option>
+  <option value="Europe/Amsterdam">(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</option>
+  <option value="Europe/Belgrade">(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</option>
+  <option value="Europe/Brussels">(UTC+01:00) Brussels, Copenhagen, Madrid, Paris</option>
+  <option value="Europe/Warsaw">(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb</option>
+  <option value="Africa/Algiers">(UTC+01:00) West Central Africa</option>
+  <option value="Africa/Windhoek">(UTC+01:00) Windhoek</option>
+  <option value="Asia/Amman">(UTC+02:00) Amman</option>
+  <option value="Europe/Athens">(UTC+02:00) Athens, Bucharest</option>
+  <option value="Asia/Beirut">(UTC+02:00) Beirut</option>
+  <option value="Africa/Cairo">(UTC+02:00) Cairo</option>
+  <option value="Asia/Damascus">(UTC+02:00) Damascus</option>
+  <option value="Asia/Gaza">(UTC+02:00) Gaza, Hebron</option>
+  <option value="Africa/Harare">(UTC+02:00) Harare, Pretoria</option>
+  <option value="Europe/Helsinki">(UTC+02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius</option>
+  <option value="Asia/Jerusalem">(UTC+02:00) Jerusalem</option>
+  <option value="Europe/Kaliningrad">(UTC+02:00) Kaliningrad</option>
+  <option value="Africa/Tripoli">(UTC+02:00) Tripoli</option>
+  <option value="Asia/Baghdad">(UTC+03:00) Baghdad</option>
+  <option value="Asia/Istanbul">(UTC+03:00) Istanbul</option>
+  <option value="Asia/Kuwait">(UTC+03:00) Kuwait, Riyadh</option>
+  <option value="Europe/Minsk">(UTC+03:00) Minsk</option>
+  <option value="Europe/Moscow">(UTC+03:00) Moscow, St. Petersburg, Volgograd</option>
+  <option value="Africa/Nairobi">(UTC+03:00) Nairobi</option>
+  <option value="Asia/Tehran">(UTC+03:30) Tehran</option>
+  <option value="Asia/Muscat">(UTC+04:00) Abu Dhabi, Muscat</option>
+  <option value="Europe/Astrakhan">(UTC+04:00) Astrakhan, Ulyanovsk</option>
+  <option value="Asia/Baku">(UTC+04:00) Baku</option>
+  <option value="Europe/Samara">(UTC+04:00) Izhevsk, Samara</option>
+  <option value="Indian/Mauritius">(UTC+04:00) Port Louis</option>
+  <option value="Asia/Tbilisi">(UTC+04:00) Tbilisi</option>
+  <option value="Asia/Yerevan">(UTC+04:00) Yerevan</option>
+  <option value="Asia/Kabul">(UTC+04:30) Kabul</option>
+  <option value="Asia/Tashkent">(UTC+05:00) Tashkent, Ashgabat</option>
+  <option value="Asia/Yekaterinburg">(UTC+05:00) Ekaterinburg</option>
+  <option value="Asia/Karachi">(UTC+05:00) Islamabad, Karachi</option>
+  <option value="Asia/Kolkata">(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</option>
+  <option value="Asia/Colombo">(UTC+05:30) Sri Jayawardenepura</option>
+  <option value="Asia/Katmandu">(UTC+05:45) Kathmandu</option>
+  <option value="Asia/Almaty">(UTC+06:00) Astana</option>
+  <option value="Asia/Dhaka">(UTC+06:00) Dhaka</option>
+  <option value="Asia/Novosibirsk">(UTC+06:00) Novosibirsk</option>
+  <option value="Asia/Rangoon">(UTC+06:30) Yangon (Rangoon)</option>
+  <option value="Asia/Bangkok">(UTC+07:00) Bangkok, Hanoi, Jakarta</option>
+  <option value="Asia/Barnaul">(UTC+07:00) Barnaul, Gorno-Altaysk</option>
+  <option value="Asia/Hovd">(UTC+07:00) Hovd</option>
+  <option value="Asia/Krasnoyarsk">(UTC+07:00) Krasnoyarsk</option>
+  <option value="Asia/Tomsk">(UTC+07:00) Tomsk</option>
+  <option value="Asia/Chongqing">(UTC+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi</option>
+  <option value="Asia/Irkutsk">(UTC+08:00) Irkutsk</option>
+  <option value="Asia/Kuala_Lumpur">(UTC+08:00) Kuala Lumpur, Singapore</option>
+  <option value="Australia/Perth">(UTC+08:00) Perth</option>
+  <option value="Asia/Taipei">(UTC+08:00) Taipei</option>
+  <option value="Asia/Ulaanbaatar">(UTC+08:00) Ulaanbaatar</option>
+  <option value="Asia/Pyongyang">(UTC+08:30) Pyongyang</option>
+  <option value="Australia/Eucla">(UTC+08:45) Eucla</option>
+  <option value="Asia/Chita">(UTC+09:00) Chita</option>
+  <option value="Asia/Tokyo">(UTC+09:00) Osaka, Sapporo, Tokyo</option>
+  <option value="Asia/Seoul">(UTC+09:00) Seoul</option>
+  <option value="Asia/Yakutsk">(UTC+09:00) Yakutsk</option>
+  <option value="Australia/Adelaide">(UTC+09:30) Adelaide</option>
+  <option value="Australia/Darwin">(UTC+09:30) Darwin</option>
+  <option value="Australia/Brisbane">(UTC+10:00) Brisbane</option>
+  <option value="Australia/Canberra">(UTC+10:00) Canberra, Melbourne, Sydney</option>
+  <option value="Pacific/Guam">(UTC+10:00) Guam, Port Moresby</option>
+  <option value="Australia/Hobart">(UTC+10:00) Hobart</option>
+  <option value="Asia/Vladivostok">(UTC+10:00) Vladivostok</option>
+  <option value="Australia/Lord_Howe">(UTC+10:30) Lord Howe Island</option>
+  <option value="Pacific/Bougainville">(UTC+11:00) Bougainville Island</option>
+  <option value="Asia/Srednekolymsk">(UTC+11:00) Chokirdakh</option>
+  <option value="Asia/Magadan">(UTC+11:00) Magadan</option>
+  <option value="Pacific/Norfolk">(UTC+11:00) Norfolk Island</option>
+  <option value="Asia/Sakhalin">(UTC+11:00) Sakhalin</option>
+  <option value="Pacific/Guadalcanal">(UTC+11:00) Solomon Islands, New Caledonia</option>
+  <option value="Asia/Anadyr">(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky</option>
+  <option value="Pacific/Auckland">(UTC+12:00) Auckland, Wellington</option>
+  <option value="Pacific/Fiji">(UTC+12:00) Fiji Islands</option>
+  <option value="Pacific/Chatham">(UTC+12:45) Chatham Islands</option>
+  <option value="Pacific/Tongatapu">(UTC+13:00) Nuku'alofa</option>
+  <option value="Pacific/Apia">(UTC+13:00) Samoa</option>
+  <option value="Pacific/Kiritimati">(UTC+14:00) Kiritimati Island</option>
+  <option value="Pacific/Kiritimati">(UTC+14:00) Kiritimati Island</option>
+</select>
+
+      </div>
+      <div class="ml-sm-auto col-md-6 col-md-offset-2 col-12 d-flex justify-content-around justify-content-sm-end">
+        <a class="footer-link" href="/faq">FAQ</a>
+        <a class="footer-link ml-5" href="/privacy">Privacy policy</a>
+        <a class="footer-link ml-5" href="mailto:contact@twitchmetrics.net">Contact</a>
+      </div>
+    </div>
+    <div class="footer-footer d-flex flex-wrap justify-content-center justify-content-sm-end text-muted">
+      <div class="mr-sm-auto"><em>© 2017 Twitchmetrics</em></div>
+      <div>This site is not affiliated with Twitch or any of their partners.</div>
+    </div>
+  </div>
+</footer>
+<div id="clip-modal" class="modal fade" tabindex="-1" data-backdrop="true">
+  <div class="modal-dialog modal-xlg">
+    <div class="modal-content rounded-0">
+      <div class="modal-body bg-black p-2">
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  $('#clip-modal').on('hidden.bs.modal', function (e) {
+    var modal = $(this);
+    modal.find(".modal-body").empty();
+  })
+</script>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+</body></html>
