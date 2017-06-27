@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024165420id_/http%3A//www.cloudability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627142125id_/https%3A//www.cloudability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudability
 
@@ -57,7 +57,7 @@ We use this information to analyze trends, to administer our websites, to learn 
 
 ## Disclosure to Third Parties
 
-Personal Information will only be shared by Cloudability to provide or improve our products, services, and content. It will not be shared with third parties for their marketing purposes without your permission.
+Personal Information will only be shared by Cloudability to provide or improve our products, services, and content. It will not be shared with third parties for their marketing purposes without your permission. _If we ever were to engage in any onward transfers of your data with third parties other than our agents, we would provide you with an opt-out choice to limit the use and disclosure of your personal data._ In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield, Cloudability is potentially liable.
 
 ## Service Providers
 
@@ -68,12 +68,16 @@ We may use third party vendors or service providers to help us provide the Servi
 It may be necessary to share or disclose your personal information when we reasonably determine, that the disclosure of such information is necessary or appropriate:
 
   * To enforce our rights against you or in connection with a breach by you of our Terms of Service;
-  * To prevent any activity we consider to be prohibited or illegal or damaging to our Service or other users; or
+  * To prevent any activity we consider to be prohibited or illegal or damaging to our Service or other users;
   * When required by any applicable law, legal process, litigation, and/or requests from public and governmental authorities within and outside your country of residence.
 
 
 
 In addition, your personal information may be transferred to a third party as a result of an asset sale, acquisition, merger, reorganization or other change of control or if we sell, merge or transfer any part of our business. Part of the sale may include your Personal Information.
+
+## Compelled Disclosure
+
+We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 ## Access to Personal Information
 
@@ -99,16 +103,22 @@ Our websites and content may contain links to other websites. As such, Cloudabil
 
 Your Information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Cloudability transfers Personal Information to the United States and processes it there.
 
-Cloudability complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Cloudability has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+Cloudability complies with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States. Cloudability has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us via e-mail [privacy@cloudability.com](mailto:privacy@cloudability.com) or via mail at:
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Cloudability commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact us via email [privacy@cloudability.com](mailto:privacy@cloudability.com), or via mail at:
 
 Cloudability  
-Attn: Chief Privacy Officer  
-718 SW Alder Street  
-Portland, OR 94025 
+Attn: Privacy Officer  
+334 NW 11th Ave.  
+Portland, OR 97209 
 
-In addition, we have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Cloudability has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+##  U.S. Federal Trade Commission Enforcement
+
+Our commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
 ## Children
 
@@ -118,4 +128,4 @@ The Service is not directed to children. We do not knowingly collect personally 
 
 Cloudability may update its Privacy policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-Last Updated: **March, 14, 2014**
+Last Updated: **May 9th, 2017**
