@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191007id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201107id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Users Who Apply or Sign Up for a Square Account | Square
+# Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
 ## Square
 
-### Privacy Policy for Users Who Apply or Sign Up for a Square Account
+## Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
-**For users who DO NOT apply or sign up for a Square Account,[click here](https://squareup.com/legal/privacy-no-account).**
+**For users who DO NOT apply or sign up for a Square Account,[click here](https://web.archive.org/legal/privacy-no-account).**
 
 **Last updated: May 27, 2016**
 
@@ -26,7 +26,7 @@ Our Services can be used by a broad range of industries in connection with their
 
 Without information about you, we may not be able to provide you with the Services or the support you request.
 
-Our website and Services are not targeted or directed at children under the age of 13 and do not knowingly collect or store any personal information about children under the age of 13.
+Our website and Services are not targeted or directed at children under the age of 13 and do not knowingly collect or store any personal information from children under the age of 13.
 
 ##### Information You Provide
 
@@ -175,9 +175,9 @@ For more information about our security practices, please visit <https://squareu
 
 Please contact our Privacy Department with any questions or concerns regarding this Privacy Policy.
 
-Square, Inc.   
-1455 Market Street, Suite 600   
-San Francisco, CA 94103, U.S.A.   
+Square, Inc. \  
+1455 Market Street, Suite 600 \  
+San Francisco, CA 94103, U.S.A. \  
 [privacy@squareup.com](mailto:privacy@squareup.com)
 
 If you have any questions or concerns regarding our policy, or if you believe our policy or applicable laws relating to the protection of your personal information have not been respected, you may file a complaint with our Privacy Department listed above, and we will respond to let you know who will be handling your matter and when you can expect a further response. We may request additional details from you regarding your concerns and may need to engage or consult with other parties in order to investigate and address your issue. We will keep records of your request and any resolution.
