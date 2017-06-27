@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policerecruitments.in privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209161121id_/http%3A//policerecruitments.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policerecruitments.in privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627104913id_/http%3A//policerecruitments.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy [PoliceRecruitments.in]
 
