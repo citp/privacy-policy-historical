@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralvinny.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907235007id_/http%3A//viralvinny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvinny.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627065347id_/http%3A//www.viralvinny.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Viral Vinny
+# Privacy Policy - Viral Vinny
 
 This privacy policy sets out how ViralVinny uses and protects any information that you give us when you use this website. ViralVinny  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -32,7 +32,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ViralVinny and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (or by visiting [aboutads.info](https://www.aboutads.info/).)
 
 
 
