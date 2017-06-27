@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227171351id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627195119id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcove
 
@@ -20,7 +20,7 @@ Company __
 
 Revolutionizing Online Video for Over a Decade
 
-We'd love to speak to you about your video project. [Talk to us](http://go.brightcove.com/forms/contact-sales/ "Talk to us") any time.
+We'd love to speak to you about your video project. [Talk to us](https://www.brightcove.com/en/contact-sales "Talk to us") any time.
 
 Toll-free from US & Canada
 
@@ -44,7 +44,7 @@ Toll-free from US & Canada
 
 ](https://web.archive.org/en/company/careers)
 
-[Talk to us](http://go.brightcove.com/forms/contact-sales/ "Talk to us")
+[Talk to us](https://www.brightcove.com/en/contact-sales "Talk to us")
 
 LAST UPDATED: April 25, 2012
 
