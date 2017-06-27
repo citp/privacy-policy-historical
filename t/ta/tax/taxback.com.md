@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxback.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824002745id_/https%3A//www.taxback.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxback.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627174346id_/https%3A//www.taxback.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taxback.com Protects Your Personal Information
 
