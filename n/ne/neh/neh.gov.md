@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619091442id_/http%3A//www.neh.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215757id_/https%3A//www.neh.gov/privacy) for the most accurate reproduction.*
 
 # NEH.gov Privacy Policy and Terms of Use | National Endowment for the Humanities
 
@@ -67,14 +67,18 @@ We also use a third-party analytics provider (currently Google Analytics) to ana
 
 For videos embedded in our website, a third-party video service provider (e.g., YouTube) sets a multi-session cookie when you click to play the video. These cookies are stored on your computer's hard drive and allow the third-party provider to record and track websites that you have visited and which videos you have played. The third-party provider uses this information, among other things, to maintain accurate statistics of video use and to customize the video service for individual users. If you want to block third-party provider cookies, you can again use the opt-out instructions available at: <http://www.usa.gov/optout-instructions.shtml>.
 
-As of January 19, 2012, content or functionality from the following third parties may be present on some NEH.gov pages:
+As of February 9, 2017, content or functionality from the following third parties may be present on some NEH.gov pages:
 
   * YouTube
   * Twitter
+  * Facebook
+  * Snapchat
+  * Instagram
+  * Medium
 
 
 
-We will update this list on a regular basis to reflect the third party providers of content or functionality that are commonly used on our website. Further information about YouTube cookies is available at: [http://www.youtube.com/static?hl=en&template=privacy](http://www.youtube.com/static?hl=en&template=privacy). Information about Twitter cookies is available at: <https://twitter.com/privacy>.
+We will update this list on a regular basis to reflect the third party providers of content or functionality that are commonly used on our website. Further information about cookies associated with the websites identified above can be found at:  _<https://www.google.com/intl/en/policies/privacy>_ ; <https://twitter.com/privacy>; <https://www.facebook.com/policies/cookies/>; <https://www.snap.com/en-US/privacy/privacy-policy/>; <https://help.instagram.com/155833707900388>; <https://medium.com/policy/medium-privacy-policy-f03bf92035c9#.j36mc7umw>.
 
 TOP
 
