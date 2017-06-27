@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917232856id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628002141id_/https%3A//mockflow.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MockFlow
 
-Privacy Policy   Last Rev: September 20, 2012  
+  
 
 
-At A Produle Systems, we recognize that privacy is important and we are committed to protecting it. This privacy policy applies to your account information and the data created using this service. If you need more detailed information about our privacy practices use our contact form http://www.mockflow.com/contact. 
+At A Produle Systems, we recognize that privacy is important and we are committed to protecting it. This privacy policy applies to your account information and the data created using this service. If you need more detailed information about our privacy practices use our contact form https://mockflow.com/contact. 
 
 ## Collecting Information
 
