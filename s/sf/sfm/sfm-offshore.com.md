@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfm-offshore.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/confidentiality.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfm-offshore.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165925id_/https%3A//www.sfm-offshore.com/confidentiality.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,13 +56,13 @@ We may also disclose your personal information:
 
 ## 3\. User Access and Choice
 
-If your personal information changes, you may correct, update, amend or delete it by emailing our Customer Support at [ info@sfm-offshore.com ](mailto:info@sfm-offshore.com)or by contacting us by telephone or postal mail at the contact information listed below or on the [Contact Us](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html) page. We will respond to your request within 30 days. If you have a Corporate Service Officer assigned, please contact him/her in priority. 
+If your personal information changes, you may correct, update, amend or delete it by emailing our Customer Support at [ info@sfm-offshore.com ](mailto:info@sfm-offshore.com)or by contacting us by telephone or postal mail at the contact information listed below or on the [Contact Us](https://web.archive.org/web/20170627165925id_/https%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html) page. We will respond to your request within 30 days. If you have a Corporate Service Officer assigned, please contact him/her in priority. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you request that we delete your personal information, we will notify you if we are unable to do so and why. 
 
 ### Opt-out Preferences
 
-If you wish to subscribe to our newsletter on the main site or when you become an SFM customer, we will use your name and email address to send you non-transactional, promotional emails from time to time. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html). 
+If you wish to subscribe to our newsletter on the main site or when you become an SFM customer, we will use your name and email address to send you non-transactional, promotional emails from time to time. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/web/20170627165925id_/https%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html). 
 
 ## 4\. Tracking Technologies / Cookies
 
