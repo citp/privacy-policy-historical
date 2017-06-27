@@ -1,41 +1,27 @@
-> *The following text is extracted and transformed from the pentaximaging.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608215610id_/http%3A//www.us.ricoh-imaging.com/about-pentax/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaximaging.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015648id_/http%3A//us.ricoh-imaging.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RICOH Imaging
+# Privacy Policy
 
-Ricoh Imaging Americas Corporation and our affiliated companies ("RICOH") respect your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. RICOH has established this Privacy Policy so that you can understand how we intend to use and treat your Personal Information, and about the choices you can make in the way your information is collected and used. 
+Thank you for visiting ricoh-imaging.com, the Web site of RICOH IMAGING AMERICAS CORPORATION At ricoh-imaging.com, we respect your privacy. This page will give you an overview of our privacy policy, what information we collect when you visit our site and how that information is used, how you can contact us to be removed from a mailing list to which you have subscribed, and a general disclaimer about the use of the content on our site. If you have any questions that are not answered here, please don't hesitate to ask us directly.
 
-###  We collect the following information: 
+### General information we gather
 
-  * The domain name of visitors to our site, www.us.ricoh-imaging.com and other sites we own such as www.pentaxphotogallery.com. 
-  * The e-mail addresses of those who complete a "Contact Us" form 
-  * The e-mail addresses of those who communicate with us via e-mail 
-  * The e-mail addresses of those who register at our PENTAX Photo Gallery 
-  * The e-mail addresses of those who register to participate in our online RICOH Imaging Community, which is affiliated with a third party website, www.lithium.com.
-  * The phone numbers of those who register for SMS text messages.
-  * Site statistics (e.g., the number of visitors to each website page)
+Whenever you visit ricoh-imaging.com we gather general information about your visit - the site you are coming from, pages or areas you visit on our site, and how long you stay at a particular location on the site. This information helps us identify popular areas of our site as well as areas that could use refinement, so that we can keep content on the site fresh and relevant to our users' interests. Many improvements and updates to the site are based on this data. We do not collect any personally identifiable information from you except when you expressly volunteer it under special circumstances described below, such as entering a contest.
 
+### Are Cookies used?
 
+Yes, but only to collect the aforementioned information. In addition we also use Google Analytics service to measure traffic, and anonymous visitor behavior. To accomplish this, Google Analytics employs the use of anonymous persistent cookies. Cookies are text files that are saved by your browser (e.g., Internet Explorer) and stored on your computer's hard drive. They do not pose any threat to your computer. As stated above, these cookies do not identify, monitor, or track any personally identifiable information. To find out more about how this information is used or to read the Google Analytics privacy policy, go to http://www.google.com/privacy.html.
 
-Personal and business information volunteered by users such as survey information, contest forms, product orders, and site registrations. The information we collect is used for providing services and products, improving our website and product offerings, contacting customers and dealers, internal review, and marketing purposes. 
+Most Web browsers automatically accept cookies without asking the user if he/she wants to do so, but you can usually change your browser to notify you when there is a cookie so you can choose whether to accept or decline the cookie. If you choose to decline one of our cookies, you will still be able to use the features on our site.
 
-RICOH IMAGING AMERICAS CORP. does not sell, trade or rent your personal information, including email addresses, to third parties. RICOH IMAGING AMERICAS CORP. reserves the right to disclose personal information as obligated by law, in response to duly authorized legal processes, governmental requests and as necessary to protect the rights and interests of RICOH IMAGING AMERICAS CORP. If you do not want to receive email from us in the future, please contact us at any time and tell us that you do not want to receive email from our company. 
+### We gather personal data ONLY at your request
 
-### Links to Third Party Sites
+If at some point during your visit to ricoh-imaging.com you take part in a contest or promotion, order brochures, download documents or other software, or if you choose to contact us for some reason, we may ask for personal information such as your name, address, and e-mail address. We also may ask you for information about your interests, opinions and background so that we can better interact with you in the future and better understand your needs as a customer. Providing such information is always optional on your part.
 
-You may be able to access third party web sites through links available on this Site. Your use of such third party sites, including other RICOH Imaging sites, will be governed by the privacy policies of those sites and not by this Privacy Statement.
+### How to be removed from our mailing list after you've subscribed
 
-### Cookies
+When you submit personal information to us, you also may choose to be notified by e-mail about additional products and services offered by RICOH IMAGING AMERICAS CORPORATION If at any time after signing up for our mailing list you would prefer to be removed from it, you can always send a message to [support@ricoh-imaging.com](mailto:support@ricoh-imaging.ca?Subject=Ricoh%20Support%20Claim) and ask to be taken off our list. Or, you can simply reply to an e-mail from us and type REMOVE in the subject line.
 
-Like many websites, we use "cookies" to enhance your experience and gather information about visits to our websites. Cookies are pieces of information that a site sends to your computer while you are viewing the site. Cookies work in combination with content within the site itself to capture and remember information. For instance, cookies are used to remember and process the items in your shopping cart. They are also used to track your activity and understand your preferences based on previous or current site activity. This enables us to provide you with services or to improve your site experience.
+### Disclosure policy
 
-We also receive and store click data and other information about visits to our websites that may be combined with personal information you have provided. This information is used to analyze and improve the website experience and to better customize visits to the site to match your preferences.
-
-### Protection of Information
-
-RICOH Imaging Americas Corp will maintain the confidentiality of the information it collects. We maintain internal practices that help protect the security and confidentiality of this information by limiting employee access to and use of this information.
-
-### Right to Change Internet Privacy Statement
-
-This Statement was last updated effective November 14, 2013. RICOH Imaging Americas Corp. reserves the right to change this Privacy Statement at any time. Changes will be effective immediately upon posting on the web site. Your continued use of our web site following the postings of changes to these terms means you accept these changes. Please check back periodically for additions and modifications.
-
-If you have any questions regarding this policy, please contact us.
+Information collected at ricoh-imaging.com will not be sold, rented, lent or otherwise disclosed to anyone other than to RICOH IMAGING AMERICAS CORPORATION's retailers (for purposes of a product sale initiated by the customer), RICOH IMAGING AMERICAS CORPORATION's affiliated companies - which include RICOH IMAGING COMPANY LTD. (RICOH IMAGING AMERICAS CORPORATION's parent company) - and direct and indirect subsidiaries of RICOH IMAGING AMERICAS CORPORATION Any personal information you may choose to give us is used only to fulfill the service you have requested, such as ordering a document or subscribing to a mailing list.
