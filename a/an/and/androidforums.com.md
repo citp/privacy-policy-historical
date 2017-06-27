@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the androidforums.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052218id_/http%3A//androidforums.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidforums.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201027id_/https%3A//androidforums.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Android Forums
 
-[ ](https://web.archive.org/)
+  
 
-Android Forums is a community driven website and we take privacy very seriously. Please make sure you read and understand our privacy policy.
 
 1\. INTRODUCTION
 
