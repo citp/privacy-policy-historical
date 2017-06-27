@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208041433id_/https%3A//www.us-cert.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182551id_/https%3A//www.us-cert.gov/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Homeland Security
 
@@ -76,7 +76,7 @@ The Department retains the data from Google Analytics, and Survey Monkey survey 
 
 ## How the Department Uses Cookies
 
-The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
+The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
 
