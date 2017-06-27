@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justwp.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219030710id_/http%3A//justwp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justwp.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182242id_/http%3A//justwp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JustWP
 
@@ -73,3 +73,5 @@ If we decide to request information from children, we will require verifiable pa
   * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law.
 
 
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fjustwp.org%2Fprivacy-policy%2F&media=)
