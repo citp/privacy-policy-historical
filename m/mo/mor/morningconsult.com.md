@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220030750id_/http%3A//morningconsult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215020id_/http%3A//morningconsult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Morning Consult
 
@@ -6,9 +6,9 @@
 
 **PRIVACY POLICY**
 
-**Last Updated:**  January 26, 2016
+**Last Updated:**  May 15, 2017
 
-This Privacy Policy discloses the privacy practices for the www.TheMorningConsult.com website and all mobile websites and applications associated therewith (“MC Media”), which is provided by The Morning Consult, LLC (“Morning Consult”). This Privacy Policy governs Morning Consult’s collection of information from you through your use of MC Media. It does not apply to any information you may provide to Morning Consult through other means, e.g., via mail or via telephone. Please read this Privacy Policy carefully so that you understand Morning Consult’s online privacy practices. By using MC Media, you agree that your visit, download or use of MC Media, and any dispute over Morning Consult’s online privacy practices, is governed by this Privacy Policy and Morning Consult’s [Terms and Condition of Use](http://morningconsult.com/terms-and-conditions-of-use/). Questions regarding privacy issues should be directed to [Paul@morningconsult.com](mailto:paul@morningconsult.com) or Morning Consult, P.O. Box 27608, Washington, DC 20038.
+This Privacy Policy discloses the privacy practices for the www.TheMorningConsult.com website and all mobile websites and applications associated therewith (“MC Media”), which is provided by The Morning Consult, LLC (“Morning Consult”). This Privacy Policy governs Morning Consult’s collection of information from you through your use of MC Media. It does not apply to any information you may provide to Morning Consult through other means, e.g., via mail or via telephone. Please read this Privacy Policy carefully so that you understand Morning Consult’s online privacy practices. By using MC Media, you agree that your visit, download or use of MC Media, and any dispute over Morning Consult’s online privacy practices, is governed by this Privacy Policy and Morning Consult’s [Terms and Condition of Use](http://morningconsult.com/terms-and-conditions-of-use/). Questions regarding privacy issues should be directed to [privacy@themorningconsult.com](mailto:privacy@morningconsult.com) or Morning Consult, P.O. Box 27608, Washington, DC 20038.
 
 **TYPES OF INFORMATION MORNING CONSULT COLLECTS**
 
