@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822235922id_/http%3A//zerista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627173745id_/https%3A//zerista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zerista
 
 “Zerista” is a trade name used by Jackrabbit Systems, Inc.  Zerista software and services are a product line offered by Jackrabbit Systems, Inc.  All references herein to Zerista refer to Jackrabbit Systems, Inc.
 
-The Zerista site, www.Zerista.com and any related web services delivered by Zerista on partner sites (“Site”), are owned and operated by JackRabbit Systems, Inc. (“Zerista”).
+Zerista is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information.
 
-Zerista is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information. Your use of the Site and our use of the personal information you provide to us is subject to the terms of this privacy policy and our Terms of Use.
+Zerista offers a full suite of products, including a desktop web site, mobile web site, Android and iOS native applications and web services.  Together these are referred to as the “Site.”
+
+Your use of the Site and our use of the personal information you provide to us is subject to the terms of this privacy policy and our Terms of Use.
 
 ### Collection and Registration of Personal Information
 
-We sometimes request users of the Site to provide personally identifiable information. For example, in order to become a registered user of the Site, you will be required to submit certain personally identifiable information. The information collected from you is strictly voluntary. You may decline to submit personally identifiable information, in which case we may not be able to provide certain services to you. The type of information collected during the registration process may include your contact information, such as your name, e-mail address, postal address, phone number and country of residence (“Registration Information”). You may choose to provide optional profile information such as your real name, photo, company/organization affiliation, profile description, tags, location and other information which may be collected and displayed on your public profile. It is your choice to post content (for example, company affiliation) and make it publicly available. You are solely responsible for the content you post. We do not collect any financial information.
+We request users of the Site to provide personally identifiable information. The information collected from you is strictly voluntary. You may decline to submit personally identifiable information, in which case we may not be able to provide certain services to you. The type of information collected during the registration process includes basic contact information including your name and e-mail address. You may choose to provide additional profile information such as your postal address, phone number, country of residence (“Registration Information”), photo, company/organization affiliation, profile description, tags, location and other information which may be collected and displayed on your  profile page to other attendees. It is your choice to post content (for example, company affiliation) and make it publicly available. You are solely responsible for the content you post. We do not collect any financial information.
+
+When you use our site, we collect information about what pages you visit and what actions (create meetings, send messages, build your schedule, etc) you take.  This information is aggregated together to provide analytics to conference organizers.  These analytics help organizers measure the success of their events.  They include statistics on overall adoption rate, most popular actions, most visited exhibitor pages, etc.
 
 Our Site is not meant to be used by children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are under 13 years of age, please do not use our Site and do not provide any personal information to us. If we discover that a child under 13 has provided us with personal information, we will delete it.
 
@@ -30,6 +34,8 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 Access to your personal information is restricted to use by Zerista, and entities acting as our agents, representatives, or partners. We do share non-personally-identifiable information (such as anonymous usage data, referring / exit pages and URLs, platform types, number of clicks, and user location) with interested third-parties to assist with understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality for the Site.
 
+In addition, conference organizers have access to your personal information as well as aggregated usage information (see analytics above).  In some cases, organizers may request in-depth information about your specific actions.  This is almost always done for the specific purposes of debugging issues that have arisen.
+
 We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; and if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.
 
 ### Access and Changes to Your Registration Information and Preferences
@@ -48,8 +54,7 @@ We recognize that your privacy is important to you, and therefore we endeavor to
 
 ### In the Event of Merger, Sale, or Bankruptcy
 
-In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles  
-
+In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles
 
 ### Safe Harbor
 
@@ -57,8 +62,8 @@ In accordance with our commitment to protect personal privacy, Zerista complies 
 
 ### Dispute Resolution
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to Zerista at the email address given below. Zerista will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. In the event of a dispute, PrivacyTrust will be happy to act as your third party arbitrator.
+Any questions or concerns regarding the use or disclosure of personal information should be directed to Zerista via our [help desk](https://zerista.zendesk.com/hc/en-us/requests/new). Zerista will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. In the event of a dispute, PrivacyTrust will be happy to act as your third party arbitrator.
 
 ### Changes to the Privacy Policy
 
-We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Site. Your continued use of the Site thereafter constitutes acceptance of the changes. This privacy policy came into effect on March 28th, 2011 and was last updated on May 1st, 2015.
+We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Site. Your continued use of the Site thereafter constitutes acceptance of the changes. This privacy policy came into effect on March 28th, 2011 and was last updated on September 19th, 2016.
