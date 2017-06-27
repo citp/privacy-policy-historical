@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506083204id_/https%3A//tax.thomsonreuters.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manatron.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627220835id_/https%3A//tax.thomsonreuters.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy - Thomson Reuters Tax & Accounting
 
@@ -134,7 +134,7 @@ Parts of TRTA’s websites may contain links to, or options for users to integra
 
 ###### QUESTIONS?
 
-If you have any additional questions or concerns related to this statement and/or our practices, email us at [rg.customerservice@thomsonreuters.com](mailto:rg.customerservice@thomsonreuters.com) or mail your request to Thomson Reuters Tax & Accounting, Attention: KS Web, 2395 Midway Road, Carrollton, TX 75006. Telephone 800-431-9025.
+If you have any additional questions or concerns related to this statement and/or our practices, email us at [checkpoint.customerservice@thomsonreuters.com](mailto:checkpoint.customerservice@thomsonreuters.com) or mail your request to Thomson Reuters Tax & Accounting, Attention: KS Web, 2395 Midway Road, Carrollton, TX 75006. Telephone 800-431-9025.
 
 Back to Top 
 
