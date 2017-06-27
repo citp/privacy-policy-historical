@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeshopmillionaire.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126171516id_/http%3A//coffeeshopmillionaire.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeshopmillionaire.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005048id_/http%3A//coffeeshopmillionaire.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Coffee Shop Millionaire — Earnings Disclaimer & Privacy Policy
 
