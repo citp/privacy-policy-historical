@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050316id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202539id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
 **On this page**
 
-##  Application of this Privacy Statement
+## Application of this Privacy Statement
 
 This privacy statement applies only to the www.vic.gov.au website and not to any websites to which www.vic.gov.au provides a link.
 
-##  Use and Disclosure of Personal Information
+## Use and Disclosure of Personal Information
 
 www.vic.gov.au only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and www.vic.gov.au will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
@@ -16,7 +16,7 @@ Personal information that is collected by www.vic.gov.au will be used by and dis
 
 www.vic.gov.au uses a secure system to transmit your personal information via our feedback form. This means that any data you transmit using this form is encrypted and unable to be read by anyone outside our secure system.
 
-##  Access to and Correction of Personal Information
+## Access to and Correction of Personal Information
 
 You may request access to any personal information that www.vic.gov.au may have collected about you. Also, you may request correction of your personal information if you can establish that it is not accurate, complete or up-to-date.
 
@@ -25,15 +25,15 @@ The Manager, vic.gov.au may be contacted about access to, and correction of, per
  
     
 by post at:
-     Product Lead - vic.gov.au  
+    Product Lead - vic.gov.au  
 Digital Engagement  
 Department of Premier and Cabinet  
 121 Exhibition Street  
 Melbourne Victoria 3000
 
-Should you wish to gain access to, or correction of, your personal information held by the department, please contact us by emailing [dp&c@dpc.vic.gov.au](mailto:dp&c@dpc.vic.gov.au).
+Should you wish to gain access to, or correction of, your personal information held by the department, please contact us by emailing [contact@dpc.vic.gov.au](mailto:contact@dpc.vic.gov.au).
 
-##  Collection of Personal Information
+## Collection of Personal Information
 
 It is intended that www.vic.gov.au can be used anonymously.
 
@@ -45,11 +45,11 @@ The first exception is where someone else provides www.vic.gov.au with your pers
 
 The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the _Privacy and Data Protection Act 2014 (Vic)_. However, these statistics are not used to identify individual users of www.vic.gov.au.
 
-##  Internet Use Risk
+## Internet Use Risk
 
 You should be aware that there are risks in transmitting information across the Internet. However, www.vic.gov.au takes reasonable steps to protect any personal information from unauthorised access once that personal information comes into its possession.
 
-##  Linking
+## Linking
 
 This website contains hyperlinks to pages contained on external government and non-government websites (third party websites). Unless otherwise indicated, www.vic.gov.au:
 
@@ -61,17 +61,17 @@ This website contains hyperlinks to pages contained on external government and n
 
 You should be aware that if you access another website through a link we provide, you are subject to the privacy policy of that website.
 
-##  Web measurement service used by www.vic.gov.au
+## Web measurement service used by www.vic.gov.au
 
 www.vic.gov.au currently uses one web measurement service provider. This is Google Analytics.
 
-###  Google Analytics - Use of Cookies
+### Google Analytics - Use of Cookies
 
 [Google Analytics](http://www.google.com/analytics/) uses a first-party cookie and JavaScript code to collect information about visitors to vic.gov.au. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.
 
 Please also read the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
 
-###  How to Opt Out or Disable Cookies
+### How to Opt Out or Disable Cookies
 
 Cookies used by www.vic.gov.au are enabled by default because of their integration into the website. If you do not wish to have cookies placed on your computer, you can disable them using your web browser. You will need to customise each web browser you use to turn off cookie tracking.
 
@@ -89,17 +89,17 @@ If you want to prevent your browsing data from being collected by Google Analyti
 
 If you opt out of using cookies, you will still have access to all information and resources at www.vic.gov.au.
 
-##  Data Collection
+## Data Collection
 
 While the anonymous statistical data www.vic.gov.au collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.
 
-##  Victorian Government Directory
+## Victorian Government Directory
 
 The Victorian Government Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
 
 To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Victorian Government directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.
 
-##  Social Media Websites and Applications
+## Social Media Websites and Applications
 
 In addition to www.vic.gov.au, The Victorian Government uses social media websites to share information and to engage with the public. For example, www.vic.gov.au embeds a Twitter feed listing tweets from various Victorian Government departments and agencies on our home page. Our intention is to provide a seamless visitor experience to enhance our website visitor's ability to access information and communicate with the Victorian Government.
 
