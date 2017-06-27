@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberdownloads.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605114104id_/http%3A//uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberdownloads.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627050846id_/http%3A//www.uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Uberdownloads - Freeware and shareware downloads
 
