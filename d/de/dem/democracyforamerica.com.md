@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127073606id_/http%3A//democracyforamerica.com/index.php/site/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627214510id_/http%3A//democracyforamerica.com/index.php/site/page/privacy-policy) for the most accurate reproduction.*
 
 # Democracy for America : Privacy Policy
 
@@ -12,6 +12,7 @@ Linking to other sites.
 When you contribute money online.  
 When you subscribe to updates.  
 When you sign up for our mailing list.  
+Facebook Messenger.  
 How to correct information you provided.  
 How to contact us about privacy.
 
@@ -52,6 +53,10 @@ We collect your e-mail address, state, and zip code.
 We use your e-mail address to send you Democracy for America updates. We may use your zip code and state to send you e-mail messages about upcoming campaign events in your area. You may remove your e-mail address from our lists by emailing us at [website@democracyforamerica.com](mailto:website@democracyforamerica.com) . We do not share our mailing lists with non-political third parties; however, we may share your information with other like-minded Democratic candidates and organizations.
 
 We log IP addresses, or the location of your computer network on the Internet, for systems administrations and troubleshooting purposes. We also may use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site. We do not use this data to develop profiles of individual visitors to our web site.
+
+**Facebook Messenger:**
+
+Democracy for America uses Facebook messenger to communicate with supporters in a manner consistent with Facebook messenger’s privacy requirements.
 
 **How we protect your information:**
 
