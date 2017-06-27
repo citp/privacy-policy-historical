@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ef.edu privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205160057id_/http%3A//www.ef.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ef.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627024022id_/http%3A//www.ef.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### 1\. Your consent
 
-By submitting your personal data to www.ef.com (hereinafter EF.com) you automatically accept that EF International Language Schools B.V. or any other corporate entity in the EF Group ( **"EF"** ) registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
+By submitting your personal data to www.ef.edu (hereinafter EF.edu) you automatically accept that EF International Language Schools B.V. or any other corporate entity in the EF Group ( **"EF"** ) registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
 
 ### 2\. Information about you
 
@@ -20,9 +20,9 @@ If you wish to send a digital postcard or tell a friend about a particular progr
 
 The information you provide to create a message is only used for that purpose and it is only disclosed to the recipient.
 
-### 4\. Information about all visitors of ef.com
+### 4\. Information about all visitors of ef.edu
 
-EF may gather certain usage information from EF.com, like the numbers and frequency of visitors to our web site. Such information may be provided to reputable third-party vendors. The data is only used on the aggregate and does not include any personally identifying information.
+EF may gather certain usage information from EF.edu, like the numbers and frequency of visitors to our web site. Such information may be provided to reputable third-party vendors. The data is only used on the aggregate and does not include any personally identifying information.
 
 ### 5\. Children's privacy
 
@@ -42,13 +42,13 @@ EF will at your request or on our own initiative replenish, rectify or erase any
 
 ### 8\. Data security
 
-Personal information collected by EF.com is stored in secure operating environments that are not available to the public.
+Personal information collected by EF.edu is stored in secure operating environments that are not available to the public.
 
 ### 9\. Areas not covered by this private policy
 
 Personal information that you provide through chat sessions or email exchanges are not covered by this Privacy Policy. We will protect your privacy to the best of our ability by monitoring the sessions, but please keep in mind that you control the information you disclose when you are in a public forum. You should always be careful when distributing your personal information in this manner.
 
-Moreover, it is important to be aware of that this policy only applies to EF.com and not to other companies’ or organizations’ web sites to which we may link.
+Moreover, it is important to be aware of that this policy only applies to EF.edu and not to other companies’ or organizations’ web sites to which we may link.
 
 ### 10\. Amendments
 
