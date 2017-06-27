@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaccines.gov privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224060205id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaccines.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627184111id_/https%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS Privacy Policy Notice | HHS.gov
 
@@ -19,6 +19,8 @@ You may also want to read information about the [Privacy Act at HHS](https://we
 
 For more detailed information on HHS privacy, see these topics below:
 
+  * HHS Privacy Program
+  * Contact Information for Privacy Officials
   * Personal information voluntarily given to HHS
   * Interaction with children on-line
   * Visiting an official HHS page on third-party websites
@@ -27,6 +29,134 @@ For more detailed information on HHS privacy, see these topics below:
   * Website Security
 
 
+
+## HHS Privacy Program
+
+It is the mission of HHS to enhance and protect the health and well-being of all Americans. HHS fulfills that mission by providing effective health and human services and fostering advances in medicine, public health, and social services. HHS recognizes the importance of protecting the personally identifiable information (PII) entrusted to us by millions of members of public and employees alike, and has built a robust Privacy Program to safeguard this information and ensure that Americans’ privacy rights are upheld. 
+
+**System of Records Notices (SORNs** **)**  
+For a list of all of the Department’s systems of records visit the [HHS SORNs page](https://web.archive.org/foia/privacy/sorns/index.html).
+
+**Privacy Impact Assessments (PIAs)**  
+For a list of the Department’s System PIAs and Third-Party Websites and Applications PIAs see the [HHS Privacy Impact Assessments page](https://web.archive.org/pia/).
+
+**Matching Notices and Agreements**  
+For a list of the Department’s up-to-date matching notices and agreements see the [HHS Computer Matching Agreements page](https://web.archive.org/foia/privacy/cmas/index.html).
+
+**Exemptions to the Privacy Act**.   
+For more information on the Department’s final rules published in the  _Federal Register  _that promulgate Privacy Act exemptions claimed for HHS’s systems of records, see the [HHS Privacy Act page](https://web.archive.org/foia/privacy/index.html).
+
+**Privacy Act Implementation Rules**  
+For a list of Privacy Act implementation rules promulgated pursuant to 5 U.S.C. § 552a(f), visit the [HHS Privacy Act page](https://web.archive.org/foia/privacy/index.html).
+
+**Publicly Available Agency Policies on Privacy**  
+For a list of all publicly available HHS policies on privacy, including any directives, instructions, handbooks, manuals, or other guidance, visit:
+
+  * [HHS OCIO Policies, Standards and Charters](https://web.archive.org/ocio/policy/index.html)
+  * [HHS Information Security and Privacy Program](https://web.archive.org/ocio/securityprivacy/index.html)
+  * [HHS Privacy Impact Assessments (PIAs) & Resources](https://web.archive.org/ocio/securityprivacy/privacyresources/pias.html)
+
+
+
+**Publicly Available Agency Reports on Privacy**  
+For a list of the Department’s publicly available privacy reports, see the [HHS Plans & Reports page](https://web.archive.org/ocio/plans/index.html).
+
+**Instructions for Submitting a Privacy Act Request**  
+Fr instructions for individuals who wish to request access to or amendment of their records pursuant to 5 U.S.C. § 552a(d), visit the [HHS “How to Make a Privacy Request” page](https://web.archive.org/foia/privacy/how-make-privacy-act-request.html).
+
+**Contact Information for Submitting a Privacy Question or Complaint**  
+For individuals who wish to submit a privacy-related question or complaint, visit the [HHS ](https://web.archive.org/foia/contacts/index.html#privacy)[Privacy Act Contacts list](https://web.archive.org/foia/contacts/index.html#privacy).
+
+* * *
+
+## Contact Information for Privacy Officials
+
+### Department-level Privacy Contacts:
+
+The HHS Chief Information Officer (CIO) also holds the position of Senior Agency Official for Privacy (SAOP), ensuring privacy receives senior-level recognition and has visibility across the Department.
+
+For HHS SAOP contact information, see:
+
+**Beth Killoran**  
+HHS Senior Agency Official for Privacy;  
+Deputy Assistant Secretary for Information Technology; and  
+Chief Information Officer (CIO).  
+Phone: 202-690-6162  
+E-mail: [beth.killoran@hhs.gov](mailto:beth.killoran@hhs.gov)
+
+For HHS Chief Privacy and Data Sharing Officer contact information, see:
+
+**Matthew Olsen**  
+HHS Chief Privacy and Data Sharing Officer; and  
+Executive Director, OCIO Office of Privacy & Information Management.  
+Phone: 202-260-0322  
+E-mail: [Matthew.Olsen@hhs.gov](mailto:Matthew.Olsen@hhs.gov)
+
+### OpDiv Senior Officials for Privacy:
+
+Each OpDiv has, at a minimum, a Senior Official for Privacy (SOP) to oversee privacy compliance activities. For OpDiv SOP contact information, see:
+
+**Gary Cochran**  
+Administration for Children and Families (ACF)  
+Phone: 202-401-6465  
+[Gary.Cochran@acf.hhs.gov](mailto:Gary.Cochran@acf.hhs.gov)
+
+**Jacques Newgen**  
+Administration of Community Living (ACL)  
+Phone: 202-795-7414  
+[Jacques.Newgen@acl.hhs.gov](mailto:Jacques.Newgen@acl.hhs.gov)
+
+**Tim Erny**  
+Agency for Healthcare Research and Quality (AHRQ)  
+Phone: 301-427-1760  
+[Tim.Erny@ahrq.hhs.gov](mailto:Tim.Erny@ahrq.hhs.gov)
+
+**Beverly Walker**  
+Centers for Disease Control and Prevention (CDC)  
+Phone: 770-488-8524  
+[vhz4@cdc.gov](mailto:vhz4@cdc.gov)
+
+**Emery Csulak**  
+Centers for Medicare and Medicaid Services (CMS)  
+Phone: 410-786-8954  
+[Emery.Csulak@cms.hhs.gov](mailto:Emery.Csulak@cms.hhs.gov)
+
+**Cullen Cowley**  
+Food and Drug Administration (FDA)  
+Phone: 301-796-3900  
+[Cullen.Cowley@fda.hhs.gov](mailto:Cullen.Cowley@fda.hhs.gov)
+
+**James Ellis**  
+Health Resources and Services Administration (HRSA)  
+Phone: 301-443-6035  
+[JEllis@hrsa.gov](mailto:JEllis@hrsa.gov)
+
+**Heather H. McClane**  
+Indian Health Service (IHS)  
+Phone: 301-443-1116  
+[Heather.McClane@ihs.gov](mailto:Heather.McClane@ihs.gov)
+
+**Celeste Dade-Vinson**  
+National Institutes of Health (NIH)  
+Phone: 301-402-6201  
+[celeste.dade-vinson@nih.gov](mailto:celeste.dade-vinson@nih.gov)
+
+**Kamran Khaliq**  
+Office of Inspector General (OIG)  
+Phone: 202-205-9207  
+[SOP@oig.hhs.gov](mailto:SOP@oig.hhs.gov) or [Kamran.Khaliq@oig.hhs.gov](mailto:Kamran.Khaliq@oig.hhs.gov)
+
+**Julia White**  
+Office of the Secretary (OS) and Program Support Center (PSC)  
+Phone: 301-945-5501  
+[Julia.White@hhs.gov](mailto:Julia.White@hhs.gov)
+
+**Ammar Ahmad**  
+Substance Abuse and Mental Health Services Administration (SAMHSA)  
+Phone: 240-276-0128  
+[Ammar.Ahmad@samhsa.hhs.gov](mailto:Ammar.Ahmad@samhsa.hhs.gov)
+
+* * *
 
 ## Personal Information Voluntarily Submitted to HHS
 
@@ -102,7 +232,7 @@ We use the specified software and features below:
 
 **Google Analytics** : HHS may employ tools provided by Google Analytics to support Display Advertising, including Remarketing, Google Display Network Impression Reporting, data collection via advertising cookies and anonymous identifiers, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting. In general, this means that third-party vendors, including Google, may show HHS ads on sites across the Internet based upon visits to HHS websites. To implement these tools, HHS and third-party vendors, including Google, use first-party cookies and third- party cookies together to inform, optimize, and serve ads based on past visits to HHS websites. The Google Analytics Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
 
-**GovDelivery** : HHS uses GovDelivery to email newsletters and other messages to visitors who subscribe to them on HHS websites. Only HHS staff and managers who email newsletters using GovDelivery and/or monitor the results of email initiatives have access to the subscriber lists. GovDelivery never allows access to the subscriber lists to anyone outside of HHS or for any purpose. GovDelivery also provides aggregate data, such as email opens rates, and total clicks on links. The GovDelivery privacy policy is available at <http://www.govdelivery.com/privacy>
+**Granicus** : HHS uses Granicus (formerly called GovDelivery) to email newsletters and other messages to visitors who subscribe to them on HHS websites. Only HHS staff and managers who email newsletters using Granicus and/or monitor the results of email initiatives have access to the subscriber lists. Granicus never allows access to the subscriber lists to anyone outside of HHS or for any purpose. Granicus also provides aggregate data, such as email opens rates, and total clicks on links. The Granicus privacy policy is available at <https://granicus.com/privacy-policy/>.
 
 **Tynt** : HHS uses Tynt to improve the ease of link creation in copied-and-pasted content for website visitors and identify which content is copied-and-pasted. When an HHS website visitor copies content and pastes it into another document, a link back to the original content may be automatically appended. Tynt does not collect personally identifiable information. Tynt Privacy Policy is available at <http://www.tynt.com/privacy_policy>
 
