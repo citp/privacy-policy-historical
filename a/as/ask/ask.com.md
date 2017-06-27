@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213002128id_/https%3A//www.ask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210527id_/http%3A//www.ask.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ask.com
+# Ask.com - What's Your Question?
 
-_(Effective September 29, 2016)_
+_(Effective June 13, 2017)_  
+**Privacy Policy**  
+**Last Updated On: June 13, 2017**
 
-**Privacy Policy**
-
-**Last Updated On: September 29, 2016  
-**  
-At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Publishing, LLC., APN, LLC and Mindspark Interactive Network, Inc. (“Ask”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our Ask mobile applications and (iii) “Search Applications,” a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc. (collectively the “Services”).
+At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Publishing, LLC., APN, LLC and Mindspark Interactive Network, Inc. (“Ask”, “we”, “us”, “our”) through the use of (i) our websites (the “Site”), (ii) our Ask mobile applications and (iii) “Search Applications,” a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc. (collectively the “Services”).
 
 Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes. 
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our user's needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Site. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
-**1\. What information do we collect about you?**
-
+**1\. What information do we collect about you?**  
 We explain below the main ways that we collect and process information about you.
 
 **Information You Provide To Us:**
 
-Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences. 
 
 You may also provide personal information to us, if you choose to: 
 
-  * sign up to receive our “Question of the Day” or any similar service or request to receive certain other communications from us; 
+  * sign up to receive any additional services or request to receive certain communications from us;
   * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services; 
   * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes); 
   * contact us about employment opportunities posted to the Services; or 
@@ -32,32 +29,24 @@ You may also provide personal information to us, if you choose to:
 
 
 
-Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself. **__**
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature accessed via a social networking site including through a Search Application, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself. 
 
 **Information We Collect When You Use The Services:**
 
 When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including: 
 
-(1) IP address of your computer
+(1) IP address of your computer  
+(2) Unique mobile device identifier  
+(3) Technical information about your computer or mobile device such as type of device, mobile device ID number, screen resolution, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)  
+(4) Your preferences and settings (time zone, language, etc.)  
+(5) Internet provider or mobile carrier name  
+(6) The URL of the last webpage you visited before visiting the Site  
+(7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);  
+(8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.  
+(9) If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).  
 
-(2) Unique mobile device identifier
 
-(3) Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.) 
-
-(4) Your preferences and settings (time zone, language, etc.)
-
-(5) Internet provider or mobile carrier name
-
-(6) The URL of the last webpage you visited before visiting the Website
-
-(7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
-
-(8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.
-
-(9) If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
-
-**2\. How do we use the information we collect?**
-
+**2\. How do we use the information we collect?**  
 We use the information we collect from and about you for a variety of purposes, including to:
 
   * verify your eligibility for our Services;
@@ -81,16 +70,16 @@ We may also generate, use and disclose aggregated and/or anonymized information 
 We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways: 
 
   * **_Our suppliers, subcontractors and business partners (“service providers”):_ **We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes. 
-  * **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp. __
-  * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. ****
+  * **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp. 
+  * **_Our Search Application partners:_** __ If you have installed and/or use a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, IP address, and the address of the web pages you previously visited. 
   * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. 
   * **_Law enforcement purposes and public safety:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
   * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
-  * **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below. 
+  * **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Site and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below. 
 
 
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Ask is potentially liable.
+In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or the Swiss-US Privacy Shield, Ask is potentially liable. 
 
 **4\. Cookies and Online Advertising:**
 
@@ -98,11 +87,9 @@ In cases of onward transfer to third parties of data of EU individuals received 
 
 There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf. Cookies have a lot of jobs. For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings. We use third party cookies for functionality, performance / analytics, advertising and social media purposes. Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests. To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
 
-**How To Control Or Delete Cookies:**  
-_____________________________________________________________________________  
+**How To Control Or Delete Cookies:**
 
-
-**_____________________________________________________________________________**
+**_____________________________________________________________________________ _____________________________________________________________________________**
 
 Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details. 
 
@@ -113,22 +100,23 @@ Most browsers allow you to change your cookie settings. Users can usually set th
 
 
 
-Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information. 
 
-Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies.
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies. 
 
 **Online Behavioral Advertising and Mobile.** Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Ask.com and other websites by visiting the following websites:
 
   * Network Advertising Initiative (<http://www.networkadvertising.org/>) 
   * Digital Advertising Alliance (<http://www.aboutads.info/consumers>) 
+  * Your Online Choices (<http://www.youronlinechoices.com/>) 
 
 
 
 Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
 
-If you are using an Ask mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+If you are using an Ask mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use. 
 
-If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing this [link](https://support.apple.com/en-us/HT202074) on your device or use your device’s settings. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
 
 **Mobile Device Location Information.** When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
 
@@ -148,11 +136,9 @@ Attn: Privacy Officer
 Oakland, CA 94607  
 [Privacyhelp@ask.com](mailto:Privacyhelp@ask.com)
 
-If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
-
 **Do Not Track.** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
 
-We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
 
 **6\. How do we keep the information we collect secure?**
 
@@ -168,24 +154,23 @@ The Services are not intended for users under the age of 13. We do not knowingly
 
 **9\. Consent to Transfer of Information**
 
-If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy. 
 
-**10\. Self-Regulatory Framework and Complaint Handling  
-EU-US Privacy Shield Notice**
+**10\. Removal Request**
 
-IAC Publishing, LLC, which operates the Ask.com Website and the Ask.com mobile applications, complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. IAC Publishing, LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view IAC Publishing, LLC certification page, please visit <https://www.privacyshield.gov/>
+Following a recent ruling by the Court of Justice of the European Union (ECJ), users of our web search and reference services operated by Ask who are EU residents may request that certain results do not appear following a web search for the user's name.
 
-In compliance with the EU-US Privacy Shield Principles, IAC Publishing, LLC commits to resolve complaints about your privacy and IAC Publishing’s collection or use of your personal information. **European Union individuals** with inquiries or complaints regarding this privacy policy should first contact us at the address set forth under section 5.
+If you would like to request the removal of a search result generated using your name as the search term, and the law of your jurisdiction requires us to honor that request, please send your request in writing to the address set forth under Section 5. To assist us in processing your request in timely manner, please make your request in English if you are able to do so. Your request should include any information relevant to your request, including, without limitation: (i) your name, email and postal address; (ii) the URL (i.e., "web address") for each link that you are requesting to be removed; (iii) a brief explanation of why you believe such results should be removed; and (iv) an explanation as to why the contents of the link you wish to have removed relate to you.
 
-IAC Publishing, LLC has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the EU- US Privacy Shield to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY SHIELD web site at www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+To help us prevent fraudulent removal requests, please also include a legible copy of a document that verifies your identity. You need not provide a government-issued document; a utility bill or similar mailing will suffice. You may also obscure parts of the document such as identifying numbers so long as the document continues to clearly identify you. If you are requesting the removal of search results that contain photographs of you, please ensure that the identifying document includes your photograph. If you are making the request on behalf of another person, please indicate your relationship to that person and provide evidence of your authority to make such request. All requests for removal will be reviewed by Ask.com’s legal and compliance team and we reserve the right, in compliance with applicable laws, to accept or reject, or make further inquiries regarding, any requests.
 
-**U.S.-Swiss Safe Harbor Framework**
+**11\. EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework**
 
-IAC Publishing, LLC, which operates the Ask.com Website and the Ask.com mobile applications, also complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. IAC Publishing, LLC. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view the IAC Publishing LLC certification page, please visit <http://www.export.gov/safeharbor/>. 
+IAC Publishing, LLC, which operates the Ask.com Site and the Ask.com mobile applications, complies with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. IAC Publishing, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view IAC Publishing, LLC certification page, please visit <https://www.privacyshield.gov/>
 
-In compliance with the US-Swiss Safe Harbor Principles, IAC Publishing, LLC commits to resolve complaints about your privacy and IAC Publishing’s collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at the address set forth under section 5.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, IAC Publishing, LLC commits to resolve complaints about your privacy and IAC Publishing’s collection or use of your personal information. **European Union or Swiss individuals** with inquiries or complaints regarding this privacy policy should first contact us at the address set forth under section 5.
 
-IAC Publishing, LLC has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+IAC Publishing, LLC has further committed to refer unresolved privacy complaints regarding the Site or mobile applications under the EU- US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY SHIELD web site at www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
 Please note that if your complaint is not resolved through the channels listed in this Privacy Policy, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
