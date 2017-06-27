@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620133338id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627110449id_/https%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
 
-# Rapid Electronics Privacy & Cookie Policy | Rapid Online
+# Privacy and Cookies Policy | Rapid Online
 
-Overview
+**Overview**
 
 The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data.
 
@@ -10,7 +10,7 @@ Rapid Electronics Limited is committed to ensuring that your privacy is protecte
 
 The Privacy and Cookies Policy explains how we will treat any personal information that you provide to us when you use this site. It also outlines how we use internet cookies and some of the security measures that we take in order to protect your privacy, as well as giving certain assurances on things we will not do.
 
-The information we collect and how we use it
+**The information we collect and how we use it**
 
 When you register on our website at www.rapidonline.com, we collect information about you and your organisation such as company name, address, job title, e-mail address and phone number.
 
@@ -22,7 +22,7 @@ We may have received personal information about you from other companies and org
 
 We will only send marketing material or advertise the products and services of the company by email to subscribers whose contact details the company has obtained either in the course of a transaction or registration. All subscribers will be offered a means of opting out of such communications at the time their details were initially collected and each subsequent communication. 
 
-Cookies
+**Cookies**
 
 We use a number of different cookies on our website. 
 
@@ -30,7 +30,7 @@ A cookie is a text file that tracks our users' navigation of the site and stores
 
 Cookies allow us to understand our visitors' habits and preferences, enabling Rapid Electronics to customise its web services and provide an enhanced user experience. The use of cookies is standard in many industries and you will find them in use on most major websites. We may, for example, use cookies to store registration information so that you do not have to provide it to use on subsequent visits.
 
-Cookies on Rapidonline
+**Cookies on Rapidonline**
 
 **Strictly Necessary Cookies**  
   
@@ -66,7 +66,7 @@ These cookies allow us to remember the choices you make and your personalised fe
 
 | 
 
-These cookies from Google Analytics collect information about how you use our websites, for instance, which pages you go to most often and if you get error messages from those pages.  We only use these cookies to improve how our websites work.  [Click here for an overview of the Google privacy policy](http://www.google.com/analytics/learn/privacy.html)  
+These cookies from Google Analytics collect information about how you use our websites, for instance, which pages you go to most often and if you get error messages from those pages.  We only use these cookies to improve how our websites work.  [Click here for an overview of the Google privacy policy](https://www.google.com/analytics/learn/privacy.html)  
   
 **Advertising or Tracking Cookies**  
   
@@ -78,15 +78,15 @@ These cookies from Google Analytics collect information about how you use our we
 
 We do not accept advertising from any other organisation on our website. We do however allow you to share our content via social media and these cookies are used by AddThis, one of our technology partners, to help track which of the social networking options you use. ****  
   
-If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+If you do not know what cookies are, or how to control or delete them, then we recommend you visit [https://www.aboutcookies.org](https://www.aboutcookies.org/) for detailed guidance.
 
 From 26 May 2012 website owners in the UK became required by law to inform their visitors of the cookies they use on their site and what purpose they have. They must also provide users with the necessary information and guidance in order to disable cookies. 
 
-Gaining your consent
+**Gaining your consent**
 
 How do you consent to the use of cookies? 
 
-If you continue to use this site without changing your settings, we will take this to mean that you are giving your consent to the use of cookies on [www.rapidonline.com](http://www.rapidonline.com/). This is in accordance with the most recent guidance by the Information Commissioner’s Office.
+If you continue to use this site without changing your settings, we will take this to mean that you are giving your consent to the use of cookies on [www.rapidonline.com](https://www.rapidonline.com/). This is in accordance with the most recent guidance by the Information Commissioner’s Office.
 
 If you choose not to allow cookies, you will do so on the understanding that certain parts of the site will not function correctly and we will have to ask you for your preferences every time you visit the site. 
 
@@ -98,48 +98,42 @@ The parts of the site with functionality that will be affected without the accep
 
 
 
-How do I disable cookies?
+**How do I disable cookies?**
 
 Cookies can be disabled or removed from your computer using your browser settings. Please follow the instructions below to navigate to the settings on your browser in which you can disable cookies:
 
 Manage cookies in Internet Explorer  
-<http://support.microsoft.com/kb/196955>
+<https://support.microsoft.com/kb/196955>
 
 Manage cookies Firefox  
-<http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
+<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
 
 Manage cookies in Google Chrome  
-[http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
+[https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
 
 Managing cookies in Safari  
-<http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
+<https://support.apple.com/kb/ph19214?locale=en_GB>
 
 Manage cookies in Opera  
-<http://www.opera.com/browser/tutorials/security/privacy/>
+<https://www.opera.com/help/tutorials/security/privacy/>
 
-Manage cookies in Blackberry  
-<http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
-
-Manage cookies in mobile Google  
-[http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
-
-Links to other websites
+**Links to other websites**
 
 This privacy policy only covers the activity and operation of www.rapidonline.com. Rapid Electronics Limited accepts no responsibility or liability for the third party websites we provide links to. We recommend that visitors consult the respective privacy policies of these websites. 
 
-Unsubscribing from promotional emails
+**Unsubscribing from promotional emails**
 
 Customers who wish to stop receiving marketing email communications or amend their preferences can do so quickly and easily. All marketing emails include an 'Unsubscribe' and 'Update your preferences' link. Alternatively an email with the subject line of 'Unsubscribe' can be sent to [feedback@rapidelec.co.uk](mailto:feedback@rapidelec.co.uk). Your email address will be removed from all our mailing lists used for marketing purposes. Please note that emails relating to the status of orders or transactions will still be sent and received.
 
-Payment card information
+**Payment card information**
 
 Rapid Electronics conform to PCI (Payment Card Industry) Legislation regarding the protection of cardholders data and personal information. All transactions take place within a secure area of the website. Personal payment card information is not published in any form on the website and is not accessible to staff of Rapid Electronics.
 
-Changes to this privacy policy
+**Changes to this privacy policy**
 
 This privacy and cookie policy is reviewed regularly and any changes to it will be published on this page. The privacy policy was last updated on 10 May 2012. 
 
-How to contact us
+**How to contact us**
 
 If you have any concerns or queries relating to your personal information, cookies or any aspect of our privacy policy, please write to us at the address below:
 
@@ -147,4 +141,4 @@ Rapid Electronics Limited
 Severalls Lane  
 Colchester  
 Essex  
-CO4 5JS
+CO4 5JS 
