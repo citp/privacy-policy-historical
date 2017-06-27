@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the groupm.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012008id_/http%3A//www.groupm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupm.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003846id_/http%3A//groupm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice Highlights | GroupM
 
-This Privacy Notice was last updated, July 10, 2015. Please check back for changes as we update this Privacy Notice from time to time. Your use of the Website means that you agree to our Privacy Notice.
+This Privacy Notice was last updated, March 22, 2017. Please check back for changes as we update this Privacy Notice from time to time. Your use of the Website means that you agree to our Privacy Notice.
 
 **What to expect from this page.**  This brief view of our Privacy Notice outlines the most important details you need to know. It outlines the data collection and use practices of GroupM Worldwide Inc., (GroupM). We wanted to save you from a bunch of legal mumbo jumbo but still provide the essential information. You can read the full GroupM Privacy Notice for more detail on our privacy practices. Where we use a term that you may not understand, it will be highlighted. Just “mouse over” the term, or “tap” from your mobile device, and you will see an explanation.
 
@@ -49,6 +49,7 @@ These Privacy Notice Highlights and our full Privacy Notice only apply to GroupM
 **If you choose not to share your non-personal information with us. (We call this “Opt Out”).**
 
     * To opt out of data collection via cookies from GroupM.com please click here.
+    * You have opted out of data collection via cookies from GroupM.com.
 
 
     * To update your browser settings to opt out of all data collection via cookies, regardless of what sites you visit, see your browser’s help menu; links to instructions for popular browsers are below.
@@ -71,7 +72,7 @@ Mozilla Firefox
 ### Full Privacy Notice
 
 How and why we collect data and covering your choices.  
-(last update, July 10, 2015)
+(last update, March 22, 2017)
 
 This notice outlines how and why GroupM Worldwide Inc., (GroupM), collects data from visits to its websites. It also outlines how and why GroupM collects and uses data through services to clients and explains what these practices mean to you -- and how you can manage choices. To keep this simple and as brief as possible, you can see definitions of words that may be unfamiliar by hovering over them with your mouse, or tapping from your mobile device.
 
@@ -110,14 +111,14 @@ Maggie is a 42 year-old mother of three who lives in a small town on Long Island
 
 A [cookie](http://www.groupm.com/privacy-policy#) is a file placed on a user’s browser that uniquely identifies browser and device. Cookies allow us to customize Maggie’s website experience to include more content she likes, and less content she may find not useful. If Maggie does not agree to our use of cookies, she may prevent their use through her browser settings, elect not to use this Website, or just opt out of cookies on our Website as described below. By opting out, Maggie may not be able to use certain Website features or take full advantage of all offerings.
 
-Sometimes a cookie resides on Maggie’s device for just the single time she’s visiting our website; this is called a session cookie.  Sometimes a cookie remains on Maggie’s device until she deletes it; this is called a persistent cookie.  Both types of cookies may be used on our Website.  Cookies help us analyze how users like Maggie use our Website by telling us the pages viewed. They also tell us about the number of visitors to the Website and the webpages that referred them. The Google Analytics cookie we use is an example of a persistent cookie.
+Sometimes a cookie resides on Maggie’s device for just the single time she’s visiting our website; this is called a session cookie.  Sometimes a cookie remains on Maggie’s device until she deletes it; this is called a persistent cookie. Both types of cookies may be used on our Website.  Cookies help us analyze how users like Maggie use our Website by telling us the pages viewed. They also tell us about the number of visitors to the Website and the webpages that referred them. The Google Analytics cookie we use is an example of a persistent cookie.
 
 **GroupM uses the following cookies:**
 
 **Performance/Analytics/Tracking:**  This type of cookie provides aggregated information about where a user may go on the Website.
 
     * Google Analytics. GroupM uses Google Analytics to help us analyze how visitors use the Website. Among other things, Google Analytics uses cookies to collect information about the number of visits to the Website, the webpage that referred visitors to the Website, language, device, browser and operating system, the pages visitors view within the Website and other similar details. We do not share this information with third parties. When used this way the Google Analytics cookie is a persistent cookie, and will remain on your device until the cookie expires or you delete it. These cookies may appear as _utma, _utmb, _utmc, _utmz, _utmv, _utmt.
-    * We also use>  **Google Analytics**  as a session cookie. This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.
+    * We also use >  **Google Analytics**  as a  session cookie. This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.
 
 
 
@@ -125,9 +126,9 @@ Sometimes a cookie resides on Maggie’s device for just the single time she’s
 
 Social media widgets used on this Website include LinkedIn, Twitter, and YouTube. These social media widgets collect information about your visit to the Website and your use of the social platform services (for example, buttons or likes) on the Website. We do not share information with these social platforms, however please keep in mind the social networks collect the data of your site visit and interaction with the social widget directly.
 
-**Opt out of cookies placed from visits to GroupM.com by**  clicking here. You can also change your browser settings to prevent cookies.
+**Opt out of cookies placed from visits to GroupM.com**. You can change your browser settings to prevent cookies.
 
-**Does GroupM.com share any information with other  vendors or partners?** If permitted by law, we may provide access to a user’s PII and/or Non-PII to our vendors and contractors (also known as third parties) who are performing services on our behalf. For example, if Maggie uses a credit card to subscribe to a service, we may securely share her credit card information with our credit card processing service to transact her payment. These vendors are not permitted to use this information for any other purpose. **The GroupM Site uses  social media widgets including, but not limited to, Facebook, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from GroupM’s practices.** Additionally, we must disclose a user’s information when we believe we’re legally obligated to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
+**Does GroupM.com share any information with other  vendors or partners?** If permitted by law, we may provide access to a user’s PII and/or Non-PII to our vendors and contractors (also known as third parties) who are performing services on our behalf. For example, if Maggie uses a credit card to subscribe to a service, we may securely share her credit card information with our credit card processing service to transact her payment. These vendors are not permitted to use this information for any other purpose. **The GroupM Site uses  social media widgets  including, but not limited to, Facebook, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from GroupM’s practices.** Additionally, we must disclose a user’s information when we believe we’re legally obligated to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
 
 **Use of this site by Children & Children’s data:** We’re sensitive to children's privacy. Our Website is not developed for or directed at children under age 13. We specifically request that children not provide personal information (PII) through our Website. If a user believes her child provided PII and would like it deleted from our database, she can contact us at [privacy@groupm.com](mailto:privacy@groupm.com). Likewise, if we become aware we’ve collected personal information from a child under the age of 13, we’ll delete it on our own.
 
@@ -183,7 +184,7 @@ If you have questions or concerns regarding this Privacy Notice, you should cont
 
 ### Privacy Policy (Global)
 
-Last update, July 27, 2015
+Last update, March 22, 2017
 
 This notice outlines how and why GroupM Worldwide, Inc. (“GroupM”) collects data from visits to its websites. It also outlines how and why GroupM may collect and use data about you through services it provides to its clients and explains what these practices mean to you -- and how you can manage choices. The services we offer to our clients are relevant to you, as our services include the placement of advertisements on websites outside of GroupM.com and may be seen and engaged with by you. We explain this in further detail when we describe how our services work here.
 
@@ -232,7 +233,7 @@ Sometimes a cookie resides on your device for just the single time you’re visi
 
 **•  [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).** GroupM uses Google Analytics to help us analyze how visitors use the Website. Among other things, Google Analytics uses cookies to collect information about the number of visits to the Website, the webpage that referred visitors to the Website, language, device, browser and operating system, the pages visitors view within the Website and other similar details. We do not share this information with third parties. When used this way the Google Analytics cookie is a persistent cookie, and will remain on your device until the cookie expires or you delete it. These cookies may appear as _utma, _utmb, _utmc, _utmz, _utmv, _utmt.
 
-• We also use  **Google Analytics**  as a session cookie. This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.
+• We also use  **Google Analytics**  as a  session cookie. This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.
 
 **Social media/Sharing:**  These are cookies that help with the Website’s functionality. These are third party cookies, and they allow you to share comments, pages, bookmarks, and likes, and help to provide access to social networking tools easily.
 
@@ -240,11 +241,11 @@ Sometimes a cookie resides on your device for just the single time you’re visi
 
 
 
-**Turbine and targ.ad**  are services, which place a cookie on your device for the purpose of removing your IP address from the data we collect, since in some countries [such as Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Italy, MENA, Netherlands, Norway, Poland, Portugal, Romania, Russia, Slovakia, Spain, Sweden, Switzerland, Turkey and The United Kingdom] IP addresses are treated as personal data. This service is operated by an independent third party. The targ.ad service was certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010.  You may choose not to receive the targ.ad 2.0 cookie by clicking here 
+**Turbine and targ.ad**  are services, which place a cookie on your device for the purpose of removing your IP address from the data we collect, since in some countries [such as Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Italy, MENA, Netherlands, Norway, Poland, Portugal, Romania, Russia, Slovakia, Spain, Sweden, Switzerland, Turkey and The United Kingdom] IP addresses are treated as personal data. This service is operated by an independent third party. The targ.ad service was certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010.  You may choose not to receive the targ.ad 2.0 cookie. You can change your browser settings to prevent cookies being placed on your device.
 
-**You can choose not to accept cookies placed from visits to the Website by**  clicking here **.**  You can also change your browser settings to prevent cookies being placed on your device.
+**You can choose not to accept cookies placed from visits to the Website.**  You can change your browser settings to prevent cookies being placed on your device.
 
-**Does GroupM share any information with other vendors or partners?**  We may provide access to information we collect to our vendors and contractors (also known as third parties) who are performing services on our behalf. For example, if you use a credit card to subscribe to a service, we may securely provide your credit card information to our credit card processing service to transact your payment. These vendors are not permitted to use this information for any other purpose. **The Website uses  social media widgets including, but not limited to, Facebook, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from GroupM’s practices.** Additionally, we must disclose information when we believe we’re legally obligated to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
+**Does GroupM share any information with other vendors or partners?**  We may provide access to information we collect to our vendors and contractors (also known as third parties) who are performing services on our behalf. For example, if you use a credit card to subscribe to a service, we may securely provide your credit card information to our credit card processing service to transact your payment. These vendors are not permitted to use this information for any other purpose. **The Website uses  social media widgets  including, but not limited to, Facebook, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from GroupM’s practices.** Additionally, we must disclose information when we believe we’re legally obligated to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, or other prohibited activities.
 
 **Use of this site by Children & Children’s data:** We’re sensitive to children's privacy. Our Website is not developed for or directed at children under age 13. We specifically request that children not provide information about themselves through our Website.  If you believe your child has provided this kind of information and would like it deleted from our database, you can contact us at [privacy@groupm.com](mailto:privacy@groupm.com). Likewise, if we become aware we’ve collected information about a child under the age of 13, we’ll delete it on our own.
 
