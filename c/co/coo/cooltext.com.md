@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051135id_/https%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201659id_/https%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Cool Text
+# Privacy Policy
 
 |  [](https://web.archive.org/)
 
-  * [Logos ▼](https://web.archive.org/)
+  * [**Logos** ▼](https://web.archive.org/Logos)
 
 
-  * [Fonts ▼](https://web.archive.org/Fonts)
+  * [**Fonts**](https://web.archive.org/Fonts)
 
 [Login](https://web.archive.org/Login) |   
 | 
@@ -31,6 +31,10 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
   
-|   
-[Live Logo Stream](https://web.archive.org/Dashboard/Stream)   [ Contact Us](https://web.archive.org/web/20161229051135id_/https%3A//cooltext.com/Contact)   [ Link to this Site](https://web.archive.org/web/20161229051135id_/https%3A//cooltext.com/Link)   
-[الْعَرَبيّة](http://ar.cooltext.com/Privacy) \- [Deutsch](http://de.cooltext.com/Privacy) \- [Español](http://es.cooltext.com/Privacy) \- [Français](http://fr.cooltext.com/Privacy) \- [日本](http://ja.cooltext.com/Privacy) \- [한국말](http://ko.cooltext.com/Privacy) \- [Português](http://pt.cooltext.com/Privacy) \- [Türkçe](http://tr.cooltext.com/Privacy) \- [中文](http://zh-cn.cooltext.com/Privacy)
+  
+
+
+## Generator Categories
+
+[Most Popular](https://web.archive.org/Logos-Popular) [Animated](https://web.archive.org/Logos-Animated) [Black](https://web.archive.org/Logos-Black) [Blue](https://web.archive.org/Logos-Blue) [Brown](https://web.archive.org/Logos-Brown) [Burning](https://web.archive.org/Logos-Burning) [Button](https://web.archive.org/Logos-Button) [Casual](https://web.archive.org/Logos-Casual) [Christmas](https://web.archive.org/Logos-Christmas) [Chrome](https://web.archive.org/Logos-Chrome) [Dark](https://web.archive.org/Logos-Dark) [Distressed](https://web.archive.org/Logos-Distressed) [Elegant](https://web.archive.org/Logos-Elegant) [Embossed](https://web.archive.org/Logos-Embossed) [Fast](https://web.archive.org/Logos-Fast) [Festive](https://web.archive.org/Logos-Festive) [Fire](https://web.archive.org/Logos-Fire) [Flourish](https://web.archive.org/Logos-Flourish) [Fun](https://web.archive.org/Logos-Fun) [Girly](https://web.archive.org/Logos-Girly) [Glossy](https://web.archive.org/Logos-Glossy) [Glowing](https://web.archive.org/Logos-Glowing) [Gold](https://web.archive.org/Logos-Gold) [Gradient](https://web.archive.org/Logos-Gradient) [Gray](https://web.archive.org/Logos-Gray) [Green](https://web.archive.org/Logos-Green) [Grunge](https://web.archive.org/Logos-Grunge) [Hearts](https://web.archive.org/Logos-Hearts) [Heavy](https://web.archive.org/Logos-Heavy) [Holiday](https://web.archive.org/Logos-Holiday) [Horror](https://web.archive.org/Logos-Horror) [Ice](https://web.archive.org/Logos-Ice) [Medieval](https://web.archive.org/Logos-Medieval) [Metal](https://web.archive.org/Logos-Metal) [Military](https://web.archive.org/Logos-Military) [Neon](https://web.archive.org/Logos-Neon) [Old](https://web.archive.org/Logos-Old) [Orange](https://web.archive.org/Logos-Orange) [Outline](https://web.archive.org/Logos-Outline) [Pink](https://web.archive.org/Logos-Pink) [Plain](https://web.archive.org/Logos-Plain) [Purple](https://web.archive.org/Logos-Purple) [Red](https://web.archive.org/Logos-Red) [Reflection](https://web.archive.org/Logos-Reflection) [Rounded](https://web.archive.org/Logos-Rounded) [Science-Fiction](https://web.archive.org/Logos-Science-Fiction) [Script](https://web.archive.org/Logos-Script) [Shadow](https://web.archive.org/Logos-Shadow) [Sharp](https://web.archive.org/Logos-Sharp) [Shiny](https://web.archive.org/Logos-Shiny) [Small](https://web.archive.org/Logos-Small) [Space](https://web.archive.org/Logos-Space) [Sparkle](https://web.archive.org/Logos-Sparkle) [Stencil](https://web.archive.org/Logos-Stencil) [Stone](https://web.archive.org/Logos-Stone) [Striped](https://web.archive.org/Logos-Striped) [Symbol](https://web.archive.org/Logos-Symbol) [Tan](https://web.archive.org/Logos-Tan) [Thin](https://web.archive.org/Logos-Thin) [Trippy](https://web.archive.org/Logos-Trippy) [Valentines](https://web.archive.org/Logos-Valentines) [Violent](https://web.archive.org/Logos-Violent) [White](https://web.archive.org/Logos-White) [Yellow](https://web.archive.org/Logos-Yellow) |   
+[Live Logo Stream](https://web.archive.org/Dashboard/Stream)   [ Contact Us](https://web.archive.org/web/20170627201659id_/https%3A//cooltext.com/Contact)   [ Link to this Site](https://web.archive.org/web/20170627201659id_/https%3A//cooltext.com/Link)
