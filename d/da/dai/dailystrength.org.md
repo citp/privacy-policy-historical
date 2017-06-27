@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231506id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202957id_/https%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
