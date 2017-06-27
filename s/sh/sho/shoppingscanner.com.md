@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingscanner.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913210108id_/http%3A//www.shoppingscanner.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingscanner.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627181315id_/http%3A//www.shoppingscanner.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Shoppingscanner
 
