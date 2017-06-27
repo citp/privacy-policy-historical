@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the optimisemedia.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045704id_/https%3A//www.optimisemedia.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimisemedia.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202159id_/https%3A//www.optimisemedia.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy - Optimise
-
-## Website Privacy Policy
 
 Optimise takes the privacy of its customers and users seriously. We take care to put measures in place to preserve the security and integrity of all the information provided to us and/or collected from those who use our services. This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at Optimise sites. We have a distinct [Advertising Privacy Policy](http://www.optimisemedia.com/advertising-privacy-policy/) covering the Advertising Cookies used by Optimise which you can [read here](http://www.optimisemedia.com/advertising-privacy-policy/).
 
@@ -109,12 +107,12 @@ We use the following cookies:
 ### Privacy  
   
 ---|---|---  
-Google Analytics | A web analytics service provided by Google which sets a cookie to evaluate your use of the website and compile reports for us on activity. | Google stores the information collected by the cookie on servers in the US and may also transfer this information to third parties where required to do so by law or for processing information on Google’s behalf. Google Analytics data is completely anonymous. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
-.Dashboard.AffiliateOverview.Filters  
-_(actual cookie name will vary)_ | Saves the preferences for your personalised dashboard configuration. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
-Dashboard_Portlets_  
-_(actual cookie name will vary)_ | Saves the preferences for your personalised dashboard configuration. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
-Announce | Manages your login preferences within our administration area. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+_ga  
+_gid  
+_gat | A web analytics service provided by Google which sets a cookie to evaluate your use of the website and compile reports for us on activity. | Google stores the information collected by the cookie on servers in the US and may also transfer this information to third parties where required to do so by law or for processing information on Google’s behalf. Google Analytics data is completely anonymous. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
+ASPSESSIONIDCESRBACC | Used for managing your secure login sessions | This cookie creates a unique session ID so that we can securely log you into our website. The cookie is deleted at the end of your session  
+ASP.NET_SessionId | Used for managing your secure login sessions | This cookie creates a unique session ID so that we can securely log you into our website. The cookie is deleted at the end of your session  
+AffiliateDashboard15 | Saves the preferences for your personalised Reporting Dashboard configuration. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below. The cookie will remain on your device for 6 months unless deleted.  
   
 More information about cookies can be found [www.aboutcookies.org](http://www.aboutcookies.org/)
 
@@ -134,5 +132,4 @@ By continuing to use the Optimise website, you confirm your acceptance of the te
 
 We may revise this policy at any time in order to reflect changes to our services, or to comply with changes to relevant legislation and reserve the right to do so without notice. We advise you to check this page often in order to ensure you are aware of any recent revisions.
 
-The Optimise website contains links to websites owned and operated by third parties. Optimise is not responsible for the content of these websites.  
-
+The Optimise website contains links to websites owned and operated by third parties. Optimise is not responsible for the content of these websites.
