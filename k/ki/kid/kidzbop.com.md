@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116203007id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627045915id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
 
 # KIDZ BOP | Privacy Policy - KIDZ BOP
 
