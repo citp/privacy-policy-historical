@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011113205id_/http%3A//careerbrochure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627040726id_/http%3A//careerbrochure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date: February 24, 2015
 
 At **CareerBrochure.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties.
-
-### Get Your Degree!
-
-Find schools and get information on the program that’s right for you.
-
-Powered by [Campus Explorer](http://www.campusexplorer.com/?s=sa-DA79D2BE)
 
 INTRODUCTION. **CareerBrochure**  (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”). We created this website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
