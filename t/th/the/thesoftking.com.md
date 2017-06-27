@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033020id_/http%3A//thesoftking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesoftking.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627025735id_/http%3A//thesoftking.com/privacy) for the most accurate reproduction.*
 
-# THESOFTKING.COM - Cheap WebHosting, Reseller Hosting, Master Reseller Hosting, Alpha Reseller Hosting, VPS, Cheap SMTP, Social Service, Facebook Advertising, Online Payment, Cheap Domain Reseller, Website Development, Radio ShoutCast Hosting, ShoutCast Reseller, Streaming Server
+# THESOFTKING | Web Design & Development | Apps & Software
 
 About  Privacy Policy
 
