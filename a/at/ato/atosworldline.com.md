@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atosworldline.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061308id_/http%3A//worldline.com/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atosworldline.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627071240id_/http%3A//worldline.com/en-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,6 +11,11 @@ Because data protection and security matters, the Worldline website is hosted in
   Of course, you have the right to request access, amendment or erasure of your Personal Data. To exercise this right, you can contact the Group Data Protection Office at [dpo-global@atos.net](mailto:dpo-global@atos.net).
 
 This Privacy Notice was published on 3 July 2014 and may be amended from time to time. We invite you to consult this page regularly.
+
+### Atos Binding Corporate Rules
+
+  
+Atos is the first IT company to have obtained approval of its [Binding Corporate Rules (BCRs)](https://atos.net/content/dam/global/documents/atos-binding-corporate-rules.pdf "BCR") by European data protection authorities both as a data controller and a processor. This approval evidences Atos’ commitment to the protection not only of its own data but also that of its clients: all Atos entities provide a very strong level of protection to personal data, regardless of their location in the world. The BCR are a commitment whereby the companies of the ATOS Group undertake to process personal data in accordance with a stringent level of protection to personal data it processes for its own needs (employee data, etc.) but also for the needs of its customers, therefore allowing the free flow of personal data between the companies of the ATOS Group.
 
 ### Cookies
 
