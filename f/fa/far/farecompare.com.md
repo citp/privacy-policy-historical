@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222035453id_/http%3A//www.farecompare.com/about-farecompare/privacy-at-farecompare) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200746id_/http%3A//www.farecompare.com/about-farecompare/privacy-at-farecompare) for the most accurate reproduction.*
 
 # Privacy Policy - FareCompare
 
@@ -44,7 +44,7 @@ We allow selected third parties to advertise their goods and services on our web
 
 ### Your user preferences
 
-Registered users can update your email preferences by clicking the update profile link in the footer of email we send. Registered users can also visit [//www.farecompare.com/mytrips](https://www.farecompare.com/mytrips) to manage advanced preferences.
+Registered users can update your email preferences by clicking the update profile link in the footer of email we send. Registered users can also visit [//stg.farecompare.com/mytrips](https://stg.farecompare.com/mytrips) to manage advanced preferences.
 
 ### How we help protect your user information
 
@@ -64,7 +64,8 @@ This is the web site of FareCompare, LP.
 
 Our postal address is
 
-18111 Preston Road, Suite 800  
+18111 Preston Road, Suite 800
+
 Dallas, TX 75252
 
 For questions or concerns about our Privacy Policy, please email, we can be reached via e-mail at [customer.service@farecompare.com](mailto:customer.service@farecompare.com) or you can reach us by telephone at (972)755-1058.
