@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the short-hairstyles.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112132151id_/http%3A//www.short-hairstyles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hairstyles.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627075453id_/http%3A//www.short-hairstyles.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy.
+# Privacy Policy of Short-hairstyles.com..
 
 Privacy Policy Effective as of 09 May 2016. This Privacy Policy governs the manner and methods in which Jade Web Design (the "owner") uses, collects, maintains and discloses information that may be collected from users (each, a "User") of the  [http://www.short-hairstyles.com](http://www.short-hairstyles.com/) website ("Site"). 
 
