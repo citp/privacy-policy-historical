@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100330id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202302id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=1c317047-03ab-4316-8af0-1033a418bc23 "TRUSTe Privacy Certification")
-
-**Last updated on 30 May 2016**
+**Last updated on 9 June 2017**
 
 ## A) ThoughtWorks' commitment to privacy
 
@@ -153,7 +151,7 @@ We and our partners (e.g., marketing partners, affiliates, or analytics provider
 
 Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -http://www.google.com/policies/privacy/ or Marketo (Marketo munckin cookie is utilized on our site) - <http://legal.marketo.com/privacy>.
+When we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -http://www.google.com/policies/privacy/ or Marketo (Marketo munckin cookie is utilized on our site) - <http://legal.marketo.com/privacy>.
 
 ### Analytics - Display Advertising
 
@@ -185,7 +183,7 @@ Our website offers publicly accessible blogs. You should be aware that any infor
 
 ### Testimonial
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com).
 
 ### Social Media Widgets
 
@@ -195,16 +193,10 @@ Our website includes social media features, such as the Facebook button and Widg
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
-## M) TRUSTe’s Certification and Safe Harbor Framework
+## M) Contact Information
 
-The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at:  
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.  
-
-
-Please click here for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. 
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 ThoughtWorks, Inc.   
 200 E Randolph St   
@@ -215,9 +207,8 @@ USA
 Attention: Privacy Officer  
 Email: [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com)
 
-If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+ThoughWorks maintains standard contractual model clauses approved by the European Commission between ThoughtWorks and its business units based in the European Union.  
 
-ThoughtWorks complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ThoughtWorks has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ThoughtWorks’ certification, please visit <http://www.export.gov/safeharbor/>. The Department of Commerce continues to administer the Safe Harbor Framework despite recent developments in European data protection law; however, ThoughWorks also maintains standard contractual model clauses approved by the European Commission between ThoughtWorks and its business units based in the European Union.
 
 ## N) Notification of privacy policy changes
 
