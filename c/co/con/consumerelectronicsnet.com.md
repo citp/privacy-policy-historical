@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerelectronicsnet.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225044542id_/http%3A//consumerelectronicsnet.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerelectronicsnet.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015549id_/http%3A//www.consumerelectronicsnet.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
 
 # Privacy Policy
 
