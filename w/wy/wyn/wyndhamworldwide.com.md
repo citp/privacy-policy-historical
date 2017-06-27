@@ -1,113 +1,135 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103073839id_/http%3A//www.wyndhamworldwide.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215417id_/http%3A//www.wyndhamworldwide.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Wyndham Worldwide
 
-[](http://wyndhamworldwide.com/print/1718 "Display a printer-friendly version of this page.")
+## Privacy Notice
 
-Wyndham Worldwide Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Notice describes our practices in connection with information that we collect through  websites operated by us from which you are accessing this Privacy Notice (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”), and through our social media pages that we control from which you are accessing this Privacy Notice (collectively, our “ **Social Media Pages** ”), (collectively, including the Websites, the Apps and our Social Media Pages, the “ **Services** ”).  This Privacy Notice also applies to our offline collection of information. The information you provide helps us to operate effectively and continually provide you with the best hospitality products, services and experiences.
+[](http://wyndhamworldwide.com/print/3228 "Display a printer-friendly version of this page.")
 
-Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read the following to learn more about our privacy practices.
+Wyndham Worldwide Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Notice describes our practices in connection with information that we collect through websites operated by us from which you are accessing this Privacy Notice (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), and through our social media pages that we control from which you are accessing this Privacy Notice (collectively, our “Social Media Pages”), (collectively, including the Websites, the Apps and our Social Media Pages, the “Services”).  This Privacy Notice also applies to our offline collection of information. The information you provide helps us to operate effectively and continually provide you with the best hospitality products, services and experiences. 
 
-**Your Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information.  If you do not accept the terms of this Notice, please do not continue to use the Services
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read the following to learn more about our privacy practices. 
 
-1.  **We may collect personal information (which is information that identifies you or relates to you as an identifiable person) about you such as your** :
+Your Acceptance of Our Privacy Notice: By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information.  If you do not accept the terms of this Notice, please do not continue to use the Services
 
-  *     * Name
-    * Postal address (including billing and shipping addresses)
-    * Telephone number
-    * Email address
-    * Credit and debit card number
-    * Financial information
-    * Profile picture
-    * Social media account ID
-    * Stay information
-    * Communication preferences
+What Information Is Collected and How It Is Collected? 
 
+1.        We may collect personal information (which is information that identifies you or relates to you as an identifiable person) about you such as your: 
 
-
-**We may collect information from you when you interact with us such as when you:  **
-
-  *     * Register for a product or service
-    * Contact us with a question or request
-    * Use our Services
-    * Make a payment for a product or service
-    * Stay at one of our properties
-    * Provide a testimonial or story
-    * Participate in a competition or sweepstake
-    * Participate in our loyalty program
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address 
+  * Credit and debit card number
+  * Financial information
+  * Profile picture
+  * Social media account ID
+  * Stay information
+  * Communication preferences
 
 
 
-2.  **Other Information We Collect about you** :
+We may collect information from you when you interact with us such as when you:  
 
-  * **Cookies** : This Website uses “cookies”. By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with the terms of this Notice.  Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer’s hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to this Website. 
-    * One of the purposes of cookies is to simplify the use of the Website.  A cookie may save a user’s login details for example, so that the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.
-    * Cookies may be either “persistent” or “temporary” (or “session”) cookies.  A persistent cookie retains user preferences for a particular Website allowing those preferences to be used in future browsing sessions and remains valid until its set expiry date (unless deleted by the user before the expiry date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  
-    * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as by third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit those cookies to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in - for example, holidays or hobbies.  These cookies run advertisements tailored to the user based on his online buying habits. For a current list of the advertising partners who use cookies on this Website and to opt-out of these types of advertisements on this Website from us, [click here](http://info.evidon.com/pub_info/2073?v=1&nt=1&nw=true).  
-    * **Google Analytics:** We use Google Analytics to help us get a better understanding of how visitors use this Website.  The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
-
-
-  * **From Other Sources** :  We may receive your personal information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your profile or your friends’ profiles.
-  * **Mobile Devices:** When you use access our Services from a mobile device, we may collect information such as your unique device ID and your location information.  When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
-
+  * Register for a product or service
+  * Contact us with a question or request 
+  * Use our Services 
+  * Make a payment for a product or service 
+  * Stay at one of our properties
+  * Provide a testimonial or story
+  * Participate in a competition or sweepstake
+  * Participate in our loyalty program
 
 
-The information we collect from you helps us to identify ways that we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle. **We use personal information for the following purposes:**
+
+2.        Other Information We Collect about you: 
+
+  * Cookies: This Website uses “cookies”. By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with the terms of this Notice.  Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer’s hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to this Website. 
+
+
+  * One of the purposes of cookies is to simplify the use of the Website.  A cookie may save a user’s login details for example, so that the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information. 
+
+
+  * Cookies may be either “persistent” or “temporary” (or “session”) cookies.  A persistent cookie retains user preferences for a particular Website allowing those preferences to be used in future browsing sessions and remains valid until its set expiry date (unless deleted by the user before the expiry date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  
+
+
+  * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as by third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit those cookies to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in - for example, holidays or hobbies.  These cookies run advertisements tailored to the user based on his online buying habits. For a current list of the advertising partners who use cookies on this Website and to opt-out of these types of advertisements on this Website from us, [click here](https://www.google.com/url?q=http://info.evidon.com/pub_info/2073?v%3D1%26nt%3D1%26nw%3Dtrue&sa=D&ust=1494972419754000&usg=AFQjCNEsoRNP7qg2DoDyO4jB9v80U2Uqkw).  
+  * Google Analytics: We use Google Analytics to help us get a better understanding of how visitors use this Website.  The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: [http://tools.google.com/dlpage/gaoptout?hl=en](https://www.google.com/url?q=http://tools.google.com/dlpage/gaoptout?hl%3Den&sa=D&ust=1494972419757000&usg=AFQjCNGO4H-7aSGNBWnqim_BK7JY2ajuww)
+
+
+  * From Other Sources:  We may receive your personal information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your profile or your friends’ profiles. 
+  * Mobile Devices: When you use access our Services from a mobile device, we may collect information such as your unique device ID and your location information.  When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+
+
+
+How Do We Use Your Information? 
+
+The information we collect from you helps us to identify ways that we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle. We use personal information for the following purposes:
 
   * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send administrative information to you, for example, information regarding the Services or an event in which you are attending and changes to our terms, conditions, and policies. 
+  * To send administrative information to you, for example, information regarding the Services or an event in which you are attending and changes to our terms, conditions, and policies.  
   * To complete and fulfill any purchases or requests for services, for example, to process your payments or a hotel stay or vacation rental, communicate with you regarding your purchase and provide you with related customer service.
   * To send you marketing communications that we believe may be of interest to you via postal mail, email, telephone or SMS.
   * To personalize your experience on the Services by presenting products and offers tailored to you.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
   * To facilitate social sharing functionality.
-  * To allow you to send messages to a friend through the Services.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
+  * To allow you to send messages to a friend through the Services.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.  
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
   * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 
 
-We may also aggregate and/or anonymize personal information for research, to improve our products and services; and for other business purposes
+We may also aggregate and/or anonymize personal information for research, to improve our products and services; and for other business purposes.
 
-**Your information may be disclosed as follows:   **
+How Do We Disclose Your Information? 
 
-  * **Affiliates:**  To other Wyndham businesses (our "Affiliates") which may jointly use the personal information for the purposes described in this Privacy Notice.  More information on our Affiliates can be found within Wyndham Worldwide's [10-K Annual Report](https://web.archive.org/investors/annual-report).
-  * **Franchised Hotels, Managed Hotels, Vacation Rentals:   **We may share personal information with the owners and operators of our franchised hotels or owners of hotels that we manage but do not own and timeshare resorts in order to provide you with services. 
-  * **Vendors and Service Providers:** We may disclose your information to vendors and service providers retained by us in connection with our business such as:  travel services companies, financial services companies, property owners’ associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services.
-  * **Message Boards** : We may make message boards, blogs, and other such user-generated content facilities available to users.  Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.  We are not responsible for privacy practices of other users including website operators to whom you provide information. 
-  * **Merger or Acquisition:** A third party who acquires any part of Wyndham Worldwide Corporation itself or any of its Affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.  
-  * **Disclosure Permitted by Law:** Law enforcement authorities, government or public agencies, regulators, and/or to any other person having appropriate legal authority or justification for receipt of your information, if we believe that we are required or permitted to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Wyndham or others.
-  * **Anonymized/Aggregated Information:** Because aggregated or anonymized information does not personally identify you, we may use it for any purpose. If we combine anonymized or aggregated data with personal information, we will treat the combined information as personal information according to this Privacy Notice.
+Your information may be disclosed as follows:  
 
-
-
-  * **Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction.  We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction.  Unfortunately, no security system is 100% secure, thus we cannot ensure the security of information that you provide to us via the Services.      
+  * Affiliates: Other Wyndham businesses (our “Affiliates”) which may jointly use the personal information for the purposes described in this Privacy Notice.  More information on our Affiliates can be found within Wyndham Worldwide’s [10-K Annual Report](https://www.google.com/url?q=http://www.wyndhamworldwide.com/investors/annual-report&sa=D&ust=1494972419775000&usg=AFQjCNFC2_Gx4OVrO6lcD7_U3aU61lfwgg).  
+  * Franchised Hotels, Managed Hotels, Vacation Rentals:  We may share personal information with the owners and operators of our franchised hotels or owners of hotels that we manage but do not own and timeshare resorts in order to provide you with services.  
+  * Vendors and Service Providers: We may disclose your information to vendors and service providers retained by us in connection with our business such as:  travel services companies, financial services companies, property owners’ associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services. 
+  * Message Boards: We may make message boards, blogs, and other such user-generated content facilities available to users.  Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.  We are not responsible for privacy practices of other users including website operators to whom you provide information.  
+  * Merger or Acquisition: A third party who acquires any part of Wyndham Worldwide Corporation itself or any of its Affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.  
+  * Disclosure Permitted by Law: Law enforcement authorities, government or public agencies, regulators, and/or to any other person having appropriate legal authority or justification for receipt of your information, if we believe that we are required or permitted to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Wyndham or others.
+  * Anonymized/Aggregated Information: Because aggregated or anonymized information does not personally identify you, we may use it for any purpose. If we combine anonymized or aggregated data with personal information, we will treat the combined information as personal information according to this Privacy Notice.
 
 
 
-  * **Information Provided on Someone Else’s Behalf:** If you provide us with information about someone else, please ensure you have the person’s permission to do so for the purposes detailed in this Privacy Notice
-  * **Links to Websites:** The Services may have links to other websites that are not operated by us and therefore, we have no control over how these websites may collect your information.  You should read the privacy notices on those other websites before you submit your information through them.  
-  * **Social Media Sites** : Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Apps or our Social Media Pages
-  * **Changes to Our Privacy Notice:**  From time to time we may revise this Notice and/or use personal information for new, unanticipated uses not previously disclosed in this Notice to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers.  Updated and date stamped versions will be posted on the Services.
-  * **Minors:** We do not knowingly collect, maintain or use personal information from children under 18 years of age, and no part of Services is directed to individuals under the age of 18. 
-  * **International Transfers:** We are an international company and we may, subject to applicable law, transfer your information, to our Affiliates or selected third parties where information protection standards may differ. For example, your information may be stored on servers located in other jurisdictions.  We will take steps to help protect your information when it is transferred. 
-  * **Retention Period**. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
-  * At this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.  Third parties, including our service providers, may collect information about your online activities over time and across different Web sites, including when you visit our Web site.  You can learn about how to exercise choice regarding the collection of information about your online activities over time and across third-party Web sites or online services by visiting [www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/).
+How Do We Safeguard Your Information?
+
+  * Security of Your Information: We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction.  We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction.  Unfortunately, no security system is 100% secure, thus we cannot ensure the security of information that you provide to us via the Services. 
 
 
 
-    * **Marketing:** We may contact you by email, telephone, SMS or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out in this way at any time by:
-      * Using the unsubscribe function in the email you receive from us
-      * [Click here](mailto:WynWorld.FB@wyn.com) or contact us at [wynworld.fb@wyn.com](mailto:WynWorld.FB@wyn.com) if you do not wish to receive further direct marketing from us about Wyndham products or services. 
+Other Important Information
+
+  * Information Provided on Someone Else’s Behalf: If you provide us with information about someone else, please ensure you have the person’s permission to do so for the purposes detailed in this Privacy Notice
+  * Links to Websites: The Services may have links to other websites that are not operated by us and therefore, we have no control over how these websites may collect your information.  You should read the privacy notices on those other websites before you submit your information through them.  
+  * Social Media Sites: Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+  * Changes to Our Privacy Notice:  From time to time we may revise this Notice and/or use personal information for new, unanticipated uses not previously disclosed in this Notice to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers.  Updated and date stamped versions will be posted on the Services. 
+  * Minors: We do not knowingly collect, maintain or use personal information from children under 18 years of age, and no part of Services is directed to individuals under the age of 18.  
+  * International Transfers: We are an international company and we may, subject to applicable law, transfer your information, to our Affiliates or selected third parties where information protection standards may differ. For example, your information may be stored on servers located in other jurisdictions.  We will take steps to help protect your information when it is transferred.  
+  * Retention Period. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
+  * At this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.  Third parties, including our service providers, may collect information about your online activities over time and across different Web sites, including when you visit our Web site.  You can learn about how to exercise choice regarding the collection of information about your online activities over time and across third-party Web sites or online services by visiting [www.aboutads.info](https://www.google.com/url?q=http://www.aboutads.info/&sa=D&ust=1494972419794000&usg=AFQjCNH3r9w2AQi1APtQjvwch7QPTOYeJQ) and [www.networkadvertising.org](https://www.google.com/url?q=http://www.networkadvertising.org/&sa=D&ust=1494972419795000&usg=AFQjCNEJLSO8sfqmCDpIuWuUoa8rKmw88w).
 
 
-  * **Access to Information We Hold about You:** If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com). In some jurisdictions, you may be charged a reasonable fee for access to your information.
+
+Choices and Contact Us with Your Questions 
+
+  * Marketing: We may contact you by email, telephone, SMS or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out in this way at any time by:
+
+
+  * Using the unsubscribe function in the email you receive from us 
+  * [[Click here]](mailto:WynWorld.FB@wyn.com) or contact us at [wynworld.fb@wyn.com](mailto:wynworld.fb@wyn.com) if you do not wish to receive further direct marketing from us about Wyndham products or services.  
+
+
+  * Access to Information We Hold about You: If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com). In some jurisdictions, you may be charged a reasonable fee for access to your information. 
 
 
 
-**Contact Information**
+Contact Information
 
-If after reviewing this Notice, you have any questions or privacy concerns please send an email to [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com) or send a letter to:
+If after reviewing this Notice, you have any questions or privacy concerns please send an email to [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com) or send a letter to: 
 
 WWC Corporate Compliance Officer
 
@@ -119,8 +141,11 @@ Parsippany, NJ 07054
 
 USA
 
-If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes.  With respect to these entities, this Notice applies only to their activities within the State of California. To make such a request, please contact us at [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com). 
+Notice to California Residents 
 
-##### Effective Date: [January 24, 2014]
+If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes.  With respect to these entities, this Notice applies only to their activities within the State of California. To make such a request, please contact us at [privacy.wwc@wyn.com](mailto:privacy.wwc@wyn.com).
 
-##### Last Updated Date: [January 24, 2014]
+  * Effective Date: [January 14, 2014]
+  * Last Updated Date: [January 14, 2014]
+
+
