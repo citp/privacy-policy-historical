@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberceleb.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214141144id_/http%3A//uberceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberceleb.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627135220id_/http%3A//uberceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Uber Celebrity
 
