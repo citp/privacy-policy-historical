@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the health.gov privacy policy that was archived on 2016-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203143648id_/https%3A//health.gov/policy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the health.gov privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627175051id_/https%3A//health.gov/policy/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js canvas geolocation hashchange history rgba multiplebgs backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions generatedcontent applicationcache svg inlinesvg svgclippaths" style=""><head>
+<!DOCTYPE html><html lang="en" class="js canvas geolocation hashchange history rgba multiplebgs backgroundsize borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions generatedcontent applicationcache svg inlinesvg svgclippaths" style=""><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -9,7 +9,6 @@
 <meta name="description" content="Use these resources on health communication to learn more about research and practice in the field of health communication.">
 <meta name="keywords" content="health communication resources, research, practice, health informatics, health marketing, medical writing, healthcare journalism, public health education">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Martel:600,800%7COpen+Sans:400,600,700">
   <link rel="stylesheet" href="/ui/css/healthgov.css">
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NB6B7G&amp;l=AnalyticsLogicLayer"></script><script src="/ui/js/dist/modernizr.js"></script>
   <!--[if lt IE 9]>
@@ -48,21 +47,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="row">
         <div class="logo grid-custom">
           <a href="/" title="Health.gov home">health<span>.gov</span></a>
-          <a href="#search_form" class="search-mobile" aria-hidden="true" aria-controls="search_form"></a>
+          <a href="#search_form" class="search-mobile" aria-hidden="true" aria-controls="search_form"><span class="hidden">search</span></a>
         </div>
         <div class="search grid-custom mobile-hide" role="search" aria-hidden="false">
           <form accept-charset="UTF-8" action="/Search" id="search_form" method="get">
             <p class="visuallyhidden"><label for="query">Search</label></p>
-            <p class="search-options">
-              <span>
+            <fieldset class="search-options">
+              <legend class="search-options-title">Choose a site to search</legend>
+              <span class="search-option">
                 <input type="radio" value="healthgov" name="affiliate" id="searchhealthgov" checked="checked">
                 <label for="searchhealthgov">health.gov</label>
               </span>
-              <span>
+              <span class="search-option">
                 <input type="radio" value="odphp" name="affiliate" id="searchodphp">
                 <label for="searchodphp">All ODPHP sites</label>
               </span>
-            </p>
+            </fieldset>
             <p class="search-block"><input aria-autocomplete="both" aria-haspopup="true" autocomplete="off" class="usagov-search-autocomplete search-text" id="query" name="query" type="search">
               <span id="query_suggestions" class="query-suggestions"></span><span id="query_status" class="query-status" aria-live="polite"></span>
               <input type="submit" class="search-button" value="Search">
@@ -142,7 +142,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   </div>
 
-    <div class="footer" role="complementary">
+    <div class="inside">
+    <div class="row">
+      <div class="grid-9 push-3 border-content survey-snug">
+        <div id="resizable_embedded_link"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer" role="complementary">
     <div class="inside">
       <div class="row">
         <div class="grid-12">
@@ -154,14 +162,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li><a href="/policy/copyright.asp">Copyright Policy</a></li>
             <li><a href="/plugins.asp">Viewers &amp; Players</a></li>
             <li><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html" target="_blank">Nondiscrimination Notice</a></li>
+            <li id="feedback_embedded_link"></li>
           </ul>
         </div>
       </div>
-
       <div class="agency-info">
         <div class="row">
           <div class="grid-8">
-            <p>Last updated: 12/3/2016</p>
+            <p>Last updated: 6/27/2017</p>
             <p><span>This site is coordinated by the Office of Disease Prevention and Health Promotion, </span>
             <span>Office of the Assistant Secretary for Health, Office of the Secretary, </span>
             <span>U.S. Department of Health and Human Services.</span></p>
@@ -207,6 +215,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     });
 </script>
 
+<!--BEGIN QUALTRICS SITE INTERCEPT h.gov site-wide-->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.xgo=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.go=function(){wait_for_session_delay(30,this.xgo,this);};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_SI_cLK3ZuxX3mg214p","//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_cLK3ZuxX3mg214p&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id="SI_cLK3ZuxX3mg214p"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+<!--BEGIN QUALTRICS SITE INTERCEPT site-wide footer link -->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_SI_8J7iNUTcz0xiynH","//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_8J7iNUTcz0xiynH&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id="SI_8J7iNUTcz0xiynH"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+<!--BEGIN QUALTRICS SITE INTERCEPT page-level -->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_SI_85Fxvj3UYqV6ncx","//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_85Fxvj3UYqV6ncx&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id="SI_85Fxvj3UYqV6ncx"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+<script src="/ui/js/lib/survey-wrapper.js"></script>
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><script type="text/javascript" src="//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_8J7iNUTcz0xiynH&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170627175051id_%2Fhttps%253A%2F%2Fhealth.gov%2Fpolicy%2Fprivacy.asp&amp;t=1580394383859"></script><script type="text/javascript" src="//znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_85Fxvj3UYqV6ncx&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170627175051id_%2Fhttps%253A%2F%2Fhealth.gov%2Fpolicy%2Fprivacy.asp&amp;t=1580394383860"></script></body></html>
