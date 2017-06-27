@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestar.co.za privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051446id_/http%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.co.za privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627222331id_/http%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,8 +6,8 @@ For your added protection this web site subscribes to and complies with the volu
 
 Definitions
 
-"this web site" means _[http://www.iol.co.za](http://www.iol.co.za/)_  
-"the web site owner" and "we" means Independent Media (Pty) Ltd  
+"this web site" means  _[http://www.iol.co.za](http://www.iol.co.za/)_   
+"the web site owner" and "we" means Independent Media (Pty) Ltd   
 "user" means any person accessing any part of the web site
 
 Status and Amendments
@@ -39,9 +39,9 @@ Collection of personal data
 
 5\. The web site owner will retain all ownership of and copyright in any database of users' personal information.
 
-6\. No credit card information is retained or stored by the web site owner.
+6\. No credit card information is retained or stored by the web site owner. 
 
-7\. Note that, as permitted by the ECT Act, this web site may use personal information collected to compile profiles for statistical purposes and trade in these profiles. No information contained in the profiles or statistics will be able to be linked to any specific user.
+7\. Note that, as permitted by the ECT Act, this web site may use personal information collected to compile profiles for statistical purposes and trade in these profiles. No information contained in the profiles or statistics will be able to be linked to any specific user. 
 
 Collection of anonymous data
 
@@ -49,7 +49,7 @@ Collection of anonymous data
 
 9\. This web site utilises cookies. A cookie is a small file that is placed on the user's hard drive in order to keep a record of a user's interaction with this web site.
 
-  * a. Cookies from this web site allow the web site owner to tailor advertising and other services to your displayed preferences. The web site may use third party cookies from an adserver for this purpose.
+  * a. Cookies from this web site allow the web site owner to tailor advertising and other services to your displayed preferences. The web site may use third party cookies from an adserver for this purpose. 
 
   * b. Cookies by themselves cannot be used to personally identify users but will be used to compile anonymised statistics relating to use of services offered or to provide us with feedback on the performance of this web site.
 
@@ -60,11 +60,11 @@ Collection of anonymous data
 
 Access to personal data
 
-11\. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please use contact _[http://www.iol.co.za/feedback](http://www.iol.co.za/feedback)_ .Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request.
+11\. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please  _[contact us](https://web.archive.org/about-iol-1.458#id.9nxaafjuol6g)_ .Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request. 
 
-12\. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act No 2 of 2000 (“PAIA”) and where such access is necessary for them to exercise and/or protect any of their rights. A copy of PAIA can be obtained [here](http://www.dfa.gov.za/department/accessinfo_act.pdf).
+12\. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act No 2 of 2000 (“PAIA”) and where such access is necessary for them to exercise and/or protect any of their rights. A copy of PAIA can be obtained [ here ](http://www.dfa.gov.za/department/accessinfo_act.pdf) .
 
-13\. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner’s Promotion of Access to Information Manual and from the website of the Human Rights Commission – [www.hrc.org.za](http://www.hrc.org.za/).
+13\. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner’s Promotion of Access to Information Manual and from the website of the Human Rights Commission –  [ www.hrc.org.za ](http://www.hrc.org.za/) .
 
 Links to other web sites
 
@@ -76,13 +76,13 @@ Security
 
 16\. Users and/or subscribers are prohibited from releasing their username and/or password to any other person.
 
-Children's privacy
+Children's privacy 
 
 17\. We regard the safety and privacy of children using this web site extremely seriously but it remains the ultimate responsibility of the parents and other care-givers of children to ensure that they are not exposed to inappropriate content or behaviour.
 
 Queries
 
-18\. If you have any queries about this Privacy Policy please contact us at _[http://www.iol.co.za/feedback](http://www.iol.co.za/feedback)_
+18\. If you have any queries about this Privacy Policy please _[ contact us ](https://web.archive.org/about-iol-1.458#id.9nxaafjuol6g) _
 
-Date of Last Review 15 January 2009  
-prepared by the [electronic law consultancy](http://www.elc.co.za/).
+Date of Last Review 15 January 2009   
+prepared by the  [ electronic law consultancy ](http://www.elc.co.za/) .
