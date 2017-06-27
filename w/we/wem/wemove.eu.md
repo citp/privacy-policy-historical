@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wemove.eu privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105063716id_/http%3A//wemove.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemove.eu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628000405id_/https%3A//wemove.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WeMove.EU
 
