@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629185629id_/http%3A//www2.ed.gov/notices/privacy/index.html%3Fsrc%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175100id_/http%3A//www2.ed.gov/notices/privacy/index.html%3Fsrc%3Dft) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Department of Education
 
@@ -38,7 +38,7 @@ We use this information for statistical analysis, to help us make our site more 
 3\. Cookies  
 
 
-The Office of Management and Budget [Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) [ **PDF** , 106KB] allows Federal agencies to use **session and persistent cookies**.
+The Office of Management and Budget (OMB) Memo [M-10-22: Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf "M-10-22: Guidance for Online Use of Web Measurement and Customization Technologies ") allows Federal Agencies to use **sessions and persistent cookies.** ”
 
 When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to "remember" visitors' preferences, surfing patterns and behavior while they are connected.
 
@@ -105,9 +105,11 @@ ED is using third-party **[social media sites](https://web.archive.org/about/ove
 
 If you have questions about this policy, please contact [webmaster@ed.gov](mailto:webmaster@ed.gov?subject=Re:%20ED.gov%20Privacy%20Policy).
 
+If you would like more information about ED’s privacy program, visit our [Privacy Program Page](https://web.archive.org/privacy "Privacy Program Page"). 
+
  TOP
 
   
 
 
-Last Modified: 02/19/2015 
+Last Modified: 05/01/2017 
