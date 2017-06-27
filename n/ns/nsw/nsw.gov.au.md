@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052348id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203649id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement » New South Wales Government
+# NSW Government Website Privacy Statement » NSW Government
 
 This website is maintained by the Strategic Communications Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](http://www.nsw.gov.au/).
 
@@ -90,11 +90,11 @@ You may request access to your information at any time. To access or update your
 
 The Strategic Communication and Government Advertising Branch captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in Strategic Communication and Government Advertising Branch, ServiceFirst - our Hosts, and the Department of Premier and Cabinet for the purpose of analysis and to report on the success of the site in meeting the Department's communication and access objectives. If you would like to access information held about you by ServiceFirst please contact:
 
-  
 Privacy Coordinator  
 Department of Premier and Cabinet  
 GPO Box 5341  
-Sydney NSW 2001  
+Sydney NSW 2001
+
 Ph: (02) 9228 5555
 
 ## Will this policy be updated over time?
