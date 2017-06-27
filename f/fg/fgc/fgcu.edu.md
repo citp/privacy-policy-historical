@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgcu.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003702id_/http%3A//www.fgcu.edu/generalcounsel/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgcu.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627231810id_/http%3A//www.fgcu.edu/generalcounsel/privacystatement.html) for the most accurate reproduction.*
 
 # Office of the General Counsel
 
@@ -16,7 +16,7 @@ If you choose to email the University or complete online forms, the information 
 
 Under Florida law, email addresses are public records. If you do not want your email address released in response to a public-records request, do not correspond via email. Instead, make contact by phone or in writing.
 
-**If you have other questions about the University privacy statement, email us at marcomm@fgcu.edu, or  
+**If you have other questions about the University privacy statement, email us at[marcomm@fgcu.edu](mailto:jgarner@fgcu.edu?subject=Privacy%20Statement), or   
 call 239-590-1081. **
 
-**[View/Print Full Privacy Statement](http://www.fgcu.edu/generalcounsel/files/detailed_website_privacy_statement-accessible-042716.pdf "Detailed Privacy Statement 042716 - Accessible PDF")**
+**[View/Print Full Privacy Statement](http://www.fgcu.edu/generalcounsel/files/detailed_website_privacy_statement-accessible-042716_ada.pdf "FGCU Full Privacy Statement")**
