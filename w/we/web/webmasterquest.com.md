@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223234016id_/http%3A//webmasterquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627144521id_/http%3A//webmasterquest.com/privacy.php) for the most accurate reproduction.*
 
 # Webmaster Quest
-
-| 
 
 **Why have a privacy statement?**
 
 **WebmasterQuest** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:   
-  
----  
   
 **Cookies**
 
@@ -41,6 +37,10 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[ webmaster@webmasterquest.com ](mailto:webmaster@webmasterquest.com)  
-  
+[ webmaster@webmasterquest.com ](mailto:webmaster@webmasterquest.com)
 
+PWDK.COM LTD  
+19 Roslyn Road  
+Davenport  
+Stockport  
+SK3 8LN 
