@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apachefriends.org privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030172708id_/https%3A//www.apachefriends.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apachefriends.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628002122id_/https%3A//www.apachefriends.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
