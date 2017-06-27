@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104008id_/http%3A//www.skinit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627101249id_/http%3A//www.skinit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ This website contains links to other sites. SkinIt.com does not share your perso
 
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via e-mail using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
 
-© 2016 Skinit Acquisition LLC. All Rights Reserved .
+© 2017 Skinit Acquisition LLC. All Rights Reserved .
