@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127140227id_/https%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627042127id_/https%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
 
 # Travelfish privacy policy
 
