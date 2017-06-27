@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the makemebabies.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119020524id_/http%3A//www.makemebabies.com/%23privacy-policy-modal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the makemebabies.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627094915id_/http%3A//www.makemebabies.com/%23privacy-policy-modal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -12,6 +12,8 @@
   
   <link href="css/fonts.css?20141125104616" rel="stylesheet">
   <link href="css/main.css?20141125104616" rel="stylesheet">
+  <link href="css/luxand-popup.css" rel="stylesheet">
+  <link href="css/jquery-ui.min.css" rel="stylesheet">
   <!--[if lte IE 8]>
   <link href="css/ie8-fixes.css?20141125104616" rel="stylesheet">
   <script src="lib/respond/respond.js"></script>
@@ -66,7 +68,7 @@
       googletag.enableServices();
     });
   </script>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="js/main.js?20141125104616"></script></head>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="js/main.js?20170426190000"></script></head>
 <body>
 
 <div id="ad-block-1" class="top-ad-block">
@@ -125,7 +127,7 @@
           <div class="sample" data-number="5" style="top:88px; left:4px; background: url('img/samples-sprites.png') -268px top no-repeat;"></div>
           <div class="sample" data-number="6" style="top:87px; left:81px; background: url('img/samples-sprites.png') -335px top no-repeat;"></div>
           <div class="sample" data-number="7" style="top:87px; left:161px; background: url('img/samples-sprites.png') -402px top no-repeat;"></div>
-          <div class="sample" data-number="8" style="top:87px; left:240px; background: url('img/samples-sprites.png') -469px top no-repeat;"></div>
+          <div class="sample" data-number="8" style="top: 87px; left: 240px; background: url(&quot;img/samples-sprites.png&quot;) -1474px top no-repeat; display: block; opacity: 0;"></div>
         </div>
       </div>
       <div class="cell-55 desc">
@@ -561,17 +563,54 @@
         <p>Disclaimer:</p>
         <p>MakeMeBabies is rendering a unique baby face based on your facial features - but real life genetics is far more complicated than that.</p>
         <p>Use this site for your entertainment only.</p>
-        <p>MakeMeBabies is copyright © 2014 by <a href="http://goldbarventures.com">Goldbar Ventures</a> and Luxand Development.</p>
+        <p>MakeMeBabies is copyright © 2017 by <a href="http://goldbarventures.com">Goldbar Ventures</a> and Luxand Development.</p>
         <p>All celebrity pictures were collected from public domain sources and MakeMeBabies claims no ownership.</p>
       </div>
     </div>
   </div>
 </div>
+<div style="display:none" id="email-gate-dialog" title="">
+  <div class="luxand-link-sent" style="display: none; text-align: center; margin: 20px 0">
+    <h1>Thank you!</h1>
+    <p>The baby photo link has been sent to your e-mail address.</p>
+    <p>Click it to see your baby!</p>
+  </div>
+  <div class="luxand-email-request">
+  <div style="margin-top:40px; text-align: center">
+    <h1>Sign up to receive your baby!</h1>
+  </div>
+
+  <div style="margin-top:40px; text-align: center;font-size: 12px">
+    Your e-mail:
+    <input style="width:220px" value="" name="email-gate-address" id="email-gate-address">
+    <br>
+    <div style="display:none; color: red;" id="email-gate-warning">Please enter a valid e-mail address.</div>
+  </div>
+
+    <div style="padding-top:7px;text-align: center;font-size:10px;line-height: 12px">
+    <label><input type="checkbox" id="email-gate-quizzclub-checkbox" value="value">
+      I want to receive FREE trivia quizzes via email!<br>Check your inbox for an invitation to join Quizzclub.com
+    </label>
+  </div>
+  <div style="padding-top:31px;text-align: center">
+    <button type="button" name="email-gate-get-my-photo" id="email-gate-get-my-photo" onclick="window.requestEmail();">Get My Baby!</button>
+  </div>
+
+    <div style="margin-top: 20px; font-size:10px; text-align: center;">
+    <label><input type="checkbox" id="email-gate-avanquest-checkbox" value="value" checked="">
+      Send me important updates and promotions from MakeMeBabies &amp; Avanquest.
+    </label>
+    <br>
+    Your e-mail address will be kept confidential and will not be shared.
+  </div>
+</div>
+</div>
 
 <script data-main="js/main" src="lib/requirejs/require.js"></script>
 
-<script>require.config({ urlArgs: '20141125104616' });</script>
+<script>require.config({ urlArgs: '20170426190000' });</script>
 
+<script src="popup2.js.php?v=2"></script>
 
 
 </body></html>
