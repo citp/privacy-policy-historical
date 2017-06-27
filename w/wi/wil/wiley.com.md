@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228122844id_/http%3A//www.wiley.com/WileyCDA/Section/id-301465.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiley.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627221555id_/http%3A//www.wiley.com/WileyCDA/Section/id-301465.html) for the most accurate reproduction.*
 
 # Wiley: Privacy Policy
 
 **Privacy Policy**
 
 John Wiley & Sons, Inc. and its subsidiary and affiliate companies (collectively, "Wiley," "we," "us" or "our") recognize the importance of protecting the information collected from users in the operation of its services, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy Policy. By submitting your information to Wiley you consent to the practices described in this policy. If you are less than 18 years of age, then you must first seek the consent of your parent or guardian prior to submitting any personal information.
+
+This privacy policy describes how Wiley collects and uses the personal information you provide to Wiley. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 Wiley will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating its websites or any of its services and it will be kept accurate and up-to-date based on the information provided.
 
@@ -17,6 +19,7 @@ Wiley collects information from you in two ways: directly from your input and au
 The types of personal information that Wiley collects directly from you may include:
 
   * Contact details, such as your name, email address, postal address and telephone number;
+  * Web cookies;
   * IP addresses;
   * Educational and professional interests and background information;
   * Usernames and passwords;
@@ -28,7 +31,7 @@ The types of personal information that Wiley collects directly from you may incl
 
 In order to access certain content and to make use of additional functionality and features of Wiley's websites and services, we may ask you to register for an account by completing and submitting a registration form, which may request additional information.
 
-If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party. Wiley will collect your name, email address and any other information about your third party account that you agree to share with us at the time you give permission for your Wiley account to be linked to your third party account.
+If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party, and any personal information collected during that third party login is not covered by this policy .  Wiley will collect your name, email address and any other information about your third party account that you agree to share with us at the time you give permission for your Wiley account to be linked to your third party account. 
 
 **Information We Receive From Other Sources**
 
@@ -48,21 +51,27 @@ Wiley may use your personal information in the following ways:
   * To administer our services and for internal operations, including troubleshooting, data analysis, testing, statistical and survey purposes;
   * To allow you to participate in interactive features of our service, when you choose to do so; and
   * As part of our efforts to keep our site safe and secure; 
-  * For any other purpose that we may notify you of from time to time, providing that we have sought your consent. 
+  * For any other purpose that we may notify you of from time to time, providing we have obtained your prior consent. 
 
 
+
+Personal information will not be kept longer than is necessary for the purpose for which it was collected. This means that personal information will be securely destroyed or erased from Wiley’s systems when it is no longer required. 
 
 **Disclosure of Your Information**
 
 Wiley will not disclose your personal information to any third party except as follows:
 
   * Where necessary in connection with services provided by intermediaries, who are required to comply with this policy. These service providers provide us with a wide range of office, administrative, information technology, production and business management services; 
-  * If you voluntarily provide information in response to an advertisement, with the third party serving the advertisement;
-  * In order to comply with the law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our services, users or others; and
-  * In the event that all or substantially all of the business or assets of Wiley relating to this service are sold or otherwise assigned to another entity, personally identifiable information may be transferred to such entity; and
-  * Where necessary in connection with providing publishing services on behalf of third parties, such as institutions and societies, providing we have your consent.
 
 
+
+·         If you voluntarily provide information in response to an advertisement, with the third party serving the advertisement;
+
+·         In certain situations, Wiley may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. In order to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, to enforce our Terms and Conditions or to protect the rights, property or safety of our services, users or others, investigate fraud, or respond to a government request; and
+
+·         In the event that all or substantially all of the business or assets of Wiley relating to this service are sold or otherwise assigned to another entity, personally identifiable information may be transferred to such entity; and
+
+·         Where necessary in connection with providing publishing services on behalf of third parties, such as institutions and societies, providing we have your consent.
 
 Wiley may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this website and the products therein) and demographics but only in forms that do not reveal your identity or personal information.
 
@@ -77,7 +86,9 @@ Wiley may transfer your personal information outside of your country of residenc
 
 By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and all applicable data protection laws.
 
-Safe Harbour: Wiley complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Wiley has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/> 
+US-Swiss Safe Harbor
+
+Wiley complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from Switzerland. Wiley has certified that it adheres to the US-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about US-Swiss Safe Harbor and to view Wiley’s certification page, please visit: [https://safeharbor.export.gov/swisslist.aspx](https://safeharbor.export.gov/swisslist.aspx)
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to us; any transmission is at your own risk. Once we have received your information, we will use all commercially reasonable efforts to prevent unauthorized access to such information.
 
@@ -87,26 +98,28 @@ You should be aware that identifiable personal information--such as your name or
 
 **Cookies**
 
-Wiley uses cookies on its websites. For more information on cookies, please click [here](http://www.wiley.com/WileyCDA/Section/id-822612.html)
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. 
 
-**Links**
+Wiley and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-Wiley's websites or services may include links to third party websites. In using such links, please be aware that each third party website is subject to its own privacy and data protection policies and is not covered by our privacy policy. In addition, we allow third party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may be placing and reading cookies in the cookie file of the browser on your computer's hard disk or using web beacons or other technologies to collect information in the course of ads being served on this website. These companies may use information other than personal information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to these and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. To opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> or follow the instructions for opting out provided in the third party ad servers' privacy and data protection policies.
-
-**Changes to this Privacy Policy**
-
-Please note that Wiley's Privacy Policy is reviewed periodically. Wiley reserves the right to modify its Privacy Policy at any time without notice. Any changes to the policy will be posted on this page. 
+For more information on cookies, please click [**here**](http://www.wiley.com/WileyCDA/Section/id-822612.html)
 
 **Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) and shall seek your consent to use your data for such marketing purposes or to disclose your information to any third party for such marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the consent forms we use when collecting your personal data.  If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may do so [**here**](http://www.wiley.com/WileyCDA/Section/id-400490.html) for electronic communications for emails or by sending an email to [e-news@wiley.com](mailto:e-news@wiley.com).  You may do the same [**here**](http://www.wiley.com/WileyCDA/Section/id-390035.html) for postal mail or by sending an email to [databasegroup@wiley.com](mailto:databasegroup@wiley.com). Note that you may still receive transactional communications from Wiley. 
+Upon request, Wiley will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) and shall seek your consent to use your data for such marketing purposes or to disclose your information to any third party for such marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the consent forms we use when collecting your personal data.  If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement, modify or delete your information, you may do so [**here**](http://www.wiley.com/WileyCDA/Section/id-400490.html) for electronic communications for emails or by sending an email to e-news@wiley.com.  You may do the same [**here**](http://www.wiley.com/WileyCDA/Section/id-390035.html) for postal mail or by sending an email to databasegroup@wiley.com. Note that you may still receive transactional communications from Wiley. Some territories have national laws requiring a local Data Protection Officer (for example Singapore and Germany). Please click [**here**](http://www.wiley.com/WileyCDA/Section/id-822613.html) for the relevant contact details.
 
-Some territories have national laws requiring a local Data Protection Officer (for example Singapore and Germany). Please click [**here**](http://www.wiley.com/WileyCDA/Section/id-822613.html) for the relevant contact details.
+**Links**
 
-**Contact Us**
+Wiley's websites or services may include links to third party websites. In using such links, please be aware that each third party website is subject to its own privacy and data protection policies and is not covered by our privacy policy. In addition, we allow third party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may be placing and reading cookies in the cookie file of the browser on your computer's hard disk or using web beacons or other technologies to collect information in the course of ads being served on this website. These companies may use information other than personal information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to these and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. To opt-out of this type of advertising, you can visit [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp) or follow the instructions for opting out provided in the third party ad servers' privacy and data protection policies.
 
-In relation to personal Data processed within the US under the Safe Harbour framework, Wiley has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Wiley, please use the following processes.
+**Changes to this Privacy Policy**
 
-The dispute may be filed on-line utilizing the AAA WebFile® at https://apps.adr.org/webfile. The filing party ("claimant") will submit via AAA WebFile a Demand for Arbitration and copies of any supporting documents the claimant wishes to enter into evidence. There are no filing fees for an EU or Swiss Claimant.  The filing party may also file a case by mail or fax, please complete the appropriate form(s) and forward to AAA/ICDR, Case Filing Services, International Centre for Dispute Resolution, A Division of the American Arbitration Association, Case Filing Services, 1101 Laurel Oak Road, Suite 100, Voorhees, NJ 08043, Phone: (856) 435-6401, Toll free number in the US (877) 495-4185, Fax number (877) 304-8457, Fax number outside the US: (212) 484-4178, Email box: [casefiling@adr.org](mailto:casefiling@adr.org)
+Please note that Wiley's Privacy Policy is reviewed periodically. Wiley reserves the right to modify its Privacy Policy at any time without notice. Any changes to the Privacy Policy will be posted on this page. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Any other comments, complaints or questions concerning this policy or complaints about our use of your personal information should be addressed by directing your comments to the Data Protection Officers through our Data Protection [Contact Us](http://www.wiley.com/WileyCDA/Section/id-822613.html) page or entering your comments through our general Wiley [Contact Us](http://www.wiley.com/WileyCDA/Section/id-301456.html) pages.
+**Recourse**
+
+Any comments, complaints or questions concerning this policy or complaints about our use of your personal information should be addressed by directing your comments to the Data Protection Officers through our Data Protection [**Contact Us**](http://www.wiley.com/WileyCDA/Section/id-822613.html) page or entering your comments through our general Wiley [**Contact Us**](http://www.wiley.com/WileyCDA/Section/id-301456.html) pages. In compliance with the US-Swiss Safe Harbor Principles, Wiley commits to resolve complaints about your privacy and our collection or use of your personal information. 
+
+In relation to personal data processed within the US under the US-Swiss Safe Harbor Principles, Wiley has further committed to refer unresolved privacy complaints   to an independent dispute resolution mechanism, the ICDR/AAA. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Wiley, please use the following processes which are made available by Wiley at no cost to you.
+
+ The dispute may be filed on-line utilizing the AAA WebFile® at https://apps.adr.org/webfile. The filing party ("claimant") will submit via AAA WebFile a Demand for Arbitration and copies of any supporting documents the claimant wishes to enter into evidence. There are no filing fees for an EU or Swiss Claimant.  The filing party may also file a case by mail or fax, please complete the appropriate form(s) and forward to ICDR/AAA, Case Filing Services, International Centre for Dispute Resolution, A Division of the American Arbitration Association, Case Filing Services, 1101 Laurel Oak Road, Suite 100, Voorhees, NJ 08043, Phone: (856) 435-6401, Toll free number in the US (877) 495-4185, Fax number (877) 304-8457, Fax number outside the US: (212) 484-4178, Email box: [**casefiling@adr.org**](mailto:casefiling@adr.org)
