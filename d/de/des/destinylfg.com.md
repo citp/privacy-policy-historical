@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909103128id_/http%3A//www.destinylfg.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627192434id_/http%3A//destinylfg.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DestinyLFG.com
 
@@ -8,4 +8,4 @@ By using DestinyLFG.com, you are permitting Google Analytics and Twitter to coll
 
 To learn more about how Google uses your anonymous data, please [click here](https://www.google.com/intl/en/analytics/learn/privacy.php).
 
-Should you have any questions, please send an email to: [help@destinylfg.com](mailto:help@destinylfg.com)
+Should you have any questions, please send us a note.
