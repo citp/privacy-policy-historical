@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121194110id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165931id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # LegalMatch Privacy Statement
 
 [](https://privacy.truste.com/privacy-seal/LegalMatch-com/validation?rid=e5840f6c-4417-46a7-a71d-ebe13bcf17b7 "TRUSTe online privacy certification")
 
-LegalMatch.com [[www.legalmatch.com](http://www.legalmatch.com/ "Find the Right Lawyer at LegalMatch")] has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.legalmatch.com](http://www.legalmatch.com/) and our mobile website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@legalmatch.com](mailto:privacy@legalmatch.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
-
 ## Privacy and Security Statement
 
 At LegalMatch.com, we are committed to protecting your privacy. It is also our goal to constantly improve our services to you and to keep up with rapidly changing technologies. In order to maximize our services to you, we use information collected about you while still protecting your privacy. Expecting future variations in our service, these policies are subject to change. If there are any modifications to these policies, we will post them on this page and notify you as described at the end of this policy.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ### I. Security Measures Concerning Your Personal Information
 
@@ -106,4 +106,4 @@ By using our Web site, you consent to the collection and use of this information
 South San Francisco, CA 94080  
 [privacyoptout@legalmatch.com](mailto:privacyoptout@legalmatch.com?subject=Privacy%20Issues)
 
-Version 3.5.1; Effective 09/12/2014
+Version 3.5.1; Effective 03/31/2017
