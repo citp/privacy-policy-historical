@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050316id_/http%3A//mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200650id_/https%3A//mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # MxToolbox - Privacy - Managed IT Services for Small Business
 
@@ -6,7 +6,7 @@ Updated 8/8/2013
 
 Welcome to MxToolbox.com! MxToolbox is a multi-platform service that provides free, fast and accurate network diagnose and lookup tools and related email security services. 
 
-The following **Privacy Policy** has been adopted by MxToolbox and applies to and governs your access to and use of the services available from the domain and sub-domains of MxToolbox, Inc., a Texas corporation ("MxToolbox", "we" and/or "our"), which includes MxToolbox and all its other branded websites, software, platforms, applications (collectively, the "Software"), and/or services (the Software and/or services are collectively referred to herein as the "Service"). Capitalized terms not otherwise defined herein shall have the meaning given such terms in the Terms and Conditions of Service of MxToolbox, which may be found here: **[Terms and Conditions](http://mxtoolbox.com/TermsAndConditions.aspx)**
+The following **Privacy Policy** has been adopted by MxToolbox and applies to and governs your access to and use of the services available from the domain and sub-domains of MxToolbox, Inc., a Texas corporation ("MxToolbox", "we" and/or "our"), which includes MxToolbox and all its other branded websites, software, platforms, applications (collectively, the "Software"), and/or services (the Software and/or services are collectively referred to herein as the "Service"). Capitalized terms not otherwise defined herein shall have the meaning given such terms in the Terms and Conditions of Service of MxToolbox, which may be found here: **[Terms and Conditions](https://mxtoolbox.com/TermsAndConditions.aspx)**
 
 We have adopted this Privacy Policy because we care about the privacy of our users. You can browse our site without telling us who you are or revealing any personal information about yourself. Once you create an account, which requires that you provide us your name and email address, you are not anonymous to us. We also may collect demographic information such as your zip code, preferences and interests and other information relevant to customer surveys and/or offers. If you choose to provide us with this or any other personal information, you consent to the storage and transfer of that information on our servers, which may be located in the United States or abroad. 
 
@@ -92,6 +92,6 @@ We may use various third party ad networks to both run ads on our site and acros
 
 ## Unsubscribe from Monitoring Emails
 
-You may [visit our unsubscribe page](http://mxtoolbox.com/public/unsubscribe.aspx) to manage email communication preferences for your account. With this tool, you can adjust your preferences about how you receive monitoring emails and reports we send as part of the monitoring services we offer. 
+You may [visit our unsubscribe page](https://mxtoolbox.com/public/unsubscribe.aspx) to manage email communication preferences for your account. With this tool, you can adjust your preferences about how you receive monitoring emails and reports we send as part of the monitoring services we offer. 
 
 **Contact Us:** If you have any questions about our Privacy Policy, please contact us at [info@mxtoolbox.com](mailto:info@mxtoolbox.com). 
