@@ -1,18 +1,56 @@
-> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217002042id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200953id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy of ConvertUnits.com
+# Privacy Policy
 
-This document outlines the type of personal information we collect when you use this site, as well as some of the steps we take to safeguard this information. Our goal is to provide a practical tool for converting measurement units. We also recognize the importance of protecting your privacy online. This policy applies only to the pages on the ConvertUnits.com domain. Other sites which are linked from this site may be governed by different policies.
+_Last modified: June 23, 2017_
 
-Visitors can use this site without providing any personal information. We do not log personal data such as your name or e-mail address. We do not use cookies or require the user to login to access any features. Note that all standard web servers will recognize the IP address of the visitor and the page on the site that is accessed. Our servers are protected by standard security measures and constant monitoring.
+This policy describes the types of information our company ("Company", "us", "we", "our") may collect from you or that you may provide when you visit the website www.convertunits.com (our "Website") and our practices for collecting, using, maintaining, protecting, and disclosing that information. We respect your privacy and are committed to protecting it through our compliance with this policy. This policy applies only to the pages on the Website. Other sites, which are linked from this Website, are governed by their policies so please carefully review their policies when using their sites.
 
-In addition, we may use various statistical programs to monitor traffic levels and improve the content of the site. These programs collect statistics on the most common pages visited and other common data from the web server. This data is used only by us and is not shared with any other companies or sites.
+This policy applies to information we collect:
 
-We provide an anonymous message forum for users to discuss the conversion of measurement units. Visitors can post to this message board without logging in to the site or entering their e-mail address. A special dynamic image verification provides security against automated form submissions, and all messages are reviewed by the admin.
+  * On this Website.
+  * In electronic messages between you and us, such as when you interact with us via our [contact us](http://www.convertunits.com/contact/) link.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
-The use of this site is completely free. We also display links to other sites or offers that may be of interest to our visitors. These are created and managed by partner companies. These ad servers may collect information such as your IP address, and they may use cookies to manage ad campaigns for interest based targeting. You can choose to [opt out](http://www.convertunits.com/remove-ads.php) of most of the advertising on this site. Any links you follow to other sites are governed by different policies.
 
-If you have questions about this privacy policy or the site in general, you can contact us through the online form:
+
+It does not apply to information collected by:
+
+  * Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
+  * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
+
+
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+_We do not automatically collect any personal information about you when you use our Website, such as your name or e-mail address. We do not use cookies or require you to login to access any features on the Website._
+
+We do automatically collect anonymized information from and about your internet connection, the equipment you use to access our Website, usage details, location and IP addresses. The information we collect automatically is statistical data only that we use to continually improve our Website and your experience when using it. This data is used only by us and is not shared with any other companies or sites.
+
+Additionally, we may collect:
+
+  * Information that you provide at the time of posting on our discussion forum. Your posts are completely anonymous. A captcha system provides security against spam, and all messages are reviewed by admin. Your posts to the discussion forum at your own risk.
+  * Records and copies of your correspondence (including email addresses), if you contact us. This information is not shared with any other companies or sites.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Your search queries on the Website.
+
+
+
+Advertisements on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect non-personally identifiable information about you when you use our Website in order to provide you with their general and interest-based advertising. We do not control third parties' collection or use of your non-personally identifiable information to serve interest-based advertising. You can opt out of many ad networks using these links:
+
+  * The NAI opt out page: <http://www.networkadvertising.org/choices/>
+  * The DAA opt out page: <http://www.aboutads.info/choices/>
+  * YourOnlineChoices: <http://youronlinechoices.com/>
+
+
+
+Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy/ads/).
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page.
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
 <http://www.convertunits.com/contact/>
 
