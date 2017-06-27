@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053805id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627204748id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nature.com
 
-## Nature Publishing Group Online Privacy Notice: June 2015
+## Nature Research Online Privacy Notice: June 2015
 
-We at Nature Publishing Group respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the "Site"). This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. Click on one of the links below to jump to the listed section:
+We at Nature Research respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the "Site"). This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. Click on one of the links below to jump to the listed section:
 
   * Information We Collect
   * How We Use Information We Collect
@@ -81,7 +81,7 @@ We also may use the information we obtain about you in other ways for which we p
 
 We may use third-party web analytics services on our Site, like Webtrends and Google Analytics. These service providers help us analyse how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services.
 
-On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Online Privacy Notice provides details and explains how to exercise your choices
+On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Online Privacy Notice provides details and explains how to exercise your choices.
 
 You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors, such as Google Adwords. Ad networks allow us to target our messaging to users considering demographic data, users' inferred interests and browsing context. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests, to track your browser across multiple websites, and to build a profile of your web browsing. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors' advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Site and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
@@ -91,11 +91,15 @@ You may also prevent Google from collecting and storing information in cookies, 
 
 For more information about privacy policies and Google Analytics, please refer to the Google website: <https://support.google.com/analytics/answer/6004245?hl=en>
 
-To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices). This Site is not designed to respond to "do not track" signals received from browsers.
+This website uses the Google Remarketing technology. Google Remarketing addresses former users of our website by showing them targeted advertising on third party websites, including Google. Which user is addressed specifically, Google determines by linking the Google Analytics Data described above to the individual Google ID of logged in Google users temporarily. This allows addressing the same user on different devices. Advertising on the third party websites, including Google, is also done by using cookies. You can prevent Google from using cookies by setting the respective preferences on the website <http://www.google.com/settings/ads>.
+
+You can find further information on Google Analytics and Google Remarketing on http://www.google.com. Further information on Google’s Privacy Policy can be found under the address <http://www.google.com/intl/en/privacypolicy.html#information>.
+
+To learn more about how to opt out of ad network interest-based advertising, click here. This Site is not designed to respond to "do not track" signals received from browsers.
 
 ### Information We Share
 
-We may share the information you provide with companies that are related to Nature Publishing Group through common ownership. We may also share the personal information we obtain with our publishing partners during and upon termination of our publishing relationship.
+We may share the information you provide with companies that are related to Nature Nature Research through common ownership. We may also share the personal information we obtain with our publishing partners during and upon termination of our publishing relationship.
 
 If you agree we may share information about you with non-affiliated joint marketing partners and/or third parties whose products or services may be of interest to you. These third parties may contact you directly about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our Site visitors with them.
 
@@ -107,7 +111,7 @@ We also may disclose information about you (i) if we are required to do so by la
 
 ### Links To Other Websites
 
-Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with **Nature Publishing Group** , or the privacy practices of those websites.
+Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with **Nature Research** , or the privacy practices of those websites.
 
 ### Children's Privacy
 
@@ -153,7 +157,7 @@ Write to us at
 
 
 Customer Services Department  
-Nature Publishing Group  
+Nature Research  
 The Campus
 
 4 Crinan Street  
@@ -165,7 +169,7 @@ United Kingdom
 or
 
 Customer Service Department  
-Nature Publishing Group
+Nature Research
 
 One New York Plaza  
 Suite 4500  
