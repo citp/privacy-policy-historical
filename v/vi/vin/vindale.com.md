@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121044543id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005330id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Vindale Research
+# Privacy Policy - Vindale Research - Vindale Research
 
-[ ](http://privacy.truste.com/privacy-seal/Say-For-Example,-Inc-/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe)
 
 This privacy policy applies to http://www.vindale.com owned and operated by Vindale Media, LLC ("Vindale Research", "we", "us", "our"). This privacy policy describes how Vindale Research collects and uses the personal information you provide on our web site: http://www.vindale.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
 
