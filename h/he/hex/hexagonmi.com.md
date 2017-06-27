@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hexagonmi.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128073409id_/http%3A//www.hexagonmi.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexagonmi.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627172049id_/http%3A//www.hexagonmi.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Hexagon Manufacturing Intelligence
 
   * Privacy Policy
   * Cookies
