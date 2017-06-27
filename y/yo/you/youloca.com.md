@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youloca.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023045859id_/http%3A//youloca.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youloca.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627194707id_/http%3A//youloca.com/privacy) for the most accurate reproduction.*
 
-# Flashlight Enterprises Corporation Privacy Policy Statement
+# Privacy Policy Statement
 
 This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of majority in their jurisdiction are strictly prohibited from accessing or viewing the contents of this Site.
 
@@ -23,7 +23,7 @@ If a paying or non-paying member sends any personal communication or corresponde
 The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of paying or non-paying members - any information about paying or non-paying members collected by the Site through the use of programming means may be included in its customer database.  
 Use of Personal Paying or non-paying member Information.
 
-By the paying or non-paying member's use of the Site, the paying or non-paying member expressly agrees to receive offers and emails from Flashlight Enterprises Corporation.
+By the paying or non-paying member's use of the Site, the paying or non-paying member expressly agrees to receive offers and emails from Beronata Services LTD.
 
 Please note that personal information about a paying or non-paying member may be collected by a third-party web service provider that has an advertising banner or link on the Site.
 
@@ -42,5 +42,4 @@ Each paying or non-paying member should carefully read each of the terms and con
 
 In the event of any conflicts between the Membership Terms, the Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall prevail.   
 Support Email: [support@beronata.com](mailto:support@beronata.com)  
-Beronata Services LTD   
-Themistokli Dervi 6, 1066, Nicosia, Cyprus
+Beronata Services LTD
