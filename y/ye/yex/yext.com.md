@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230001102id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627032723id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Yext, Inc. Privacy Policy**  
-(Effective Date: November 18, 2016)
+(Effective Date: May 3rd, 2017)
 
-**[](http://privacy.truste.com/privacy-seal/validation?rid=f07a1080-0cdf-49cb-99b5-0baa1c15e196 "TRUSTe Privacy Certification")**
-
-Yext, Inc., 1 Madison Ave, 5th Fl New York, NY 10010 (“ **Yext** “, “ **us** ” or “ **we** “) has self-certified to the EU-U.S. Privacy Shield. Please click [here](http://www.yext.com/terms/yext_inc_privacy_shield_notice.pdf) to view our Privacy Shield Notice.
+Yext, Inc., 1 Madison Ave, 5th Fl New York, NY 10010 (“ **Yext** “, “ **us** ” or “ **we** “) has self-certified to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks. Please click [here](http://www.yext.com/terms/yext_inc_privacy_shield_notice.pdf) to view our Privacy Shield Notice.
 
 This Privacy Policy (this “ **Privacy Policy** ”) discloses the privacy practices for  **www.yext.com**  and all other internet properties operated by Yext that link to this Privacy Policy (collectively, the “ **Sites** “). For information about our privacy practices for Yext mobile applications, please visit the [Yext Mobile App Privacy Policy](http://www.yext.com/terms/en-app-privacy-policy/).
 
@@ -23,9 +21,8 @@ Please note that we reserve the right to review and update this Privacy Policy f
   4. With whom we share the information we collect.
   5. Our opt-out policy.
   6. Our policy on correcting and updating Personal Information and deactivation of your account.
-  7. EU-U.S. Privacy Shield.
-  8. U.S.-Swiss Safe Harbor.
-  9. Miscellaneous.
+  7. Privacy Shield.
+  8. Miscellaneous.
 
 
 
@@ -118,13 +115,9 @@ OUR POLICY ON CORRECTING AND UPDATING PERSONAL INFORMATION AND DEACTIVATING YOUR
 
 You may request to access, correct, update or delete your Personal Information, or deactivate your account, by emailing our Customer Support at [service@yext.com](mailto:service@yext.com) with information necessary for us to process your request. We will respond to your request to access your Personal Information within 30 days. We may need to verify your identity before granting access to Personal Information in our custody or control.  Please see below regarding our retention policy.
 
-EU-U.S. PRIVACY SHIELD
+PRIVACY SHIELD
 
-Yext participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework regarding the collection, use and onward transfer of personal data from the European Economic Area. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield website](http://www.privacyshield.gov/).  To learn more about Yext’s participation in the Privacy Shield Framework, please see [Yext’s Privacy Shield Notice](http://www.yext.com/pdf/yext_inc_privacy_shield_notice.pdf).
-
-U.S.-SWISS SAFE HARBOR ** **
-
-Yext complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Yext has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Yext’s certification, please visit <http://www.export.gov/safeharbor>.
+Yext participates in and has certified its compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield frameworks regarding the collection, use and onward transfer of personal data from the European Economic Area and Switzerland. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield website](http://www.privacyshield.gov/).  To learn more about Yext’s participation in the Privacy Shield Framework, please see [Yext’s Privacy Shield Notice](http://www.yext.com/pdf/yext_inc_privacy_shield_notice.pdf).
 
 MISCELLANEOUS
 
