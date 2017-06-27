@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226115143id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627050426id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service | Shop now at Geox
 
@@ -114,11 +114,47 @@ geox.com uses automatic systems of data collection, such as cookies. A cookie is
 
 ### 8.1 Types of Cookies
 
-**Strictly necessary cookies:** We use a number of cookies which are strictly necessary to allow you to access our websites, to move between pages and to receive services which you have requested.
+**1\. Technical cookies which do not require any Opt in by users**  
+Technical cookies do not require any consent by the user, they are installed automatically as a result of accessing the website. Please noted that all technical cookies on this Store Website are installed and operated by the company The Level Group S.r.l. ("TLG").We inform you that the following technical cookies on the Store Website may change depending on the TLG choices, therefore the Company Geox can not be held responsible for any discrepancies between the facts stated herein and the actual type of technical cookies installed to upon reading this Cookie Policy.
 
-**Performance cookies:** We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages.
+Among the technical cookies, we use:
 
-**Functionality Cookies:** We use functionality cookies to allow us to remember your preferences. For example, cookies save you the trouble of selecting your language or currency every time you access the website, and recall your customisation preferences. 
+**Navigation Cookies:** Cookies ensuring the normal browsing and use of the website, through different options or services, aimed at increasing the website performance.
+
+**Functionality Cookies:** Cookies which save the users' preferences to facilitate the users’ browsing experience, according to a set of selected criteria (such as, for example, language, text characters, browser type, etc.).
+
+**2\. Cookies which require the users' Opt-in**  
+All cookies, other than the technical cookies mentioned above, are installed or activated only if previous consent is given by the user, the first time she/he visits the Store Website. Opt-in may be expressed in a general way, by interacting with the brief cookie information banner on the landing page of the website, pursuant to the instructions set out in the above-mentioned banner (closing the banner, or by clicking the OK button, or by scrolling the page or clicking on any of its elements); opt-in can be also provided in a selective way described below. Opt-in given by users is tracked and recorded in order to make your next visits to the same website more effective. However, you can always revoke all or part of the consents previously given.
+
+Among the cookies which require the users' Opt-in, we use:
+
+**Cookies managed by third parties:**  
+these cookies are not managed by us and are referred to as third parties cookies. Please find below some information, and a link to the privacy policy and the consent form for each of the third party. If you close this page or switch to another page of this website, you give your consent to all of them.  
+
+
+**  
+a. Online behavioural advertising cookies:** these cookies, installed by third parties companies which carry out online profiling activities, allow to create an anonymous profile of the users based on their browsing experience on this and other websites. In this way, it is possible to provide you with advertisements targeted to your interests rather than generic advertising. Please find below the name of any third party, which manages the above-mentioned cookies, and for each of them the link to the page where it is possible to have more information and/or manage the consent.
+
+[Google](https://www.google.com/settings/ads/plugin),  [CloudFlare](https://www.cloudflare.com/security-policy),  [Weborama.](http://www.weborama.com/e-privacy/our-commitment)
+
+ **  
+b. Retargeting cookies:** these cookies are used to send advertising to users who previously visited the Store Website. Please find below the name of any third party which manages the above-mentioned cookies, and for each of them the link to the page where it is possible to have more information and/or manage the consent.
+
+[Sizmek](https://www.sizmek.com/privacy-policy/)
+
+ **  
+c. Social networking Cookies:** these cookies are collected in order to share content on social networks. Please find below the name of any third party which manages the above-mentioned cookies, and for each of them the link to the page where it is possible to have more information and/or manage the consent.  
+
+
+[Pinterest](https://about.pinterest.com/en/privacy-policy),  [Facebook](https://www.facebook.com/about/privacy/cookies),  [Twitter](https://support.twitter.com/articles/20170405),  [Youtube.](https://www.youtube.com/static?template=privacy_guidelines)
+
+ **  
+d. Analytics Cookies:** these cookies are collected by third parties, both in an aggregated and non-aggregated form, in order to collect information on the number of users and on how they visit the website, such as information on which pages or sections are most viewed. Please find below the name of any third party which manages the above-mentioned cookies, and for each of them the link to the page where it is possible to have more information and/or manage the consent.  
+
+
+[Adobe Site Catalyst](http://www.adobe.com/privacy/opt-out.html),  [Google Analytics.](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+For more information on cookies and to manage your preferences for third party profiling cookies, please go to [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). Once on the site, by accessing the area “Your Choices” you can: visualise the list of third party companies, our partners, which install cookies on our site (" _Company_ "); verify the presence and activation status of installed cookies (" _Status_ ") and manage your consent selectively (" _On/Off_ "). By expanding the dedicated voice (" _Info_ ") for each company, you can access more information relative to the company and, via a link, reach the specific information about privacy and cookies. 
 
 ### 8.2 Managing Cookies
 
