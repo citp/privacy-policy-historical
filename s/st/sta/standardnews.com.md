@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardnews.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206133838id_/http%3A//www.standardnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardnews.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627040516id_/http%3A//standardnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,12 +84,12 @@ If You have any questions about this Privacy Policy, the practices of this Site,
 
 Standard News
 
-c/o Standard Publishing, LLC
+c/o Spine Media, LLC
 
 Attn: Privacy Compliance
 
-1911 W Erie Street
+255 W. 36th Street
 
-Chicago, IL 60622
+New York, NY 10018 USA
 
 You may also contact Us by email at [admin@standardnews.com](mailto:admin@standardnews.com).
