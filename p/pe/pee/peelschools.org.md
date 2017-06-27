@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peelschools.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206034210id_/http%3A//www.peelschools.org/aboutus/foi/privacy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peelschools.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627234239id_/http%3A//www.peelschools.org/aboutus/foi/privacy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 **Privacy Statement**
 
-At the [Peel District School Board](https://web.archive.org/aboutus/inspire "PDSB"), we are committed to respecting and protecting your privacy. This statement outlines our policies and procedures with respect to collecting, using and disclosing your personal health information. It also provides information about how you can access records of your personal health information and how you can request correction of recorded information. 
+At the [Peel District School Board](https://web.archive.org/aboutus "PDSB"), we are committed to respecting and protecting your privacy. This statement outlines our policies and procedures with respect to collecting, using and disclosing your personal health information. It also provides information about how you can access records of your personal health information and how you can request correction of recorded information. 
 
 **Personal Health Information**
 
