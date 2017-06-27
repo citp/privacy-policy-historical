@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408105754id_/http%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627161301id_/https%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
 
-# Wikileaf
+# Wikileaf - Privacy Policy
 
 Wikileaf.com, Inc., (Wikileaf), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Wikileaf.com, Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
