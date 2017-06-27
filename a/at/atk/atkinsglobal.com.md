@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212195633id_/http%3A//www.atkinsglobal.com/en-GB/site-services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkinsglobal.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628005920id_/http%3A//www.atkinsglobal.com/en-GB/site-services/privacy) for the most accurate reproduction.*
 
 # Privacy – Atkins
 
@@ -85,4 +85,4 @@ How to refuse the use of cookies
 
 You may refuse the use of cookies by selecting the appropriate settings in your browser. However, if you do this you may lose some useful functionality such as personalisation and “keep me signed in” and “remember me” features.
 
-[How to disable cookies in your browser](http://www.investis.com/info/disabling-cookies.html "Opens in a new window")
+[How to disable cookies in your browser](http://files.investis.com/info/disabling-cookies.html "Opens in a new window")
