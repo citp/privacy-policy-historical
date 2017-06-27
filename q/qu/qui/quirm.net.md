@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quirm.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225022133id_/http%3A//quirm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quirm.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627083229id_/http%3A//quirm.net/privacy) for the most accurate reproduction.*
 
-# quirm.net : Privacy
+# Privacy – quirm.net
 
 ## Privacy
 
