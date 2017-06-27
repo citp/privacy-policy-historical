@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165249id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627033143id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
@@ -31,12 +31,12 @@ Partner with unlimited liability/Persönlich haftende Gesellschafterin: OmniScri
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 19539
 
-Managing director/Geschäftsführung: Dr. Wolfgang Philipp Müller (CEO)
+Managing director/Geschäftsführung: Dr. Wolfgang Philipp Müller, Liviu Oboroc (CEO)
 
 This impressum also applies to:   
 <https://www.facebook.com/OmniScriptum>  
 <https://twitter.com/OmniScriptum>  
-<https://plus.google.com/+OmniscriptumIhrVerlagshaus>.
+<https://plus.google.com/+Omniscriptum>.
 
 Website created by: OmniScriptum GmbH & Co. KG,   
 Bahnhofstrasse 28  
