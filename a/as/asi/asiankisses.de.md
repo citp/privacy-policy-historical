@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the asiankisses.de privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222072420id_/http%3A//www.asiankisses.de/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiankisses.de privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627224648id_/http%3A//www.asiankisses.de/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Asian Kisses
-
-|  | | |   
----|---|---  
-| 
 
   1. [ Home ](https://web.archive.org/)
   2. [ About us ](https://web.archive.org/impressum.php)
@@ -98,5 +94,4 @@ The author intended not to use any copyrighted material for the publication or, 
 
 ## 4\. Legal validity of this disclaimer
 
-This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
-| | | | 
+This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact. 
