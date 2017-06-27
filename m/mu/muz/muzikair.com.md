@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the muzikair.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021115000id_/http%3A//www.muzikair.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzikair.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627180554id_/http%3A//www.muzikair.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Classical for all | MUZIK Air
+
+  * [HOME](https://web.archive.org/)
+  * Privacy Policy
+
+
 
 MUZIK Air is an online platform run by MUZIK CREATIVE DIGITAL LTD., which provides classical music combined with technology and internet social networking service. We respect our members' privacy very much. The following “Privacy Policy” will help our members to learn more about how MUZIK Air collects, uses and protects our members' personal information.
 
