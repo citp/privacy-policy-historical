@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204085448id_/http%3A//www.gshiftlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627180509id_/http%3A//www.gshiftlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | gShift SEO Software
 
 **gShift Labs Inc. respects the privacy of visitors to this website.**
 
