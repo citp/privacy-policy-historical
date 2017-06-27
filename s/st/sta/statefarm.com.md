@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107220457id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200225id_/https%3A//www.statefarm.com/customer-care/privacy-security/privacy) for the most accurate reproduction.*
 
-# State Farm Notice of Privacy Policy – State Farm®
+# State Farm Notice of Privacy Policy – State Farm™
 
 PRIVACY & SECURITY
 
-## STATE FARM® family of companies**
+## STATE FARM™ family of companies**
 
 We value your privacy.
 
