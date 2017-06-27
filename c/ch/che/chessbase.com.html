@@ -1,34 +1,28 @@
-<!--The following is the downloaded HTML source of the chessbase.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119045021id_/http%3A//en.chessbase.com/pages/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessbase.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627225746id_/http%3A//en.chessbase.com/pages/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="language" content="EN">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
 
-
-    <link rel="canonical" href="https://en.chessbase.com/pages/security">
-
-
-    <title>CB News - Privacy Policy</title>
+        <title>Privacy Policy | ChessBase</title>
 
     <link rel="icon" href="/Content/favicon.ico">
 
-   
     <link href="/bundle/colorbox/css?v=mMFi0zk2opWrL-fzuSF7C06O-YJs3cQyzsXddSkmceI1" rel="stylesheet">
 
     <link href="/bundle/css-jqui?v=RFllglv_LqvZOG0CAFPQuFLnArA889p9MRrq10k_tuo1" rel="stylesheet">
 
     <link href="/bundle/apps/css?v=N6V4PpL2jct7WTRDqj8LU11m7v8jriS3XEZXyN6QNZs1" rel="stylesheet">
 
-    <link href="/bundle/css?v=x6SfArYfQ8-0S7wrcUlkaxE3TdnmNtkcUaLt1h4p_Tk1" rel="stylesheet">
+    <link href="/bundle/css?v=N_wPulrzTPcCbuHPEYYdbArbFQAAOqZymNE9NXZ0-5w1" rel="stylesheet">
 
 
-    <script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=763561240337115"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundle/js?v=sc8xCY5aAg7eKtDrB9G1rG-DfOfvhWHJ-UVDht1Aq8Y1"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundle/js?v=iJhbEAcCz1Fxkhli9spK3WRFHPO6uG-XBaXzkmK3C-81"></script>
 <script src="/bundle/jqui?v=EWy9ba7eHDBsOlVpSb4ABQz8dKBqNd7NZf8QuFRVPKY1"></script>
 
-    <script src="/bundle/colorbox/js?v=cmRaN5ccAx-SKH9SHV85mN9iY8hyX8oQYfxZimHKXZE1"></script>
+    <script src="/bundle/colorbox/js?v=ZAGjA1vjhe2WsSwS6ybEJdxCwOXwV9icj4U2bEB1ZLM1"></script>
 
 
     <link href="/bundle/css-jqui?v=RFllglv_LqvZOG0CAFPQuFLnArA889p9MRrq10k_tuo1" rel="stylesheet">
@@ -36,13 +30,55 @@
     <script src="/bundle/jqui?v=EWy9ba7eHDBsOlVpSb4ABQz8dKBqNd7NZf8QuFRVPKY1"></script>
 
 
-    <link href="/Content/css?v=UkIni5f7smV81hPoOV8L2Lsri3p9IvBM6jofvoQOPHA1" rel="stylesheet">
+    <link href="/Content/css_new4?v=icpL3F84aaAGDwLmRlPbm3aNdVLR9VZVhm8GNXM0lCU1" rel="stylesheet">
+
+    <link href="/Content/less?v=330AiRqaLVIRhIwz1FlKIqD8hMnQUq2ZrlAtf_yAk_E1" rel="stylesheet">
 
     <script src="/bundles/modernizr?v=FYgoHrSvNmYV0UHIgj4kVHuKxGsq2XU9NX-0vez2AtM1"></script>
 
 
     <!-- jQuery UI CSS Reference -->
     <link href="/Content/themes/base/jquery-ui.css" rel="stylesheet">
+
+
+
+<script type="text/javascript">
+    function onCBSearchClick()
+    {
+        var strSrv = "/search?pattern=FMT";
+        strSrv = strSrv.replace("FMT", "");
+
+        var $elemSearch = $("#txtSearch");
+        var elemSearch = $elemSearch[0];
+        var strSearch = elemSearch.value;
+        if (!strSearch)
+            return false;
+        var strURL = strSrv + strSearch;
+        window.location.href = strURL;
+        return false;
+    }
+
+    function onShowHideSearchClick() {
+        if (document.getElementById("search-div").style.display == 'block')
+        {
+            $("#search-div").css('display', 'none');
+        }
+        else
+        {
+            $("#search-div").css('display', 'block');
+            document.getElementById("txtSearch").focus();
+        }
+    }
+
+    function onShowHideLanguageClick() {
+        if (document.getElementById("language-div").style.display == 'none') {
+            $("#language-div").css('display', 'block');
+        }
+        else {
+            $("#language-div").css('display', 'none');
+        }
+    }
+</script>
 
     
         <script>
@@ -56,266 +92,303 @@
 
 </script>
 
-
-    
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/cbreplay.css">
-
 </head>
 
 <body>
-    <!--FB CODE-->
-    <div id="fb-root"></div>
-    <script type="text/javascript">
-        (function (d, s, id)
-        {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=763561240337115";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-    <!--FB CODE-->
+    <div class="container col-xs-12 col-sm-12 col-md-12 col-lg-12" style="float:none;">
+        <nav class="header-container navbar navbar-default navbar-fixed-top">
+            <div class="navbar-header">
+                <div class="navbar-header1 col-xs-10 col-sm-9 col-md-9 col-lg-9">
+                    
+<div class="container-fluid">
+    <!-- Shop-Menü -->
+    <div id="navbarShop" class="navbar-collapse collapse" style="float:left;">
+        <ul class="nav navbar-nav">
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header col-xs-10 col-sm-6 col-md-4 col-lg-5">
-                <a class="navbar-brand" href="/"><img class="findeventlogo" src="/content/cbskin/images/chessbaselogo-en.png" style="max-height:95px; max-width:100%;"></a>
-            </div>
+            <li style="padding-left: 0px; padding-right: 0px;"><a id="idShopButtonNav" href="http://shop.chessbase.com/en?ref=RF73-K3I1E1BK16">Shop</a></li>
+        </ul>
+    </div>
 
-            <div id="functionBox-bootstrap" class="col-sm-4 col-md-3 col-lg-3">
-                Language : <div class="lang-switch"><a href="http://de.chessbase.com/" class="lang-switch-item">DE</a><a href="http://en.chessbase.com/" class="lang-switch-item">EN</a><a href="http://es.chessbase.com/" class="lang-switch-item">ES</a></div><br>
-                Search :
-                <form action="" method="get" onsubmit="return onCBSearchClick()" style="display:inline">
-                    <input id="txtSearch" name="txtSearch" type="text" value="">            <a href="#" onclick="return onCBSearchClick()">
-                        OK
-                    </a>
-                    <input type="submit" value="send" id="logon-do" style="display: none;">
-                </form><br>
+    <!-- Normal-Menü - col-sm -->
+    <div class="hidden-xs hidden-md hidden-lg">
+        <div id="navbar2" class="navbar-collapse collapse" style="float:left;">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://shop.chessbase.com/en/openings/az?ref=RF125-YTQUBD8SHR">OPENINGS A-Z</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/pages/support">FAQs</a></li>
+                        <li><a href="/support-new">Contact us</a></li>
+                        <li><a href="/pages/download">Download</a></li>
+                        <li><a href="http://www.chessletter.com/">Newsletter</a></li>
+                                            </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
 
-                <a href="http://shop.chessbase.com/en/openings/az?ref=RF125-YTQUBD8SHR">OPENINGS A-Z</a>
-            </div>
+    <!-- Normal-Menü - col-md & col-lg -->
+    <div class="hidden-xs hidden-sm">
+        <div id="navbar2" class="navbar-collapse collapse" style="float:left;">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://shop.chessbase.com/en/openings/az?ref=RF125-YTQUBD8SHR">OPENINGS A-Z</a></li>
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/pages/support">FAQs</a></li>
+                        <li><a href="/support-new">Contact us</a></li>
+                        <li><a href="/pages/download">Download</a></li>
+                        <li><a href="http://www.chessletter.com/">Newsletter</a></li>
+                                            </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
 
-            <div id="shopBox-bootstrap" class="col-sm-2 col-md-2 col-lg-1">
-
-                <a href="http://shop.chessbase.com/en?ref=RF76-09GSFKZH6T" target="_blank">
-                    <img src="/content/cbskin/images/shop-en.png" alt="Shop Link" id="shopllink-bootstrap">
+    <!-- Hamburger-Menü -->
+    <div id="navbar1" class="navbar-collapse collapse" style="float:left; margin-left: 0;">
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="padding: 0px 10px 0px 10px;">
+                    <div class="navbar-toggle collapsed" data-toggle="collapse" data-target="#Navbar3,#Navbar2,#Navbar1" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </div>
                 </a>
-            </div>
+                <ul class="dropdown-menu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="http://shop.chessbase.com/en/openings/az?ref=RF125-YTQUBD8SHR">OPENINGS A-Z</a></li>
+                    <li><a href="/pages/support">FAQs</a></li>
+                    <li><a href="/support-new">Contact us</a></li>
+                    <li><a href="/pages/download">Download</a></li>
+                    <li><a href="http://www.chessletter.com/">Newsletter</a></li>
+                                    </ul>
+            </li>
+        </ul>
+    </div>
+</div>;
+                </div>
 
-            <div id="userBox-bootstrap" class="col-sm-2 col-md-4 col-lg-3">
+                <!-- Login -->
                 
 
 
-    <form action="https://account.chessbase.com/en/logon" method="POST" novalidate="novalidate">
-        <span class="lbl">User&nbsp;:&nbsp;</span><input data-val="true" data-val-required="The User field is required." id="logon_UID" name="logon.UID" type="text" value=""><br>
-        <span class="lbl">Password&nbsp;:&nbsp;</span><input data-val="true" data-val-required="The Password field is required." id="logon_PWD" name="logon.PWD" type="password"><br>
-        <input id="returnurl" name="returnurl" type="hidden" value="http://en.chessbase.com/pages/security">
-        <a href="https://account.chessbase.com/en/create-account?logonurl=http%3a%2f%2fen.chessbase.com%2fpages%2fsecurity" class="create">Register</a>
-        <button>OK</button>
-    </form>
+
+
+<div id="idUserBoxMutter" class="navbar-header2 col-xs-2 col-sm-3 col-md-3 col-lg-3" style="float: left; padding: 0;">
+    <div class="col-xs-12 hidden-sm hidden-md hidden-lg" style="padding: 0px;">
+        <div class="col-xs-6" style="padding: 0 3px 0 3px;">
+            <a href="/login/true" style="margin: 0;">
+                <img class="svg grpelem" style="margin: 0;" src="/images/mitglied.svg" width="20" height="20" alt="" data-mu-svgfallback="images/mitglied_poster_.png">
+            </a>
+        </div>
+
+        <div class="col-xs-6" style="padding: 0 3px 0 3px;">
+            <a href="/login/true">
+                <img id="container-navtop-login" src="/images/mutter/login-globus.png" style="margin-top: 10px; width:26px;" alt="" class="">
+            </a>
+        </div>
+    </div>
+    <div class="hidden-xs col-sm-2 col-md-2 col-lg-2" style="padding: 0px;">
+        <img class="svg grpelem" style="position: relative; float: left; margin-top: 10px; margin-left: 10px;" src="/images/mitglied.svg" width="20" height="20" data-mu-svgfallback="images/mitglied_poster_.png"><!-- svg -->
+    </div>
+    <div class="hidden-xs col-sm-10 col-md-10 col-lg-10" style="padding: 0px;">
+        <a href="/login/true" style="width: 100%; text-align: right; float: right; margin-top: 10px;">Login</a>
+    </div>
+</div>
 
 
             </div>
+        </nav>
 
-            <div class="navbar-header col-xs-2 col-sm-2 col-md-3">
-                <a class="navbar-toggle" data-toggle="collapse" data-target="#Navbar3,#Navbar2,#Navbar1" id="NavCol">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+        <div class="content col-xs-12 col-sm-12 col-md-12 col-lg-12" style="height:100%;">
+            <div style="height: 100%; overflow: hidden;">
+                <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9" style="padding: 0px; height: 100%;  padding-bottom:3000px; margin-bottom:-3000px;">
+                    <div class="container-top col-xs-12 col-sm-12 col-md-12 col-lg-12" style="position: relative; padding: 0px; float: left;">
+                        
+
+
+
+<div class="col-xs-12" style="margin: 0; padding: 0 0 0 30px;">
+
+    <!-- Turm - BackgroundBild -->
+    <div class="gradient grpelem" id="u170" style="position: absolute; left: 120px;">
+        <img class="svg grpelem" id="container-top-turm" src="/images/news-turm.svg" width="98" height="88" alt="" data-mu-svgfallback="images/news-turm_poster_.png">
+    </div>
+
+    <!-- Titel -->
+    <div class="Schriftzug" style="margin: 0; padding: 0;">
+
+        <div style="margin-right: 10px; padding: 0px; float: left;">
+            <img class="svg grpelem" id="container-top-cblogo" src="/images/cb-logo.svg" alt="" data-mu-svgfallback="images/cb-logo_poster_.png">
+        </div>
+
+        <div id="title-chess-news" style="margin: 0px; padding: 46px 10px 0px 10px; float: left;">
+            <a href="/" style="padding: 0; width: 100%;">
+                Chess News
+            </a>
+        </div>
+
+        <!-- col-sm -->
+        <div class="hidden-xs hidden-md hidden-lg" style="padding: 0; float:left;">
+            <!-- alte Shop-Button - aktivieren über web.config -->
+            <div class="cb-container-red" style="padding: 15px 15px 0px 0px; margin: 5px 0 0 0; float: right; width: 100px;">
+                        <a href="http://shop.chessbase.com/en?ref=RF194-R4XO0JH72X" style="color: white; text-decoration: none;"><h2 class="title title-online-shop title-online-shop-header">SHOP</h2></a>
+
+            </div>
+
+            <div style="clear: both;"></div>
+
+            <!-- search -->
+            <div class="container-top-Menu-Link hidden-xs" id="div-suche-label" style="float: left;">
+                <p>Search:</p>
+            </div>
+            <div class="gradient grpelem" id="div-suche" style="float: left;">
+                <a href="#" onclick="return onShowHideSearchClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/suchen.svg" width="20" height="20" alt="" data-mu-svgfallback="images/suchen_poster_.png"><!-- svg -->
                 </a>
             </div>
 
-            <div class="navbar-collapse collapse col-xs-12 col-sm-12 col-md-12" id="Navbar1">
-                <ul class="nav navbar-nav">
-                    <li><a href="http://de.chessbase.com/" class="lang-switch-item">Deutsch</a></li>
-                    <li><a href="http://en.chessbase.com/" class="lang-switch-item">English</a></li>
-                    <li><a href="http://es.chessbase.com/" class="lang-switch-item">Español</a></li>
-                    <li><a href="/searchview">Search</a></li>
-                    <li><a href="http://shop.chessbase.com/en/openings/az?ref=RF125-YTQUBD8SHR">OPENINGS A-Z</a></li>
-                </ul>
+            <!-- sprache -->
+            <div class="hidden-xs" id="div-sprache" style="float: left;">
+                <div id="u225">
+                    <div class="container-top-Menu-Link" id="div-sprache-label" style="position: relative; float: left;">
+                        <p>Language: </p>
+                    </div>
+                </div>
             </div>
-
-            <div class="navbar-collapse collapse col-xs-12 col-sm-12 col-md-12" id="Navbar2">
-                <ul class="nav navbar-nav">
-                    <li><a href="http://shop.chessbase.com/en?ref=RF76-09GSFKZH6T" target="_blank">Shop</a></li>
-                </ul>
+            <div class="gradient grpelem hidden-lg" id="div-sprache-img" style="float: left; ">
+                <a href="#" onclick="return onShowHideLanguageClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/mutter/languages.png" alt="">
+                </a>
             </div>
-
-            <div class="navbar-collapse collapse col-xs-12 col-sm-12 col-md-12" id="Navbar3">
-
-
-                    <ul class="nav navbar-nav">
-                        <li><a href="/login">Login</a></li>
-                        <li><a href="https://account.chessbase.com/en/create-account?logonurl=http%3a%2f%2flocalhost%3a53333%2f">Register</a></li>
-                    </ul>
-             </div>
         </div>
+
+        <!-- col-md col-lg -->
+        <div class="hidden-xs hidden-sm" style="padding: 0; float:left;">
+            <!-- search -->
+            <div class="container-top-Menu-Link hidden-xs" id="div-suche-label" style="float: left;">
+                <p>Search:</p>
+            </div>
+            <div class="gradient grpelem" id="div-suche" style="float: left;">
+                <a href="#" onclick="return onShowHideSearchClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/suchen.svg" width="20" height="20" alt="" data-mu-svgfallback="images/suchen_poster_.png"><!-- svg -->
+                </a>
+            </div>
+
+            <!-- sprache -->
+            <div class="hidden-xs hidden-sm" id="div-sprache" style="float: left;">
+                <div id="u225">
+                    <div class="container-top-Menu-Link" id="div-sprache-label" style="position: relative; float: left;">
+                        <p>Language: </p>
+                    </div>
+
+                        <div class="container-top-Menu-Link hidden-sm hidden-md" style="position: relative; float: left;">
+                            <a href="http://de.chessbase.com/">DE</a>
+                        </div>
+
+                        <div class="container-top-Menu-Link hidden-sm hidden-md" style="position: relative; float: left;">
+                            <a href="http://en.chessbase.com/" style="color: #cccccc;">EN</a>
+                        </div>
+
+                        <div class="container-top-Menu-Link hidden-sm hidden-md" style="position: relative; float: left;">
+                            <a href="http://es.chessbase.com/">ES</a>
+                        </div>
+                </div>
+            </div>
+            <div class="container-top-Menu-Link hidden-xs hidden-md hidden-lg" id="div-sprache-label" style="position: relative; float: left;">
+                <p>Language: </p>
+            </div>
+            <div class="gradient grpelem hidden-lg" id="div-sprache-img" style="float: left; ">
+                <a href="#" onclick="return onShowHideLanguageClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/mutter/languages.png" alt="">
+                </a>
+            </div>
+        </div>
+
+        <!-- col-md col-lg -->
+        <div class="hidden-xs hidden-sm" style="padding: 0; float:right;">
+            <!-- alte Shop-Button - aktivieren über web.config -->
+            <div class="cb-container-red  hidden-xs hidden-sm" style="padding: 15px 15px 0px 0px; margin: 50px 0 0 0; float: right; width: 100px;">
+                        <a href="http://shop.chessbase.com/en?ref=RF194-R4XO0JH72X" style="color: white; text-decoration: none;"><h2 class="title title-online-shop title-online-shop-header">SHOP</h2></a>
+
+            </div>
+        </div>
+
+        <!-- col-xs -->
+        <div class="hidden-sm hidden-md hidden-lg" style="padding: 0; float:left;">
+            <!-- search -->
+            <div class="gradient grpelem" id="div-suche" style="float: left;">
+                <a href="#" onclick="return onShowHideSearchClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/suchen.svg" width="20" height="20" alt="" data-mu-svgfallback="images/suchen_poster_.png"><!-- svg -->
+                </a>
+            </div>
+
+            <!-- sprache -->
+            <div class="gradient grpelem hidden-lg" id="div-sprache-img" style="float: left; ">
+                <a href="#" onclick="return onShowHideLanguageClick()">
+                    <img class="svg grpelem" id="container-top-suche" src="/images/mutter/languages.png" alt="">
+                </a>
+            </div>
+        </div>
+
     </div>
-    
+</div>
+                    </div>
+
+                    <!-- search-bar -->
+                    <div id="search-div" style="display: none; background-color: #cccccc; padding: 8px 20px 8px 20px; width: 100%; clear: both;">
+                        <div style="margin-left:auto; margin-right:auto;">
+                            <form action="" id="searchForm" get"="get&quot;" onsubmit="return onCBSearchClick()" style="display:inline">
+                                <input id="txtSearch" name="txtSearch" type="text" value="">
+                                <a href="#" onclick="return onCBSearchClick()">
+                                    <img id="container-search-bar" src="/images/suchen.svg" width="20" height="20" alt="" data-mu-svgfallback="images/suchen_poster_.png" class="">
+                                </a>
+                                <input type="submit" value="send" id="logon-do" style="display: none;">
+                            </form>
+                        </div>
+                    </div>
+
+                    <!-- language-bar -->
+                    <div id="language-div" style="display: none; padding: 8px 20px 8px 20px; width: 100%; position: absolute; top: 100px; left: 0; z-index: 100;">
+                        <div style="margin-left:auto; margin-right:auto; width: 50%; height: 80px; background-color: #cccccc; border: solid thin #333; padding: 15px 0;">
+                            <div class="col-xs-4" style="text-align: center;">
+                                <a href="http://en.chessbase.com/"><img src="/Images/Flags/england.png" class=""><br>english</a>
+                            </div>
+                            <div class="col-xs-4" style="text-align: center;">
+                                <a href="http://de.chessbase.com/"><img src="/Images/Flags/germany.png" class=""><br>deutsch</a>
+                            </div>
+                            <div class="col-xs-4" style="text-align: center;">
+                                <a href="http://es.chessbase.com/"><img src="/Images/Flags/spain.png" class=""><br>espanol</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="hidden-xs">
+                        <!--BigBanner-Advertising einblenden-->
 
 
 <div class="cb-ad-layer">
     <div class="cb-ad-layer-inner">
-        <a id="1_cbAdRot" href="http://shop.chessbase.com/en/products/chessbase14_download?ref=RF4-HRDKS87TKG" target="_top"><img src="/adv/cbimages/Layer/en/Layerchessbase14e.png" alt="Chessbase 14"></a>
-        <div class="cb-ad-close">
-            <a href="#" onclick="return onADVDismiss()">
+        <a id="1_cbAdRot" href="https://shop.chessbase.com/en/products/king_power_play_25_popular_queens_pawn_openings_repertoire_for_black?ref=RF4-HRDKS87TKG" target="_top"><img src="/adv/cbimages/Layer/en/Layerdkpp25e.jpg" alt="King Power Play 25" class=""></a>
+        <a href="#" onclick="return onADVDismiss()">
+            <div class="cb-ad-close" style="color: white; padding: 3px 5px 0 0; left: 8px;">    
                 <span id="1_litClose" class="dummy">Close x</span>
-            </a>
-        </div>
-    </div>
-</div>
-
-    <div id="mainPageContent" class="container body-content">
-
-        <div class="cb-sidebar-bootstrap col-xs-12 col-sm-4 col-md-3 col-lg-3">
-
-
-
-<!--<img src="/Content/res/en/25y.png" class="rabate-banner"/>-->
-
-<div class="cb-container-red" style="clear: both; margin-bottom: 15px;">
-    <h2 class="title">Chess WCh</h2>
-    <div id="worldchessdiv" style="margin-right: auto; margin-left: auto;">
-
-            <iframe id="worldchess" src="https://widget.worldchess.com/widget/?theme=dark" frameborder="0" scrolling="no"></iframe>
-    </div>
-</div><div class="cb-container-red">
-    <h2 class="title">
-        News</h2>
-    <div>
-        
-
-
-<div class="productBox"><div runat="server" class="shopitem first"><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase14_mega_package_engl?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/3dpth_7990_160"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase14_mega_package_engl?Ref=RF70-5OH0EFN840" target="_blank">
-                ChessBase 14 - Mega package - english Version
-            </a></h3><p>
-            Follow the World Champion and your chess friend next door. Start your success story with ChessBase 14 and enjoy your chess even more! 
-        </p><p class="specPrice">
-            €279.90
-        </p><div class="clearfix"></div></div><div runat="server" class="shopitem "><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase14_premium_package_engl?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_7989_120"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase14_premium_package_engl?Ref=RF70-5OH0EFN840" target="_blank">
-                ChessBase 14 - Premium package - english Version
-            </a></h3><p>
-            Follow the World Champion and your chess friend next door. Start your success story with ChessBase 14 and enjoy your chess even more! 
-        </p><p class="specPrice">
-            €379.90
-        </p><div class="clearfix"></div></div><div runat="server" class="shopitem "><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase14_starter_package_engl?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_7991_120"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase14_starter_package_engl?Ref=RF70-5OH0EFN840" target="_blank">
-                Chessbase 14 - Starter Package - english Version
-            </a></h3><p>
-            Follow the World Champion and your chess friend next door. Start your success story with ChessBase 14 and enjoy your chess even more! 
-        </p><p class="specPrice">
-            €189.90
-        </p><div class="clearfix"></div></div><div runat="server" class="shopitem "><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase14_download?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_7981_120"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase14_download?Ref=RF70-5OH0EFN840" target="_blank">
-                ChessBase 14 Download
-            </a></h3><p>
-            Follow the World Champion and your chess friend next door. Start your success story with ChessBase 14 and enjoy your chess even more! 
-        </p><p class="specPrice">
-            €99.90
-        </p><div class="clearfix"></div></div><div runat="server" class="shopitem "><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/mega_database_2017?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_7964_120"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/mega_database_2017?Ref=RF70-5OH0EFN840" target="_blank">
-                Mega Database 2017
-            </a></h3><p>
-            The "Mega" is the database every serious chessplayer needs. The database contains 6.8 million games from 1500 to 2016, in highest quality standard, full of top level analyses and completely classified. 
-        </p><p class="specPrice">
-            €159.90
-        </p><div class="clearfix"></div></div><div runat="server" class="shopitem "><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/mega_database_2017_upgrade_from_mega_2016?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_7965_120"></a><h3><a runat="server" href="http://shop.chessbase.com/en/products/mega_database_2017_upgrade_from_mega_2016?Ref=RF70-5OH0EFN840" target="_blank">
-                Upgrade Mega 2017 from Mega 2016
-            </a></h3><p>
-            The "Mega" is the database every serious chessplayer needs. The database contains 6.8 million games from 1500 to 2016, in highest quality standard, full of top level analyses and completely classified. 
-        </p><p class="specPrice">
-            €59.90
-        </p><div class="clearfix"></div></div></div>
-
-
-    </div>
-</div>
-<div class="cb-container-sand">
-    <div class="cb-title-container">
-        <div class="cb-title-bg">
-            <h2 class="title">
-                <a href="http://en.playchess.com">
-                    <span class="cb-over-title">ChessBase</span>
-                    <span id="dnn_ctr850_dnnTITLE_titleLabel" class="Head">playchess.com</span>
-                </a>
-            </h2>
-            <img src="/content/cbcontainer1/live.png" class="cb-logo-inside">
-        </div>
-    </div>
-    <div id="dnn_ctr850_ContentPane">
-        <!-- Start_Module_850 -->
-        <div id="dnn_ctr850_ModuleContent" class="DNNModuleContent ModLiveBlogWidgetC">
-            <div class="cbthema widgetmodule">
-                <div style="clear: both;">
-                    <h3 class="cbPseudoTitle" style="border-top: none;">
-                        Today on playchess.com</h3>
-                    <div class="featureBox">
-
-
-
-
-
-<div class="item cb-left">
-    <a href="https://account.chessbase.com/en/purchase/start/accportal_1_year_premium?ref=RF64-KW3Q1O0OZI">
-        <img alt="" src="https://en.chessbase.com/thumb/62611"></a>
-    <h2 class="blog-heading">
-        <a href="https://account.chessbase.com/en/purchase/start/accportal_1_year_premium?ref=RF64-KW3Q1O0OZI">World Championship Round 6 Highlights</a>
-    </h2>
-    <p>
-        <span class="post-date">11/19/2016</span> – The World Championship this year is taking place in New York between the World Champion Magnus Carlsen and Sergey Karjakin. Simon Williams is doing a round up of the game at 9pm CET. <a href="http://en.playchess.com/Home/Program">
-View the whole schedule!</a></p>
-    <div style="clear: both;">
-    </div>
-</div>
-
-                    </div>
-                    <div>
-                        <a href="http://en.playchess.com" class="cb-playchess" target="_blank">
-                            <div class="cb-playchess-footer">
-                                <div class="cb-playchess-subfoo">
-                                    <div class="cb-playchess-logo">
-                                    </div>
-                                    <span class="cb-playchess-slogan main">playchess.com. TRY IT NOW!</span> <span class="cb-playchess-subslogan main">
-                                        No registration. No download!</span> <span class="cb-playchess-slogan sub">
-                                            playchess.com</span> <span class="cb-playchess-subslogan sub">No registration! No download!</span>
-                                    <span class="cb-cool-arrow">»</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
             </div>
-        </div>
+        </a>
     </div>
 </div>
+                    </div>
 
-    <table class="cb-third-party">
-    <tbody><tr><td><span class="cb-third-party-title">Advertising</span></td></tr>
-    <tr><td>Books, boards, sets:
-<a href="http://www.niggemann.com/start.htm?WP=Chessbase/">Chess Niggemann</a>
-</td></tr>
-    </tbody></table>
-
-        </div>
-
-        <div class="cb-content-bootstrap col-xs-12 col-sm-8 col-md-7 col-lg-7">
-
-<nav>
-    <a href="/">News</a>
-
-    <a target="_blank" href="http://chessbase-shop.com/en/cat_root?ref=RF73-K3I1E1BK16">Shop</a>
-
-    <a href="http://database.chessbase.com" target="_blank">Database</a>
-
-
-    <a href="http://en.playchess.com" target="_blank">Playchess</a>
-
-
-
-    <a href="/pages/support">Support</a>
-
-        <a href="/pages/distributors">Distributors</a>
-</nav>            
+                    <!-- Content -->
+                    <div style="padding: 30px 30px 0px 30px; clear: both;">
+                        <div class="body-content col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            
 
 
 <h1>Privacy Policy</h1>
@@ -357,64 +430,220 @@ Documentation regarding the purpose and scope of the data collection and use by 
 <p>We delete your personal data when the recording is no longer required for the purpose it was collected for or when the recording is in breach of legal requirements. You have the right to correction of incorrect personal data as well as blocking and deletion of your personal data to the extent no statutory obligation to preserve such data applies.<br>
 We are happy to provide information as to the personal data pertaining to you we have recorded. Please contact the address provided in the imprint of this website.</p>
 
-        </div>
+                        </div>
+                        
+<div id="footer" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="text-align: center; padding: 0;">
+    <hr class="hr-mutter">
+        <a href="/pages/security">Privacy policy</a>
+&nbsp;|    <a href="/pages/legal">Imprint</a>&nbsp;
+    |
+    <a href="/pages/contact">Contact</a>&nbsp;
+    |
+    <a href="/">Home</a>
+    <br>
+    © 2017 ChessBase GmbH | Osterbekstraße 90a | 22083 Hamburg | Germany
+</div>
 
-        <div class="cb-app-block col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                <!--Html.RenderPartial("appsblock");-->
+
+                    </div>
+                </div>
+
+                <!-- CB-Apps -->
+                <div class="cb-app-block hidden-xs col-sm-3 col-md-3 col-lg-3" style="height: 100%; padding-bottom:3000px; margin-bottom:-3000px;">
+                    <div>
+
+<style>
+    #slideshow > li { 
+        position: relative; 
+        top: 0px; 
+        left: 0px; 
+    }
+</style>
+
+
+<script>
+    $(function () {
+        $("#slideshow > li:gt(0)").hide();
+        i = Math.floor(Math.random() * 7);
+        for (j = 1; j <= i; j++)
+        {
+            $('#slideshow > li:eq(0)')
+              .fadeOut(0)
+              .next()
+              .fadeIn(0)
+              .end()
+              .appendTo('#slideshow');
+        }
+
+        setInterval(function () {
+            $('#slideshow > li:eq(0)')
+              .fadeOut(0)
+              .next()
+              .fadeIn(0)
+              .end()
+              .appendTo('#slideshow');
+        }, 60000);
+    });
+
+</script>
+
+
+<a href="https://account.chessbase.com/en">
+    <ul id="slideshow" style="margin: 0px; padding: 0px; list-style: none;">
+        <li id="AccImagesFirst" style="margin: 0px; padding: 0px;">
+            <img class="acc-apps-images-mutter" src="/Images/mutter/Anzeigen/170116_App-Live-Database.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">8 million games online! Updated weekly, our definitive database has all the latest games. 
+With Live Book and Let’s Check!</span>
+        </li>
+
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-My-Games-Cloud.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">My Games – Access your games from everywhere. Store your games, training material and opening repertoire in the cloud. Annotate, analyze and share.</span>
+        </li>
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-Training.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">Sac, sac, mate! Solve tactical positions of your playing strength. Boost your calculation skills. Enjoy adrenalin rush with tactic fights!</span>
+        </li>
             
-            <a href="https://account.chessbase.com/en"><img class="apps-images apps-images-account" src="/Images/cb-account.png"></a><a href="https://account.chessbase.com/en/apps/playchess"><img class="apps-images" src="/Images/cb-playchess.png"></a><a href="https://account.chessbase.com/en/apps/livedb"><img class="apps-images" src="/Images/cb-database.png"></a><a href="https://account.chessbase.com/en/apps/cloud"><img class="apps-images" src="/Images/cb-cloud.png"></a><a href="https://account.chessbase.com/en/apps/video"><img class="apps-images" src="/Images/cb-video.png"></a><a href="https://account.chessbase.com/en/apps/training"><img class="apps-images" src="/Images/cb-training.png"></a><a href="https://account.chessbase.com/en/apps/openings"><img class="apps-images" src="/Images/cb-openings.png"></a><a href="https://account.chessbase.com/en/apps/fritz"><img class="apps-images" src="/Images/cb-fritz.png"></a><a href="https://account.chessbase.com/en/apps/news"><img class="apps-images" src="/Images/cb-news.png"></a>
-            </div>
-    </div>
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-Videoflat.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">Thousands of hours of high class video training. Openings, Middlegame, Endgame Lessons.
+Top authors like Daniel King, Lawrence Trent and Rustam Kasimdzhanov</span>
+        </li>
 
-    <div id="footer">
-        <div class="Normal" style="padding: 10px;">
-            © 2013 ChessBase GmbH | Osterbekstraße 90a | 22083 Hamburg | Germany&nbsp;|&nbsp;
-                <a href="/pages/security">Privacy policy</a>
-&nbsp;|            <a href="/pages/legal">Imprint</a>&nbsp;
-            |
-            <a href="/pages/contact">Contact</a>&nbsp;
-            |
-            <a href="/">Home</a>
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-Fritz.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">Real Fun against a Chess Program! Play, analyze and train online against Fritz. Beginner, club and master levels. Assisted play and calculation training.</span>
+        </li>
+
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-Openings.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">Learn openings the right way! Build and maintain your repertoire. Memorize it easily move by move by playing against the variation trainer.</span>
+        </li>
+
+        <li style="margin: 0px; padding: 0px; display: none;">
+            <img class="acc-apps-images-mutter" style="display: inline;" src="/Images/mutter/Anzeigen/170116_App-Playchess.jpg">
+            <span class="account-images-link">Still no ChessBase Account?</span>
+            <span class="button-images-link">learn more &gt;</span>
+            <span class="text-images-link">The ultimate chess experience every day, PlayChess.com welcomes 20,000 chess players from all around the world – from beginner to grandmaster.</span>
+        </li>
+    </ul>
+</a>
+
+                    </div>
+                    <div style="position: relative;">
+                        <div class="one" style="width: 100%; height:100%; position:absolute;">
+                        </div>
+                        <div style="position:relative; z-index: 4;">
+                            
+<div class="cb-sidebar-bootstrap" style="width: 100%; padding: 0; margin: 0px; padding-top: 24px;">
+    <div class="cb-container-red" style="width: 100%; padding: 0 15px 15px 15px; margin: 0;">
+        
+
+
+        <a href="http://shop.chessbase.com/en?ref=RF76-09GSFKZH6T" style="color: white; text-decoration: none;"><h2 class="title title-online-shop">ONLINE SHOP</h2></a>
+
+        <div class="cb-container-red-products">
+            <div style="border-bottom: 1px solid #999999;"><b>News</b></div>
+            
+
+
+<div class="productBox"><div runat="server" class="shopitem first hidden-xs"><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase14_mega_package_engl?Ref=RF70-5OH0EFN840" target="_blank">
+                ChessBase 14 - Mega package - english Version
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase14_mega_package_engl?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/3dpth_7990_160" class=""></a><p>
+            Follow the World Champion and your chess friend next door. Start your success story with ChessBase 14 and enjoy your chess even more! 
+        </p><p class="specPrice">
+            €279.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs"><h3><a runat="server" href="http://shop.chessbase.com/en/products/bologan_reti_a_repertoire_for_white?Ref=RF70-5OH0EFN840" target="_blank">
+                Reti - A Repertoire for White
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/bologan_reti_a_repertoire_for_white?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8050_120" class=""></a><p>
+            Starting with 1.Nf3 the Reti is designed for those players who like strategy, manoeuvres and plans. Bologan presents a repertoire based on 1.Nf3 giving you options for all major replies.
+        </p><p class="specPrice">
+            €29.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs"><h3><a runat="server" href="http://shop.chessbase.com/en/products/williams_rocket_repertoire_the_four_knights?Ref=RF70-5OH0EFN840" target="_blank">
+                Rocket Repertoire: The Four Knights
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/williams_rocket_repertoire_the_four_knights?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8049_120" class=""></a><p>
+            Like a fine wine, the Four Knights only improves with age, establishing itself as an extremely effective way of meeting 1...e5. On the outside this opening seems deceptively quiet, yet apparently natural moves can often lead to some devastating attacks. 
+        </p><p class="specPrice">
+            €29.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs"><h3><a runat="server" href="http://shop.chessbase.com/en/products/martin_the_blumenfeld_gambit_a_sharp_weapon_in_the_benoni?Ref=RF70-5OH0EFN840" target="_blank">
+                The Blumenfeld Gambit - A sharp weapon in the Benoni
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/martin_the_blumenfeld_gambit_a_sharp_weapon_in_the_benoni?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8048_120" class=""></a><p>
+            It was back in the 1920s that the Russian master Benjamin Blumenfeld invented his famous gambit 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5!?, and to the present day the opening retains great popularity. Black plays for the initiative and the win from the word go. 
+        </p><p class="specPrice">
+            €29.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs"><h3><a runat="server" href="http://shop.chessbase.com/en/products/chessbase_magazine_178?Ref=RF70-5OH0EFN840" target="_blank">
+                Chessbase Magazine 178
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/chessbase_magazine_178?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8047_120" class=""></a><p>
+            Enjoy the best moments of recent top tournaments (Shamkir, Baden-Baden, US Champs) with analysis of top players. In addition you'll get lots of training material. For example 12 new suggestions for your opening repertoire.
+        </p><p class="specPrice">
+            €19.95
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs hidden-md"><h3><a runat="server" href="http://shop.chessbase.com/en/products/komodo_chess_11?Ref=RF70-5OH0EFN840" target="_blank">
+                Komodo Chess 11
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/komodo_chess_11?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8044_120" class=""></a><p>
+            The multiple computer chess world champion comes in a new and yet more powerful version. Thanks to co-author US
+Grandmaster Larry Kaufman, Komodo is the strategist among the top chess programs! 
+        </p><p class="specPrice">
+            €79.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  hidden-xs hidden-md hidden-lg"><h3><a runat="server" href="http://shop.chessbase.com/en/products/king_power_play_25_popular_queens_pawn_openings_repertoire_for_black?Ref=RF70-5OH0EFN840" target="_blank">
+                Powerplay 25: Popular Queen’s Pawn Openings – A Repertoire For Black
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/king_power_play_25_popular_queens_pawn_openings_repertoire_for_black?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8041_120" class=""></a><p>
+            On this DVD, Grandmaster Daniel King presents a repertoire for Black against the opoular queen's pawn openings such as the London System or the Trompowsky!
+        </p><p class="specPrice">
+            €29.90
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  "><h3><a runat="server" href="http://shop.chessbase.com/en/products/extra_177?Ref=RF70-5OH0EFN840" target="_blank">
+                ChessBase Magazine Extra 177
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/extra_177?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8043_120" class=""></a><p>
+            28.505 (games played between February and April 2017) plus videos by Mikahlchishin, Martin and Ris.
+        </p><p class="specPrice">
+            €12.99
+        </p><div class="clearfix"></div></div><div runat="server" class="shopitem  "><h3><a runat="server" href="http://shop.chessbase.com/en/products/master_class_vol8_magnus_carlsen?Ref=RF70-5OH0EFN840" target="_blank">
+                Master Class Vol.8: Magnus Carlsen
+            </a></h3><a id="A1" runat="server" href="http://shop.chessbase.com/en/products/master_class_vol8_magnus_carlsen?Ref=RF70-5OH0EFN840" target="_blank"><img runat="server" src="http://shop.chessbase.com/pics/bpth_8039_120" class=""></a><p>
+            Scarcely any world champion has managed to captivate chess lovers to the extent Carlsen has. The enormously talented Norwegian hasn't been systematically trained within the structures of a major chess-playing nation such as Russia, the Ukraine or China. 
+        </p><p class="specPrice">
+            €29.90
+        </p><div class="clearfix"></div></div></div>
+
+
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                    <div style="position: relative;">
+                        <div class="cb-container-red" style="width: 100%; padding: 0 15px 0 15px;">
+                            <div class="cb-container-red-products">
+                                
+    <table class="cb-third-party">
+    <tbody><tr><td><span class="cb-third-party-title">Advertising</span></td></tr>
+    <tr><td>Books, boards, sets:
+<a href="http://www.niggemann.com/start.htm?WP=Chessbase/" target="_blank">Chess Niggemann</a>
+</td></tr>
+    </tbody></table>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
     <script src="/bundle/bootstrap?v=wMFBIIZ6OsUCe1qOSlRNS_6hGBJgfCE05Vh1GzCppYo1"></script>
-
-    
-
-    <script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript" defer=""></script>
-
-    <!-- Fügen Sie dieses Tag nach dem letzten +1-Schaltfläche-Tag ein. -->
-    <script type="text/javascript">
-        window.___gcfg = { lang: 'en-US' };
-
-        (function ()
-        {
-            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-            po.src = 'https://apis.google.com/js/platform.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        })();
-    </script>
-
-
-    <script type="text/javascript">
-    function onCBSearchClick()
-    {
-        var strSrv = "/search?pattern=FMT";
-        strSrv = strSrv.replace("FMT", "");
-        
-        var $elemSearch = $("#txtSearch");
-        var elemSearch = $elemSearch[0];
-        var strSearch = elemSearch.value;
-        if (!strSearch)
-            return false;
-        var strURL = strSrv + strSearch;
-
-        window.location.href = strURL;
-
-        return false;
-    }
-    </script>
 
     
 
