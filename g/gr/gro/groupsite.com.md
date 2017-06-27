@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220023405id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627235151id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
 
 # Your Network -- Powered by Groupsite.com
 
@@ -60,9 +60,9 @@ You may specifically request in writing that we not use images of your profile p
 
 Groupsite.com, Inc. 
 
-P.O. Box 1047 
+555 Bryant St. #941 
 
-Lanham, MD 20703 
+Palo Alto, CA 94301 
 
 Attn: Marketing 
 
