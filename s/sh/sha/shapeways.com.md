@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220905id_/http%3A//www.shapeways.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627121918id_/https%3A//www.shapeways.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Shapeways | privacy statement
 
-Last updated March 16, 2016.
+Last updated February 22, 2017.
 
 Click [here](https://www.shapeways.com/legal/privacy-statement/archive) for archived versions
 
@@ -15,7 +15,7 @@ Shapeways, Inc. and its affiliates collects and uses your personal data such as 
 
 We also use your information to communicate with you about our services. You can always indicate and change your choice whether you want to receive such communication from us in your user profile page. We also may use your personal data for our internal purposes such as administration of our Website, improving our services, and compliance with our legal obligations.
 
-Your profile can include your name, an image, username, and short bio if you choose to share that information with us. By default that information is public. You can opt to keep your name private on your profile page [here](https://www.shapeways.com/settings/profile). 
+Your profile can include, but is not necessariliy limited to, your name, an image, username, and short bio if you choose to share that information with us. By default that information is public. You can opt to keep your name private on your profile page [here](https://www.shapeways.com/settings/profile). 
 
 ### How We Protect Your Data
 
@@ -31,7 +31,7 @@ We retain data for purposes described in this policy for as long as your account
 
 ### Information You Make Available
 
-You may choose to make certain details about yourself, such as your avatar, name, short bio, and username visible on the online community of the website. We are not responsible for any personal data you choose to share on the online community since any personal data you share can be read, collected or used by other individuals in ways we are unable to control or predict, such as to send you unsolicited emails.
+You may choose to make certain details about yourself including, but not limited to, your avatar, name, short bio, and username visible on the online community of the website. We are not responsible for any personal data you choose to share on the online community since any personal data you share can be read, collected or used by other individuals in ways we are unable to control or predict, such as to send you unsolicited emails.
 
 ###  Information We Share
 
