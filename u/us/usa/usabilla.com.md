@@ -1,44 +1,39 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104162330id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003842id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Usabilla Privacy Statement
 
-If you have any questions about this privacy statement, or the services Usabilla provides please contact us at: support@usabilla.com or call us at +31 (0) 20 772 78 35. Usabilla may change this Privacy Policy. Any changes will be posted on this page.   
-Usabilla B.V. - Rokin 16, 1012 KR, Amsterdam, The Netherlands  
+This privacy statement concerns the processing of personal data by the public websites usabilla.com, support.usabilla.com, blog.usabilla.com, developers.usabilla.com, and go.usabilla.com. It does not address the processing of personal data by Usabilla's products (Usabilla for Websites, Usabilla for Apps, Usabilla for Email).
 
+The Usabilla websites are owned and operated by Usabilla BV. Usabilla is responsible for processing personal data in accordance with the Dutch Data Protection Act.
 
-###### What information is collected?
+Our contact information is: 
 
-Usabilla Live may collect a variety of information, such as user data when a user / visitor participates in one of Usabilla Live’s services (“User”). This can be for example when a User gives feedback with the Usabilla Live feedback button or participates in an exit survey. We will store the input given by the User (e.g. feedback rating, comment). The type of information stored solely depends on what the “owner” of the feedback button wants to know from his / her User / Visitor and what information is subsequently provided. Users are responsible for the personal information they choose to share or submit in these instances. However, measures can be taken to ensure that website Users’ sensitive data remains confidential when utilizing the feedback button. The following options are available within the Usabilla Live tool:
+Usabilla BV   
+Rokin 16   
+1012 KR Amsterdam   
+The Netherlands   
+Tel: +31 20 772 78 35   
+Email: support@usabilla.com 
 
-● Mask (completely black out) sensitive parts of the website, so it won’t be included in screenshots.   
-● Scramble content on the website completely illegible for the sake of upholding client confidentiality.   
-● Completely exclude screenshots from the feedback solution.   
-● Exclude IP-addresses from being logged.
+On our public websites, we do not collect personal data, unless you provide your personal data through our contact form, request a product demo, subscribe to the newsletter, leave feedback through the feedback button, or fill in a survey. In those cases, we only collect general contact information, such as your name, email address and/or phone number, sometimes optionally. 
 
-All actions taken in the above described measures are performed on the client’s end. This prevents privacy sensitive data from reaching the Usabilla servers. Furthermore, Usabilla automatically collects meta information when a User participates in one of Usabilla Live’s services, or when a Visitor visits the Usabilla website (“Visitor”). For example, Usabilla may log browser information (such as IP Address, browser type, operating system, viewport, language [and web pages visited]), and mobile device information]. This Usabilla website includes Social Media Features. These Features may collect a variety of information, such as IP Address, pages visited on our website, and may set a cookie to enable the Feature to function properly (Our Cookie Policy is available at: usabilla.com/cookie-policy). These Features are hosted by a third party hosted directly on our website. Interactions with these Features are governed by the privacy policy of the company providing it. 
+Our websites also use cookies. In some cases, the use of cookies is considered equivalent to the processing of personal data. Personal data collected by the cookies on our website is only used for analytical purposes. For more information about our use of cookies, please refer to our [Cookie Policy](https://www.usabilla.com/cookie-policy). 
 
-###### How is the information is used?
+Personal data collected on the Usabilla websites is only used for the purposes for which it was provided. For example, we will only use your personal data to contact you for a demo if that is why you have provided the personal data. If you make use of our contact form, we will use the provided data to contact you to answer your question. If you subscribe to the newsletter, we will only use the collected email address in order to send you the newsletter. If you leave feedback on our website, we will only use the optionally provided email address to potentially contact you about this feedback. 
 
-The information that Usabilla collects may be used in aggregate form in various ways to optimize and improve Usabilla’s services. Usabilla may use this information for website management, administration and security, promotional activities, and research and analysis. Information will not identify Users / Visitors personally. The information collected because of use of Usabilla Live’s services, is only available to Users with access to their Usabilla Live account with their username and password. None of the information collected will be made available publicly. All information within the Usabilla Live account is exportable as Microsoft Excel format. It is the responsibility of the Usabilla Live account holder to handle these exports with care. 
+We will retain collected personal data for as long as is necessary to provide you with the requested service, unless a longer retention period is required by law. 
 
-###### How is information protected?
+We take adequate measures to protect your data from being stolen, lost or used in any way that is not in line with the purposes for which the data was collected.   
+We do not sell your personal data to third parties. 
 
-Usabilla uses reasonable measures to protect the information stored within Usabilla’s databases, and Usabilla restricts access to such information to those employees who need access to perform their job functions, such as customer service personnel and technical staff. Usabilla has adopted physical, technological, and administrative measures to safeguard and secure the information.
+We will not give your personal data to third parties, unless we are obligated by law, for example in case of a lawful request by law enforcement authorities. 
 
-Usabilla Live accounts are secured by a user created password, in which case reasonable precautions are taken to ensure that account information is kept private. The Usabilla Live account holder is responsible for keeping this password confidential and changing the password periodically. 
+We may transfer personal data to other companies within the Usabilla group of companies, typically our sales and support offices. We apply the same data protection measures in all our offices. 
 
-All data transactions between the Usabilla Live users and the Usabilla Live infrastructure will be encrypted by using SSL technology. Despite these efforts, please note that Usabilla cannot ensure or guarantee the security of information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information at any time. Usabilla does not accept liability for unintentional entry, use, or disclosure of information. 
+We may use third parties to process personal data for certain services. For example, our Request a Demo page and the sending of newsletters is hosted by HubSpot. We ensure that all third parties provide an adequate level of protection for your personal data. 
 
-###### Sharing of information
+You can file a request to access the data that is processed through the Usabilla websites by sending an email to privacy@usabilla.com. In order to verify your identity, we ask that you send a copy of your ID attached to your request. Be sure to blacken out your photograph and personal identity number or social security number. Following your access request, you can request rectification or removal. 
 
-Usabilla does not rent, sell, or share personal information of Users / Visitors with other people or non-affiliated companies (e.g. for direct marketing purposes), unless Usabilla has a Users’ / Visitors’ permission. 
+If you wish to raise a complaint on how we have handled your personal data, you can contact us at privacy@usabilla.com and we will investigate the matter. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law, you can complain to the Dutch Data Protection Authority (Autoriteit Persoonsgegevens). 
 
-Usabilla may, however, share non personal aggregated information with third parties. For example, Usabilla may share an aggregated overview of the number of feedback items or number of feedback buttons being displayed to business partners. Because this form of data does not identify particular Users, these third parties will not be able to contact those Users based solely on this data. 
-
-Usabilla shares personal information with companies who provide services (such as information processing or providing customer service). These service providers are obliged to protect that information.
-
-It may be necessary (e.g. by law, litigation, or requests from governmental bodies) for Usabilla to disclose certain personal information. Usabilla may also disclose information if Usabilla determines it necessary or opportune for purposes of national security, law enforcement, or other issues of public importance. Usabilla may also disclose information if Usabilla determines that disclosure is reasonably necessary to enforce Usabilla’s terms and conditions or protect Usabilla’s operations or users. Additionally, in the event of a restructuring, merger, or sale Usabilla may transfer any and all personal information Usabilla collects and has collected to the relevant third party.
-
-###### Retention
-
-Usabilla will retain personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. 
+This privacy statement was created in May 2017. When we change the policy on how collected data on this website is treated, we will announce this through an alteration of our privacy statement. 
