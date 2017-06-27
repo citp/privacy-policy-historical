@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629082424id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201318id_/http%3A//www.vibrantmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vibrant Media
 
@@ -50,7 +50,7 @@ Back to Top
 
 ##### 4\. CONTROLLING THE COLLECTION AND USE OF INFORMATION
 
-If you’d like to learn how to opt-out from having Vibrant Media collect and use Non-PII from your computer or device in connection with our Technology for Interest Matching advertising, please [click here](http://intellitxt.com/opt_out/ch_optout.asp "Opting Out from Interest Matching"). When you opt out, we will place an opt-out cookie on your browser. The opt-out cookie tells us not to collect Non-PII from a particular browser or device to tailor our online advertisement campaigns. You will still receive ads if you opt out from Vibrant, but these ads may be less relevant to you. In addition, we may continue to collect certain data for basic ad serving and other purposes such as counting the number of times a keyword has been clicked or other analytic purposes. Please note that if you delete or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. If you block cookies, your opt-out choice also may not be effectuated.
+If you’d like to learn how to opt-out from having Vibrant Media collect and use Non-PII from your computer or device in connection with our Technology for Interest Matching advertising, please [click here](http://optout.networkadvertising.org/#/ "Opting Out from Interest Matching"). When you opt out, we will place an opt-out cookie on your browser. The opt-out cookie tells us not to collect Non-PII from a particular browser or device to tailor our online advertisement campaigns. You will still receive ads if you opt out from Vibrant, but these ads may be less relevant to you. In addition, we may continue to collect certain data for basic ad serving and other purposes such as counting the number of times a keyword has been clicked or other analytic purposes. Please note that if you delete or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. If you block cookies, your opt-out choice also may not be effectuated.
 
 Back to Top
 
@@ -78,14 +78,10 @@ Back to Top
 
 If you have any questions or comments about [www.vibrantmedia.com](http://www.vibrantmedia.com/ "Vibrant Media") or about this privacy policy, please contact:
 
-Via mail: Vibrant Media, Inc. 565 Fifth Avenue, 16th Floor, New York, NY 10017
+Via mail: Vibrant Media, Inc. 300 Park Avenue, 12th Floor, New York, NY 10022
 
-Via email: [info@vibrantmedia.com](mailto:info@vibrantmedia.com "Contact Vibrant")
+Via email: [intellitxtsupport@vibrantmedia.com](mailto:intellitxtsupport@vibrantmedia.com)
 
 Via telephone: (646) 312-6100
 
-Or you can submit an inquiry [here](http://www.vibrantmedia.com/contact-us/ "Contact Vibrant Privacy").
-
 Back to Top
-
-Last updated April 24, 2014
