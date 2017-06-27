@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expoeast.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224193603id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expoeast.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627123241id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Penton
 
-Last Revised: March 11, 2015
+Last Revised: June 14, 2017
 
-Penton ( **Penton** , **we** , **us** , or **our** ) is committed to protecting the privacy of the information you share with us when you access and use our websites, applications, products, events, services and other offerings ( **Services** ). This policy describes how we collect, use and share the personally identifiable information ( **PII** ) you provide to us when you register or contract with us to receive Services.
+Penton ( **Penton** ,  **we** ,  **us** , or  **our** ) is committed to protecting the privacy of the information you share with us when you access and use our websites, applications, products, events, services and other offerings ( **Services** ). This policy describes how we collect, use and share the personally identifiable information ( **PII** ) you provide to us when you register or contract with us to receive Services.
 
 This policy may be supplemented by additional privacy terms or notices disclosed to you in connection with your registration for or receipt of Services.
 
@@ -22,7 +22,7 @@ Like most website operators, we use cookies (small data files stored on your com
 
 We use information gathered through these tools for our internal security audit log, for trend analysis and system administration, to gather broad information about our audiences and their geographic locations, and to otherwise improve the Services. By allowing us to understand how you use our Services, these tools can help us provide you with a better, more relevant online experience.
 
-We may also employ web beacons from companies not owned by or affiliated with Penton ( **third parties** ) in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our Services.In addition, we may work with third-party advertising companies to target and serve advertising you see on the Services or on third-party sites based on preferences gleaned from such technologies.
+We may also employ web beacons from companies not owned by or affiliated with Penton ( **third parties** ) in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our Services. In addition, we may work with third-party advertising companies to target and serve advertising you see on the Services or on third-party sites based on preferences gleaned from such technologies.
 
 You may set your browser to block all cookies, including Penton’s, while using our Services (in which case some aspects of the Services may not function properly), or you may set your browser to block third-party cookies and allow first-party cookies, which would allow us (but not third parties) to collect such information. In addition, some browsers may allow you to block certain web beacons and similar tracking codes. Please refer to your browser’s documentation if you wish to block some or all cookies, web beacons, and/or similar tools.
 
@@ -37,7 +37,7 @@ We may use information about you:
   * To offer you customized content and individualized personalization of the Services to make them more relevant to your professional interests and responsibilities.
   * To ask for your input to help in our research about our Services.
   * To contact you with information about, and provide invitations for, products, services, events and research opportunities – ours and other companies’ – directed at your professional interests and responsibilities.
-  * To give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in certain of our subscription-only databases. If you wish to find out whether contact information about you is in a database or to have data removed, please email us at [privacy@penton.com](mailto:privacy@penton.com).
+  * To give suppliers in our communities a limited opportunity to find you: We make contact data, including email addresses, available in certain of our subscription-only databases. If you wish to find out whether contact information about you is in a database or to have data removed, please email us at [privacy@penton.com](mailto:privacy@penton.com).
   * For any other purpose that we disclose when you give us the information.
 
 
@@ -48,17 +48,17 @@ By using Penton’s Services (for example, when you register for an account, pur
 
 #### Your Choices
 
-You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Penton has a number of brands and products and we allow you to opt-out selectively.  To remove a specific email address from all of Penton’s marketing communications, you may send a request to [privacy@penton.com](mailto:privacy@penton.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand or contact the brand directly.
+You may opt-out of our email marketing lists by following the directions at the bottom of our emails. Please note that Penton has a number of brands and products and we allow you to opt-out selectively.  To remove a specific email address from all of Penton’s marketing communications, you may send a request to [privacy@penton.com](mailto:privacy@penton.com). If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand or contact the brand directly.
 
 You may receive email marketing messages from us about other companies’ offerings as part of a business partner marketing program. To opt-out of a business partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
 
 Please note that opting-out of promotional mailings will not affect delivery of your subscription-based products.
 
-To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during/in those communications.  To remove a specific phone/fax number from all of Penton’s marketing communications, you may send a request to [privacy@penton.com](mailto:privacy@penton.com).
+To remove a specific phone number or fax number from a specific brand’s marketing communications, please follow the opt-out directions provided during/in those communications.  To remove a specific phone/fax number from all of Penton’s marketing communications, you may send a request to [privacy@penton.com](mailto:privacy@penton.com).
 
 Certain third parties may also employ cookies, web beacons, and/or similar technologies on our Services. Information collected through such third-party tools is gathered directly by such third party, not by Penton, and is subject to such third party’s applicable privacy policy. Penton has no control over such third-party tools. These third parties include but are not limited to analytics partners who help us better understand how our users are interacting with our Services and advertising, providers of widgets and other third-party applications that may appear in our Services, ad servers, ad networks, ad agencies, and advertisers. You may visit these third parties’ sites to learn more about their privacy practices. In addition, as noted above, you may set your browser to block third-party cookies. Finally, you may visit the industry websites described in the next section to learn more about the privacy practices of a wide range of ad networks and data companies and to exercise certain opt-out options made available there.
 
-#### Disclosure of Your Information
+Disclosure of Your Information
 
 Penton contracts with other companies to provide certain services on our behalf, including customer service, credit card and billing processing, shipping, subscription fulfillment, research, analytics, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information and business services. We only provide these companies with the relevant information required to perform their services and they are explicitly restricted from using any data received from us for their own marketing purposes.
 
@@ -72,7 +72,7 @@ Similarly, if you access third-party resources in certain registration-only, or 
 
 When you register for an in-person or digital event, we will provide your registration information to the sponsor(s) of such event. We may also provide your information to sponsors of special sessions within the larger event.
 
-If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy. As noted above, your registration for and log-on to any of the above Services constitutes your consent to be put in touch directly with any vendors you select. The vendor’s or advertiser’s privacy policies will control their use of your information and you should review those policies.
+If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy. As noted [above](http://www.penton.com/privacy-policy/#Consent), your registration for and log-on to any of the above Services constitutes your consent to be put in touch directly with any vendors you select. The vendor’s or advertiser’s privacy policies will control their use of your information and you should review those policies.
 
 _Community/Public Sites_
 
@@ -86,17 +86,17 @@ _Licensing_
 
 We may also license certain information to resellers and third-party businesses which we have authorized for marketing and/or analytical purposes.
 
-Please follow the directions here to opt-out of having your information shared for any of these purposes.
+Please follow the directions [here](http://www.penton.com/privacy-policy/#CA) to opt-out of having your information shared for any of these purposes.
 
 Penton also shares the information it gathers in a compiled format with advertisers and other business partners. The compiled format does not include PII.
 
-#### Third-Party Advertising Technologies
+Third-Party Advertising Technologies
 
-We use third-party advertising, data analytics and online targeting companies to serve ads when you visit our sites or use our applications. We may also provide your PII to these third parties to allow them to more effectively target advertising to you. These companies are obligated to protect your information, but you may opt-out of this sharing through the process described here.
+We use third-party advertising, data analytics and online targeting companies to serve ads when you visit our sites or use our applications. We may also provide your PII to these third parties to allow them to more effectively target advertising to you. These companies are obligated to protect your information, but you may opt-out of this sharing through the process described [here](http://www.penton.com/privacy-policy/#CA).
 
 When advertisements are displayed to you on our sites and applications, one or more persistent cookies will be placed on your computer or device by us or a third party. Some of these third parties may use information (including PII) about your visits to this site and other websites and usage of applications in order to provide data and targeting recommendations. This may result in your receipt of advertisements about goods and services anticipated to be of interest to you. Please note that we do not control cookies and other data collection technologies that the ad servers may allow or that their advertisers may use. As discussed above, this may result in your receipt of advertisements about goods and services of anticipated interest to you served by these ad servers on third-party sites based on your use of Penton’s Services.
 
-Many of the third-party advertising and data companies that serve ads on our sites are members of the Network Advertising Initiative ( **NAI** ) and/or the Digital Advertising Alliance ( **DAA** ). NAI offers a tool which allows you to opt-out of behavioral advertising by NAI members at <http://www.networkadvertising.org/choices/>, and the DAA offers a similar opt-out tool at <http://www.aboutads.info/choices/>. Visit their websites for useful information about ad networks and for a single place to turn off targeted ad serving. In addition, you may set your browser to block third-party cookies.
+Many of the third-party advertising and data companies that serve ads on our sites are members of the Network Advertising Initiative ( **NAI** ) and/or the Digital Advertising Alliance ( **DAA** ). NAI offers a tool which allows you to opt-out of behavioral advertising by NAI members at <http://www.networkadvertising.org/choices/>, and the DAA offers a similar opt-out tool at <http://www.aboutads.info/choices/>. Visit their websites for useful information about ad networks and for a single place to turn off targeted ad serving. In addition, you may set your browser to block third-party cookies.
 
 We do not currently recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions.
 
@@ -106,7 +106,7 @@ Mobile marketing campaigns may involve your sending an email from your mobile de
 
 #### Your California Privacy Rights
 
-As described in this policy, from time to time, we make your information available to third parties. If you do not want us to share your information with other companies or organizations, you may opt-out of this information sharing by doing any one of the following: 1) emailing us at [privacy@penton.com](mailto:privacy@penton.com), 2) calling us at 913-967-1710, or 3) writing to us at Penton Customer Service, 9800 Metcalf Avenue, Overland Park, KS 66212. This notice is designed to comply with California’s “Shine the Light” law, but the opt-out option is available to all of our users. For the avoidance of doubt, it is important to understand that this opt-out shall not prohibit any disclosures made for non-marketing purposes.
+As described in this policy, from time to time, we make your information available to third parties. If you do not want us to share your information with other companies or organizations, you may opt-out of this information sharing by doing any one of the following: 1) emailing us at [privacy@penton.com](mailto:privacy@penton.com), 2) calling us at 913-967-1710, or 3) writing to us at Penton Customer Service, 9800 Metcalf Avenue, Overland Park, KS 66212. This notice is designed to comply with California’s “Shine the Light” law, but the opt-out option is available to all of our users. For the avoidance of doubt, it is important to understand that this opt-out shall not prohibit any disclosures made for non-marketing purposes.
 
 #### Correcting and Updating Your Information
 
@@ -114,7 +114,7 @@ If you are a registered user, you can access your account information and make c
 
 #### Cross-Border Information Transfer
 
-You acknowledge that Penton is located in the United States of America ( **U.S.** ) and will process and store your information in the U.S. In addition, we may use service providers located outside of the U.S. or which process or store information on our behalf outside of the U.S. By providing us with your information, you consent to the transfer of your information to countries outside of your country of residence, which may have different personal data protection rules than in your country. Penton complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland. Penton has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Penton’s certification, please visit <http://www.export.gov/safeharbor/>.
+You acknowledge that Penton is located in the United States of America ( **U.S.** ) and will process and store your information in the U.S. In addition, we may use service providers located outside of the U.S. or which process or store information on our behalf outside of the U.S. By providing us with your information, you consent to the transfer of your information to countries outside of your country of residence, which may have different personal data protection rules than in your country. Penton complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland. Penton has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Penton’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 #### Information Security
 
@@ -140,11 +140,11 @@ As new products and services are offered or as existing products and services ar
 
 #### How to Contact Us
 
-** ** If you have any questions, comments, or requests regarding this policy or our processing of your information, please contact [privacy@penton.com ](mailto:privacy@penton.com)or write/call us at:
+If you have any questions, comments, or requests regarding this policy or our processing of your information, please contact [privacy@penton.com ](mailto:privacy@penton.com)or write/call us at:
 
 Penton Customer Service  
 9800 Metcalf Avenue  
 Overland Park, KS 66212  
 Phone: 913-967-1710
 
-As part of Penton’s participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please [click here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
