@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220161332id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627184448id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Action Network
 
@@ -208,4 +208,4 @@ The Action Network may update the Policy at any time to reflect changes in our p
 
 ##### Questions
 
-If you have any questions about the Policy, please contact [info@actionnetwork.org](mailto:info@actionnetwork.org).
+If you have any questions about the Policy, please contact [support@actionnetwork.org](mailto:support@actionnetwork.org).
