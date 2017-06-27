@@ -1,45 +1,6 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063508id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627225618id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | SBI Card
-
-  * [Credit Cards](https://www.sbicard.com/en/personal/credit-cards.page)
-  * [Benefits](https://www.sbicard.com/en/personal/benefits.page)
-
-[Benefits Home](https://www.sbicard.com/en/personal/benefits.page)
-
-## Benefits
-
-## Quick Actions
-
-## Useful Links
-
-## Balance Transfer on EMI
-
-Transfer outstanding balances of your other credit cards to SBI Card and pay back in EMIs.
-
-  * [Pay](https://www.sbicard.com/en/personal/pay.page)
-
-[Pay Home](https://www.sbicard.com/en/personal/pay.page)
-
-## Pay
-
-### Pay Online
-
-### Pay Offline
-
-## Quick Actions
-
-## Useful Links
-
-## Signature Card
-
-One Signature. Many Privileges
-
-  * [Offers](https://www.sbicard.com/en/personal/offers.page)
-  * [Rewards](https://www.sbicard.com/en/personal/rewards.page)
-  * [Apply](https://www.sbicard.com/en/eapply.page)
-  * 
-
 
   * ### STATEMENT OF PRACTICE & POLICY
 
@@ -145,7 +106,13 @@ Have doubts? See Frequently Asked Questions.
 
 ### Contact Us 
 
-Reach out to us, we are happy to help you.
+SBI Cards and Payment Services Private Limited   
+Unit 401 & 402, 04th Floor, Aggarwal Millennium Tower,   
+E-1,2,3 Netaji Subhash Place, Wazirpur, New Delhi -110034  
+CIN:U65999DL1998PTC093849   
+Tel: 0124-4589803,  
+Fax: 0124-3987306   
+Email:[feedback@sbicard.com](https://web.archive.org/web/20170627225618id_/https%3A//www.sbicard.com/en/feedback@sbicard.com)
 
 [Learn More](https://www.sbicard.com/en/contact-us/personal.page)
 
