@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704220348id_/http%3A//www.media-imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-imdb.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627025421id_/http%3A//www.media-imdb.com/privacy%3Fref_%3Dft_pvc) for the most accurate reproduction.*
 
 # Privacy - IMDb
 
-**Last Updated, December 5, 2014**. To see what has changed [click here](https://web.archive.org/privacy_change?ref_=pvc_1). 
+**Last Updated, November 29, 2016**. To see what has changed [click here](https://web.archive.org/privacy_change?ref_=pvc_1). 
 
-IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
+IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, or by visiting other properties operated by IMDb such as DPReview.com, you are accepting the practices described in this Privacy Notice.**
 
 **What Personal Information About Users Does IMDb Gather?**
 
@@ -13,7 +13,7 @@ The information we learn from users helps us personalize and continually improve
   * **Information You Give Us** : We receive and store any information you enter on our Web site or give us in any other way. [Click here](https://web.archive.org/privacy_info?ref_=pvc_2) to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future browsing for you, improving our site, and communicating with you. 
   * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses IMDb or advertisements and other content served by or on behalf of IMDb on other Web sites. [Click here](https://web.archive.org/privacy_auto?ref_=pvc_3) to see examples of the information we receive. 
   * **E-mail Communications** : To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from IMDb if your computer supports such capabilities. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. If you do not want to receive e-mail or other mail from us, please use our [User Administration](https://secure.imdb.com/register-imdb/siteprefs?ref_=pvc_4) pages to adjust your preferences. 
-  * **Mobile** : When you download or use [apps created by IMDb](https://web.archive.org/apps/?ref_=nb_app), we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, local showtimes, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, [click here.](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496#GUID-A2C397AB-68FE-4592-B4A2-7550D73EEFD2__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
+  * **Mobile** : When you download or use [apps created by IMDb](https://web.archive.org/apps/?ref_=nb_app), we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, local show times, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, [click here.](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496#GUID-A2C397AB-68FE-4592-B4A2-7550D73EEFD2__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
   * **Information from Other Sources** : We might receive information about you from other sources and add it to our account information. [Click here](https://web.archive.org/privacy_other?ref_=pvc_5) to see examples of the information we receive.
 
 
@@ -33,7 +33,7 @@ Information about our users is an important part of our business, and we are not
   * **Affiliated Businesses We Do Not Control** : We work closely with our affiliated businesses. In some cases, we will include offerings from these businesses on IMDb. In other cases, we may include joint offerings from IMDb and these businesses on IMDb. You can tell when another business is involved in the offering, and we share user information related to those offerings with that business. 
   * **Agents** : We employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail, removing repetitive information from user lists, analyzing data, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
   * **Promotional Offers** : Sometimes we send offers to selected groups of IMDb users on behalf of other businesses. When we do this, we do not give that business your name and e-mail address. If you do not want to receive such offers, please use our [User Administration](https://secure.imdb.com/register-imdb/siteprefs?ref_=pvc_6) pages to adjust your preferences. 
-  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is transferred along with the rest of the service or business unit. Also, in the event that IMDb, Inc., or substantially all of its assets are acquired, user information will of course be included in the transaction. 
+  * **Business Transfers** : As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is transferred along with the rest of the service or business unit. Also, in the event that IMDb.com, Inc., or substantially all of its assets are acquired, user information will of course be included in the transaction. 
   * **Protection of IMDb and Others** : We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Terms and Conditions of Use](https://web.archive.org/conditions?ref_=pvc_7) and other agreements; or protect the rights, property, or safety of IMDb, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
   * **With Your Consent** : Other than as set out above, you will always receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
@@ -66,14 +66,6 @@ It is important for you to protect against unauthorized access to your password 
 **Children**
 
 IMDb is not intended for use by children under the age of 13. If you are under 13, you may not submit information about yourself to IMDb. 
-
-**Does IMDb.com Participate in the Safe Harbor Program?**
-
-As a subsidiary of Amazon.com, Inc., IMDb.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. Amazon has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://export.gov/safeharbor/) Web site.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
-
-Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint.
 
 **Conditions of Use, Notices, and Revisions**
 
