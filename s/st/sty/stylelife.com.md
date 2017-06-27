@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylelife.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223024545id_/http%3A//stylelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylelife.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627064459id_/http%3A//stylelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Neil Strauss' The Game - Stylelife Academy
 
