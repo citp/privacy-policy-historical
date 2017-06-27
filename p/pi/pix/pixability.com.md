@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109024111id_/http%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627151653id_/https%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
 
-# Video Marketing Privacy Policy| Pixability Pixability
+# Video Marketing Privacy Policy| Pixability
 
 ## Privacy Policy
 
-This is the privacy policy of Pixability, Inc. (“Pixability” or “we” or “us,” or “our.”) and governs the web sites and services that are owned and operated by Pixability and can be found at [www.pixability.com](http://www.pixability.com/) (and related and successor URLs). These sites and services are referred to as the “Pixability Sites and Solution.”
+This is the privacy policy of Pixability, Inc. (“Pixability” or “we” or “us,” or “our.”) and governs the web sites and services that are owned and operated by Pixability and can be found at [www.pixability.com](https://www.pixability.com/) (and related and successor URLs). These sites and services are referred to as the “Pixability Sites and Solution.”
 
 When you access or use any Pixability Sites and Solution, you are accepting this Privacy Policy, and Pixability will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you should contact us immediately and discontinue using Pixability Sites and Solution.
 
@@ -67,5 +67,5 @@ Pixability may update this Privacy Policy from time to time, and so you should r
 For more information, or if you have questions or concerns regarding our Privacy Policy, you may contact us by contacting us here or you can send correspondence to the following address:
 
 Pixability, Inc.  
-123 North Washington Street  
+77 North Washington Street  
 Boston MA 02114 USA
