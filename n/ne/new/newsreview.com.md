@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619195655id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsreview.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627191717id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.*
 
 # Privacy Policy - Sacramento News & Review
 
