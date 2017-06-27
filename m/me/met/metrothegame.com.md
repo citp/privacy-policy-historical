@@ -1,38 +1,78 @@
-> *The following text is extracted and transformed from the metrothegame.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219201809id_/http%3A//www.uberplay.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrothegame.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627222818id_/http%3A//www.deepsilver.com/en/terms-conditions) for the most accurate reproduction.*
 
-# Uberplay Entertainment Privacy Policy
+# Terms & Conditions | Deep Silver
 
-Uberplay Entertainment is committed to honoring the privacy of our members and visitors. This privacy policy covers personally identifiable information shared through the Uberplay.com Web site
+Koch Media is serious about protecting users’ personal data and is obliged to adhere to all valid, related laws, including Directive 94/46/EG of the European Parliament and Council from October 25, 1995 for the protection of individuals when processing personal data and to the free flow of data as well as other appropriate, applicable laws and legal regulations in your country of residence.
 
-**What information does Uberplay Entertainment receive and how do we use it?**  
-If you register as an Uberplay.com member or for various Uberplay newsletters or services, we ask you for your name, contact information, preferences, and certain demographic information. This information lets us provide personalized services and communicate separately with you. We also use aggregated information about the use of our services to evaluate our users' preferences, improve our programming, and facilitate third-party reporting of Internet usage. Finally, like most Web sites, we may use small bits of data called "cookies" stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and allow you to move within our Service without reintroducing yourself. Most browsers let you easily see and control cookies. 
+We have employed technical and organizational measures which, in our opinion, ensure that data protection laws are observed by us as well as by external service providers working for us.
 
-**Can I choose what information I disclose?**  
-While we need certain information to register you as a unique user and let you access personalized services, other requested information is optional and may be given at your discretion.
+**Personal data**
 
-**What if I need to review or change the personal information I previously disclosed?**  
-We encourage registered users to update and edit their personal information and keep it current. You can easily correct or update your personal information at any time after signing in.  
+Personal data are individual details about personal or business relationships of a specific or ascertainable person. The data includes information which is related or applicable to an individual person or creates a connection to that person. This includes information such as name, address, mailing address, and phone number. Information that cannot be associated with an actual identity (e.g., favourite websites or number of site users) is not protected.  
+In principle, you are entitled to use portions of our online services (website) without disclosing your identity. If, however, you would like to participate in games and the portal, we request the following personal data:
 
+· E-mail address
 
-**What kind of security is used to protect my information?**  
-We store all user information in secure databases protected via a variety of access controls. This data is accessed only for the purposes specified in this privacy statement.
+The following data is requested for competitions and other events:
 
-**Who has access to my information?**  
-We do not share personally identifiable data with other companies unless you specifically tell us we can do so.
+– Name
 
-**What about children's information?**  
-Children under 13 may not sign up for any Uberplay Entertainment communication or services that require disclosing personally identifiable information. Please see our information on the Children's Online Privacy Protection Act.
+– Mailing address
 
-**Children's Online Privacy Protection Act**  
-Because of COPPA, you must be at least 13 years old to register for the Uberplay Entertainment Newsletters
+– Possibly phone number
 
-The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA requires that operators of online services or Web sites obtain parental consent prior to the collection, use, disclosure, or display of the personal information of children. The Federal Trade Commission established rules for the act's implementation, which went into effect April 21, 2000.
+Additional data such as age and hobbies may be requested, within the framework of other actions (e.g., “Player of the Month”), and , published, with your permission, on the Web or in printed media.
 
-Because of COPPA, we have chosen not to collect personally identifiable information from children under 13. Because members must provide personal information to be identified as an author, you must be at least 13 to register for the Uberplay Entertainment Newsletters.
+Koch Media employees are not authorized to request additional user data, such as credit card information, banking information, passwords, or phone numbers. Divulging personal information in online chat is the sole responsibility of users.
 
-If you are under 13, we invite you to browse our site anonymously as much as you like, then come back and register on your 13th birthday!
+**Storage of security of personal data**
 
-COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA visit the links below.
+Data collected by us during player account registration is stored on the operator’s server database (e-mail address). [Address: Koch Media GmbH, Lochhamer Straße 9, 82152 Planegg, Germany] Persons who require access because of technical, business, or editorial maintenance of the server and portal are legally bound by an agreement of confidentiality and non-disclosure.
 
-<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm>  
-<http://www.ftc.gov/kidsprivacy/kidz.htm>
+A copy of the data is made available to us via FTP and stored on a local PC.
+
+Your e-mail/mailing addresses may be requested via e-mail by support and stored with us.
+
+We are committed to data security within the framework of applicable data protection laws. Please note however that no electronic communications are totally secure. We remind you that, despite our high standards, information that you voluntarily provide on the Web are never guaranteed to be 100% secure. There is always the potential danger that third persons may obtain unauthorized access. Koch Media is not responsible or liable for the disclosure of information due to data transmission errors and/or unauthorized access by third parties.
+
+**Data processing**  
+Once you have completed a declaration of consent, we collect, store, and process personal information for the purpose of individual information and management (e.g., newsletters).
+
+We use e-mail addresses for administrative purposes such as account activation information, welcome e-mails, and newsletter distribution. Users may opt out of newsletters at any time.
+
+If a user modifies account information (password, account name) or is temporarily or permanently blocked from the service (“kick, ban”), the system automatically sends an e-mail to the previously provided address. We do not control the distribution of such e-mails. This can only be achieved by deleting all account-related data.
+
+For security purposes, data that could be used for identification (e.g., IP address, date, and time) is stored on our servers when you are granted access. Personal data is not used for any other purposes, apart from legal or official requirements. We reserve the right to conduct statistical analysis of anonymous data sets.
+
+**Sharing of personal information with third parties**  
+Your personal data will not be shared with third parties without your express consent. If data is shared with service providers as part of contractual data processing, they are required to conform to the BDSG (Federal Data Protection Act) and other legal requirements as well as to Koch Media GmbH Privacy Policy. We must provide data to authorized authorities in accordance with legal or judicial decrees.
+
+Storing, modifying, or using data for other purposes is permitted only when necessary to protect against serious disadvantages for the common welfare, danger to public security, or protecting the interests of the common welfare – or when required for the prosecution of criminal or regulatory violations, the enforcement or execution of penalties or sanctions in accordance with § 11 Paragraph 1 No. 8 of the criminal code, correctional actions in accordance with juvenile law, or enforcement of civil penalties.
+
+Koch Media employs appropriate measures to prevent the sharing of user personal data, including user account data, with third parties, except under the following conditions:
+
+(1) To recoup costs associated with use of service.
+
+(2) To generate statistics for academic or marketing research on an anonymous basis
+
+(3) For the enforcement of certain guidelines of applicable laws and regulations, which expressly authorize such sharing, or to comply with judicial decrees that mandate such sharing.
+
+(4) Upon catastrophic events, emergencies, or other acts of nature that are beyond the control of Koch Media.
+
+Anyone may access (view) contributions placed in the discussion forum. You should ensure, before publishing, that your contributions do not contain information that is not appropriate for public viewing. You should be aware that your contributions may be accessed by search engines and accessible worldwide without specifically targeting our portal. Deleting or correcting such entries is frequently not possible with foreign operators.
+
+**Non-liability for online partner services**
+
+We remind you that in various technical areas we work with external partners who also offer Internet sites and services accessible from our sites. These partners generally have their own data protection guidelines. We assume no responsibility or liability for such declarations or activities that take place at other sites.
+
+**Right of withdrawal**
+
+You may delete data that you have entrusted with us at any time. Please send an e-mail requesting deletion of your account data to l.zhang(at)kochmedia.com. We remind you that the remonstrance of certain data for certain periods of time is stipulated by commercial and taxation laws. These data may only be deleted following legally stipulated time periods.
+
+**Modification of the Privacy Policy**
+
+Koch Media reserves the right to modify the Privacy Policy at any time in accordance with applicable privacy policies. Such modifications may take place without express, written notice to users. Current regulations may be reviewed any time here at www.deepsilver.com. Please visit this page frequently.
+
+**Questions and comments**
+
+For questions, concerns, or comments on the topic of data protection, please contact Koch Media GmbH data protection representative Liang Zhang at l.zhang(at)kochmedia.com.
