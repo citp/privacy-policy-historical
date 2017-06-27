@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
 
 # Mail2World Privacy Policy
 
   
-**[Conduct Policy](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/spam.asp)**
+**[Conduct Policy](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/spam.asp)**
 
-**[Fraud Policy](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/fraud.asp)**
+**[Fraud Policy](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/fraud.asp)**
 
-**[Privacy Policy](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp)**
+**[Privacy Policy](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp)**
 
-**[Terms of Service](https://web.archive.org/web/20161204093259id_/http%3A//www.mail2world.com/s/m2wpublic/policies/tos.asp)**
+**[Terms of Service](https://web.archive.org/web/20170627101020id_/http%3A//www.mail2world.com/s/m2wpublic/policies/tos.asp)**
 
 **[COPPA](http://www.cdt.org/legislation/105th/privacy/coppa.html)**
 
