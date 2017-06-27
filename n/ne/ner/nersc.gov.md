@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nersc.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230091626id_/http%3A//www.lbl.gov/Disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nersc.gov privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175057id_/http%3A//www.lbl.gov/Disclaimers.html) for the most accurate reproduction.*
 
 # Disclaimers
 
@@ -38,7 +38,7 @@ Berkeley Lab utilizes web measurement technology provided by Google Analytics. T
 
 The information that is collected is only retained for as long as is needed for proper analysis and optimization of our websites, is not used to identify or track specific individuals, and is accessible only to Berkeley Lab employees whose position necessitates it.
 
-You can prevent your information from being collected and used by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). Berkeley Lab does not endorse and makes no representation about the effectiveness of the Google Analytics Opt-out Browser Add-on. Opting-out in no way affects your access to content or how you see our websites.
+You can prevent your information from being collected and used by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). Berkeley Lab does not endorse and makes no representation about the effectiveness of the Google Analytics Opt-out Browser Add-on. Opting-out in no way affects your access to content or how you see our websites.
 
 ## **Copyright**
 
@@ -52,7 +52,7 @@ If you assert ownership over any materials found on LBL websites or systems and 
 
 When you contribute materials to LBL, for instance, by posting to a publicly accessible mailing list or by adding material to a wiki, you grant the University of California an irrevocable license to display and modify the content. 
 
-##  Disclaimer 
+##  **Disclaimer**
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights. 
 
@@ -65,5 +65,17 @@ Berkeley Lab web pages link to many other websites.  Such links do not constitu
 ##  **Accessibility**
 
 The University of California and Lawrence Berkeley National Laboratory endeavor to make information available to all interested parties.  We attempt to maintain the primary LBL website, and other sources of information intended for the general public, in a manner that meets generally agreed upon accessibility criteria.  Other information, such as bulk data and automatically generated content, may not always be accessible using existing assistive technology.  If you encounter information which you cannot access with assistive technology, please contact us at help at lbl.gov and we will work with you to see if such information can be provided in an appropriate way. 
+
+## **Open Source Software at the Lab**
+
+Berkeley Lab is managed by The Regents of the University of California (“The Regents”) under a contract between U.S. Department of Energy (“DOE”) and The Regents. By virtue of the University of California’s (“UC”) systemwide intellectual property policies as well as delegations of authority starting from The Regents to the UC President (e.g., The Regents’ Standing Order 100.4), Berkeley Lab is authorized to grant licenses or transfer its rights in intellectual property (“IP”) owned by The Regents, but only to the extent that such IP rights are within the control and jurisdiction of Berkeley Lab and subject to DOE regulations. 
+
+Therefore, Berkeley Lab may not grant licenses or otherwise encumber any patents, copyrights, or trademarks created at and under the control and jurisdiction of another UC campus (and vice-versa), without the other campus’s consent. A license grant of IP rights beyond the delegated authority violates UC’s policies and standing orders, and is considered by UC to be invalid and unenforceable.
+
+The specific limited delegated authority granted to UC locations for IP matters means that Berkeley Lab can bind only itself regarding IP licenses, including open source software (“OSS”) licenses. Some OSS licenses – notably [General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) and [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) – contain a patent license requiring each contributor to software licensed under such OSS licenses to provide a royalty-free, irrevocable license to others for any relevant patent claims owned or controlled by the contributor. Such licenses are usually intended to bind the legal entity whose employees are contributing to or publicly distributing the OSS project. Because the legal entity for Berkeley Lab may be considered The Regents, absent the limited delegated authority for patents, the possible effect of Berkeley Lab entering into such patent-granting OSS licenses might be that all relevant patents owned by The Regents (not just those within control of Berkeley Lab) would be encumbered. To this point, The Regents considers such licenses as voidable and/or unenforceable to the extent the license requires a particular campus or unit of The Regents to agree to a covenant beyond the scope of that campus’s or unit’s delegated authority. In other words, the official with appropriate delegated authority at Berkeley Lab can agree to an “open” patent license for only any relevant patents within Berkeley Lab’s jurisdiction, but not for any other patents owned or controlled by The Regents. 
+
+It is, therefore, important to involve the appropriate official with delegated authority at Berkeley Lab before entering into OSS licenses for IP owned by The Regents and under the control and jurisdiction of Berkeley Lab. At Berkeley Lab, that official is the Chief Technology Transfer Officer, currently Elsie Quaite-Randall who leads the[ Innovation and Partnerships Office](http://ipo.lbl.gov/) (IPO). Any IP created at Berkeley Lab or by Berkeley Lab employees is likely owned by The Regents and must be formally reported to IPO before the technology is distributed or licensed to anyone outside of Berkeley Lab, even if it is to be distributed for free or via an OSS license. Among other things, the purposes of such reporting are to ensure that, prior to distribution: (1) Berkeley Lab has the appropriate rights and authority to license or otherwise distribute the software; (2) the OSS license is appropriate for the software and its contemplated distribution; and (3) Berkeley Lab is in compliance with its DOE requirements. 
+
+For questions about this notice, please contact Berkeley Lab’s IPO: [ipo@lbl.gov](mailto:ipo@lbl.gov). 
 
 *Similarly situated systems include all systems in the lbl.gov, nersc.gov, es.net, jgi.doe.gov, lbnl.us, and berkeleylab.org domain spaces and in those accompanying IP spaces.  This policy also applies to LBL owned assets whether or not they are on LBL networks. 
