@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medreporters24.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827225417id_/http%3A//www.medreporters24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medreporters24.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627042249id_/http%3A//medreporters24.com/privacy-policy) for the most accurate reproduction.*
 
 # MedicReporter - medical information portal devoted to health
 
