@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226232418id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202253id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Classic Rummy Privacy Policy
 
@@ -79,4 +79,4 @@ If You send Us an e-mail or give any feed back to ClassicRummy through the Websi
 
 
 
-[](http://bit.ly/2bzNJO6) [](http://bit.ly/1SygM5F)
+[](http://bit.ly/2p8wKZc) [](http://bit.ly/1SygM5F)
