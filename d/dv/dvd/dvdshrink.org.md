@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdshrink.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219015515id_/http%3A//www.dvdshrink.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdshrink.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627054834id_/http%3A//www.dvdshrink.org/privacy.php) for the most accurate reproduction.*
 
 # None
 
