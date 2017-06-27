@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110022629id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628000653id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | because I said I would.
 
@@ -40,7 +40,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 After a transaction, your private financial information (credit cards, social security numbers, specific payments, etc.) will not be stored on our servers.
 
 **When you share your promise, story or comment**  
-**When you share a promise card, personal story or comment on another story, you are consenting to publication of materials which may include personally identifiable or other private information.     Additional terms for Share Your Story are found [here](https://web.archive.org/yourpromisestory/).**
+ **When you share a promise card, personal story or comment on another story, you are consenting to publication of materials which may include personally identifiable or other private information.     Additional terms for Share Your Story are found [here](https://web.archive.org/yourpromisestory/).**
 
 **Do** **we use cookies?**  
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
@@ -64,9 +64,7 @@ We may share your personally identifiable information with third parties only:
 **Except as specified above, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information**.  
 We may share your non-personally identifiable information with third parties only:
 
-Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses,
-
-to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses, to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -87,8 +85,7 @@ You may opt-out of having your personal information collected or used by contact
 **Reviewing and Updating Your Personal Information**  
 You may request via e-mail or regular mail that we provide you with the personal information we have concerning you.  Once you receive this information, you may request that we modify or remove any of your personal information.  We reserve the right to verify your identity before sending you this information, and to securely retain information for law enforcement purposes.
 
-**Your Consent**
-
+**Your Consent**  
 By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**  
