@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyomg.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025055940id_/http%3A//www.sexyomg.com/%3Fqa%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyomg.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015845id_/http%3A//sexyomg.com/%3Fqa%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sexyomg.com
 
