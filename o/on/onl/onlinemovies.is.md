@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemovies.is privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227191604id_/http%3A//onlinemovies.is/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemovies.is privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627170041id_/http%3A//onlinemovies.is/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineMovies.IS - Watch Movies Online Free Full HD
 
