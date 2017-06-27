@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circa.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217005154id_/http%3A//circa.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circa.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627220032id_/http%3A//circa.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Circa News - Learn. Think. Do.
 
