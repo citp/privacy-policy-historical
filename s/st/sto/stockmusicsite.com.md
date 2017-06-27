@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126094349id_/https%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627140548id_/https%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
