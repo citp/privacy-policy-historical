@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229124622id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627200615id_/https%3A//8tracks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 if (window.console && typeof(window.console.log) == 'function') {
@@ -47,7 +47,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   
 
-  <link rel="stylesheet" media="screen" href="//dmuuhinfkryqs.cloudfront.net/assets/application-a0ee4d8c373377ba387d4081cb2795a47cf72f560b56e27e86838f3a2ac79eb8.css">
+  <link rel="stylesheet" media="screen" href="//8tracks.com/assets/application-d4a10e32097fa296b0385b2a2f8849f2f19ddb92932d041eb1c39d90912688d3.css">
 
   
 
@@ -71,7 +71,8 @@ if (window.console && typeof(window.console.log) == 'function') {
 //<![CDATA[
     PAGE = {}; // used for legacy code
 
-    PAGE.experimentVariations = [{"experiment":"home_segmented","variation":"control","state":"excluded"},{"experiment":"listening_quota","variation":"control","state":"excluded"},{"experiment":"button_colors","variation":"control","state":"excluded"}];
+    PAGE.experimentVariations = [{"experiment":"free_mix","variation":"control","state":"excluded"},{"experiment":"button_colors","variation":"control","state":"excluded"},{"experiment":"ftux_ios","variation":"control","state":"excluded"},{"experiment":"home_segmented_v2","variation":"control","state":"excluded"},{"experiment":"home_first_time","variation":"control","state":"excluded"},{"experiment":"ftux_ios_no_context","variation":"control","state":"excluded"},{"experiment":"listening_quota","variation":"control","state":"excluded"},{"experiment":"header_plus_button","variation":"control","state":"excluded"}];
+    PAGE.cloudflare_request = false;
 
     SOUNDCLOUD_CLIENT_ID = '3904229f42df3999df223f6ebf39a8fe';
     GOOGLE_CLIENT_ID = '745447711784.apps.googleusercontent.com';
@@ -93,7 +94,7 @@ if (window.console && typeof(window.console.log) == 'function') {
       views       : {},
       currentPage : 'other',
       env         : 'production',
-      subdomain   : '',
+      cookieDomain: '.8tracks.com',
       isMobileWeb : false
     };
 
@@ -148,10 +149,14 @@ if (window.console && typeof(window.console.log) == 'function') {
       }
     }
 
-    if (src.match(/images\.8tracks\.com/) && window.location.protocol == 'https:') {
-      src = src.replace('http://images.8tracks.com', 'https://d2ykdu8745rm9t.cloudfront.net');
+    if (src.match(/images\.8tracks\.com/)){
+      if (PAGE.cloudflare_request && window.location.protocol == 'https:'){
+        src = src.replace('http://images.8tracks.com', 'https://images.8tracks.com');
+      } else { //temporary hack for bad DNS on images.8tracks.com
+        src = src.replace('https://images.8tracks.com', 'https://d2ykdu8745rm9t.cloudfront.net');
+      }
     }
-
+    
     var os = (onload ? ' onload="' + onload + '"' : '');
     return '<img src="' + src + '" class="' + class_attr + '" alt="' + name + '"' + os + '/>';
   };
@@ -211,7 +216,10 @@ if (window.console && typeof(window.console.log) == 'function') {
                       '.a_b_test_initially_not_displayed { display: none; }' +
                     '</style>');
   }
+</script><style id="initial_a_b_test_styles" type="text/css">.a_b_test_initially_hidden { visibility: hidden; }.a_b_test_initially_not_displayed { display: none; }</style>
 
+
+<script type="text/javascript">
   // these init calls are conditionally duplicated in Events.js 
   // for ease of use on embeds and mobile web
   var ga_profile_id = "UA-2865123-1";
@@ -222,11 +230,12 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   ga('create', ga_profile_id, ga_defaults);
   ga('require', 'displayfeatures');
+  ga('require', 'ec'); //load enhanced ecommerce tracking
   window.ga_initialized = true;
   
  
 //]]>
-</script><style id="initial_a_b_test_styles" type="text/css">.a_b_test_initially_hidden { visibility: hidden; }.a_b_test_initially_not_displayed { display: none; }</style>
+</script>
 
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
@@ -234,7 +243,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 
 
 
-<script src="//dmuuhinfkryqs.cloudfront.net/assets/libs-267faa9026761a4f07c65117ecb73feab55d04cf4ada1225071137b30e9493b7.js"></script>
+<script src="//8tracks.com/assets/libs-1813f132016dee6e7cf4e15b58494c7ee12423ce425b0e16a45f01208774116c.js"></script>
 <script>
   // Defines the configuration options, these must be set before you load
   // the plusone.js file.
@@ -258,7 +267,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 <script src="//apis.google.com/js/client:plusone.js?onload=firstGooglePlusLoad"></script> 
 
 
-<script src="//dmuuhinfkryqs.cloudfront.net/assets/require-2b643d8302eb2bdcb7f8ecd60fe50b70f5400029d4a5543cfc515d0a3d9f968a.js"></script><script>require.config({"baseUrl":"/assets","paths":{"global_trax":"//dmuuhinfkryqs.cloudfront.net/assets/global_trax-010863e3e67b1a6ad41840d860ae33814dc7ccb0a9d3cb33fcf8a46e9486dd7c","initializer":"//dmuuhinfkryqs.cloudfront.net/assets/initializer-f4be3be2e97410f2e60abfdabc4f9256d558b80220572b20636a18ee674e77ce","html5_player_v4":"//dmuuhinfkryqs.cloudfront.net/assets/html5_player_v4-deb2f8d1cddd278cff5a90b2b8e3c76f79f3df706bead9cd147086c837fa4796","pages/favorite_tracks":"//dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-e4c55c9d3841570e6c55a3f730cacdf60b03f0c3bb91b2e79ed58548a592facf","pages/reviews":"//dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-c0be5388260d1163dfe6066e8457991a6ddc06acf3cc87812764f81c57713263","pages/follows_users":"//dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-745777a86da3791c0ddd56e98ca2582032713bd36f36785c086cc69d1370457f","pages/home_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_feed-eaeebc10604d655f82239deb9a07776fd51f1bc57fdb4464d429cef6b5bf057c","pages/mixes_index":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-2dec7f18f95b708df236f7a98aad91526d9168c721f20f62a99e709ac70eac1a","pages/mixes_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-c67b56f6a393a244d49e3818f0a53e7a96cfc7830f070a3c27fefa7a8effb73e","pages/mixes_stats":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-935a8c1d82cbf61af27c74a6bc36c7edd348d7a910c4faa1f4868d5d9ed3e849","pages/collection_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-55da2eafbce8330baaa510f7f0fc1d5092d7377c886acabbc7635c43687ad6c4","pages/users_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-8da3baec4c206770db9cc5d78673131da3686728a67df9c5c3e21f4815d6ca6c","pages/users_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-ecb6a63672864a4a9412e4cf43f7420d138856d3a80fcce0101368286817ecbd","pages/iphone":"//dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-1b9cfbdeb82705f63f4dd3dc67a7895d791f0709a08dd6d9c17d296782ec20d8","pages/android":"//dmuuhinfkryqs.cloudfront.net/assets/pages/android-67d3f25d62d1ae2b1b8acf8c8e2e345cf70c0f95c49cfe439290d6bf184a8e22","pages/track":"//dmuuhinfkryqs.cloudfront.net/assets/pages/track-27498027da40114bd132e3fb3e8be894d924840743e3005ff8c6d1719617ae8e","pages/player":"//dmuuhinfkryqs.cloudfront.net/assets/pages/player-5df91e4df2f3620f176b0149c7d36c940fe551e2abbbccfde95eeb567bac4ea7","pages/news_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-6d946f1f61a50802f85f423ece23a9d81287b4d979b69fb4a3bc7923c370b7f2","pages/notifications":"//dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-4f2aff11d93200cdba1719eb20b1fb6a4b2dc0ad570334a1595014a2e9214fae","pages/search_results":"//dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-a4be6334107543e06fc66bf972a1533bfcaf53f39ac87bb7ed1b6b1082b65c78","pages/mobile_tips":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-cf1429dfda55bb57bec10d0dfbfacc61e53cc468b9a4763feaf68be6ebf4a42e","pages/mix_set_debug":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-ea8171795a9601f77903f4e5e9f8e712bbfca1ad9fe9cdb5423212c62536afa0","views/blog_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/blog_view-dfd0174150ede2111427f9fed6fe8c2e76733e20d1a05038e9ce1241e4d34866","views/moderator_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-9669b0ea6bd2cc7749128cacfdaf1cbc98145fb3a0ac4d8b2aa32c1bbe6375cc","views/mix_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-dae0b6e1e722bdba373d62197f51332c15923979157b9e51238c2d46a536483f","views/embed_mix_lightbox_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-7b18cd30e55a97f8ae3aff080839bc7a6f85ab4a57f4888234420a7cd107ee8c","views/signup_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-ac88f5bfdfae6ca828512387b158fad9f6b774cc1a4db8282a1b27d3c815d142","views/basic_upload_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-29128d764251a240c853ecb8fce5bfbf74d8f110edecf1082db3023a3cf3fe11","views/google_plus_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-d5ceacb587739d905b7bb4b247093111ff380d7fb9556ac0d7fa8a5ffbcbcc8e","views/mix_recommend_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-17fe5ca1f2bf6312848dad31da9ec61c70cb45b13fc731c34a85c679c9153f63","views/preroll_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-32bf49d5dd63455d22315f4cb31da86090c950243a59395e368c0aef609cba6b","views/autocomplete_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-1ceb61a6117d5e22244fbf62c31b2875ec77dd8223560824115f4a095e521f06","views/mix_stats_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-909af1d61617ce8dec987e7929398ac6a46f3580a3ac167a81d6a072037104bd","views/8888_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-1886364c9efd503fbe56f94e708b359f4f9b9f00ec9873653b28e152c0e3dd95","views/carousel_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/carousel_view-aacf99f4cbfd5c800639f3d82b2e6db724772e78b09aa0f4c7680040c83428f6","views/onboarding_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/onboarding_view-7e0b271fb1efbc2e19b70194a2ef36a566c5aecc116071fa3f4c13765f949b4f","views/post_signup_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/post_signup_view-1c5f9ccd52853917b6ab2744bfc11529fb58ab5703e7ef597e7c2785e4151756","views/dashboard_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/dashboard_view-84372e6d81b86f0bb0e5ad08a91861ed930be394e53ffd9964e223b4bd8de954","views/blog_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/blog_edit_view-d6101a6e919f7609acaa5479b54dd14bcf0dea7340684696374ea3beafe9dd75","views/subscription_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/subscription_view-eec71f21cc68c399404220c0c6833287d151c2b3e22c8ffee488087b6c974ce6","views/quota_interruption_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/quota_interruption_view-165d5288e4d6ca039f08978ebc5c574b023bfd69a6d6097731fb4dd4c45d71af","views/admin/users_admin_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-3ec70be7a868b69ef4fe2b2d558e4259d656800e08431eebfcb4f1a6f182a869","views/admin/admin_tag_searches_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-00a1a58af991729a715d8c3eb1fdc51b9cfb08ac55aeb063d42e28ba2121ae28","views/admin/admin_tag_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-efef47f995a4646713c1f26d3ad0eefca41994b08c20c1df1fee15a4a2dfd998","views/admin/explore_filters_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-b929d83af3e21670f6ff7fa4558c0a24ae9719b96cca58d1cbee61f87b93f198","views/admin/admin_identified_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-8c378c4829fc9e73d4d86c2f0536c88dfe60df787b94d50002d3e5ea3c8513e4","views/admin/reviews_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-159f30de3c3e05c8a7de5fa45226835a860ef0d69e1be67ac7cf5f3d67b9e28f","views/admin/translations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-d3b1e58ffd7f902db6b4f20e492da276ab4db33c90ef0ced221f17823792fca3","views/admin/faq_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-130314319c3882d2e91a2038b2f83b53ad5b46d7a6e55aa9617799630cc3400a","views/admin/reports_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-c5b616f7c3c31351a9451164ddb5f22661f2a5559adbf17a6903cd98237d30ba","views/admin/orders_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-f3acbd0c65fe28cf83ba5fda5e2593df6239b1c6dd215b432620fa5d845988d7","views/admin/page_optimizations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-cd5163d188ef3dff2152ea6d08781682ee7e5720c3ba6b828f624fcd8bac5977","views/admin/soundcloud_identifier_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-576af24be04fe3d13d1fff6d0100c64ed1ed4089ccd6b33cb83ee24069211ba0","views/admin/manual_track_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/manual_track_mappings_view-36426f0206b441cce8d57f74e28063ea9737a3cf55ec7c902c6e24af07f784f8","views/admin/swapped_soundcloud_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/swapped_soundcloud_tracks_view-1c65fe8ca9cec742a17cb9a3f055ef4326afeb8eaf105b9dc14b9973402552f9","views/admin/admin_genre_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_genre_view-36c0b4313218033a23cacf7b7dde1883b3562a075c8bd8f3862850207c47e68f","views/nsfw_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-316a95510cbe6cc5902d11851c2893d789b724dd5c19d3cdf73ba040efc99e93","views/faq_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-5b1f44d44eca2d03cd12d5d7dc491aa99d8e4895599049238aee243e05cccd0d","views/troubleshoot_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-45680d54489555681b68bd18333c9f337edda52a551de067d436ae3a21696eb9","views/next_mix_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-ed5453d569082f1c18bc23590fd0b52096eb893de2c0bb22b92fef13721261d0","views/checkout_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-7e93c0ea36ca2b158b1feedc4c795dcc6b5dcd6d4077425e8b72a0fda8284520","views/fb_player_iframe_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-30be2aab511a9dcb25432cdafcc062114087cf2fb6318c82b60da3d7c04d07a5","ima":"https://imasdk.googleapis.com/js/sdkloader/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60});</script>
+<script src="//8tracks.com/assets/require-2b643d8302eb2bdcb7f8ecd60fe50b70f5400029d4a5543cfc515d0a3d9f968a.js"></script><script>require.config({"baseUrl":"/assets","paths":{"global_trax":"//8tracks.com/assets/global_trax-539d7e57dbe3e0692ffedec3fe11ee1e9f62a067c064fab823b93d86594302b3","initializer":"//8tracks.com/assets/initializer-30665faf780589d3a95659214141aad69ff2f2f2c835450a97742e5372f49ee4","html5_player_v4":"//8tracks.com/assets/html5_player_v4-401fbfab8ee18c75da226e82128013f8defa5cc321b2d2639b6c12c2df608b69","pages/favorite_tracks":"//8tracks.com/assets/pages/favorite_tracks-be1d4c8dc0fba66fedf9daacc4bbcaca3c551bb58ed011c4efa5098ca77698f4","pages/reviews":"//8tracks.com/assets/pages/reviews-527f43e7729e292a61fe0400a0311345d7cf3f85484c88501f0d2054b38944b3","pages/follows_users":"//8tracks.com/assets/pages/follows_users-3a12339f79f88267147adbf1151b9ac1cac49a3b5c2eade4198609e22138aa88","pages/home_feed":"//8tracks.com/assets/pages/home_feed-c82b16934da7da24df9f66abddadf706e2e355ebb93cab257e0d5930efdf6c4c","pages/mixes_index":"//8tracks.com/assets/pages/mixes_index-1ef6c3b2a571ae968cdde7612457615b39d93f394b022d85dbfdd09d0451c2f7","pages/mixes_show":"//8tracks.com/assets/pages/mixes_show-95b877b758eb234898464193d8d3f997c2a2253e22da582533fbc26d47dc93ef","pages/mixes_stats":"//8tracks.com/assets/pages/mixes_stats-fb9a76295245f6844a039a8325188ffca636f5e3e8c515b67b70bf0d36e1ab9a","pages/collection_edit":"//8tracks.com/assets/pages/collection_edit-7480502e331d7de7b8e584795423a4ce952efc9acf40710304f114507796f30d","pages/users_edit":"//8tracks.com/assets/pages/users_edit-f970cbbfb7f2649b2e5a84673382c14baf079ac29e49b15ca6fff753b0646a44","pages/users_show":"//8tracks.com/assets/pages/users_show-b73abb32157e09e0ac6ca66705aaea3ff335b87fb92fd9429995485651538f3a","pages/iphone":"//8tracks.com/assets/pages/iphone-512419e639ef3245651a2d6a78d44ebf41d88c8d687fc3e19c3e58ef889fe2d6","pages/android":"//8tracks.com/assets/pages/android-cbf7e9a52608921772a11499b29ec6918e6d092cc404b2880c0309aea25068c3","pages/track":"//8tracks.com/assets/pages/track-c0a41dd061c126f8d8f305be036d39c03a0d548ea45b0ebba93f86e8c3517476","pages/player":"//8tracks.com/assets/pages/player-dea2cf3d1f95448434bfa21b5e9d1e907713fe48ebf491a02987092c7205a5a4","pages/news_feed":"//8tracks.com/assets/pages/news_feed-f529bcef65923917d28bbb16d1af336e0d83fc2cfb83ce0f53098114b777c855","pages/notifications":"//8tracks.com/assets/pages/notifications-b3841291b969b7869d1d7748962b85a37d2c45d89d59907802665330ddc2e2d7","pages/search_results":"//8tracks.com/assets/pages/search_results-704f5ce584544864d7ad53597e044f242a6fbedf8be59475f5e596bc5c504fc6","pages/mobile_tips":"//8tracks.com/assets/pages/mobile_tips-530997c2f8134e1e5b7882cf07ead22798643bad613696d7d64ccd44994594d1","pages/mix_set_debug":"//8tracks.com/assets/pages/mix_set_debug-e628c23796e3ee5f843bddc0c460e3a8d45995537119a4ed4aae9c9e7c0f8bbd","views/blog_view":"//8tracks.com/assets/views/blog_view-0ffee0f234d904a9af2ead69b676d8a93181c6d0901099a7bd095577531c5e18","views/moderator_view":"//8tracks.com/assets/views/moderator_view-c48f442ecc7184f90e3675cdbc8409cc64607ec9bde51b9da5902092d1e9a2f4","views/mix_edit_view":"//8tracks.com/assets/views/mix_edit_view-ed7ea3ed4a229767349cdd08d209133eebe562fe024d922f9d10bbadbf8531ed","views/mix_set_view":"//8tracks.com/assets/views/mix_set_view-e20025e0fa7608f2e64522bb8ec413f50338f305f34a74585052488b6e926a6a","views/embed_mix_lightbox_view":"//8tracks.com/assets/views/embed_mix_lightbox_view-dd1579c4dc93cd599eb2e7b1e16765d5de2258c5255e108f286db3a16bea59d9","views/signup_view":"//8tracks.com/assets/views/signup_view-adab439bfad1640992c2a9979044e32f918816c55bd38634779aa548a6170ee1","views/basic_upload_view":"//8tracks.com/assets/views/basic_upload_view-66d50a87a9dcc17ce38459283d2dd552c2b23f95fc80bad2c265e4f0efc50607","views/google_plus_view":"//8tracks.com/assets/views/google_plus_view-a543a0c09b8f0680b23559bf4bbdbed3f2d5a8ff6ca27e2b3b0fe078dab6cad2","views/mix_recommend_view":"//8tracks.com/assets/views/mix_recommend_view-5aae1b2704d349f9c4450aabd19fae7d63993a8e3035b9572036f9f39704b8f5","views/preroll_view":"//8tracks.com/assets/views/preroll_view-f56e44cc7beb3acd2ca883f66db083d39afb8a33b684b7506d39c817adb6c23d","views/autocomplete_view":"//8tracks.com/assets/views/autocomplete_view-dd6ce3f845e279fbc9be62eec2f815792930852f83ac36912be2266f1efaec8c","views/mix_stats_view":"//8tracks.com/assets/views/mix_stats_view-93ecc4193e161458a215653ef465f442b25dc65d416afad2c1f988cf8adf2b94","views/8888_view":"//8tracks.com/assets/views/8888_view-67a21fcd03750073dd9249a47ebe05f52e86fc0f57dd9813adcfe0befdc7233b","views/carousel_view":"//8tracks.com/assets/views/carousel_view-2fb4968433f07470f31fda97930e1a0ecb36ada2aef3779b234db155dc08a384","views/onboarding_view":"//8tracks.com/assets/views/onboarding_view-28d7468501d5d65687ff539389ffcc6391c9d22a9358e9e6950a952bfe2d46a5","views/dashboard_view":"//8tracks.com/assets/views/dashboard_view-ff8bdc2e3f97e5ce40b6e5621d2d86630d4e0979b79815b5462e12876ca637fa","views/home_first_time_view":"//8tracks.com/assets/views/home_first_time_view-50b7d9dc9d76b46aba8201e16712e810b96fa93854d4e9ce440ea125a848abaa","views/blog_edit_view":"//8tracks.com/assets/views/blog_edit_view-4e039b112692fd332de520b920f835cf8fc5be9eb71e67b85facb2e5ea4d513f","views/subscription_view":"//8tracks.com/assets/views/subscription_view-02d1448dece7abc73c1e02baddbec30006912c7bd39bb96c6934139131f77681","views/quota_interruption_view":"//8tracks.com/assets/views/quota_interruption_view-9d8cab54ca852ec294b4ca79508c3b4add3bc9a4b9e5f190019797e27c653a59","views/admin/users_admin_view":"//8tracks.com/assets/views/admin/users_admin_view-5b51defc22b44214d4e0972d39b870fff94959cd2ff6694d5f94ce7148689744","views/admin/admin_tag_searches_view":"//8tracks.com/assets/views/admin/admin_tag_searches_view-2c4a27e86bd42a3bd0b3d72641b4d391187a397b19974428f40be41e37991ce6","views/admin/admin_tag_mappings_view":"//8tracks.com/assets/views/admin/admin_tag_mappings_view-96bb1441645caa33f469c6bc001c28def4bf938c51ac2c8a81d7d04805d9f420","views/admin/explore_filters_view":"//8tracks.com/assets/views/admin/explore_filters_view-e337d9ae33220db931854e6fff628f4dd29e067c2cdcc6f110e631b9e44682ff","views/admin/admin_identified_tracks_view":"//8tracks.com/assets/views/admin/admin_identified_tracks_view-dd86de4937bbeed2774405c66a8a533fcd53a12620ecd01536dca468234df9db","views/admin/reviews_view":"//8tracks.com/assets/views/admin/reviews_view-0a78a74bb5a8d597d07344000792b2fd2784bea3d2dd65c48f15b1e6e4f28dde","views/admin/translations_view":"//8tracks.com/assets/views/admin/translations_view-83e76eedc66da711e5b2de50a44942a74938221fdcde90d098d0f91270052749","views/admin/faq_edit_view":"//8tracks.com/assets/views/admin/faq_edit_view-668cc770b7052803e7571300960009ac976b56d11eac0d4abea19947c7132152","views/admin/reports_view":"//8tracks.com/assets/views/admin/reports_view-f2d0644d77a30835ec93560164d713bb09c094cedad840a674d0806c1f474b1f","views/admin/orders_view":"//8tracks.com/assets/views/admin/orders_view-45e5dc423b51d1df3e31422c18404543d8941f409daad9fb579924e9679b1711","views/admin/page_optimizations_view":"//8tracks.com/assets/views/admin/page_optimizations_view-f478f757df7384122c2212433bb200c218678b9bd932d45a57fccbd431d936eb","views/admin/soundcloud_identifier_view":"//8tracks.com/assets/views/admin/soundcloud_identifier_view-82858d715e7b108510254ebf654f82cf78c547aa8ac2466bce5de9c11d9cf264","views/admin/manual_track_mappings_view":"//8tracks.com/assets/views/admin/manual_track_mappings_view-48d9a99a8085c41364afe41c7b9db525bbbe23de7ef81669190f25fd3c34f9f0","views/admin/swapped_soundcloud_tracks_view":"//8tracks.com/assets/views/admin/swapped_soundcloud_tracks_view-17dc31e21bab886c2f1aa8b5b7de48f289ca19e7e39b3ebda2385c099946078c","views/admin/admin_genre_view":"//8tracks.com/assets/views/admin/admin_genre_view-17bab014a045d020d33e97b7a5e152b87ec4267f1b9382223204d69168997fc9","views/nsfw_view":"//8tracks.com/assets/views/nsfw_view-43a2cd1738c9e2814ae7878ea6a8537b02780be4f87947cd18c7746b523d2a2b","views/faq_view":"//8tracks.com/assets/views/faq_view-b293db65a6b8be73b89b60e2da682399a06de242bdc2fe329ac84438b466766c","views/troubleshoot_view":"//8tracks.com/assets/views/troubleshoot_view-1f70f5ecd46e107bd55f64ff51ba0338e441014b22e64fb2d9d833feff9433fb","views/next_mix_view":"//8tracks.com/assets/views/next_mix_view-f2f4036296c3138f65e9852fe2b1b1817d50342b11a14ca1c5f5170640d30581","views/checkout_view":"//8tracks.com/assets/views/checkout_view-8ba4a37faf285da494e45687ab2160f80675b412fa51470a1db9cb4449886d5b","views/fb_player_iframe_view":"//8tracks.com/assets/views/fb_player_iframe_view-498a47c817259f459ee501476e1e8b015a2a90f126f5409aae6d09075559226b","ima":"https://imasdk.googleapis.com/js/sdkloader/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60});</script>
 
  
 
@@ -266,140 +275,105 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   <!-- thin search header -->
   <div id="header_placeholder">
-  <header id="thin_header" class="sticky " style="top: 0px;">
+  <header id="thin_header" class="sticky sticky" style="top: 0px;">
     <div id="loading-stripe" style="display: none;"><div id="loadingbar" style="width: 0%;"><dd></dd><dt></dt></div></div>
 
     <div id="header_content">
       <div class="container">
       <div class="row">
-        <div id="header_left" class="col-xs-4 col-sm-7 col-md-6 col-lg-7 col-xl-8">
+       <div id="site_header" <div="" class="col-xs-1 col-sm-3 col-md-3 col-lg-3 col-xl-3">
           <a href="/" title="8tracks | Refreshingly human playlists." rel="home" class="home-link default icon-link" id="logo">
-            <span class="i-logo not_scrolling"></span>
-            <span class="i-logotype scrolling"></span>
+            <span class="i-logotype hidden-xs"></span>
+            <span class="i-logo hidden-sm hidden-md hidden-lg hidden-xl"></span>
           </a>
 
           <div id="loading" style="display: none;"><div class="loader"></div></div>
-          <div id="search" class="searchbox header_item ">
+        </div>
+
+
+        <div id="header_middle" class="col-xs-7 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+          <div id="search" class="searchbox header_item">
+            <a href="#" id="search_button" class="icon-link nav_item"><span class="i i-search"></span></a>
+
             <form accept-charset="UTF-8" action="/search" class="search" method="get">
               <div class="search_wrapper">
-                <input autocomplete="off" class="text q" id="q" name="q" placeholder="What kind of music do you want to hear?" type="text">
+                <input autocomplete="off" class="text q" id="q" name="q" placeholder="Artist, genre, activity or mood" type="text">
               </div>
 
               <span class="i i-x search_clear"></span>
-              <span class="i i-search search_icon"></span>
+              <!--span class="i i-search search_icon"></span-->
 
               <input type="submit" value=" " style="visibility: hidden; position: absolute;">
             </form>
 
             <div class="autocomplete"></div>
 
-            <a href="#" id="search_button" class="icon-link"><span class="i i-search"></span></a>
+            <a href="/explore" id="explore_button_mini" class="hidden-sm hidden-md hidden-lg hidden-xl" title="Explore">
+              <span class="i-explore-large"></span>
+            </a>
 
-            <a href="/explore" id="explore_button" class="icon-link"><span class="i-explore-large"></span> <span class="text">Explore</span></a>
+            <a href="/explore" id="explore_button" class="hidden-xs button_blue" title="Explore">
+              <span class="i-search"></span>
+            </a>
           </div>
 
           <div class="visible_when_scrolled scrolling">
             <h5 class="title hidden-xs">
             </h5>
           </div>
-
         </div>
 
-        <div id="header_middle" class="col-xs-4 col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
-
-        <div id="header_right" class="col-xs-4 col-sm-4 col-md-5 col-lg-4 col-xl-3">
+        <div id="header_right" class="col-xs-4 col-sm-3 col-md-3 col-lg-3 col-xl-3">
           <div id="auth_nav">
-            <a href="https://8tracks.com/login" class="hidden-xs login nav_item">Log in</a>
-<a href="https://8tracks.com/signup" class="hidden-xs signup nav_item" id="signup_link">Sign up</a>
-<a href="#" class="hidden-xl hidden-lg hidden-md hidden-sm nav_item bullets show_footer" id="menu_link"><span class="bullet">•••</span></a>
+            <a href="#" class="nav_item bullets toggleDropdown" id="menu_link" data-dropdown-id="footer"><span class="bullet">•••</span></a>
+<a href="https://8tracks.com/signup" class="hidden-xs signup nav_item button_blue flatbutton" id="signup_link">Sign up</a>
+<a href="https://8tracks.com/login" class="hidden-xs hidden-sm login nav_item">Log in</a>
+
           </div>
           <nav id="header_nav">
-            <span>
-              <a href="/apps" class="nav_item hidden-xs hidden-sm">Apps</a>
-              <!--a href="#" class="nav_item show_footer">About</a-->
-              <a href="#" class="nav_item show_footer" id="menu_link">
-                <span class="hidden-xs hidden-sm">About</span>
-              </a>
-            </span>
           </nav>
-        </div>
 
+          <footer id="footer" class="dropdown">
 
-      </div><!--.row -->
-    </div><!--.container-->
-  </div><!--#header_content-->
-
-  <div class="flash_container">
-    
-  </div>
-
-  <footer id="footer">
-	
-
-	<div id="tagline" class="">
-		<div class="row hidden-md hidden-lg p p_logged_out on clearfix" id="footer_login">
-  		<div class="col-xs-12" style="text-align: center;">
-        <a href="#" class="turquoise_button flatbutton login" onclick="App.Trax.showLoginView(); return false;">Log in</a>
-        <a href="#" class="turquoise_button flatbutton signup" id="signup_link" onclick="App.Trax.showSignupView(); return false;">Sign up</a>
-  		</div>
-
+	<div>
+		<div class="hidden-sm hidden-md hidden-lg hidden-xl p p_logged_out">
+			<a class="menu-item signup" href="/signup">Sign up</a>
+			<a class="menu-item login" href="/login">Log In</a>
 			<hr>
-  	</div>
+		</div>
 
-		<!--Listen to handcrafted internet radio. Share your own playlist online.
-		&copy;8tracks Inc. 2016
 
-		<div id="quote">
-			<a rel="nofollow" href="https://www.youtube.com/watch?v=lDnJ1kAgNMY" target="_blank">the way you used to look at me</a>
-		</div>-->
-	</div>
+		<a class="menu-item hidden-subscribed" href="/plus"><strong class="text_red">Get 8tracks plus</strong></a>
+		<a class="menu-item" href="/apps"> <strong>Apps</strong></a>
+		<a class="menu-item" href="/about"><strong>About</strong></a>
+		<a class="menu-item" href="/team"> <strong>Team</strong></a>
+		<a class="menu-item" href="/help"> <strong>Help</strong></a>
+		
+		<!--hr /-->
 
-	<div class="container clearfix toes">
-	 <div class="row">
-			<ul class="col-xs-6 col-md-3">
-			<li class="label">Company</li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/team">Team</a></li>
-			<li><a href="/advertising">Advertising</a></li>
-			<li><a href="/jobs">Jobs</a></li>
-			<li><a href="/articles">Articles</a></li>
-		</ul>
+		<span class="p p_admin off"><a class="menu-item" href="/settings/1">[Admin]</a></span>
 
-		<ul class="col-xs-6 col-md-3">
-			<li class="label">Extras</li>
-			<li><a href="/help">Help</a></li>
-			<li><a href="/media">Media</a></li>
-			<li><a href="/plus">8tracks plus</a></li>
-			<li><a href="/tags">Tag map</a></li>
-			<li class="p p_admin off"><a href="/settings/1">[Admin]</a></li>
-		</ul>
+		<!--hr /-->
+		
+		<!--a class="menu-item" href="/jobs">Jobs</a-->
+		<!--a class="menu-item" href="/articles">Articles</a-->
+		<!--a class="menu-item" href="/media">Media</a-->
+		<!--a class="menu-item" href="/tags">Tag map</a-->
 
-		<ul class="col-xs-6 col-md-3">
-			<li class="label">Legal</li>
-			<li><a href="/licensing">Licensing</a></li>
-			<li><a href="/copyright">Copyright</a></li>
-			<li><a href="/terms">Terms</a></li>
-			<li><a href="/privacy">Privacy</a></li>
-		</ul>
-		<ul class="col-xs-6 col-md-3">
-			<li class="label">Social</li>
-			<li><a href="http://blog.8tracks.com/">Blog</a></li>
-			<li><a href="http://facebook.com/8tracks" title="Like us on FB" target="_blank">Facebook</a></li>
-			<li><a href="http://twitter.com/8tracks" title="Follow @8tracks" target="_blank">Twitter</a></li>
-			<!--li><a href="https://plus.google.com/117113324186866439402" title="+1 us on Google" target="_blank" rel="publisher">Google plus</a></li-->
-			<li><a href="http://8tracks.tumblr.com/" title="Reblog us on Tumblr" target="_blank">Tumblr</a></li>
-			<li><a href="http://instagram.com/8tracks" title="Follow us on Instagram" target="_blank">Instagram</a></li>
-		</ul>
-	 </div>
+		<a class="menu-item optional" href="/advertising">Advertising</a>
+		<a class="menu-item optional" href="/licensing">Licensing</a>
+		<a class="menu-item optional" href="/copyright">Copyright</a>
+		<a class="menu-item optional" href="/terms">Terms</a>
+		<a class="menu-item optional" href="/privacy">Privacy</a>
 	</div>
 
 	<div class="topfooter container clearfix">
 
-	 <div class="row">
+	 <div class="clear">
 	 	<hr>
 	 	
-		<div id="safe_browse_container" class="disabled col-xs-3 col-sm-3">
-			<div id="safe_browse" class="icon-link">
+		<div id="safe_browse_container" class="disabled tooltip_container">
+			<div id="safe_browse" class="menu-item">
 				<span class="i-flag"></span>
 				Safe browse: <strong><span class="enabled">On</span><span class="disabled">Off</span></strong>
 			</div>
@@ -409,31 +383,42 @@ if (window.console && typeof(window.console.log) == 'function') {
 			</div>
 		</div>
 
-		<div class="facebook_like hidden-xs hidden-sm col-md-3">
-			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F8tracks&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=132228608291" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-			<div class="g-plusone" data-size="medium" data-href="http://8tracks.com/"></div>
-		</div>
+		<!--div class="facebook_like hidden-xs hidden-sm col-md-3">
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F8tracks&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=132228608291" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+			<div class="g-plusone" data-size="medium" data-href="http://8tracks.com/" ></div>
+		</div-->
 
-		<div class="hidden-lg col-xs-3"></div>
-		<div class="col-xs-6 hidden-international">
-			<a class="apple_appstore" rel="external" title="iPhone app" target="_blank" href="https://bnc.lt/8tracks-ios"></a>
-			<a class="android_appstore" rel="external" title="Get our Android app on Google Play" target="_blank" href="https://bnc.lt/8tracks-android"></a>
-			<a class="windows_appstore" rel="external" title="Available on the Windows Store" target="_blank" href="https://bnc.lt/8tracks-windows"></a>
-		</div>
+		<!--div class="hidden-lg col-xs-3"></div-->
+		<!--div class="col-xs-6 hidden-international">
+
+		</div-->
 
 	</div>
 
-	<div class="row clear">
+	<hr class="clear">
+
+	<a class="menu-item logout_link p_logged_in" href="/logout" id="logout_link">
+    <span class="i-x"></span>
+    Log out
+  </a>
+
+	<!--div class="clear">
 		<p style="font-size: 11px;">
-		<br>
+		<br />
 		*Disclaimer: 8tracks, Inc. (the “Company”) is offering securities through the use of an Offering Statement that has been qualified by the Securities and Exchange Commission under Tier II of Regulation A. A copy of the Final Offering Circular that forms a part of the Offering Statement may be obtained from https://www.seedinvest.com/8tracks/series.a/filing. This Company’s profile and accompanying offering materials may contain forward-looking statements and information relating to, among other things, the Company, its business plan and strategy, and its industry. These statements reflect management’s current views with respect to future events based information currently available and are subject to risks and uncertainties that could cause the Company’s actual results to differ materially. Investors are cautioned not to place undue reliance on these forward-looking statements as they are meant for illustrative purposes and they do not represent guarantees of future results, levels of activity, performance, or achievements, all of which cannot be made. Moreover, no person nor any other person or entity assumes responsibility for the accuracy and completeness of forward-looking statements, and is under no duty to update any such statements to conform them to actual results.
 		</p>
-	</div>
+	</div-->
 
-	</div>
+</div></footer>
+        </div>
+       </div>
+      </div><!--.row -->
+    </div><!--.container-->
+  </header></div><!--#header_content-->
 
-
-	</footer></header></div><!--.wrapper -->
+  <div class="flash_container" style="height: 0px;">
+    <div class="container clearfix"><div class="row"><div class="col-md-12"><a href="#" onclick="$(this).parents('.flash_container').slideUp(); return false;" class="close" title="Hide warning"><span class="i-x"></span></a> </div></div></div>
+  </div>
 
   <!-- thin_header -->
   
