@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020412id_/http%3A//info.viamichelin.co.uk/web/privacy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215408id_/http%3A//info.viamichelin.co.uk/web/privacy-0) for the most accurate reproduction.*
 
 # Privacy | ViaMichelin
 
