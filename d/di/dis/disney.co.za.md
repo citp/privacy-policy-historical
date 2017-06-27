@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.co.za privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201233132id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.co.za privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627210207id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
 # Privacy Policy - Disney Privacy Center
 
@@ -8,7 +8,7 @@ Our privacy policy is designed to provide transparency into our privacy practice
 
 ## **Privacy Policy**
 
-Last Modified: October 18, 2016
+Last Modified: January 31, 2017
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -43,8 +43,8 @@ We collect two basic types of information – personal information and anonym
 
 #### 2\. How We Collect Your Information
 
-  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](https://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising") for further information, including Do Not Track and how to disable cookies.
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us using one or more devices. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms using one or more devices. Please visit [Online Tracking and Advertising](https://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising") for further information, including Do Not Track and how to disable cookies.
   * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
 
@@ -55,7 +55,7 @@ A member of The Walt Disney Family of Companies, which includes many differen
 
   * Provide you with the products and services you request
   * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
-  * Consistent with local law and choices and controls that may be available to you: 
+  * Consistent with local law and choices and controls that may be available to you we may use information collected from you, or from devices associated with you, to: 
     * Send you offers and promotions for our products and services or third-party products and services
     * Personalize content and experiences
     * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](https://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising").
