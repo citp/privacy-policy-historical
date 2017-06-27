@@ -1,20 +1,23 @@
-<!--The following is the downloaded HTML source of the rapidonline.com privacy policy that was archived on 2016-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620133338id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidonline.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627110449id_/https%3A//www.rapidonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb"><head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta charset="UTF-8">
-    <title>Rapid Electronics Privacy &amp; Cookie Policy | Rapid Online</title>
+    <title>Privacy and Cookies Policy | Rapid Online</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link href="/css/1css?v=6cGlctkh9u_8ip0y8rBBzrs6ho7sjypV_0yrf9JSjjY1" rel="stylesheet">
-
-            <link rel="canonical" href="http://www.rapidonline.com/privacy">
-
-
-        <meta name="description" content="Read Rapid's privacy and cookie policy. Learn how to disable cookies and unsubscribe from promotional emails.">
-    </head>
+    <link rel="stylesheet" href="/css/bundle/main/1.min.css?v=4.2.0.0">
+    
+    
+        <meta name="description" content="Privacy and Cookies Policy for Rapid Electronics.">
+        <script type="text/javascript">
+        var _pageModel = {};
+        _pageModel._ra = {};
+    </script>
+</head>
 <body>
     <noscript>
-        <div class="no-javascript">Javascript is currently disabled in your browser, please <a href="http://www.enable-javascript.com/" target="_blank">turn it on</a> to avoid loss of functionality.</div>
+        <div class="no-javascript">Javascript is currently disabled in your browser, please <a href="https://www.whatismybrowser.com/guides/how-to-enable-javascript/" target="_blank">turn it on</a> to avoid loss of functionality.</div>
     </noscript>
     <div id="cookieErrorMessageDiv"></div>
     
@@ -47,7 +50,7 @@
                     </div>
                 </div>
                 <div class="FloatRight">
-                    <i class="fa fa-phone fa-lg"></i>&nbsp;+44 (0)1206 751166&nbsp;&nbsp;<a onclick="OpenHelpPopUp();" id="_lpChatBtn"><i class="fa fa-comments fa-lg"></i>&nbsp;Chat to an Online Advisor</a>
+                    <i class="fa fa-phone fa-lg"></i>&nbsp;+44 (0)1206 751166&nbsp;&nbsp;<div class="onlineAdvisorDiv" id="LP_DIV_1454567619698"></div>
                 </div>
                 <div></div>
             </div>
@@ -57,50 +60,43 @@
             </div>
             <div class="Header">
                 <div>
-                    
                     <div id="logo-hold">
                         <a class="rapidlogo" href="/" title="homepage"></a>
                     </div>
-                    
-                    <div class="suggestWrapper no-print">
-                        <form>
-                            <input type="text" name="query" id="FFSearchBox_query" autocomplete="off" onkeyup="handleKeyPress(event,this);" onmousedown="handleKeyPress(event,this);" onkeydown="return checkTab(event);" onfocus="showLayer();" onblur="hideLayer();" placeholder="Search Elec, Electrical and MRO range..."><select onchange="DropDownIndexssChanged();" class="ffSelect" id="FFSearchBox_SelectSearchScope"><option value="1">Elec &amp; MRO</option><option value="0">All Products</option></select><button onclick="SearchBtnClick();return false;" type="submit"><i class="fa fa-search fa-lg"></i></button><div id="suggestLayer"></div>
-                        </form>
+                    <div id="suggestions" class="suggestWrapper no-print">                        
+                        <input v-model="searchText" type="text" name="query" id="FFSearchBox_query" autocomplete="off" v-on:keyup.13="search" v-on:blur="blur();" v-on:keyup="checkSuggestions" v-on:mousedown="checkSuggestions" v-on:focus="checkSuggestions" placeholder="Search"><select onchange="searchDropDownIndexChanged(this.value);" class="ffSelect" id="SelectSearchScope"><option value="1">Elec &amp; MRO</option><option value="0">All Products</option></select><button v-on:click="search" type="submit"><i class="fa fa-search fa-lg"></i></button>
+                        <search-suggestions v-cloak="" v-if="showSuggestLayer == true"></search-suggestions>
                     </div>
-                    
-                    <div class="LoginSelect">
-                        <div>
-                            <ul class="newdropdownContents">
-                                <li>
-                                        <span id="welcomeText"><a href="/MyAccount/SignIn"><i class="fa fa-sign-in fa-lg"></i>&nbsp;Sign In</a> / <a href="/MyAccount/Register"> Register</a></span>
-                                </li>
-                            </ul>
-                        </div>
+                    <div id="_HeaderLoginWidget" class="LoginSelect">
+                        
+<div>
+        <ul class="newdropdownContents">
+            <li>
+                    <span id="welcomeText"><a href="/MyAccount/SignIn"><i class="fa fa-sign-in fa-lg"></i>&nbsp;Sign In</a> / <a href="/MyAccount/Register"> Register</a></span>
+            </li>
+        </ul>
+    </div>
                     </div>
-                    
                     <div id="baskethold" class="baskethold">
                         <div>
                             <div>
                                 <a href="/Checkout/Basket" class="basketLink">
                                     <div class="trolley"></div>
-                                    <div id="cartWidget"><div id="cartEmpty" class="cart-empty"><span class="FloatRight">Your Basket is Empty</span></div>
+                                    <div id="_HeaderBasketWidget">
+    <div id="cartEmpty" class="cart-empty">
+        <span class="FloatRight">Your Basket is Empty</span>
+    </div>
 </div>
                                 </a>
-                                <div class="currencyFlags">
-                                    <div>
-                                        <form action="/Home/ChangeCurrency" method="post">
-                                            <button type="submit" name="button" class="icon_ukflag" value="GBP"></button>
-                                            <button type="submit" name="button" class="icon_usflag" value="USD"></button>
-                                            <button type="submit" name="button" class="icon_euflag" value="EUR"></button>
+                                <div>
+                                    <span class="currencyLink" onclick="LoadPopupControl('Change Currency', ' #currencyFlags');">Currency: GBP </span>
+                                    <div class="vatCheckBox">
+                                        <form action="/Home/ChangeVat" method="post">
+                                            <label>
+                                                <input type="checkbox" onchange="this.form.submit();">Inc Vat
+                                            </label>
                                         </form>
                                     </div>
-                                </div>
-                                <div class="vatCheckBox">
-                                    <form action="/Home/ChangeVat" method="post">
-                                        <label>
-                                            <input type="checkbox" onchange="this.form.submit();">Inc Vat
-                                        </label>
-                                    </form>
                                 </div>
                                 <div id="newBasketProd"></div>
                             </div>
@@ -108,368 +104,473 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="navhold no-print">
-                <div id="navContent">
-<div id="navElectronic-Components"><div class="defaultElectronic-Components"><a href="/electronic-components"><span>Electronic Components</span></a></div></div><div id="navElectrical-Power"><div class="defaultElectrical-Power"><a href="/electrical-power"><span>Electrical &amp; Power</span></a></div></div><div id="navCables-Connectors"><div class="defaultCables-Connectors"><a href="/cables-connectors"><span>Cables &amp; Connectors</span></a></div></div><div id="navTest-Measurement"><div class="defaultTest-Measurement"><a href="/test-measurement"><span>Test &amp; Measurement</span></a></div></div><div id="navTools-Equipment"><div class="defaultTools-Equipment"><a href="/tools-equipment"><span>Tools &amp; Equipment</span></a></div></div><div id="navMechanical-Fastenings-Fixings"><div class="defaultMechanical-Fastenings-Fixings"><a href="/mechanical-fastenings-fixings"><span>Mechanical, Fastenings &amp; Fixings</span></a></div></div><div id="navAudio-Visual"><div class="defaultAudio-Visual"><a href="/audio-visual"><span>Audio Visual</span></a></div></div><div id="navFacilities"><div class="defaultFacilities"><a href="/facilities"><span>Facilities</span></a></div></div><div id="navOffice-IT"><div class="defaultOffice-IT"><a href="/office-it"><span>Office &amp; IT</span></a></div></div>
-                </div>
+            <div class="promise">
+                <a href="/our-promise">&nbsp;</a>
             </div>
-            <div id="divGrey" class="sub-navigation no-print"><div id="sub-nav-wrapper">
-<ul id="subNavigation">
-    <li><a href="/NewProducts">New Products</a></li>
-    <li><a href="/SpecialOffers">Special Offers</a></li>
-    <li><a href="/Clearance">Clearance</a></li>
-    <li><a href="/Brands">Brands</a></li>
-    <li><a href="/Publications">Publications</a></li>
-    <li><a href="/Quotation">Quotations</a></li>
-    <li><a href="/Contact">Contact Us</a></li>
-</ul>
-</div>
-<!--<div id="sub-nav-wrapper" style="width: 100%; height: 30px; background-image: none; background-attachment: scroll; background-color: red; color: white; background-position: 0% 0%; background-repeat: repeat repeat; text-align: center;">
-<p style="color: white; font-size: 14px; line-height: 30px;"><strong>Please call 0844 2490941 to place orders.</strong></p>
-</div>
-<div style="clear: both;"></div>--></div>
+            <nav class="navBar">
+                <div class="TierMenu-wrapper">
+                    <a href="/Catalogue/AllProducts" id="MainNav-trigger" class="verticalMenu-trigger" onclick="toggleNav(this); return false;">C A T E G O R I E S</a>
+                    <nav id="MainNav" class="verticalMenu">
+                        <ul>
+                                        <li class="hassub vmElectronic-Components" onmouseenter="NavMenuMouseEnter(this, 30005);" onmouseleave="NavMenuMouseLeave(this);"><a href="/electronic-components">Electronic Components</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmElectrical-Power" onmouseenter="NavMenuMouseEnter(this, 30004);" onmouseleave="NavMenuMouseLeave(this);"><a href="/electrical-power">Electrical &amp; Power</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmCables-Connectors" onmouseenter="NavMenuMouseEnter(this, 30002);" onmouseleave="NavMenuMouseLeave(this);"><a href="/cables-connectors">Cables &amp; Connectors</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmTest-Measurement" onmouseenter="NavMenuMouseEnter(this, 30009);" onmouseleave="NavMenuMouseLeave(this);"><a href="/test-measurement">Test &amp; Measurement</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmTools-Equipment" onmouseenter="NavMenuMouseEnter(this, 30010);" onmouseleave="NavMenuMouseLeave(this);"><a href="/tools-equipment">Tools &amp; Equipment</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmMechanical-Fastenings-Fixings" onmouseenter="NavMenuMouseEnter(this, 30007);" onmouseleave="NavMenuMouseLeave(this);"><a href="/mechanical-fastenings-fixings">Mechanical, Fastenings &amp; Fixings</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmAudio-Visual" onmouseenter="NavMenuMouseEnter(this, 30001);" onmouseleave="NavMenuMouseLeave(this);"><a href="/audio-visual">Audio Visual</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmFacilities" onmouseenter="NavMenuMouseEnter(this, 30006);" onmouseleave="NavMenuMouseLeave(this);"><a href="/facilities">Facilities</a><div class="innerMenu"></div></li>
+                                        <li class="hassub vmOffice-IT" onmouseenter="NavMenuMouseEnter(this, 30008);" onmouseleave="NavMenuMouseLeave(this);"><a href="/office-it">Office &amp; IT</a><div class="innerMenu"></div></li>
+
+                        </ul>
+                    </nav>
+                </div>
+                    <ul class="topNav">
+                        <li><a href="/NewProducts">New Products</a></li>
+                        <li><a href="/SpecialOffers">Special Offers</a></li>
+                        <li><a href="/Clearance">Clearance</a></li>
+                        <li><a href="/Brands">Brands</a></li>
+                        <li><a href="/Exports">Export Orders</a></li>
+                        <li><a href="/MyAccount/Quotation">Quotation</a></li>
+                        <li><a href="/Contact">Contact Us</a></li>
+                    </ul>
+            </nav>
+            <div id="greyOverlay" onclick="toggleNavOff();"></div>
             <div class="fixedWidth">
-                
                 <div class="three-col-hold">
                     <div class="wide-main-cont-hold">
                         <div id="ErrorDisplay">
                             
                         </div>
                         
-    <link href="//static.rapidonline.com/style/RapidStyle.css" rel="stylesheet" type="text/css">
 
-<div id="grey-bar-def-line"></div>
+
+<div id="CMSContent">
+    <div id="left-column">
+        <div>
+            <a href="/personalised">
+    <img width="177" height="103" alt="Personalise your part numbers" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/banners/png/personalise-part-numbers.png">
+</a>
 <br>
-<div class="three-col-hold">
-    <div id="CMSContent">
-            <div id="left-column">
-                    <div><a href="/personalised"><img width="177" height="103" alt="Personalise your part numbers" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/banners/png/personalise-part-numbers.png"></a><br>
-<a href="/delivery"><img width="177" height="103" alt="Free Delivery on orders over £30" src="http://www.rapidonline.com/img/Banners/PNG/free-del.png"></a><br>
-<a href="/bulk"><img width="177" height="103" alt="Buying in bulk? Contact us for special rates" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/Banners/PNG/bulk-buying.png"></a><br>
-<a href="/topbrands"><img width="177" height="103" alt="View our key brands" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/banners/png/key-brands-side.png"></a><br>
-<a href="/publications"><img width="177" height="103" alt="View our recent publications" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/banners/png/publications.png"></a><br>
-<a href="/distribution"><img width="177" height="103" alt="Interested in becoming a distributor? Click here for more info" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/banners/png/distribution.png"></a><br>
-<a href="http://www.rapidonline.com/customer-profiles/"><img width="177" height="103" alt="We'd like to hear more about the products you buy from us" style="border-width: 0px; border-style: solid;" src="http://www.rapidonline.com/img/banners/png/tell-us-your-story.png"></a><br>
-<div> </div></div>
+<a href="/delivery">
+    <img width="177" height="103" alt="Free Delivery on orders over £30" src="//static.rapidonline.com/img/Banners/PNG/free-del.png">
+</a>
+<br>
+<a href="/bulkbuying">
+    <img width="177" height="103" alt="Buying in bulk? Contact us for special rates" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/Banners/PNG/bulk-buying.png">
+</a>
+<br>
+<a href="/topbrands">
+    <img width="177" height="103" alt="View our key brands" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/banners/png/key-brands-side.png">
+</a>
+<br>
+<a href="/publications">
+    <img width="177" height="103" alt="View our recent publications" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/banners/png/publications.png">
+</a>
+<br>
+<a href="/distribution">
+    <img width="177" height="103" alt="Interested in becoming a distributor? Click here for more info" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/banners/png/distribution.png">
+</a>
+<br>
+<a href="/customer-profiles">
+    <img width="177" height="103" alt="We'd like to hear more about the products you buy from us" style="border-width: 0px; border-style: solid;" src="//static.rapidonline.com/img/banners/png/tell-us-your-story.png">
+</a>
+<br>
+<div></div>
+        </div>
+    </div>
+    <div id="login-cont-hold">
+        <div>
+            <div id="breadcrumb-hold">You are in: <a href="/">Home</a> &gt; <a href="#"><strong>Privacy</strong></a></div>
+            <div class="page-tab-hold-grey">
+                <div class="page-tab-left-grey"></div>
+                <div class="page-tab-mid-grey">
+                    <h1 class="dark-h2">Privacy and Cookies Policy</h1>
+                </div>
+                <div class="page-tab-right-grey"></div>
             </div>
-        <div id="login-cont-hold">
-<div><div id="breadcrumb-hold">You are in: <a href="/">Home</a> &gt; <a href="#"><strong>Privacy</strong></a></div>
-<div class="page-tab-hold-grey">
-<div class="page-tab-left-grey"></div>
-<div class="page-tab-mid-grey">
-<h1 class="dark-h2">Privacy and Cookies Policy</h1>
-</div>
-<div class="page-tab-right-grey"></div>
-</div>
-<p class="lrg-blue-txt">Overview</p>
-<p>The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data.</p>
-<p>&nbsp;</p>
-<p>Rapid Electronics Limited is committed to ensuring that your privacy is protected and that it complies with its obligations under the Data Protection Act 1998.</p>
-<p>&nbsp;</p>
-<p>The Privacy and Cookies Policy explains how we will treat any personal information that you provide to us when you use this site. It also outlines how we use internet cookies and some of the security measures that we take in order to protect your privacy, as well as giving certain assurances on things we will not do.</p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">The information we collect and how we use it</p>
-<p>When you register on our website at www.rapidonline.com, we collect information about you and your organisation such as company name, address, job title, e-mail address and phone number.</p>
-<p>&nbsp;</p>
-<p>We gather this information to allow us to process your registration and efficiently administer transactions and deliveries, as well as using it to develop and improve our services.</p>
-<p>&nbsp;</p>
-<p>We may use aggregated information for the purposes of tracking the usage of our services and in order to help us develop and improve the website and such services. We may pass this information to third parties. The aggregated information and statistics will not, however, include details that can be used to identify you.</p>
-<p>&nbsp;</p>
-<p>We may have received personal information about you from other companies and organisations (for example, marketing purposes) and we rely on these third parties to obtain your consent for us to use this information.</p>
-<p>&nbsp;</p>
-<p>We will only send marketing material or advertise the products and services of the company by email to subscribers whose contact details the company has obtained either in the course of a transaction or registration. All subscribers will be offered a means of opting out of such communications at the time their details were initially collected and each subsequent communication. </p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Cookies</p>
-<p>&nbsp;</p>
-<p>
-We use a number of different cookies on our website.
-</p>
-<p>&nbsp;</p>
-<p>A cookie is a text file that tracks our users' navigation of the site and stores that information on the hard drives of their PC, mobile phone or other web-connected device. There is nothing malicious about the use of cookies - in fact they are essential for websites to operate efficiently and to the best expectations of their users.</p>
-<p>&nbsp;</p>
-<p>Cookies allow us to understand our visitors' habits and preferences, enabling Rapid Electronics to customise its web services and provide an enhanced user experience. The use of cookies is standard in many industries and you will find them in use on most major websites. We may, for example, use cookies to store registration information so that you do not have to provide it to use on subsequent visits.</p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Cookies on Rapidonline</p>
-<p class="lrg-blue-txt">&nbsp;</p>
-<table border="0" cellspacing="5" cellpadding="5" style="padding: 10px;">
-    <tbody>
-        <tr>
-            <td valign="top" colspan="2">
-            <p><strong>Strictly Necessary Cookies</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-            <ul>
-                <li>BasketId </li>
-                <li>BasketSessionId</li>
-                <li>UserId</li>
-                <li>ASP.NET_SessionId</li>
-            </ul>
-            </td>
-            <td valign="top">
-            <p>These cookies are essential to enable you to move around    our website and use its features, such as adding products to your basket, or    logging into your account securely.&nbsp; Without these cookies, our website    cannot work properly.</p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" colspan="2">
+            <p class="lrg-blue-txt"><strong>Overview</strong></p><p>&nbsp;</p>
+            <p>The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data.</p>
             <p>&nbsp;</p>
-            <p><strong>Functionality Cookies</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-            <ul>
-                <li>Currency</li>
-                <li>loginEmail</li>
-                <li>loginPassword</li>
-                <li>vat<strong></strong></li>
-            </ul>
-            </td>
-            <td valign="top">
-            <p>These cookies allow us to remember the choices you make    and your personalised features such as what currency you choose to view the    site in, your VAT preferences, and your login and password if you choose to    save them.</p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" colspan="2">
+            <p>Rapid Electronics Limited is committed to ensuring that your privacy is protected and that it complies with its obligations under the Data Protection Act 1998.</p>
             <p>&nbsp;</p>
-            <p><strong>Performance Cookies</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-            <ul>
-                <li>_utma</li>
-                <li>_utmb</li>
-                <li>_utmc</li>
-                <li>_utmv</li>
-                <li>_utmz</li>
-            </ul>
-            </td>
-            <td valign="top">
-            <p>These cookies from Google Analytics collect information    about how you use our websites, for instance, which pages you go to most    often and if you get error messages from those pages. &nbsp;We only use these    cookies to improve how our websites work.&nbsp; <a href="http://www.google.com/analytics/learn/privacy.html" target="_blank">Click here for    an overview of the Google privacy policy</a></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" colspan="2">
+            <p>The Privacy and Cookies Policy explains how we will treat any personal information that you provide to us when you use this site. It also outlines how we use internet cookies and some of the security measures that we take in order to protect your privacy, as well as giving certain assurances on things we will not do.</p>
             <p>&nbsp;</p>
-            <p><strong>Advertising or Tracking Cookies</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
+            <p class="lrg-blue-txt"><strong>The information we collect and how we use it</strong></p><p>&nbsp;</p>
+            <p>When you register on our website at www.rapidonline.com, we collect information about you and your organisation such as company name, address, job title, e-mail address and phone number.</p>
+            <p>&nbsp;</p>
+            <p>We gather this information to allow us to process your registration and efficiently administer transactions and deliveries, as well as using it to develop and improve our services.</p>
+            <p>&nbsp;</p>
+            <p>We may use aggregated information for the purposes of tracking the usage of our services and in order to help us develop and improve the website and such services. We may pass this information to third parties. The aggregated information and statistics will not, however, include details that can be used to identify you.</p>
+            <p>&nbsp;</p>
+            <p>We may have received personal information about you from other companies and organisations (for example, marketing purposes) and we rely on these third parties to obtain your consent for us to use this information.</p>
+            <p>&nbsp;</p>
+            <p>We will only send marketing material or advertise the products and services of the company by email to subscribers whose contact details the company has obtained either in the course of a transaction or registration. All subscribers will be offered a means of opting out of such communications at the time their details were initially collected and each subsequent communication. </p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Cookies</strong></p>
+            <p>&nbsp;</p>
+            <p>
+                We use a number of different cookies on our website.
+            </p>
+            <p>&nbsp;</p>
+            <p>A cookie is a text file that tracks our users' navigation of the site and stores that information on the hard drives of their PC, mobile phone or other web-connected device. There is nothing malicious about the use of cookies - in fact they are essential for websites to operate efficiently and to the best expectations of their users.</p>
+            <p>&nbsp;</p>
+            <p>Cookies allow us to understand our visitors' habits and preferences, enabling Rapid Electronics to customise its web services and provide an enhanced user experience. The use of cookies is standard in many industries and you will find them in use on most major websites. We may, for example, use cookies to store registration information so that you do not have to provide it to use on subsequent visits.</p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Cookies on Rapidonline</strong></p>
+            <p class="lrg-blue-txt">&nbsp;</p>
+            <table border="0" cellspacing="5" cellpadding="5" style="padding: 10px;">
+                <tbody>
+                    <tr>
+                        <td valign="top" colspan="2">
+                            <p><strong>Strictly Necessary Cookies</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top">
+                            <ul>
+                                <li>BasketId </li>
+                                <li>BasketSessionId</li>
+                                <li>UserId</li>
+                                <li>ASP.NET_SessionId</li>
+                            </ul>
+                        </td>
+                        <td valign="top">
+                            <p>These cookies are essential to enable you to move around    our website and use its features, such as adding products to your basket, or    logging into your account securely.&nbsp; Without these cookies, our website    cannot work properly.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" colspan="2">
+                            <p>&nbsp;</p>
+                            <p><strong>Functionality Cookies</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top">
+                            <ul>
+                                <li>Currency</li>
+                                <li>loginEmail</li>
+                                <li>loginPassword</li>
+                                <li>vat<strong></strong></li>
+                            </ul>
+                        </td>
+                        <td valign="top">
+                            <p>These cookies allow us to remember the choices you make    and your personalised features such as what currency you choose to view the    site in, your VAT preferences, and your login and password if you choose to    save them.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" colspan="2">
+                            <p>&nbsp;</p>
+                            <p><strong>Performance Cookies</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top">
+                            <ul>
+                                <li>_utma</li>
+                                <li>_utmb</li>
+                                <li>_utmc</li>
+                                <li>_utmv</li>
+                                <li>_utmz</li>
+                            </ul>
+                        </td>
+                        <td valign="top">
+                            <p>These cookies from Google Analytics collect information    about how you use our websites, for instance, which pages you go to most    often and if you get error messages from those pages. &nbsp;We only use these    cookies to improve how our websites work.&nbsp; <a href="https://www.google.com/analytics/learn/privacy.html" target="_blank">Click here for    an overview of the Google privacy policy</a></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" colspan="2">
+                            <p>&nbsp;</p>
+                            <p><strong>Advertising or Tracking Cookies</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top">
+                            <ul>
+                                <li>_csoot</li>
+                                <li>_csuid</li>
+                                <li>__atuvc<strong></strong></li>
+                            </ul>
+                        </td>
+                        <td valign="top">
+                            <p>We do not accept advertising from any other organisation    on our website.&nbsp;We do however allow you to share our content via social    media and these cookies are used by AddThis, one of our technology partners,    to help track which of the social networking options you use.<strong></strong></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>&nbsp;</p>
+            <p>If you do not know what cookies are, or how to control or delete them, then we recommend you visit <a href="https://www.aboutcookies.org" target="_blank">https://www.aboutcookies.org</a> for detailed guidance.</p>
+            <p>&nbsp;</p>
+            <p>From 26 May 2012 website owners in the UK became required by law to inform their visitors of the cookies they use on their site and what purpose they have. They must also provide users with the necessary information and guidance in order to disable cookies. </p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Gaining your consent</strong></p>
+            <p>&nbsp;</p>
+            <p>How do you consent to the use of cookies? </p>
+            <p>&nbsp;</p>
+            <p>If you continue to use this site without changing your settings, we will take this to mean that you are giving your consent to the use of cookies on <a href="https://www.rapidonline.com" target="_blank">www.rapidonline.com</a>. This is in accordance with the most recent guidance by the Information Commissioner’s Office.</p>
+            <p>&nbsp;</p>
+            <p>If you choose not to allow cookies, you will do so on the understanding that certain parts of the site will not function correctly and we will have to ask you for your preferences every time you visit the site. </p>
+            <p>&nbsp;</p>
+            <p>The parts of the site with functionality that will be affected without the acceptance of cookies include the following:</p>
+            <p>&nbsp;</p>
             <ul>
-                <li>_csoot</li>
-                <li>_csuid</li>
-                <li>__atuvc<strong></strong></li>
+                <li>Contents of shopping baskets will be lost between sessions</li>
+                <li>Log-in details will not be stored</li>
+                <li>Currency and VAT preferences cannot be remembered between sessions</li>
             </ul>
-            </td>
-            <td valign="top">
-            <p>We do not accept advertising from any other organisation    on our website.&nbsp;We do however allow you to share our content via social    media and these cookies are used by AddThis, one of our technology partners,    to help track which of the social networking options you use.<strong></strong></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p>&nbsp;</p>
-<p>If you do not know what cookies are, or how to control or delete them, then we recommend you visit <a href="http://www.aboutcookies.org" target="_blank">http://www.aboutcookies.org</a> for detailed guidance.</p>
-<p>&nbsp;</p>
-<p>From 26 May 2012 website owners in the UK became required by law to inform their visitors of the cookies they use on their site and what purpose they have. They must also provide users with the necessary information and guidance in order to disable cookies. </p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Gaining your consent</p>
-<p>&nbsp;</p>
-<p>How do you consent to the use of cookies? </p>
-<p>&nbsp;</p>
-<p>If you continue to use this site without changing your settings, we will take this to mean that you are giving your consent to the use of cookies on <a href="http://www.rapidonline.com" target="_blank">www.rapidonline.com</a>. This is in accordance with the most recent guidance by the Information Commissioner’s Office.</p>
-<p>&nbsp;</p>
-<p>If you choose not to allow cookies, you will do so on the understanding that certain parts of the site will not function correctly and we will have to ask you for your preferences every time you visit the site. </p>
-<p>&nbsp;</p>
-<p>The parts of the site with functionality that will be affected without the acceptance of cookies include the following:</p>
-<p>&nbsp;</p>
-<ul>
-    <li>Contents of shopping baskets will be lost between sessions</li>
-    <li>Log-in details will not be stored</li>
-    <li>Currency and VAT preferences cannot be remembered between sessions</li>
-</ul>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">How do I disable cookies?</p>
-<p>&nbsp;</p>
-<p>Cookies can be disabled or removed from your computer using your browser settings. Please follow the instructions below to navigate to the settings on your browser in which you can disable cookies:</p>
-<p>&nbsp;</p>
-<p>Manage cookies in Internet Explorer<br>
-<a href="http://support.microsoft.com/kb/196955">http://support.microsoft.com/kb/196955</a></p>
-<p>&nbsp;</p>
-<p>Manage cookies Firefox<br>
-<a href="http://support.mozilla.org/en-US/kb/Enabling and disabling cookies">http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies</a></p>
-<p>&nbsp;</p>
-<p>Manage cookies in Google Chrome<br>
-<a href="http://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647">http://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647</a></p>
-<p>&nbsp;</p>
-<p>Managing cookies in Safari<br>
-<a href="http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html">http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html</a></p>
-<p>&nbsp;</p>
-<p>Manage cookies in Opera<br>
-<a href="http://www.opera.com/browser/tutorials/security/privacy/">http://www.opera.com/browser/tutorials/security/privacy/</a></p>
-<p>&nbsp;</p>
-<p>Manage cookies in Blackberry<br>
-<a href="http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp">http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp</a></p>
-<p>&nbsp;</p>
-<p>Manage cookies in mobile Google<br>
-<a href="http://support.google.com/mobile/bin/answer.py?hl=en&amp;answer=169022">http://support.google.com/mobile/bin/answer.py?hl=en&amp;answer=169022</a></p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Links to other websites</p>
-<p>This privacy policy only covers the activity and operation of www.rapidonline.com. Rapid Electronics Limited accepts no responsibility or liability for the third party websites we provide links to. We recommend that visitors consult the respective privacy policies of these websites. </p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Unsubscribing from promotional emails</p>
-<p>Customers who wish to stop receiving marketing email communications or amend their preferences can do so quickly and easily. All marketing emails include an 'Unsubscribe' and 'Update your preferences' link. Alternatively an email with the subject line of 'Unsubscribe' can be sent to <a href="mailto:feedback@rapidelec.co.uk">feedback@rapidelec.co.uk</a>. Your email address will be removed from all our mailing lists used for marketing purposes. Please note that emails relating to the status of orders or transactions will still be sent and received.</p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Payment card information</p>
-<p>Rapid Electronics conform to PCI (Payment Card Industry) Legislation regarding the protection of cardholders data and personal information. All transactions take place within a secure area of the website. Personal payment card information is not published in any form on the website and is not accessible to staff of Rapid Electronics.</p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">Changes to this privacy policy</p>
-<p>This privacy and cookie policy is reviewed regularly and any changes to it will be published on this page. The privacy policy was last updated on 10 May 2012. </p>
-<p>&nbsp;</p>
-<p class="lrg-blue-txt">How to contact us</p>
-<p>If you have any concerns or queries relating to your personal information, cookies or any aspect of our privacy policy, please write to us at the address below:</p>
-<p>&nbsp;</p>
-<p>Rapid Electronics Limited<br>
-Severalls Lane<br>
-Colchester<br>
-Essex<br>
-CO4 5JS</p></div>        </div>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>How do I disable cookies?</strong></p>
+            <p>&nbsp;</p>
+            <p>Cookies can be disabled or removed from your computer using your browser settings. Please follow the instructions below to navigate to the settings on your browser in which you can disable cookies:</p>
+            <p>&nbsp;</p>
+            <p>
+                Manage cookies in Internet Explorer<br>
+                <a href="https://support.microsoft.com/kb/196955">https://support.microsoft.com/kb/196955</a>
+            </p>
+            <p>&nbsp;</p>
+            <p>
+                Manage cookies Firefox<br>
+                <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a>
+            </p>
+            <p>&nbsp;</p>
+            <p>
+                Manage cookies in Google Chrome<br>
+                <a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en">https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en</a>
+            </p>
+            <p>&nbsp;</p>
+            <p>
+                Managing cookies in Safari<br>
+                <a href="https://support.apple.com/kb/ph19214?locale=en_GB">https://support.apple.com/kb/ph19214?locale=en_GB</a>
+            </p>
+            <p>&nbsp;</p>
+            <p>
+                Manage cookies in Opera<br>
+                <a href="https://www.opera.com/help/tutorials/security/privacy/">https://www.opera.com/help/tutorials/security/privacy/</a>
+            </p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Links to other websites</strong></p>
+            <p>This privacy policy only covers the activity and operation of www.rapidonline.com. Rapid Electronics Limited accepts no responsibility or liability for the third party websites we provide links to. We recommend that visitors consult the respective privacy policies of these websites. </p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Unsubscribing from promotional emails</strong></p>
+            <p>Customers who wish to stop receiving marketing email communications or amend their preferences can do so quickly and easily. All marketing emails include an 'Unsubscribe' and 'Update your preferences' link. Alternatively an email with the subject line of 'Unsubscribe' can be sent to <a href="mailto:feedback@rapidelec.co.uk">feedback@rapidelec.co.uk</a>. Your email address will be removed from all our mailing lists used for marketing purposes. Please note that emails relating to the status of orders or transactions will still be sent and received.</p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Payment card information</strong></p>
+            <p>Rapid Electronics conform to PCI (Payment Card Industry) Legislation regarding the protection of cardholders data and personal information. All transactions take place within a secure area of the website. Personal payment card information is not published in any form on the website and is not accessible to staff of Rapid Electronics.</p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>Changes to this privacy policy</strong></p>
+            <p>This privacy and cookie policy is reviewed regularly and any changes to it will be published on this page. The privacy policy was last updated on 10 May 2012. </p>
+            <p>&nbsp;</p>
+            <p class="lrg-blue-txt"><strong>How to contact us</strong></p>
+            <p>If you have any concerns or queries relating to your personal information, cookies or any aspect of our privacy policy, please write to us at the address below:</p>
+            <p>&nbsp;</p>
+            <p>
+                Rapid Electronics Limited<br>
+                Severalls Lane<br>
+                Colchester<br>
+                Essex<br>
+                CO4 5JS
+            </p>
+        </div>
     </div>
 </div>
-<br class="ClearBoth">
                     </div>
                 </div>
-                <br style="clear: both;">
+                <div style="background-color:white;">
+                    <br class="clear-both">
+                </div>
             </div>
-            <div id="footerAreaDiv" class="no-print"><div id="footer-hold">
-<div style="padding: 10px 10px 0px;">
-<div class="footerLinkBox">Delivery<br>
-<div style="padding-top: 7px;">
-<div class="delivery-van float-left iconSpacing" style="margin: 10px 5px 2px 2px;"></div>
-<p style="color: #dcdcdc; padding-top: 5px; font-size: 12px;">FREE UK
-mainland P&amp;P on all orders over £30 (excludes timed deliveries)
-</p>
-<br>
-<a href="//static.rapidonline.com/downloads/web-documents/BSI.pdf">
-<div class="BSI"></div>
-<span style="display: block; margin-left: 94px; font-size: 10px; color: #ffffff;">RS 33018</span>
-</a>
+            <div id="footerAreaDiv" class="no-print">
+                <div id="footer-hold">
+    <div style="padding: 10px 10px 0px;">
+        <div class="footerLinkBox">
+            Delivery<br>
+            <div style="padding-top: 7px;">
+                <div class="delivery-van float-left iconSpacing" style="margin: 10px 5px 2px 2px;"></div>
+                <p style="color: #dcdcdc; padding-top: 5px; font-size: 12px;">
+                    FREE UK
+                    mainland P&amp;P on all orders over £30 (excludes timed deliveries)
+                </p>
+                <br>
+                <a href="//static.rapidonline.com/downloads/web-documents/BSI.pdf">
+                    <div class="BSI"></div>
+                    <span style="display: block; margin-left: 94px; font-size: 10px; color: #ffffff;">RS 33018</span>
+                </a>
+            </div>
+        </div>
+        <div class="footerLinkBox">
+            Help<br>
+            <ul class="footerlinkList">
+                <li><a href="/help/delivery">Delivery Information</a></li>
+                <li><a href="/help">Help Centre</a></li>
+                <li>
+                    <a href="/open-business-account" class="footerlink">
+                        Open a Business
+                        Account
+                    </a>
+                </li>
+                <li><a href="/contact">Contact Us</a></li>
+                <li><a href="/help/export">Export Customers</a></li>
+                <li>
+                    <a onclick="javascript:window.open('/forms/newsletter.aspx','NewsletterSignUp','width=567,height=858')">
+                        Newsletter
+                        sign up
+                    </a>
+                </li>
+                <li><a href="/publications">Publications</a></li>
+                <li><a href="/distribution?source=hp-sbb">Distribution Opportunities</a></li>
+                <li><a href="/glossary">Glossary</a></li>
+                
+            </ul>
+        </div>
+        <div class="footerLinkBox">
+            Services<br>
+            <ul class="footerlinkList">
+                <li><a href="/Brands">Shop by Brand</a></li>
+                <li>
+                    <a href="/checkout/CutAndPasteOrder">
+                        Cut &amp; Paste
+                        Form
+                    </a>
+                </li>
+                <li><a href="/personalised">Personalised Order Codes</a></li>
+                <li><a href="/MyAccount/Quotation">Quotation Request</a></li>
+                <!--<li><a href="/Recommend" class="footerlink">Recommend a friend</a></li>-->
+                <li><a href="/topbrands">Top Brands</a></li>
+                <li><a href="/BulkBuying?source=hp-sbb">Bulk Buying</a></li>
+                <li><a href="/greenzone">Compliance Documents</a></li>
+                <li><a href="/electronicsnews">Rapid Electronics News</a></li>
+                <li><a href="/hammond/modifications">Hammond Modifications</a></li>
+                <!--<li><a href="/camdenboss/custom-enclosures">CamdenBoss Custom Design Enclosures</a></li>-->
+                <li><a href="/industry/food-manufacturing">Food Manufacturing</a></li>
+                <li><a href="/industry/heating-controls">Heating Controls</a></li>
+            </ul>
+        </div>
+        <div class="footerLinkBox">
+            Company<br>
+            <ul class="footerlinkList">
+                <li><a href="/about-rapid">About Rapid</a></li>
+                <li><a href="/careers">Careers</a></li>
+                <li><a href="/terms">Terms &amp; Conditions</a></li>
+                <li><a href="/privacy">Privacy &amp; Cookie Policy</a></li>
+                <li><a href="/corporate-social-responsibility">Social Responsibility</a></li>
+                <li><a href="/tradecounter">Trade Counter</a></li>
+                <li><a href="/customer-profiles">Customer profiles</a></li>
+                <li><a href="/sitemap">Site Map</a></li>
+                <li><a href="/education" class="footerlink">Education Home</a></li>
+                <li><a href="/homehobbies" class="footerlink">Home &amp; Hobbies Home</a></li>
+            </ul>
+        </div>
+        <div class="footerLinkBoxLast">
+            Contact Us<br>
+            <ul class="footerlinkList" style="color: #ffffff;">
+                <li>Email: <a href="mailto:sales@rapidonline.com" style="color: #ffffff; text-decoration: underline;">sales@rapidonline.com</a></li>
+                <li>Orderline: 01206 751166</li>
+                <li>Fax: 01206 751188</li>
+                <li>Mon - Fri: 8am - 7pm</li>
+                <li>Saturday: 9am - 5pm</li>
+                <li><span style="text-decoration: underline;">Trade Counter</span></li>
+                <li>Open: 7.30am - 6pm (Mon - Fri)</li>
+                <li>9am - 5pm (Sat)</li>
+            </ul>
+            <br>
+            <a href="https://www.facebook.com/rapidonline/" class="float-left" target="_blank">
+                <div class="facebook"></div>
+            </a>
+            <a href="https://twitter.com/Rapidonline" class="float-left" target="_blank">
+                <div class="twitter"></div>
+            </a>
+            <a class="float-left" target="_blank" href="https://www.instagram.com/rapidelectronics/">
+                <div class="instagram"></div>
+            </a>
+            <a href="https://www.youtube.com/user/rapidonline" class="float-left" target="_blank">
+                <div class="youtube"></div>
+            </a>
+            <a href="https://www.linkedin.com/company/rapid-electronics-ltd-" class="float-left" target="_blank">
+                <div class="linkedIn"></div>
+            </a>
+        </div>
+        <br style="clear: both;">
+    </div>
+    <div class="field-wrap">
+        <div class="signupTitle">
+            <span>Register for our Newsletter</span>
+        </div>
+        <input type="text" id="newsletterEmail" placeholder="Email Address" autocomplete="off">
+        <div id="submitEmail" onclick="window.open('/forms/newsletter.aspx?email=' + $('#newsletterEmail').val(), '_blank', 'width=567,height=450,scrollbars=yes');">Register</div>
+    </div>
+    <div class="thawte-secure float-right"></div>
+    <div class="payment-meth float-right"></div>
+    <div class="payment-paypal float-right"></div>
+    <div style="float: left; width: 510px; color: #ffffff; padding: 0px 0px 5px 10px;">
+        © Copyright
+        2016 Rapid Electronics Limited, Severalls Lane, Colchester, Essex, CO4 5JS <br>
+        Registered in England, Company Registration Number: 1509592 VAT no: GB 304175784<br>
+        <div class="conrad-footer"></div>
+    </div>
+    <br style="clear: both;">
 </div>
-</div>
-<div class="footerLinkBox">Help<br>
-<ul class="footerlinkList">
-    <li><a href="http://www.rapidonline.com/help/delivery">Delivery Information</a></li>
-    <li><a href="http://www.rapidonline.com/help">Help Centre</a></li>
-    <li><a href="http://www.rapidonline.com/open-business-account" class="footerlink">Open a Business
-    Account</a></li>
-    <li><a href="http://www.rapidonline.com/contact">Contact Us</a></li>
-    <li><a href="http://www.rapidonline.com/help/export">Export Customers</a></li>
-    <li><a onclick="javascript:window.open('/newsletter.html','NewsletterSignUp','width=567,height=858')">Newsletter
-    sign up</a></li>
-    <li><a href="http://www.rapidonline.com/publications">Publications</a></li>
-    <li><a href="http://www.rapidonline.com/distribution?source=hp-sbb">Distribution Opportunities</a></li>
-    <li><a href="http://www.rapidonline.com/glossary">Glossary</a></li>
-    <li><a href="http://m.rapidonline.com">Mobile Site</a></li>
-</ul>
-</div>
-<div class="footerLinkBox">Services<br>
-<ul class="footerlinkList">
-    <li><a href="http://www.rapidonline.com/Brands">Shop by Brand</a></li>
-    <li><a href="http://www.rapidonline.com/checkout/CutAndPasteOrder.aspx">Cut &amp; Paste
-    Form</a></li>
-    <li><a href="http://www.rapidonline.com/personalised">Personalised Order Codes</a></li>
-    <li><a href="https://www.rapidonline.com/Quotation.aspx">Quotation Request</a></li>
-    <!--<li><a href="http://www.rapidonline.com/Recommend" class="footerlink">Recommend a friend</a></li>-->
-    <li><a href="http://www.rapidonline.com/topbrands">Top Brands</a></li>
-    <li><a href="http://www.rapidonline.com/bulk?source=hp-sbb">Bulk Buying</a></li>
-    <li><a href="http://www.rapidonline.com/greenzone">Compliance Documents</a></li>
-</ul>
-</div>
-<div class="footerLinkBox">Company<br>
-<ul class="footerlinkList">
-    <li><a href="http://www.rapidonline.com/about-rapid">About Rapid</a></li>
-    <li><a href="http://www.rapidonline.com/careers">Careers</a></li>
-    <li><a href="http://www.rapidonline.com/terms">Terms &amp; Conditions</a></li>
-    <li><a href="http://www.rapidonline.com/privacy">Privacy &amp; Cookie Policy</a></li>
-    <li><a href="http://www.rapidonline.com/corporate-social-responsibility">Social Responsibility</a></li>
-    <li><a href="http://www.rapidonline.com/tradecounter">Trade Counter</a></li>
-    <li><a href="http://www.rapidonline.com/customer-profiles">Customer profiles</a></li>
-    <li><a href="http://www.rapidonline.com/sitemap">Site Map</a></li>
-    <li><a href="http://www.rapidonline.com/education" class="footerlink">Education Home</a></li>
-    <li><a href="http://www.rapidonline.com/homehobbies" class="footerlink">Home &amp; Hobbies Home</a></li>
-</ul>
-</div>
-<div class="footerLinkBoxLast">Contact Us<br>
-<ul class="footerlinkList" style="color: #ffffff;">
-    <li>Email: <a href="mailto:sales@rapidonline.com" style="color: #ffffff; text-decoration: underline;">sales@rapidonline.com</a></li>
-    <li>Orderline: 01206 751166</li>
-    <li>Fax: 01206 751188</li>
-    <li>Mon - Fri: 8am - 7pm</li>
-    <li>Saturday: 9am - 5pm</li>
-    <li><span style="text-decoration: underline;">Trade Counter</span></li>
-    <li>Open: 7.30am - 6pm (Mon - Fri)</li>
-    <li>9am - 5pm (Sat)</li>
-</ul>
-<br>
-<a href="https://www.facebook.com/rapidonline/" class="float-left iconSpacing" target="_blank">
-<div class="facebook"></div>
-</a>
-<a href="https://twitter.com/Rapidonline" class="float-left iconSpacing" target="_blank">
-<div class="twitter"></div>
-</a>
-<a href="https://plus.google.com/+rapidelectronics/posts" class="float-left iconSpacing" target="_blank">
-<div class="google-plus"></div>
-</a>
-<a href="https://www.youtube.com/user/rapidonline" class="float-left iconSpacing" target="_blank">
-<div class="youtube"></div>
-</a></div>
-<br style="clear: both;">
-</div>
-<div class="field-wrap">
-<div class="signupTitle">
-<span>Register for our Newsletter</span>
-</div>
-<input type="text" id="newsletterEmail" placeholder="Email Address" autocomplete="off">
-<div id="submitEmail" onclick="submitEmail();">Register</div>
-</div>
-<div class="thawte-secure float-right"></div>
-<div class="payment-meth float-right"></div>
-<div class="payment-paypal float-right"></div>
-<div style="float: left; width: 510px; color: #ffffff; padding: 0px 0px 5px 10px;">© Copyright
-2016 Rapid Electronics Limited, Severalls Lane, Colchester, Essex, CO4 5JS <br>
-Registered in England, Company Registration Number: 1509592 VAT no: GB 304175784<br>
-<div class="conrad-footer"></div>
-</div>
-<br style="clear: both;">
-</div></div>
-            <div class="NoneDisplay">v 3.0</div>
+
+            </div>            
             <!-- HOST <span>RAPID-LON-WEB1</span> -->
         </div>
-        <div id="loading" class="loading"><div><i style="margin-top: 25px" class="fa fa-refresh fa-spin fa-4x"></i><h3>loading</h3></div></div>
-        
-        <div class="dialogue-bd" id="PopupDialog">
-            <div class="dialogue-bd-middle <%: AdditionalCss_MergeDetected %>">
-                <div class="dialogue-content">
-                    <br>
-                    <span id="PopupTitle" class="Page-top-heading"></span><a class="rapid-button theme-one color-white FloatRight" id="PopupClose" onclick="closePopUp('PopupDialog','PopupCover');">X</a>
-                    <br class="ClearBoth"><br>
-                    <div class="PopupContentPanel">
-                        <div class="Content">
-                            <div id="PopupContent"></div>
-                        </div>
-                    </div>
+        <div style="display:none;">
+            <div class="currencyFlags" id="currencyFlags">
+                <div>
+                    <form action="/Home/ChangeCurrency" method="post">
+                        <button type="submit" name="button" class="icon_ukflag" value="GBP"></button>
+                        <button type="submit" name="button" class="icon_euflag" value="EUR"></button>
+                        <button type="submit" name="button" class="icon_usflag" value="USD"></button>
+                    </form>
                 </div>
             </div>
-            <div class="dialogue-bd-bottom"></div>
+        </div>
+        <div id="loading" class="loading"><div><i style="margin-top: 25px" class="fa fa-refresh fa-spin fa-4x"></i><h3>loading</h3></div></div>
+        <div class="dialogue-bd" id="PopupDialog">
+            <div class="dialogue-bd-middle">
+                <div class="dialogue-content">
+                    <span id="PopupTitle" class="Page-top-heading"></span><a class="rapid-button theme-one color-white FloatRight close-btn" id="PopupClose" onclick="ClosePopupControl();"><i class="fa fa-times fa-lg" aria-hidden="true"></i></a>
+                    <br class="ClearBoth">
+                            <div class="content" id="PopupContent"></div>
+                </div>
+            </div>
         </div>
         <div class="cover" id="PopupCover"></div>
+        <script type="text/javascript">
+            _pageModel.SelectedSiteType = 1;
+        </script>
+        <i style="display:none;" id="cataloguescope">1</i>  
+        <script type="text/javascript">
+            _pageModel.compareProducts = [];
+        </script>      
+        <script type="text/javascript" src="/js/bundle/main/scripts.min.js?v=4.2.0.0&amp;fv=8.1"></script>
         
-        <i class="NoneDisplay" id="selectedSiteType">1</i>
-        <script src="/js/scripts?v=Ij33V6rFWIYRh7CNwuU4OwM1Xpooe3sxhtQ3Txzasic1"></script>
-    
+        <script type="text/javascript">
+            app_Suggestions.$data.searchText = '';
+            _pageModel.compareProducts = [];
+            _pageModel.searchLayout = 'row';
+        </script>
+        <script type="text/javascript">
+            _pageModel._ra.type = 'pageView';
+            _pageModel._ra.SearchScope = '1';
+            _pageModel._ra.SelectedSiteType = '1';
+            //_pageModel._ra.UserCookie = document.cookie;
+            if(typeof(_pageModel._ra.page_type) == 'undefined' || !_pageModel._ra.page_type || _pageModel._ra.page_type.length <= 0)
+            {
+                _pageModel._ra.page_type = 'custom';
+                _pageModel._ra.page_type_value = 'privacy';
+            }
+            _pageModel._ra.url = window.location.href;
+            _pageModel._ra.sessionId = 'e1klnn0qsfi0vks3a5q4tfn2';
+            _pageModel._ra.isMobileDevice = 'False';
+            _pageModel._ra.resolution = $(window).width() + 'X' + $(window).height();
+            _pageModel._ra.useremail = '';
+	    _pageModel._ra.referrer = document.referrer;
+            _raTrack(_pageModel._ra);
+        </script>
+        <script type="text/javascript">
+            var ggoals_account = 'rapidonline';
+        </script>
+        <script type="text/javascript" src="//conversions.genieventures.co.uk/gt.js"></script>
     </div>
 
 </body></html>
