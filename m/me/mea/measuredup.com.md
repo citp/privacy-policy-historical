@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the measuredup.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130191207id_/http%3A//www.measuredup.com/MeasuredUp-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuredup.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182257id_/http%3A//www.measuredup.com/MeasuredUp-Privacy-Policy) for the most accurate reproduction.*
 
 # MeasuredUp.com Privacy Policy - MeasuredUp
 
