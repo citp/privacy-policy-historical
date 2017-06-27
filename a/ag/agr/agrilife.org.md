@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128082233id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627215853id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | AgriLife.org
+# Privacy & Security Policy | Texas A&M AgriLife
+
+Required Links
 
 The web page you have been viewing was developed by the Texas A&M AgriLife unit of the Texas A&M University System. As such, it maintains this site as a public service. The following is the privacy policy for this site:
 
