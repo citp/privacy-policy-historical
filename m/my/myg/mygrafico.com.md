@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114021833id_/http%3A//mygrafico.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627033443id_/http%3A//mygrafico.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mygrafico
 
