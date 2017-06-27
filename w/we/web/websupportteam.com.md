@@ -1,18 +1,11 @@
-> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828000321id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628013251id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Support Team | Tech Help For Your Internet Business
+# PRIVACY POLICY - WebSupportTeam
 
-  
-— IMPORTANT — PLEASE READ
+This Privacy Policy describes the terms of our commitment to your privacy.  
+PERSONS OR PARTIES COVERED
 
-This Privacy Policy describes the terms of our commitment to your privacy.
-
-  
-PERSONS OR PARTIES COVERED  
-
-This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers.  Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as “Visitors” and are parties to this Privacy Policy.  Subscribers to lists or Newsletters are referred to herein as “Subscribers” and are parties to the Privacy Policy.  Persons who join an organization or marketing endeavor (e.g. “affiliates”) promoted by this website are called “Members” herein and are covered by this Privacy Policy.  Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a “Customer” herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract.  The website, its agents, owners, operators, and employees are referred to collectively herein as “Website,” “Site,” and/or “Seller”.
-
-PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED
+This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers.  Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as “Visitors” and are parties to this Privacy Policy.  Subscribers to lists or Newsletters are referred to herein as “Subscribers” and are parties to the Privacy Policy.  Persons who join an organization or marketing endeavor (e.g. “affiliates”) promoted by this website are called “Members” herein and are covered by this Privacy Policy.  Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a “Customer” herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract.  The website, its agents, owners, operators, and employees are referred to collectively herein as “Website,” “Site,” and/or “Seller”.PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED
 
 In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
 
@@ -26,7 +19,7 @@ Acceptance of the terms of this Privacy Policy is a portion of the consideration
 
 A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 –OPPA)
 
-It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying. 
+It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.
 
 While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.)  This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this ebsite, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
@@ -66,13 +59,11 @@ INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURV
 
 Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
 
-INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES’
-
-Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
+INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES’Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
 “Cookies” is web jargon for bits of computer code placed on your hard drive.  Websites use this to keep you ‘logged in’, to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site.  Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-Cookies can be used to electronically gather information about you. 
+Cookies can be used to electronically gather information about you.
 
 Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies’ and to use the information gathered from their use to benefit you.  You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
@@ -88,7 +79,7 @@ BULLETIN BOARDS AND PUBLIC FORUMS
 
 Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk.  You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
 
-SPAM 
+SPAM
 
 By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations.  However, all email communication with you shall contain an ‘unsubscribe’ link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
