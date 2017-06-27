@@ -1,70 +1,77 @@
-> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930014345id_/http%3A//www.frompo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627134603id_/http%3A//frompo.com/privacy) for the most accurate reproduction.*
 
-# 
+# Live Sexcams: XXX Adult Shows, Free Porn Chat - Free Sex Porno Webcam XXX Live Web Cam Video Chat Tube Site
 
-**Privacy Policy**
+## LAST REVISION: SEPTEMBER 19, 2013
 
-Frompo, Inc. respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your privacy choices more fully described below.
+PLEASE READ THIS Free Sex Porno Webcam XXX Live Web Cam Video Chat Tube Site PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO frompo.com WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
-This Privacy Policy only covers the Frompo website along with any and all related pages on Frompo.com. We are not responsible for the privacy practices on any website other than Frompo.com. For example, we do not exercise control over the sites that appear as search results when you use the Frompo website. When you leave the Frompo website, we encourage you to carefully review the privacy policies on all other websites that you visit.
+Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU ARE UNDER THE AGE OF EIGHTEEN (18), PLEASE DO NOT GIVE US ANY PERSONAL DATA. IF YOU HAVE REASON TO BELIEVE THAT ANYONE UNDER 18 HAS PROVIDED PERSONAL DATA TO Beronata Services, PLEASE CONTACT US, AND WE WILL ENDEAVOR TO DELETE THAT INFORMATION FROM OUR DATABASES
 
-**INFORMATION WE COLLECT FROM YOU**
+Beronata Services may change the Privacy Policy at any time by posting a revised version in place of this document. The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in your Subscriber Agreement. Your use, or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-We collect different information from you depending upon how you use Frompo as described below.
+## 1\. Introduction.
 
-When you use **Frompo** , we may collect the following information fields from you: IP Address, your browser user agent string (a user agent string is the automatic information sent to us by your browser so we may properly format Frompo.com for your device and browser type), date and time of your login, any third party websites that referred you to us and social media websites. When you search, we collect your search queries organized into sessions that last up to four hours. If you select any websites from your search results, we will collect click tracking data, which is used to compensate us when we drive traffic to other websites and to help us improve our search engine – we do not use this data for marketing purposes. We may also need to verify your birth date to ensure that we are not collecting information in violation of the Children's Online Privacy Protection Act; we will discard your birth date once we have verified your age. 
+1.1. General.
 
-**HOW WE MINIMIZE DATA STORED ABOUT YOU**
+The following presents important information relating to Beronata Services's Privacy Policy. Because protecting your privacy is very important to Beronata Services, we have established a privacy policy that safeguards your personal information, and are committed to protecting its confidentiality. We will limit the collection and use of personally identifiable information ("Individual Information"), to what is necessary to administer our business, provide you with the quality Services, and offer you opportunities we think will be of interest. We will NOT disclose any Individual Information unless (i) we believe that such action is necessary to comply with applicable law or valid legal process (including without limitation search warrants, court orders, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime), (2) with respect to payment processing and billing (e.g., to a credit-card bank may help us prove the legitimacy of a credit-card charge or bill), (3) if the disclosure of Individual Information is necessary to provide services that third parties provide to you on Beronata Services's behalf, or (4) as otherwise set forth herein (i.e., in Section 5 hereunder).
 
-To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user agent string. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed to keep this data secure.
+1.2. Types of Individual Information.
 
-**HOW WE USE YOUR INFORMATION**
+Individual Information is any information, data or records that relate to your Beronata Services membership or use of Beronata Services and identifies you or your individual Member account. The three types of Individual Information are; (1) "identity and billing information," including without limitation your name, street address, telephone number, billing information, and any account information associated with your screen names; (2) "navigational and transactional information," including without limitation information about which pages or products or services you access through Beronata Services; and (3) "private communications," including without limitation the contents of e-mail, or private chat room communications.
 
-Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowd source your searches (solicit input from others to enhance your web research). The 'social' element to Frompo requires us to use information in additional ways to provide the enhanced collaborative functionality. Below, we fully describe how we use
+## 2\. Member Identity and Billing Information.
 
-information provided to us so that you can make the decision of whether or not to use our website and its enhanced functionalities. 
+2.1. Collection and Storage.
 
-Information Forwarded by Us to Improve Your Web Search Functionality: Frompo may share information regarding your website search, which is not personally identifiable to you, in order to enhance your search results. For example, we may forward your search queries to one of our vendors to check for misspellings (i.e., "Grand Canyo" may generate a did-you-mean reply of "Grand Canyon") or additional search terms that could provide more relevant search results. We also might forward your search query to one of our vendors to acquire supplemental results. 
+We maintain various types of identity and billing information ("Billing Information"), including without limitation, your name, street address, telephone number(s), length of membership, and payment information. We may also keep information on your communications with our customer service department, employees or contractors, and general account history, such as accumulated usage credits or written complaints relating to your account. We safeguard Billing Information from unauthorized access and only authorized employees or agents who need to carry out legitimate business functions are permitted access to Individual Information. Beronata Services employees who violate Beronata Services's privacy policies are subject to disciplinary actions, including possible termination. We may use agents, who are bound by strict confidentiality guidelines, to perform storage, processing, and other limited functions on Beronata Services's behalf.
 
-Information Forwarded by Us to Provide Keyword Search Advertising: Frompo provides its search services and web-based tools on the web to you for free.We are able to sustain our free web-based content through advertising revenue. All of our advertising partners require that we send them your IP Address, user agent string as well as search keywords in order to deliver search keyword advertising to you. If you do not want us to forward your personal information for advertising purposes, you can opt-out of this sharing by selecting our "No Ads" preference, as described below. Further, Frompo will forward your DoNotTrack browser settings, if you are using a browser that has DoNotTrack header functionality. 
+2.2. Use.
 
-To Improve Our Website: Any of the information we collect, as described above, may be used for the following purposes: to improve our services and products; to develop new services; to ensure and improve the technical functionality of our website and network; to protect your rights, Frompo's rights and the rights of other Frompo users; and to assist Frompo in providing you with services. 
+We use Billing Information to administer our business, ensure that you are properly billed and to communicate with you if the need arises.
 
-**YOUR PRIVACY CHOICES**
+2.3. Disclosure.
 
-Frompo's website offers you options to set preferences that enhance privacy:
+Except as set forth in Section 5 herein, our policy is not to disclose Billing Information to third parties, unless required to do so by applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime) or as required to process any payments made to Beronata Services by you or Beronata Services bills. Beronata Services, at its sole discretion, reserves the right to make exceptions to this policy in extraordinary circumstances (including without limitation a bomb or suicide threat, or instances of suspected illegal activity) on a case-by-case basis. When feasible, we do allow our Members to access and verify their Billing Information. We also allow our Members to request corrections to this information. Beronata Services intends to abide by applicable laws governing the disclosure to governmental entities of Individual Information and other records. If we are under a legal obligation to disclose Individual Information to a private citizen or entity, we may make efforts under the circumstances to notify the affected Member(s) in advance of releasing it in order to provide the Member(s) an opportunity to pursue any available legal protection.
 
-  * No Facebook: This feature disables all of Frompo's integration with Facebook.
-  * No Ads:  This feature disables display of all ads on Frompo.com. Also, Frompo will not send any information identifiable to you (such as, IP Address, user agent string and search keywords) to a third party for advertising or marketing purposes. 
-  * Always Use HTTPS on Frompo.com:  This feature helps make communications on Frompo.com more secure and private, for example making it more difficult for other users to view your Frompo.com activity on an unsecured wireless network. 
-  * HTTPS Preferred®:  This feature helps make links to search results on Frompo.com more secure. If you have this option selected, and if Frompo has determined that the link you are visiting has an https equivalent, Frompo will link to the https version of the website. This makes it more difficult for other users to view your network activity on an unsecured wireles network. 
-  * SuperPrivacy® Frompo already has built-in controls to manage personally identifiable data, for example, we delete all IP Addresses within 48 hours of use. This setting goes one step further by helping you manage aggregate and/or anonymous information that may be disclosed regarding your activities on Frompo.com. This setting prevents click tracking data from being collected by Frompo.com and ensures that no session information is kept regarding your activities on Frompo.com. This setting also activates all of the above settings. 
+2.4. Compelling Obligation.
 
+Although Beronata Services will take reasonable measures not to disclose Billing Information, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law; (b) to comply with legal process; (c) to enforce Beronata Services's terms and conditions; (d) to respond to claims that any content violates the rights of third parties; or (e) to protect the interests of Beronata Services or others.
 
+## 3\. Navigational and Transactional Information.
 
-Please be advised that all Frompo preferences mentioned above operate via browser-based cookies. If you delete Frompo cookies regarding your privacy , your web browser will not be able to put your privacy preferences into effect.
+3.1. Collection.
 
-**OTHER ITEMS OF WHICH YOU SHOULD BE AWARE**
+We may collect and store certain navigational and transactional information ("Navigational Information"), such as data on the choices you make from the range of available services, and the times and ways you use Beronata Services.
 
-Cookies: When you visit our website, we may send browser cookies (little files for your browser that identify your browser and your visit). Frompo also uses cookies to store your username and log-in status, your user preferences (including your privacy options, mentioned above), and other information. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience on Frompo.com as it will not permit you to take advantage of our advanced privacy choices, described above. Please consult the "Help" section of your browser for more information on cookies generally. 
+3.2. Use.
 
-Children: The Frompo website is intended for general audiences and is not directed to children younger than thirteen years of age. We do not knowingly collect personal information from children under the age of thirteen. 
+Beronata Services uses Navigational Information to personalize Beronata Services and for programming and editorial research. For example, we may use this information to understand our Members' reactions to menu items, and Services, and to customize Beronata Services based on our Members' interests.
 
-**EXCEPTIONS TO THIS PRIVACY POLICY**
+3.3. Disclosure.
 
-In certain circumstances, Frompo may release the information it collects for the following purposes:
+Except as set forth in section 5, Beronata Services will not disclose to third parties Navigational Information (e.g., what you view or access through Beronata Services), except to comply with applicable law or valid legal process (including without limitation search warrant, court order, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime).
 
-  * to respond to your requests for information (by us, our vendors or corporate affiliates); 
-  * to process, bill and ship any of your purchases;
-  * to respond to court orders, subpoenas, or other legal process, or to help Frompo in establishing or exercising its legal rights or defend itself against legal claims 
-  * to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of any individual, violations of the Frompo Terms of Service or as otherwise required by law; 
-  * to investigate or take action with respect to any circumstance that could expose Frompo to liability; and 
-  * if Frompo is acquired by or merges with another company, we may release your information to the other company, but that other company will be bound by the terms of this Privacy Policy. 
+## 4\. Private Communications.
 
+4.1. Collection and Storage.
 
+The Beronata Services computer system automatically records and retains all chat room communications ("Communications"). However, to keep copies of any communications, you should store them on your personal computer hard drive or in print form. You agree that Beronata Services may employ e-mail virus-checking technology to protect its system and its members from viruses.
 
-Should any of the above circumstances occur, Frompo may permanently retain information (such as IP addresses) which would ordinarily be erased after 48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation or performance issues with Frompo's software. Frompo may also share non-personal information about you, in the aggregate, to third parties in the event that you have not selected our SuperPrivacy® setting.
+TO THE EXTENT NECESSARY, YOU EXPLICITLY CONSENT AND AGREE TO Beronata Services's RECORDATION OF ALL CHAT ROOM COMMUNICATIONS, AND HEREBY WAIVE ANY RIGHTS YOU MAY HAVE UNDER STATE, FEDERAL, OR LOCAL LAW, INCLUDING BUT NOT LIMITED TO THE STORED COMMUNICATIONS ACT, STATE EAVESDROPPING LAWS, AND THE ELECTRONIC COMMUNICATIONS PRIVACY ACT.
 
-**CHANGES TO THIS PRIVACY POLICY**
+4.2. Use.
 
-Frompo may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information by sending a notice to the primary email address you have specified in your Frompo account or by placing a prominent notice on the Frompo website.
+Beronata Services treats Communications as strictly confidential. Beronata Services does not access, use or disclose the contents of Communications, except in limited circumstances as specifically provided herein. You acknowledge that private communications directed at a person or entity, including Beronata Services, may be used or disclosed by the intended recipient(s) without restrictions relating to privacy or confidentiality.
+
+4.3. Disclosure.
+
+Beronata Services does not access or disclose the contents of Communications (e.g., e-mail, Member-created private rooms, online communications), unless it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime); (2) to protect the rights or property of Beronata Services; or (3) in emergencies when Beronata Services believes that physical safety is at risk. Beronata Services reserves the right to treat as public any private chat room whose directory or room name is published or becomes generally known or available.
+
+## 5\. Sale, Merger or other Corporate Transaction.
+
+Beronata Services reserves the right to disclose any Individual Information to any person or entity in the event of a sale (of all or a portion of Beronata Services's assets), merger, reorganization, dissolution or similar event.
+
+## 6\. Questions.
+
+If you have any questions whatsoever regarding Beronata Services's Subscriber Privacy Policy, e-mail [support@beronata.com](mailto:support@beronata.com).
