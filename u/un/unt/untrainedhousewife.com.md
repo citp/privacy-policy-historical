@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102222706id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627081507id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,8 +27,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails  
-
+; To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
