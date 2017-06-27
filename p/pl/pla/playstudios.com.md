@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121959id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627150044id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Playstudios
+# Privacy Policy – Playstudios
 
 PLAYSTUDIOS, Inc. (“PLAYSTUDIOS”,” “we,” “us” or “our”) values your privacy. We offer a variety of games through various means, including our mobile application and our Facebook application (collectively, our “Applications”). On our website [www.PlayStudios.com](http://www.playstudios.com/) (the “Site”), we provide information about our products and services, including those games, and how you may redeem certain points that you earn through the Applications. In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain about visitors to our Site and our Applications, and the services offered on each (collectively, “Services”).
 
