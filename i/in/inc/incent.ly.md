@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030655id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200239id_/https%3A//peerfly.com/about/privacy) for the most accurate reproduction.*
 
-# PeerFly - Privacy Policy
+# PeerFly
 
 ## PeerFly's Privacy Policy
 
@@ -49,5 +49,6 @@ If you'd like us to delete any PII that you have provided to us on our Website, 
 If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com), or via postal mail at:
 
 PeerFly, Inc.  
-14690 NW 151st Blvd, Suite 10  
+15202 NW 147th Drive  
+Suite 1200 #330  
 Alachua, Florida 32615 
