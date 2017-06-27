@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183812id_/http%3A//financialservices.coles.com.au/insurance/about-our-insurance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesmastercard.com.au privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627032225id_/http%3A//financialservices.coles.com.au/insurance/about-our-insurance/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coles Insurance
+# Privacy Policy - Coles Insurance
 
 ## Overview
 
@@ -18,8 +18,9 @@ The types of personal information we collect includes name, contact details, ide
 
 We may not be able to provide our products or services, or make offers to you without your personal information. For example, we may not be able to ensure you are awarded flybuys points, contact you or deliver your orders.
 
-Where you provide us with personal information about someone else you must have their consent to provide their personal information to us based on this Privacy Policy.  
-How personal information is collected and held
+Where you provide us with personal information about someone else you must have their consent to provide their personal information to us based on this Privacy Policy.
+
+###  How personal information is collected and held
 
 We may collect your personal information in relation to your interactions and transactions with us and Wesfarmers group companies. This includes: using your flybuys card or number or associated identifiers such as payment cards; making a purchase in store; placing an order online; making a non-cash payment; participating in a promotion, competition, or survey; registering for services; using related digital services. We may monitor and record your communications with us (including email and telephone) for security, dispute resolution, and training purposes, and we also operate video and audio surveillance devices in our premises. We may also collect personal information from third parties including public sources, information service providers, providers who administer Coles-branded products and services such as payment cards and insurance, anyone authorised to act on your behalf, and other Wesfarmers group companies including flybuys.
 
@@ -29,7 +30,7 @@ We hold personal information electronically and in hard copy form, both at our o
 
 We handle your personal information in connection with providing, administering, improving and personalising our products and services. This can include processing payments, delivering orders, managing promotions, providing refunds and discounts, verifying your identity, communicating with you (including direct marketing), conducting product and market research, maintaining and updating our records, dealing with enquiries from you, and working with our service providers and other Wesfarmers group companies. Using personal information, we endeavour to improve our understanding of your interests, suitability and behaviour in relation to products, services and offers, including conducting risk assessments for financial products (including credit and insurance).
 
-We may also handle your personal information to protect our lawful interests and facilitate purchases and potential purchases of our businesses. We may provide marketing communications and targeted advertising to you on an ongoing basis by telephone, electronic messages (eg. email), our digital services and other means. These communications may relate to the products and services we, and other Wesfarmers group companies provide, and other products which may be of interest to you. You can call us on 1800 061 562 at any time to opt out of electronic and telephone direct marketing communications.
+We may also handle your personal information to protect our lawful interests and facilitate purchases and potential purchases of our businesses. We may provide marketing communications and targeted advertising to you on an ongoing basis by telephone, electronic messages (eg. email), our digital services and other means. These communications may relate to the products and services we, and other Wesfarmers group companies provide, and other products which may be of interest to you. You can call us on [ 1800 061 562](tel:1800061562) at any time to opt out of electronic and telephone direct marketing communications.
 
 ###  Sharing of personal information
 
@@ -64,17 +65,17 @@ If you wish to access or correct any personal information we hold about you or h
 In the case of access and correction requests, please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. Under the Privacy Act and other relevant laws, we are required to provide our reasons if we refuse your request. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information.  
 Additional privacy information
 
-In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and [Coles MasterCard](https://web.archive.org/credit-cards/about-our-credit-cards/important-information). Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
+In addition to this Privacy Policy, many Coles and Wesfarmers companies and brands have their own privacy statements and other terms which provide further information about your privacy, e.g. flybuys, Coles Insurance and [Coles Mastercard](https://web.archive.org/credit-cards/about-our-credit-cards/important-information). Please see the relevant material relating to those products and services for details, including where those Coles-branded products and services are provided by or with third parties who may collect your personal information.
 
-For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at www.oaic.gov.au and on 1300 363 992.
+For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at www.oaic.gov.au and on [ 1300 363 992](tel:1300363992) .
 
 ###  Contact
 
 Queries regarding privacy should be directed to the Coles Privacy Officer:   
-Phone: 1800 061 562  
+Phone: [ 1800 061 562](tel:1800061562)  
 Email: privacy@coles.com.au  
 Post: 800 Toorak Road  
 Hawthorn East  
 VIC 3123  
 Last updated: March 2014  
-Coles Supermarkets Australia Pty Ltd ABN 45 004 189 708 
+Coles Supermarkets Australia Pty Ltd ABN 45 004 189 708
