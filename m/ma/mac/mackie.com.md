@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackie.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225103431id_/http%3A//mackie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackie.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627062213id_/http%3A//mackie.com/privacy) for the most accurate reproduction.*
 
 # Welcome to our Privacy Policy | Mackie
 
