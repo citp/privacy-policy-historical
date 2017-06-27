@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526084730id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627050356id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## RealPage, Inc. European Union-Swiss Privacy Policy
 
 RealPage, Inc. and its group companies (collectively, “RealPage”, “we”, “our”, “us”) are committed to providing our product and service users (“clients”, “you”) with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of client information by our subsidiary, Kigo, Inc., doing business as Kigo. By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy.This Privacy Policy was last updated on June 23, 2014. We may change this Privacy Policy from time to time so please check back regularly to keep informed of any updates.
 
@@ -41,10 +39,6 @@ Certain RealPage websites, products, and services offer mobile applications for 
 ### Information Security
 
 RealPage wants you to feel confident about using our products and services, and we are committed to protecting the personal information that we collect from our clients. We implement and maintain appropriate physical, administrative, technical and organizational measures to protect the personal information you provide us against unauthorized or unlawful access, use or disclosure, and against accidental loss, damage, alteration or destruction. Under our security policies and practices, access to sensitive personal information is authorized only for those who have a business need for such access, and sensitive records are retained only as long as reasonably necessary for business or legal purposes. RealPage strives to protect the user information that we collect and store, however, no security program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use, or disclose personal information. RealPage maintains security incident response policies and procedures to handle incidents involving unauthorized access to private information we collect or store.
-
-### International transfers
-
-RealPage, Inc. and its group companies have certified their compliance with the EU/US and Swiss/US Safe Harbor regimes to the US Department of Commerce for personal information that our clients transfer to us in the course of using our products and services. A copy of our Safe Harbor policy is available at [www.kigo.net/safeharbor](http://www.kigo.net/safeharbor).Some of the third-party companies, agents, and contractors that we engage to perform services on our behalf may need to transfer your personal information internationally in order to provide their services, including to territories outside of the USA and Europe which may not have equivalent data protection regimes. However, where this is the case, we have implemented measures to safeguard your personal information in accordance with this Privacy Policy at all times.
 
 ### Children’s Online Privacy
 
