@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okceleb.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129164324id_/http%3A//okceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okceleb.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627124824id_/http%3A//www.okceleb.com/privacy-policy) for the most accurate reproduction.*
 
-# OK! Celeb | Everything Celebs – Privacy Policy
+# Privacy Policy – OK! Celeb | Everything Celebs
 
 Last Updated: May 14, 2015
 
