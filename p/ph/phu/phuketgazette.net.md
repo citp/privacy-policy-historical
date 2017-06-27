@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuketgazette.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121091956id_/http%3A//www.phuketgazette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuketgazette.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182938id_/http%3A//www.phuketgazette.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -24,22 +24,20 @@ Should you have any questions about our privacy policy or practices, kindly cont
 
 The Phuket Gazette Co Ltd 
 
-[](http://www.phuketgazette.net/users/login) [](http://www.phuketgazette.net/signup) [](http://www.phuketgazette.net/users/social/Facebook) [](http://www.phuketgazette.net/users/social/Google)
-
-[](http://www.phuketgazette.net/phuketradio)
+[](https://phuketgazette.net/users/login) [](https://phuketgazette.net/signup) [](https://phuketgazette.net/users/social/Facebook) [](https://phuketgazette.net/users/social/Google)
 
   * Gazette Poll
   * Previous Polls
 
 
 
-Which new initiative will have the greatest short-term impact on public transportation in Phuket? 
+How do you think the new President Trump will affect relations with Thailand?
 
 Results of the reader's poll
 
-created on: Tuesday, August 11, 2015 05:50:01PM with the following question:
+created on: Monday, February 06, 2017 05:44:51PM with the following question:
 
-> Which new initiative will have the greatest short-term impact on public transportation in Phuket? 
+> How do you think the new President Trump will affect relations with Thailand?
 
 Total Vote Result 
 
