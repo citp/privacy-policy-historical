@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the thecrimson.com privacy policy that was archived on 2016-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209184925id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecrimson.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627065418id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
   
       
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"35f86da418","agent":"","transactionName":"YlVaZxdYV0NSVkVRClsffkYLWk1ZXFseWxdcXUtcC1ZXXFpbVBYGWl5MVgtNF0ZaUEZLX1JVTGwGVldEVltFZwJHX01D","applicationID":"470626","errorBeacon":"bam.nr-data.net","applicationTime":5393}</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
       
 
@@ -20,13 +20,13 @@
   
 
   
-    <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/9c978f8fbcfa.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/e0a4c4ffa682.css" type="text/css" media="all">
   
 
-  <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/fb7802cbbb66.css" type="text/css">
-
+  <link rel="stylesheet" href="https://s3.amazonaws.com/static.thecrimson.com/CACHE/css/dffdc5503b04.css" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=PT+Serif|Lato:300,400,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
   
-  <script type="text/javascript">
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -66,13 +66,28 @@ if (bMobile) {
 document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>');
 </script><script type="text/javascript" src="http://search.spotxchange.com/js/spotx.js" data-spotx_ad_done_function="myAdDoneFunction" data-spotx_ad_unit="incontent" data-spotx_autoplay="1" data-spotx_ad_volume="0" data-spotx_loop="0" data-spotx_collapse="1" data-spotx_unmute_on_mouse="1" data-spotx_content_width="608" data-spotx_content_height="342" data-spotx_channel_id="108869"></script>
 
-  <script type="text/javascript" src="https://s3.amazonaws.com/static.thecrimson.com/CACHE/js/7fae41a11d1b.js"></script>
+  <script type="text/javascript" src="https://s3.amazonaws.com/static.thecrimson.com/CACHE/js/70b0da8a2f6f.js"></script>
   <script src="//cdn.optimizely.com/js/3538141030.js"></script>
   <script src="https://platform.twitter.com/widgets.js" async=""></script>
   <script type="text/javascript" src="//static.criteo.net/js/px.js?ch=1"></script>
   <script type="text/javascript" src="//static.criteo.net/js/px.js?ch=2"></script>
   <script src="//cdn.cpxinteractive.com/brt/defs/p/83171619-274.js" type="text/javascript"></script>
   <script src="//cdn.cpxinteractive.com/brt/defs/p/40896759-275.js" type="text/javascript"></script>
+
+  <!-- Needed for 33Across ad -->
+  <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+
+  <script>
+    googletag.cmd.push(function() {
+      googletag.defineOutOfPageSlot('/1046082/TheCrimson_MobileAnchor_320x50', 'div-gpt-ad-1492623789427-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
 
   
 
@@ -86,36 +101,6 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
     <header>
       <div id="masthead">
         <div id="masthead-first-wrapper">
-          <div id="toolbar">
-            <div id="toolbar-container">
-              <nav id="toolbar-colophon">
-                <ul>
-<li><a href="/about/">About Us</a></li>
-<li><a href="http://media.thecrimson.com.s3.amazonaws.com/misc/genfiles/2016/advertising-media-kit-2016.pdf" target="_blank">Advertising</a></li>
-<li><a href="/subscribe/print/">Subscribe</a></li>
-<li><a href="http://programs.thecrimson.com/">Journalism Programs</a></li>
-<li><a href="/classifieds/" rel="nofollow">Classifieds</a></li>
-<li><a href="http://thecrimson.personforce.com/" target="_blank">Job Board</a></li>
-<li><a href="http://store.thecrimson.com/" target="_blank">Photo Store</a></li>
-</ul>
-              </nav>
-              <nav id="toolbar-social">
-                
-              </nav>
-              <div id="toolbar-weather">
-                <a href="https://www.accuweather.com/en/us/cambridge-ma/02138/weather-forecast/756_pc"><span class="weather-locale">Cambridge, MA</span> Weather: 36°F <img alt="sun" src="https://s3.amazonaws.com/static.thecrimson.com/images/icons/sun.svg" width="16" height="16" style="vertical-align:bottom; margin-left:2px;"></a>
-              </div>
-              <div id="masthead-search-mobile">
-                <form action="/search/" id="cse-search-box">
-                  <input type="hidden" name="cx" value="013815813102981840311:aw6l9tjs1a0">
-                  <input type="hidden" name="cof" value="FORID:10">
-                  <input type="hidden" name="ie" value="UTF-8">
-                  <input type="text" class="query" name="q">
-                  <button class="search-submit" type="submit" name="sa">Search</button>
-                </form>
-              </div>
-            </div>
-          </div>
           <div id="masthead-first">
             <div id="masthead-first-container">
               <h1>
@@ -123,6 +108,7 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
                   <img src="https://s3.amazonaws.com/static.thecrimson.com/images/masthead.png" width="415">
                 </a>
               </h1>
+              <br>
               <div id="masthead-search">
                 <form action="/search/" id="cse-search-box">
                   <input type="hidden" name="cx" value="013815813102981840311:aw6l9tjs1a0">
@@ -142,7 +128,7 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
             </ul>
           </nav>
           <nav id="masthead-nav" class="mobile-hidden">
-            <ul><li><a href="/section/news/">News</a></li><li><a href="/section/opinion/">Opinion</a></li><li><a href="/section/features/">Features</a></li><li><a href="/section/fm/">Magazine</a></li><li><a href="/section/sports/">Sports</a></li><li><a href="/section/arts/">Arts</a></li><li><a href="/section/media/">Multimedia</a></li><li><a href="/flyby/">Flyby</a></li></ul>
+            <ul><li><a href="/section/news/">NEWS</a></li><li><a href="/section/opinion/">Opinion</a></li><li><a href="/section/features/">Features</a></li><li><a href="/section/fm/">Magazine</a></li><li><a href="/section/sports/">Sports</a></li><li><a href="/section/arts/">Arts</a></li><li><a href="/section/media/">Multimedia</a></li><li><a href="/flyby/">Flyby</a></li></ul>
           </nav>
         </div>
       </div>
@@ -218,6 +204,8 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
 
     <li class="right_navigation-list"><a href="/about/permissions/">Rights and Permissions</a></li>
 
+    <li class="right_navigation-list"><a href="/about/summercrimson/">Summer Crimson</a></li>
+
     <li class="right_navigation-list"><a href="/about/editorial/">The Editorial Board</a></li>
 
 
@@ -226,54 +214,7 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
     </div>
     <div class="flatpage-module flatpage-masthead">
       <img src="https://s3.amazonaws.com/static.thecrimson.com/images/footer-title.png" width="250">
-      <ul>
-<li class="board">President</li>
-<li><span>Mariel A. Klein ’17</span></li>
-<li class="board">Managing Editor</li>
-<li><span>Meg P. Bernhard ’17</span></li>
-<li class="board">Business Manager</li>
-<li><span>Leia N. Wedlund ’17</span></li>
-
-<li class="board">NEWS</li>
-<li><span>Noah J. Delwiche ’17, </span><span style="font-style:italic;">Associate Managing Editor</span></li>
-<li><span>Ivan B. K. Levingston ’17, </span><span style="font-style:italic;">Associate Managing Editor</span></li>
-
-<li class="board">BUSINESS</li>
-<li><span> M. Hanl Park ’18, </span><span style="font-style:italic;">Associate Business Manager</span></li>
-<li><span>Michael B. Sacks ’17, </span><span style="font-style:italic;">Associate Business Manager</span></li>
-
-<li class="board">EDITORIAL</li>
-<li><span>Nelson L. Barrette ’17, </span><span style="font-style:italic;">Editorial Chair</span></li>
-<li><span>Ryan P. O’Meara ’18, </span><span style="font-style:italic;">Editorial Chair</span></li>
-
-<li class="board">ARTS</li>
-<li><span>Ha D. H. Le ’17, </span><span style="font-style:italic;">Arts Chair</span></li>
-<li><span>Victoria Lin ’17, </span><span style="font-style:italic;">Arts Chair</span></li>
-
-<li class="board">BLOG</li>
-<li><span>Katherine J. Cohen ’18, </span><span style="font-style:italic">Blog Chair</span></li>
-<li><span>Eva S. Monroe ’18, </span><span style="font-style:italic">Blog Chair</span></li>
-
-<li class="board">DESIGN</li>
-<li><span>Nadia X. Haile ’17, </span><span style="font-style:italic;">Design Chair</span></li>
-<li><span>Ashley Zhou ’17, </span><span style="font-style:italic;">Design Chair</span></li>
-
-<li class="board">FM</li>
-<li><span>Maia R. Silber ’17, </span><span style="font-style:italic;">FM Chair</span></li>
-<li><span>Lena K. Felton ’17, </span><span style="font-style:italic;">FM Chair</span></li>
-
-<li class="board">MULTIMEDIA</li>
-<li><span>Thomas W. Franck ’17, </span><span style="font-style:italic;">Multimedia Chair</span></li>
-<li><span>Sidni M. Frederick ’17, </span><span style="font-style:italic;">Multimedia Chair</span></li>
-
-<li class="board">SPORTS</li>
-<li><span>Julio C. Fierro ’17, </span><span style="font-style:italic;">Sports Chair</span></li>
-<li><span>Ariel Smolik-Valles ’17, </span><span style="font-style:italic;">Sports Chair</span></li>
-
-<li class="board">WEB DEVELOPMENT</li>
-<li><span>Pradeep Niroula ’18, </span><span style="font-style:italic">Director of Web Development</span></li>
-<li><span>Samuel Kaplan '18, </span><span style="font-style:italic">Director of Web Development</span></li>
-</ul>
+      
     </div>
   </div>
 
@@ -287,62 +228,65 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
 
     <section id="row">
         <div id="highlights-row">
-            <div id="highlights-header">
-            <a href="/section/features/">Features</a>
-        </div>
-        
-            <div class="row article">
-                <a href="http://features.thecrimson.com/2016/freshman-survey/">
-                    </a><div class="highlights-item"><a href="http://features.thecrimson.com/2016/freshman-survey/">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2016/08/30/204204_1316341.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="innards"></div>
+            <h2 id="highlights-header">
+                <a href="/section/features/">Features</a>
+            </h2>
+            
+                <div class="row article">
+                    <a href="/article/2017/5/25/the-harvard-lobby/">
+                        <div class="highlights-item">
+                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/05/24/132859_1323338.jpg.200x150_q95_crop-smart_upscale.jpg">
                             <div class="highlights-info">
-                                <div class="name">Class of 2020, By the Numbers</div>
+                                <div class="name">The Harvard Lobby</div>
                             </div>
-                        </a>
-                    </div>
-            </div>
-
-        
-            <div class="row article">
-                <a href="/article/2016/5/26/behind-closed-doors-clubs/">
-                    </a><div class="highlights-item"><a href="/article/2016/5/26/behind-closed-doors-clubs/">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2016/05/26/011044_psk-lapse-yir-final-clubs.jpg.200x150_q95_upscale.jpg">
-                            <div class="innards"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="row article">
+                    <a href="/article/2017/5/24/par-course-athletics-commencement/">
+                        <div class="highlights-item">
+                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/05/22/105919_1323087.jpg.200x150_q95_crop-smart_upscale.jpg">
                             <div class="highlights-info">
-                                <div class="name">Behind Closed Doors</div>
+                                <div class="name">Par for the Course?</div>
                             </div>
-                        </a>
-                    </div>
-            </div>
-
-        
-            <div class="row article">
-                <a href="http://features.thecrimson.com/2016/senior-survey/">
-                    </a><div class="highlights-item"><a href="http://features.thecrimson.com/2016/senior-survey/">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2016/05/23/145245_1315806.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="innards"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="row article">
+                    <a href="/article/2017/5/24/khurana-case-study/">
+                        <div class="highlights-item">
+                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/05/21/232915_1323056.jpg.200x150_q95_crop-smart_upscale.jpg">
                             <div class="highlights-info">
-                                <div class="name">The Graduating Class of 2016, By the Numbers</div>
+                                <div class="name">Khurana: A Case Study</div>
                             </div>
-                        </a>
-                    </div>
-            </div>
-
-        
-            <div class="row article">
-                <a href="/article/2016/5/24/social-life-undergrad-2016/">
-                    </a><div class="highlights-item"><a href="/article/2016/5/24/social-life-undergrad-2016/">
-                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2016/05/23/172851_1315813.jpg.200x150_q95_crop-smart_upscale.jpg">
-                            <div class="innards"></div>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="row article">
+                    <a href="/article/2017/5/23/ten-years-faust/">
+                        <div class="highlights-item">
+                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/05/22/170340_1323182.jpg.200x150_q95_crop-smart_upscale.jpg">
                             <div class="highlights-info">
-                                <div class="name">Harvard’s Social Experiment</div>
+                                <div class="name">Ten Years of Faust </div>
                             </div>
-                        </a>
-                    </div>
-            </div>
-
-        
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="row article">
+                    <a href="/article/2017/5/23/david-rubenstein-harvard-corporation/">
+                        <div class="highlights-item">
+                            <img src="https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2017/05/22/203326_1323216.jpg.200x150_q95_crop-smart_upscale.jpg">
+                            <div class="highlights-info">
+                                <div class="name">The New Corporation Man</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            
         </div>
     </section>
 
@@ -366,30 +310,49 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
 
       </div>
       <div id="anchor-ad">
-        <div id="ad-TheCrimson_MobileAnchor_320x50" style="width: 320px; height: 50px;">
-	<script type="text/javascript">
-    $(function () {
-      var container = $("#ad-TheCrimson_MobileAnchor_320x50");
-      if (container.is(":visible") && Crimson.ADS_ENABLED) {
-        googletag.cmd.push(function() {
-          googletag.display('ad-TheCrimson_MobileAnchor_320x50');
-        });
-      }
-    });
-	</script>
-</div>
-
+        <!-- /1046082/TheCrimson_MobileAnchor_320x50 -->
+        <div id="div-gpt-ad-1492623789427-0">
+        <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492623789427-0'); });
+        </script>
+        </div>
       </div>
     </div>
   
 
   <footer>
-    <div id="footer-first">
-      <h1><a href="/">The Harvard Crimson</a></h1>
-    </div>
-    <div id="footer-second">
-      <p>Copyright © 2016 The Harvard Crimson, Inc.</p>
-      <nav id="footer-nav">
+    <div id="footer">
+    <table>
+    <tbody><tr>
+      <td id="footer-sections">
+        <h1>Sections</h1>
+        <ul>
+          <li><a href="/section/news/">News</a></li>
+          <li><a href="/section/opinion/">Opinion</a></li>
+          <li><a href="/section/features/">Features</a></li>
+          <li><a href="/section/fm/">Magazine</a></li>
+          <li><a href="/section/sports/">Sports</a></li>
+          <li><a href="/section/arts/">Arts</a></li>
+          <li><a href="/section/media/">Multimedia</a></li>
+          <li><a href="/flyby/">FlyBy</a></li>
+        </ul>
+      </td>
+
+      <td id="footer-more">
+        <h1>More</h1>
+        <ul>
+          <li><a href="/about/">About Us</a></li>
+          <li><a href="http://media.thecrimson.com.s3.amazonaws.com/misc/genfiles/2016/advertising-media-kit-2016.pdf" target="_blank">Advertising</a></li>
+          <li><a href="/subscribe/print/">Subscribe</a></li>
+          <li><a href="http://programs.thecrimson.com/">Journalism Programs</a></li>
+          <li><a href="/classifieds/" rel="nofollow">Classifieds</a></li>
+          <li><a href="http://thecrimson.personforce.com/" target="_blank">Job Board</a></li>
+          <li><a href="http://store.thecrimson.com/" target="_blank">Photo Store</a></li>
+        </ul>
+      </td>
+
+      <td id="footer-resources">
+        <h1>Resources</h1>
         <ul>
           <li><a href="/about/privacy/">Privacy Policy</a></li>
           <li><a href="/about/permissions/">Rights &amp; Permissions</a></li>
@@ -400,11 +363,19 @@ document.write('<scr' + 'ipt ' + aScriptAttributes.join(" ") + '></scr' + 'ipt>'
           <li><a href="/sitemap/">Archives</a></li>
           <li><a href="/sitemap/contributors/">Writers</a></li>
         </ul>
-      </nav>
+      </td>
+
+      <td rowspan="2" id="footer-img">
+        <div id="footerimg"></div>
+      </td>
+    </tr>
+    </tbody></table>
+    <br>
+    <center>Copyright © 2017 The Harvard Crimson, Inc.</center>
     </div>
   </footer>
 
   
 
-<!-- Generated at Dec. 9, 2016, 1:49 p.m. -->
+<!-- Generated at June 27, 2017, 2:54 a.m. -->
 </body></html>
