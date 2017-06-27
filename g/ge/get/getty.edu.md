@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021225700id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627130123id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
