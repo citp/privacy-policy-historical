@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundly.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223132810id_/https%3A//fundly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundly.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627041644id_/https%3A//fundly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fundraising and Donations - Fundly
 
