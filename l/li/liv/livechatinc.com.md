@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050326id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201207id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveChat
 
 ###### Making sure everything works smoothly.
 
-Effective date: 5/23/2012, last edit: 3/21/2016
+Effective date: 5/23/2012, last edit: 6/12/2017
 
 LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via https://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
-
-## Safe Harbor Compliance
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx) [ ](http://www.export.gov/safeharbor) LiveChat, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. LiveChat, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LiveChat, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-We are self-certifying to both the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework:
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, LiveChat, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact LiveChat, Inc. at [support@livechatinc.com](mailto:support@livechatinc.com).
-
-LiveChat, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveChat, Inc., please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ## Provided data
 
