@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aniview.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073150id_/http%3A//www.aniview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aniview.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627083935id_/http%3A//www.aniview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy · ANIVIEW
 
@@ -68,4 +68,4 @@ The terms of this Privacy Policy are in effect as long as the Publishers have ac
 
 ### 12\. Forwarding requests and notification to Aniview
 
-Any request or notification that you are obliged to send to us under this Privacy Policy shall be sent to us by e-mail to the following address: [info@aniview.com](https://web.archive.org/web/20161119073150id_/http%3A//www.aniview.com/contact.html) and we will make an effort to respond or take the necessary actions within a reasonable timeframe. 
+Any request or notification that you are obliged to send to us under this Privacy Policy shall be sent to us by e-mail to the following address: [info@aniview.com](https://web.archive.org/web/20170627083935id_/http%3A//www.aniview.com/contact.html) and we will make an effort to respond or take the necessary actions within a reasonable timeframe. 
