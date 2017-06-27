@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120171735id_/http%3A//www.nodq.com/siteinfo.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627034219id_/http%3A//www.nodq.com/siteinfo.shtml) for the most accurate reproduction.*
 
-# NoDQ.com > Site Information
+# NoDQ.com - Site Info
 
-**[NoDQ.com](https://web.archive.org/) > [Site Information](https://web.archive.org/siteinfo.shtml)**
-
-**Legal Notice**  
+  
+**NoDQ.com Site Info**   
 NoDQ.com is not affiliated nor associated with WWE, TNA, UFC, or any other wrestling/MMA organizations. This is a fan-created website. 
 
 Unless otherwise stated, any original content on NoDQ.com (including HTML, graphics, etc) may not be used without proper credit. 
@@ -28,4 +27,5 @@ We are not responsible for any personal information you decide to make public th
 * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.   
 * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
+  
 |    | 
