@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elitesportsny.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020061648id_/http%3A//elitesportsny.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesportsny.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627170126id_/http%3A//elitesportsny.com/terms-of-use) for the most accurate reproduction.*
 
-# Terms Of Use | Elite Sports NY
+# Terms / Privacy
 
 This Privacy Policy governs the manner in which Elite Sports NY collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://elitesportsny.com/> website (“Site”).
 
