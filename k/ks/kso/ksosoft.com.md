@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksosoft.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024190307id_/http%3A//ksosoft.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksosoft.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627153954id_/http%3A//www.ksosoft.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Kingsoft Office
 
