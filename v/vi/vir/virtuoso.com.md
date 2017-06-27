@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023181237id_/https%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627173344id_/https%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
 
 # World's Best Luxury Travel Advisors and Hotels - Virtuoso
 
@@ -107,5 +107,5 @@ This Privacy Policy may be updated periodically and without prior notice to you 
 If you have any questions about this Privacy Policy, or if you would like us to update information we have about you, change your preferences or exercise other applicable data protection rights, please contact us by e-mail at help@virtuoso.com, by phone at 1-855-570-3827, or write to us at:
 
 Virtuoso, Ltd.  
-505 Main Street, Suite 500  
+777 Main Street, Suite 900  
 Fort Worth, TX 76102
