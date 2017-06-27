@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053309id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627203938id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - philly.com
 
@@ -78,6 +78,26 @@ There are no third party beneficiaries of this Privacy Policy, and this Privacy 
 We reserve the right to modify and change this Privacy Policy at any time. Please check our Privacy Policy when you use the Site. Your use of the Site following any changes means that you have accepted those changes.
 
 If you have questions or comments regarding this policy, please contact us through our feedback form: [**http://www.philly.com/philly/about/feedback/**](http://www.philly.com/philly/about/feedback/)
+
+* * *
+
+**Terms of Use**
+
+We welcome you to our site. We ask that you review these Terms of Use, which are intended to constitute a binding license agreement that conditions your use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. Our goal is to protect our rights in order to provide you with access to the free content available at this site. If you do not wish to be bound by this Agreement after you have read it, please leave the site. If you remain on this site, or return thereafter, you agree to be bound by this Agreement.
+
+**1\. Responsible conduct.  **You agree to act responsibly at this site and to treat other visitors with respect.
+
+**2\. Limited License/ Copyright and Intellectual Property Law Restrictions.  **Except for public domain material, the content on this site is protected by intellectual property laws, including U.S. copyright laws. You are hereby granted a non-exclusive license to use the material at this site ("Content") while connected to this site (including, where available, to email individual stories to friends directly from this site). You are also granted a limited license to print one copy of any Content posted at the site, but only for your personal use. Except as expressly provided above, all rights are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our site, electronic reproduction, adaptation, distribution, performance or display is prohibited. Changes to or deletion of author attribution or copyright notices are prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other web sites also is strictly prohibited. You may not display this Web site in frames (or any of the Content via in-line links) without our express written permission, which may be requested by contacting us through our feedback form. You may, however, establish ordinary links to our site without our written permission.
+
+**3\. Links.  **We may provide links from our site to other sites as a convenience to our visitors. We have no control over linked sites and make no representations about any content or material available at these locations. Links are not intended to imply sponsorship, affiliation or endorsement.
+
+**4.**   **Discussion Boards and other self-publishing 3rd party products.**  Although we do not have any obligation to monitor these services, or this self-published content, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable to us in our sole discretion and to disclose any information necessary to satisfy the law, regulation, or government request. We also reserve the right to permanently block any user who violates these terms and conditions.
+
+**5\. DISCLAIMER OF WARRANTIES.**  YOU EXPRESSLY AGREE THAT USE OF THIS WEB SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES.
+
+**6\. Modifications/Termination.  **The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.
+
+**7\. Jurisdiction.**  This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in Philadelphia, Pennsylvania.
 
 * * *
 
