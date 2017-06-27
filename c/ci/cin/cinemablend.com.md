@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031358id_/http%3A//www.cinemablend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200515id_/http%3A//www.cinemablend.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 We can be reached via e-mail using our [contact form](https://web.archive.org/contact.html). 
 
-This website is not meant to be used by unattended minors. Cinema Blend encourages parents to use this website with their children before determining whether our content is suitable for them. 
+This website is not meant to be used by unattended minors. CinemaBlend encourages parents to use this website with their children before determining whether our content is suitable for them. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect the e-mail addresses of those who post messages to comments only if they volunteer them, or the e-mail addresses of those who communicate with us via e-mail. 
 
