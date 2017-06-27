@@ -1,62 +1,26 @@
-<!--The following is the downloaded HTML source of the skift.com privacy policy that was archived on 2016-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160912140230id_/https%3A//www.skift.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skift.com privacy policy that was archived on 2017-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627123445id_/https%3A//www.skift.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-
-<script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580365500000/449646.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-
-//Functions to load HubSpot forms asynchronously
-var hubspotLoopInitiated = false;
-var queuedForms = [];
-
-function queueHubspotForm(form) {
-  queuedForms.push(form);
-  
-  fireHubspotForms(true);
-}
-
-function fireHubspotForms(fromQueue) {
-  
-  if (typeof hbspt !== "undefined" && hbspt) {
-    
-    //hubspot library is loaded, load the forms
-    for (var i = queuedForms.length-1; i >= 0; i--) {
-      hbspt.forms.create(queuedForms[i]); // create the form
-      queuedForms.pop(); // remove it from the queue
-    }
-  
-  } else {
-
-    if (!hubspotLoopInitiated || !fromQueue) {
-      hubspotLoopInitiated = true;
-      setTimeout(fireHubspotForms, 250);
-    }  
-    
-  }  
-}
-</script>
-
-<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta charset="utf-8">
 <title>Privacy Policy – Skift</title>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
+<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580365500000/449646.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta name="bitly-verification" content="372b0623687b">
-<meta name="p:domain_verify" content="81308b48f930b1d73622e8b304a8d880">	
+<meta name="p:domain_verify" content="81308b48f930b1d73622e8b304a8d880">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" "="">
-
-<link rel="shortcut icon" href="https://skift.com/wp-content/themes/skift2/img/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon-57x57-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="512x512" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon-512x512-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon-precomposed.png">
-<link rel="apple-touch-icon" href="https://skift.com/wp-content/themes/skift2/img/apple-touch-icon.png">
-
-
-<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="shortcut icon" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="512x512" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon-512x512-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/img/apple-touch-icon.png">
+ 
 <meta name="description" content="This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, pu">
-<meta name="robots" content="noindex,follow,noodp">
+<meta name="news_keywords" content="">
+<meta name="original-source" content="https://skift.com/privacy/">
+<meta name="robots" content="noindex,follow">
 <link rel="canonical" href="https://skift.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -65,25 +29,25 @@ function fireHubspotForms(fromQueue) {
 <meta property="og:url" content="https://skift.com/privacy/">
 <meta property="og:site_name" content="Skift">
 <meta property="article:publisher" content="https://www.facebook.com/Skiftnews">
-<meta property="og:image" content="http://skift.com/wp-content/themes/skift/img/open-graph-default.png">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://skift.com/wp-content/uploads/2016/09/logo-square-yellow.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, pu">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:site" content="@skift">
-<meta name="twitter:image" content="http://skift.com/wp-content/themes/skift/img/open-graph-default.png">
+<meta name="twitter:image" content="https://skift.com/wp-content/uploads/2016/09/logo-square-yellow.png">
 <meta name="twitter:creator" content="@Nguyen">
-<!-- / Yoast SEO plugin. -->
-
-<link rel="stylesheet" id="wp-notification-bars-css" href="https://skift.com/wp-content/plugins/wp-notification-bars/public/css/wp-notification-bars-public.css?ver=1.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="skift-general-style-css" href="https://skift.com/wp-content/themes/skift2/css/general.css?ver=1472653561" type="text/css" media="all">
-<link rel="stylesheet" id="Google-fonts-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C400%2C700%7CTitillium+Web%3A400%2C200%2C900%2C700italic%2C700%2C600italic%2C600%2C400italic%2C300%2C200italic%2C300italic&amp;ver=4.5.4" type="text/css" media="all">
-<script type="text/javascript" src="https://skift.com/wp-content/themes/skift2/js/min/vendor-scripts-min.js?ver=1"></script>
-<script type="text/javascript" src="https://skift.com/wp-content/plugins/wp-notification-bars/public/js/wp-notification-bars-public.js?ver=1.0.1"></script>
+ 
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//js.hsforms.net">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="skift-header-css" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/css/header-footer-strap.css?v=2&amp;ver=1495745635" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/header-footer/font-awesome/css/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="skift-general-style-css" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/css/general.css?ver=1490029652" type="text/css" media="all">
+<link rel="stylesheet" id="sk-sponsors-styles-css" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/plugins/skift-sponsors-v2/public/css/sk-sponsors-front.css?ver=4.7.5" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://skift.com/wp-json/">
-<link rel="shortlink" href="https://skift.com/?p=42">
+<link rel="shortlink" href="https://wp.me/P4287S-G">
 <link rel="alternate" type="application/json+oembed" href="https://skift.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskift.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://skift.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskift.com%2Fprivacy%2F&amp;format=xml">
-
 <link rel="dns-prefetch" href="//v0.wordpress.com">
 <style type="text/css">img#wpstats{display:none}</style>
 <script>
@@ -97,8 +61,6 @@ function fireHubspotForms(fromQueue) {
 	ga('send', 'pageview', {
 });
 </script>
-
-
 <script type="text/javascript">
 var _qevents = _qevents || [];
 
@@ -114,148 +76,240 @@ _qevents.push({
 qacct:"p-La4SP9Czd8Hsc"
 });
 </script>
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-La4SP9Czd8Hsc.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-
-
-
-<link rel="icon" href="https://skift.com/wp-content/uploads/2016/05/cropped-skift_logo_2048-32x32.png" sizes="32x32">
-<link rel="icon" href="https://skift.com/wp-content/uploads/2016/05/cropped-skift_logo_2048-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://skift.com/wp-content/uploads/2016/05/cropped-skift_logo_2048-180x180.png">
-<meta name="msapplication-TileImage" content="https://skift.com/wp-content/uploads/2016/05/cropped-skift_logo_2048-270x270.png">
+<link rel="icon" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-logo-square-yellow-32x32.png" sizes="32x32">
+<link rel="icon" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-logo-square-yellow-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-logo-square-yellow-180x180.png">
+<meta name="msapplication-TileImage" content="https://skift.com/wp-content/uploads/2016/09/cropped-logo-square-yellow-270x270.png">
 <meta name="Googlebot-News" content="noindex, follow">
-<!-- end meta tags for robots -->
-	<!-- Start BounceX tag. Deploy at the beginning of document head. -->
-	<script>
-	(function(d) {
-	    var e = d.createElement('script');
-	    e.src = d.location.protocol + '//tag.bounceexchange.com/953/i.js';
-	    e.async = true;
-	    d.getElementsByTagName("head")[0].appendChild(e);
-	}(document));
-	</script><script src="https://tag.bounceexchange.com/953/i.js" async=""></script>
-	<!-- End BounceX Tag-->
-	  <script>
-    var showSkyScraperAd = false;
+ 
+ 
+<script>
+    (function(d) {
+        var e = d.createElement('script');
+        e.src = d.location.protocol + '//tag.bounceexchange.com/953/i.js';
+        e.async = true;
+        d.getElementsByTagName("head")[0].appendChild(e);
+    }(document));
+    </script><script src="https://tag.bounceexchange.com/953/i.js" async=""></script>
+ 
+<script>
+    var showSkyScraperAd = true;
   </script>
-  
 </head>
-
 <body>
-
-
-
-<div id="container">
-	<header id="header" class="home">
-				
-		<div id="header-container">
-
-			<div id="logo">
-				<a href="https://skift.com">
-					<img src="https://skift.com/wp-content/themes/skift2/img/logo.svg" width="170" alt="Skift Logo">
-				</a>
-			</div><!-- #logo -->
-			
-			<div id="mobileMenuBtn"></div>
-			
-			<nav id="primary-nav">
-				<ul id="navigation-menu" class="menu">
-					<li id="menu-item-156125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-156125"><a href="#">Categories</a>
-<ul class="sub-menu">
-	<li id="menu-item-156843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156843"><a href="https://skift.com/2016">Latest News</a></li>
-	<li id="menu-item-156133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156133"><a href="https://skift.com/rooms/hotels/">Hotels</a></li>
-	<li id="menu-item-156130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156130"><a href="https://skift.com/destinations/">Destinations</a></li>
-	<li id="menu-item-156131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156131"><a href="https://skift.com/digital/">Digital</a></li>
-	<li id="menu-item-156132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156132"><a href="https://skift.com/digital/startups/">Startups</a></li>
-	<li id="menu-item-156134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156134"><a href="https://skift.com/transport/airlines/">Airlines</a></li>
-	<li id="menu-item-157049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157049"><a href="https://skift.com/travel-services/meetings-conventions/">Meetings</a></li>
-	<li id="menu-item-157050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157050"><a href="https://skift.com/travel-services/travel-agents/">Travel Agents</a></li>
-	<li id="menu-item-157053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157053"><a href="https://skift.com/transport/cruises/">Cruises</a></li>
-	<li id="menu-item-181918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181918"><a href="https://skift.com/travel-services/corporate-travel/">Corporate Travel</a></li>
-	<li id="menu-item-156933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156933"><a href="https://skift.com/all-categories/">All Sectors</a></li>
+<script type="text/javascript">
+    var postID = 42;
+    var categories = [];
+    var tags = [];
+</script>
+<div id="header-container">
+<div id="top-banner">
+ 
+</div> 
+<header id="header" class="">
+<div id="header-left">
+<div id="logo">
+<a href="https://skift.com">
+<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/header-footer/img/logo.svg" class="svg" alt="Skift Logo">
+</a>
+</div> 
+<nav id="primary-nav">
+<ul id="navigation-menu">
+<li class="menu-item"><a href="https://skift.com/news/">News<div class="ddCarrot"><i class="fa fa-chevron-down"></i></div></a>
+<div class="sub-menu">
+<ul>
+<li class="menu-item"><a href="https://skift.com/news/">Latest News</a></li>
+<li class="menu-item"><a href="https://skift.com/rooms/hotels/">Hotels</a></li>
+<li class="menu-item"><a href="https://skift.com/destinations/">Destinations</a></li>
+<li class="menu-item"><a href="https://skift.com/digital/">Digital</a></li>
+<li class="menu-item"><a href="https://skift.com/digital/startups/">Startups</a></li>
+<li class="menu-item"><a href="https://skift.com/transport/airlines/">Airlines</a></li>
+<li class="menu-item"><a href="https://skift.com/travel-services/meetings-and-events/">Meetings</a></li>
+<li class="menu-item"><a href="https://skift.com/travel-services/travel-agents/">Travel Agents</a></li>
+<li class="menu-item"><a href="https://skift.com/transport/cruises/">Cruises</a></li>
+<li class="menu-item"><a href="https://skift.com/travel-services/corporate-travel/">Corporate Travel</a></li>
+<li class="all-sectors menu-item"><a href="https://skift.com/all-categories/">All Sectors</a></li>
 </ul>
+</div>
 </li>
-<li id="menu-item-156126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156126"><a href="http://trends.skift.com">Reports</a></li>
-<li id="menu-item-156127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156127"><a href="http://forum.skift.com">Forum</a></li>
-<li id="menu-item-186520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186520"><a href="https://edu.skift.com">EDU</a></li>
-<li id="menu-item-156128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156128"><a href="http://podcast.skift.com">Podcast</a></li>
-<li id="menu-item-156136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-156136"><a href="https://skift.com/newsletters/">Newsletters</a>
-<ul class="sub-menu">
-	<li id="menu-item-180435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180435"><a href="https://skift.com/daily/">Daily</a></li>
-	<li id="menu-item-180448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180448"><a href="https://skift.com/business-traveler/">Business Traveler</a></li>
-	<li id="menu-item-180449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180449"><a href="https://skift.com/corporate-travel/">Corporate Travel</a></li>
-	<li id="menu-item-180453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180453"><a href="https://skift.com/meetings/">Meetings</a></li>
+<li class="menu-item"><a href="https://research.skift.com">Research</a></li>
+<li class="menu-item"><a href="http://forum.skift.com">Conferences</a></li>
+<li class="menu-item"><a href="https://skift.com/newsletters">Newsletters<div class="ddCarrot"><i class="fa fa-chevron-down"></i></div></a>
+<div class="sub-menu">
+<ul>
+<li class="menu-item"><a href="https://skift.com/daily/">Daily</a></li>
+<li class="menu-item"><a href="https://skift.com/weekly-review/">Weekly</a></li>
+<li class="menu-item"><a href="https://skift.com/business-of-loyalty/">Business of Loyalty</a></li>
+<li class="menu-item"><a href="https://skift.com/corporate-travel/">Corporate Travel</a></li>
+<li class="menu-item"><a href="https://skift.com/meetings/">Meetings</a></li>
+<li class="menu-item"><a href="https://skift.com/new-luxury/">New Luxury</a></li>
+<li class="menu-item"><a href="http://chefstech.co/subscribe/">Chefs+Tech</a></li>
 </ul>
+</div>
 </li>
-					<li class="homeBtn"><a href="/">Home</a></li>
-				</ul>
-			</nav>
-			
-			<div class="clearfix"></div>
-		</div><!-- #header-menus -->
-<!-- 		<span class="a2a-title">Share:</span> -->
-				
-		
-		<div id="headerShare">
-  		<div id="shareText">Share</div>
-  		<div class="headerShareBtn shareBtn facebook" title="Facebook"></div>
-  		<div class="headerShareBtn shareBtn twitter" title="Twitter"></div>
-  		<div class="headerShareBtn shareBtn linkedin" title="LinkedIn"></div>
-  		<div class="headerShareBtn shareBtn emailBtn" title="Email"></div>
-  		<div class="headerShareBtn shareBtn whatsapp" title="WhatsApp"></div>
-		</div>
-		 
+ 
+<li class="menu-item"><a href="http://edu.skift.com">Edu</a></li>
+<li class="menu-item"><a href="http://www.skiftx.com">Advertising</a></li>
+</ul>
+</nav>
+<div class="clearfix"></div>
+</div>
+ 
+ 
+<div id="header-right">
+<div id="header-social">
+<div class="social-btn" title="Facebook"><a href="https://www.facebook.com/Skiftnews/" target="_blank"><i class="fa fa-facebook"></i></a></div>
+<div class="social-btn" title="Twitter"><a href="https://twitter.com/skift" target="_blank"><i class="fa fa-twitter"></i></a></div>
+<div class="social-btn" title="LinkedIn"><a href="https://www.linkedin.com/company/2641998" target="_blank"><i class="fa fa-linkedin"></i></a></div>
+ 
+</div>
+<div id="search">
+<div id="search-container">
+<div id="search-trigger"><i class="fa fa-search"></i></div>
+<div id="search-form">
+<form method="get" action="https://skift.com">
+<input type="search" name="s" id="search-box" class="text">
+<input type="button" value="×" id="search-clear" name="clear">
+</form>
+</div>
+</div>
+</div>
+ 
+</div>
+ 
+<div class="clearfix"></div>
+<div id="mobile-search">
+<div id="search-trigger"><i class="fa fa-search"></i></div>
+</div>
+<div id="mobile-search-form">
+<form method="get" action="https://skift.com">
+<input type="button" value="×" id="mobile-search-close" name="clear">
+<input type="search" value="" name="s" id="mobile-search-box" class="text">
+<button type="submit" id="mobile-search-go" name="go"><i class="fa fa-search"></i></button>
+</form>
+</div>
+<div id="mobileMenuBtn">
+<div class="top-line"></div>
+<div class="middle">
+<div class="middle-line"></div>
+<div class="middle-dot"></div>
+</div>
+<div class="bottom-line"></div>
+</div>
+<nav id="mobile-menu">
+<ul>
+<li class="menu-item"><a href="https://skift.com">Home</a></li> <li class="menu-item"><a href="https://skift.com/news/">News</a></li>
+<li class="menu-item"><a href="https://research.skift.com">Research</a></li>
+<li class="menu-item"><a href="http://forum.skift.com">Conferences</a></li>
+<li class="menu-item"><a href="https://skift.com/newsletters">Newsletters</a></li>
+<li class="menu-item"><a href="http://edu.skift.com">Education</a></li>
+<li class="menu-item"><a href="https://skift.com/advertising">Advertising</a></li>
+</ul>
+</nav>
+</header>
+<div id="header-pad"></div>
+</div>
+<script type="text/javascript">
+  
+    //Functions to load HubSpot forms asynchronously
+    var hubspotLoopInitiated = false;
+    var queuedForms = [];
+    
+    function queueHubspotForm(form) {
+        form.css = form.css || '';
+        form.submitButtonClass = form.submitButtonClass || 'btn btn-primary';
+        
+        if (!form.redirectUrl) {
+            form.inlineMessage = form.inlineMessage || 'Thank you!'
+        }
 
-		<div id="search">
-			<div id="search-trigger"></div>
-			
-			<div id="desktop-search" class="search-form">
-				<form method="get" action="https://skift.com">
-					<div class="search"><input type="search" name="s" class="text" placeholder="search"></div>
-					<div class="submit"><input type="submit" value="Search" name="search" class="button"></div>
-				</form>
-			</div>
-		</div><!-- #search -->
-		
-		
-		<div id="mobile-search" class="search-form">
-			<form method="get" action="https://skift.com">
-				<div class="search"><input type="search" name="s" class="text" placeholder="search"></div>
-				<div class="submit"><input type="submit" value="Search" name="search" class="button"></div>
-			</form>
-		</div>
-	
-		</header>
-	
-	<div id="header-pad"></div>
-
-	<div id="top-banner">
-		<!-- header banner loads into this -->
-	</div><!-- #top-banner -->
-
-	
-
+        form.onBeforeFormInit= function(ctx) {
+            var prevOnReady = ctx.onFormReady;
+            var formContainer = ctx.formContainer;
+            
+            ctx.onFormReady = function(form) {
+                if (typeof formContainer !== "undefined" && formContainer) {
+                    form.parent().appendTo(formContainer);
+                }
+            
+                form.find(".hs-form-field").addClass("form-group");
+                form.find(".hs-form-checkbox").addClass("checkbox-control");
+                form.find(".hs-form-radio").addClass("radio-control");
+                form.find("label").addClass("control-label");
+                form.find(".hs-input").addClass("form-control");
+                
+                form.find(".hs-form-checkbox").each(function() {
+                    $(this).find(".form-control").prependTo($(this));
+                });
+                
+                if (!form.hasClass("noPlaceholders")) {
+                    form.find(".hs-input").each(function() {
+                        var fieldName = $(this).closest(".hs-form-field").find("label span:first").text();
+                        $(this).attr("placeholder",fieldName); 
+                    });
+                }
+            
+                form.find(".hs-input").blur(function() {
+                    var $this = $(this);
+                    setTimeout(function() {
+                        if ($this.hasClass("error")) {
+                            $this.attr("class","form-control error").closest(".hs-form-field").addClass("has-error").find(".hs-error-msgs").show();
+                        } else {
+                            $this.closest(".hs-form-field").removeClass("has-error");
+                        }
+                    },100);
+                }).keyup(function() {
+                    var $this = $(this);
+                    if (!$this.hasClass("error")) {
+                        $this.closest(".hs-form-field").removeClass("has-error").find(".hs-error-msgs").hide();
+                    }
+                });
+        
+                if (form.hasClass("hideLabels")) {
+                    form.find("label").remove();
+                }
+                
+                if (typeof prevOnReady === "function") {
+                    prevOnReady(form);
+                }
+            
+            };
+          
+            return ctx;
+        };
+    
+        queuedForms.push(form);
+        
+        fireHubspotForms(true);
+    }
+  
+    function fireHubspotForms(fromQueue) {
+    
+        if (typeof hbspt !== "undefined" && hbspt) {
+          
+            //hubspot library is loaded, load the forms
+            for (var i = queuedForms.length-1; i >= 0; i--) {
+                hbspt.forms.create(queuedForms[i]); // create the form
+                queuedForms.pop(); // remove it from the queue
+            }
+        
+        } else {
+      
+            if (!hubspotLoopInitiated || !fromQueue) {
+                hubspotLoopInitiated = true;
+                setTimeout(fireHubspotForms, 250);
+            }  
+          
+        } 
+     
+    }
+</script>
 <article id="article" class="post-42 page type-page status-publish hentry">
-	<!--<header id="post-header">
-
-		<div id="post-commentary">
-			<div class="fixed-container">
-				<div id="post-promo">
-									</div><!-- #post-promo --
-			</div><!-- .fixed-container --
-		</div><!-- #post-commentary --
-
-	</header><!-- #post-header -->
-
-	<div id="post-container">
-		<div id="post-body">
-			<div id="post-copy">
-
-				<h2 id="post-headline">Privacy Policy</h2><!-- #post-headline -->
-				<p>This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Skift, Inc and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).</p>
+<div id="post-container">
+<div id="post-body">
+<div id="post-copy">
+<h1 id="post-headline">Privacy Policy</h1> 
+<p>This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Skift, Inc and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).</p>
 <p>At Skift, we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you’re on the site.</p>
 <h3>Use of Personal Information</h3>
 <p>Registration is not required in order to use this site. However, this site may provide comments, polls, submission forms, etc. to its users. You may be required to register for these features. If you do register, and in the process provide us with personally identifiable information, no information will be shared with any third-party organization except with your express consent. If you post comments or articles on the site, any personally identifiable information you provide in those comments or articles will be public. As such, we are not responsible for personally identifiable information that you may choose to share through these channels.</p>
@@ -269,229 +323,84 @@ qacct:"p-La4SP9Czd8Hsc"
 <p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.</p>
 <h3>Contact Details</h3>
 <p>If you have any questions regarding this policy, please email&nbsp;<a href="mailto:hello@skift.com">hello@skift.com</a>.</p>
-<div class="ctx-subscribe-container ctx-clearfix ctx_default_placement"></div><div class="ctx-social-container ctx-clearfix ctx_default_placement"></div><div class="ctx-module-container ctx-clearfix ctx_default_placement"></div>
-			</div><!-- #post-copy -->
-
-			<!--<footer id="post-footer">
-				<!--<div id="post-social-tags-signup">
-					<!--<div id="post-social-tags">
-						<div id="post-tags">
-							<p></p>
-						</div><!-- #post-tags -->
-
-						<!--<div class="sharing">
-							<p>Share this:</p>
-													</div><!-- .sharing -->
-
-					<!--</div><!-- #post-social-tags -->
-
-					<!--<div class="newsletter-signup">
-											</div><!-- .newsletter-signup -->
-				<!--</div><!-- #post-social-tags-signup -->
-			<!--</footer><!-- #post-footer -->
-
-		</div><!-- #post-body -->
-	</div><!-- #post-container -->
-
-</article><!-- #article -->
-
-	<div id="drip-pan">
-		
-		<div id="drip-pan-stories">
-					
-		<div class="storyThumb small">
-			<div class="pusher"></div>
-			
-			<a href="https://skift.com/2016/09/10/airbnbs-racism-problem-and-6-other-hospitality-trends-this-week/"><img src="https://skift.com/wp-content/uploads/2016/06/airbnb-race-400x267.jpg" alt="Airbnb’s Racism Problem and 6 Other Hospitality Trends This Week" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-								
-								
-				<h2><a href="https://skift.com/2016/09/10/airbnbs-racism-problem-and-6-other-hospitality-trends-this-week/">Airbnb’s Racism Problem and 6 Other Hospitality Trends This Week</a></h2>
-				
-									<span class="post-date">2 days ago</span>
-							</div>
-			
-		</div>
-				
-		<div class="storyThumb small">
-			<div class="pusher"></div>
-			
-			<a href="https://skift.com/traveltech250/"><img src="https://skift.com/wp-content/uploads/2016/08/skiftTravelTech.jpg" alt="Mapping the Travel Tech Ecosystem: Skift Travel Tech 250" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-								
-					  			<span class="product-tag">
-	  				<span class="copy">Market Map</span>
-	  			</span> 
-								
-				<h2><a href="https://skift.com/traveltech250/">Mapping the Travel Tech Ecosystem: Skift Travel Tech 250</a></h2>
-				
-							</div>
-			
-		</div>
-				
-		<div class="storyThumb small last-story">
-			<div class="pusher"></div>
-			
-			<a href="https://skift.com/2016/09/11/brexit-fallout-and-5-other-aviation-trends-this-week/"><img src="https://skift.com/wp-content/uploads/2016/09/AVION_HD-e1473089407675-400x267.jpg" alt="Brexit Fallout and 5 Other Aviation Trends This Week" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-								
-								
-				<h2><a href="https://skift.com/2016/09/11/brexit-fallout-and-5-other-aviation-trends-this-week/">Brexit Fallout and 5 Other Aviation Trends This Week</a></h2>
-				
-									<span class="post-date">24 hours ago</span>
-							</div>
-			
-		</div>
-				
-		<div class="storyThumb small omega">
-			<div class="pusher"></div>
-			
-			<a href="https://skift.com/2016/09/06/a-look-back-at-how-far-travel-agents-have-come/"><img src="https://skift.com/wp-content/uploads/2016/09/Signature-Travel-383x278.png" alt="A Look Back at How Far Travel Agents Have Come" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-					  			<span class="sponsored">
-	  				<span class="copy">Sponsored 
-	  					<!-- <span class="about">?</span>  -->
-	  					<span class="declaration">
-	  						This content is created collaboratively with one of our sponsors.
-	  					</span>
-	  				</span>
-	  			</span> 
-								
-								
-				<h2><a href="https://skift.com/2016/09/06/a-look-back-at-how-far-travel-agents-have-come/">A Look Back at How Far Travel Agents Have Come</a></h2>
-				
-									<span class="post-date">6 days ago</span>
-							</div>
-			
-		</div>
-				
-		<div class="storyThumb small">
-			<div class="pusher"></div>
-			
-			<a href="https://skift.com/2016/09/09/travelnac-canguru-and-more-in-todays-travel-startup-watch/"><img src="https://skift.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-09-at-11.26.38-AM-400x250.png" alt="Travelnac, Canguru and More in Today’s Travel Startup Watch" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-								
-								
-				<h2><a href="https://skift.com/2016/09/09/travelnac-canguru-and-more-in-todays-travel-startup-watch/">Travelnac, Canguru and More in Today’s Travel Startup Watch</a></h2>
-				
-									<span class="post-date">3 days ago</span>
-							</div>
-			
-		</div>
-				
-		<div class="storyThumb small last-story">
-			<div class="pusher"></div>
-			
-			<a href="https://trends.skift.com/trend/inside-the-mind-of-the-digital-native-traveler/"><img src="https://trends.skift.com/wp-content/uploads/2016/08/DigitalNative-1-325x325.jpg" alt="Inside the Mind of the Digital Native Traveler" onclick="ga('send', 'event', 'Drip Pan', 'Click', 'Related Content');" class="image"></a>
-			
-			<div class="headline">
-				
-								
-					  			<span class="product-tag">
-	  				<span class="copy">Trend Report</span>
-	  			</span> 
-								
-				<h2><a href="https://trends.skift.com/trend/inside-the-mind-of-the-digital-native-traveler/">Inside the Mind of the Digital Native Traveler</a></h2>
-				
-							</div>
-			
-		</div>
-			
-			<div class="clearfix"></div>
-		</div><!-- #drip-pan-stories -->
-
-	</div><!-- #drip-pan -->
-
-		<footer id="footer">
-
-		<div id="footer-content">
-
-			<div id="footer-title-social">
-
-				<div class="social-title">Connect with Us</div>
-
-				<div id="footer-social">
-					<ul>
-						<li>
-							<a href="https://facebook.com/skiftnews" class="icon">
-								<div class="facebook"></div>
-							</a>
-						</li>
-						<li>
-							<a href="https://twitter.com/skift" class="icon">
-								<div class="twitter"></div>
-							</a>
-						</li>
-						<li>
-							<a href="https://linkedin.com/company/skift" class="icon">
-								<div class="linkedin"></div>
-							</a>
-						</li>
-						<li>
-							<a href="https://flipboard.com/profile/skift" class="icon">
-								<div class="flipboard"></div>
-							</a>
-						</li>
-						<li>
-							<a href="https://skift.com/feed/" class="icon">
-								<div class="rss"></div>
-							</a>
-						</li>
-						<li>
-							<a href="https://skift.com/newsletters/" class="icon">
-								<div class="email"></div>
-							</a>
-						</li>
-					</ul>
-				</div><!-- #footer-social -->
-
-				<ul class="footer-nav">
-					<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://skift.com/about/">About Skift</a></li>
-<li id="menu-item-46" class="end menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://skift.com/terms/">Terms of Use</a></li>
-<li id="menu-item-134536" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42 current_page_item menu-item-134536"><a href="https://skift.com/privacy/">Privacy Policy</a></li>
-<li id="menu-item-146581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146581"><a href="https://skift.com/partnership/">Partnerships</a></li>
-				</ul>
-				<div class="clearfix"></div>
-			</div><!-- #footer-title-social -->
-
-			<!--<div id="footer-info">
-				
-
-				<p class="copyright">&copy;2016 <a href="https://skift.com">Skift</a> All Rights Reserved</p>
-			</div><!-- #footer-info -->
-
-		</div><!-- #footer-content -->
-		
-	</footer>
-	
-		
-</div><!-- #container -->
-
-		<div class="mtsnb mtsnb-shown mtsnb-top mtsnb-fixed" id="mtsnb-192537" data-mtsnb-id="192537" style="background-color:#5fc5c7;color:#000000;">
-			<style type="text/css">
-				.mtsnb { position: fixed; -webkit-box-shadow: 0 3px 4px rgba(0, 0, 0, 0.05);box-shadow: 0 3px 4px rgba(0, 0, 0, 0.05);}
-				.mtsnb .mtsnb-container { width: 1080px; font-size: 14px;}
-				.mtsnb a { color: #e87133;}
-				.mtsnb .mtsnb-button { background-color: #e87133;}
-			</style>
-			<div class="mtsnb-container-outer">
-				<div class="mtsnb-container mtsnb-clearfix">
-										<div class="mtsnb-button-type mtsnb-content"><span class="mtsnb-text">CEOs of Marriott, Expedia, Carnival, &amp; Club Med are coming to Skift Global Forum. Are you?</span><a href="http://forum.skift.com" class="mtsnb-button">GET TICKET</a></div>									</div>
-												<a href="#" class="mtsnb-hide" style="background-color:#5fc5c7;color:#000000;"><span>+</span></a>
-							</div>
-		</div>
-		
-<!-- Start of Async HubSpot Analytics Code for WordPress v1.1.0 -->
+<div class="ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix"></div><div class="ctx-social-container ctx_default_placement ctx-clearfix"></div><div class="ctx-module-container ctx_default_placement ctx-clearfix"></div><span class="ctx-article-root"> </span>
+</div> 
+</div> 
+</div> 
+</article> 
+<footer id="footer">
+<div id="footer-content">
+<div class="footer-column first">
+<div class="footer-item" id="footer-nav">
+<div class="footer-title">Skift Corporate</div>
+<ul>
+<li class="menu-item"><a href="https://www.skift.com/about/">About Skift</a></li>
+<li class="menu-item"><a href="http://www.skiftx.com">Advertise With Us</a></li>
+<li class="menu-item"><a href="https://www.skift.com/terms/">Terms of Use</a></li>
+<li class="menu-item"><a href="https://www.skift.com/privacy/">Privacy Policy</a></li>
+</ul>
+</div>
+</div> 
+<div class="footer-column middle">
+<div class="footer-item" id="social">
+<div class="footer-title">Follow Us</div>
+<ul>
+<li>
+<a href="https://facebook.com/skiftnews" class="icon">
+<i class="fa fa-facebook" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/skift" class="icon selected">
+<i class="fa fa-twitter twitter-icon" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a href="https://linkedin.com/company/skift" class="icon">
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a href="https://www.skift.com/newsletters/" class="icon">
+<i class="fa fa-envelope" aria-hidden="true"></i>
+</a>
+</li>
+</ul>
+<div id="footer-tweet-box">
+<div id="footer-tweet">
+<p id="tweet-content">
+The Business of Loyalty: Carnival Cruise Line Wants to Win Over Customers Earlier <a href="https://t.co/vad1PtRB6D">https://t.co/vad1PtRB6D</a> <a href="https://t.co/vJDUy8M0c2">https://t.co/vJDUy8M0c2</a> </p>
+<p id="tweet-meta">
+Twitter | 1 hour ago
+</p>
+</div>
+</div>
+</div> 
+</div> 
+<div class="footer-column last">
+<div class="footer-item" id="podcast">
+<div class="footer-title">Latest Podcast Episodes</div>
+<ul>
+<li><a target="_blank" href="http://podcast.skift.com/2017/05/25/skift-backstage-podcast-travel-search-bargain-hunting-and-the-future-of-booking/">
+Skift Backstage Podcast: Travel Search, Bargain Hunting and the Future of Booking&nbsp;<i class="fa fa-chevron-right"></i>
+</a>
+</li>
+<li><a target="_blank" href="http://podcast.skift.com/2017/05/12/skift-backstage-podcast-norwegian-air-ceo-on-flying-cheap-and-long-haul/">
+Skift Backstage Podcast: Norwegian Air CEO on Flying Cheap and Long-Haul&nbsp;<i class="fa fa-chevron-right"></i>
+</a>
+</li>
+<li><a target="_blank" href="http://podcast.skift.com/2017/05/12/backstage-podcast-global-tourism-in-a-volatile-time/">
+Skift Backstage Podcast: Global Tourism in a Volatile Time&nbsp;<i class="fa fa-chevron-right"></i>
+</a>
+</li>
+</ul>
+</div> 
+</div> 
+<div class="clearfix"></div>
+ 
+</div> 
+</footer>
+ 
 <script type="text/javascript">
 var _hsq = _hsq || [];
 _hsq.push(["setContentType", "standard-page"]);
@@ -502,25 +411,27 @@ _hsq.push(["setContentType", "standard-page"]);
   e.parentNode.insertBefore(n, e);
 })(document, "script", "hs-analytics", 300000);
 </script>
-<!-- End of Async HubSpot Analytics Code -->
-<script type="text/javascript" src="https://skift.com/wp-content/themes/skift2/js/min/script-min.js?ver=1472653561"></script>
-<script type="text/javascript" src="//js.hsforms.net/forms/v2.js?ver=4.5.4"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201637"></script>
-<script type="text/javascript" src="https://skift.com/wp-includes/js/wp-embed.min.js?ver=4.5.4"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201637.js" async="" defer=""></script>
+ 
+<script type="text/javascript" src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/js/min/vendor-scripts-min.js?ver=1"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201726"></script>
+<script type="text/javascript" src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/plugins/skift-sponsors-v2/public/js/min/sk_sponsors-front-min.js"></script>
+<script type="text/javascript" src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/themes/skift/js/min/script-min.js?v=4&amp;ver=1497627086"></script>
+<script type="text/javascript" src="//js.hsforms.net/forms/v2.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201726.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'59613240',post:'42',tz:'-4',srv:'skift.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'59613240',post:'42',tz:'-4',srv:'skift.com'} ]);
 	_stq.push([ 'clickTrackerInit', '59613240', '42' ]);
 </script>
-	<script type="text/javascript">
+<script type="text/javascript">
 		var _sf_async_config={};
 		/** CONFIGURATION START **/
 		_sf_async_config.uid = 48361; //CHANGE THIS 54620
 		_sf_async_config.domain = 'skift.com'; //CHANGE THIS
 		_sf_async_config.useCanonical = true;
-		//_sf_async_config.sections = 'Section1,Section2'; //CHANGE THIS		
-		
+		//_sf_async_config.sections = 'Section1,Section2'; //CHANGE THIS
+
 		/** CONFIGURATION END **/
 
 		(function(){
@@ -536,5 +447,6 @@ _hsq.push(["setContentType", "standard-page"]);
 			window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
 		})();
 	</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"40195a0833","applicationID":"8481968","transactionName":"b1NRMRdTChAEBRFaDlYZcgYRWwsNShYEVAQ=","queueTime":0,"applicationTime":676,"atts":"QxRSR19JGR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_pub.js"></script></body></html>
