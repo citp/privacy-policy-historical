@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinedirectoryfree.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001092724id_/http%3A//www.onlinedirectoryfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinedirectoryfree.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627165721id_/http%3A//www.onlinedirectoryfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Directory Free
 
