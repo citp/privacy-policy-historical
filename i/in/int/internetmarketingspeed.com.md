@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113095636id_/http%3A//www.superfastbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628000843id_/http%3A//www.superfastbusiness.com/privacy) for the most accurate reproduction.*
 
 # SuperFastBusiness Privacy Notice
 
 [last updated December 2015]
 
-This Privacy Notice should be read in conjunction with our [terms and conditions](https://www.superfastbusiness.com/terms/).
+This Privacy Notice should be read in conjunction with our [terms and conditions](http://www.superfastbusiness.com/terms/).
 
  **Our privacy commitment**  
 If you are visiting this page you may have been directed from one of Our Websites . We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with any website controlled by SuperFastBusiness. We hold the privacy of your personal information in the highest regard. This notice sets out how we collect, use and safeguard your personal information to assist you in making informed decisions when using oursites. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.  
