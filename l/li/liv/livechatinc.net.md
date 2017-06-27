@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the livechatinc.net privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615033612id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627201207id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | LiveChat
 
 ###### Making sure everything works smoothly.
 
-Effective Date: 5/23/2012
+Effective date: 5/23/2012, last edit: 6/12/2017
 
-LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via http://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
-
-[ ](https://privacy.truste.com/privacy-seal/LIVECHAT,-Inc-/validation?rid=e32cb001-24ef-4783-bd3e-305a87ac03ef "TRUSTe European Safe Harbor certification") LiveChat, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software provided by third parties. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@livechatinc.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx) [ ](http://www.export.gov/safeharbor) LiveChat, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. LiveChat, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LiveChat, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via https://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
 
 ## Provided data
 
-Collected by LiveChat, Inc. personal data and other user’s information is used in order to complete user registration and at the same time to ensure his access to LiveChat, Inc. services and products. While registering on our website http://www.livechatinc.com/ we request that you provide us with such information as: name, surname, company business name, address, website address, e-mail address and credit/payment card information in the event when a user continues to use our services after a 30-day free of charge trial period. Unless a user decides to use our services after a 30-day free of charge trial period, credit/payment card information is not required. Some of the provided user’s information such as: your IP address, domain, browser type, operation system type etc. may be automatically acquired when a user visits our websites. When contacting LiveChat, Inc. the user may be requested to render accessible analogical data to those provided while registering on our website. Personal data provided in connection with the correspondence between the user and LiveChat, Inc. shall be used strictly to reply to inquiries made by the user or to transfer information. We use the information you provide us in order to provide you with customer service, allow you to view your statistics, e-commerce, goals, performance, chat queue, availability, customer satisfaction, chats, chat logs, view the chat operators and visitors to your livechat service.
+Collected by LiveChat, Inc. personal data and other user’s information is used in order to complete user registration and at the same time to ensure his access to LiveChat, Inc. services and products. While registering on our website https://www.livechatinc.com/ we request that you provide us with such information as: name, surname, company business name, address, website address, e-mail address and credit/payment card information in the event when a user continues to use our services after a 30-day free of charge trial period. Unless a user decides to use our services after a 30-day free of charge trial period, credit/payment card information is not required. Some of the provided user’s information such as: your IP address, domain, browser type, operation system type etc. may be automatically acquired when a user visits our websites. When contacting LiveChat, Inc. the user may be requested to render accessible analogical data to those provided while registering on our website. Personal data provided in connection with the correspondence between the user and LiveChat, Inc. shall be used strictly to reply to inquiries made by the user or to transfer information. We use the information you provide us in order to provide you with customer service, allow you to view your statistics, e-commerce, goals, performance, chat queue, availability, customer satisfaction, chats, chat logs, view the chat operators and visitors to your livechat service.
 
 When using the support section of our site we will collect your email address, name, twitter account, or other openID account ID for the purpose of allowing you to sign up for our customer support , submit a request, check your existing requests and commenting within the support forum. You may also upload a photo of yourself while using this service, if you no longer wish to have your photo displayed you may log into your account and request to have this removed or contact us at support@livechatinc.com. 
 
@@ -90,7 +86,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Data gathering entity
 
-Conducting its activity, under the business name of LiveChat, Inc., with its registered office: 405 North Street, Chapel Hill, NC 27514, United States of America, shall be the entity gathering personal data and other information.
+Conducting its activity, under the business name of LiveChat, Inc., with its registered office: One International Place, Suite 1400, Boston, MA 02110, United States of America, shall be the entity gathering personal data and other information.
 
 ## Commercial transactions
 
@@ -138,7 +134,7 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 
 ## Terms and conditions of use
 
-Using offered products and services rendered by LiveChat, Inc., the user is obliged to comply with rules contained in the terms and conditions available on our website: <http://www.livechatinc.com/terms-and-conditions/>.
+Using offered products and services rendered by LiveChat, Inc., the user is obliged to comply with rules contained in the terms and conditions available on our website: <https://www.livechatinc.com/terms-and-conditions/>.
 
 ## Contact
 
@@ -146,6 +142,7 @@ Should you have any inquiries or doubts regarding our privacy policy or applied 
 
 **LiveChat, Inc.**   
 Attn: Privacy Officer  
-405 North Street   
-Chapel Hill, NC 27514   
+One International Place  
+Suite 1400  
+Boston, MA 02110-2619  
 
