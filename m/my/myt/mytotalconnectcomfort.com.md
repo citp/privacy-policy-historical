@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytotalconnectcomfort.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210092224id_/https%3A//honeywell.com/Privacy/pages/en.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytotalconnectcomfort.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627224041id_/https%3A//honeywell.com/Privacy/pages/en.aspx) for the most accurate reproduction.*
 
 # Honeywell Privacy Statement
 
