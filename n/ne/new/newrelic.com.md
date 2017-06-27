@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052929id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628003843id_/https%3A//newrelic.com/privacy) for the most accurate reproduction.*
 
 # New Relic Privacy Policy | New Relic
 
-This Privacy Policy was last updated on September 30, 2016.
+This Privacy Policy was last updated on April 12, 2017.
 
-New Relic has self-certified to the EU-US Privacy Shield. Please click [here](https://web.archive.org/privacy-shield) to view our Privacy Shield Notice.
+New Relic has self-certified to the Swiss-US and EU-US Privacy Shield. Please click [here](https://web.archive.org/privacy-shield) to view our Privacy Shield Notice.
 
-New Relic, Inc (" **New Relic** ," "We", "Us") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the " **Products** "), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [http://newrelic.com/terms](https://web.archive.org/terms).
+New Relic, Inc (" **New Relic** ," "We", "Us") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the " **Products** "), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [https://newrelic.com/terms](https://web.archive.org/terms).
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.newrelic.com and our service rpm.newrelic.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged New Relic.
 
