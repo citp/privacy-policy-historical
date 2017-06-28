@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030748id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080741id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # FXDD Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
 
-FXDD [](http://www.fxdd.com/us/en/)
+[](http://www.fxdd.com/us/en/)
 
-  * [Terms and Conditions](http://www.fxdd.com/us/en/terms-and-conditions/)
-  * /
-  * [Privacy Policy](http://www.fxdd.com/us/en/privacy-policy/)
+. 
 
-
-
-  * [Products](http://www.fxdd.com/us/en/products/)
+  * [About FXDD](http://www.fxdd.com/us/en/why-fxdd/)
+  * [Markets](http://www.fxdd.com/us/en/products/)
   * [Platforms](http://www.fxdd.com/us/en/platforms/)
-  * [Accounts](http://www.fxdd.com/us/en/accounts/)
-  * [About FXDD](http://www.fxdd.com/us/en/about-fxdd/)
+  * [Accounts](http://www.fxdd.com/us/en/get-started/)
 
 
 
@@ -47,19 +43,15 @@ Should have any questions regarding your account, please contact the Compliance 
 
   * [Terms and Conditions](http://www.fxdd.com/us/en/terms-and-conditions/)
   * [Privacy Policy](http://www.fxdd.com/us/en/privacy-policy/)
-  * [Report Viewer](http://www.fxdd.com/us/en/forex-resources/forex-trading-tools/report-viewer/)
-  * [iBroker Interface](http://www.fxdd.com/us/en/forex-resources/forex-trading-tools/ibroker-interface/)
+  * [Report Viewer](http://www.fxdd.com/us/en/support/forex-trading-tools/report-viewer/)
+  * [iBroker Interface](http://www.fxdd.com/us/en/support/forex-trading-tools/ibroker-interface/)
   * [Site Map](http://www.fxdd.com/us/en/site-map/)
 
 
 
-© 2015 FXDD
+© 2017  FXDD, Newport Tower, 525 Washington Blvd #1405, Jersey City, NJ 07310
 
-NFA #0397435 **MEMBER, NATIONAL FUTURES ASSOCIATION**
-
-You may check FXDirectDealer, LLC's (FXDD's) registration and that of its Associated Persons by visiting the NFA's Background Affiliation Status Information Center (BASIC) at[www.nfa.futures.org](http://www.nfa.futures.org/). *During normal market conditions. The spreads are not fixed and may fluctuate with market volatility. [Click here](http://www.fxdd.com/us/en/forex-resources/forex-trading-tools/live-curency-quotes/) to see our spread chart.
-
-FXDirectDealer, LLC ("FXDD") (CICI 54930058T8RTMEHB3094) is a registered introducing broker NFA # 0397435
+[](http://www.fxdd.com/mt/en/)
 
 **HIGH RISK WARNING:** Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all of your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading, and seek advice from an independent financial or tax advisor if you have any questions.
 
