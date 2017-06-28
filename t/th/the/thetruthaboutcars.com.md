@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122202002id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628200003id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -74,16 +74,14 @@ If you have questions or suggestions about this privacy statement, or your own p
 
   * #### Editors
 
-  * [Mark Stevenson](https://web.archive.org/about/)  
-Managing Editor 
   * [Steph Willems](https://web.archive.org/about/)  
 Associate Editor 
   * [Timothy Cain](https://web.archive.org/about/)  
 Sales Analysis 
+  * [Mark Stevenson](https://web.archive.org/about/)  
+Editor-at-large 
   * [Jack Baruth](https://web.archive.org/about/)  
 Editor-at-Large 
-  * [Bark M.](https://web.archive.org/about/)  
-Advice Columnist 
   * [Murilee Martin](https://web.archive.org/about/)  
 Junkyard Find Editor 
   * [Sajeev Mehta](https://web.archive.org/about/)  
@@ -92,13 +90,12 @@ Piston Slap Editor
 
   * #### Contributors
 
-  * Vojta Dobes, Czech Republic 
   * Matthew Guy, Canada 
-  * Kamil Kaluski, United States 
   * Seth Parks, United States 
   * Ronnie Schreiber, United States 
   * Bozi Tatarevic, United States 
-  * Chris Tonn, United States
+  * Chris Tonn, United States 
+  * Corey Lewis, United States
 
 
   * #### Moderators
