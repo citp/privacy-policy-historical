@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226015345id_/http%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628232806id_/http%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Parchment
+# Privacy Policy | Parchment
 
 At Parchment Inc. (“Parchment”) we take your privacy seriously. We have developed this Privacy Policy to clearly describe how we collect, use, and disclose your information as we provide our services and tools on or via this website, [www.parchment.com](http://www.parchment.com/), and its affiliated websites (“the Site”), collectively referred to herein as “the Services.” The Services include the electronic ordering, fulfillment, and delivery of academic credentials and data, including without limitation, transcripts and related admissions documents, diplomas, test score reports, certificates and certifications (collectively, “Credentials”).
 
