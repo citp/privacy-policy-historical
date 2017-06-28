@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dawnofwar.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126190135id_/http%3A//www.sega.co.uk/Privacy-canada) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnofwar.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023743id_/http%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
 
-# SEGA Privacy Policy - Canada | SEGA
+# Privacy | SEGA
 
 SEGA is committed to protecting and respecting your privacy.
 
@@ -129,7 +129,7 @@ We reserve the right to change this privacy policy at any time without notice, a
 
 If you have any questions about this privacy statement or the practices of this site, please contact SEGA:
 
-United Kingdom Customer services: +44 870 010 8002 (national rate).
+United Kingdom Customer services: +44  870 010 8002 (national rate).
 
 For other, please visit Support section. You may also send mail to the following postal address:
 
