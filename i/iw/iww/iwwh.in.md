@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903121818id_/http%3A//www.iwwh.in/p/privacy-policy_21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwwh.in privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628191858id_/http%3A//www.iwwh.in/p/privacy-policy_21.html) for the most accurate reproduction.*
 
 # Privacy Policy - Iwwh Blog
 
