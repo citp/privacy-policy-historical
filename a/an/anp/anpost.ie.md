@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221094031id_/http%3A//www.anpost.ie/AnPost/web%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628052321id_/http%3A//www.anpost.ie/AnPost/web%2Bpolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Last Change: The cookie policy has been updated to reflect the inclusion of an advertising cookie from Google called DoubleClick. This cookie ensures that we show advertising that is relevant to you.
 
-  * [An Post web policy](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#apwp)
-  * [Data privacy statement](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#DPS)
-  * [Cookie policy](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#cookie)
+  * [An Post web policy](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#apwp)
+  * [Data privacy statement](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#DPS)
+  * [Cookie policy](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#cookie)
 
 
 
@@ -75,8 +75,8 @@ We use this data for administrative and statistical purposes as well as to help 
 
 Last Change: The cookie policy has been updated to reflect the inclusion of an advertising cookie from Google called DoubleClick. This cookie ensures that we show advertising that is relevant to you.
 
-  * [What is a cookie?](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#Whatis)
-  * [How can I control cookies?](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#Howcan)
+  * [What is a cookie?](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#Whatis)
+  * [How can I control cookies?](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#Howcan)
 
 
 
@@ -117,13 +117,13 @@ Most Sites you visit will use cookies in order to improve your user experience b
 
 Cookies may be set by the Site you are visiting (‘first party cookies’) or they may be set by other Sites who run content on the page you are viewing (‘third party cookies’).
 
-[Back to top](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#)
+[Back to top](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#)
 
 ### An Post Cookies
 
 An Post (“An Post”/“us”/”our”/”we”) uses first party and third party cookies. We use cookies in order to make this Site easier to use, to support the provision of information and functionality to you, as well as to provide us with information about how this Site is used so that we can make sure it is as up to date, relevant and error free as we can. 
 
-Further information about the types of cookies that are used on this Site is set out below. To the extent any Personal Information is collected through cookies, the [Data Privacy Statement](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#DPS) applies and compliments this Cookie Policy. 
+Further information about the types of cookies that are used on this Site is set out below. To the extent any Personal Information is collected through cookies, the [Data Privacy Statement](http://www.anpost.ie/AnPost/GeneralTemplates/AboutUsStandard.aspx?NRMODE=Published&NRNODEGUID=%7b0589F496-07DD-49A2-8BE0-3168A246A19D%7d&NRORIGINALURL=%2fAnPost%2fweb%2bpolicy%2ehtm&NRCACHEHINT=Guest#DPS) applies and compliments this Cookie Policy. 
 
  By continuing to browse the site you are agreeing to our use of cookies and the cookies notice at the top of your browser will disappear. If you block our use of cookies, you may be unable to access certain areas of our Site and certain functions and pages will not work in the usual way. Doing so may also affect our ability to update this Site to cater for user preferences and improve its performance. 
 
