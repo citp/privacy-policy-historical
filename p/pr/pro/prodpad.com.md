@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prodpad.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506010238id_/https%3A//www.prodpad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodpad.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628154106id_/https%3A//www.prodpad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ProdPad | Product Management Software
+# Privacy Policy -
 
 We provide a service that allows you and your team to be more productive in your product management processes.
 
@@ -8,7 +8,7 @@ Our privacy policy is reviewed at regular intervals to ensure it meets the curre
 
 This policy covers ProdPad and CreateShift websites (including www.prodpad.com, www.createshift.com) as well as the software and services made available through the ProdPad APIs. By using ProdPad services you are agreeing to this privacy policy.
 
-Our cookie policy is detailed [here](http://www.prodpad.com/cookie-policy/ "Cookie Policy").
+Our cookie policy is detailed [here](http://prodpad2017.wpengine.com/cookie-policy/).
 
 ### Principles
 
@@ -50,7 +50,7 @@ We use the information collected to provide and enhance the services offered by 
 
 We will use this information for the:
 
-    1. Calculation of metrics for the community such as benchmark effort or impact
+  1.     1. Calculation of metrics for the community such as benchmark effort or impact
     2. Fulfilment of ProdPad services
     3. Enhancement and improvement of the ProdPad web apps and services in order to provide a better user experience
     4. Monitoring and reporting for internal business purposes
