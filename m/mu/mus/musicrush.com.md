@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicrush.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201035336id_/http%3A//musicrush.com//privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrush.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103053id_/http%3A//www.musicrush.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MusicRush.com
 
@@ -16,4 +16,4 @@ At no time is any account information shared with any outside parties, with the 
 
 ### Contact Us
 
-If you have any questions or concerns about the MusicRush.com Privacy Policy, please [Contact Us](http://musicrush.com//form/contact_us)
+If you have any questions or concerns about the MusicRush.com Privacy Policy, please [Contact Us](http://www.musicrush.com/contact_us)
