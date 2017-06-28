@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120153816id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628160744id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy for Sweeties Sweeps  
 **
 
-These policies are valid from June 24, 2008 and were updated December 5, 2015. Last updated on December 5, 2015.
+These policies are valid from June 24, 2008 and were updated December 5, 2015. Last updated on December 22, 2016.
 
 **Commitment to Online Security**
 
@@ -13,13 +13,7 @@ Personal information submitted to Sweeties Sweeps is only accessible only the ow
 
 **Referral, Affiliate and Tracking Links Policies**
 
-Sweeties Sweeps never uses our own referral links in our posts, on Twitter, on Facebook, or Google Plus to compete in sweepstakes with our visitors and readers. We do not allow our readers to submit giveaways, contests or sweepstakes and use their own referral links to get extra entries. We do use affiliate links and tracking links in some of our posts and ads. Affiliate links help us generate income to keep Sweeties Sweeps running. Tracking links may be provided by companies who run sweepstakes to let them know how many people are entering their sweepstakes that they find on Sweeties Sweeps.
-
-_**About Sweepstakes Referral Links**_
-
-_**From a Reader:** Out of curiosity, when a contest says share to get extra entries; with you posting the contests, do you get extra entries for everyone who enters through your links?_
-
-Sweeties Sweeps never uses personal referral links in the sweepstakes we post and we do not get extra entries into the sweepstakes we post.  We do, however, sometimes put tracking links in the sweeps we post so the companies who run the sweepstakes can see the traffic coming from Sweeties Sweeps. Tracking links never help us win a contest or sweepstakes.
+Sweeties Sweeps may use our own referral links in our posts, sweepstakes listings, on Twitter, on Facebook, Google Plus, Pinterest, Instagram and Snapchat to get extra entries in sweepstakes. If you don’t want to use our referral links, [join the Secret site](https://sweetiessecretsweeps.com/join/). We do not use any referral links on the Secret site. We also allow our regular readers and visitors to share their referral links in the comments on a giveaway listing, and anywhere a comment is allowed (ie, Facebook, Instagram, Pinterest, Google Plus) to get extra entries into a sweepstakes or contest. We use affiliate links and tracking links in some of our posts, sweepstakes listings and ads. Affiliate links help us generate income to keep Sweeties Sweeps free to use. If you do not like ads, please consider joining our private, member only site, Sweeties Secret Sweeps. There are no ads on the Secret site and all sweepstakes found on SweetiesSweeps.com can also be found on [Sweeties Secret Sweeps](http://sweetiessecretsweeps.com/join/) along with up to 1,000 member-only sweepstakes each month that are never found on SweetiesSweeps.com. Tracking links are used to help companies and bloggers who run sweepstakes and other giveaways know how many people are entering their sweepstakes that they find on Sweeties Sweeps.
 
 You can read about our Ad and Affiliate Policies [here](http://sweetiessweeps.com/about/product-review-and-ad-policies)
 
