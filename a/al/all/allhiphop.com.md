@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227005939id_/http%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628094513id_/https%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Exclusive Hip Hop News, Interviews, Rumors, Rap & Music Videos | Allhiphop
 
-[Click Here for DMCA Policy and Take Down Requests!](http://allhiphop.com/privacy-policy/dmca-policy/)
+[Click Here for DMCA Policy and Take Down Requests!](https://allhiphop.com/privacy-policy/dmca-policy/)
 
 Welcome to our website, www.AllHipHop.com (the “Website”). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you do not want us accessing and/or using your personal information as described herein, please do not provide us with any! This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
 
@@ -18,7 +18,7 @@ a. **Personally Identifiable Information** We may collect personally identifiabl
 
 We do not share personally identifiable information with unrelated third parties for their own marketing purposes without your prior permission. We ask you to keep in mind that if you voluntarily disclose personal information online – for example, in a forum made available through the Website – that information can be viewed and used by others. We are not responsible for unsolicited messages you receive from other users. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any content you post to a public area of the Website may be used by us for any purpose in our sole discretion.
 
-Your Personal Information is used by us (i) to communicate with you; (ii) administer assistance to you when requested; and (iii) as may be required by applicable laws, rules or regulations, or the Terms of Use applicable to this Website located at http://allhiphop.com/tos. We may share your Personal Information with third parties to further the purpose for which you provide us with such information, including, without limitation, to facilitate purchases you make via the Website. We may share your Personal Information with third parties if we believe that the law requires us to do, or to protect our own property or the property of our affiliates. Additionally, in the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
+Your Personal Information is used by us (i) to communicate with you; (ii) administer assistance to you when requested; and (iii) as may be required by applicable laws, rules or regulations, or the Terms of Use applicable to this Website located at https://allhiphop.com/tos. We may share your Personal Information with third parties to further the purpose for which you provide us with such information, including, without limitation, to facilitate purchases you make via the Website. We may share your Personal Information with third parties if we believe that the law requires us to do, or to protect our own property or the property of our affiliates. Additionally, in the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
 
 You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personally identifiable information collected by us
 
@@ -45,7 +45,7 @@ Please note that there might be a brief delay between when you submit your reque
 
 
 
-Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://allhiphop.com/tos and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.
+Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at https://allhiphop.com/tos and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.
 
 This Privacy Policy was last updated on June 25, 2008.
 
