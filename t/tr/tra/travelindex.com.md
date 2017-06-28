@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024041313id_/http%3A//www.travelindex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175642id_/http%3A//travelindex.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Travel Index | Travel Directory | Connecting Travel People | Search results
-
-[Home](http://www.travelindex.com/index.html) > Privacy Policy
+# Privacy Policy | Travelindex Media
 
 ## Travelindex Privacy Policy
 
@@ -68,4 +66,4 @@ Under no circumstances, including but not limited to negligence, shall Travelind
 
 **USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY STATEMENT.**
 
-If you have any questions regarding our privacy statement, please feel free to contact us [here](https://web.archive.org/contact.html). We read every message submitted and try to reply promptly.
+If you have any questions regarding our privacy statement, please feel free to contact us [here](http://travelindex.com/corporate/contact/contact-us/). We read every message submitted and try to reply promptly.
