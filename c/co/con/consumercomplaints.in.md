@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060742id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628113612id_/https%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
