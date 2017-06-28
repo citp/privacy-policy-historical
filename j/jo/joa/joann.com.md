@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229070655id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628060159id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jo-Ann
 
@@ -99,7 +99,7 @@ We (or our business partners, on our behalf) collect and keep Personal Informati
   
 
   * When you call, email or chat with our customer service, we may collect all or some of the following: name, email address, postal address (shipping address and billing address), telephone number(s), credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date, order number, merchandise to be purchased, other information that you provide during the interaction.
-  
+  *  
 
 
 
@@ -115,7 +115,7 @@ On our web site, we (or our business partners, on our behalf) also collect other
   
 
   * We may use and associate historical data with a computer or device as part of our efforts to prevent fraud, credit card fraud, or other illegal activity.
-  
+  *  
 
 
 
@@ -127,8 +127,8 @@ In our stores, we (or our business partners, on our behalf) also collect other i
   * When you log-in to Jo-Ann’s in-store wireless (Wi-Fi) network through a mobile device, we collect the following information: all the information listed in the paragraph immediately above, your name, your email address, your birth date, your age, your gender, city and county location of the mobile device.
   
 
-  * Please see the privacy policy of our contractor (http://euclidanalytics.com/about/privacy-statement/) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
-  
+  * Please see the privacy policy of our contractor (<http://euclidanalytics.com/about/privacy-statement/>) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
+  *  
 
 
 
