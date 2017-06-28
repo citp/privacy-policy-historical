@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119082355id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628121617id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
 
 # Probiotic America | Privacy Policy
 
@@ -16,7 +16,7 @@ If users have opted out of all communication with the Website, or deleted/deacti
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/team.php).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact.php).
 
 You may also contact us at:
 
@@ -36,15 +36,25 @@ While we use 128-bit SSL encryption to protect sensitive information online, we 
 
 ### The Information We Collect
 
-We request information from the user on our secure order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. We may store this information securely on our server. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. If we have trouble processing an order, the information is used to contact the user. This information is only shared with other companies who work on behalf of _Probiotic America, LLC_ to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. We may also use this information to inform you of additional goods and services about which you might be interested or to customize your experience and use of the Website.
+We request information from the user on our secure order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. We may store this information securely on our server. We will share your personal information with third parties only in the ways that are described in this privacy policy. If we have trouble processing an order, the information is used to contact the user. We may also use this information to inform you of additional goods and services about which you might be interested or to customize your experience and use of the Website.
+
+We do not sell, trade, or otherwise transfer to outside parties your personal information unless we provide you with advance notice. This does not include website hosting partners and other third parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our website policies, or protect ours or others' rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
+
+Our Website's payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products.
+
+All orders are processed through Network Merchants, LLC. The personal information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer's name, credit card number and expiration date, checking account number, billing address, and shipping address.
+
+Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal information is used to process payment transactions and for no other purpose.
+
+Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
 We may ask you for personally-identifying information in connection with a promotion or survey. Any email you receive from us, or third parties authorized by you to send email, will contain additional opt-out or unsubscribe options in the email with instructions on how to unsubscribe from receiving future emails.
 
-We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics and marketing partners. Although these partners log the information coming from our site on our behalf, we authorize how that data may and may not be used.
+We may automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics and marketing partners. Although these partners log the information coming from our site on our behalf, we authorize how that data may and may not be used.
 
 ### Children Under 13
 
-We do not knowingly collect or use personal information from children under 13. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+We do not knowingly collect or use personal information from children under 13. We have no way of distinguishing the age of individuals who address our Website. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
 
 ### Log Files
 
@@ -58,7 +68,7 @@ Technologies such as: cookies, beacons, tags, and scripts are used by _Probiotic
 
 Minimum required for the site to function correctly and securely.
 
-This website will:
+This Website will:
 
   * Remember page to page information essential for completing forms
   * Remember cookie settings
@@ -70,11 +80,11 @@ This website will:
 
 Used to improve your browsing experience.
 
-This website will:
+This Website will:
 
   * Retain preference settings and geographic information
-  * Make sure the website looks consistent
-  * Capture website usage to further improve experience
+  * Make sure the Website looks consistent
+  * Capture Website usage to further improve experience
 
 
 
@@ -82,7 +92,7 @@ This website will:
 
 Enables selected advertising relevant to you.
 
-This website will:
+This Website will:
 
   * Allow you to share pages with social networks like Facebook, Pinterest, and Twitter, etc.
 
@@ -112,13 +122,30 @@ Woodland Hills, CA 91367
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+### California Residents
+
+Many browsers have a “Do Not Track” feature that allows you to instruct websites that you do not want them to track your online activities. These browser features are not uniform, so we are not currently set up to respond to this feature.
+
+California residents who have provided their personal information to us may request data regarding disclosures of their information to third parties for direct marketing purposes. Such requests may be submitted to us at:
+
+Probiotic America, LLC,   
+21900 Burbank Blvd   
+3rd Floor   
+Woodland Hills, CA 91367   
+(866) 803-9895   
+
+
+[support@probioticamerica.com](mailto:support@probioticamerica.com)
+
+Please specify in your communication that you are making a “California Shine the Light” inquiry. We will respond to your inquiry within 30 days.
+
 ### Newsletter
 
 Users who no longer wish to receive our newsletter may opt-out of receiving these communications by following the instructions on our unsubscribe page.
 
 ### Links
 
-The Web site contains links to other sites. _Probiotic America, LLC_ is not responsible for the privacy practices or the content of such other sites. By including links to other websites, we neither endorse such sites nor guarantee that the information they contain is accurate. We encourage you to be aware when you leave our site to read the privacy statements of every linked website as the privacy policies of each may differ from ours. This privacy statement applies solely to the _Probiotic America, LLC_ website.
+The Web site contains links to other sites. _Probiotic America, LLC_ is not responsible for the privacy practices or the content of such other sites. By including links to other websites, we neither endorse such sites nor guarantee that the information they contain is accurate. We encourage you to be aware when you leave our site to read the privacy statements of every linked website as the privacy policies of each may differ from ours. This privacy statement applies solely to the _Probiotic America, LLC_ Website.
 
 ### Social Media Widgets
 
@@ -133,9 +160,3 @@ Google, as a third party vendor, uses cookies to serve ads on _Probiotic America
 ### Unsolicited Ideas
 
 We welcome feedback, questions, and comments about our products, services, and this Website. As a general policy, we do not accept unsolicited ideas for products or services through this Website. All communications and other materials (including, without limitation, unsolicited ideas, photographs, drawings, suggestions, or materials) you send to this Website by e-mail or otherwise are and shall remain the sole and exclusive property of _Probiotic America, LLC_ and may be used by us for any purpose whatsoever, commercial or otherwise, without compensation to you.
-
-### TRUSTe
-
-_Probiotic America, LLC_ has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.ProbioticAmerica.com
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
