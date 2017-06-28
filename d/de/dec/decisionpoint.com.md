@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the decisionpoint.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042058id_/http%3A//www.stockcharts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionpoint.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081912id_/https%3A//stockcharts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement [Documentation]
 
 **_Simplified Version: StockCharts.com will never share your personal information with advertisers or spammers, period._ **
 
-StockCharts.com, Inc. has created this privacy statement in order to demonstrate our commitment to our users' privacy. The following discloses the information gathering and dissemination practices for http:\\\stockcharts.com including the following: 
+StockCharts.com, Inc. has created this privacy statement in order to demonstrate our commitment to our users' privacy. The following discloses the information gathering and dissemination practices for [http://stockcharts.com](http://stockcharts.com/ "http://stockcharts.com") including the following: 
 
   1. What personally identifiable information StockCharts.com collects.
 
@@ -59,7 +59,7 @@ We use a persistent cookie to ensure that you only see our newsletter popup mess
 
 We use a session cookie to control access to our membership areas. 
 
-If you are a paid member and you have checked the “Log Me In Automatically” box on our home page, we store your user ID and password in persistent cookies so that you do not need to re-enter that information each time you visit the site. 
+If you are a paid member and you have checked the “Remember Me” box when logging in, we store your user ID and password in persistent cookies so that you do not need to re-enter that information each time you visit the site. 
 
 We use a persistent cookie (among other things) to ensure that our public list voting feature is not abused. 
 
@@ -125,7 +125,7 @@ In the event StockCharts.com, Inc. goes through a business transition, such as a
 
 Newsletter subscribers who no longer wish to receive our newsletter mailings may opt-out by completing the form on this page or by replying to the mailing with the word “CANCEL” in the subject line. They can also opt-out by contacting support@stockcharts.com. 
 
-Paying members who no longer wish to receive optional mailings from us can opt-out using the form under the “Your Account” link on the Members home page. They can also opt-out by contacting support@stockcharts.com. 
+Paying members who no longer wish to receive optional mailings from us can opt-out using the unsubscribe link included at the bottom of the email. They can also opt-out by contacting support@stockcharts.com. 
 
 ## Links
 
@@ -155,7 +155,7 @@ Technical safeguards (including, but not limited to, dedicated firewall computer
 
 ## Updating Personal Information
 
-We provide a way for users to update their personally identifiable information on our web site. Newsletter subscribers can change their email address on this page. Paying members can update their information using the ”[Your Account](https://stockcharts.com/youraccount "https://stockcharts.com/youraccount")” link on the Member's homepage. Alternately, users can send email to [support@stockcharts.com](mailto:support@stockcharts.com "support@stockcharts.com"). 
+We provide a way for users to update their personally identifiable information on our web site. Newsletter subscribers can change their email address on this page. Paying members can update their information using the ”[Your Account](https://stockcharts.com/youraccount "https://stockcharts.com/youraccount")” link in the upper right corner of any page. Alternately, users can send email to [support@stockcharts.com](mailto:support@stockcharts.com "support@stockcharts.com"). 
 
 ## Notification of Changes
 
