@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316132659id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629011824id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # UK-Babes.co.uk :: UK-Babes.co.uk Member Privacy Policy
 
@@ -6,7 +6,7 @@ _Last updated on 15 March 2016_
 
 ### Data Controller
 
-For the purposes of the Data Protection Act 1998, we confirm that the data controller of this website including any mobile website (together the “Website”) is Casual Cash Ltd., a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, SL4 1EG, United Kingdom and who also trades as Global Personals and White Label Dating (“Casual Cash”, “we”, “us” and “our”). Casual Cash can be contacted via the contact section on the Website or by writing to our registered address. 
+For the purposes of the Data Protection Act 1998, we confirm that the data controller of this website including any mobile website (together the “Website”) is Venntro Media Group Ltd., a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, SL4 1EG, United Kingdom and who also trades as Global Personals and White Label Dating (“Venntro Media Group”, “we”, “us” and “our”). Venntro Media Group can be contacted via the contact section on the Website or by writing to our registered address. 
 
 This Privacy Policy (together with our [Terms of Use](https://web.archive.org/terms "Terms of Use") and any other documents referred to in it) outlines the manner in which we manage personal information obtained through or displayed on the Website or otherwise provided by users (“you”, “your”) of our dating and networking services (“Services”) via the Website.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Website, you are taken to have read and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy. 
 
@@ -106,11 +106,11 @@ For more information about the cookies we use and the purposes for which we use 
 
 ### Your right to access your personal information
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can request access to your personal information via email to [dataprotection@casualcash.com](mailto:dataprotection@casualcash.com "Send an email to dataprotection@casualcash.com"). We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give reasons for our refusal and allow you to challenge our decision. 
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can request access to your personal information via email to [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give reasons for our refusal and allow you to challenge our decision. 
 
-It is both in our interest and yours that any personal information we hold about you is accurate, complete and current. If the data we hold about you is inaccurate in any way, please contact us via email to [dataprotection@casualcash.com](mailto:dataprotection@casualcash.com "Send an email to dataprotection@casualcash.com") to have your personal information corrected. 
+It is both in our interest and yours that any personal information we hold about you is accurate, complete and current. If the data we hold about you is inaccurate in any way, please contact us via email to [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com") to have your personal information corrected. 
 
-If you have any questions or comments about privacy or this Privacy Policy, or if you have already submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please contact us by email (at [dataprotection@casualcash.com](mailto:dataprotection@casualcash.com "Send an email to dataprotection@casualcash.com")) and the information will be corrected as soon as possible or removed from the database as you request. 
+If you have any questions or comments about privacy or this Privacy Policy, or if you have already submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please contact us by email (at [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com")) and the information will be corrected as soon as possible or removed from the database as you request. 
 
 ### Third party links on the Website
 
