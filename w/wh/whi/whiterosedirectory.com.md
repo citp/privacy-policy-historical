@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiterosedirectory.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029180628id_/http%3A//whiterosedirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiterosedirectory.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628161031id_/http%3A//whiterosedirectory.com/privacy.html) for the most accurate reproduction.*
 
 # White Rose Directory - A High Quality Worldwide Directory - Privacy Policy
 
