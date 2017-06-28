@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfar.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119094011id_/http%3A//privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfar.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629010843id_/http%3A//privacy.umn.edu) for the most accurate reproduction.*
 
 # Online Privacy Statement : University of Minnesota
 
@@ -31,7 +31,7 @@ For University web sites that use Google Analytics for gathering statistics abou
 
 ##  Personally Identifiable Information 
 
-Our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statues, Chapter 13](https://www.revisor.mn.gov/statutes/?id=13). Personally identifiable information is not released to external parties without your consent unless required by law. 
+Our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](https://www.revisor.mn.gov/statutes/?id=13). Personally identifiable information is not released to external parties without your consent unless required by law. 
 
 This web site does not collect any Personally Identifiable Information. 
 
