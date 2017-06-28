@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qdtricks.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021105752id_/http%3A//www.qdtricks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qdtricks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628233611id_/https%3A//www.qdtricks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qd Tricks
 
@@ -34,7 +34,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.qdtricks.org](http://www.qdtricks.org/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.qdtricks.net](https://www.qdtricks.net/)
 
 **Your Consent**
 
@@ -48,4 +48,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://www.qdtricks.org/contact-us>
+<https://www.qdtricks.net/contact-us>
