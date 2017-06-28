@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164750id_/http%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpdownload.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628130912id_/http%3A//qpdownload.com/privacy.php) for the most accurate reproduction.*
 
 # QP Download - The Biggest Download Portal!
 
@@ -57,6 +57,8 @@ If you are a user who has downloaded and installed third party software, or have
 QP Download may allow Third Party Services to be offered or made available by Third Party Providers, through the Site or its services. This Privacy Policy only applies to our Site and services. We do not exercise control over any Third Party Services that our Site, or that a third party application, may link to or access.
 
 These Third Party Services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Information collected by Third Party Providers, including information collected through links to social media sites, is governed by the privacy policies of such Third Party Providers for such Third Party Services. When utilizing Third Party Services, we recommend that you should read the relevant terms of use regarding use of such third party websites, software or products, including any applicable privacy policies, terms of use and end user license agreements.
+
+c. DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on our site. 
 
 d. USERS WHO RECEIVE SOFTWARE RECOMMENDATIONS
 
