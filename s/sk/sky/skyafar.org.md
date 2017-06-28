@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyafar.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606202528id_/http%3A//www.skyafar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyafar.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628232834id_/http%3A//www.skyafar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Skyafar Technology Blog
+# Privacy Policy - SKYAFAR
 
 **What information do we collect?**
 
