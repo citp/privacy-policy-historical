@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201221703id_/http%3A//www.entercom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628032428id_/http%3A//www.entercom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Entercom.com
 
