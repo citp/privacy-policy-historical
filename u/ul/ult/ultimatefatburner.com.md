@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201022832id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628221113id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-UltimateFatBurner.com and Real-Customer-Comments.com use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+UltimateFatBurner.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-UltimateFatBurner.com and Real-Customer-Comments.com offer a bi-weekly newsletter that requires a verified e-mail address. Your contact is not sold to, or shared with anyone, no is it used for any reason other than to send you our bi-weekly newsletter, and the occassional update of merit.
+UltimateFatBurner.com offers a bi-weekly newsletter that requires a verified e-mail address. Your contact is not sold to, or shared with anyone, no is it used for any reason other than to send you our bi-weekly newsletter, and the occassional update of merit.
 
 Your complete privacy is our guarantee, and our watchword. Make no mistake, we recognize the importance of such a policy to the enjoyment of your surfing experience, and your peace of mind.
 
