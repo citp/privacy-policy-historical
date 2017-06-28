@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelntips.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026001720id_/http%3A//travelntips.com/privacy-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelntips.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628133329id_/http%3A//travelntips.com/privacy-disclosure-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure policy
 
@@ -34,7 +34,7 @@ Some of our business partners (e.g., advertisers) use cookies on our site. We ha
 
 Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html "Google Privacy Ads")
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://www.google.com/policies/technologies/ads/ "Google Privacy Ads")
 
 Specific Parties
 
