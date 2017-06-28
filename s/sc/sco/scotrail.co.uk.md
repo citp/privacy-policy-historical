@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220082334id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093704id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | ScotRail
 
