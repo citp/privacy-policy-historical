@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virusradar.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225074906id_/http%3A//www.virusradar.com/en/node/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusradar.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628141614id_/http%3A//virusradar.com/en/node/23) for the most accurate reproduction.*
 
 # Privacy Policy | ESET Virusradar
 
