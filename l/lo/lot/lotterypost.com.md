@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229122410id_/https%3A//www.lotterypost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628164557id_/https%3A//www.lotterypost.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Lottery Post
 
