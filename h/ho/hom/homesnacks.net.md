@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homesnacks.net privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513012758id_/https%3A//www.homesnacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesnacks.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628171314id_/https%3A//www.homesnacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HomeSnacks
 
 **HomeSnacks Privacy Policy**
 
-Welcome to HomeSnacks! Chasing Chains , LLC (“Chasing Chains”,“HomeSnacks”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.homesnacks.net (the “Site”) and online services (“Services”).
+Welcome to HomeSnacks! (“HomeSnacks”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.homesnacks.net (the “Site”) and online services (“Services”).
 
 **A Note to Users Outside of the United States.** If you are a non U.S. user of the Site or Services, by visiting the Site and/or providing us with information, you acknowledge and agree that your Personal Information may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than the laws in your country. By providing your information, you consent to such transfer.
 
@@ -76,7 +76,7 @@ This Privacy Policy addresses only our use and disclosure of information we coll
 The Site may contain content or links to other websites that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site may also contain links to other websites controlled by us but which operates under different privacy policies. Please review the privacy policy of any new site you visit.
 
 **Changes to this Privacy Policy.**  
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here http://www.homesnacks.net/privacy-policy/ and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here https://www.homesnacks.net/privacy-policy/ and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
 Questions: Please email us at legal@homeanacks.com
 
