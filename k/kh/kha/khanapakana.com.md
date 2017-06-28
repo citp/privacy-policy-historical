@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khanapakana.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126085309id_/http%3A//khanapakana.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanapakana.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628051227id_/http%3A//www.khanapakana.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Direct Advert Media, LLC Privacy Policy
 
