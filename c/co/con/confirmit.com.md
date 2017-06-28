@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050158id_/https%3A//www.confirmit.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628053259id_/https%3A//www.confirmit.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## **EU – U.S. Privacy Shield**
 
-Confirmit, Inc. and its subsidiary Customersat.com (jointly, “Confirmit Inc”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  Confirmit Inc is committed to subjecting all personal data received from European Economic Area (EEA) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
+Confirmit, Inc. and its subsidiary Customersat.com (jointly, “Confirmit Inc”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework.. Confirmit Inc is committed to subjecting all personal data received from European Economic Area (EEA) member countries and and Switzerland Respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
 
-Confirmit Inc is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Confirmit Inc complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA, including the onward transfer liability provisions.
+Confirmit Inc is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Confirmit Inc complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA and Switzerland,, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Confirmit Inc is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Confirmit Inc may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Confirmit Inc is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Confirmit Inc may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## **PHISHING Emails That Reference Confirmit**
 
@@ -36,7 +36,7 @@ The remainder of this policy is related to this latter type of sites.
 
 ## **Personal Information**
 
-In general, you can visit Confirmit on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when Confirmit or our partners may need information from you.
+The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. In general, you can visit Confirmit on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when Confirmit or our partners may need information from you.
 
 You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, zip code, resume, and additional contact information such as your phone number.  We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have his or her permission to do so.
 
