@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debenhams.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123101004id_/http%3A//www.debenhams.com/wcsstore/DebenhamsUKSite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debenhams.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628144537id_/http%3A//www.debenhams.com/wcsstore/DebenhamsUKSite/faq/legal_information/privacy_policy.html) for the most accurate reproduction.*
 
-# Debenhams - Help
+# Privacy policy - Help - Debenhams
 
 By continuing to browse our site, you consent to our placing cookies on your computer (unless you have chosen to disable them via your browser).
 
@@ -12,7 +12,7 @@ We respect your right to privacy and are committed to maintaining it. We only co
 
 Information that you have provided to us including but not limited to when you:
 
-  * purchase products through the Website, over the phone and/or through store kiosks
+  * purchase products through the Website, over the phone, through store kiosks and/or store till points
   * submit rate and reviews
   * use Debenhams applications on Facebook
   * use the Debenhams mobile shopping application
@@ -59,6 +59,7 @@ To provide you with the requested goods and/or services including but not limite
   * In the detection and prevention of fraud or other crimes.
   * To assist with any of your customer queries
   * For research, analysis, risk management, legal, accounting, administrative, testing, monitoring and for our business operations.
+  * To provide an e-Receipt for a store purchase.
 
 
 
@@ -92,9 +93,15 @@ By using and/or shopping on the Website you consent to the transfer of your pers
 
 We process your payment card details in order to complete your purchase that you made through the Website, mobile applications and the kiosk, and may in certain instances disclose your personal data to third party credit reference agencies to perform credit checks against you.
 
+  
+
+
 **Microsites**
 
-We have partnered with various trusted third party companies to provide goods and services to you. Such goods and services can be accessed through links on the Website to the third party company's microsite. A microsite is a website which is owned and operated by a third party company but is Debenhams branded. Please note that these microsites may be governed by their own terms and conditions and privacy policies.
+We have partnered with various trusted third party companies to provide goods and services to you. Such goods and services can be accessed through links on the Website to the third party company's microsite. A microsite is a website which is owned and operated by a third party company but is Debenhams branded. Please note that these microsites may be governed by their own terms and conditions and privacy policies.  
+Please see the list below for all our microsite partnerships:
+
+[Debenhams plus](http://www.debenhamsplus.com/) (By clicking this link you will be directed to debenhamsplus.com) [Debenhams Flowers](http://www.debenhamsflowers.com/) (By clicking this link you will be directed to debenhamsflowers.com) [Debenhams Tailored Shirts](http://www.debenhamstailoredshirts.com/) (By clicking this link you will be directed to debenhamstailoredshirts.com) [Debenhams Curtains](http://www.debenhamscurtains.com/) (By clicking this link you will be directed to debenhamscurtains.com) [Debenhams Wines](http://www.debenhamswines.com/) (By clicking this link you will be directed to debenhamswines.com) [Debenhams Hampers](http://www.debenhamshampers.com/) (By clicking this link you will be directed to debenhamshampers.com) [Debenhams Personalised Gifts](http://www.debenhamspersonalisedgifts.com/) (By clicking this link you will be directed to debenhamspersonalisedgifts.com) [Debenhams Business Services](http://www.voucherexpress.co.uk/) (By clicking this link you will be redirected to voucherexpress.co.uk)
 
 **E-mail Marketing**
 
