@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the total-soft.pe.hu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207072702id_/http%3A//total-soft.pe.hu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the total-soft.pe.hu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628193535id_/http%3A//total-soft.pe.hu/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
