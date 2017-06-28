@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015827id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628024653id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for CarToq.com website and CarToq Facebook App | Cartoq - Honest Car Advice
+# Privacy Policy for CarToq.com website and CarToq Facebook App | CarToq - India’s #1 auto content site
 
 This website and the CarToq Facebook app are owned by “CARTOQ”. This Privacy Policy is designed to inform the user about our practices regarding handling, collection, use, and disclosure of information that you may provide. Please make sure that you read this entire Privacy Policy before using or submitting information to this site.
 
-**Consent**  
+ **Consent**  
 By using the services on this site or using the CarToq Facebook app, you [the User] agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the handling, collection, use and disclosure of the information in accordance with this Privacy Policy and the laws applicable for the time being in the territory of India. The Information collected by “CARTOQ” through various publications, websites and other services or such information collected through contests, vote in polls, opinions, subscriptions such as our online newsletters or participation in one of our online forums or communities, should be strictly subjected to the application of this Privacy Policy. We may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser, operating system and the domain name.
 
-**General use of information**
+ **General use of information**
 
   1. “CARTOQ” may use the information you provide about yourself to fulfill your requests for our programs, services and inquiries that we believe may be of interest to you. The information may also be used to communicate with you or to contact you about your account with us. We may also use this information to offer our products, programs, or services to the user. If you choose to submit content for publication in whatsoever manner, we may publish your name, screen name and other information you have provided.
   2. The information “CARTOQ” collects in connection with our online forums and communities is used to provide an interactive experience. The information may also be used in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
@@ -15,7 +15,7 @@ By using the services on this site or using the CarToq Facebook app, you [the Us
 
 
 
-**Privacy Rules regarding collection of Information**
+ **Privacy Rules regarding collection of Information**
 
   1. “CARTOQ” shall be solely responsible for the ensuring that all Sensitive Personal Information is collected, received, possessed, stored, dealt and handled in accordance with all applicable laws.
   2. Indian law requires all entities that collect, receive, possess, store, deal and handle personal information, including Sensitive Personal Information, to:
@@ -46,7 +46,7 @@ By using the services on this site or using the CarToq Facebook app, you [the Us
 
 For the purposes of this document, “Sensitive Personal Information” means personal relating to any individual’s: (i) password; (ii) financial information such as Bank account or credit card or debit card or other payment instrument details; (iii) physical, physiological and mental health condition; (iv) sexual orientation; (v) medical records and history; (vi) Biometric information; (vii) any detail relating to the above clauses as provided to any body corporate for providing any service; and any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise: provided that, any information that is freely available or accessible in public domain or furnished under any law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules.
 
-**Fair Use**
+ **Fair Use**
 
   1. As required by law, Users shall not, host, display, upload, modify, publish, transmit, update or share any information that:
     * belongs to another person and to which such User does not have any right to
@@ -68,7 +68,7 @@ For the purposes of this document, “Sensitive Personal Information” means pe
 
 
 
-**Enforcement of Legal Obligations** ****
+ **Enforcement of Legal Obligations** ****
 
   1. The User acknowledges that “CARTOQ” may terminate the User’s account and remove the Content and other Network Data, as well as disable the User’s access to any and all Networks at any time for violations of this policy without notice and without any liability to the User. The User is solely responsible and liable for complying with all applicable laws including privacy laws.
   2. The User acknowledges that “CARTOQ” may terminate the account of any User in accordance with the terms of this policy.
@@ -76,7 +76,7 @@ For the purposes of this document, “Sensitive Personal Information” means pe
 
 
 
-**Cookies**
+ **Cookies**
 
   1. To enhance your online experience “CARTOQ” uses “cookies”. Cookies are text files placed in your computer’s browser to store preferences. Cookies, by themselves, do not reveal your e-mail address or other personally information unless you choose to provide this information by, for example, registering at one of our sites. However, once you choose to furnish the site with personally information, this information may be linked to the data stored in the cookie. Cookies are used to understand Internet usage and to improve our content, offerings, and advertisements.
   2. We and our service providers may use analytics cookies, which are sometimes called performance cookies, to collect information about your use of the Site and enable us to improve the way it works. Analytics cookies collect information about how you use the Site, for instance, which pages you go to most. The information allows us to see the overall patterns of usage on the Site, help us record any difficulties you have with the Site and show us whether our advertising is effective or not.
@@ -84,17 +84,17 @@ For the purposes of this document, “Sensitive Personal Information” means pe
 
 
 
-**Our Commitment to Security**
+ **Our Commitment to Security**
 
   1. Appropriate physical, electronic, and managerial procedures have been put in place to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information collected.
   2. To protect User’s privacy and security, reasonable steps should be taken to help verify the User’s identity before granting access or making corrections.
 
 
 
-**Amendment to this policy**
+ **Amendment to this policy**
 
 This Notice may be changed by “CARTOQ” with or without notice to the user. The revised Notice shall be posted to this page so that you are aware of the information collected, how it is used and under what circumstances it will be disclosed.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions or concerns about “CARTOQ’s” privacy policy or its implementation please [contact us here](http://www.cartoq.com/contact-us/ "contact us") ****
