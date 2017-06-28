@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jvzooforums.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621083540id_/https%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvzooforums.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628174051id_/https%3A//www.jvzoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Effective Date: 05-02-2016
 
 ## JVZoo is owned and operated by BBC Systems, Inc.
 
