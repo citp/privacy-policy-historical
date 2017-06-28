@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paperpkads.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012259id_/http%3A//paperpkads.pk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpkads.pk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093836id_/http%3A//paperpkads.pk/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy of Paperpkads.pk - Paperpk
+# Privacy Policy of Paperpkads.pk - PaperPk
 
 Our Commitment To Privacy :  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
