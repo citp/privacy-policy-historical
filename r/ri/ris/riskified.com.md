@@ -1,56 +1,146 @@
-> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506231143id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629000413id_/https%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Riskified
 
-Last updated: Jan 1st 2013
+We, atRiskified Ltd. ("Riskified" "we", "our" or "us") provide online merchants(a “Merchant”) a service that helps them prevent fraudulent online transactions ( the "Fraud Prevention"). Such Merchants may be very much the one you are now placing an order on. 
 
-Riskified Ltd. ("Riskified" "we", "our" or "us") has created a technology platform (the "Platform") and provides related services via the Platform (the "Service") that our customers, which are typically online merchants, use to prevent fraudulent and other transactions of risk. The Platform is designed to enable these customers through the use of information which we collect and analyze to help prevent fraudulent transactions. 
+Merchants integrate our Fraud Prevention on their eCommerce websites and mobile apps where consumers like you place orders (“eCommerce Platform”). This enables us to collect personal data from you. 
 
-We respect the privacy of Internet users in general and wish to set forth in this Privacy Policy ("Policy") Riskified's practices in connection with the collection and use of information. Please note that this Policy applies only to Riskified and does not state the use practices or policies of our customers, of the websites on which our Platform is used, or of other third parties. 
+This Privacy Policy ( the “Policy”) explains our privacypractices for our Fraud Prevention. It describes how we collect personal information, use it and share it and the rights and options available to you with respect to your information. 
 
-This policy does not apply to the practices of companies that Riskified does not own or control or to people it does not employ or manage. 
+Please note that this Policy does not cover the practices or policies of Merchants, the eCommerce Platforms, or of other parties. 
 
-## What types of information do we collect?
+You are not obligated by law to provide us with your personal data, but the eCommerce Platform may require that you provide us your personal data in order for it to be able to consider or process the order you place. 
 
-We collect information from our customers which may include personal information related to the users of our customer's services. Such information may include a user's IP address, username, user ID, pages viewed, items viewed, items purchased, transaction information (such as price, billing method, address). Our customers integrate our Platform on their websites which enables us to facilitate the collection of the information necessary to provide our fraud detection Services to our customers. 
+## In short…
 
-Riskified uses cookies and web beacons and other similar technologies in connection with our Platform and Service. Cookies are tiny text files stored on your computer when users visit certain web pages. Most Internet browsers automatically accept cookies. A user can instruct his or her browser, by editing its options, to stop accepting cookies or prompt the user before accepting a cookie from the websites the user visits. If the user does not accept cookies, however, he may not be able to enjoy the full functionality of many of the websites he visits. 
+The following key points of the Privacy Policy are only brought for your convenience. They do not substitute the full Policy. 
 
-Riskified also uses web beacons, in combination with cookies, to analyze usage patterns. The use of a web beacon allows us to record that someone has visited a particular web page, along with additional Non-PII that the website may choose to include with the beacon. Therefore, even if a user disables the browser from accepting cookies we may be able to collect information on such user. 
+  * We collect various data regarding your transaction, device data, geolocation data, analytical data and cross-referenced data. 
+  * You information is processed pursuant to your consent or the legitimate interests of the Merchant.
+  * We use the information first and foremost to analyze whether the transaction is fraudulent.
+  * We share your information mainly to operate the Fraud Prevention. For that purpose, we may share elements of the personal data we collect with third parties and operators of online publicly available data sources for cross-referencing purposes. 
+  * The Merchant may use Riskified’s fraud assessment to decide whether to accept or decline your order based solely on automated processing. 
+  * You may request to access your personal information, or have us update, correct or delete such information, if the law provides you those rights. 
+  * We may store and process information outside the country where you are located.
+  * We retain the personal data we collect only for as long as needed in order to comply with our obligations under this Policy. 
+  * Our data protection officer can be contacted at [privacy@riskified.com](mailto:privacy@riskified.com). You can also contact us at [support@riskified.com](mailto:support@riskified.com). 
 
-## How do we use the information we collect?
 
-The information that we collect is used in order to analyze and provide our customers with an evaluation of whether a user may be engaging in fraudulent behavior or whether there is a risk that a transaction is fraudulent or unauthorized. Except for the information collected from our customer we may use information from different sources, including other customers or third party providers. 
 
-## What information do we share with third parties?
+## INFORMATION WE COLLECT
 
-Riskified may use information for the use and development of its Platform and Services and for providing the Services to customers, including by third parties that provide services to Riskified for these purposes. Riskified does not sell, distribute or disclose personally identifiable information or information on individual users or customers. 
+**Transaction Data.** When you place an order with the eCommerce Platform, we collect various data regarding your transaction such as your name, email, the items you purchased, price paid, shipping information and basic information from your account on the eCommerce Platform (if you are registered with an account there ). We also collect basic information about your payment and billing method, but we do not collect or keep your complete credit card number. 
 
-Riskified may disclose information if it reasonably believes that it is legally required to do so or in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. Riskified may share aggregated data derived from the Platform, including, for example, statistics about Platform activity. Finally, Riskified may transfer information to a successor entity in connection with a corporate merger, consolidation, sale of assets, reorganization, or other corporate change. 
+**Device data.** We collect information about the personal computer or mobile device youuse to access the eCommerce Platform, including its model, its operating system, unique device identifiers, browser type, mobile network information and the Internet Protocol (IP) address through which you accessed the eCommerce Platform. 
 
-## Data storage and security
+**Geo-location data .** If you use the eCommerce Platform’s mobile app we also collect your precise geo-location when you actively use the app. If you use the eCommerce Platform’s website, we will collect your town-approximate geo-location. 
 
-All of the user data collected by Riskified is stored in such a manner that cannot be tracked back to specific individuals and information about a specific user cannot be retrieved; we maintain reasonable physical, electronic, and administrative safeguards to protect all our data from accidental, unauthorized or unlawful access, use, modification, disclosure, loss, or destruction. However, no security measures, as thorough as may be, are 100% perfect and there can be no absolute assurance of security and therefore, we cannot and do not offer an absolute guarantee or warrant the security of the information we possess. 
+**Analytical data .** We collect analytical data about your use of the eCommerce Platform. For example, we collect the frequency of your access tothe eCommerce Platform, the pages and items on the eCommerce Platform that you viewed or interacted with. 
 
-## Policy towards children
+**Cross-references.** We also cross-reference, verify and enhance the accuracy of the data outlined above, using publicly available third party sources such as online search engines, online ‘white pages’ and online mapping services. 
 
-We do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@riskified.com. If we become aware that a child under the age of 13 has provided us with Personal Information, we will delete such information from our files. 
+**Inquiries.** If you contact us for questions or complaints, we will collect the information related to your inquiry. This may include your name, email address, postal address, telephone number and other contact information, depending on the nature of your inquiry. 
 
-## Changes and consent to privacy policy
+## USE OF COLLECTED INFORMATION
 
-We reserve the right to change the provisions of this Policy from time to time and it is therefore recommended to check it regularly. Any updates to our Policy are posted here. 
+We, as the data controller, process your personal data pursuant to your consent or the legitimate interests of the Merchant. You may withdraw consent at any time, without affecting the lawfulness of data processing we carried out based on your consent before such withdrawal. 
 
-## Contacting us
+We use the information we collect for the following purposes:
 
-For any questions in regards to this Policy or Riskified's privacy practices, please contact our representatives at the following email and they will be more than happy to clarify and assist you in any way possible: support@riskified.com 
+  * When you place an order on an eCommerce Platform we crunch the aggregate data of your activities across the eCommerce Platforms of all Merchants we operate. We use this data to provide the eCommerce Platform a fraud analysis indicating whether or not the order is, in our assessment, a fraudulent online transaction. It is then up to the eCommerce Platform, not us, to determine in its own discretion, whether to accept and process your order, or decline it. 
+  * Improving and enhancing Fraud Prevention and developing new services.
+  * Statistical analysis of consumers' activities.
+  * Handling complaints.
+  * Enforcing this Policy and preventing misuse of the Fraud Prevention.
+  * Taking any action in any case of dispute involving you, with respect or in relation to Fraud Prevention. 
+  * As otherwise may be mandated by law or to protect our legal rights and property and those of third parties. 
 
-## Governing law
 
-This Policy shall be exclusively governed by and construed in all respects under the laws of the State of New York, without giving effect to any choice-of-law or conflict-of-law provisions. Any and all legal claims, suits or actions that arise in connection with this Policy or with breach of this Policy shall be submitted to the personal jurisdiction of the courts located in the courts of New York County. 
 
-Last updated: January 1, 2013
+## SHARING INFORMATION COLLECTED
 
-Riskified Ltd. ("Riskified" "we", "our" or "us") respects the privacy of the users of its website at http://www.riskified.com (the "Site") and is committed to protect the information it collects and/or is disclosed to it by the users of this Site ("users" or "you"). 
+We may share the information outlined in this Policy with others, in the following instances:
+
+  * With our contractors and service providers, in order to help us to provide Fraud Prevention. For example, we process the data using cloud service providers. 
+  * We may share limited elements of the personal data we collect with a number of third parties and operators of online publicly available data sources (such as online search engines, online ‘white pages’, online mapping services etc.). We do this in order to cross-reference, verify and enhance the accuracyofthe data we collect. 
+    * Those data sources may use the data we share with them for their own purposes, in accordance with their own policies. 
+    * Several of these data sources are companies operating in countries outside your local territory or the European Economic Area, in legal environments that may not be adequate by EU data protection standards. You may opt-outofhaving your personal data shared with those data sources. To exercise this right please contact [support@riskified.com](mailto:support@riskified.com)
+  * In seldom occasions, we may share limited elements of your personal data with the Merchant with whom the transaction was made, for review or audit purposes. 
+  * Your personal data may be shared with competent authorities and with any third party, if we believe it is required or is deemed justified by law to protect property or legitimate legal rights. 
+  * If the operation of the Fraud Prevention is organized within a different framework, or through another legal structure or entity (such as due to a merger or acquisition). 
+  * We may share personally identifiable information with our corporate group entities, but their use of such information must comply with the Policy. 
+
+
+
+## AUTOMATED DECISION MAKING
+
+The eCommerce Platform may, in its own discretion, use Riskified’s fraud score assessment to make a decision on whether to accept or decline your order, based solely on automated processing. Please direct inquiries concerning the decision about your order to the eCommerce Platform.
+
+## ACCESSING, UPDATING OR DELETING YOUR PERSONAL INFORMATION AND OBTAINING A COPY OF IT
+
+If the law grants you such rights, you may ask to access the personal information about you that is stored in our systems. You may also ask for our confirmation as to whether or not we process personal data concerning you.
+
+Subject to the limitations in law, you may request that we update, correct or delete inaccurate or outdated information, and have us suspend the use of personal data whose accuracy you contest while we verify the status of that data.
+
+Subject to law, you may also be entitled to obtain from usthe personaldata you directly provided us (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and may have the right to transmit those data to another party.
+
+If you wish to exercise any of these rights, contact us at: [support@riskified.com](mailto:support@riskified.com). When handling these requests, we may ask for additional information to confirm your identity and your request.
+
+## AGGREGATED INFORMATION
+
+We may usethe information we collect, as outlined above, to compile anonymized or de-identified information. We may share such anonymized or de-identified information with any other third party, at our sole discretion. However, we will not knowingly or intentionally share information that can be reasonably used to reveal your identity unless otherwise provided in this Policy.
+
+## TRANSFER OF DATA OUTSIDE YOUR TERRITORY
+
+We may store and process information in the US, the EU, Israel and in other countries. We may also process information using cloud services.
+
+We frequently process the information under arrangements aimed at providing an adequate level of data protection, which include EU decisions recognizing the adequacy of those countries and model contract clauses. 
+
+However, in certain cases the laws in some of these countries may nevertheless provide a lesser degree of data protection than the laws of your own country. You agree to the transfer of your information to such other countries for the purpose of processing as described in this Policy, including through cloud services.
+
+## Latest Platform and Services Privacy Policy Amendments
+
+On June 19 we updated our Platform and Services Privacy Policy, as summarized below. Due to upcoming European legislation around privacy and data security, we have prepared a more detailed and in-depth privacy policy, detailing the different aspects of our processing of personal data in the course of providing our Services. Please read the full version of the Privacy Policy to familiarize yourself with how Riskified uses your data in order to provide its Services. 
+
+  * We detailed which data points we collect to provide our Service, whether or not we share such data and with whom, what we use the data for, and how. 
+  * We also provided you with a more detailed explanation as to your rights in connection with the data we collect, and how you can contact us to make any required correction, thereby allotting you greater control over your own personal information. 
+
+
+
+## INFORMATION SECURITY
+
+We implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, no measure can provide absolute information security.
+
+##  DATA RETENTION
+
+We retain the personal data we collect only for as long as needed in order to provide the Fraud Prevention or newly developed services under this Policy and compliance with applicable laws. We then either delete from our systems or anonymize it, without further notice to you.
+
+If you withdraw your consent to us processing your data, we will erase your personal data from our systems (unless the data is required for Riskified to establish, exercise or defend against legal claims).
+
+## POLICY REGARDING CHILDREN
+
+We do not knowingly collect personal data from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal data without their consent, he or she should contact us at [support@riskified.com](mailto:support@riskified.com). If we become aware that a child under the age of 13 has provided us with personal data, we will delete such information from our files. 
+
+## CHANGES TO THIS POLICY
+
+If we materially change this Policy in an adversely restrictive manner to your personal data, we will affect such change only to personal data we collect after the Policy change, unless you agree we treat the personal data previously collected in accordance with the new Policy.
+
+## MISCELLANEOUS
+
+We do not respond to browsers’ “Do Not Track” requests.
+
+You may have a right to submit a complaint to the relevant supervisory data protection authority, pursuant to the law.
+
+## CONTACT US
+
+You may contact us with any questions or comments, at: [support@riskified.com](mailto:support@riskified.com)
+
+Our postal address is: 30 Kalischer Street, Tel Aviv, Israel, postal code 6525724.
+
+Effective date of the policy: June, 2017
+
+Riskified Ltd. ("Riskified" "we", "our" or "us") respects the privacy of the users of its website at https://www.riskified.com (the "Site") and is committed to protect the information it collects and/or is disclosed to it by the users of this Site ("users" or "you"). 
 
 ## Information we collect
 
@@ -119,3 +209,5 @@ To protect your privacy and security, we may take reasonable steps to verify you
 ## Governing law
 
 This Privacy Policy shall be exclusively governed by and construed in all respects under the laws of the State of New York, without giving effect to any choice-of-law or conflict-of-law provisions. Any and all legal claims, suits or actions that arise in connection with this Privacy Policy or with breach of this Privacy Policy shall be submitted to the personal jurisdiction of the courts located in the courts of New York County. 
+
+Last updated: January 1, 2013
