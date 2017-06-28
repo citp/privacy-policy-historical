@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604002233id_/http%3A//www.peakperformancegolfswing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628131327id_/http%3A//www.peakperformancegolfswing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Performance Golf Swing
 
