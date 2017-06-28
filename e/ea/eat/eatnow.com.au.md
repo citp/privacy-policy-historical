@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126173535id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628184804id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
@@ -38,7 +38,9 @@
 
 **2.6** We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way.
 
-**2.7** When you visit our Website, we use cookies to enhance and manage our website and improve our business and the services we provide to you. By using the website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies may be used by us to collect the following information:
+#### Use of Cookies and third party advertising and analytics
+
+**2.7** When you visit our Website, we use cookies and third party analytics and advertising services to enhance and manage our website and improve our business and the services we provide to you. By using the website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies may be used by us to collect the following information:
 
 (a) your computer's operating system;
 
@@ -48,11 +50,15 @@
 
 (d) web pages visited, including how you were referred to each web page; and
 
-(e) web page usage statistics, including the time spent on each web page.
+(e) web page usage statistics, including the time spent on each web page. 
+
+This site uses the Google Analytics cookie, and other cookies and identifiers to collect anonymous, aggregated audience data in order to measure user interactions on our site and improve our service.   
+This includes the use of Google Analytics Advertiser Features which provides Demographic and Interest reports, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. 
 
 In addition, third parties may place and read cookies on your browser, or use web beacons or similar technologies to collect information.
 
-Cookies can be managed by accessing the individual settings in your browser.
+Cookies can be managed by accessing the individual settings in your browser.   
+For more information on how Google Analytics Advertiser Features works and to opt-out of this service, please visit the following Google support page: [ https://support.google.com/analytics/answer/2700409?hl=en](https://support.google.com/analytics/answer/2700409?hl=en)
 
 **2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our Terms and Conditions of Use and Sale.
 
@@ -66,7 +72,14 @@ Cookies can be managed by accessing the individual settings in your browser.
 
 **3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use. 
 
-**3.5** When registering with Eat Now, you consent to Eat Now using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth). 
+#### Consent to direct marketing and opting out
+
+**3.5** When you register with Eat Now, you consent to Eat Now using your personal information for direct marketing purposes to communicate with you by phone, email or SMS and, if you use our mobile application, via push notification, to tell you about offers, updates and our products and services that may be of interest to you.   
+You may choose to stop receiving direct marketing communications from a channel at any time by using the unsubscribe mechanism in the marketing communication itself.   
+To opt-out of communications via email click the "unsubscribe" link at the bottom of the email and to opt-out of communications by SMS reply with "STOP".   
+You may also decline marketing messaging sent by push notifications by refusing the relevant permission to our app in your phone or tablet settings, however this will also prevent you from receiving order updates via push. 
+
+#### Disclosures to third parties including overseas
 
 **3.6** We may share your information with other members of The Menulog Group Pty Ltd. Our Group is comprised of Menulog Pty Ltd and Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth). 
 
@@ -88,7 +101,7 @@ You may make a request by writing to us at: Privacy Inquiries, EatNow Pty Ltd, L
 
 **5.4** To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact us at the addresses provided in clause 5.2 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the Office of the Australian Information Commissioner. 
 
-Privacy Policy last updated on February 2014. 
+Eat Now is owned and operated by Just Eat Holding Limited. 
 
 Arrow
 
