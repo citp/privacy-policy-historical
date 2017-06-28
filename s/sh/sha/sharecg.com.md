@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119051741id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628165332id_/https%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # ShareCG: Privacy Policy
 
-**Internet Business Systems, Inc.**
+ShareCG.com Privacy Policy
 
-Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/),[www.ShareAEC.com](http://www.shareaec.com/), [www.MechSpot.com](http://www.mechspot.com/), [www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/), [www.nanotechcafe.com](http://www.nanotechcafe.com/), and [www.careerscafe.com](http://www.careerscafe.com/).)
+**Internet Business Systems, Inc. Privacy Policy**
+
+Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/),[www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/) and, [www.techjobscafe.com](http://www.techjobscafe.com/).
 
 #### What This Privacy Policy Covers
 
@@ -40,7 +42,7 @@ IBS does not rent, sell, or share personal information about you with other peop
 
 **General**
 
-  * You can edit your Account Information at any time by clicking here.
+  * You can edit your Account Information at any time by [clicking here](https://www.sharecg.com/my_account.php?default_tab=account+info)
   * We reserve the right to send you certain communications relating to the IBS service, such as service announcements, administrative messages and IBS Newsletters that are considered part of your IBS account, without offering you the opportunity to opt-out of receiving them.
 
 
