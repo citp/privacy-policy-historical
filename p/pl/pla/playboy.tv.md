@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboy.tv privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204070427id_/http%3A//www.playboy.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.tv privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628073704id_/http%3A//www.playboy.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Playboy.tv
 
@@ -6,7 +6,7 @@
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy.
 
-This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.Playboy.TV](https://web.archive.org/) (hereinafter “PlayboyTV” or the “ **website** ”)1 , our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures.
+This privacy policy describes the types of information we may collect from you or that you may provide when you visit [www.Playboy.TV](https://web.archive.org/) (hereinafter “PlayboyTV” or the “ **website** ”), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures.
 
 We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy.
 
@@ -32,7 +32,7 @@ Please read this privacy policy carefully to understand our policies and practic
 
 ### Information We May Collect About You and How We Collect It
 
-We may collect several types of information from and about users2 of our Website, including information:
+We may collect several types of information from and about users of our Website, including information:
 
   * by which you may be personally identified, such as first and last name, mailing address, email address, billing information, IP or “Internet Protocol” addresses, demographics, passwords or other online contact information, telephone number, any other information the Website collects that is defined as personal or personally identifiable information under applicable law or other identifier by which you may be contacted online or offline (“ **personal information** ”);
   * that is about you but individually does not identify you; or
