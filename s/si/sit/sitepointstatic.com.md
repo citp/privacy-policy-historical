@@ -1,85 +1,128 @@
-> *The following text is extracted and transformed from the sitepointstatic.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421171354id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepointstatic.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628174850id_/https%3A//www.sitepoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy — SitePoint
 
-### Privacy Policy
+This privacy policy sets out how SitePoint Pty Ltd (ACN 089 647 638) (“we/SitePoint”) treats the privacy of customers and others with whom we interact. 
 
-This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it’s used, and how you can “opt-out”
+In this privacy policy, the term “personal information” includes information about an identifiable individual, including names, addresses, telephone numbers, email addresses, dates of birth, “bio” information, credit and banking details and if and where applicable, includes information that constitutes “sensitive information”. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+**1\. Collection and Storage of Personal Information and Data**
 
-SitePoint Pty Ltd   
-48 Cambridge Street   
-Collingwood, Victoria 3066   
-Australia 
+We may collect personal information about individuals. Our usual approach is to collect personal information directly from the individual concerned. This information could include name, email, telephone or address contact details and financial details. In most circumstances we do not collect sensitive information. 
 
-You may contact us by email at [privacy@sitepoint.com](mailto:privacy@sitepoint.com)
+For example, we collect personal information in circumstances including: 
 
-#### Site Visits:
+(i) upon your registration on our website; 
 
-Whenever you request a page through your browser, navigation and clickstream data such as:
+(ii) when products or services are ordered; 
 
-  * your IP address, 
-  * browser and version, 
-  * operating system, 
-  * date and time and 
-  * the site from which you came
+(iii) when paying for products or services and when processing returns or exchanges; 
 
+(iv) when you telephone us or visit our website and make an enquiry to which a later response is requested and to do so requires your contact details; 
 
+(v) when you ask to be included on marketing distribution lists or interact with us through our social media services or third party social media services that are connected to our site; and 
 
-are stored in a log file and/or database. Any search terms that you enter into the SitePoint Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
+(vi) when evaluating job applicants and personnel, including their contact details, employment history and educational qualifications. This may include “sensitive information” as defined in the Privacy Act (1988) (Cth). 
 
-  * Website and system administration, 
-  * research and development, 
-  * anonymous user analysis, and 
-  * to provide accurate statistics to advertisers in the form of aggregated data. 
+Further details about our privacy policy and practices for job applicants will be available at the time of application. 
 
+We may use ‘cookies’ to collect data (typically not personal information) relating to your general internet usage. This data may include IP-addresses, browser versions, number of visits and similar such data relating to your navigation of the internet including to and from our site. A cookie is a small text file that is placed on your computer’s hard drive. Cookies help us to improve our site and to deliver a better and more tailored service, for instance by storing information about your preferences and allowing us to recognise you when you return to our site. 
 
+You may refuse to accept cookies by activating settings on your internet browser. However, please note that if you select such settings your may be unable to access certain parts of our site. 
 
-This information is kept on a secure dedicated server hosted by [RackSpace](http://www.rackspace.com/) as well as servers within the SitePoint offices. 
+When individuals use our mobile application, we also collect information about your city location, device model and version and operating system version. (This is typically not considered “personal information”).  
+We hold personal information in our own secure databases, and, to some extent, for marketing purposes in the databases of third parties engaged by us (subject to obligations regarding privacy and confidentiality) to conduct electronic direct marketing subject to all legislative requirements. 
 
-The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletter/manage.php>
+**2\. Anonymity / pseudonymity**
 
-The email addresses collected at SitePoint from subscribers to the opt-in lists (AKA "Information Announcement Lists") are used by Postmaster Direct to send announcements to individuals who requested them. You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any third party besides Postmaster Direct. Instructions for removal from these mailings are included in each individual email message that is sent to you. 
+Where practicable, customers and others have the right to interact with us anonymously or using a pseudonym. Circumstances where it is not practicable, however, include where personal information is required to complete a credit card or account transaction.
 
-When a contest/sweepstakes/survey is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our Network´s visitors. 
+**3\. Use of Personal Information**
 
-When a survey appears on the SitePoint Network, information is collected, compiled and analyzed on an aggregated basis. SitePoint may share this aggregated data with advertisers or business partners. 
+We may use personal information for the purpose of marketing but only where such use complies with applicable privacy laws. 
 
-Cookies are a technology which can be used to provide you with tailored information from a Website. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie. Doing this will allow you to decide on a case-by-case basis whether to accept cookies or not. 
+We use the personal information collected from you for the purpose it was provided or collected, including in the following ways: 
 
-Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are used for: 
+(a) To respond to enquiries received from you; 
 
-  * ad tracking, 
-  * customization of content (i.e. not repeating pop-up windows), 
-  * storing login information, and 
-  * statistical site-traffic analysis. 
+(b) To process, confirm, fulfil and update you about your orders and to carry out our obligations arising from any contracts and agreements entered into between you and us. 
 
+(c) To perform authorised financial transactions with you; 
 
+(d) To verify your identity and to assist you if you have forgotten any user name or password; 
 
-The information collected during the registration process for the SitePoint Community is used to:
+(e) To communicate with you and provide you with information (whether by email, post or other means) about our products or services, where you have requested or consented to receiving this from us or where this provision is otherwise permitted under applicable privacy law; 
 
-  * contact members, 
-  * customize content based upon user preferences, 
-  * display member status, and 
-  * display the date of a member´s last visit. 
+(f) To notify you about changes to our goods and services; 
 
+(g) To ensure that content from our site is presented in the most effective manner for you and for your computer/ device; 
 
+(h) To allow you to participate in interactive features of our service, when you choose to do so; 
 
-Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the "Keep your email address viewable to other users when you post notes?" option is set to **no**. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization. 
+(i) To enable you to enter competitions we run; 
 
-If you purchase products directly from SitePoint, your contact information and a transaction history will be kept by SitePoint. We may use the contact information to inform you about the status of your order, as well as to let you know about upcoming SitePoint Products. 
+(j) To facilitate your participation in surveys we (or a third party on our behalf) run where you volunteer that personal information; 
 
-Any postings in our Forums, Blogs, Articles, Community or Marketplace, should be considered public knowledge and will be accessible by search engine spiders. This includes any information you provode in the "profile" associated with any accounts you have at SitePoint. SitePoint will not retroactively edit your username, profile or posted messages.
+(k) To enable you to participate in any loyalty or reward programs we may run, if you so request it; 
 
-If you participate in the Marketplace, your contact information may be shared with the counter-party to any transactions you are entering into.
+(l) To receive and address feedback or complaints from you; and 
 
-Any messages sent through SitePoint's servers, including person-to-person communcations, are unencrypted and may be accessed by SitePoint Employees or Contractors.
+(m) To protect our legal interests and fulfil our regulatory obligations (if and to the extent necessary).
 
-SitePoint complies with all law enforcement agency requests for information
+All SitePoint customers and others with whom we interact have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive electronic marketing communications from us and/or selected third parties you should opt-out by clicking on the “unsubscribe” link in any email communications that we might send you. 
 
-If you request sample chapters of one of SitePoint’s information products/books, your email address will be used for follow-up purposes. You may unsubscribe from these mailings at any time by clicking on the unsubscribe link.
+**4\. Disclosure of Personal Information**  
+We may disclose your personal information to any of our related group companies and their personnel, including in the USA. They will only use it for the same purposes that we may under this policy. We may provide personal information to third parties outside our group companies for limited purposes, such as to help us in providing goods and services to customers. 
 
-Any data collected will be used by ourselves and our agents. SitePoint hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets. 
+Those persons and business may include: 
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact [privacy@sitepoint.com](mailto:privacy%3Cspan%3E@%3C/span%3Esitepoint.com "Email us about our Privacy Policy")
+(a) Organisations who carry out credit, fraud and other security checks; 
+
+(b) Our online payment service providers, for the purpose of facilitating payments; 
+
+(c) Third party providers who fulfil and deliver orders; 
+
+(d) Third party software providers who store details of customer account for us or who provide other IT services in connection with the operation of our business; and 
+
+(e) Marketing businesses engaged by us to disseminate materials to which recipients have consented. 
+
+We may also disclose your personal information to third parties outside our group of companies: 
+
+(a) Where we have your express permission to do so; 
+
+(b) Where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties; 
+
+(c) If SitePoint or substantially all of its assets are acquired by a third party, in which case personal information which we hold about our customers may be one of the transferred assets (subject to the same constraints on use and disclosure as under this policy); and 
+
+(d) If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions; or to protect the rights, property, or safety of SitePoint, its personnel or customers . This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+We limit the information we provide to third parties to the information they need to help us provide or facilitate the provision of goods and services to you and otherwise operate our business. We deal with third parties that are required to meet the privacy standards required by law and/or contract in handling your personal information, and use your personal information only for the purposes that we gave it to them. 
+
+We may disclose personal information overseas as noted above and also to employee support personnel and content managers located in Greece and the UK as well as contractor-editors in Germany, Canada and Croatia. We will disclose it only for purposes set out in this policy. 
+
+**5\. Security of personal information**
+
+We take all reasonable steps to protect your personal information, including internal and external security, restricting access to personal information to those who have a need to know, maintain technological products to prevent unauthorised computer access and regularly reviewing our technology to maintain security.  
+We treat website and credit card security seriously and endeavour to provide a secure, safe platform through which to conduct transactions. 
+
+**6\. Questions and concerns and access to/ correction or updating of your personal information**
+
+You have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, please write to us at: 
+
+The Privacy Officer 
+
+SitePoint Pty Ltd
+
+48 Cambridge Street
+
+COLLINGWOOD VICTORIA AUSTRALIA 3066
+
+or by email to: privacy@sitepoint.com 
+
+Please provide sufficient detail about the information in question to help us locate it. We will then use commercially reasonable efforts to promptly determine if there is a problem and take the necessary corrective action within a reasonable time. 
+
+**7\. Changes to our privacy policy**
+
+We may modify, alter or otherwise update this privacy policy at any time. We will post revisions on our website. We encourage you to review this policy from time to time. 
+
+Last update: 17 July 2015
