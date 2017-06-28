@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the aabacosmallbusiness.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231012151id_/https%3A//www.aabacosmallbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aabacosmallbusiness.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628225020id_/https%3A//www.aabacosmallbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Aabaco Small Business, LLC is now part of Oath, a digital and mobile media company with more than 50 [brands](http://www.oath.com/brands) globally, and a member of the [Verizon family of companies](http://www.verizon.com/about/privacy/). The way we handle your information hasn't changed, so the Company's Privacy Policy still governs when you are on our site, using our app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. We will notify you about significant changes in the way we treat your information by sending a notice to the primary email address specified in your Aabaco account or by placing a prominent notice on our site.
+
 [< Terms of Service Center](https://web.archive.org/tos-center)
 
-The services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo! Inc. ("Yahoo").
+The services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo Holdings, Inc. ("Yahoo").
 
 ## **COVERED IN THIS PRIVACY POLICY**
 
@@ -14,7 +16,7 @@ Personal Information collected by the Services is shared with Yahoo. Yahoo's [Pr
 
 **NOT COVERED:**
 
-  * This policy does not override any elements of the terms directly established with the Company customers or partners, including the [Terms of Service](https://web.archive.org/tos). Capitalized terms not defined herein have the meanings set forth in the [Terms of Service](https://web.archive.org/tos).
+  * This policy does not override any elements of the terms directly established with the Company customers or partners, including the [Terms of Service](https://web.archive.org/tos?updated=true). Capitalized terms not defined herein have the meanings set forth in the [Terms of Service](https://web.archive.org/tos?updated=true).
   * The Company’s customers operate their own businesses, with their own websites, with or without the technical assistance of the Company, and all of their data collection and use is governed by their own privacy policies.
   * This policy does not apply to the practices of companies that the Company does not own or control, or to people that the Company does not employ or manage.
 
@@ -32,7 +34,7 @@ The Company automatically receives and records information from Your computer an
 
 The Company uses information for the following general purposes: to customize Your experiences, content, and advertising with us, our customers and some of our partners; fulfill Your requests for products and services; improve our services; provide recommendations; contact You; conduct research; and provide reporting for our customers, internal purposes and partners.
 
-By providing your telephone number(s), including your mobile phone number, to the Company, You expressly consent to receive non-marketing calls and text messages from the Company and others calling or texting on its behalf, including calls and text messages made with an autodialer or prerecorded voice, at the telephone number(s) that you provide. Such calls and text messages may include, for example, password reminders, authentication messages, account- or service-related alerts and reminders, customer service communications, satisfaction surveys, and other types of non-marketing calls and text messages. You may opt-out of these communications at any time by signing in to Your account and going to Your "Profile."
+By providing your telephone number(s), including your mobile phone number, to the Company, You expressly consent to receive marketing and non-marketing calls and text messages from the Company and others calling or texting on its behalf, including but not limited to, calls and text messages made with an autodialer or prerecorded voice, at the telephone number(s) that You provide. Such calls and text messages may include, for example, marketing messages, password reminders, authentication messages, account- or service-related alerts and reminders, customer service communications, satisfaction surveys, and other types of calls and text messages. You may opt-out of these communications, except for communications regarding Your account, Services, and the security of Your account, at any time by signing in to Your account and going to Your "Profile."
 
 Your Personal Information may be transferred outside of the country in which You reside for processing and storage. As a result it could be subject to access by government agencies in those countries.
 
@@ -43,7 +45,7 @@ The Company does not rent, sell, or share Personal Information about You with ot
   * **Service Providers, Contractors, and Agents:** We provide information to partners who work on behalf of or with the Company under confidentiality agreements. These companies do not have any independent right to share this information.
   * **Co-Branded Partners:** The Company may provide some services in partnership with others under a co-branded experience. In these situations both companies may be collecting information about You so please see the privacy links available within the experience to learn more. For example, Business Mail is provided in partnership with [Yahoo](https://privacy.yahoo.com/).
   * **Legal Process:** We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * **Security & Fraud:** We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/tos), or as otherwise required by law.
+  * **Security & Fraud:** We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/tos?updated=true), or as otherwise required by law.
   * **Merger & Acquisition:** We transfer information about You if the Company is acquired by or merged with another company.
 
 
@@ -64,7 +66,7 @@ The Company customers and partners may access their cookies on Your computer and
 
 You can edit or deactivate Your account at any time. Domain registration may continue through Your current term unless You take steps to transfer to another provider. Certain technologies and development tools may continue to collect information until You remove them.
 
-You may receive product update communications, emails, newsletters and other communications about or related to the Services. You will have the opportunity to opt out of marketing related and optional communications by clicking on unsubscribe links or by following unsubscribe instructions. We reserve the right to send You certain communications relating to the Services, such as service announcements, that are considered part of the Services and Your account, without offering You the opportunity to opt out of receiving them.
+You may receive product update communications, calls, text messages, emails, newsletters and other communications about or related to the Services. You will have the opportunity to opt out of marketing related and optional communications by clicking on unsubscribe links or by following unsubscribe instructions. We reserve the right to send You certain communications relating to the Services, such as service announcements, that are considered part of the Services and Your account, without offering You the opportunity to opt out of receiving them.
 
 ## **CONFIDENTIALITY AND SECURITY**
 
@@ -86,4 +88,4 @@ Customer Care - Privacy Policy Issues
 Sunnyvale, CA 94089  
 
 
-_Effective date: November 15, 2015_
+_Effective date: June 13, 2017_
