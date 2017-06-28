@@ -1,65 +1,121 @@
-> *The following text is extracted and transformed from the inboxrockstar.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231154747id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxrockstar.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628182244id_/http%3A//inboxrockstar.com/privacy.php) for the most accurate reproduction.*
 
-# Home & Summary | NBCUniversal
+# Inbox Rockstar Privacy Policy
 
-## Home & Summary
+Inbox Rockstar and Christian Jones 
 
-Last Updated: 19 October 2016
+Thank you for using Inbox Rockstar’s products and services! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. When using any of our services or products, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy.
 
-In this privacy policy:
+1\. What information do we collect?
 
-  * We’ve summarized our privacy policy terms so you can find what you need quickly;
-  * We’ve designed one privacy policy to apply across many NBCUniversal online services;
-  * We’ve added more detail about the personal information we use and collect, including through mobile apps;
-  * We explain how we share information with the companies in the NBCUniversal group.
+We collect information in two ways:
 
+a. When you give it to us or give us permission to obtain it.
 
+When you sign up for or use our products, you voluntarily provide certain information about yourself. This can include your name, profile photo, email address, location, taste and lifestyle preferences, and product category preferences; and any other information that you provide. 
 
-Highlights of most recent changes – December 2015
+You also may give us permission to access your information via other services. For example, if you register for or log into the site via Facebook, you will be explicitly asked to approve Facebook sharing selected information - including basic information from your public profile (such as your name, gender, and locale), your email address, your friend list, and your Facebook likes - with Inbox Rockstar.If and when we add the ability to log in via other services, analogous information sharing may occur. The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
-### Privacy at NBCUniversal
+In addition, we may also store and use the content that you contribute to the site.
 
-At NBCUniversal, we respect personal information and take seriously our privacy obligations. This website describes NBCUniversal’s approach to privacy for the NBCUniversal websites and mobile applications that link to this page (“online services”).  We are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide.
+b. As you use our products
 
-### Summary
+We may collect the following types of data via technology as you use our products:
 
-**What information do we collect and how is it used?**
+Log data. When you use our products, our servers automatically record information (“log data”) including information that your browser sends whenever you visit a website. This log data may include your Internet Protocol address, browser type and settings, the date and time of your request, how you used Inbox Rockstar, and cookie data.
 
-NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies/) and/or (4) information from third parties.
+Cookie data. Depending on how you’re accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your Inbox Rockstar account or your browser), or similar technologies to record log data. When we use cookies, we may use either “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store certain preferences or settings so you don‘t have to set them up every time you visit Inbox Rockstar. Some of the cookies we use are associated with your Inbox Rockstar account (including personal information about you, such as the email address you gave us), and other cookies are not. 
 
-**How do we share information?**
+Pixel tags. We may use “pixel tags” (tiny graphic images with unique identifiers, similar in function to Cookies, that are used to track online movements of Web users). In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel tags are embedded invisibly in Web pages. Pixel tags also allow us to send email messages in a format users can read, and they tell us whether emails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce, eliminate, or modify the types of emails that users receive. 
 
-You understand and agree that NBCUniversal may share information we collect as follows:
+Device information. In addition to log data, we may also collect information about the device from which you’re logging into Inbox Rockstar, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
 
-  * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
-  * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
-  * With third parties for marketing and advertising purposes (this may vary across different countries or states in accordance with law). California residents can access a list of these third parties.
-  * With companies in the NBCUniversal family, in order to cross-promote NBCUniversal services or for research purposes. You have choices about this.
+The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you).
 
+### 2\. Our policy on children’s information
 
+Inbox Rockstar’s products and services are intended for general audiences and are not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us. If we become aware that a child under 13 has provided us with personal information without parental consent, we will take steps to remove such information and terminate the child's account. 
 
-**How is information protected?**
+3\. How do we use the information we collect?
 
-We provide physical, electronic, and procedural safeguards to protect information. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+_a. To develop and improve our products and services_
 
-**Where is information processed?**
+We use the information we collect to provide our products and services to you and improve them, to develop new products, and to protect Inbox Rockstar and our users. For example, we may compare how people use two different versions of a product, which can help us understand which version is easier or more enjoyable to use.
 
-NBCUniversal is a global company with headquarters in the United States. Information may be processed in the United States, as well as at various locations globally.
+_b. To offer you personalized content_
 
-**Children and Privacy**
+_c. Other uses_
 
-Except where otherwise indicated, we do not knowingly collect or store any personal information from children under the age of 13. We use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com). As required by law, we will delete such information from our files within a reasonable time.
+To send you updates, notifications, newsletters, marketing materials and other information that may be of interest to you.
 
-**Your rights and choices**
+To respond to your questions or comments.
 
-NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
+Credit information for purposes of purchasing Inbox Rockstar products and services shall only be used to process applicable payments and collect amounts that you owe.
 
-**Tracking/Cookies and Ads**
+We may use or store information wherever Inbox Rockstar does business, potentially including countries outside your own.If you reside outside of the United States, note that laws regarding the processing of personal data may be less stringent in the United States than in your country.
 
-We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt out of this “targeted advertising”. The effect of opting out is controlled by third parties; they may still collect your usage information for analytic, research or internal operations purposes.
+4\. How do we share the information we collect, with other users and third parties?
 
-Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out).
+_a. Your public profile and user-generated content_
 
-**Contact us**
+When you contribute content to our site - for example product recommendations, ratings, reviews, comments, questions, replies, “likes,” and “helpful” votes - this content will be made publicly available on the site (where it will be accessible by both registered and unregistered users), and will potentially be made available on partner sites as well.This content may also be featured or used in Inbox Rockstar or it’s related companies’ marketing materials.In addition, when you populate your public profile on Inbox Rockstar, that information is also accessible to anyone.When you put either of these two types of content up on the site, you should have no expectation of privacy.However, you always have the option to delete a specific piece of content and/or terminate your account (resulting in deletion of all of your content) at any time.
 
-If you have questions about the privacy practices of our online services, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).  Please include specific information about the online service you are using and your question so we can respond as soon as possible.
+_b. Your personal data_
+
+“Personal data” means data that would allow someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, or any other non-public information about you.
+
+Aside from any information that you choose to share in your public profile or in the user-generated content that you contribute to the site (as described above), we will not share your personal data.For example, we will never rent or sell it to others.The only limited instances in which we may share your personal information include the following:
+
+**Social networking sites:** If you’ve chosen to link to your Inbox Rockstar account to other social networking services (e.g. Facebook), you may be able to choose to publish your activity on Inbox Rockstar to them.By default we will not publish any activity to those services; for example, we will never post anything back to your Facebook wall, send any Facebook messages on your behalf, or share anything else back to Facebook without your express consent.
+
+**Third-party service providers:** If we need to share it with third-party service providers in order to provide you with the products and services that we offer, to provide technical support, and/or to provide other services requested by Inbox Rockstar.These third-party service providers are required not to use your personal data for any other purposes than to provide the services requested by Inbox Rockstar.
+
+**Links to third-party sites:** Our products may contain links to unaffiliated third party websites (e.g. retailer sites). Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+
+**Affiliates and acquisitions:** We may share some or all of your Personal Data with any parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.If another company acquires Inbox Rockstar or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
+
+**Other disclosures:** If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Inbox Rockstar; or to detect, prevent, or otherwise address fraud, security or technical issues. 
+
+_c. Aggregated and non-personally identifiable information_
+
+We may also share aggregated or non-personally identifiable information about you (including your family profile, location, taste preferences, browsing behavior, and site activity) with our partners or others. For example, we may share with an advertiser the number of users that have been exposed to, or clicked on, advertisements.Or, we may help brand partners to gain insights (at a general or individual but unnamed level) into their current or potential customer base, or those of their competitors.We may also use this non-personally identifiable information to help brand partners target you with relevant advertisements or offers, to be delivered through Inbox Rockstar’s products or email infrastructure (depending on your email preferences). 
+
+5\. Your choices regarding your personal information 
+
+Our goal is to give you simple and meaningful choices over your information. If you have a Inbox Rockstar account, many of the choices you have on Inbox Rockstar are built directly into the product or your account settings. For example, you can:
+
+Limit or change information available in your public profile page at any time
+
+Link or unlink your Inbox Rockstar account from an account on another service (e.g., Facebook). Eventually we plan to automate this process, but for now please contact us to do this. 
+
+We do not yet support the Do Not Track browser setting, however we aim to add this in the future.
+
+Delete a specific piece of content at any time.
+
+Close your account at any time. Note we may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).To close your account, please contact us. 
+
+You may have choices available to you through the device or software you use to access Inbox Rockstar. For example: 
+
+The browser you use may provide you with the ability to control cookies or other types of local data storage;
+
+Your mobile device may provide you with choices around how and whether location or other data is shared with us.
+
+To learn more about these choices, please see the information provided by the device or software provider. 
+
+6\. Security
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+7\. Changes and updates to this policy 
+
+Inbox Rockstar reserves the right to revise the privacy policy at any time in its sole discretion. We’ll post any updates to this policy on this page.If the changes are significant, we will send you an email or in-site notification and/or obtain your consent, as required by law.If you continue to use Inbox Rockstar after any changes come into effect, you thereby agree to the revised policy. 
+
+8\. Contact information
+
+If you have any comments or questions regarding this Privacy Policy, or if you believe Inbox Rockstar has not adhered to it, you may contact via the address or email below: 
+
+Inbox Rockstar  
+14090 FM 2920 Suite 529  
+Tomball TX 77377
+
+[support@inboxrockstar.com](mailto:support@inboxrockstar.com)
