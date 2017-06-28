@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordswithfriendscheat.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119141127id_/http%3A//www.wordswithfriendscheat.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordswithfriendscheat.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628065521id_/http%3A//www.wordswithfriendscheat.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Words With Friends Cheat
 
