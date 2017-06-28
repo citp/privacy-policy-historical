@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605144743id_/http%3A//www.seblod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628132659id_/https%3A//www.seblod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ Octopoos will occasionally update this Statement of Privacy to reflect company a
 
 ## Contact Information
 
-Octopoos welcomes your comments regarding this Statement of Privacy. If you believe that Octopoos has not adhered to this Statement, please contact us: [contact form](http://www.seblod.com/contact/). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Octopoos welcomes your comments regarding this Statement of Privacy. If you believe that Octopoos has not adhered to this Statement, please contact us: [contact form](https://www.seblod.com/contact/). We will use commercially reasonable efforts to promptly determine and remedy the problem.
