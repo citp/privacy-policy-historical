@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180159id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628062321id_/http%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
 
 # Course Hero - Privacy Policy
 
-__ Last updated August 26, 2015
+__ Last updated February 3, 2017
 
 This Privacy Policy applies to [www.CourseHero.com](https://web.archive.org/) owned and operated by Course Hero, Inc. Course Hero's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Course Hero located at [www.CourseHero.com](https://web.archive.org/) (the "Website"). 
 
 By using or accessing the Website, you are accepting the practices described in this Privacy Policy. 
 
-Course Hero has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through www.CourseHero.com and does not cover information that may be collected through downloadable software. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ####  Information We Collect
 
@@ -34,7 +32,7 @@ We partner with a third party to either display advertising on our Website or to
 
 ####  Local Storage Objects (HTML5)
 
-Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. 
+We and third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. 
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
@@ -83,6 +81,7 @@ We may provide your personal information to companies that provide services to h
 
 We may also disclose your personal information 
 
+  * in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
   * as required by law such as to comply with a subpoena, or similar legal process; 
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; 
 
@@ -105,6 +104,8 @@ The Website may contain links to other websites. The Website is of course not re
 Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ####  Changing or Removing Information
+
+Upon request Course Hero will provide you with information about whether we hold any of your personal information. To request this information please complete this form, contact us at [privacy@coursehero.com](mailto:privacy@coursehero.com) with a link to the identified material/content. We will respond to your request within 5 business days. 
 
 Users may modify, delete or remove any of their account information at any time by logging into the My Account page. Information will be updated immediately. Individuals who wish to deactivate their Website account may do so on the My Account page. 
 
