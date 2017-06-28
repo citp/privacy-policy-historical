@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techattitude.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123112227id_/http%3A//techattitude.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techattitude.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628235207id_/http%3A//techattitude.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Tips
 
