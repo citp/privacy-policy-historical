@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdn.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617073404id_/https%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdn.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628153814id_/https%3A//msdn.microsoft.com/en-us/dn529288) for the most accurate reproduction.*
 
 # Microsoft Developer Services Privacy Statement
 
@@ -200,7 +200,7 @@ Finally, Microsoft sites may contain web beacons from third parties to help us c
   * Omniture (Adobe): [ http://www.d1.sc.omtrdc.net/optout.html](http://www.d1.sc.omtrdc.net/optout.html)
   * Nielsen: [ http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices)
   * Coremetrics: [ http://www.coremetrics.com/company/privacy.php#optout](http://www.coremetrics.com/company/privacy.php#optout)
-  * Visible Measures: [ http://corp.visiblemeasures.com/viewer-settings](http://corp.visiblemeasures.com/viewer-settings)
+  * Visible Measures: [ http://www.visiblemeasures.com/viewer-settings-opt-out/](http://www.visiblemeasures.com/viewer-settings-opt-out/)
   * Google Analytics: [ http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) (requires you to install a browser add-on)
 
 
