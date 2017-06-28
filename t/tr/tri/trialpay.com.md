@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042114id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081234id_/https%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrialPay
 
@@ -20,8 +20,8 @@ If you have any questions about this Policy, please contact us by email: [privac
 
 Privacy Officer  
 TrialPay, Inc.  
-800 California Street, #300  
-Mountain View, California 94041 USA
+900 Metro Center Blvd.  
+Foster City, California 94404 USA
 
 Please note that questions about our offerwall or missing credits should be emailed to our customer support team directly at [generalsupport@trialpay.com](mailto:generalsupport@trialpay.com)
 
@@ -204,8 +204,8 @@ You also may review or update your information by emailing [privacy-question@tri
 
 Privacy Officer  
 TrialPay, Inc.  
-800 California Street, #300  
-Mountain View, California 94041 USA
+900 Metro Center Blvd.  
+Foster City, California 94404 USA
 
 Upon request, we will provide you with access to your personal information and the ability to correct, amend, or delete that information where it is inaccurate. We will make reasonable efforts to provide the requested information and/or incorporate the requested changes as soon as possible.
 
@@ -225,10 +225,10 @@ Use of our Services is only available to individuals who are of legal age to con
 
 TrialPay regularly reviews its compliance with this Policy. Please direct any questions or concerns regarding this Policy, TrialPay's treatment of PII, or TrialPay's compliance with the Safe Harbor Principles by email to [privacy-question@trialpay.com](mailto:privacy-question@trialpay.com) or in writing to:
 
-Privacy Officer  
-TrialPay, Inc.  
-975 S. California Avenue  
-Palo Alto, CA 94304 USA
+TrialPay Privacy Officer  
+Visa, Inc.  
+900 Metro Center Blvd.  
+Foster City, CA 94404 USA
 
 If you have any complaints regarding our compliance with the Safe Harbor Principles, please contact us at the above.
 
