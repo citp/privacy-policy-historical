@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18virginsex.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225190646id_/http%3A//www.longbucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18virginsex.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628191152id_/http%3A//www.longbucks.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY
 
