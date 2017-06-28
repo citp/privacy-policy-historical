@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livenewson.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025208id_/http%3A//www.livenewson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewson.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628124840id_/http%3A//www.livenewson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LiveNewsOn
 
-This Privacy Policy governs the manner in which LiveNewsBox Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the website (“Site”). This privacy policy applies to the Site and all products and services offered by LiveNewsBox Inc.
+This Privacy Policy governs the manner in which LiveNewsOn Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the website (“Site”). This privacy policy applies to the Site and all products and services offered by LiveNewsOn Inc.
 
  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-LiveNewsBox Inc may collect and use Users personal information for the following purposes:
+LiveNewsOn Inc may collect and use Users personal information for the following purposes:
 
   *  _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -51,7 +51,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-LiveNewsBox Inc has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+LiveNewsOn Inc has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -60,8 +60,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-LiveNewsBox Inc  
-625 Eighth Avenue, New York, NY, 10018.  
+LiveNewsOn Inc  
+625 Eighth Aveue, New York, NY, 10018.  
 (512) 471-3434  
 admin@livenewson.com
 
