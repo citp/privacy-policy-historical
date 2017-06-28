@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225504id_/http%3A//www.winnipegfreepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628154636id_/http%3A//www.winnipegfreepress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Winnipeg Free Press
 
