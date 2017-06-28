@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124071239id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628222004id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Ontario Museum
 
@@ -49,7 +49,7 @@ The ROM may use third parties to collect conversion tracking data and/or data fo
 
 Questions or comments about the ROM’s privacy practices should be directed to:
 
-Join-Michael Poon  
+John-Michael Poon  
 Freedom of Information & Protection of Privacy Coordinator  
 100 Queen’s Park  
 Toronto, ON  
