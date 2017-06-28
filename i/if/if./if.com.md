@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190750id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082418id_/http%3A//if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
-**Last updated September 2013**
+**Last updated June 2017**
 
 Your information will be held by Bank of Scotland plc which trades as Intelligent Finance, part of the Lloyds Banking Group.
 
@@ -51,11 +51,12 @@ We will treat your personal information as private and confidential, but may sha
 (c) needed by our agents, advisers or others involved in running accounts and services for you or collecting what you owe Group companies;  
 (d) needed by subcontractors to help us manage your records;  
 (e) HM Revenue & Customs or other authorities require it;  
-(f) the law, regulatory bodies, or the public interest permits or requires it;  
+(f) the law, regulatory bodies (including for research purposes), or the public interest permits or requires it;  
 (g) required by us or others to investigate or prevent crime;  
 (h) needed by market research companies to assist us in providing better products and services for you; or  
-(i) to any other parties connected with your account (including guarantors).  
-(j) required as part of our duty to protect your accounts, for example we are required to disclose your information to the UK Financial Services Compensation Scheme (FSCS). 
+(i) any other parties connected with your account (including guarantors) need it;  
+(j) required as part of our duty to protect your accounts, for example we are required to disclose your information to the UK Financial Services Compensation Scheme (FSCS); or  
+(k) you use price comparison websites or other similar services to research or purchase financial products and services. These providers will use information about you and your relationship with us to help ensure you get the best results from their services, enabling you to make an informed choice. 
 
 We will always ensure your information remains safe and secure.
 
@@ -83,6 +84,8 @@ If you have a secured loan or mortgage with us, we may need to share information
 
 If you give personal information about someone else (such as a joint applicant) then you should not do so without their permission. Where information is provided by you about someone else, or someone discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this privacy notice.
 
+**Sharing personal information between joint applicants**
+
 Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant. For example, transactions made by you will be seen by your joint account holder and vice versa.
 
 **How we manage sensitive personal information**
@@ -102,7 +105,7 @@ All countries in the European Economic Area (EEA), which includes the UK, have s
 When you apply for credit, an automated system known as credit scoring may be used when considering whether to agree the borrowing. It is a method of assessing your likely conduct of an account based on a range of data, including the conduct of previous similar accounts. It is a system widely used by credit providers to help make fair and informed decisions on lending.  
 Credit scoring takes account of information from three sources - the information you provide on your application, information provided by credit reference agencies and information that may already be held about you by companies in the Lloyds Banking Group. A credit scoring system will consider information from these sources, to make an overall assessment of your application. 
 
-The credit scoring methods used are regularly tested to ensure they remain fair, effective and unbiased.  Using a credit scoring system helps our Group companies to lend responsibly. If you submit an application and it is declined through this automated process, you can contact us within 21 days to have the decision reconsidered. You also have the right to ask that the decision is not made based solely using a credit scoring system.
+The credit scoring methods used are regularly tested to ensure they remain fair, effective and unbiased. Using a credit scoring system helps our Group companies to lend responsibly. If you submit an application and it is declined through this automated process, you can contact us within 21 days to have the decision reconsidered. You also have the right to ask that the decision is not made based solely using a credit scoring system. 
 
 **How we use Credit Reference Agencies**
 
@@ -129,7 +132,7 @@ We may give details of your account and how you conduct it to credit reference a
 If you apply for or hold an account in joint names, or tell us that you have a spouse or financial associate, a financial association will be created between your records, including any previous and subsequent names used by you. This means that your financial affairs may be treated as affecting each other. These links will remain on your and their files until such time as you or your partner is successful in applying for a disassociation with the CRAs to break that link. You must be sure that you have their agreement to disclose information about them. Searches may be made on all joint applicants, and search footprints will be left on all applicants' records.
 
 You have a right to apply to the credit reference agencies for a copy of your file.   
-We carry out most of our credit searches using Experian, but details of how you have run your account(s) may be disclosed to all the credit reference agencies. The information they hold may not be the same and there is a small fee that you may need to pay to each agency that you apply to.  Their addresses are: 
+We carry out most of our credit searches using Experian, but details of how you have run your account(s) may be disclosed to all the credit reference agencies. The information they hold may not be the same and there is a small fee that you may need to pay to each agency that you apply to. Their addresses are: 
 
   * Experian Consumer Help Service, PO Box 9000, Nottingham NG80 7WP or call 0844 481 8000 or log on to [www.experian.co.uk](http://www.experian.co.uk/)
   * Equifax plc, Credit File Advice Centre, PO Box 1140, Bradford BD1 5US or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/)
@@ -157,7 +160,7 @@ We may ask you to provide physical forms of identity verification when you open 
 
 **Undertaking Anti-Money Laundering checks**
 
-To comply with money laundering regulations, there are times when we need to confirm (or reconfirm) the name and address of our customers. This information may be shared with other group companies. 
+To comply with money laundering regulations, there are times when we need to confirm (or reconfirm) the name and address of our customers. This information may be shared with other group companies. For more details about identity checks, please call us on 0345 609 4343. 
 
 **Obtaining information about you, and other personal details**
 
@@ -188,9 +191,11 @@ EH12 1AY
 
 **Using your personal information to contact you about products and services.**
 
-Unless you have asked us not to, we and other Lloyds Banking Group companies may contact you by mail, telephone, email or text message about products and services available from the Group. In addition we may also contact you about products and services from selected companies outside the Group, which we believe may be of interest to you or benefit you financially. 
+Lloyds Banking Group companies will use your personal information so we can provide you with product details and offers that are more relevant to you. This may include products and services from companies outside of our Group if we believe it may be of interest to you or benefit you financially, and it could continue after your relationship with us ends. 
 
-We promise not to contact you about everything - only if we think it could be appropriate and relevant to you, such as preferential savings opportunities, account upgrades or special offers. This contact may continue after your relationship with us ends. You may opt out of receiving this information at any time by calling us, writing to us or contacting your local branch.
+We might contact you by mail, telephone, email, or text unless you have asked us not to. If you are an Internet Banking customer, we may also display personalised advertising to you when you use our Internet Banking service and mobile app, and through other digital channels (such as other websites or digital TV). You can change your preferences at any time by updating them online, calling us, writing to us or contacting your local branch. If you do opt out, you may still see some generic, non-personalised advertising when you are using other digital channels. 
+
+**Passing your information to other companies for their own direct marketing**. 
 
 Unless you have given us your consent, we will not provide information about you to companies outside our group to use for their own marketing purposes.
 
@@ -202,6 +207,6 @@ To access our cookie notice, please go to the [cookie policy page](http://www.if
 
 **Changes to our Privacy Notices**
 
-We keep our privacy notice under regular review and we will reflect any updates within this notice.  This notice was last updated 9 September 2013.
+We keep our privacy notice under regular review and we will reflect any updates within this notice. This notice was last updated June 2017. 
 
 Back to top
