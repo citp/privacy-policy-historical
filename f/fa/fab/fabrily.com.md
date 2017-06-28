@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabrily.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213194101id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabrily.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628135548id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
 # About Teespring / Privacy Policy | Teespring
 
