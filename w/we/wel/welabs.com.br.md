@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the welabs.com.br privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229124947id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welabs.com.br privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628132923id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Temple
 
 Effective Date: 06/20/2016
 
 This Privacy Policy ("Policy") applies to www.mediatemple.net (the “Site” or “Media Temple”) owned and operated by Go Daddy Operating Company LLC. It describes how Media Temple collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
+
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
 ### **EU-U.S. Privacy Shield**
 
