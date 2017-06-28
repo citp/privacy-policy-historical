@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116175614id_/http%3A//www.soul-source.co.uk/soulforum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092810id_/https%3A//www.soul-source.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Soul Source
 
@@ -28,9 +28,9 @@ Full info and opt out details can be found on their respective websites
 
 **Continued use of this site is taken to mean that your are agreeing to the above information to be gathered.**
 
-You can find out more about the way cookies work and how to disable them on
+You can find out more about the way cookies work and how to disable them on both
 
-[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+<http://cookies.insites.com/> and [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 **Privacy Policy**
 
@@ -86,4 +86,4 @@ By submitting personal data you agree to be bound by our privacy policy and agre
 
 Any changes to this privacy policy will be communicated promptly on this page.
 
-Updated 25th May 2012 
+Updated 3rd February 2017
