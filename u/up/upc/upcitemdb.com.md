@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071836id_/http%3A//www.upcitemdb.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628053703id_/http%3A//www.upcitemdb.com/terms) for the most accurate reproduction.*
 
 # Term & Privacy Policy - UPCitemdb
 
