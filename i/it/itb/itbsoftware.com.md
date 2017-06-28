@@ -1,28 +1,36 @@
-> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212105042id_/http%3A//www.itbsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628214335id_/http%3A//www3.itbsoftware.com/privacy_policy.php) for the most accurate reproduction.*
 
-# IT Backbones - Dedicated To The Software Sector, Featuring News, Press Releases, IT Directory & Links
+# Privacy Policy
 
-## Privacy Policy
+* **Overview**
 
-On registration, IT Backbones requests some personal information - including the candidate’s name, email address, telephone number and company name. IT Backbones may occasionally use this information for a number of specific purposes: to contact registered users regarding our advertising services, improve our services, conduct research or provide anonymous reporting for internal and external clients.
+Thank you for visiting www3.itbsoftware.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-## Information Sharing and Disclosure
+* **What Type of Information We Collect**
 
-IT Backbones does not rent, sell, or share personal information regarding registered users of the network with other companies or individuals. IT Backbones does not provide any personal information to advertising partners when the user interacts with, or views, an advert.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-## Confidentiality and Security
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-Access to IT Backbones registered users’ personal information is highly restricted; only employees that are required to utilise this information are granted access. The IT Backbones database containing registered user information is not held on any physical site but within a secure online server. State of the art safeguards for this server include secure I.P. access and encryption.
+* **Uses May Include**
 
-If you have any questions regarding privacy or security on IT Backbones, please email: [security@itbackbones.com](mailto:security@itbackbones.com)
-
-## Changes to this Privacy Policy
-
-IT Backbones reserves the right to update this policy as required. If this policy is updated, registered users will be notified by email and the updates will be listed on the website.
-
-##### More Video News
-
-[](http://macromedia.com/software/flashplayer/)
-
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   
 
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
