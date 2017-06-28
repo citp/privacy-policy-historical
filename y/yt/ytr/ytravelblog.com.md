@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045026id_/http%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytravelblog.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628231010id_/https%3A//www.ytravelblog.com/disclaimer/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - y Travel Blog
 
@@ -8,9 +8,9 @@ We recognise that you have an interest in our collection and use of your persona
 
 This policy applies only to information that Y Travel Blog collects via this Website.
 
-Please note that this Website Privacy Policy forms part of the [Terms of Use](http://www.ytravelblog.com/disclaimer/) document, which is displayed at the footer of each page of the Website.
+Please note that this Website Privacy Policy forms part of the [Terms of Use](https://www.ytravelblog.com/disclaimer/) document, which is displayed at the footer of each page of the Website.
 
-**Information we collect and hold**
+ **Information we collect and hold**
 
 Wherever possible, you can elect to remain anonymous or use a pseudonym in interacting with us e.g. when making an enquiry.
 
@@ -26,13 +26,13 @@ From time to time, we may ask you to supply personal information such as your na
 
 We may also conduct surveys or market research and may seek other information from you on a periodic basis. These surveys will provide us with information that allows improvement in the types and quality of services offered to you, and the manner in which those services are offered to you.
 
-**Personal information via the Website**
+ **Personal information via the Website**
 
 Most commercial websites use ‘cookies’, which are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using the Website easier by storing information about your preferences on the Website. This allows the Website to be tailored to you for any of your return visits. Cookies will not identify you personally.
 
 If you would prefer not to receive cookies, you can alter your security settings on your web browser to disable cookies or to warn you when cookies are being used. However, by disabling the cookie function in your web browser you may impede your ability to use parts of the Website.
 
-**Your option not to provide your personal information** ** **
+ **Your option not to provide your personal information** ** **
 
 Providing us with your personal information is absolutely optional, but may be necessary for us to provide you with our services. Whenever it is optional for you to provide us with non-essential personal information, we will make this clear to you. When you provide us with your personal information, you are consenting to our storage, use and disclosure of that information as outlined in this Website Privacy Policy.
 
@@ -40,7 +40,7 @@ We may from time to time run competitions or offer additional benefits to you an
 
 You may opt out of these additional communications at any time. Please contact our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220.
 
-**Use and disclosure of your personal information**
+ **Use and disclosure of your personal information**
 
 When we hold your personal information it will be used for the following primary purposes:
 
@@ -68,13 +68,13 @@ Should a third party approach us with a demand to access your personal informati
 
 If we are compelled to disclose your personal information, to a third party we will take reasonable steps to notify you of this in advance, wherever it is lawful and reasonable for us to do so.
 
-**Security of personal information**
+ **Security of personal information**
 
 In our business, personal information may be stored both electronically and in hard-copy form. We are committed to keeping your personal information secure regardless of the format in which we hold it and we take all reasonable steps to protect your information from misuse, interference, loss, and unauthorised access, modification or disclosure. However, you use the Website at your own risk and we accept no responsibility, whether we are deemed to have been negligent or not, in the event of a security that affects your privacy.
 
 Note that no information transmitted over the Internet can be guaranteed to be completely secure. However, we will endeavour to protect your personal information as best as possible but we cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk.
 
-**Accuracy and quality of personal information**
+ **Accuracy and quality of personal information**
 
 We will take all such steps as are reasonable in the circumstances to ensure that:
 
@@ -83,7 +83,7 @@ We will take all such steps as are reasonable in the circumstances to ensure tha
 
 
 
-**Access to your personal information**
+ **Access to your personal information**
 
 In most cases, you have the right to access the personal information that we hold about you. If you wish to access your personal information, please contact our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220.
 
@@ -101,7 +101,7 @@ If we refuse to give you access we will provide you with reasons for our refusal
 
 These mechanisms for accessing your personal information operate alongside, and do not replace, other informal or legal procedures by which you may be provided with access to your personal information.
 
-**Correction of your personal information**
+ **Correction of your personal information**
 
 The accuracy of the personal information we have requested from you is important to us. Should you suspect, or become aware of, that your personal information we hold is inaccurate, out of date, incomplete or misleading, please contact our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220.
 
@@ -113,36 +113,30 @@ In the case we have corrected personal information about you, you may request th
 
 These mechanisms for correcting your personal information operate alongside, and do not replace, other informal or legal procedures by which you may be provided correction of your personal information.
 
-**Overseas transfer of personal information**
+ **Overseas transfer of personal information**
 
 We may transfer your personal information to overseas recipients. However, we will seek your consent prior to disclosing your information if the overseas recipient is not regulated in a way that equally reflects the Australian Privacy Principles. We will take reasonable steps to ensure an overseas recipient does not breach the requirements of the _Privacy Act 1988_ (Cth).
 
-**Concerns and complaints about breaches**
+ **Concerns and complaints about breaches**
 
 If you have concerns about how we handle your personal information, it is important that you notify us as soon as possible, so that we can address your concerns appropriately as the circumstances require. Any concern or complaint should be made in writing. Please send it to our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220 and will respond as soon as reasonably possible. Alternatively you may contact the Office of the Australian Information Commissioner with your concern. Information about lodging a complaint is available on the Office of the Australian Information Commissioner’s website (see in particular: <http://www.oaic.gov.au/privacy/privacy-complaints>).
 
-**Disposal of personal information not required**
+ **Disposal of personal information not required**
 
 If we hold personal information about you, and we do not need that information for any purpose for which the information may be used or disclosed, we will take reasonable steps to destroy or de-identify that information unless we are prevented from doing so by law.
 
-**Unsubscribing from our e-mail database**
+ **Unsubscribing from our e-mail database**
 
 To unsubscribe from our e-mail database, please use the unsubscribe option, which is located on our Home page and within your login account or send us an e-mail to [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
 
-**Contacting us**
+ **Contacting us**
 
 If you have any questions, concerns or ideas about how we could improve our Website Privacy Policy, please contact our Privacy Officer at elephantsrjumping.com.au. Where you provide suggestions, materials or feedback it is considered non-confidential and we may, at our complete discretion, use it to improve the Website, service and/or how we handle personal information without any obligation to compensate you regardless of how we use, implement, copy, modify, display, distribute and/or otherwise benefit from your suggestions, materials or feedback.
 
-**Amendments of this Privacy Policy**
+ **Amendments of this Privacy Policy**
 
 We are obligated to regularly review and update this policy. We therefore reserve the right to amend this Website Privacy Policy at any time. Should any significant amendments occur, notification will be provided by publication on the Website 14 days prior to the changes being implemented (the **Notice Period** ) unless the circumstances of the amendments makes it unreasonable to provide such a Notice Period. Your continued use after the Notice Period has lapsed indicates your consent to be bound by the amended Website Privacy Policy.
 
 For further information about privacy in general, please refer to the Office of the Australian Information Commissioner’s website located at [http://www.oaic.gov.au](http://www.oaic.gov.au/).
 
-_Website Privacy Policy last updated on 8 September 2015._ To download a PDF version of this Website Privacy Policy, [click here](http://d3ffv2s4dx60hp.cloudfront.net/Website%20Privacy%20Policy.pdf). Alternatively, please contact our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220and we will gladly send you a copy free of charge.
-
-#### Like what you've read?
-
-We've helped thousands of readers plan their trips and get on the road. Join our email community and take your first step today!
-
-Join Us
+ _Website Privacy Policy last updated on 8 September 2015._ To download a PDF version of this Website Privacy Policy, [click here](http://d3ffv2s4dx60hp.cloudfront.net/Website%20Privacy%20Policy.pdf). Alternatively, please contact our Privacy Officer at [cazcraig@ytravelblog.com](mailto:cazcraig@ytravelblog.com), +61 423 269 926 or PO Box 677, Miami, Queensland, Australia 4220and we will gladly send you a copy free of charge.
