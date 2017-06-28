@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422000057id_/http%3A//mxfastmoney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092844id_/http%3A//mxfastmoney.com/privacy) for the most accurate reproduction.*
 
 # MX Fast Money Success System - MX Fast Money Privacy Policies
 
@@ -33,20 +33,5 @@ Your personally identifiable information is kept secure on a secure server prote
 The names and email addresses collected are not sold, or disclosed to any third parties.
 
 You have the choice to stop receiving further emails from MX Fast Money by clicking on the 'Unsubscribe' link at the lower part of any of our messages to you. Alternately you may send an email to MX Fast Money Admin with the word “UNSUBSCRIBE” at your discretion.
-
-PRIVACY CONTACT INFORMATION
-
-If you have any questions, concerns, or comments about our Privacy Policy you may contact us using the information below:
-
-MX FAST MONEY REGISTERED OFFICE
-
-MillionaireX7 Global Incorporated  
-Mill Mall Tower, 2nd Floor  
-Wickhams Cay 1  
-Road Town  
-Tortola  
-British Virgin Islands 1110  
-Telephone: +63-939-253-3333  
-Email: [admin@mxfastmoney.com](mailto:admin@mxfastmoney.com)
 
 Note: This policy document along with all policy documents within our website must be reviewed and approved prior to use for your particular purpose. No statement of legality or compliance with any regulatory agencies is made in providing you with this document.
