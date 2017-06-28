@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222192648id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081231id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - SATAC
 
@@ -147,7 +147,7 @@ Amendment
 
 **4.7 Information retained by SATAC**
 
-SATAC retains the information you provide in your application and information retrieved on your behalf to facilitate future tertiary applications by you as well as the continuing development of the Institutions’ admissions rules. Any personal information stored by SATAC such as those relating to your contact details and student numbers is not used by SATAC while you do not have a current application. Information about your qualifications and demographic data can be used for management information purposes and research while you do not have a current application.
+SATAC retains the information provided in your application and retrieved on your behalf to support your future applications, as well as the continuing development of institution admissions rules. Information about your qualifications and demographic data may be used for planning and research purposes while you do not have a current SATAC application.
 
 **4.8 Information logged when you access the SATAC website**
 
@@ -213,7 +213,7 @@ Where SATAC receives a request to provide a body or person with a copy of this P
 
 Click the link below to download the privacy policy in PDF format.
 
-[SATAC Privacy Policy (188kb PDF)](https://web.archive.org/documents/factsheet_privacy.pdf)
+[SATAC Privacy Policy (346kb PDF)](https://web.archive.org/documents/factsheet_privacy_2017.pdf)
 
 ##  Copyright
 
