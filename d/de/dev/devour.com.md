@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the devour.com privacy policy that was archived on 2016-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160726125446id_/http%3A//devour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devour.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628230428id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Devour
+# Privacy | Uncrate
 
-The policies below are applicable to Devour.com. Any questions or comments you may have regarding this privacy policy, contact [Zombiecorp](http://www.zombiecorp.com/).
+The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact [Zombiecorp](http://www.zombiecorp.com/).
 
 Zombiecorp respects each individual user's right to privacy. Zombiecorp and its sites do not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, giveaways, site registration, or use of public areas, such as a forum. Zombiecorp may use aggregate forms of this information — not individual data — for marketing and promotional purposes. Zombiecorp does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) Zombiecorp is not responsible for any actions or policies of such companies.
 
