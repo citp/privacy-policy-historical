@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207094030id_/http%3A//alltopics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628025409id_/http%3A//alltopics.com/privacy) for the most accurate reproduction.*
 
-# - Most popular images, videos and gifs
+# : Most Popular News, Videos and Images
 
 ### Introduction
 
@@ -32,7 +32,15 @@ You should also be aware that if you submit information to “chat rooms,” “
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Alltopics.com uses cookies to help Alltopics.com identify and track visitors, their usage of Alltopics.com websites, and their website access preferences. Alltopics.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Alltopics.com’s websites, with the drawback that certain features of Alltopics.com’s websites may not function properly without the aid of cookies.
+Alltopics.com places a cookie on the hard drive of your computer. A "cookie" is a file which allows us to track and target the interests of users. In addition, our website uses third party cookies from Google Analytics for Display Advertisers, including the following features:
+
+• Google Display Network Impression Reporting - which gives us additional insight into who has viewed our paid digital advertising on other websites. This will help us optimise and tailor our advertising.
+
+• DoubleClick Platform integrations & Remarketing with Google Analytics – the integrations between both our web analytics and paid advertising platforms together to give us additional insight. This allows us to tailor our advertising to ensure the right types and offers are shown to you while you are using the internet outside our website.
+
+• Google Analytics Demographics and Interest Reporting - which gives us insight into behaviour information relating to visitor age, gender and interests on an anonymous and aggregate level. This will help us to understand browsing behaviour to give you a better experience whilst visiting our sites.
+
+Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy here. While we recommend that users enable cookies on their browsers in order to enjoy all the features of our website, the decision remains in the hands of the individual.
 
 ### Ads
 
@@ -40,7 +48,7 @@ Ads appearing on any Alltopics.com websites may be delivered to users by adverti
 
 ### Links to Third Party Sites
 
-This privacy policy only applies to information collected by Alltopics.com. This privacy policy does not apply to the practices of companies that Alltopics.com does not own or control, or employees that Alltopics.com does not manage. A Alltopics.com website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and Alltopics.com and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+This privacy policy only applies to information collected by Alltopics.com. This privacy policy does not apply to the practices of companies that Alltopics.com does not own or control, or employees that Alltopics.com does not manage. Alltopics.com website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and Alltopics.com and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
 
 ### Security
 
