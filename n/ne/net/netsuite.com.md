@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206193208id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628050956id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
 # NetSuite Privacy Statement - Customer Relationship Management - eCommerce Solution
 
@@ -12,7 +12,7 @@ In this Privacy Statement (“ **Statement** ”), NetSuite Inc. and its worldwi
 
 References in this Statement to “ **we,** ” “ **us** ” or “ **our** ” are references to the NetSuite Group entity that is operating the relevant Website, or providing the applicable Services. Statements referring to “ **you** ” or “ **your** ” are references to the company or individual we are collecting personal information about. Our use of the term Services in this Statement has the same definition as in customer’s applicable Services agreement with us, or the applicable NetSuite Group service (“ **Services** ”).
 
-If you have any questions regarding this Statement, please email us at [privacy@netsuite.com](mailto:privacy@netsuite.com) or see the “How to Contact Us” section below.
+If you have any questions regarding this Statement, please email us at [Privacy_ww@oracle.com](mailto:privacy_ww@oracle.com) or see the “How to Contact Us” section below.
 
 #### SCOPE
 
@@ -118,9 +118,9 @@ Your personal information may be stored and processed in any country where we ha
 
 #### EU-US PRIVACY SHIELD
 
-_NetSuite Inc., Bronto Software, LLC, Monexa LLC and Order Motion, Inc._ adhere to the EU-U.S. Privacy Shield with respect to Business Data received from customers, potential customers, vendors, service providers, professional advisors, business partners, consultants or other third parties in the European Economic Area (“ **EEA** ”) (“ **Privacy Shield Business Data** ”).
+_NetSuite Inc., Bronto Software, LLC, Monexa LLC and OrderMotion, Inc._ adhere to the EU-U.S. Privacy Shield with respect to Business Data received from customers, potential customers, vendors, service providers, professional advisors, business partners, consultants or other third parties in the European Economic Area (“ **EEA** ”) (“ **Privacy Shield Business Data** ”).
 
-References in this EU-US Privacy Shield section to “ **we,** ” “ **us** ” or “ **our** ” are references to NetSuite Inc., Bronto Software, LLC, Monexa LLC or Order Motion, Inc. only.
+References in this EU-US Privacy Shield section to “ **we,** ” “ **us** ” or “ **our** ” are references to NetSuite Inc., Bronto Software, LLC, Monexa LLC or OrderMotion, Inc. only.
 
 ( _This Statement does not apply to Customer Data_ – see [NetSuite Services Privacy Statement](https://web.archive.org/portal/services-privacy-statement.shtml) for information about our Privacy Shield Certification for Customer Data.)
 
@@ -160,13 +160,11 @@ If you wish to access, correct, amend or delete your personal information under 
 
 If you have any questions regarding this Statement or if you need to request access to or update, change or remove personal information that we control, you can do so by contacting:
 
-Denise Farnsworth at: [dfarnsworth@netsuite.com](mailto:dfarnsworth@netsuite.com) or [privacy@netsuite.com](mailto:privacy@netsuite.com)   
-or by regular mail addressed to:
-
-Denise Farnsworth  
-Senior Director, Lead Privacy Counsel  
-2955 Campus Drive, Suite 100  
-San Mateo, CA 94403 
+Chief Privacy Officer, Oracle Corporation  
+10 Van de Graaff Drive  
+Burlington, MA 01803  
+United States of America  
+[Privacy_ww@oracle.com](mailto:Privacy_ww@oracle.com)
 
 #### AMENDMENTS
 
