@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041222id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628212145id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - Terms and Conditions of the Groupmail Website
 
@@ -55,11 +55,11 @@ We reserve the right to refuse technical support and/or other services if you:
 
 
 
-The Groupmail range of products was developed to help people including us, to run and manage opt-in mailing lists, opt-in email newsletters, opt-in email marketing campaigns, announcement lists, customer updates and other legal uses of email and SMS messaging. We will never knowingly tolerate the use of our products to facilitate the sending of unsolicited commercial bulk email (i.e. spam) messages. We have taken measures to stop people from abusing our products – for example, our GroupMail Free Edition has limitations in it to stop it from being abused. Some of those limitations are:
+The Groupmail range of products was developed to help people including us, to run and manage opt-in mailing lists, opt-in email newsletters, opt-in email marketing campaigns, announcement lists, customer updates and other legal uses of email and SMS messaging. We will never knowingly tolerate the use of our products to facilitate the sending of unsolicited commercial bulk email (i.e. spam) messages. We have taken measures to stop people from abusing our products – for example, our GroupMail Lite Edition has limitations in it to stop it from being abused. Some of those limitations are:
 
-  * BCC / Bulk sending is not permitted – spammers like to be able to send their email quickly – using bcc. This is not possible with the GroupMail Free Edition.
-  * There is a limitation on the number of messages that can be sent at any one time in our GroupMail Free Edition. Again this is designed to deter spammers from using our GroupMail software to send spam.
-  * Direct sending is not available in the GroupMail Free Edition.
+  * BCC / Bulk sending is not permitted – spammers like to be able to send their email quickly – using bcc. This is not possible with the GroupMail Lite Edition.
+  * There is a limitation on the number of messages that can be sent at any one time in our GroupMail Lite Edition. Again this is designed to deter spammers from using our GroupMail software to send spam.
+  * Direct sending is not available in the GroupMail Lite Edition.
   * None of our products allow message headers to be altered in anyway.
   * None of our products facilitate the building of spam lists using extraction or spidering techniques.
 
@@ -207,9 +207,9 @@ If a customer has had their account put on hold, they may contact customer suppo
 
 
 
-Copyright © 1997 –2020Groupmail Ltd. All rights reserved.
+Copyright © 1997 –2020 Groupmail Ltd. All rights reserved.
 
-GROUPMAIL, the GROUPMAIL logo, INFACTA, the INFACTA logo, GROUPMETRICS, the GROUPMETRICS logo, EMAIL INSPECTOR, SUBSCRIBER and GROUPMAIL AUTORESPONDER are trademarks of Groupmail Ltd.
+GROUPMAIL, the GROUPMAIL logo, INFACTA, the INFACTA logo, INSIGHTS, the INSIGHTS logo, EMAIL INSPECTOR, SUBSCRIBER and GROUPMAIL AUTORESPONDER are trademarks of Groupmail Ltd.
 
 Other products or company names are or may be trademarks or registered trademarks and are the property of their respective holders.
 
