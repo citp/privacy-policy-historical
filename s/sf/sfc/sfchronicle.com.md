@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfchronicle.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001631id_/http%3A//www.sfchronicle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfchronicle.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628065110id_/http%3A//www.sfchronicle.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for SFChronicle website - San Francisco Chronicle
 
