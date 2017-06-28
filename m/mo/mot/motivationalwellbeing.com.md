@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182611id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivationalwellbeing.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628161234id_/http%3A//www.motivationalwellbeing.com/legal.html) for the most accurate reproduction.*
 
 # Legal Disclaimer | Privacy Policy - MotivationalWellBeing
 
@@ -67,10 +67,8 @@ I use outside ad companies to display ads on this site. These ads may contain co
 
 The products that are recommended on this site are through affiliate programs which means I get paid a commission if a visitor buys the product(s) using my link. 
 
-I’m also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
-
-[Monetized by Viglink](http://www.viglink.com/legal/disclosures/users)
+I’m also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
 
 **Contact Information**
 
-If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in April 2016.
+If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in February 2017.
