@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210003856id_/http%3A//www.colostate.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628215832id_/https%3A//www.colostate.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Colorado State University
 
