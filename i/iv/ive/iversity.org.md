@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iversity.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193536id_/https%3A//iversity.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iversity.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081007id_/https%3A//iversity.org/en/privacy) for the most accurate reproduction.*
 
-# iversity - Privacy
+# Privacy - iversity
 
-iversity GmbH (“iversity”) takes the protection and security of your personal data extremely seriously and will only process, collect and use your personal data in accordance with the legal provisions relating to data protection in force in the Federal Republic of Germany.   
+iversity Learning Solutions GmbH (“iversity”) takes the protection and security of your personal data extremely seriously and will only process, collect and use your personal data in accordance with the legal provisions relating to data protection in force in the Federal Republic of Germany.   
 
 
 ## 1\. Collection, processing and use of personal data
