@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235803id_/http%3A//frontend.sekindo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081735id_/http%3A//www.sekindo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sekindo
 
@@ -16,9 +16,10 @@ Sekindo may automatically collect information through the use of log files and o
 
 Further information may be collected when we exchange communications with you, for example, when you submit an inquiry, or if our designated copyright agent contacts you.
 
-As part of protecting your privacy, please note that if you do not wish that your personal information will be collected, as aforementioned, you should mark “OPT-OUT” by clicking on this link. Such marking will ensure that information regarding your browsing habits and / or other personal information will not be collected.
-
 We also use cookies for advertising we serve across the web. Our main advertising cookies are prefixed with ‘v’ (e.g. v12345) and are stored in browsers under the domain sekindo.com. We also use ‘c’, ‘l’, ‘t’, ‘spc’, ‘spshc’, ‘fr’, ‘ps’, ‘n’, ‘e’, ‘sid’, ‘udi’, ‘dp4’ and ‘fro’ prefixed cookies (e.g. spc12345).
+
+As part of protecting your privacy, please note that if you do not wish that your personal information will be collected, as aforementioned, you should mark  
+“OPT-OUT” by clicking on [this link](http://live.sekindo.com/utils/cookieOptOut.php). Such marking will ensure that information regarding your browsing habits and / or other personal information will not be collected.
 
 **What does Sekindo do with your personally identifiable information?**
 
@@ -43,7 +44,7 @@ Sekindo may use anonymous, statistical or aggregated information about the Servi
 
 Sekindo may also use anonymous, statistical or aggregated information to properly operate the Service and the Website, to improve the quality and functionality of the Service and the website, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes.
 
-**How does Sekindo Share information with others?**
+**How does Sekindo share information with others?**
 
 Sekindo does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. Sekindo may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
 
@@ -57,6 +58,10 @@ third parties, as may be required to handle any result of your wrongdoing;
   * Sekindo may also share personally identifiable information with companies or organizations connected, or affiliated with it, such as subsidiaries, sister-companies and parent companies.
 
 
+
+**Children’s Privacy**
+
+Personal information about children, who are under 13 years of age, is not knowingly or intentionally collected. For example, we will not use any Cookies, and will not collect a data from any user, when we serve ads in websites that to the best of our knowledge are not COPPA (The Children’s Online Privacy Protection Act) compliant (based on [comScore’s](https://www.comscore.com/) non-compliant COPPA sites list).
 
 **How can you access your personal information?**
 
