@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072434id_/https%3A//www.cavenders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629003106id_/https%3A//www.cavenders.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cavender's
 
