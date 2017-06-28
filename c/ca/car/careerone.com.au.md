@@ -1,34 +1,36 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110839id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628075239id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
-**Your Privacy Rights**
+**Your Privacy Rights - CareerOne Privacy Policy Highlights**
 
-CareerOne collects personal information about you and distributes that information to help you connect with employers and other job seekers with similar interests and to provide other services to you. This policy describes how information is collected and distributed and your choices with respect to your personal information. Please review our [ Full Privacy Policy](http://inside.careerone.com.au/fullpolicy/inside2.aspx) for detailed information on our information and privacy practices.
+We encourage you to review our [ full Privacy Policy](http://inside.careerone.com.au/fullpolicy/inside2.aspx) for detailed information on our privacy practices.
 
-## Information We Collect and Retain
+CareerOne collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This privacy policy describes how your personal information is collected, used, shared, and secured, as well as your choices regarding use, access, and correction of your personal information.
 
-CareerOne collect the [personal](http://inside.careerone.com.au/fullpolicy/inside2.aspx#personal "personal") and [demographic](http://inside.careerone.com.au/fullpolicy/inside2.aspx#demographic "demographic") information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs contain information necessary for analysing the use of resources, troubleshooting problems, and improving services. We also use [cookies](http://inside.careerone.com.au/fullpolicy/inside2.aspx#cookiesbeacons "cookies") and [web beacons](http://inside.careerone.com.au/fullpolicy/inside2.aspx#cookiesbeacons "web beacons").
+## Scope of this Privacy Policy
 
-## How Information is Used
+CareerOne collects the [personal](http://inside.careerone.com.au/fullpolicy/inside2.aspx#personal "personal") and [demographic](http://inside.careerone.com.au/fullpolicy/inside2.aspx#demographic "demographic") information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalise your experience. The resulting logs contain information necessary for analysing the use of resources, troubleshooting problems, and improving services. We also use [cookies](http://inside.careerone.com.au/fullpolicy/inside2.aspx#cookiesbeacons "cookies") and [web beacons](http://inside.careerone.com.au/fullpolicy/inside2.aspx#cookiesbeacons "web beacons").
+
+## How We Use Information
 
 Information you post in public areas of the site or placed in the searchable CV database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorised parties will not gain access. We also cannot control how authorised users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to CareerOne.
 
-We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalised content and advertising. We may use your information to contact you about CareerOne site updates, conduct surveys, or informational and service-related communications, including important security updates.
+We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalised content and advertising. We may use your information to contact you about CareerOne site updates, conduct surveys, or informational and service-related communications, including important security updates. In addition, unless you tell us otherwise then we will also contact you (including via telephone) about enrolling in education and training courses with our third party education provider partners. If you do not want to be contacted for these purposes, please let us know by contacting us via email [optout@careeronerecruit.com.au](mailto:optout@careeronerecruit.com.au) or via the other methods provided at the bottom of this policy.
 
 ## Disclosure of Information to Others
 
-We share your information with third parties, including Monster, Inc. and third party technology providers, who help us in the delivery of our own products and services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services.
+We share your information with third parties, including Monster, Inc. and third party technology providers, who help us in the delivery of our own products and services to you. Unless you tell us otherwise, we will share your information with third parties who may contact you to market their products and services. However if you opt-out, then these third parties may not use your information for any purpose other than assisting us in providing those products and services.
 
-If you have consented for us to do so, we may use your information to contact you about other products or services available from our affiliates.
+Unless you tell us otherwise, we may use your information to contact you about other products or services available from our affiliates.
 
-If you have consented for us to do so, we may also share your  information with third parties who may contact you about their products or services. This includes sharing your information with Acquire Learning Pty Ltd for the purposes of the provision of services by our joint venture, CareerOne Education. Acquire Learning Pty Ltd's privacy policy is available at <http://www.acquirelearning.com.au/privacy-policy>. 
+Unless you tell us otherwise, we may also share your information with third parties who may contact you about their products or services. If you have opted-in to be contacted by CareerOne Education then we will share your information with Careers Australia Group to enable them to market their education and training courses to you. Careers Australia Group's privacy policy is available at <http://www.careersaustralia.edu.au/privacy-policy>.
 
-**If any phone number you have provided to us is registered on the Do Not Call register you consent to CareerOne and Acquire Learning calling that number or those numbers. We (and Acquire) may continue to contact you for an indefinite period unless and until you advise us otherwise.**
+**If any phone number you have provided to us is registered on the Do Not Call register you consent to CareerOne and Careers Australia Group calling that number or those numbers. We (and Careers Australia Group) may continue to contact you for an indefinite period unless and until you advise us otherwise.**
 
 ## Your Choices About Your Information
 
-You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](http://my.careerone.com.au/Login.aspx "log into your account"), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems.
+You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](http://my.careerone.com.au/Login.aspx "log into your account"), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymised form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems.
 
 Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage.
 
@@ -46,29 +48,21 @@ We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](ht
 
 For more information on how to protect yourself online, click [here](http://inside.careerone.com.au/security-center/home.aspx "security center").
 
-## CareerOne Education & Acquire Learning
+## Careers Australia Group
 
-If you have consented for us to do so (either by applying for a job through the CareerOne job board or registering with CareerOne), we may also share your information with third parties who may contact you about their products or services. This includes sharing your information with Acquire Learning Pty Ltd for the purposes of the provision of services by our joint venture,
+If you have consented for us to do so (either by applying for a job through the CareerOne job board or registering with CareerOne), we may also share your information with third parties who may contact you about their products or services. This includes sharing your information with Careers Australia Group for the purposes of marketing education and training courses to you (including by telephone and email).  
+Careers Australia Group's privacy policy is available at: <http://www.careersaustralia.edu.au/privacy-policy>.
 
-CareerOne Education to discuss potentially enrolling in education and training courses with third party education providers. Acquire Learning Pty Ltd's privacy policy is available at <http://www.acquirelearning.com.au/privacy-policy>.
+If you do not wish to be contacted by Careers Australia Group about education or training services, you may opt out at any time by requesting to be removed from the database via:
 
-If you do not wish to be contacted by Acquire Learning or CareerOne Education about education or training services, you may opt out at any time by requesting to be removed from the database via:
-
-**_CareerOne Education:_**  
-Email: [optout@careeroneeducation.com.au](mailto:optout@careeroneeducation.com.au);  
-Tel: 1800 555 010;  
-Mail: CareerOne Education Privacy Officer, 600 Glenferrie Road, Hawthorn, Vic, Australia 3122  
-In person: by attending 600 Glenferrie Road, Hawthorn, Vic, Australia 3122. 
-
-**_Acquire Learning:_**  
-Email: [optout@acquirelearning.com.au](mailto:optout@acquirelearning.com.au)  
-Tel: 1800 426 732;  
-Mail: Acquire Learning Privacy Officer, 600 Glenferrie Road, Hawthorn, Vic, Australia 3122  
-In person: by attending 600 Glenferrie Road, Hawthorn, Vic, Australia 3122.
+**_Careers Australia Group_**  
+Email: [optout@careersaustralia.edu.au](mailto:optout@careersaustralia.edu.au);  
+Mail: Level 8, 151-171 Roma Street, Brisbane QLD 4000  
+In person: by at, 100 Brookes Street, Fortitude Valley QLD 4006
 
 ## How to Contact Us
 
-You may [contact us](http://my.careerone.com.au/privacy/EmailForm.aspx "contact us") for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 555 010, or write to us at:
+You may [contact us](http://my.careerone.com.au/privacy/EmailForm.aspx "contact us") for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 555 010, or write to us at:
 
 CareerOne Privacy Officer  
 Level 11  
