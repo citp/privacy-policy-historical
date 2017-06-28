@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027223850id_/http%3A//www.rokuguide.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628155613id_/https%3A//www.rokuguide.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roku Guide
 
@@ -71,7 +71,7 @@ This policy was last modified on 29-Nov-2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.rokuguide.com/contact](http://www.rokuguide.com/contact)
+[www.rokuguide.com/contact](https://www.rokuguide.com/contact)
 
 PO Box 49124  
 Atlanta, GA 30329  
