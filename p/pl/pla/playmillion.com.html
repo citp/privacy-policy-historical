@@ -1,34 +1,41 @@
-<!--The following is the downloaded HTML source of the playmillion.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229043534id_/http%3A//www.playmillion.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playmillion.com privacy policy that was archived on 2017-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628105054id_/http%3A//www.playmillion.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" async-hide"><!--<![endif]--><head>
 	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Privacy Policy - Play Online Casino with up to 3000€ Welcome Bonus - PlayMillion.com</title>
 
 <link rel="stylesheet" href="http://cdnpmuk.image-tech-storage.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.9.7" type="text/css" media="all">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://www.playmillion.com/xmlrpc.php">
-	<link rel="icon" type="image/png" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/favicon.ico?v=89226">
+	<link rel="icon" type="image/png" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/favicon.ico?v=73738">
 	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-  <!--  
-   function open_win() {
+	
 
-      location.href = '/play/';
-   return;
-   	
-	var y = window.screen.width - 10;
-	var x = window.screen.height - 50;
-	var sb = "no";
-	if (window.screen.width<1281)
-	{
-	 sb = "yes";
-	}
-    window.open("/play/", "_blank", 'width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
-}
- //-->
- </script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    /*function open_win()
+    {
+        location.href = '/play/';
+        return;
+    }*/
+
+
+    function open_win()
+    {
+        if( readCookie('SK_login') )
+            location.href = '/login/';
+        else if( readCookie('SK_token') )
+            location.href = '/play/';
+        else {
+            jQuery('.modal').modal('hide');
+            jQuery('#register-modal').modal('show');
+            return false;
+        }
+    }
+
+
+</script>
 
 		<script>
 	    function visitor_country_code()
@@ -180,6 +187,53 @@
         font-weight: normal;
         font-style: normal
     }
+
+    @font-face {
+        font-family: 'museo_sans_cyrl900';
+        src: url('/wp-content/themes/playmillion/fonts/museosanscyrl_900-webfont.eot');
+        src: url('/wp-content/themes/playmillion/fonts/museosanscyrl_900-webfont.eot?#iefix') format('embedded-opentype'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_900-webfont.woff2') format('woff2'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_900-webfont.woff') format('woff'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_900-webfont.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+    @font-face {
+        font-family: 'museo_sans_cyrl300';
+        src: url('/wp-content/themes/playmillion/fonts/museosanscyrl_300-webfont.eot');
+        src: url('/wp-content/themes/playmillion/fonts/museosanscyrl_300-webfont.eot?#iefix') format('embedded-opentype'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_300-webfont.woff2') format('woff2'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_300-webfont.woff') format('woff'),
+             url('/wp-content/themes/playmillion/fonts/museosanscyrl_300-webfont.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'museo_sans900';
+        src: url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.eot');
+        src: url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.eot?#iefix') format('embedded-opentype'),
+             url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.woff2') format('woff2'),
+             url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.woff') format('woff'),
+             url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.ttf') format('truetype'),
+             url('/wp-content/themes/playmillion/fonts/museo-sans-webfont.svg#museo_sans900') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'museo_sans300';
+        src: url('/wp-content/themes/playmillion/fonts/museosans-300-webfont.eot');
+        src: url('/wp-content/themes/playmillion/fonts/museosans-300-webfont.eot?#iefix') format('embedded-opentype'),
+             url('/wp-content/themes/playmillion/fonts/museosans-300-webfont.woff2') format('woff2'),
+             url('/wp-content/themes/playmillion/fonts/museosans-300-webfont.woff') format('woff'),
+             url('/wp-content/themes/playmillion/fonts/museosans-300-webfont.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+
+    }
 </style>
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.playmillion.com/privacy/">
@@ -217,12 +271,16 @@ img.emoji {
 <link rel="stylesheet" id="playmillion-social-icons-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/css/social-icons.css?ver=4.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="luckylouis-font-awesome-style-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/css/font-awesome.min.css?ver=4.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="playmillion-main-style-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="playmillion-registration-page-style-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/css/registration-page.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="playmillion-intl-tel-input-page-style-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/intl-tel-input/css/intlTelInput.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="playmillion-registration-modal-style-css" href="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/css/registration-modal.css?ver=4.2.2" type="text/css" media="all">
+<script type="text/javascript" src="//service.maxymiser.net/api/eu/playmillion.com/496863/mmapi.js"></script>
 <script type="text/javascript" src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/jquery.js?ver=4.2.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.playmillion.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdnpmuk.image-tech-storage.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.2.2">
 <link rel="shortlink" href="http://www.playmillion.com/?p=1174">
-<meta name="generator" content="WPML ver:3.1.9.7 stt:1,12,4,3,27,47,2,50,5,7,22,9,65,18,69,13,23,25,32,33,70,40,42,43,46,51,10,48,52,55,56;0">
+<meta name="generator" content="WPML ver:3.1.9.7 stt:1,12,4,3,27,47,2,50,5,7,22,65,18,69,13,23,25,32,33,70,40,42,43,46,51,10,48,52,55,56;0">
 <link rel="alternate" hreflang="en-US" href="http://www.playmillion.com/privacy/">
 <link rel="alternate" hreflang="da-DK" href="http://www.playmillion.dk/sikkerheds-politik/">
 <link rel="alternate" hreflang="fr-FR" href="http://fr.playmillion.com/confidentialite/">
@@ -234,7 +292,6 @@ img.emoji {
 <link rel="alternate" hreflang="ar" href="http://ar.playmillion.com/khsosia/">
 <link rel="alternate" hreflang="bg-BG" href="http://bg.playmillion2.com/poveritelnost/">
 <link rel="alternate" hreflang="hr" href="http://hr.playmillion.com/privatnost/">
-<link rel="alternate" hreflang="cs-CZ" href="http://cs.playmillion.com/soukromi/">
 <link rel="alternate" hreflang="en-US" href="http://www.playmillion.co.uk/privacy/">
 <link rel="alternate" hreflang="fi-FI" href="http://fi.playmillion.com/yksityisyyden-suoja/">
 <link rel="alternate" hreflang="ka-GE" href="http://ka.playmillion.com/piradi-monacemebi/">
@@ -265,9 +322,33 @@ img.emoji {
 		    });
 		</script>
 	<![endif]-->
+
+
+    	<style>.async-hide { opacity: 0 !important} </style>
+	<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-5J6GKVF':true});</script>
+	<script>
+	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	    ga('create', 'UA-25952525-1', 'auto');
+	    ga('require', 'displayfeatures');
+        ga('require', 'GTM-5J6GKVF');
+	    ga('send', 'pageview');
+
+	</script>
+
+
 </head>
 
 <body class="page page-id-1174 page-template page-template-page-templates page-template-full-page page-template-page-templatesfull-page-php masthead-fixed full-width singular english full-page">
+	 
+	
 			            <script type="text/javascript">
     		//var C = 'GB';
     		var C = visitor_country_code();
@@ -297,12 +378,13 @@ img.emoji {
 							</div>
 
 							<div class="languages">
-																    <div id="lang_sel">
-    	<ul>
-        	<li>
-        		<a href="#" class="lang_sel_sel icl-en">English</a>
-            	<ul>
-                    <li><a href="http://fr.playmillion.com/confidentialite/">Français</a></li>
+																    
+    <div class="dropdown language-selector">
+        <a class="dropdown-toggle" id="language-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            English            <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="language-selector">
+            <li><a href="http://fr.playmillion.com/confidentialite/">Français</a></li>
 <li><a href="http://de.playmillion.com/datenschutz/">Deutsch</a></li>
 <li><a href="http://it8.playmillion2.com/informativa-sulla-privacy/" class="external" rel="nofollow" target="_blank">Italiano</a></li>
 <li><a href="http://ru.playmillion2.com/konfidentsialnost/" class="external" rel="nofollow" target="_blank">Русский</a></li>
@@ -311,7 +393,6 @@ img.emoji {
 <li><a href="http://ar.playmillion.com/khsosia/">العربية</a></li>
 <li><a href="http://bg.playmillion2.com/poveritelnost/" class="external" rel="nofollow" target="_blank">Bulgarian</a></li>
 <li><a href="http://hr.playmillion.com/privatnost/">Hrvatski</a></li>
-<li><a href="http://cs.playmillion.com/soukromi/">Čeština</a></li>
 <li><a href="http://fi.playmillion.com/yksityisyyden-suoja/">suomi</a></li>
 <li><a href="http://ka.playmillion.com/piradi-monacemebi/">ქართული   </a></li>
 <li><a href="http://el.playmillion2.com/idiwtikothta/" class="external" rel="nofollow" target="_blank">Ελληνικα</a></li>
@@ -330,9 +411,7 @@ img.emoji {
 <li><a href="http://sv.playmillion.com/sekretess-policy/">Svenska</a></li>
 <li><a href="http://tr.playmillion.com/gizlilik-politikasi/">Türkçe</a></li>
 <li><a href="http://uk.playmillion.com/pruvatnist/">Ukrainian</a></li>
-            	</ul>
-        	</li>
-    	</ul>
+        </ul>
     </div>
 							</div>
 
@@ -615,7 +694,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -635,7 +714,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -655,7 +734,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -675,7 +754,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -695,7 +774,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -715,7 +794,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -735,7 +814,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -755,7 +834,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -778,7 +857,7 @@ img.emoji {
 							</div>
 								
 							<div class="contenthover hover-box">
-								<a href="/download/" class="btn btn-red">
+								<a onclick="open_win(); return false;" class="btn btn-red">
 									Download Now								</a>  
 								<a onclick="open_win(); return false;" class="btn btn-green">Play Now</a>
 							</div>
@@ -803,7 +882,7 @@ img.emoji {
 		</div>
 	</div>
 
-	<p class="games-availabilty">Games subject to availabilty</p>
+	<p class="games-availabilty">Games subject to availability</p>
 </div>
 
         
@@ -843,25 +922,37 @@ img.emoji {
     <p id="footer-text" class="footer-text license-text">
                     <script>
                 jQuery(document).ready( function () {
+                    var text = ''
                     if( visitor_country_code() == 'MT' || visitor_country_code() == 'CY' || visitor_country_code() == 'GI' || visitor_country_code() == 'IM' )
                     {
-                        jQuery('.license-text').html('This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011');
+                        text = 'This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011 and license number MGA/CL1/1259/2016 issued on 24 October 2016';
                     }
                     else if( visitor_country_code() == 'IE' )
                     {
-                        jQuery('.license-text').html('This site’s operations are regulated by the Malta Gaming Authority and is operated by Titanium Brace Marketing Ltd, 7A, The Podium, St Mark Street, St Julians, STJ09, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/1078/2015) issued on 17th September 2015');
+                        text = 'This site’s operations are regulated by the Malta Gaming Authority and is operated by Titanium Brace Marketing Ltd, 7A, The Podium, St Mark Street, St Julians, STJ09, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/1078/2015) issued on 17th September 2015';
                     }
                     else if( visitor_country_code() == 'SE' || visitor_country_code() == 'FI' )
                     {
-                        jQuery('.license-text').html('This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011.');
+                        text = 'This site’s operations are regulated by the Malta Gaming Authority and is operated by SkillOnNet Ltd, Office 1/5297 Level G, Quantum House, 75, Abate Rigord Street, Ta’ Xbiex, XBX 1120, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/563/2009) issued on 17th June 2011 and license number MGA/CL1/1259/2016 issued on 24 October 2016';
                     }
-                    else if( visitor_country_code() == 'DE' )
+                    /*else if( visitor_country_code() == 'DE')
                     {
-                        jQuery('.license-text').html('This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus <br><br> This site’s operations are regulated by the Malta Gaming Authority and is operated by Titanium Brace Marketing Ltd,, 7A, The Podium, St Mark Street, St Julians, STJ09, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/1078/2015) issued on 17th September 2015');
+                        text = 'This site is owned and operated by SK Processing, Agiou Andreou 332, Partician Chambers, CY3035 Limassol, Cyprus. This site’s operations are regulated by the Malta Gaming Authority and is operated by Titanium Brace Marketing Ltd,, 7A, The Podium, St Mark Street, St Julians, STJ09, Malta, under the gaming license issued by the Malta Gaming Authority (license number MGA/CL1/1078/2015) issued on 17th September 2015';
+                    }*/
+                    else if( visitor_country_code() == 'GB' )
+                    {
+                        text = 'This site is operated by Skill on Net Ltd, a company registered in Malta under Reg. No. C50024 with its business address at Level 5, Quantum House, 75 Abate Rigord Street, Ta’ Xbiex 1120 Malta and operated under a gaming license issued to Skill on Net Ltd by the Gambling Commission of Great Britain, the status of which can be viewed <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39326">here</a>.';
                     }
-                    else{
-                        jQuery('.license-text').hide();
+                    else if( visitor_country_code() == 'DK' )
+                    {
+                        text = 'PlayMillion.dk drives af Skill On Net Limited, som er godkendt af Spillemyndighederne under licensnummer 16-1066791, der blev bekendtgjort 2017/01/01';
                     }
+
+
+                    if( text.length > 0 )
+                        jQuery('.license-text').html(text);
+                    else
+                        jQuery('.license-text').remove();
                 });
             </script>
             </p>
@@ -1084,7 +1175,7 @@ img.emoji {
 <script type="text/javascript">
     jQuery(window).load(function(){
         var country = visitor_country_code();
-        if( country == 'FR' || country == 'ES' || country == 'HU' || country == 'RO' )
+        if( country == 'FR' || country == 'ES' || country == 'HU' || country == 'RO' || country == 'SL' )
         {
             $('#blocker_body').html( $('#blocker_'+country).html() );
             //jQuery('#country-blocker').modal('show');
@@ -1147,6 +1238,14 @@ img.emoji {
     <p><a href="#" data-dismiss="modal" aria-hidden="true">Accept</a></p>
 </div>
 
+<div id="blocker_SL" style="display:none">
+    <h2>Warning</h2>
+
+    <p>We have detected that you are trying to access our site from a country that we do not accept players from (as per our terms and conditions) and for this reason you cannot play on this website.</p>
+    <p>If you feel you are receiving this message in error and you are not playing from a country we do not accept players from (as per our terms and conditions) you may continue.</p>
+    <p><a href="#" data-dismiss="modal" aria-hidden="true">Accept</a></p>
+</div>
+
 
 <div id="blocker_DE" style="display:none">
     <p>Wir haben festgestellt, dass Sie unsere Internetseite aus dem deutschen Bundesland</p>
@@ -1196,19 +1295,875 @@ img.emoji {
 
 
     
-	<script>
-	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	    ga('create', 'UA-25952525-1', 'auto');
-	    ga('require', 'displayfeatures');
-	    ga('send', 'pageview');
-
-	</script>
 
 
+
+
+
+
+
+
+
+<div class="modal fade" id="register-modal" style="display:none" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            <div class="modal-body">
+                <div class="row no-gutter">
+                    <div class="col-xs-12 col-sm-7 col-md-7">
+                        <div class="modal-form">
+                            
+    <div class="container">
+                    <div class="form-logo" id="logo">
+                <a href="http://www.playmillion.com/" rel="home">
+                                            <img src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/images/registration/logo.png" alt="PlayMillion Online Casino" title="PlayMillion Online Casino">
+                                    </a>
+            </div>
+
+            <div class="form-wrapper">
+                <div class="step step-one" id="first_step">
+                    <form id="register_form" novalidate="">
+
+                                                <input type="hidden" name="lang" id="lang" value="en">
+
+
+                        <!-- fake fields are a workaround for chrome autofill getting the wrong fields -->
+                        <input style="display:none" type="text" name="fakeusernameremembered">
+                        <input style="display:none" type="password" name="fakepasswordremembered">
+
+                        <div class="step-intro">
+                            <h1>Join for free</h1>
+                            <p>Create your account, it takes less than a minute.</p>
+                        </div>
+
+                        
+                        <div class="form">
+                            <div class="form-row mandatory">
+                                <label for="username">Choose your username</label>
+                                <div class="controls">
+                                    <input type="text" class="form-control required" maxlength="12" name="username" id="username" placeholder="" value="">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_username_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_username_length" class="error-message username-error-message">
+                                        Please use between 6 and 12 characters.                                    </div>
+                                    <div id="error_username_invalid_chars" class="error-message username-error-message">
+                                        Should contain only letters.                                                                            </div>
+                                    <div id="error_username_exists" class="error-message username-error-message">
+                                        Someone already has that username. Try another?                                    </div>
+
+                                    <div id="error_username_server" class="error-message username-error-message">
+                                    </div>
+
+                                    <div class="tooltips alert alert-info" role="alert" data-attribute="username">
+                                        Please use between 6 and 12 characters. Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row mandatory">
+                                <label for="email_address">Email Address</label>
+                                <div class="controls">
+                                    <input type="email" class="form-control required" name="email_address" id="email_address" placeholder="" value="" maxlength="64">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+
+
+                                    <!-- no @ sign -->
+                                    <div id="error_email_address_noat" class="error-message email-error-message">
+                                        Enter your full email address, including the '@'.
+                                    </div>
+
+                                    <!-- invalid domain -->
+                                    <div id="error_email_address_invalid_domain" class="error-message email-error-message">
+                                                                                Your email address contains the invalid domain name '<span id="email_address_domain_name"></span>'                                    </div>
+
+                                    <!-- missing domain -->
+                                    <div id="error_email_address_nodomain" class="error-message email-error-message">
+                                        Don't forget the part after the '@'.
+                                    </div>
+
+                                    <!-- no username before @ -->
+                                    <div id="error_email_address_nouser" class="error-message email-error-message">
+                                        Don't forget the part before the '@' - that's the best part!                                    </div>
+
+                                    <!-- double @ -->
+                                    <div id="error_email_address_double_at" class="error-message email-error-message">
+                                        A fan of the @ sign! But please use only one in the email address.
+                                    </div>
+
+                                    <!-- all other types of errors -->
+                                    <div id="error_email_address_invalid" class="error-message email-error-message">
+                                        Check that you have entered a valid e-mail address.
+                                    </div>
+
+                                    <!-- email exists -->
+                                    <div id="error_email_address_exists" class="error-message email-error-message">
+                                        An account with this email address already exists. If you forgot your password you can recover it <a href="/forgot-password/">here</a>.                                    </div>
+
+                                    <div id="error_email_address_server" class="error-message email-error-message"></div>
+                                </div>
+                            </div>
+
+                            <div class="form-row main-password mandatory">
+                                <label for="password">Create a password</label>
+                                <div class="controls">
+                                    <div class="input-append input-group">
+                                        <input type="password" class="form-control required" maxlength="10" name="password" id="password" placeholder="" value="">
+                                        <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                        <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                        <span tabindex="100" title="Click here to show/hide password" class="add-on input-group-addon" style="cursor: pointer;" id="pshow1" onclick="toggle_password_text('#password','#pshow1')"><span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span></span>
+                                    </div>
+                                    <div id="error_password_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_password_length" class="error-message password-error-message">
+                                        Please use between 6 and 10 characters.                                    </div>
+                                    <div id="error_password_invalid_chars" class="error-message password-error-message">
+                                        Should contain only letters and numbers.                                                                            </div>
+                                    <div id="error_password_like_username" class="error-message password-error-message">
+                                        Password cannot be the same as the username.                                    </div>
+                                    <div id="error_password_server" class="error-message password-error-message">
+
+                                    </div>
+                                    <div class="tooltips alert alert-info" role="alert" data-attribute="password">
+                                        Please use between 6 and 10 characters. Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+
+
+
+
+                            <div class="form-buttons">
+                                <div class="cta-btn ">
+                                                                        <a class="submit btn btn-red" id="submit_first">
+                                        <i class="fa fa-refresh fa-spin fa-fw"></i> Create account</a>
+                                </div>
+                            </div>
+
+
+                            <div class="form-footer">
+                                                            </div>
+                        </div>
+                    </form>
+
+                    <div class="members-login">
+                        Already have an account? <a href="/login/">Sign In</a>                    </div>
+                </div>
+            </div>
+
+
+            <div class="form-wrapper">
+                <div class="step step-two" id="second_step">
+                    <form id="register_form2" accept-charset="UTF-8" action="#" class="pro-form" method="post">
+                        <div class="progressbar">
+                            <ul id="progressbar">
+                                <li class="checked">
+                                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                                </li>
+                                <span class="separator"></span>
+                                <li class="active">2</li>
+                                <span class="separator"></span>
+                                <li>3</li>
+                            </ul>
+                        </div>
+
+                        <div class="control-group">
+                            <div class="form-row mandatory">
+                                <label class="control-label" for="firstName">First Name</label>
+                                <div class="controls">
+                                    <input id="firstName" name="firstName" maxlength="20" type="text" placeholder="" class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_firstName_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_firstName_length" class="error-message">
+                                        Please use between 2 and 20 characters.                                    </div>
+                                    <div id="error_firstName_invalid" class="error-message">
+                                        Invalid first name                                    </div>
+                                    <div id="error_firstName_format" class="error-message">
+                                        Should contain only letters.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row mandatory">
+                                <label class="control-label" for="lastName">Last Name</label>
+                                <div class="controls">
+                                    <input id="lastName" name="lastName" maxlength="20" type="text" placeholder="" class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_lastName_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_lastName_length" class="error-message">
+                                        Please use between 2 and 20 characters.                                    </div>
+                                    <div id="error_lastName_invalid" class="error-message">
+                                        Invalid last name                                    </div>
+                                    <div id="error_lastName_format" class="error-message">
+                                        Should contain only letters.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row mandatory">
+                                <label class="control-label" for="gender">Gender</label>
+                                <div class="gender-selection">
+                                                                        <input type="radio" name="gender" id="male" class="selectpicker form-control" value="MALE" checked="checked">
+                                    <label class="gender male" for="male">Male</label>
+                                    <input type="radio" name="gender" id="female" class="selectpicker form-control" value="FEMALE">
+                                    <label class="gender female" for="female">Female</label>
+                                </div>
+                            </div>
+
+                            <div class="form-row mandatory">
+                                <label class="control-label" for="dateOfBirth">Birthday</label>
+                                <div class="controls">
+                                    
+                                    <input id="dateOfBirth" name="dateOfBirth" type="text" data-format="YYYY-MM-DD" data-template="D MMM YYYY" class="form-control progress-field" required="required">
+
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+
+                                    <div id="error_dateOfBirth_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_dateOfBirth_format" class="error-message">
+                                                                            </div>
+                                    <div id="error_dateOfBirth_invalid" class="error-message">
+                                        You must be at least 18 years old to play                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-buttons">
+                                <div class="back-btn">
+                                    <a id="second_step_back" href="#">Back</a>
+                                </div>
+                                <div class="cta-btn">
+                                    <!--<input class="submit btn btn-red" type="submit" name="submit_second" id="submit_second" value="" />-->
+                                    <a class="submit btn btn-red" name="submit_second" id="submit_second">
+                                        <i class="fa fa-refresh fa-spin fa-fw"></i> Continue</a>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="form-wrapper">
+                <div class="step step-three" id="third_step">
+                    <form id="register_form3" accept-charset="UTF-8" action="#" class="pro-form" method="post">
+                        <div class="progressbar">
+                            <ul id="progressbar">
+                                <li class="checked">
+                                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                                </li>
+                                <span class="separator"></span>
+                                <li class="checked">
+                                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                                </li>
+                                <span class="separator"></span>
+                                <li class="active">3</li>
+                            </ul>
+                        </div>
+
+                                                <div class="control-group">
+                            <div class="form-row left mandatory">
+                                <label class="control-label" for="country">Country</label>
+                                <div class="controls">
+                                    <div class="btn-group clearfix">
+                                        <select name="country" id="country" class="selectpicker form-control" data-live-search="true">
+                                            <option value="">Select your country</option> <!-- required for the case maxmind fail to resolve the country-->
+                                        </select>
+                                        <div id="error_country_blocked" class="error-message">
+                                            To comply with regulations our services are not available to players residing in your country.                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="form-row right">
+                                <label class="control-label" for="state">State/Province</label>
+                                <div class="controls">
+                                    <div class="btn-group clearfix">
+                                        <select name="state" id="state" class="selectpicker form-control" data-live-search="true">
+                                            <option value="">N/A</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="form-row mandatory">
+                                                            </div>
+
+
+
+
+                            <div class="form-row mandatory">
+
+
+                                <label class="control-label" for="address">Address</label>
+                                <div class="controls">
+                                    <input id="address" name="address" maxlength="50" type="text" placeholder="Address" class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_address_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_address_length" class="error-message">
+                                        Please use between 1 and 50 characters.                                    </div>
+                                    <div id="error_address_format" class="error-message">
+                                        Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row left mandatory">
+                                <label class="control-label" for="city">City</label>
+                                <div class="controls">
+                                    <input id="city" name="city" maxlength="50" type="text" placeholder="" class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_city_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_city_length" class="error-message">
+                                        Please use between 1 and 50 characters.                                    </div>
+                                    <div id="error_city_format" class="error-message">
+                                        Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row right mandatory">
+                                <label class="control-label" for="zipCode">Zip/Postal Code</label>
+                                <div class="controls">
+                                    <input id="zipCode" maxlength="10" name="zipCode" type="text" placeholder="" class="form-control progress-field" onchange="jQuery(this).val(jQuery(this).val().replace(' ',''))">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+
+                                    <div id="error_zipCode_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_zipCode_length" class="error-message">
+                                        Please use between 3 and 10 characters.                                    </div>
+                                    <div id="error_zipCode_format" class="error-message">
+                                        Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row mandatory">
+                                <label class="control-label" for="mobile_number">Mobile phone</label>
+                                <div class="controls">
+                                    <input id="mobile_number" name="mobile_number" maxlength="15" type="tel" placeholder="" class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <input id="mobile" type="hidden" name="mobile">
+                                    <div id="error_mobile_number_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_mobile_number_invalid" class="error-message">
+                                        This phone number format is not recognized. Please check the country and number..
+                                    </div>
+                                </div>
+                            </div>
+
+
+                                                    </div>
+
+
+                        <div class="control-group">
+                            <div class="form-row question mandatory">
+                                <label class="control-label" for="securityQuestion">Security Question</label>
+                                <div class="btn-group clearfix">
+                                    <select name="securityQuestion" id="securityQuestion" class="selectpicker form-control" data-live-search="false">
+                                        <option value="">Select your secret question</option>
+                                        <!-- will be given by Andy-->
+                                        <option value="1">City of birth?</option>
+                                        <option value="2">Favourite sports team?</option>
+                                        <option value="3">Mother's maiden name?</option>
+                                        <option value="4">Pet's name?</option>
+                                        <option value="5">Father's middle name?</option>
+                                        <option value="6">Favourite movie?</option>
+                                        <option value="7">First child's name?</option>
+                                        <option value="8">Favourite teachers name?</option>
+                                        <option value="9">Anniversary [MM/DD/YYYY]?</option>
+                                        <option value="10">Choose a four digit PIN number?</option>
+                                    </select>
+                                    <div id="error_securityQuestion_empty" class="error-message">
+                                        Select your secret question                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-row answer">
+                                <div class="controls">
+                                    <input id="securityAnswer" name="securityAnswer" maxlength="50" type="text" placeholder="Answer..." class="form-control progress-field" required="required">
+                                    <span class="glyphicon form-control-feedback glyphicon-ok" aria-hidden="true"></span>
+                                    <span class="glyphicon form-control-feedback glyphicon-remove" aria-hidden="true"></span>
+                                    <div id="error_securityAnswer_empty" class="error-message">
+                                        You can't leave this empty                                    </div>
+                                    <div id="error_securityAnswer_length" class="error-message">
+                                        Please use between 1 and 50 characters.                                    </div>
+                                    <div id="error_securityAnswer_format" class="error-message">
+                                        Should contain only letters and numbers.                                                                            </div>
+                                </div>
+                            </div>
+
+
+                        
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+                            <div class="form-row">
+                                <div class="checkbox" id="checkbox_over_18_handler">
+                                    <label class="checkbox inline" for="over_18">
+                                        <input type="checkbox" name="over_18" id="over_18" value="1">
+                                        <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>
+                                        <!--<p class="disclaimer">-->
+                                        I'm over 18 years of age and I accept these <a href="/terms/" target="_blank">Terms and Conditions</a><!--                                        </p>-->
+                                    </label>
+                                    <div id="error_over_18_empty" class="error-message">
+                                                                                Please confirm your age and agree to the terms &amp; conditions.                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+                        
+
+
+
+
+
+
+                        <div class="form-buttons">
+                            <div class="back-btn">
+                                <a id="third_step_back" href="#">Back</a>
+                            </div>
+                            <div class="controls final-form-buttons cta-btn">
+                                <!--<button id="submit_third" name="submit_third" class="submit btn btn-small btn-red"></button>-->
+                                <a class="submit btn btn-red" id="submit_third" name="submit_third">
+                                    <i class="fa fa-refresh fa-spin fa-fw"></i> Create account</a>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="form-row">
+                            <div id="error_api_abuse" class="error-message">
+                                According to our records you already have an account. Please goto to <a href="/forgot-password/">'forgot password'</a> or contact support at <a href="mailto:support@playmillion.com">support@playmillion.com</a>.                            </div>
+                            <div id="error_api_general" class="error-message">
+                                An error occurred, please try again later                            </div>
+                        </div>
+
+
+
+                        
+                </form></div>
+            </div>
+            </div>
+
+
+
+    <script> api_url = 'https://api.playmillion.com' </script>
+
+    <script type="text/javascript" src="http://www.playmillion.com/api/js/validation.js?v=201706281048"></script>
+    <script type="text/javascript" src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/registration/jquery.main.js?v=201706281048"></script>
+
+    <script src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/intl-tel-input/js/intlTelInput.min.js"></script>
+    <script src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/intl-tel-input/js/libphonenumber/utils.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            var opts = {
+                defaultCountry: visitor_country_code(),
+                preferredCountries: ["us", visitor_country_code()],
+                utilsScript: "http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/intl-tel-input/js/libphonenumber/utils.js",
+                //  numberType: intlTelInputUtils.numberType.FIXED_LINE_OR_MOBILE
+            };
+            try {
+                //        jQuery("#phone_number").intlTelInput(opts);
+                jQuery("#mobile_number").intlTelInput(opts);
+                jQuery("#secondPhone_number").intlTelInput(opts);
+
+                //jQuery("#mobile_number_confirm").intlTelInput(opts);
+            }
+            catch (err)
+            {
+                console.log(err);
+                opts.defaultCountry = "us";
+                opts.preferredCountries = ["us"];
+                jQuery("#mobile_number").intlTelInput(opts);
+                jQuery("#secondPhone_number").intlTelInput(opts);
+                //jQuery("#mobile_number_confirm").intlTelInput(opts);
+            }
+
+            //        jQuery("#phone_number").change(function(){
+            //            jQuery('#phone').val(jQuery(this).intlTelInput("getNumber",intlTelInputUtils.numberFormat.INTERNATIONAL));
+            //            })
+            jQuery("#mobile_number").change(function() {
+                jQuery('#mobile').val(jQuery(this).intlTelInput("getNumber", intlTelInputUtils.numberFormat.INTERNATIONAL));
+            });
+            jQuery("#secondPhone_number").change(function() {
+                jQuery('#secondPhone').val(jQuery(this).intlTelInput("getNumber", intlTelInputUtils.numberFormat.INTERNATIONAL));
+            })
+
+//        jQuery("#mobile_number_confirm").change(function() {
+//            jQuery('#mobile_confirm').val(jQuery(this).intlTelInput("getNumber", intlTelInputUtils.numberFormat.INTERNATIONAL));
+//        })
+        });
+    </script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+
+                        // global to be able to reuse on the summary screen
+            countries = {"AF":"Afghanistan","AX":"Aland Islands","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarctica","AG":"Antigua And Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BY":"Belarus","BE":"Belgium","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BA":"Bosnia And Herzegovina","BW":"Botswana","BV":"Bouvet Island","BR":"Brazil","IO":"British Indian Ocean Territory","BN":"Brunei Darussalam","BG":"Bulgaria","BF":"Burkina Faso","BI":"Burundi","KH":"Cambodia","CM":"Cameroon","CA":"Canada","CV":"Cape Verde","KY":"Cayman Islands","CF":"Central African Republic","TD":"Chad","CL":"Chile","CN":"China","CX":"Christmas Island","CC":"Cocos (Keeling) Islands","CO":"Colombia","KM":"Comoros","CG":"Congo","CD":"Congo, Democratic Republic","CK":"Cook Islands","CR":"Costa Rica","CI":"Cote D'Ivoire","HR":"Croatia","CU":"Cuba","CY":"Cyprus","CZ":"Czech Republic","DK":"Denmark","DJ":"Djibouti","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","EG":"Egypt","SV":"El Salvador","GQ":"Equatorial Guinea","ER":"Eritrea","EE":"Estonia","ET":"Ethiopia","FK":"Falkland Islands (Malvinas)","FO":"Faroe Islands","FJ":"Fiji","FI":"Finland","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","GA":"Gabon","GM":"Gambia","GE":"Georgia","DE":"Germany","GH":"Ghana","GI":"Gibraltar","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HM":"Heard Island & Mcdonald Islands","VA":"Holy See (Vatican City State)","HN":"Honduras","HK":"Hong Kong","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran, Islamic Republic Of","IQ":"Iraq","IE":"Ireland","IM":"Isle Of Man","IL":"Israel","IT":"Italy","JM":"Jamaica","JP":"Japan","JE":"Jersey","JO":"Jordan","KZ":"Kazakhstan","KE":"Kenya","KI":"Kiribati","KR":"Korea","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Lao People's Democratic Republic","LV":"Latvia","LB":"Lebanon","LS":"Lesotho","LR":"Liberia","LY":"Libyan Arab Jamahiriya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macao","MK":"Macedonia","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MH":"Marshall Islands","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","YT":"Mayotte","MX":"Mexico","FM":"Micronesia, Federated States Of","MD":"Moldova","MC":"Monaco","MN":"Mongolia","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","MM":"Myanmar","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","AN":"Netherlands Antilles","NC":"New Caledonia","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","MP":"Northern Mariana Islands","NO":"Norway","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Palestinian Territory, Occupied","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","QA":"Qatar","RE":"Reunion","RO":"Romania","RU":"Russian Federation","RW":"Rwanda","BL":"Saint Barthelemy","SH":"Saint Helena","KN":"Saint Kitts And Nevis","LC":"Saint Lucia","MF":"Saint Martin","PM":"Saint Pierre And Miquelon","VC":"Saint Vincent And Grenadines","WS":"Samoa","SM":"San Marino","ST":"Sao Tome And Principe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SK":"Slovakia","SI":"Slovenia","SB":"Solomon Islands","SO":"Somalia","ZA":"South Africa","GS":"South Georgia And Sandwich Isl.","ES":"Spain","LK":"Sri Lanka","SD":"Sudan","SR":"Suriname","SJ":"Svalbard And Jan Mayen","SZ":"Swaziland","SE":"Sweden","CH":"Switzerland","SY":"Syrian Arab Republic","TW":"Taiwan","TJ":"Tajikistan","TZ":"Tanzania","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad And Tobago","TN":"Tunisia","TR":"Turkey","TM":"Turkmenistan","TC":"Turks And Caicos Islands","TV":"Tuvalu","UG":"Uganda","UA":"Ukraine","AE":"United Arab Emirates","GB":"United Kingdom","US":"United States","UM":"United States Outlying Islands","UY":"Uruguay","UZ":"Uzbekistan","VU":"Vanuatu","VE":"Venezuela","VN":"Viet Nam","VG":"Virgin Islands, British","VI":"Virgin Islands, U.S.","WF":"Wallis And Futuna","EH":"Western Sahara","YE":"Yemen","ZM":"Zambia","ZW":"Zimbabwe"} ;
+            states = {"DE":{"BW":"Baden-W\u00fcrttemberg","BY":"Bayern","BE":"Berlin","BB":"Brandenburg","HB":"Bremen","HH":"Hamburg","HE":"Hessen","MV":"Mecklenburg-Vorpommern","NI":"Niedersachsen","NW":"Nordrhein-Westfalen","RP":"Rheinland-Pfalz","SL":"Saarland","SN":"Sachsen","ST":"Sachsen-Anhalt","SH":"Schleswig-Holstein","TH":"Th\u00fcringen"},"CA":{"AB":"Alberta","BC":"British Columbia","MB":"Manitoba\tManitoba","NB":"New Brunswick","NL":"Newfoundland and Labrador","NS":"Nova Scotia","ON":"Ontario","PE":"Prince Edward Island","QC":"Qu\u00e9bec","SK":"Saskatchewan","NT":"Northwest Territories","NU":"Nunavut","YT":"Yukon"},"US":{"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado","CT":"Connecticut","DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho","IL":"Illinois","IN":"Indiana","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan","MN":"Minnesota","MS":"Mississippi","MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire","NJ":"New Jersey","NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":" North Dakota","OH":"Ohio","OK":"Oklahoma","OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota","TN":"Tennessee","TX":"Texas","UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming","DC":"District of Columbia","AS":"American Samoa","GU":"Guam","MP":"Northern Mariana Islands","PR":"Puerto Rico","UM":"United States Minor Outlying Islands","VI":"Virgin Islands, U.S."}} ;
+
+            var country_select = jQuery("#country");
+            populate_select(country_select, countries, false);
+            country_select.change(function() {
+
+                var nval = country_select.val();
+                console.log('country change to ' + nval);
+                var state_select = jQuery("#state");
+                if (nval in states) {
+                    populate_select(state_select, states[nval], true);
+
+                } else {
+                    populate_select(state_select, {
+                        '': 'N/A'
+                    }, true);
+                }
+
+                //        jQuery("#phone_number").intlTelInput("selectCountry", nval);
+                jQuery("#mobile_number").intlTelInput("selectCountry", nval);
+                jQuery("#mobile_number_confirm").intlTelInput("selectCountry", nval);
+            });
+            // set default and trigger change to update state if necessary
+            country_select.val(visitor_country_code()).change();
+
+
+            /* -- dup for country_confirm -- */
+            /*var country_confirm_select = jQuery("#country_confirm");
+            populate_select(country_confirm_select, countries, false);
+            country_confirm_select.change(function() {
+
+                var nval = country_confirm_select.val();
+                console.log('country_confirm change to ' + nval);
+                var state_confirm_select = jQuery("#state_confirm");
+                if (nval in states) {
+                    populate_select(state_confirm_select, states[nval], true);
+                } else {
+                    populate_select(state_confirm_select, {
+                        '': 'N/A'
+                    }, true);
+                }
+
+                //        jQuery("#phone_number").intlTelInput("selectCountry", nval);
+                jQuery("#mobile_number").intlTelInput("selectCountry", nval);
+                jQuery("#mobile_number_confirm").intlTelInput("selectCountry", nval);
+            });
+
+            // set default and trigger change to update state if necessary
+            country_confirm_select.val(visitor_country_code()).change();*/
+            /* -- end dup -- */
+
+
+        });
+
+
+
+        function populate_select(select, options, purge) {
+            if (purge) {
+                select.html('');
+            }
+            jQuery.each(options, function(code, name) {
+                select.append(jQuery("<option />").val(code).text(name));
+            });
+            jQuery( '#'+select.attr('id')+' option:first-child').attr("selected", "selected");
+            console.log( jQuery( '#'+select.attr('id')+' option:first-child') );
+        }
+
+
+
+        function toggle_password_text(inp, btn) {
+            var st = jQuery(inp).attr('type');
+            if (st == 'text') {
+                jQuery(inp).attr('type', 'password').focus();
+                jQuery('.add-on .glyphicon').addClass('glyphicon-eye-close');
+                jQuery('.add-on .glyphicon').removeClass('glyphicon-eye-open');
+//            jQuery('#password').focus();
+                //jQuery(btn).text('show');
+            } else {
+                jQuery(inp).attr('type', 'text').focus();
+                jQuery('.add-on .glyphicon').addClass('glyphicon-eye-open');
+                jQuery('.add-on .glyphicon').removeClass('glyphicon-eye-close');
+//            jQuery('#password').focus();
+                //jQuery(btn).text('Hide');
+            }
+        }
+
+
+
+        jQuery(document).ready(function() {
+            jQuery('#daily_limits_handler').change(function() {
+                jQuery('#daily_limits_handler .checkbox').toggleClass("checked");
+                if( jQuery('#daily_limits_handler .checkbox').hasClass('checked') )
+                {
+                    elementValid('#dailyLimit');
+                    jQuery('#dailyLimit').val('').prop('disabled','disabled');
+                }
+                else
+                {
+                    elementNeutral('#dailyLimit');
+                    jQuery('#dailyLimit').prop('disabled','').focus();
+                }
+            });
+
+            jQuery('#weekly_limits_handler').change(function() {
+                jQuery('#weekly_limits_handler .checkbox').toggleClass("checked");
+                if( jQuery('#weekly_limits_handler .checkbox').hasClass('checked') )
+                {
+                    elementValid('#weeklyLimit');
+                    jQuery('#weeklyLimit').val('').prop('disabled','disabled');
+                }
+                else
+                {
+                    elementNeutral('#weeklyLimit');
+                    jQuery('#weeklyLimit').prop('disabled','').focus();
+                }
+            });
+
+            jQuery('#mothly_limits_handler').change(function() {
+                jQuery('#mothly_limits_handler .checkbox').toggleClass("checked");
+                if( jQuery('#mothly_limits_handler .checkbox').hasClass('checked') )
+                {
+                    elementValid('#monthlyLimit');
+                    jQuery('#monthlyLimit').val('').prop('disabled','disabled');
+                }
+                else
+                {
+                    elementNeutral('#monthlyLimit');
+                    jQuery('#monthlyLimit').prop('disabled','').focus();
+                }
+            });
+
+
+            jQuery('#checkbox_over_18_handler').change(function() {
+                jQuery('#checkbox_over_18_handler .checkbox').toggleClass("checked");
+                if( jQuery('#checkbox_over_18_handler .checkbox').hasClass('checked') )
+                {
+                    //elementValid('#over_18');
+                    jQuery('#over_18').prop('checked',true);
+                    //jQuery('#over_18').val('').prop('disabled','disabled');
+                }
+                else
+                {
+                    jQuery('#over_18').prop('checked',false);
+                    //elementNeutral('#over_18');
+                    //jQuery('#over_18').prop('disabled','').focus();
+                }
+            });
+
+
+            jQuery('#checkbox_acceptPromo_handler').change(function() {
+                jQuery('#checkbox_acceptPromo_handler .checkbox').toggleClass("checked");
+                if( jQuery('#checkbox_acceptPromo_handler .checkbox').hasClass('checked') )
+                {
+                    jQuery('#acceptPromo').prop('checked',true);
+                }
+                else
+                {
+                    jQuery('#acceptPromo').prop('checked',false);
+                }
+            });
+
+        });
+    </script>
+
+    <script type="text/javascript">
+        jQuery('input,select').each(
+            function() {
+                //console.log(this.id);
+                //console.log(jQuery(this).parent().find('.tooltips'));
+                jQuery(this).focus(function() {
+                    jQuery(this).parents('.form-row').find('.tooltips').fadeIn();
+                    return true;
+                }).focusout(function() {
+                    jQuery(this).parents('.form-row').find('.tooltips').fadeOut();
+                    return true;
+                }).attr("autocomplete", "off");
+            });
+    </script>
+
+    <script type="text/javascript">
+        /*jQuery(function(){
+         jQuery('#checkbox_over_18_handler').click(function() {
+         console.log('click');
+         jQuery('#over_18').prop('checked',!jQuery('#over_18').prop('checked'));
+         });
+         });*/
+
+        /*jQuery(function(){
+            jQuery('#checkbox_acceptPromo_handler').click(function() {
+//                console.log('click');
+                jQuery('#acceptPromo').prop('checked',!jQuery('#acceptPromo').prop('checked'));
+            });
+        });
+        jQuery(function() {
+            jQuery('#checkbox_acceptPromo_handler').change(function () {
+                jQuery('#checkbox_acceptPromo_handler .checkbox').toggleClass("checked");
+            });
+        });*/
+
+
+        /*jQuery(function(){
+         jQuery('#dailyLimit_cb_handler').click(function() {
+         jQuery('#dailyLimit_cb').prop('checked',!jQuery('#dailyLimit_cb').prop('checked'));
+         });
+
+         jQuery('#dailyLimit_cb_handler').change(function () {
+         jQuery('#dailyLimit_cb_handler .checkbox').toggleClass("checked");
+         });
+         });*/
+
+        /* TODO: make pure css version: http://codepen.io/geedmo/pen/LbnkG */
+
+        /*jQuery(function(){
+         jQuery('#checkbox_over_18_handler').change(function() {
+         jQuery('#checkbox_over_18_handler .checkbox').toggleClass("checked");
+         jQuery('#checkbox_over_18_confirm_handler .checkbox').toggleClass("checked");
+         jQuery('#over_18_confirm').prop('checked',jQuery('#over_18').prop('checked'));
+         });
+         jQuery('#checkbox_over_18_confirm_handler').change(function() {
+         jQuery('#checkbox_over_18_handler .checkbox').toggleClass("checked");
+         jQuery('#checkbox_over_18_confirm_handler .checkbox').toggleClass("checked");
+         jQuery('#over_18').prop('checked',jQuery('#over_18_confirm').prop('checked'));
+         });
+         });*/
+    </script>
+
+    <script type="text/javascript" src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="http://cdnpmuk.image-tech-storage.com/wp-content/themes/playmillion/js/combodate.js"></script>
+
+    <script type="text/javascript">
+        jQuery(function(){
+            moment.locale('en');
+            jQuery('#dateOfBirth,#dateOfBirth_confirm').combodate({minYear: 1900,maxYear: moment().subtract(18,'year').year(),firstItem: 'name','customClass':'datepart_dropdown'});
+        });
+    </script>
+
+
+    <script>
+        /*var labels = ['username_confirm','email_address_confirm','password_confirm','firstName_confirm','lastName_confirm',
+            'dateOfBirth_confirm','state_confirm','address_confirm','city_confirm',
+            'zipCode_confirm','mobile_number_confirm','securityAnswer_confirm'];
+
+        for (id in labels)
+        {
+            var field = labels[id];
+            jQuery('#'+field).on("keyup change",{field:field},function (event){ jQuery('#label_' + event.data.field).text(jQuery(this).val()) });
+        }
+
+        jQuery('input[name=gender_confirm]').on("input change keyup click",function () {
+            var label_value = jQuery('input[name=gender_confirm]:checked').val()=="MALE" ? '&#9794;' : '&#9792;';
+            jQuery('#label_gender_confirm').html(label_value);
+        });
+
+        jQuery('#country_confirm').on("input change keyup click",function () {
+            var label_value = countries[ jQuery(this).val() ];
+            jQuery('#label_country_confirm').text(label_value);
+        });*/
+
+    </script>
+
+
+    <script>
+        jQuery('#email_address').change(function () {
+            jQuery('#email_address_domain_name').text( jQuery('#email_address').val().replace(/.*@/g,'') );
+        });
+        jQuery('#email_address_confirm').change(function () {
+            jQuery('#email_address_confirm_domain_name').text( jQuery('#email_address_confirm').val().replace(/.*@/g,'') );
+        });
+
+
+    </script>
+
+
+    <script>
+        function redirect_to_play(token)
+        {
+            location.href = '/play/';
+        }
+    </script>
+
+
+    <script>
+    jQuery(document).ready(function(){
+
+        ga('send', { 'hitType': 'pageview', 'page': '/reg/start'});
+
+        var map = {
+            '#username': '/reg/username',
+            '#email_address': '/reg/email',
+            '#password':'/reg/password',
+            '#firstName':'/reg/first-name',
+            '#lastName':'/reg/last-name',
+            '.combodate .day':'/reg/birthday/day',
+            '.month.datepart_dropdown':'/reg/birthday/month',
+            '.year.datepart_dropdown':'/reg/birthday/year',
+            '#country':'/reg/country',
+            '#address':'/reg/address',
+            '#city':'/reg/city',
+            '#zipCode':'/reg/zip',
+            '#mobile_number':'/reg/mobile-number',
+            '#securityQuestion':'/reg/security-question',
+            '#securityAnswer':'/reg/security-answer',
+            // form-buttons
+            '#submit_first': '/reg/next-one',
+            '#submit_second': '/reg/next-two',
+            '#submit_third': '/reg/submit',
+        };
+
+        for (selector in map)
+        {
+            el = jQuery(selector);
+            if(el.length !== 1)
+            {
+                console.log(selector + " length <> 1: " + el.length );
+                continue;
+            }
+            var event = el.prop("tagName").toLowerCase() == 'a' ? 'mousedown' : 'change';
+//            console.log("binding " + event  + " on " + selector);
+
+            el.on( event , {pageSelector: map[selector] },function (event) {
+                ga('send', { 'hitType': 'pageview', 'page': event.data.pageSelector});
+//                console.log("sending " + event.data.pageSelector);
+            });
+        }
+    });
+</script>
+
+
+
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-5 col-md-5">
+                        <div class="modal-banner">
+                            <h3><span>Join now and we’ll</span> double your first deposit</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -1250,8 +2205,8 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.playmillion.com
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 350/393 queries in 0.060 seconds using apc
-Object Caching 6488/7278 objects using apc
+Database Caching 306/541 queries in 0.175 seconds using apc
+Object Caching 6591/7674 objects using apc
 Content Delivery Network via cdnpmuk.image-tech-storage.com
 
- Served from: www.playmillion.com @ 2016-12-28 07:25:21 by W3 Total Cache --></div></body></html>
+ Served from: www.playmillion.com @ 2017-06-28 10:48:20 by W3 Total Cache --></div></body></html>
