@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202172108id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114055id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
-# Rugby World Cup 2019
+# Rugby World Cup 2019 Privacy Statement
 
 Rugby World Cup Limited ("RWC") has created this privacy statement to demonstrate our firm commitment to privacy. The following is a full description of our information collection and dissemination practices for www.rugbyworldcup.com and the Rugby World Cup App (collectively or individually known as "the site"). It sets out what information is collected about you when you visit the site, how this information is used, if it is disclosed and the way in which we protect users' privacy. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
