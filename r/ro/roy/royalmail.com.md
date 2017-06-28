@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053459id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628091623id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Mail Group Ltd
 
@@ -59,7 +59,7 @@ Royal Mail Group collects personal information:
     * **from other companies in Royal Mail Group** e.g. if a customer has indicated that they wish to receive information about the products and services of Royal Mail Group companies.
     * **from third parties** e.g. when we acquire third party marketing lists or information from the electoral roll; get authorisation for a payment you make or when undertaking an identity check.
     * **when products or services are provided together with a business partner** and the information is collected by the business partner in order for Royal Mail Group to provide you with the product or service.
-    * **when mail passes through our network** Royal Mail Group may collect information on the outside of letters, e.g. name and address information enables us to route items through our network for delivery to the addressee. 
+    * **when mail passes through our network** Royal Mail Group may collect information on the outside of letters, parcels and other mail items e.g. name and address information enables us to route items through our network for delivery to the addressee. 
 
   * ## Who sees the personal information that Royal Mail Group holds
 
@@ -192,7 +192,7 @@ Royal Mail Group websites may include links to other sites. We will make every e
 
   * ## Changes to our privacy policy
 
-We will keep our privacy policy under regular review and will place any updates on this webpage. This privacy policy was last updated **November 2016**.
+We will keep our privacy policy under regular review and will place any updates on this webpage. This privacy policy was last updated **March 2017**.
 
   * ## How to contact us
 
@@ -215,7 +215,7 @@ S98 6HR
 
 Email: [information.rights@royalmail.com](mailto:information.rights@royalmail.com)
 
-Telephone: 0114 241 4217 
+Telephone: 07587 138282
 
 
 
