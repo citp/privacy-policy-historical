@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420053215id_/http%3A//www.barbour.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628233754id_/http%3A//www.barbour.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Barbour
 
