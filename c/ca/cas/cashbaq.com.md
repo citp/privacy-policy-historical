@@ -1,55 +1,139 @@
-> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102210204id_/http%3A//www.cashbaq.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082355id_/https%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy policy
+# Ebates Privacy Agreement
 
-**Overview**
+Effective Date: February 28, 2017 
 
-We at 77Blue LLC, owner and operator of the Cashbaq Web site located at [www.cashbaq.com](http://www.cashbaq.com/), take privacy very seriously, and have written this Privacy Policy to clearly communicate (a) the type of personal information collected from users; (b) why this information is collected; and (c) who will have access to this information. Furthermore we want to emphasize that we take every precaution in protecting this information, and that we do not share this information with third parties.
+Ebates Inc. ("Ebates") was founded by two former Deputy District Attorneys who took privacy and security very seriously. We know that these issues are essential to making Ebates a success for us and our members. Rest assured that privacy, security and integrity are first and foremost considerations at Ebates.
 
-Frankly, we don’t want your information but in order to provide you with the service, we have to take it. We require you to give as little information as possible. To sign up, all we need is your e-mail address and a password. We require an e-mail address so we can verify that you wanted to sign up. If you sign up for favorite merchants or save coupons or products, we will send you notification e-mails. As a member, you can opt out from receiving our e-mails at any time. As a member, you may opt out of receiving any newsletter or correspondence at any time by following the link provided at the bottom of each newsletter, or by changing your preferences in the [Account Information](http://www.cashbaq.com/accountinfo.php) section of Cashbaq. You will need your Cashbaq password to change your e-mail preferences.
+This privacy policy applies to [https://www.ebates.com](https://www.ebates.com/) owned and operated by Ebates Inc. This privacy policy describes how we collect, use, share, and secure your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this privacy policy, you can contact our Chief Privacy Officer by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com).
 
-T>he only reason you have to give us your mailing address is to get paid. If you do not want to give us your mailing address, you can sign up to receive payment via Paypal. Using Paypal, all that we need is your e-mail address. Paypal returns your name to us after we send you a payment.
+[](https://privacy.truste.com/privacy-seal/validation?rid=6b25acce-c1f5-4194-b740-be5e1f150071)
 
-If you submit a user review on the site, we request your name (first and last) and location (city and state). If you choose to submit that information, it may be displayed on Cashbaq and on other sites owned by Cashbaq’s parent company.
+  
 
-If you use a blog or bulletin board on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-Things we hate as much as you do: We hate SPAM. We hate junk mail. We hate telemarketers calling us at dinner… OK, so we hate telemarketers calling us any time. We’re not going to subject you to any of that ourselves or by selling your information to someone who will. We won’t sell your information to anyone and are committed to keeping your private information private.
+  * Information We Collect and How We Use It
+  * Who Sees Your Personal Information
+  * How We Keep Your Information Secure
+  * Your Privacy With Ebates
+  * Our Policies on Email
+  * Cookies and Other Technologies
+  * Your Choices and Responsibilities
+  * Dispute Resolution 
 
-  **What type of information do we collect?** 77Blue may collect any or all of the following two types of information: (a) Personally Identifiable Information and (b) Non-Personally Identifiable Information.
 
-Personally Identifiable Information refers to information that lets us know the specifics of who you are. Personally Identifiable Information is requested when you register with us, fill out surveys, participate in a contest or special offer, correspond with us, or otherwise volunteer information. Personally Identifiable Information might include your name, mailing address, telephone number, e-mail address and other identification and contact information.
 
- Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon how you navigate through our Site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
+####  Information We Collect and How We Use It
 
-**Do we use cookies?** A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on Cashbaq and link the information we store in cookies to personally identifiable information you submit while on our site.
+Our vision is to maximize your rewards and to provide you with as many member benefits as possible. The key way in which we provide value is to share with you the commissions we receive from our merchant partners in the form of Cash Back. We strive to confirm and pay your Cash Back quickly and reliably, and to improve your experience on our site and in our applications – these are the main reasons we collect information.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to keep you logged in if you choose to do so by checking the box “Remember me”. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as favorite stores.
+**Ebates.com**
 
-Some of our business partners (e.g. analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Cashbaq only and does not cover the use of cookies by any advertisers.
+When you become a member of Ebates.com, we collect your name, email address, and physical address ("Personal Information"). We use your Personal Information to track and send you Cash Back payments and generally to improve and personalize our services. We also collect non-personal information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use Transaction Information to process your Cash Back faster and more reliably, as well as to provide more relevant offers for you when you visit us or use our applications and services.
 
-**Why do we collect this information?** Our primary goal in collecting information is to provide our users and members with a superior online experience. We collect Personally Identifiable Information to both credit your purchases through Cashbaq to your account, and to send rebate checks to your address. For members that elect to personalize their experience at Cashbaq, we use Personally Identifiable Information to provide that look and feel during their visits or to send e-mail regarding new coupons or cash back opportunities. Members can always choose to opt-out of any customization. We collect Non-Personally Identifiable Information to continuously improve the content and navigation of our Web site.
+**Buy Now Shopping Cart Service and In-Store Offers**
 
-Who will have access to this information? Any information gathered by 77Blue is solely for our own use. We do not share this information with any third-party, and only a limited number of 77Blue employees have access to this information. We will not sell your information.
+When you use our Buy Now shopping cart service, we collect and store your credit card information to assist you in completing purchases quickly and efficiently (for example, so you will not have to type your credit card number to complete a purchase using a mobile device). Similarly, we collect your credit card information in connection with In-Store Offers, pursuant to which you can earn Cash Back on your offline purchases at our merchant partners. In connection with In-Store Offers, we transmit your credit card information to one of our service providers, who uses it to match offers you click with purchases you complete, enabling us to award you Cash Back. We store your credit card information in a secure manner.
 
-Please note that when you leave the Cashbaq site to shop at one of our merchant partners or advertisers, you are dealing with another company, not Cashbaq. This means that you enter into a relationship with that company / Web site separately from Cashbaq. Any information you share with that merchant or advertiser is subject to their policies and practices, not to Cashbaq’s policies or practices. Users are encouraged to read the privacy policies of our merchant partners.
+**Browser Button and Mobile Application**
 
-You can earn a bonus through our referral program when you refer new shoppers to Cashbaq through your personalized Refer-a-Friend links. If you join through such a link, your name may be revealed to your referrer only if you give permission during registration. In addition, the member who referred you will see a monthly total of the bonus they earn from referred friends. This information is reported to them only in aggregate and neither your name nor the stores where you shop will be revealed to them. No other information is shared or revealed with the individual who referred you, or with any other party. If you choose to use our referral service to tell a friend about Cashbaq, we may ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit Cashbaq. Cashbaq stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend may [contact us](http://www.cashbaq.com/contactus.php) to request that we remove this information from our database.
+When you use the Ebates browser button or the Ebates mobile application, we will collect your browsing history and your Transaction Information. We share this Transaction Information as needed with our affiliate network partners and merchant partners in order to confirm your Cash Back faster and more reliably, and we use it to provide you more relevant and interesting offers. We may also share Transaction Information on an anonymous basis with our corporate affiliates (companies commonly owned by Rakuten, Inc.) in order to understand industry trends. This anonymous Transaction Information may be aggregated with other information and shared as general shopping analysis and trends.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+**Social Media**
 
-**Is this information secure?** To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, 77Blue has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. However, data security is a constantly evolving art and science. You should consider any communication that you transmit to 77Blue (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that 77Blue will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
+Our website includes social media features, such as the Facebook Like button and a "share this" button. These features may collect your IP address and the page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features may be hosted by us or a third party. Your interactions with social media features hosted by third parties (such as the Facebook Like button) are governed by the privacy policies of the companies providing them.
 
-**Does 77Blue collect personally identifying information from or about children?** 77Blue uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Services are not targeted at children, and children may not register for any portions of the Services that require registration.
+**Third Party Log-In Services**
 
-**How can I access or correct any personally identifying information about me?** Members can view and change their personal information at any time online. To do so, login to [your Cashbaq account](http://www.cashbaq.com/myaccount.php).
+We allow you to log in to Ebates.com and our mobile app using Facebook Connect and Google Connect. These services authenticate your identity and provide you the option to share certain personal information with us such as your name and email address in order to pre-populate our sign up form. These services allow you to share information about your activities on Ebates.com with others in your network. We may integrate with, and make available to you, other third-party log-in services in the future.
 
-**Will this policy be updated?** While we may have to make updates to this policy, we are not going to change our commitment to protect your privacy. If we decide to change our privacy policy, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Email Account Connection**
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We allow you to connect your personal email account to your Ebates account in order to view your purchase confirmations on Ebates.com. We share this Transaction Information as needed with our affiliate network partners and merchant partners in order to confirm your Cash Back faster and more reliably, and we use it to provide you more relevant and interesting offers. You may choose to connect your email account to your Ebates account, or to disconnect it, by making a selection in the Account Settings section of the My Ebates portion of our site. A connection between your email account and your Ebates account is not required for you to be a member of Ebates and earn Cash Back.
 
-**How do I find out more about 77Blue's information practices?** If you have any questions about anything in this Privacy Policy, or about collection of Personally Identifiable Information, or information generally, please contact 77Blue as follows:
+back to top
 
-77Blue LLC 9854 National Blvd., Suite 107 Los Angeles, CA 90034
+####  Who Sees Your Personal Information
 
-This Privacy Policy was last updated on September 18, 2007
+We share your Personal Information with third parties only in the ways that are described in this privacy policy. We do not sell your Personal Information to third parties.
+
+Only a very limited number of our employees ever have access to your Personal Information, which they use only to track and send the Cash Back payments you earn.
+
+We may use contractors or vendors to help us provide some of the services on Ebates.com, some of whom may be our corporate affiliates (for instance, payment fulfillment or marketing services). If we need to disclose Personal Information for them to provide such services, it is with the requirement that such Personal Information will be kept confidential and will be used only for those services.
+
+We reserve the right to disclose information we collect (including Personal Information) as required by law, such as to comply with a subpoena, bankruptcy proceedings, or other lawful requests by public authorities, and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on us or our corporate affiliates, or to protect us, our corporate affiliates, or our members from losses.
+
+back to top
+
+####  How We Keep Your Information Secure
+
+The security of your Personal Information is important to Ebates. We use a secure, encrypted connection (called an SSL connection) on all pages where you access or transmit Personal Information. In addition, we encrypt your credit card information that you have given us to store, and maintain industry standard security to safeguard this information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+back to top
+
+####  Your Privacy With Ebates
+
+Ebates will never ask for your email address, username, password or any other Personal Information in an unsolicited phone call, email or letter. Further, any contact with Ebates customer service in which Personal Information is exchanged with a customer service representative will be used only for the purpose of satisfying yourrequest. Any Personal Information you provide will not be recorded or used for any reason beyond that of the stated request.
+
+##### **Referrals**
+
+If you choose to use our referral programs to refer a friend to Ebates, we will ask you for your friend's name and email address. We will automatically send your friend email inviting them to visit Ebates. We store this information for the sole purpose of sending this email and tracking the success of our referral program. Your friend may contact us at  [ customercarereply@ebates.com ](mailto:customercarereply@ebates.com) or  [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). to request that we remove this information from our database.
+
+##### **Changes to This Privacy Policy**
+
+If we materially modify this privacy policy, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account. We reserve the right to modify this privacy policy at any time, so please review it regularly.
+
+##### **Links to Third Party Websites**
+
+Ebates contains links to many other websites. Each of these websites should have its own privacy policy that may differ materially from this privacy policy. If you wish to receive special offers directly from a merchant partner, neither this privacy policy nor our opt-out policy applies to those communications. Instead, please refer to the relevant merchant partner’s privacy and opt-out policy.
+
+back to top
+
+####  Our Policies on Email
+
+Ebates sends two types of emails to members: customer service emails required to maintain the Ebates program (such as cash back credits and payment notifications) and promotional emails containing offers. You may choose not to receive promotional emails at any time by clicking the "unsubscribe" link in any promotional email or by modifying your subscription preferences in the "My Ebates" section of Ebates.com.
+
+We prohibit spamming by our members via our refer-a-friend capability. If you would like to report an incident of spamming using this functionality, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). We will investigate and take suitable action.
+
+back to top
+
+####  Cookies and Other Technologies
+
+We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [ here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+We use cookies for authentication, website personalization, and order tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you will no longer be able to earn Cash Back.
+
+**Other Information We Collect**
+
+As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data to analyze trends. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
+
+**Behavioral Targeting**
+
+We use one or more vendors to manage our advertising on other sites. Our vendors may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+back to top
+
+#### Your Choices and Responsibilities
+
+It is your responsibility to update and maintain accurate contact information in your Ebates account. You can make changes by visiting your account page and entering corrections. Upon request, we will provide you with the information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. The email and street address that you enter into your personal profile page is the information that will be used for all contact with you, including for sending your Cash Back. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
+
+We will retain your information for as long as your account is active or as long as you have a balance greater than zero in your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Please feel free to contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) if you have any questions about our privacy policy or our privacy and personal information practices.
+
+back to top
+
+####  Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+_Kevin Johnson  
+Chief Executive Officer_
+
+Ebates Inc.  
+160 Spear St, Floor 19  
+San Francisco CA, 94105  
+(415-908-2200)
+
+back to top
