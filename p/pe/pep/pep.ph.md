@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043354id_/http%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103723id_/http%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
 
-# Privacy Policy | PEP.ph: The Number One Site for Philippine Showbiz
+# Privacy Policy | PEP.ph - Philippine Entertainment Portal
 
 **Philippine Entertainment Portal (PEP)** is defined as all websites, web pages and channels owned, controlled and/or operated by the same people who brought you YES! Magazine, the number one entertainment title in the country.
 
