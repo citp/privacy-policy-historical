@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325222317id_/http%3A//www.yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023926id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,5 +47,3 @@ Changes to our Privacy Policy
 If we decide to change our privacy policy, we will post those changes on this page.
 
 www.yourcreativecrew.com
-
-You have no rights to post comments
