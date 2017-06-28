@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelspro.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003417id_/http%3A//www.hotelspro.com/new.privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelspro.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628135601id_/http%3A//www.hotelspro.com/new.privacypolicy.php) for the most accurate reproduction.*
 
 # Global Travel Wholesaler | HotelsPro
 
@@ -30,5 +30,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Phone: +90 212 315 14 92 (24/7)
 
-Prodo Travel Ltd. (DBA Met Global)  
-Company Address: Mehmet Akif Cad. No: 60, K/2 Koskluciftlik Lefkosa Mersin 10 Turkey
+HotelsPro DMCC   
+Company Address: Saba Tower 1, Cluster E, Office 2602 Jumeirah Lake Towers Dubai, PO BOX 336315 UAE
