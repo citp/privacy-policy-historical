@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224031220id_/http%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628173250id_/http%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mystical Raven
 
@@ -37,3 +37,6 @@ We reserve the ability to change this privacy policy at any time, so review it f
 **Section 8 – Questions**
 
 If you have any questions or comments please contact us [here](http://mysticalraven.com/about/contact-us/)
+
+  
+
