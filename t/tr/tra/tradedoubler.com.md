@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005013528id_/http%3A//www.tradedoubler.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedoubler.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628194418id_/http%3A//www.tradedoubler.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Tradedoubler
 
@@ -136,6 +136,12 @@ TD_EH<counter> | The Event History Cookie contains information about the tree la
 TradedoublerGUID | The GUID Cookie holds an identifier to support server side storage of the user event history  
 OPT_OUT | Allows a user to disable cookie based tracking or targeting for the browser that the user is using  
 RET | Retargeting is a feature that makes it possible to target ads to users that have visited configured targeting points on the advertiser’s site. To support this feature the targeting points visited by a user are stored in this cookie  
+heias_pid | The PID cookie holds an identifier to support server side storage of user event history cookie  
+hco | Allows a user to disable cookie based retargeting technology for the browser that the user is using  
+heias_noo |  Allows a user to disable cookie based retargeting for a specific network for the browser that the user is using  
+hco_{ID} | Allows a user to disable cookie based retargeting on a specific advertiser for the browser that the user is using  
+heias_gc | Contains information about the history of ad impressions a user has seen  
+heias_cpx_{ID} | Contains information about the history of lead event a user has interacted with |   
   
 ## Part 2 – Interest Based Advertising and Retargeting privacy principles
 
@@ -173,7 +179,7 @@ Our employees are made aware of and must comply with Tradedoubler’s security m
 
 ### Opt-out
 
-You may at any time easily block further Interest Based Advertising and Retargeting activities which are based on cookie-, cookieless or Cross-device tracking from Tradedoubler by opting-out. To do so please follow the instructions above in section “Tradedoubler’s targeting technologies”..
+You may at any time easily block further Interest Based Advertising and Retargeting activities which are based on cookie-, cookieless or Cross-device tracking from Tradedoubler by opting-out. To opt-out of Interest Based Advertising please follow the instructions above in section “Tradedoubler’s targeting technologies”.. To opt-out of Retargeting activities please [click here ](http://ads.heias.com/x/heias.optout/adserver.php)and follow the instructions.
 
 In addition, note that you are always able to prevent cookies from any website from being installed on your computer by readjusting your browser settings. For more information about cookies and how to disable them, you should consult the help section of your browser.
 
