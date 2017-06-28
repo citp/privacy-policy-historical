@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2016-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128154221id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2017-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628083043id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -19,12 +19,12 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300" rel="stylesheet" type="text/css">
 <!--[endif]-->
 
-<link href="/assets/css/style.min.css?v=94" rel="stylesheet">
+<link href="/assets/css/style.min.css?v=3" rel="stylesheet">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.jsp">
 <!--[if lt IE 8]>
-	<link href="/assets/css/bootstrap-ie-7.css?v=94" rel="stylesheet"/>
-	<link href="/assets/css/bootstrap-ie-6.css?v=94" rel="stylesheet"/>
+	<link href="/assets/css/bootstrap-ie-7.css?v=3" rel="stylesheet"/>
+	<link href="/assets/css/bootstrap-ie-6.css?v=3" rel="stylesheet"/>
 <![endif]-->
 
 <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/js/scripts.min.js?v=32"></script>
@@ -181,6 +181,9 @@ function setIframeHeight(frameName){
 
 	if(ie != 9 || ie == false){
 		var height = parseInt($(window).height()-($("div.navbar.navbar-default.logged-out-navbar.navbar-fixed-top.hidden-print").height()+$("div.page-header.clearfix.page-title").outerHeight()+50));
+		if ($(document).find('.btn-toolbar').size() > 0){
+		    height -= 20;
+		}
 		$("#"+frameName).css({"height":height+"px"});
 
 		$(window).resize(function() {
@@ -341,7 +344,7 @@ function setIframeHeight(frameName){
 		</div>
 		<div class="row">
 			<div class="bottomdiv col-lg-12 col-md-12 col-sm-12">
-			<p class="text-center">© Vision-Net 2016 <span style="padding-right:20px;">Data Updated: 28 Nov 2016</span>
+			<p class="text-center">© Vision-Net 2017 <span style="padding-right:20px;">Data Updated: 28 Jun 2017</span>
 </p>
 			</div>
 		</div>
