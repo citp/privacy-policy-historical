@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221032623id_/http%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628171631id_/https%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Help
+# GAME Help
 
 At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z3151729.
 
