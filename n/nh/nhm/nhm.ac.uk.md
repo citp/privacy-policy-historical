@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226143354id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628155958id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy notice | Natural History Museum
 
@@ -9,8 +9,9 @@ This privacy notice tells you who we are and what to expect when the Natural His
 The privacy notice applies to information we collect about:
 
   * Visitors to our digital channels (e.g. website, app)
+  * Devices detected by our free Wi-Fi service
   * People who use and support our services
-  * Job applicants and our current and former employees
+  * Job and volunteering applicants
 
 
 
@@ -42,6 +43,14 @@ If we do want to collect personally identifiable information via the website or 
 
 This privacy notice does not cover links to external websites. We encourage you to read the privacy statements on the other websites you visit.
 
+### Devices detected by our free Wi-Fi service
+
+Free Wi-Fi access is available throughout the Museum via the NHM-free-wifi network. If you access the Museum’s free Wi-Fi network, you will be asked to agree to the Museum’s [Wi-Fi terms and conditions of use](http://www.nhm.ac.uk/galleries/galleries-home/wifi/login.html), which provide information about how your data will be used.
+
+If you do not use the free Wi-Fi network but you have Wi-Fi enabled on your smartphone, tablet or another internet-enabled device, your device can still be detected by the Wi-Fi service. We record data about the location and type of devices in the Museum that have Wi-Fi enabled so that we can monitor the flow of visitors around the Museum, and to improve our services.
+
+We will not link the anonymous device data with any other personal data that identifies you individually without your express permission. If in future we want to process your data in this way to offer you new services, before doing so we will always ask you if you agree to take part.
+
 ### People who use and support our services
 
 The main purposes for which we collect and process the details of customers, visitors, members, service users, enquirers, donors and potential donors are:
@@ -57,19 +66,17 @@ We may also hold and analyse your data in order to continue to improve our under
 
 We may use your data to contact you from time to time by post, email, phone and/or SMS with news and information about the Museum that we feel may be of interest to you, such as research, education and fundraising, and about our other events, activities, products and services. We will not use your personal information for such marketing purposes if you have indicated that you do not wish to be contacted.
 
-When you subscribe to our services or give consent to receiving news and information from us, you can cancel your subscription, withdraw your consent to being contacted or change your preferred method of contact at any time by emailing [unsubscribe@nhm.ac.uk](mailto:unsubscribe@nhm.ac.uk).
+When you subscribe to our services or give consent to receiving news and information from us, you can cancel your subscription, withdraw your consent to being contacted or change your preferred method of contact at any time by emailing [unsubscribe@nhm.ac.uk](mailto:unsubscribe@nhm.ac.uk). Subscribing for email newsletters and other marketing communications is optional. You do not need to subscribe to marketing from us when you buy products, book tickets, donate or use any other of our services.
 
 We will not share personal data with third party organisations for marketing purposes, but may occasionally outsource functions when we do not have the in-house capacity required, such as the use of a mailing house for mailings, and analytical services that enable us to target our communications with customers and supporters more effectively. In such cases we will only use reputable and well vetted firms and have contracts and processes in place that ensure the safe and confidential processing of personal data at all times. We may also disclose personal information where required or otherwise permitted by law. We will always ensure an adequate level of protection is provided for personal information transferred outside the European Economic Area.
 
 We occasionally share data with the Natural History Development Trust, a dedicated independent fundraising trust, and The International Friends of the Natural History Museum, a foundation run by a board of trustees and a registered 501(c)3 organisation encouraging tax-deductible gifts under US law. These organisations are subject to strict agreements with the Museum that ensure that they meet the highest standards when collecting and using personal data.
 
-### Job applicants, volunteers, current and former Museum employees
+### Job and volunteering applicants
 
-If you apply to work at the Museum, we will use the information you supply to us to process your application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference or obtain a ‘disclosure’ from the Criminal Records Bureau we will not do so without informing you beforehand unless the disclosure is required or otherwise permitted by law.
+If you apply to work or volunteer at the Museum, we will use the information you supply to us to process your application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference or obtain a ‘disclosure’ from Disclosure Scotland or the Disclosure and Barring Service, we will not do so without informing you beforehand.
 
-Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed. We retain de-personalised statistical information about applicants to help inform our recruitment activities, but no individuals are identifiable from that data.
-
-Once you have taken up employment with the Museum, we will compile a file relating to your employment. The information contained in this will be kept secure and will be used for purposes relevant to your employment. Once your employment with the Museum has ended, we will retain the file in accordance with the requirements of our retention schedule.
+Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, after which it will be destroyed, unless you have asked us to destroy it earlier or allowed us to retain it for longer by written request. 
 
 ### Access to personal information and correction
 
@@ -91,9 +98,9 @@ If you wish to make a complaint, request further explanation of any issues relat
 
 You may opt out from receiving marketing communications from us at any time, change your contact preferences or ask to have your personal data removed or corrected in our records by writing to us at: Marketing Department, The Natural History Museum, Cromwell Road, London, SW7 5BD, or by sending an email to [unsubscribe@nhm.ac.uk](http://www.nhm.ac.uk/about-us/contact-enquiries/forms/emailform.jsp?recip=unsubscribe&business_title=Unsubscribe+from+email&email_title=Unsubscribe+from+email). Please ensure that you state your full name and address in the letter or email so that we may locate your record on our database.
 
-If you wish to request a copy of all or part of your personal information held by the Museum by making a Subject Access Request you can do this in several ways:
+If you wish to request a copy of all or part of your personal information held by the Museum by making a subject access request you can do this in several ways:
 
-  * Complete and return the [Subject Access Request form](http://www.nhm.ac.uk/resources-rx/files/sar_form_2009_11_25-24916.pdf).
+  * Complete and return the [subject access request form](https://web.archive.org/content/dam/nhmwww/about-us/SAR_form_2017_01_05.docx).
   * Email the [Information Compliance Officer](http://www.nhm.ac.uk/about-us/contact-enquiries/forms/emailform.jsp?recip=dataprotection&business_title=Information+Compliance+Officer&email_title=Data+protection+enquiry).
   * By letter, addressed to: Information Compliance Officer, The Natural History Museum, Cromwell Road, London, SW7 5BD.
 
@@ -103,4 +110,4 @@ If you wish to request a copy of all or part of your personal information held b
 
 We keep our privacy notice under regular review. You are advised to visit this page periodically in order to keep up to date with any changes. By continuing to use our services you will be deemed to have accepted such changes.
 
-This privacy notice was last updated on 2 February 2016. 
+This privacy notice was last updated on 20 April 2017. 
