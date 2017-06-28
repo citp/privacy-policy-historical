@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015052742id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628090029id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Unofficial Premier League Blog | EPL Stats, Tactics & Podcast at eplindex.com
+# Privacy Policy - EPL Index: Unofficial English Premier League Opinion, Stats & Podcasts
 
 **PRIVACY POLICY for www.EPLIndex.com**
 
