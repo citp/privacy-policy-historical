@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustbtcfaucet.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233334id_/http%3A//www.trustbtcfaucet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustbtcfaucet.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628142259id_/http%3A//trustbtcfaucet.com/privacy) for the most accurate reproduction.*
 
-# TrustBTCFaucet | Privacy POlicy
+# Free bitcoins every 5 minutes!Join TrustBtcFaucet to get bitcoins now!
 
 #### We take your privacy seriously. This policy describes what personal information we collect and how we use it.
 
