@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceeol.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506094944id_/http%3A//ceeol.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceeol.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023016id_/https%3A//www.ceeol.com/help/privacy-policy) for the most accurate reproduction.*
 
 # CEEOL - Privacy Policy
 
