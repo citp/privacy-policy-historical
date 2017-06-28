@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230140503id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628204627id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies | ASOS
 
@@ -238,7 +238,7 @@ Each of the external companies we work with has been selected by us for their ab
 
 
 How we DON’T use your information
-    **WE WILL NOT Sell your information without your consent:** We will not sell your personally identifiable information – including your name, address, e-mail address, or credit card information - to _any_ third party.  We believe this is absolutely essential to receive and repay your trust in us. 
+     **WE WILL NOT Sell your information without your consent:** We will not sell your personally identifiable information – including your name, address, e-mail address, or credit card information - to _any_ third party.  We believe this is absolutely essential to receive and repay your trust in us. 
 
 **WE WILL NOT Share your information with third-party advertiser or ad networks:** We do not currently display third party adverts on our website and, even if we did, we would not support sharing your personally identifiable information with any third-party advertiser or ad network.
 
