@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agentmarketing.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122003433id_/http%3A//agentmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentmarketing.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628073220id_/http%3A//agentmarketing.com/privacy) for the most accurate reproduction.*
 
 # AgentMarketing.com - Privacy Statement
 
