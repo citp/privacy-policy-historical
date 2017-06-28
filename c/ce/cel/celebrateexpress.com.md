@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrateexpress.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621090614id_/http%3A//www.birthdayexpress.com/info/610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrateexpress.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092028id_/http%3A//www.birthdayexpress.com/info/610) for the most accurate reproduction.*
 
 # BirthdayExpress
 
@@ -13,16 +13,6 @@ Follow the instructions below to remove yourself from any of our mailing lists:
 ### Our Email Lists
 
 On our [email preferences page](https://www.birthdayexpress.com/profile/footeroremailunsub), enter your email and select the "I do not wish to receive any e-mails from Birthday Express" option. 
-
-### Our Catalog Mailing Lists 
-
-Email us at [customerservice@birthdayexpress.com](mailto://customerservice@birthdayexpress.com) or call 1-800-247-8432. 
-
-#### All mailing lists
-
-Visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/). 
-
-The Direct Marketing Association is the leading trade association for business and non-profit organizations that send direct mail. Their site helps you manage the amount of mail you receive. You can request to stop receiving mail not only from individual companies but from whole categories of mailers including Credit Offers, Catalogs, Magazine Offers, and Other Mail Offers. This is a great site to take control of the amount of mail you receive but it could take up to three months for your removal request to process so you still may receive emails and/or catalogs until that time. 
 
 #### What is your privacy policy?
 
@@ -48,11 +38,11 @@ We also collect payment information so that we can bill our customers for their 
 
 If you no longer wish to receive promotional emails or catalogs from us click here for directions on how to remove your name from our lists. Online contests and sweepstakes may have different rules regarding contact information so please refer to the individual guidelines posted for each promotion
 
-To update any of your contact information send an e-mail with the revised information to [service@birthdayexpress.com](mailto://service@birthdayexpress.com), or call 1-800-247-8432. 
+To update any of your contact information send an e-mail with the revised information to [service@birthdayexpress.com](mailto://service@birthdayexpress.com). 
 
 Customers who have given their telephone number online may receive a call from us with information regarding your order. When providing your telephone number, please provide both the area code and phone number. Your phone number will not be shared with anyone.
 
-We occasionally make portions of our mailing list available to carefully screened companies whose products may interest you. If you do not want your name made available - or if you have moved, are receiving duplicate catalogs or would prefer not to receive catalogs from us - call us toll free at 1-800-247-8432 or send an e-mail to [service@birthdayexpress.com](mailto://service@birthdayexpress.com). If you would like to remove your name from all mailing lists, visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/) for more information.
+We occasionally make portions of our mailing list available to carefully screened companies whose products may interest you. If you do not want your name made available - or if you have moved, are receiving duplicate catalogs or would prefer not to receive catalogs from us - send an e-mail to [service@birthdayexpress.com](mailto://service@birthdayexpress.com). If you would like to remove your name from all mailing lists, visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/) for more information.
 
 If you choose to post a product review, we will display your chosen user name and any additional identifying information that you agree for us to post, including but not limited to age, location, and gender. Any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. 
 
@@ -79,7 +69,6 @@ If you have questions about our privacy policy, contact us at:
   * 5915 South Moorland Road
   * New Berlin, WI 53151
   * [service@birthdayexpress.com](mailto:service@birthdayexpress.com)
-  * 1-800-247-8432
 
 
 
