@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the juragan-anime.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013610id_/http%3A//www.juragan-anime.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juragan-anime.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628061906id_/http%3A//www.juragan-anime.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juragan Anime
+
+__Juragan Anime __23 December 2014 0 comments.
 
 Privacy Policy for juragan-anime.net
 
