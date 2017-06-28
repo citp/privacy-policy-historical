@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarknow.info privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231503id_/http%3A//www.socialbookmarknow.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarknow.info privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628033331id_/http%3A//www.socialbookmarknow.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › SocialbookmarkNow.info : Promote website to get higher rank in dofollow blog directory, forum and article sites | Store favorite sites using search engine friendly social bookmarking engine
 
