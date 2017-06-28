@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the ebates.ru privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045905id_/https%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.ru privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082355id_/https%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
 
-Effective Date: September 1, 2016 
+Effective Date: February 28, 2017 
 
-Ebates Inc. ("Ebates", "We") was founded by two former Deputy District Attorneys who took privacy and security very seriously. We know that these issues are essential to making Ebates a success for us and our members. Rest assured that privacy, security and integrity are first and foremost considerations at Ebates.
+Ebates Inc. ("Ebates") was founded by two former Deputy District Attorneys who took privacy and security very seriously. We know that these issues are essential to making Ebates a success for us and our members. Rest assured that privacy, security and integrity are first and foremost considerations at Ebates.
 
-This privacy policy describes how we collect and use your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this privacy policy, you can contact our Chief Privacy Officer by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com).
+This privacy policy applies to [https://www.ebates.com](https://www.ebates.com/) owned and operated by Ebates Inc. This privacy policy describes how we collect, use, share, and secure your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this privacy policy, you can contact our Chief Privacy Officer by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com).
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=4bd94602-e53f-4f91-95f8-2ad9e0e97fe9 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=6b25acce-c1f5-4194-b740-be5e1f150071)
 
   
 
 
-  * Information we collect and how we use it
-  * Who sees your personal information
-  * How we keep your information secure
-  * Your privacy with Ebates 
-  * Our policies on email
-  * Cookies and other technologies
-  * Your choices and responsibilities 
-  * Third-party verification
+  * Information We Collect and How We Use It
+  * Who Sees Your Personal Information
+  * How We Keep Your Information Secure
+  * Your Privacy With Ebates
+  * Our Policies on Email
+  * Cookies and Other Technologies
+  * Your Choices and Responsibilities
+  * Dispute Resolution 
 
 
 
-####  Information we collect and how we use it
+####  Information We Collect and How We Use It
 
 Our vision is to maximize your rewards and to provide you with as many member benefits as possible. The key way in which we provide value is to share with you the commissions we receive from our merchant partners in the form of Cash Back. We strive to confirm and pay your Cash Back quickly and reliably, and to improve your experience on our site and in our applications – these are the main reasons we collect information.
 
@@ -42,7 +42,7 @@ When you use the Ebates browser button or the Ebates mobile application, we will
 
 **Social Media**
 
-Our website includes social media features, such as the Facebook Like button and a “share this” button. These features may collect your IP address and the page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features may be hosted by us or a third party. Your interactions with social media features hosted by third parties (such as the Facebook Like button) are governed by the privacy policies of the companies providing them.
+Our website includes social media features, such as the Facebook Like button and a "share this" button. These features may collect your IP address and the page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features may be hosted by us or a third party. Your interactions with social media features hosted by third parties (such as the Facebook Like button) are governed by the privacy policies of the companies providing them.
 
 **Third Party Log-In Services**
 
@@ -54,7 +54,7 @@ We allow you to connect your personal email account to your Ebates account in or
 
 back to top
 
-####  Who sees your personal information
+####  Who Sees Your Personal Information
 
 We share your Personal Information with third parties only in the ways that are described in this privacy policy. We do not sell your Personal Information to third parties.
 
@@ -62,51 +62,51 @@ Only a very limited number of our employees ever have access to your Personal In
 
 We may use contractors or vendors to help us provide some of the services on Ebates.com, some of whom may be our corporate affiliates (for instance, payment fulfillment or marketing services). If we need to disclose Personal Information for them to provide such services, it is with the requirement that such Personal Information will be kept confidential and will be used only for those services.
 
-We reserve the right to disclose information we collect (including Personal Information) as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on us or our corporate affiliates, or to protect us, our corporate affiliates, or our members from losses.
+We reserve the right to disclose information we collect (including Personal Information) as required by law, such as to comply with a subpoena, bankruptcy proceedings, or other lawful requests by public authorities, and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on us or our corporate affiliates, or to protect us, our corporate affiliates, or our members from losses.
 
 back to top
 
-####  How we keep your information secure
+####  How We Keep Your Information Secure
 
 The security of your Personal Information is important to Ebates. We use a secure, encrypted connection (called an SSL connection) on all pages where you access or transmit Personal Information. In addition, we encrypt your credit card information that you have given us to store, and maintain industry standard security to safeguard this information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 back to top
 
-####  Your privacy with Ebates
+####  Your Privacy With Ebates
 
-Ebates will never ask for your email address, username, password or any other Personal Information in an unsolicited phone call, email or letter. Further, any contact with Ebates customer service in which Personal Information is exchanged with a customer service representative will be used only for the purpose of satisfying your request. Any Personal Information you provide will not be recorded or used for any reason beyond that of the stated request.
+Ebates will never ask for your email address, username, password or any other Personal Information in an unsolicited phone call, email or letter. Further, any contact with Ebates customer service in which Personal Information is exchanged with a customer service representative will be used only for the purpose of satisfying yourrequest. Any Personal Information you provide will not be recorded or used for any reason beyond that of the stated request.
 
-#####  Referrals
+##### **Referrals**
 
-If you choose to use our referral programs to tell a friend about Ebates, we will ask you for your friend's name and email address. We will automatically send your friend email inviting him or her to visit Ebates. We store this information for the sole purpose of sending this email and tracking the success of our referral program. Your friend may contact us at [customercarereply@ebates.com](mailto:customercarereply@ebates.com) or [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) to request that we remove this information from our database.
+If you choose to use our referral programs to refer a friend to Ebates, we will ask you for your friend's name and email address. We will automatically send your friend email inviting them to visit Ebates. We store this information for the sole purpose of sending this email and tracking the success of our referral program. Your friend may contact us at  [ customercarereply@ebates.com ](mailto:customercarereply@ebates.com) or  [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). to request that we remove this information from our database.
 
-##### Changes to This Privacy Policy 
+##### **Changes to This Privacy Policy**
 
 If we materially modify this privacy policy, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account. We reserve the right to modify this privacy policy at any time, so please review it regularly.
 
-##### Links to Third Party Websites 
+##### **Links to Third Party Websites**
 
 Ebates contains links to many other websites. Each of these websites should have its own privacy policy that may differ materially from this privacy policy. If you wish to receive special offers directly from a merchant partner, neither this privacy policy nor our opt-out policy applies to those communications. Instead, please refer to the relevant merchant partner’s privacy and opt-out policy.
 
 back to top
 
-####  Our policies on email
+####  Our Policies on Email
 
 Ebates sends two types of emails to members: customer service emails required to maintain the Ebates program (such as cash back credits and payment notifications) and promotional emails containing offers. You may choose not to receive promotional emails at any time by clicking the "unsubscribe" link in any promotional email or by modifying your subscription preferences in the "My Ebates" section of Ebates.com.
 
-We prohibit spamming by our members via our tell-a-friend capability. If you would like to report an incident of spamming using this functionality, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). We will investigate and take suitable action.
+We prohibit spamming by our members via our refer-a-friend capability. If you would like to report an incident of spamming using this functionality, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). We will investigate and take suitable action.
 
 back to top
 
-####  Cookies and other technologies
+####  Cookies and Other Technologies
 
-We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [ here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 We use cookies for authentication, website personalization, and order tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you will no longer be able to earn Cash Back.
 
 **Other Information We Collect**
 
-As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
+As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data to analyze trends. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
 
 **Behavioral Targeting**
 
@@ -114,23 +114,19 @@ We use one or more vendors to manage our advertising on other sites. Our vendors
 
 back to top
 
-####  Your choices and responsibilities
+#### Your Choices and Responsibilities
 
-It is your responsibility to update and maintain accurate contact information in your Ebates account. You can make changes by visiting your account page and entering corrections. We will respond to your request within a reasonable timeframe. The email and street address that you enter into your personal profile page is the information that will be used for all contact with you, including for sending your Cash Back. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
+It is your responsibility to update and maintain accurate contact information in your Ebates account. You can make changes by visiting your account page and entering corrections. Upon request, we will provide you with the information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. The email and street address that you enter into your personal profile page is the information that will be used for all contact with you, including for sending your Cash Back. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
 
 We will retain your information for as long as your account is active or as long as you have a balance greater than zero in your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Please feel free to contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) if you have any questions about our Privacy policy or our privacy and personal information practices.
+Please feel free to contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) if you have any questions about our privacy policy or our privacy and personal information practices.
 
 back to top
 
-####  Third-party verification
+####  Dispute Resolution
 
-The TRUSTe certification covers only information that is collected through this website, www.ebates.com and does not cover information that may be collected through software downloaded from the website. 
-
-Ebates has received TRUSTe's Privacy Seal signifying that this privacy policy has been reviewed for compliance by TRUSTe. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal.
-
-If you have any questions or concerns regarding this statement, you should first contact [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) or [customer service](https://web.archive.org/help/customer_care/other.htm). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](https://www.truste.com/consumer-resources/dispute-resolution/). TRUSTe will then serve as a liaison with Ebates to resolve your concerns.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 _Kevin Johnson  
 Chief Executive Officer_
