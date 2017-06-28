@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mc3.edu privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106102603id_/http%3A//mc3.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc3.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080849id_/http%3A//mc3.edu/privacy-statement) for the most accurate reproduction.*
 
 # MCCC :: - Privacy Statement
 
