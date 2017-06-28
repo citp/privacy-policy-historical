@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ceeol.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506094944id_/http%3A//ceeol.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ceeol.com privacy policy that was archived on 2017-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628023016id_/https%3A//www.ceeol.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	CEEOL - Privacy Policy
@@ -43,13 +43,13 @@
         <div class="navigation-container">
             <ul class="main-menu jetmenu" id="jetmenu">
                 <li><a href="/">Home</a></li>
-                <li><a href="/browse/browse-by-subjects">Browse by Subjects</a></li>
-                <li><a href="/browse/browse-by-publishers">Browse by Publishers</a></li>
-                <li><a href="/browse/browse-by-journals">Browse by Journals</a></li>
+                <li><a href="/browse/browse-by-subjects">Browse Subjects</a></li>
+                <li><a href="/browse/browse-by-publishers">Browse Publishers</a></li>
+                <li><a href="/browse/browse-by-journals">Browse Journals</a></li>
+                <li><a href="/browse/browse-by-series">Browse Series</a></li>
                 
                 <li><a href="/personal-user-account/new-to-CEEOL">Personal User Account</a></li>
                 
-                <li><a href="/media/media">Media</a></li>
                 <li><a href="/help/">Help</a></li>
                 <li><a href="/contact/general-contact">Contact</a></li>
                 
@@ -196,16 +196,16 @@
     <div class="copyright">
         <div class="copyright-container">
             <div class="terms-links">
-                <span>2016 © CEEOL. ALL Rights Reserved.</span> 
+                <span>2017 © CEEOL. ALL Rights Reserved.</span> 
                 <a href="/help/privacy-policy">Privacy Policy</a> | <a href="/help/terms-and-conditions">Terms of Service</a>
             </div>
-            <div class="developed-by-link"><a href="http://www.icb.bg" target="_blank" title="Developed by InterConsult Bulgaria (ICB) - Software and Consulting Company"> ICB - InterConsult Bulgaria</a> <small>ver.1.0.2428</small></div>             
+            <div class="developed-by-link"><a href="http://www.icb.bg" target="_blank" title="Developed by InterConsult Bulgaria (ICB) - Software and Consulting Company"> ICB - InterConsult Bulgaria</a> <small>ver.1.1.0616</small></div>             
         </div>
     </div>
     <a href="#" class="scrollup"><i class="fa fa-chevron-up"></i></a>
     <div class="modal fade" id="loginDlg" style="position:fixed;" role="dialog" aria-hidden="true" data-backdrop="static">
         <div class="modal-dialog login-dlg login-publisher-dlg">
-            <form class="modal-content" id="logInForm" data-ng-submit="logIn()" method="post" novalidate="">
+            <div class="modal-content" id="logInForm" method="post" novalidate="">
                 <div class="modal-header">
                     <button type="button" class="close" data-ng-click="cancel()"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
                     <h4 class="modal-title">Login CEEOL</h4>
@@ -219,11 +219,11 @@
                     <div class="login-user" data-ng-form="loginForm" data-ng-submit="logIn()">
                         <div class="form-group">
                             <label>Username (Email)</label>
-                            <input data-ng-model="login.Username" type="text" name="username" required="" class="form-control" id="loginUserName" maxlength="50" tabindex="1">
+                            <input data-ng-model="login.Username" ng-keypress="keypressEnter($event)" type="text" name="username" required="" class="form-control" id="loginUserName" maxlength="50" tabindex="1">
                         </div>
                         <div class="form-group">
                             <label>Password</label>
-                            <input data-ng-model="login.Password" type="password" name="password" required="" class="form-control" minlength="6" maxlength="50" tabindex="2">
+                            <input data-ng-model="login.Password" ng-keypress="keypressEnter($event)" type="password" name="password" required="" class="form-control" minlength="6" maxlength="50" tabindex="2">
                         </div>
                         <div class="clearfix">                       
                             <a href="#" class="forgotten-pass pull-left" tabindex="7"> Forgot Password </a>
@@ -246,7 +246,7 @@
                         <h4>Shibbolet Login</h4>
                         <div class="form-group">
                             <p style="margin-bottom: 30px">Shibboleth authentication is only available to registered institutions.</p>
-                            <input type="text" class="form-control" data-typeahead-autocomplate="typeaheadObj" data-ng-model="libraryName">
+                            <input type="text" class="form-control" ng-keypress="keypressEnter($event)" data-typeahead-autocomplate="typeaheadObj" data-ng-model="libraryName">
                         </div>
                     </div>
                 </div>
@@ -255,10 +255,10 @@
                         <button type="button" data-ng-click="setLoginType(true)" class="login-link-shibbolet btn" tabindex="4">Shibbolet Login</button>
                         <button type="button" data-ng-click="setLoginType(false)" class="login-link-user btn" tabindex="5">User Login</button>
                     </div>
-                    <button type="submit" class="btn" tabindex="3">Login</button>
+                    <button type="button" ng-click="logIn()" class="btn" tabindex="3">Login</button>
                     <button type="button" class="btn btn-grey" data-ng-click="cancel()" tabindex="6">Cancel</button>
                 </div>
-            </form>
+            </div>
         </div>
     </div>
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/libs/require.js"></script>
