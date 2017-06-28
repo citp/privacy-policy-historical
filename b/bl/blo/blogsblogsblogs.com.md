@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616133330id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628072120id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Smackdown!
-
-##### Posted on September 29th, 2011 at 11:38 pm by Michael VanDeMar
+# Privacy - Smackdown!
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -32,17 +30,5 @@ By e-mail: privacy.kwestions@gmail.com
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-Be Sociable, Share!
+  *   *   *   *   *   * 
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&title=Privacy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&title=Privacy&notes=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&title=Privacy&srcURL=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&srcTitle=Smackdown%21+Smackdown%21 "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&title=Privacy&source=Smackdown%21+Smackdown%21&summary=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fsmackdown.blogsblogsblogs.com%2Fprivacy%2F&Title=Privacy "BlinkList")
-  * 
-
-
-Posted in | [No Comments »](http://smackdown.blogsblogsblogs.com/privacy/#respond)
