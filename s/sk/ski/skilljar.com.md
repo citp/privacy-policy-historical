@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203101428id_/https%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628222138id_/https%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Skilljar
-
-## Privacy Policy
-
-Last Updated: September 8, 2015
 
 Welcome to the website www.skilljar.com (part of the “Site,” as defined in the Membership and Use Agreement) of Skilljar Inc. (“we”, “us” or “our”). This Privacy Policy applies to the Site and Services (as defined in the Membership and Use Agreement) and describes the information that we collect on the Site and how we use it, how we protect it and the choices you can make about your information with respect to users.
 
@@ -95,7 +91,7 @@ You have choices regarding the use of information on our Site and Services.
   1. Changing Your Information. To change your information, including keeping your information accurate, please contact us at cs@skilljar.com. We will take reasonable steps to change your information in our possession that you have submitted via the Site.
   2. Email Communications. To change your information regarding email communications, please unsubscribe from the footer of any communication or contact us at cs@skilljar.com.
   3. Cookies, Other Storage and Web Beacons. Please see Cookies, Other Storage and Web Beacons above.
-  4. Closing Your Account. You may close your account by contacting us at cs@skilljar.com. **If the email account associated with your email address is not active, we may close your account on the Site without notice in our sole discretion.**
+  4. Closing Your Account. You may close your account by contacting us at cs@skilljar.com. If the email account associated with your email address is not active, we may close your account on the Site without notice in our sole discretion.
 
 
 
@@ -113,4 +109,4 @@ Please also feel free to contact us at legal@skilljar.com if you have any questi
 
 ### Your California Privacy Rights
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Skilljar Inc., 512 2nd Ave, Suite #200, Seattle WA 98104.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Skilljar Inc., 1929 3rd Ave, Suite #200, Seattle WA 98101.
