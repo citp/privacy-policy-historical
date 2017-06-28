@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219202537id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628102227id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Voice Changing Software - Screaming Bee
 
@@ -6,13 +6,13 @@ Privacy Policy
 
 Last updated: April 05, 2015
 
-Screaming Bee Inc ("us", "we", or "our") operates the http://screamingbee.com website (the "Service").
+Screaming Bee Inc ("us", "we", or "our") operates the https://screamingbee.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://screamingbee.com/store/policy.aspx
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://screamingbee.com/store/policy.aspx
 
 **Information Collection And Use**
 
