@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061155id_/http%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628031148id_/https%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
 # The Student Room - FAQ: Your privacy
 
@@ -58,7 +58,7 @@ We may share your personal information with any member of our group, which means
   * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;advertisers and advertising networks that require the data to select and serve relevant adverts to you and others;
   * analytics and search engine providers that assist us in the improvement and optimisation of our site;
   * data when obliged to disclose such data by law, or the disclosure is 'necessary' for purposes of national security, taxation and criminal investigation;
-  * when you chose to register using the online payment method (i.e. debit or credit card) our payment processor, PayPal in order for them to safely and securely process the payment information (please contact PayPal via [http://www.paypal.co.uk/uk](https://www.paypal.co.uk/uk) for information on their Privacy statement and security measures);
+  * when you chose to register using the online payment method (i.e. debit or credit card) our payment processor, PayPal in order for them to safely and securely process the payment information (please contact PayPal via <http://www.paypal.co.uk/uk> for information on their Privacy statement and security measures);
   * when you elect to submit work on TSRG site to gain access to the database, such work will also be submitted along with your name to plagiarism detection software;
   * or we have your consent.
 
