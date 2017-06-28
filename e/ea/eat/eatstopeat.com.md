@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226062221id_/http%3A//eatstopeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatstopeat.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628183500id_/http%3A//eatstopeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,6 +71,10 @@ ESE only sends email to individuals who have agreed on the Websites to receive e
 ### 2.3 Targeted Advertising.
 
 ESE uses Individual Information to target advertising to an individual. When an individual is using the Internet, ESE uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and ESE attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. ESE may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
+
+### 2.3.1 Google Advertising.
+
+Where users have chosen to enable Google to associate their web and app browsing history with their Google account, and to use information from their Google account to personalize ads they see across the web, Google will use data from its signed-in users together with Google Analytics data to build and define audience lists for cross-device remarketing. In order to support this feature, Google Analytics will collect these users’ Google-authenticated identifiers, which are Google’s personal data, and temporarily join them to anonymous Google Analytics data in order to populate advertising audiences audiences.
 
 ### 2.4 Direct Mail and Telemarketing.
 
