@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kiksha.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531032719id_/http%3A//kiksha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiksha.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628080647id_/http%3A//kiksha.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
+
+All outside Dhaka Eid orders are open till 3 pm, 20th June & inside Dhaka orders are open till 3 pm, 21st June, 2017. Regular orders afterwards will resume delivery after 1st July, 2017
 
 ### Privacy policy:
 
