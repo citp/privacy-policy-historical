@@ -1,128 +1,172 @@
-> *The following text is extracted and transformed from the flu.gov privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224060205id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flu.gov privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082750id_/https%3A//www.cdc.gov/Other/privacy.html) for the most accurate reproduction.*
 
-# HHS Privacy Policy Notice | HHS.gov
+# CDC Digital Media Channel Privacy Policy Notice| Other | CDC
 
-This privacy notice applies to [www.hhs.gov](https://web.archive.org/) and a number of other HHS websites with unique domains, such as [www.StopBullying.gov](http://www.stopbullying.gov/). However, some HHS websites maintain their own privacy policy notices.  You can find links to the applicable privacy notice in the footer of each HHS website.
+The Centers for Disease Control and Prevention (CDC) is committed to maintaining your privacy and protecting your personal information when you visit CDC websites, use CDC’s mobile applications. With respect to the collection, use, and disclosure of personally identifiable information (PII), CDC complies with all applicable federal laws.  
+Our privacy policy is clear:
 
-  * We do not collect personally identifiable information (PII) about you unless you choose to provide that information to us.
-  * Any personal information you chose to provide is protected by security practices.
-  * Non-personal information related to your visit to our website may be automatically collected and temporarily stored.
-  * **HHS does not disclose, give, sell, or transfer any personal information about our visitors unless required for law enforcement or by Federal law.**
-
-
-
-**Health Information Privacy**  
-For more information on your health information privacy and security rights, or on the HIPAA Privacy and Security Rules, visit the [HHS Office for Civil Rights](https://web.archive.org/ocr/privacy/index.html).
-
-**Privacy Act Information**  
-You may also want to read information about the [Privacy Act at HHS](https://web.archive.org/foia/privacy/index.html). If you have privacy questions or issues, contact an [HHS Privacy Official](https://web.archive.org/foia/contacts/index.html#privacy). Also see the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm) (Department of Justice).
-
-For more detailed information on HHS privacy, see these topics below:
-
-  * Personal information voluntarily given to HHS
-  * Interaction with children on-line
-  * Visiting an official HHS page on third-party websites
-  * Information automatically collected and stored
-  * Cookies
-  * Website Security
+  * CDC does not collect any personally identifiable information (PII) when you visit any of CDC’s digital medial channels unless you choose to provide that information to us.
+  * Any PII that you choose to provide is fully protected.
+  * Non-PII information related to your visit to our websites may be automatically collected and temporarily stored.
 
 
 
-## Personal Information Voluntarily Submitted to HHS
+Here is how we handle information about your visit to our website:
 
-If you choose to provide HHS with personal information -- for example by completing a “Contact Us” form, leaving a comment, sending email, or completing a survey -- we may use that information to respond to your message and/or help us get you the information or services you requested. Submitting personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on our website.
+##  Information Received and Retained by CDC Digital Media channels
 
-We retain the information only for as long as necessary to respond to your question or request, in most cases no longer than three months. Information submitted electronically is maintained and destroyed as required by the Federal Records Act and records schedules of the National Archives and Records Administration. It may be subject to disclosure in certain cases (for example, if required by a Freedom of Information Act request, court order, or Congressional access request, or if authorized by a Privacy Act System of Records Notice). It is subject to the Privacy Act if maintained in a Privacy Act system.
+### Information You Give Us
+
+You do not have to provide any personal information to visit any of the CDC digital media channels with limited exception such as external SharePoint site, special partnership collaboration site, data collection surveillance etc. If you choose to provide us with additional information about yourself, as in an e-mail message, questionnaire, form, online survey, or other tool, submitted through our website, we only use that information to respond to your message. We will maintain any information you provide in accordance with applicable federal laws. CDC will not disclose, give, sell, or transfer any personal information about visitors to our websites, unless required by law enforcement or by statute.
+
+### Visits to CDC.gov or CDC content
+
+When browsing any website, certain information about your visit can be collected. When browsing, reading pages or downloading information from the CDC website directly or via APIs on other websites, specific information is gathered and stored automatically. This information does not identify you personally. We automatically collect and temporarily store only the following information about your visit:
+
+  * the Internet domain (for example, "xcompany.com" if a private Internet access account is used, or "yourschool.edu" if connecting from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer when surfing the Web);
+  * Operating System and information about the Web browser used when accessing the site;
+  * the visit date and time;
+  * the specific pages visited;
+  * the amount of data (measured in number of bytes) transmitted from CDC.gov to your computer
+
+
+
+### Using CDC’s Mobile Application
+
+When you use CDC’s Mobile Applications (Apps), certain information will be gathered and stored about your usage of the App. This information does not identify you personally. We collect and store information as follows:
+
+  * CDC receives aggregate data about the use of our Apps, such as the number of times the applications have been opened or the interactions or actions completed in the application. This is gathered via a third party provider (please refer to the [third-party tools list](http://www.cdc.gov/other/third-party-pages.html)). We also receive aggregate data from the platforms that distribute our Apps (currently the iTunes Store, Google Play Store, and the Windows Store), such as the number of people who download the App and mobile set-up information (e.g., device model, App version, country, language, and mobile carrier). Please consult the privacy policies of these third parties for further information.
+  * You may sign up to receive “push notification” messages via a third party provider (please refer to the [third-party tools list](http://www.cdc.gov/other/third-party-pages.html)). To make sure messages reach the correct devices, our third party provider relies on a device token unique to your mobile device. A device token is a unique identifier issued to the app by the operating system of the mobile device. While we may be able to access a list of the tokens, the App and tokens do not reveal your identity, unique device ID, or contact information to us. The third party provider may collect the following: the time of an event, how a User came to our site, what search engine and search keywords users may have used to get to our site, information about the device our user is on such as their Operating System and browser, as well as the city, region and country location of users. This location information enables CDC to send public health push notification messages that are relevant to certain geographic locations. If, at any time, you wish to stop receiving push notifications, simply adjust your phone settings or remove the App.
+
+
+
+CDC does not disclose, share, sell, or transfer any information about CDC digital media visitors or users unless required by law enforcement or by statute.
+
+For site security purposes and to ensure that this service remains available to all users, CDC employs software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+CDC’s digital media are maintained by the U.S. Government and is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in Federal court.
+
+### Email Subscriptions
+
+Email and text message subscription services are offered by CDC as a convenience to users who choose to receive information via these channels. All information published via email subscriptions and text messaging services is available on CDC.gov without the requirement to provide email address or phone number.
+
+In order to manage CDC email subscription lists, we retain the names and email addresses of our email subscribers, as well as other information they may have shared with us (e.g., addresses and phone numbers), logs of emails we send, and automatically generated email data used to improve our email communications. Email subscriber service providers may collect and provide non-identifying information about the number of messages sent, clicks and open rates.
+
+To get more information about current email subscription service providers and their privacy policy, please refer to the [current third-party tools/pages list](http://www.cdc.gov/other/third-party-pages.html). The email subscriber information is secured and only available to CDC managers, members of the CDC’s communication and web Teams, and other designated staff who require this information to perform their duties.   If, at any time, you wish to stop receiving our messages, simply click on the “Unsubscribe” link at the bottom of each email message.
+
+### Survey Tools
+
+Invitations to CDC surveys are sent via a pop up or external links to a random sampling of visitor. Your acceptance of a survey is completely optional. If you decline any survey, you will still have the same access to the information and resources provided in all of the CDC’s digital media channels, as those who opt to take a survey.
+
+CDC uses online surveys to collect opinions and feedback from visitors on all type of digital media channels. Please refer to the [current third-party tools/pages list](http://www.cdc.gov/other/third-party-pages.html) for the current survey service providers. These survey service providers obtain feedback and data on visitor’s satisfaction on behalf of the CDC. Surveys conducted on behalf of the CDC do not collect any Personally Identifiable Information (PII), and the aggregate results are only available to CDC staff (e.g., subject matter experts, health communication staff, and other designated staff) who require this information to perform their duties.
+
+Mobile surveys (i.e., those accessed via your mobile device) may request an email address and a phone number from you in order to send an external link to the survey. CDC does not receive your personal information, nor will the CDC have access to your information. To get more details on the data collected by any of these survey service providers, please refer to their specific privacy policy.
+
+### Official CDC Presence on Third-Party Websites
+
+All official CDC information available on third-party websites is also available on CDC.gov site. The CDC maintains official pages or accounts on third-party websites in order to better engage and communicate with the general public ([a current third-party tools/pages list](http://www.cdc.gov/other/third-party-pages.html) is here). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user communities, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
+
+For the sole purpose of complying with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html), the CDC archives some information that users submit or publish when engaging with the CDC through official CDC pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
+
+  * On Twitter, the CDC automatically archives “tweets” from official CDC accounts, “direct messages” sent to or from official CDC accounts, and “mentions” (tweets from other users to official CDC accounts; these tweets contain an @ and the username of an official CDC account (e.g., [@CDCgov](https://twitter.com/cdcgov)). The CDC also automatically archives any status that official accounts have “favorited.”
+  * On Facebook, the CDC archives all content created by official CDC pages, content that tags an official CDC page, and any content posted on official CDC pages (for example, the number of likes to the page and comments posted).
+  * On Google+, the CDC archives all content posted by official CDC accounts, as well as the number of likes/comments/shares on each of those posts (including the comments themselves). The CDC also automatically archives the total number of Google+ users that have added our page to a “Circle,” and the list of users that CDC accounts have added to “Circles.”
+
+
+
+For aggregate statistical analysis and to improve the quality of our services, we may integrate web measurement tools with our social media pages. To see current list of web measurement tools, please refer to the [current third-party tools/pages list](http://www.cdc.gov/other/third-party-pages.html). These tools enable basic analysis of social media traffic (such as the number of people visiting a certain page) and do not collect personally identifiable information.
+
+Top of Page
+
+## How Information is used
+
+If you choose to [provide us with information](http://www.cdc.gov/Other/privacy.html#section-information-we-receive), we may use that information to contact you, respond to your message, or provide you the information or services you requested. In order to serve you better, we may analyze multiple sources of data you have provided (for example, to look up whether you previously contacted the CDC about the same topic so that we do not send you a duplicative response). We may also use messages or comments collected through CDC.gov sites, Apps, or official social media pages for our own purposes, such as to inform policy decisions or in public advocacy.
+
+We may use data you provide and automatically generated data for statistical analysis to assess, for example, what information is of interest to users, technical design specifications, and system performance. This allows us to make general improvements to our site as well as to offer tailored content to email subscribers (e.g., a follow-up message to subscribers interested in a specific topic based on information they have provided or automatically generated data).
+
+Top of Page
+
+##  Sharing of this Information
+
+[Information you choose to share with the CDC](http://www.cdc.gov/other/privacy.html#information_receive) (directly and via third party sites) may be treated as public information. We may, for example, publish compilations of messages or comments collected through CDC.gov or official social media pages and provide them to national leaders, members of the press, or other individuals outside of the Federal Government. However, we exercise discretion to limit such disclosures to protect your privacy (for example, we generally do not publish last names of commenters).
+
+The CDC uses a third-party analytics provider (for current provider please see [current third-party tools/pages list](http://www.cdc.gov/other/third-party-pages.html)) to collect and summarize this information in conjunction with cookies. The third-party analytics provider does not receive personally identifiable information through these cookies and is prohibited from combining, matching or cross-referencing CDC.gov information with any other information.
+
+Within the CDC, we restrict access to personally identifiable information to only those employees, contractors, and/or vendors who require access to this information in order to perform their official duties and exercise controls to limit what data they can view based on the specific needs of their position. If you choose to share information with us, we may in some cases share that information (or automatically generated information) with other government agencies in response to lawful law enforcement requests or to protect CDC.gov from security threats.
+
+We do not use or share your information for commercial purposes and, except as described above, we do not exchange or otherwise disclose this information.
+
+Top of Page
+
+##  Data Retention
+
+Submitting personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on our website. However, if you choose to provide CDC with personally identifiable information -- for example by completing a “Contact Us” form, leaving a comment, sending email, or completing a survey -- we may use that information to respond to your message and/or help us get you the information or services you requested.
+
+We retain the information only for as long as necessary to respond to your question or request. Information submitted electronically is maintained and destroyed as required by the Federal Records Act and records schedules of the National Archives and Records Administration. It may be subject to disclosure in certain cases (for example, if required by a Freedom of Information Act request, court order, or Congressional access request, or if authorized by a Privacy Act System of Records Notice (SORN)). It is subject to the Privacy Act if maintained in a Privacy Act system of record.
 
 For more information, see:
 
   * [Freedom of Information Act and the Privacy Act](http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml)
-  * [HHS System of Records Notices](https://web.archive.org/foia/privacy/sorns.html)
+  * [HHS/CDC System of Records Notices](http://www.hhs.gov/foia/privacy/sorns.html)
 
 
 
-## Interaction with Children Online
+As data retention policies vary from system to system, please check that system’s policy or their individual SORN for more detailed information.
 
-The Department will take all reasonable steps necessary to protect the privacy and safety of any child from whom information is collected, as required by the Children’s Online Privacy Protection Act (COPPA). A child’s parent or guardian is required to provide consent before HHS collects, uses, or shares personal information from a child under age 13.
+Top of Page
 
-Information and instructions will be provided by the specific Web page that collects information about a child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
+##  Third-Party Tools and Sites
 
-## Visiting an Official HHS Page on Third-Party Websites
+CDC content gets published on third-party sites as a convenience to users who prefer to use these channels. All information published on these third-party sites is also available on CDC.gov site.
 
-We maintain accounts on third-party websites, such as social media sites, as tools to better interact with the public. The security and privacy policies of third-party websites apply to your activity on those sites. Users of third-party websites often share information with the general public, user community, and/or the third-party operating the website. You should review the privacy policies of all websites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
+### Links to External Sites
 
-### HHS Accounts
+CDC.gov pages and other CDC digital media platforms may link to websites created and maintained by other public and/or private organizations and individuals. When you follow a link to an external site, you are leaving CDC.gov and are subject to the external site‘s privacy and security policies. We do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on an external site. We also do not endorse the site’s sponsor, any views they express, or any products or services they offer.
 
-Common third-party website privacy policies used by HHS include:
+### CDC Pages on Third-Party Websites
 
-## Information Collected and Used from Third-Party Websites
+Your activity on third-party sites ([a current list is here](http://www.cdc.gov/other/third-party-pages.html)) is governed by the third-party website’s security and privacy policies. Please contact third-party site’s Privacy Office if you have any questions or need further information.
 
-If you have an account/profile with a third-party website, and choose to follow, like, friend, or comment on a third-party website managed by HHS, certain personal information associated with your account may be made available to us based on the privacy policies of the third-party website and your privacy settings within that website.  **We do not share personally identifiable information made available through these websites.**
+### CDC Content Embedded in Third-Party Sites
 
-HHS conducts and publishes a Privacy Impact Assessment for each use of a third-party website. Each use of a third-party website may have unique features or practices. HHS sometimes collects and uses the information made available through third-party websites. To learn more, review the [published assessments](https://web.archive.org/pia/).
+In some instances, CDC’s content may be embedded on third-party websites as a way to increase public awareness of CDC activities (for example CDC’s Content syndication, microsite, data widgets, etc.). The integration of these products is intended to provide a seamless user experience and to enhance users’ ability to access public information provided by CDC. The embedded CDC.gov content automatically generates CDC server logs, web metrics and may set a CDC cookie (see [Cookies](https://www.cdc.gov/other/cookies.html)). Additionally, all other cookies, web metrics and server logs etc. are governed by the third-party website’s security and privacy policy.
 
-## Information Automatically Collected and Stored
+Top of Page
 
-When you browse through our website, we use Google’s Universal Analytics (UA) software to gather and temporarily store a variety of information about your visit. However, this information cannot be used to identify you as an individual. The basic information we collect during your visit includes:
+## Interaction with Children on CDC Digital Media Channels
 
-  * The name of the domain you use to access the Internet (for example, Verizon.com, if you are using a Verizon online account, or stanford.edu, if you are connecting from Stanford University's domain);
-  * The date and time of your visit to our website;
-  * The pages and documents you viewed on our website;
-  * The URL of the website you visited prior to ours;
-  * The type and version of your Web browser and operating system; and
-  * Your location at the time of your visit, down to the city-level
+We believe in the importance of protecting the privacy of children online. As such, we will take all reasonable steps to protect the privacy and safety of any child from whom information is collected as required by the [Children’s Online Privacy Protection Act (COPPA)](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).  A child’s parent or guardian is required to provide consent before CDC collects, uses, or shares personal information from a child under age 13.
 
+When a CDC Web site needs to collect information about a child under 13 years old, COPPA required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
+Personal information about children under 13 years of age may be needed to respond to his/her communication to us. Personal information about your child will be destroyed immediately upon completion of its intended purpose. On rare occasions, it may be determined that a communication from a child under 13 years old should be maintained for historical purposes. Should such an occasion occur, CDC will obtain the necessary consent from the child's parent.
 
-We do not associate any of the data we collect with you as an individual. Instead, we aggregate this data from all visits in order to improve our website and provide a better user experience to our visitors. The aggregate data is available only to Web managers and other designated staff who require this information to perform their duties. It is retained only for as long as needed for proper analysis.  The Google Analytics Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
+Finally, we provide many on-line tools and services in support of CDC’s mission. A child under 13 years old may inadvertently provide personal information to one of these services. If this should happen, the information about the child will be deleted immediately upon discovery.
 
-## Demographic and Interest Data
+Our digital media channels are not intended to solicit information of any kind from children under age 13. If you believe that we have received information from or about children under age 13, please contact the CDC Privacy Office (see [Contact information](http://www.cdc.gov/other/privacy.html#Contact) here).
 
-On some portions of our website we have enabled Universal Analytics (UA), and other third-party software (listed below), to provide aggregate demographic and interest data of our visitors. This information cannot be used to identify you as an individual. **While these tools are used by some websites to serve advertisements, HHS only uses them to measure demographic data. HHS has no control over advertisements served on other websites.** For each listed software, we have included links to Web pages where you can opt-out of having these tools collect data and/or serve you interest-based advertising.
+Top of Page
 
-**DoubleClick** : HHS uses DoubleClick to understand the characteristics and demographics of the people who visit HHS sites. HHS staff only conducts analyses on the aggregated data from DoubleClick. No personally identifiable information is collected by DoubleClick from HHS websites. The DoubleClick Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
+##  Security
 
-You can opt-out of receiving DoubleClick advertising at <https://support.google.com/ads/answer/2662922?hl=en>
+All CDC digital media offerings, including the CDC.gov site, are maintained by the U.S. Government and protected by various provisions of Title 18 of the U.S. Code. Violations of Title 18 are subject to criminal prosecution in Federal court.
 
-**Quantcast** : HHS uses Quantcast to understand the characteristics and demographics of the people who visit HHS sites. HHS staff only conducts analyses on the aggregated data from Quantcast. No personally identifiable information is collected by Quantcast from HHS websites. The Quantcast Privacy Policy is available at <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
+At CDC, reasonable precautions are taken to protect CDC’s digital platforms, including information automatically collected by or voluntarily submitted to CDC.gov or an official CDC page on a third-party site. For example, we restrict access to personally identifiable information to employees, contractors, and vendors who require access to this information in order to perform their official duties, and exercise controls to limit what data they can view based on the specific needs of their position. Access to official CDC accounts on third-party sites is limited to the individuals who administer those accounts, and all official CDC accounts are clearly labeled.
 
-You can opt-out of Quantcast at <https://www.quantcast.com/opt-out/>
+Also, commonly used practices and technical controls are utilized to protect the information in our possession or control, along with CDC.gov itself. These practices and controls include, but are not limited to: encrypting the transfer of personal information over the internet via secure sockets protocols such as Transport Layer Security (TLS), Secure Sockets Layer (SSL) etc., using high-strength firewalls and intrusion detection systems (IDS) to safeguard personal information, and maintaining strict technical controls and procedures to ensure the integrity of all data on CDC.gov.
 
-## Other Web Measurement and Customization Tools
+We periodically review our processes and systems to verify compliance with industry best practices and to ensure the highest level of security for CDC’s all digital platforms.
 
-We use the specified software and features below:
+Top of Page
 
-**AddThis** : HHS offers AddThis on its websites, giving visitors the option to bookmark and share HHS website content on certain social media sites.  Using AddThis on HHS websites does not require registration or personally identifiable information. The AddThis Privacy policy is available at <http://www.addthis.com/privacy>
+##  Contact Privacy Office
 
-**Bit.ly** : HHS uses Bit.ly to shorten long URLs for use in email  and social media messages. Bit.ly provides analytics on how many people clicked on the URLs distributed by HHS.  Bit.ly analytics do not provide any personally identifiable information about the visitors who click the shortened links. The Bit.ly Privacy Policy is available at <http://bit.ly/pages/privacy>   
+If you have any questions regarding CDC’s privacy policy or need further information, please contact CDC Privacy Office at [mailto:privacy@cdc.gov](mailto:privacy@cdc.gov), or call 770-488-8660.
 
-**CrazyEgg** : HHS uses CrazyEgg to obtain information on how visitors are interacting with specific HHS Web pages. This allows HHS to evaluate and, if necessary or beneficial, to modify its websites to improve value and usability. The data CrazyEgg collects includes information about as how visitors navigate around a Web page and the most commonly clicked links on a specific Web page. CrazyEgg does not collect personally identifiable information. The Crazy Egg Privacy Policy is available at <http://www.crazyegg.com/privacy>   
+Top of Page  
 
-**Google AdWords** : HHS occasionally uses Google AdWords to provide online advertisement delivery and tracking. HHS may employ tools provided by Google AdWords to support Display Advertising, including Remarketing, Google Display Network Impression Reporting, data collection via advertising cookies and anonymous identifiers, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting. In general, this means that third-party vendors, including Google, may show HHS ads on sites across the Internet based upon visits to HHS websites. To implement these tools, HHS and third-party vendors, including Google, use first-party cookies and third- party cookies together to inform, optimize, and serve ads based on past visits to HHS websites.  The Google AdWords Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
+## Updates to This Privacy Policy
 
-**Google Analytics** : HHS may employ tools provided by Google Analytics to support Display Advertising, including Remarketing, Google Display Network Impression Reporting, data collection via advertising cookies and anonymous identifiers, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting. In general, this means that third-party vendors, including Google, may show HHS ads on sites across the Internet based upon visits to HHS websites. To implement these tools, HHS and third-party vendors, including Google, use first-party cookies and third- party cookies together to inform, optimize, and serve ads based on past visits to HHS websites. The Google Analytics Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
+We will revise or update this policy from time to time. If we make significant changes to how we handle personal information, we will post changes to the policy on our site and change the date at the bottom. We will provide additional notice in advance (e.g., a disclaimer on our website or an email to subscribers) if material changes are being made.
 
-**GovDelivery** : HHS uses GovDelivery to email newsletters and other messages to visitors who subscribe to them on HHS websites. Only HHS staff and managers who email newsletters using GovDelivery and/or monitor the results of email initiatives have access to the subscriber lists. GovDelivery never allows access to the subscriber lists to anyone outside of HHS or for any purpose. GovDelivery also provides aggregate data, such as email opens rates, and total clicks on links. The GovDelivery privacy policy is available at <http://www.govdelivery.com/privacy>
-
-**Tynt** : HHS uses Tynt to improve the ease of link creation in copied-and-pasted content for website visitors and identify which content is copied-and-pasted. When an HHS website visitor copies content and pastes it into another document, a link back to the original content may be automatically appended. Tynt does not collect personally identifiable information. Tynt Privacy Policy is available at <http://www.tynt.com/privacy_policy>
-
-**Widgets** : HHS offers widgets that provide specific HHS site content to any website where the widget code is implemented. You can install an HHS widget on any website simply by using adding the HHS provided code to a website’s source HTML code. If you choose to install HHS widgets, they will not collect any type of Personally Identifiable Information from you.
-
-**Voice of Consumer** _:_ HHS uses the Voice of Consumer survey tool to collect feedback from HHS website visitors. The Voice of Consumer tool is implemented on HHS websites both as on-page surveys and pop-up surveys.  HHS uses survey results to measure visitor satisfaction with HHS websites. This survey tool does not require users to submit personally identifiable information. The survey reports are available only to HHS managers, members of the HHS Communications and Web Teams, and other designated staff who require this information to perform their duties.
-
-## Cookies
-
-Websites can automatically place small text files, known as “cookies,” on the computers of their visitors.  So long as they do not expire or get deleted, cookies identify the unique browser used by the visitor.  On each subsequent visit to the website, the visitor’s browser will retrieve the cookie, allowing us to aggregate the number of return visitors. HHS uses “cookies” to test and optimize our website design and content. We use two types of cookies on our websites:
-
-  * We use  **session cookies**  to gather data for technical purposes, such as improving navigation through our website and generating statistics about how the website is used. Session cookies are temporary text files that expire when you leave our website. When cookies expire, they are automatically deleted from your computer.  **We do not use session cookies to collect personal information, and we do not share data collected from session cookies.**
-  * We use  **multi-session cookies** , or persistent cookies, to customize our website for frequent visitors and to test variations of website design and content. Multi-session cookies are cookies that are stored over more than a single session on your computer.  **We do not use multi-session cookies to collect personal information, and we do not share data collected from multi-session cookies**. Our multi-session cookies are set to expire no more than two years after your last visit to our website. After two years, they are automatically deleted from your computer. HHS is unable to identify an individual by using such technologies.
-
-
-
-You can take actions to block cookies by [opting out](http://www.usa.gov/optout_instructions.shtml) [](https://web.archive.org/disclaimer.html). Blocking session cookies from your computer will not affect your access to the content and tools on our website. Blocking multi-session or persistent cookies may affect the personalization of the information on those sites.
-
-## Website Security
-
-This site is maintained by the U.S. Government. It is protected by federal laws. You can be arrested and prosecuted for violating these laws.
-
-For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of law enforcement investigations and as part of any required legal process, information from these sources may be used to help identify an individual.
+Top of Page
