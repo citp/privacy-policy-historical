@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanelements.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603051954id_/http%3A//www.alpineelements.co.uk/ski-holidays/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanelements.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628044347id_/http%3A//www.alpineelements.co.uk/ski-holidays/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Alpine Elements Ski Holidays
 
