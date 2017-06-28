@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222041509id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628044845id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy | Gizmo's Freeware
 
@@ -82,10 +82,6 @@ This Privacy Policy was last updated on Tuesday, June 21 2011..
 
 toggle-button
 
-## Gizmo's Freeware Featured Articles
-
-toggle-button
-
 Gizmo's Freeware is Recruiting
 
 We are looking for people with skills or interest in the following areas:  
@@ -93,3 +89,7 @@ We are looking for people with skills or interest in the following areas:
  \-  Windows, Mac and Linux software reviews
 
 **Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
+
+toggle-button
+
+## Gizmo's Freeware Featured Articles
