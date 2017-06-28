@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228234720id_/http%3A//thetradedesk.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628125017id_/https%3A//www.thetradedesk.com/general/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Trade Desk
+# The Trade Desk
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=4e6d9dbc-513e-44e3-a303-1fc8bbdebc67)
 
@@ -26,7 +26,7 @@ Further, The Trade Desk follows the Canadian Self-Regulatory Principles for Onli
 
 Posted: September 30th, 2016, Effective Date: September 30th, 2016. 
 
-For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](http://www.thetradedesk.com/general/privacy-policy-aug-24-2016). 
+For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](https://web.archive.org/web/20170628125017id_/https%3A//www.thetradedesk.com/general/%7Bentry:1662:url%7D). 
 
 ### Contents
 
@@ -217,7 +217,7 @@ Ventura, CA 93001
 
 [](http://www.thetradedesk.com/privacy-policy/#website)PRIVACY PRACTICES FOR OUR WEBSITE
 
-Posted: September 30th, 2016, Effective Date: September 30th, 2016. For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](http://www.thetradedesk.com/general/privacy-policy-aug-24-2016). 
+Posted: September 30th, 2016, Effective Date: September 30th, 2016. For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](https://web.archive.org/web/20170628125017id_/https%3A//www.thetradedesk.com/general/%7Bentry:1662:url%7D). 
 
 This privacy policy describes how The Trade Desk collects and uses the personal informat ion you provide on our Web site, [www.thetradedesk.com](http://www.thetradedesk.com/) or otherwise to The Trade Desk through your contact with us, our employees and our contractors . It also describes the choices available to you regarding our use of your personally identifiable information (“PII”) and how you can access and update this information. 
 
