@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029231145id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175733id_/https%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Learning Management Systems - TalentLMS
 
-TalentLMS provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of TalentLMS.com (this "Site"). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at [Privacy policy](http://www.talentlms.com/privacy). 
+TalentLMS provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of TalentLMS.com (this "Site"). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at [Privacy policy](https://www.talentlms.com/privacy). 
 
 * Collection: The Personally Identifiable Information We Collect
 
@@ -43,6 +43,22 @@ TalentLMS is very concerned with safeguarding your information. We employ reason
 * Data
 
 TalentLMS uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the service. Although TalentLMS owns the code, databases, and all rights to the TalentLMS application, you retain all rights to your files and data. 
+
+* Data Transfers from the EU to the United States
+
+TalentLMS (through its mother company Epignosis LLC), participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all Personal Information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield website: <https://www.privacyshield.gov/welcome>. A list of Privacy Shield participants is maintained by the Department of Commerce and is available at: <https://www.privacyshield.gov/list>. 
+
+TalentLMS is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider JAMS (free of charge to you) at <https://www.jamsadr.com/eu-us-privacy-shield>. 
+
+Under certain conditions, more fully described on the Privacy Shield website, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+
+* Choice
+
+We will always give you an opportunity to choose (opt-out) before your Personal Information is (a) disclosed to a third party (other than a TalentLMS agent doing work at our direction), or (b) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. Although we do not ever anticipate providing sensitive Personal Information, such as Employee health information, to a non-agent third party or using it for a purpose other than that for which it was collected, we will never do so without first allowing the individual involved to affirmatively and expressly consent (opt-in) to such transfer or use. The only exception to this choice would be where we are required to disclose your Personal Information pursuant to governmental or judicial order, law or regulation to meet national security or law enforcement requirements. 
 
 * Contacting Us
 
