@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121030301id_/http%3A//shop.diesel.com/cms/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628191807id_/http%3A//shop.diesel.com/cms/legal/privacypolicy.html%3Flang%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy | Diesel Online Store
 
