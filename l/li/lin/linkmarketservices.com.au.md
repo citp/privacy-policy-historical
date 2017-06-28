@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222135111id_/http%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628095154id_/https%3A//www.linkmarketservices.com.au/corporate/Privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
