@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128000627id_/http%3A//www.first4figures.com/content/view/10/23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628234713id_/http%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
 
-# First 4 Figures - Privacy Policy
+# Privacy Policy
 
 **Information Collection and Use**
 
-Venture Classics Ltd is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the processing of your order. 
+F4F Online Ltd is the sole owner of the information collected on this site. We will not sell or rent this information to any third party and we will only share this information in the processing of your order.
 
 **Sharing**
 
@@ -20,4 +20,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 **Cookies**
 
-This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of Venture Classics Ltd and will not be sold or rented to any third party.
+This web site uses a cookie to collect anonymous traffic data. This information is collected for the sole use of F4F Online Ltd and will not be sold or rented to any third party.
