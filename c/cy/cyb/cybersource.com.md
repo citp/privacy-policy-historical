@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124021644id_/http%3A//www.cybersource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629011604id_/http%3A//www.cybersource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - CyberSource
 
@@ -139,11 +139,10 @@ Fax: (650) 286-6547
 
 OR
 
-CyberSource Limited  
-P.O. Box 3073  
-Reading RG1 9YB  
-United Kingdom  
-ATTN: Compliance Officer  
-Fax: +44 (0)118 990 7301
+CyberSource Ltd.   
+Kennet Wharf   
+41-45 Queens Road   
+Reading RG1 4BQ   
+United Kingdom  
 
 Subject to our ability to verify your request, CyberSource will correct the information within thirty (30) days of receipt of your request.
