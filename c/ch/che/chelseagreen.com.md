@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223072210id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628214301id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.*
 
 # Chelsea Green Publishing - Terms of Use & Privacy Notice
 
