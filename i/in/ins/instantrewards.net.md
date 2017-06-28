@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantrewards.net privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923145021id_/http%3A//www.instantrewards.net/easy/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantrewards.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175853id_/http%3A//instantrewards.net/easy/privacypolicy.php) for the most accurate reproduction.*
 
 # Instant Rewards for Starters
 
