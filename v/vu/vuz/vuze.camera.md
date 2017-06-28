@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuze.camera privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224032659id_/http%3A//vuze.camera/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.camera privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629014506id_/http%3A//vuze.camera/privacy-policy) for the most accurate reproduction.*
 
 # Vuze Camera - Privacy Policy
 
