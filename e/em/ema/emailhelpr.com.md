@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204062256id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628062131id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gmail Login and Gmail Sign in Information
 
 Our Commitment To Your Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+DISCLAIMER: Google and Gmail is NOT affiliated with EmailHelpr.com and is a trademark of Google Inc. aka Alphabet Inc.
 
 DoubleClick DART Cookie
 
