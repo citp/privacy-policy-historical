@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsb.co.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219234419id_/http%3A//www.tsb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsb.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628084526id_/http%3A//www.tsb.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TSB
 
@@ -243,4 +243,4 @@ For further information please contact your [local branch](https://web.archive.o
 
 Find your nearest branch or cash machine using our Branch Locator tool.
 
-[Find branches](https://web.archive.org/branch-locator/ "Find branches")
+[Find branches ](https://web.archive.org/branch-locator/ "Find branches")
