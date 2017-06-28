@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019191255id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628090248id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
 
 # Security & Privacy at Neiman Marcus Last Call
 
@@ -131,10 +131,6 @@ If you are using a public computer, we strongly encourage you to LOG OUT at the 
 #### Emails
 
 If you do not want to receive email from Neiman Marcus or its affiliates you can click on the "Manage Your Email Preferences" link at the bottom of any email communication sent by us. Choose "Unsubscribe" at the bottom of the page that opens. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
-
-#### Mobile Messaging
-
-If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message or [click here.](http://bit.ly/tcNMLC)
 
 #### Acceptance
 
