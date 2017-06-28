@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the renaissance.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108021818id_/http%3A//www.renaissance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renaissance.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628032125id_/http%3A//www.renaissance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Renaissance
 
-**Revision date: September 26, 2016**
-
-Renaissance Learning, Inc. and its subsidiaries (collectively, “ **Renaissance** ”) consider the privacy and security of visitors to our website to be of paramount importance. We have developed this privacy policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information and non-personal information we receive from users of [www.renaissance.com](http://www.renaissance.com/) or related Renaissance websites where this Privacy Policy appears (collectively, the “ **Website** ”).
+Renaissance Learning, Inc. and its subsidiaries (collectively, “ **Renaissance** ”) consider the privacy and security of visitors to our website to be of paramount importance. We have developed this privacy policy to inform you of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information and non-personal information we receive from users of [www.renaissance.com](http://www.renaissance.com/) or related Renaissance websites where this Privacy Policy appears, including users accessing such website through content provided via emails from Renaissance (collectively, the “ **Website** ”).
 
 Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at <https://www.renaissance.com/terms-of-use>.
 
  **Note to Parents of Students who use Renaissance’s Products**
 
-This Privacy Policy applies to this Website and is not related to software applications we may provide to your child’s educational institution ( _e.g._ , Accelerated Reader, STAR 360, etc.). Please note that the collection, input, use, retention, disposal, and disclosure of any private information in our software applications are controlled solely by your child’s educational institution. Renaissance cannot delete, change, or divulge any information from our software applications controlled by your student’s educational institution. For a general overview of Renaissance practices with respect to our Software Applications and the privacy of all student data, refer to the [FAQ document](http://doc.renlearn.com/KMNet/R0057975B6DA9119.pdf) or [Renaissance Products Privacy Policy](http://www.renaissance.com/wp-content/uploads/2016/10/Renaissance-Applications-Privacy-Policy-92616.pdf). To the extent you have questions regarding the privacy associated with the applications provided by your educational institution, please contact that institution. 
+This Privacy Policy applies to this Website and is not related to software applications we may provide to your child’s educational institution ( _e.g._ , Renaissance Accelerated Reader®, Renaissance Star 360®, etc.). Please note that the collection, input, use, retention, disposal, and disclosure of any private information in our software applications are controlled solely by your child’s educational institution. Renaissance cannot delete, change, or divulge any information from our software applications controlled by your student’s educational institution. For a general overview of Renaissance practices with respect to our software applications and the privacy of all student data, refer to the [FAQ document](http://doc.renlearn.com/KMNet/R0057975B6DA9119.pdf) or [Renaissance Products Privacy Policy](http://doc.renlearn.com/KMNet/R60990.pdf). To the extent you have questions regarding the privacy associated with the software applications provided by your educational institution, please contact that institution. 
 
  **Information Collected on this Website**
 
@@ -26,29 +24,23 @@ We use a variety of third-party service providers to help provide the Website an
 
 Renaissance does not rent or sell personally identifiable information and non-personally identifiable information to other companies. Instead, we use information collected via the Website in the following ways:
 
-· Contact you when necessary;
+  * Contact you when necessary;
+  * Respond to you regarding information you have requested;
+  * Communicate with you regarding Renaissance or the Website;
+  * Provide you with customized content and advertising for various products or services;
+  * Administer the Website, monitor its usage, and diagnose problems with it;
+  * Remember you when you return to the Website, so that you don't have to re-submit information and preferences;
+  * Contact you with information and promotional materials and offers from us as well as from our affiliates, partners and other third parties, if you have agreed to receive such communications;
+  * Conduct research to improve our content and services; and
+  * To protect the security or integrity of the Website and our business.
 
-· Respond to you regarding information you have requested;
 
-· Communicate with you regarding Renaissance or the Website;
 
-· Provide you with customized content and advertising for various products or services;
-
-· Administer the Website, monitor its usage, and diagnose problems with it;
-
-· Remember you when you return to the Website, so that you don't have to re-submit information and preferences;
-
-· Contact you with information and promotional materials and offers from us as well as from our affiliates, partners and other third parties, if you have agreed to receive such communications;
-
-· Conduct research to improve our content and services; and
-
-· To protect the security or integrity of the Website and our business.
-
-In addition to the examples above, Renaissance may use third-party storage or service-provider companies to perform some functions including the processing of data. Renaissance may also disclose information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law.
+In addition to the examples above, Renaissance may use third-party storage, analytics, credit card processing companies, hosting companies, email service providers, marketing service providers, or Internet service-provider companies to perform some functions including the processing of data. Renaissance may also disclose information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify you of such compliance with the law.
 
 Renaissance may sell, transfer, or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-We have the right, but not the obligation, to: (1) retain your personally identifiable information for as long as your account is active or as needed to provide you services or access to or use of the websites; and (2) retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. **We have the right, but not the obligation, to retain your non-personal information whether your account is active, inactive, or deactivated.**
+We have the right, but not the obligation, to: (1) retain your personally identifiable information for as long as your account is active or as needed to provide you services or access to or use of the Website; and (2) retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. We have the right, but not the obligation, to retain your non-personal information whether your account is active, inactive, or deactivated.
 
  **Do Not Track**
 
@@ -60,7 +52,7 @@ Subject to the usage of the third-party service providers discussed above, we do
 
  **Children’s Personally Identifiable Information**
 
-We do not direct the Website to nor do we knowingly collect any personally identifiable information from children under 13 (“children’s personally identifiable information”). **Children under the age of 13 are specifically requested to NOT provide any personally identifiable information through this Website.  **If you become aware that a child has provided us with personally identifiable information without parental consent, please contact us at [privacy.officer@renaissance.com](mailto:privacy.officer@renaissance.com). If we become aware that a child under 13 has provided us with personally identifiable information, we take commercially reasonable steps to remove such information and terminate the child's account. To view our Children’s Privacy Policy, [click here](http://www.renaissance.com/wp-content/uploads/2016/10/RLI-Childrens-Privacy-Policy-9262016.pdf).
+We do not direct the Website to nor do we knowingly collect any personally identifiable information from children under 13 (“children’s personally identifiable information”).  **Children under the age of 13 are specifically requested to NOT provide any personally identifiable information through this Website.  **If you become aware that a child has provided us with personally identifiable information without parental consent, please contact us at [privacy.officer@renaissance.com](mailto:privacy.officer@renaissance.com). If we become aware that a child under 13 has provided us with personally identifiable information, we take commercially reasonable steps to remove such information and terminate the child's account. To view our [Renaissance Products Privacy Policy](http://doc.renlearn.com/KMNet/R60990.pdf).
 
  **Cookies**
 
@@ -94,15 +86,15 @@ Your information may be transferred to—and maintained on—computers located o
 
  **EU – U.S. Privacy Shield**
 
-Renaissance participates in and complies with the EU-U.S. Privacy Shield Framework (the “Framework”). Renaissance has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit <https://www.privacyshield.gov/>. To view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
+Renaissance participates in and complies with the EU-U.S. Privacy Shield Framework (the “Framework”). Renaissance has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, visit <https://www.privacyshield.gov/>. To view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
 Renaissance is responsible for the processing of personal data it received, under the Framework. For personal data transferred from the EU, if Renaissance transfers your personal data to a third party, Renaissance will ensure that the third party is contractually obligated to process your data only for limited, specific purposes consistent with this Policy. Renaissance will also ensure that the third party will apply the same level of protection to that data as the EU-U.S. Privacy Shield Principles and will notify us if it makes a determination that it can no longer meet this obligation. Renaissance also complies with the Privacy Shield Principles for the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Framework, Renaissance is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Renaissance may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In compliance with the EU-U.S. Privacy Shield, Renaissance strives to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Privacy Shield program or have a complaint, please send an email to [privacy.officer@renaissance.com](mailto:privacy.officer@renaissance.com). If you have any unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider [JAMS](https://www.jamsadr.com/eu-us-privacy-shield).
+In compliance with the EU-U.S. Privacy Shield, Renaissance strives to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Privacy Shield program or have a complaint, please send an email to [privacy.officer@renaissance.com](mailto:privacy.officer@renaissance.com). If you have any unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider [JAMS](https://www.jamsadr.com/eu-us-privacy-shield).
 
-Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
  **Links to Other Websites and Services**
 
