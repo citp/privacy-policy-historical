@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123080714id_/http%3A//www.theouterhaven.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628072939id_/http%3A//www.theouterhaven.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+(Updated 7/2016)
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information. The information that we collect about our visitors falls into several general categories: 1. Information You Provide to Us. We may collect and store information, personal or otherwise, that you voluntarily supply to us either on the The Outerhaven Productions, via e-mail, or in any other way. Some examples of this type of information include the information you submit (such as your name or e-mail address) when you submit information that you post on blog entry comment, and information contained in search requests or questions you submit to the site. If you decline to supply or provide us with certain information, we may not be able to provide you with some services that are dependent on the collection of this information. 2. Information that is Automatically Collected. We also collect and store information that is generated automatically as you navigate through the Outerhaven Productions.
 
