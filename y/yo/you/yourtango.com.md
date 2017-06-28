@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050247id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045101id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
 
 # Tango Publishing Corp Privacy Policy – Updated 2014 | YourTango
 
@@ -119,6 +119,6 @@ We reserve the right to change this policy at any time. Please check this page p
 If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website (including your choices regarding cookies), please contact us at [webmaster@yourtango.com](mailto:webmaster@yourtango.com), or send mail to:
 
  **Tango Publishing Corporation  
-236 West 27th Street, 8th Floor  
-New York, NY 10001  
+101 West 79th Street, Suite 2A  
+New York, NY 10024  
 Attn:  General Counsel**
