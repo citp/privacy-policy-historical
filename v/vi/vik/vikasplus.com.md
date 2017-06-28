@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikasplus.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625081431id_/http%3A//vikasplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikasplus.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628210244id_/http%3A//vikasplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vikas Plus
 
@@ -16,4 +16,4 @@ We are in the forefront of the critical issue of privacy. Some of the third-part
 
 We are not responsible for republished content from this blog on other blogs or websites without our permission.
 
-This privacy policy is subject to change without notice and was last updated on – Oct 24, 2015
+This privacy policy is subject to change without notice and was last updated on – Dec 20, 2016
