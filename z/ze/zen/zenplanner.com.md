@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820135116id_/https%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628101003id_/https%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
 
 # Zen Planner Privacy Policy
 
@@ -42,4 +42,4 @@ Additionally, we also encourage visitors to explore the Google Analytics opt-out
 
 In all things, we constantly aim to do the right thing, and to do better than in the past. If we need to update this policy, we will do so to be more clear, open, and honest with you. Such modification will be effective upon its posting to our website; it is therefore important that you review this policy regularly.
 
-Copyright All Rights Reserved © 2016
+Copyright All Rights Reserved © 2017
