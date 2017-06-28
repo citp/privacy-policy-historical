@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcunderwear.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928184406id_/http%3A//abcunderwear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcunderwear.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628042901id_/http%3A//abcunderwear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ABCunderwear.com Privacy Policy
 
