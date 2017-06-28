@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222044414id_/http%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628051442id_/http%3A//hip2save.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Hip2Save
 
@@ -65,3 +65,15 @@ Boise, ID 83702
 Email: bryn@hip2save.com
 
 _This policy was lasted updated on October 26, 2015_
+
+Have you ever had moments when you're either out of time or out of printer ink, or both, and you really want to keep track of a "Hip" deal or print a valuable coupon in the next day or two? _Or_ what do you do when an outstanding, but pricey, deal is posted and you want to save it for discussion with your significant other? Well, now you're in luck! No more searching through pages of posts to find the coupon or the deal. Simply move the post to your Hip List and access it at your convenience.
+
+#### **How Does the Hip List Work?**
+
+It's easy! To use this feature, first [head on over here and register](http://hip2save.com/hiplist-profile/) and log into your Hip2Save.com account. Whenever you find a great deal that you want to come back to later at a later time, just click on the HIP List icon located on each post (see images below) and the information will be saved in your account. To remove a post from your HIP List, just click on the HIP List icon and it will be removed.
+
+When logged into your account, you will see the HIP List icon at the bottom of every post if you are viewing Hip2Save.com in classic view.
+
+If you prefer to view Hip2Save.com in river view, you will see the HIP List icon located on every post above the post title and to the right.
+
+If you're wanting to print a certain deal, blog post, or the Weekly Store Matchups from your HIP list, click on the small blue printer icon in the upper right corner of the HIP list. This will allow you to customize the information that you want or don't want to include when printing from your HIP list so you're only printing the information that's most important to you! If there are deals (or portions of deals) that you are not interested in printing, just click on the red x button to remove them. To restore a section, click on the green arrow icon in the upper right hand corner.
