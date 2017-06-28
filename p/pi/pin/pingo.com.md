@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126181256id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628213244id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -142,7 +142,7 @@ We have designated one or more individuals who monitor Our compliance with this 
 
 **Pingo, Inc.  
 ATTN: Legal Department  
-10 McGuire Road, Building 3  
+10 Maguire Road, Building 3  
 Lexington, MA 02421, USA  
 **
 
@@ -154,7 +154,7 @@ If a Customer or Visitor believes that We have not complied with the terms and c
 
 **Pingo, Inc.  
 ATTN: Legal Department  
-10 McGuire Road, Building 3  
+10 Maguire Road, Building 3  
 Lexington, MA 02421, USA  
 **
 
@@ -166,10 +166,10 @@ Questions or correspondence regarding this Privacy Statement should be directed 
 
 **Pingo, Inc.  
 ATTN: Legal Department  
-10 McGuire Road, Building 3  
+10 Maguire Road, Building 3  
 Lexington, MA 02421, USA  
 **
 
 **_Effective Date_**
 
-**This Privacy Statement is effective as of January 12, 2016.**
+**This Privacy Statement is effective as of October 1, 2016.**
