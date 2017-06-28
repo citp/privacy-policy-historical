@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tradablebits.com privacy policy that was archived on 2016-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161024070355id_/http%3A//tradablebits.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradablebits.com privacy policy that was archived on 2017-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628164140id_/http%3A//tradablebits.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml"><head itemscope="" itemtype="http://schema.org/WebPage">
     <meta charset="UTF-8">
@@ -32,14 +32,18 @@
     <link href="https://plus.google.com/103549598322747279549" rel="publisher">
     <link href="/static/css/global.css" rel="stylesheet" type="text/css">
     <link href="/static/css/main-site.css" rel="stylesheet" type="text/css">
-    <link href="/static/css/tb_glyphicons.css" rel="stylesheet" type="text/css">
+    <link href="/static/css/tbits-font.css" rel="stylesheet" type="text/css">
     <title>Tradable Bits Privacy Policy</title>
 
     
-        
-<link rel="stylesheet" href="/static/cache/styles/tb_imports-0e91868b1b0e.css">
+        <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/glyphicons/regular/css/glyphicons.min.css">
 <link rel="stylesheet" href="/static/css/bootstrap-add.css" type="text/css">
 <link rel="stylesheet" href="/static/css/global.css" type="text/css">
+<link rel="stylesheet" href="/static/css/tb_generic.css" type="text/css">
+<link rel="stylesheet" href="/static/css/tb_appearance.css" type="text/css">
+
+
 
     
 
@@ -98,11 +102,12 @@
         }
     </style>
 
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NFJDRN"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/jquery/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/jquery/jquery-3.2.1.js"></script>
     <script src="/static/bootstrap/js/bootstrap.min.js"></script>
     <script src="/static/js/libs/underscore.js"></script>
     <script type="text/javascript" src="/static/tbits-1.2.js"></script>
     <meta name="google-site-verification" content="PlLTi7mDj5o3wFeF3fbuP1l86vZj7r6epp_f4sNW3ng">
+
 </head>
 
 <body>
@@ -110,19 +115,20 @@
 <script type="text/javascript">
     $(document).ready(function () {
         try {
-            
-                FB.init({
-                    appId: 111984122188978,
-                    status: false,
-                    cookie: true,
-                    xfbml: true,
-                    oauth: true,
-                    channelUrl: '/static/FBchannel.html',
-                    version: "v2.7"
-                });
-            
+            try {
+                if (FB) {
+                    
+                        FB.init({
+                            appId: 111984122188978, status: false, cookie: true,
+                            xfbml: true, oauth: true, channelUrl: '/static/FBchannel.html', version: "v2.9"
+                        });
+                    
+                }
+            } catch (ReferenceError) {
+                $("#fbsdk-warning").show();
+                return false;
+            }
         } catch (error) {
-
         }
     });
 </script>
@@ -139,7 +145,6 @@
         alert("unable to load jquery library");
     }
 </script>
-
 
 <div class="wrapper">
     <div class="tbits-main-container">
@@ -158,7 +163,7 @@
 
             <div class="account">
                 <a class="home-link hidden-sm hidden-xs" href="https://tradablebits.com/">
-                    TRADABLE BITS HOME <i class="glyphicon glyphicon-chevron-right"></i>
+                    TRADABLE BITS HOME <i class="glyphicons glyphicons-chevron-right"></i>
                 </a>
             </div>
             <div class="" id="tbits-navbar-collapse">
@@ -176,6 +181,8 @@
         
 
         <div class="content">
+
+
             
                 <div class="container">
                     
@@ -324,13 +331,12 @@
             <div class="row">
                 <div class="col-sm-3 col-xs-4">
                     <h4>Our Company</h4>
-                    <a href="/stories">why tradable bits</a>
-                    <a href="/support">support</a>
+                    <a href="/about">why tradable bits</a>
+                    <a href="/contact">contact</a>
                     <a href="http://tradablebits.com/blog" target="_blank">Blog</a>
-                    <a href="/pricing">pricing</a>
                     <a href="/careers">careers</a>
                     <a href="/branding">Branding Assets</a>
-                    <a class="contact-toggle">contact us</a>
+                    <a class="/contact">contact us</a>
                 </div>
                 <div class="col-sm-3 col-xs-4">
                     <h4>Our Platform</h4>
@@ -393,7 +399,7 @@
                         <img alt="" src="/static/images/tradablebits-logo-text.png">
                     </div>
                     <div class="copyright-text pull-right">
-                        <span class="hidden-xs">Handcrafted in Vancouver, BC Canada.</span> © 2016 TradableBits Media
+                        <span class="hidden-xs">Handcrafted in Vancouver, BC Canada.</span> © 2017 TradableBits Media
                         Inc.
                         All rights reserved.
                         <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms</a>
@@ -402,11 +408,6 @@
             </div>
         </div>
     </div>
-    <script>
-        $("body").on("click", ".contact-toggle", function () {
-            buildModal(true);
-        });
-    </script>
 
 
 
@@ -488,30 +489,6 @@
 
 <script type="text/javascript">
 
-    function loadTemplate(templateName, path, success, error) {
-        var template = $('#' + templateName);
-        if (template.length === 0) {
-            var tmpl_string = '';
-
-            $.ajax({
-                url: path,
-                method: 'GET',
-                async: false, //If there is are callbacks, then make it async
-                contentType: 'text',
-                success: function (data) {
-                    tmpl_string = data;
-                    success && success(data);
-                },
-                error: function (data) {
-                    error && error(data);
-                }
-            });
-
-            $('head').append('<script id="' +
-                    templateName + '" type="text/template">' + tmpl_string + '<\/script>');
-        }
-    }
-
     $(function () {
         // navigating back leaves this class on contend div
         $('.wrapper').removeClass('open-drawer');
@@ -543,12 +520,12 @@
 
     function animate() {
         var $hambuger = $('#drawer-toggle')
-                , $menu = $('.tbits-navbar-collapse')
-                , $container = $('.content')
-                , $wrapper = $('.wrapper')
-                , $overlay = $('#overlay')
-                , isOpen = $hambuger.prop('checked')
-                , width = 180;
+            , $menu = $('.tbits-navbar-collapse')
+            , $container = $('.content')
+            , $wrapper = $('.wrapper')
+            , $overlay = $('#overlay')
+            , isOpen = $hambuger.prop('checked')
+            , width = 180;
 
         $wrapper.toggleClass('open-drawer');
 
@@ -597,24 +574,9 @@
 
 </script>
 
-<!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFJDRN"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>(function (w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-        'gtm.start': new Date().getTime(), event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-NFJDRN');</script>
-<!-- End Google Tag Manager -->
+
+
+
 
 
 
