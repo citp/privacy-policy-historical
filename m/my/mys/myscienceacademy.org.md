@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myscienceacademy.org privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211170942id_/http%3A//myscienceacademy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscienceacademy.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628210508id_/http%3A//myscienceacademy.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | MyScienceAcademy
+# Privacy policy — MyScienceAcademy
 
 **Introduction**
 
