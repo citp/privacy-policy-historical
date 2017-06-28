@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227054653id_/http%3A//katu.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628114301id_/http%3A//katu.com/station/privacy) for the most accurate reproduction.*
 
 # Portland Privacy | News, Weather, Sports, Breaking News | KATU
 
