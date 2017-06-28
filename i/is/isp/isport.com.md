@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223192647id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628221624id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iSport.com
-
-By using or accessing [www.iSport.com](http://www.isport.com/) (the “Site”), you are accepting the practices described in this Privacy Policy. [iSport.com](http://www.isport.com/) (110 Rio Robles, San Jose, California 95134) has been awarded TRUSTe's Privacy Seal, signifying that this privacy policy — which contains the company’s practices — has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html). These requirements include transparency, accountability, and choice regarding the use of your personal information. 
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com). If you are not satisfied with our response, you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information that is collected through this website. It does not cover information that may be collected through software downloaded from the site. 
 
 ## The Information We Collect
 
