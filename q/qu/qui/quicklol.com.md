@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206101656id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicklol.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628094618id_/http%3A//quicklol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Quick LOL.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://quicklol.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Quick LOL.com.
+This Privacy Policy governs the manner in which QuickLOL.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://quicklol.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Quick LOL.com.
 
 ## Personal identification information
 
