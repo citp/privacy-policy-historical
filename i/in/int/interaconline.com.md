@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the interaconline.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110853id_/https%3A//www.interac.ca/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaconline.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628221619id_/http%3A//interac.ca/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Interac - Privacy Policy
 
-This Privacy Policy describes how Interac Association, Interac Inc. and Acxsys Corporation (collectively " **we** " or " **us** ") collect, use and disclose personal information transmitted by visitors to our website located at www.interac.ca, online and mobile versions (referred to together as our “ **sites** ”) and from individuals with whom we deal offline(" **you** " or " **your** ").
+This Privacy Policy describes how Interac Association, Interac Inc. and Acxsys Corporation (collectively " **we** " or " **us** ") collect, use and disclose personal information transmitted by visitors to our website located at www.interac.ca, and users of the Acxsys Innovation Hub (“Hub”) located at developer.interac.ca, and the online and mobile versions, (referred to together as our “ **sites** ”) and from individuals with whom we deal offline (" **you** " or " **your** ").
 
 ### Consent
 
-This Privacy Policy outlines what personal information is collected and why, how it is used and when it is disclosed.
+This Privacy Policy outlines what personal information is collected and why and how it is used and disclosed.
 
-By visiting our sites and/or by providing us with your personal information, you consent to our collection, use and disclosure of your personal information for the purpose for which it was collected, as described in this Privacy Policy, as amended from time to time, or as identified by us to you at the time of collection. If you do not wish to have your personal information to be collected, used or disclosed in this manner, then please either (1) do not use our sites and/or submit your personal information to us, or (2) exercise opt-out procedures described herein or that may be offered at the time of collection. Please note that while you may opt-out or withdraw consent to the collection, use or disclosure of your personal information to us, as a result, you may no longer be able to use features of the sites upon which such information depends.
+By visiting our sites and/or by providing us with your personal information, you consent to our collection, use and disclosure of your personal information for the purpose for which it was collected, as described in this Privacy Policy, as amended from time to time, or as identified by us to you at the time of collection. If you do not wish to have your personal information collected, used or disclosed in this manner, then please either (1) do not use our sites and/or submit your personal information to us, or (2) exercise opt-out procedures described herein or that may be offered at the time of collection. Please note that while you may opt-out or withdraw consent to the collection, use or disclosure of your personal information to us, as a result, you may no longer be able to use features of the sites upon which such information depends.
 
 Subject to any legal restrictions and reasonable notice, you may withdraw your consent to our retention, use or disclosure of your personal information by contacting us at the address provided below.
 
@@ -21,7 +21,9 @@ We only use the personal information you provide to us for the purposes for whic
 
 If you send us a query, we will collect your personal information to establish your identity and respond to your questions, comments or concerns or take other actions in response to your query. If you advise us that your query relates to a particular Interac Association member or a participant in Acxsys Corporation’s services we may, unless you instruct otherwise, disclose your personal information you provide to us to that organization so that it may respond to you directly. Please do not include any of your banking or other financial information in your communications with us.
 
-We consider your personal information confidential and we do not sell it to others. If you choose to receive them, we may periodically send you email messages describing updates, new features, or promotional offers related to our sites and services/products. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email, or send a reply stating your request. If you do not explicitly choose to receive informational emails, the only email messages you will receive from us will be to respond to email inquiries that you send us.
+If you are a user of the Hub, we may collect your personal information in order to provide access to the Hub, operate the user forum and facilitate management of users’ accounts (e.g. collection of a user’s name and e-mail address in order to allow us to create a login and password for the Hub).
+
+We consider your personal information confidential and we do not sell it to others. We may disclose your personal information to our third party service providers, provided that the applicable third parties are bound by an agreement to protect such information and only use it in accordance with the terms of this Privacy Policy. If you choose to receive them, we may periodically send you email messages describing updates, new features, or promotional offers related to our sites and services/products. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email, or send a reply stating your request. If you do not explicitly choose to receive informational emails, the only email messages you will receive from us will be to respond to email inquiries that you send us.
 
 ### Use of 'Cookies'
 
@@ -33,7 +35,7 @@ We also use Google Analytics for user level tracking and you are subject to thei
 
 ### Sites Aggregate Data
 
-Our sites automatically collect certain information from visitors to our sites, namely IP addresses, information regarding the type of Internet browser and operating system used, and the domain name of the website or advertisement from which the visitors have linked to our sites (if applicable). We render this information anonymous and retain it in aggregate form to measure usage of the sites, including but not limited to the total number of visits, average time spent on the sites, and pages viewed, both in real-time, and within a certain historical time frame. We use this aggregated information to improve the utility, security, content and user   
+Our sites automatically collect certain information from visitors to our sites, namely IP addresses, information regarding the type of Internet browser and operating system used, and the domain name of the website or advertisement from which the visitors have linked to our sites (if applicable). If you choose to register for the Hub, you may be asked to provide optional information such as the name of the business you work for and/or the industry you work in. We render all of this information anonymous and retain it in aggregate form to measure interest in the Hub, usage of the sites, including but not limited to the total number of visits, average time spent on the sites, and pages viewed, both in real-time, and within a certain historical time frame. We use this aggregated information to improve the utility, security, content and user   
 experience of our sites.
 
 ### Retention Of Personal Information
@@ -80,4 +82,4 @@ M5J 2J1
 
 privacy@interac.ca
 
-This Privacy Policy was last updated on February 4, 2013.
+This Privacy Policy was last updated on October 6, 2016.
