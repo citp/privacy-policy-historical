@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605064542id_/http%3A//www.pbr.com/en/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628134139id_/http%3A//www.pbr.com/en/about/privacy.aspx) for the most accurate reproduction.*
 
 # Professional Bull Riders - Privacy Policy
 
