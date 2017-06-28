@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngsterchoice.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027090552id_/http%3A//youngsterchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngsterchoice.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628045438id_/http%3A//youngsterchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,4 +56,4 @@ You  must signify your acceptance of this policy.by using this website. If you 
 
 **Contact us**
 
-If you have any question regarding our website then you can contact me at **samaksharora99@gmail.com**
+If you have any question regarding our website then you can contact us at **samaksharora@youngsterchoice.com**
