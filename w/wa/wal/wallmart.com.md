@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231195450id_/https%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628162312id_/https%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
 
 # Walmart Privacy Policy
 
