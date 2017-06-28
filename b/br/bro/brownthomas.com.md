@@ -1,154 +1,41 @@
-> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002233812id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628111504id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy-cookie-policy.html) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy at Brown Thomas
-
-  1. We really value your privacy and would like to outline our website’s Privacy Policy so you understand how we will use any personal information. By using the Brown Thomas website or by registering as a user of any services provided by Brown Thomas you agree to our use of your data as set out below.
-  2. We will respect your right to privacy. We will treat as confidential all of the personal information you give to us when you register with us using the facility on this website. This includes your name, address, email address, telephone contact number(s) and gender, date of birth, Brown Thomas MasterCard details, loyalty card details and payment details.
-  3. We will also gather non personal information on an aggregate basis to monitor the performance of this website and for other marketing activities.
-  4. When you register with the Brown Thomas website you will be asked to provide certain information. We will store this data and hold it on computers or in manual files. We will use this data to fulfil our agreement with you. Please note that, to provide some of our services, we may require further details from you.
-
-
-
-> **We may use information that you provide or that is obtained by us to :**
-
-  1. Register you on our website and to administer our website services;
-  2. Administer any prize draws or competitions you may enter;
-  3. Carry out assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer, and to enable us to provide you with information about our products and services that we think are relevant to you through our marketing activities.
-  4. Keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods: email; telephone (including automated calls); SMS text message and other electronic messages such as picture messaging; post; fax or otherwise including products and services of other companies and organisations, which we consider may be of interest to you. You will be asked to opt-in if you wish to receive these. 
-
-
-  5. Brown Thomas will only share your individual personal information with our carefully selected agents, such as Teamskill and Naragansett Technologies, for the purpose of storing and administering the information.
-  6. We may share your data with carefully-selected and monitored third parties for marketing purposes but only after we have obtained your consent to do so. However, we may share non personal aggregate statistical data with third parties without your consent.
-  7. We will use internal and external validation and fraud checking systems to verify your identity.
-  8. Your Personal Information is protected by the Data Protection Acts 1998 and 2003. You have the right to request in writing a copy of the personal information held by us and to request us to correct any inaccurate information. We may charge a €6.35 fee for providing the Personal Information to you. Please write to CRM Dept, Brown Thomas & Co Limited, 88-95 Grafton Street, Dublin 2.
-  9. You have the right at any time to request us to stop sending you marketing information. Please write to the CRM Dept, Brown Thomas & Co Limited, 88-95 Grafton Street, Dublin 2.
-  10. If you have any objections to us making such use of your personal data please let us know in writing by contacting the CRM Dept, Brown Thomas & Co Limited, 88-95 Grafton Street, Dublin 2.
-
-
-
-### What are cookies? __
-
-A cookie is a small amount of data that is sent to your browser from a website’s computers and stored on your computer’s hard drive. On the Brown Thomas website we use cookies to understand site usage, to improve the content and keep track of what you have put in your Shopping Bag.
-
-In order to be able to purchase products on Brown Thomas website, you will need to have cookies enabled. You will still be able to browse our site if you disable cookies but certain features, including purchasing products, will not be available. Most web browsers have cookies enabled, but to check your cookie settings, check ‘Managing cookies.’
-
-We work with several marketing agents who may also set cookies during your visit to be used for remarketing purposes. This means that once you have left our website, you may see adverts promoting products similar to what you viewed on Brown Thomas website. If you’d like to opt out of this type of remarketing, please go to the Network Advertising Initiative website.
-
-### What is our cookie policy? __
+# Privacy & Cookie Policy
 
 For the full Brown Thomas website experience, to be able to purchase online and to make full use of personalised features, your computer or mobile phone will need to accept cookies. We use the information from cookies to improve your customer experience and offer you products we think you will like.
 
-Our cookies don’t store sensitive information such as your name, address or payment details but they allow us to access this information once you have signed in to your account. If you’d prefer to restrict or delete cookies from Brown Thomas website, you can use your browser to do this. Simply check the ‘Help’ menu of your particular browser to learn how to change __ your cookie preferences.
+Our cookies don’t store sensitive information such as your name, address or payment details but they allow us to access this information once you have signed in to your account. If you’d prefer to restrict or delete cookies from Brown Thomas website, you can use your browser to do this. Simply check the ‘Help’ menu of your particular browser to learn how to change your cookie preferences.
 
-### Cookies __
+We offer an extensive range of beauty, accessories and fashion brands to buy online. We use the information that you provide to:
 
-Please see below the associated cookies we use, we have outlined, for your reference, what they are and what they do.
-
-**_Adtrack, Affliate, TD Cookies_**  
-These cookies show us how you found our website and which website you came from. This helps us know which of our online marketing channels is most effective. They also allow us to reward some external websites for directing you to us
-
-**_AJAXA Cookie_**  
-We use this to determine if your web browser supports some of the features of our checkout that make checkout quicker and easier to complete.
-
-**__utma, _utmz, _ga, _gat_**  
-These cookies enable the function of Google Analytics Software. This software helps us to take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.The data stored by these cookies can be seen only by the relevant teams at Brown Thomas and Google and never shows any confidential information. 
-
-**_peerius_ct, peerius_rid, peerius_sess, peerius_user_**  
-These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed and purchased.
-
-**_locn_**  
-This cookie appears on all originating pages with first party access, it is used to collect region codes and setting user regions. It never expires.
-
-**_Lang_**  
-This cookie appears on all originating pages with first party access, it is used to collect language code and setting display language. It never expires.
-
-**_RFID_**  
-This cookie appears on to “Add to basket/log in” pages with first party access, it is used to collect user reference id + verification hash collected, for the purpose of session control. It never expires.
-
-**_SID_**  
-This cookie appears on first page visited with first party access, it is used to collect session ID for the purposes of session control. It never expires.
-
-**_RVI_**  
-This cookie appears on “Viewing items” page with first party access, it is used to collect lists of recently viewed items for the purposes of displaying “recently viewed items” panel. It expires in one week.
-
-**_vbmprods_**  
-This cookie appears on “Viewing items” page with first party access, it is used to collect lists of recently viewed items for the purposes of displaying “recently viewed items” panel. It expires in one week.
-
-**_vbmtracker_**  
-This cookie appears on “Viewing items” page with first party access, it is used to collect lists of recommended items tracking codes for purposes of building “recommended items” data. It expires in one week.
-
-**_newCurr_**  
-This cookie appears on “Viewing currency exchange rates” page with first party access, it is used to collect data on currency to rate against in order to provide an exchange rate. It expires in one week.
-
-**_referid_**  
-This cookie appears on first page visited with first party access, it is used to refer data to track sites that link to Venda. It expires in two days.
-
-**_httprefer_**  
-This cookie appears on first page visited with first party access, it is used to refer data to track sites. It expires in two days.
-
-**_Setview_**  
-This cookie appears on “Product list/search list” page with first party access, it is used to keep user’s preference for the product information display page. It expires in one week.
-
-**_setViewPerPage_**  
-This cookie appears on “Product list/search list” page with first party access, it keeps user’s preference for the number of products to view per page. It expires in one week.
-
-**_RSI_**  
-This cookie appears on “Search page” with first party access, it keeps the last three keyword searches for the purpose of displaying the last three key words so users can quickly go back to them. It expires in one day.
-
-**_Tracking Tags_**  
-This cookie appears on various pages with first and third party access, it is collected for analytical services. It is not disclosed.
-
-**_Quench_**  
-This cookie appears on all pages with first party access, it collects managing performance on the Venda platform. It expires at the end of the browser session.
-
-### Controlling the use of Cookies __
-
-To get the most out of your experience on the Brown Thomas website cookies should be enabled. Most web browsers are automatically set to accept cookies with the standard installation settings. If cookies are not set to work on your browser the result could mean the performance of this website will be affected and will also restrict your usage of this website which may mean you are unable to purchase items from us.  
-It is possible to check to see if cookies are enabled specifically for PCs by doing the following for each browser type;
-
-**Microsoft Internet Explorer versions 6.0, 7.0, 8.0, 9.0**
-
-  * Click on 'Tools' at the top of your browser window (use the cog icon in IE 9.0) and select 'Internet options'.
-  * Click on the 'Privacy' tab
-  * Under the Settings section check the level is Sset to Medium or below, which will enable cookies in your browser
-  * Settings above Medium will disable cookies and could cause the site to function not as we would expect.
+  1. Administer our website services including reporting; 
+  2. Offer you a more personalised online experience;
+  3. Inform you of products and services relevant to your needs;
+  4. Let you track items that you purchase online using our secure order tracking service;
+  5. Credit, debit or other payment card verification and screening;
+  6. Safety, security, health, training, administrative and legal purposes; 
+  7. Data matching and dedupe, statistical and market analysis, and marketing information; 
+  8. Advertising and marketing for us, our Group and third parties;
+  9. Studies, research and development; 
+  10. Customer surveys; 
+  11. Customer care;
+  12. Where required by law or in connection with legal proceeding or disputes; 
+  13. Any other uses set out in the terms and conditions for use of our services. For these purposes we may disclose your information to one or more of the other organisations listed in the section called “who we will share your personal information with”.
 
 
 
-**Google Chrome**
+**Registration:** This allows you to become a member of the Brown Thomas Loyalty scheme. Points earned under the scheme may be redeemed against purchases anytime. As a member, you will be the first to hear about our in-store promotions. The information that you provide will allow Brown Thomas to tailor personal invitations to events, previews and fashion shows. 
 
-  * Click on 'Tools' at the top of your browser window and select Options
-  * Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
-  * Now select 'Allow local data to be set'
+Our website offers the facility for you to express your preferences about how you like to reconceive marketing communications from us. You can specify the kind of content that you prefer and how often you would like to receive that content. Brown Thomas will make every effort to fulfil your preferences. However, there may be occasions when we may deem it necessary to send you communications that we feel may be of interest to you but which fall outside your indicated preferences or frequency of contact. You agree that you do not object to us contacting you for purposes other than those indicated in your expressed preferences and at a frequency that may differ from your expressed preference. 
 
+**Tracking:** We collect, and use third parties to collect and share with us, information from lots of visitors to our website. We analyse this non personal information to build up a picture of how people use our website. This helps us improve the services we offer. We may also give anonymous statistics about visitors to other, reputable organisations, but the information we provide will not include details that would allow these organisations to identify you. 
 
+**Advert targeting:** We may use the information you give us about yourself and the information we collect via cookies when you use our online services to build up a picture of your interests. We may then use this information to try to make sure that when we send you marketing communications and when you visit our websites or use our online services, you don't miss offers and information that might interest you. This information may also be used by our third party advertising agencies and networks, to advertise our products and services to you when you visit third party websites and online services. This is called advert targeting or interest-based advertising. For more information on how to reject targeted advertising or interest-based advertising cookies please read our cookie policy. 
 
-**Mozilla Firefox**
+**Social networks:** If you follow us or interact with us on any of our pages on third party social media platforms, such as Instagram, Facebook, Twitter, Pinterest or Google+, the information that you provide will be subject to the third party’s privacy policy, as well as this privacy policy.
 
-  * Click on 'Tools' at the top of your browser window and select Options
-  * Then select the Privacy icon
-  * Click on Cookies, then select 'allow sites to set cookies'
+**Competitions:** When entering any of our contests or prize draws, you provide your name, email address and mailing address. If you win, we will send the prize to the address entered and notify you by email or a phone call. When you enter a contest or prize draw, you have an option to sign up to our newsletter list to receive notice of promotions, specials and new additions to the Website. The winner of the competition consents to the use of their first name and region for publication by Brown Thomas and its related companies, for an unlimited time. Publications include any medium ( internet, print, social media, websites hosted by Brown Thomas and its related companies ). In entering a competition, all entrants consent to same.
 
+**Customer surveys:** Every now and again, we may ask you for your opinion on our services and the products you have purchased through our services. When we do research or surveys, we may use cookies and may combine the information collected by those cookies with your answers. To thank you for sharing your experiences of shopping with us, we may hold a competition draw for small token. If you win, we will send the prize to your registered address entered and notify you by mail. The winner of the competition consents to the use of their first name and region for publication by Brown Thomas and its related companies, for an unlimited time. Publications include any medium (internet, print, social media, websites hosted by Brown Thomas and its related companies). In entering a competition or a survey, all entrants consent to same.
 
-
-**Safari**
-
-  * Click on the Cog icon at the top of your browser window and select the 'Preferences' option
-  * Click on 'Security', check the option that says 'Block third-party and advertising cookies'
-  * Click 'Save'
-
-
-
-If you are using another browser on a smart phone, iphone, tablet or MAC please look at your device to check your cookie settings.
-
-### BrownThomas.com ‘share’ tools __
-
-We know you love to share the great content we have on the Brown Thomas website. Please be aware that social networking sites, like Facebook and Twitter, might send cookies. We don’t control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
-
-### What are third party cookies? __
-
-Sometimes, if you go to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don’t control the setting of these cookies, so we suggest you check the third party websites for more information about their cookies and how to manage them.
-
-### Banner advertising on other websites __
-
-Banner advertising appears on websites that we are affiliated with. We use the information we have learned from cookies to tailor this advertising to things we think you will like, based on your browsing history on the Brown Thomas website. The data contained by these cookies doesn’t contain any personal information.
+You agree that you do not object to us contacting you for any of the above purposes whether by telephone, e-mail or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
