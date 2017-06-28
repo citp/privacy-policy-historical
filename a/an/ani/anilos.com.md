@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014137id_/http%3A//www.anilos.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628021714id_/http%3A//anilos.com/page/privacy_policy) for the most accurate reproduction.*
 
-# Untitled Document
+# Anilos - Privacy Policy
 
 I. General 
 
 A. The operative parties referred to in this policy are COMPANY and you, the user of these sites.  
-1\. D.P.C. Inc, is the publisher and operator of the following websites:
+1\. XFC Inc., is the publisher and operator of the following websites:
 
-• anilos.com 
+• Anilos.com 
 
-Hereinafter D.P.C. Inc, shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to D.P.C. Inc, d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
+Hereinafter XFC Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to XFC Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
 
 2\. You, the User – As the user of these sites, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the sites shall be referred to in applicable second-person pronouns.
 
@@ -79,7 +79,7 @@ We offer our Members the opportunity to access or modify information provided du
 
 XI. Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at support@anilos.com
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at support@nubiles.net.
 
   
 \- End –  
