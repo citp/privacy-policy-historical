@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doublemesh.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013607id_/http%3A//doublemesh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublemesh.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628224131id_/http%3A//doublemesh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Doublemesh
+# Privacy Policy - DoubleMesh
 
 This privacy policy explains what you need to know about how doublemesh uses cookies on the site http://doublemesh.com/ (the “Website”).
 
