@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the indiadesire.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905160937id_/https%3A//indiadesire.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiadesire.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092338id_/https%3A//indiadesire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy || India Desire
-
-| 
-
-### Privacy Policy
-
-  
-
 
 This Privacy Policy governs the manner in which India Desire collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://indiadesire.com](https://indiadesire.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by India Desire.
 
@@ -76,23 +69,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 info@indiadesire.com
 
 This document was last updated on April 08, 2015
-
-Follow us to Stay Updated
-
-Like To Win Rs. 50 Recharge
-
-[ Follow @IndiaDesire ](https://twitter.com/IndiaDesire)
-
-Subscribe us for Alerts
-
-Worry About Privacy?  
-We offer 100% privacy of your Data. It will not be shared with any third party.
-
-| Name: | | *  
----|---|---  
-Email:  | | *  
-*Invalid Email  
-  
-Today's Top Trending Deals @ India Desire
-
-Recent Posts @ India Desire
