@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the survio.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215182627id_/http%3A//www.survio.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survio.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628212438id_/http%3A//www.survio.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Survio.com
 
 Survio recognizes that its customers, visitors, Users, and others who use www.survio.com or other websites owned and/or operated by us (“Survio s.r.o.”) value Their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on Survio websites. We provide this Privacy Policy to help You make an informed decision on whether to use or continue using Survio websites. 
 
-This Privacy Policy is incorporated in the Terms and Conditions and is subject to Survio’s [Terms of Service (TOS)](http://www.survio.com/en/terms-and-conditions). Your use of the Survio sites and all of the personal information You provide on our sites remain subject to the terms of this Privacy Policy, as well as, to Our Terms of Service. 
+This Privacy Policy is incorporated in the Terms and Conditions and is subject to Survio’s [Terms of Service (TOS)](https://web.archive.org/en/terms-and-conditions). Your use of the Survio sites and all of the personal information You provide on our sites remain subject to the terms of this Privacy Policy, as well as, to Our Terms of Service. 
 
 Please note that any image, video, or any other content posted by Users on the Survio Surveys become published content; hence these are not considered “personally identifiable information” and therefore are not subject to this Privacy Policy.
 
