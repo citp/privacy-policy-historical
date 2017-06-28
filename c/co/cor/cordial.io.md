@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cordial.io privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022220225id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cordial.io privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629013846id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cordial.io - An Adaptive Messaging Platform
+# Privacy Policy | Cordial - An Adaptive Messaging Platform powered by Machine Learning
 
 CORDIAL is committed to protecting your privacy. This statement outlines our practices for gathering and disseminating information on the CORDIAL website and/or CORDIAL Services and explains the terms and conditions of your use of the Services. CORDIAL does not sell, rent, or trade the personal information of any of our customers to any third party. Please review our policy and contact us with any questions.
 
@@ -33,3 +33,13 @@ The Services may contain links to other websites or materials posted online. COR
 We take every precaution to protect your information. When you submit information to us, your information is protected both online and offline. Online, we use firewalls, passwords and usernames to protect information. While we strive to protect your privacy and secure your information, we cannot guarantee the security of information sent via your personal Internet connection, and you disclose such information at your own risk.
 
 The servers on which personally identifiable information is stored are kept in a restricted, secure environment, and are professionally maintained.
+
+## EU-US Privacy Shield Principles
+
+In compliance with the Privacy Shield Principles, CORDIAL commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact CORDIAL at:
+
+Cordial Experiences, Inc.   701 B Street, Suite 1000, San Diego, CA 92107
+
+CORDIAL has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit[ http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+In the case a resolution or agreement cannot be reached through the independent dispute resolution mechanism, CORDIAL. commits to binding arbitration at the request of the individual to fully address any complaints.
