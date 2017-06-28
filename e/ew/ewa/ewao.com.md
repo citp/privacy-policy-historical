@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ewao.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123150407id_/http%3A//www.ewao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewao.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628181759id_/http%3A//ewao.com/privacy-policy) for the most accurate reproduction.*
 
-# EWAO Privacy Policy
+# Privacy Policy – EWAO
 
 **Privacy Policy**
 
@@ -70,4 +70,4 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact EWAO at contact@ewao.com
 
-This document was last updated on 11 March 2015
+This document was last updated on 11 March 2017
