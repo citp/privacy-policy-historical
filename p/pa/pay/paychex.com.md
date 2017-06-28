@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043544id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628104236id_/https%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -99,7 +99,7 @@ Keeping your information accurate and up-to-date is very important. You can revi
 
 ## Security Center
 
-For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](http://www.paychex.com/corporate/security/).
+For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](https://web.archive.org/corporate/security/).
 
 ## Changes to This Privacy Statement
 
@@ -109,17 +109,17 @@ If you have any comments, concerns or questions about this Privacy Statement, pl
 
 Last revised date: April 1, 2016
 
-  * [About Us](http://www.paychex.com/corporate/about-us.aspx)
+  * [About Us](https://www.paychex.com/corporate/about-us.aspx)
   * [Office Locations](https://locations.paychex.com/)
-  * [Paychex History](http://www.paychex.com/corporate/history.aspx)
-  * [Privacy Statement](http://www.paychex.com/corporate/privacy.aspx)
-  * [Security Center](http://www.paychex.com/corporate/security/)
-  * [Paychex Charitable Foundation](http://www.paychex.com/corporate/charitable-foundation.aspx)
-  * [Paychex Golf](http://www.paychex.com/corporate/golf.aspx)
+  * [Paychex History](https://www.paychex.com/corporate/history.aspx)
+  * [Privacy Statement](https://www.paychex.com/corporate/privacy.aspx)
+  * [Security Center](https://www.paychex.com/corporate/security/)
+  * [Paychex Charitable Foundation](https://www.paychex.com/corporate/charitable-foundation.aspx)
+  * [Paychex Golf](https://www.paychex.com/corporate/golf.aspx)
 
 
 
-  * [](http://www.paychex.com/ "Home")
-  * [](http://www.paychex.com/login/ "Link to Login")
+  * [](https://www.paychex.com/ "Home")
+  * [](https://www.paychex.com/login/ "Link to Login")
 
 
