@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119145452id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628070011id_/http%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Lung Association
 
