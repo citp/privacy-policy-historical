@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210095214id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.pe.ca privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628194034id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
 
 # Government of PEI: Privacy
 
-[HOME](https://web.archive.org/web/20161210095214id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20161210095214id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
+[HOME](https://web.archive.org/web/20170628194034id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20170628194034id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
 
 Privacy
 
