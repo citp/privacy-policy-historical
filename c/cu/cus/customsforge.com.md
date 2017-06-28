@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013203554id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628041631id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomsForge
 
 Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. This message will be removed once you have signed in.  
-[Login to Account](http://customsforge.com/index.php?app=core&module=global&section=login) [Create an Account](http://customsforge.com/index.php?app=core&module=global&section=register)
+[Login to Account](https://customsforge.com/index.php?app=core&module=global&section=login) [Create an Account](https://customsforge.com/index.php?app=core&module=global&section=register)
 
 ### Learn & Play Rocksmith!
 
@@ -13,10 +13,6 @@ The only thing you need is a legal copy of Rocksmith 2014 w/ a cable. [Click her
   Having trouble logging in or registering? Please click "[Support](http://customsforge.com/page/support.html)" below.
 
   
-
-
-### We're 100% funded by donations. Please keep us running by clicking the link below to donate.
-
   
 
 
