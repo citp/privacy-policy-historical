@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110221754id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628162748id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
 
-# FTC Disclosure & Privacy Policy - EMPTY MIRROR
+# FTC Disclosure & Privacy Policy - Empty Mirror
 
 This page contains the required disclosures for the FTC and Amazon, as well as our privacy policy. 
 
