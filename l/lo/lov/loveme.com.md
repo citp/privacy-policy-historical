@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224104id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628051034id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,21 +36,19 @@ The site is not intended for use by children.
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
-Privacy Policy Coordinator  
-AFA   
-7227 N. 16th Street Suite 240  
-Phoenix AZ 85020  
-_Page last updated December 23rd 2014_  
-
-
-A Foreign Affair
-
+A Foreign Affair   
+CO / Privacy Policy Coordinator  
 7320 N Dreamy Draw Drive  
-Phoenix, Arizona 85020  
-(602) 553-8178  
-fax (602) 468-1119  
-[Contact Us](https://web.archive.org/invar/sendmess/index.php)  
-Copyright © 2016
+Phoenix AZ 85020
 
+_Page last updated March 16, 2017_
+
+[](https://web.archive.org/invar/sendmess/index.php)  
+---  
   
 
+
+THIS PROGRAM IS THE SOLE PROPERTY OF **A FOREIGN AFFAIR** AND MAY NOT BE COPIED   
+IN ANY WAY OR FORM WITHOUT EXPRESS PERMISSION FROM **A FOREIGN AFFAIR**. 
+
+© COPYRIGHT 1996-2017 - ALL RIGHTS RESERVED. 
