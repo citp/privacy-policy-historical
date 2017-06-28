@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228013152id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628044133id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -8,7 +8,7 @@ Zamzar is registered in England as a limited company (number 6463494).
 
 **This policy is effective from 1st September 2006**
 
-**This policy was last modified on 1st September 2016**
+**This policy was last modified on 16th June 2017**
 
    
 
@@ -60,7 +60,8 @@ _qca | These cookies are used to collect information about how visitors use our 
 Zamzar functions | cooktest  
 PHPSESSID  
 uname  
-uid | These cookies are used by us to help manage load to the website (to provide the best possible performance to users), and to allow users to register for Zamzar and login. They do not contain any personally identifiable information. | If you do not wish these cookies to be set then you should not use the Zamzar website. To block cookies from the zamzar.com domain in your web browser you should follow browser instructions at: <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>  
+uid  
+has_converted_file | These cookies are used by us to help manage load to the website (to provide the best possible performance to users), and to allow users to register for Zamzar and login. They do not contain any personally identifiable information. | If you do not wish these cookies to be set then you should not use the Zamzar website. To block cookies from the zamzar.com domain in your web browser you should follow browser instructions at: <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>  
 Third party advertising providers | Various in the _*.tribalfusion.com_  
  _*.doubleclick.net_  
  _*.adnxs.com_  
