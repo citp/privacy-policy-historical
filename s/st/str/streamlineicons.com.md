@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamlineicons.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124095637id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamlineicons.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628083725id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Streamline Icons
 
@@ -48,23 +48,7 @@ This online privacy policy applies only to information collected through our web
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
 
-<http://www.streamlineicons.com/privacy-policy.html>
-
-### Your Consent 
-
 By using our site, you consent to our web site privacy policy.
-
-### Changes to our Privacy Policy 
-
-we decide to change our privacy policy, we will post those changes on this page. 
-
-### Contacting Us 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.   
 
-
-[www.webalys.com ](http://www.webalys%3Ecom/)  
-Suite 2611 Langham Place Office Tower  
-Kowloon 23514 - Hong-Kong   
-Hong-Kong  
-[Contact us by email](mailto:vincent.lemoign@gmail.com)
