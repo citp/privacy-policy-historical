@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chat-work.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042959id_/http%3A//www.chatwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-work.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628030350id_/http%3A//www.chatwork.com/privacy.html) for the most accurate reproduction.*
 
 # ChatWork | Privacy policy
 
 Last Updated: December 26, 2011
 
-ChatWork Inc is committed to protecting your privacy. We hope that you will take the time to read this Privacy Policy, which explains what information we collect from you and how we use that information. By visiting our website or using the ChatWork ™ service (the “service”) you agree to be bound by this Privacy Policy. Please check back frequently, as this Privacy Policy may change from time to time.
+ChatWork Inc. (hereinafter referred to as "ChatWork Inc") is committed to protecting your privacy. We hope that you will take the time to read this Privacy Policy, which explains what information we collect from you and how we use that information. By visiting our website or using the ChatWork ™ service (the “service”) you agree to be bound by this Privacy Policy. Please check back frequently, as this Privacy Policy may change from time to time.
 
 When you visit our website or use the service, ChatWork Inc collects your IP address, which we use to improve our services as well as to help us administer our website and the service and diagnose technical problems. Your IP address may also be used to gather broad demographic information that does not personally identify you. In order to use the service, you must set up an ChatWork Inc account by providing us with your name, email address, company name and a chosen password. We may also collect any information that you may provide to us in response to customer surveys. We may use your e-mail address or your ChatWork account to occasionally notify you about your unread messages, important changes to our website and the service, new features, available upgrades, special offers that you may find useful, or offers from companies with whom we have business relationships.
 
