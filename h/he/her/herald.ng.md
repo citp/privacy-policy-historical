@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herald.ng privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202120501id_/http%3A//www.herald.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ng privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628124352id_/http%3A//www.herald.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 24/7 News updates from Nigeria
+# Privacy Policy - The Herald Nigeria
 
 _The Herald_ may collect information from our users at several different points on the site.  The Herald is the sole owner of the information collected on _  The Herald_ng.com
 
