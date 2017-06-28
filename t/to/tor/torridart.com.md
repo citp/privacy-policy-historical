@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014193408id_/http%3A//www.torridart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torridart.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628111418id_/http%3A//torridart.com/privacy.php) for the most accurate reproduction.*
 
-# Torrid Art Privacy Policy
+# Privacy Policy at Torrid Art
 
-TorridArt.com is an adult membership website. The personal information required for membership is used only to process your payment and establish your membership account. No personal information is acquired from non-members, or visitors, to the site, unless certain information is voluntarily entered into one of the forms on the site. Information entered into these forms is for contact purposes only. TorridArt.com is committed to the privacy and security of personal information. TorridArt.com will never disclose personal information to any party or business entity.
+Welcome to TorridArt.com ("Website", "TA"). Your privacy is very important to us. This Privacy Policy forms part of Website's Terms and Conditions. By using Website, you consent to this Privacy Policy. TA operates by the following principles.
+
+### Personal Information
+
+TA is committed to the privacy and security of personal information. TA will never sell, trade, transfer, or disclose personal information to any party or business entity except as disclosed in this policy. No personal information is acquired from visitors to Website unless certain information is voluntarily entered into one of the forms on the site. Information entered into these forms is for contact purposes only.
 
 ### Spam
 
-TorridArt.com does not engage in spam, or activities that could result in spam. Email addresses collected from site visitors in any way, for example through forms on the site or direct email contact, will never be disclosed to any party or business entity.
+TA does not engage in spam, or activities that could result in spam. Email addresses collected from Website visitors, for example through forms on Website or direct email contact, will never be disclosed to any party or business entity.
 
 ### Newsletter
 
@@ -14,14 +18,8 @@ The Torrid Art Newsletter communicates updates and site news via email to anyone
 
 ### Unsolicited contact
 
-TorridArt.com does not engage in unsolicited contact of members, site visitors or individuals. TorridArt.com will not contact members based solely on their membership status, past or present. TorridArt.com may contact individuals who have voluntarily entered their email address into one of the forms on the site. The purpose of such contact is to answer questions or respond with requested information only; no other contact will be made. Contact will be made via email only. In such cases TorridArt.com will clearly identify themselves and provide email contact information. This policy ensures that TorridArt.com contact only those individuals with an expectation of being contacted.
+TA does not engage in unsolicited contact of Website visitors or individuals. TA may contact individuals who have voluntarily entered their email address into one of the forms on Website. The purpose of such contact is to answer questions or respond with requested information only. No other contact will be made. Contact will be made via email only. In such cases TA will clearly identify themselves and provide email contact information. This policy ensures that TA contact only those individuals with an expectation of being contacted.
 
-### Linked sites
+### Linked Sites
 
-TorridArt.com may have links to other sites which are not owned by TorridArt.com and which may have a different privacy policy than that of TorridArt.com. TorridArt.com is not responsible for loss or damages due to sites linked from TorridArt.com.
-
-### Payment processors
-
-We use CCBill.com as our third-party payment processor. The information collected by CCBill.com is used solely for processing your payment, and the creation and maintenance of your membership account. View the CCBill.com Privacy Policy [ HERE](http://www.ccbill.com/cs/policies/PP-consumer-english.html).
-
-If you have questions or concerns about this privacy policy, you may contact us using the [Feedback form](http://www.torridart.com/contact/).
+Website may have links to other sites which are not owned by TA and which may have a different privacy policy than that of TA. TA is not responsible for loss or damages due to sites linked from Website.
