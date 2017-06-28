@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111232711id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628201326id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Kylie Cosmetics℠ | By Kylie Jenner
 
