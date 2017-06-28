@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230094208id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628205143id_/https%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
 
 # LiveLeak.com - Redefining the Media
 
@@ -104,4 +104,4 @@ We at Liveleak take the online safety of children very seriously. Liveleak's web
 Your Questions or Suggestions Regarding this Privacy Policy.   
   
   
-If you have a privacy concern regarding any Liveleak website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should [contact us here](http://www.liveleak.com/contact_us)
+If you have a privacy concern regarding any Liveleak website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should [contact us here](https://www.liveleak.com/contact_us)
