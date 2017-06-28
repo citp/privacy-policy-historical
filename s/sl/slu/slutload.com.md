@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205150740id_/http%3A//www.slutload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628093023id_/http%3A//www.slutload.com/privacy) for the most accurate reproduction.*
 
 # Free Porn Videos - Upload Free Sex Videos - Slutload.com
 
