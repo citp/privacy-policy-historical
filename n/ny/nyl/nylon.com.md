@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nylon.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210154205id_/http%3A//www.nylon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylon.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628222329id_/http%3A//www.nylon.com/privacy) for the most accurate reproduction.*
 
-# NYLON Media Privacy Policy
+# NYLON · NYLON Media Privacy Policy
 
 Effective: May 18, 2015
 
@@ -85,4 +85,4 @@ Contact Information
 NYLON  
 Attn: Website Privacy  
 110 Greene Street, #600  
-New York, NY 10012 
+New York, NY 10012
