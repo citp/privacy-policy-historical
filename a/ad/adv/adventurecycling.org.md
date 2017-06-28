@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventurecycling.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604045302id_/https%3A//www.adventurecycling.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurecycling.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628024425id_/https%3A//www.adventurecycling.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | Adventure Cycling Association
 
