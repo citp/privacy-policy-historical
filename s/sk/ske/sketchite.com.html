@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sketchite.com privacy policy that was archived on 2016-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161031200834id_/http%3A//www.sketchite.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sketchite.com privacy policy that was archived on 2017-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628141438id_/http%3A//www.sketchite.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -35,36 +35,31 @@
 
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link href="/styletool.css" rel="stylesheet" media="screen">
-		<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/assets/js/jquery.js"></script>
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="/assets/js/jquery.js"></script>
 
 </head>
 <body>
 
 
-		<div id="fb-root"></div>
-		<script>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '202158453626777',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
 
-			window.fbAsyncInit = function() {
-				FB.init({
-					appId      : '146701562156923',
-					channelUrl : '',
-					status     : true,
-					cookie     : true,
-					xfbml      : true
-				});
-
-				sketch.Facebook.initialize();
-			};
-
-			(function(d, debug){
-				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-				if (d.getElementById(id)) {return;}
-				js = d.createElement('script'); js.id = id; js.async = true;
-				js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-				ref.parentNode.insertBefore(js, ref);
-			}(document, /*debug*/ false));
-
-		</script>
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
 
     <div class="navbar navbar-inverse navbar-fixed-top">
