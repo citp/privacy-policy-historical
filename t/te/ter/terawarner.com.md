@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the terawarner.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031000023id_/http%3A//www.terawarner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terawarner.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628042113id_/http%3A//www.terawarner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tera Warner - Detox Solutions for Home, Body & Heart
 
-### Privacy Policy
+When you provide information through this website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this website is subject to this privacy policy.  
 
-When you provide information through this website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to this website is subject to this privacy policy.
 
 We do not collect personally identifiable information about you, except when you provide it to us. For example, if you decide to complete a user registration form or survey, you may be asked to provide certain information such as your contact information (name, e-mail address, mailing address, and telephone number), age group, gender, and areas of interest, and the products you use.
 
@@ -18,6 +17,6 @@ This website may contain links to or from other websites. Please be aware that w
 
 When you place an order via this website, all handling is provided by a secure third-party shopping cart. No financial data is ever stored on this website.
 
-### Opt-Out
+Opt-Out
 
 When you sign up at this website, you may opt out of receiving future communications from us. You may unsubscribe by clicking the "unsubscribe" link at the bottom of any bulk e-mail you receive from us and following the instructions provided.
