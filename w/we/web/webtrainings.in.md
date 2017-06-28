@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrainings.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124180711id_/http%3A//www.webtrainings.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrainings.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629005042id_/http%3A//www.webtrainings.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebTrainings.in
 
