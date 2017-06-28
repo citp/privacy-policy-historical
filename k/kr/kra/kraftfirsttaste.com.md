@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229065406id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628125008id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Kraft Site Privacy Notice - Kraft Recipes
 
@@ -89,7 +89,7 @@ Any information you may disclose on our Site, in blogs, on message boards, in ch
 
 ### Your Choices
 
-You can change your preferences for follow-up contacts by the Kraft Heinz Company. [E-mail us](http://kraftfoods.custhelp.com/app/contact/sa/1) if you wish to take this action or call us at the number listed in the “Contact Us” section below. 
+You can change your preferences for follow-up contacts by the Kraft Heinz Company. [E-mail us](http://kraftfoods.custhelp.com/) if you wish to take this action or call us at the number listed in the “Contact Us” section below. 
 
 If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, [contact us here](https://web.archive.org/registration/OBAuseroptout.aspx). Please allow 10 days for your email to be removed from our marketing database. 
 
