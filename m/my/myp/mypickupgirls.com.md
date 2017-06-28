@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210232120id_/http%3A//mypickupgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628032800id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
@@ -10,4 +10,4 @@ We do not collect any customer information. Please see our payment processor's P
 
 * * *
 
-<<<Back to [My Pickup Girls](http://mypickupgirls.com/ "My Pickup Girls")
+<<< Return to site 
