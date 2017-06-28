@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119115609id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628213308id_/https%3A//www.factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
@@ -202,4 +202,4 @@ Factual’s Site may include social media features. These features may collect i
 
 * ## Factual Contact Information
 
-Please contact Factual, Inc. with any questions or comments about this Privacy Policy or the company’s practices at: Factual Inc., P.O. Box 49348, Los Angeles, CA 90049, by email at privacy@factual.com, or by completing the privacy [contact form](https://www.factual.com/contact#privacy). 
+Please contact Factual, Inc. with any questions or comments about this Privacy Policy or the company’s practices at: Factual Inc., P.O. Box 49348, Los Angeles, CA 90049, by email at privacy@factual.com. 
