@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043238id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103100id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -71,4 +71,4 @@ Whenever Gossip Cop Media changes its privacy policy, we will post those changes
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please contact [info@GossipCop.com](mailto:info@GossipCop.com).
+If you have any questions or suggestions regarding our privacy policy, please contact info@GossipCop.com.
