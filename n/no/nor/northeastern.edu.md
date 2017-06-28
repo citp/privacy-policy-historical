@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northeastern.edu privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226004021id_/http%3A//www.northeastern.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeastern.edu privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628020706id_/http%3A//www.northeastern.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Online Privacy Statement | Northeastern University
 
