@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipwiregames.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029175651id_/http%3A//www.clipwiregames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipwiregames.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629004334id_/http%3A//www.clipwiregames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Clipwire Games
 
@@ -10,7 +10,7 @@ When you play the game, you may be asked to grant personal information. This inf
 
   
  **Information Disclosure**  
-This game will never sell, share or publish any direct information about its users without prior permission of that user. Information such as e-mail addresses are strictly for use of this game and games operated by the operators of this game.
+This game will never sell, share or publish any direct information about its users without prior permission of that user. Information such as e-mail addresses are strictly for use of this game and games operated by the operators of this game, including but not limited to sending you updates about the operators games and services.
 
   
 Under certain circumstances, your personal information collected by this game maybe surrendered to a 3rd party. This includes the following:
