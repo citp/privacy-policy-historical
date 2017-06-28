@@ -1,154 +1,82 @@
-> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722025800id_/https%3A//chatspin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628172254id_/http%3A//www.chatspin.com/privacy) for the most accurate reproduction.*
 
-# Chatspin Webcam Chat for Adults Only » Chatspin
+# Chatroulette - Privacy Policy
 
-Fair Information Practices 
+This privacy policy (the “Privacy Policy”) applies to the ChatSpin Services as provided by Bridgestone International Group, Inc. We have created this Privacy Policy to tell you what information we collect, how we use that information. This Privacy Policy does not address the privacy practices of any third parties that we do not own, control, or are affiliated with. Capitalized terms not defined in this Privacy Policy will have the meaning set forth in our Terms of Use.
 
-Fair information  
-Practices
+By visiting and/or using our Services, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. We encourage you to read the Privacy Policy, and to use the information it contains to help you make informed decisions.
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+INFORMATION WE COLLECT OR RECEIVE
 
+**Information we collect about you**
 
- **What personal information do we collect from the people that visit our blog, website or app?**
+**In General.** We may collect Personal Information, including Sensitive Data, and other information. “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. Sensitive Data includes information, comments or content (e.g. video, profile, comments) that you optionally provide that may reveal personal details to the extent you have chosen. By providing Sensitive Data to us, you consent to the collection, use and disclosure of Sensitive Data as permitted by applicable privacy laws. We may also collect your geolocation information with your consent. We may collect this information through the mobile application, or related online services. By using the Service, you are authorizing us to gather, parse and retain data related to the provision of the Service. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, credit card information, social media user generated data or other details to help you with your experience.
+**Information you provide.** In the course of downloading, installing and using the Services you may be required to provide certain information to enable the functionalities of ChatSpin as an example, your device type or IP address, your operating system and/or browser, cookies or other information. Users are reminded that they control the information they share and are responsible for adjusting settings in the hardware or software they use. 
 
- **When do we collect information?**
+You agree that prior to using our Services, you were given an opportunity to review our privacy policy and you agreed to these terms. To the extent you maintain your settings, you authorized ChatSpin to collect data and information for the purposes of providing this service.
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site.
+During the course of your usage of the Service, in order to access features that may be offered now or in the future, you may be required to provide us with Personal Information which may include your name, e-mail address, physical address, and phone number.
 
- **How do we use your information?**
+You understand and agree that your use of these Service features is at your discretion. It is your decision whether or not to use certain features or functionalities, all such Personal Information is given voluntarily.
 
-  
+Through this service you may stream or otherwise deliver user-generated content, in addition features and functionalities may allow you to create a user profile or post other content. All such features allow you to disclose certain personal information of your choosing. Users agree that the ultimate responsibility for the details, information and/or content they share publicly, with other users is theirs to make. Users are strongly discouraged from sharing financial details, their home address or other sensitive information. Users agree and understand that such information they share is at their discretion, ChatSpin assumes no liability for these personal choices. ChatSpin may chose to take remedial action, at their discretion, when they feel that certain activities violate our terms and conditions, or other laws and regulations.
 
+**Information from other sources.** We, and the third-party service providers, which we may chose to employ, may use analytics services to evaluate and improve user experience through our service. Such data and information will be aggregated, and only used to provide information about your usage, to the extent necessary to provide you with the services you have indicated an interest in.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**Opting Out of Certain Functions.** By adjusting your browser, hardware, or mobile device settings according to the requirements of the manufacturer or carrier, you can disable certain features in your privacy settings. You understand that it is your obligation to make these adjustments to make this decision. You are also advised that if you opt out of any such service, you may not be able to use the full functionality of the Service.
 
- **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+**How we use the information we collect**
 
- **•** To improve our website in order to better serve you.
+**In General.** We may use information that we collect about you to:
 
- **•** To allow us to better service you in responding to your customer service requests.
+  * deliver and improve our services, and manage our business;
+  * provide customer support;
+  * analyze your use of the incorporated Services to develop features and deliver content of interest to you.
+  * to gather analytics information to improve the functionality of the Service.
+  * to verify your eligibility to use certain features of the service, to contact you in reply to your complaints, or to exercise any rights in our Terms of Use.
+  * or to perform functions or services as otherwise described to you at the time of collection.
 
- **•** To administer a contest, promotion, survey or other site feature.
 
- **•** To quickly process your transactions.
 
- **•** To send periodic emails regarding your order or other products and services.
+**With whom we share your information**
 
- **How do we protect visitor information?**
+In addition for sharing listed above to allow functionalities of the Service, you as a user of ChatSpin shall have consented to have your content to appear as viewable by other users of the Service to the degree your settings have authorized.
 
-  
+**Personal information.** We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
+**Service providers.** From time to time, we may employ third party service providers to carry out certain features or functionalities of this service (including, but not limited to, moderation, technical support, or payment processing) these third parties will be required to handle all data and information according to these policies.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+**Other Situations.** We may disclose your information, including personal information:
 
-We do not use an SSL certificate
+In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
 
- **•** We do not need an SSL because:
+When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our terms and policies.
 
-Our site only contains non secure data, all users names, account data and any other important information is not stored on this site.
+**Aggregated and/or non-personal information.** We may use and share non-personal information we collect under any of the above circumstances. We may also share it with affiliates and third parties to develop and deliver targeted advertising on our Service and on websites or applications of third parties, and to analyze and report on advertising you see.
 
- **Do we use 'cookies'?**
+**Children's privacy**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [Privacy@ChatSpin.com.](mailto:Privacy@ChatSpin.com "Contact Us")
 
- **•** Help remember and process the items in the shopping cart.
+**Onward transfer and consent to international processing**
 
- **•** Understand and save user's preferences for future visits.
+We are a growing corporation with users and operations in multiple countries, including the European Union. We have developed data practices designed to assure information is appropriately protected but we ask our Users to be aware of the privacy and data protection laws in the jurisdiction in which they reside. You acknowledge that, the ultimate responsibility for the information you choose to share is yours.
 
- **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+**No Rights of Third Parties**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
+**Application Stores and External Websites or Services**
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+Your app store (e.g., iTunes or Google Play) may collect certain information in connection with your use of the Service, such as Personal Information, Payment Information, Geolocational Information, and other usage-based data. We have no control over the collection of such information by a third-party app store, and any such collection or use will be subject to that third party’s applicable privacy policies.
 
-However, you can still place orders .
+The Service may contain links to third-party websites. We have no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
- **Third Party Disclosure**
+**Changes to This Privacy Policy**
 
-  
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. Any such changes will be posted on the Service. By accessing the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis.
 
+**To Contact Us**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Google**
-
-  
-
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We have not enabled Google AdSense on our site but we may do so in the future.
-
- **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
-
-
- **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
- **•** On our Privacy Policy Page
-
-Users are able to change their personal information:
-
- **•** By emailing us
-
- **How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
-
-**Does our site allow third party behavioral tracking?**
-
-It's also important to note that we do not allow third party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
- **•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **Contacting Us**
-
-  
-
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-chatspin.com
-
-info@chatspin.com
+If you have questions about this Privacy Policy, please e-mail us at [Privacy@ChatSpin.com.](mailto:Privacy@ChatSpin.com "Contact Us") with “Privacy Policy” in the subject line. For all other questions, please use the information provided in the Terms of Service to contact us.
