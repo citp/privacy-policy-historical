@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnecampus.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221044645id_/http%3A//www.tnecampus.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnecampus.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175203id_/http%3A//www.tnecampus.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TN eCampus
 
