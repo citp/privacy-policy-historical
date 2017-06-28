@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227195016id_/http%3A//www.dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628194225id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
@@ -7,7 +7,7 @@
 
 | 
 
-[](http://dreammails.net/scripts/runner.php?BA=14368&hash=e895713b032c961b71f9578a8c85df3e&url=http%3A%2F%2Fwww.neobux.com%2F%3Fr%3DLBJ90)  
+[](http://dreammails.net/scripts/runner.php?BA=21003&hash=c130e6c7c6ff2fa6134da3c9e47ead5e&url=http%3A%2F%2Fwww.stcashunlimited.net%2Fpages%2Findex.php%3Frefid%3Darchangel)  
 
 
 |   
@@ -17,19 +17,19 @@
 ---  
   
   
- **::** **Total Members: 500**
+ **::** **Total Members: 539**
 
-**::** ** Active Members: 437 **
+**::** ** Active Members: 489 **
 
 **
 
-**::** Total Payout: 10,539.03 
+**::** Total Payout: 10,734.88 
 
 **::** Mails In Queue: 0 
 
-**::** Paid To Click Links: 354 
+**::** Paid To Click Links: 371 
 
-**::** Banners In Queue: 373 
+**::** Banners In Queue: 328 
 
 **
 
