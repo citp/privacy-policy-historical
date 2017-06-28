@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110842id_/http%3A//www.fatface.com/legal-info/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629003932id_/http%3A//www.fatface.com/legal-info/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Fat Face
 
@@ -33,7 +33,7 @@ Our offers: Once you have purchased with us, we would like to send you our lates
 
 Other offers: Occasionally we may pass your details on to like-minded, carefully screened companies who might send you details of their offers.
 
-When you register we will ask you if you wish to receive such information - if you do, simply tick the appropriate box. Alternatively you can always e-mail us at [customerservices@fatface.com](mailto:customerservices@fatface.com). Or by calling +44 2392 441234 with your details and mailing preferences. If you change your mind, you can let us know at any time.
+When you register we will ask you if you wish to receive such information - if you do, simply tick the appropriate box. Alternatively you can always e-mail us at [customerservices@fatface.com](mailto:customerservices@fatface.com). Or by calling 0330 124 0000 with your details and mailing preferences. If you change your mind, you can let us know at any time.
 
 We may also use your information to manage your purchases, such as sending a confirmatory email, and process your card payments for goods you buy from us and also to deliver the goods to you, or we might give your details to our carrier if they deliver on our behalf. Your card details will only be shared with any third parties as is necessary to process your transaction. For example, banks and credit card companies that we need to contact to authorise and clear your card payment.
 
@@ -55,7 +55,7 @@ Unless we are required to share your personal data by law, we will not otherwise
 
 If you register to receive email, from time to time, we will send you Fat Face emails. These emails will inform you of our launch of new products, of special sales, or events taking place. You will not be "spammed" through having registered with Fat Face.
 
-If you currently receive our emails and do not wish to continue receiving them, you may unsubscribe at any time, by clicking on the 'unsubscribe' link at the bottom of the e-mail you've received or by emailing [customerservices@fatface.com](mailto:customerservices@fatface.com). Alternatively simply call +44 2392 441234.
+If you currently receive our emails and do not wish to continue receiving them, you may unsubscribe at any time, by clicking on the 'unsubscribe' link at the bottom of the e-mail you've received or by emailing [customerservices@fatface.com](mailto:customerservices@fatface.com). Alternatively simply call 0330 124 0000.
 
 Please note: In order to process your purchases we will send you a confirmation email or we may contact you by email or telephone if we have questions about your order.
 
@@ -93,6 +93,6 @@ We take security seriously and we take precautions to keep your personal informa
 
 ## Contact
 
-Please feel free to contact us with any questions, comments or queries regarding this privacy policy. All questions should be directed to [customerservices@fatface.com](mailto:customerservices@fatface.com). Alternatively simply call +44 2392 441234.
+Please feel free to contact us with any questions, comments or queries regarding this privacy policy. All questions should be directed to [customerservices@fatface.com](mailto:customerservices@fatface.com). Alternatively simply call 0330 124 0000.
 
 * * *
