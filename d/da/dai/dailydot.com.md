@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050342id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629162509id_/https%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# The Daily Dot Privacy Policy | The Daily Dot
 
-We at The Daily Dot, LLC (“Daily Dot,” “we,” “us,” or “our”) created this privacy policy (“Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Daily Dot in connection with our website located at <http://www.dailydot.com/> (the “Site”), and the Service.
+We at The Daily Dot, LLC (“Daily Dot,” “we,” “us,” or “our”) created this privacy policy (“Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Daily Dot in connection with our website located at <https://www.dailydot.com/> (the “Site”), and the Service.
 
 By visiting our Site and/or using our Service, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Use.
 
-##  **Information we collect**
+## **Information we collect**
 
 We do not collect any personal information from you unless you voluntarily provide it to us.
 
@@ -32,31 +32,31 @@ We, like many businesses, sometimes hire other companies to perform certain busi
 
 We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is or may be causing injury to or interference with our rights or property, other users of this Site, or anyone else that could be harmed by such activities.
 
-##  **How we protect your information**
+## **How we protect your information**
 
 We take commercially reasonable steps to protect the Personal Information and the Usage Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet.
 
-##  **Accessing and modifying account information**
+## **Accessing and modifying account information**
 
-You may update the information that is stored in your user account in by visiting [your account](http://www.dailydot.com/accounts/profile/) or by emailing us at [info@thedailydot.com](mailto:info@thedailydot.com)
+You may update the information that is stored in your user account in by visiting [your account](https://www.dailydot.com/accounts/profile/) or by emailing us at [info@thedailydot.com](mailto:info@thedailydot.com)
 
-###  **Your choices**
+### **Your choices**
 
-If you wish to stop receiving notification emails, you may do so by visiting [your account](http://www.dailydot.com/accounts/profile/) and updating your user account settings. You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email.
+If you wish to stop receiving notification emails, you may do so by visiting [your account](https://www.dailydot.com/accounts/profile/) and updating your user account settings. You may also choose to unsubscribe from our emails by following the instructions in the bottom of the email.
 
-###  **Links**
+### **Links**
 
 This Site contains content, services, advertising and other materials that link to web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them.
 
-###  **Children**
+### **Children**
 
 We do not knowingly collect Personal Information from children under the age of 13 through the Services. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-##  **Changes to this Privacy Policy**
+## **Changes to this Privacy Policy**
 
 This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Site as soon as they go into effect. By accessing the Site or using the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
 
-##  **How to contact us**
+## **How to contact us**
 
 If you have questions about this Privacy Policy, please email us at [support@thedailydot.com](mailto:support@thedailydot.com?Subject=PRIVACY%20POLICY), “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
@@ -64,4 +64,4 @@ The Daily Dot, LLC
 3112 Windsor Road, Suite A391  
 Austin, TX 78703
 
- _Last updated: May 31, 2016_
+_Last updated: May 31, 2016_
