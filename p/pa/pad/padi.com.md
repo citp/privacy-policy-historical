@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214050109id_/http%3A//www.padi.com/about-padi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padi.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629183646id_/https%3A//www.padi.com/about-padi/privacy-policy) for the most accurate reproduction.*
 
 # PADI Consumer Privacy Policy | PADI
 
@@ -24,7 +24,7 @@ Digitec Interactive, LLC is the company with which PADI has partnered to manage 
 
 PADI is the Professional Association of Diving Instructors (aka PADI Americas, Inc.) and is the developer of the PADI Diver Training programs offered through PADI eLearning and Touch.
 
-The PADI Dive Center/Resort (hereinafter "Facility") is the facility, and the PADI Instructor (hereinafter “Instructor”) is the instructor, one of which you have selected to associate with while completing your PADI eLearning or Touch program. 
+The PADI Dive Center/Resort (hereinafter "Facility") is the facility, and the PADI Instructor (hereinafter “Instructor”) is the instructor, one of which you have selected to associate with while completing your PADI eLearning or Touch program. 
 
 Your personal information is your business, and PADI promises not to knowingly disclose this information to anyone without your consent. PADI pledges to maintain your privacy both during and following your use of PADI eLearning and Touch. PADI will treat your personal data with the highest standards of safety, security and confidentiality. By accessing or using the PADI eLearning website or Touch products, you agree to the terms of the PADI Privacy Policy. PADI reserves the right to change its privacy policies from time to time at PADI’s sole discretion. Your use of this site and products will be subject to the most current version of the privacy policies at the time of such use.
 
