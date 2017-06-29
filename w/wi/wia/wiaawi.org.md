@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiaawi.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014048id_/http%3A//www.wiaawi.org/Portals/0/PDF/Officials/Forms/privacyofficials.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiaawi.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629163855id_/http%3A//www.wiaawi.org/Portals/0/PDF/Officials/Forms/privacyofficials.pdf) for the most accurate reproduction.*
 
 # Wisconsin Interscholastic Athletic Association Privacy Policy
 
