@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliviaburton.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230081254id_/http%3A//www.oliviaburton.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliviaburton.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629110300id_/http%3A//www.oliviaburton.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
