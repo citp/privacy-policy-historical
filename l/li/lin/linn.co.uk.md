@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094431id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012247id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
 
 # Linn — Privacy Policy
 
 **This policy (together with our terms of use and any other documents referred to in it, including Legal Notice) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
 "Websites" means   
-Linn [http://www.linn.co.uk](http://www.linn.co.uk/),   
-Linn Forums [http://forums.linn.co.uk](http://forums.linn.co.uk/),   
+Linn [https://www.linn.co.uk](https://www.linn.co.uk/),   
+Linn Forums [https://forums.linn.co.uk](https://forums.linn.co.uk/),   
 Linn Docs [http://docs.linn.co.uk](http://docs.linn.co.uk/),   
 Linn OSS [http://oss.linn.co.uk](http://oss.linn.co.uk/),   
 Linn News [http://news.linn.co.uk](http://news.linn.co.uk/) and   
