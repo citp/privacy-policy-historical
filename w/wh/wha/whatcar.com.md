@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223014447id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatcar.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629171306id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Haymarket Media Group Privacy Policy - Haymarket
 
