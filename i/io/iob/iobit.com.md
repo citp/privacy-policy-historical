@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620052914id_/http%3A//www.iobit.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630002031id_/http%3A//www.iobit.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy - IObit
 
@@ -10,7 +10,7 @@ This IObit Online Privacy Statement applies to information collected by IObit th
 
 Please read the IObit Online Privacy Statement below to know about particular information we may collect.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20160620052914id_/http%3A//www.iobit.com/en/contact.php).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20170630002031id_/http%3A//www.iobit.com/en/contact.php).
 
 ### What Information We Collect
 
@@ -109,4 +109,4 @@ If you continue to use your IObit products or services after notice of the chang
 
 ### Contact Us
 
-IObit regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or IObit's treatment of personal information by contacting us through this website. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20160620052914id_/http%3A//www.iobit.com/en/contact.php).
+IObit regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or IObit's treatment of personal information by contacting us through this website. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20170630002031id_/http%3A//www.iobit.com/en/contact.php).
