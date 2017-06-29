@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013107id_/http%3A//xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629064557id_/http%3A//xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XtremeTop100.com - Free servers
 
@@ -26,6 +26,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 Concerns or questions about this privacy policy can be directed to XtremeTop100.com for further clarification. 
 
-© 2016 [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php)
+© ‡2017 [XtremeTop100 .com](http://www.xtremetop100.com/) \- [Privacy Policy](https://web.archive.org/privacypolicy.php)
 
 [](http://t.extreme-dm.com/?login=alco84)
