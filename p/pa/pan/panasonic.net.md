@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234023id_/http%3A//www.panasonic.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629062346id_/http%3A//www.panasonic.com/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Panasonic
 
@@ -8,8 +8,7 @@ A person responsible for the protection of personal information has been appoint
 
 In cases where you are asked to supply or register your personal information by which you can be identified, such as name, address, e-mail address, or telephone number, the Company will inform you of the purpose of use, as well as whom to contact with any related inquiries. You will only be asked to provide your personal information within the scope appropriate to the purpose.
 
-The Company will make use of personal information only within the scope appropriate to the purpose of use to which you have agreed.
-
+The Company will make use of personal information only within the scope appropriate to the purpose of use to which you have agreed.  
 The Company will not supply or disclose your personal information to third parties except in cases where you have agreed beforehand, provides that the Company can disclose it when it is necessary; 1) to outsource the work or 2) for some other justifiable reason.
 
 If you wish to review your personal information, please contact to the relevant contact person we show on the website where you supplied or registered your personal information. The Company will make the efforts to appropriately respond to your request.
