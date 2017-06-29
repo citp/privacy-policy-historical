@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231195303id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222603id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
-Thanks for using <http://www.zazzle.com/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
+Thanks for using <https://www.zazzle.com/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. In addition, if we make material changes to how we use Personal Information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information. We also encourage you to check back, from time to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy. 
 
-Zazzle has received TRUSTe's Privacy and Children's Privacy Seal, signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site, <http://www.zazzle.com/> and other foreign language versions of the Site. 
+Zazzle has received TRUSTe's Privacy and Children's Privacy Seal, signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site, <https://www.zazzle.com/> and other foreign language versions of the Site. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
@@ -160,7 +160,7 @@ Children under the age of 13 are allowed to upload graphics and images and to or
 
 This information is used to: fulfill the requested order; confirm shipment; complete record keeping including royalty entitlements and other earnings, if any; allow users to comment on our blog or send messages; send monthly newsletters; allow users to upload a photo to their profile that may be publicly available to other users of the Site; report the sale of Zazzle Custom Stamps to the United States Postal Service, and advise the child concerning new Zazzle products, services or policies. If you no longer wish to allow your child to receive monthly newsletters, you or your child may login to your child's account and uncheck the box, alternatively you or your child may follow the unsubscribe instructions located at the bottom of each newsletter. 
 
-Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Zazzle to third parties without the parents' consent except as may be required by law or upon court order. Personally identifiable information at Zazzle is kept confidential and is disclosed only with the consent of the Zazzle user or as set forth in this Privacy Policy. We do not engage in the selling of information regarding the habits, behavior, buying patterns, or demographic information of our users. If you wish to review personal information that was collected from your child, have that personal information deleted or refuse further collection and use of that information, , you may send a request to Zazzle Customer Support. [Contact us](http://www.zazzle.com/about/ask) by sending an email with 'Parental Notification' in the subject line. Alternatively, you may contact the Zazzle Child Privacy Representative by phone, email, or letter at: 
+Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Zazzle to third parties without the parents' consent except as may be required by law or upon court order. Personally identifiable information at Zazzle is kept confidential and is disclosed only with the consent of the Zazzle user or as set forth in this Privacy Policy. We do not engage in the selling of information regarding the habits, behavior, buying patterns, or demographic information of our users. If you wish to review personal information that was collected from your child, have that personal information deleted or refuse further collection and use of that information, , you may send a request to Zazzle Customer Support. [Contact us](https://www.zazzle.com/about/ask) by sending an email with 'Parental Notification' in the subject line. Alternatively, you may contact the Zazzle Child Privacy Representative by phone, email, or letter at: 
 
 Zazzle Inc.   
 Attn: Privacy   
@@ -180,13 +180,13 @@ Unless stated otherwise, our current Privacy Policy applies to all information t
 The current version of the Zazzle Privacy Policy was adopted effective as of September 29, 2016. 
 
   * Policies
-  * [User Agreement](http://www.zazzle.com/mk/policy/user_agreement)
-  * [Privacy Policy](http://www.zazzle.com/mk/policy/privacy_policy)
-  * [Designer License Agreement](http://www.zazzle.com/mk/policy/designer_license_agreement)
-  * [Volume Bonus Agreement](http://www.zazzle.com/mk/policy/volume_bonus_agreement)
-  * [Associates Agreement](http://www.zazzle.com/mk/policy/associates_agreement)
-  * [Shipping & Returns](http://www.zazzle.com/mk/policy/shippingreturns)
-  * [Zazzle Black™ Terms & Conditions](http://www.zazzle.com/mk/policy/zazzle_black)
-  * [Purchase Order Terms](http://www.zazzle.com/mk/policy/terms)
+  * [User Agreement](https://www.zazzle.com/mk/policy/user_agreement)
+  * [Privacy Policy](https://www.zazzle.com/mk/policy/privacy_policy)
+  * [Designer License Agreement](https://www.zazzle.com/mk/policy/designer_license_agreement)
+  * [Volume Bonus Agreement](https://www.zazzle.com/mk/policy/volume_bonus_agreement)
+  * [Associates Agreement](https://www.zazzle.com/mk/policy/associates_agreement)
+  * [Shipping & Returns](https://www.zazzle.com/mk/policy/shippingreturns)
+  * [Zazzle Black™ Terms & Conditions](https://www.zazzle.com/mk/policy/zazzle_black)
+  * [Purchase Order Terms](https://www.zazzle.com/mk/policy/terms)
 
 
