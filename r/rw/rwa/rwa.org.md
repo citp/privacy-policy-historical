@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwa.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221082109id_/https%3A//www.rwa.org/p/cm/ld/fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwa.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629122725id_/https%3A//www.rwa.org/p/cm/ld/fid%3D3) for the most accurate reproduction.*
 
 # myRWA : Privacy Policy
 
