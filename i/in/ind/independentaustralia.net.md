@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentaustralia.net privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013060714id_/https%3A//independentaustralia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentaustralia.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629170111id_/https%3A//independentaustralia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
