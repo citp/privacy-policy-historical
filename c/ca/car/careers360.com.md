@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers360.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226225909id_/http%3A//www.careers360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers360.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000932id_/http%3A//www.careers360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
