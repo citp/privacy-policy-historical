@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalprices.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219180858id_/http%3A//argusmedia.com/Ft/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalprices.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629022754id_/http%3A//argusmedia.com/Ft/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Argus Media
 
