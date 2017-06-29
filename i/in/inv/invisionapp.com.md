@@ -1,56 +1,80 @@
-> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207002318id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000519id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InVision
+# InVision | Privacy Policy
 
-**1\. Introduction**
+**Introduction**
 
-This Privacy Policy sets forth the privacy practices of InVisionApp Inc. and its affiliates and subsidiaries (collectively, "InVisionApp") with respect to all InVisionApp information, data, graphics, content, software applications (including, without limitation, mobile software and applications) (collectively, the “Software”); the InVisionApp website, located at www.invisionapp.com, (the “Website”); and other InVisionApp products or services provided or otherwise made accessible on or through the Software or the Website. Collectively, the Software, the Website, and any other InVisionApp services are hereinafter referred to as the “Service”. In this Privacy Policy, “we”, “us”, “our” and other similar references mean InVisionApp and “you” and “your” and other similar references mean any particular user of the Service. This Privacy Policy describes how InvisionApp uses personal information of users collected through our Service (“Personal Information”). 
+InVision commits to strong and transparent privacy practices. Our Privacy Policy explains:
 
-This policy applies (i) immediately to users who utilize the Service on or after the Effective Date and (ii) on the Effective Date to users who utilize the Service before the Effective Date. Any person who does not agree to be bound by this Privacy Policy should not utilize the Service. Each capitalized term not otherwise defined herein shall have the meaning set forth in Section 2. 
+  * What personal information we collect and why we collect it
+  * How we use this information
+  * The choices we offer, including how to access, update, and remove information
 
-Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us online at info@invisionapp.com, or by mail at:
 
-InvisionApp, Inc.   
-Attention: Privacy Office   
-41 Madison Ave  
+
+We have kept this simple for your understanding, but if you’re not familiar with terms like “cookies” or “IP addresses,” then feel free to contact us as set forth below. Your privacy is really important to us, so whether you’re new to InVision or a long-time user, please take the time to get to know our practices.
+
+This Privacy Policy sets forth the privacy practices of InVisionApp Inc. and its current and future affiliates and subsidiaries (collectively, “InVision”) with respect to all InVision software and applications (including, without limitation, mobile software and applications) (collectively, the “Software”); the InVision website, located at [www.invisionapp.com](https://www.invisionapp.com/) and any other InVision websites that link to this Privacy Policy, (collectively, the “Website”); and other InVision products or services provided or otherwise made accessible on or through the Software or the Website. Collectively, the Software, the Website, and any other InVision services that link to this Privacy Policy are hereinafter collectively referred to as the “Service.” In this Privacy Policy, “we,” “us,” “our,” and other similar references mean InVision, and “you” and “your” and other similar references mean any particular user of the Service. This Privacy Policy describes how InVision collects, discloses, stores, transfers, and uses personally identifiable information of users collected through our Service (“Personal Information”). This Privacy Policy does not apply to the practices of third parties, as explained in more detail below.
+
+This policy applies (i) immediately to users who utilize the Service on or after the Effective Date and (ii) on the Effective Date to users who utilize the Service before the Effective Date. Any person who does not agree to be bound by this Privacy Policy should not utilize the Service.
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us online at [info@invisionapp.com](mailto:info@invisionapp.com), or by mail at:
+
+InVisionApp Inc.  
+Attention: Privacy Officer  
+41 Madison Ave   
 Floor 25  
-New York, NY, 10010  
+New York, NY, 10010   
 USA
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND TO ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, PLEASE EXIT, AND DO NOT ACCESS OR USE, THE SERVICE.
+**Please read this Privacy Policy carefully. By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound to all the terms and conditions of this Privacy Policy, and the Terms of Use applicable to the particular Service you are using or accessing. If you do not agree to this Privacy Policy and the applicable Terms of Use, please exit, and do not access or use, the Service.**
 
-**2\. Definitions**
+**Definitions**
 
-a) “Contact Information” means (i) your name, (ii) your physical address, (iii) your email address and (iv) your telephone number.  
-b) “Effective Date” means the date set forth at the beginning of this document.  
-c) “InvisionApp Affiliates” means any parent, subsidiary, member, officer, director, employee, or agent of InvisionApp or any company under common control with InvisionApp.  
-d) “Privacy Policy” means the set of policies set forth in this document.  
-e) “Financial Account Information” means your credit card number, credit card expiration date and credit card verification code, all with respect to one or more credit cards that you have the lawful right to use, and your bank account number, bank account title, bank name, branch location and routing number, all with respect to one or more accounts that you have the lawful right to access; provided “Financial Account Information” does not include the last four digits of your credit card number, which we retain for purposes of verifying User Account and User Account Information.  
-f) “Transaction Information” means all information related to transactions that you conduct on the Service and your interactions with the Service.  
-g) “User Account” means an account permitting access to the Service, with which is associated a user name and password.  
-h) “User Account Information” means information that identifies you to the Service, including your user name, password, internet protocol address, and MAC address.  
-i) “User Content” means images, comments, and other materials that you post to the Service.  
+“Contact Information” means (i) your name, (ii) your physical address, (iii) your email address, (iv) your telephone number, and (v) any other Personal Information that we may collect to identify or contact you (including, without limitation, your Skype ID, Twitter username, etc.). 
 
+“Effective Date” means the date set forth at the beginning of this document. 
 
-**3\. Types of Personal Information We Collect**
+“InVision Affiliates” means any parent, subsidiary, member, officer, director, employee, agent, or contractor of InVision or any entity under common control with InVision. 
 
-InvisionApp collects the following types of Personal Information through the Service:  
-a) Contact Information;  
-b) Financial Account Information;  
-c) Transaction Information;  
-d) User Account Information; and  
-e) User Content.  
+“Partner Information” means information that our business partners share with us. 
 
+“Privacy Policy” means the set of policies set forth in this document. 
 
-**4\. Mechanisms for Collection of Personal Information**
+“Financial Account Information” means your credit card number, credit card expiration date, and credit card verification code, all with respect to one or more credit cards that you have the lawful right to use, and your bank account number, bank account title, bank name, branch location, and routing number, all with respect to one or more accounts that you have the lawful right to access; provided “Financial Account Information” does not include the last four digits of your credit card number. 
 
-InvisionApp collects Personal Information (i) upon a user’s creation of a User Account, (ii) upon logging into the Service, (iii) upon interactions with the Service, and (iv) upon uploading User Content to, or generating User Content on, the Service, and (v) when you communicate with InvisionApp through the Service. When you access our Service, we may place small data files on your computer or other device known as “cookies”. We use cookies to recognize you as a user of the Service. Cookies may remain on your device until you erase them or they expire. You are free to decline our cookies if your browser or browser add-on permits, but doing so may interfere with your use of the Service. You should refer to the help sections of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling cookies. 
+“Service Information” means information gathered when you are using or accessing the Service.
 
-**5\. Purpose of Collection and Use of Personal Information**
+“Transaction Information” means all information related to transactions that you conduct on the Service and your interactions with the Service. 
 
-InvisionApp uses Personal Information to: 
+“User Account” means an account registered with the Service and permitting access to the Service, with which is associated a user name and password. 
 
-  * operate and improve the Service;
+“User Account Information” means information that identifies you to the Service, and may include your user name, password, internet protocol address, and MAC address. 
+
+“User Content” means images, comments, and other content, information, and materials that you post to or through the Service.
+
+**Types of Personal Information We Collect**
+
+InVision collects Personal Information through the Service when it is included as part of the following types of information: 
+
+a) Contact Information;   
+b) Financial Account Information;   
+c) Transaction Information;   
+d) User Account Information;  
+e) User Content;  
+f) Partner Information; and  
+g) Service Information.
+
+**Mechanisms for Collection of Personal Information**
+
+InVision collects Personal Information when a user (i) creates a User Account, (ii) logs into the Service, (iii) interacts with the Service, and (iv) uploads User Content to, or generates User Content on, the Service, and (v) communicates with InVision through the Service or otherwise when InVision interacts with you, such as when you respond to our online promotions or emails. 
+
+**Purpose of Collection and Use of Personal Information**
+
+InVision may use Personal Information to (and by using the Service you hereby consent to such use): (i) provide, administer, and improve our Services, (ii) better understand your needs and interests, (iii) fulfill requests you may make, (iv) personalize your experience, (v) provide Service announcements, (vi) provide you with further information and offers from InVision, InVision Affiliates, and our business partners, and (vii) protect, investigate, and deter against fraudulent, harmful, unauthorized, or illegal activity.
+
+This may include without limitation the following specific activities:
+
   * target offers to users;
   * administer the Service’s facilities for communications among and between users and the public in general;
   * evaluate eligibility of customers for certain offers, products or services;
@@ -59,79 +83,92 @@ InvisionApp uses Personal Information to:
   * communicate with users regarding support, security, technical issues, commerce, marketing, and transactions;
   * facilitate marketing, advertising, surveys, contests, sweepstakes and promotions
   * administer the Service, User Accounts and transactions with respect to User Accounts; and
-  * administer and carry out our obligations under contracts and to comply with the law.
+  * enforce our contracts, administer and carry out our obligations under contracts and comply with the law.
 
 
 
-**6\. Disclosure of Personal Information**
+**Disclosure of Personal Information**
 
-We may disclose your Personal Information to:
+We may disclose your Personal Information to (and by using the Service you hereby consent to such disclosure):
 
-  * InvisionApp Affiliates, which may use the Personal Information for the purposes described in Section 5;
-  * service providers which act for us or provide services for us, such as for marketing or for the processing of payments, and as to such service providers their use of Personal Information is subject to our agreements with them and any applicable laws;
-  * vendors in connection with the investigation of possible fraud, or as part of legal proceedings affecting InvisionApp or the vendor;
-  * any person or government agency in response to a subpoena;
+  * InVision Affiliates, including persons or entities that acquire some or all of InVision or our assets (see “Business Transfers” below), who may use the Personal Information as set forth in this Privacy Policy;
+  * third parties which act for us or provide services for us (including, without limitation, billing and credit card payment processing, maintenance, administration, support, hosting, and database management services). We only share your Personal Information with these third parties to perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose unless you otherwise expressly consent;
+  * vendors in connection with the investigation of possible fraud, or as part of legal proceedings affecting InVision or the vendor;
+  * any person or government agency in response to a subpoena or other legal proceeding;
   * to a government agency in response to an investigation, regardless of whether or not a subpoena has been issued;
-  * any person to enforce our rights or protect our property; to protect the rights, property or safety of others, investigate fraud; and
-  * InvisionApp’s employees and outside professionals (such as lawyers and accountants) for the purpose of auditing, compliance, and corporate governance.
+  * any person to enforce our rights or protect our property; to protect the rights, property, or safety of others, or investigate fraud;  to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, unauthorized, or harmful; or as required by law; and
+  * outside professional advisors (such as lawyers and accountants) for purposes such as auditing, compliance, and corporate governance.
 
 
 
-**7\. Storage and Security**
+**Cookies, Website and Application Use**
 
-We believe the security of your information is a serious issue and we are committed to protecting the information we receive from you. We use commercially reasonable security measures to protect against the loss, misuse and alteration of your information under our control. Notwithstanding such measures, please be aware that no security measures are perfect or impenetrable, and we cannot guarantee the security of any information transmitted to or from the Service. We also are not responsible for the actions of any third parties that may receive any such information. 
+Like many websites and mobile application operators, we collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Website. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Website and to tell us how and when you interact with our Website. We may also use cookies to monitor usage and web traffic routing on our Website and to customize and improve our Service. We may link this information to your User Account. Unlike persistent cookies, session cookies are deleted when you log off from the Website and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Service. We may also use cookies in connection with third-party services to run analytics on our Website; such cookies may collect Personal Information about users.
 
-We may transfer your information to, or maintain it on, computers located outside of your state or country, in a location having laws that are less protective of your privacy. If you are located outside the United States and choose to provide information to us, be advised that InVisionApp is located in the United States and processes your information in the United States. By using the Service under this Privacy Policy and the Terms of Service, you consent to the transfer of your information to the United States. 
+Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. The Service does not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Service and after you leave our Service. Remember that this is just our Do Not Track policy, and we can’t and don’t make any promises about how third parties react when you set this signal on your browser.
 
-We will retain Personal Information only as long as our business needs require. We will then destroy or render unreadable any such information upon disposal. We collect and process Financial Account Information from you using third party PCI-compliant service providers when you subscribe to the Service. We do not store Financial Account Information transmitted through the Service. 
+We may employ, and/or our third-party tracking utility company may employ, software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Website by informing us what content is effective. These gifs (or other tracking technology) may be included in or associated with emails or other communications that you receive from us (or our partners) in order to help us track your response and interests and to deliver you relevant content and services. For example, they may let us know when you take actions based on the emails that we send. We may tie information gathered by clear gifs or other tracking technology to Personal Information.
 
-**8\. Email Policies**
+Our servers may automatically record certain information about how a person uses our Website and Service (we refer to this information as “Log Data”), including both User Account holders and non-account holders. Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Website or Service to which a user browsed and the time spent on those pages or features, the frequency with which the Website or Service is used by a user, search terms used by a user, the links on our Website or Service that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences.
 
-InvisionApp reserves the right to send you e-mail relating to your account and to the Service. You cannot opt-out of receiving such e-mails, and you agree to receive them.
+**Behavioral Targeting / Re-targeting**
 
-**9\. No Responsibility for Privacy Practices of Third Parties**
+We may partner with a third-party ad network or other service provider to either display advertising on our Website or to manage our advertising on other sites. Our ad network partner may use cookies and Web Beacons to collect information that is not Personal Information about your activities on our Website and other Web sites to provide you targeted advertising based upon your interests, activities, usage patterns, or general profile. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-This Privacy Policy applies only to the Service. It does not apply to sites that have linked or are redirected to or from the Service (“Third Party Sites”), regardless of whether or not such link or redirection is authorized by InvisionApp. Third Party Sites may have their own policies regarding privacy, or no policy at all. InvisionApp is not responsible for Third Party Sites and you use them at your own risk.
+**Testimonials**
 
-**10\. Interactions With Others**
+We may display personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent, we may post your testimonial along with your name, User ID, and other identifying information. If you wish to update or delete your testimonial, please contact us. If you provide us with comments or feedback we may collect your name and email address, as well as any other content included in the email, to send you a reply and improve our Service.
 
-The Service may contain areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review goods, services vendors, and submit media content. Such use is subject to our Terms of Service, and may be viewed by the public at large. Any information, including Personal Information, that you post there will be public, and therefore anyone who accesses such postings will have the ability to read, collect and further disseminate such information.
+**Social Media Widgets**
 
-**11\. Accessing and Correcting Personal Information**
+Our Website and Service may include social media features, such as the Facebook “like” button, and widgets, such as the “share this” button. These features may collect your Personal Information and track your use of the Website. These social media features are either hosted by a third party or hosted directly on our Site. By using these tools, you acknowledge that some information from your social media services may be transmitted to us and therefore is covered by this Privacy Policy and that some information may be shared with services and would therefore be governed by their privacy policies.
 
-You may correct or update certain of your Personal Information via your “My Info” screens of the Service. 
+**Aggregate Information**
 
-You may close an account, but InvisionApp will nevertheless retain your Personal Information so as to protect the business interests of InvisionApp, InvisionApp Affiliates, vendors and other users. Those interests include the completion of transactions, maintaining records for financial reporting purposes, complying with our legal obligations, resolving disputes, and enforcing agreements.
+Generally, the Service may collect and analyze usage and performance information that is not Personal Information, or that InVision aggregates or de-identifies so that it is not personally identifiable. From time to time, InVision may release this information in the aggregate, e.g., by publishing a report on trends in the usage of its Service.
 
-**12\. Changes to the Privacy Policy**
+**Information Shared with Your Consent**
 
-InvisionApp reserves the right to change this Privacy Policy. Such changes may be announced to you either by email or by the posting of the revised policy on the Service. You are responsible for reviewing both your own email and the Service to determine what is the then-current Privacy Policy.
+Except as set forth in this Privacy Policy, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-**13\. Notice to Residents of Countries outside the United States of America**
+**Storage and Security**
 
-InvisionApp is headquartered in the United States of America. Personal Information may be accessed by us or transferred to us in the United States or to InvisionApp Affiliates, business partners, vendors, or service providers elsewhere in the world. By providing us with Personal Information, you consent to this transfer. InvisionApp will adhere to its Privacy Policy, regardless of where the Personal Information is processed or stored. 
+We believe the security of your information is a serious issue and we are committed to protecting the information we receive from you. We use commercially reasonable security measures to protect against the loss, misuse, and alteration of your information under our control. Notwithstanding such measures, please be aware that no security measures are perfect or impenetrable, and we cannot guarantee the security of any information transmitted to or from the Service. We also are not responsible for the actions of any third parties to whom you disclose any such information.
 
-**14\. California Privacy Rights**
+We may transfer your information to, or maintain it on, computers located outside of your state or country, in a location having laws that are less protective of your privacy. If you are located outside the United States and choose to provide information to us, be advised that InVision is located in the United States and processes your information in the United States. By using the Service under this Privacy Policy and the applicable Terms of Use, you consent to the transfer of your information to the United States.
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the proceeding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by InvisionApp pursuant to Section 1798.83 of the California Civil Code, please contact us via email to info@invisionapp.com, or by writing us at the following address:
+Except as otherwise set forth in this Privacy Policy, we will retain Personal Information only as long as our business needs require. We will then destroy or render unreadable any such information upon disposal. To the extent the Service requires you to provide any Financial Account Information, such as when you purchase subscriptions to the Service, that information will be collected and processed by third-party PCI-compliant service providers. We do not store Financial Account Information transmitted through the Service.
 
-InvisionApp, Inc.   
-41 Madison Ave  
-Floor 25  
-New York, NY, 10010  
-USA
+**Email Policies**
 
-Close
+InVision may send you email relating to your User Account and the Service. We will give you the ability to opt out of marketing-related emails by logging in and changing your account settings or by clicking on a link at the bottom of each such email. In some of our communications, we use tracking means, to tell us when an email is opened or a “click-through URL” linked to content on the Website. We track this data to help us measure the effectiveness of our customer communications. You cannot opt out of receiving certain non-marketing emails regarding the Service, and you agree to receive them.
 
-## The World's Leading Product Design Platform, Featuring:
+**No Responsibility for Privacy Practices of Third Parties**
 
-  * High fidelity prototypes that look, feel, and act real.
-  * Custom mood and brand boards, galleries, presentations, and much more.
-  * Manage your screens and projects from one central location.
-  * Better feedback, with real-time, in-browser design collaboration.
+This Privacy Policy applies only to the Service. It does not apply to products, services, or sites that are provided by or operated by third parties, even if such products, services or sites are linked or redirected to or from the Service (“Third-Party Sites”), regardless of whether or not such link or redirection is authorized by InVision. Third-Party Sites may have their own policies regarding privacy, or no policy at all.  The fact that we link to a Third-Party Site is not an endorsement, authorization, or representation that we are affiliated with that third party. InVision is not responsible for Third-Party Sites and you use them at your own risk. We encourage you to read the privacy policies and terms of the Third-Party Sites that you visit or use.
 
+**Interactions with Others**
 
+The Service may contain areas where you may be able to publicly post information, communicate with others, submit media content, and/or review goods, services, or vendors, such as discussion boards or blogs. Any information, including Personal Information that you post there, will be public and may be viewed by the public at large, and therefore anyone who accesses such postings will have the ability to read, collect, and further disseminate such information. We have no control over, and take no responsibility for, the use, storage, or dissemination of information posted or otherwise made available on such portions of the Service. By posting Personal Information online in public forums, you may receive unsolicited messages from other parties.
 
-## Try Invision Now—Free
+**Accessing and Correcting Personal Information**
 
-### No setup fees. No requirements. No obligation.
+All InVision account holders may review, update, correct, or delete the Personal Information in their registration profile by logging into their User Account. You may also contact us directly to accomplish the foregoing or if you have additional requests or questions. However, please note that removing your information may limit our ability to provide the Service to you. We must also retain certain information in order to provide you the Service. If you completely delete all such information, your User Account will be deactivated and you will lose access to the Service. Upon termination of your User Account or your request at any other time, we will take reasonable steps to provide, modify, or delete your Personal Information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law. We will take reasonable steps to respond to all requests within 30 days (or less!).You may close an account, but InVision may nevertheless retain your Personal Information so as to protect the business interests of InVision, InVision Affiliates, vendors, and other users. Those interests include the completion of transactions, maintaining records for financial reporting purposes, complying with our legal obligations, resolving disputes, and enforcing agreements.
+
+**Children**
+
+Our Service is not intended for children under the age of 13, and therefore, InVision does not knowingly acquire or receive Personal Information from children under the age of 13. If we later learn that any user of our Service is under the age of 13, we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
+
+**Changes to the Privacy Policy**
+
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via email (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting a new privacy policy on our Website—or a specific announcement on this page or on our blog).
+
+Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting) or on the Effective Date set forth in the modified Privacy Policy. In all cases, your continued use of the Service or Website after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+**Business Transfers**
+
+InVision may sell, transfer, or otherwise share some or all of its business or assets, including your Personal Information, in connection with a business deal (or the evaluation of a potential business deal) such as a merger, consolidation, acquisition, reorganization, or sale of assets or in the event of bankruptcy. You acknowledge that such transfers may occur and that any acquirer or successor of InVision or its assets may continue to use your Personal Information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Website or Service of any change in ownership or resulting change in uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+
+**California Privacy Rights**
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the proceeding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by InVision pursuant to Section 1798.83 of the California Civil Code, please contact as set forth above.
