@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052737id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629084527id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Zoe Report
 
 ### Introduction
 
-Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through [TheZoeReport.com](https://web.archive.org/web/20161229052737id_/http://thezoereport.com/privacy/thezoereport.com) (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and The Zoe Report Beauty”) for the purposes set forth in this policy. 
+Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through [TheZoeReport.com](https://web.archive.org/web/20170629084527id_/http%3A//thezoereport.com/thezoereport.com) (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and The Zoe Report Beauty”) for the purposes set forth in this policy. 
 
 Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
 
