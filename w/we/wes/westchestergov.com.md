@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westchestergov.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230135234id_/http%3A//www3.westchestergov.com/disclaimer/%23emailprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westchestergov.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629094804id_/http%3A//www3.westchestergov.com/disclaimer/%23emailprivacy) for the most accurate reproduction.*
 
 # Disclaimer
 
