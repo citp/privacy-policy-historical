@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016101407id_/https%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629024510id_/https%3A//myon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - myON®
 
@@ -6,13 +6,13 @@
 
 **Our Notice**
 
-myON collects information about students’ reading performance. We gather only the minimum enrollment information provided by schools required to track that performance over time: student name, grade, teacher(s), and class(es). myON gathers that data from the school or district through a FERPA school official role. Schools and school districts get parental consent for limited student data to be stored in myON in order for students to have access to the myON platform. We do not collect or store any information about a student’s race, socio-economic status, social security number, street address, parent contact info, or email address. No financial transactions or financial account information is stored in any of the myON.com data tables. myON complies with US FERPA and COPPA legislation, as detailed in the myON license agreement.
+myON collects information about students’ reading performance. We gather only the minimum enrollment information provided by schools required to track that performance over time: student name, grade, teacher(s), and group(s). myON gathers that data from the school or district through a FERPA school official role. Schools and school districts get parental consent for limited student data to be stored in myON in order for students to have access to the myON platform. We do not collect or store any information about a student’s race, socio-economic status, social security number, street address, parent contact info, or email address. No financial transactions or financial account information is stored in any of the myON.com data tables. myON complies with US FERPA and COPPA legislation, as detailed in the myON license agreement.
 
 **Your Choice**
 
 By using myON after reading this privacy policy, you give us permission to collect reading performance data through myON. We track what books every student opens, what books they finish, how much time they spend reading, and the results of the assessments they take – measures of reading ability (Lexile benchmarks) and reading comprehension (Book quizzes). We also store students’ rankings of interest categories (Animals, Inventions, Mythology, Graphic Novels…). We use this information to recommend books to students based on their grade, their interests, and their reading measure.
 
-School enrollment data, reading progress statistics, the web application, and the book assets are all stored on separate and secure servers. The only way to access any of this data is through a secure and authenticated login. Logins of adults (school administrators and faculty) can access dashboards and reports of reading progress at the grade and class level for users within the building or district. Faculty can monitor reading progress by class, grade, group, and individual for students assigned to their roster. myON does not hold information that is part of a learner’s educational record. Again, no demographic data of any kind is stored about students except their name, grade, gender, and class assignment(s).
+School enrollment data, reading progress statistics, the web application, and the book assets are all stored on separate and secure servers. The only way to access any of this data is through a secure and authenticated login. Logins of adults (school administrators and faculty) can access dashboards and reports of reading progress at the grade and group level for users within the building or district. Faculty can monitor reading progress by grade, group, and individual for students assigned to their roster. myON does not hold information that is part of a learner’s educational record. Again, no demographic data of any kind is stored about students except their name, grade, gender, and group assignment(s).
 
 **User Supplied Information**
 
@@ -34,9 +34,7 @@ You may access the data collected by myON about you by sending a request to the 
   * sending a letter via the U.S. Mail to:
 
 Manager of Web Site Development  
-myON  
-1710 Roe Crest Drive  
-N. Mankato, MN 56003 
+myON Suite 200, 5050 Lincoln Drive Edina, MN 55436
 
 
 
@@ -60,6 +58,6 @@ You may also view our:
 Terms of Use: <https://www.myon.com/terms.html>  
 License Agreement: <https://www.myon.com/agreement.html>
 
-Last Revised: August 1, 2016
+Last Revised: February 17, 2017
 
 © Copyright 2016
