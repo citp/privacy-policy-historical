@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115145824id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elca.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231223id_/http%3A//www.elca.org/About/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evangelical Lutheran Church in America
 
-Last modified: March 3, 2016
+Last modified: April 26, 2017
 
 ## Introduction
 
 The Evangelical Lutheran Church in America (“ELCA”) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit [www.elca.org](http://www.elca.org/), all elca.org websites, [www.thelutheran.org](http://www.thelutheran.org/), [www.womenoftheelca.org](http://www.womenoftheelca.org/), [www.lutheranmeninmission.org](http://www.lutheranmeninmission.org/), and the content, features, and functionality of these websites (collectively, “ **Website** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit [www.elca.org](http://www.elca.org/), all elca.org websites, [www.livinglutheran.org](http://www.livinglutheran.org/), [www.womenoftheelca.org](http://www.womenoftheelca.org/), [www.lutheranmeninmission.org](http://www.lutheranmeninmission.org/), and the content, features, and functionality of these websites (collectively, “ **Website** ”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -178,7 +178,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Changes to Our Privacy Policy
 
-It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+It is our policy to post any changes we make to our privacy policy on this page and to accompany material changes with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
 
 ## Contact Information
 
