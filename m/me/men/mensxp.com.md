@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217220205id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629111714id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ All required information is service dependent and TIL may use the above said use
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.
 
-For placing an order on Indiatimes shopping the information shall be used to service user requests, and the information shall include user’s name, mailing address, email and phone number. This information shall be gathered on the purchase of products/gift certificates, or sign up for email notifications. 
+For placing an order on Indiatimes shopping the information shall be used to service user requests, and the information shall include user's name, mailing address, email and phone number. This information shall be gathered on the purchase of products/gift certificates, or sign up for email notifications. 
 
 We also store the first 6 and last 4 digits of user card number in a secure and encrypted manner. The first 6 digits (also known as the Bank Identification Number) are used to identify the bank name and country where user card was issued. The first 6 and last 4 digits are together used for fraud detection and prevention purposes.
 
@@ -40,7 +40,7 @@ We may receive information about you from other sources, add it to our account i
 
 **Demographic and purchase information:**
 
-We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](http://tools.google.com/dlpage/gaoptout)
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don't want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](http://tools.google.com/dlpage/gaoptout)
 
 **LINKS TO THIRD PARTY SITES / AD-SERVERS**
 
