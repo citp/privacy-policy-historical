@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093745id_/http%3A//myapptemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629132434id_/http%3A//myapptemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyAppTemplates
 
@@ -70,6 +70,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[support@www.myapptemplates.com](mailto:support@www.myapptemplates.com)
+If there are any questions regarding this privacy policy you may contact us at [contact@myapptemplates.com](mailto:contact@myapptemplates.com).
