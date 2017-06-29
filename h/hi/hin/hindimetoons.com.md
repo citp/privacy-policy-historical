@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindimetoons.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122715id_/http%3A//www.hindimetoons.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindimetoons.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629140110id_/http%3A//www.hindimetoons.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hindi Me Toons
 
