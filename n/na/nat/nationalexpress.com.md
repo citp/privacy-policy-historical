@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225211550id_/http%3A//www.nationalexpress.com/help-and-advice/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231922id_/http%3A//www.nationalexpress.com/help-and-advice/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | National Express Coaches
 
@@ -8,7 +8,7 @@ We use a range of data collection methods and technologies on our website, which
 
 We also enable third party cookies and other technologies through our website, such as those used by advertisers.   These technologies place cookies and JavaScripts in your web browser cache, and may use IFRAMES or other technologies to show third party content.
 
-All modern web browsers allow cookies and JavaScripts to be disabled through browser security settings, but parts of our website may not work correctly if your security settings are set too high.  At the time of writing, [these technologies are used on our website](http://www.nationalexpress.com/Footer-pages/privacy-and-cookies.aspx).
+All modern web browsers allow cookies and JavaScripts to be disabled through browser security settings, but parts of our website may not work correctly if your security settings are set too high.
 
 ### 2.2 What information do we collect?
 
