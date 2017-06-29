@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsimple.ie privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524234203id_/http%3A//www.smartsimple.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsimple.ie privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629074243id_/http%3A//smartsimple.com/privacy.php) for the most accurate reproduction.*
 
 # SmartSimple - Privacy Policy
 
