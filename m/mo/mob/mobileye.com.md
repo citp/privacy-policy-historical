@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mobileye.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408111622id_/http%3A//www.mobileye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileye.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629145752id_/http%3A//www.mobileye.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mobileye
+# Privacy Policy and Security - Mobileye
 
-**Privacy Policy and Security**
-
-We at Mobileye Technologies Limited, our parent company and / or any one of our affiliated companies (“Mobileye”) are committed to maintaining data confidentiality and the protection of personal information on this site.
+We at Mobileye Vision TECHNOLOGIES Ltd. , our parent company and / or any one of our affiliated companies (“Mobileye”) are committed to maintaining data confidentiality and the protection of personal information on this site.
 
 All information collected while browsing the website, and any information provided to us, will be maintained in the strictest confidence  and will be used for the purposes for which it has been provided to us, including as described below. The purpose of the information presented in this document is to enable you to understand the policies of Mobileye regarding the preservation of information and privacy protection.
 
