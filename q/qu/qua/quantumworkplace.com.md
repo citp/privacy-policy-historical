@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumworkplace.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217134522id_/http%3A//www.quantumworkplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumworkplace.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629052254id_/https%3A//www.quantumworkplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quantum Workplace
 
@@ -14,7 +14,11 @@ We will not in any way reprint, resell, or redistribute your organization’s su
 
 Access to your organization’s results is available to selected leaders within your organization who use the information for organizational development purposes. Organizational data may be sliced by employee demographics, but will never identify individual employees or employee groups with fewer than five employees.
 
-When our surveys ask for demographic information, it is for benchmarking purposes and to allow employers to view aggregate results by age, department, gender, etc. However, if a demographic has fewer than five people, employers will not be able to see the results. For example, if an employer wanted to see the results of ONLY the marketing department, but the marketing department has fewer than five employees, employers wouldn’t be able view the results of this demographic. This is how we keep survey responses confidential.
+When our surveys ask for demographic information, it is for benchmarking purposes and to allow employers to view aggregate results by age, department, gender, etc. However, if a demographic has fewer than five people, employers will not be able to see the results. For example, if an employer wanted to see the results of ONLY the marketing department, but the marketing department has fewer than five employees, employers wouldn’t be 
+
+able
+
+view the results of this demographic. This is how we keep survey responses confidential.
 
 For population and pulse surveys, employers will NOT have access to:
 
@@ -59,7 +63,11 @@ When user accounts are set up, we collect and store information about you, inclu
 
 ###### Product Usage
 
-When you’re logged into our Employee Feedback Platform, we collect and store information that you submit through the website for your use and for your disclosure to other users in your organization as part of your use of the product. This would include, but is not limited to, information, such as a commitment in Engagement, a recognition post in Recognition, a goal update in Goals, or a comment in a Feedback cycle. Which information is private and which information is public to other users inside our tools is determined by the settings you or your organization have selected.
+When you’re logged into our Employee Feedback Platform, we collect and store information that you submit through the website for your use and for your disclosure to other users in your organization as part of your use of the product. This would 
+
+include,
+
+but is not limited to, information, such as a commitment in Engagement, a recognition post in Recognition, a goal update in Goals, or a comment in a Feedback cycle. Which information is private and which information is public to other users inside our tools is determined by the settings you or your organization have selected.
 
 ###### Technical Data
 
@@ -71,8 +79,12 @@ Quantum Workplace protects the privacy of individuals who visit our websites. Th
 
 When you create an account or submit other information on our websites, we collect and store that information, such as your name, title, email address, and password. We use this information to set up your account and to allow administration and communication with you regarding your account. We may also use your email address to send you updates and provide services to you. We will not share, sell, rent, swap, or authorize any third party to use users’ email addresses for commercial purposes.
 
-When you use our websites, a cookie may be placed within the memory of your internet access device. A cookie is a small piece of information that a website can store via your internet access device for later retrieval. We may use permanent cookies or server-side constructs to help us track use of our services by users, such as the number of visits to our pages and which pages are viewed.
+###### Google AdWords
 
-### U.S. Safe Harbor
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Quantum Workplace website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-Quantum Workplace’s processes adhere to the U.S. Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement, which can be found [here](http://export.gov/safeharbor/).
+### EU-US Privacy Shield
+
+Quantum Workplace’s processes adhere to the EU-US Privacy Shieldprinciples of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To view our certification and to learn more about the Department of Commerce’s Privacy Shield program, visit [Privacy Shield](https://www.privacyshield.gov/welcome). As a part of this program, we are subject to the investigatory and enforcement powers of the Federal Trade Commission and we are liable for the onward transfer of personal information to third parties. Furthermore, we are required to disclose personal information in response to lawful requests by public authorities and must meet national security requirements. We do not disclose personal information to third parties. Should that change in the future, we will provide individuals the option to opt-out of having their information disclosed to third parties for purposes that are materially different for which it was originally collected or subsequently authorized. The company administrator has a right to access personal information and has the ability to correct, amend, or delete that information where it is inaccurate or has been processed in violation of the Privacy Shield principles.
+
+In compliance with Privacy Shield, Quantum Workplace is committed to resolving complaints in a timely manner. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Quantum Workplace at [hello@quantumworkplace.com](mailto:hello@quantumworkplace.com). If we are unable to satisfactorily resolve any privacy or data concerns, please contact our U.S.-based third party dispute resolution provider [JAMS](https://www.jamsadr.com/). Under certain conditions, you may have the right to invoke binding arbitration.
