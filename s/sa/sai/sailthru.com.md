@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221114806id_/http%3A//www.sailthru.com/legal%23privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629170002id_/http%3A//www.sailthru.com/legal%23privacy-statement) for the most accurate reproduction.*
 
 # Legal | Sailthru
 
@@ -67,13 +67,13 @@ Sailthru, Inc. and its affiliates worldwide (“Sailthru”, “we”, or “us�
 
 This Privacy Statement (“Privacy Statement”) describes how Sailthru collect, uses, discloses, and transfers information, including personal information, from users accessing and using our websites that display a link to this Privacy Statement (“Sites”). The Privacy Statement also describes Sailthru’s collection and use of information in providing the Services. This Privacy Statement does not govern collection or use of information by third parties, including our Customers. You should refer to these third parties’ separate privacy policies to learn about their collection and use of your information.
 
- _ **Information we collect:**_
+ **Information we collect:**
 
  **Personal Information:** In accessing and using the Sites or the Services, you may be prompted to provide Sailthru your name, email address, telephone number, job title, company name, and other personal information.
 
  **Other Information:** Sailthru may collect information about your computer or mobile device that may include your browser or operating system, your manner of connecting to the Internet and the name of your Internet service provider or wireless carrier; your Internet Protocol (IP) address or Advertising Identifier; information about websites you used before or after using the Sites or Services; data relating to malfunctions or problems occurring when you use our Sites or Services, other information specifically related to your use of Services, including information that you publicly post using tools made available by us; location information; and information about the searches you perform on our Sites or when using the Services and how you use the results of those searches To collect this information, Sailthru and Sailthru’s business partners may use tracking technologies, including cookies and web beacons.
 
- _ **How we use your information**_ **:**
+ **How we use your information** **:**
 
 Your information is used for purposes that include:
 
@@ -92,7 +92,7 @@ Your information is used for purposes that include:
 
 
 
- _ **Sharing of Your Information**_ **:**
+ **Sharing of Your Information** **:**
 
 We do not rent or sell your personal information (such as name, address and telephone number) to third parties for their marketing purposes. We may share your information with third parties to provide products and services you have requested, when we have your consent, or as described in this Privacy Statement.
 
@@ -106,11 +106,11 @@ We may use agents and contractors in order to help operate our Services. Their u
 
 In the event that Sailthru’s ownership changes as a result of a merger, acquisition, reorganization, sale of assets, dissolution, or similar event, information we collect may be part of the transferred assets. If such a transfer results in a material change in the use of your information, you will be provided notice (which may be via updates to this page) about the choices you have to decline to permit such a transfer.
 
- _ **Cross Border Transmission**_ **:**
+ **Cross Border Transmission** **:**
 
 Sailthru primarily stores and processes the personal information we collect in the United States. As a global company, Sailthru may transfer and access information from around the world, including from other countries in which Sailthru operates. If you operate outside of the United States, transfer of your data is necessary for you to use our Services, access our Sites, or request information from us. By registering for our Sites or accessing the Services, or by communicating with us by email, you acknowledge and expressly consent to our cross border transfer of your personal information. By registering for the Site, by subscribing to our Services, or by emailing us, you expressly agree to the processing of your personal information as described in this Privacy Statement.
 
- _ **Choice and Consent**_ :
+ **Choice** **and Consent** :
 
 By emailing us or by opting-in to use the Site or access the Services you expressly consent to the collection, use, retention, transfer and disclosure, including cross-border disclosure, of your information as described in this Privacy Statement. Each time you email us, register with us, or use our services you are giving your express consent to the collection, use, retention, transfer and disclosure, including cross-border disclosure, of your information as described in this Privacy Statement.
 
@@ -139,9 +139,9 @@ Please note that Internet browsers allow you to change your cookie settings. The
 
 
 
-For more detailed information on how to control cookies you may wish to visit www.allaboutcookies.org
+For more detailed information on how to control cookies you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
- _ **Retention**_ **:**
+ **Retention** **:**
 
 We will retain your personal information for as long as needed for the uses described in this Privacy Statement.
 
@@ -157,13 +157,11 @@ Our Sites include features from social media websites such as the Facebook Like 
 
 Sailthru takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. For example, to protect your privacy and security, we may use passwords or other technologies to register or authenticate you and enable you to use our Services, and before granting access or making corrections to your information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
- _ **Privacy Shield**_ **:**
+ **Privacy Shield** **:**
 
-Sailthru is committed to the Privacy Shield Principles. Sailthru has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation,
+Sailthru is committed to the Privacy Shield Principles. Sailthru has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement, and liability.
 
-access, and recourse, enforcement and liability
-
-To learn more about the Privacy Shield program, and to view Sailthru’s certification, please visit https://www.privacyshield.gov
+To learn more about the Privacy Shield program, and to view Sailthru’s certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome)
 
  **Enforcement** :
 
@@ -171,7 +169,13 @@ Sailthru’s commitments under the Privacy Shield are subject to the investigato
 
  **Inquiries and complaints** :
 
-If you believe Sailthru maintains your personal data, you may direct any inquiries or complaints concerning our Privacy Shield compliance to privacy@sailthru.com. Sailthru will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact TRUSTe at https://feedback-form.truste.com/watchdog/request . TRUSTe provides an independent third-party dispute resolution body based in the United States and has committed to respond to complaints and to provide appropriate recourse at no cost to you. If you feel that neither Sailthru nor TRUSTe can resolve your complaint, you may seek to engage in binding arbitration through the Privacy Shield Panel.
+If you believe Sailthru maintains your personal data, you may direct any inquiries or complaints concerning our Privacy Shield compliance to [privacy@sailthru.com](mailto:privacy@sailthru.com). Sailthru will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact the International Centre for Dispute Resolution ("ICDR/AAA"), which Sailthru has chosen as its independent recourse mechanism, via its via the contact information provided below. ICDR/AAA provides an independent third-party dispute resolution body and has committed to respond to complaints and to provide appropriate recourse at no cost to you. If you feel that neither Sailthru nor ICDR/AAA can resolve your complaint, you may seek to engage in binding arbitration through the Privacy Shield Panel.
+
+ **International Centre For Dispute Resolution**  
+<http://info.adr.org/safeharbor/>  
+International Centre for Dispute Resolution Case Filing Services  
+1101 Laurel Oak Road, Suite 100, Voorhees, NJ 080403  
+Email: [casefiling@adr.org](mailto:casefiling@adr.org)
 
  **Right to access data** :
 
