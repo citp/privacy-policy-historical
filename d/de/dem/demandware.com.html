@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the demandware.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231114932id_/http%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demandware.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629150145id_/https%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PFDXLH"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20170409062231/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PFDXLH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 
 	
 	<link rel="alternate" hreflang="en" href="http://www.demandware.com/privacy-policy">
 	<link rel="alternate" hreflang="fr" href="http://www.demandware.fr/politique-de-confidentialite">
 	<link rel="alternate" hreflang="de" href="http://www.demandware.de/datenschutz">
-	
+	<link rel="alternate" hreflang="it" href="http://www.demandware.it/privacy-policy">
 
 	
 	
@@ -29,14 +29,14 @@
 		<meta property="og:title" content="Privacy Policy - Commerce Cloud Services | Demandware, Inc.">
 		<meta property="og:description" content="The following privacy policy describes Commerce Cloud Services privacy practices for Demandware, Inc. and its affiliates (&quot;Demandware&quot;).">
 	
-	<meta property="og:image" content="http://www.demandware.com/dwre-share-og.jpg">
+	<meta property="og:image" content="http://www.demandware.com/img/icons/png/cc-share.png">
 
 	
 	
 		<meta itemprop="name" content="Privacy Policy - Commerce Cloud Services | Demandware, Inc.">
 		<meta itemprop="description" content="The following privacy policy describes Commerce Cloud Services privacy practices for Demandware, Inc. and its affiliates (&quot;Demandware&quot;).">
 	
-	<meta itemprop="image" content="http://www.demandware.com/dwre-share-og.jpg">
+	<meta itemprop="image" content="http://www.demandware.com/img/icons/png/cc-share.png">
 
 	
 	<meta name="twitter:card" content="summary">
@@ -46,7 +46,7 @@
 		<meta name="twitter:description" content="The following privacy policy describes Commerce Cloud Services privacy practices for Demandware, Inc. and its affiliates (&quot;Demandware&quot;).">
 	
 	<meta name="twitter:image" content="http://www.demandware.com/dwre-share-twitter.jpg">
-	
+
 	<link rel="canonical" href="http://www.demandware.com/privacy-policy">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -68,13 +68,13 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="/dist/css/main.2329250223.css">
+    <link rel="stylesheet" href="/dist/css/main.1295541488.css">
 
     <script>
         window['optimizely'] = window['optimizely'] || [];
         window['optimizely'].push(["setCookieExpiration", 365]);
     </script>
-    
+
     
     
     <script async="" src="//cdn.optimizely.com/js/1196641406.js"></script>
@@ -88,84 +88,95 @@
 
 <body class="en">
     <script>var WRInitTime=(new Date()).getTime();</script>
-    <header class="primary-header" data-header="">
-        
-	        <div class="primary-header-nav-meta">
-                <div class="primary-header-nav-meta-bg"></div>
-	            <ul>
-	                <li>
-	                    <a href="http://blog.demandware.com/">Blog</a>
-	                </li>
-	                <li>
-	                    <a href="/careers">Careers</a>
-	                </li>
-	            </ul>
-	        </div>
-        
-        <div class="primary-header-logo">
-            <a href="/">
-                <img src="/img/logos/img-demandware-logo.svg">
-            </a>
-        </div>
-        <nav class="primary-header-nav" data-header-nav="">
-            <ul>
-                <li class="large-only">
-                    <a href="#">Products</a>
-					
-						
-						<ul>
-							<li>
-								<a href="/products">Overview</a>
-								<ul>
-									<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
-									<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
-								</ul>
-							</li>
-							<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
-							<li><a href="/products/ecommerce-services">Services</a></li>
-						</ul>
-					
-                </li>
-                <li class="large-only"><a href="/clients">Clients</a></li>
-                <li class="large-only">
-                    <a href="#">Partners</a>
-                    <ul>
-                        <li><a href="/partners">Partners Overview</a></li>
-                    
-                        <li><a href="/partner-awards">Partner Awards</a></li>
-                    
-                        <li><a href="/link-marketplace">LINK Marketplace</a></li>
-                        <li><a href="/partners/become-a-partner">Become a Partner</a></li>
-                    </ul>
-                </li>
-                <li class="large-only">
-                    <a href="#">Resources</a>
-                    <ul>
-                        <li><a href="http://blog.demandware.com/">Blog</a></li>
-                        <li><a href="/resource-center">Resource Center</a></li>
-                        <li><a href="http://www.demandwarexchange.com/">XChange Conference</a></li>
-                        <li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
-                        
-						<li><a href="/shoppers-index">Shopping Index</a></li>
-                        
-                        
-                        
-                        
-                    </ul>
-                </li>
-                <li class="large-only">
-                    <a href="#">Company</a>
-                    <ul>
-                        <li><a href="/our-story">Our Story</a></li>
-                        <li><a href="/careers">Careers</a></li>
-                        
-                        <li><a href="/events">Events</a></li>
-                    </ul>
-                </li>
-                <li class="medium-only nav-cta">
-                    <a href="/contact" class="btn-light-blue-fill pill" data-track="Get in Touch Button|Click|Global Header - Desktop">Contact Us</a>
+    
+		<header class="primary-header" data-header="">
+			
+				<div class="primary-header-nav-meta">
+					<div class="primary-header-nav-meta-bg"></div>
+					<ul>
+						<li>
+							<a href="http://blog.demandware.com/">Blog</a>
+						</li>
+						<li>
+							<a href="/careers">Careers</a>
+						</li>
+					</ul>
+				</div>
+			
+			<div class="primary-header-logo">
+				<a href="/">
+					<img src="/img/logos/img-demandware-logo.svg">
+				</a>
+			</div>
+			<nav class="primary-header-nav" data-header-nav="">
+				<ul>
+					<li class="large-only">
+						<a href="#">Products</a>
+							
+							<ul>
+								<li>
+									<a href="/products">Overview</a>
+									<ul>
+										<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
+										<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
+									</ul>
+								</li>
+								
+								<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
+								
+								
+								<li><a href="/products/ecommerce-services">Services</a></li>
+								
+							</ul>
 
-                    
+							<!-- <ul>
+								<li><a href="/products">Overview</a></li>
+								<li><a href="/commerce-cloud">Commerce Cloud</a></li>
+								<li><a href="/capabilities">Business Goals</a></li>
+							
+								<li><a href="/client-success-services">Services</a></li>
+							</ul> -->
+					</li>
+					<li class="large-only"><a href="/clients">Clients</a></li>
+					<li class="large-only">
+						<a href="#">Partners</a>
+						<ul>
+							<li><a href="/partners">Partners Overview</a></li>
+						
+							<li><a href="/partner-awards">Partner Awards</a></li>
+						
+							<li><a href="/link-marketplace">LINK Marketplace</a></li>
+							<li><a href="/partners/become-a-partner">Become a Partner</a></li>
+						</ul>
+					</li>
+					<li class="large-only">
+						<a href="#">Resources</a>
+						<ul>
+							<li><a href="http://blog.demandware.com/">Blog</a></li>
+							<li><a href="/resource-center">Resource Center</a></li>
+							<li><a href="https://www.salesforce.com/events/xchange-amer/">XChange Conference</a></li>
+							<li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
+							
+							<li><a href="/shoppers-index">Shopping Index</a></li>
+							
+							
+							
+							
+						</ul>
+					</li>
+					<li class="large-only">
+						<a href="#">Company</a>
+						<ul>
+							<li><a href="/our-story">Our Story</a></li>
+							<li><a href="/careers">Careers</a></li>
+							
+							<li><a href="/events">Events</a></li>
+						</ul>
+					</li>
+					<li class="medium-only nav-cta">
+						<a href="/contact" class="btn-light-blue-fill pill" data-track="Get in Touch Button|Click|Global Header - Desktop">Contact Us</a>
+
+						
 
                     
                 </li>
@@ -180,13 +191,14 @@
                         <li><a href="http://www.demandware.hk">台灣 - 繁體中文</a></li>
                     </ul>
                 </li>
-                <li class="always"><a href="#" class="icon-search" data-global-search-trigger=""></a></li>
+                <!-- <li class="always"><a href="#" class="icon-search" data-global-search-trigger></a></li> -->
                 <li class="primary-header-toggle">
                     <a href="#" class="icon-list" data-header-nav-toggle=""></a>
                 </li>
             </ul>
 		</nav>
 	</header>
+	
 
     <nav class="offcanvas-nav" data-off-canvas="">
         <ul>
@@ -200,20 +212,29 @@
 
 			<li>
 				<a class="arrow-link-down" href="#">Products</a>
-				
 					
 					<ul>
-						<li>
-							<a href="/products">Overview</a>
-							<ul>
-								<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
-								<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
-							</ul>
-						</li>
-						<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
-						<li><a href="/products/ecommerce-services">Services</a></li>
-					</ul>
-				
+                            <li>
+                                <a href="/products">Overview</a>
+                                <ul>
+                                    <li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
+                                    <li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
+                                </ul>
+                            </li>
+                            
+                            <li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
+                            
+                            
+                            <li><a href="/products/ecommerce-services">Services</a></li>
+                            
+                        </ul>
+                    <!-- <ul>
+                        <li><a href="/products">Overview</a></li>
+                        <li><a href="/commerce-cloud">Commerce Cloud</a></li>
+                        <li><a href="/capabilities">Business Goals</a></li>
+                    
+                        <li><a href="/client-success-services">Services</a></li>
+                    </ul> -->
 			</li>
 
             <li><a href="/clients">Clients</a></li>
@@ -233,7 +254,7 @@
                 <ul>
                     <li><a href="http://blog.demandware.com/">Blog</a></li>
                     <li><a href="/resource-center">Resource Center</a></li>
-                    <li><a href="http://www.demandwarexchange.com/" target="_blank">XChange Conference</a></li>
+                    <li><a href="https://www.salesforce.com/events/xchange-amer/" target="_blank">XChange Conference</a></li>
                     <li><a href="http://www.demandware.com/pacesetter-awards">Pacesetter Awards</a></li>
                     
                     <li><a href="/shoppers-index">Shopping Index</a></li>
@@ -252,7 +273,7 @@
                     <li><a href="/events">Events</a></li>
                 </ul>
             </li>
-            <!--<li>
+            <li>
                 <a href="#" class="arrow-link-down capitalize">en</a>
                 <ul>
                     
@@ -262,8 +283,8 @@
                     <li><a href="http://www.demandware.cn">中国 - 简体中文</a></li>
                     <li><a href="http://www.demandware.hk">台灣 - 繁體中文</a></li>
                 </ul>
-            </li>-->
-            
+            </li>
+			
             
                 <li>
                     <ul class="side-by-side">
@@ -283,8 +304,8 @@
 
 	
 
-	<main class="main ">
-		
+		<main class="main ">
+			
 
 
 
@@ -293,7 +314,7 @@
 
 <div class="masthead-small">
     <div class="masthead-container">
-        <div class="masthead-content">
+        <div class="masthead-content generic-masthead-content">
             <h1><p>Privacy Policy</p></h1>
             
         </div>
@@ -305,68 +326,62 @@
 	<section class="panel-inner">
           <div class="wysiwyg">
             
-            <p>Last Updated May16, 2016</p>
+            <p>Last Updated April 12, 2017</p>
 
-<p>The following policy describes the privacy practices for Demandware, Inc. and its affiliates ("Demandware").</p>
+<p>The following policy describes the privacy practices for Salesforce Commerce Cloud (formerly &nbsp;Demandware, Inc.) and its affiliates ("Salesforce").</p>
 
-<p><a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with:</a></p>
+<p></p><div><a href="//privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6" alt="TRUSTe"></a></div><p></p>
 
-<p><a href="http://www.export.gov/safeharbor" target="_blank"><img alt="" src="http://www.demandware.com/uploads/about/safe_harbor2.jpg" style="height:106px; width:247px"></a><a href="//privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d" style="line-height: 20.7999992370605px;" target="_blank" title="TRUSTe Privacy Certification"><img alt="TRUSTe Privacy Certification" src="//privacy-policy.truste.com/privacy-seal/Demandware-Inc-/seal?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d" style="border:none"></a></p>
+<p>Salesforce respects the privacy of our customers, partners, employees, web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us or that we gather from your visit ("Personal Information").</p>
 
-<p>Demandware respects the privacy of our customers, partners, employees, web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us or that we gather from your visit ("Personal Information"). This Privacy Policy sets forth the privacy principles Demandware follows with respect to your Personal Information.</p>
+<p>This Privacy Policy sets forth the privacy principles Salesforce follows with respect to your Personal Information, including how Salesforce collects, uses, shares and secures the Personal Information you provide, and your choices regarding use, access and correction of your personal information.</p>
 
-<p>This privacy statement applies to all Personal Information collected via our web sites http://www.demandware.com, www.demandware.de, http://www.demandware.cn, http://www.demandware.jp, http://www.demandware.hk, http://www.demandware.fr, http://www.demandware.it and http://www.futurereadyretail.com (the "Corporate Sites"). It also provides information about processing operations related to Demandware's Commerce Cloud services (the "Commerce Cloud Services") which we make available to our customers. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe, an independent third party privacy assessor.</p>
+<p>This Privacy Policy applies to all Personal Information collected via our web sites, including http://www.demandware.com, www.demandware.de, http://www.demandware.cn, http://www.demandware.jp, http://www.demandware.hk, http://www.demandware.fr, http://www.demandware.it and http://www.futurereadyretail.com (the "Corporate Sites"). It also provides information about processing operations related to Salesforce's Commerce Cloud services (the "Commerce Cloud Services") which we make available to our customers.&nbsp;</p>
 
-<p>The TRUSTe program covers only information that is collected through our Corporate Sites, and does not cover information that may be collected through any software downloaded from our sites or our Commerce Cloud Services.</p>
+<p><strong>EU-U.S. Privacy Shield Framework and U.S.-Swiss Privacy Shield Framework</strong></p>
 
-<p>Demandware has been awarded the TRUSTe’s Privacy seal. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.&nbsp;</p>
+<p>The Commerce Cloud Services comply with the EU–U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Salesforce has certified to the Department of Commerce that the Commerce Cloud Services adhere to the Privacy Shield Principles.&nbsp;You can view a description of how we comply with the Privacy Shield Principles in our&nbsp;<a href="http://www.demandware.com/uploads/about/privacy-shield-notice.pdf">Privacy Shield Notice</a>. To learn more about the Privacy Shield program and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield website&nbsp;<a href="https://www.privacyshield.gov/welcome">here</a>.</p>
 
-<p><strong>Safe Harbor / EU-US Data Transfers</strong><br>
-Demandware has self certified compliance with the US-EU Safe Harbor Privacy Framework and US-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce regarding the transfer of Personal Information from European Union member countries and Switzerland, respectively, to the United States. Demandware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. More information about the U.S. Department of Commerce's Safe Harbor program and Demandware's certification can be found at <a href="http://www.export.gov/safeharbor" target="_blank">http://www.export.gov/safeharbor</a>.</p>
+<p>If you have questions or complaints regarding Salesforce’s Privacy Statement or associated practices, please contact us&nbsp;<span data-eeencemail_fwhbgsewuv="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request?subject=Watchdog%20request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 48',' 50',' 37',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_fwHbgSewUV'))el[j].innerHTML = out;/*]]>*/</script>.</p>
 
-<p><br>
-As part of our participation in the Safe Harbor Frameworks, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Frameworks. &nbsp; Please click <a href="https://www.truste.com/about-TRUSTe/contact-us/" target="_blank">here</a> for fax and postal mail information for TRUSTe. TRUSTe's Dispute Resolution process is available only in English.</p>
+<p>Any questions, comments or complaints about the data practices (including compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity or enforcement) of our Commerce Cloud Services customers or partners for which Salesforce processes data should be addressed to that customer or partner.</p>
 
-<p>While we have certified compliance with these Frameworks, we do not rely on these Frameworks as the legal basis for the transfer of data to the United States. &nbsp;Demandware recognizes that the EU-US Safe Harbor Frameworks no longer provides a sufficient legal basis for data transfers from the EU. For such personal data transfers, Demandware ensures an adequate level of protection for personal data by providing for other safeguards, including the EU Standard Contractual Clauses.</p>
-
-<p>Any questions, comments or complaints about the data practices (including compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity or enforcement) of our Commerce Cloud Services customers or partners for which Demandware processes data should be addressed to that customer or partner.</p>
-
-<p><br>
-<strong>CORPORATE SITES</strong><br>
+<p><strong>CORPORATE SITES</strong><br>
 <em>How Personal Information is Collected</em></p>
 
 <p><em>Web Visitors</em><br>
-On our Corporate Sites, we may collect the following Personal Information from prospective clients, prospective business partners, job applicants and other visitors: name, email, phone number and address. We collect this information only for the purpose of contacting individuals who have identified themselves as prospects or applicants for our activities, services and job openings. We may transfer this information to or receive this information in the United States. &nbsp;We may share this information with third party service providers for email processing and related services. These third parties are prohibited from using the Personal Information for any other purpose. &nbsp;&nbsp;<span style="line-height: 1.6;">&nbsp;</span></p>
+On our Corporate Sites, we may collect the following Personal Information from prospective clients, prospective business partners, job applicants and other visitors: name, email, phone number and address. We collect this information only for the purpose of contacting individuals who have identified themselves as prospects or applicants for our activities, services and job openings. We may transfer this information to or receive this information in the United States. &nbsp;We may share this information with third party service providers for email processing and related services. These third parties are prohibited from using the Personal Information for any other purpose. &nbsp;&nbsp;&nbsp;</p>
 
 <p><strong>IP Address and Other Standard Information</strong><br>
-As is true of many websites, we or our third party web analytics partners may gather certain information automatically and store it in log files or systems used by us. This information may include internet protocol (IP) addresses, device type, browser type, internet service provider (ISP), referring/exit pages, operating system, geo location, date/time stamp, and/or clickstream data. &nbsp;We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you as well as our marketing, analytics and site functionality and to analyze trends and gather demographic information about our user base as a whole. We may also receive reports based on the use of these technologies by our web analytics partners on an individual as well as aggregated basis.</p>
+As is true of many websites, we or our third party web analytics partners may gather certain information automatically and store it in log files or systems used by us. This information may include internet protocol (IP) addresses, device type, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. &nbsp;We may combine this automatically collected log information with other information we collect about you, including information we receive from third parties. We do this to improve services we offer you as well as our marketing, analytics and site functionality and to analyze trends and gather demographic information about our user base as a whole. We may also receive reports based on the use of these technologies by our web analytics partners on an individual as well as aggregated basis.</p>
 
-<p>We collect your location based (geo-location) information for the purpose of optimizing your web site experience. We will share this information with our mapping provider for the purpose of providing and optimizing this service for our visitors. You may opt-out of location based services at any time by editing the setting on your device.</p>
+<p>We collect your location based (geo-location) information for the purpose of optimizing your web site experience. We will share this information with our mapping provider for the purpose of providing and optimizing this service for our visitors.</p>
 
 <p><em>Tracking Technologies</em><br>
-Technologies such as cookies and other similar technologies are used by Demandware and our marketing partners, affiliates, and email and analytics service providers. These technologies are used in analyzing trends, administering, securing and optimizing the site, tracking users’ movements around the site and gathering demographic information about our user and visitor base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+Technologies such as cookies and other similar technologies are used by Salesforce and our marketing partners, affiliates, and email and analytics service providers. These technologies are used in analyzing trends, administering, securing and optimizing the site, tracking users’ movements around the site and gathering demographic information about our user and visitor base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
 
-<p>We use cookies for our &nbsp;websites to remember users’ settings (e.g. language preference) and for authentication and personalization. Users can control and as the case may be consent to the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
+<p>We use cookies for our Corporate Sites to remember users’ settings (e.g. language preference) and for authentication and personalization. Users can control and as the case may be consent to the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
 
-<p>We partner with one or more third parties to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies and LSOs to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. &nbsp;If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/" target="_blank">here</a>). Please note this does not opt you out of seeing generic ads on our Corporate Sites.</p>
+<p>We partner with one or more third parties to display advertising on our Corporate Sites or to manage our advertising on other sites. Our third party partners may use technologies such as cookies and LSOs to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. &nbsp;If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking&nbsp;here&nbsp;(or if located in the European Union click&nbsp;here). Please note this does not opt you out of seeing generic ads on our Corporate Sites.</p>
 
-<p>Our Web site includes social media features, such as the Facebook Like button, Tweet button, and other widgets which are interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Corporate Site. Your interactions with these features are governed by the privacy policy of the social media company.</p>
+<p>Our Corporate Sites include social media features, such as the Facebook Like button, Tweet button, and other widgets which are interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Corporate Site. Your interactions with these features are governed by the privacy policy of the social media company.</p>
 
 <p><em>Use of Your Personal Information</em><br>
-We use your Personal Information to provide you with information about Demandware and its products and services, including but not limited to webinars, newsletters, and job openings. You have the option at any time to opt-out of any secondary communications such as promotional communications by clicking on "unsubscribe" on the bottom of any promotional emails.</p>
+We use your Personal Information to administer your account, improve our Corporate Sites, and provide you with information about Salesforce and its products and services, including but not limited to webinars, newsletters, and job openings. You have the option at any time to opt-out of any secondary communications such as promotional communications by clicking on "unsubscribe" on the bottom of any promotional emails.</p>
 
 <p>We do not share, sell, rent or trade your Personal Information to third parties for promotional purposes. However, we may disclose your Personal Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process including court orders, subpoenas or bankruptcy proceedings; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Corporate Sites or Commerce Cloud Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).</p>
 
-<p>We may also disclose your Personal Information if we are involved in a merger, acquisition, or sale of all or a portion of our assets. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your&nbsp;<span style="line-height: 1.6;">Personal Information.</span></p>
+<p>We may also disclose your Personal Information if we are involved in a merger, acquisition, or sale of all or a portion of our assets. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your&nbsp;Personal Information.&nbsp; We may also disclose your Personal Information to any other third party with your prior consent.&nbsp;</p>
+
+<p>In certain situations, Salesforce may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
 
 <p>Other than as stated in this Privacy Policy, we will endeavor not to release your Personal Information to unknown or unaffiliated third parties.</p>
 
-<p><br>
-<strong>Links to Third-Party Web Sites&nbsp;</strong><br>
-The Corporate Sites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave the Corporate Site and be re-directed to a third-party site. Demandware does not control those sites or the privacy practices of those third-party sites, which may differ from Demandware's privacy practices. We do not endorse or make any representations about third-party web sites, and the personal data you choose to provide to third-party web sites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any web site or company before submitting your personal information to them.</p>
+<p><strong>Links to Third-Party Web Sites&nbsp;</strong><br>
+The Corporate Sites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave the Corporate Site and be re-directed to a third-party site. Salesforce does not control those sites or the privacy practices of those third-party sites, which may differ from Salesforce's privacy practices. We do not endorse or make any representations about third-party web sites, and the personal data you choose to provide to third-party web sites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any web site or company before submitting your personal information to them.</p>
 
 <p><strong>Access</strong><br>
-Demandware will take reasonable steps to ensure that your Personal Information is accurate, complete and relevant to its intended use. We provide individuals with reasonable access to the Personal Information that they provide to us, as well as the ability to review and correct such information. If you wish to access the Personal Information you have submitted to our Corporate Sites for the purpose of updating or deleting it, you may do so by sending us an email at <span data-eeencemail_ktqplelycl="1"><a href="mailto:privacy@demandware.com?subject=Website%20Privacy%20Policy">privacy@demandware.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112','>','\"',' 121',' 99',' 105',' 108',' 111',' 80',' 48',' 50',' 37',' 121',' 99',' 97',' 118',' 105',' 114',' 80',' 48',' 50',' 37',' 101',' 116',' 105',' 115',' 98',' 101',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_ktQpLeLycl'))el[j].innerHTML = out;/*]]>*/</script>.</p>
+Upon request, Salesforce will provide you with information about whether we hold any of your Personal Information.&nbsp; Salesforce will take reasonable steps to ensure that your Personal Information is accurate, complete and relevant to its intended use. We provide individuals with reasonable access to the Personal Information that they provide to us, as well as the ability to review and correct such information. If you wish to access the Personal Information you have submitted to our Corporate Sites for the purpose of updating or deleting it, you may do so by logging into to your customer account or by filling out this <a href="https://www.salesforce.com/form/contact/contact-privacy.jsp">form</a>.</p>
 
 <p>To protect your privacy and security, we also take reasonable steps to verify your identity before granting access to your Personal Information. In addition, we may limit or deny access to Personal Information when providing such access would be unreasonably burdensome or expensive in the circumstances or as otherwise permitted by applicable law or regulation. We will respond to your request for access to your Personal Information within 30 days after the original email request.</p>
 
@@ -374,63 +389,64 @@ Demandware will take reasonable steps to ensure that your Personal Information i
 We will retain your Personal Information for as long as your account is active or as needed to provide you services. We will retain and use your Personal Information including your geolocation information as we in good faith believe it necessary to (1) comply with the law or with legal process including court orders or subpoenas; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our web sites or Commerce Cloud Services; or (4) protect the personal safety or property of our users or the public.</p>
 
 <p><strong>Security</strong><br>
-When you enter sensitive information on our order forms (including when we collect geolocation information), we encrypt the transmission of that information using Transport Layer Security (TLS). We utilize industry standard physical, technical, and administrative controls and procedures to safeguard the information we collect, to prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your Personal Information. As no method of transmission over the Internet or method of electronic storage is completely secure, we cannot guarantee its absolute security.</p>
+The security of your Personal Information is important to us.&nbsp; When you enter sensitive information on our order forms (including when we collect geolocation information), we encrypt the transmission of that information using Transport Layer Security (TLS). We utilize industry standard physical, technical, and administrative controls and procedures to safeguard the information we collect, to prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your Personal Information. As no method of transmission over the Internet or method of electronic storage is completely secure, we cannot guarantee its absolute security.</p>
 
 <p><strong>Testimonials</strong><br>
-We may post testimonials on our Corporate Sites for the benefit of our prospective clients, partners and employees. We receive express consent from the individuals whose Personal Information is posted along with the testimonial before it is posted to our Corporate Sites. &nbsp;If you wish to update or delete your testimonial, you can contact us at <span data-eeencemail_ktqplelycl="1"><a href="mailto:privacy@demandware.com?subject=Website%20Privacy%20Policy">privacy@demandware.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112','>','\"',' 121',' 99',' 105',' 108',' 111',' 80',' 48',' 50',' 37',' 121',' 99',' 97',' 118',' 105',' 114',' 80',' 48',' 50',' 37',' 101',' 116',' 105',' 115',' 98',' 101',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_ktQpLeLycl'))el[j].innerHTML = out;/*]]>*/</script>.</p>
+We may post testimonials on our Corporate Sites for the benefit of our prospective clients, partners and employees. We receive express consent from the individuals whose Personal Information is posted along with the testimonial before it is posted to our Corporate Sites. &nbsp;If you wish to update or delete your testimonial, you can contact us by filling out this <a href="https://www.salesforce.com/form/contact/contact-privacy.jsp">form.</a></p>
 
-<p><strong>Blogs/ Forums</strong><br>
-We provide the Demandware forums and blogs as a means for our customers and other users of our Corporate Sites and Commerce Cloud Services to communicate. If you use a bulletin board, blog, forum or chat room on this Web site, you should be aware that any Personal Information you submit there can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the information that you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at <span data-eeencemail_ktqplelycl="1"><a href="mailto:privacy@demandware.com?subject=Website%20Privacy%20Policy">privacy@demandware.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112','>','\"',' 121',' 99',' 105',' 108',' 111',' 80',' 48',' 50',' 37',' 121',' 99',' 97',' 118',' 105',' 114',' 80',' 48',' 50',' 37',' 101',' 116',' 105',' 115',' 98',' 101',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_ktQpLeLycl'))el[j].innerHTML = out;/*]]>*/</script>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p><strong>Blogs/Forums</strong><br>
+We provide forums and blogs as a means for our customers and other users of our Corporate Sites and Commerce Cloud Services to communicate. If you use a bulletin board, blog, forum or chat room on our Corporate Sites, you should be aware that any Personal Information you submit there can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the information that you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us by filling out this <a href="https://www.salesforce.com/form/contact/contact-privacy.jsp">form.</a> In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p>
 
 <p>Our blog is also managed by a third party application that may require you to register to post a comment. We may not have access or control of the information posted to the blog. You may need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
 
 <p><strong>Data Integrity</strong><br>
-Demandware will take reasonable steps to ensure that Personal Information is accurate, complete, and current to its intended use. Demandware will only use Personal Information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.</p>
+Salesforce will take reasonable steps to ensure that Personal Information is accurate, complete, and current to its intended use. Salesforce will only use Personal Information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.</p>
 
-<p>Enforcement and Verification<br>
-Demandware regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Demandware's treatment of Personal Information by contacting us by email at <span data-eeencemail_ktqplelycl="1"><a href="mailto:privacy@demandware.com?subject=Website%20Privacy%20Policy">privacy@demandware.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112','>','\"',' 121',' 99',' 105',' 108',' 111',' 80',' 48',' 50',' 37',' 121',' 99',' 97',' 118',' 105',' 114',' 80',' 48',' 50',' 37',' 101',' 116',' 105',' 115',' 98',' 101',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_ktQpLeLycl'))el[j].innerHTML = out;/*]]>*/</script>.</p>
+<p><strong>Enforcement and Verification</strong><br>
+Salesforce regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Salesforce's treatment of Personal Information filling out this <a href="https://www.salesforce.com/form/contact/contact-privacy.jsp">form</a>.</p>
 
 <p><strong>Contact Information</strong><br>
-At any time you may contact Demandware with questions or concerns about this Privacy Policy at <span data-eeencemail_ktqplelycl="1"><a href="mailto:privacy@demandware.com?subject=Website%20Privacy%20Policy">privacy@demandware.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112','>','\"',' 121',' 99',' 105',' 108',' 111',' 80',' 48',' 50',' 37',' 121',' 99',' 97',' 118',' 105',' 114',' 80',' 48',' 50',' 37',' 101',' 116',' 105',' 115',' 98',' 101',' 87',' 61',' 116',' 99',' 101',' 106',' 98',' 117',' 115',' 63',' 109',' 111',' 99',' 46',' 101',' 114',' 97',' 119',' 100',' 110',' 97',' 109',' 101',' 100',' 64',' 121',' 99',' 97',' 118',' 105',' 114',' 112',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_ktQpLeLycl'))el[j].innerHTML = out;/*]]>*/</script>.<br>
+At any time you may contact Salesforce with questions or concerns about this Privacy Policy by filling out this <a href="https://www.salesforce.com/form/contact/contact-privacy.jsp">form</a>.<br>
 Written questions may also be submitted to:</p>
 
-<p><br>
-Demandware, Inc.<br>
-Attention: General Counsel<br>
-5 Wall Street<br>
-Burlington, MA 01803 USA<br>
-&nbsp;<br>
-<strong>Changes to This Privacy Policy</strong><br>
-The practices described in this Privacy Policy are the current Personal Information protection policies as of the date specified above. Demandware reserves the right to modify or amend this Privacy Policy at any time. If we make changes to this Privacy Policy that we believe to be material regarding our collection, use or disclosure of Personal Information, we will endeavor to post a prominent notice on our Corporate Sites at least thirty (30) days prior to our implementation of such material changes.</p>
+<p>Salesforce.com Privacy<br>
+The Landmark @ One Market Street, Suite 300<br>
+San Francisco, CA 94105</p>
 
-<p><br>
-<strong>DEMANDWARE COMMERCE SERVICES</strong><br>
-Demandware provides our customers with a hosted Commerce Cloud platform and application suite of services that facilitate functionality to support the development and management of Commerce Cloud Services. The Commerce Cloud Services are not a part of our Corporate Sites. Demandware serves as a data processor for our customers who use these services as the data controllers. More specifically, Demandware does not own the information that is submitted to our customers' websites. The information that is submitted to a web site of one of our customers will be subject to that customer's privacy policy. The following section of this policy discloses how Demandware will process information for our customers.&nbsp;</p>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <span data-eeencemail_knhrfmqpoq="1"><a href="mailto:https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104','>','\"',' 116',' 115',' 101',' 117',' 113',' 101',' 114',' 47',' 103',' 111',' 100',' 104',' 99',' 116',' 97',' 119',' 47',' 109',' 111',' 99',' 46',' 101',' 116',' 115',' 117',' 114',' 116',' 46',' 109',' 114',' 111',' 102',' 45',' 107',' 99',' 97',' 98',' 100',' 101',' 101',' 102',' 47',' 47',' 58',' 115',' 112',' 116',' 116',' 104',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_KNHRfmqpoq'))el[j].innerHTML = out;/*]]>*/</script>.</p>
 
-<p><br>
-<strong>Web Visitors (Commerce Cloud Services Customers)</strong><br>
-Demandware processes personal information about a visitor to our customers' websites ("Visitors") on behalf of our customers for the purposes of providing the Commerce Cloud Services and on behalf of itself to optimize its services. On certain pages, for example, a Visitor may be required by our customers to provide his/her personal information such as his/her name, address, phone number and e-mail address in order to complete a transaction or perform a requested service.</p>
+<p><strong>Changes to This Privacy Policy</strong><br>
+The practices described in this Privacy Policy are the current Personal Information protection policies as of the date specified above. Salesforce reserves the right to modify or amend this Privacy Policy at any time. If we make any material changes to this Privacy Policy regarding our collection, use or disclosure of Personal Information, we will notify you by email or by means of a prominent notice on our Corporate Sites at least thirty (30) days prior to our implementation of such material changes.</p>
+
+<p><strong>COMMERCE CLOUD SERVICES</strong><br>
+Salesforce provides our customers with a hosted Commerce Cloud platform and application suite of services that facilitate functionality to support the development and management of Commerce Cloud Services. The Commerce Cloud Services are not a part of our Corporate Sites. Salesforce serves as a data processor for our customers who use these services as the data controllers. More specifically, Salesforce does not own the information that is submitted to our customers' websites. The information that is submitted to a web site of one of our customers will be subject to that customer's privacy policy. The following section of this policy discloses how Salesforce will process information for our customers.&nbsp;</p>
+
+<p><strong>Commerce Cloud Services Customers’ Website Visitors</strong><br>
+Salesforce processes Personal Information about a visitor to our customers' websites ("Visitors") on behalf of our customers for the purposes of providing the Commerce Cloud Services. Salesforce also processes that Personal Information on our own behalf to optimize our services. On certain pages, for example, a Visitor may be required by our customers to provide his/her Personal Information such as his/her name, address, phone number and e-mail address in order to complete a transaction or perform a requested service.</p>
 
 <p><strong>Employees</strong><br>
-Demandware may process personal information from our customers' employees for, among other things, application access and authentication.</p>
+Salesforce may process Personal Information from our customers' employees for, among other things, application access and authentication.</p>
 
-<p><strong>Onward Transfer</strong><br>
+<p><strong>Sharing and Onward Transfer</strong><br>
 <em>Sharing of Visitors' Personal Information</em><br>
-We may contract with third-party providers to perform certain functions on behalf of our customers to enhance our existing product and service offerings, such as product and service support.</p>
+We may contract with third-party service providers to perform certain functions on behalf of our customers to enhance our existing product and service offerings, such as product and service support.</p>
 
 <p>These third parties may have access to Visitors' personal information as necessary to permit them to perform their functions. They are bound by confidentiality agreements or similar contractual restrictions with respect to any information that is provided to them and they are prohibited from using the information for other purposes.</p>
 
-<p><u>Web Site / Cookies</u><br>
+<p>We do not share, sell, rent or trade Visitors’ Personal Information to third parties for promotional purposes. However, we may disclose Visitors’ Personal Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process including court orders, subpoenas or bankruptcy proceedings; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Corporate Sites or Commerce Cloud Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if Visitors provide false information or attempt to pose as someone else, information about them may be disclosed as part of any investigation into their actions).</p>
+
+<p><strong>Web Site / Cookies</strong><br>
 In order to improve the content and format of our platform and applications, our Commerce Cloud Services use web site tracking software which allows our customers to automatically capture technical information that is then stored in our servers' log files. This information may include, but is not limited to, internet protocol (IP) addresses, user domain, the device type, the browser type, which of our customers' Web pages are visited, which products are viewed and added to a shopping cart, what products are purchased and the amount of time spent on our customers' sites. Our customers may combine this automatically collected log information with other information they collect about you as may be disclosed to you in our customers’ privacy policies. We may use this information to improve the Commerce Cloud Services we offer our customers as well as our marketing, analytics and site functionality and to analyze trends and gather demographic information about our user base as a whole.&nbsp;</p>
 
 <p>Our customers' website pages may contain "cookies." A cookie is a small amount of data which a Web site stores on a Visitor's computer, and which we or our customers can later retrieve. The cookie cannot be read by an entity other than us, our customer or one of our or our customers’ service providers. We and our customers use cookies for a number of administrative purposes, such as to store Visitors' preferences for certain kinds of information. Any use of cookies by our customers will be governed by our customers' privacy policies.&nbsp;</p>
 
 <p><strong>Security</strong><br>
-To protect the confidentiality, integrity, and availability of Visitors' personal information that is processed by our services, Demandware utilizes a variety of industry standard physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, and backup systems. We use SSL encrypted sessions when processing or transferring sensitive data through platform and applications.<br>
-We limit access to Visitors' personal information and data to those persons and entities who have a specific business purpose for maintaining and processing such information. Demandware employees who have been granted physical access to a Visitor's personal information have been made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.</p>
+To protect the confidentiality, integrity, and availability of Visitors' personal information that is processed by our services, Salesforce utilizes a variety of industry standard physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, and backup systems. We use SSL encrypted sessions when processing or transferring sensitive data through platform and applications.</p>
+
+<p>We limit access to Visitors' personal information and data to those persons and entities who have a specific business purpose for maintaining and processing such information. Salesforce employees who have been granted physical access to a Visitor's personal information have been made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.</p>
 
 <p><strong>Access</strong><br>
-Our customers are responsible to ensure that Visitor's Personal Information is accurate, complete, and current to its intended use. Our customers have reasonable access to the personal information that they provide to us, as well as the ability to review, correct or request the deletion of such information.</p>
+Because Salesforce has no direct relationship with the individual Visitors whose Personal Information we process on behalf of our Customers, our Customers are responsible for ensuring that their Visitors’ Personal Information is accurate, complete, and current to its intended use. Our customers have reasonable access to the Personal Information that they provide to us for processing, as well as the ability to review, correct or request the deletion of such information.&nbsp; If you wish to request access, to limit use, or to limit disclosure, please inquire with the Customer (or his/her organization) directly.&nbsp; If an authorized Customer requests that we update or remove the data in question and the Customer has no ability to do so via use of the Commerce Cloud Services, we will acknowledge that request within 30 days.</p>
 
 <p><strong>Data Retention</strong><br>
 We retain your information for as long as instructed by our customers. We and our customers may retain and use your information as reasonably necessary to comply with our legal obligations, resolve disputes, and enforce our rights and as otherwise set forth in our respective customer's privacy policy.</p>
@@ -456,146 +472,160 @@ We retain your information for as long as instructed by our customers. We and ou
     </div>
 </section>
 
-        <footer class="primary-footer">
-			<section class="primary-footer-inner">
-				<nav class="row">
-					<div class="primary-footer-list-large">
-						<p>
-							<a class="why-btn btn-white-fill fixed" href="/contact" data-track="Get in Touch Button|Click|Global Footer">
-								Contact Us
-							</a>
-						</p>
-						<div class="primary-footer-sep">
-							<p class="list-heading">Contact Sales</p>
-							<ul>
-								<li>
-	                                <a href="tel:+1-888-553-9216" data-track="Phone Link|Click|Global Footer - Contact Sales">
-	                                    +1-888-553-9216
-	                                </a>
-								</li>
-								<li>
-									<span data-eeencemail_xyfrnerqek="1"><a href="mailto:commercecloud@salesforce.com">commercecloud@salesforce.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99','>','\"',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_XYfrnERqeK'))el[j].innerHTML = out;/*]]>*/</script>
-								</li>
-								<li>
-									<address>
-										5 Wall St. Burlington,<br>
-MA 01803 USA
-									</address>
-								</li>
-							</ul>
-							
-							<p class="list-heading single-item">
-								<a href="/contact#locations">
-									Office Locations
+		
+			<footer class="primary-footer">
+				<section class="primary-footer-inner">
+					<nav class="row">
+						<div class="primary-footer-list-large">
+							<p>
+								<a class="why-btn btn-white-fill fixed" href="/contact" data-track="Get in Touch Button|Click|Global Footer">
+									Contact Us
 								</a>
 							</p>
-                            
+							<div class="primary-footer-sep">
+								<p class="list-heading">Contact Sales</p>
+								<ul>
+									<li>
+										<a href="tel:+1-888-553-9216" data-track="Phone Link|Click|Global Footer - Contact Sales">
+											+1-888-553-9216
+										</a>
+									</li>
+									<li>
+										<span data-eeencemail_hvzffxxbzf="1"><a href="mailto:commercecloud@salesforce.com">commercecloud@salesforce.com</a></span><script type="text/javascript">/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99','>','\"',' 109',' 111',' 99',' 46',' 101',' 99',' 114',' 111',' 102',' 115',' 101',' 108',' 97',' 115',' 64',' 100',' 117',' 111',' 108',' 99',' 101',' 99',' 114',' 101',' 109',' 109',' 111',' 99',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_hvZFfxxbZf'))el[j].innerHTML = out;/*]]>*/</script>
+									</li>
+									<li>
+										<address>
+											5 Wall St. Burlington,<br>
+MA 01803 USA
+										</address>
+									</li>
+								</ul>
+								
+								<p class="list-heading single-item">
+									<a href="/contact#locations">
+										Office Locations
+									</a>
+								</p>
+								
+							</div>
+						</div>
+						<div class="primary-footer-list">
+							<p class="list-heading">Company</p>
+							<ul>
+								<li><a href="/our-story">Our Story</a></li>
+								<li><a href="/careers">Careers</a></li>
+								
+								<li><a href="/events">Events</a></li>
+								<li><a href="/contact">Contact Us</a></li>
+							</ul>
+						</div>
+						<div class="primary-footer-list">
+							<p class="list-heading">Products</p>
+							<ul>
+								
+								<li><a href="/products">Overview</a></li>
+								
+								<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
+								<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
+								
+								<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
+								
+								<li><a href="/products/ecommerce-services">Services</a></li>
+							</ul>
+
+							<!-- <p class="list-heading">Products</p>
+							<ul>
+								<li><a href="/products">Overview</a></li>
+								<li><a href="/commerce-cloud">Commerce Cloud</a></li>
+								<li><a href="/capabilities">Business Goals</a></li>
+							
+								<li><a href="/client-success-services">Services</a></li>
+							</ul> -->
+
+							<p class="list-heading">Resources</p>
+							<ul>
+								<li><a href="http://blog.demandware.com/">Blog</a></li>
+								<li><a href="/resource-center">Resource Center</a></li>
+								<li><a href="https://www.salesforce.com/events/xchange-amer/" target="_blank">XChange Conference</a></li>
+								<li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
+								
+								<li><a href="/shoppers-index">Shopping Index</a></li>
+								
+								
+								
+								
+							</ul>
+						</div>
+						<div class="primary-footer-list">
+							<p class="list-heading single-item"><a href="/clients">Clients</a></p>
+
+							<p class="list-heading">Partners</p>
+							<ul>
+								<li><a href="/partners">Partners Overview</a></li>
+								
+								<li><a href="/partner-awards">Partner Awards</a></li>
+								
+								<li><a href="/link-marketplace">LINK Marketplace</a></li>
+								<li><a href="/partners/become-a-partner">Become a Partner</a></li>
+							</ul>
+							
+							
+							
+						</div>
+					</nav>
+					<div class="row">
+						<div class="primary-footer-connect">
+							<p class="list-heading">Connect With Us</p>
+							<ul class="social-circle-icons">
+								<li>
+									<a class="icon-social-linkedin" href="https://www.linkedin.com/company/demandware" data-track="Social Network|Visit|Global Footer - LinkedIn" target="_blank">
+
+									</a>
+								</li>
+								<li>
+									<a class="icon-social-facebook" href="https://www.facebook.com/demandware" data-track="Social Network|Visit|Global Footer - Facebook" target="_blank">
+
+									</a>
+								</li>
+								<li>
+									<a class="icon-social-twitter" href="https://twitter.com/commercecloud" data-track="Social Network|Visit|Global Footer - Twitter" target="_blank">
+
+									</a>
+								</li>
+								<li>
+									<a class="icon-social-youtube" href="https://www.youtube.com/user/demandware" data-track="Social Network|Visit|Global Footer - Youtube" target="_blank">
+
+									</a>
+								</li>
+								<li>
+									<a class="icon-social-instagram" href="https://www.instagram.com/commercecloud/" data-track="Social Network|Visit|Global Footer - Instagram" target="_blank">
+
+									</a>
+								</li>
+								
+							</ul>
 						</div>
 					</div>
-					<div class="primary-footer-list">
-						<p class="list-heading">Company</p>
-						<ul>
-							<li><a href="/our-story">Our Story</a></li>
-							<li><a href="/careers">Careers</a></li>
-							
-							<li><a href="/events">Events</a></li>
-							<li><a href="/contact">Contact Us</a></li>
-						</ul>
-					</div>
-					<div class="primary-footer-list">
-						
-						<p class="list-heading">Products</p>
-						<ul>
-							<li><a href="/products">Overview</a></li>
-							<li><a href="/products/digital-commerce">Commerce Cloud Digital</a></li>
-							<li><a href="/products/point-of-sale">Commerce Cloud Store</a></li>
-							<li><a href="/products/why-commerce-cloud">Why Commerce Cloud?</a></li>
-							<li><a href="/products/ecommerce-services">Services</a></li>
-						</ul>
-						
-						<p class="list-heading">Resources</p>
-						<ul>
-							<li><a href="http://blog.demandware.com/">Blog</a></li>
-							<li><a href="/resource-center">Resource Center</a></li>
-							<li><a href="http://www.demandwarexchange.com/" target="_blank">XChange Conference</a></li>
-							<li><a href="/pacesetter-awards">Pacesetter Awards</a></li>
-							
-							<li><a href="/shoppers-index">Shopping Index</a></li>
-							
-							
-							
-							
-						</ul>
-					</div>
-					<div class="primary-footer-list">
-						<p class="list-heading single-item"><a href="/clients">Clients</a></p>
+				</section>
 
-						<p class="list-heading">Partners</p>
-						<ul>
-							<li><a href="/partners">Partners Overview</a></li>
-							
-							<li><a href="/partner-awards">Partner Awards</a></li>
-							
-							<li><a href="/link-marketplace">LINK Marketplace</a></li>
-							<li><a href="/partners/become-a-partner">Become a Partner</a></li>
-						</ul>
-						
-						
-						
-					</div>
-				</nav>
-				<div class="row">
-					<div class="primary-footer-connect">
-						<p class="list-heading">Connect With Us</p>
-						<ul class="social-circle-icons">
-							<li>
-								<a class="icon-social-linkedin" href="https://www.linkedin.com/company/demandware" data-track="Social Network|Visit|Global Footer - LinkedIn" target="_blank">
-
-								</a>
-							</li>
-							<li>
-								<a class="icon-social-facebook" href="https://www.facebook.com/demandware" data-track="Social Network|Visit|Global Footer - Facebook" target="_blank">
-
-								</a>
-							</li>
-							<li>
-								<a class="icon-social-twitter" href="https://twitter.com/commercecloud" data-track="Social Network|Visit|Global Footer - Twitter" target="_blank">
-
-								</a>
-							</li>
-							<li>
-								<a class="icon-social-youtube" href="https://www.youtube.com/user/demandware" data-track="Social Network|Visit|Global Footer - Youtube" target="_blank">
-
-								</a>
-							</li>
-							<li>
-								<a class="icon-social-instagram" href="https://www.instagram.com/commercecloud/" data-track="Social Network|Visit|Global Footer - Instagram" target="_blank">
-
-								</a>
-							</li>
-							
-						</ul>
+				<div class="primary-footer-sub">
+					<div class="primary-footer-inner">
+						<div class="row">
+							<p class="primary-footer-sub-copyright">
+								© 2017 Salesforce.com, inc. <a href="http://www.salesforce.com/company/legal/intellectual.jsp" target="blank">All rights reserved.</a> Various trademarks held by their respective owners. Salesforce.com, inc. The Landmark at One Market, Suite 300, San Francisco, CA 94105, United States
+							</p>
+							<nav class="primary-footer-sub-nav">
+								<ul>
+									<li><a href="/sitemap">Sitemap</a></li>
+									<li><a href="/privacy-policy">Privacy Policy</a></li>
+									<li><a href="/terms-of-use">Terms of Use</a></li>
+								</ul>
+							</nav>
+						</div>
 					</div>
 				</div>
-			</section>
-
-			<div class="primary-footer-sub">
-				<div class="primary-footer-inner">
-					<div class="row">
-						<p class="primary-footer-sub-copyright">
-							© 2016 Salesforce.com, inc. <a href="http://www.salesforce.com/company/legal/intellectual.jsp" target="_blank">All rights reserved.</a> Various trademarks held by their respective owners. Salesforce.com, inc. The Landmark at One Market, Suite 300, San Francisco, CA 94105, United States
-						</p>
-						<nav class="primary-footer-sub-nav">
-							<ul>
-                                <li><a href="/sitemap">Sitemap</a></li>
-								<li><a href="/privacy-policy">Privacy Policy</a></li>
-								<li><a href="/terms-of-use">Terms of Use</a></li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-			</div>
-		</footer>
+			</footer>
+		
     </main>
 
     <div class="search-overlay">
@@ -627,7 +657,7 @@ MA 01803 USA
 							<div class="picker--sidebar-sort" data-picker-small="g_sort">
 								<p class="picker__label" data-picker-label="">Most Relevant</p>
 								<select class="picker__select" name="select_element" data-parsley-class-handler=".picker" required="">
-									<option data-sort-g="rel" value="rel">Most Relevant</option>
+									<option data-sort-g="rel" value="rel" selected="">Most Relevant</option>
 									<option data-sort-g="new" value="old">Newest</option>
 									<option data-sort-g="old" value="old">Oldest</option>
 								</select>
@@ -708,7 +738,9 @@ MA 01803 USA
 
 	
 
-	<script src="/dist/js/common.1929474698.js"></script>
+	<script src="/dist/js/common.1873679067.js"></script>
+
+	
 
 	
 
@@ -725,5 +757,5 @@ MA 01803 USA
 
 	
 	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1901cd30ae","applicationID":"6201900","transactionName":"MwFSYxRVDEUAUxdRWgpLc0IVQA1bTho=","queueTime":0,"applicationTime":1245,"atts":"H0ZRFVxPH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1901cd30ae","applicationID":"6201900","transactionName":"MwFSYxRVDEUAUxdRWgpLc0IVQA1bTho=","queueTime":0,"applicationTime":1495,"atts":"H0ZRFVxPH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
