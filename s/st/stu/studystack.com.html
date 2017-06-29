@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118231319id_/http%3A//www.studystack.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629040313id_/https%3A//www.studystack.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/" lang="en"><head>
  <!-- commonHead.jsp -->
    <meta name="p:domain_verify" content="2d8691d9c4eca28a93aa9a3287a19cc8">
    <meta content="IE=9" http-equiv="X-UA-Compatible">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <link rel="SHORTCUT ICON" href="http://sstk.biz/images/favicon.png">
+   <link rel="SHORTCUT ICON" href="https://sstk.biz/images/favicon.png">
 
 
-      <link rel="StyleSheet" href="/stylecss.jsp?v=21false" type="text/css">
+      <link rel="StyleSheet" href="/stylecss.jsp?v=25false" type="text/css">
 
    <meta name="Author" content="John Weidner">
-   <link rel="apple-touch-icon" sizes="40x40" href="http://sstk.biz/images/books40x40.png">
-   <link rel="apple-touch-icon" sizes="155x155" href="http://sstk.biz/images/Study_stack155px.png">
-   <link rel="apple-touch-startup-image" href="http://sstk.biz/images/studystack320x480.png">
+   <link rel="apple-touch-icon" sizes="40x40" href="https://sstk.biz/images/books40x40.png">
+   <link rel="apple-touch-icon" sizes="155x155" href="https://sstk.biz/images/Study_stack155px.png">
+   <link rel="apple-touch-startup-image" href="https://sstk.biz/images/studystack320x480.png">
    <meta itemprop="name" content="StudyStack flashcards">
    <meta itemprop="description" content="The seriously fun way to study!!!">
    <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
@@ -36,8 +36,8 @@
            background-color: inherit;
         }
       </style>
-      <link rel="stylesheet" type="text/css" href="/newHomeStyles.css?v=14">
-      <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" type="text/css" href="/newHomeStyles.css?v=15">
+      <link href="//fonts.googleapis.com/css?family=Lato:300,400,400italic" rel="stylesheet" type="text/css">
 
 
 
@@ -66,6 +66,12 @@
 
 
 
+     <!-- sovrn -->
+     <!-- OnScroll tag: studystack - VET -->
+     <script src="//tags.us.onscroll.com/76829b02-b9f6-4fc9-9e04-e5b32af683b1/tag.min.js" async="" defer=""></script>
+
+
+
 
 
 
@@ -88,7 +94,7 @@
 
       FB.init({
         appId      : '52462214664',
-        channelUrl : 'http://www.studystack.com/fbChannel.html', // Channel File
+        channelUrl : 'https://www.studystack.com/fbChannel.html', // Channel File
         status     : true, // check login status
         cookie     : true, // enable cookies to allow the server to access the session
         xfbml      : true, // parse XFBML
@@ -122,6 +128,7 @@
 <script type="text/javascript">
    var UTILS_JS = "" ;
    var studyStackId = 0 ;
+   var completionBits = 0 ;
 
    
 
@@ -134,7 +141,7 @@
 
 
 
-<script src="/utils.js?v=14" type="text/javascript"></script>
+<script src="/utils.js?v=31" type="text/javascript"></script>
 
 
 
@@ -230,7 +237,7 @@ div#top {
                                          <img class="app-button2" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png">
                                       </a>
                                       <a href="https://itunes.apple.com/us/app/studystack-flashcards-study/id1147027509?mt=8">
-                                         <img class="app-button2" alt="Download on the App Store" src="images/iosAppStore.png">
+                                         <img class="app-button2" alt="Download on the App Store" src="https://sstk.biz/images/iosAppStore.png?v=3">
                                       </a>
                                 </div>
 
@@ -779,6 +786,7 @@ left:0px;
 
                <input type="email" id="email" name="email" placeholder="Username or email" autocomplete="on">
                <input type="password" id="password" name="password" placeholder="Password" autocomplete="on">
+                 <img id="loginEye" src="/images/blackeye.png" onmouseover="showPassword(&quot;password&quot;,true)" onmouseout="showPassword(&quot;password&quot;,false)" style="width:20px;height:17px;position:absolute;top:52%;right:1.7em;transform:translate(0%,-50%)" alt="show password">
 
                <div id="forgotWrapper">
                    <input type="checkbox" id="rememberMe"><label for="rememberMe">&nbsp;Remember me&nbsp;</label>
@@ -807,14 +815,15 @@ left:0px;
           <div id="emailSignupArea">
              <label style="display:none" for="signupUserName">Username</label>
              <label style="display:none" for="signupEmail">Email address</label>
+             <label style="display:none" for="signupPassword">Password</label>
              <div style="position:relative">
                  <input type="text" id="signupUserName" name="signupUserName" placeholder="Username" autocomplete="off" onkeyup="checkUniqueUserName( this.value)">
-                 <img id="userNameStatus" src="/images/greenCheckMark.svg" style="position: absolute; z-index: 10; top: 13px; right: 5px; height: 24px; width: 24px;opacity:0;transition: opacity 0.25s ease-in-out;">
+                 <img id="userNameStatus" src="/images/greenCheckMark.svg" alt="Username is available" style="position: absolute; z-index: 10; top: 13px; right: 5px; height: 24px; width: 24px;opacity:0;transition: opacity 0.25s ease-in-out;">
                  <span id="userNameTaken" style="color: red; position: absolute; z-index: 3; right: 4px; top: 30px; font-size: 11px;opacity:0;transition: opacity 0.25s ease-in-out;">taken</span>
              </div>
              <div style="position:relative">
                  <input type="password" id="signupPassword" placeholder="Password" autocomplete="off">
-                 <img id="signupEye" src="/images/blackeye.png" onmouseover="showPassword(true)" onmouseout="showPassword(false)" style="width:20px;height:17px;position:absolute;top:50%;right:0.3em;transform:translate(0%,-50%)" alt="show password">
+                 <img id="signupEye" src="/images/blackeye.png" onmouseover="showPassword(&quot;signupPassword&quot;,true)" onmouseout="showPassword(&quot;signupPassword&quot;,false)" style="width:20px;height:17px;position:absolute;top:50%;right:0.3em;transform:translate(0%,-50%)" alt="show password">
              </div>
 
 
@@ -859,8 +868,8 @@ left:0px;
       <div id="resetPassword" class="modalPopup">
           <div id="resetPasswordHeading">Reset Password</div>
           <div id="resetPasswordBoxPadding">
-              Enter the email address associated with your account, and we'll email you a link to reset your password.
-              <input type="text" id="resetEmail" placeholder="Email Address">
+              Enter the <label for="resetEmail">email address</label> associated with your account, and we'll email you a link to reset your password.
+              <input type="text" id="resetEmail" name="resetEmail" placeholder="Email Address">
               <hr>
               <input type="submit" id="sendResetLink" class="standard-button" value="Send Reset Link">
           </div>
@@ -886,8 +895,8 @@ left:0px;
   var MISSING_EMAIL = -5;
   var USERNAME_TAKEN = -6;
 
-   function showPassword( show ) {
-      var pwField = document.getElementById( 'signupPassword' );
+   function showPassword( pwFieldId, show ) {
+      var pwField = document.getElementById( pwFieldId );
       if ( pwField ) {
            pwField.type = show ? 'text' : 'password' ;
       }
@@ -1311,51 +1320,36 @@ Phone: 405 806 0070<br>
 </div><!-- end container -->
 
 
-     
-	<footer>
-
-		<div class="container">
-			<a href="/"><img src="/images/studystacklogo.svg" alt="Study Stack"></a>
-
-			<h6>Copyright © 2001-2016 StudyStack LLC. All rights reserved.</h6>
-
-			<div class="line-seperator"></div>
-
-			<nav>
-				<ul>
-					<li><a href="/#top" class="header-footer-a">Home</a></li>
-					<li><a href="/Flashcards" class="header-footer-a">Flashcards</a></li>
-					<li><a href="/About" class="header-footer-a">About</a></li>
-					<li><a href="/FAQ" class="header-footer-a">FAQ</a></li>
-					<li><a href="/Terms" class="header-footer-a">Terms of Service</a></li>
-					<li><a href="/Privacy" class="header-footer-a">Privacy Statement</a></li>
-					<li><a href="/Contact" class="header-footer-a">Contact</a></li>
-				</ul>
-			</nav>
-		</div><!--END OF container-->
+<div>&nbsp;</div>
 
 
 
-    <div id="bottomButtonWrapper">
-       <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton"></a>
 
-           <a title="create flashcards plus a dozen other activities" href="#" onclick="javascript:showSignupBox( event);return false;" id="createFlashcardsButton"></a>
-
+    <style>
+      #bottomButtonWrapper a:hover {
+         text-decoration: none;
+      }
+      .buttonTitle {
+          font-size: 17pt;
+      }
+      .bigbutton2 {
+          background-color: #3ea3db;
+          font-size: 10pt;
+          font-style: normal;
+          padding: 1px;
+          padding-top: 11px;
+          width: 224px;
+          padding-bottom: 10px;
+      }
+   </style>
+   <div id="bottomButtonWrapper">
+       <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton2" class="bigbutton bigbutton2"><span class="buttonTitle">Browse or Search</span> millions of existing flashcards</a>
+           &nbsp; &nbsp;
+           <a title="create flashcards plus a dozen other activities" href="editdata--1" id="createFlashcardsButton2" class="bigbutton bigbutton2">
+                <span class="buttonTitle">Create Flashcards</span> plus a dozen other activities
+           </a>
    </div>
 
-<div style="margin:40px">
-   <a href="http://www.studystack.com/Home.jsp?oldui">Click to access the old looking site</a>
-</div>
-
-	</footer>
-
-	<script src="/utils.js"></script>
-<!--
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	<script src="responsive-nav.js"></script>
-
--->
 
 
  <!--  googleAnalytics.jsp  -->
