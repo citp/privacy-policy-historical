@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamleader.eu privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230094748id_/http%3A//www.teamleader.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamleader.eu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629114034id_/https%3A//www.teamleader.eu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -30,7 +30,6 @@ The content of this site, including brands, logos, drawings, data, product or co
 
 ### Teamleader can be contacted at the following address:
 
-TEAMLEADER NV  
-Visserij 43P, 9000 Ghent, Belgium  
-Via telephone: +32 9 298 06 32  
-Via email: info@teamleader.be
+TEAMLEADER NV,  
+Dok-Noord 3A/101, 9000 Ghent, Belgium  
+ 
