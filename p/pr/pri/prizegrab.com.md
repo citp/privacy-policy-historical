@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117155715id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629113923id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 REVISION DATE: 05/24/15
 
-Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20160117155715id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
+Thank you for visiting [www.prizegrab.com](https://web.archive.org/web/20170629113923id_/http://prizegrab.com/privacy/www.prizegrab.com) and participating in our Sponsored Sweepstakes. We take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. This Policy is limited solely to online transactions and do not apply to any off line privacy rights or obligations, data collection and data transfers. 
 
 ### Collection of Information.
 
@@ -22,7 +22,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 We may use Google Analytics on parts of our Website. If you prefer to not have your data used by Google Analytics you may visit the Google Analytics [opt-out page ](https://tools.google.com/dlpage/gaoptout)and install the add-on for your browser.
 
-The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://web.archive.org/web/20160117155715id_/http://prizegrab.com/privacy/aboutads.info) at any time.
+The third party advertisers, vendors and ad networks may also use cookies to show advertisements to you. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it to serve ads to you based on your visit to our Website and/or other websites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](https://web.archive.org/web/20170629113923id_/http://prizegrab.com/privacy/aboutads.info) at any time.
 
 ### Sharing Information With Third Parties.
 
@@ -32,7 +32,7 @@ In the event of a merger, acquisition, or change of control of our company, your
 
 ### Opt Out rights.
 
-Receiving email messages from us or anyone we share your information with is optional. As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users. While some basic data is necessary to provide certain services, such as entry into the sweepstakes, there are some cases where the submission of information is optional. All users who provide their Information to PrizeGrab.com may modify and correct such Information through their personal profile or by contacting us [ here.](http://prizegrab.com/contact)
+Receiving email messages from us or anyone we share your information with is optional. As noted earlier, the collection, use, and distribution of personal data helps us create a more personalized, relevant, and intelligent web service for our users. While some basic data is necessary to provide certain services, such as entry into the sweepstakes, there are some cases where the submission of information is optional. All users who provide their Information to PrizeGrab.com may modify and correct such Information through their personal profile or by contacting us [ here.](https://prizegrab.com/contact)
 
 But if you are receiving offers from other companies, you may follow the simple opt-out procedure contained in each email at the bottom of the email. If you are receiving our emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every one of our emails, or contact us at PrizeGrab.com, 548 Market St #77649 San Francisco, CA 94104-5401 
 
@@ -44,7 +44,7 @@ To the extent hyperlinks or banner advertisements incorporating hyperlinks are u
 
 We have implemented a number of security features throughout our website and on the servers that hold all the collected data that are intended to prevent the unauthorized release of or access to the user information we collect online. The database is firewall protected and held in a secure location. Only authorized personnel have access to any stored personal information we collect from our users. However, e-mail is not encrypted and is not considered a secure means of transmitting any sensitive data. As such, the confidentiality of any communication or material transmitted over the Internet cannot be 100% guaranteed. Therefore we are not responsible or liable for illegal interception of personal data by unknown third parties. 
 
-You are responsible for maintaining the confidentiality of your Prizegrab Login ID and Password. We maintain rules to help prevent others from guessing your password. We recommend that you change your Password frequently. If you believe that they have been stolen or been made known to others, you must contact us immediately via our Contact form found on our Help page at <http://www.prizegrab.com/contact> but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the Prizegrab.com Terms of Use.
+You are responsible for maintaining the confidentiality of your Prizegrab Login ID and Password. We maintain rules to help prevent others from guessing your password. We recommend that you change your Password frequently. If you believe that they have been stolen or been made known to others, you must contact us immediately via our Contact form found on our Help page at [http://www.prizegrab.com/contact](https://www.prizegrab.com/contact) but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the Prizegrab.com Terms of Use.
 
 ### Personal information of Children or Persons residing outside the US
 
