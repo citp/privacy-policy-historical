@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230021200id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629232059id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Mother Jones
+# Our Privacy Policy – Mother Jones
 
 The _MotherJones.com_ website is operated by the nonprofit Foundation for National Progress (the "Foundation"), which also publishes _Mother Jones_ magazine.
 
@@ -16,7 +16,7 @@ Upon request, we provide our users, including subscribers to the magazine, with 
 
 This Privacy Policy may change from time to time. The Revision Date below will show you when the Privacy Policy was last revised. By continuing to use this Site, you agree to all terms of the most recent version of this Privacy Policy.
 
-This Privacy Policy was last revised on **October 19, 2015**.
+This Privacy Policy was last revised on **January 27, 2017**.
 
 ### **2\. CONTENT YOU SUBMIT**
 
@@ -30,11 +30,11 @@ The Site may also allow you to send email messages to other users. While the con
 
 We use your email address for administrative purposes (such as notifying you of changes to the Site or customer service). We may also use your email address to remind you to renew your subscription, to contact you about new products or upcoming events, and to send you newsletters or other editorial content, donation appeals, and sponsored messages with offers from other organizations. If you make a donation, we may use your email address to send you occasional messages about our projects or ways that you can support _Mother Jones_.  
 
-In order to send you some of these communications, we may provide your email address to [Blackbaud, Inc](http://www.blackbaud.com/), which will then be subject to [Blackbaud’s Privacy Policy](http://www.convio.com/convio/policies/policy-convio-clients.html). You may opt out of receiving these communications by contacting us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future. For information on how to opt out, see Section 11 below.
+In order to send you some of these communications, we may provide your email address to [Maropost](http://www.maropost.com/), which will then be subject to [Maropost’s Privacy Policy](http://www.maropost.com/). You may opt out of receiving these communications by contacting us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future. For information on how to opt out, see Section 11 below.
 
 ### **4\. SITE USAGE INFORMATION: COLLECTION AND USE BY THE FOUNDATION**
 
-The Site uses cookies. (A cookie is a small amount of data—sent to your browser from a web server and stored on your computer's hard drive—that may be accessed when you use a website.) Cookies are used primarily as follows: (1) to help deliver advertisements, and in particular to spare users the irritation of seeing the same pop-up ads repeatedly in the same visit; (2) to store information so that you will not have to reenter it during your visit or the next time you visit the Site; (3) to track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) to monitor aggregate metrics, such as the total number of visitors, pages viewed, etc., and (5) for remarketing or to advertise Mother Jones products across the internet. This means that, using the Google Content Network and Google's Adwords platform, we will continue to show you ads for Mother Jones products and special offers when you're browsing other websites. AdWords remarketing will display relevant ads tailored to you, based on your visit to the Mother Jones site. For remarketing, the cookie signals, "This person visited this page, so show them subscription ads, donation ads, or other Mother Jones ads relating to that page." Google AdWords remarketing allows us to tailor our marketing to better suit your needs, and to only display ads and special offers that are relevant to you. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies.
+The Site uses cookies. (A cookie is a small amount of data—sent to your browser from a web server and stored on your computer’s hard drive—that may be accessed when you use a website.) Cookies are used primarily as follows: (1) to help deliver advertisements, and in particular to spare users the irritation of seeing the same pop-up ads repeatedly in the same visit; (2) to store information so that you will not have to reenter it during your visit or the next time you visit the Site; (3) to track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) to monitor aggregate metrics, such as the total number of visitors, pages viewed, etc., and (5) for remarketing or to advertise Mother Jones products across the internet. This means that, using the Google Content Network and Google’s Adwords platform, we will continue to show you ads for Mother Jones products and special offers when you’re browsing other websites. AdWords remarketing will display relevant ads tailored to you, based on your visit to the Mother Jones site. For remarketing, the cookie signals, "This person visited this page, so show them subscription ads, donation ads, or other Mother Jones ads relating to that page." Google AdWords remarketing allows us to tailor our marketing to better suit your needs, and to only display ads and special offers that are relevant to you. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies.
 
 In addition, when you visit the Site, some basic technical information may be collected by us or by a third party that provides us with Site usage information, including your IP address, domain name (e.g., whether you logged on from AOL.com or WhiteHouse.gov), referral data (e.g., the address of the last website you visited prior to clicking through to the Site), and browser and platform type (e.g., a Firefox browser on a Macintosh platform).
 
@@ -64,7 +64,7 @@ Demographic information may be compiled and reported or shared in the aggregate 
 
 We request that cosponsors uphold the privacy of your information by not distributing or sharing such information with any other businesses or organizations. However, we do not control the information practices of others, and cannot guarantee that they will not disclose your information. You should review the privacy policy of any cosponsor before participating in a promotion or survey.
 
-### **8\. CHILDREN'S PRIVACY**
+### **8\. CHILDREN’S PRIVACY**
 
 Protecting the privacy of young children is important to us. For that reason, we do not collect or maintain information at our Site from those we know are younger than 13, and no part of our Site is designed to attract anyone younger than 13. If you are younger than 13, you should not submit or post any personal information on our Site.
 
