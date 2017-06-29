@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216215828id_/http%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629234555id_/http%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Your News Wire
 
