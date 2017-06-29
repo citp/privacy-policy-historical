@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211071454id_/http%3A//www.paidsurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629131132id_/http%3A//paidsurveys.com/privacy.html) for the most accurate reproduction.*
 
 # PaidSurveys
 
@@ -54,8 +54,7 @@ This web site has security measures in place to protect against loss, misuse and
 
 PaidSurveys.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may contact us to do so in any of the following ways: 
 
-  1. Email: [members@paidsurveys.com](mailto:members@paidsurveys.com)
-  2. Postal Mail: 3419 E. Chapman Ave. #368, Orange, CA 92869
+  * Email: [paidsurveys.helpdesk@gmail.com](mailto:paidsurveys.helpdesk@gmail.com)
 
 
 
