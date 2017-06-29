@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002033id_/https%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629171609id_/https%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlas Solutions
 
