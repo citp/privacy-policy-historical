@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindiscount24.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230041017id_/https%3A//www.domaindiscount24.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindiscount24.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222117id_/https%3A//www.domaindiscount24.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | domaindiscount24.com
 
