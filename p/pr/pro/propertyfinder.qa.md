@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyfinder.qa privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629121738id_/https%3A//www.propertyfinder.qa/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.qa privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000815id_/https%3A//www.propertyfinder.qa/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | propertyfinder.qa
+# propertyfinder.qa - Qatar's #1 property site
 
 **Our commitment to you**
 
