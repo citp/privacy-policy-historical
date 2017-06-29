@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045913id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003353id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
 
 # SnagAJob.com Privacy Policy
 
-This page summarizes the key highlights from our Privacy Policy. For more information, read our full [Privacy Policy](https://web.archive.org/privacy/).
+This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy.
 
 ### Information we collect from you
 
@@ -36,7 +36,7 @@ We use the information you provide to:
 
 ### Your obligations to us and to other Members
 
-Do not abuse the SnagAJob.com website by using it to spam, abuse, harass, or otherwise violate the [Terms of Use](https://web.archive.org/terms) or [Privacy Policy](https://web.archive.org/privacy/).
+Do not abuse the SnagAJob.com website by using it to spam, abuse, harass, or otherwise violate the [Terms of Use](https://web.archive.org/terms) or Privacy Policy.
 
 ### How we protect the information you give to us
 
@@ -211,7 +211,7 @@ If we learn that a Member is deceased, we may close such Member’s account. In 
 
 As a Member, you have certain obligations to other Members. Those obligations include the following:
 
-  1. You must, at all times, abide by the terms and conditions of the then-current [Privacy Policy](https://web.archive.org/privacy/) and [Terms of Use](https://web.archive.org/terms). This includes respecting all intellectual property rights that may belong to third parties.
+  1. You must, at all times, abide by the terms and conditions of the then-current Privacy Policy and [Terms of Use](https://web.archive.org/terms). This includes respecting all intellectual property rights that may belong to third parties.
   2. You must keep your username and password confidential and not share it with others.
   3. Any violation of these guidelines may lead to the restriction, suspension or termination of your account at our sole discretion.
 
