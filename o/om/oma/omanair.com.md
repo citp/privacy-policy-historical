@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003059id_/http%3A//www.omanair.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629145351id_/http%3A//www.omanair.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oman Air
 
@@ -32,7 +32,7 @@ Information you provide will be used by us to enable us to review, develop and i
 ### We may give information about you to:
 
   * To other companies and/or brands in Oman Air Group.
-  * To trustworthy third parties that we use for the provision of certain services, such as enabling our customers to book hotels, chauffeurs, hire cars, onward flights or other services quickly and easily.
+  * To trustworthy third parties that we use for provision of certain services, such as enabling our customers to book hotels, chauffeurs, hire cars, baggage services, onward flights or other services quickly and easily.
   * To any third parties we transfer or may transfer our rights and duties under our agreement with you.
   * To customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the existing laws.
   * To our employees and agents to do any of the above on our behalf, now or in the future
