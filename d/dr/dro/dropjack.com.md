@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052943id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005150id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
 
 # SiteProNews Privacy Statement - SiteProNews
 
