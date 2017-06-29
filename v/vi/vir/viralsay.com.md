@@ -1,135 +1,78 @@
-> *The following text is extracted and transformed from the viralsay.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125093634id_/http%3A//viralsay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsay.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629054502id_/http%3A//viralsay.com/privacy) for the most accurate reproduction.*
 
-# viralsay.com | Privacy Policy
+# Privacy Policy
+
+Below you will find the privacy policy for ViralSay.com (the “website”) which details all of the procedures and policies surrounding the collection, use and disclosure of your information. Within this privacy policy we will refer to the users of the website as “you” or “them” and refer to ViralSay as “we”, “our” or “us”. Within this privacy policy we also detail the services, content and features that we offer which we will refer to as the “services”. The privacy of our users is extremely important to us which is why we will continuously keep our privacy policy up to date. We reserve the right to change this privacy policy, without given notice, at any time in order to protect our visitors. Please ensure you check the privacy policy regularly for any changes.
+
+Privacy policy of ViralSay.com was last updated: February 1st, 2016
+
+**What does this privacy policy cover?**
+
+You will find a whole range of information within this privacy policy, surrounding the collection, usage and disclosure of your information. We will detail our treatment of any personally identifiable information (personal information) and of non-personally identifiable information. We will also detail our treatment of any other information gathered when you our using our services. Any personal information shared by or with our business partners will also be covered within this privacy policy.
+
+What this privacy policy does not cover are any third party applications or third party websites that can be accessed through Afternoon Special. Any third parties that we do not control or own will be governed by their own privacy policies and we accept no responsibility for their policies, practices, content or services. If you do visit a third party application or third party website then we recommend reading through their own privacy policies and terms.
+
+After reading through this privacy policy please ensure you become accustomed with our terms of use and DMCA policy also.
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+In order to improve and personalize your experience of the website we do collect some information from our users. We may request or collect the following information from our users at any time:
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Personally Identifiable Information (Personal Information) – The only personally identifiable information we may ever request from users of ViralSay.com will be an e-mail address. This is in order to further enhance your experience on the website by sending out newsletters. You do not have to provide this information to us at any time, although this does mean we will be unable to provide you with the newsletter service.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Non-Personally Identifiable Information – When you interact with the website and use our services, we may collect non-personally identifiable information from you automatically. This information is not able to identify you or any personal information about you. Data may include browser type, screen resolution, etc. This information is purely used for analytical and aggregation purposes, to help us further improve the website and the services we provide.
 
- **DoubleClick DART Cookie**
+**How is collected information used?**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on viralsay.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to viralsay.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+The first and most important point to stress is that ViralSay.com will never sell or rent the information collected to any third parties. Below is a detailed explanation of how any collected information may be used (both personally identifiable and non-personally identifiable).
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+Personally Identifiable Information (Personal Information) – The only time we will ever use this information is to provide the newsletter service to you. This personal information will never be sold, shared or rented to any third parties. We believe our newsletter service provides an enhanced experience of the website, however it is not compulsory to provide this information to ViralSay.com.
+
+Non-Personally Identifiable Information – This information is not able to identify you or any personal details about you and is used solely for analytical and aggregation purposes. We use this information to learn about different behavior and patterns of our users, including what type of content they like and dislike. We may sometimes share this information with third parties and advertising partners in order to tailor the type of advertisements you see on the website. This further enhances your experience of the website, by showing you the type of content that you enjoy. This non-personally identifiable information is completely stripped back of anything which may personally identify you in any way.
+
+Protection – We reserve the right to disclose any information we feel necessary for the protection of us and our users. We may access, read, keep and disclose anything reasonably necessary in order to:
+
+  * Satisfy any applicable laws, governmental request, regulations or legal processes
+  * Detect, prevent or address any security, technical issues or fraud
+  * Enforce our terms of service, breaches of which can be found in our terms of use; this includes investigation of any potential violations of our terms
+  * Respond to queries from users or respond to support requests
+  * Protect all of our rights, our users, the public, our property and our safety.
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on viralsay.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+This may include exchanging information with third party companies in order to address any safety or technical issues or to prevent spyware and malware.
 
-viralsay.com has no access to or control over these cookies that are used by third-party advertisers. 
+**What are your privacy choices?**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. viralsay.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Using this website safely and securely is of paramount importance. Therefore it is important that you understand your privacy choices and what how you can decide what happens to your information. Below are the choices you have in regards to your privacy:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+  * You can choose at any time not to give us any personally identifiable information, such as your e-mail address. It is not mandatory to provide this information but we are unable to provide a newsletter service to those who do not provide an email address.
+  * You can choose to have your personally identifiable information removed from our database at any time. Please note that you will no longer be able to access our newsletter if you choose to have this information removed. You can ask for this information to be removed by sending us an email using the contact details at the bottom of this page.
+  * You can choose to manage cookies and stop any of your non-personally identifiable information from being collected by us and the website. More information on cookies can be found below.
+  * You can choose not to access any third party applications or websites from ViralSay.com.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Information on cookies**
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We rely on the use of cookies in order to enhance the website and our services for our users. A cookie is a tiny piece of data that any website can store on the device you use to access it, including mobile phones, tablets and computers. This cookie is then used in order to recognize you when you return. Cookies can keep a note of your likes, dislikes, browsing preferences and choices for their return. In order to personalize and enhance your experience we may use cookies in the following ways:
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To remember any of your preferences when you are browsing the website.
+  * To customize the content and advertisements that we may provide throughout the website.
+  * To research and measure how effective our service is.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Cookies do not provide us with any personally identifiable information and can be declined at any time. If you wish to turn off cookies then please refer to your browser’s instructions. Please note that disabling cookies may impact the experience you have on our website.
 
-\- To administer a contest, promotion, survey or other site feature
+**Third Parties**
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+There may be times in which we allow third party vendors to access the cookies provided by you, the user. This is in order to personalize your experience on the website. Third party vendors, such as Google, may use this information gathered in order to tailor your experience on other websites and on this website; this includes displaying relevant content and advertisements. Google uses the DoubleClick cookie, which will allow it to present users with advertisements based on the visits to our site and/or other websites that you may have visited elsewhere online. Advertisements provided are based on your interests and preferences, your likes, dislikes and other information picked up from the cookies. The same also applies to partners of Google. As a user of the website you are able to opt out of DoubleClick cookies, and any relevant advertising, at any time by visiting one of the following:
 
-\- To send periodic emails
+[Ad Settings](http://www.google.com/ads/preferences/)
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+[Aboutads.info](http://www.aboutads.info/)
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We do allow third party vendors to use cookies, web beacons, and other reasonable tracking tools, in order to collect information from the website. This is managed in the same way that third party vendors do for other websites online. These third party vendors are only allowed to use the information collected for measurement, analytics and targeted advertisement services.
 
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
- **Do we disclose any information to outside parties?**
-
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-viralsay.com 
-
-Email:  
-contact@viralsay.com  
-
+As well as third party vendors we may also contain links to third party websites in order to provide you with even more content that we think you may enjoy. We do not own or control these third party websites and so our privacy policy does not govern the content on these sites. Please ensure you read through any third party website’s own privacy policy and terms before accessing their content. We cannot be held responsible for any content or policies of third party websites.
