@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121133456id_/http%3A//www.surrey.ac.uk/information-management/dataprotection/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629103508id_/http%3A//www.surrey.ac.uk/information-management/dataprotection/index.htm) for the most accurate reproduction.*
 
 # Data protection | University of Surrey - Guildford
 
