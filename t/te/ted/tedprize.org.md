@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140329id_/http%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedprize.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629223312id_/https%3A//www.ted.com/about/our-organization/our-policies-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our policies + terms | Our Organization | About | TED.com
 
@@ -10,7 +10,7 @@ TED is a global community, welcoming people from every discipline and culture wh
 
 * * *
 
-### What information we collect 
+## What information we collect 
 
 We collect three kinds of information: 
 
@@ -26,7 +26,7 @@ We collect three kinds of information:
 
 * * *
 
-#### Information you provide directly to us 
+### Information you provide directly to us 
 
 ##### Account information
 
@@ -60,7 +60,7 @@ We are not responsible for personally identifiable information you choose to sub
 
 * * *
 
-#### Non-personal information collected automatically 
+### Non-personal information collected automatically 
 
 ##### Tracking information for our site
 
@@ -82,7 +82,7 @@ We may collect non-personal information about the computer, mobile device or oth
 
 * * *
 
-#### Information collected with cookies 
+### Information collected with cookies 
 
 ##### Tracking usage
 
@@ -115,7 +115,7 @@ We may collect and use information about your location (such as your country) to
 
 * * *
 
-### How we use this information 
+## How we use this information 
 
 We use your information for limited purposes and do not sell it to any third parties. Specific uses are defined below. 
 
@@ -141,7 +141,7 @@ In addition to the uses identified above, we may use the information that we col
 
 * * *
 
-### Steps we take to protect your privacy 
+## Steps we take to protect your privacy 
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we put in place commercially reasonable physical, technical and administrative controls to protect your information. Please note that no method of transmission over the internet is 100% secure. 
 
