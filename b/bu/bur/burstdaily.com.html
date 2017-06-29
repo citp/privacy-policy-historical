@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the burstdaily.com privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211014242id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the burstdaily.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629121734id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=1726173044323453"></script><script type="text/javascript" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente-burstdaily-dartfish/js/prebid.js"></script>
 
@@ -79,9 +79,181 @@
 </noscript>
 <!-- End comScore Tag -->
 
+<script>
+
+    (function (window) {
+        "use strict";
+
+        /**
+         * SessionUTMs object persists UTMs during the user's session.
+         * Dependencies: none
+         * @type {Object}
+         * @version 0.0.1
+         */
+        var SessionUTMs = function () {
+
+            var version, name, sessionUTMs, sourceStrings;
+
+            version = "0.0.1";
+            name = "SessionUTMs";
+            sessionUTMs = {};
+            sourceStrings = [
+                {
+                    name: 'facebook',
+                    strings: [
+                        'hexagram_Facebook3933'
+                    ]
+                },
+                {
+                    name: 'outbrain',
+                    strings: [
+                        'Outbrain',
+                        'Outbrain_Premium',
+                        'paid.outbrain.com'
+                    ]
+                },
+                {
+                    name: 'taboola',
+                    strings: [
+                        'Taboola',
+                        'trc.taboola.com'
+                    ]
+                },
+                {
+                    name: 'yahoo',
+                    strings: [
+                        'Yahoo_Gemini'
+                    ]
+                },
+                {
+                    name: 'revcontent',
+                    strings: [
+                        'RevContent'
+                    ]
+                },
+                {
+                    name: 'lolspots',
+                    strings: [
+                        'hexagram_LOLSpots'
+                    ]
+                }
+            ];
+
+            function getParameterByName(name, url) {
+                var regex, results;
+
+                if (!url) {
+                    url = window.location.href;
+                }
+                url = url.toLowerCase(); // This is just to avoid case sensitiveness
+                name = name.replace(/[\[\]]/g, "\\$&").toLowerCase();// This is just to avoid case sensitiveness for query parameter name
+                regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
+                results = regex.exec(url);
+
+                if (!results) {
+                    return null;
+                }
+                if (!results[2]) {
+                    return '';
+                }
+                return decodeURIComponent(results[2].replace(/\+/g, " "));
+            }
+
+            function isJsonString(str) {
+                try {
+                    JSON.parse(str);
+                } catch (e) {
+                    return false;
+                }
+                return true;
+            }
+
+            function init() {
+                if (sessionStorage.getItem('sessionUTMs') !== null && isJsonString(sessionStorage.getItem('sessionUTMs'))) {
+                    sessionUTMs = JSON.parse(sessionStorage.getItem('sessionUTMs'));
+                } else {
+                    sessionUTMs.source = getParameterByName('utm_source');
+                    sessionUTMs.medium = getParameterByName('utm_medium');
+                    sessionUTMs.campaign = getParameterByName('utm_campaign');
+                    sessionUTMs.term = getParameterByName('utm_term');
+                    sessionUTMs.content = getParameterByName('utm_content');
+
+                    try {
+                        sessionStorage.setItem('sessionUTMs', JSON.stringify(sessionUTMs));
+                    }
+                    catch (e) {
+                        console.log(e);
+                    }
+                }
+            }
+
+            function getSource() {
+                return (sessionUTMs.source !== 'undefined' && sessionUTMs.source !== null) ? sessionUTMs.source : '';
+            }
+
+            function getMedium() {
+                return (sessionUTMs.medium !== 'undefined') ? sessionUTMs.medium : '';
+            }
+
+            function getCampaign() {
+                return (sessionUTMs.campaign !== 'undefined') ? sessionUTMs.campaign : '';
+            }
+
+            function getTerm() {
+                return (sessionUTMs.term !== 'undefined') ? sessionUTMs.term : '';
+            }
+
+            function getContent() {
+                return (sessionUTMs.content !== 'undefined') ? sessionUTMs.content : '';
+            }
+
+            function getNormalisedSource() {
+                var normalisedSource, rawSource;
+
+                rawSource = getSource();
+                normalisedSource = 'default';
+
+                for (var source in sourceStrings) {
+                    if (sourceStrings.hasOwnProperty(source)) {
+                        for (var string in sourceStrings[source].strings) {
+                            if (rawSource.toLowerCase().indexOf(sourceStrings[source].strings[string].toLowerCase()) >= 0) {
+                                normalisedSource = sourceStrings[source].name;
+                            }
+                        }
+                    }
+                }
+                return normalisedSource;
+            }
+
+            function getUTMs() {
+                return sessionUTMs;
+            }
+
+            init();
+
+            // public API
+            return {
+                version: version,
+                name: name,
+                source: getSource(),
+                normalisedSource: function () {
+                    return getNormalisedSource();
+                },
+                medium: getMedium(),
+                campaign: getCampaign(),
+                term: getTerm(),
+                content: getContent(),
+                UTMs: getUTMs()
+            };
+        };
+
+        window.SessionUTMs = new SessionUTMs();
+
+    })(window);
+</script>
 <title>Privacy Policy - burstdaily.com</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://burstdaily.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -97,16 +269,16 @@
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="burstdaily.com » Feed" href="http://burstdaily.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="burstdaily.com » Comments Feed" href="http://burstdaily.com/comments/feed/">
-<link rel="stylesheet" id="burstdaily-googlefonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-child-style-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente-burstdaily-dartfish/style.min.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/css/font-awesome.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="burstdaily-googlefonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-child-style-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente-burstdaily-dartfish/style.min.css?timestamp=201704121344&amp;ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/css/font-awesome.min.css?ver=4.7.3" type="text/css" media="all">
 <!--[if lt IE 9]>
 <script type='text/javascript' src='http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/js/html5.js?ver=3.7.2'></script>
 <![endif]-->
 <link rel="https://api.w.org/" href="http://burstdaily.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://burstdaily.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WordPress 4.7.3">
 <link rel="shortlink" href="http://burstdaily.com/?p=506">
         <!-- Utm2DFPKeyValues code START -->
         <script>
@@ -172,8 +344,7 @@
                     for (var cbid in bbid) {
                         var dbid = bbid[cbid];
                         for (var ebid in dbid) {
-                            console.log(dbid[ebid].bidderCode);
-                            console.log(dbid[ebid].ad);
+                            console.log('{' + dbid[ebid].bidderCode + ': cpm: ' + dbid[ebid].cpm + '}');
                         }
                     }
                 }
@@ -190,11 +361,49 @@
                 return adUnits;
             }
 
+            function appnexusBid(placementId) {
+                return {
+                    bidder: 'appnexus',
+                    params: {
+                        placementId: placementId
+                    }
+                };
+            }
+
+            function aolBid(network, placement) {
+                return {
+                    bidder: 'aol',
+                    params: {
+                        network: network,
+                        placement: placement
+                    }
+                };
+            }
+
+            function districtmBid(placementId) {
+                return {
+                    bidder: 'districtm',
+                    params: {
+                        placementId: placementId
+                    }
+                };
+            }
+
             function kruxBid(impid) {
                 return {
                     bidder: 'kruxlink',
                     params: {
                         impid: impid
+                    }
+                };
+            }
+            function pulsePointBid(cf, cp, ct) {
+                return {
+                    bidder: 'pulsepoint',
+                    params: {
+                        cf: cf,
+                        cp: cp,
+                        ct: ct
                     }
                 };
             }
@@ -205,6 +414,34 @@
                     params: {
                         ai: ai,
                         sc: sc
+                    }
+                };
+            }
+
+            function sekindoBid(spaceID) {
+                return {
+                    bidder: 'sekindo',
+                    params: {
+                        spaceId: spaceID
+                    }
+                };
+            }
+
+
+            function springServeApnBid(placementId) {
+                return {
+                    bidder: 'springserveapn',
+                    params: {
+                        placementId: placementId
+                    }
+                };
+            }
+
+            function tripleliftBid(inventoryCode) {
+                return {
+                    bidder: 'triplelift',
+                    params: {
+                        inventoryCode: inventoryCode
                     }
                 };
             }
@@ -386,7 +623,7 @@
                                 }
                             ]
                         },
-                                                                        {
+                                                                                                {
                             code: 'div-gpt-ad-1472285514182-7',//BD-SDBR-01
                             sizes: [300, 600],
                             bids: [
@@ -464,8 +701,20 @@
                                 }
                             ]
                         },
-                                                                    ];
+                                                                                            ];
 
+                    var appnexusDesktopBids = {
+                        'div-gpt-ad-1472285514182-0': appnexusBid(11463899), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': appnexusBid(11463901), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': appnexusBid(11463902), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': appnexusBid(11463905), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': appnexusBid(11463906), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-7': appnexusBid(11463914), //BD-SDBR-01
+                        'div-gpt-ad-1472285514182-8': appnexusBid(11463918), //BD-SDBR-02
+                        'div-gpt-ad-1472285514182-9': appnexusBid(11463921), //BD-SDBR-03
+                        'div-gpt-ad-1490964507242-0': appnexusBid(11463924)  //BD-SDBR-04
+                    };
+                    addBids(adUnits, appnexusDesktopBids);
 
                     var rtkDesktopBids = {
                         'div-gpt-ad-1472285514182-0': rtkBid('Xal8', 'vaXR'), //BD-CNTNT-01
@@ -493,165 +742,52 @@
                         'div-gpt-ad-1472285514182-8': kruxBid(393),//BD-SDBR-02
                         'div-gpt-ad-1472285514182-9': kruxBid(394) //BD-SDBR-03
                     };
-                    addBids(adUnits, kruxDesktopBids);
+//                    addBids(adUnits, kruxDesktopBids);
+
+                    var springserveapnDesktopBids = {
+                        'div-gpt-ad-1472285514182-0': springServeApnBid(11418381), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': springServeApnBid(11418382), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': springServeApnBid(11418383), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': springServeApnBid(11418384), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': springServeApnBid(11418385), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-7': springServeApnBid(11418399), //BD-SDBR-01
+                        'div-gpt-ad-1472285514182-9': springServeApnBid(11418406), //BD-SDBR-03
+                        'div-gpt-ad-1490964507242-0': springServeApnBid(11418407)  //BD-SDBR-04
+                    };
+                    addBids(adUnits, springserveapnDesktopBids);
+
+                    var tripleLiftDesktopBids = {
+                        'div-gpt-ad-1472285514182-0': tripleliftBid('BD_CNTNT_01_desktop_728x90'), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': tripleliftBid('BD_CNTNT_02_desktop_300x250'), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': tripleliftBid('BD_CNTNT_03_desktop_300x250'), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': tripleliftBid('BD_CNTNT_04_desktop_300x250'), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': tripleliftBid('BD_CNTNT_05_desktop_728x90'), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-7': tripleliftBid('BD_SDBR_01_desktop_300x600'), //BD-SDBR-01
+                        'div-gpt-ad-1472285514182-9': tripleliftBid('BD_SBDR_03_desktop_300x250')  //BD-SDBR-03
+                    };
+                    addBids(adUnits, tripleLiftDesktopBids);
 
                 } else {
                     var adUnits = [
                                                                         {
                             code: 'div-gpt-ad-1472285514182-1',//BD-CNTNT-02
                             sizes: [300, 250],
-                            bids: [
-                                {
-                                    bidder: 'aol',
-                                    params: {
-                                        network: '10691.1',
-                                        placement: '4226077'
-                                    }
-                                },
-                                {
-                                    bidder: 'districtm',
-                                    params: {
-                                        placementId: 9392326
-                                    }
-                                },
-//                                {
-//                                    bidder: 'kruxlink',
-//                                    params: {
-//                                        impid: '396'
-//                                    }
-//                                },
-                                {
-                                    bidder: 'pulsepoint',
-                                    params: {
-                                        cf: '300X250',
-                                        cp: 560474,
-                                        ct: 495727
-                                    }
-                                },
-                                {
-                                    bidder: 'sekindo',
-                                    params: {
-                                        spaceId: 72294
-                                    }
-                                }
-                            ]
+                            bids: []
                         },
                                                                         {
                             code: 'div-gpt-ad-1472285514182-2',//BD-CNTNT-03
                             sizes: [300, 250],
-                            bids: [
-                                {
-                                    bidder: 'aol',
-                                    params: {
-                                        network: '10691.1',
-                                        placement: '4226080'
-                                    }
-                                },
-                                {
-                                    bidder: 'districtm',
-                                    params: {
-                                        placementId: 9392328
-                                    }
-                                },
-//                                {
-//                                    bidder: 'kruxlink',
-//                                    params: {
-//                                        impid: '397'
-//                                    }
-//                                },
-                                {
-                                    bidder: 'pulsepoint',
-                                    params: {
-                                        cf: '300X250',
-                                        cp: 560474,
-                                        ct: 495728
-                                    }
-                                },
-                                {
-                                    bidder: 'sekindo',
-                                    params: {
-                                        spaceId: 72296
-                                    }
-                                }
-                            ]
+                            bids: []
                         },
                                                                                                 {
                             code: 'div-gpt-ad-1472285514182-4',//BD-CNTNT-05
                             sizes: [320, 50],
-                            bids: [
-                                {
-                                    bidder: 'aol',
-                                    params: {
-                                        network: '10691.1',
-                                        placement: '4226075'
-                                    }
-                                },
-                                {
-                                    bidder: 'districtm',
-                                    params: {
-                                        placementId: 9392333
-                                    }
-                                },
-//                                {
-//                                    bidder: 'kruxlink',
-//                                    params: {
-//                                        impid: '399'
-//                                    }
-//                                },
-                                {
-                                    bidder: 'pulsepoint',
-                                    params: {
-                                        cf: '320X50',
-                                        cp: 560474,
-                                        ct: 495730
-                                    }
-                                },
-                                {
-                                    bidder: 'sekindo',
-                                    params: {
-                                        spaceId: 72295
-                                    }
-                                }
-                            ]
+                            bids: []
                         },
                                                                         {
                             code: 'div-gpt-ad-1472285514182-6',//BD-CNTNT-07
                             sizes: [300, 250],
-                            bids: [
-                                {
-                                    bidder: 'aol',
-                                    params: {
-                                        network: '10691.1',
-                                        placement: '4226074'
-                                    }
-                                },
-                                {
-                                    bidder: 'districtm',
-                                    params: {
-                                        placementId: 9392335
-                                    }
-                                },
-//                                {
-//                                    bidder: 'kruxlink',
-//                                    params: {
-//                                        impid: '401'
-//                                    }
-//                                },
-                                {
-                                    bidder: 'pulsepoint',
-                                    params: {
-                                        cf: '300X250',
-                                        cp: 560474,
-                                        ct: 495732
-                                    }
-                                },
-                                {
-                                    bidder: 'sekindo',
-                                    params: {
-                                        spaceId: 72299
-                                    }
-                                }
-                            ]
+                            bids: []
                         },
                                                                         {
                             code: 'div-gpt-ad-1472285514182-7',//BD-SDBR-01
@@ -665,20 +801,32 @@
                         },
                                                                     ];
 
-                    var rtkMobileBids = {
-                        'div-gpt-ad-1472285514182-0': rtkBid('dVop', 'VOw0'), //BD-CNTNT-01
-                        'div-gpt-ad-1472285514182-1': rtkBid('dVop', 'jeYn'), //BD-CNTNT-02
-                        'div-gpt-ad-1472285514182-2': rtkBid('dVop', 'GyrB'), //BD-CNTNT-03
-                        'div-gpt-ad-1472285514182-3': rtkBid('dVop', 'jlos'), //BD-CNTNT-04
-                        'div-gpt-ad-1472285514182-4': rtkBid('dVop', 'rEk4'), //BD-CNTNT-05
-                        'div-gpt-ad-1472285514182-6': rtkBid('dVop', '22ZJ')  //BD-CNTNT-07
+                    var aolMobileBids = {
+                        'div-gpt-ad-1472285514182-0': aolBid('10691.1', '4226078'), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': aolBid('10691.1', '4226077'), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': aolBid('10691.1', '4226080'), //BD-CNTNT-03
+                        //'div-gpt-ad-1472285514182-3': aolBid('10691.1', '4226076'), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': aolBid('10691.1', '4226075'), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': aolBid('10691.1', '4226074')  //BD-CNTNT-07
                     };
 
-                    try {
-                        addBids(adUnits, rtkMobileBids);
-                    } catch (e) {
-                        console.log(e);
-                    }
+                    var appnexusMobileBids = {
+                        'div-gpt-ad-1472285514182-0': appnexusBid(11463883), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': appnexusBid(11463888), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': appnexusBid(11463890), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': appnexusBid(11463893), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': appnexusBid(11463895), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': appnexusBid(11463898)  //BD-CNTNT-07
+                    };
+
+                    var districtmMobileBids = {
+                        'div-gpt-ad-1472285514182-0': districtmBid(9392325), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': districtmBid(9392326), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': districtmBid(9392328), //BD-CNTNT-03
+                        //'div-gpt-ad-1472285514182-3': districtmBid(9392332), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': districtmBid(9392333), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': districtmBid(9392335)  //BD-CNTNT-07
+                    };
 
                     var kruxMobileBids = {
                         'div-gpt-ad-1472285514182-0': kruxBid(395),//BD-CNTNT-01
@@ -687,7 +835,63 @@
                         'div-gpt-ad-1472285514182-4': kruxBid(399),//BD-CNTNT-05
                         'div-gpt-ad-1472285514182-6': kruxBid(401) //BD-CNTNT-07
                     };
-                    addBids(adUnits, kruxMobileBids);
+
+                    var pulsePointMobileBids = {
+                        'div-gpt-ad-1472285514182-0': pulsePointBid('320X50', 560474, 495726), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': pulsePointBid('300X250', 560474, 495727), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': pulsePointBid('300X250', 560474, 495728), //BD-CNTNT-03
+                        //'div-gpt-ad-1472285514182-3': pulsePointBid('300X250', 560474, 495729), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': pulsePointBid('320X50', 560474, 495730), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': pulsePointBid('300X250', 560474, 495732)  //BD-CNTNT-07
+                    };
+
+                    var rtkMobileBids = {
+                        'div-gpt-ad-1472285514182-0': rtkBid('dVop', 'VOw0'), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': rtkBid('dVop', 'jeYn'), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': rtkBid('dVop', 'GyrB'), //BD-CNTNT-03
+                        //'div-gpt-ad-1472285514182-3': rtkBid('dVop', 'jlos'), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': rtkBid('dVop', 'rEk4'), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': rtkBid('dVop', '22ZJ')  //BD-CNTNT-07
+                    };
+
+                    var sekindoMobileBids = {
+                        'div-gpt-ad-1472285514182-0': sekindoBid(72293), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': sekindoBid(72294), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': sekindoBid(72296), //BD-CNTNT-03
+                         //div-gpt-ad-1472285514182-3': sekindoBid(72297), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': sekindoBid(72295), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': sekindoBid(72299)  //BD-CNTNT-07
+                    };
+
+                    var springserveMobileBids = {
+                        'div-gpt-ad-1472285514182-0': springServeApnBid(11418372), //BD-CNTNT-01
+                        'div-gpt-ad-1472285514182-1': springServeApnBid(11418375), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': springServeApnBid(11418376), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': springServeApnBid(11418377), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-4': springServeApnBid(11418378), //BD-CNTNT-05
+                        'div-gpt-ad-1472285514182-6': springServeApnBid(11418380)  //BD-CNTNT-07
+                    };
+
+                    var tripleLiftMobileBids = {
+                        'div-gpt-ad-1472285514182-1': tripleliftBid('BD_CNTNT_02_mobile_300x250'), //BD-CNTNT-02
+                        'div-gpt-ad-1472285514182-2': tripleliftBid('BD_CNTNT_03_mobile_300x250'), //BD-CNTNT-03
+                        'div-gpt-ad-1472285514182-3': tripleliftBid('BD_CNTNT_04_mobile_300x250'), //BD-CNTNT-04
+                        'div-gpt-ad-1472285514182-6': tripleliftBid('BD_CNTNT_07_mobile_300x250')  //BD-CNTNT-07
+                    };
+
+                    addBids(adUnits, aolMobileBids);
+                    addBids(adUnits, appnexusMobileBids);
+                    addBids(adUnits, districtmMobileBids);
+//                    addBids(adUnits, kruxMobileBids);
+                    addBids(adUnits, pulsePointMobileBids);
+                    try {
+                        addBids(adUnits, rtkMobileBids);
+                    } catch (e) {
+                        console.log(e);
+                    }
+                    addBids(adUnits, sekindoMobileBids);
+                    addBids(adUnits, springserveMobileBids);
+                    addBids(adUnits, tripleLiftMobileBids);
                 }
 
                 //add the adUnits
@@ -697,6 +901,7 @@
                  aliased bidders will use the existing adapter and require the same params as the existing adapter. The only change is the bidderCode is updated.
                  */
                 pbjs.aliasBidder('appnexus', 'districtm');
+                pbjs.aliasBidder('appnexus', 'springserveapn');
 
                 //register a callback handler
                 if (debugLog()) {
@@ -768,6 +973,21 @@
                             }
                         }
                         ]
+                    },
+                    aol: {
+                        bidCpmAdjustment: function (bidCpm) {
+                            return adjustCpm(bidCpm, .8);
+                        }
+                    },
+                    districtm: {
+                        bidCpmAdjustment: function (bidCpm) {
+                            return adjustCpm(bidCpm, .8);
+                        }
+                    },
+                    springserveapn: {
+                        bidCpmAdjustment: function (bidCpm) {
+                            return adjustCpm(bidCpm, .7);
+                        }
                     }
                 };
 
@@ -776,13 +996,17 @@
             googletag.cmd.push(function () {
 
                                                     googletag.defineSlot('/12048063/BD-CNTNT-02', [300, 250], 'div-gpt-ad-1472285514182-1').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
-                                                    googletag.defineSlot('/12048063/BD-CNTNT-03', [300, 250], 'div-gpt-ad-1472285514182-2').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
-                                                                    if (pageSize >= 728) {
+                
+                                    googletag.defineSlot('/12048063/BD-CNTNT-03', [300, 250], 'div-gpt-ad-1472285514182-2').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
+                
+                                                    if (pageSize >= 728) {
                         googletag.defineSlot('/12048063/BD-CNTNT-05', [728, 90], 'div-gpt-ad-1472285514182-4').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
                     } else {
                         googletag.defineSlot('/12048063/BD-CNTNT-05', [320, 50], 'div-gpt-ad-1472285514182-4').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
                     }
-                                                    if (pageSize >= 728) {
+                
+                
+                                    if (pageSize >= 728) {
 
                     } else {
                         googletag.defineSlot('/12048063/BD-CNTNT-07', [300, 250], 'div-gpt-ad-1472285514182-6').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
@@ -793,7 +1017,8 @@
                                                                     if (pageSize >= 1180) {
                         googletag.defineSlot('/12048063/BD-SDBR-03', [300, 250], 'div-gpt-ad-1472285514182-9').setTargeting('campaign', bdutm.campaign).addService(googletag.pubads());
                     }
-                                                pbjs.que.push(function () {
+                                
+                pbjs.que.push(function () {
                     /* Set query string targeting on all GPT ad units. The logic for deciding query strings is described in the section Configure AdServer Targeting. Note that this function has to be called after all ad units on page are defined.
                      */
                     pbjs.setTargetingForGPTAsync();
@@ -816,16 +1041,27 @@
 
             });
         </script>
-    
+    <script>
+    if (SessionUTMs.normalisedSource() === 'outbrain') {
+        var script = document.createElement("script");
+        script.async = true;
+        script.src = "https://widgets.outbrain.com/outbrain.js";
+        document.currentScript.parentNode.insertBefore(script, document.currentScript);
+    }
+</script>
+
 <style type="text/css">
 		
+		h1, h2, h3, h4, h5, h6, a {
+		color: #1f61c4;
+	}
 		
 		
 </style>
     		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		</head>
 
-<body class="page page-id-506 page-template-default not-mullet group-blog">
+<body class="page-template-default page page-id-506 not-mullet group-blog">
 
 <script>
     window.fbAsyncInit = function() {
@@ -945,16 +1181,7 @@
 <p>Please let us know if the personal information which we hold about you needs to be corrected or updated.</p>
 <p>11. Contact</p>
 <p>If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info@burstdaily.com</p>
-<div class="inner-ad-wrapper">
-<div class="disclaimer disclaimer-top-ad">ADVERTISEMENT</div>
-<p><!-- /12048063/BD-CNTNT-03 --></p>
-<div id="div-gpt-ad-1472285514182-2" style="height:250px; width:300px;">
-    <script>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1472285514182-2'); });
-    </script>
-</div>
-</div>
-		<div class="page-links">Pages: 1 <a href="http://burstdaily.com/privacy-policy/2/">2</a></div>	</div><!-- .entry-content -->
+			</div><!-- .entry-content -->
 	<span style="display:none" class="updated">July 22, 2016</span>
 	<div style="display:none" class="vcard author"><a class="url fn n" href="http://burstdaily.com/author/jud-hogan/">Jud Hogan</a></div>
 	<footer class="entry-footer">
@@ -981,10 +1208,61 @@
 	</div>
 
     <div>
-                    <style>
-.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
-</style>
-	<div class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://burstdaily.com/entertainment/the-internet-just-gave-your-favorite-superheroes-a-hello-kitty-makeover-and-youre-going-to-love-how-they-look/" rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2016/12/CaptAmerica2-300x150.png" alt="The Internet Just Gave Your Favorite Superheroes A Hello Kitty Makeover And You’re Going To Love How They Look!"></a><h3 class="rpwe-title"><a href="http://burstdaily.com/entertainment/the-internet-just-gave-your-favorite-superheroes-a-hello-kitty-makeover-and-youre-going-to-love-how-they-look/" title="Permalink to The Internet Just Gave Your Favorite Superheroes A Hello Kitty Makeover And You’re Going To Love How They Look!" rel="bookmark">The Internet Just Gave Your Favorite Superheroes A Hello Kitty Makeover And You’re Going To Love How They Look!</a></h3><time class="rpwe-time published" datetime="2016-12-06T07:37:50+00:00">December 6, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://burstdaily.com/lifestyle/23-christmas-presents-dont-need-cant-afford/" rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-03-at-3.29.39-PM-300x150.png" alt="23 Christmas Presents You Don’t Need and Can’t Afford"></a><h3 class="rpwe-title"><a href="http://burstdaily.com/lifestyle/23-christmas-presents-dont-need-cant-afford/" title="Permalink to 23 Christmas Presents You Don’t Need and Can’t Afford" rel="bookmark">23 Christmas Presents You Don’t Need and Can’t Afford</a></h3><time class="rpwe-time published" datetime="2016-12-04T10:44:25+00:00">December 4, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://burstdaily.com/animals/stung-by-thousands-of-bees-and-left-for-dead-hell-need-a-miracle-to-survive/" rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2016/10/Screen-Shot-2016-11-05-at-5.51.59-PM-300x150.png" alt="Stung By Thousands of Bees and Left for Dead, He’ll Need a Miracle to Survive"></a><h3 class="rpwe-title"><a href="http://burstdaily.com/animals/stung-by-thousands-of-bees-and-left-for-dead-hell-need-a-miracle-to-survive/" title="Permalink to Stung By Thousands of Bees and Left for Dead, He’ll Need a Miracle to Survive" rel="bookmark">Stung By Thousands of Bees and Left for Dead, He’ll Need a Miracle to Survive</a></h3><time class="rpwe-time published" datetime="2016-11-08T04:12:39+00:00">November 8, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://burstdaily.com/news/photos-foster-kids-day-adopted-will-change-think-foster-care-system/" rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2016/10/13263753_1034825999945210_3718954215046108731_n-300x150.jpg" alt="These Photos of Foster Kids on the Day They Were Adopted Will Change How You Think of the Foster Care System"></a><h3 class="rpwe-title"><a href="http://burstdaily.com/news/photos-foster-kids-day-adopted-will-change-think-foster-care-system/" title="Permalink to These Photos of Foster Kids on the Day They Were Adopted Will Change How You Think of the Foster Care System" rel="bookmark">These Photos of Foster Kids on the Day They Were Adopted Will Change How You Think of the Foster Care System</a></h3><time class="rpwe-time published" datetime="2016-10-19T00:24:30+00:00">October 19, 2016</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ -->            </div>
+                    <div>
+                    <div class="rpwe-block">
+        <ul class="rpwe-ul">
+                            <li class="rpwe-li rpwe-clearfix">
+                    <a href="http://burstdaily.com/news/colorized-historical-photos-will-change-how-you-feel-about-the-past/" class="rpwe-img">
+                        <img src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2017/06/bananadocknyc.jpg" class="rpwe-alignleft rpwe-thumb">
+                    </a>
+                    <h3 class="rpwe-title"><a href="http://burstdaily.com/news/colorized-historical-photos-will-change-how-you-feel-about-the-past/">Colorized Historical Photos Will Change How You Feel About The Past</a>
+                    </h3>
+                    <time class="rpwe-time published">2017-06-13 01:19:07</time>
+                </li>
+                            <li class="rpwe-li rpwe-clearfix">
+                    <a href="http://burstdaily.com/lifestyle/crazy-diet-fads-past-totally-didnt-work/" class="rpwe-img">
+                        <img src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2017/06/ayds2.jpg" class="rpwe-alignleft rpwe-thumb">
+                    </a>
+                    <h3 class="rpwe-title"><a href="http://burstdaily.com/lifestyle/crazy-diet-fads-past-totally-didnt-work/">Crazy Diet Fads From The Past That Totally Didn’t Work</a>
+                    </h3>
+                    <time class="rpwe-time published">2017-06-01 07:04:45</time>
+                </li>
+                    </ul>
+    </div>
+                </div>
+
+            <div class="ad-wrapper sidebar-ad-wrapper cntnt-06">
+                <!-- /12048063/BD-CNTNT-06 -->
+<div id="div-gpt-ad-1472285514182-5" style="height:250px; width:300px;">
+    <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1472285514182-5'); });
+    </script>
+</div>
+            </div>
+
+            <div>
+                    <div class="rpwe-block">
+        <ul class="rpwe-ul">
+                            <li class="rpwe-li rpwe-clearfix">
+                    <a href="http://burstdaily.com/entertainment/top-40-anticipated-summer-flicks/" class="rpwe-img">
+                        <img src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2017/05/movie19.jpg" class="rpwe-alignleft rpwe-thumb">
+                    </a>
+                    <h3 class="rpwe-title"><a href="http://burstdaily.com/entertainment/top-40-anticipated-summer-flicks/">The Top 40 Most Anticipated Summer Flicks</a>
+                    </h3>
+                    <time class="rpwe-time published">2017-05-09 22:13:08</time>
+                </li>
+                            <li class="rpwe-li rpwe-clearfix">
+                    <a href="http://burstdaily.com/news/tomi-lehren-isnt-think-22-facts-will-surprise-you/" class="rpwe-img">
+                        <img src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-08-at-1.02.16-PM.png" class="rpwe-alignleft rpwe-thumb">
+                    </a>
+                    <h3 class="rpwe-title"><a href="http://burstdaily.com/news/tomi-lehren-isnt-think-22-facts-will-surprise-you/">Tomi Lahren Isn't Who You Think She Is: 22 Facts That Will Surprise You</a>
+                    </h3>
+                    <time class="rpwe-time published">2017-05-09 01:03:25</time>
+                </li>
+                    </ul>
+    </div>
+                </div>
+            </div>
 
     <div class="ad-wrapper sidebar-ad-wrapper">
         <div class="disclaimer disclaimer-top-ad">ADVERTISEMENT</div>
@@ -1004,7 +1282,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-						© 2016 <a href="http://burstdaily.com/">burstdaily.com</a>
+						© 2017 <a href="http://burstdaily.com/">burstdaily.com</a>
 			<span class="sep"> | </span>
 			<a href="http://burstdaily.com/privacy-policy">Privacy Policy</a>
 			<span class="sep"> | </span>
@@ -1019,63 +1297,45 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-        <!-- Prebid footer code-->
-        <script>
-//            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-//                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-//                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-//            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-//
-//            ga('create', 'UA-80726798-1', 'auto');
-            //Send data from prebid.js automatically
-            pbjs.que.push(function() {
-                pbjs.enableAnalytics({
-                    provider: 'ga',
-                    options: {
-                        global: 'ga', // <string> name of GA global. Default is 'ga'
-                        enableDistribution: false // <bool> enable/disable distribution. Recommend disable to save bandwidth/calls
+<script type="text/javascript">
+    if (SessionUTMs.normalisedSource() !== 'outbrain') {
+        function getWidth() {
+            return document.documentElement["clientWidth"];
+        }
+
+        function isMobile() {
+            return getWidth() < 728;
+        }
+
+        function isTablet() {
+            return (getWidth() >= 728 && getWidth() < 1028);
+        }
+
+        function isDesktop() {
+            return getWidth() >= 1028;
+        }
+
+        var mobile = isMobile();
+        var tablet = isTablet();
+        var desktop = isDesktop();
+
+        var sectionCode = sectionCode || [];
+
+        if (mobile) {
+            sectionCode.push(
+                "fdd2e8bc-2e64-4cc9-a124-9ec9db937640",
+                "3fffd98b-6a99-4ecd-8a04-b8a593676747"
+            );
+
+            (function () {
+                var script = document.createElement("script");
+                script.async = true;
+                script.src = "https://s.yimg.com/av/gemini/ga/gemini.js";
+                document.body.appendChild(script);
+            })();
+        } else {
                     }
-                });
-            });
-        </script>
-    <script type="text/javascript">
-    function getWidth () {
-        return document.documentElement["clientWidth"];
     }
-
-    function isMobile() {
-        return getWidth() < 728;
-    }
-
-    function isTablet() {
-        return (getWidth() >= 728 && getWidth() < 1028);
-    }
-
-    function isDesktop() {
-        return getWidth() >= 1028;
-    }
-
-    var mobile = isMobile();
-    var tablet = isTablet();
-    var desktop = isDesktop();
-
-    var sectionCode = sectionCode || [];
-
-    if (mobile) {
-        sectionCode.push(
-            "fdd2e8bc-2e64-4cc9-a124-9ec9db937640",
-            "3fffd98b-6a99-4ecd-8a04-b8a593676747"
-        );
-
-        (function(){
-            var script = document.createElement("script");
-            script.async = true;
-            script.src = "https://s.yimg.com/av/gemini/ga/gemini.js";
-            document.body.appendChild(script);
-        })();
-    } else {
-            }
-
 </script>    <!-- Quantcast Tag -->
 <script type="text/javascript">
     var _qevents = _qevents || [];
@@ -1141,6 +1401,47 @@
         };
     })();
 </script>
+    <script type="text/javascript">
+    /**
+     * Sticky ad unit
+     */
+    (function () {
+        var stickySidebars = document.getElementsByClassName('sticky-ad');
 
+        if (stickySidebars.length != 0) {
+
+            var sidebarsInitialPosition = [];
+            for (var i = 0; i < stickySidebars.length; i++) {
+                sidebarsInitialPosition.push(stickySidebars[i].offsetTop);
+            }
+
+            var last_known_scroll_position = 0;
+            var ticking = false;
+
+            function doSomething(scroll_pos, sidebar, sidebarId) {
+
+                if (scroll_pos > sidebarsInitialPosition[sidebarId]) {
+                    sidebar.style.position = 'fixed';
+                    sidebar.style.top = '74px';
+                } else {
+                    sidebar.style.position = 'static';
+                }
+            }
+
+            window.addEventListener('scroll', function (e) {
+                last_known_scroll_position = window.scrollY;
+                if (!ticking) {
+                    window.requestAnimationFrame(function () {
+                        for (var i = 0; i < stickySidebars.length; i++) {
+                            doSomething(last_known_scroll_position, stickySidebars[i], i);
+                        }
+                        ticking = false;
+                    });
+                }
+                ticking = true;
+            });
+        }
+    })();
+</script>
 
 </body></html>
