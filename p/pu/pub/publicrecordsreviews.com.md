@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecordsreviews.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071624id_/http%3A//www.publicrecordsreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecordsreviews.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629053552id_/https%3A//www.publicrecordsreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Public Records Reviews
 
@@ -76,8 +76,3 @@ The Site contains links to other websites. We are not responsible for the privac
 ## 5\. Updates and Changes to Privacy Policy
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
-
-Corporate Office  
-4330 S Valley View Blvd, Ste 118  
-Las Vegas, NV 89103-4052  
-
