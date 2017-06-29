@@ -1,79 +1,6 @@
-> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225094514id_/https%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629113243id_/https%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Online Nursing Continuing Education Provider with a Free Online CE Course
-
-| 
-
-[Nursing Resources](https://www.rn.org/NursingOrganizations.php)[](https://web.archive.org/web/20161225094514id_/https%3A//www.rn.org/index.php)
-
-|    
----|---  
-  
-[Course Catalog](https://www.rn.org/CourseCatalog.php)
-
-|    
-  
-[About RN.org®](https://www.rn.org/AboutRNORG.php)
-
-|    
-  
-[Accreditation](https://www.rn.org/Accreditation.php)
-
-|    
-  
-[Español](http://www.enfermeriasite.com/index.php)
-
-|    
-  
-[Register](https://www.rn.org/Register.php)
-
-|    
-  
-[Home](https://www.rn.org/index.php)
-
-|    
-  
-_"So easy to navigate the website. Very interesting courses and informative! RN.ORG is my source for nurse CEUs! ", Susan C., RN, Warsaw, IN_
-
-_"Excellent Nursing CEU Provider! Thank you. Very well written. This was easy to read and was presented very well. The online free nursing education course is excellent ", Robert E., RN, CEN, San Diego, CA_
-
-_"Wow, your system is so cool. I was looking for CEU Continuing Education Free Nursing and found RN.ORG! I enjoy the ability to reprint my certificates and review my transcript at any time", Tony G., ANRP, Clinical Instructor, Miami, FL_
-
-_"I was looking for a Education Nursing Online Provider and came upon RN.ORG!! Great information for the nurse as well for teaching our youth", Martha W., RN, Toronto, ON_
-
-_"Very good source for Online Nursing Education and Nursing Contact Hours.. The content is something that all parents and healthcare workers can use", Rachelle U., LPN, Key Largo, FL_
-
-_"Excellent, Thanks for the Free Online CE Course! You have become my Online RN Continuing Education Provider! I have since contacted my friends and now the whole floor is on RN.ORG! Learning with www.rn.org is so easy. I never knew taking nursing continuing education courses to obtain RN CEUs could be so easy", Ronald G., RN, Washington, DC_
-
-_"$20 Unlimited Nursing/Disaster/FEMA CEUs really caught my attention!! Online Disaster & FEMA Courses for Nurses, Medics, EMTs and MDs is exactly what we need over here in Iraq!", Robin K., RN, US Army_
-
-_"Excellent Free Nursing CEU Provider! Amazing, Nursing CEU's Free brought up RN.ORG immediately! Thank you. Very well written. This was easy to read and was presented very well. The online free nursing education ceu's are excellent ", Robert E., RN, CEN, San Diego, CA_
-
-_"I was looking in RN Magazines and Medceu org to learn about FEMA, Disaster and Bioterrorism and your site is excellent", Willam K., RN, Toledo, OH_
-
-_"Your Bioterrorism for ER course is outstanding and covers what we need to know to keep our ER safe", Steven S., RN, South Bend, IN_
-
-_"$20 Unlimited Nurses CE caught my attention however FEMA, Disaster and Nursing Online Education and CEU's with Instant Certificates was the Frosting on the Cake!!, Donald J., RN, CEN, ANRP, Washington, DC._
-
-_"I was searching for Spectrum and MyfreeCE and came across your site, amazing for Nursing CEU's free, RN.ORG is excellent! Free CEUs was my first thought and I ended up signing up before I even took the Free CEU course!". Robert B., RN, US Army_
-
-_"Finding a Online Disaster Nursing Education website with CEU's for nurses that is so easy to use is incredible!! FEMA, Disaster, Bioterrorism and Nursing CEUs all on one site that are Accredited for Medics/Nurses by the state board of Nursing allows me more time to run my ER and less time dealing with education", JA P., RN, Los Angeles, CA_
-
-_"Nursing CEUs are important for our license here here in Florida. Finding the right nursing CEU is the hard part, thank goodness for RN.ORG!", Robin A, LPN, Orlando, FL_
-
-_"Wow, your system is so cool. I was looking for Free CEU Free Nursing Provider and found RN.ORG! I enjoy the ability to reprint my certificates and review my transcript at any time", Tony G., ANRP, Clinical Instructor, Miami, FL_
-
-_"I was looking for a Free CEU Nursing Provider and Career Education Nursing and came upon RN.ORG!! Great information for the nurse as well for teaching our youth", Martha W., RN, Toronto, ON_
-
-_"Very good source for Online Nursing Education and Nursing Contact Hours.. The content is something that all parents and healthcare workers can use", Rachelle U., LPN, Key Largo, FL_
-
-_"Thanks for the Free Nursing CEU Course! You have become my Online RN Continuing Education Provider! I have since contacted my friends and now the whole floor is on RN.ORG! Learning with www.rn.org is so easy. I never knew taking nursing continuing education courses to obtain Free RN CEU could be so easy", Ronald G., RN, Washington, DC "_
-
-_"Excellent Nursing Free CEU Provider! Thank you. Very well written. This was easy to read and was presented very well. The online free nursing CEU is excellent ", Robert E., RN, CEN, San Diego, CA_
-
-_"Nursing CEU Courses Online from a CEU nursing Provider is so easy with RN.ORG!", Jason B., RN, Orlando, FL_
-
-| 
+# Unlimited Online Nursing CEUs for 19.99 RN.org? (Official Site)
 
 **Privacy Policy**
 
@@ -83,7 +10,7 @@ At RN.org, we are committed to protecting your privacy.  This Privacy Policy wi
 
 We collect information on the site in order to make it possible for you to purchase items on our website and to enhance your overall experience.  We also monitor traffic patterns and site usage to help us develop and improve design and layout.  **RN.org will not collect personal information about you without your knowledge and consent.**
 
-We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20161225094514id_/https%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
+We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20170629113243id_/https%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
 
 RN.ORG may provide information in the aggregate to third parties without disclosure of personally identifying information.
 
@@ -123,7 +50,4 @@ You agree that RN.org may retain and use your personal information until you inf
 
 If you choose to visit RN.org, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Service.
 
-As a continuing education nursing provider, RN.org is interested in your professional articles which could be used as nursing continuing education online material. We provide all the credentialing and certifications using our provider numbers, you supply the content in a easy to read format with between 1800 and 2000 words in ideally, APA format. [Contact us](http://www.rn.org/AboutRNORG.php) for more information. [www.rn.org](http://www.rn.org/) is a continuing education provider nursing. 
-
-|    
----|---
+> As a nursing continuing education provider, rn.org® is interested in your professional articles which could be used as nursing continuing education online material. We provide all the credentialing and certifications using our provider numbers, you supply the content in a easy to read format with between 1800 and 2000 words in ideally, APA format. Contact us for more information. Free CEU Nursing Provider Online. Professional Online Nursing Education Provider. 
