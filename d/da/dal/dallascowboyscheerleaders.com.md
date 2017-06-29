@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dallascowboyscheerleaders.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230305id_/http%3A//www.dallascowboys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascowboyscheerleaders.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629155049id_/http%3A//www.dallascowboys.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dallas Cowboys
 
 Last Updated: October 19, 2015
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=c44fb464-77f8-4840-840c-5560b222de2b)
+
 The Dallas Cowboys Football Club, Ltd., and all other related entities (“Dallas Cowboys”, “we”, “our”, “us”) respect your privacy and value your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
 Please note that this Privacy Policy does not apply to Dallas Cowboys properties that do not link to this Privacy Policy (including Dallas Cowboys Crew Youth Membership Program) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs").  In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
-
-Dallas Cowboys has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  The TRUSTe certification only applies to our sites [www.dallascowboys.com](http://www.dallascowboys.com/), [www.shop.dallascowboys.com](http://www.shop.dallascowboys.com/) and our Dallas Cowboys Mobile application. If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@dallascowboys.com](mailto:privacy@dallascowboys.com).  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. The TRUSTe program covers only information that is collected through our websites that link to this privacy policy or mobile applications that link to this policy.
 
 **1\. Information Collection**
 
@@ -192,7 +192,8 @@ Please note that the Services are directed towards users who reside in the Unite
 
 **16\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net) or:
+If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy@dallascowboys.net](mailto:privacy@dallascowboys.net).  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  
+<https://feedback-form.truste.com/watchdog/request> .
 
 Dallas Cowboys   
 Attn: Website Privacy Policy   
