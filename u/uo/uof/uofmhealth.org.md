@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uofmhealth.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124141053id_/http%3A//www.uofmhealth.org/general-information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uofmhealth.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629185759id_/http%3A//www.uofmhealth.org/general-information/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | University of Michigan Health System
+# Privacy Statement | Michigan Medicine
 
 The University of Michigan Health System is very interested in the privacy and safety of visitors to our web site.
 
@@ -24,7 +24,7 @@ Any information you provide will not be sold or distributed to any other party.
 
 If you want to get **non-medical information** about you that may be in our records:
 
-The Freedom of Information Act and the Privacy Act of 1974 provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, visit our [Freedom of Information Act page. ](http://www.umich.edu/~urel/foia.html)
+The Freedom of Information Act and the Privacy Act of 1974 provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, visit our [Freedom of Information Act page. ](https://foia.vpcomm.umich.edu/)
 
 If you want to get **medical information** about you that may be in our records, go to [How to Obtain Copies of Your Medical Record. ](http://www.uofmhealth.org/provider/medical-records)
 
