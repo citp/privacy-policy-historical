@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230053108id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204900id_/https%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -11,7 +11,7 @@ Portland Street Trading Estate
 Southport   
 PR8 1LJ
 
-The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
+The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us or as required by law. This policy should be read in conjunction with [our Terms of Use here](https://www.theregister.co.uk/2008/09/30/reg_ts_and_cs).
 
 The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
@@ -79,7 +79,7 @@ Anyone who provides The Register with personal information is given the opportun
 
 ### Accessing your Data
 
-Readers of The Register have certain rights under the UK's Data Protection Acts. You can, for instance, ask to be told what information we hold about you in our databases. The Register will provide you with all of the details that we hold about you, both online and offline, upon request.
+Readers of The Register have certain rights under the UK's Data Protection Act 1998 (“DPA”). You can, for instance, ask in writing to be told what information we hold about you in our databases and how that information is being processed. The Register will provide you with all of the details that we hold about you, both online and offline, upon request, providing we are able to do so in compliance with our obligations under the DPA.
 
 The Register reserves the right to charge a £10 administration fee for this process. If you would like to request this information please use the contact details below.
 
