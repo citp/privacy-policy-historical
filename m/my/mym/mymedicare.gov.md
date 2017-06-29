@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226223003id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000519id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
@@ -104,7 +104,7 @@ When you visit CMS websites, please look for the Privacy Notice posted on the ma
 
 ## **How long we keep data and how we access it**
 
-CMS websites keep data collected long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule (<http://www.archives.gov/records-mgmt/grs/grs20.html>).
+CMS websites keep data collected long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule (<https://www.archives.gov/records-mgmt/policy/transfer-guidance.html>).
 
 ## **How CMS websites use third-party websites and applications**
 
