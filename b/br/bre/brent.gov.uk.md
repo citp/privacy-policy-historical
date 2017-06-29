@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614133151id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629153746id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | Brent Council
 
@@ -10,6 +10,8 @@ Should you have any queries about the site please email [webteam@brent.gov.uk](
 
 ## What personal information do we collect?
 
+Brent Council operates its Trading Standards Service on a joint consortium basis with the London Borough of Harrow, with The London Borough of Brent being the lead authority. Our Trading Standards Service shares some information it holds nationally with other local authority Trading Standards departments and in certain circumstances, other regulators.
+
 In some areas, we may ask you to register your name, email address and relevant personal details. We will also collect information from you if you complete any other forms on our site or if you contact us with comments or specific requests.
 
 This information is only used for the intended purpose and, if we wish to use it for any other purpose, we will normally ask you first. In some cases the council may use your information for another purpose if it has a legal duty to do so, or to provide a complete service to you, or if there is a risk of serious harm or threat to life.
@@ -17,7 +19,7 @@ This information is only used for the intended purpose and, if we wish to use it
 If you choose to complete any of our on-line forms, Brent Council will not use the personal information you provide us with for marketing purposes without first gaining your consent.
 
 We may pass your details on to third party service providers who are contracted to Brent Council in the course of dealing with your request. These third parties are obliged to keep your details securely, will use them only to fulfil the request and will dispose of the information at the appropriate time.  
-Where services are delivered on the internet we also use [cookies](https://web.archive.org/cookies/ "Cookies").
+Where services are delivered on the internet we also use [cookies](https://www.brent.gov.uk/cookies/ "Cookies").
 
 ## Disclosure
 
@@ -51,6 +53,14 @@ The Council shall ensure that it will not send you direct marketing information 
 ## **Email monitoring policy**
 
 The use of Brent Council's email system may be monitored and communications read in order to secure effective operation of the system and for other lawful purposes.
+
+## Detect and prevent fraud or crime
+
+Brent Council is required by law to protect the public funds it administers. We may use any of the information you provide to us for the prevention and detection of crime. We may also share this information with other bodies that are responsible for auditing or administering public funds including the Audit Commission, the Department for Work and Pensions, and other local authorities, HM Revenue and Customs, and the Police.
+
+In addition to undertaking our own data matching to identify errors and potential frauds we are required to take part in national data matching exercises undertaken by the Audit Commission. The use of data by the Audit Commission in a data matching exercise is carried out under its powers in Part 2A of the Audit Commission Act 1998. It does not require the consent of the individuals concerned.
+
+**In limited situations we may monitor and record electronic transactions (website, email and telephone conversations). This will only be used to prevent or detect a crime, or investigate or detect the unauthorised use of the telecommunications system and only as permitted by the Telecommunications (Lawful Business Practice) (Interception of Communications) Regulations 2000.**
 
 ## Asking us for information we may hold about you
 
