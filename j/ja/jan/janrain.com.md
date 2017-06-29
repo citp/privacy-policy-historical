@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101044811id_/http%3A//www.janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629022118id_/http%3A//www.janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
 
 # Janrain Privacy Statement | Janrain
 
-Effective as of September 15, 2016.
+Effective as of December 7, 2016.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=7bc0f34d-9cf2-427d-af9e-15e2fc354825 "TRUSTe Privacy Certification")
 
@@ -98,6 +98,20 @@ You can log in to our Site using social identity providers such as Facebook, Goo
 
 Our site also includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy statement of the company providing it.
 
+  * **Prospect User Data Supplementation**
+
+
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include:
+
+  * Address information about you from third party sources, such as the U.S. Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud. [AND/OR]
+
+
+
+Purchased marketing data about prospective our customers from third parties that is combined with information we already have about you, to create more tailored marketing advertising and products.
+
 ### 4\. Use of Personal Information Collected
 
 We may use your information (a) to deliver our website services and features desired by you (including any customization features requested by you), (b) to improve our services for you, (c) to personalize content and offers that may be of interest to you, (d) to respond to your inquiries, and (e) to fulfill your request for products or services. If provided, we may use your email address to contact you from time to time.
@@ -136,15 +150,13 @@ The security of your personal information also depends on your protection of you
 
 Janrain collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Janrain’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
-
 We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Notice and Choice: Individuals may submit personal information to our customers through the use of the website registration and login services we provide to our Clients. (Some of these services may have a notice that they are “powered by Janrain”). This personal information is submitted with notice to, and the consent of, the individual user via identity providers’ permission screens, or voluntarily provided by the user at registration. Once Janrain has successfully facilitated the transmission of personal information to a Client’s database that is not hosted by Janrain, it is that Clients’s responsibility to guard the personal information against unauthorized access or transmission.
 
 Our Role Processing and Protecting Client Data: As part of our Janrain Customer Identity and Access Management Platform, we may receive and host on our Clients’ behalf such personal information and other data a customer may provide to us for hosting (collectively, “Client Data”). Our Clients are the data controllers of Client Data. As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control. In doing so, we implement appropriate technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information. We do not determine how our Clients use Client Data, and we will not access or disclose it except as directed or agreed to by our customers or required by law.
 
-Accessing, Correcting, Amending, or Deleting Personal Information: If you are an individual seeking access to, or who would like to correct, amend, or delete your personal information which Janrain may be storing on behalf of our Client, you should direct your request to the applicable Janrain Client acting as the data controller for such information. Clients may access, and delete Client Data, including an individual record, via an application provider interface or API. If requested to remove/access data we will respond within 30 days. Following the deletion of personal information in a database we host, the related backup data will be deleted, generally within 30 days. Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Accessing, Correcting, Amending, or Deleting Personal Information: If you are an individual seeking access to, or who would like to correct, amend, or delete your personal information which Janrain may be storing on behalf of our Client, you should direct your request to the applicable Janrain Client acting as the data controller for such information. Clients may access, and delete Client Data, including an individual record, via an application provider interface or API. If requested to remove/access data we will respond within 30 days. Following the deletion of personal information in a database we host, the related backup data will be deleted, generally within 10 days.  Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Cookies Related to Our Social Login Service**
 
