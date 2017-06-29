@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the home.saxo privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231150341id_/https%3A//www.home.saxo/legal/privacy-policy/saxo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home.saxo privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204557id_/https%3A//www.home.saxo/legal/privacy-policy/saxo-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Saxo Bank
+# Privacy Policy | Saxo Group
 
 Saxo Bank A/S (“ Saxo Bank”) and/or its affiliates and subsidiaries (“Saxo Bank Group”, "we", “our” or "us") would like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with.
 
