@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120121639id_/http%3A//oliverpeoples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629162610id_/http%3A//oliverpeoples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Oliver Peoples
 
@@ -6,7 +6,7 @@ Oliver Peoples, Inc. operates this Website. Oliver Peoples, Inc. recognizes that
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department.
+If you have any questions regarding this Privacy Policy, please contact our [Privacy Office](mailto:privacyoffice@luxotticaretail.com).
 
 WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?  
 When you open an account, participate in a survey or contest or place an order, we collect and store some or all of the information that you provide, including: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about our sales, special offers and new site features and those of our affiliates, unless you have opted not to receive promotional communications in connection with this Web site. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
