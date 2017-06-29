@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222533id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
-Effective 01/01/2014
+Effective March 23, 2017
 
 At Staples your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how Staples protects your privacy. This Privacy Policy describes:
 
@@ -14,7 +14,7 @@ At Staples your privacy is as important to us as it is to you. Our Customer Pers
 
 
 
-This Privacy Policy applies to all of the services and websites offered by Staples, Inc., our subsidiaries, and affiliated companies. Staples offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its [Terms of Use](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/). If any of the terms of this Privacy Policy directly conflict with the [Terms of Use](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/), the terms of this Privacy Policy will apply.
+This Privacy Policy applies to all of the services and websites offered by Staples, Inc., our subsidiaries, and affiliated companies. Staples offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its [Terms of Use](https://web.archive.org/web/20170629222533id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/). If any of the terms of this Privacy Policy directly conflict with the [Terms of Use](https://web.archive.org/web/20170629222533id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/), the terms of this Privacy Policy will apply.
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
 [sales@StaplesPromoProducts.com](mailto:sales@staplespromoproducts.com)
@@ -238,10 +238,6 @@ www.transunion.com
 
 
 
-International Considerations and Safe Harbor
-
-Staples complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Staples has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Staples' certification, please visit <http://www.export.gov/safeharbor/>.
-
 For California Residents) Privacy Rights under California Civil Code Sections 1798.83-1798.84
 
 California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of Personal Information we share with affiliated companies or third parties for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. Please allow 30 days for a response. If you are a California resident and would like a copy of this notice, please submit a written request to the email or postal mail address contained at the beginning of this document.
@@ -250,6 +246,11 @@ Changes to This Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified by its effective date found at the top of this document. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at the email or postal mail address contained at the beginning of this document.
 
-© 2010 Staples, Inc. All Rights Reserved.
+What has changed:
+
+March 23, 2017 | We removed references to the US-EU and US-SWISS Safe Harbor programs which have or will be discontinued.  
+---|---  
+  
+© 2017 Staples, Inc. All Rights Reserved.
 
 This document contains proprietary work by Staples Promotional Products and is to be treated confidentially by all recipients. Any review, retransmission, dissemination or use of or taking of any action upon this document by any third party, without the prior written permission of Staples Inc. is prohibited by law.
