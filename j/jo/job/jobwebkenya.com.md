@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021015421id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629112458id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobwebkenya.com
+# Privacy Policy - Jobs in Kenya - http://jobwebkenya.com/
 
 This Privacy Policy governs the manner in which JobWebKenya.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://jobwebkenya.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by JobWebKenya.com.
 
