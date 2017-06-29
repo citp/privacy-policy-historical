@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philstar.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229162028id_/http%3A//www.philstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philstar.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143706id_/http%3A//www.philstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | philstar.com
 
