@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043201id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013702id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Metro News
 
-This Privacy & Cookies Policy dated 17/05/2016 replaces our previous policies. Please take the time to review before you continue to use our products and services.
+This Privacy & Cookies Policy dated 02/02/2017 replaces our previous policies. Please take the time to review before you continue to use our products and services.
 
 This Privacy & Cookie Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
@@ -98,6 +98,10 @@ If you have registered on our websites or apps, we may analyse the information w
 When you are shown an advertisement, our advertising systems do not know who you are or your contact details (such as your name, email address or postal address).
 
 Where you have granted permission to access your device’s location to us, our advertising partners or specialist data companies, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
+
+**Social media advertising**
+
+We may target advertising on social media sites to specifically include or exclude those that have registered for our products and services. For example, customers that have an outdated version of our app may see an ad for the latest version and those that have already subscribed to our newsletters may not see the ad for those newsletters.
 
 **How we may share your information**
 
@@ -219,7 +223,10 @@ You can opt-out of online behavioural advertising cookies on this website on our
 
 When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
 
-Please note that you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.  
+Please note that you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.
+
+You may change your social media advertising preferences within the social media site. For instance, on Facebook you can select “Hide all from this advertiser” to stop seeing any of an advertiser’s ads.
+
 **Contacting us and accessing your personal information**
 
 If you have any queries or comments about this Privacy & Cookies Policy please contact us at:
