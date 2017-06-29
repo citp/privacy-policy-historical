@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weelicious.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129052013id_/http%3A//weelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weelicious.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629235754id_/http%3A//weelicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weelicious
 
@@ -24,7 +24,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 Security of your Personal Information
 
-weelicious is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. 
+weelicious is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities.
 
 Privacy Contact Information
 
@@ -34,10 +34,10 @@ By e-mail: info@weelicious.com
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-Amazon Affiliate Links 
+Amazon Affiliate Links
 
 Weelicious is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 Gourmet Ads
 
-For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/abou...](http://www.gourmetads.com/about/privacy-policy)
