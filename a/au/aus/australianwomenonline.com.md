@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207020123id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629041011id_/http%3A//australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Women Online
 
@@ -41,5 +41,3 @@ Parramatta, NSW 2150 Australia
 
 Telephone: +61 2 9615 9603  
 Email: Please use contact form below
-
-[_cforms_ contact form by delicious:days](http://www.deliciousdays.com/cforms-plugin)
