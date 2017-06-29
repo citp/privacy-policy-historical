@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesite.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208232240id_/http%3A//www.themix.org.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesite.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629173345id_/http%3A//www.themix.org.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Mix
 
