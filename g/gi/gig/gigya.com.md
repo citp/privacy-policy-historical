@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222035113id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004603id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gigya
 
@@ -25,7 +25,7 @@ Quick Reference
   11. Security
   12. Children
   13. Analytics
-  14. Third Party Ad Networks/li>
+  14. Third Party Ad Networks
   15. Updates to this Privacy Policy
   16. Contact Us
 
