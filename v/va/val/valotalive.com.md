@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valotalive.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031232720id_/http%3A//valotalive.com/ValotalivePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valotalive.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214653id_/http%3A//valotalive.com/ValotalivePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # security
 
