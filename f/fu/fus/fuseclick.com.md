@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fuseclick.com privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719203105id_/http%3A//www.fuseclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuseclick.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629113059id_/https%3A//www.fuseclick.com/privacy) for the most accurate reproduction.*
 
 # FuseClick | Mobile Performance Marketing SaaS Software
 
-When using the FuseClick website and service located at [www.fuseclick.com](http://www.fuseclick.com/)(listed as "Site"), the following privacy policies and rights remain in effect. At all times, FuseClick will protect any personal identifiable information it obtains. This privacy policy is designed to give you a better understanding about the information we collect and how this information will be used at all times. All information obtained by FuseClick is used solely for the use of the services on our website. 
+When using the FuseClick website and service located at [www.fuseclick.com](https://www.fuseclick.com/)(listed as "Site"), the following privacy policies and rights remain in effect. At all times, FuseClick will protect any personal identifiable information it obtains. This privacy policy is designed to give you a better understanding about the information we collect and how this information will be used at all times. All information obtained by FuseClick is used solely for the use of the services on our website. 
 
 #### In order to continue using our website, you must agree to the following:
 
@@ -46,7 +46,7 @@ Please note any third party cookies are not covered by our privacy policy.
 
 Third party cookies and tracking tools on our website are collected through other Web beacons. These might occur through web bugs, pixel tags or Clear GIFs. Use of these items on our website are not protected under this policy and we are unable to determine what data is obtained. 
 
-FuseClick does utilize retargeting campaigns with their cookie to help improve your interaction on the website. If you would like to opt-out of this feature, please follow the procedure at [www.fuseclick.com/privacy](http://www.fuseclick.com/privacy). 
+FuseClick does utilize retargeting campaigns with their cookie to help improve your interaction on the website. If you would like to opt-out of this feature, please follow the procedure at [www.fuseclick.com/privacy](https://www.fuseclick.com/privacy). 
 
 #### Use of Information
 
