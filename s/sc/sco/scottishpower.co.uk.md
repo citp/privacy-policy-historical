@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112131537id_/https%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629070211id_/https%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScottishPower
 
@@ -60,7 +60,7 @@ If you want to exercise those rights, the Data Protection Act 1998 sets out that
 
 To speed things along, it’s helpful if you can tell us exactly what you require, remembering that personal data consists of any information we hold about you electronically (including emails and recordings of telephone calls), as well as very limited paper files. Asking for all the personal data we hold about you is likely to take longer.
 
-To request personal information, please email dataprotection@scottishpower.com or write to: The Data Protection team, ScottishPower, Section 5, Cathcart Business Park, Spean Street, Glasgow G44 4BE.
+To request personal information, please email dataprotection@scottishpower.com or write to: The Data Protection Team, ScottishPower, 320 St Vincent Street, Glasgow G2 5AD.
 
 You also have the right to ask us to delete or correct any information we hold about you that’s wrong. Even if we don’t accept that it’s inaccurate, we must still make a note of the fact that you’ve disputed certain information.
 
