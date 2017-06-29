@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205213222id_/http%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629220954id_/http%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-1\. What is this policy about?
+### 1\. What is this policy about?
 
 This policy explains how we collect, use and disclose the personal information you provide to us when you use our website, www.pedestrian.tv
 
@@ -57,7 +57,17 @@ You can email us at editor@pedestriangroup.com.au if you would like us to update
 
 While we take reasonable steps to keep your personal information secure, we can't give you an absolute guarantee that your information is always secure as no data sent over the internet is 100% secure. We will not be responsible for any liability, loss or damage arising from unauthorised access to your information.
 
-### 9\. Questions?
+### 9\. T&Cs | Pedestrian JOBS promotions
+
+50% off Your First Job Listing 
+
+The discount provided is not transferable and is for new customers to be used once for a job advertisement.  
+
+Job advertisements will be be approved at the discretion of the Pedestrian JOBS team; feedback will be given for any job advertisements rejected and the opportunity given to revise your job ad accordingly for approval.  No guarantee is given as to the number or quality of applicants you will receive. 
+
+By taking up this offer, you will be added to the Pedestrian JOBS recruiter EDM, from which you can unsubscribe at any future time.
+
+### 10\. Questions?
 
 If you have any questions about our Privacy Policy, please contact us at  
 editor@pedestriangroup.com.au 
