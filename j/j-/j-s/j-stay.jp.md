@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129192524id_/http%3A//j-stay.jp/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630014154id_/http%3A//www.j-stay.jp/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of J-Stay
 
