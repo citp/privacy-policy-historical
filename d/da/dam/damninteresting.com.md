@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the damninteresting.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505114741id_/http%3A//www.damninteresting.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damninteresting.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629044740id_/https%3A//www.damninteresting.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Damn Interesting
 
 ### Short Version
 
-We will not willingly share your personal information with anyone. We have no desire to do so. We’re so averse to intrusive marketing that we don’t even put ads on our own site. We’ll store your email address and username and stuff if you create an account or leave a comment, but we will not share that data with anybody unless forced to do so by law. We also track visitors via Google Analytics, but only for traffic and referral data, not for advertising or anything gross like that.
+We hate spam (in the context of unsolicited advertisements, we have no official stance on the potted meat product). We dislike advertising in general, but spam…boy-howdy do we resent its very existence. If you sign up for a user account on damninteresting.com, we’ll send occasional automated emails when absolutely necessary (e.g., to reset a password). Apart from that, we will never send you any unsolicited messages, we’ll only ever email you things you sign up for, and we’ll stop doing that at once if you unsubscribe.
+
+We will never willingly share your personal information with anyone. We have no desire to do so. We’re so averse to intrusive marketing that we don’t even put ads on our own site. We’ll store your email address and username and stuff if you create an account or leave a comment, but we will not share that data with anybody unless forced to do so by law, nor will we use for anything apart from account maintenance. We also track visitors via Google Analytics, but only for traffic and referral data, not for advertising or anything gross like that.
 
 ### Long Legalese Version
 
 Privacy Policy
 
 Last updated: August 31, 2015  
-Damn Interesting (“us”, “we”, or “our”) operates the http://www.damninteresting.com website (the “Service”).
+Damn Interesting (“us”, “we”, or “our”) operates the https://www.damninteresting.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.damninteresting.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.damninteresting.com
 
 Information Collection And Use
 
