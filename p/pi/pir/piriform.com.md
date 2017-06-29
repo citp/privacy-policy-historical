@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231070808id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629082936id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Piriform - Privacy Policy
 
@@ -28,7 +28,7 @@ Information which we collect may be used in the following ways:
 When you visit our website, our servers automatically record information that your browser sends. These log files tell us generally about the visitors to our site - general geographic regions, length of visits, pages clicked on, and so forth. We can't tell who you are by examining our log files, except as anonymous users.
 
 **Device Information**   
-We may collect information about the device you are using, our products and services or, including what type of device it is, what operating systems you are using, device settings, application IDs, unique device identifiers, and crash data. We use device identifiers to analyse our traffic.
+We may collect information about the device you are using, our products and services or, including what type of device it is, what operating systems you are using, device settings, application IDs, unique device identifiers, and crash data. We use device identifiers to analyse our traffic. 
 
 **Information you give to us**   
 We will use this information:
@@ -115,7 +115,7 @@ We aim to meet high standards and our policies and procedures are, therefore, co
 
 If you want to find out more about the information we collect, you can contact us at:
 
-Mail: The Data Protection Officer, Piriform Software Ltd, One Euston Square, 40 Melton Street, NW1 2FD
+Mail: The Data Protection Officer, Piriform Software Ltd, 163 Eversholt Street, London, NW1 1BU
 
 Telephone: 1-800-816-9004
 
