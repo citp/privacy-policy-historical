@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045128id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012829id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Kaspersky Lab
+# Privacy Policy | Kaspersky Lab
 
 This privacy statement applies to AO Kaspersky Lab (“Kaspersky”) websites and Kaspersky’s affilates’ websites that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.
 
