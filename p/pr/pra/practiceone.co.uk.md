@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practiceone.co.uk privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026235718id_/http%3A//practiceone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practiceone.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629092336id_/http%3A//practiceone.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Nameswitch
+# NameSwitch - switching names made easy
 
 Nameswitch.co.uk is committed to ensuring that your privacy is protected and we will not share any of your personal information with third parties. Our privacy policy is set out below. 
 
