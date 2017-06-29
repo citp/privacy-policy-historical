@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126061843id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629180925id_/http%3A//content.digital.nhs.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - NHS Digital
 
@@ -111,12 +111,6 @@ LS1 6AE
 ## Information security
 
 There are robust security measures in place for all personal information held by the HSCIC to protect against the loss or alteration of information under the organisation's control. If you have any questions about our privacy notice or the information we hold please contact us at the above address.
-
-* * *
-
-## Privacy Impact Assessment
-
-We have completed a  [Privacy Impact Assessment [527kb]](http://content.digital.nhs.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
 
 ## Other websites
 
