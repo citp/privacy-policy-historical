@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftmobile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119124845id_/http%3A//draftmobile.com/privacy/16993/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftmobile.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011046id_/http%3A//draftmobile.com/privacy/16993/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
