@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125194530id_/http%3A//www.kwm.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215006id_/http%3A//kwm.com/en/privacy-statement) for the most accurate reproduction.*
 
 # KWM | Privacy Statement
 
