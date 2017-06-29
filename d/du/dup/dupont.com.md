@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120181803id_/http%3A//www.dupont.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629144004id_/http%3A//www.dupont.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | DuPont USA
 
@@ -156,9 +156,11 @@ DuPont develops biobased solutions using enzymes, microbes, and other bioactives
 
       * People & Process Safety
 
-        * #### [> Consulting Services & Process Technologies](https://web.archive.org/products-and-services/consulting-services-process-technologies.html)
+        * #### [> Clean Technologies](https://web.archive.org/products-and-services/clean-technologies.html)
 
-DuPont brings two centuries of real-world experience to client engagements, applying best practices we’ve developed in our...
+        * #### [> Consulting Services – Sustainable Solutions](https://web.archive.org/products-and-services/consulting-services-process-technologies.html)
+
+Discover how our sustainable business consultants customize solutions based on DuPont best practices to help clients improve...
 
         * #### [> Personal Protective Equipment](https://web.archive.org/products-and-services/personal-protective-equipment.html)
 
