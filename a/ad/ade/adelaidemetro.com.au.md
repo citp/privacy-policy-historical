@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214062129id_/http%3A//adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629130902id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
