@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095555id_/http%3A//ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005534id_/http%3A//ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Safelist Exchange
 
@@ -32,10 +32,6 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
+Copyright (c) 2017 Ultimate Safelist Exchange All Rights Reserved 
 
-
-Site Statement and Disclosure: UltimateSafelistExchange.com is NOT an MLM, Pyramid Scheme, or Get-Rich-Quick program. We do not require you to pay any fees ever to join and participate in our site. We do not require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You will not get rich by using our program. We are an internet advertising program.
-
-Copyright (c) 2016 Ultimate Safelist Exchange All Rights Reserved 
-
-[ [Member Login](https://web.archive.org/memberlogin.php) |  [How It Works](https://web.archive.org/members/how.php) |  [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) |  [ Spam Policy](https://web.archive.org/spam.php) |  [ Privacy Policy](https://web.archive.org/privacy.php) ] 
+[ [Member Login](https://web.archive.org/memberlogin.php) |  [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) |  [ Spam Policy](https://web.archive.org/spam.php) |  [ Privacy Policy](https://web.archive.org/privacy.php) ] 
