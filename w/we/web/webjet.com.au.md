@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234400id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629100619id_/https%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet
 
@@ -83,6 +83,6 @@ If at any time you have any concerns or complaints in relation to privacy or the
 
 ##  Further Information On Privacy
 
-Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner ’s web site at <http://www.privacy.gov.au/>.
+Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s web site at <http://www.privacy.gov.au/>.
 
 _Last updated 24 November 2015_
