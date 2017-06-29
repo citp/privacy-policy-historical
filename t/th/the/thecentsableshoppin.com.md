@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecentsableshoppin.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201012814id_/http%3A//www.thecentsableshoppin.com/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecentsableshoppin.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629234524id_/http%3A//www.thecentsableshoppin.com/about/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy
 
@@ -54,3 +54,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at your browsers’ respective website.
 
 This privacy policy was last updated on January 9, 2015.
+
+[](https://www.pinterest.com/pin/create/button/)
