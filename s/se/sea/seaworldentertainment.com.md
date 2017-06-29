@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaworldentertainment.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509202840id_/https%3A//seaworldentertainment.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworldentertainment.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629150408id_/https%3A//seaworldentertainment.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SeaWorld Parks & Entertainment
 
@@ -171,7 +171,7 @@ As we continue to provide additional services and as the privacy laws and regula
 
 ### **Contact Us**
 
-If you have any questions, please email us at [webmaster@SeaWorld.com](mailto:webmaster@energizer.com) or write to us at:  SeaWorld Headquarters, PO Box 690129, Orlando, FL 32869, ATTN: SeaWorld.com or call us at: (888) 800-5447.
+If you have any questions, please email us at [webmaster@SeaWorld.com](mailto:webmaster@seaworld.com) or write to us at:  SeaWorld Headquarters, PO Box 690129, Orlando, FL 32869, ATTN: SeaWorld.com
 
 Updated:  November, 2014
 
