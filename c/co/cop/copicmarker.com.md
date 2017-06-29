@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the copicmarker.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413221210id_/https%3A//imaginationinternationalinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copicmarker.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629192656id_/https%3A//imaginationinternationalinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imagination International Inc.
 
 #### Imagination International, Inc. Privacy Policy
 
-Imagination International, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. For purposes of this Agreement, “Service” refers to the Company’s utilities which can be accessed via our website at imaginationinternationalinc.com in which users can purchase products online, locate retailers, and access educational and informational resources for all products carried by the Company. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and [Terms of Use](https://web.archive.org/terms-of-use/ "Terms of Use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+Imagination International, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. For purposes of this Agreement, “Service” refers to the Company’s utilities which can be accessed via our product apps or website at imaginationinternationalinc.com in which users can create an account and store product data or upload photo or video data for social networking, purchase products online, locate retailers, and access educational and informational resources for all products carried by the Company. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and [Terms of Use](https://web.archive.org/terms-of-use/ "Terms of Use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ### 1\. Information We Collect
 
-We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes only your email, which you submit to us through the registration process at the Site.
+We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, referring/exit pages and URLs, platform types, product logs, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes your email, name, birth date and demographics which you submit to us through the registration process at the Site or when subscribing to our app.
 
 _Information collected via Technology_
 
-To activate the Service you do not need to submit any Personal Information other than your email address. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive. Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis. For example, the Company may not use cookies to collect the following information:
+To activate the Service you do not need to submit any Personal Information other than your email address and/or name. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive.
+
+Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis. For example, the Company may not use cookies to collect the following information:
 
   * First and Last Name
   * Mailing/Shipping Address
@@ -25,7 +27,7 @@ The Company may use both persistent and session cookies; persistent cookies rema
 
 _Information you provide us by registering for an account_
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your email address, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
+In addition to the information provided automatically by your browser when you visit the Site or when you subscribe to and utilize our app, in order to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your email address and/or name, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address and/or name and demographics in accordance with this Privacy Policy.
 
 ### 2\. How We Use and Share Information
 
@@ -35,7 +37,7 @@ Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent o
 
 _Non-Personal Information_
 
-In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site and within the app. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
 
 In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.
 
@@ -59,4 +61,5 @@ The Company reserves the right to change this policy and our Terms of Service at
 
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info@iiinc.co](mailto:info@iiinc.co).
 
-#### Updated by The Imagination International, Inc. Legal Team on August 4, 2015
+Last Update Date: June 28, 2017  
+Copyright © 2017 Imagination International, Inc. All rights reserved.
