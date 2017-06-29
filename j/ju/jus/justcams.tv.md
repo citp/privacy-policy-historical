@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justcams.tv privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020152559id_/http%3A//justcams.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcams.tv privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629213341id_/http%3A//justcams.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JustCams.tv - Free Live Cams
 
 Effective Date: March 4, 2014
 
-Last Modified: March 4, 2014
+Last Modified: April 6, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“JustCams.tv - Free Live Cams,” “we,” “our”). By using our Services and/or registering with JustCams.tv - Free Live Cams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as JustCams.tv - Free Live Cams adheres to the standards set forth more clearly below.
 
