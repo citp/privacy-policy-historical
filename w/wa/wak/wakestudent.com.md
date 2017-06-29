@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015220033id_/http%3A//www.wfu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakestudent.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629145802id_/http%3A//about.wfu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wake Forest University
+# Privacy Policy | About Wake Forest | Wake Forest University
 
 This policy discloses the privacy practices applicable to visitors to wfu.edu, the website for Wake Forest University. As used in this policy, the terms “Wake Forest, “the University,” “we,” “our,” and “us” refer to Wake Forest University, a North Carolina nonprofit corporation. “You” and “your” refer to the individual accessing the web pages owned and controlled by the University.
 
-You may also find within the Wake Forest domain -- signified by the address "wfu.edu" or within the range of domains assigned to the Wake Forest -- websites over which the University has no editorial responsibility or control. Such sites include but are not limited to the Web pages of individual faculty members, staff members or students and the Web pages of student organizations and other organizations not formally a part of the University. Although the University encourages compliance with all University policies and practices at such websites, the University serves only as a neutral provider of Internet-related services to them. The University recommends that you seek information from the persons responsible for those sites directly to ensure that you know under what policies and practices they operate. Information gathered by these sites could be both automatic (upon access of the website) or voluntary (provided by the user). 
+You may also find within the Wake Forest domain — signified by the address “wfu.edu” or within the range of domains assigned to the Wake Forest — websites over which the University has no editorial responsibility or control. Such sites include but are not limited to the Web pages of individual faculty members, staff members or students and the Web pages of student organizations and other organizations not formally a part of the University. Although the University encourages compliance with all University policies and practices at such websites, the University serves only as a neutral provider of Internet-related services to them. The University recommends that you seek information from the persons responsible for those sites directly to ensure that you know under what policies and practices they operate. Information gathered by these sites could be both automatic (upon access of the website) or voluntary (provided by the user).
 
 ### Where is information gathered about you?
 
@@ -23,13 +23,13 @@ Your information is also collected on an opt-in basis when you submit informatio
 
 We use your IP address to help diagnose problems with our servers, and to administer our website by identifying (1) which parts of our site are most heavily used, and (2) which portion of our audience comes from within the Wake Forest network. We do not link IP addresses to anything personally identifiable. This means that user sessions will be tracked, but the users will remain anonymous.
 
-We may use an email address you provide to send you information, or respond to inquiries, and/or other requests or questions. 
+We may use an email address you provide to send you information or respond to inquiries, and/or other requests or questions.
 
-We will not sell your information to third-parties, but may provide it to certain entities in circumstances in which we believe that doing so is necessary or appropriate, such as to: satisfy any applicable law, regulation, legal process or governmental request; detect, prevent or otherwise address fraud, security or technical issues; or protect the rights, property or safety of us, our users or others. 
+We will not sell your information to third-parties, but may provide it to certain entities in circumstances in which we believe that doing so is necessary or appropriate, such as to: satisfy any applicable law, regulation, legal process or governmental request; detect, prevent or otherwise address fraud, security or technical issues; or protect the rights, property or safety of us, our users or others.
 
 ### Device information collected by us
 
-We may collect non-personal information about the computer, mobile device or other device you use to access wfu.edu, such as IP address, geolocation information, unique device identifiers, browser type, browser language or other information of this nature. We use this information in an aggregate fashion to track access to wfu.edu. We will not disclose site usage by individual IP addresses unless compelled to do so by law. Web server logs are retained on a temporary basis and then deleted from our systems. 
+We may collect non-personal information about the computer, mobile device or other device you use to access wfu.edu, such as IP address, geolocation information, unique device identifiers, browser type, browser language or other information of this nature. We use this information in an aggregate fashion to track access to wfu.edu. We will not disclose site usage by individual IP addresses unless compelled to do so by law. Web server logs are retained on a temporary basis and then deleted from our systems.
 
 Non-personal information collected by us is shared with companies we partner with for applications used for site functionality or to inform how our site is used. These companies include:
 
@@ -46,7 +46,7 @@ Cookies are small files that are stored on your computer (unless you block them)
 
 ### Third-party cookies
 
-Cookies may be set by an organization other than wfu.edu. These "third-party cookies" may, for example, originate from websites such as YouTube, Twitter, Facebook, Google Plus or other social media services for which wfu.edu has implemented "plug-ins." Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
+Cookies may be set by an organization other than wfu.edu. These “third-party cookies” may, for example, originate from websites such as YouTube, Twitter, Facebook, Google Plus or other social media services for which wfu.edu has implemented “plug-ins.” Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
 
 You may disable cookies through your individual browser options. Doing so may prevent you from receiving the full functionality available for our website. If you would like to learn more about cookies generally, you can obtain information the following website: <http://www.allaboutcookies.org/>
 
@@ -56,9 +56,9 @@ We may provide hyperlinks to third-party websites as a convenience to users of w
 
 ### Email subscriptions
 
-Many organizations and departments represented within wfu.edu allow you to subscribe to their content via email. If you no longer wish to receive this email, follow the "unsubscribe" instructions located near the bottom of each email. You may choose to remove yourself from a specific email, or all emails to which you’re subscribed.
+Many organizations and departments represented within wfu.edu allow you to subscribe to their content via email. If you no longer wish to receive this email, follow the “unsubscribe” instructions located near the bottom of each email. You may choose to remove yourself from a specific email, or all emails to which you’re subscribed.
 
-If you send us email messages, you should be aware that information disclosed in email may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in email.
+If you send us email messages, you should be aware that information disclosed in e-mail may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mail.
 
 ### E-commerce
 
@@ -87,7 +87,7 @@ We will not share, sell, rent, swap or authorize any third party to use your ema
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information we gather about you, we have taken commercially reasonable steps to protect the information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-Users should also consult Wake Forest's Policy on Responsible and Ethical Use of Computing Resources (<http://groups.wfu.edu/CIT/ethical_use_policy.html>). To the extent of any conflict between the terms of this privacy policy and the Policy on Ethical Use of Computing Resources, the Policy on Ethical Use of Computing Resources will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
+Users should also consult Wake Forest’s Policy on Responsible and Ethical Use of Computing Resources (<http://groups.wfu.edu/CIT/ethical_use_policy.html>). To the extent of any conflict between the terms of this privacy policy and the Policy on Ethical Use of Computing Resources, the Policy on Ethical Use of Computing Resources will be deemed controlling. Wake Forest complies with all statutory and legal requirements with respect to access to information.
 
 ### Changes to this policy
 
@@ -95,4 +95,4 @@ This policy may be amended from time to time, with or without advance notice. An
 
 ### Questions about this policy
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: [web@wfu.edu](mailto:web@wfu.edu).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: [web@nullwfu.edu](mailto:web@wfu.edu).
