@@ -1,607 +1,434 @@
-<!--The following is the downloaded HTML source of the motherjones.com privacy policy that was archived on 2016-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230021200id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motherjones.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629232059id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<link href="/sites/all/assets/font-awesome-more/css/font-awesome.min.css" rel="stylesheet">
-<!--[if IE 7]>
-<link href="/sites/all/assets/font-awesome-more/css/font-awesome-ie7.min.css" rel="stylesheet">
-<![endif]-->
-<link href="/sites/all/assets/font-awesome-more/css/font-awesome-social.css" rel="stylesheet">
-<link href="/sites/all/assets/font-awesome-more/css/font-awesome-ext.css" rel="stylesheet">
-<link href="/sites/all/assets/font-awesome-more/css/font-awesome-corp.css" rel="stylesheet">
+<!DOCTYPE html><html lang="en-US" class="js"><head>
+	<meta charset=""><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="">
+		<script>
+	var ad_group_id = Math.floor(Math.random() * 100000000);
+	var ad_keywords = '';
+	var is_post = false;
+	var is_fullwidth = false;
+	var hide_ads = false;
 
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	is_post = true;
+ad_keywords = "www+politics";	</script>
 
-  <title>Our Privacy Policy | Mother Jones</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/all/assets/mj.ico" type="image/x-icon">
-<link rel="alternate" type="application/rss+xml" title="Mother Jones Blogs and Articles" href="/rss/blogs_and_articles/feed"><link rel="alternate" type="application/rss+xml" title="Mother Jones Articles Only" href="/rss/articles/feed"><meta property="keywords" content="">
-  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/sites/all/assets/apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/assets/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/assets/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/assets/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/sites/all/assets/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/sites/all/assets/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/sites/all/assets/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sites/all/assets/apple-touch-icon-152x152.png">
-  <link rel="icon" type="image/png" href="/sites/all/assets/favicon-196x196.png" sizes="196x196">
-  <link rel="icon" type="image/png" href="/sites/all/assets/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="/sites/all/assets/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/sites/all/assets/favicon-128.png" sizes="128x128">
-  <meta name="application-name" content="Mother Jones Magazine">
-  <meta name="msapplication-TileColor" content="#FFFFFF">
-  <meta name="msapplication-TileImage" content="/sites/all/assets/mstile-144x144.png">
-  <meta name="msapplication-square70x70logo" content="/sites/all/assets/mstile-70x70.png">
-  <meta name="msapplication-square150x150logo" content="/sites/all/assets/mstile-150x150.png">
-  <meta name="msapplication-wide310x150logo" content="/sites/all/assets/mstile-310x150.png">
-  <meta name="msapplication-square310x310logo" content="/sites/all/assets/mstile-310x310.png">
-    <link type="text/css" rel="stylesheet" media="all" href="http://www.motherjones.com/files/css/css_ac129e28818f073c8745378a87b56a09.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://www.motherjones.com/files/css/css_5a5726802a31e6ad3293435467cd32db.css">
-<!--[if (gte IE 8.0)&(lte IE 8.9)]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie8.css?z" />
-<![endif]-->
-<!--[if lte IE 7.9]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie7.css?z" />
-<![endif]-->
-<!--[if lte IE 6.9]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie6.css?z" />
-<![endif]-->
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.motherjones.com/wp-content/themes/motherjones/img/apple-touch-icon-152x152.png">
+	<link rel="icon" type="image/png" href="http://www.motherjones.com/wp-content/themes/motherjones/img/favicon-196x196.png" sizes="196x196">
+	<link rel="icon" type="image/png" href="http://www.motherjones.com/wp-content/themes/motherjones/img/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="http://www.motherjones.com/wp-content/themes/motherjones/img/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="http://www.motherjones.com/wp-content/themes/motherjones/img/favicon-128.png" sizes="128x128">
+	<meta name="application-name" content="Mother Jones Magazine">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="http://www.motherjones.com/wp-content/themes/motherjones/img/mstile-144x144.png">
+	<meta name="msapplication-square70x70logo" content="http://www.motherjones.com/wp-content/themes/motherjones/img/mstile-70x70.png">
+	<meta name="msapplication-square150x150logo" content="http://www.motherjones.com/wp-content/themes/motherjones/img/mstile-150x150.png">
+	<meta name="msapplication-wide310x150logo" content="http://www.motherjones.com/wp-content/themes/motherjones/img/mstile-310x150.png">
+	<meta name="msapplication-square310x310logo" content="http://www.motherjones.com/wp-content/themes/motherjones/img/mstile-310x310.png">
+	<meta name="google-site-verification" content="9SvJI7ZfkURoc8DVFBZdJyNMwX9dV1Zwt56xQU6ydCM">
 
-  <script type="text/javascript" src="http://www.motherjones.com/files/js/js_c3ac295eae4e17e2cc0babf1560fc224.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","jstools":{"cleanurls":true,"basePath":"\/"},"collapsiblock":{"blocks":{"block-mojo-4":"1","block-mojo-5":"1","block-mojo-6":"1","block-mojo-0":"1","block-mojo-7":"1","block-views-front_featured_photoessays":"1","block-block-1":"1","block-block-5":"1","block-block-6":"1","block-block-7":"1","block-block-8":"1","block-block-11":"1","block-menu-132":"1","block-block-12":"1","block-block-13":"1","block-block-2":"1","block-block-14":"1","block-block-15":"1","block-block-16":"1","block-mojo-1":"1","block-block-17":"1","block-views-today_top_stories":"1","block-block-18":"1","block-block-19":"1","block-block-10":"1","block-block-9":"1","block-mojo-2":"1","block-views-todays_top_stories":"1","block-block-3":"1","block-block-20":"1","block-block-4":"1","block-block-21":"1","block-block-22":"1","block-block-23":"1","block-views-featured_photo":"1","block-block-26":"1","block-block-27":"1","block-block-28":"1","block-block-29":"1","block-mojo-8":"1","block-block-32":"1","block-block-30":"1","block-block-31":"1","block-block-34":"1","block-block-35":"1","block-block-25":"1","block-search-0":"1","block-block-38":"1","block-block-39":"1","block-block-40":"1","block-block-37":"1","block-block-42":"1","block-block-43":"1","block-views-todays_top_stories_blog":"1","block-block-44":"1","block-block-33":"1","block-block-46":"1","block-block-47":"1","block-blockcache-52":"1","block-block-48":"1","block-custom_pagers-3":"1","block-custom_pagers-1":"1","block-custom_pagers-2":"1","block-custom_pagers-4":"1","block-blockcache-100":"1","block-block-49":"1","block-aggregator-feed-1":"1","block-block-50":"1","block-blockcache-111":"1","block-block-53":"1","block-blockcache-117":"1","block-block-54":"1","block-block-52":"1","block-block-55":"1","block-views-author_page_views-block_1":"1","block-views-author_page_views-block_2":"1","block-motherjones_custom-0":"1","block-motherjones_custom-2":"1","block-motherjones_packages-0":"1","block-google_cse-0":"1","block-views-photoessay-block_1":"1","block-block-56":"1","block-views-nodequeue_15-block":"1","block-views-nodequeue_16-block":"1","block-block-57":"1","block-block-58":"1","block-menu-menu-about-us":"1","block-block-59":"1","block-views-nodequeue_1-block":"1","block-views-photoessay-block_2":"1","block-motherjones_custom-1":"1","block-motherjones_custom-3":"1","block-motherjones_packages-1":"1","block-views-user_comments-block_1":"1","block-motherjones_custom-5":"1","block-block-62":"1","block-block-61":"1","block-block-60":"1","block-shorten-shorten_short":"1","block-block-64":"1","block-menu-devel":"1","block-masquerade-0":"1","block-devel-2":"1","block-block-66":"1","block-block-71":"1","block-block-81":"1","block-block-76":"1","block-block-96":"1","block-block-91":"1","block-block-86":"1","block-block-101":"1","block-block-106":"1","block-motherjones_custom-4":"1","block-block-111":"1","block-block-116":"1","block-block-121":"1","block-block-126":"1","block-block-131":"1","block-block-136":"1","block-block-141":"1","block-block-146":"1","block-views-f9dd087a5d59c2131fdcac7649d899d3":"1","block-block-151":"1","block-block-156":"1","block-views-b96c7d250ca0ca9f7dd44154488f4101":"1","block-aggregator-feed-6":"1","block-block-161":"1","block-views-ab80be25ae5f55fd10864c047f2315f3":"1","block-views-260f549157fa37d72ef941f6a6708d54":"1","block-block-167":"1","block-block-162":"1","block-block-172":"1","block-block-177":"1","block-block-187":"1","block-aggregator-feed-7":"1","block-block-192":"1","block-block-197":"1","block-block-202":"1","block-block-207":"1","block-block-222":"1","block-block-227":"1","block-block-232":"1","block-block-237":"1","block-block-242":"1","block-aggregator-feed-11":"1","block-block-246":"1","block-block-251":"1","block-block-256":"1","block-block-276":"1","block-block-266":"1","block-block-271":"1","block-views-9f0e1fef3ed55017927a326d491ba4f0":"1","block-views-c8944b92c21ae69ad29633f1fcd949ed":"1","block-block-281":"1","block-block-286":"1","block-block-291":"1","block-block-296":"1","block-quicktabs-1":"4","block-views-author_twitter_feed-block_1":"1","block-block-301":"1","block-block-311":"1","block-block-306":"1","block-block-316":"1","block-block-346":"1","block-block-326":"1","block-block-351":"1","block-block-331":"1","block-block-336":"1","block-block-341":"1","block-block-321":"1","block-block-356":"1","block-menu-menu-press-room":"1","block-block-366":"1","block-views-must_reads-block_1":"1","block-block-371":"1","block-block-376":"1","block-block-381":"1","block-block-386":"1","block-block-391":"1","block-block-401":"1","block-motherjones_custom-8":"1","block-views-alumni_love-block":"1","block-views-interns-block_1":"1","block-views-front_slider-block":"1","block-block-396":"1","block-block-406":"1","block-block-411":"1","block-block-51":"1","block-block-416":"1","block-motherjones_custom-9":"1","block-views-frontpage_stories-block_2":"1","block-aggregator-feed-136":"1","block-menu-menu-mediakit-magazine":"1","block-menu-menu-mediakit-secondary":"1","block-menu-menu-mediakit-primary":"1","block-block-426":"1","block-menu-menu-mediakit-website":"1","block-menu-menu-mediakit-email":"1","block-block-431":"1","block-block-436":"1","block-node_gallery-0":"1","block-webform-client-block-121716":"1","block-block-442":"1","block-block-447":"1","block-block-441":"1","block-block-452":"1","block-block-457":"1","block-menu-menu-planned-giving":"1","block-block-462":"1","block-block-467":"1","block-block-471":"1","block-block-476":"1","block-block-481":"1","block-block-486":"1","block-block-491":"1","block-block-496":"1","block-block-501":"1","block-block-511":"1","block-block-516":"1","block-block-506":"1","block-block-521":"1","block-block-526":"1","block-block-536":"1","block-block-531":"1","block-block-541":"1","block-block-551":"1","block-block-546":"1","block-block-561":"1","block-block-566":"1","block-block-556":"1","block-views-popular-block_1":"1","block-block-571":"1","block-views-2f0bd41981e6dcaf3c48bd0a87aa5829":"1","block-menu-menu-about-donate":"1","block-block-576":"1","block-block-581":"1","block-block-606":"1","block-block-586":"1","block-block-591":"1","block-block-596":"1","block-block-601":"1","block-block-631":"1","block-block-636":"1","block-block-626":"1","block-block-261":"1","block-disqus-disqus_comments":"1","block-block-641":"1","block-block-646":"1","block-block-651":"1","block-block-661":"1","block-block-656":"4","block-block-666":"1","block-views-section_page_headlines-block_1":"1","block-views-section_page_headlines-block_6":"1","block-views-section_page_headlines-block_7":"1","block-block-681":"1","block-views-section_page_headlines-block_3":"1","block-views-section_page_headlines-block_5":"1","block-views-section_page_headlines-block_4":"1","block-views-most_popular_frontpage-block_1":"1","block-views-section_page_headlines-block_2":"1","block-block-686":"1","block-block-691":"1","block-block-696":"1","block-block-701":"1","block-block-706":"1","block-block-711":"1","block-block-721":"1","block-block-716":"1","block-block-726":"1","block-block-731":"1","block-block-736":"1","block-block-741":"1","block-block-746":"1","block-block-751":"1","block-block-756":"1","block-block-766":"1","block-block-776":"1","block-block-781":"1","block-block-786":"1","block-block-791":"1","block-block-796":"1","block-block-806":"1","block-block-816":"1","block-block-811":"1","block-block-671":"1","block-block-826":"1","block-block-831":"1","block-block-836":"1","block-block-841":"1","block-block-846":"1","block-block-856":"1","block-block-861":"1","block-block-871":"1","block-block-866":"1","block-block-876":"1","block-views-popular-block_3":"1","block-block-881":"1","block-views-popular-block_2":"1","block-block-886":"1","block-block-891":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"user_validate":1483063290,"denali":{"section":"about","ad_locations_str":"","ad_primary_tags":null}});
-//--><!]]>
-</script>
-  
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Our Privacy Policy – Mother Jones</title>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Mother Jones » Feed" href="http://www.motherjones.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mother Jones » Comments Feed" href="http://www.motherjones.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mother Jones » Our Privacy Policy Comments Feed" href="http://www.motherjones.com/about/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.motherjones.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.motherjones.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="all-css-0" href="http://www.motherjones.com/_static/??-eJyFjEsKhDAMhi80bRBF7WKYs0jJqNWkZRIRbz9V3Cm4+/4nrMn4yIqsoAMSClDM8AuRM3sREN1mtDSyzeoFz4Nvjk23okRCU9nalhf79o4Wk+alH1kgoKbOT8fu5L3+oXdRubYoW9fUf9ZURFE=" type="text/css" media="all">
+<script type="text/javascript" src="http://www.motherjones.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3Wz80HMoqy8vOA7Kxi/YyS3BxTvdzMPL2sYh19oPLMvOSc0hSIZFZhaWpRJZQiqEA3NzO9KLEkFdk0/JYnpsQn56fANNjn2hqaWJpbGpiamBlkAQDhfETE"></script>
+<link rel="https://api.w.org/" href="https://www.motherjones.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.motherjones.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.motherjones.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8">
+<link rel="canonical" href="http://www.motherjones.com/about/privacy-policy/">
+<link rel="shortlink" href="http://www.motherjones.com/?p=626">
+<link rel="alternate" type="application/json+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.motherjones.com%2Fabout%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.motherjones.com%2Fabout%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css">img#wpstats{display:none}</style>	<!-- Begin ga (Google Analytics) Tag -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-2458520-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End ga (Google Analytics) Tag -->
+	</head>
 
-  ga('create', 'UA-2458520-1', 'auto');
-  ga('send', 'pageview');
+<body class="page-template-default page page-id-626 page-child parent-pageid-64">
+<a href="#main" class="visuallyhidden">Skip to main content</a>
+<nav id="navbar" role="navigation">
+	<ul>
+		<li class="logo">
+			<a href="/">
+				<img src="http://www.motherjones.com/wp-content/themes/motherjones/img/MJ_comp.png" alt="MotherJones">
+			</a>
+		</li>
+				<li class="menu-button">
+			<a onclick="expandMenu();">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Your_Icon" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 125 125" enable-background="new 0 0 125 125" xml:space="preserve">
+					<path d="M0,100.869"></path>
+					<rect y="30" width="125" height="15"></rect>
+					<rect y="70" width="125" height="15"></rect>
+					<rect y="110" width="125" height="15"></rect>
+				</svg>
+			</a>
+		</li>
+		<li class="donate-link article-page">
 
-</script>
-
-  <script type="text/javascript"> </script>
-<script type="text/javascript" src="http://mj-tech.motherjones.net/ansible2.js"></script>
-</head>
-<body class="not-front not-logged-in node-type-page no-sidebars page-about-privacy-policy section-about">
-<!-- begin following navbar -->
-  <div id="navbar">
-    <ul>
-      <li class="logo"> 
-        <a href="/">
-          <img src="/sites/all/assets/MJ_comp.png" alt="MotherJones">
-        </a>
-      </li>
-          <li class="nav-title">
-        Our Privacy Policy      </li>
-      <li class="share-button facebook">
-        <a onclick="ga('send', 'event', 'EndOfArticle', 'FacebookShare|Click', window.location.href);" href="http://facebook.com/sharer.php?u=http://www.motherjones.com/about/privacy-policy" target="_blank"><i class="icon-facebook"></i><span class="nearicon">Share on Facebook</span></a>      </li>
-      <li class="share-button twitter">
-        <a onclick="ga('send', 'event', 'EndOfArticle', 'TwitterShare|Click', window.location.href);" href="http://twitter.com/home?status=Our+Privacy+Policy http://www.motherjones.com/about/privacy-policy via @MotherJones" target="_blank"><i class="icon-twitter"></i><span class="nearicon">Share on Twitter</span></a>      </li>
-      <li class="menu-button">
-        <a onclick="expandMenu();">
-          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Your_Icon" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 125 125" enable-background="new 0 0 125 125" xml:space="preserve">
-            <path d="M0,100.869"></path>
-            <rect y="30" width="125" height="15"></rect>
-            <rect y="70" width="125" height="15"></rect>
-            <rect y="110" width="125" height="15"></rect>
-          </svg>
-        </a>
-      </li>
-      <li class="donate-link article-page">
-        <a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP002&amp;extra_don=1&amp;abver=A" target="_blank">
-          Donate
-        </a>
-      </li>
-      <li class="subscribe-link article-page">
-        <a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1&amp;base_country=US" target="_blank">
-          Subscribe
-        </a>
-      </li>
-          </ul>
-    <div id="mj_menu_select" class="">
-        <ul id="mj_menu_options">
-            <li id="menu_search_select"><a href="/search/apachesolr_search">Search</a></li>
-            <li id="menu_newsletter"><a href="/about/interact-engage/free-email-newsletter">Newsletter</a></li>
-            <li id="menu_magazine"><a href="/magazine">Magazine</a></li>
-            <li id="menu_politics_select"><a href="/politics">Politics</a></li>
-            <li id="menu_environment_select"><a href="/environment">Environment</a></li>
-            <li id="menu_culture_select"><a href="/media">Media</a></li>
-            <li id="menu_justice_select"><a href="/topics/crime-and-justice">Crime and Justice</a></li>
-            <li id="menu_food_select"><a href="/topics/food">Food</a></li>
-            <li id="menu_guns_select"><a href="/topics/guns">Guns</a></li>
-            <li id="menu_dark_money_select"><a href="/topics/dark-money">Dark Money</a></li>
-            <li id="menu_photo_select"><a href="/photoessays">Photos</a></li>
-            <li id="menu_investigations_select"><a href="/topics/investigations">Investigations</a></li>
-            <li id="menu_podcast_select"><a href="/podcasts">Podcasts</a></li>
-            <li id="menu_drum_select"><a href="/kevin-drum">Kevin Drum</a></li>
-            <li id="menu_about_select"><a href="/about">About</a></li>
-            <li id="menu_subscribe_select"><a target="_blank" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1A&amp;base_country=US">Subscribe</a></li>
-            <li id="menu_donate_select"><a target="_blank" href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP003&amp;extra_don=1&amp;abver=A">Donate</a></li>
-        </ul>
-    </div>
-  </div>
+			<a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP002&amp;extra_don=1&amp;abver=A" target="_blank">
+				Donate
+			</a>
+		</li>
+		<li class="subscribe-link article-page hidden-xxs">
+			<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1&amp;base_country=US" target="_blank">
+				Subscribe
+			</a>
+		</li>
+	</ul>
+	<div id="mj_menu_select" class="menu-floating-navbar-container"><ul id="mj_menu_options"><li id="menu-item-406692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-406692"><a href="http://www.motherjones.com/search/">Search</a></li>
+<li id="menu-item-405555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405555"><a href="http://www.motherjones.com/./politics/">Politics</a></li>
+<li id="menu-item-405556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405556"><a href="http://www.motherjones.com/./environment/">Environment</a></li>
+<li id="menu-item-405557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405557"><a href="http://www.motherjones.com/./media/">Media</a></li>
+<li id="menu-item-405558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405558"><a href="http://www.motherjones.com/./crime-justice/">Crime and Justice</a></li>
+<li id="menu-item-405559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405559"><a href="http://www.motherjones.com/./food/">Food</a></li>
+<li id="menu-item-405560" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405560"><a href="http://www.motherjones.com/topics/guns/">Guns</a></li>
+<li id="menu-item-405561" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405561"><a href="http://www.motherjones.com/topics/dark-money/">Dark Money</a></li>
+<li id="menu-item-405562" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405562"><a href="http://www.motherjones.com/topics/photoessays/">Photos</a></li>
+<li id="menu-item-405563" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405563"><a href="http://www.motherjones.com/topics/investigations/">Investigations</a></li>
+<li id="menu-item-405598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405598"><a href="http://www.motherjones.com/podcasts/">Podcasts</a></li>
+<li id="menu-item-405565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405565"><a href="http://www.motherjones.com/./kevin-drum/">Kevin Drum</a></li>
+<li id="menu-item-405566" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-405566"><a href="http://www.motherjones.com/about/">About</a></li>
+<li id="menu-item-405567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405567"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1A&amp;base_country=US">Subscribe</a></li>
+<li id="menu-item-405568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405568"><a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP003&amp;extra_don=1&amp;abver=A">Donate</a></li>
+<li id="menu-item-405960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405960"><a href="http://www.motherjones.com/about/interact-engage-free-email-newsletter/">Newsletter</a></li>
+</ul></div></nav>
 <!-- end following navbar -->
-      <div id="pre-page" class="region region-pre-page clear-block">
-      <div id="block-block-886" class="block block-block region-odd even region-count-1 count-8 blockname-block-block-check-email-function-block "><div class="block-inner">
+<div id="page" class="grid">
+	<div id="TopROS970x250" class="ad-unit grid__col-12">		<script>
+			ad_code({
+				placement: "TopROS970x250",
+height: 2473,
+desktop: true,
+docwrite: true,
+			});
+		</script>
 
-  
-  <div class="content clear-block">
-    <script type="text/javascript">
-function MJ_check_email (form) {
-  form.signup_url.value = document.URL;
+		</div>
+	<header id="masthead" class="site-header grid__col-12 grid__col--bleed" role="banner">
+		<nav id="static-navbar" role="navigation">
+	<a name="navigation" id="navigation"></a>
+	<ul class="menu">
+		<li class="first menu-item-home">
+			<a href="/" title="Mother Jones Homepage">
+				<img src="http://www.motherjones.com/wp-content/themes/motherjones/img/MJ_comp.png" alt="Mother Jones">
+			</a>
+		</li>
+		<li id="menu-item-405545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405545"><a href="http://www.motherjones.com/./politics/">Politics</a></li>
+<li id="menu-item-405546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405546"><a href="http://www.motherjones.com/./environment/">Environment</a></li>
+<li id="menu-item-405547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405547"><a href="http://www.motherjones.com/./food/">Food</a></li>
+<li id="menu-item-405548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405548"><a href="http://www.motherjones.com/./media/">Media</a></li>
+<li id="menu-item-405549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405549"><a href="http://www.motherjones.com/./crime-justice/">Crime &amp; Justice</a></li>
+<li id="menu-item-405550" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405550"><a href="http://www.motherjones.com/topics/photoessays/">Photos</a></li>
+<li id="menu-item-405551" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405551"><a href="http://www.motherjones.com/topics/investigations/">Investigations</a></li>
+<li id="menu-item-405552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405552"><a href="/magazine">Magazine</a></li>
+		<li class="menu-item-subscribe"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN&amp;base_country=US" title="Subscribe">Subscribe</a></li>
+		<li class="last menu-item-donate"><a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP001&amp;extra_don=1&amp;abver=A" title="Donate">Donate</a></li>
+	</ul>
+</nav>
+	</header><!-- .site-header -->
 
-  var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
-  var address = form.cons_email.value;
-	var input_check = document.getElementById("email_field").value;
+	<div id="ticker" class="grid__col-12 grid__col--bleed"></div>
+<main id="main" class="site-main grid" role="main">
 
-  if(reg.test(address) !== false) {
-		if (input_check === "") {
-      return true;
-    }
-		else {
-			return false;
-		}
-  } else {
-    alert("Please enter a valid email address.");
-    form.cons_email.focus();
-    return false;
-  }
-}
-</script>
-  </div>
+<header class="entry-header grid__col-12">
+	<h1 class="entry-title">Our Privacy Policy</h1></header><!-- .entry-header -->
 
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-531" class="block block-block region-even odd region-count-2 count-9 blockname-block-block-clickable-sitewrap "><div class="block-inner">
+<section id="post-626" class="item grid__col-12 post-626 page type-page status-publish hentry">
 
-  
-  <div class="content clear-block">
-    <script language="javascript"> 
-<!-- 
-if (typeof(MJ_HideSiteWrap) === 'undefined') {
-  $('head').append('<link rel="stylesheet" href="http://assets.motherjones.com/advertising/2014/05/sierra_club_sitewrap.css" type="text/css" />');
-  ad_code('siteskin',1559);
-}
-//--> 
-</script>
-
-<style>
-#block-block-531{ height: 0px!important; }
-.pullquote-left {
-left: 0!important;
-margin-right: 20px!important;
-}
-</style>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-    </div> <!-- /#pre-page -->
-    <div id="page"><div id="page-inner">
-
-    <a name="navigation-top" id="navigation-top"></a>
-          <div id="skip-to-nav"><a href="#navigation">Skip to Navigation</a></div>
-        <div id="skip-to-content"><a href="#site-content">Skip to Content</a></div>
-    
-          <div id="pre-header" class="region region-pre-header clear-block">
-        <div id="block-block-486" class="block block-block region-odd odd region-count-1 count-7 blockname-block-block-pre-header---billboard-ad "><div class="block-inner">
-
-  
-  <div class="content clear-block">
-    <script language="javascript"> 
-<!-- 
-if (typeof MJ_HideTopROS970x250 === 'undefined') {
-  ad_code('TopROS970x250',2473);
-}  
-//--> 
-</script>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-      </div> <!-- /#pre-header -->
-          
-    <div id="header"><div id="header-inner" class="clear-block">
-
-      
-      
-
-    </div></div> <!-- /#header-inner, /#header -->
-
-     
-    
-          <div id="static-navbar"><div id="navbar-inner" class="region region-navbar clear-block">
-
-        <a name="navigation" id="navigation"></a>
-
-        
-                  <div id="primary">
-            <ul class="menu"><li class="leaf first menu-item-home"><a href="/" title="Mother Jones Homepage"><img src="/sites/all/assets/MJ_comp.png"></a></li>
-<li class="leaf menu-item-politics"><a href="/politics" title="Politics">Politics</a></li>
-<li class="leaf menu-item-environment"><a href="/environment" title="Environment">Environment</a></li>
-<li class="leaf menu-item-food"><a href="/topics/food" title="">Food</a></li>
-<li class="leaf menu-item-media"><a href="/media" title="Media">Media</a></li>
-<li class="leaf menu-item-crime-amp-justice"><a href="/topics/crime-and-justice" title="">Crime &amp; Justice</a></li>
-<li class="leaf menu-item-photos"><a href="/photoessays" title="Photos">Photos</a></li>
-<li class="leaf menu-item-investigations"><a href="/topics/investigations" title="">Investigations</a></li>
-<li class="leaf menu-item-magazine"><a href="http://www.motherjones.com/magazine" title="">Magazine</a></li>
-<li class="leaf menu-item-subscribe"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN&amp;base_country=US" title="Subscribe">Subscribe</a></li>
-<li class="leaf last menu-item-donate"><a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP001&amp;extra_don=1&amp;abver=A" title="Donate">Donate</a></li>
-</ul>          </div> <!-- /#primary -->
-<!-- Script for SUPERFISH -->
-<script type="text/javascript">
-$("#navbar ul.menu").superfish();
-</script>        
-        
-
-        
-        
-      </div></div> <!-- /#navbar-inner, /#navbar -->
-        
-    
-    <div id="main"><div id="main-inner" class="clear-block">
-
-              <div id="node-header" class="clear-block">
-                  </div>
-      
-      <div id="content"><div id="content-inner">
-                
-      </div></div> <!-- end content end content-inner -->
-                  <div id="content-header">
-                                                          </div> <!-- /#content-header -->
-                
-        <div id="content"><div id="content-inner"> <!-- why doesn't this match on mobile? -->
-                          <div id="content-area" class="clear-block">
-
-          <div id="node-626" class="node node-type-page node-type-page-full"><div class="node-inner clear-block">
-
-  
-  
-      <h2 class="title">
-      Our Privacy Policy    </h2>
-  
-  
-  
-  <div class="content clear-block">
-    <p>The <em>MotherJones.com</em> website is operated by the nonprofit Foundation for National Progress (the "Foundation"), which also publishes <em>Mother Jones</em> magazine.</p>
-
+	<article class="entry-content">
+		<p>The <em>MotherJones.com</em> website is operated by the nonprofit Foundation for National Progress (the "Foundation"), which also publishes <em>Mother Jones</em> magazine.</p>
 <p>The Foundation provides <em>MotherJones.com</em> to you subject to the terms of this Privacy Policy. By registering with or using the <em>MotherJones.com</em> site (the "Site"), you accept and agree to this Privacy Policy.</p>
-
 <p>We respect your privacy. We allow you to "opt out" of providing us with certain information. However, choosing to share information with us will help make your experience at <em>MotherJones.com</em> and other interactions with us more pleasant and successful for you, and will help us to continue providing outstanding investigative journalism.</p>
-
 <p>Most of the information we collect on our website is aggregated to track general patterns, such as browser and platform usage and overall traffic patterns. We use name, address, and email information primarily to deliver items you request, such as magazines or email newsletters. We may also use your email address to remind you to renew your subscription, notify you about new products or upcoming events, or send you donation appeals and sponsored messages with offers from other organizations. You may always opt out of receiving these communications.</p>
-
 <p>Upon request, we provide our users, including subscribers to the magazine, with access to any personally identifiable information that we maintain about them. Users may correct this information or have themselves removed from any list of users or subscribers that we may share with others by contacting us by postal mail at our San Francisco office or by email. (For more information on contacting us, please see below.)&nbsp;</p>
-
 <h3><strong>1. CHANGES TO PRIVACY POLICY AND REVISION DATE</strong></h3>
-
 <p>This Privacy Policy may change from time to time. The Revision Date below will show you when the Privacy Policy was last revised. By continuing to use this Site, you agree to all terms of the most recent version of this Privacy Policy.</p>
-
-<p>This Privacy Policy was last revised on <strong>October 19, 2015</strong>.</p>
-
+<p>This Privacy Policy was last revised on <strong>January 27, 2017</strong>.</p>
 <h3><strong>2. CONTENT YOU SUBMIT</strong></h3>
-
 <p>The Site allows you to submit and post comments and to recommend comments posted by others (collectively "User Content"). User Content that you submit to <em>Mother Jones</em> or post on the Site, including any personal information included in your User Content, becomes publicly available and can be seen, collected, and used by others.</p>
-
 <p>The comment function on the Site is provided by Disqus. To learn about how Disqus will handle your information, please see their privacy policy, located <a href="http://help.disqus.com/customer/portal/articles/466259-privacy-policy">here</a>.</p>
-
 <p>The Site may also allow you to send email messages to other users. While the content of such messages will not be publicly displayed on the Site, the Foundation has no ability to control how the content of messages sent to other users is used or disseminated. You should assume that anything you put into an email message to another user may become public.</p>
-
 <h3><strong>3. HOW WE USE YOUR EMAIL ADDRESS</strong></h3>
-
 <p>We use your email address for administrative purposes (such as notifying you of changes to the Site or customer service). We may also use your email address to remind you to renew your subscription, to contact you about new products or upcoming events, and to send you newsletters or other editorial content, donation appeals, and sponsored messages with offers from other organizations. If you make a donation, we may use your email address to send you occasional messages about our projects or ways that you can support <em>Mother Jones</em>. &nbsp;</p>
-
-<p>In order to send you some of these communications, we may provide your email address to <a href="http://www.blackbaud.com/">Blackbaud, Inc</a>, which will then be subject to <a href="http://www.convio.com/convio/policies/policy-convio-clients.html">Blackbaud’s Privacy Policy</a>. You may opt out of receiving these communications by contacting us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future. For information on how to opt out, see Section 11 below.</p>
-
+<p>In order to send you some of these communications, we may provide your email address to <a href="http://www.maropost.com">Maropost</a>, which will then be subject to <a href="http://www.maropost.com/">Maropost’s Privacy Policy</a>. You may opt out of receiving these communications by contacting us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future. For information on how to opt out, see Section 11 below.</p>
 <h3><strong>4. SITE USAGE INFORMATION: COLLECTION AND USE BY THE FOUNDATION</strong></h3>
-
-<p>The Site uses cookies. (A cookie is a small amount of data—sent to your browser from a web server and stored on your computer's hard drive—that may be accessed when you use a website.) Cookies are used primarily as follows: (1) to help deliver advertisements, and in particular to spare users the irritation of seeing the same pop-up ads repeatedly in the same visit; (2) to store information so that you will not have to reenter it during your visit or the next time you visit the Site; (3) to track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) to monitor aggregate metrics, such as the total number of visitors, pages viewed, etc., and (5) for remarketing or to advertise Mother Jones products across the internet. This means that, using the Google Content Network and Google's Adwords platform, we will continue to show you ads for Mother Jones products and special offers when you're browsing other websites.
-AdWords remarketing will display relevant ads tailored to you, based on your visit to the Mother Jones site. For remarketing, the cookie signals, "This person visited this page, so show them subscription ads, donation ads, or other Mother Jones ads relating to that page." Google AdWords remarketing allows us to tailor our marketing to better suit your needs, and to only display ads and special offers that are relevant to you. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies.</p>
-
+<p>The Site uses cookies. (A cookie is a small amount of data—sent to your browser from a web server and stored on your computer’s hard drive—that may be accessed when you use a website.) Cookies are used primarily as follows: (1) to help deliver advertisements, and in particular to spare users the irritation of seeing the same pop-up ads repeatedly in the same visit; (2) to store information so that you will not have to reenter it during your visit or the next time you visit the Site; (3) to track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) to monitor aggregate metrics, such as the total number of visitors, pages viewed, etc., and (5) for remarketing or to advertise Mother Jones products across the internet. This means that, using the Google Content Network and Google’s Adwords platform, we will continue to show you ads for Mother Jones products and special offers when you’re browsing other websites. AdWords remarketing will display relevant ads tailored to you, based on your visit to the Mother Jones site. For remarketing, the cookie signals, "This person visited this page, so show them subscription ads, donation ads, or other Mother Jones ads relating to that page." Google AdWords remarketing allows us to tailor our marketing to better suit your needs, and to only display ads and special offers that are relevant to you. Most web browsers are initially set up to accept cookies, but you can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies.</p>
 <p>In addition, when you visit the Site, some basic technical information may be collected by us or by a third party that provides us with Site usage information, including your IP address, domain name (e.g., whether you logged on from AOL.com or WhiteHouse.gov), referral data (e.g., the address of the last website you visited prior to clicking through to the Site), and browser and platform type (e.g., a Firefox browser on a Macintosh platform).</p>
-
 <p>Information about users and usage of the Site may be merged into aggregated data, which may then be used by the Foundation and/or shared with our advertisers and others. We generally receive only aggregate information about Site usage, which is not linked to any identifiable individual. If we provide aggregated information to outside companies, they will not be able to identify you or contact you based on that data. We will not disclose personally identifiable information about you, except to the degree that you disclose it through your comments or Profile Page, or as provided in this Privacy Policy, or with your permission.</p>
-
 <h3><strong>5. USAGE INFORMATION: USE BY ADVERTISERS AND OTHERS</strong></h3>
-
 <p>The Site includes advertisements placed by advertisers or ad networks. These companies use technology to deliver advertisements you see on the Site and other websites directly to your Web browser. In doing so, they automatically receive your IP address. Companies that place advertising on the Site also have the ability to use cookies or Web beacons to collect information, such as your "click stream" (your viewing and/or purchasing behavior) and information about your usage of the Site. Additionally, other companies may also use and track this type of information for <em>Mother Jones</em> to provide and improve the Site, to provide tailored services to you, and for other purposes. We do not control the processes that advertisers and other companies use to collect information. However, cookies and web beacons alone generally cannot be used to identify individuals, only computers. Therefore, these companies generally will not know who you are unless you provide additional information to them, by responding to an advertisement, by entering into an agreement with the company, by creating an account with the company, or by some other means. Our systems do not recognize browser "Do Not Track" signals, but several of our service providers who utilize these cookies or web beacons on the Site enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit <a href="http://www.networkadvertising.org">www.networkadvertising.org</a> and <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices</a>. We also provide you with additional tools to opt out of marketing from us. You can learn about this in Section 11 below.</p>
-
 <p>The Site may also contain links to sponsor, advertiser, or other third-party websites that are not owned or controlled by the Foundation. We have no control over, and we assume no responsibility for, the conduct, practices, or privacy policies of others. You should review the privacy polices of the companies who operate those websites.</p>
-
 <h3><strong>7. INFORMATION REGARDING SUBSCRIBERS AND DONORS</strong></h3>
-
 <p>When you subscribe to our magazine (either the print or the digital edition), subscribe to our online newsletter, or make a donation, you may provide us with your name, physical address, and email address. You may also provide credit card account information.&nbsp;</p>
-
 <p>The Foundation does not retain or use any credit card or other financial account information. That information is conveyed to third-party payment services, and is used only to clear the payment for your subscription or donation. When sending or receiving credit card information, we automatically direct users to a secure transaction server.&nbsp;</p>
-
 <p>When you subscribe, we use the information you provide to deliver the magazine or newsletter, and to send you periodic reminders to renew your subscription. We may also use it to contact you about new products or upcoming events, to send you donation appeals, or to send you sponsored messages with offers from other organizations. In addition, we may share your information with reputable companies who may contact you via mail or email with products or services we think will be of interest to you. If you do not wish to receive such communications, you can contact us at the postal address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.</p>
-
 <p>When you donate, we use the information you provide to process your donation. Online donations made to <em>Mother Jones </em>are processed by <a href="https://online.icnfull.com/">ICN</a> or <a href="http://www.paypal.com">PayPal</a>. We do not share your name, address, email address, or any other personally identifiable information about your donation with anyone else. If you provide us with your postal address or email, we will use that information for the purpose of delivering any benefit or information you have requested, such as your magazine subscription, newsletter, or other premium content. We may also use that information to send you occasional messages about our projects or ways that you can support <em>Mother Jones</em>. If you do not wish to receive such communications, you can write to us at the postal or email address below with your request, along with your full name, address, and email address. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.</p>
-
 <h3><strong>7. PROMOTIONS AND SURVEYS</strong></h3>
-
 <p>From time to time, we may sponsor promotions, contests, surveys, or other events which require the collection, processing, and storage of individual contact information (e.g. your name and mailing or email address) and demographic information (e.g., your age and state of residence) to be used for the event. We may cosponsor these events with other companies. In that case, your individual contact and demographic information is likely to be shared with other sponsors.</p>
-
 <p>Demographic information may be compiled and reported or shared in the aggregate with others, but no personal details that can be linked to specific individuals will be provided. We will not release personally identifiable contact or demographic information to any third party other than named sponsors without your consent (except as provided in Section 9).&nbsp;</p>
-
 <p>We request that cosponsors uphold the privacy of your information by not distributing or sharing such information with any other businesses or organizations. However, we do not control the information practices of others, and cannot guarantee that they will not disclose your information. You should review the privacy policy of any cosponsor before participating in a promotion or survey.</p>
-
-<h3><strong>8. CHILDREN'S PRIVACY</strong></h3>
-
+<h3><strong>8. CHILDREN’S PRIVACY</strong></h3>
 <p>Protecting the privacy of young children is important to us. For that reason, we do not collect or maintain information at our Site from those we know are younger than 13, and no part of our Site is designed to attract anyone younger than 13. If you are younger than 13, you should not submit or post any personal information on our Site.</p>
-
 <h3><strong>9. DISCLOSURE OF PERSONAL INFORMATION</strong></h3>
-
 <p>We will not use or disclose your personal information (personally identifiable data such as your name, email address, password, and the content of your communications) except: (1) as described in our <a href="/about/terms/">Terms of Service</a> or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if we are required to do so in order to comply with any valid legal process or governmental request (such as a court order, a search warrant, a subpoena, a civil discovery request, or a statutory requirement); or (4) as otherwise required by law.</p>
-
 <h3><strong>10. NOTICE TO CALIFORNIA RESIDENTS—YOUR CALIFORNIA PRIVACY RIGHTS</strong></h3>
-
 <p>As set forth in this Privacy Policy, we offer our visitors the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, please contact us at <a href="mailto:support@motherjones.com">support@motherjones.com</a> and clearly state your request, including your name, mailing address, email address, and phone number. Please see Section 11 of this Privacy Policy for additional information.</p>
-
 <h3><strong>11. ASKING QUESTIONS, MAKING CHANGES, OR OPTING OUT</strong></h3>
-
 <p>If you have questions about this Privacy Policy or about our privacy practices, or if you want to review and correct any personal information we may have about you, please contact us at <a href="mailto:privacy@motherjones.com">privacy@motherjones.com</a>, with "Privacy" in the subject line.&nbsp;</p>
-
 <p>If you want to opt out of receiving messages regarding new products or upcoming events, requests for donations, messages about our projects or ways that you can support <em>Mother Jones</em>, or advertisements from our partners, please write to us with your request, including your full name, address, and email address, at:</p>
-
 <p>Foundation For National Progress<br>
 	222 Sutter Street&nbsp;Suite 600<br>
 	San Francisco, CA 94108</p>
-
 <p>You may also email your request to <a href="mailto:support@motherjones.com">support@motherjones.com</a>. If you send us an email, please write "Unsubscribe" in the subject line. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.</p>
-  </div> <!-- end inner node content -->
-  
-  
-  
-</div></div> <!-- /node-inner, /node -->
-                  </div> <!-- end content area -->
+	</article><!-- .entry-content -->
 
-        
-      </div></div> <!-- /#content-inner, /#content -->
+	
+</section><!-- #post-## -->
+		<script>
+			ad_code({
+				placement: "BottomROS970x250",
+height: 2473,
+desktop: true,
+docwrite: true,
+			});
+		</script>
 
-      
-      
-    </div></div> <!-- /#main-inner, /#main -->
-    
-          <div id="page-closure"><div id="page-closure-inner" class="region">
-        
-        <div id="block-block-58" class="block block-block region-odd even region-count-1 count-6 blockname-block-block-page-closure-leaderboard "><div class="block-inner">
+				<script>
+			ad_code({
+				placement: "ym_869408951086292841",
+desktop: false,
+docwrite: true,
+yieldmo: true,
+			});
+		</script>
 
-  
-  <div class="content clear-block">
-    <script language="javascript"> 
-<!-- 
-if (typeof MJ_HideBottomROS970x250 === 'undefined') {
-  ad_code('BottomROS970x250',2473);
-}
-//--> 
-</script>   </div>
+		
+		</main>
+	</div><!-- #page -->
 
-  
-</div></div> <!-- /block-inner, /block -->
-      </div></div> <!-- /#page-closure -->
-    
-  </div></div> <!-- /#page-inner, /#page -->
- 
+	<footer id="colophon" class="site-footer" role="contentinfo">
 
-  
-  <div id="page-footer">
-    <div id="page-footer-inner">
-              <div id="footer"><div id="footer-inner" class="region region-footer">
-      
-                
-          <div id="block-block-2" class="block block-block region-odd even region-count-1 count-2 blockname-block-block-footer---logo-menu-rss-copyright "><div class="block-inner">
+			<a href="/" id="footer-logo">
+				<img src="http://www.motherjones.com/wp-content/themes/motherjones/img/MJ_comp_grey.png" alt="Mother Jones">
+			</a>
+			<ul id="footer-social">
+					<li class="circled-icon toolbar-btn fblike">
+							<a href="https://www.facebook.com/motherjones">
+									<i class="fa fa-facebook fw"></i>
+							</a>
+					</li>
+					<li class="circled-icon toolbar-btn tweet">
+							<a href="https://twitter.com/motherjones">
+									<i class="fa fa-twitter fw"></i>
+							</a>
+					</li>
+					<li class="circled-icon toolbar-btn newsletter">
+							<a href="/about/interact-engage/free-email-newsletter" class="hover-newsletter">
+								<i class="fa fa-envelope fw"></i>
+							</a>
+					</li>
+			</ul>
+			<div class="footer-list-container grid"><ul id="footer-list" class="grid__col-md-2 grid__col-sm-12"><li id="menu-item-405569" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-405569"><a href="http://www.motherjones.com/about/">About Us</a></li>
+<li id="menu-item-405570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405570"><a href="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen">Store</a></li>
+<li id="menu-item-405571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405571"><a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGP003&amp;extra_don=1&amp;abver=A">Donate</a></li>
+<li id="menu-item-405572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405572"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1A&amp;base_country=US">Subscribe</a></li>
+<li id="menu-item-405594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405594"><a href="http://www.motherjones.com/about/advertising-contact-form/">Advertise with us</a></li>
+<li id="menu-item-405573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405573"><a href="http://www.motherjones.com/about/subscriptions-customer-service/">Customer Service</a></li>
+</ul></div>			<div id="copyright">
+					<p>
+						Copyright ©2017 Mother Jones and the Foundation for National Progress. All Rights Reserved.
+					</p>
+					<div class="copyright-menu-container grid"><ul id="copyright-menu" class="grid__col-md-4 grid__col-sm-12"><li id="menu-item-405656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405656"><a href="http://www.motherjones.com/about/contact/">Contact Us</a></li>
+<li id="menu-item-405542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405542"><a href="http://www.motherjones.com/about/terms/">Terms of Service</a></li>
+<li id="menu-item-405543" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-626 current_page_item menu-item-405543"><a href="http://www.motherjones.com/about/privacy-policy/">Privacy Policy</a></li>
+</ul></div><a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="http://www.motherjones.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP"></a>			</div>
 
-  
-  <div class="content clear-block">
-                <a href="/" id="footer-logo">
-                <img src="/sites/all/assets/MJ_comp_grey.png" alt="Mother Jones">
-            </a>
-            <ul id="footer-social">
-                <li class="circled-icon toolbar-btn fblike">
-                    <a href="https://www.facebook.com/motherjones">
-                        <i class="icon-facebook"></i>
-                    </a>
-                </li>
-                <li class="circled-icon toolbar-btn tweet">
-                    <a href="https://twitter.com/motherjones">
-                        <i class="icon-twitter"></i>
-                    </a>
-                </li>
-                <li class="toolbar-btn newsletter">
-                    <a href="/about/interact-engage/free-email-newsletter" class="hover-newsletter">
-                    </a>
-                </li>
-            </ul>
-            <ul id="footer-list">
-                <li>
-                    <a href="/about">
-                        About Us
-                    </a> |
-                    <a href="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen">
-                        Store
-                    </a>
-                </li>
-                <li>
-                    <a href="/about/support">
-                        Donate
-                    </a>
-|                    <a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN4&amp;base_country=US">
-                        Subscribe
-                    </a>
-                </li>
-                <li>
-                     <a href="/about/subscriptions/customer-service">
-                          Customer Service
-                    </a>
-                </li>
-                <li>
-                    <a href="/about/advertising/contact-form">
-                        Advertise
-                    </a>
-                </li>
-            </ul>
-            <div id="copyright">
-                <p>
-                    Copyright ©2016 Mother Jones and the Foundation for National Progress. All Rights Reserved.
-               </p>
-                <p>
-                    <a href="/about/terms">Terms of Service</a>
-                    <a href="/about/privacy-policy">Privacy Policy</a>
-                    <a href="/about/contact">Contact Us</a>
-                </p>
-            </div>
-  </div>
+					<script>
+			ad_code({
+				placement: "overlay",
+height: 67,
+desktop: true,
+docwrite: true,
+			});
+		</script>
 
-  
-</div></div> <!-- /block-inner, /block -->
-      
-        </div></div> <!-- /#footer-inner, /#footer -->
-        </div></div> <!-- /#page-footer-inner, /#page-footer -->
-  
-      <div id="closure-blocks" class="region region-closure"><div id="block-block-33" class="block block-block region-odd odd region-count-1 count-3 blockname-block-block-analytics-code "><div class="block-inner">
+				<script>
+			ad_code({
+				placement: "overlaymob",
+height: 3055,
+desktop: false,
+docwrite: true,
+			});
+		</script>
 
-  
-  <div class="content clear-block">
-    <!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-Be0QSW1bbb6Qv"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-Be0QSW1bbb6Qv.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 941756981;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/941756981/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-686" class="block block-block region-even even region-count-2 count-4 blockname-block-block-bottom-donate-bar "><div class="block-inner">
-
-  
-  <div class="content clear-block">
-    <div id="bottom-donate" style="display:none">
+		
+			<section id="text-4" class="widget widget_text"><h2 class="widget-title">Bottom adblock bar</h2>			<div class="textwidget"><div id="bottom-donate" style="display:none">
   <p>
     We noticed you have an ad blocker on.
     Support nonprofit investigative reporting by pitching in a few
     bucks.
     <a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7HEGZS1A&amp;extra_don=1&amp;abver=A">DONATE</a>
-    <span onclick="$('#bottom-donate').remove();">X</span>
+    <span onclick="jQuery('#bottom-donate').remove();">X</span>
   </p>
-</div>  </div>
+</div></div>
+		</section>	</footer><!-- .site-footer -->
+		<!-- Quantcast Tag -->
+	<script type="text/javascript">
+		var _qevents = _qevents || [];
+		(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+		})();
+		_qevents.push({
+		qacct:"p-Be0QSW1bbb6Qv"
+		});
+	</script>
+	<noscript>
+		<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-Be0QSW1bbb6Qv.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+	</noscript>
+	<!-- End Quantcast tag -->
 
-  
-</div></div> <!-- /block-inner, /block -->
-</div>
-    
-  
+	<!-- Begin comScore Tag -->
+	<script>
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "8027488" });
+		(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=8027488&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
 
-  
+	<!-- Begin Chartbeat Tag -->
+	<script type="text/javascript">
+		var _sf_async_config={};
+		/** CONFIGURATION START **/
+		_sf_async_config.uid = 10683;
+		_sf_async_config.domain = 'motherjones.com';
+					_sf_async_config.sections = 'Politics';
+						_sf_async_config.authors = "";
+				/** CONFIGURATION END **/
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src',
+					(('https:' == document.location.protocol)
+					? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/'
+					: 'http://static.chartbeat.com/') +
+					'js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ?
+				loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+	</script>
+	<!-- End Chartbeat Tag -->
 
-<script type="text/javascript" src="/sites/all/assets/nav.js"></script>
-
+	<!-- start adblock donate ask -->
+	<script>
+	function set_cookie(cname, cvalue, exdays) {
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+ d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+	function get_cookie(cname) {
+		var name = cname + "=";
+		var decodedCookie = decodeURIComponent(document.cookie);
+		var ca = decodedCookie.split(';');
+		for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	jQuery(document).ready(function() {
+	  if (typeof noadblocking === "undefined") {
+		  var checked = get_cookie('noad');
+		  if (!checked) {
+			set_cookie('noad', true, 0.25, '/');
+			jQuery('#bottom-donate').show();
+			ga('send', 'event', 'AdblockDetected', 'DonateDisplayed', window.location.href);
+		  } else {
+			ga('send', 'event', 'AdblockDetected', 'NoDonateDisplayed', window.location.href);
+		  }
+	  }
+	});
+	</script>
+	<!-- end adblock donate ask -->
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201726"></script>
 <script type="text/javascript">
-    var _sf_async_config={};
-    /** CONFIGURATION START **/
-    _sf_async_config.uid = 10683;
-    _sf_async_config.domain = 'motherjones.com';
-    _sf_async_config.sections = Drupal.settings.denali.section;  //CHANGE THIS
-    _sf_async_config.authors = Drupal.settings.denali.author;    //CHANGE THIS
-    /** CONFIGURATION END **/
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src',
-           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
-           'js/chartbeat.js');
-        document.body.appendChild(e);
-      }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-         loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
 </script>
-<script type="text/javascript"> 
-FB.Event.subscribe('edge.create', 
-  function(response) { 
-  // include optimizely tracking iff var is on; always send fb like event to GA 
- 
-    ga('send', 'event', 'Facebook', 'Like', window.location.href);
-  } 
-); 
+<script type="text/javascript" src="http://www.motherjones.com/_static/??-eJyNi0EOQDAQRS+kRkOEhTgL7Yg2Zka06vqa2Nixez//Pbh2ZYQjcoS4ImEAkgyHF87sAywnm+iEQ0mOSx8K+Ex4Sv/l5CyKQprRviPHZjvto+T5/kcadNN3uq27qvI3DPJHOg=="></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201726.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'130213978',post:'626',tz:'-4',srv:'www.motherjones.com'} ]);
+	_stq.push([ 'clickTrackerInit', '130213978', '626' ]);
 </script>
-<script>
-twttr.ready(function (twttr) {
-  twttr.events.bind('tweet', function(event) { ga('send', 'event', 'Twitter', 'Tweet', window.location.href);  });
- 
-});
-</script>
-<!-- Begin comScore Tag -->
-<script>
- var _comscore = _comscore || [];
- _comscore.push({ c1: "2", c2: "8027488" });
- (function() {
-   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-   el.parentNode.insertBefore(s, el);
- })();
-</script>
-<noscript>
- <img src="http://b.scorecardresearch.com/p?c1=2&c2=8027488&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"42428067","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhFdWFMTD1VE","queueTime":0,"applicationTime":69,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="http://mj-tech.motherjones.net/adtracking.js"></script>
-<script>
-  if (typeof noadblocking === "undefined") {
-      var checked = Get_Cookie('noad');
-      if (!checked) {
-        Set_Cookie('noad', true, 0.25, '/');
-        $('#bottom-donate').show();
-        ga('send', 'event', 'AdblockDetected', 'DonateDisplayed', window.location.href);
-      } else {
-        ga('send', 'event', 'AdblockDetected', 'NoDonateDisplayed', window.location.href);
-      }
-  }
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"177009cc6a","applicationID":"788901","transactionName":"Y1EAbURRChdVVEFQCVobI1pCWQsKG1laXQNrRANeU28SDVFA","queueTime":0,"applicationTime":536,"atts":"TxYDGwxLGRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
