@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115184306id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630015539id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pricebaba.com
 
@@ -37,4 +37,4 @@ This information is shared with third party service providers so that we can:
 
 
 
-For any questions regarding your privacy, you can write to us [here](http://pricebaba.com/contact-us). 
+For any questions regarding your privacy, you can write to us [here](https://web.archive.org/contact-us). 
