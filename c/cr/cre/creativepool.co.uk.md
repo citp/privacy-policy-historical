@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092332id_/http%3A//creativepool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629111259id_/http%3A//creativepool.com/about/privacy) for the most accurate reproduction.*
 
-# creativepool.com Privacy Statement | Creativepool
+# Privacy Statement | Creativepool
 
 . . .
 
@@ -22,9 +22,9 @@ We will not ever pass on your personal information to any other party without yo
 
 We do not disclose information about your individual visits to creativepool.com, or any personal information that you provide, to any outside parties, except when we believe the law requires it. We may record and share depersonalised aggregated information with our partners. If you input your information on a co-branded registration page creativepool.com is not responsible for the information that the partner company receives, you should check their privacy policy to ensure your data is safe.
 
-**CVs**
+**CV's and Resume's**
 
-By signing up with creativepool.com you are required to put your CV online. This means that any registered employer will have access to your CV. You have control over how much of your personal contact information is available for viewing. A valid email address is the minimum contact information you must display. We use our best efforts to grant access to this database only to hiring employers. We are not responsible if some other third party evades security measures and gains access to the database, and, subsequently, your CV. You may remove your CV from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of CV in these instances.
+By signing up with creativepool.com you are required to put your CV/Resume online. This means that any registered employer will have access to your CV/Resume. You have control over how much of your personal contact information is available for viewing. A valid email address is the minimum contact information you must display. We use our best efforts to grant access to this database only to hiring employers. We are not responsible if some other third party evades security measures and gains access to the database, and, subsequently, your CV/Resume. You may remove your CV/Resume from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV/Resume in their own files or databases. We are not responsible for the retention, use, or privacy of CV/Resume in these instances.
 
 **Reviews**
 
@@ -53,5 +53,9 @@ Our services are not available to children and we ask that persons under the age
 **Privacy commitment changes**
 
 If we decide to change our privacy commitment for creativepool.com, you will be sent an email outlining any changes. We will also update the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about creativepool.com's privacy commitment, please feel free to email us at support@creativepool.com.
+
+**Credit and Debit Card Payments**
+
+We use 2 external partners for taking payments including Paypal. We do not store credit card details nor do we share financial details with any 3rd parties.
 
 Thank you for using creativepool.com.
