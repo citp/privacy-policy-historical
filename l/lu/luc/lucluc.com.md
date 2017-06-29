@@ -1,17 +1,32 @@
-> *The following text is extracted and transformed from the lucluc.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucluc.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629051621id_/https%3A//www.lucluc.com/privacy_policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy
 
-* * *
+**Privacy Policy**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+At our site, our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at our site is 100% safe and guaranteed.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+What Information Do We Collect? The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. For example, when you wish to purchase a product from this website we may collect details such as your name, address, delivery address and billing addressï¼Œand other information relevant to your purchase.
 
+As we are required by law to obtain your consent to the collection of "sensitive information", we will assume that you have given consent to the collection of all information you have provided to us for use in accordance with this Statement, unless you tell us otherwise.
 
+How We Collect Information We may collect personal information about you when you visit our website, when you deal with us over the Email, we will not collect any personal information without your consent. We consider that your consent is granted when you complete the fields necessary to facilitate a transaction through this website.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+How We Use Your Personal Information We generally collect your personal information for the following purposes:  
+To facilitate your access to our website, products and services  
+To deliver products you have ordered from us  
+To seek your opinion on our products, services, marketing and website.
+
+Some of the personal information we collect is essential for us to be able to accurately identify who is using the service. Other types of personal information we collect help us to develop a profile of who is using our service, this assists us in offering products to suit the needs of the users of this website.
+
+Disclosure of Personal Information to Third Parties We may disclose your personal information to third parties for the purpose for which the information was collected or for related purposes, for example to complete a transaction on your behalf or provide you with a product that you purchased. We engage third party contractors to perform services for us which involves the contractor handling personal information we hold. For example, we currently engage third party contractors to:  
+Deliver products purchased from this website  
+Provide electronic funds transfer services, credit card account processing and related services.
+
+In these situations, the third party contractor is strictly from using any prohibited personal information about you except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorized or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+
+Security of Your Personal Information We will securely hold your personal information and we will not trade, rent or sell it. We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, Firewalls, passwords, anti-virus software and email filters can protect all our electronic information.
+
+Resolving Your Concerns If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint via Email as soon as possible.
+
+Changes to This Privacy Statement We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on our site, so please visit this page periodically to ensure that you have our most current privacy statement.
