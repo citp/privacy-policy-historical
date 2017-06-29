@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204051226id_/http%3A//skoolbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143209id_/http%3A//www.skoolbo.com/privacy) for the most accurate reproduction.*
 
 # Skoolbo | Privacy Policy
 
@@ -13,7 +13,7 @@
 
 Skoolbo is committed to ensuring your privacy is protected. Skoolbo collects the minimum amount of information possible for the effective learning management of the Child. Personal information related to the child is shared only with the Parent, the Teacher and the School Administrator. Skoolbo will never sell, distribute or lease the User’s personal information to third parties.
 
-Friend Our World strives to be fully compliant with the[Children’s Online Privacy Protection Act (COPPA) – 1998 (amended 1 July 2013).](http://www.business.ftc.gov/privacy-and-security/childrens-privacy)
+Friend Our World strives to be fully compliant with the[Children’s Online Privacy Protection Act (COPPA) – 1998 (amended 1 July 2013).](https://www.business.ftc.gov/privacy-and-security/childrens-privacy)
 
 The _Skoolbo Privacy Policy_ sets out how Skoolbo Limited (“Skoolbo”) uses and protects the information that you give Skoolbo when you use [www.skoolbo.com ](https://web.archive.org/)or an associated downloadable app. The _Skoolbo Privacy Policy_ should be read in conjunction with the [_Skoolbo Terms and Conditions;_](https://web.archive.org/terms)and the [_Skoolbo Child Safety Policy;_](https://web.archive.org/safety)which together form the full terms and conditions of Skoolbo’s agreement with the User.
 
@@ -70,8 +70,8 @@ Skoolbo _does not_ collect personally identifiable information of the Child such
 
   6.  **Security**
     * Skoolbo is committed to ensuring that the User’s information is secure. In order to prevent unauthorized access or disclosure, Skoolbo has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information Skoolbo collects online.
-    * Skoolbo uses [Microsoft Windows Azure ](http://www.windowsazure.com/en-us/services/cloud-services/)for the storage of data and general cloud services. Microsoft Windows Azure is recognized as a leader in cloud storage services for both security and continuity of service. Microsoft Windows Azure is utilised for storage of data. Microsoft Windows Azure does not disclose or sell any data to 3rd parties unless required to do so by law. For more information please refer to <http://www.windowsazure.com/en-us/support/legal/services-terms/>. The Microsoft Windows Azure servers are located in the United States and Singapore. Privacy policies of Microsoft Windows Azure are consistent with then Privacy Principles.
-    * Skoolbo uses [SendGrid ](http://sendgrid.com/)for the sending of emails to the Parent and the Teacher. SendGrid is recognized as a leader in email delivery services. SendGrid does not disclose or sell any data to 3rd parties unless required to do so by law. For more information please refer to <http://sendgrid.com/tos.html>. The SendGrid servers are located in the United States. Privacy policies of SendGrid are consistent with the Privacy Principles.
+    * Skoolbo uses [Microsoft Windows Azure ](https://www.windowsazure.com/en-us/services/cloud-services/)for the storage of data and general cloud services. Microsoft Windows Azure is recognized as a leader in cloud storage services for both security and continuity of service. Microsoft Windows Azure is utilised for storage of data. Microsoft Windows Azure does not disclose or sell any data to 3rd parties unless required to do so by law. For more information please refer to [//www.windowsazure.com/en-us/support/legal/services-terms/](https://www.windowsazure.com/en-us/support/legal/services-terms/). The Microsoft Windows Azure servers are located in the United States and Singapore. Privacy policies of Microsoft Windows Azure are consistent with then Privacy Principles.
+    * Skoolbo uses [SendGrid ](https://sendgrid.com/)for the sending of emails to the Parent and the Teacher. SendGrid is recognized as a leader in email delivery services. SendGrid does not disclose or sell any data to 3rd parties unless required to do so by law. For more information please refer to [//sendgrid.com/tos.html](https://sendgrid.com/tos.html). The SendGrid servers are located in the United States. Privacy policies of SendGrid are consistent with the Privacy Principles.
   
 
   7.  **How Skoolbo uses cookies**
