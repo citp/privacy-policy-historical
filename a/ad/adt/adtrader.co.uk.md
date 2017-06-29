@@ -1,36 +1,6 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231020600id_/http%3A//www.autotrader.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629175327id_/http%3A//www.autotrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
-
-  * Cars
-  * Bikes
-  * Vans
-  * Dealers near me
-
-
-
-[Need help finding the right car?
-
-Try our new **Discovery search**
-
-](https://web.archive.org/discovery-search) This dealer only  All stock[](https://web.archive.org/secure/signin?after-signin-url=/)
-
-  * Used
-  * Nearly new
-  * New
-
-
-
-Learner Legal 125  
-Show wanted ads  
-33 bhp and under
-
-Part Ex Quote
-
-[Looking for new motorcycles?](https://web.archive.org/bikes/motorcycles?page-type=new)
-
-  *   * 
-
 
 We use cookies. [Read our policy](https://web.archive.org/cookie-policy). 
 
@@ -114,40 +84,6 @@ By submitting your personal data to us through the Website, you consent to your 
 
 b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or Facebook Gestures' function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
 
-c) If we are under any duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce our terms and conditions and any other agreements.
-
-d) In the event that Auto Trader sells or buys any business or assets, in which case Auto Trader may disclose your personal data to the prospective seller or buyer of such business or assets.
-
-e) If Auto Trader or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-
-f) Auto Trader Limited may share your personal information with its group companies.
-
-g) For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the Police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies.
-
-## Marketing communications
-
-When you register with our Website, we ask you whether you would like to receive our communications detailing offers, news and services from Auto Trader and/ or information from third party companies via email and/or via post that we feel may be of interest to you. In order to receive these communications, you will need to opt in during registration.
-
-On occasions Auto Trader runs promotions in which personal information is collected. We will always ask you if you agree to this and advise you if this information may be shared with a third party. You will always be asked to provide your consent to this use by opting in.
-
-To stop receiving Auto Traders promotional offers and alerts, please click the link found at the bottom of each email or update your account preferences.
-
-## Access to personal information
-
-You have the right to access all personal information supplied to Auto Trader and rectify any inaccuracies on the information held. Further enquiries should be made to enquiries@autotrader.co.uk or sent to Customer Services, Auto Trader Limited, 4th Floor, 1 Tony Wilson Place, Manchester, M15 4FN.
-
-If you wish to access your personal details held by Auto Trader, a charge of £10 will be payable.
-
-## Disclosure of your information
-
-We may disclose your personal information to third parties as follows:
-
-a) We will send your personal information to dealers, vehicle manufacturers, bike manufacturers and relevant third parties to enable them to provide you with the services and products that you have requested through the Website. In certain circumstances, vehicle manufacturers (including Ford Motor Company Limited) or bike manufacturers and other relevant third parties may transfer, process and store your personal information outside of the European Economic Area ("EEA") for business and administration purposes. Additionally, the Chat Service provider may use computer infrastructure which is situated outside of the EEA.
-
-By submitting your personal data to us through the Website, you consent to your personal data being transferred outside the EEA. By using the Chat Service, you consent to any personal data disclosed in the course of using the Chat Service being processed and stored by the Chat Service provider on its systems outside the EEA.
-
-b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA. Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or Facebook Gestures' function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
-
 c) We are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce our terms and conditions and any other agreements.
 
 d) In the event that Auto Trader sells or buys any business or assets, in which case Auto Trader may disclose your personal data to the prospective seller or buyer of such business or assets.
@@ -157,6 +93,35 @@ e) If Auto Trader or substantially all of its assets are acquired by a third par
 f) Auto Trader Limited may share your personal information with its group companies.
 
 g) For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the Police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies.
+
+## Hotjar
+
+Auto Trader uses services provided by Hotjar Ltd. Hotjar provides services including Heatmaps, Visitor recordings, Funnels and Form Analysis, Feedback Polls, Surveys and Recruiters. The information generated by the tracking code and cookie about your use of the website will be transmitted to and stored by Hotjar on servers in Ireland. Through the Hotjar tracking code the information collected is device specific data.
+
+The following information may be collected through your device and browser:
+
+  * your device's IP address (collected and stored in an anonymised format);
+  * your email address including first name and surname;
+  * device screen size;
+  * device type (unique device identifiers) and browser information;
+  * geographic location (country only);
+  * preferred language used to display the webpage. 
+
+
+
+Our servers automatically record information which is created upon using Hotjar. This data includes:
+
+  * referring domain;
+  * pages visited;
+  * geographic location (country only);
+  * preferred language used to display the webpage;
+  * date and time when website pages were accessed.
+
+
+
+Hotjar will use this information for evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Hotjar uses a variety of services hosted by third parties, such as Google Analytics and Optimizely. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. For information on how Google Analytics and Optimizely collect and use your information, please refer to their privacy policies. By continuing to use this website, you consent to the processing of the above data by Hotjar and by the third parties used by Hotjar in accordance with their respective privacy policies. The cookies used by Hotjar have differing durations; some are 365 days, some persist for the session only.
+
+To opt out please go to the following link: <https://www.hotjar.com/opt-out>
 
 ## Marketing communications
 
@@ -180,4 +145,4 @@ The Website uses cookies to distinguish you from other users. This helps Auto Tr
 
 By using the Website, you consent to the collection and use of this information by Auto Trader and to this Privacy Policy.
 
-Copyright © Auto Trader Limited 2016. Auto Trader is authorised and regulated by the Financial Conduct Authority in relation to consumer credit and insurance mediation activities. Our FCA firm number is 735711.
+Copyright © Auto Trader Limited 2017. Auto Trader is authorised and regulated by the Financial Conduct Authority in relation to consumer credit and insurance mediation activities. Our FCA firm number is 735711.
