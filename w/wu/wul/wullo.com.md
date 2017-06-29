@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126002655id_/http%3A//wullo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629052157id_/http%3A//wullo.com/privacy) for the most accurate reproduction.*
 
 # Wullo - Privacy Policy
 
-Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 3941 S. Bristol St., Suite D337 Santa Ana, CA 92704 or via our [contact form](https://web.archive.org/web/20161126002655id_/http%3A//wullo.com/contact). 
+Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 3941 S. Bristol St., Suite D337 Santa Ana, CA 92704 or via our [contact form](https://web.archive.org/web/20170629052157id_/http%3A//wullo.com/contact). 
 
 By using the Wullo website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Wullo's treatment of personal information that we collect when you are on Wullo's website and when you use Wullo's services. This policy does not apply to the practices of third parties that Wullo does not own or control, including websites that we may link to, or to individuals that Wullo does not employ or manage. 
 
@@ -16,7 +16,7 @@ Wullo may collect or receive information about you when you register or submit i
 
 #### Use of Information
 
-Wullo, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. Wullo's site may require you to provide Wullo with contact information (such as your name and email address) and demographic information. Wullo may use your contact information to (a) send you job alerts;(b) create an account;or (c) send you information about Wullo and promotional material from some of Wullo's partners. Your contact information is also used to contact you when necessary. Wullo may use demographic and/or profile data, including but not limited to search history, to tailor your experience on Wullo's site, show you content that Wullo thinks you may be interested in, and display content according to your preferences. 
+Wullo, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. Wullo's site may require you to provide Wullo with contact information (such as your name and email address) and demographic information. Wullo may use your contact information to (a) send you job alerts;(b) create an account;or (c) send you information about Wullo and promotional material from some of Wullo's partners. For the purpose of identifying users and delivering relevant content and advertisements, our partner LiveRamp may place or recognize a unique cookie on your browser or a unique ID for your mobile device. To opt-out of LiveRamp cookies, please go [here](http://liveramp.com/opt_out/). Your contact information is also used to contact you when necessary. Wullo may use demographic and/or profile data, including but not limited to search history, to tailor your experience on Wullo's site, show you content that Wullo thinks you may be interested in, and display content according to your preferences. 
 
 To the extent you upload a resume, Wullo may make the resume and other personal information contained therein available to third parties, including but not limited to employers and search engines. This means that the personal information contained in your resume can be viewed by third parties and you may receive unsolicited contact from third parties unaffiliated with Wullo. Wullo will make reasonable effort to safeguard the use of your personal information by third parties in accordance with this Privacy Policy. Wullo reserves the right to disclose any information as required by law. 
 
@@ -32,7 +32,7 @@ Through our use of Facebook products and services, including but not limited to 
 
 Wullo prohibits unsolicited email advertising of its site. 
 
-Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/web/20161126002655id_/http%3A//wullo.com/unsubscribe). 
+Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/web/20170629052157id_/http%3A//wullo.com/unsubscribe). 
 
 #### Children's Privacy
 
@@ -56,13 +56,9 @@ The Wullo site may provide links to external websites. Such links do not constit
 
 If there is a change of control in Wullo's business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including personal information, could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on the site, and you may opt-out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of Wullo or the assets of Wullo. 
 
-#### Ad Preferences
-
-If you would like to read more about your ad preferences, please [click here](http://dyn.adki.com/preferences.php?p=5060&e=&r=0). 
-
 #### Conditions of Use
 
-If you decide to use Wullo's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20161126002655id_/http%3A//wullo.com/contact). 
+If you decide to use Wullo's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20170629052157id_/http%3A//wullo.com/contact). 
 
   
 3941 S. Bristol St., Suite D337  
