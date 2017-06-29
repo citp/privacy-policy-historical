@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010020id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629232020id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -71,4 +71,4 @@ Re: Privacy Policy
 
 ## CHANGES TO THIS PRIVACY STATEMENT
 
-The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post a notice about the changes to this Privacy Statement on this website prior to the change becoming effective and update the reference to the effective date to reflect the date of the amendment. You should check this page regularly for updates. Your use of our sites following these changes means that you accept the revised Privacy Statement. By visiting edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20151231010020id_/http%3A//www.edweek.org/info/about/terms-of-use.html).
+The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post a notice about the changes to this Privacy Statement on this website prior to the change becoming effective and update the reference to the effective date to reflect the date of the amendment. You should check this page regularly for updates. Your use of our sites following these changes means that you accept the revised Privacy Statement. By visiting edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20170629232020id_/http%3A//www.edweek.org/info/about/terms-of-use.html).
