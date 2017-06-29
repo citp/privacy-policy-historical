@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallifeguru.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127073451id_/http%3A//totallifeguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallifeguru.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221102id_/http%3A//totallifeguru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyTotalLifeGuru.com
+# Privacy Policy
 
 TotalLifeGuru.com (hereafter “TotalLifeGuru.com”,”Website”, “Site”) is dedicated to safeguarding and preserving your privacy when visiting the Website or communicating electronically with us. This Privacy Policy, together with our [Terms of Use](http://totallifeguru.com/terms-of-use/), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. We do update this Privacy Policy from time to time so please do review this Policy regularly. Please note this Website is not designed for persons under the age of thirteen (13). If you are below this age, you may not use the Website.
 
@@ -49,6 +49,8 @@ We have put in place various security measures in accordance with industry stand
 ## Third Party Advertisements
 
 TotalLifeGuru.com may also use third parties to serve ads on the Website. These third parties may collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Website (but not personal information such as your name, address, email address or telephone number). They do this using their own cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Website and the other sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
+
+We participate in affiliate marketing and allow affiliate links to be encoded on some of our pages. This means that we may earn a commission when you click on or make purchases via affiliate links and affiliate partners may use cookies to understand your use of TotalLifeGuru.com.
 
 ## Third Party Links
 
