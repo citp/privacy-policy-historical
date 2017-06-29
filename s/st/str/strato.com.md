@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strato.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910124715id_/https%3A//www.strato.com/en_us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strato.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629224221id_/https%3A//www.strato.com/en_us/privacy-policy) for the most accurate reproduction.*
 
 # STRATO Privacy Policy
 
