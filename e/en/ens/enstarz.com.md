@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the enstarz.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223085527id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enstarz.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629073745id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # Enstarz‎
-
-#### Privacy Policy
 
 This is the privacy policy ("Privacy Policy") for EnStarNews.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
