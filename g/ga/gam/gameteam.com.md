@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameteam.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222034712id_/http%3A//www.gametop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameteam.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629062415id_/http%3A//www.gametop.com/privacy.html) for the most accurate reproduction.*
 
 # Gametop.com > Privacy Statement
 
