@@ -1,78 +1,74 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227215021id_/http%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204429id_/http%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cole Haan - Privacy Policy
 
-Cole Haan is committed to respecting the privacy rights of all visitors to our web site. The following policy describes how Cole Haan collects, protects and uses information we receive from visitors to our web site.
+This policy was last updated on May 21, 2017.
 
-What information does Cole Haan collect and how does Cole Haan use it?
+Cole Haan is committed to respecting the privacy rights of the visitors to our website. Below describes our privacy policy. **By visiting colehaan.com; using interactive features, using our Cole Haan app; or by providing information via a social media network, you are accepting the practices as described in this Privacy Policy.**
 
-When you register on our web site, we need you to provide your name, e-mail address, mailing address, day phone number and credit card information (when ordering products only), as well as create a username and password. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Cole Haan, and receive back either the information or products desired.
+What personal information about customers does Cole Haan collect? 
 
-When you register, we also allow you the choice whether or not to submit your number, date of birth, and gender. This allows us to better know our visitors and possibly tailor any specific features, promotions, or other notifications to you.
+The information we learn from customers helps us to better serve you as a customer. Cole Haan collects the following types of information.
+
+**Information you give us:** We receive information you enter on our website or give us in any other way. Most of such information is provided by you when you search, buy, post, participate in a contest or questionnaire, or communicate with our customer service. For example, you provide information when you search for a product on our website; place an order through colehaan.com or through any other online store operated by us; provide information by registering on our website; follow us on or post on social media, communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; provide and rate reviews; post on social media. As a result of those actions, you might supply us with such information as your name, address, email address, user name, password, birthday and phone numbers; credit card information; information of people to whom your purchases have been shipped, including addresses and phone number.
+
+**Automatic information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use cookies and clear GIFs (web beacons) and we obtain certain types of information when your web browser accesses colehaan.com or advertisements and other content served by or on behalf of Cole Haan on other websites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your device to the Internet; device and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+
+**Mobile App:** When you download or use our Cole Haan native iPhone or Android app, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services.
+
+**E-mail Communications:** Cole Haan may also use email addresses to contact visitors who communicate with us. For example, we send email to visitors who provide us with their email addresses for specific purposes such as receiving our email newsletters or being notified if they have won one of our contests. Each email newsletter always contains instructions on how to discontinue receipt of the emails from Cole Haan. However, if a visitor at any time chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to any Cole Haan e-mail sent to them and type UNSUBSCRIBE as the subject of their reply, or change their email marketing preferences in their Colehaan.com account if registered. We also use your email address for transactional purposes so that we can fulfil your order.
+
+**Information from Other Sources:** We might receive information about you from other sources. Examples of information we receive from other sources include personal information you have provide to third parties and for which you have given permission to transfer to third parties.
+
+Registering and shopping on our website.
+
+When you register or shop on our website, we need you to provide your name, e-mail address, mailing address, day phone number and payment information (when ordering products only), as well as create a username and password. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to Cole Haan, and receive back either the information or products desired. We may also use the information we collect during the registration process to notify you about important functionality changes to the website, new Cole Haan services, and special offers we think you'll find valuable. When you register, we also allow you the choice whether or not to submit your date of birth, and gender. This kind of information allows us to better know our visitors and possibly tailor any specific features, promotions, or other notifications to you.
 
 Visitors will also be given a choice when registering whether they would like to be on Cole Haan's mailing list, or whether they would prefer to opt-out and not receive such mailings from Cole Haan.
 
-Our web site contains an anonymous shopping feature whereby visitors who desire to purchase products can elect not to register. Those who elect to purchase products without registering will be asked only for information necessary to process the transaction. Information provided by anonymous shoppers will be retained only as necessary to process the transaction and maintain Cole Haan's sales records and will not be used for marketing purposes.
-
-When you enter a contest or other promotional feature, Cole Haan may again ask for your name, address, e-mail address, username and password so that we are able to better administer the contest and notify winners. 
-
-We may also use the information we collect during the registration process to notify you about important functionality changes to the web site, new Cole Haan services, and special offers we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply reply to any Cole Haan e-mail sent to you and type UNSUBSCRIBE as the subject of your reply.
-
-We may disclose personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Cole Haan, our customers, or the public. Information about our customers, including personal information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition..
-
-How does Cole Haan protect visitor information?
-
-Cole Haan implements a variety of security measures to maintain the safety of your personal information. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted into Cole Haan's databases to be only accessed as stated above. When you elect to store your credit card, your full credit card number is not visible to us. It is masked and used only to complete the transaction.
+Our website also contains an unregistered shopping feature whereby visitors who desire to purchase products can elect not to register. Those who elect to purchase products without registering will be asked only for information necessary to process the transaction.
 
 Does Cole Haan use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Cole Haan conduct and improve its business. Omniture is a third-party service provider that Cole Haan works with to help analyze and improve how visitors interact with our website and services. They use cookies to gather anonymous data about our visitors on Cole Haan's behalf. They do not collect personally identifiable information like email, credit card number, phone number, or name. If you would rather not take part in this ongoing research and analysis then please feel free to click here to opt out of Omniture.
+As mentioned earlier, yes we do. Cookies are small files that a site or its service providers transfer to your device through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Google Analytics
+How does Cole Haan protect visitor information?
 
-We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
+Cole Haan implements a variety of security measures to maintain the safety of your personal information. Personal information is collected via secure pages, and contained behind secured networks and is only accessible by a limited number of people who have special access rights to such systems. When you place orders or access your personal information, we use a secure server. All payment information supplied by users is transmitted and stored via industry standard technology and will only be accessed as stated above. When you elect to store your credit card, your full credit card number is not visible to us. It is masked and used only to complete the transaction. It is also important that you protect yourself against unauthorized access to your passwords and to your devices. If you choose to use a shared device, make sure you sign off when finished using such shared device.
 
-Does Cole Haan disclose the information we collect from our visitors to outside parties?
+Does Cole Haan share the information we collect from our visitors to outside parties?
 
-Cole Haan does not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Cole Haan's business, or servicing you as long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other rights or safety. This information is also used to better understand visitors' use of Cole Haan's web site and to support related transactions made on the web site.
+Cole Haan does not sell your personally identifiable information to outside parties unless we provide you with advance notice. We do share information as described below.
 
-However, this data in an aggregate form may be provided to other parties for marketing or advertising analysis, or other uses. Cole Haan may also use e-mail addresses and other personally identifiable information to contact visitors who communicate with us. For example, we direct e-mail to visitors who provide us with their e-mail addresses for specific purposes such as receiving our e-mail newsletters or being notified if they have won one of our contests. Each e-mail newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at any time chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to any Cole Haan e-mail sent to them and type UNSUBSCRIBE as the subject of their reply.
+**Third-Party Service Providers:** We use other companies and individuals to perform certain services on behalf of Cole Haan. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, managing customer databases, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to the personal information that is needed to perform their functions. They are not allowed not use it for other purposes, nor share with other third parties who are not contractual partners of Cole Haan.
+
+**Protection of Cole Haan and others:** We disclose account and other personal information when we need to comply with the law; enforce or apply our [Terms of Use](https://www.colehaan.com/terms-of-use.html) or other agreements; or protect the rights, property, or safety of Cole Haan, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+**With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information
 
 How does a visitor opt-out, remove, or modify information they have provided to Cole Haan?
 
-After gathering any user information, Cole Haan offers users the opportunity to remove their information from our database so as not to receive future communications or to no longer interact with the web site until they later choose to by e-mailing customerservice@colehaan.com and asking that their information be deleted. Cole Haan additionally provides users the opportunity to update and modify any information they have previously provided by e-mailing us at customerservice@colehaan.com and asking to update and/or modify the information previously provided.
+After gathering any user information, Cole Haan offers users the opportunity to remove their information from our databases so as not to receive future communications or to no longer interact with the website until they later choose to by e-mailing [customerservice@colehaan.com](mailto:customerservice@colehaan.com.) and asking that their information be removed from our database. Cole Haan additionally provides users the opportunity to update and modify any information they have previously provided by e-mailing us at [customerservice@colehaan.com](mailto:customerservice@colehaan.com.) and asking to update and/or modify the information previously provided.
 
 Third party links
 
-In an attempt to provide increased value to our visitors, Cole Haan may choose various third party web sites to link to from our own web site. However, even if the third party is affiliated with Cole Haan, Cole Haan has no control over these linked web sites which each have separate privacy and data collection practices, independent of Cole Haan. Cole Haan has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked web sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of our web site and the links placed upon it and therefore we request feedback on not only our own web site, but for web sites we link to as well (including if a specific link does not work).
+In an attempt to provide increased value to our visitors, Cole Haan may choose various third party websites to link to from our own website. However, even if the third party is affiliated with Cole Haan, Cole Haan has no control over these linked websites which each have separate privacy and data collection practices, independent of Cole Haan. Cole Haan has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites. These linked websites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of our website and the links placed upon it and therefore we request feedback on not only our own website, but for websites we link to as well (including if a specific link does not work).
 
-Your consent
+Terms of Use, notices and revisions.
 
-By using our web site, you consent to the collection and use of this information by Cole Haan. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+If you choose to visit colehaan.com, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://www.colehaan.com/terms-of-use.html). Cole Haan also welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue. Our Privacy Policy and the [Terms of Use](https://www.colehaan.com/terms-of-use.html) may change in the future. We may e-mail periodic reminders of our notices and conditions, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. If you are a Californian resident, you are entitled to know once a year what information, if any, we shared with outside parties and for what purposes. Please request this information by contacting us at [customerservice@colehaan.com.](mailto:customerservice@colehaan.com.)
 
 International Users
 
-We collect, process and maintain your information in the United States, where privacy laws may not be as protective as in your home country. If you are using this web site from outside of the United States, by providing personal information to us you are consenting to the transfer of the information to the United States for processing and maintaining in a manner consistent with this policy.
+We collect, process and maintain your information in the United States, where privacy laws may not be as protective as in your home country. If you are using this website from outside of the United States, by providing personal information to us you are consenting to the transfer of the information to the United States for processing and maintaining in a manner consistent with this policy.
 
 Protecting Children's Privacy.
 
 This site is not intended for the use of children under the age of 13. Cole Haan does not knowingly collect Personally Identifiable Information from any children under 13 years of age except as permitted by law.
 
-Feedback
+**Contact Information**
 
-Cole Haan welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue.
-
-Terms and Conditions?
-
-Please also visit Cole Haan's terms and conditions establishing the use, disclaimers, and limitations of liability governing the use of the entire Cole Haan web site.
-
-Contact Information
-
-This web site is operated by  
-Cole Haan  
+This website is operated by  
+Cole Haan LLC  
 150 Ocean Road  
-Greenland, New Hampshire 03840 
-
-Changes to our policy
-
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on July 29, 2013.
+Greenland, New Hampshire 03840
