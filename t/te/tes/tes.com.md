@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109042238id_/https%3A//www.tes.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629205055id_/https%3A//www.tes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies Policy | TES
+# Privacy Policy and Cookies Policy | Tes
 
 This is the Privacy Policy that applies to use of websites ("Sites") and services ("Service") which are under the control of TES Global Limited of 26 Red Lion Square, London, WC1R 4HQ (" **TES Global** "). References to "we", "our" and "us" are references to TES Global.
 
