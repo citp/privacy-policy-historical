@@ -1,67 +1,73 @@
-> *The following text is extracted and transformed from the talkingdata.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906100423id_/http%3A//www.talkingdata.com/privacy.jsp%3Flanguagetype%3Den_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingdata.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629152439id_/https%3A//www.talkingdata.com/privacy.jsp%3Flanguagetype%3Den_us) for the most accurate reproduction.*
 
-# TalkingData-Privacy Policy
+# TalkingData-移动.数据.价值
 
-Beijing Tendcloud Tianxia Technology Co.,Ltd and its affiliates(hereinafter referred to as“we/us”or“Talkingdata”collectively),as a company focusing on internet comprehensive data service,pays much attention to protection of personal information and privacy in data service all the time.Please read privacy policy below carefully to learn how we collect and use information from or about you and your terminal users. **Please note that visiting Talkingdata website or using our service means you have read,learnt and agreed to accept this privacy policy.This policy is valid during the whole process of usage of the website and its services,if you do not agree with this policy,you shall stop using Talkingdata website immediately and various services described in details as below.**
+Beijing Tendcloud Tianxia Technology Co.,Ltd and its affiliates(hereinafter referred to as“we/us”or“TalkingData”collectively), as a company focusing on internet comprehensive data service,pays much attention to protection of personal information and privacy in data service all the time.Please read privacy policy below carefully to learn how we collect and use information from or about you and your terminal users. **Please note that visiting TalkingData website or using our service means you have read,learnt and agreed to accept this privacy policy.This policy is valid during the whole process of usage of the website and its services,if you do not agree with this policy,you shall stop using TalkingData website immediately and various services described in details as below.**
 
 ####  **I.How We Collect and Use Information**
 
-1.Visit and Browse Talkingdata Website **When you visit our website,like most websites,we will**
+1.Visit and Browse TalkingData Website **When you visit our website,like most websites,we will**
 
-\- Use cookie technique to store conversation/selection information in your computer;  
-\- Use clear gif/Web Beacons/Web Bugs software technique to tell us which content is valid;  
-\- Automatically collect certain information and store in log file.These information includes:Internet protocol(IP)address,browser type,Internet service provider(ISP),reference/exit page,OS,date/time stamp,click-data stream and so on.
+-Use cookie technique to store conversation/selection information in your computer;  
+-Use clear gif/Web Beacons/Web Bugs software technique to tell us which content is valid;  
+-Automatically collect certain information and store in log file.These information includes:Internet protocol(IP)address,browser type,Internet service provider(ISP),reference/exit page,OS,date/time stamp,click-data stream and so on.
 
  **We use these information to:**
 
-\- Improve your website experience and service quality;  
-\- Help us manage website content efficiently;  
-\- Analyze group users’on-site activities and social information of the whole users group.
+-Improve your website experience and service quality;  
+-Help us manage website content efficiently;  
+-Analyze group users’on-site activities and social information of the whole users group.
 
-2.Overview of Usage of Talkingdata Services **1)When you register Talkingdata service，we will request your personal information,including company name,E-mail address,password,telephone number and QQ number to create new account.When you contact us afterward and use Talkingdata service persistently,we may request more contact information from you,including:**
+2.Overview of Usage of TalkingData Services **1)When you register TalkingData service，we will request your personal information,including name,company name,E-mail address,password,telephone number and QQ number to create new account.When you contact us afterward and use TalkingData service persistently,we may request more contact information from you,including:**
 
-\- Postal address,telephone number,duty and position;  
-\- Your company information,such as company name and business type;  
-\- Your product information,such as mobile application name,content,type and certain character;promotion channel and others.
+-Postal address,telephone number,duty and position;  
+-Your company information,such as company name and business type;  
+-Your product information,such as mobile application name,content,type and certain character;promotion channel and others.
 
  **We may use these information to:**
 
-\- Send you registration confirmation;  
-\- Learn and manage account;  
-\- Respond your service requirement of clients;  
-\- Learn your company’s requirements and requirements of products,so as to determine applicable product and service;  
-\- Contact you for marketing and promotion purpose,and provide you with more information about our product;  
-\- Research and analyze,improve quality of our website and services;
+-Send you registration confirmation;  
+-Learn and manage account;  
+-Respond your service requirement of clients;  
+-Learn your company’s requirements and requirements of products,so as to determine applicable product and service;  
+-Contact you for marketing and promotion purpose,and provide you with more information about our product;  
+-Research and analyze,improve quality of our website and services;
 
- **2)You can contact us with our E-mail left on the website.You may provide personal information when you contact us by E-mail,and we will use these information to respond your question and service requirement,and so as to upgrade our website and services.** 3.Details for Usage of Talkingdata Services **1)Talkingdata Analysis Service**
+ **2)You can contact us with our E-mail left on the website.You may provide personal information when you contact us by E-mail,and we will use these information to respond your question and service requirement,and so as to upgrade our website and services.** 3.Details for Usage of TalkingData Services **1)TalkingData Analysis Service**
 
-Talkingdata provides data statistics analysis service for mobile application through your integration of Talkingdata data SDK and API in application.Your application will collect and transfer relevant data of your terminal users through technical means,and our service will help analyze these data to learn the performance and user’s usage situation of your application on different terminal equipment,platform or application distribution channel.
+TalkingData provides data statistics analysis service for mobile application through your integration of TalkingData data SDK and API in application.Your application will collect and transfer relevant data of your terminal users through technical means,and our service will help analyze these data to learn the performance and user’s usage situation of your application on different terminal equipment,platform or application distribution channel.
 
-Your terminal users’data usually include but not limited to,SDK or API version,platform,time stamp,application mark,application version,application distribution channel,iOS IDFV,iOS IDFA,Android advertiser mark,MAC address,IMEI,equipment model,terminal manufacturer,terminal equipment OS version,conversion start/end time,language residence,mobile network/country code,time zone and network situation(WiFi and so on),hardware,CPU and battery usage situation and so on.
+Your terminal users’data usually include but not limited to,SDK or API version,platform,time stamp,application mark,application version,application distribution channel,iOS IDFV,iOS IDFA,Android advertiser mark,equipment model,terminal manufacturer,terminal equipment OS version,conversion start/end time,language residence,mobile network/country code,time zone and network situation(WiFi and so on),hardware,CPU and battery usage situation and so on.
 
 In accordance with your mobile application type and your requirement on statistical analysis,your terminal users’data may also include:user’s gender,age,location,equipment information,OS,operator,promotion channel,trigger event,mistake report and volume of page view and so on.
 
-For the purpose of analysis service,Talkingdata analysis service will send above data to Talkingdata server through your application,and display in convergent data and analysis report.You could check relevant statistics and analysis result through logging in account on our website.
+For the purpose of analysis service,TalkingData analysis service will send above data to TalkingData server through your application,and display in convergent data and analysis report.You could check relevant statistics and analysis result through logging in account on our website.
 
  **2)Industry Report Service**
 
-We will build Talkingdata database based on data collected by analysis service and by other legal means,and make analysis report about application’s performance evaluation or behavior pattern(hereinafter referred to as“industry report”)in publisher,industry,certain area and market.Industry report will be displayed in unidentified convergent way,including those published by Talkingdata itself and those customized in accordance with your requirement.
+We will build TalkingData database based on data collected by analysis service and by other legal means,and make analysis report about application’s performance evaluation or behavior pattern(hereinafter referred to as“industry report”)in publisher,industry,certain area and market.Industry report will be displayed in unidentified convergent way,including those published by TalkingData itself and those customized in accordance with your requirement.
 
-Under special situation,we also make evaluation result about application of certain type or kind in accordance with Talkingdata’s statistic model.Such evaluation result may present certain coincidence with your application because of data acquired from your application,however,these evaluation result are made based on our statistic model for the purpose of evaluation which is convergent and anonymous.
+Under special situation,we also make evaluation result about application of certain type or kind in accordance with TalkingData’s statistic model.Such evaluation result may present certain coincidence with your application because of data acquired from your application,however,these evaluation result are made based on our statistic model for the purpose of evaluation which is convergent and anonymous.
 
- **3)Talkingdata DMP**
+ **3)TalkingData DMP**
 
-We will build Talkingdata database based on data collected by analysis service and by other legal means,and form Talkingdata’s TDID through converging,washing,calculating,and so as to build huge third party group data center.Such center will divide mobile terminal users into different groups by character and hobby,and provide group mark information for all practitioners by open interface,in order to optimize launch and improve marketing effect.
+We will build TalkingData database based on data collected by analysis service and by other legal means,and form TalkingData’s TDID through converging,washing,calculating,and so as to build huge third party group data center.Such center will divide mobile terminal users into different groups by character and hobby,and provide group mark information for all practitioners by open interface,in order to optimize launch and improve marketing effect.
 
-Users could match TDID through Talkingdata DMP and buy the corresponding mark information.These mark information are obtained through collecting large amount of mobile application users’data,anonymization and intelligent operation,and ultimately displayed in statistical analysis data,contains no personal privacy or identifiable data.
+Users could match TDID through TalkingData DMP and buy the corresponding mark information.These mark information are obtained through collecting large amount of mobile application users’data,anonymization and intelligent operation,and ultimately displayed in statistical analysis data,contains no personal privacy or identifiable data.
 
  **4)Commercial Cooperation with the Third Party**
 
-Besides the service we provide in the form of Talkingdata DMP,we also cooperate with a third party in various ways to utilize the data collected by Analysis Service and by other legal means for any commercial purpose,which include but not limited to cooperate with advertiser or advertise agency to optimize advertisement launch and improve marketing effect.Such data contains no personal privacy or identifiable features.
+Besides the service we provide in the form of TalkingData DMP,we also cooperate with a third party in various ways to utilize the data collected processed and handled through TalkingData DMP,which include but not limited to cooperate with advertiser,advertising alliance or advertise agency to optimize advertisement launch and improve marketing effect.Such data we shared with the third party contains no personal privacy or identifiable features.
+
+ **5)Smart Data Market**
+
+We are providing service named Smart Data Market for both data service provider and data demander and such Smart Data Market aims to facilitate the online transaction of data as well as its derivatives (referred to as Data Products, no matter in form of data API, tools or Application software) which are produced and/or processed by TalkingData itself or authorized to deal by the third lawful rights owner. 
+
+It is guaranteed that Data Products produced and/or processed by TalkingData itself are clear of ownership and in compliance with relevant laws and regulations about personal information protection. In general, the Data Products which are transacted or authorized in Smart Data Market are de-identification ones. Under some special circumstances when personal information data may be accessed, it is required that explicit authorization be received from related person and the using of such data be limited within the specific range. Meanwhile, we are trying our best with reasonable discretion to require the third data owner to guarantee its Data Products meet the requirements above.
 
 ####  **II.Authorization and Consent from End Users’Data**
 
- **You are clearly aware of that,you need us to collect,store and process personal information from terminal user of your application,for the purpose of our data statistics and analysis.Therefore,you must undertake:** **1)You have obtained fully necessary authorization,consent and permit from terminal users,for the purpose of our performance of service;** **2)You have obtained fully necessary authorization,consent and permit from terminal users for us to anonymously and convergently process and transfer(including possible international transfer)the data we collected;** **3)You have complied and will comply with applicable laws,regulations and supervisory requirement,including but not limited to formulate and publish policy relevant to personal information protection and privacy protection.** **You shall be liable for the comprehensive settlement and compensation to us for our possible loss in any kind,if you violate the commitment above and thus causing your terminal user’s claim or right request against us in any kind,or causing us to be involved in legal or administrative procedure.**
+ **You are clearly aware of that,you need us to collect,store and process personal information from terminal user of your application,for the purpose of our data statistics and analysis.Therefore,you must undertake:** **1)You have obtained fully necessary authorization,consent and permit from terminal users,for the purpose of our performance of service;** **2)You have obtained fully necessary authorization,consent and permit from terminal users for us in order to anonymously and convergently process,transfer(including possible international transfer)the data we collected;** **3)You have complied and will comply with applicable laws,regulations and supervisory requirement,including but not limited to formulate and publish policy relevant to personal information protection and privacy protection.** **4)You should make the disclosure and explanation to the end user,allowing us to transfer our collected data to the third parties for Internet targeted advertising purposes on the condition that anonymous and polymerization processing have been made with respect of such data information before transfer.You should also provide end users with easy-to-operate selection mechanism,indicating how and when the user may exercise the option and how and when the user can modify and withdraw such option,so that the user can choose to agree or disagree with the collection and use of his/her information and transfer of such information to the third parties for Internet targeted advertising purposes.** **You shall be liable for the comprehensive settlement and compensation to us for our possible loss in any kind,if you violate the commitment above and thus causing your terminal user’s claim or right request against us in any kind,or causing us to be involved in legal or administrative procedure.**
 
 ####  **III.Update and Store Information**
 
@@ -69,7 +75,7 @@ We will keep the update channel on your account log page for you to check,update
 
 ####  **IV.Security Measures for Data**
 
- **No transfer means or digital storage means on the internet is 100%safe.Although we have made reasonable efforts,there is still risks of loss to your’s and your user’s person,property and reputation caused by theft,illegal possession or abuse.You have learnt the risks above and would like to undertake them.** We will comply with general and reasonable standard of industry to protect the safety and confidentiality of information we have stored.Including but not limited to:firewall and data backup measure;limited access to data center;confidential agreement with employee and security management system;hash processing to identification information of mobile terminal,such as IMEI number and MAC address.
+ **No transfer means or digital storage means on the internet is 100%safe.Although we have made reasonable efforts,there are still risks of loss to your’s and your user’s person,property and reputation caused by theft,illegal possession or abuse.You have learnt the risks above and would like to undertake them.** We will comply with general and reasonable standard of industry to protect the safety and confidentiality of information we have stored.Including but not limited to:firewall and data backup measure;limited access to data center;confidential agreement with employee and security management system;hash processing to identification information of mobile terminal.
 
 ####  **V.Protection for Juveniles Information**
 
@@ -85,11 +91,11 @@ During the process of service provision,we may transfer the data obtained from y
 
 ####  **VIII.Policy Update and Force**
 
-We have the right to adjust the privacy policy at any time in accordance with change of service,adjustment of applicable laws and policies as well as other affected factors.Any update of this privacy policy will be published on this webpage marked with updated time,therefore,please check and learn the privacy policy you shall comply with at any time.If you do not agree with this privacy policy,please terminate visiting and using our service.This policy is an important part of Talkingdata Terms of Services.
+We have the right to adjust the privacy policy at any time in accordance with change of service,adjustment of applicable laws and policies as well as other affected factors.Any update of this privacy policy will be published on this webpage marked with updated time,therefore,please check and learn the privacy policy you shall comply with at any time.If you do not agree with this privacy policy,please terminate visiting and using our service.This policy is an important part of TalkingData Terms of Services.
 
 ####  **IX.Governing Law and Dispute Resolution**
 
-This policy shall be interpreted and governed by the law of PRC.Dispute in any form between you and Talkingdata shall be settled through amicable negotiation.Where it fails,either party has the right to submit the dispute to Beijing Arbitration Commission for arbitration in Beijing in accordance with its arbitration rules effective then.
+This policy shall be interpreted and governed by the law of PRC.Dispute in any form between you and TalkingData shall be settled through amicable negotiation.Where it fails,either party has the right to submit the dispute to Beijing Arbitration Commission for arbitration in Beijing in accordance with its arbitration rules effective then.
 
 ####  **X.Contact Us**
 
