@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meltwater.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019014831id_/https%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltwater.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629072700id_/https%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Meltwater
 
@@ -71,7 +71,7 @@ We also may share your information in the following circumstances:
 
 We use third parties such as network advertisers to display advertisements on our Site, to assist us in displaying advertisements on third party websites, and to evaluate the success of our advertising campaigns. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. Please see our Cookie Statement for additional information.
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: in the United States: [www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp) (NAI) and www.aboutads.info/choices (DAA), and in Europe: <http://youronlinechoices.eu/>.
+You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: in the United States: [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) (NAI) and www.aboutads.info/choices (DAA), and in Europe: <http://youronlinechoices.eu/>.
 
 ## What Choices Do I Have Regarding Use of My Personal Information?
 
@@ -101,7 +101,7 @@ If you have any questions about this policy or the use of your personal informat
 
 ## Cookie Statement
 
-At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you automatically through cookies and other tracking technologies (collectively, “cookies”) when you use a Meltwater website, including, [www.meltwater.com](https://www.meltwater.com/) (“Site”). In this Statement, we also identify your options regarding the use of cookies and the information collected through cookies.
+At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you automatically through cookies and other tracking technologies (collectively, “cookies”) when you use a Meltwater website, including, [www.meltwater.com](http://www.meltwater.com/) (“Site”). In this Statement, we also identify your options regarding the use of cookies and the information collected through cookies.
 
 Visiting or using this website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described in this notice. Should you have any questions regarding our privacy policy, please [contact us](mailto:privacy@meltwater.com).
 
@@ -154,7 +154,7 @@ __utmz | Performance cookies collect information about how visitors use a websit
 
 These cookies do not collect information that identifies you. The information these cookies collect is aggregated, therefore anonymous, and is only used to understand how the site is being used and identify problem areas to improve user experience.
 
-You can find out more about Google’s privacy policy concerning its analytics service at [Google privacy policy](https://www.google.com/policies/privacy/). Google also offers a tool that allows you to opt-out of being tracked by Google Analytics across all websites and can be found [here](https://tools.google.com/dlpage/gaoptout).  
+You can find out more about Google’s privacy policy concerning its analytics service at [Google privacy policy](http://www.google.com/policies/privacy/). Google also offers a tool that allows you to opt-out of being tracked by Google Analytics across all websites and can be found [here](https://tools.google.com/dlpage/gaoptout).  
   
 Functionality Cookies | Persistent Cookies | We use persistent cookies to enable our Site to recognize you on subsequent visits, thus speeding up or enhancing your experience, as well as remember your settings and preferences, such as your user name, language, region and other customization options. 
 
@@ -169,10 +169,9 @@ _mkto_trk
 _mkt_library  
 _mkt_whitepapers | This Site uses an automation system provided by Marketo Inc., which uses cookies to recognize you as a unique user when you return to the site, and to track various data related to your website usage in order to provide custom content or services related to your specific interests. 
 
-The cookies placed by the Marketo server are readable only by Marketo. For more information on Marketo cookies and what they are used for, [click here](http://www.marketo.com/trust/privacy.php).  
+The cookies placed by the Marketo server are readable only by Marketo. For more information on Marketo cookies and what they are used for, [click here](http://legal.marketo.com/privacy/).  
   
-￼￼￼￼  
-
+￼￼￼￼
 
 ## Other cookie data collection that may be used on this Site
 
@@ -194,7 +193,7 @@ We may collect, process and use the following information about you:
 
 
 
-Information generated and collected automatically
+Information generated and collected automatically.
 
 We use web analytics tools to automatically store Site usage information, such as the origin, numbers and frequency of visitors to our Site and how they use its contents and components. This data is only used in the analytics tool aggregate and helps us figure out how to provide an optimal experience to as many users as possible.
 
@@ -215,7 +214,7 @@ We strongly recommend that you accept cookies, because cookies enable you to tak
 If you disagree with the use of cookies, you have the following options:
 
   * You can delete cookies after having visited the Site
-  * You can browse the Site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” in Internet Explorer, “Private Browsing” in Firefox and Safari) 
+  * You can browse the Site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” in Internet Explorer, “Private Browsing” in Firefox and Safari)
   * You can set your browser’s security controls so that all or certain cookies are blocked
   * You can request that we delete any personal information that we collected—to do so, [write us](mailto:privacy@meltwater.com)
 
