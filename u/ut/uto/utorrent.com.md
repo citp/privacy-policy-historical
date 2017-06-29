@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051044id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629093515id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent - Delivering the World’s Content
 
