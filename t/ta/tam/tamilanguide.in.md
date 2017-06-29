@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamilanguide.in privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418232015id_/http%3A//www.tamilanguide.in/p/httpwww.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilanguide.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629235802id_/http%3A//www.tamilanguide.in/p/httpwww.html) for the most accurate reproduction.*
 
-# Privacy Policy | TN Government Jobs
+# Tamilnadu Govt Jobs 2017 2018 | Govt Jobs 2017 2018: Privacy Policy
 
 This Privacy Policy governs the manner in which Tamilan Guide Team collects, uses, maintains and discloses information collected from users (each, a "User") of the 
 
