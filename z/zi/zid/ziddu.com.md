@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ziddu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014423id_/http%3A//www.ziddu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziddu.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011028id_/http%3A//www.ziddu.com/privacy-policy) for the most accurate reproduction.*
 
 # Ziddu Privacy Policy | Ziddu
 
-Ziddu.com the property of Meridian Tech Pte Limited ("Ziddu", "we", "us" or "our") respect the privacy rights of users and recognize the importance of protecting and handling information collected about you in accordance with both the law and best practice.
+Ziddu.com the property of Meridian Enterprises Pte Limited ("Ziddu", "we", "us" or "our") respect the privacy rights of users and recognize the importance of protecting and handling information collected about you in accordance with both the law and best practice.
 
 This Privacy Policy applies to information we collect when you use or access our online or mobile websites available at www.ziddu.com ("Site"), products, services or applications (collectively, the "Services"), or when you otherwise interact with us.
 
