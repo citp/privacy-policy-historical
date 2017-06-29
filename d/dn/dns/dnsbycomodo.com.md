@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dnsbycomodo.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102221338id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbycomodo.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012958id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
-# Policies and Practices of the Comodo Companies - Privacy Statement
+# Policies and Practices of the Comodo Companies
 
-This privacy policy describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., and DNS.COM, LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
+This privacy policy describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., and DNSbyComodo.com, LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
 
 **Information Collection**
 
@@ -12,7 +12,7 @@ If you are located in California, IP addresses are considered personally identif
 
 In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply.  Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
 
-For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20161102221338id_/http%3A//www.comodo.com/repository/css-information-collection.php)
+For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20170630012958id_/http%3A//www.comodo.com/repository/css-information-collection.php)
 
 **Children’s Online Privacy Protection Act Statement**
 
