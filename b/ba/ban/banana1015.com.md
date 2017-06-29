@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012030850id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629223627id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
 
 # Banana 101.5 – Flint's Rock Radio – Flint Rock Radio
 
