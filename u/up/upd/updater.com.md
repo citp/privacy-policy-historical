@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204123646id_/http%3A//updater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629034451id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Updater
 
@@ -124,4 +124,4 @@ You can opt out of these features by
 
 ###### Questions
 
-Updater Inc. is located at 1140 Broadway, Suite 905, New York, NY 10001. Any questions about the information we collect or share may be emailed to [help@updater.com](mailto:help@updater.com).
+Updater Inc. is located at 19 Union Square West, 12th Floor, New York, NY 10003. Any questions about the information we collect or share may be emailed to [help@updater.com](mailto:help@updater.com).
