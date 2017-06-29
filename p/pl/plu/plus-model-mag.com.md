@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plus-model-mag.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029172849id_/http%3A//www.plus-model-mag.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus-model-mag.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141548id_/https%3A//www.plus-model-mag.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PLUS Model Magazine
 
-This Privacy Policy governs the manner in which PLUS Model Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [plus-model-mag.com](http://www.plus-model-mag.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by PLUS Model Magazine.
+This Privacy Policy governs the manner in which PLUS Model Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [plus-model-mag.com](https://www.plus-model-mag.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by PLUS Model Magazine.
 
  **Personal identification information**
 
@@ -66,9 +66,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[PLUS Model Magazine](http://www.plus-model-mag.com/)  
-[http://www.plus-model-mag.com](http://www.plus-model-mag.com/)  
+[PLUS Model Magazine](https://www.plus-model-mag.com/)  
+[https://www.plus-model-mag.com](https://www.plus-model-mag.com/)  
 360-882-4416  
-[Click to email us](http://www.plus-model-mag.com/about-2/contact/)
+[Click to email us](https://www.plus-model-mag.com/about-2/contact/)
 
 This document was last updated on January 22, 2013
