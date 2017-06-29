@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the free-sex-video.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506012317id_/http%3A//free-sex-video.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-sex-video.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629030436id_/http%3A//free-sex-video.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobile Porn | Sexvideos | Porn Sites | Free-Sex-Video.net
+# Privacy Policy | Mobile Porn | Sexvideos | Porn Sites | free-sex-video.net
 
 **PRIVACY POLICY**
 
-This document details important information regarding the use and disclosure of User Data collected on Free-Fex-Video.net
+This document details important information regarding the use and disclosure of User Data collected on Free-Sex-Video.net
 
 The security of your Data is very important to Free-Sex-Video.net and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
