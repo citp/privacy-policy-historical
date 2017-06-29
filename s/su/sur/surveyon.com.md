@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127162454id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629040805id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
-##  Privacy Policy Effective August 30, 2016
+##  Privacy Policy  
+Effective June 1, 2017
 
-The main business of dataSpring, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
+The main business of Marketing Applications, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
 ### 1\. The definition of personal information
 
@@ -74,7 +75,7 @@ These circumstances include, but may not be limited to:
 
 ### 9\. Contact with Personal Information
 
-This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for dataSpring, Inc. for any inquires. 
+This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for Marketing Applications, Inc. for any inquires. 
 
   1. This firm's point of contact for inquires for personal information 
     * Address: 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022
