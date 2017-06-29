@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nl.am privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212022634id_/http%3A//nl.am/index.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nl.am privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629123329id_/https%3A//www.nl.am/index.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
 
 # NL.AM - Free Domain Registration + Free DNS Service.
 
