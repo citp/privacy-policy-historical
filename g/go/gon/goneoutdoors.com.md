@@ -1,117 +1,96 @@
-> *The following text is extracted and transformed from the goneoutdoors.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127175500id_/https%3A//www.hover.com/privacy%3Fsource%3Dforsale) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneoutdoors.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629142832id_/http%3A//goneoutdoors.com/privacy-policy) for the most accurate reproduction.*
 
-# Domains and domain email made simple - Hover
+# Privacy Policy | Gone Outdoors | Your Adventure Awaits
 
-## Our Privacy and Data Collection Practices
+By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a "Service", collectively the "Services"), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy ("Privacy Policy"). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. ("Leaf Group," "we," "us," or "our") uses, shares and manages this information. 
 
-Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
+Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission (“FTC”).
 
-The purpose of this document is to share these details with our customers and any else that is interested in these details.
+* _Data Collection and Use._
 
-Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
-
-We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
-
-## Account Information
-
-When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
-
-Account data includes:
-
-  
-
-
-• the name of the account holder;
-
-• the mailing address of the account holder;
-
-• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
-
-• a credit card number, expiry and verification code;
-
-Registration contact data includes:
-
-  
+  1. _Information You Directly and Voluntarily Provide to Us_. We may collect and store some or all of the following information you make available to us:
+    * If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service. If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.
+    * Information you provide when you contact us for technical or customer support or with questions about your use of the Service.
+  2. _Information Automatically Collected from You_. In addition to the information you provide to us, the Service may collect and store additional information automatically, this information may include:
+    * Device registration data (e.g., the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type)
+    * Device settings (e.g., language preference)
+    * Mobile carrier
+    * Information about how you use the Service (for example, how many times you use the Service each day)
+    * Requested and referring URLs
+    * Location data collected through your device (including, for example, precise location data such as GPS and WiFi information)
+  3. _Information You Publicly Post through the Service_. If you post information on public areas of the Service, such as reviews, comments or forums, that information may be collected and used by Leaf Group, other users of the Service, and the public generally. We strongly recommend that you do not post any information through the Service that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
+  4. _How We Use the Information We Collect from You_. We and our service providers may use the information you provide or that is collected through the Service to operate and improve the Service, our other sites, applications, products and services, or to contact you from time to time to provide you with important information, notices and marketing promotions relating to the Service. If you wish to opt-out of receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can opt-out of receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
 
 
-• the name of the owner and administrative contact(s)
+* **_Collection of Information by Third Parties._**
 
-• the address of the owner and administrative contact(s)
+  1. _Advertising and Analytics_. The Service may be supported through advertising, and we may work with third-party advertisers and advertising networks to provide advertising through the Service. We may provide these third-party advertisers and advertising networks with the ability to collect information about how you interact with the Service and, if applicable, your mobile device. This information may include the unique device or advertising identifier associated with your device and your precise location information, in order to help analyze and serve targeted advertising on the Service and elsewhere (including third-party sites and applications).
 
-• the phone number of the owner and administrative contact(s)
+We may also work with third party analytics companies to help us understand how the Service is being used, such as data collection, reporting, ad response measurement, and website and mobile application analytics, as well as to assist with delivery of relevant marketing messages and advertisements. We may use Google Analytics, an analytics service provided by Google, Inc. (“Google”), to collect information about your use of the Service. Google may collect information about the content you view and your system information and geographic information. The information generated by Google about your use of the Service will be transmitted to and stored by Google. The information collected by Google allows us to analyze your use of the Service.
 
-• the email address for the owner and administrative contact(s)
+We encourage you to review your device and Service settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain information by the Service by updating your applicable device settings, or you may uninstall the Service. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
 
-## Our use of your account data
+  2. _Third Party Links and Content_. In addition, the Service may include third-party advertising, links to third-party websites, and other content from third-party businesses. These third parties may use cookies, pixels and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. For information about how tracking works for online advertising purposes you can visit [**http://www.aboutads.info/choices**](http://www.aboutads.info/choices) or [**http:///www.aboutads.info/appchoices**](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit. In addition, some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at: [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+  3. _Do Not Track Requests_. If you access the Service through a browser, your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Service in response to any “do not track” requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Service.
+  4. _Payment Processors_. If you make a purchase through the Service, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Service. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+  5. _Promotions, Sweepstakes, and Contests_. From time to time, we may host a promotion, sweepstakes, or content on the Service. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
 
-We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
 
-Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+* **_Social Media Services_**. 
 
-Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
+The Service may use social networking or "share functionality" or may contain links to third-party social media sites or applications that are not owned or controlled by Leaf Group. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature. Leaf Group has no control over, and assumes no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. You are subject to the policies of those third parties when and where applicable. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Service. Please review your privacy settings for your applicable social media site or application account, as those settings determine what information may be made available to us when you access the Service through the applicable social media site or application.
 
-Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
 
-We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+* **_Children Under Age 13_.**
 
-Hover does not share your account data with any other parties for any other reasons.
+The Service is not intended for children under age 13. We do not knowingly collect or distribute personal information from or about children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at **[legal@leafgroup.com](mailto:legal@leafgroup.com)**.
 
-## Our use of your registration data
+* **_How We Share Your Information_.**
 
-Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:
 
-ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+  1. _Advertisers_. We may share your information with advertisers, third-party advertising networks and analytics companies as described above in Section II(A) who may use it to deliver targeted advertisements to you on the Service or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
 
-We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+  2. _Corporate Affiliates_. We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with our Services, products and other services.
 
-We never sell this information.
+  3. _Partner Programs_. If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Service utilized.
 
-## WHOIS
+  4. _Marketing Campaigns_. From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at **[legal@leafgroup.com](mailto:legal@leafgroup.com)**.
 
-Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+  5. _Service Providers_. We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
 
-Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+  6. _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies_. To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if: (i) required to do so by law, or if requested in response to a subpoena or court order; (ii) we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our **[Terms of Use](http://goneoutdoors.com/terms-of-use)**. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 
-Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+  7. _Business Transfers; Bankruptcy_. In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Service to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
 
-[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
 
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
 
-Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+* **_Managing Your Information_.**
 
-## Domain Search Information
+We acknowledge the right of individuals to access their personal data. You may send an e-mail to **[legal@leafgroup.com](mailto:legal@leafgroup.com)** or a letter to Leaf Group Ltd., Attn: Legal Department; 1655 26th Street, Santa Monica, CA 90404 requesting access to or correction of your personal information. Please include your registration information you provided through the Service. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account. If you’d like us to delete information that you have provided through the Service, please contact us at **[legal@leafgroup.com](mailto:legal@leafgroup.com)** and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Service to function properly or may be automatically retained in backup storage or records retention archival storage.
 
-When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+In addition, if you are a California resident under the age of 18 and are a registered user of the Service, you may request that we remove content or information about you that you posted on the Service by (A) submitting a request in writing to **[legal@leafgroup.com](mailto:legal@leafgroup.com)** (B) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
 
-We never sell the search information you provide to us.
+* **_Use of Information Outside Your Country of Residence_**. The Service is directed to users located in the United States. If you are located outside of the United States and you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Service represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained in the United States, you should not use the Service.
 
-We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+* **_EU-US Privacy Shield_.** Leaf Group complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit **<https://www.privacyshield.gov/>**.
 
-## Customer Service Information
+In compliance with the EU-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this policy should first contact us at **[legal@legalgroup.com](mailto:legal@legalgroup.com)**.
 
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit **<http://www.bbb.org/EU-privacy-shield/for-eu-consumers/>** for more information and to file a complaint.
 
-When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-## Electronic Newsletters and Unsubscribe Policy
+* **_US-Swiss Safe Harbor_.** Leaf Group complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles will govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit **<http://www.export.gov/safeharbor/>**.
 
-When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+In compliance with the US-Swiss Safe Harbor Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. Swiss citizens individuals with inquiries or complaints regarding this policy should first contact us at **[legal@leafgroup.com](mailto:legal@leafgroup.com).**
 
-## Data Analytics
+We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit [**http://www.bbb.org/us/safe-harbor-complaints**](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+* **_Security_.** We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
 
-From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+* **_Updates to this Privacy Policy_.** We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
 
-## Surveys
-
-Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
-
-Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
-
-## How to contact us
-
-Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
+* **_Contact Information_**. If you have questions about this Privacy Policy, you may contact us at **[legal@leafgroup.com](mailto:legal@leafgroup.com)**. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
