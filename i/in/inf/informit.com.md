@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074142id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629131948id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | InformIT
 
@@ -48,7 +48,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 ### Newsletters
 
-If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit **[www.informit.com/u.aspx](https://web.archive.org/u.aspx)** , enter your e-mail address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button. 
+If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit **[www.informit.com/u.aspx](https://web.archive.org/u.aspx)** , enter your email address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button. 
 
 ### Service Announcements
 
@@ -62,17 +62,13 @@ We communicate with users on a regular basis to provide requested services and i
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-### Email A Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. InformIT.com will automatically send the friend a one-time email inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time email. The friend may contact InformIT.com at **[customer-service@informit.com](mailto:customer-service@informit.com)** to request the removal of this information from the database.
-
 ### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security at our web site, you can send an e-mail to **[comments@informit.com](mailto:comments@informit.com)**.
+If you have any questions about the security at our web site, you can send an email to **[comments@informit.com](mailto:comments@informit.com)**.
 
 ### Correction/Updating Personal Information
 
