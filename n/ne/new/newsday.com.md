@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052754id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005834id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
-# Newsday LLC Privacy Policy - Revised 2/19/2014 | Newsday
+# Newsday LLC Privacy Policy | Newsday
 
 [Services](https://web.archive.org/services)
 
@@ -22,7 +22,7 @@ We will use your information only as permitted by law and as set forth in this p
 
 We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on the site to communicate with you regarding our _Terms of Service_ and this Privacy Policy, products and services offered by Newsday and other Newsday Affiliates (defined below) and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. In some cases we may combine Personally Identifiable Information collected on the site with demographic or other information (such as census records or customer information in our regular business records) to assist with tailoring advertising to your preferences and behaviors, and for other sales and marketing efforts of Newsday and its Affiliates. We reserve the right to share information with other Newsday business units and any entities that control, are controlled by, or are under common control with, Newsday (collectively, “Affiliates”), including without limitation Newsday’s and its Affiliates’ newspapers, websites and broadcast stations.
 
-Personally Identifiable Information collected by Newsday may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
+Personally Identifiable Information collected by Newsday may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. We contract with other companies to provide services on our behalf, including credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using personal information in any way other than to provide services for Newsday, and they may not share, resell or use the data for their own direct marketing purposes.
 
 As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets to other companies or businesses. In such transactions, user information may be among the transferred assets. We may also preserve or disclose your information if required to do so by law, or in good faith belief that such disclosure is reasonably necessary for the following purposes: (1) to comply with legal process, such as a court order, search warrant, or subpoena; (2) to enforce the Terms of Service for this site; (3) to render service you request; (4) to protect the rights or property of Newsday, and its third party suppliers and licensors; (5) in circumstances that we deem, in our sole discretion, to pose a threat to the safety of you or others; (6) to protect our rights; or (7) to collect on amounts you may owe us.
 
@@ -78,6 +78,6 @@ Newsday reserves the right to change this policy at any time. Please check this 
 
 The site is controlled, operated and administered entirely within the United States. If you are located outside the United States, please be aware that information you provide to us through the site may be processed and transferred to the U.S. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using the Services, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
 
-© 2014 Newsday LLC
+© 2017 Newsday LLC
 
-Version: February 2014 
+Version: January 2017 
