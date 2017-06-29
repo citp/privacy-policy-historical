@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kickerdaily.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084204id_/http%3A//kickerdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickerdaily.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629030457id_/http%3A//kickerdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kicker Daily News
+# Privacy Policy – Kicker Daily News
 
 Privacy Policy for [Kicker Daily News](http://kickerdaily.com/ "Kicker Daily News").
 
