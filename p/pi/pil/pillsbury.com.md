@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222082004id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011118id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-us) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
