@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the belovedsport.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206102808id_/http%3A//www.belovedsport.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belovedsport.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629104824id_/http%3A//www.belovedsport.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Schedule Wiziwig.TV - Live Sports | Football, Basketball, Hockey, Wiziwig.EU
+# Schedule - Live Sports | Football, Basketball, Hockey, Baseball, Rugby, Tennis
 
-Real-TV-Sport.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+BeLovedSport.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 We may change this policy from time to time by updating this page. You should always check this page to ensure that you are happy with any changes.
 
