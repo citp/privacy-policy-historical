@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001504id_/https%3A//www.fi.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629124120id_/https%3A//www.fi.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Franklin Institute Science Museum
 
@@ -14,6 +14,6 @@ The Franklin Institute provides visitors with an opportunity to make a contribut
 
 On some pages of our website, you may notice that we use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-**The Franklin Institute does not offer refunds on donations or ticket purchases to any Institute fundraising event.**
+ **The Franklin Institute does not offer refunds on donations or ticket purchases to any Institute fundraising event.**
 
 Please note that the Institute may revise its privacy policy at any time. Occasionally, changes in technology, functionality, content we provide, laws and/or Institute policy may require us to revise policies and practices on this page. We encourage you to periodically visit this page to review our most current policy. Your continued use of the site shall constitute your acceptance of any such changes to this policy.
