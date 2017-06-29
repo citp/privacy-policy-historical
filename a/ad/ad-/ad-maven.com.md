@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043147id_/http%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-maven.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629070626id_/http%3A//ad-maven.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to AdMaven
 
 Ad Maven serves over 15 Billion impressions on a monthly basis, in the display sphere.
 
-[Launch it](https://web.archive.org/web/20161222043147id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20170629070626id_/http%3A//ad-maven.com/what.html)
 
 ####  A Advertisers _Extend your reach_
 
 Our Publishers enjoy the best advertisers out there and a large variety of Ads.
 
-[Launch it](https://web.archive.org/web/20161222043147id_/http%3A//ad-maven.com/what.html)
+[Launch it](https://web.archive.org/web/20170629070626id_/http%3A//ad-maven.com/what.html)
 
 ####  P Publishers _Improve ROI_
 
@@ -64,7 +64,7 @@ User may delete or Opt-Out of any third party ad technology, i.e. 'digital ident
 
 **10\. Compliance with Children's Online Privacy Protection Act.** Protecting the privacy of the very young is especially important. For that reason, Ad Maven does not knowingly collect or maintain information from Users it actually knows are under 13. 
 
-**11\. Contacting us.** For any un-clarity with respect to this PP or the privacy practices employed in the Software, Users are invited to contact: [info@ad-maven.com](mailto:info@ad-maven.com). 
+**11\. Contacting us.** For any un-clarity with respect to this PP or the privacy practices employed in the Software, Users are invited to contact: [advertisers@ad-maven.com](mailto:advertisers@ad-maven.com) OR [publishers@ad-maven.com](mailto:publishers@ad-maven.com). 
 
 12\. THE USER ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY ISSUES IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PP AND THE TOU (INCLUDING LIMITATIONS ON LIABILITY). 
 
