@@ -1,95 +1,111 @@
-> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052534id_/http%3A//www.higherone.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141648id_/http%3A//www.blackboard.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Higher One
+# Blackboard Privacy Policy | Blackboard
 
-## YOUR PRIVACY IS OUR PRIORITY
+##  Blackboard privacy policy 
 
-At Higher One, Inc. we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higherone.com](http://www.higherone.com/). 
+The following privacy policy applies to personal data collected at **[www.blackboard.com](https://web.archive.org/index.aspx)** , Behind the Blackboard™ (behind.blackboard.com), or other Blackboard websites, and data collected through the provision of Blackboard products or services (collectively, the "Services").  Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. Please review the following statement to understand how the information you provide to Blackboard through the Services will be treated.
 
-Higher One has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [http://www.higherone.com.](http://www.higherone.com./) TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only the information collected on this website, [www.higherone.com](http://www.higherone.com/).
+* * *
 
-In addition to any legal compliance associated with the handling of your information, Higher One wants to earn your trust. Therefore, we’ve taken a number of steps to make sure that your information is as safe as possible, including but not limited to:
+##  1\. Information Blackboard collects 
 
-  * Implementing numerous stringent physical and electronic security features to prevent unauthorized access;
-  * Conducting frequent reviews of our computer systems, including security features and data encryption;
-  * Limiting employee access to customer information to only those employees who need it for the normal performance of their jobs by requiring our employees to acknowledge, in writing, their individual responsibility to maintain the confidentiality of all customer information; and
-  * Always applying the same privacy policies and practices to our former customers that we do to our existing customers.
+You are free to utilize the Services without identifying yourself; however, if you would like to utilize or customize some features of the Services, you must first register with Blackboard. When you register, we will request certain personal information, including, but not limited to, contact information, such as your name, city and state, and e-mail address as well as demographic information such as your age, gender and interests. This information better enables us to provide you with content relevant to your interests and provides us with aggregate data that Blackboard uses to improve the Services. We may also ask you for information about your system or how you use Blackboard products and services, and we will collect information through your use of the Service, including your actions taken on the Service and your communications with others through the Service. Please see Section 5, below, for information on how to access or update this information and see Section 7 for information on how we collect and use Student Data.
 
+Blackboard gathers information about all users collectively, such as what areas users visit most frequently and what services users access most often. Blackboard automatically logs IP addresses, session sources, and other data which tracks users' access to the Services. We analyze these logs for sales and marketing purposes as well as system performance monitoring. These logs are analyzed for the aggregate trends they reveal about our customers and how the customers use the Services. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Services. Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
 
+When you access our Services by or through a mobile device, we may receive or collect and store unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
-**There are important steps you can take yourself to help insure the safety of your information online. Some suggestions:**
+* * *
 
-  1. Never leave your computer in the middle of an online session.
-  2. When you’re done with an online session, make sure you log off of the program website before you move on to other sites.
-  3. Never share your password with anyone.
-  4. If other people have access to your computer, clear your browser's cache to remove copies of web pages that may have been temporarily stored on your computer. Check your browser's Help file for instructions.
+##  2\. Purposes of data collection 
 
+Blackboard requests personal information to operate, maintain and provide to you the features and functionality of the Services and to communicate directly with you, as well as for purposes such as the provision of customer service and support, billing, network management, customer surveys, sales management, support, newsletter subscriptions, user group memberships, event registration and sponsorship, offers of related services, and other exchanges of information.
 
+* * *
 
-If you have questions or concerns regarding this Statement, you should contact us at [privacy@higherone.com](mailto:privacy@higherone.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+##  3\. What Blackboard does with the information it collects 
 
-Occasionally, there may be products or services, either from our own affiliated companies or businesses that have partnered with us, which we think may be of interest to you. If we feel these products and services would provide added value to a cardholder, you’ll hear about these special offers from us, and not from a third party. Rest assured that Higher One would never share information with a company or entity that is not affiliated with us. You can control how Higher One contacts you through the notifications page on the OneCard Web site. Just log in and from the main menu bar select "Profile" then "Notifications". We may also share your contact information such as name, address, phone number and email address with your school so that we, and they, can better serve you.
+Blackboard makes chat rooms, forums, message boards, and/or news groups available in certain areas of the Services. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information.
 
-**Information Collection and Use**  
-When you visit the Site as a user, you can browse anonymously. When you visit the Site to activate your debit card, we require certain personal information from you. Specifically, we request your card number and require you to establish a username and passcode. We also collect your banking information including account number and routing number, which is stored as a part of your user account record, which includes information such as your name, email and physical address, phone number, social security number, government issued ID, and date of birth. This collected information establishes your online account profile. Please note that we use this collected information to service your account needs as they arise. Higher One does not share your personal information with any third parties for their promotional purposes. We may also use your email depending on your selected preferences to send you promotional emails with news of our contests and new product offerings.
+The personal information you supply to Blackboard will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Blackboard and its agents, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Blackboard, its users, or the public.
 
-Higher One collects certain information from visitors and users of the Site including, but not limited to, Internet addresses. This web site navigational information is collected and retained to help diagnose technical problems, to analyze trends, to track users' movements and to administer the Site in order to constantly improve the quality of the Site and our service. Higher One may also track and analyze individual usage and volume statistical information from our visitors and customers.
+Blackboard may use aggregated personal information to determine the demographic composition of our user base and to distribute statistics and general marketplace information about Blackboard. This aggregate information does not identify specific users.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@higherone.com](mailto:privacy@higherone.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Certain non-personal information regarding users is recorded by the standard operation of the Internet servers hosting the Services. This information is primarily used to provide users of the Services with an enhanced online experience. Blackboard may disclose aggregated user statistics in order to describe the Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-**Information Sharing and Disclosure**
+Some features of the Services may be offered in conjunction with a partner company. In order to provide these features, it may be necessary for either you or us to share your personal information with this company. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular feature.
 
-Under certain circumstances, Higher One may disclose collected information to third parties or government agencies where necessary to comply with (i) a formal request or (ii) applicable law including, but not limited to, responding to a subpoena, a judicial proceeding, or a court order.
+Also, please be aware that advertisers or Web sites that are linked to the Services may collect personally identifiable information about you. The information practices of those Web sites linked to the Services are not covered by this Privacy Policy and Blackboard is not responsible for the privacy practices or the content of such Web sites.
 
-Higher One may disclose and transfer the information obtained from you through this Site or the service as part of a merger, acquisition or other sale of its assets or business. In such an event, the users shall be notified of any material changes to the information practices governing your information by email or a prominent notice on the Site, as well as any choices you may have regarding your personal information.
+Blackboard utilizes other companies to provide limited services on its behalf, including but not limited to customer support, web analytics, coordination of mailings and event management. These companies are permitted to access only the information they require to perform those services. Blackboard requires these companies to maintain the confidentiality of any personal information and prohibits them from using the information for any other purpose than the purpose for which it was collected.
 
-When a user elects to transfer money to another Higher One account holder, we request the third party’s name, email, mailing address and banking information such as account and routing number to fulfill the requested transaction. We may also collect your friend’s email address when you invite him or her to visit our Site. We do not use or share this third party personal information for any purposes beyond fulfilling your request.
+Blackboard may share personal information other than Student Data, as defined below, with other parties in connection with any company transaction, such as a merger, sale of all or a portion of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings.  Blackboard’s transfer of Student Data to a third party in the event of a company transaction is governed by our agreements with our educational institutions and applicable law. 
 
-**Service Providers**  
-We reserve the right to disclose information to our service providers where necessary in allowing us to facilitate services to you on our behalf. Higher One uses third party agents, such as financial banking institutions, marketing agencies and prepaid debit card companies, to fulfill your transactional and payment processing needs made on the Site. These third party agents provide services for Higher One in compliance with all the legal requirements of operating in this capacity and are authorized to use your shared personal information specifically and exclusively for fulfilling transactions on our behalf.
+* * *
 
-We also employ the services of a third party agent in hosting our FAQ section.
+##  4\. User options — opt-out 
 
-**Access & Opt-Out**  
-If, at any time after establishing your preferences to receive promotional offers from us you change your mind, you may opt-out of receiving these secondary communications. To opt-out, you must select the "Unsubscribe" link present in each email we send out to our users. You can also unsubscribe by updating your account preferences when you access your personal account information. We reserve the right to send users notification and administrative emails, which are considered a part of your service. To modify any of your account information, access your account through the site and update your preferences. To delete your account information entirely, please contact us [privacy@higherone.com](mailto:privacy@higherone.com).
+Users may opt out of receiving future promotional electronic mailings from Blackboard by following the unsubscribe procedures indicated in the mailing. Individual end users of Blackboard software should contact their educational institution or other organization hosting the software for questions about access to the personal information collected by that institution. Please contact us at the address below if you have other questions about the information you receive from us or the information that we collect from you.
 
-**Cookies**  
-When you visit our Site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to indicate whether you have visited the Site previously.
+* * *
 
-Choices about Cookies: You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) Should you choose to reject all cookies, you will not be able to use services that require you to "sign in," and you may not be able to take full advantage of all of our offerings.
+##  5\. Access to your information 
 
-Our Practices Regarding Cookies: Higher One uses cookies for a number of purposes, including to: access your account information when you "sign in," so that we can provide you with customized content, keep track of preferences you specify while you are using the Site, estimate and report our total audience size and traffic. From time to time, we may make use of pixel tags such as web beacons. Used in combination with cookies, a _Web beacon_ is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site, or in an e-mail and is used to monitor the behavior of the user visiting the Web site, or sending the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, at the same time it can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values.
+Blackboard offers users the ability to correct or change the information collected during registration. Users may change this information at any time and as often as necessary by choosing the "edit personal information" option or other similar functionality offered in the Services. To access or change your personal information, log in to your account through the Services. For data not available through such an account, please contact us at the address listed below.
 
-**Third Party Cookies**  
-We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies and web beacons to help track visitor behavior. These tracking technologies shall not be used to associate individual website visitors to any information. All data collected by such third parties on our behalf is used only to provide us with information on Site usage and is not shared with any other third parties. We do not have access to third party tracking technologies.
+* * *
 
-**Behavioral Targeting / Re-Targeting**  
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+##  6\. Security 
 
-**Third-Party Sites**  
-The Site contains links to other websites. Higher One is not responsible for the privacy practices or the content of these other websites. Users and visitors will have to check the policy statement of these other websites to understand their respective policies. Users and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+Blackboard maintains reasonable administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States and in other jurisdictions in which Blackboard, its subsidiaries and affiliates maintain facilities. Security safeguards may include but are not limited to data encryption, firewalls, data use and access limitations, and physical access controls to buildings. If you have questions about such security, please contact us at the address listed below.
 
-**Testimonials**  
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name.
+* * *
 
-**Social Media Widgets**  
-Our Web site includes Social Media Features, such as the Twitter button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+##  7\. Student data collected during the course of providing services to educational institutions 
 
-**Security and Data Storage**
+Blackboard provides Services to schools and other educational institutions to improve student learning outcomes. Through the provision of these Services, Blackboard collects personally identifiable information from or about students (“Student Data”). We consider such Student Data to be strictly confidential and in general do not use such data for any purpose other than improving and providing our Services to the school or on the school’s behalf. Our collection, use and sharing of Student Data is governed by our contracts with the educational institutions, in the U.S. by the provisions of the Family Educational Rights and Privacy Act (FERPA) and applicable state laws, and by other state, federal, and international laws as applicable, but not by the provisions contained in this Privacy Policy. If you have any questions about reviewing, modifying, or deleting personal information of a student, please contact your educational institution directly.
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the personal information and data under our control. Higher One hosts the Site in a secure server environment that uses a firewall and other industry-standard technology to help prevent interference or access from outside intruders including the use of Secure Socket Layer technology during the transmission of sensitive information. Higher One also requires that unique user names and passwords must be entered each time a user logs on to the Site.
+* * *
 
-**Changes to this Statement**  
-Higher One may update this Statement at any time so please review it frequently. If we make any material changes, we will notify you, by email or by a notice posted on the home page of the Site prior to the changes taking effect.
+##  8\. Children’s privacy 
 
-**Questions**  
-If you have any questions about this Statement or the practices of this Site, please contact us using the address below.
+Blackboard does not knowingly collect any information from children under the age of 13 unless and until a school or educational institution has provided appropriate consent and authorization for a student under 13 to use the Services and for Blackboard to collect information from such student. Please contact us at [privacy@blackboard.com ](mailto:privacy@blackboard.com "privacy@blackboard.com")if you believe we have inadvertently collected personal information from a child under 13 without proper consents so that we may delete such information as soon as possible.
 
-**Customer Service Mailing Address:**  
-Higher One, Inc.  
-115 Munson Street  
-New Haven, CT 06511
+* * *
 
-Your trust in Higher One is essential to us and that is why it is critical that Higher One goes above and beyond what is required of us to assure you and your family that we’re concerned and proactive with your online security. If you have problems or concerns, you can contact Customer Service at anytime (24 hours a day). Log on to your program website, and click on the link for "EasyHelp", where you can find answers to frequently asked questions, or even submit a question or concern.
+##  9\. European Union data protection 
 
-Effective Date: 6/20/2013
+Blackboard complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. For more information regarding Blackboard’s compliance with the U.S.-EU Privacy Shield Principles, please see our **[Privacy Shield Privacy Statement](https://web.archive.org/footer/blackboard-privacy-shield.aspx "Privacy Shield Privacy Statement")** available. 
+
+If you have any questions regarding this policy, please contact: 
+
+General Counsel   
+Blackboard Inc.   
+1111 19th Street, N.W.   
+Washington, DC  20006   
+Phone: 202-303-9372   
+[GeneralCounsel@blackboard.com](mailto:GeneralCounsel@blackboard.com)
+
+* * *
+
+##  10\. Blackboard privacy policy statement changes 
+
+If Blackboard changes this privacy statement, we will post those changes at **[www.blackboard.com/footer/privacy-policy.aspx](https://web.archive.org/footer/privacy-policy.aspx)** , so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using the Services, you signify your assent to the Blackboard Privacy Policy. If you do not agree to this policy, please do not use the Services. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.
+
+Notwithstanding the foregoing, however, with respect to Student Data, as discussed in Section 7, above, our data privacy practices are governed by our agreements with educational institutions and applicable law.  Accordingly, any changes in our data handling practices involving Student Data would have to be in accordance with our agreements with educational institutions and applicable law.
+
+* * *
+
+##  11\. Contact Blackboard 
+
+If you have any questions about this privacy policy, the information that we collect from you, or the Services, please contact us at [privacy@blackboard.com](mailto:privacy@blackboard.com) or write to:
+
+Legal Department   
+Blackboard Inc.   
+1111 19th Street, N.W.   
+Washington, D.C 20006
+
+In the event that you are concerned about how data you have provided Blackboard through the Services has been used, please contact us at one of the addresses listed above. Blackboard takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
+
+This policy was updated on June 23, 2017.
