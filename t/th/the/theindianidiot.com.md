@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224140249id_/http%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629101811id_/http%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,8 +14,8 @@ theindianidiot.com uses cookies to store information about visitors’ preferenc
 
 **DoubleClick DART Cookie**
 
-→ Google, as a third party vendor, uses cookies to serve ads on sarcasmlol.com.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to sarcasmlol.com and other sites on the Internet.  
+→ Google, as a third party vendor, uses cookies to serve ads on theindianidiot.com  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to theindianidiot.com and other sites on the Internet.  
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**
@@ -29,9 +29,9 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 _While each of these advertising partners has their own Privacy Policy for their site.  
 _
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on sarcasmlol.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on theindianidiot.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-sarcasmlol.com has no access to or control over these cookies that are used by third-party advertisers.
+theindianidiot.com has no access to or control over these cookies that are used by third-party advertisers.
 
 **Third Party Privacy Policies**
 
