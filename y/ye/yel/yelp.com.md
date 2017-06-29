@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055242id_/https%3A//www.yelp.com/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000906id_/https%3A//www.yelp.com/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
@@ -107,4 +107,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 Yelp does not disclose your personal information to third parties for the purpose of directly marketing their services to you unless you first agree to such disclosure. If you have any questions regarding this policy, or would like to change your preferences, you may contact us at the address listed above in Section 8.
 
-Copyright © 2004–2016 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp. 
+Copyright © 2004–2017 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp. 
