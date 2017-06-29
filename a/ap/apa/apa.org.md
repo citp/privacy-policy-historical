@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130232402id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143646id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Website Security
 
@@ -12,7 +12,7 @@ About APA
 * [Divisions of APA](https://web.archive.org/about/division/index.aspx)
 * [Advocacy](https://web.archive.org/about/gr/index.aspx)
 * [Council Policy Manual](https://web.archive.org/about/policy/index.aspx)
-* [Scholarships, Grants, and Awards](https://web.archive.org/about/awards/index.aspx)
+* [Grants, Awards and Funding](https://web.archive.org/about/awards/index.aspx)
 
 The American Psychological Association (“APA”) is committed to maintaining your trust, values your privacy and recognizes the sensitivity of your personal information. We work toward protecting the privacy of users of our website. We have carefully crafted this Privacy Policy to address concerns you might have, and to assure you that if you give us personal information, we will treat it carefully and appropriately. This Privacy Policy applies to the website available at [www.apa.org](http://www.apa.org/) and the mobile applications and websites where this Privacy Policy is posted (collectively, the “Sites”). This Privacy Policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
