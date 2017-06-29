@@ -1,0 +1,927 @@
+<!--The following is the downloaded HTML source of the adjust.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629130301id_/https%3A//www.adjust.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
+
+    
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>adjust.com</title>
+    <meta name="description" content="">
+    <meta name="csrf-token" content="">
+    <meta name="viewport" content="width=device-width initial-scale=1">
+
+    <!-- Social media tags -->
+    <meta name="twitter:site" content="@adjustcom">
+    <meta name="twitter:creator" content="@adjustcom">
+    <meta name="twitter:card" content="summary_large_image">
+
+      
+
+      <!-- Meta tag Type -->
+
+          <meta property="og:type" content="website">
+
+      <!-- Meta tag URL -->
+
+      
+          <meta property="og:url" content="https://www.adjust.com/privacy_policy/">
+      
+
+      <!-- Meta tag Title -->
+
+      
+          <meta property="og:title" content="adjust">
+          <meta name="twitter:title" content="adjust">
+      
+
+      <!-- Meta tag Description -->
+
+      
+          <meta property="og:description" content="adjust is the business intelligence platform mobile app marketers love: we combine attribution for advertising sources with advanced in-app analytics and store statistics for unbeatable marketing insights.">
+          <meta name="twitter:description" content="adjust is the business intelligence platform mobile app marketers love: we combine attribution for advertising sources with advanced in-app analytics and store statistics for unbeatable marketing insights.">
+      
+
+      <!-- Meta tag image -->
+
+      
+          <meta property="og:image" content="http://s3.postimg.org/5koe5gxqr/og_banner.png">
+          <meta property="og:image:secure_url" content="http://www.adjust.com/adjust-signet-blue.png">
+          <meta name="twitter:image" content="http://www.adjust.com/adjust-signet-blue.png">
+      
+
+    <link rel="canonical" href="https://www.adjust.com/privacy_policy/">
+
+    <!-- Feeds -->
+    <link rel="alternate" type="application/atom+xml" title="all articles" href="/feeds/all.xml">
+    <link rel="alternate" type="application/atom+xml" title="mobile articles" href="/feeds/mobile.xml">
+    <link rel="alternate" type="application/atom+xml" title="mobile analytics articles" href="/feeds/mobile-analytics.xml">
+    <link rel="alternate" type="application/atom+xml" title="mobile marketing articles" href="/feeds/mobile-marketing.xml">
+    <link rel="alternate" type="application/atom+xml" title="mobile developer articles" href="/feeds/mobile-developer.xml">
+    <link rel="alternate" type="application/atom+xml" title="mobile app marketing articles" href="/feeds/mobile-app-marketing.xml">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/assets/styles-845e4c142edbb53bb452c27b72a06436.css">
+    <link href="/assets/favicon-31e77e293b94a9cef221e33926c821d9.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/application_controller.js"></script>
+
+    <script src="//cdn.zarget.com/98974/156089.js"></script>
+
+    <!-- JS Libraries -->
+    <script src="/assets/vendor/jquery-3a76408663aa270e64e6e6e7d03297f4.js"></script>
+    <script src="/assets/vendor/jquery.ui.1.10.3.min-bcb25eb7582737261c39605a41e5ac1a.js"></script>
+    <script src="/assets/vendor/jquery.colorbox-min-76ddbd68313efe16617e2322e463aa48.js"></script>
+    <script src="/assets/vendor/chosen.jquery.min-9cd000a7873919249a65098e0972684d.js"></script>
+    <script type="text/javascript">
+   (function() {
+
+    // use call below instead when we want to start segmenting Company Site GA
+    callAnalytics();
+
+    var segment;
+    $.ajax({
+       type: 'GET',
+       url: 'https://accounts.adjust.com/current_user',
+       xhrFields: {
+         withCredentials: true
+       },
+       success: (function(data) {
+         var isStaff = /@adjust\.com/.test(data['email']) || data['super_admin'] === true;
+         segment = isStaff ? 'staff' : 'client';
+       }),
+       statusCode: {
+         401: function() {
+           segment = 'new_user'
+         }
+       },
+       error: (function() {
+       }), 
+       complete: (function() {
+         document.cookie = "adjustSegment=" + segment + "; domain=.adjust.com"
+         // uncomment below when we want to start segmenting Company Site GA
+         // callAnalytics(segment);
+       })
+     });
+
+     function callAnalytics(segment) {
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-31613503-4', 'auto');
+       // ga('set', 'dimension1', segment);
+       ga('require', 'linkid', 'linkid.js');
+       ga('send', 'pageview');
+     }
+
+   })();
+
+   function analyticsEventRedirect(url, eventCategory, eventAction, eventLabel) {
+     ga('send', 'event', eventCategory, eventAction, eventLabel, {
+      'transport': 'beacon',
+      'hitCallback': function(){document.location = url;}
+     });
+   }
+
+   (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+   for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+   mixpanel.init("c01e60077cdf1766dc8b24fb375edec0");
+
+
+   var title = document.title;
+   if(/adjust.com – (.*)/.exec(document.title)) {
+     title = /adjust.com – (.*)/.exec(document.title)[1];
+   }
+
+   mixpanel.track('Page open', { "Page": title });
+</script>
+
+
+
+    <script src="/assets/colorbox-54f923d20b6f1a4a843da2b10b46343d.js"></script>
+    <!-- <script src="/assets/vendor/d3.min-df0fd2f8a5f5be11454b8006edafc6e1.js"></script> -->
+    <script src="/assets/vendor/isotope.pkgd.min-6c47c250c4432bd907768d6f15e13543.js"></script>
+    <script src="/assets/vendor/jquery.ba-bbq.min-c0f671cfd0e7584e37823cae1008f497.js"></script>
+    <script src="/assets/vendor/clickoutside.min-3bc62d11b12a9431a62f841989a71669.js"></script>
+    <script src="/assets/vendor/js-cookie-78c27002879a477611e7c6144c004ac5.js"></script>
+
+    <!-- Custom JS -->
+    <script src="/assets/terms_and_conditions.js"></script>
+    <script src="/assets/main.js"></script>
+    <script src="/assets/isotope-a49b812c86e122540518bc8a3d12d564.js"></script>
+    <script src="/assets/flexbox-filter-3354885578b1dba9eb2cd91713435589.js"></script>
+    <script src="/assets/utm-cookie-e33dc0d38306d032ce7b1d92278a1bf0.js"></script>
+    <script src="/assets/form-data-d6a9221291950d9bdd3a4ca7b47b5879.js"></script>
+    <script src="/assets/linkedin-event-b8cc4d3f25b59c0895135f3527af4134.js"></script>
+    <!-- Facebook Pixel -->
+    <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1669350033330527'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1669350033330527&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    <!-- Facebook Pixel -->
+    <script type="text/javascript"> _linkedin_data_partner_id = "41965"; </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script>
+    <!-- Marketo -->
+    <script type="text/javascript">
+$.ajax({
+  url: '//munchkin.marketo.net/munchkin.js',
+  dataType: 'script',
+  cache: true,
+  success: function() {
+    Munchkin.init('108-GAZ-487');
+  }
+});
+</script>
+<script src="//app-sjqe.marketo.com/js/forms2/js/forms2.js"></script>
+<script type="text/javascript">
+
+	var lastButtonClick;
+
+	function colorboxFormCallback(id, trackingParameters, customCallback) {
+
+		return function() {
+
+			if (trackingParameters.adroll_segment && typeof __adroll !== 'undefined') {
+        __adroll.record_user({"adroll_segments": trackingParameters.adroll_segment});
+      }
+			ga('send', 'event', trackingParameters);
+
+      if (customCallback) {
+        customCallback();
+      }
+			$('#cboxClose').hide();
+			$(id+" .form_inputs").hide();
+			$(id+" .form_success").show();
+
+			$.colorbox.resize();
+	  	window.setTimeout($.colorbox.close, 2500);
+      
+			return false;
+		}
+	}
+</script>
+    <!-- Datanyze -->
+    <script>
+   var script = document.createElement('script');
+   script.src = "//tr.datanyze.com/tr.js";
+   script.setAttribute("data-token", "Iax4shSB4QY%3D")
+   document.getElementsByTagName('head')[0].appendChild(script);
+</script><script src="//tr.datanyze.com/tr.js" data-token="Iax4shSB4QY%3D"></script>
+    <!-- Bizible snippet -->
+    <script type="text/javascript" src="//cdn.bizible.com/scripts/bizible.js" async=""></script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+  <body>
+    <div class="top">
+  <header>
+    <div class="logoblock">
+      <a href="/" class="logo" title="adjust.com Homepage">
+        <i class="icon-adjust-logo"></i>
+      </a>
+      <div class="menu-toggle">
+        <i class="icon-menu"></i>
+        Menu
+      </div>
+    </div>
+    <ul class="hide-on-mobile">
+      <li>
+        <a href="https://docs.adjust.com/en/">
+          Documentation
+        </a>
+      </li>
+      <li class="login_status logged_out">
+        <a href="#" class="ol-login-en">
+          Log in
+        </a>
+      </li>
+      <li class="request_demo_top">
+        <a href="/request-a-demo/" class="nav-primary-button signal">
+          Request a demo
+        </a>
+      </li>
+      <li class="dashboard" style="display: none;">
+        <a href="/apps" class="nav-primary-button">
+          Dashboard
+        </a>
+      </li>
+    </ul>
+  </header>
+  <nav class="top-nav">
+    <section class="nav-main">
+      <ul class="show-on-mobile">
+        <li>
+          <a href="https://docs.adjust.com/en/">
+            Documentation
+          </a>
+        </li>
+        <li class="login_status logged_out">
+          <a href="#" class="ol-login-en">
+            Log in
+          </a>
+        </li>
+        <li class="request_demo_top">
+          <a href="/request-a-demo/" class="nav-primary-button signal">
+            Request a demo
+          </a>
+        </li>
+        <li class="dashboard" style="display: none;">
+          <a href="/apps" class="nav-primary-button">
+            Dashboard
+          </a>
+        </li>
+      </ul>
+      <ul>
+        <li><strong>Product</strong></li>
+        <li><a href="/mobile-app-attribution/">Attribution</a></li>
+        <li><a href="/mobile-app-analytics/">Analytics</a></li>
+        <li><a href="/adjust-dashboard/">Dashboard</a></li>
+        <li><a href="/adjust-audience-builder/">Audience Builder</a></li>
+        <li><a href="/mobile-app-tracking-sdk/">adjust SDK</a></li>
+        <li><a href="/mobile-ad-fraud-prevention/">Fraud Prevention</a></li>
+         <li><a href="/purchase-verification/">Purchase Verification</a></li>
+      </ul>
+      <ul>
+        <li><strong>Verticals</strong></li>
+        <li><a href="/marketing-analytics-for-gaming-apps/">Gaming</a></li>
+        <li><a href="/app-marketing-for-finance-apps/">Finance</a></li>
+        <li><a href="/marketing-attribution-for-travel-apps/">Travel</a></li>
+        <li><a href="/app-attribution-for-subscription-services/">Subscription</a></li>
+        <li><a href="/tracking-ecommerce-mobile-marketing-performance/">eCommerce</a></li>
+        <li><a href="/mobile-attribution-marketing-for-agencies/">Agencies</a></li>
+      </ul>
+      <ul>
+        <li><strong>Security</strong></li>
+        <li><a href="/privacy-compliance/">Privacy Compliance</a></li>
+        <li><a href="/data-management/">Data Management</a></li>
+      </ul>
+      <ul>
+        <li><strong>Learn</strong></li>
+        <li><a href="/resources/">Resources</a></li>
+        <li><a href="/glossary/">Glossary</a></li>
+        <li><a href="/webinars/">Webinars</a></li>
+        <li><a href="/case-studies/">Case Studies</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+    </section>
+    <section class="nav-about">
+      <ul>
+        <li><strong>About</strong></li>
+        <li><a href="/team/">Team</a></li>
+        <li><a href="/investors_and_board/">Investors &amp; Board</a></li>
+        <li><a href="/careers/">Careers</a></li>
+        <li><a href="http://jobs.jobvite.com/adjust">Jobs</a></li>
+        <li><a href="/events/">Events</a></li>
+        <li><a href="/media/">Media</a></li>
+        <li><a href="/get_in_touch/">Get in touch</a></li>
+      </ul>
+      <div class="socials">
+  <a href="https://www.facebook.com/adjustcom" target="_blank" title="Follow adjust on facebook"><i class="icon-facebook"></i></a>
+  <a href="https://twitter.com/adjustcom" target="_blank" title="Follow adjust on twitter">
+  <i class="icon-twitter"></i></a>
+  <a href="https://www.linkedin.com/company/adjustcom" target="_blank" title="Follow adjust on Linkedin">
+  <i class="icon-linkedin"></i></a>
+  <a href="https://www.instagram.com/adjustcom/" target="_blank" title="Follow adjust on Instagram">
+  <i class="icon-instagram"></i></a>
+</div>
+    </section>
+  </nav>
+</div>
+
+<div id="imprint" class="mainblock">
+	<div class="inner disclaimer disclaimer_privacy">
+		<h2>Privacy policy</h2>
+		<p><small><a href="/datenschutzerklaerung">Die Datenschutzerklärung ist auch in Deutsch verfügbar.</a></small></p>
+		<p>Last modified: March 3rd, 2017</p>
+		<p><strong><u>Introduction</u></strong></p>
+		<p>adjust GmbH, adjust Inc. and adjust KK (collectively, <strong>“adjust”</strong> or <strong>“We”</strong>) respect your privacy and are committed to protecting it through our compliance with this policy.</p>
+
+		<h3>1. Collection and Use of Data on the Website</h3>
+		<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website <a href="https://www.adjust.com">www.adjust.com</a> (our <strong>“Website”</strong>) and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
+		<p>This policy applies to information we collect:</p>
+		<ul>
+			<li>On this Website.</li>
+			<li>In e-mail, text and other electronic messages between you and this Website.</li>
+			<li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+		</ul>
+
+		<p>It does not apply to information collected by:</p>
+		<ul>
+			<li>us offline or through any other means, including on any other website operated by adjust or any third party; or</li>
+			<li>any third party, including through any application or content (including advertising) that may link to or be accessible from the Website.</li>
+		</ul>
+
+		<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see <a class="scroll-to-el" data-target-el="#policy-changes" href="#">Changes to our Privacy Policy</a>). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
+
+		<h3>Children Under the Age of 13</h3>
+		<p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at adjust GmbH, Saarbrücker Str. 37A, 10405 Berlin, Germany or via email at <a href="mailto:privacy@adjust.com">privacy@adjust.com.</a></p>
+
+		<h3>Information We Collect About You and How We Collect It </h3>
+
+		<p>We collect several types of information from and about users of our Website, including information:</p>
+		<ul>
+			<li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number or any other identifier by which you may be contacted online or offline (<strong>“personal information”</strong>); and/or</li>
+			<li>about your internet connection, the equipment you use to access our Website and usage details.</li>
+		</ul>
+
+		<p>We collect this information:</p>
+		<ul>
+			<li>Directly from you when you provide it to us.</li>
+			<li>Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.</li>
+			<li>From third parties, for example, our business partners.</li>
+		</ul>
+		<h3>Information You Provide to Us.</h3>
+		<p>The information we collect on or through our Website may include:</p>
+
+		<ul>
+			<li>Information that you provide by filling in forms on our Website. This includes information provided at the time of subscribing to our newsletter, subscribing to our service, or requesting further services. We may also ask you for information when you report a problem with our Website or the adjust technology.</li>
+			<li>Records and copies of your correspondence (including e-mail addresses), if you contact us.</li>
+			<li>Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.</li>
+			<li>Details of Website searches and button clicks are also recorded.</li>
+		</ul>
+
+		<p>You also may provide information to be published or displayed (hereinafter, <b>“posted”</b>) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, <b>“User Contributions”</b>). Your User Contributions are posted on and transmitted to others at your own risk. Although you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
+
+		<h3>Information We Collect through Automatic Data Collection Technologies.</h3>
+		<p>As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:</p>
+
+		<ul>
+			<li>Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.</li>
+			<li>Information about your computer and internet connection, including your IP address, operating system and browser type.</li>
+		</ul>
+
+		<p>The information we collect automatically is statistical data and may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>
+
+		<ul>
+			<li>Estimate our audience size and usage patterns.</li>
+			<li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
+			<li>Speed up your searches.</li>
+			<li>Recognize you when you return to our Website.</li>
+		</ul>
+
+		<p>The technologies we use for this automatic data collection may include:</p>
+		<ul>
+			<li><strong>Cookies (or browser cookies).</strong> A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</li>
+			<li><strong>Web Beacons.</strong> Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit adjust, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
+		</ul>
+
+		<h3>Third-party Use of Cookies and Other Tracking Technologies. </h3>
+
+		<p>Some third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p>
+
+		<p>We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see <a class="scroll-to-el" data-target-el="#disclosure-choices" href="#">Choices About How We Use and Disclose Your Information.</a></p>
+
+		<h3>How We Use Your Information</h3>
+		<p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+		<ul>
+			<li>To present our Website and its contents to you.</li>
+			<li>To provide you with information, products or services that you request from us.</li>
+			<li>To fulfill any other purpose for which you provide it.</li>
+			<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
+			<li>To notify you about changes to our Website or any products or services we offer or provide through it and to help us understand how the Website is being used.</li>
+			<li>In any other way we may describe when you provide the information.</li>
+			<li>For any other purpose with your consent.</li>
+		</ul>
+		<p>We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, you may elect to unsubscribe and we will cease using your information in that manner. For more information, see <a class="scroll-to-el" data-target-el="#disclosure-choices" href="#">Choices About How We Use and Disclose Your Information</a>.</p>
+
+		<h3>Disclosure of Your Information </h3>
+		<p>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
+
+		<p>We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+
+		<ul>
+			<li>To our subsidiaries and affiliates.</li>
+			<li>To contractors, service providers and other third parties we use to support our business.</li>
+			<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of adjust’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by adjust about our Website users is among the assets transferred.</li>
+			<li>To fulfill the purpose for which you provide it. </li>
+			<li>For any other purpose disclosed by us when you provide the information.</li>
+			<li>With your consent.</li>
+		</ul>
+
+		<p>We may also disclose your personal information:</p>
+		<ul>
+			<li>To comply with any court order, law or legal process, including to respond to any government or regulatory request.</li>
+			<li>To enforce or apply our <a href="https://www.adjust.com/terms/">terms of use</a> and other agreements, including for billing and collection purposes.</li>
+			<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of adjust, our customers or others.</li>
+		</ul>
+
+		<h3 id="disclosure-choices">Choices About How We Use and Disclose Your Information </h3>
+
+		<p>We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:</p>
+		<ul>
+		<li><b>Tracking Technologies and Advertising.</b> You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.</li>
+		<li><b>Opt-out.</b> You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.</li>
+		<li>We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (”<b>NAI”</b>) on the NAI’s <i>website</i>.</li>
+		</ul>
+
+		<h3>Your California Privacy Rights</h3>
+
+		<p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <a href="mailto:privacy@adjust.com">privacy@adjust.com</a> or write us at: adjust GmbH, Saarbrücker Str. 37A, 10405 Berlin, Germany.</p>
+
+		<p><u><strong>Data Security </strong></u></p>
+
+		<p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. All transactions, regardless of their nature, are encrypted using SSL technology.</p>
+
+		<p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. </p>
+
+		<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.</p>
+
+		<h3>Google Analytics</h3>
+
+		<p>In order to optimize this website, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how you use this website. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States. If the IP anonymization is activated on this website, your IP address will previously be truncated by Google within the EU member states or EEA member states. Only in exceptional cases will the IP address be transferred to Google on a server in the United States and thereafter be truncated. On behalf of the website operator, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. The IP address that was transmitted by your browser will not be combined by Google with any other data. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You may also prevent the collection of the data that was generated by the cookie and that is related to the use of the website (including your IP address) as well as its processing by Google by downloading and installing a browser plugin that is available under the following link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>. Additional information thereto is available at <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de and </a><a href="http://www.google.com/intl/de/analytics/privacyoverview.html">http://www.google.com/intl/de/analytics/privacyoverview.html</a> (general information to Google Analytics and privacy). This Website uses Google Analytics with its extension code “gat._anonymizeIp()“ so that IP addresses will therefore only be processed in a shortened form to prevent persons from being identified.</p>
+
+		<h3>Google AdWords</h3>
+		<p>We as a Google AdWords customer also use Google Conversion Tracking, a web analytics service provided by Google, Inc. (“Google”). Google AdWords places a cookie in your browser (“Conversion Cookie”) if you have accessed our website via a Google ad. These cookies are valid for 30 days. If you access some of our sites and the cookie is still valid, we and Google can recognize that somebody has clicked on the ad and thereafter was transferred to our website. Every AdWords customers uses a different cookie, and therefore it is not possible to track cookies via the websites of AdWords customers. The information obtained via the Conversion Cookie is used in order to assemble conversion reports for AdWords customers. The AdWords customers receive the number of users that have clicked on their ad and have been transferred to a site that includes the Conversion Tracking Tag but they do not receive any information that would allow them to identify the user. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.</p>
+
+		<h3>Optimizely</h3>
+		<p>This website uses Optimizely, a web analytics service provided by Optimizely Inc. ("Optimizely"). Optimizely uses “cookies”, which are text files placed on your computer, to help the website analyze how you use this website. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Optimizely on servers in the United States. If the IP anonymization is activated on this website, your IP address will previously be truncated by Optimizely within the EU member states or EEA member states. Only in exceptional cases will the IP address be transferred to Optimizely on a server in the United States and thereafter be truncated. On behalf of the website operator, Optimizely will use this information for the purpose of evaluating your use of the website and compiling reports on your website activity. The IP address that was transmitted by your browser will not be combined by Optimizely with any other data. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You may also prevent the tracking by Optimizely at any time by following the directions that are available at <a href="http://www.optimizely.com/opt_out">http://www.optimizely.com/opt_out</a>.</p>
+
+		<h3>AdRoll</h3>
+		<p>This websites uses the retargeting technology provided by AdRoll Inc. (“AdRoll”). This technology enables us to directly address advertisements to users that have already shown interest into our products. AdRoll uses cookies in order to analyze the user’s interests and to show the user interest-based advertisements. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. For information on the purpose and extent of data collection and the processing and use of such data by AdRoll, please refer to AdRoll’s privacy policy:  <a href="https://www.adroll.com/about/privacy">https://www.adroll.com/about/privacy</a>.
+
+		</p><h3>Facebook Social Plugins</h3>
+
+		<p>This website uses social plugins (“plugins”) from the social network facebook.com which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identified by one of the Facebook logos or the amendment “Facebook social plugin”. The list and the look of the Facebook social plugins can be viewed here: <a href="https://developers.facebook.com/docs/plugins/">https://developers.facebook.com/docs/plugins/</a>. </p>
+
+		<p>If you access a page on our website that includes such a social plugin, your browser sets up a direct connection to the Facebook servers. Facebook transfers the social plugin’s content directly to your browser which will then integrate it into the website. Therefore we have no influence on the extent of the data that Facebook collects via its social plugins, and thus, can only inform you based on our state of knowledge: Through integration of the plugin, Facebook obtains the information that you have accessed the respective page on our website, even if you are not a registered user of Facebook or are not logged into Facebook. This information as well as your browser’s IP address is transferred to Facebook’s server in the United States and is being stored there. According to Facebook, only anonymized IP addresses are stored from non-registered users in Germany. If you are logged in to Facebook, Facebook can allocate the visit to our website to your Facebook account. Facebook receives such information irrespective of whether you interact with the social plugins or not. If you do interact with the social plugins, e.g. by using the "Like-it-Button" or by posting a commentary, your browser will transfer such information directly to Facebook where it is being stored. Such information will also be published on Facebook and be displayed to your Facebook friends. For information on the purpose and extent of data collection, the further processing and use of such data by Facebook, as well as your rights in this regard and your setting options for the protection of your privacy, please refer to Facebook’s privacy policy:  <a href="http://www.facebook.com/about/privacy">http://www.facebook.com/about/privacy</a></p>
+
+		<p>If you are a Facebook member and do not want Facebook to collect data on you via our website and to combine such data with your Facebook membership data, you need to log off from Facebook before accessing our website. Furthermore, you may also block social plugins by downloading and installing add-ons for your browser, such as the Facebook blocker: <a href="http://webgraph.com/resources/facebookblocker/">http://webgraph.com/resources/facebookblocker/</a></p>
+
+		<h3>Twitter Plugins</h3>
+
+		<p>This website uses social plugins that are provided by Twitter Inc.,1355 Market St, Suite 900, San Francisco, CA 94103, USA, and can be identified by the Twitter logo or e.g. the words “Tweet” or “Twitter”. The plugins enable the user, inter alia, to share an article or a page of this website on Twitter. If you access a website that includes this plugin, your browser sets up a direct connection to Twitter’s servers. Twitter transfers the plugin’s content directly to your browser which will then integrate it into the website. Therefore we have no influence on the extent or content of the data that Twitter collects via its plugin, and thus, can only inform you based on our state of knowledge.</p>
+
+		<p>According to our knowledge, log information such as the user’s IP address, the URL of the referring website, etc, is transmitted to Twitter. Additional information is available in Twitter’s privacy policy: <a href="http://twitter.com/privacy">http://twitter.com/privacy</a></p>
+
+		<h3>LinkedIn Plugins</h3>
+		<p>This website uses plugins which are provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA (“LinkedIn”) which can be identified by the LinkedIn logo of the “Share”-Button. If you access a page on our website that includes this plugin, your browser sets up a direct connection to LinkedIn’s servers. Thereby LinkedIn receives the information that you and your IP address have accessed this website. If you click on the LinkedIn “Share” button while you are logged into your LinkedIn account, you can link the content of this website onto your LinkedIn-Profile, enabling LinkedIn to allocate the visit to our website to your LinkedIn account. We as the website operator do not know the content of the data transferred to LinkedIn or how LinkedIn uses such data. For information on the purpose and extent of data collection, the further processing and use of such data by LinkedIn, as well as your rights in this regard, and your settings options for the protection of your privacy, please refer to LinkedIn’s privacy policy:  <a href="http://www.linkedin.com/legal/privacy-policy">http://www.linkedin.com/legal/privacy-policy</a></p>
+
+		<h3>Vimeo</h3>
+		<p>This website has embedded videos that are hosted by Vimeo LLC, 555 West 18th Street, New York, New York 10011, USA, (“Vimeo”).  If you access a page on our website that includes a video, your browser sets up a direct connection to Vimeo’s servers. Thereby Vimeo receives the information that you and your IP address have accessed this website. Additional information on the data processing by Vimeo is available under the following link: <a href="https://vimeo.com/privacy">https://vimeo.com/privacy</a>. </p>
+
+		<h3 id="policy-changes">Changes to Our Privacy Policy </h3>
+		<p>It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.</p>
+
+		<h3>Contact Information </h3>
+		<p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>
+		<p>
+		adjust GmbH<br>
+		Saarbrücker Str. 37A<br>
+		10405 Berlin<br>
+		Germany
+		</p>
+		<p>or by sending an email to <a href="mailto:privacy@adjust.com">privacy@adjust.com</a> at any time.</p>
+
+		<h3>2. Collection and Use of Data via adjust’s technology</h3>
+
+		<p>adjust provides mobile analytics and attribution services to mobile app providers. In connection with these services, we may collect, process and use certain non-personal data from the users of these mobile apps, as further described hereafter.</p>
+
+		<p>Clients who have <a href="/terms/#child-directed">child-directed apps</a> must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Clients must agree to the section in our Terms and Conditions accordingly.</p>
+
+		<p>Collection and use of non-personal data</p>
+
+		<p>Our technology may collect some of the following non-personal data: </p>
+		<ul>
+			<li>Anonymized (hashed) IP address</li>
+			<li>Anonymous identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar identifiers</li>
+			<li>Installation and first opening of an app on your mobile device</li>
+			<li>User interactions within an app (e.g. in-app purchases, registration)</li>
+			<li>Information regarding which advertisements the user has seen or clicked on</li>
+		</ul>
+
+		<p>adjust uses the collected data for providing mobile analytics and attribution services to its customers, and thereby allows its customers to track marketing performance, to match users to their campaigns and to understand how they engage with the customer’s app. Furthermore, adjust enables its customers to track the user’s interactions in their apps in real time in order to see how their users engage over their full lifetime. The collected non-personal data is therefore used in order to analyze the performance of marketing campaigns and to provide performance reports to adjust’s customers. adjust does not combine the collected non-personal data with any other data that would enable adjust to personally identify the user.</p>
+
+		<h3>Opt-Out</h3>
+		<p>Any information collected via the adjust technology is owned and controlled by the individual customer who has implemented the adjust technology into their mobile app. It is not technically possible for us to disable tracking for an individual user. Users who want to opt out of being tracked by a particular publisher, ad network, or by an advertiser’s ads therefore must contact these companies directly to opt out.</p>
+	</div>
+</div>
+
+
+<div style="display: none;">
+  <div class="popup-box colorbox-default" id="login-box-en">
+    <h2>Sign in</h2>
+    <div class="alert alert-error" style="display: none;">Invalid email or password.</div>
+    <div class="id_content loginforms">
+
+      <form accept-charset="UTF-8" action="https://accounts.adjust.com/users/sign_in.json" data-locale="en" class="simple_form new_user Bizible-Exclude" id="new_user" method="post" novalidate="novalidate">
+        <div style="margin:0;padding:0;display:inline">
+          <input name="utf8" type="hidden" value="✓">
+        </div>
+        <div class="form_inputs">
+          <div class="input email optional user_email">
+            <label class="email optional control-label" for="user_email">Email</label>
+            <input autofocus="autofocus" class="string email optional" id="user_email" name="user[email]" type="email" value="">
+          </div>
+          <div class="input password optional user_password">
+            <label class="password optional control-label" for="user_password">Password</label>
+            <input class="password optional" id="user_password" name="user[password]" type="password">
+            <a class="password_forgot_link ol-password-recovery-en" href="#">Forgot your password?</a>
+          </div>
+          <div class="input boolean optional user_remember_me">
+            <input name="user[remember_me]" type="hidden" value="0">
+            <input class="boolean optional" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1">
+            <label class="boolean optional control-label checkbox" for="user_remember_me">
+              Remember me
+            </label>
+          </div>
+        </div>
+
+        <div class="form_actions">
+          <input class="largebtn" name="commit" type="submit" value="Sign in">
+          <span class="cboxclose cbox_close_text">cancel</span>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div style="display: none;">
+  <div class="popup-box colorbox-default" id="password-recovery-en">
+    <h2>Password recovery</h2>
+    <div class="alert alert-error" style="display: none;">Invalid email or password.</div>
+    <div class="id_content loginforms">
+
+      <form accept-charset="UTF-8" action="https://accounts.adjust.com/users/password" class="simple_form password_recovery_form Bizible-Exclude" method="post" novalidate="novalidate" data-locale="en">
+        <div style="margin:0;padding:0;display:inline">
+          <input name="utf8" type="hidden" value="✓">
+        </div>
+        <div class="form_inputs">
+          <div class="input email optional user_email">
+            <label class="email optional control-label" for="user_email">Email</label>
+            <input autofocus="autofocus" class="string email optional" id="user_email" name="user[email]" type="email" value="">
+          </div>
+        </div>
+
+        <div class="form_actions">
+          <input class="largebtn" name="commit" type="submit" value="Submit">
+          <a href="#" class="ol-login-en cbox_close_text cboxElement">back</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div style="display: none;">
+  <div class="popup-box colorbox-default" id="password-recovery-success-en">
+    <h3>If you are registered, you'll receive an email shortly.</h3>
+  </div>
+</div>
+
+
+
+<div class="colorbox-hider">
+	<div class="default-marketo-form" id="marketo-form-1074">
+		<div class="colorbox-content-wrapper">
+			<div class="form_inputs">
+				<h2 class="lessmargin">Request a demo</h2>
+				<p class="center">See how adjust can help your team reach your marketing goals in record time.</p>
+				<br>
+				<form id="mktoForm_1074"></form>
+			</div>
+			<div class="form_success" style="display:none">
+				<h2 class="lessmargin">We'll be in touch</h2>
+				<p class="center">Thanks for requesting a demo! We'll be in touch shortly.</p>
+			</div>
+		</div>		
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		MktoForms2.loadForm("//app-lon05.marketo.com", "108-GAZ-487", 1074, function(form) {
+			$('#marketo-form-1074 select').chosen();
+      $("#marketo-form-1074 select").chosen({
+        disable_search_threshold: 10,
+      });
+      var formEl = form.getFormElem();
+      var formLabels = formEl.find('label');
+      var mktoToken = Cookies.get('_mkto_trk');
+      if (mktoToken) {
+        requestMarketoLead(mktoToken);
+      };
+      // Requests lead information from the Marketo Lead API (via U2)
+      function requestMarketoLead(mktoToken) {
+        $.ajax({
+          url: "https://u2.adjust.com/leads?token=" + encodeURIComponent(mktoToken) + "&fields=firstName,lastName,company,phone,email,App_Published__c,title",
+        }).done(function(response) {
+          prefillKnownFields(response)
+        }).fail(function() {
+          console.log( "Request error" );
+        });
+      }
+      // Loops through each form field and applies the existing prefill data, when available
+      function prefillKnownFields(response) {
+        for (i = 0; i <= formLabels.length; i++ ) {
+          var tKey, fieldData, $field;
+          var $labelEl = $(formLabels[i])
+          var labelId = $labelEl.attr('for')
+          var tField = formData(labelId);
+          if (tField) {
+            tKey = tField['fieldKey'];
+            fieldData = response[tKey];
+            if (fieldData) {
+              $field = $("#mktoForm_1074 :input[name='"+ labelId +"']");
+              if ($field) {
+                $field.val(fieldData);
+                if ($field.is('select')) {
+                  $("#mktoForm_1074 option[value=" + fieldData + "]")
+                  .attr("selected", true).siblings()
+                  .removeAttr("selected");
+                  $field.trigger("chosen:updated");
+                }
+              }
+            }
+          }
+        }
+      };
+      form.onValidate(function(){
+        var vals = form.vals();
+        var parseName = function(name) {
+          return name.split(/(\s|-)+/).map(function( v ,i ){ return v.charAt(0).toUpperCase()+ v.slice(1).toLowerCase(); }).join('')
+        };
+        if (vals.FirstName && vals.LastName) {
+          form.setValues({
+            'FirstName': parseName(vals.FirstName),
+            'LastName': parseName(vals.LastName),
+          });
+        }
+      });
+      form.onSubmit(function() {
+        
+        
+          fbq('track', 'Lead', { 
+            content_category: 'demo_requested',
+            content_name: ''
+          });
+        
+        
+          goog_report_conversion();
+        
+      });     
+      form.onSuccess(colorboxFormCallback(
+        "#marketo-form-1074",
+        {"eventCategory": "form_submit",
+        "eventAction": "demo_requested",
+        "eventLabel": "",
+        "adroll_segment": ""},
+        function() {
+          UtmCookie.resetCookie();
+          ;
+        })
+      );
+		});
+	});
+</script>
+
+<footer>
+	<div class="inner">
+		<div class="footer-nav">
+			<ul class="hide-on-mobile">
+				<li>Product</li>
+				<li><a href="/mobile-app-attribution/">Attribution</a></li>
+				<li><a href="/mobile-app-analytics/">Analytics</a></li>
+				<li><a href="/adjust-dashboard/">Dashboard</a></li>
+				<li><a href="/mobile-app-tracking-sdk/">adjust SDK</a></li>
+				<li><a href="/mobile-ad-fraud-prevention/">Fraud Prevention</a></li>
+			</ul>
+      <ul class="hide-on-mobile">
+        <li>Verticals</li>
+        <li><a href="/marketing-analytics-for-gaming-apps/">Gaming</a></li>
+        <li><a href="/app-marketing-for-finance-apps/">Finance</a></li>
+        <li><a href="/marketing-attribution-for-travel-apps/">Travel</a></li>
+        <li><a href="/app-attribution-for-subscription-services/">Subscription</a></li>
+        <li><a href="/tracking-ecommerce-mobile-marketing-performance/">eCommerce</a></li>
+        <li><a href="/mobile-attribution-marketing-for-agencies/">Agencies</a></li>
+      </ul>
+			<ul class="hide-on-mobile">
+				<li>Security</li>
+				<li><a href="/privacy-compliance/">Privacy Compliance</a></li>
+				<li><a href="/data-management/">Data Management</a></li>
+			</ul>
+			<ul class="hide-on-mobile">
+				<li>Learn</li>
+				<li><a href="/resources/">Resources</a></li>
+				<li><a href="/webinars/">Webinars</a></li>
+				<li><a href="/case-studies/">Case Studies</a></li>
+				<li><a href="/blog/">Blog</a></li>
+			</ul>
+			<ul class="hide-on-mobile">
+				<li>About</li>
+				<li><a href="/team/">Team</a></li>
+				<li><a href="/investors_and_board/">Investors &amp; Board</a></li>
+				<li><a href="/careers/">Careers</a></li>
+				<li><a href="http://jobs.jobvite.com/adjust">Jobs</a></li>
+				<li><a href="/media/">Media</a></li>
+				<li><a href="/get_in_touch/">Get in touch</a></li>
+			</ul>
+			<ul>
+				<li>Terms</li>
+				<li><a href="/terms/">Terms and conditions</a></li>
+				<li><a href="/imprint/">Impressum</a></li>
+				<li><a href="/privacy_policy/">Privacy policy</a></li>
+			</ul>
+		</div>
+		<div class="nav-about">
+			<div class="socials">
+  <a href="https://www.facebook.com/adjustcom" target="_blank" title="Follow adjust on facebook"><i class="icon-facebook"></i></a>
+  <a href="https://twitter.com/adjustcom" target="_blank" title="Follow adjust on twitter">
+  <i class="icon-twitter"></i></a>
+  <a href="https://www.linkedin.com/company/adjustcom" target="_blank" title="Follow adjust on Linkedin">
+  <i class="icon-linkedin"></i></a>
+  <a href="https://www.instagram.com/adjustcom/" target="_blank" title="Follow adjust on Instagram">
+  <i class="icon-instagram"></i></a>
+</div>
+			<a href="/" class="logo">
+				<i class="icon-adjust-logo"></i>
+			</a>
+		</div>
+	</div>
+</footer>
+    <script src="https://www.linkedin.com/autofill/js/autofill.js" type="text/javascript" async=""></script>
+    <p style="display: none">v2.0</p>
+    
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+
+    
+<script>
+(function trackOutbounds() {
+	
+	var hitCallbackHandler = function(url,win) {
+	    if (win) {
+		    window.open(url, win);
+	    } else {
+        	window.location.href = url;
+        }
+    };
+    
+    var addEvent = function(el, eventName, handler) {
+    
+		if (el.addEventListener) {
+			el.addEventListener(eventName, handler);
+			} else {
+			el.attachEvent('on' + eventName, function(){
+				handler.call(el);
+		    });
+		}
+	}
+	
+	if (document.getElementsByTagName) {
+		var el = document.getElementsByTagName('a');
+		var getDomain = document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0];
+		
+		// Look thru each a element
+		for (var i=0; i < el.length;i++) {
+		
+			// Extract it's href attribute
+			var href = (typeof(el[i].getAttribute('href')) == 'string' ) ? el[i].getAttribute('href') : '';
+			
+			// Query the href for the top level domain (xxxxx.com)
+			var myDomain = href.match(getDomain);
+			
+			// If link is outbound and is not to this domain	
+			if ((href.match(/^https?\:/i)  && !myDomain) || href.match(/^mailto\:/i)) {
+			
+				// Add an event to click
+				addEvent(el[i],'click', function(e) {
+					var url = this.getAttribute('href'), win = (typeof(this.getAttribute('target')) == 'string') ? this.getAttribute('target') : '';
+							
+							console.log ("add event", url);
+					// Log even to Analytics, once done, go to the link
+					ga('send', 'event', 'outbound', 'click', url,
+						{'hitCallback': hitCallbackHandler(url,win)},
+						{'nonInteraction': 1}
+					);
+					
+					e.preventDefault();
+				});
+			}
+		}
+	}
+})();
+</script>
+
+    
+<script type="text/javascript">
+adroll_adv_id = "Z7ZCPHCVLVG3JC4TH4Y463";
+adroll_pix_id = "HUAW45RFI5HO3BEIQEBX3H";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+<!-- Google Code for Requested a demo Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+ /* <![CDATA[ */
+ goog_snippet_vars = function() {
+   var w = window;
+   w.google_conversion_id = 966472338;
+   w.google_conversion_label = "Yb3RCKqzrGgQkuXszAM";
+   w.google_remarketing_only = false;
+ }
+ // DO NOT CHANGE THE CODE BELOW.
+ goog_report_conversion = function(url) {
+   goog_snippet_vars();
+   window.google_conversion_format = "3";
+   var opt = new Object();
+   opt.onload_callback = function() {
+   if (typeof(url) != 'undefined') {
+     window.location = url;
+   }
+ }
+ var conv_handler = window['google_trackConversion'];
+ if (typeof(conv_handler) == 'function') {
+   conv_handler(opt);
+ }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+    <script type="text/javascript">
+  if (Cookies.get('adjustSegment') != 'client' && Cookies.get('adjustSegment') != 'staff') {
+    (function(e,a){
+        var t,r=e.getElementsByTagName("head")[0],c=e.location.protocol;
+        t=e.createElement("script");t.type="text/javascript";
+        t.charset="utf-8";t.async=!0;t.defer=!0;
+        t.src=c+"//front.optimonk.com/public/"+a+"/js/preload.js";r.appendChild(t);
+    })(document,"14149");
+  }
+</script>
+    <script src="/assets/unslider.min-f4cb3a55c9be769b5473e779f541846a.js"></script>
+  
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
