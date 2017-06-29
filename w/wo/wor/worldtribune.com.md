@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202123528id_/http%3A//www.worldtribune.com/about-2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629161006id_/http%3A//www.worldtribune.com/about-2/privacy) for the most accurate reproduction.*
 
 # Privacy – World Tribune: Window on the Real World
 
@@ -57,3 +57,14 @@ P.O. Box 1034
 Springfield, VA 22151  
 USA  
 world@worldtribune.com
+
+* * *
+
+  * [**ABOUT**](http://www.worldtribune.com/about/)
+  * [**YOUR EXCLUSIVE INTELLIGENCE BRIEFING**](http://www.worldtribune.com/Your%20exclusive%20intelligence%20briefing/)
+  * **[FREE HEADLINE ALERTS](http://www.worldtribune.com/sign-daily-alerts/)**
+  * [**SUBSCRIPTION, ADVERTISING INQUIRIES**](mailto:sales@worldtribune.com)
+
+
+
+___________________________________________________________
