@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the flukenetworks.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124021220id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flukenetworks.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629035705id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head>
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><!--<![endif]--><head>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <link rel="shortcut icon" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/favicon_0_0.ico" type="image/vnd.microsoft.icon">
+<meta name="ps-key" content="1805-58b8e43945e86b24009d412a">
+<meta name="ps-country" content="US">
+<meta name="ps-language" content="en">
 <script type="text/javascript">(function() {
 var _fbq = window._fbq || (window._fbq = []);
 if (!_fbq.loaded) {
@@ -31,22 +34,32 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l60es&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l60es&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 </noscript>
+<meta name="description" content="Learn about Fluke Network privacy policies. Our privacy policy applies to information we collect about you when you use our devices, tools, websites, mobile applications and other online products and services.">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.flukenetworks.com/about/privacy">
 <link rel="shortlink" href="http://www.flukenetworks.com/node/216860">
+<meta property="og:site_name" content="www.flukenetworks.com">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.flukenetworks.com/about/privacy">
+<meta property="og:title" content="Privacy Policy">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.flukenetworks.com/about/privacy">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="msvalidate.01" content="80CDC8FF61D5429BCB36AD17EECF5B84">
+<meta name="google-site-verification" content="7Kl9W7RgCrqmY7uW-iOnaiQ8-1pjBuShBH5xi2_8s_c">
   <title>Privacy Policy | www.flukenetworks.com</title>
   <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_xXTPxQHlAuXE1nBsifN9c77bWhZ1VrquybKQXdA0cx0.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_mvDzrvEkv9d4AxYeYf0I0mv86Yx1Bq7FFu0k-OefGxQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_71AMTW486IoIndIrJRuEyOibOex3RgHAKfVEw7Er4UY.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_TF10X8b-oiDg7bL-OMvDn-thtNiuGLQZgrVtiGNt1-c.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_p8TJq3NtlItZChWn_o1oVMcpS0_A0JfWFXVyiifHbXg.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_7Nyty7wqStmKrPfbV_VBJMPq4Tmg-OK1tT0rvSjXtxY.css" media="screen">
   <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_BGjOCcH1oLfeJTzqIwfqhDyhUETQc5ObM0J7guv1lLs.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_X3O8y1YYJAOGzU2EMQkSeBSX4zbHOctigEpUVR1rRJk.js"></script>
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/jquery-ui.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -54,7 +67,7 @@ window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_updat
 //--><!]]>
 </script>
 <script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_zInzcNPpZdp4003c50VL78MN6zb6-J-QwWFtixrgShk.js"></script>
-<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_gUrTpTAskLCcytUqryD8NdzilvsqvDQY-CkZGT3-gOQ.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_7rFlMtdOO5oaCQ5WCdRaKoEMIlZVn7vIyqG8d9-VX-U.js"></script>
 <script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_4aITJvrnEVmDH-N-G2VXFgBW9bxUNdoUrSTG5Rz_CZQ.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -62,14 +75,14 @@ window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_updat
 //--><!]]>
 </script>
 <script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_E7aezUrEggopCHjELRn8PFGz3zTj4Lf5ofSbnwkEDF0.js"></script>
-<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_kUwLrE3etUWQPL9ntdPp04qkkKaD105F0nYR-Lph2gY.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_MDKNBK9WDW3zHm2jfyOd5HYCh8cEsiBntAivwPHX8tY.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_subtheme_fnet","theme_token":"EDLRWKP-1O0oOTTmN6n1lIgUxER1JPU8URaKGYP8XNo","js":{"0":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jquery.ui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/js\/scripts.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_downloads_updates.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_helper.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/distributor_group_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/tabs.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/views_filters_reset.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/where2buy_page_1.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/wtb_countries_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery-migrate-1.2.1.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery.noconflict.js":1,"sites\/all\/modules\/themekey\/themekey_redirect\/themekey_redirect.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/javascript\/cio_brief.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/regions.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.mousewheel-3.0.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.easing-1.3.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jcarousellite_1.0.1.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jquery.jcarousel.min.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/cookie-handling.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/google-analytics-event-binding.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/flukenetworks.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/css\/fextranet.css":1,"modules\/field\/theme\/field.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/css\/fnet_ma.css":1,"modules\/node\/node.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_assets\/product_assets.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_position_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_group_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/product_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/tabs.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/where2buy_page.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/wtb_countries_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotions\/promotions.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/flukenetworks.com\/modules\/custom\/digital_asset\/digital_asset.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event_occurrence.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_postion_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotion_fulfillment\/promotion_fulfillment.css":1,"sites\/flukenetworks.com\/modules\/custom\/doc_links\/doc_links.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/css\/cio_brief.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_header_footer\/css\/fnet_header_footer.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.base.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.styles.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/homepage.view.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/solutions.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/marketo.forms.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_fnet_files\/adaptivetheme_subtheme_fnet.default.layout.css":1}},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"0"}}},"ThemeKeyRedirect":{"checkOnce":false,"redirectOnce":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/search\/node":true,"\/about\/privacy?regLang=EN-US":true},"responsive_dropdown_menus":{"menu-extranet":"Extranet","features":"Features","menu-microsite-linkware-live-top":"LinkWare Live Main Menu","main-menu":"Main menu","management":"Management","menu-msite-fnet-logo":"Microsite: Fluke Networks Logo","menu-msite-linksolutions-front":"Microsite: LinkSolutions Front","menu-msite-linksolutions-pagenav":"Microsite: LinkSolutions Homepage Sections","menu-msite-linksolutions-mobile":"Microsite: LinkSolutions Mobile","menu-msite-linksolutions-topbtns":"Microsite: LinkSolutions Top Buttons","menu-msite-truview-buttons":"Microsite: TruView Live Buttons","menu-msite-truviewlive-sections":"Microsite: TruView Live Homepage Sections","menu-msite-truviewlive-mobile":"Microsite: TruView Live Mobile","menu-msite-truview-topnav":"Microsite: TruView Live Topnav","navigation":"Navigation","extranet":"Sales Insider Extranet","secondary-menu":"Secondary menu","menu-social-media":"Social Media","user-menu":"User Menu"},"adaptivetheme":{"adaptivetheme_subtheme_fnet":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_subtheme_fnet","theme_token":"SMOkt4FiZ6XMvGJb2vg0QDnmf632FcVzJoOOhyBHivg","js":{"0":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jquery.ui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/js\/scripts.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_downloads_updates.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_helper.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/distributor_group_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/tabs.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/views_filters_reset.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/where2buy_page_1.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/wtb_countries_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery-migrate-1.2.1.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery.noconflict.js":1,"sites\/all\/modules\/themekey\/themekey_redirect\/themekey_redirect.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/javascript\/cio_brief.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/regions.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.mousewheel-3.0.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.easing-1.3.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jcarousellite_1.0.1.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jquery.jcarousel.min.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/cookie-handling.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/google-analytics-event-binding.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/flukenetworks.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/css\/fextranet.css":1,"modules\/field\/theme\/field.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/css\/fnet_ma.css":1,"modules\/node\/node.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_assets\/product_assets.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_position_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_group_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/product_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/tabs.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/where2buy_page.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/wtb_countries_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotions\/promotions.css":1,"sites\/flukenetworks.com\/modules\/custom\/russia_data_storage\/css\/russia_data_storage.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/flukenetworks.com\/modules\/custom\/digital_asset\/digital_asset.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event_occurrence.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_postion_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotion_fulfillment\/promotion_fulfillment.css":1,"sites\/flukenetworks.com\/modules\/custom\/doc_links\/doc_links.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/css\/cio_brief.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_header_footer\/css\/fnet_header_footer.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.base.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.styles.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/homepage.view.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/solutions.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/marketo.forms.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_fnet_files\/adaptivetheme_subtheme_fnet.default.layout.css":1}},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"0"}}},"ThemeKeyRedirect":{"checkOnce":false,"redirectOnce":false},"urlIsAjaxTrusted":{"\/site-search":true,"\/search\/node":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"responsive_dropdown_menus":{"menu-extranet":"Extranet","features":"Features","menu-microsite-linkware-live-top":"LinkWare Live Main Menu","main-menu":"Main menu","management":"Management","menu-msite-fnet-logo":"Microsite: Fluke Networks Logo","menu-msite-linksolutions-front":"Microsite: LinkSolutions Front","menu-msite-linksolutions-pagenav":"Microsite: LinkSolutions Homepage Sections","menu-msite-linksolutions-mobile":"Microsite: LinkSolutions Mobile","menu-msite-linksolutions-topbtns":"Microsite: LinkSolutions Top Buttons","menu-msite-truview-buttons":"Microsite: TruView Live Buttons","menu-msite-truviewlive-sections":"Microsite: TruView Live Homepage Sections","menu-msite-truviewlive-mobile":"Microsite: TruView Live Mobile","menu-msite-truview-topnav":"Microsite: TruView Live Topnav","navigation":"Navigation","extranet":"Sales Insider Extranet","secondary-menu":"Secondary menu","menu-social-media":"Social Media","user-menu":"User Menu"},"adaptivetheme":{"adaptivetheme_subtheme_fnet":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
 //--><!]]>
 </script>
   <!--[if lt IE 9]>
-<script src="http://www.flukenetworks.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?oh0gul"></script>
+<script src="http://www.flukenetworks.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?os9zr9"></script>
 <![endif]-->
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-216860 node-type-page-reg region-us language-en i18n-en site-name-hidden atr-7.x-3.x atv-7.x-3.2">
@@ -89,7 +102,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             <div id="branding" class="branding-elements clearfix">
 
                               <div id="logo">
-                  <a href="/"><img class="site-logo" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/flukenetworks_logo.gif" alt="www.flukenetworks.com"></a>                </div>
+                  <a href="/"><img class="site-logo" typeof="foaf:Image" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/FNET_logo_0.png" alt="www.flukenetworks.com"></a>                </div>
               
                               <!-- start: Site name and Slogan -->
                 <div class="element-invisible h-group" id="name-and-slogan">
@@ -114,16 +127,22 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       </ul>
 </div>
 </div>
-  </div></div><div id="block-search-form" class="block block-search no-title even last block-count-2 block-region-header block-form" role="search"><div class="block-inner clearfix">  
+  </div></div><div id="block-views-exp-main-site-search-page" class="block block-views no-title even last block-count-2 block-region-header block--exp-main-site-search-page"><div class="block-inner clearfix">  
   
-  <div class="block-content content"><form action="/about/privacy?regLang=EN-US" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form" id="edit-search-block-form--2-wrapper">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+  <div class="block-content content"><form action="/site-search" method="get" id="views-exposed-form-main-site-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-term-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-term">
+            Search          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-term" id="edit-term-wrapper">
+ <input type="text" id="edit-term" name="term" value="" size="30" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Z_XIAX6hpVuP772V5kONFQv2YFWXVyOmKoA0WjvxA_M">
-<input type="hidden" name="form_id" value="search_block_form">
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-main-site-search" name="" value="Search" class="form-submit">    </div>
+      </div>
 </div>
 </div></form></div>
   </div></div></div></div>          
@@ -324,7 +343,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     
           <div id="breadcrumb-wrapper">
         <div class="container clearfix">
-          <div id="breadcrumb" class="clearfix"><nav class="breadcrumb-wrapper clearfix" role="navigation" aria-labelledby="breadcrumb-label"><h2 id="breadcrumb-label" class="element-invisible">You are here</h2><ol id="crumbs" class="clearfix"><li class="crumb crumb-first"><a href="/">Home</a></li><li class="crumb crumb-last"><span class="crumb-separator"> » </span><span class="crumb-title">Privacy Policy</span></li></ol></nav></div>        </div>
+          <div id="breadcrumb" class="clearfix"><nav class="breadcrumb-wrapper clearfix" role="navigation" aria-labelledby="breadcrumb-label"><h2 id="breadcrumb-label" class="element-invisible">You are here</h2><ol id="crumbs" class="clearfix"><li class="crumb crumb-first"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="/">Home</a></span></li><li class="crumb crumb-last"><span class="crumb-separator"> » </span><span class="crumb-title">Privacy Policy</span></li></ol></nav></div>        </div>
       </div>
     
     
@@ -346,16 +365,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                   <div id="content">
                     <div id="block-system-main" class="block block-system no-title odd first last block-count-4 block-region-content block-main">  
   
-  <article id="node-216860" class="node node-page-reg article odd node-lang-en node-full clearfix" role="article">
+  <article id="node-216860" class="node node-page-reg article odd node-lang-en node-full clearfix" about="/about/privacy" typeof="sioc:Item foaf:Document" role="article">
   
   
   
   <div class="node-content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="OneLinkNoTx"><h2 align="center">
-	FLUKE PRIVACY POLICY</h2>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="OneLinkNoTx"><h2 align="center">FLUKE PRIVACY POLICY</h2>
 
 <p>
-	<strong>Last Updated: February 1, 2016</strong></p>
+	<strong>Last Updated:  July 11, 2016</strong></p>
 
 <p>
 	<a href="#collection">Collection of Information</a><br>
@@ -367,18 +385,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<a href="#choices">Your Choices</a><br>
 	<a href="#contact">Contact Us</a></p>
 
-<p>
-	This Privacy Policy explains how information about you is collected, used, disclosed and otherwise processed by Fluke Corporation and its subsidiaries and affiliated companies acting as a data controller for the purpose of applicable data protection law (collectively, “we”, “our” or “us”).</p>
+<p>This Privacy Policy explains how information about you is collected, used, disclosed and otherwise processed by Fluke Corporation and its subsidiaries and affiliated companies acting as a data controller for the purpose of applicable data protection law (collectively, “we”, “our” or “us”).  
+
+</p>
 
 <p style="
-">
-	This Privacy Policy applies to information we collect about you when you use our devices, tools, websites, mobile applications and other online products and services provided by us (collectively, the “Services”), or when you otherwise interact with us. Some of this information may be personal information as it may be information about you.</p>
+">This Privacy Policy applies to information we collect about you when you use our devices, tools, websites, mobile applications and other online products and services provided by us (collectively, the “Services”), or when you otherwise interact with us. Some of this information may be personal information as it may be information about you.</p>
 
 <p>
 	<strong>Where we need your consent to the collection, use, disclosure, transfer or other processing of your personal information (as described in this Privacy Policy), you provide such consent by accessing and using the Services. If you do not consent to such processing then do not further access or use the Services. Where we need a specific consent to a particular form of processing, such as the collection of information about your location or the use of your information for marketing, we will obtain such consent in the manner described in this Privacy Policy or as otherwise required by law.</strong></p>
 
-<p>
-	We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the “Last Updated” date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or by sending you a notification). We encourage you to review this Privacy Policy whenever you access the Services to stay informed about our information handling practices and the ways you can help protect your privacy. Your continued use of the Services after such changes have been notified will constitute your consent to those changes.</p>
+<p>We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the “Last Updated” date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or by sending you a notification).  We encourage you to review this Privacy Policy whenever you access the Services to stay informed about our information handling practices and the ways you can help protect your privacy. Your continued use of the Services after such changes have been notified will constitute your consent to those changes. </p>
 
 <br>
 
@@ -393,14 +410,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		<h3 style="font-weight:bold;margin-top: 0px;">
 			Information You Provide to Us</h3>
 
-		<p>
-			We collect information, including personal information, you provide directly to us in connection with the Services. For example, we collect information when you create an online/mobile application account and/or profile, use or access our Services including any interactive areas of our Services, request or purchase Services, fill out a form, provide us with your business card or other contact information, participate in a contest or promotion, complete a survey, sign up to receive one of our newsletters, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include, but are not limited to, your name, email address, password, postal address, phone number, company name and contact details, job function, job title, industry sector, names and contact information of individuals you work with, work related records and reports, device and tool information related to your account (e.g., serial number and date purchased), payment information, service activation codes, photographs, videos, diagrams, notes, and any other information you choose to provide.</p>
+		<p>We collect information, including personal information, you provide directly to us in connection with the Services.  For example, we collect information when you create an online/mobile application account and/or profile, use or access our Services including any interactive areas of our Services, request or purchase Services, fill out a form, provide us with your business card or other contact information, participate in a contest or promotion, complete a survey, sign up to receive one of our newsletters, make a purchase, communicate with us via third party social media sites, request customer support or otherwise communicate with us.  The types of information we may collect include, but are not limited to, your name, email address, password, postal address, phone number, company name and contact details, job function, job title, industry sector, names and contact information of individuals you work with, work related records and reports, device and tool information related to your account (e.g., serial number and date purchased), payment information, service activation codes, photographs, videos, diagrams, notes, and any other information you choose to provide. </p>
 
-		<h3 style="font-weight:bold;">
-			Information We Collect Automatically When You Use the Services</h3>
+		<h3 style="font-weight:bold;">Information We Collect Automatically When You Use the Services </h3>
 
-		<p>
-			When you access or use our Services, we may automatically collect information, such as:</p>
+		<p>When you access or use our Services, we may automatically collect information, such as:</p>
 
 		<ul>
 			<li>
@@ -410,30 +424,26 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			<li>
 				<strong>Network Information: </strong> We may collect information about your network, such as information about devices, nodes, configurations, connection speeds and network and application performance.</li>
 			<li>
-				<strong>Location Information: </strong> We may collect information about the location of your mobile device or Fluke device or tool each time you access or use one of our mobile applications, devices or tools if you have given us your prior permission. For more details, please see “Your Choices” below.</li>
+				<strong>Location Information: </strong> We may collect information about the location of your mobile device or Fluke device or tool each time you access or use one of our mobile applications, devices or tools if you have given us your prior permission.  For more details, please see “Your Choices” below.</li>
 			<li>
 				<strong>Usage Information: </strong> We may collect information about your use of our Services, such as how often the Services are used, the duration and quality of use, the types of use (e.g. data creation, storage, access, deletion), calibration data, project configuration data and operator data.</li>
 			<li>
-				<strong>Information Collected by Cookies and Other Tracking Technologies: </strong>Cookies and other tracking technologies (such as web beacons) are used to enhance your experience by allowing us to tailor our content based on your interests and distinguish you from other users of our Services. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your device. A cookie can contain information, such as a user ID or preferences, which we use to personalize content, track the pages you've visited or to save your password so you do not have to re-enter it each time you visit our Services. We use the following types of cookies:
-				<ul style="padding: 0 0 0 250px;">
+				<strong>Information Collected by Cookies and Other Tracking Technologies: </strong> Cookies and other tracking technologies (such as web beacons) are used to enhance your experience by allowing us to tailor our content based on your interests and distinguish you from other users of our Services. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your device. A cookie can contain information, such as a user ID or preferences, which we use to personalize content, track the pages you've visited or to save your password so you do not have to re-enter it each time you visit our Services.  We use the following types of cookies:<ul style="padding: 0 0 0 250px;">
 					<li>
 						<strong>Strictly necessary cookies.</strong> These are cookies or other tracking mechanisms necessary to make our Services function as intended. They include, for example, cookies that enable you to use a shopping cart.</li>
 					<li>
-						<strong>Analytical/performance cookies. </strong>They allow us to recognize and count the number of visitors and to see how visitors move around our Services. This helps us to improve the way our Services work, for example, by ensuring that users are finding what they are looking for easily.</li>
+						<strong>Analytical/performance cookies. </strong> They allow us to recognize and count the number of visitors and to see how visitors move around our Services. This helps us to improve the way our Services work, for example, by ensuring that users are finding what they are looking for easily.</li>
 					<li>
-						<strong>Functionality cookies. </strong>These cookies enable us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region). They may also be used to recognize you when you return to our Services.</li>
+						<strong>Functionality cookies. </strong> These cookies enable us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region). They may also be used to recognize you when you return to our Services.</li>
 					<li>
-						<strong>Third-party cookies. </strong>We may allow third parties to place cookies on your device for advertising and analytics purposes. For more information about these cookies, please see “Advertising and Analytics Services Provided by Others” below.
-						</li>
+						<strong>Third-party cookies. </strong> We may allow third parties to place cookies on your device for advertising and analytics purposes.  For more information about these cookies, please see “Advertising and Analytics Services Provided by Others” below.</li>
 				</ul>
 			</li>
 		</ul>
-<p>If required by law, we will ask you for your consent to our use of cookies when you first visit our Services. We may assume that you consented from ticking a box and clicking on an “I agree” (or similar button) or by continuing to navigate on our Services despite a clear and visible notice on our Services that we use cookies. If you agree, we will place a cookie on your device. If you change your mind, simply delete the cookies on your device (please see: <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">www.allaboutcookies.org/manage-cookies/index.html</a>) and you will be asked again if you agree or disagree with our use of cookies when you visit our Services next. You can also adjust your browser settings to receive a message every time a cookie is installed on your computer or to prevent their installation altogether. Although rejection of cookies will not interfere with your ability to interact with most of our Services, you will need to accept cookies if you choose to enter areas of our Services that require registration or login. Certain other functions and/or services might be unavailable to you if you reject cookies altogether (such as remembering your choice of language).</p>
-		<h3 style="font-weight:bold;">
-			Information We Collect Automatically When You Use the Services</h3>
+<p>If required by law, we will ask you for your consent to our use of cookies when you first visit our Services.  We may assume that you consented from ticking a box and clicking on an “I agree” (or similar button) or by continuing to navigate on our Services despite a clear and visible notice on our Services that we use cookies. If you agree, we will place a cookie on your device.  If you change your mind, simply delete the cookies on your device (please see: <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">www.allaboutcookies.org/manage-cookies/index.html</a>) and you will be asked again if you agree or disagree with our use of cookies when you visit our Services next. You can also adjust your browser settings to receive a message every time a cookie is installed on your computer or to prevent their installation altogether.  Although rejection of cookies will not interfere with your ability to interact with most of our Services, you will need to accept cookies if you choose to enter areas of our Services that require registration or login.  Certain other functions and/or services might be unavailable to you if you reject cookies altogether (such as remembering your choice of language).</p>
+		<h3 style="font-weight:bold;">Information We Collect From Other Sources</h3>
 
-		<p>
-			We may also obtain information, including personal information, from other sources (for example, people you work with) and combine that with information we collect about you.</p>
+		<p>We may also obtain information, including personal information, from other sources (for example, people you work with) and combine that with information we collect about you.</p>
 	</div>
 </div>
 
@@ -448,33 +458,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 
 	<div style="width: 920px;height: 515px;padding: 10px 20px;">
-		<br>
-		Where permitted by applicable law, we may use information, including personal information, for various purposes, including to:
-		<ul>
+		<br>Where permitted by applicable law, we may use information, including personal information, for various purposes, including to:<ul>
 			<li>
 				Provide, maintain and improve our Services;</li>
-			<li>
-				Provide and deliver the products and services you request, process transactions and payment card data and send you related information, including confirmations and invoices;</li>
-			<li>
-				Resolve technical issues related to the Services, and send you technical notices, updates, security alerts and support and administrative messages;</li>
-			<li>
-				Respond to your comments, questions and requests, and provide customer service;</li>
-			<li>
-				Communicate with you about products, services, offers, free trials, surveys, contests, promotions, rewards and events offered by us and others, and provide news and information we think will be of interest to you, including through electronic communications with your consent or where otherwise permitted by applicable law; (please see “Your Choices” below)</li>
-			<li>
-				Monitor and analyze trends, usage and activities in connection with our Services and related tools and those of third parties, with your consent or where otherwise permitted by applicable law;</li>
-			<li>
-				Personalize and improve the Services, and provide advertisements, content or features that match user profiles or interests, with your consent or where otherwise permitted by applicable law;</li>
-			<li>
-				Process and deliver contest entries and rewards;</li>
-			<li>
-				Link or combine with information we get from others to help understand your needs and provide you with better service, with your consent or where otherwise permitted by applicable law; and</li>
-			<li>
-				Carry out any other purpose which is compatible with the purpose for which the information was collected.</li>
+			<li>Provide and deliver the products and services you request, process transactions and payment card data and send you related information, including confirmations and invoices;</li>
+			<li>Resolve technical issues related to the Services, and send you technical notices, updates, security alerts and support and administrative messages;</li>
+			<li>Respond to your comments, questions and requests, and provide customer service; </li>
+			<li>Communicate with you about products, services, offers, free trials, surveys, contests, promotions, rewards and events offered by us and others, and provide news and information we think will be of interest to you, including through electronic communications with your consent or where otherwise permitted by applicable law; (please see “Your Choices” below)</li>
+			<li>Monitor and analyze trends, usage and activities in connection with our Services and related tools and those of third parties, with your consent or where otherwise permitted by applicable law;</li>
+			<li>Personalize and improve the Services, and provide advertisements, content or features that match user profiles or interests, with your consent or where otherwise permitted by applicable law;</li>
+			<li>Process and deliver contest entries and rewards;</li>
+			<li>Link or combine with information we get from others to help understand your needs and provide you with better service, with your consent or where otherwise permitted by applicable law; and</li>
+			<li>Carry out any other purpose which is compatible with the purpose for which the information was collected.</li>
 		</ul>
 
-		<p>
-			The file containing your personal information will be stored at our offices or on our servers and those of our service providers, which may be located in the U.S. or other countries which may not have a level of data protection law equivalent to that of your country, and your personal information may become subject to the laws of such foreign jurisdictions including those that may grant access to your personal information to the authorities of such foreign jurisdictions. By accessing or using the Services or otherwise providing personal information to us, you consent to the processing and transfer of such personal information in and to the U.S. and other countries in the manner and for the purposes described in this Privacy Policy.</p>
+		<p>The file containing your personal information will be stored at our offices or on our servers and those of our service providers, which may be located in the U.S. or other countries which may not have a level of data protection law equivalent to that of your country, and your personal information may become subject to the laws of such foreign jurisdictions including those that may grant access to your personal information to the authorities of such foreign jurisdictions. By accessing or using the Services or otherwise providing personal information to us, you consent to the processing and transfer of such personal information in and to the U.S. and other countries in the manner and for the purposes described in this Privacy Policy.</p>
 	</div>
 </div>
 
@@ -489,31 +487,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 
 	<div style="width: 920px;height: 440px;padding: 10px 20px;">
-		<br>
-		We may share information, including personal information, as follows or as otherwise described in this Privacy Policy:
-		<ul>
-			<li>
-				With our parent company, Danaher Corporation or any successor parent, and our affiliates and subsidiaries for the purposes outlined in this Privacy Policy;</li>
-			<li>
-				With distributors, resellers, channel partners and others in connection with the sale and marketing of products and services offered by Fluke or on behalf of Fluke with your prior permission or where otherwise permitted by applicable law (please see “Your Privacy Rights” below for more information about your choices with respect to this type of sharing);</li>
-			<li>
-				With other users at your direction or through functionality available in the Services, including when you participate in the interactive areas of the Services;</li>
-			<li>
-				With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf;</li>
-			<li>
-				With third parties who need access to such information to perform a service that you requested;</li>
-			<li>
-				In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;</li>
-			<li>
-				If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect our rights, property and safety and the rights, property and safety of others;</li>
-			<li>
-				Where necessary in connection with, or during negotiations of (including due diligence), any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company, subject to our taking such further steps as may be required by applicable law; and</li>
-			<li>
-				With your consent or at your direction, such as where you decide to share information through an external API.</li>
+		<br>We may share information, including personal information, as follows or as otherwise described in this Privacy Policy:<ul>
+			<li>With our parent company, Fortive Corporation or any successor parent, and our affiliates and subsidiaries for the purposes outlined in this Privacy Policy;</li>
+			<li>With distributors, resellers, channel partners and others in connection with the sale and marketing of products and services offered by Fluke or on behalf of Fluke with your prior permission or where otherwise permitted by applicable law (please see “Your Privacy Rights” below for more information about your choices with respect to this type of sharing); </li>
+			<li>With other users at your direction or through functionality available in the Services, including when you participate in the interactive areas of the Services;</li>
+			<li>With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf;</li>
+			<li>With third parties who need access to such information to perform a service that you requested;</li>
+			<li>In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;</li>
+			<li>If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect our rights, property and safety and the rights, property and safety of others;</li>
+			<li>Where necessary in connection with, or during negotiations of (including due diligence), any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company, subject to our taking such further steps as may be required by applicable law; and</li>
+			<li>With your consent or at your direction, such as where you decide to share information through an external API.</li>
 		</ul>
 
-		<p>
-			We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
+		<p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
 	</div>
 </div>
 
@@ -528,8 +514,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 
 	<div style="width: 920px;height: 140px;padding: 10px 20px;">
-		<br>
-		The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. We accept no responsibility for the privacy practices of these entities.</div>
+		<br>The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. We accept no responsibility for the privacy practices of these entities. </div>
 </div>
 
 
@@ -545,8 +530,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 
 	<div style="width: 920px;height: 185px;padding: 10px 20px;">
-		<br>
-		We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. Consistent with your permission, these entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.google.com/settings/ads?hl=en&amp;sig=ACi0TChcJIj9mxeAXumAEKfuI9CbYviAM-0PJimcQ8EvlQ3t-rfqHJbDZ7skY5FR7nQ_zT06EZ57Yqtll2LPtXPDwgX123Y9sqJv58hLSlJ050V1e3qy26D0_iOEtrhWAsGlMqSx9kh0ha33rswW_E8s_4d3AfirWVe710AjNrJNSakMvD_lI1GC8St3_-EOhms7Xs4w1Bbv" target="_blank">Google's Ads Settings</a> and the <a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance’s opt-out mechanism</a>.</div>
+		<br>We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  Consistent with your permission, these entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity.  For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.google.com/settings/ads?hl=en&amp;sig=ACi0TChcJIj9mxeAXumAEKfuI9CbYviAM-0PJimcQ8EvlQ3t-rfqHJbDZ7skY5FR7nQ_zT06EZ57Yqtll2LPtXPDwgX123Y9sqJv58hLSlJ050V1e3qy26D0_iOEtrhWAsGlMqSx9kh0ha33rswW_E8s_4d3AfirWVe710AjNrJNSakMvD_lI1GC8St3_-EOhms7Xs4w1Bbv" target="_blank">Google's Ads Settings</a> and the <a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance’s opt-out mechanism</a>.</div>
 </div>
 
 
@@ -562,8 +546,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	</div>
 
 	<div style="width: 920px;height: 55px;padding: 10px 20px;">
-		<br>
-		We take reasonable measures to help protect personal information from accidental loss, theft, misuse, alteration and unauthorized access or disclosure, and unlawful or accidental destruction.</div>
+		<br>We take reasonable measures to help protect personal information from accidental loss, theft, misuse, alteration and unauthorized access or disclosure, and unlawful or accidental destruction.</div>
 </div>
 
 
@@ -581,38 +564,32 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		<p>
 			<strong>Your Privacy Rights</strong></p>
 
-		<p>
-			As described above, we may share personal information with third parties for marketing purposes in relation to our products and services with your prior permission or where otherwise permitted by applicable law. To opt out of having your information shared in this way, please contact us at <a href="mailto:FCSupport@Fluke.com">privacypolicy@fluke.com</a>.</p>
+		<p>As described above, we may share personal information with third parties for marketing purposes in relation to our products and services with your prior permission or where otherwise permitted by applicable law. To opt out of having your information shared in this way, please contact us at <a href="mailto:FCSupport@Fluke.com">privacypolicy@fluke.com</a>.</p>
 
 		<p>
 			<strong>Account Information</strong></p>
 
-		<p>
-			You may access, update, correct or delete personal information at any time in accordance with applicable law. This may be done by logging into your online account or emailing us at <a href="mailto:FCSupport@Fluke.com">privacypolicy@fluke.com</a>. Please note that we may charge a small fee for complying with such requests where permitted by applicable law.</p>
+		<p>You may access, update, correct or delete personal information at any time in accordance with applicable law. This may be done by logging into your online account or emailing us at <a href="mailto:FCSupport@Fluke.com">privacypolicy@fluke.com</a> . Please note that we may charge a small fee for complying with such requests where permitted by applicable law. </p>
 
 		<p>
-			If you wish to deactivate or delete your account, please email us at <a href="mailto:privacypolicy@fluke.com">privacypolicy@fluke.com</a> , but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of personal information for a reasonable period of time.</p>
+			If you wish to deactivate or delete your account, please email us at <a href="mailto:privacypolicy@fluke.com">privacypolicy@fluke.com</a>, but note that we may retain certain information as required by law or for legitimate business purposes.  We may also retain cached or archived copies of personal information for a reasonable period of time.</p>
 
 		<p>
 			<strong>Location Information</strong></p>
 
-		<p>
-			When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the location service setting preferences on your mobile device. If you do so, our mobile applications, or certain features thereof, will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.</p>
+		<p>When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information.  If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the location service setting preferences on your mobile device.  If you do so, our mobile applications, or certain features thereof, will no longer function.  You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.</p>
 
-		<p>
-			We may also collect location information when you use certain Fluke devices or tools. The owner of the account associated with such devices or tools can control the collection and use of this location information through his or her account settings. If the account owner deactivates the collection of location information, certain features of our devices or tools may no longer function.</p>
+		<p>We may also collect location information when you use certain Fluke devices or tools.  The owner of the account associated with such devices or tools can control the collection and use of this location information through his or her account settings.  If the account owner deactivates the collection of location information, certain features of our devices or tools may no longer function. </p>
 
 		<p>
 			<strong>Promotional Communications</strong></p>
 
-		<p>
-			You may opt out of receiving promotional emails from us by following the instructions in those emails or by emailing us at <a href="mailto:privacypolicy@fluke.com">privacypolicy@fluke.com</a> . If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.</p>
+		<p>You may opt out of receiving promotional emails from us by following the instructions in those emails or by emailing us at <a href="mailto:privacypolicy@fluke.com">privacypolicy@fluke.com</a>. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.</p>
 
 		<p>
 			<strong>Push Notifications/Alerts</strong></p>
 
-		<p>
-			With your consent, we may send push notifications or alerts to your mobile device for updates and communications related to the Services. You can deactivate these messages at any time by changing the notification settings on your mobile device.</p>
+		<p>With your consent, we may send push notifications or alerts to your mobile device for updates and communications related to the Services.  You can deactivate these messages at any time by changing the notification settings on your mobile device.</p>
 	</div>
 </div>
 
@@ -629,11 +606,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<div style="width: 920px;height: 55px;padding: 10px 20px;">
 		<br>
 		If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:privacypolicy@fluke.com">privacypolicy@fluke.com</a></div>
-</div></div></div></div></div>  </div>
+</div></div></div></div></div><span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span>  </div>
 
   
   
-  </article>
+  <span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span></article>
 
   </div>                  </div>
                 
@@ -765,7 +742,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div>
 
 <div id="copyright" style="width:240px;">
-  © 2006-2016 Fluke Corporation. All rights reserved.
+  © 2006-2017 Fluke Corporation. All rights reserved.
 </div>
 
 <div class="clear_1px">&nbsp;</div>
@@ -824,6 +801,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 (function($) {$( "input.datepicker" ).datepicker({dateFormat: 'mm/dd/yy'});})(jQuery);
 //--><!]]>
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"512b64a6dc","applicationID":"25787403","transactionName":"M1wHZksFD0EFVkdZDAoWJFFNDQ5cS1tcVAY7SQRVXDsXWwFC","queueTime":0,"applicationTime":204,"atts":"HxsEEAMfHE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"512b64a6dc","applicationID":"25787403","transactionName":"M1wHZksFD0EFVkdZDAoWJFFNDQ5cS1tcVAY7SQRVXDsXWwFC","queueTime":0,"applicationTime":219,"atts":"HxsEEAMfHE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
