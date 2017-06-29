@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackboardconnect.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218132358id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboardconnect.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141648id_/http%3A//www.blackboard.com/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy | Blackboard
 
 ##  Blackboard privacy policy 
 
-The following privacy policy applies to personal data collected at  [www.blackboard.com](http://www.blackboard.com/ "www.blackboard.com"), Behind the Blackboard™ (behind.blackboard.com), or other Blackboard websites, and data collected through the provision of Blackboard products or services (collectively, the "Services").  Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. Please review the following statement to understand how the information you provide to Blackboard through the Services will be treated.
+The following privacy policy applies to personal data collected at **[www.blackboard.com](https://web.archive.org/index.aspx)** , Behind the Blackboard™ (behind.blackboard.com), or other Blackboard websites, and data collected through the provision of Blackboard products or services (collectively, the "Services").  Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. Please review the following statement to understand how the information you provide to Blackboard through the Services will be treated.
 
 * * *
 
@@ -74,17 +74,9 @@ Blackboard does not knowingly collect any information from children under the ag
 
 * * *
 
-##  9\. European Union and Switzerland data protection 
+##  9\. European Union data protection 
 
-Blackboard complies with the U.S.-EU Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework (“Swiss Safe Harbor”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. For more information regarding Blackboard’s compliance with the U.S.-EU Privacy Shield Principles, please see our [Privacy Shield Privacy Statement](http://www.blackboard.com/footer/blackboard-privacy-shield.aspx " Privacy Shield Privacy Statement") available. 
-
-Blackboard has certified that it adheres to the Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Swiss Safe Harbor program, and to view Blackboard’s certification, please visit  <http://2016.export.gov/safeharbor/swiss/>. If you Switzerland, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside Switzerland, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required.
-
-In order to comply with the Swiss Safe Harbor Principles, Blackboard commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by Swiss citizens relating to this policy, which cannot be resolved directly with our company, through the Swiss Safe Harbor Dispute Resolution Procedure administered by JAMS. To learn more, visit the [JAMS Website](https://www.jamsadr.com/eu-us-privacy-shield "JAMS Website").   
-
-
-  
-
+Blackboard complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. For more information regarding Blackboard’s compliance with the U.S.-EU Privacy Shield Principles, please see our **[Privacy Shield Privacy Statement](https://web.archive.org/footer/blackboard-privacy-shield.aspx "Privacy Shield Privacy Statement")** available. 
 
 If you have any questions regarding this policy, please contact: 
 
@@ -99,7 +91,7 @@ Phone: 202-303-9372
 
 ##  10\. Blackboard privacy policy statement changes 
 
-If Blackboard changes this privacy statement, we will post those changes at [www.blackboard.com/footer/privacy-policy.aspx](http://www.blackboard.com/footer/privacy-policy.aspx "www.blackboard.com/footer/privacy-policy.aspx"), so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using the Services, you signify your assent to the Blackboard Privacy Policy. If you do not agree to this policy, please do not use the Services. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.
+If Blackboard changes this privacy statement, we will post those changes at **[www.blackboard.com/footer/privacy-policy.aspx](https://web.archive.org/footer/privacy-policy.aspx)** , so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using the Services, you signify your assent to the Blackboard Privacy Policy. If you do not agree to this policy, please do not use the Services. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.
 
 Notwithstanding the foregoing, however, with respect to Student Data, as discussed in Section 7, above, our data privacy practices are governed by our agreements with educational institutions and applicable law.  Accordingly, any changes in our data handling practices involving Student Data would have to be in accordance with our agreements with educational institutions and applicable law.
 
@@ -116,4 +108,4 @@ Washington, D.C 20006
 
 In the event that you are concerned about how data you have provided Blackboard through the Services has been used, please contact us at one of the addresses listed above. Blackboard takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
 
-This policy was updated on September 29, 2016.
+This policy was updated on June 23, 2017.
