@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wplift.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227171307id_/http%3A//wplift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wplift.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000219id_/https%3A//wplift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
