@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prnewswire.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043037id_/http%3A//prnewswire.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012750id_/http%3A//www.prnewswire.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
-PR Newswire is the global leader in news and information distribution services for professional communicators. As used in this Privacy Policy, the terms "PR Newswire", “we” and “us” refer to PR Newswire Association LLC and its divisions and affiliates, including MultiVu, Vintage and Virtual Press Office, Inc.
+PR Newswire is the global leader in news and information distribution services for professional communicators. As used in this Privacy Policy, the terms "PR Newswire", “we” and “us” refer to PR Newswire Association LLC and its divisions and affiliates, including MultiVu.
 
 PR Newswire is committed to protecting and respecting your privacy.
 
