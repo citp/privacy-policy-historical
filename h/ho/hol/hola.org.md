@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hola.org privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210163141id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hola.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629142104id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Hola
 
@@ -18,7 +18,7 @@ We collect the following types of data from you when you use the Services:
 
 
 
-### Why do we collecting your information?
+### Why are we collecting your information?
 
 We collect the information detailed above in order to provide you with better services. Anonymous Information is collected for research and statistical purposes, for enabling us to further develop, customize and improve the Services, based on your preferences, uses, and interactions with the Services, and to provide you with the most relevant additional services and offers.
 
