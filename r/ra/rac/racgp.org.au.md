@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129202559id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215406id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
@@ -10,63 +10,76 @@ The RACGP recognises your privacy is very important to you and that you have rig
 
 ## 2\. Privacy statement
 
-This Privacy statement sets out the RACGP's policy relating to the collection and use of your personal information, and is designed to provide you with options as to how we collect and use your personal information.
+This Privacy statement sets out the RACGP's policy concerning the collection holding, use and disclosure of your personal information. It provides you with information and options on how to access and correct your personal information.
 
-This Privacy statement also sets out how we manage personal information to meet our obligations under the Privacy Act.
+This Privacy statement sets out how we manage personal information to meet our obligations under the Privacy Act 1988 (Cth) (Privacy Act).
 
-We believe our Privacy statement not only complies with relevant laws but also represents best practice. In the unlikely instance this Statement conflicts with the Privacy Act, the Privacy Act will prevail.
+We believe our Privacy Statement not only complies with relevant laws but also represents best practice. In the unlikely instance this Statement conflicts with the Privacy Act, the Privacy Act prevails.
 
 ## 3\. Definitions
 
 Personal information means information or opinions about a person from which that person is reasonably identifiable. Personal information includes sensitive information.
 
-Sensitive information includes information about a person's beliefs, associations or health.
+Sensitive information includes information about a person's beliefs, finances, associations or health.
 
-Health information means information or opinions about a person’s health, or collected in accordance with a health services provided to them.
+Health information means information or opinions about a person’s health. It includes information collected in connection with the delivery of health services.
 
 ## 4\. Collecting your personal information
 
 The RACGP may collect personal information as reasonably necessary for one or more of its functions. We will only collect personal information by lawful and fair means and primarily directly from you (for example, through our interaction with you or your use of our website).
 
-As a non-profit organisation, we may collect members’ sensitive information for activities that further our charitable purposes, where the information relates to that purpose.
+As a non-profit organisation, we may collect members’ information for activities that further our charitable purposes, where the information relates to that purpose.
 
-However, wherever practicable we will de-identify personal information. In certain circumstances you may not need to identify yourself, or may use of a pseudonym instead. We will ordinarily alert you to these circumstances when relevant.
+However, wherever practicable we will de-identify personal information. In certain circumstances you may not need to identify yourself, or may use of a pseudonym instead. We will ordinarily alert you to these circumstances when available.
 
-The type of personal information collected may depend on your interaction with us. For example, if you are an RACGP Member, we may collect:
+The type of personal information collected may depend on your interaction with us. For example, if you are an RACGP member, we may collect:
 
-4.1.1 your name
+  * your name
+  * your contact information (postal address, email address, telephone etc), including your preferred manner of contact for personal and professional purposes
+  * professional practice information, including qualifications, addresses and areas of professional interest, and
+  * information relating to your membership or Fellowship, assessments and continuing professional development requirements (as appropriate).
 
-4.1.2 your contact information (address, telephone etc), including your preferred manner of contact for personal and professional purposes
 
-4.1.3 professional practice information, including qualifications, addresses and areas of professional interest
-
-4.1.4 information relating to your membership or Fellowship, assessments and continuing professional development requirements (as appropriate).
 
 If we receive unsolicited personal information, or information we would not ordinarily be permitted to collect, we will ordinarily destroy or de-identify that information.
 
 We will take reasonable steps to notify you of our collection of your personal information. Any such notification will include all additional information required by the Privacy Act.
 
+**Collection through RFID technology**
+
+At certain events, the RACGP may use radio frequency identification (RFID) technology. RFID technology generally consists of a transponder which transmits data and a reader which collects that data. RFID technology assembles this data to provide information on user travel within an event. RFID technology is now commonly used across a variety of industries.
+
+The RACGP considers RFID technology will assist with determining foot traffic or events of interest during conferences (for example). The RACGP will use reasonable efforts to notify you where RFID technology is used and provide an opt-out function.
+
+RFID technology where identifiable will constitute personal information. It will be stored within your conference profile and may be exported to your member record. It will be treated in confidence as for all other member information. 
+
 ## 5\. Use of your personal information
 
-Personal information is kept until we are no longer legally obliged to keep them, or when the need for the personal information has passed (at which point it will be destroyed, deleted or de-identified). Our purpose for collecting your personal information will to a degree depend on your interaction with us.
+Personal information is kept until we are no longer legally obliged to keep, or when the need for the personal information has passed (at which point it will be destroyed, deleted or de-identified). Our purpose for collecting your personal information will to a degree depend on your interaction with us.
 
-For members, our primary purpose for collection is to provide you with your full benefits of and administering your Membership, and providing services (unless I have “opted out” by advising the RACGP Membership Department), sending related information, or as a record of confirmation of attainment of academic or QI&CPD qualifications.
+For members, our primary purpose for collection is to administer and provide you with the full benefits of and administering your membership, providing services, sending related information, or as a record of confirmation of attainment of academic  qualifications, or QI$CPD status.
 
 For QI&CPD participants, our primary purpose is similar, though focussed on administering and maintaining your QI&CPD status.
 
 For other individuals, personal information may be collected to respond to enquiries or comply with other legal obligations.
 
-We may also require limited disclosure to contractors we engage to act for us or on our behalf, such as IT service providers, in order to enable them to provide their services. All contractors engaged in this fashion are required to comply with this policy.
+We may also require limited disclosure to contractors we engage to act for us or on our behalf, such as IT service providers, in order to enable them to provide their services. All contractors engaged in this fashion are required to comply with the privacy laws.
 
 Other than for administration or membership purposes, or to confirm whether you have achieved Fellowship with the RACGP, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
 
-We will not ordinarily disclose your personal information to anyone outside of Australia. However, we do share limited subsets of member’s personal information, to our engaged external contact centres to provide related business, marketing and support services. This provider is currently based in the United States of America. Any information disclosed is used strictly only for the intended purposes. We periodically review our engagement of such providers to ensure privacy compliance.
+We will periodically disclose subsets of your information to APHRA, Medicare and regional training organisations (if relevant) for regulatory purposes.
+
+The RACGP may periodically share your personal information with RACGP Oxygen Pty Ltd. Any such personal information will continue to be used for the purpose of its collection unless an exception applies.
+
+We will not ordinarily disclose your personal information to anyone outside of Australia. However, we do share limited subsets of member’s personal information, to our engaged external contact centres to provide related business, marketing and support services. These providers are currently based in the United States of America. Any information disclosed is used strictly only for the intended purposes. We periodically review our engagement of such providers to ensure privacy compliance.
 
 ## 6\. Storage and security of your personal information
 
 We take all reasonable steps to keep your personal information secure, safe and protected from misuse, interference, loss or unauthorised access. Your information is either stored on secure servers (electronic records) or is protected in controlled facilities (hard copy records). In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us.
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the RACGP website. You should regularly change your website password, and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other individual or any other breach of security.
+
+We may use cloud computing services to store your personal information. Wherever practical we will ensure these servers are housed in Australia> However some data may be stored in other countries including Europe or the United States of America. 
 
 ## 7\. Use of cookies on our website
 
@@ -104,7 +117,7 @@ You have the right to access the personal information we hold about you. If at a
 
 We will provide you with your information within a reasonable time of your request, however where necessary we may require you to attend our offices. We will not generally charge for your access to your personal information.
 
-We reserve the right to refuse you access to your personal information as permitted under the Privacy Act. For example, we may refuse access if your request would pose a serious threat to another’s health, would unreasonably impact on another, or is frivolous or vexatious.
+We reserve the right to refuse you access to your personal information as permitted under the Privacy Act. For example, we may refuse access if your request would pose a serious threat to another’s health, would unreasonably impact on another, or is frivolous or vexatious, or where your request relates to examination marking cards or reports.
 
 ## 10\. Correction of your personal information
 
