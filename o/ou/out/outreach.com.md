@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124002614id_/http%3A//www.outreach.com/privacy.aspx%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629172538id_/http%3A//outreach.com/privacy.aspx%3Fref%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you
 > **Other Information.** We may collect Other Information in a variety of ways, including:
 > 
 >   * **Through Your Browser or Device:** Certain information is collected by most browsers or automatically through your device, such as your computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the names(s) of the Outreach Sites you are using.
->   * **Through Cookies and Other Similar Technologies:** Cookies and other similar technologies may be used to collect Other Information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons).  Outreach does not recognize automated browser signals regarding tracking mechanisms, which may include 'do not track' instructions.
+>   * **Through Cookies and Other Similar Technologies:** Cookies and other similar technologies may be used to collect Other Information, including standard, non-personal internet log information: referring domain; pages visited; geographic location (country only); date and time when Site pages were accessed; and details of your behavioural patterns upon visiting our Site pages). We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons).  Outreach does not recognize automated browser signals regarding tracking mechanisms, which may include 'do not track' instructions.
 > 
 
 > 
@@ -38,7 +38,7 @@ Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you
 > 
 
 
-  3. **How Does Outreach Use Personal Information?**
+  3. **How Does Outreach Use Information?**
 
 
 
@@ -51,6 +51,15 @@ Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you
 >   * To personalize your experience on the Sites by presenting products and offers tailored to you.
 >   * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 >   * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+> 
+
+> 
+> We may use Non-Personal Information:
+> 
+>   * To analyse what users do on the Sites.
+>   * To learn how visitors engage with the Sites, which we analyse to help us improve experiences on the Sites.
+>   * To customize visitors' experience on the Sites.
+>   * To provide more relevant marketing (advertisements, email messages, etc.) to visitors of The Sites.
 > 
 
 
@@ -100,7 +109,7 @@ Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you
 
 
 
-> We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+> We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
 
   9. **What Choices Do I Have?**
 
@@ -137,4 +146,4 @@ Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you
 > 
 > Outreach will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
-Effective Date: July 10, 2015 
+Effective Date: January 27, 2017
