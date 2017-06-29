@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204104403id_/http%3A//www.theschooloflife.com/hf-company/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629173401id_/http%3A//www.theschooloflife.com/hf-company/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
