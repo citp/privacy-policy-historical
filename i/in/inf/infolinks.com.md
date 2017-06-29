@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120307id_/https%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214855id_/http%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy was updated on September 27th, 2016
+Privacy Policy was updated on April 27th, 2017.
 
 Infolinks is a digital advertising technology Company. Infolinks provides a technology that places advertising onto our marketplace of publishers’ websites. We also have a platform that helps us understand how users interact with our technology. We provide both our advertiser and publisher clients with access to the platform so they can understand user interactions with our technologies as well.
 
@@ -50,11 +50,10 @@ Contact Information for Questions, Comments and Complaints: If you have any ques
 Via mail:
 
 Infolinks, Inc  
-505 Hamilton Ave.  
-Suite 220  
-Palo Alto, CA 94301  
-USA  
-Via email: [info@infolinks.com](mailto:info@infolinks.com)
+1233 W Knickerbocker Dr  
+Sunnyvale, California, 94087-1543  
+United States  
+Via email: [support@infolinks.com](mailto:support@infolinks.com)
 
 Via telephone: +1.650.422.3392
 
