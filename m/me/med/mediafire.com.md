@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043113id_/https%3A//www.mediafire.com/policies/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141918id_/https%3A//www.mediafire.com/policies/privacy_policy.php) for the most accurate reproduction.*
 
-# Simple File Sharing and Storage.
+# File sharing and storage made simple
 
 This MediaFire Privacy Policy, in conjunction with the [Terms of Service](https://web.archive.org/terms_of_service.php) and any End User License Agreement (EULA) accepted by you, and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, collectively referred to as the "Agreement", governs your use of the MediaFire website, Content, apps, software, products and services provided to you on, from, or through the MediaFire website or platform (collectively, the "Services"). MediaFire may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.
 
