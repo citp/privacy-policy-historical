@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923050403id_/https%3A//www.airchina.us/US/GB/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629153411id_/https%3A//www.airchina.us/US/GB/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ In addition to obtaining your personal information, when you use our site, we ma
 
 ## Children
 
-Children (aged 18 and under) are not permitted to use this web site.  As we cannot distinguish the age of persons who access our web site, a blanket privacy policy is applied. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should email us at Privacy@airchina.com to remove the information or unsubscribe from any promotional contact opportunities. Air China does not intend to or seek to receive information from minors.
+Children (aged 18 and under) are not permitted to use this web site.  As we cannot distinguish the age of persons who access our web site, a blanket privacy policy is applied. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should email us at customer_relaitons@airchina.com to remove the information or unsubscribe from any promotional contact opportunities. Air China does not intend to or seek to receive information from minors.
 
 ## How Your Information Will Be Used
 
@@ -114,32 +114,28 @@ If you are an existing Air China customer, we will only contact you by e-mail wi
 
 If you have explicitly consented through our web site, we will, from time to time, use your data to deliver by e-mail materials about selected third parties, including Air China ancillary travel and promotion partners, which may be of interest to you.
 
-You have the right to ask us not to process your data for marketing purposes. You can exercise your right to prevent such processing by informing us through the opt-out boxes on the forms we use to collect your data or at any time after this by e-mailing at Privacy@airchina.com.
+You have the right to ask us not to process your data for marketing purposes. You can exercise your right to prevent such processing by informing us through the opt-out boxes on the forms we use to collect your data or at any time after this by e-mailing at customer_relaitons@airchina.com.
 
-For the avoidance of doubt, you may at any time object to our use of your data by sending an email to Privacy@airchina.com.
+For the avoidance of doubt, you may at any time object to our use of your data by sending an email to customer_relaitons@airchina.com.
 
 If you are a new customer, and where we permit certain third parties to use your data, we (or they) will contact you by e-mail only if you have consented to this. We (or they) will contact you for the purposes of informing you about our (their) company news, products and services. Please indicate your consent to being contacted by e-mail by ticking the relevant box situated on the form on which we collect your data.
 
-## Contacting Us
+## Contact Us
 
-If you have other questions, comments or concerns about our privacy practices, please contact us at Privacy@airchina.com. Please also contact us at this address if you wish to receive a written copy of this Privacy Statement.
-
-Our full name, address, phone number, corporate identity number and e-mail address are as follows:
-
-**Air China Limited  
-Business Registration # 001152  
-Mr. Dezhi Zhang  
-No. 16, A TianZhu Airport Industrial Zone TianZhu West Road  
-ShunYi District, BEIJING, P.R.CHINA, 101312  
-Tel: +86-10-6459-4639  
-Fax: +86-10-6459-5024  
-Email: ** **zdz@airchina.com**
+If you have other questions, comments or concerns about our privacy practices, please contact us at Privacy@mail.airchina.com.cn. Please also contact us at this address if you wish to receive a written copy of this Privacy Policy.  
+Our full name, address, phone number, corporate identity number and e-mail address are as follows:.  
+Air China Limited  
+Mr. Borden Zhang  
+No.16,A Tianzhu Airport Industrial Zone Tianzhu West Road  
+Shunyi DISTRICT, BEIJING, P.R.CHINA  
+Room 4004, F4, 16 Tianzhu Xi Road, Airport Economic Development Zone, Tianzhu, Shunyi District, Beijing, China  
+101312
 
 ## Access to Information
 
 The Directive and its local enacting legislation give you the right to access information held about you. Please contact us, with appropriate proof of your identity, at the e-mail or address below if you wish to make such a request.
 
-You have the right to delete or rectify any inaccurate information about you by sending us a written request to Privacy@airchina.com. You may also have the right to object, on compelling legitimate grounds, to the processing of your personal data by sending us a written request to the same address.
+You have the right to delete or rectify any inaccurate information about you by sending us a written request to customer_relaitons@airchina.com. You may also have the right to object, on compelling legitimate grounds, to the processing of your personal data by sending us a written request to the same address.
 
 ## Privacy Policy Modification
 
