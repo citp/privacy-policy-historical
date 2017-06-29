@@ -1,46 +1,158 @@
-<!--The following is the downloaded HTML source of the boreburn.com privacy policy that was archived on 2016-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160119023541id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boreburn.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629123426id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-	<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
-		var string = getValue();
+<!DOCTYPE html><html lang="en-US" class="cssanimations flexbox no-flexboxtweener"><head>
+<!-- Device detection -->
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=85b614c0f6/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"89cc941f4f51359a989e18169484760d",petok:"4cfc82c79d9c3774d27ef1f755ebc6a3572c15f1-1498739666-1800",adblock:1,betok:"d729d40e2a497999ba2e94c9151d4ad5bb411800-1498739666-120",zone:"boreburn.com",rocket:"0",apps:{}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=85b614c0f6/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<script>
+        var isMobile = {
+            Android: function() {
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function() {
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function() {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function() {
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function() {
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+        </script>
+	<script>
+		var page = "0";
 		var url = location.href;
-		if (url.search(/\?/)==-1 && string!=null)
-		{
-			url = url+"?"+string;
-			window.history.pushState(null, null, url); // Change the addressbar url
-		}
-		function getValue()
-		{
-			var name = "p=";
-			var ca = document.cookie.split(';');
-			for(var i=0; i<ca.length; i++) {
-					var c = ca[i];
-					while (c.charAt(0)==' ') c = c.substring(1);
-					if (c.indexOf(name) == 0) return decodeURIComponent(c.substring(name.length,c.length));
-			}
-			return null;
-		}
-	</script>
-<meta charset="UTF-8">
-<meta name="earnify-site-verification" content="2866065f618aac923c5d865225e06e1decddd5ab">
-<title>Privacy Policy | BoreBurn</title>
-<!-- begin Convert Experiments code--><script type="text/javascript">var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10015865-10015300.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10015865-10015300.js" type="text/javascript"></script><!-- end Convert Experiments code -->
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://boreburn.com/xmlrpc.php">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="article">
-<meta property="og:description" content="Last Updated: March 19, 2015
+        if (url.search(/\?/)>-1)
+        {
+                var url_arr = url.split(/\?/);
+                var query_string = url_arr[1];
+                var campaign_pattern = /[^&?]*?campaign=([^&?]+)*/i;
+                var source_pattern = /[^&?]*?source=([^&?]+)*/i;
 
-Generally BOREBURN.COM (&quot;Site&quot; or &quot;we&quot;, &quot;ou...">
-<meta property="og:url" content="http://boreburn.com/privacy-policy">
+                var campaign_matches = query_string.match(campaign_pattern);
+                if (campaign_matches!=null) {
+                	document.cookie = "utm_campaign="+campaign_matches[1]+"; expires="+(1*24*60*60*1000)+"; path=/";
+                }
+                var source_matches = query_string.match(source_pattern);
+                if (source_matches!=null) {
+                	document.cookie = "utm_source="+source_matches[1]+"; expires="+(1*24*60*60*1000)+"; path=/";                        	
+                }
+                var params = url.split("?");
+                string = params[1];
+                var components = string.split("&");
+                for (var index in components)
+                {
+                        parts = components[index].split("=");
+                        var parameter = parts[1].replace(/%/g,"").replace(/{/g,"").replace(/}/g,"");
+                        parameter = encodeURIComponent(parameter);
+                        components[index] = parts[0]+"="+parameter;
+                        string = components.join("&");
+                }
+                document.cookie = "qs="+string+"; expires="+(1*24*60*60*1000)+"; path=/";
+
+        }
+        var string = getValue('qs');
+        if (url.search(/\?/)==-1 && string!=null)
+        {
+                url = url+"?"+string;
+                window.history.pushState(null, null, url); // Change the addressbar url
+        }
+        function getValue(name)
+        {
+                var name = name+"=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i<ca.length; i++) {
+                                var c = ca[i];
+                                while (c.charAt(0)==' ') c = c.substring(1);
+                                if (c.indexOf(name) == 0) return decodeURIComponent(c.substring(name.length,c.length));
+                }
+                return null;
+        }
+	</script>
+<script type="text/javascript" src="http://cdn.boreburn.com/widgets.js"></script>
+<script>
+var widgetAreaResponse = getWidgets();
+</script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/12955483/BB_0D_728x90', [728, 90], 'div-gpt-ad-1491330152581-0').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_1D_728x90', [728, 90], 'div-gpt-ad-1491330152581-1').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_1M_320x100', [[320, 100], [320, 50]], 'div-gpt-ad-1491330152581-2').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_2D_300x250', [300, 250], 'div-gpt-ad-1491330152581-3').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_2M_300x250', [300, 250], 'div-gpt-ad-1491330152581-4').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_3D_300x250', [300, 250], 'div-gpt-ad-1491330152581-5').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_3M_300x250', [300, 250], 'div-gpt-ad-1491330152581-6').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_4M_300x250', [300, 250], 'div-gpt-ad-1491330152581-7').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_5D_728x90', [728, 90], 'div-gpt-ad-1491330152581-8').addService(googletag.pubads());
+    googletag.defineSlot('/12955483/BB_6D_160x600', [160, 600], 'div-gpt-ad-1491330152581-9').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+	        <meta property="fb:admins" content="100009028037807">
+        <meta name="earnify-site-verification" content="2866065f618aac923c5d865225e06e1decddd5ab">
+	<!-- begin Convert Experiments code--><script type="text/javascript">var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10015865-10015300.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10015865-10015300.js" type="text/javascript"></script><!-- end Convert Experiments code -->
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38719595-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--Amilli Analytics Start--><script async="">window.aa_sid = 4;</script><script type="text/javascript" src="http://cdn.amilliamilli.com/analytics/amilli_analytics.min.js" async=""></script>
+	<title>Privacy Policy – BoreBurn</title>
+
+<!-- Open Graph Meta Tags generated by MashShare 3.4.1 - https://mashshare.net -->
+<meta property="og:type" content="article"> 
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Last Updated: March 19, 2015    Generally BOREBURN.COM (&quot;Site&quot; or &quot;we&quot;, &quot;our&quot; or &quot;us&quot;) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address,">
+<meta property="og:url" content="/privacy-policy">
 <meta property="og:site_name" content="BoreBurn">
-<link rel="alternate" type="application/rss+xml" title="BoreBurn » Feed" href="http://boreburn.com/feed">
-<link rel="alternate" type="application/rss+xml" title="BoreBurn » Comments Feed" href="http://boreburn.com/comments/feed">
+<meta property="article:publisher" content="https://www.facebook.com/BoreBurn/">
+<meta property="fb:app_id" content="1556273654664826">
+<meta property="article:published_time" content="2013-04-30T11:52:03+00:00">
+<meta property="article:modified_time" content="2015-03-19T15:34:00+00:00">
+<meta property="og:updated_time" content="2015-03-19T15:34:00+00:00">
+<!-- Open Graph Meta Tags generated by MashShare 3.4.1 - https://www.mashshare.net -->
+<!-- Twitter Card generated by MashShare 3.4.1 - https://www.mashshare.net -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Last Updated: March 19, 2015    Generally BOREBURN.COM (&quot;Site&quot; or &quot;we&quot;, &quot;our&quot; or &quot;us&quot;) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address,">
+<!-- Twitter Card generated by MashShare 3.4.1 - https://www.mashshare.net -->
+
+
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="BoreBurn » Feed" href="/feed">
+<link rel="alternate" type="application/rss+xml" title="BoreBurn » Comments Feed" href="/comments/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/boreburn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://boreburn.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -55,64 +167,502 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="tie-style-css" href="http://boreburn.com/wp-content/themes/sahifa/style.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="Droid+Sans-css" href="http://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700&amp;ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="paginext_link_pages-css" href="http://boreburn.com/wp-content/plugins/paginext-link-pages/css/paginext-link-pages.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="mc4wp-custom-form-css-css" href="//cdn.boreburn.com/wp-content/uploads/2015/09/mailchimp-for-wp.css?ver=2.7.5" type="text/css" media="all">
-<script type="text/javascript" src="http://boreburn.com/wp-content/plugins/widget-area-init/js/cookie.min.js?ver=4.2.5"></script>
-<script type="text/javascript" src="http://boreburn.com/wp-content/plugins/widget-area-init/js/cookie-setter.js?ver=4.2.5"></script>
-<script type="text/javascript" src="http://boreburn.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://boreburn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boreburn.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boreburn.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.5">
-<link rel="canonical" href="http://boreburn.com/privacy-policy">
-<link rel="shortlink" href="http://boreburn.com/?p=88">
-    <script type="text/javascript">
-        widgetAreaResponse = {};
-        ajaxurl = "http://boreburn.com/wp-admin/admin-ajax.php";
-        var data;
-        data = {
-            "action": "get_widget_containers",
-            "positions": ["mobile-above-content","mobile-above-pagination","mobile-below-content","mobile-end-of-slideshow","desktop-above-menu","desktop-above-content","desktop-below-internal-content","desktop-above-pagination","desktop-below-content","desktop-sidebar","desktop-end-of-slideshow"]        };
-        jQuery.ajax({type: "POST", url: ajaxurl, data: data, async:false, dataType: "json", success: function(response) {
-//console.log(response);
-            widgetAreaResponse = response;
-        }});
-    </script>
-    <link rel="shortcut icon" href="http://cloudfront.boreburn.com/wp-content/uploads/2014/12/boreburn-favicon.png" title="Favicon">	
-<!--[if IE]>
-<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
-<![endif]-->	
-<!--[if lt IE 9]>
-<script src="http://boreburn.com/wp-content/themes/sahifa/js/html5.js"></script>
-<script src="http://boreburn.com/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
-<![endif]-->
-<!--[if IE 9]>
-<link rel="stylesheet" type="text/css" media="all" href="http://boreburn.com/wp-content/themes/sahifa/css/ie9.css" />
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" media="all" href="http://boreburn.com/wp-content/themes/sahifa/css/ie8.css" />
-<![endif]-->
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" media="all" href="http://boreburn.com/wp-content/themes/sahifa/css/ie7.css" />
-<![endif]-->
+<link rel="stylesheet" id="collapseomatic-css-css" href="/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6" type="text/css" media="all">
+<link rel="stylesheet" id="mashsb-styles-css" href="/wp-content/plugins/mashsharer/assets/css/mashsb.min.css?ver=3.4.1" type="text/css" media="all">
+<style id="mashsb-styles-inline-css" type="text/css">
+.mashsb-count {color:#cccccc;}@media only screen and (min-width:568px){.mashsb-buttons a {min-width: 177px;}}
+</style>
+<link rel="stylesheet" id="internal-content-style-css" href="/wp-content/plugins/sw-widgets/style.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="quads-styles-css" href="/wp-content/plugins/quick-adsense-reloaded/assets/css/quads.css?ver=1.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="g1-main-css" href="/wp-content/themes/bimber/css/main.css?ver=2.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="bimber-google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C700%7CPoppins%3A400%2C300%2C500%2C600%2C700&amp;subset=latin%2Clatin-ext&amp;ver=2.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="bimber-print-css" href="/wp-content/themes/bimber/css/print.css?ver=2.1.1" type="text/css" media="print">
+<link rel="stylesheet" id="bimber-style-css" href="/wp-content/themes/bimber-child-theme/style.css?ver=4.7.2" type="text/css" media="screen">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
-	/* <![CDATA[ */
-	var tievar = {'go_to' : 'Go to...'};
-	var tie = {"ajaxurl":"http://boreburn.com/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
-	/* ]]> */
+/* <![CDATA[ */
+var mashsb = {"shares":"32","round_shares":"","animate_shares":"0","dynamic_buttons":"0","share_url":"\/privacy-policy","title":"Privacy+Policy","image":null,"desc":"Last Updated: March 19, 2015\r\n\r\nGenerally BOREBURN.COM (\"Site\" or \"we\", \"our\" or \"us\") does not collect, store, use or disclose any data collected with an intention to identify and\/or contact a person such as: name, address, \u2026","hashtag":"","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1","refresh":"1"};
+/* ]]> */
 </script>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<script type="text/javascript" src="/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=3.4.1"></script>
+<script type="text/javascript" src="/wp-content/plugins/sw-widgets/js/cookie.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="/wp-content/plugins/sw-widgets/js/cookie.setter.js?ver=4.7.2"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
+<link rel="canonical" href="/privacy-policy">
+<link rel="shortlink" href="/?p=88">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fprivacy-policy">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fprivacy-policy&amp;format=xml">
+	<script type="text/javascript">	
+	// Load widget dynamically for mobile and desktop
+	// each one of the variables contain the id of their widget or blank
+	
+    	var showWidget = getValue('qs');
+	
+	function getValue(name)
+	{
+		var name = name+"=";
+		var ca = document.cookie.split(';');
+		for(var i=0; i<ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1);
+			if (c.indexOf(name) == 0) return 'regular';
+		}
+		return 'no-utm';
+	}
+	function load_widget(mobile,desktop) {
+		var width = parseFloat(jQuery(window).width());
+		if (width<760 && mobile!='') { // You may replace this for a smaller or bigger resolution to be captured as mobile
+			if( showWidget == 'regular' ){
+				if (widgetAreaResponse[mobile].search("<~----~>")=="-1") {
+					return widgetAreaResponse[mobile];
+				}else{
+					return split_response(widgetAreaResponse[mobile]);
+				}
+			}else{
+				if (typeof widgetAreaResponse[mobile+"-no-utm"] !== 'undefined')
+				{
+					if (widgetAreaResponse[mobile+"-no-utm"].search("<~----~>")=="-1") {
+						return widgetAreaResponse[mobile+"-no-utm"];
+					}else{
+						return split_response(widgetAreaResponse[mobile+"-no-utm"]);
+					}
+				}else{
+					if (widgetAreaResponse[mobile].search("<~----~>")=="-1") {
+						return widgetAreaResponse[mobile];
+					}else{
+						return split_response(widgetAreaResponse[mobile]);
+					}
+				}
+			}
+		}else if(width>=760 && desktop!=''){
+			if( showWidget == 'regular' ){
+				if (widgetAreaResponse[desktop].search("<~----~>")=="-1") {
+					return widgetAreaResponse[desktop];
+				}else{
+					return split_response(widgetAreaResponse[desktop]);
+				}
+			}else{
+				if (typeof widgetAreaResponse[desktop+"-no-utm"] !== 'undefined')
+				{
+					if (widgetAreaResponse[desktop+"-no-utm"].search("<~----~>")=="-1") {
+						return widgetAreaResponse[desktop+"-no-utm"];
+					}else{
+						return split_response(widgetAreaResponse[desktop+"-no-utm"]);
+					}
+				}else{
+					if (widgetAreaResponse[desktop].search("<~----~>")=="-1") {
+						return widgetAreaResponse[desktop];
+					}else{
+						return split_response(widgetAreaResponse[desktop]);
+					}
+				}
+			}
+		}else{
+			return '';
+		}
+	}
+	
+	function split_response(widget) {
+		var page = "0";
+		var response = widget.match(/<~----~>(.*?[\s\S]*?)>!----!</g);
+		if (page==="0")
+		{
+			page = 1;
+		}
+		for (i=0;i<response.length;i++)
+		{
+			if (typeof response[i] !== "undefined")
+			{
+				var conditional_widget = response[i].replace("<~----~>","").replace(">!----!<","");
+				conditional_widget = conditional_widget.split("|~|");
+				var new_response;
+				if (conditional_widget[0]==page)
+				{
+					widget = widget.replace(response[i],conditional_widget[1]);
+				}
+				else
+				{
+					widget = widget.replace(response[i],"");
+				}
+			}
+		}
+		return widget;
+	}
+	</script>
+	<style type="text/css" media="screen">
+		body.g1-layout-boxed {
+background-color: #e6e6e6;
+}
 
-<style type="text/css" media="screen"> 
-::-webkit-scrollbar {width: 8px; height:8px; }
+.g1-layout-boxed .g1-row-layout-page {
+max-width: 1210px;
+}
+
+/* Global Color Scheme */
+.g1-row-layout-page > .g1-row-background,
+.g1-sharebar > .g1-row-background,
+.g1-content > .g1-background,
+.g1-current-background {
+background-color: #ffffff;
+}
+
+input,
+select,
+textarea {
+border-color: #cccccc;
+}
 
 
-</style> 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.g1-mega,
+.g1-alpha,
+.g1-beta,
+.g1-gamma,
+.g1-delta,
+.g1-epsilon,
+.g1-zeta,
+blockquote,
+.g1-link,
+.g1-quote-author-name,
+.g1-links a,
+.entry-share-item,
+.entry-print,
+.g1-nav-single-prev > a > strong,
+.g1-nav-single-next > a > strong,
+.widget_recent_entries a,
+.widget_archive a,
+.widget_categories a,
+.widget_meta a,
+.widget_pages a,
+.widget_recent_comments a,
+.widget_nav_menu .menu a {
+color: #000000;
+}
 
-<style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style><link rel="stylesheet" type="text/css" href="http://boreburn.com/wp-content/themes/sahifa/custom.css">
+body {
+color: #666666;
+}
 
+.entry-meta {
+color: #999999;
+}
+
+.entry-meta a {
+color: #000000;
+}
+
+
+a,
+.entry-title > a:hover,
+.entry-meta a:hover,
+.menu-item > a:hover,
+.current-menu-item > a,
+.mtm-drop-expanded > a,
+.g1-nav-single-prev > a:hover > strong,
+.g1-nav-single-prev > a:hover > span,
+.g1-nav-single-next > a:hover > strong,
+.g1-nav-single-next > a:hover > span,
+.g1-pagination-item-next a.next:after,
+.g1-pagination-item-prev a.prev:before,
+.mashsb-main .mashsb-count {
+color: #ff0036;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.g1-button-solid,
+.g1-button-solid:hover,
+.entry-categories .entry-category:hover,
+.entry-counter,
+.author-link,
+.author-info .author-link,
+.g1-box-icon {
+border-color: #ff0036;
+background-color: #ff0036;
+color: #ffffff;
+}
+
+
+
+.g1-button-simple,
+input.g1-button-simple,
+button.g1-button-simple {
+	border-color: currentColor;
+	background-color: transparent;
+	color: #ff0036;
+}
+
+
+
+.g1-drop-toggle-arrow {
+color: #ffffff;
+}
+
+
+
+@media only screen and ( min-width: 801px ) {
+.g1-header .g1-id {
+margin-top: 18px;
+margin-bottom: 7px;
+}
+
+.g1-header .g1-quick-nav {
+margin-top: 37px;
+margin-bottom: 14px;
+}
+}
+
+
+
+.g1-header {
+color: #000000;
+}
+
+.g1-header a:hover,
+.g1-header .menu-item:hover > a,
+.g1-header .current-menu-item > a {
+color: #ff0036;
+}
+
+.g1-header > .g1-row-background {
+border-color: #ffffff;
+background-color: #ffffff;
+}
+
+
+.g1-navbar {
+border-color: #ff0036;
+background-color: #ff0036;
+}
+
+.g1-navbar a {
+color: #ffffff;
+}
+
+.g1-navbar a:hover,
+.g1-navbar .menu-item:hover > a,
+.g1-navbar .current-menu-item > a,
+.g1-navbar .current-menu-ancestor > a {
+color: #000000;
+}
+
+.g1-navbar .sub-menu,
+.g1-header .sub-menu {
+border-color: #ffffff;
+background-color: #ffffff;
+}
+
+.g1-navbar .sub-menu a,
+.g1-header .sub-menu a {
+color: #666666;
+}
+
+.g1-navbar .g1-link-toggle {
+color: #ffffff;
+}
+
+.g1-navbar .sub-menu a:hover,
+.g1-header .sub-menu a:hover,
+.g1-navbar .sub-menu .menu-item:hover > a,
+.g1-header .sub-menu .menu-item:hover > a,
+.g1-navbar .sub-menu .current-menu-item > a,
+.g1-header .sub-menu .current-menu-item > a,
+.g1-navbar .sub-menu .current-menu-ancestor > a,
+.g1-header .sub-menu .current-menu-ancestor > a {
+color: #ff0036;
+}
+
+.g1-navbar .g1-drop-toggle-badge,
+.g1-navbar .snax-button-create {
+	border-color: #000000;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+/* Prefooter Theme Area */
+.g1-prefooter > .g1-row-background,
+.g1-prefooter .g1-current-background {
+background-color: #f2f2f2;
+}
+
+
+.g1-prefooter h1,
+.g1-prefooter h2,
+.g1-prefooter h3,
+.g1-prefooter h4,
+.g1-prefooter h5,
+.g1-prefooter h6,
+.g1-prefooter .g1-mega,
+.g1-prefooter .g1-alpha,
+.g1-prefooter .g1-beta,
+.g1-prefooter .g1-gamma,
+.g1-prefooter .g1-delta,
+.g1-prefooter .g1-epsilon,
+.g1-prefooter .g1-zeta,
+.g1-prefooter blockquote,
+.g1-prefooter .widget_recent_entries a,
+.g1-prefooter .widget_archive a,
+.g1-prefooter .widget_categories a,
+.g1-prefooter .widget_meta a,
+.g1-prefooter .widget_pages a,
+.g1-prefooter .widget_recent_comments a,
+.g1-prefooter .widget_nav_menu .menu a {
+color: #000000;
+}
+
+.g1-prefooter {
+color: #666666;
+}
+
+.g1-prefooter .entry-meta {
+color: #999999;
+}
+
+.g1-prefooter input,
+.g1-prefooter select,
+.g1-prefooter textarea {
+border-color: #bfbfbf;
+}
+
+.g1-prefooter input[type="submit"],
+.g1-prefooter input[type="reset"],
+.g1-prefooter input[type="button"],
+.g1-prefooter button,
+.g1-prefooter .g1-button-solid,
+.g1-prefooter .g1-button-solid:hover,
+.g1-prefooter .g1-box-icon {
+border-color: #ff0036;
+background-color: #ff0036;
+color: #ffffff;
+}
+
+
+/* Footer Theme Area */
+.g1-footer > .g1-row-background,
+.g1-footer .g1-current-background {
+background-color: #f2f2f2;
+}
+
+.g1-footer {
+color: #666666;
+}
+
+.g1-footer-text {
+color: #999999;
+}
+
+.g1-footer a:hover,
+.g1-footer-nav a:hover {
+color: #ff0036;
+}
+
+/* Premade Color Schemes */
+.g1-dark,
+.g1-dark .entry-meta {
+color: rgb(255, 255, 255);
+text-shadow: 1px 1px 0 rgba(0,0,0, 0.333);
+}
+
+.g1-dark h1,
+.g1-dark h2,
+.g1-dark h3,
+.g1-dark h4,
+.g1-dark h5,
+.g1-dark h6,
+.g1-dark .g1-mega,
+.g1-dark .g1-alpha,
+.g1-dark .g1-beta,
+.g1-dark .g1-gamma,
+.g1-dark .g1-delta,
+.g1-dark .g1-epsilon,
+.g1-dark .g1-zeta,
+.g1-dark .g1-alpha-2nd,
+.g1-dark .g1-beta-2nd,
+.g1-dark .g1-gamma-2nd,
+.g1-dark .g1-delta-2nd,
+.g1-dark .g1-epsilon-2nd,
+.g1-dark .g1-zeta-2nd,
+.g1-dark blockquote,
+.g1-dark a,
+.g1-dark .entry-title > a:hover,
+.g1-dark .g1-link:before,
+.g1-dark .g1-link:after,
+.g1-dark .g1-review-star-whole,
+.g1-dark .g1-review-star-empty,
+.g1-dark .g1-progress-icon-item-on,
+.g1-dark .g1-numbers-icon,
+.g1-dark .g1-countdown-icon {
+color: #fff;
+}
+
+.g1-dark blockquote > p:first-child:before {
+color: #fff;
+}
+
+.g1-dark blockquote > p:last-of-type:after {
+color: #fff;
+}
+
+.g1-dark input[type="email"],
+.g1-dark input[type="number"],
+.g1-dark input[type="password"],
+.g1-dark input[type="search"],
+.g1-dark input[type="tel"],
+.g1-dark input[type="text"],
+.g1-dark input[type="url"],
+.g1-dark select,
+.g1-dark textarea {
+border-color: transparent;
+background-color: rgba(255, 255, 255, 0.1);
+color: #fff;
+}
+
+
+/* Tooltips, semi-transparent elements */
+.g1-dark .entry-share-item-tip-inner,
+.g1-dark .g1user-tooltip-inner {
+border-color: rgb(255, 255, 255);
+border-color: rgba(255, 255, 255, 0.666);
+background-color: rgb(255, 255, 255);
+background-color: rgba(255, 255, 255, 0.666);
+color: #000;
+}
+
+
+.g1-dark input[type="submit"],
+.g1-dark input[type="reset"],
+.g1-dark input[type="button"],
+.g1-dark button,
+.g1-dark .g1-button-solid {
+border-color: #fff;
+background-color: #fff;
+color: #454545;
+}
+
+.g1-dark input[type="submit"]:hover,
+.g1-dark input[type="reset"]:hover,
+.g1-dark input[type="button"]:hover,
+.g1-dark button:hover,
+.g1-dark .g1-button-solid:hover {
+background-color: rgba(255, 255, 255, 0.5);
+}
+	</style>
+	<link rel="icon" href="http://cdn.boreburn.com/wp-content/uploads/20160824091819/cropped-bbicon-32x32.jpg" sizes="32x32">
+<link rel="icon" href="http://cdn.boreburn.com/wp-content/uploads/20160824091819/cropped-bbicon-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://cdn.boreburn.com/wp-content/uploads/20160824091819/cropped-bbicon-180x180.jpg">
+<meta name="msapplication-TileImage" content="http://cdn.boreburn.com/wp-content/uploads/20160824091819/cropped-bbicon-270x270.jpg">
+        <script>document.write(load_widget('mobile-in-head','desktop-in-head'));</script>
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -126,121 +676,266 @@ googletag.cmd = googletag.cmd || [];
         node.parentNode.insertBefore(gads, node); }
 )();
 </script>
-<script type="text/javascript">
-googletag.cmd.push(function()
-{
-        //desktop
-        googletag.defineSlot('/12955483/BB_0D_728x90', [728, 90], 'BB_0D_728x90').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_1D_728x90', [728, 90], 'BB_1D_728x90').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_2D_300x250', [300, 250], 'BB_2D_300x250').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_3D_300x250', [300, 250], 'BB_3D_300x250').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_5D_728x90', [728, 90], 'BB_5D_728x90').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_6D_160x600', [160, 600], 'BB_6D_160x600').addService(googletag.pubads());
-        //mobile
-	googletag.defineSlot('/12955483/BB_1M_320x100', [[320, 100],[320, 50]], 'BB_1M_320x100').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_2M_300x250', [300, 250], 'BB_2M_300x250').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_3M_300x250', [300, 250], 'BB_3M_300x250').addService(googletag.pubads());
-        googletag.defineSlot('/12955483/BB_4M_300x250', [300, 250], 'BB_4M_300x250').addService(googletag.pubads());
-        googletag.pubads().setCentering(true);
-        googletag.pubads().collapseEmptyDivs(true);
-        googletag.pubads().enableAsyncRendering();
-        googletag.enableServices(); }
-);
-</script>
-<script type="text/javascript">
-
-// Load widget dynamically for mobile, tablet and desktop
-// each one of the variables contain the id of their widget or blank
-function load_widget(mobile,tablet,desktop) {
-	var width = parseFloat(jQuery(document).width());
-	if (width<500 && mobile!='') { // You may replace this for a smaller or bigger resolution to be captured as mobile
-		return widgetAreaResponse[mobile];
-	}else if(width<750 && tablet!='') {
-		return widgetAreaResponse[tablet];
-	}else if(width>750 && desktop!=''){
-		return widgetAreaResponse[desktop];
-	}else{
-		return '';
-	}
-}
-</script>
-
-<script type="text/javascript">
-window._tfa = window._tfa || [];
-_tfa.push(
-{notify:"action", name: 'page_view'}
-);
-</script>
-<script src="//cdn.taboola.com/libtrc/boreburn-sc/tfa.js"></script>
-
-<!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-window.__insp = window.__insp || [];
-__insp.push(['wid', 1629859982]);
-(function() {
-function ldinsp()
-{if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
-;
-setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
-})();
-</script>
-<!-- End Inspectlet Embed Code -->
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1556273654664826',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
 
-  ga('create', 'UA-38719595-2', 'auto');
-  ga('send', 'pageview');
-ga('set', 'dimension1', '');
-ga('set', 'dimension2', '');
-ga('set', 'dimension3', '');
-ga('set', 'dimension4', '');
-
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
 </head>
-<body id="top" class="page page-id-88 page-template-default">
-	<div class="background-cover"></div>
-			<header id="theme-header" class="theme-header">
-			
-		<div class="header-content">
-			<div class="logo">
-			<h2>								<a title="BoreBurn" href="http://boreburn.com/">
-					<img src="http://cloudfront.boreburn.com/wp-content/uploads/2014/12/boreburn_small.png" alt="BoreBurn"><strong>BoreBurn </strong>
-				</a>
-			</h2>			</div><!-- .logo /-->
-						<script type="text/javascript">
-                                document.write(load_widget('','','desktop-above-menu'));
-                        </script>
-						<div class="clear"></div>
-		</div>	
-													<nav id="main-nav">
-				<div class="container">
-					<div class="main-menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-11745" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/entertainment">Entertainment</a></li>
-<li id="menu-item-11746" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/funny">Funny</a></li>
-<li id="menu-item-11747" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/crazy-news">Crazy News</a></li>
-<li id="menu-item-11748" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/celebrity">Celebrity</a></li>
-<li id="menu-item-11749" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/fact">Fact!</a></li>
-<li id="menu-item-11750" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/sports">Sports</a></li>
-<li id="menu-item-11751" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/science">Science</a></li>
-<li id="menu-item-11752" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://boreburn.com/category/politics">Politics</a></li>
-</ul></div>										<a href="http://boreburn.com/?tierand=1" class="random-article tieicon-shuffle ttip" title="Random Article"></a>
-									</div>
-			</nav><!-- .main-nav /-->
-					</header><!-- #header /-->
-	
+
+<body class="page-template-default page page-id-88 g1-layout-stretched g1-hoverable g1-has-mobile-logo" itemscope="" itemtype="http://schema.org/WebPage">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1556273654664826";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="g1-body-inner">
+
+	<div id="page">
 		
-	<div id="main-content" class="container">
-	<div class="content">
-				
-		                		
-												<article class="post-listing post post-88 page type-page status-publish hentry">
-						<div class="post-inner">
-				<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope="" itemtype="http://schema.org/Thing"><span itemprop="name">Privacy Policy</span></h1>
-				<div class="clear"></div>
-				<div class="entry">
-															<p><em>Last Updated: March 19, 2015</em></p>
+
+		
+
+		<div class="g1-header g1-row g1-row-layout-page" id="masthead">
+			<div class="g1-row-inner" id="header">
+				<div class="g1-column">
+					
+<div class="g1-id">
+				<p class="g1-mega g1-mega-2nd site-title">
+			
+			<a class="g1-logo-wrapper" href="/" rel="home">
+									<img class="g1-logo g1-logo-default" width="214" height="101" src="http://cdn.boreburn.com/wp-content/uploads/20160902141106/BoreBurn31.jpg" srcset="http://cdn.boreburn.com/wp-content/uploads/20160902141106/BoreBurn31.jpg 2x,http://cdn.boreburn.com/wp-content/uploads/20160902141106/BoreBurn31.jpg 1x" alt="BoreBurn">							</a>
+
+				</p>
+
+	</div>
+					<div style="float:right">
+						<script>document.write(load_widget('','desktop-next-to-logo'));</script>
+					</div>
+											<!--nav class="g1-quick-nav">
+							<ul class="g1-quick-nav-menu">
+																	<li class="menu-item menu-item-type-g1-latest ">
+										<a href="">Latest</a>
+									</li>
+								
+																	<li class="menu-item menu-item-type-g1-popular ">
+										<a href="/popular">Popular</a>
+									</li>
+								
+																	<li class="menu-item menu-item-type-g1-hot ">
+										<a href="/hot">Hot</a>
+									</li>
+								
+																	<li class="menu-item menu-item-type-g1-trending ">
+										<a href="/trending">Trending</a>
+									</li>
+															</ul>
+						</nav-->
+									</div>
+
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+<style type="text/css">
+#masthead {
+width: 100%;
+max-width: 100%;
+position: fixed;
+top: 0px;
+background-color: #ffffff;
+z-index: 10;
+border-bottom: 2px solid #ff0036;
+}
+#header {
+background-color: #FFFFFF;
+}
+#content-nav-bar {
+margin-top: 97px;
+z-index: 1;
+}
+#site-navigation{
+max-width: 1160px;
+margin: 0 auto;
+float: none;
+}
+
+#left-floater {
+        position: fixed;
+        top: 170px;
+        left: 50%;
+        margin-left: -780px;
+}
+.g1-row.g1-sharebar.g1-sharebar-loaded.g1-sharebar-on { display: none!important; }
+</style>
+<div id="left-floater">
+        <script>document.write(load_widget('','desktop-left-floater'));</script>
+</div>
+		<div class="g1-row g1-row-layout-page g1-navbar" id="content-nav-bar">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+					<a class="g1-hamburger g1-hamburger-show" href="">
+						<span class="g1-hamburger-icon"></span>
+						<span class="g1-hamburger-label">Menu</span>
+					</a>
+
+																<a class="g1-logo-small-wrapper" href="/">
+							<img class="g1-logo-small" width="0" height="0" src="http://cdn.boreburn.com/wp-content/uploads/20160902150335/boreburn_logo_inverse.jpg" srcset="http://cdn.boreburn.com/wp-content/uploads/20160902150401/boreburn_logo_inverse1.jpg 2x,http://cdn.boreburn.com/wp-content/uploads/20160902150335/boreburn_logo_inverse.jpg 1x" alt="">						</a>
+					
+					<!-- BEGIN .g1-primary-nav -->
+					<nav id="g1-primary-nav" class="g1-primary-nav"><ul id="g1-primary-nav-menu" class=""><li id="menu-item-11745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11745"><a href="/category/entertainment">Entertainment</a></li>
+<li id="menu-item-11746" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11746"><a href="/category/funny">Funny</a></li>
+<li id="menu-item-11747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11747"><a href="/category/crazy-news">Crazy News</a></li>
+<li id="menu-item-11748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11748"><a href="/category/celebrity">Celebrity</a></li>
+<li id="menu-item-11749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11749"><a href="/category/fact">Fact!</a></li>
+<li id="menu-item-11750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11750"><a href="/category/sports">Sports</a></li>
+<li id="menu-item-11751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11751"><a href="/category/science">Science</a></li>
+<li id="menu-item-11752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11752"><a href="/category/politics">Politics</a></li>
+<li id="menu-item-15451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15451"><a href="/about-us">About Us</a></li>
+</ul></nav>					<!-- END .g1-primary-nav -->
+
+					
+
+<!-- BEGIN .g1-user-nav -->
+<!-- END .g1-user-nav -->
+
+
+											<div class="g1-drop g1-drop-before g1-drop-the-search">
+							<a class="g1-drop-toggle" href="#">
+								<i class="bimber-icon bimber-icon-search"></i>Search								<span class="g1-drop-toggle-arrow"></span>
+							</a>
+							<div class="g1-drop-content">
+								
+
+<div role="search">
+	<form method="get" class="g1-searchform-tpl-default g1-form-s search-form" action="/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
+		</label>
+		<input type="submit" class="search-submit" value="Search">
+	</form>
+</div>
+							</div>
+						</div>
+					
+											<div class="g1-drop g1-drop-the-socials">
+							<a class="g1-drop-toggle" href="#" title="Follow us">
+								<i class="bimber-icon bimber-icon-follow"></i> Follow us								<span class="g1-drop-toggle-arrow"></span>
+							</a>
+							<div class="g1-drop-content">
+								<ul id="g1-social-icons-1" class="g1-socials-items g1-socials-items-tpl-grid">
+            <li class="g1-socials-item g1-socials-item-facebook">
+       <a class="g1-socials-item-link" href="https://www.facebook.com/bringthepixel/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-facebook"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">facebook</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-twitter">
+       <a class="g1-socials-item-link" href="https://twitter.com/bringthepixel" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-twitter"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">twitter</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-googleplus">
+       <a class="g1-socials-item-link" href="/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-googleplus"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">googleplus</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-instagram">
+       <a class="g1-socials-item-link" href="/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-instagram"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">instagram</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-pinterest">
+       <a class="g1-socials-item-link" href="http://www.bringthepixel.com/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-pinterest"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">pinterest</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-vine">
+       <a class="g1-socials-item-link" href="/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-vine"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">vine</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-youtube">
+       <a class="g1-socials-item-link" href="/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-original g1-socials-item-icon-youtube"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">youtube</span>
+           </span>
+       </a>
+    </li>
+    </ul>
+
+							</div>
+						</div>
+					
+
+				</div><!-- .g1-column -->
+
+			</div>
+		</div>
+
+				<div class="header-banner">
+			<script>document.write(load_widget('','desktop-above-menu'));</script>
+		</div>
+
+
+
+
+	<div id="primary" class="g1-primary-max">
+		<div id="content" role="main">
+
+			
+<article id="post-88" class="post-88 page type-page status-publish" itemscope="" itemtype="http://schema.org/WebPage">
+	<header class="g1-row g1-row-layout-page entry-header entry-header-row">
+		<div class="g1-row-inner">
+			<div class="g1-column">
+				<h1 class="g1-alpha g1-alpha-2nd entry-title" itemprop="headline">Privacy Policy</h1>
+							</div>
+		</div>
+		<div class="g1-row-background">
+		</div>
+	</header><!-- .entry-header -->
+
+	
+	<div class="g1-row g1-row-layout-page g1-row-padding-m">
+		<div class="g1-row-inner">
+
+			<div class="g1-column g1-column-2of3">
+				<div class="entry-content" itemprop="text">
+					<p><em>Last Updated: March 19, 2015</em></p>
 <p>Generally BOREBURN.COM (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).</p>
 <p>BOREBURN.COM is owned by SolutionsWide. For BOREBURN.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.</p>
 <p><strong>What does this Privacy Policy cover?</strong></p>
@@ -260,222 +955,108 @@ Please be aware that, as part of the service provided by this Site, we may provi
 <p>We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English.</p>
 <p><strong>How do I find out more about BOREBURN.COM information practices?</strong></p>
 <p>If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by e-mail at info@boreburn.com</p>
-										
-					
-									</div><!-- .entry /-->	
-				<span style="display:none" class="updated">2013-04-30</span>
-								<div style="display:none" class="vcard author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://boreburn.com/author/boreburn" title="Posts by boreburn" rel="author">boreburn</a></strong></div>
-								
-			</div><!-- .post-inner -->
-		</article><!-- .post-listing -->
-												<div id="comments">
+									</div><!-- .entry-content -->
+			</div>
+			
+			<div id="sidebar" class="g1-column g1-column-1of3">
+	<script>
+		var width = window.innerWidth;
+		if (width>=1130)
+		{
+			document.write(load_widget('','desktop-sidebar'));
+		}
+	</script>
+</div><!-- #secondary -->
 
-		
 
 
-</div><!-- #comments -->
-	</div><!-- .content -->
-<aside id="sidebar">
-			<script type="text/javascript">
-				document.write(load_widget('','desktop-sidebar','desktop-sidebar'));
-			</script>
-			</aside>	<div class="clear"></div>
-</div><!-- .container /-->
 
-<footer id="theme-footer">
-	<div id="footer-widget-area" class="footer-3c">
+		</div>
+		<div class="g1-row-background">
+		</div>
+	</div>
+</article><!-- #post-## -->
 
-			<div id="footer-first" class="footer-widgets-box">
-			<div id="posts-list-widget-3" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Recent		</h4></div>
-						<div class="footer-widget-container">				<ul>
-					<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750" title="Permalink to 10 People Born With Disturbing Deformities" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20160115165428/Edward-Mordrake-55x55.png" class="attachment-tie-small" alt="10 People Born With Disturbing Deformities" title="10 People Born With Disturbing Deformities"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750">10 People Born With Disturbing Deformities</a></h3>
-	 <span class="date"><span>January 15, 2016</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/best-and-worst-celebrity-mugshots/14715" title="Permalink to The 10 Best (And Worst) Celebrity Mugshots" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20160113132817/Celebrity-Mugshots-1-55x55.png" class="attachment-tie-small" alt="The 10 Best (And Worst) Celebrity Mugshots" title="The 10 Best (And Worst) Celebrity Mugshots"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/best-and-worst-celebrity-mugshots/14715">The 10 Best (And Worst) Celebrity Mugshots</a></h3>
-	 <span class="date"><span>January 13, 2016</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/hoverboard-hazards-and-hilarious-fails/14681" title="Permalink to 18 Hoverboard Hazards And Hilarious Fails" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20160107152440/CXTG3uBWMAE7yMw-55x55.png" class="attachment-tie-small" alt="18 Hoverboard Hazards And Hilarious Fails" title="18 Hoverboard Hazards And Hilarious Fails"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/hoverboard-hazards-and-hilarious-fails/14681">18 Hoverboard Hazards And Hilarious Fails</a></h3>
-	 <span class="date"><span>January 7, 2016</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/weirdest-things-you-can-buy-in-china/14615" title="Permalink to 10 Of The Weirdest Things You Can Buy In China" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20151229163206/goatbrain-55x55.jpg" class="attachment-tie-small" alt="10 Of The Weirdest Things You Can Buy In China" title="10 Of The Weirdest Things You Can Buy In China"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/weirdest-things-you-can-buy-in-china/14615">10 Of The Weirdest Things You Can Buy In China</a></h3>
-	 <span class="date"><span>December 29, 2015</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/politicians-with-the-biggest-sex-scandals-in-history/14582" title="Permalink to 12 Politicians With The Worst Sex Scandals In History" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20151221162813/Politicians-Sex-Scandals-55x55.png" class="attachment-tie-small" alt="12 Politicians With The Worst Sex Scandals In History" title="12 Politicians With The Worst Sex Scandals In History"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/politicians-with-the-biggest-sex-scandals-in-history/14582">12 Politicians With The Worst Sex Scandals In History</a></h3>
-	 <span class="date"><span>December 21, 2015</span></span>
-</li>
-	
-				</ul>
-		<div class="clear"></div>
-	</div></div><!-- .widget /-->		</div>
-	
-			<div id="footer-second" class="footer-widgets-box">
-			<div id="posts-list-widget-4" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Random		</h4></div>
-						<div class="footer-widget-container">				<ul>
-					<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/everything-you-need-to-know-about-the-new-fantastic-four-movie/11862" title="Permalink to Everything You Need to Know About the New Fantastic Four Movie" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/2015/01/fantastic-4-2015-55x55.jpeg" class="attachment-tie-small" alt="Everything You Need to Know About the New Fantastic Four Movie" title="Everything You Need to Know About the New Fantastic Four Movie"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/everything-you-need-to-know-about-the-new-fantastic-four-movie/11862">Everything You Need to Know About the New Fantastic Four Movie</a></h3>
-	 <span class="date"><span>January 28, 2015</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/scary-abandoned-insane-asylums/13502" title="Permalink to Scariest Insane Asylums That Will Make You Pee Your Pants" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20151008164459/Scary-Abandoned-Insane-Asylums-1-55x55.png" class="attachment-tie-small" alt="Scariest Insane Asylums That Will Make You Pee Your Pants" title="Scariest Insane Asylums That Will Make You Pee Your Pants"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/scary-abandoned-insane-asylums/13502">Scariest Insane Asylums That Will Make You Pee Your Pants</a></h3>
-	 <span class="date"><span>October 8, 2015</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/scientists-who-ate-their-own-subjects-guess-what-darwin-ate/13496" title="Permalink to 8 Scientists Who Ate Their Own Subjects! Guess What Darwin Ate?" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20150916094141/Scientists-Who-Ate-Their-Own-Subjects-Guess-What-Darwin-Ate--55x55.png" class="attachment-tie-small" alt="8 Scientists Who Ate Their Own Subjects! Guess What Darwin Ate?" title="8 Scientists Who Ate Their Own Subjects! Guess What Darwin Ate?"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/scientists-who-ate-their-own-subjects-guess-what-darwin-ate/13496">8 Scientists Who Ate Their Own Subjects! Guess What Darwin Ate?</a></h3>
-	 <span class="date"><span>September 16, 2015</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750" title="Permalink to 10 People Born With Disturbing Deformities" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20160115165428/Edward-Mordrake-55x55.png" class="attachment-tie-small" alt="10 People Born With Disturbing Deformities" title="10 People Born With Disturbing Deformities"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750">10 People Born With Disturbing Deformities</a></h3>
-	 <span class="date"><span>January 15, 2016</span></span>
-</li>
-<li>
-				
-		<div class="post-thumbnail">
-			<a href="http://boreburn.com/the-15-weirdest-things-kids-have-asked-mall-santas-for/11535" title="Permalink to The 15 Weirdest Things Kids Have Asked Mall Santas For" rel="bookmark"><img width="55" height="44" src="http://cdn.boreburn.com/wp-content/uploads/2014/12/plutonium.jpg" class="attachment-tie-small" alt="The 15 Weirdest Things Kids Have Asked Mall Santas For" title="The 15 Weirdest Things Kids Have Asked Mall Santas For"><span class="overlay-icon"></span></a>
-		</div><!-- post-thumbnail /-->
-		<h3><a href="http://boreburn.com/the-15-weirdest-things-kids-have-asked-mall-santas-for/11535">The 15 Weirdest Things Kids Have Asked Mall Santas For</a></h3>
-	 <span class="date"><span>December 4, 2014</span></span>
-</li>
-	
-				</ul>
-		<div class="clear"></div>
-	</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
-	
+		</div><!-- #content -->
+	</div><!-- #primary -->
 
-			<div id="footer-third" class="footer-widgets-box">
-			<div id="posts-list-widget-5" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Popular		</h4></div>
-						<div class="footer-widget-container">				<ul>
-								<li>
-						
-				<div class="post-thumbnail">
-					<a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750" title="Permalink to 10 People Born With Disturbing Deformities" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20160115165428/Edward-Mordrake-55x55.png" class="attachment-tie-small" alt="10 People Born With Disturbing Deformities" title="10 People Born With Disturbing Deformities"><span class="overlay-icon"></span></a>
-				</div><!-- post-thumbnail /-->
-							<h3><a href="http://boreburn.com/people-born-with-disturbing-body-parts/14750" title="10 People Born With Disturbing Deformities">10 People Born With Disturbing Deformities</a></h3>
-				 <span class="date"><span>January 15, 2016</span></span>
-			</li>
-				<li>
-						
-				<div class="post-thumbnail">
-					<a href="http://boreburn.com/youll-never-guess-what-these-celebs-were-voted-in-high-school/1571" title="Permalink to You’ll Never Guess What These Celebs Were Voted In High School" rel="bookmark"><img width="55" height="44" src="http://cdn.boreburn.com/wp-content/uploads/2013/08/5-rosie.jpeg" class="attachment-tie-small" alt="You’ll Never Guess What These Celebs Were Voted In High School" title="You’ll Never Guess What These Celebs Were Voted In High School"><span class="overlay-icon"></span></a>
-				</div><!-- post-thumbnail /-->
-							<h3><a href="http://boreburn.com/youll-never-guess-what-these-celebs-were-voted-in-high-school/1571" title="You’ll Never Guess What These Celebs Were Voted In High School">You’ll Never Guess What These Celebs Were Voted In High School</a></h3>
-				 <span class="date"><span>August 12, 2013</span></span>
-			</li>
-				<li>
-						
-				<div class="post-thumbnail">
-					<a href="http://boreburn.com/horribly-awkward-prom-photos/4934" title="Permalink to Horribly Awkward Prom Photos" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20131217200910/prom6-55x55.jpg" class="attachment-tie-small" alt="Horribly Awkward Prom Photos" title="Horribly Awkward Prom Photos"><span class="overlay-icon"></span></a>
-				</div><!-- post-thumbnail /-->
-							<h3><a href="http://boreburn.com/horribly-awkward-prom-photos/4934" title="Horribly Awkward Prom Photos">Horribly Awkward Prom Photos</a></h3>
-				 <span class="date"><span>December 17, 2013</span></span>
-			</li>
-				<li>
-							<h3><a href="http://boreburn.com/21-worst-tourist-photos/14748" title="21 Worst Tourist Photos">21 Worst Tourist Photos</a></h3>
-				 <span class="date"><span>January 18, 2014</span></span>
-			</li>
-				<li>
-						
-				<div class="post-thumbnail">
-					<a href="http://boreburn.com/10-worst-tourist-photos/5382" title="Permalink to 21 Worst Tourist Photos" rel="bookmark"><img width="55" height="55" src="http://cdn.boreburn.com/wp-content/uploads/20140210174748/tourist10-55x55.jpg" class="attachment-tie-small" alt="21 Worst Tourist Photos" title="21 Worst Tourist Photos"><span class="overlay-icon"></span></a>
-				</div><!-- post-thumbnail /-->
-							<h3><a href="http://boreburn.com/10-worst-tourist-photos/5382" title="21 Worst Tourist Photos">21 Worst Tourist Photos</a></h3>
-				 <span class="date"><span>February 10, 2014</span></span>
-			</li>
-		
-				</ul>
-		<div class="clear"></div>
-	</div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
-	
-		
-	</div><!-- #footer-widget-area -->
-	<div class="clear"></div>
-</footer><!-- .Footer /-->
-				
-<div class="clear"></div>
-<div class="footer-bottom">
-	<div class="container">
-		<div class="alignright">
-			<a href="http://boreburn.com">Home</a> | <a href="http://boreburn.com/privacy-policy">Privacy Policy</a> | <a href="http://boreburn.com/terms">Terms of Use</a> | <a href="http://boreburn.com/dmca">DMCA</a>		</div>
-				<div class="social-icons icon_16">
-		<a class="ttip" title="Rss" href="http://boreburn.com/feed" target="_blank"><i class="tieicon-rss"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/BoreBurn" target="_blank"><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/boreburn" target="_blank"><i class="tieicon-twitter"></i></a>	</div>
 
-		
-		<div class="alignleft">
-			Copyright 2016 http://boreburn.com		</div>
-		<div class="clear"></div>
-	</div><!-- .Container -->
-</div><!-- .Footer bottom -->
-	<div id="topcontrol" class="tieicon-up-open" title="Scroll To Top"></div>
-<div id="fb-root"></div>
-<script type="text/javascript" src="http://boreburn.com/wp-content/themes/sahifa/js/tie-scripts.js?ver=4.2.5"></script>
+	<div class="g1-row g1-row-layout-page g1-prefooter">
+		<div class="g1-row-inner">
 
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
+			<div class="g1-column g1-column-1of3">
+							</div>
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
+			<div class="g1-column g1-column-1of3">
+							</div>
 
-_qevents.push({
-qacct:"p-HJv9EukV2qyjx"
-});
-</script>
+			<div class="g1-column g1-column-1of3">
+							</div>
 
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-HJv9EukV2qyjx.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		<div class="g1-row-background">
+		</div>
+	</div>
+
+<div class="g1-row g1-row-layout-page g1-footer">
+	<div class="g1-row-inner">
+		<div class="g1-column">
+
+			<p class="g1-footer-text"></p>
+
+			<nav id="g1-footer-nav" class="g1-footer-nav"><ul id="g1-footer-nav-menu" class=""><li id="menu-item-15447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15447"><a href="/about-us">About Us</a></li>
+<li id="menu-item-15448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15448"><a href="/dmca">BoreBurn DMCA Policy</a></li>
+<li id="menu-item-15449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15449"><a href="/terms">Terms of Use</a></li>
+<li id="menu-item-15450" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-88 current_page_item menu-item-15450"><a href="/privacy-policy">Privacy Policy</a></li>
+</ul></nav>
+			
+	<a class="g1-footer-stamp" href="">
+		<img class="g1-footer-stamp-icon" width="56" height="35" src="http://cdn.boreburn.com/wp-content/uploads/20160902141106/BoreBurn31.jpg" srcset="http://cdn.boreburn.com/wp-content/uploads/20160824091947/transparent-pixel.png 2x" alt="">			</a>
+
+		</div><!-- .g1-column -->
+	</div>
+	<div class="g1-row-background">
+	</div>
+</div><!-- .g1-row -->
+
+	<a href="#page" class="g1-back-to-top g1-back-to-top-off">Back to Top</a>
+
+</div><!-- #page -->
+
+<div class="g1-canvas-overlay"></div>
+
+</div><!-- .g1-body-inner -->
+<div id="g1-breakpoint-desktop"></div>
+<div class="g1-canvas g1-canvas-global">
+	<a class="g1-canvas-toggle" href="#"></a>
+	<div class="g1-canvas-content">
+	</div>
 </div>
-</noscript>
-<!-- End Quantcast tag -->
 
 
+<script type="text/javascript">
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script><link rel="stylesheet" id="font-awesome-css" href="/wp-content/plugins/g1-socials/css/font-awesome/css/font-awesome.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="g1-socials-basic-screen-css" href="/wp-content/plugins/g1-socials/css/screen-basic.css?ver=1.1.1" type="text/css" media="screen">
+<script type="text/javascript" src="/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.6"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/jquery.timeago/jquery.timeago.js?ver=1.5.2"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/jquery.timeago/locales/jquery.timeago.en.js"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/matchMedia/matchMedia.js"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/matchMedia/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bimber_front_config = "{\"ajax_url\":\"http:\\\/\\\/edit.boreburn.com\\\/wp-admin\\\/admin-ajax.php\",\"timeago\":\"on\",\"sharebar\":\"on\",\"i10n\":{\"subscribe_mail_subject_tpl\":\"Check out this great article: %subject%\"}}";
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/front.js?ver=2.1.1"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber/js/menu.js?ver=2.1.1"></script>
+<script type="text/javascript" src="/wp-content/themes/bimber-child-theme/modifications.js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
 
 
-<!--Cached using Nginx-Helper on 2016-01-18 12:48:20. It took 10 queries executed in 0.223 seconds.-->
-<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details--></body></html>
+</body></html>
