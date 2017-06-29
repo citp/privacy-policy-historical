@@ -1,53 +1,119 @@
-> *The following text is extracted and transformed from the bangedup.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929101431id_/http%3A//www.porncam.com/privacy.html%3FAFNO%3D1-81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangedup.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629055214id_/http%3A//bangedup.com/privacy) for the most accurate reproduction.*
 
-# PornCam | Privacy Policy
+# Privacy Policy - BangedUp.com
 
-[Home](http://www.porncam.com/?AFNO=1-81) / Privacy Policy
+Effective Date: March 4, 2014
 
-By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+Last Modified: April 6, 2017
 
-PornCam respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use PornCam, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the PornCam website.
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“BangedUp.com,” “we,” “our”). By using our Services and/or registering with BangedUp.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as BangedUp.com adheres to the standards set forth more clearly below.
 
-PornCam will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
+We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the BangedUp.com website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
 
-When you do provide us with personal identifying information, such information will be gathered solely by PornCam, and is for use solely by PornCam and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+**Information Collected**
 
-PornCam may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+In order to provide our full range of Services, we may collect the following types of information:
 
-PornCam may request personal identifying information on specific pages that allow users to contact PornCam. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+Information you provide. When you register for a username, we ask you for personal information (such as your email address, username, and an account password). In order to improve the quality of our Services and to provide you with a better user experience, we may combine the information you submit with information provided by third parties.
 
-There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of PornCam or those of PornCam customers or chat hosts, (4) under exigent circumstances to protect the physical safety of PornCam, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+Financial Data. Some portions of the BangedUp.com website are provided as paid services. Accordingly, our payment processor may collect billing information from you to facilitate your purchase of Services from us. Such information may include a credit card number, the associated card’s expiration date, and a billing address. WE DO NOT HAVE ACCESS TO YOUR FINANCIAL DATA, WHICH IS COLLECTED BY OUR PAYMENT PROCESSOR. Financial data that is collected by our payment processor will only be used as necessary to initiate and complete any orders placed by your account. Credit card purchases for the pay services offered on the BangedUp.com site are processed via industry standard encryption through third-party processors, which processors only use your information the purpose of processing order placed by your account. Financial Data is considered private information and will not be shared with us, or with third parties, except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third parties. Financial or other data provided by you to any companies or websites advertising on our website are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
 
-Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+Demographic Information. Each time you access our Services, our servers may automatically record in their server logs information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol or “IP” address, the date and time of your request, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser. Additionally, we may collect other available demographic information, such as zip code, search history, browsing history, and user history. Aggregate, non-individual membership demographic information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
 
-Cookies used on the website by category:
+Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
 
-  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
-  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
-  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. BangedUp.com uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use BangedUp.com as you have selected and to ensure that we keep people who breach our rules off of BangedUp.com for the well-being of the BangedUp.com community.
+
+User communications. We may retain communications that you send to BangedUp.com by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
+
+Affiliated BangedUp.com Services on other sites. From time to time, we may offer some of our Services on or through other websites. In the event that we do offer such services, it is possible that personal information you provide to those sites may be sent to BangedUp.com to facilitate delivery of those services. We will process such information under this Privacy Policy as if the information had been submitted directly from you to BangedUp.com. Any affiliated site through which our Services are offered will likely have its own privacy policy, which may be very different from ours. It is very important for you to review the privacy policies for such affiliated sites before submitting personal information to them.
+
+Other sites. This Privacy Policy only applies to Services offered by BangedUp.com. We are not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in your browser, or ask you to provide personal information.
+
+**Use of Personal Information**
+
+BangedUp.com processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
+
+Providing our Services (which includes displaying customized advertising and other content);
+
+Auditing, research, and analysis (to maintain, protect, and improve our Services);
+
+Technical diagnostics (to ensure our network is functioning as expected);
+
+Protecting the rights or property of BangedUp.com or our users, or third parties;
+
+To comply with applicable law, to cooperate with law enforcement and the court system;
+
+Creating new Services; and
+
+Marketing and sales of advertising.
+
+We process personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
+
+**Information Communicated via Video Chat**
+
+As the BangedUp.com website features interactive video chat services, it is possible for you to communicate identifying information about yourself to other users who are viewing a live video stream from your computer. You should be aware that any such communication is made directly to those users viewing the live video stream, and not to BangedUp.com. We are not responsible for the privacy of personal identifying information that you communicate via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from sharing personal information via live video stream to other users of BangedUp.com services.
+
+**California Residents**
+
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
+
+**Privacy Principle: Choice**
+
+Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide personal information, such as your email address. We will ask for your consent prior to using any provided personal information in any way that is different from the stated purpose for which that information was collected.
+
+In the event that we develop a new use for personal information that is not described in this Privacy Policy, you will be given the opportunity to opt out of such use. We will not collect or use sensitive information, such as racial or ethnic origins, sexuality, politics, religion, or medical information, for any purpose not described herein.
+
+Use of our Service may require you to configure your browser settings to allow cookies to be stored on your computer or other browsing device. You should be aware that the Services might not function properly without cookies enabled.
+
+**Privacy Principle: Onward Transfer**
+
+BangedUp.com may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of BangedUp.com, we will only do so in the following circumstances:
+
+  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so. 
+  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith. 
+  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of BangedUp.com, its users, or the public. 
 
 
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+This Privacy Policy may be superseded by an acquiring party’s policies in the event that BangedUp.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets.
 
-This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who viewed a certain page in our website, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. PornCam does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+**Privacy Principle: Security**
 
-Members areas of PornCam may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@porncam.com](https://web.archive.org/contactsupport.php?AFNO=1-81).
+Appropriate security measures are taken to protect your personal information against unauthorized access to or unauthorized alteration, disclosure, or destruction. These measures include internal reviews of our data collection, storage, and processing practices. Physical security measures are also taken to prevent unauthorized access to systems where your personal information is stored.
 
-PornCam does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from PornCam, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-81).
+Your personal information is revealed to our employees, contractors, and agents on a need-to-know basis in operating, developing, or improving our Services. As a condition of their employment or association with BangedUp.com, these individuals are bound by confidentiality obligations. If they fail to maintain the confidentiality of your personal information, they may be subject to discipline, including termination and criminal prosecution.
 
-PornCam also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if PornCam becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, PornCam reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the PornCam program, termination of PornCam services, and forfeiture of all commissions.
+**Privacy Principle: Data Integrity**
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@porncam.com](https://web.archive.org/contactsupport.php?AFNO=1-81) and provide us with your name, your PornCam login name, and any information you feel is important.
+BangedUp.com processes personal information only for the purposes described in this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process only that personal information which is needed to provide or improve our Services or as otherwise permitted hereunder. Although we depend on our users to keep their own personal information up to date, we also perform reasonable actions to ensure that the personal information we process is accurate, complete, and current.
 
-The address for correspondence by post is
+**Privacy Principle: Access**
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA 
+We make good-faith efforts to provide you with access to your personal information that we have collected. In the event that such information is inaccurate, we will endeavor to provide facilities that allow you to either correct this data or to delete it, provided we are not otherwise required to retain such data by law or for legitimate business purposes. Before processing requests to access, delete, or alter such data, we ask individual users to identify themselves and the information requested to be accessed, deleted, or corrected. We may refuse to process requests: (i) that require disproportionate technical effort; (ii) that are unreasonably repetitive or systematic; (iii) that would be extremely impractical (for instance, requests concerning information residing on backup tapes); (iv) that jeopardize the privacy of others; or (v) for which access is not otherwise required. Unless providing access and correction service would involve a disproportionate effort, we will perform it free of charge.
+
+**Privacy Principle: Enforcement**
+
+We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
+
+It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between BangedUp.com and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
+
+**Email Communications**
+
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+
+While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
+
+From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
+
+Delete your email address from the "E-mail address" input box under the "Personal Data" heading
+
+Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
+
+After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
