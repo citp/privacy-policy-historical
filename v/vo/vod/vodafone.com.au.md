@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210080444id_/http%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629121308id_/http%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy To Protect You | Vodafone Australia
 
@@ -136,7 +136,7 @@ We may give your personal information to other organisations for the purposes of
 
 ### How can you opt-out of marketing materials?
 
-If you’d rather not get our direct marketing material, it’s easy to opt-out. Check out our [ support article](http://vodafone.intelliresponse.com/index.jsp?&id=1717&question=How+to+stop+Vodafone+marketing+material&requestType=NormalRequest&source=100) to find out how.
+If you’d rather not get our direct marketing material, it’s easy to opt-out. Check out our [ support article](https://www.vodafone.com.au/support/contact/marketing-messages) to find out how.
 
 Or, you may contact [ 1555](tel:1555) from your Vodafone mobile or call [ 1300 650 410](tel:1300650410) from any phone. You can also use any opt-out methods provided in our marketing material, and we'll do the rest.
 
