@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230193636id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629124040id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
-#### Revised as of November 19, 2014
+You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your ReverbNation experience. 
+
+#### Revised as of January 27, 2017
 
 Welcome to the website ReverbNation.com (the _"Site"_ ) and related platforms, products, and services available on or from the Site (the _"Services"_ ) are owned and operated by eMinor Incorporated d/b/a ReverbNation (together with its affiliates, successors, and assigns hereinafter referred to as _"our"_ , _"we"_ , _"us"_ , or _"ReverbNation"_ ).
 
@@ -96,7 +98,11 @@ ReverbNation or one of our web-advertising partners may deliver ads appearing on
 
 #### SECURITY
 
-ReverbNation user accounts are secured by user-created passwords. ReverbNation takes precautions to ensure that account information is kept private. ReverbNation uses reasonable measures such as encryption to protect private information that is stored within our database against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction, and we restrict access to such private information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Among these measures, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer (SSL) technology, which creates an encrypted connection between you and our systems. Once we collect your credit card or debit card information, it is stored encrypted on restricted-access computers that are not directly accessible via the Internet. Please note that no method of electronic transmission or storage is 100% secure, however, and ReverbNation cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Users are urged to also take precautions to protect their personal data by changing passwords often using a combination of letters and numbers, and using a secure web browser. For any additional information about the security measures ReverbNation uses on the Site, please contact us at privacy@reverbnation.com.
+ReverbNation user accounts are secured by user-created passwords. ReverbNation takes precautions to ensure that account information is kept private. ReverbNation uses reasonable measures such as encryption to protect private information that is stored within our database against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction, and we restrict access to such private information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Among these measures, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer (SSL) technology, which creates an encrypted connection between you and our systems. Once we collect your credit card or debit card information, it is stored encrypted on restricted-access computers that are not directly accessible via the Internet. Please note that no method of electronic transmission or storage is 100% secure, however, and ReverbNation cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Users are urged to also take precautions to protect their personal data by changing passwords often using a combination of letters and numbers, and using a secure web browser. 
+
+ReverbNation integrates third party software that collects information about users for security reasons. Any information collected by reCAPTCHA is held in accordance with the Google Privacy Policy available [here](https://www.google.com/intl/en/policies/). 
+
+For any additional information about the security measures ReverbNation uses on the Site, please contact us at privacy@reverbnation.com.
 
 #### SHARING AND DISCLOSURE OF INFORMATION REVERBNATION COLLECTS
 
@@ -118,8 +124,8 @@ California law permits certain users of our site who are California residents to
 
   * ReverbNation
   * Attn: Legal Department - Privacy
-  * P.O. Box 2086  
-Durham, NC 27702
+  * P.O. Box 594  
+Morrisville, NC 27560
 
 
 
@@ -137,8 +143,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   * ReverbNation
   * Attn: Legal Department - Privacy
-  * P.O. Box 2086  
-Durham, NC 27702
+  * P.O. Box 594  
+Morrisville, NC 27560
 
 
 
