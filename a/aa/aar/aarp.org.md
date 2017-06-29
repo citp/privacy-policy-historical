@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043926id_/http%3A//www.aarp.org/about-aarp/privacy-policy/%3Fintcmp%3DGLBNAV-FX-BTM-PRIV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013918id_/http%3A//www.aarp.org/about-aarp/privacy-policy/%3Fintcmp%3DGLBNAV-FX-BTM-PRIV) for the most accurate reproduction.*
 
 # Our Privacy Policy, Your Privacy Rights - AARP
+
+Effective April 2015
 
 [En español](http://www.aarp.org/espanol/conozca_aarp/info-05-2010/politica_de_privacidad.html) | AARP is committed to protecting your privacy and to making sure that you understand how your information is used. AARP believes that only informed members and other website users can make informed decisions about their privacy. Please read this privacy policy carefully. It explains how we collect and share your personal information, and gives you options to limit how we share your information and communicate with you.
 
