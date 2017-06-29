@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icebreakers.ws privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612104627id_/http%3A//www.icebreakers.ws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreakers.ws privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629095816id_/http%3A//www.icebreakers.ws/privacy.html) for the most accurate reproduction.*
 
 # icebreakers.ws | Privacy Policy
 
@@ -123,13 +123,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
 icebreakers.ws 
 
 Email:  
-contact@icebreakers.ws  
+john@icebreakers.ws  
 
