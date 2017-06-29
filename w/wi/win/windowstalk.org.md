@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowstalk.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127122540id_/http%3A//www.windowstalk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowstalk.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629071125id_/http%3A//www.windowstalk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
