@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055320id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629233109id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # HasOffers Privacy Policy
 
@@ -107,7 +107,7 @@ You can also disable collection of Ad Identifiers for targeted advertising by en
 
 ## EU To US Transfers
 
-TUNE has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See TUNE’s Privacy Shield Statement [here](https://www.tune.com/privacy-shield-statement/ "TUNE's Privacy Shield Statement"). To learn more about Privacy Shield, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+TUNE has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See TUNE's Privacy Shield Statement [here](https://www.tune.com/privacy-shield-statement/ "TUNE's Privacy Shield Statement"). To learn more about Privacy Shield, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 ## What Happens If This Privacy Statement Is Changed?
 
@@ -116,5 +116,3 @@ HasOffers may find it necessary to update this Privacy Policy from time to time.
 ## Questions About This Privacy Policy?
 
 If you have an unresolved privacy or data use concern that a TUNE client or TUNE has not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=d8ff91f2-1a81-4835-8ed6-44ed4399c80e)
