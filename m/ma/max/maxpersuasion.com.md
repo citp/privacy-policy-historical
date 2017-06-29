@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116212719id_/http%3A//www.maxpersuasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629060553id_/http%3A//www.maxpersuasion.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for MaxPersuasion
-
-## MaxPersuasion.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. 
+# Privacy | MaxPersuasion
 
 Last Updated: January 1, 2012
 
@@ -38,7 +36,7 @@ We can be reached by contacting:
 
 Email: support@MaxPersuasion.com
 
-**Changes to this Policy**
+### Changes to this Policy
 
 MaxPersuasion.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
