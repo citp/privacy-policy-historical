@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404200000id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629151633id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,10 +29,6 @@ We also Use a Third Party Advertising network called Google AdSense and this par
 **How Do We Use the Information That You Provide to Us?**
 
 Broadly speaking, we use only your email information to notify you for new posts on this website and that too only if you subscribe to us through Google FeedBurner platform. We assure that your email information is safe with us and is not shared with a third-party at any cost.
-
-**Note About Children**
-
-Since we do not host mature content, children are also eligible to use our web site. This website is safe for person with any age including children.
 
 **How Do We Protect Your Information and Secure Information Transmissions?**
 
