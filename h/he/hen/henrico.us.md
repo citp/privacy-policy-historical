@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219211742id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231752id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico, Virginia
 
 ## What information is collected during your visit to our web site?
 
-When you visit the Henrico County website, the information like the following is collected automatically:
+When you visit the Henrico County website, information like the following is collected automatically:
 
   * The pages you visited
   * The date and time you visited
@@ -52,7 +52,7 @@ Software on our site or affiliated sites that we use for several functions may a
 
 Some County of Henrico web pages have links to web sites outside of the County’s web site (henrico.us). Links to other websites are included due to relevance or interest, and do not constitute endorsement by the County of Henrico.
 
-If you click on these links to visit other sites, you are subject to the privacy policies of those sites while you are visiting them, rather than the County’s policies. Henrico County is also not responsible for the content or maintenance of the linked remote pages.
+If you click on these links to visit other sites, you are subject to the privacy policies of those sites while you are visiting them, rather than the County’s policies. Henrico County is not responsible for the content or maintenance of the linked remote pages.
 
 ## Searching our site
 
