@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketbold.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228063404id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketbold.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629095549id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – MarketBold.com™
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
