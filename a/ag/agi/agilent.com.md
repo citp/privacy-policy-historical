@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616164158id_/https%3A//www.agilent.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003921id_/https%3A//www.agilent.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Agilent | Chemical Analysis , Life Sciences, and Diagnostics
 
-_This Privacy Statement was last revised on August 1, 2014._
+_This Privacy Statement was last revised on January 23, 2017._
 
 Agilent Technologies, Inc. and its subsidiaries (also referred to in this document as “Agilent Technologies”, “Agilent”, “we”, “our” and “us”) are committed to protecting and maintaining your privacy and provide this privacy statement (“Privacy Statement”) to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both online and offline. To make this notice easy to access, a link to it is available on the bottom of every Agilent web page.
-
-Customers are Agilent’s most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. To show our commitment to privacy, Agilent Technologies, Inc. has entered into two voluntary data privacy programs, the US-EU Safe Harbor and U.S.-Swiss Safe Harbor and has been awarded TRUSTe’s privacy seal, further details of which are available below.
 
 We’ve structured our website ([www.agilent.com](http://www.agilent.com/)) so that you can visit us without identifying yourself or revealing any personal information, however, some functionality, such as profile management or entitlements, may be limited. Throughout this Privacy Statement, “personal information” refers to any information that identifies you (either alone or together with other information), such as your name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with Agilent or as otherwise set out in this Privacy Statement. 
 
@@ -18,7 +16,7 @@ This Privacy Statement covers 8 main areas:
   * Access & Accuracy
   * Security
   * How Agilent Uses Cookies
-  * Safe Harbor and TRUSTe
+  * Dispute Resolution
   * Additional Information
 
 
@@ -154,7 +152,7 @@ We also partner with third party ad networks to either display advertising on ou
 As a user you have the ability to accept or decline the use of cookies. Where required by law, Agilent indicates its use of cookies through a prominent banner on our website. Cookies can be removed explicitly using functionality built into most web browsers and you may refuse to accept cookies by activating this setting on your browser. You may also set up your web browser to notify you of cookie placement requests, to ask for permission to accept them, or to decline cookies completely. For information on how to adjust your browser regarding cookies, please visit:
 
 Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>  
-Firefox: <http://support.mozilla.com/en-US/home>  
+Firefox: <https://support.mozilla.org/t5/Protect-your-privacy/Enable-and-disable-cookies-that-websites-use-to-track-your/ta-p/2784>  
 Chrome: <http://www.google.com/support/chrome/?hl=en>  
 Safari: <http://www.apple.com/support/safari/>  
 Opera: <http://www.opera.com/browser/tutorials/security/>
@@ -169,23 +167,13 @@ As is true of most web sites, we gather certain information automatically and st
 
 Technologies such as: cookies (as detailed above), clear gifs, tags and scripts are used by us and our analytics company.  These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We also may use Clear Gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, Clear Gifs may be tied to personally identifiable information.
 
-##  7\. **SAFE HARBOR AND TRUSTE**
-
-Agilent Technologies, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Agilent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Agilent’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-[**Truste EU Safe Harbor**](http://privacy.truste.com/privacy-seal/Agilent-Technologies,-Inc-/validation?rid=bd54a23d-e45a-45b7-b886-683a78913995)
-
-In addition, Agilent Technologies, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program requirements, including transparency, accountability and choice in collecting and using your personal information, viewable on the validation page available by clicking the TRUSTe seal.
-
-##  8\. **DISPUTE RESOLUTION**
+##  7\. **DISPUTE RESOLUTION**
 
 If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).  Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [http://feedback-form.truste.com/watchdog/request.](http://feedback-form.truste.com/watchdog/request)
 
-The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site or through other means.
-
-##  9\. **ADDITIONAL INFORMATION**
+##  8\. **ADDITIONAL INFORMATION**
 
 **Links to Third-Party Websites**
 
