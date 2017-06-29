@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601111014id_/http%3A//www.qoo10.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005317id_/http%3A//www.qoo10.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Qoo10 – Singapore No 1 shopping site – leading pan Asia online market for fashion, digital, living, cosmetics, food and entertainment.
+# Qoo10.sg - Every need. Every want. Every day.
 
 Privacy Policy
 
@@ -116,12 +116,7 @@ Personal Information Manager
 
 The Personal Information Manager is responsible for taking reasonable endeavours to protect user information and preventing unauthorized disclosure. The Personal Information Manager is not responsible for damage or loss of information due to unexpected incident due to hacking or other risks inherent to the network that may occur despite technical safeguards. The Personal Information Manager is not responsible for any dispute arising from the users' posts.
 
-We appoint the following person as Personal Information Manager:
-
-  * \- name: Kim, Jun Young
-  * \- e-mail: privacy@qoo10.com
-
-
+If you have any suggestions or complaints, you may contact us by e-mail at privacy@qoo10.com
 
 General
 
