@@ -1,94 +1,202 @@
-> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715091027id_/https%3A//www.avention.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesource.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630004306id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Avention
+# Privacy Policy | Hoover's
 
-Last Updated: March 2014
+### About Hoover's and Avention, Inc.
 
-#### Our Commitment
+Hoover's, Inc. and Avention, Inc. (collectively,“Hoover’s”) are Dun & Bradstreet companies that put you on the fastest path to business. We deliver comprehensive insight and analysis about the companies, industries and people that drive the economy, along with powerful tools to find and connect with the right people to get business done. Hoover's offers proprietary business information through the Internet, data feeds, wireless devices and co-branded alliances with other online services. Our website features a database of information on more than 30 million corporations and organizations, and more than 35 million business professionals. Hoover's sells subscriptions to marketing, sales and business development professionals, and we also publish our information in various reference books.
 
-Avention, Inc. (“Avention” or “We”) is committed to protecting the privacy of visitors to the Avention website (“Website”) and users of Avention products and services (collectively, the “Products”). We are providing this privacy policy (“Policy”) to you because we take privacy issues seriously. We think you should know how we may be collecting and using information about you through the Website, in the scope of our marketing activities, in the course of contests and other promotions and in connection with the Products. This Policy does not apply to information collected by third-party websites that may link to or be accessible from the Website.
+Since becoming Dun & Bradstreet companies, Hoover's has expanded both the breadth of information that is available on our website and the tools that are accessible to our customers. We provide features such as corporate family tree information and customized data feeds that allow our customers to access the information in their preferred format. Hoover's also provides industry insight through our First Research Industry Profiles, which cover market trends, business challenges and industry opportunities.
 
-This Policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. In addition, this Policy describes your choices with respect to how we collect and use your information. You may exercise your choices about how we collect and use your information consistent with this Policy at any time. Your continued use of the Website and the Products, and your participation in our contests and promotions constitute your acceptance of this Policy and any updates thereto.
+Hoover's considers itself to be a steward of the information that we collect, manage and provide. It is our responsibility to safeguard the information within our care and we are committed to managing our data in a secure and responsible manner. We provide products and services based on information about millions of businesses and business professionals. This privacy policy explains how Hoover’s collects, uses, manages, shares and secures business professional and business contact data and information about website visitors and users of our products (“Data”). Our Data management practices are guided by our Global Privacy Principles. These Principles commit Hoover's to the following tenets:
 
-The Website is intended for adult audiences only, and neither Avention nor any of our agents or service providers, acting on our behalf, knowingly collects any personal information from anyone under 13 years of age, nor do we benefit from allowing another to collection personal information from anyone under the age of 13 on our behalf.  If you are under age 13, please do not attempt to register for the Website or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any personal information from a child under the age of 13, please contact us immediately.
+**Notice:** Hoover's informs users and customers how we collect, use, manage and share information.
 
-Avention shall separately address the handling of any personal information you disclose in connection with your use or access of, purchase or subscription to any Product in the appropriate contract and otherwise in separate Product terms and conditions. To the extent that this Policy conflicts with any executed contract between you and Avention with respect to a Product, the terms of such executed contract shall govern.
+**Choice:** Hoover’s uses and discloses Data in accordance with a business professional’s choice to restrict the use of the Data.
 
-#### Safe Harbor Compliance
+**Accountability for Onward Transfer:** Data is disclosed to third parties only for the purposes described in the notice and as permitted under applicable law, such as for purposes for which the individual has provided implicit or explicit consent. If Data is shared with third parties, we require contracts with those third parties that include limitation on use, provisions regarding compliance with comparable standards of security and data handling procedures as Dun & Bradstreet provides. Dun & Bradstreet remains liable for meeting the Privacy Principles if third-party agents that it engages to process Data on its behalf do so in a manner inconsistent with the Privacy Principles, unless Dun & Bradstreet can prove that it is not responsible for the event giving rise to the damage.
 
-As part of our commitment to protecting your privacy, Avention has elected to adhere to the Safe Harbor Principles of the United States Department of Commerce. By certifying this election with the Department of Commerce, Avention has declared that it provides adequate privacy protection, as defined by the European Commissions Directive on Data Protection. Additional information about the Safe Harbor Program and the Directive on Data Protection can be obtained at [www.export.gov/safeharbor](https://www.export.gov/safeharbor/).
+**Data Integrity and Purpose Limitation:** Hoover's employs substantive measures to produce high-quality, timely and reliable data, including direct contact with businesses and quality assurance procedures during data collection and processing. Data is used in a manner that is compatible with the purposes for which it was collected and authorized.
 
-#### Information We Collect About You
+**Access & Correction:** Hoover's provides businesses and business professionals with access to their business information within the Hoover's databases and with an opportunity to correct verified inaccuracies.
 
-_Automatic Information Collected Through Computer Tracking_  
-Avention may track and retain information about the computing environment you use to access the Website and Products, such as your IP address, browser type or operating system. We collect and analyze this information for the continued improvement of the Products and our business. For example, tracking the computing environments most frequently used by our customers can help us to accommodate the most appropriate browser types and versions. Additionally, our record of IP addresses that access the Products and Website allows us to determine the source or cause of error messages that may appear in the Products or on the Website at any given time, or to assist customers who may be experiencing technical difficulties while accessing the Products or Website.
+**Data Security:** Hoover's applies appropriate technical, physical and administrative data security measures to protect data against unauthorized access and disclosure.
 
-_Personal Information You Provide Through The Website_  
-The personal information you provide to Avention through the Website allows us to determine if you are an authorized user of one or more of the Products, for which you or your organization has paid a fee. We need to know your personal information in order to provide you with all the benefits you are entitled to receive as an authorized user of the Products. For instance, you may be asked to provide us with your physical and online contact information (e.g. name, address, email address, etc.), particularly if you seek customer support from our Help Desk. In addition, we may ask for work-related identifying information (e.g. employer, job title, etc.) in order to inform you of Product updates. Avention may retain the personal information you provide to us in order to more easily assist you with customer service or technical support of the Products and to continue to forward new Product information.
+**Accountability:** Hoover's seeks to adhere to its Privacy Principles through ongoing compliance, training, documentation, assessment and dispute resolution initiatives.
 
-_Personal Information Collected In The Scope Of Marketing Activities_  
-In order to improve our Products and facilitate their delivery to you, Avention may collect both personal and non-personal information about you within the scope of our marketing activities, both online and offline.  For example, Avention may collect contact information about you that would include information like your name, address, telephone number, and e-mail address when it conducts trade shows, demand generation campaigns, contests, trials, when you click on landing pages, and in the course of Pay-Per-Click campaigns.
+Hoover's delivers products and services through the Internet more effectively and efficiently than ever before. As a leading provider of business information, our products and services serve to enable and enhance commerce. Our business customer needs continue to evolve, as do public expectations about Data privacy and the technology that we employ to provide our products and services. Our approach to Data privacy enables us to adapt and respond to these changes while remaining committed to our Principles.
 
-In addition, when you enter Avention contests and participate in other Avention promotions, you provide us with various personal details (e.g., name, company, job title, phone number, and email address), which we may retain and use in furtherance of our marketing activities in accordance with this policy and specific Avention Contest Rules and Conditions.
+This online privacy notice describes the Data privacy practices that are applicable to Hoover’s and [www.hoovers.com](https://web.archive.org/). This site may provide links to other U.S. Dun & Bradstreet websites and non-Dun & Bradstreet websites that may employ different information management practices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
-When you register as a user of the Products you have the option to allow us to contact you about our Products and services. In order to evaluate your use of the Products, Avention may track which functions of the Products you use most frequently. This information will help us provide you with only the most relevant and useful information about the Products, as well as suggestions that could enhance your use of the Products.
+### What Information Do We Collect?
 
-#### How We Use Collected Information
+_Products and Services_
 
-_Aggregation Of User Data_  
-Avention may aggregate the information you provide with similar information collected from other visitors to the Website or users of the Products in order to evaluate or enhance the Website or Products. Specifically, Avention may use the aggregated data to determine the usage patterns or interests of visitors to the Website or users of the Products, or for purposes related to the technical support or security of the Website and our computer systems. The aggregated data that we evaluate, however, contains no personal information or other information that could identify an individual.
+Hoover's collects information on businesses and business professionals. We also collect information offline from business partners and vendors. The business information that we collect includes the following:
 
-_Usage Tracking Within The Avention Products_  
-We may track usage information within the Products based upon the number of reports and types of reports that are accessed by a particular UserID number. We do this to monitor authorized usage of the Products and to improve the design and functionality of the Products. Customers can also track the total number of reports in the Product that are accessed at the user level or accessed by all users within their organization for administrative purposes.
+  * Company and business professional contact information, including name, title, address, phone number, fax number, e-mail address, social media handles and domain names;
+  * Detailed company profiles and statistics, including industries and number of employees;
+  * Background information regarding company management, such as the educational and career histories of company principals and beneficial ownership/persons of significant control;
+  * Company operational histories, including territories, subsidiaries, affiliates and lines of business;
+  * Summary business information regarding profitability, debts, assets, net worth and business relationships;
+  * Business professional data as it relates to their professional lives, such as name, company, title, job function, business contact information and trade associations; and
+  * Credit/debit card information in order to process certain customer payments.
 
-We may also aggregate corporate or industry information accessed by all of our clients. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the Products. Avention does not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
-_User Information To Certain Third Parties_  
-Avention may engage third party providers to collect and use certain information in the manner described in this Policy, in order to enable Avention to provide you with opportunities for additional products and/or services based upon your interests. Avention may also, on occasion, provide some general usage information from the Products to our data suppliers for royalty-related purposes. Any information that we may provide to our data suppliers contains no personal details about individual users. Additionally, no information that we collect from the Website or Products or that you provide to us is ever sold to third parties. When appropriate or required we may disclose information, including personal information, collected from the Website or Products to protect our legal rights or in response to a court order, or in connection with a sale or merger of Avention or its assets. Avention will endeavor to make such disclosures subject to protective orders or confidentiality agreements.
 
-With respect to information collected in the course of our marketing activities, Avention may exchange business leads with our affiliates from time to time. In addition, we may share personal information we collect from contest entrants with our affiliates, including Avention UK Limited. As such, information collected from contest entrants may be shared outside of Avention US. In order to properly conduct Avention contests, Avention UK Limited may, on occasion, contact contest entrants directly.
+_Website visitors and Customers_
 
-Additionally, we may, on limited occasions, share your personal information with third party marketing partners. These partners generally consist of persons or entities with whom we maintain a relationship and which offer certain complementary products and services to those Products and services that we offer. We will take commercially reasonable efforts to make sure that such third parties safeguard your personal information. Further, you are permitted at any time to request that we refrain from sharing your personal information with such third parties, or that we disclose who we shared your personal information with. In order to make such requests, please follow the instructions set forth below with regard to requests made in connection with your personal information.
+_Personal Information You Provide Through The Website: includes_ name, address, telephone number, social media handle, email address, employer, job title. We collect personal information from website visitors and when you purchase products and services through our website; subscribe to email newsletters and alerts; fill out a form to request additional information; participate in Hoover’s Community Forum; enter a contest; fill out a survey; access video content; and receive free incentives.
 
-_How We Use Cookies_  
-Avention uses cookies to validate users authorized to access the Products. A cookie is a text file that is placed on your computer by a Web server. Avention does not use cookies to track any personal information about a user. For example, the User ID (log in name) and the site ID (company name) are tracked to allow Avention to determine whether or not the user is authorized (i.e. licensed) to access a specific product on the Website. Also, a machine ID is identified to ensure that only one person uses the UserID at one time. In addition, the user may, at his or her option, identify a workgroup or project that in turn establishes a cookie; this option is provided not for Avention’s purposes but to permit a user’s organization to charge back costs internally.
+_Automatic Information Collected Through Computer Tracking:_ your IP address, browser type, or operating system, areas of the website visited and the website from which a visitor came. We collect and analyze this information for the continued improvement of the products, website, and our business. Hoover’s analyzes IP addresses of visitors to our websites and match business information from our various databases and received from third parties against the IP addresses to learn more about what types of businesses are visiting our websites and the browsing preferences of such businesses on our websites. We use the information derived from these analytical activities, which may be combined with non-personally identifiable behavioral information received from third parties, to better model and refine our general marketing activities and may, from time to time and to the extent permitted by law, directly market our products and services to these businesses based on the information we have learned about their browsing activities while on our websites. In addition, Hoover’s analyzes IP addresses from Hoover’s products users to match business information from our various databases and received from third parties against users’ IP addresses for our internal analytical purposes which helps us to increase the accuracy of the information in our various business information databases.
 
-#### Choices About How We Use And Disclose Your Information
+_Personal Information Collected In The Scope Of Marketing Activities:   Your personal information may be collected _when you enter contests and participate in other promotions; when we conduct webinars, demand generation campaigns, when we disseminate white papers, ebooks or similar content, when you click on landing pages, in the course of Pay-Per-Click campaigns, and similar events and methods.
 
-_Tracking Technologies_  
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
+### How Do We Use and Share Information?
 
-_Marketing Activities Information_  
-If you do not wish to have your personal information used by Avention to promote the Products, in furtherance of our marketing activities or otherwise disclosed to third parties, or if you do not wish for us to share your personal information with our affiliates for the purpose of conducting contests or providing lead information, you can opt-out by sending us an email stating your request to [privacy@avention.com](mailto:privacy@avention.com).
+Hoover's uses the identifiable business and business professional information that we collect to operate our website, to offer a variety of business information products and services for use in making risk management and marketing decisions, and to carry out transactions that you request or authorize. Hoover's will not sell, rent or share registered user business contact information to unaffiliated third parties for marketing purposes without the registered user's consent. In conjunction with Dun & Bradstreet, Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses our business and professional contact information to authorized resellers and third party businesses for marketing purposes. Being listed in Hoover's company databases and professional contacts directories offers benefits to businesses and business professionals, including identification and recognition in the marketplace and the prospect of beneficial commercial opportunities and partnerships.
 
-_Receipt of Communications_  
-If you decide at any time that you no longer wish to receive communications from us you may opt out by updating your account through the Account Maintenance option described below, except that you may still receive certain communications from us at your request or at the request of your organization.
+We may use your professional business contact information to match it with other public and private Data sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Hoover’s and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled “Third Party Advertisers.” Dun & Bradstreet complies with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
 
-_Opting Out_  
-You can always choose not to provide information when you are prompted to do so. Note that if you do not provide us with certain mandatory information, then you may be unable to access certain Product, services or other features we offer, and such Products, services and features may not function as you desire.  If at any time you are uncomfortable with our use of your personal information, you may opt-out by telephone, mail or email as described in “Opting-Out or Updating Your Personal Information and Privacy Preferences.”  As discussed above, if you opt-out, then certain features and services may be unavailable to you.
+Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization
 
-#### Server Security
+We may also, on occasion, provide some general usage information from the Products to our information providers for royalty-related, usage report, or similar purposes. Any information that we may provide to our information providers contains no personal details about individual users. Additionally, no information that we collect from your use of the website or products or that you provide to us is ever sold to third parties.
 
-The Avention servers are physically secure and may only be accessed by Avention’s technical or support personnel whose jobs specifically relate to maintaining the integrity of the Avention servers or supporting product-related functions. Such individuals are required to maintain the security of the servers and the confidentiality of the information contained in the servers.  Avention takes all reasonable and appropriate steps to protect your personal information, including by encrypting such information, maintaining readily accessible steps to limit access, working to detect unauthorized access, and not storing such information any longer than we need to.
+Hoover's shares information with third party service providers, such as credit card processors, auditors, attorneys, consultants and contractors, in order to support Hoover's Internet websites and business operations. Hoover's contractually requires that these recipients only use the information for the intended purpose of the disclosure and that they destroy or return the information when it is no longer needed. When necessary or appropriate, we may disclose information in response to a court order, subpoena, law enforcement proceeding, regulatory inquiry or when otherwise legally required. We may also disclose information as required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving Hoover's assets or business. From time to time, Hoover's compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience and operational benchmarking initiatives.
 
-#### Third Party Sites
+Also, be advised that Hoover’s sometimes receives requests (e.g., court order, subpoena, law enforcement proceeding) for personal information from public authorities to meet national security or law enforcement requirements. Adherence to these Principles is limited (a) to the extent necessary to meet national security, public interest, or law enforcement requirements or (b) by statute, government regulation or case law that creates conflicting obligations or explicit authorizations.
 
-As a visitor to the Website or a subscriber to the Products, you may decide to visit a third party’s website through links available on our Website or in the Products. Although the Avention branding may still be visible, you will be subject to that third party’s privacy policy, if one exists. We encourage you to review the privacy policies of third party websites you choose to visit. Avention is not responsible for how that third party may collect or use your personal information.
+### You Have Choices
 
-#### Account Maintenance Option
+Hoover's respects your privacy preferences and offers the following ways through which you may control how we contact you and disclose your information. We will honor your requests accordingly. Hoover's E-mail Marketing: We provide individuals with the opportunity to opt out of receiving Hoover's promotional e-mails, newsletters and updates about new Hoover's products and services. You can manage your e-mail communication preferences in our E-mail Preference Center, <http://businessinsight.dnb.com/ManageYourPreferences> or you may call Hoover's Customer Support at 1-800-486-8666 and opt out of our promotional e-mails. You may change your preferences at any time. We may continue to send you transactional or service-related e-mails, such as communications regarding your account or subscription service, despite your desire to not receive promotional or marketing e-mail messages. Hoover's Telemarketing: We provide businesses with the opportunity to place themselves on our company's internal Do Not Call list should they no longer wish to receive telemarketing calls from us. We may continue to call you for transactional or service-related purposes despite your desire to not receive telemarketing calls.
 
-You may access your personal information electronically in the Business Browser product through the Account Maintenance option that is accessible from the shortcuts menu located in the navigation bar, or by sending a request to Avention for such access at [privacy@avention.com](mailto:privacy@avention.com). You may change your personal information as often as you like and even print out a copy of the personal information for your records. Further, you may elect to change your preferences with respect to your personal information at any time, in accordance with the appropriate procedures set forth herein.
+Hoover's Direct Mail Marketing: We provide businesses with the opportunity to place themselves on our company's internal Do Not Mail list should they no longer wish to receive marketing or promotional mailers. We may continue to send you transactional or service-related correspondence despite your desire to not receive marketing mailers.
 
-#### Governing Law
+Third-Party Marketing: Individuals whose business contact information we have in our business and professional contacts databases may request to be excluded from business lists that Hoover's licenses or sells for marketing purposes. An individual who wishes to be removed from our marketing list sales may request to be "de-listed" either in writing or by calling Hoover's Customer Support, resulting in that individual's business contact record removal from our marketing directories, publications and mailing lists. For additional information or to request removal, please contact Hoover's Customer Support at 1- 800-486-8666 or send an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com) While we may remove your individual business contact information from our professional contacts directories and marketing lists, please be aware that we will continue to provide your company's contact information in our company reports and other products and services.
 
-The terms of this Privacy Policy are governed by and in accordance with the laws of the Commonwealth of Massachusetts, USA. You should not provide us with any personal information, visit this Website or otherwise utilize any of the Products, services or features offered by Avention unless you consent to the application of United States law and, where applicable, Massachusetts law, and to the use and disclosure of your information in accordance with the terms of this Privacy Policy.
+Website Use Information: You have additional choices regarding website use information that our third party advertisers and partners may collect or receive through the employment of cookies, Web beacons, pixel tags, clear GIF's and other similar media. Please see the "Third Party Advertisers" section below for more information.
 
-#### If You Have a Concern
+### Hoover's Community Forum
 
-Should you have a concern about Avention’s collection or use of your personal information, Avention would like to hear about it. You may contact our Help Desk in the United States at 1-800-433-0287 or in the United Kingdom at +44(0)1483-241241 or elsewhere at +1-978-318-4650. You may also email us at [privacy@avention.com](mailto:privacy@avention.com) or write to Customer Service at our corporate headquarters identified below.
+When you sign up to participate in Hoover's Community Forum, we will collect personally identifiable information in order to establish your profile. You may choose to make certain individual profile elements public, in which case that information will be available to Hoover's Community Forum website visitors and possibly to other users of the Internet. Any information that you submit and post via Hoover's Community Forum will be available to Community Forum website visitors and may be viewable to anyone online. Your postings will be associated with your username and your voluntarily created public profile. Violation of our Terms of Use agreement may result in the removal of your post(s) and/or the termination of your membership.
 
-#### Who We Are
+### Access and Correction
 
-Avention, Inc. is providing this privacy statement to you as a registered user of one or more of the Products or as a visitor to the Website. We may change this privacy statement from time to time and will post those changes here to keep you up-to-date on how we may be collecting and using your personal information. Our corporate headquarters is located at 300 Baker Avenue, Concord, Massachusetts 01742 in the United States. You may reach our U.S. corporate headquarters by telephone at 1-978-318-4300 or fax 1-978-318-4690.
+To help ensure data quality and accuracy, Hoover's provides businesses and business professionals with access to their business information within the Hoover's databases and with an opportunity to correct verified inaccuracies. Authorized business representatives and registered users may correct inaccurate information as well as update business and business contact data by calling Hoover's Customer Support at 1-800-486-8666 or by sending an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com) When a business owner, principal or registered user contacts Hoover's about a potential data error, we will promptly investigate the issue, confirm the information in question, correct verified inaccuracies and respond to the original inquiry.
 
-California Civil Code Section 1798.83 permits customers of Avention who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us an email at [privacy@avention.com](mailto:privacy@avention.com).
+If you have a question regarding Hoover's products, services or information management practices, if you would like to contact us or if you would like to provide us with your valued feedback, please visit the Hoover's Customer Support center for additional information. If you are a citizen of the EU, you may contact [customerhelp@dnb.co.uk](mailto:customerhelp@dnb.co.uk).
+
+### Cookies, Web Beacons, Pixel Tags and GIF's
+
+We design the layout and features of our website so that new visitors may anonymously learn about our products and services without revealing their identities. For new visitors, we use cookies or Web beacons to collect limited data, such as the date, time and areas of our website that are visited, as well as the website from which the new visitor came. When you select one of our products or services, register for a newsletter or e-mail alert, or complete a survey, we may try to identify your browser and we may combine information from cookies, Web beacons and other information collected online with other data that we maintain about you. By improving the features, marketing and content of our website and by making your online experience more convenient and meaningful, we are able to better serve our customers' needs. A cookie is a small text file that is stored on your computer's hard drive and that often includes an anonymous unique identifier. When you visit a website, that website's computer asks your computer for permission to store this text file in a section of your hard drive that is specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it. Your browser will only permit a website to access the cookies that it has previously sent to you and not the cookies sent to you by other websites. Some of our business partners, such as third party advertisers, use cookies that originate from their websites. We have no access to, or control over, these cookies. For more information, please see the "Third Party Advertisers" section below. We use cookies to store login or other information on your computer, which serves to help improve our website functionality, tailor our services and marketing efforts to you, and prevent, detect and investigate potentially prohibited or illegal activities, including enforcing our Terms of Use agreement. For services we may offer users the ability to store a user ID or password within a cookie so that they do not need to re-enter it when they subsequently return. Cookies, in conjunction with our Web server's log files, allow us to calculate the number of people visiting our website and to assess which parts of the site are most popular. This information helps us to constantly improve our website and better serve our customers. We do not store credit/debit card numbers in cookies. Most Internet browsers allow users to decide whether to accept cookies and how long to keep them on their hard drive. You may reset your browser to refuse cookies and still use our website, although website access and functionality may be slower and less convenient.
+
+A Web beacon is a graphic image, such as a pixel tag or clear GIF, which is placed on a Web page or in an e-mail message to monitor user activity, such as whether the Web page or e-mail message is accessed or clicked. They are often invisible because they are very small in size. They are also used on many Web pages for alignment purposes. We sometimes use Web beacons to provide an independent accounting of how many people visit our website or to gather statistics about browser usage on our website. Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies. It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes. Web beacons may also be loaded from a different Web server than the rest of the page. We use third party advertising companies to serve ads when you visit our website. In the course of serving advertisements, our third party advertisers and partners may place or recognize a unique cookie on your browser. These companies may use information about your visits to Dun & Bradstreet and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. These third party partners monitor how guests use our website and determine which of our online features they prefer. We may report information to our partners about our customers and the products and services they order, as well as aggregated, non- identifiable information about our guests' use of our website. For more information, please see the "Third Party Advertisers" section below.
+
+### Location-Based Information
+
+To provide location-based services on the mobile-optimized versions of Hoover’s products (examples: Mobile IQ and Mobile IQ Plus), we may collect and use precise location data, including the real-time geographic location of your mobile device or computer. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your device’s approximate location.
+
+The Hoover’s location-based services, such as the mapping features, require collection of your location for the feature to work. You may withdraw consent to Hoover’s and its collection, use, transmission, processing and maintenance of location data at any time by not using the products that use location-based features or by turning off Location Services settings (as applicable) on your device and computer.
+
+### Third Party Advertisers
+
+We use third party advertising companies to serve our Internet ad banners on our website and other websites on which we advertise. If you view a Web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie that they previously placed on your computer. These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads. We do not disclose any personally identifiable information to these companies. We share aggregate website usage information with third party advertisers and partners for the purpose of effectively targeting our online advertisements. Unless you are previously notified, these advertising companies do not link any online behavior or cookies with other information that can be used to personally identify you, such as your name, address, telephone number or e-mail address, when working with Hoover's.
+
+These third party advertising networks also track visitors' online usage and behavior patterns. These companies may use information about your visits to Hoover's and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The result of these efforts is the creation of an online profile that attempts to predict individual user interests, preferences and purchasing habits. The third party advertising networks then accordingly customize the advertising content served to users when visiting other websites.
+
+The Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the NAI website, [NAI website](http://www.networkadvertising.org/).
+
+Our third-party advertisers may also use Adobe Analyticsto place third-party cookies on your browser in order to collect anonymous and aggregated session data, such as the ads that are viewed. You may opt out of Adobe Analytics cookie tracking by visiting the Adobe Analytics website <http://www.adobe.com/privacy/opt-out.html>
+
+### Data Security
+
+Hoover's maintains commercially reasonable security measures to protect personal information against unauthorized access and disclosure and that are consistent with our business operations and generally accepted industry standards. These measures include the implementation of commercially reasonable technical, physical and administrative data security safeguards. Hoover's requires employees to complete appropriate training on data management and security practices. Hoover's also manages a service provider due diligence and oversight program to ensure that our vendors likewise employ adequate data collection, processing, transfer, management and security measures in carrying out their services on our behalf. There is no such thing as "guaranteed security," whether conducting business online or offline. Having established this fact, Hoover's employs commercially reasonable and appropriate data security safeguards that are consistent with our business operations and generally accepted industry standards.
+
+Data security is our priority and we commit ourselves to safeguarding our customers' data. We do this by:
+
+  * Establishing policies and procedures for securely managing information;
+  * Limiting employee access to sensitive information;
+  * Protecting against unauthorized access to customer data by using data encryption, authentication and virus detection technology, as required;
+  * Requiring service providers with whom we do business to comply with relevant Data Privacy legal and regulatory requirements;
+  * Monitoring our websites through recognized online privacy and security organizations;
+  * Conducting background checks on employees and providing Data Privacy training to our team members; and
+  * Continually assessing our Data Privacy, information management and data security practices.
+
+
+
+### Children
+
+The Hoover website is a business information site providing contact information on working professionals. It is not targeted, intended or expected to be of use to children. User provided contributions of content or contact information regarding or about children are expressly prohibited.
+
+### Changes to Hoover's Data Privacy Practices
+
+If we make material changes to our Data privacy practices, we will post these changes on our website in order to keep you informed of how we collect, use, manage, disclose and protect our information assets. Such changes will be posted in this section of our online privacy notice and the policy effective date will be updated accordingly.
+
+### Sale Hoover’s Assets
+
+In the event that Hoover’s is purchased or sells parts or all of the business, the information collected will be considered an asset that can be transferred.
+
+### Transfers of Personal Information from EU to the US – Privacy Shield
+
+Dun & Bradstreet and the legal entities identified in its Privacy Policy, which includes Hoover’s Inc. and Avention, Inc. adhere to the Privacy Shield principles for personal data transferred from the EU to the US. Dun & Bradstreet certifies under the Privacy Shield which is administered by the U.S. Department of Commerce. For information about the Privacy Shield and a list of certified companies, go to:
+
+[https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).
+
+Dun & Bradstreet and Hoover’s is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+### Other Transfer Mechanisms
+
+Dun & Bradstreet also complies with EU to US cross border transfer requirements by entering into standard contractual clauses or using other mechanisms available under the EU Data protection laws.
+
+Dun & Bradstreet complies with the applicable laws regarding transfers from the EEA to the US.
+
+Dun & Bradstreet also complies with applicable US-Swiss transfer mechanisms.
+
+### Dispute Resolution
+
+This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU/EEA you should contact us at:
+
+[EUDPO@dnb.com](mailto:EUDPO@dnb.com) or [customerhelp@dnb.co.uk](mailto:customerhelp@dnb.co.uk)
+
+If you are not a citizen of the EU and you have a question or concern regarding Hoover’s data privacy practices, please contact the Chief Privacy Officer [at privacyofficer@dnb.com](mailto:privacyofficer@dnb.com) or Hoover's Customer Support at 1-800-486-8666 or by sending an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com).
+
+### Independent Dispute Resolution –
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+### Arbitration
+
+Under the Privacy Shield, arbitration is an option available to an individual as a final recourse for claims that a Privacy Shield organization has violated its obligations under the Privacy Shield Principles and the claim is not fully resolved by other Privacy Shield recourse mechanisms. The arbitration will be implemented in accordance with the rules established under the Privacy Shield.
+
+### Your Use of Our Website Is Consent
+
+By using our website, you hereby consent to our collection, use, management, retention and disclosure of your information as described in this notice.
+
+### California Residents
+
+California Civil Code Section 1798.83 permits customers of Hoover’s who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us an email at [customersupport@hoovers.com](mailto:customersupport@hoovers.com).
+
+### Contact Hoover's
+
+For questions or complaints regarding Hoover's Data Privacy practices, please visit the Hoover's Customer Support center, e-mail us at [customersupport@hoovers.com](mailto:customersupport@hoovers.com) or call 1-800-486-8666. We will do our best to resolve any complaints or issues as quickly as possible.
+
+For more information regarding this online privacy notice, please contact:
+
+Privacy Officer  
+Dun & Bradstreet  
+103 JFK Parkway  
+Short Hills, NJ 07078  
+[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)  
+
+
+ 
+
+For further information about Dun & Bradstreet’s handling of EU Data, please contact the Dun & Bradstreet EU Data Protection Officer at [EUDPO@dnb.com.](mailto:EUDPO@dnb.com)
+
+Effective Date of this Policy: March 6, 2017
+
+This update to the privacy policy has been done to reflect minor changes following Dun & Bradstreet’s acquisition of Avention, Inc.
+
+Previous update to this privacy policy was dated September 21, 2016.
+
+©Hoover's, Inc., 2017. All rights reserved.
