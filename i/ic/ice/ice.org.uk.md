@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ice.org.uk privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019101645id_/https%3A//www.ice.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.org.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143915id_/https%3A//www.ice.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Institution of Civil Engineers (ICE)
+# Privacy policy | Institution of Civil Engineers
 
 ## Privacy policy
 
@@ -65,5 +65,3 @@ The only third party cookies we use are those required for Google Analytics (whi
 ### I want to find out more about cookies
 
 If you want to learn more about cookies in general, and the laws surrounding their use, then [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie) is a good place to start is , which has a detailed description of what cookies are and how they're used. To find out more about the law surrounding cookies, [Out-Law.com](http://www.out-law.com/page-5486) provides a comprehensive description of the rules about their use, from both a UK and EU law perspective. 
-
-**Document last modified:** 19 October 2015
