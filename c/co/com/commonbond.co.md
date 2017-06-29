@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806174118id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629210929id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
 
-Updated: December 7, 2015
+Updated: May 25, 2017
 
 Notice of California Privacy Rights
 
 ### Introduction
 
-Welcome to CommonBond. This Privacy Statement describes how CommonBond collects, receives and shares information about you from our website and any off-line communications we may have with you, e.g. emails, telephone calls, and personal communication, located at [http://commonbond.co/](https://web.archive.org/). This Privacy Policy, together with our Terms of Use govern your use of our website and our collection and use of your information.
+Welcome to CommonBond. This Privacy Statement describes how CommonBond collects, receives and shares information about you from our website and any off-line communications we may have with you, e.g. emails, telephone calls, text messages and personal communication, located at [http://commonbond.co/](https://web.archive.org/). This Privacy Policy, together with our Terms of Use govern your use of our website and our collection and use of your information.
 
 ### How Does CommonBond Work?
 
-Students who are interested in joining the CommonBond community apply for student loans that are either issued by a partner bank, who makes all decisions on issuing or denying such student loans, or originated by CommonBond Lending, LLC.
+CommonBond offers loans for current undergraduate and graduate students, refinancing loans for people who have already graduated and contributions processing for people participating in their employer’s student loan benefits program. Loans are originated by CommonBond Lending, LLC.
 
 ### What Information Does CommonBond Collect From Visitors to This Website?
 
-CommonBond collects the following information from students and visitors to our website:
+CommonBond collects the following information from students, graduates, and visitors to our website:
 
   * information you provide on our website such as contact information, school affiliation or feedback; and
   * basic traffic information about your visit such as IP address, host name and pages on our site visited.
   * loan application information such as social security number, income, and assets loan decisions. Such information may be shared with a partner bank.
+  * Existing student loan information such as existing balances and loan servicer information.
 
 
 
@@ -41,7 +42,7 @@ We may use cookies and similar technologies such as web beacons to support the f
 
 ### Children and Privacy
 
-This website is not intended for by children. If you are under 18, you may use this website only with the involvement of a parent or guardian. If you are a parent or guardian and believe that we may have inadvertently collected personal information from your child, please notify us immediately by sending an email to [info@commonbond.co](mailto:info@commonbond.co).
+This website is not intended for use by children. If you are under 18, you may use this website only with the involvement of a parent or guardian. If you are a parent or guardian and believe that we may have inadvertently collected personal information from your child, please notify us immediately by sending an email to [info@commonbond.co](mailto:info@commonbond.co).
 
 ### How Does CommonBond Use Information Collected From Visitors to This Website?
 
@@ -58,11 +59,11 @@ We use information collected from website visitors to improve the content and br
 
 ### Remarketing
 
-This website uses Google AdWords as a third party remarketing service to advertise across the internet to previous visitors of our website. Third-party remarketing services including Google, will use cookies and pixel tags (action tags) on your web browser to collect non-identifiable information about your visits and interaction with our website and display advertisements based on these past visits. The advertisements could be in the form of an advertisement on a Google search results page, a site in the Google Display Network, a banner or link. You can set preferences for how Google advertises to you using the [Google Ad Settings](http://www.google.com/settings/ads) page or opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://http//www.networkadvertising.org/choices/). If you want to you can opt out of interest-based advertising entirely by changing your cookie settings or permanently using a browser plugin.
+This website uses Google AdWords as a third party remarketing service to advertise across the internet to previous visitors of our website. Third-party remarketing services including Google, will use cookies and pixel tags (action tags) on your web browser to collect non-identifiable information about your visits and interaction with our website and display advertisements based on these past visits. The advertisements could be in the form of an advertisement on a Google search results page, a site in the Google Display Network, a banner or link. You can set preferences for how Google advertises to you using the [Google Ad Settings](http://www.google.com/settings/ads) page or opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. If you want to you can [opt-out page](http://http//www.networkadvertising.org/choices/) of interest-based advertising entirely by changing your cookie settings or permanently using a browser plugin.
 
 ### Opt Out
 
-You may choose to opt-out of receiving unrequested communications by clicking “unsubscribe” of a given communication or by emailing info@commonbond.co.
+You may choose to opt-out of receiving unrequested communications by clicking “unsubscribe” of a given communication or by emailing [info@commonbond.co](mailto:info@commonbond.co).
 
 ### Security
 
