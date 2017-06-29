@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417004748id_/http%3A//www.columnpk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629215726id_/http%3A//columnpk.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy » ColumnPK - Daily Latest Urdu Columns - Pakistani Columnists
+# Privacy – ColumnPK – Daily Urdu Columns – Pakistani Columnists
 
 The protection of your personal data, information and privacy is our prime concern. We are devoted to provide you the best service and for this purpose we need some of your personal information to use the service. You can also use the service without providing any personal information but if you want to take advantage of some of our special services you need to provide some of your personal information so we may better serve you in every possible way. **www.columnpk.net** is directly controlled by **columnpk.net** owner and team.  
 **Information:**  
