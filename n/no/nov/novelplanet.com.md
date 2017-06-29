@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the novelplanet.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130123744id_/http%3A//novelplanet.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelplanet.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629211212id_/http%3A//novelplanet.com/Message/PrivacyPolicy) for the most accurate reproduction.*
 
-# novelplanet.com
+# Privacy Policy - NovelPlanet
 
-Privacy Policy
+**Cookies & 3rd Party Advertisements**
 
-SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
-
-SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
