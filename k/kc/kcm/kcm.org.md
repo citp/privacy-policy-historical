@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229191237id_/http%3A//www.kcm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629052719id_/http%3A//www.kcm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenneth Copeland Ministries
 
@@ -16,6 +16,8 @@ When you purchase something from our site, as part of the buying and selling pro
 When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
 Email marketing: With your permission, we may send you emails about new products, free and premium content (like blog posts, content articles, YouTube videos, free product offers, live event alerts, etc.), and special announcements.
+
+Mobile: When you download or use apps created by Kenneth Copeland Ministries or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with personalized content and location based interactions. Most mobile devices allow you to turn off location services. For more information about how to do this, we recommend you contact your mobile service carrier or your device manufacturer.
 
  **SECTION 2 – CONSENT**
 
@@ -86,5 +88,7 @@ We reserve the right to modify this privacy policy at any time, so please review
  **QUESTIONS AND CONTACT INFORMATION**
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, [please contact us](https://web.archive.org/forms/customer-service).
+
+ **For terms of use** ,  **[please click here](https://web.archive.org/terms-use).**
 
 Any rights not expressly granted herein are reserved.
