@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034338id_/https%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630003524id_/https%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprout Social
 
-  * [ Privacy Policy ](https://web.archive.org/privacy-policy)
-  * [ Terms of Service ](https://web.archive.org/terms)
-  * [ Disclosure Policy ](https://web.archive.org/responsible-disclosure-policy)
-  * [ Use of Cookies ](https://web.archive.org/cookies-policy)
+Sprout Social™ is committed to the privacy of our customers and their data. Our Privacy Policy applies to all users of Sprout Social™ websites and services, including but not limited to [www.sproutsocial.com](https://www.sproutsocial.com/), [www.getbambu.com](https://www.getbambu.com/), and [www.mustbepresent.com](https://www.mustbepresent.com/) (depending on your use, the “Site”). Depending on the Sprout Social service you are using, the Sprout Social Terms of Service or the service-specific Terms of Service (respectively, the “Terms”) is incorporated herein by reference. Our Terms of Service are available at: 
 
-
-
-## Sprout Social, Inc. Privacy Policy
-
-Sprout Social™ is committed to the privacy of our customers and their data. Our Privacy Policy applies to all users of Sprout Social™ websites and services, including but not limited to [www.sproutsocial.com](https://www.sproutsocial.com/), [www.getbambu.com](http://www.getbambu.com/), and [www.mustbepresent.com](http://www.mustbepresent.com/) (depending on your use, the “Site”). Depending on the Sprout Social service you are using, the Sprout Social Terms of Service or the service-specific Terms of Service (respectively, the “Terms”) is incorporated herein by reference. Our Terms of Service are available at: 
-
-  * Sprout Social: <http://www.sproutsocial.com/terms>
+  * Sprout Social: <https://sproutsocial.com/terms>
   * Bambu: <https://getbambu.com/terms/>
-  * Landscape: <http://sproutsocial.com/landscape/terms>
+  * Landscape: <https://sproutsocial.com/landscape/terms>
   * Mustbepresent: <https://mustbepresent.com/#!tos/>
 
 
@@ -104,7 +95,7 @@ If you request that we do not share Your personal data with a third-party, that 
 
   9. ### Access, Correction and Deletion of Personally Identifiable Data
 
-You may request access to a report of the Personally Identifiable Information we maintain concerning Your use of the Service and you may request that the Personally Identifiable Information that we have collected and maintain be corrected or deleted. In order to make this request, please contact us at [support@sproutsocial.com](mailto:support@sproutsocial.com). Please be aware that if you request that we delete Your Personally Identifiable Information, You may no longer have access to the Service. If Your access to the Service is terminated based upon Your request that We delete Your Personally Identifiable Information, please be advised that Your resulting inability to use the Service shall not be a basis for a refund or to avoid charges for the Service that You previously agreed to. 
+You may request access to a report of the Personally Identifiable Information we maintain concerning Your use of the Service and you may request that the Personally Identifiable Information that we have collected and maintain be corrected or deleted. In order to make this request, please contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). Please be aware that if you request that we delete Your Personally Identifiable Information, You may no longer have access to the Service. If Your access to the Service is terminated based upon Your request that We delete Your Personally Identifiable Information, please be advised that Your resulting inability to use the Service shall not be a basis for a refund or to avoid charges for the Service that You previously agreed to. 
 
   10. ### Security Policy & User ID/Password
 
@@ -120,45 +111,35 @@ If we are acquired by or merged with another company, if substantially all of ou
 
   13. ### Notice to Residents of Countries outside of the United States of America
 
-Sprout Social™ is headquartered in the United States of America. Personally Identifiable Information may be accessed by us or transferred to us in the United States or to Our affiliates, business partners, merchants, or service providers elsewhere in the world. By providing us with Personally Identifiable Information, You consent to this transfer in compliance with applicable law (in the case of data transfers from the EEA or Switzerland, these data transfers are covered under the Privacy Shield Framework or the Safe Harbor Framework). We will protect the privacy and security of Personally Identifiable Information according to Our Privacy Policy, regardless of where it is processed or stored. See below for additional information about our participation in the Privacy Shield and Safe Harbor programs. 
+Sprout Social™ is headquartered in the United States of America. Personally Identifiable Information may be accessed by us or transferred to us in the United States or to Our affiliates, business partners, merchants, or service providers elsewhere in the world. By providing us with Personally Identifiable Information, You consent to this transfer in compliance with applicable law (in the case of data transfers from the EEA or Switzerland, these data transfers are covered under the Privacy Shield Framework). We will protect the privacy and security of Personally Identifiable Information according to Our Privacy Policy, regardless of where it is processed or stored. See below for additional information about our participation in the Privacy Shield program. 
 
   14. ### California Privacy Rights
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personally Identifiable Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personally Identifiable Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Sprout Social™ pursuant to Section 1798.83 of the California Civil Code, please contact us via email to [support@sproutsocial.com](mailto:support@sproutsocial.com). 
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personally Identifiable Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personally Identifiable Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Sprout Social™ pursuant to Section 1798.83 of the California Civil Code, please contact us via email to [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
 
-  15. ### US - Switzerland Safe Harbor
+  15. ### EU - US Privacy Shield Framework and Swiss—US Privacy Shield Framework
 
-To the extent required by applicable statute related to your use of the Site and/or the Services, We comply with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of Personally Identifiable Information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Our certification page, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
-
-  16. ### BBB EU Safe Harbor Program: Privacy Complaints by Swiss Citizens
-
-To the extent required by applicable statute related to your use of the Site and/or the Services, in compliance with the US-Swiss Safe Harbor Principles, Sprout Social™, Inc. commits to resolve complaints about Your privacy and Our collection or use of Your Personally Identifiable Information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Us at [support@sproutsocial.com](mailto:support@sproutsocial.com). 
-
-To the extent required by applicable statute related to your use of the Site and/or the Services, We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Sprout Social, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
-
-  17. ### EU - US Privacy Shield
-
-Sprout Social has self-certified to the US – EU Privacy Shield Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of Personally Identifiable Information obtained from European Union member countries. Sprout Social has certified that its processing of Personally Identifiable Information from EU member countries and the European Economic Area is in accordance with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Principles”). You may view our certification at <https://www.privacyshield.gov/list>. Sprout Social is subject to the investigatory and enforcement authority of the Federal Trade Commission. 
+Sprout Social complies with the EU—U.S. Privacy Shield Framework and the Swiss—U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Sprout Social has certified to the Department of Commerce that it adheres to that its processing of Personally Identifiable Information from EU member countries, European Economic Area and Switzerland is in accordance with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Principles”). If there is any conflict between the terms in this privacy policy and the Principles, the Principles shall govern. To learn more about the Privacy Shield program and to view our certification, please visit <https://www.privacyshield.gov/list>. Sprout Social is subject to the investigatory and enforcement authority of the Federal Trade Commission. 
 
 **Information We Process.** We collect, in accordance with the Privacy Shield principles, the categories of information described in Section 1 (Information Collected) above. We process this information for the purposes described in Sections 4 (Use of Personally Identifiable Information), 6 (Market Research) and 7 (Use of Aggregate Data). 
 
-**Accessing Personally Identifiable Information.** The Privacy Shield Principles provide individuals located in the EU whose Personally Identifiable Information we process with the right to access their Personally Identifiable Information in order to review, correct, amend or delete information processed under the Principles. EU individuals that are Sprout customers who would like to access their Personally Identifiable Information may contact us at [support@sproutsocial.com](mailto:support@sproutsocial.com). If your Personally Identifiable Information was provided to Sprout Social by one of our customers (where Sprout Social serves as a data processor), you should contact our customer directly to access your information. 
+**Accessing Personally Identifiable Information.** The Privacy Shield Principles provide individuals located in the EU and Switzerland whose Personally Identifiable Information we process with the right to access their Personally Identifiable Information in order to review, correct, amend or delete information processed under the Principles. EU and Swiss individuals that are Sprout customers who would like to access their Personally Identifiable Information may contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). If your Personally Identifiable Information was provided to Sprout Social by one of our customers (where Sprout Social serves as a data processor), you should contact our customer directly to access your information. 
 
-**Transfers to Third Parties.** As described in Section 8 (When We May Disclose Your Information) above, we transfer Personally Identifiable Information from the EU to our third party data processors. We contractually require third parties to which we transfer Personally Identifiable Information to provide the same level of protections as the Principles. Sprout Social remains responsible for the Personally Identifiable Information we receive and transfer under Privacy Shield. 
+**Transfers to Third Parties.** As described in Section 8 (When We May Disclose Your Information) above, we transfer Personally Identifiable Information from the EU and Switzerland to our third party data processors. We contractually require third parties to which we transfer Personally Identifiable Information to provide the same level of protections as the Principles. Sprout Social remains responsible for the Personally Identifiable Information we receive and transfer under Privacy Shield. 
 
-In accordance with our legal obligations, we also may transfer, subject to a lawful request, Personally Identifiable Information to public authorities in the US or the EU for law enforcement or national security purposes. 
+In accordance with our legal obligations, we also may transfer, subject to a lawful request, Personally Identifiable Information to public authorities in the US or the EU and Switzerland for law enforcement or national security purposes. 
 
-**Contacting Us, Complaints and Dispute Resolution.** EU individuals who have questions or complaints about how we process their Personally Identifiable Information may contact us at [support@sproutsocial.com](mailto:support@sproutsocial.com). We will work to resolve your issue and will respond within 45 days of receipt. 
+**Contacting Us, Complaints and Dispute Resolution.** EU and Swiss individuals who have questions or complaints about how we process their Personally Identifiable Information may contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). We will work to resolve your issue and will respond within 45 days of receipt. 
 
-Sprout Social has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+Sprout Social has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss—U.S Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
 
-Individuals may also submit complaints through their local Data Protection Authority (DPA). We will work with the Department of Commerce to resolve any complaints forwarded by a DPA. Finally, if we are unable to resolve any complaints through any of the above methods, an EU individual may invoke binding arbitration in accordance with the Privacy Shield Framework. 
+Individuals may also submit complaints through their local Data Protection Authority (DPA). We will work with the Department of Commerce to resolve any complaints forwarded by a DPA. Finally, if we are unable to resolve any complaints through any of the above methods, an EU or Swiss individual may invoke binding arbitration in accordance with the Privacy Shield Framework. 
 
-  18. ### Privacy Complaints in Brazil
+  16. ### Privacy Complaints in Brazil
 
 In circumstances in which Brazil law is controlling, We commit to resolve complaints about Your privacy and Our collection or use of Your Personally Identifiable Information. We have further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism. 
 
-  19. ### Information and Other Rights, Contact
+  17. ### Information and Other Rights, Contact
 
 Upon written request, We would be happy to provide You with information as to whether – and if so, which – personal data We store in relation to You. Should Your personal data be incorrect, You may have this rectified immediately. Any such information or modification is free of charge. 
 
@@ -166,21 +147,21 @@ Moreover, You are entitled to revoke Your consent to use of data in the future, 
 
 In order to assert such rights, please contact Sprout Social at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
 
-  20. ### Sprout’s Access to Your Account
+  18. ### Sprout’s Access to Your Account
 
 You agree that Sprout Social™ can access Your account information in order to respond to Your service requests and/or as necessary, in Our sole discretion, to provide You with the Services. 
 
-  21. ### Your Acceptance of This Privacy Policy
+  19. ### Your Acceptance of This Privacy Policy
 
 This is Our entire Privacy Policy and it supersedes any earlier version. You agree to it every time You use the Site and/or Software. 
 
 If We make any material changes to this Privacy Policy, We will notify You by email or by posting a prominent notice on the Site prior to the change becoming effective. We encourage You to periodically review this page for the latest information on Our privacy practices. Your continued use of the Site or Service constitutes Your agreement to be bound by such changes to this Policy. Your only remedy, if You do not accept the terms of this Policy, is to discontinue use of the Site and Service. 
 
-  22. ### Questions About This Privacy Policy
+  20. ### Questions About This Privacy Policy
 
 Should You have a privacy question about the Site and/or Software, please email Our customer service department ([support@sproutsocial.com](mailto:support@sproutsocial.com)). 
 
 
 
 
-Effective: September 22, 2016
+Effective: June 28, 2017
