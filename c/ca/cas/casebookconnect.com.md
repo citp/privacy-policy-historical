@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casebookconnect.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327090624id_/http%3A//www.wklawbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casebookconnect.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629041221id_/http%3A//www.wklawbusiness.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -84,7 +84,7 @@ Wolters Kluwer Law & Business may use the information collected through these te
 
 Our vendors may also transfer this information to other third parties where required to do so by law, or where such third parties process the information on our behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of a Web Service. 
 
-We also use various third party vendors to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers in connection with our Web Services.  All data collected by these vendors on our behalf is owned and used by us.  For more information about who these vendors are and how they collect and analyze data, including the ability (if any) to opt-out of this collection of non-personally identifiable data, please [click here](http://www.wklawbusiness.com/privacy/vendors) for links to vendors we utilize in connection with our Web Services.
+We also use various third party vendors to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers in connection with our Web Services.  All data collected by these vendors on our behalf is owned and used by us.  For more information about who these vendors are and how they collect and analyze data, including the ability (if any) to opt-out of this collection of non-personally identifiable data, please [click here](https://lrus.wolterskluwer.com/privacy/vendors) for links to vendors we utilize in connection with our Web Services.
 
 Our websites and applications also may use local shared objects, also known as "Flash cookies" to store your preferences or display content based upon what you view on our websites to personalize your visit. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
