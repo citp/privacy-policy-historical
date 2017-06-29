@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222122008id_/http%3A//www.abc10.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630010147id_/http%3A//www.abc10.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | ABC10.com
-
-## Privacy Policy
+# ABC10 Privacy Policy | ABC10.com
 
 Last Updated: June 29, 2015
 
