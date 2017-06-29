@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopify.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120025id_/https%3A//www.shopify.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopify.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214543id_/https%3A//www.shopify.com/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Welcome to Shopify!
 
-This Privacy Policy was written to help you better understand how we collect, use and store your information. Since technology and privacy laws are always changing, we may occasionally update this policy. If a significant change is made, we will be sure to post a notice in your account admin. If you continue to use Shopify after these changes are posted, you agree to the revised policy.
+This Privacy Policy was written to help you better understand how we collect, use and store your information. Since technology and privacy laws are always changing, we may occasionally update this policy. If you are a Merchant and a significant change is made to this Privacy Policy, we will be sure to post anotice in your account admin. If you are not a Merchant, please review this Privacy Policy page at <https://www.shopify.com/legal/privacy> from time to time for updates. If you continue to use Shopify after these changes are posted, you agree to the revised policy.
 
-By signing up for any of the products or services offered by Shopify (together, the “Services”), or dealing with a merchant using Shopify’s Services, you are agreeing to the terms of this Privacy Policy and, as applicable, the [Shopify Terms of Service](https://www.shopify.com/legal/terms). This Privacy Policy is a legally binding agreement between you (and your client, employer or another entity if you are acting on their behalf) as the user of the Services (referred to in this Privacy Policy as “you” or “your”) and Shopify Inc. and its affiliates, including Shopify Data Processing (USA) Inc., Shopify Payments (USA) Inc., and Shopify (USA) Inc. (referred to in this Privacy Policy as “we”, “our”, “us” or “Shopify”). If we add any new features or tools to our Services, they will also be subject to this policy.
+By using any of the products or services offered by Shopify (together, the “Services”), or dealing with a merchant using Shopify’s Services, you are agreeing to the terms of this Privacy Policy and, as applicable, the [Shopify Terms of Service](https://www.shopify.com/legal/terms). This Privacy Policy is a legally binding agreement between you (and your client, employer or another entity if you are acting on their behalf) as the user of the Services (referred to in this Privacy Policy as “you” or “your”) and Shopify Inc. and its affiliates, including Shopify Data Processing (USA) Inc., Shopify Payments (USA) Inc., and Shopify (USA) Inc. (referred to in this Privacy Policy as “we”, “our”, “us” or “Shopify”). If we add any new features or tools to our Services, they will also be subject to this policy.
 
 When we use the term “Personal Information” in this policy, it means any information related to an identifiable individual, but does not include the name, title, business address, or telephone number of an employee of an organization.
 
@@ -81,18 +81,19 @@ Partners are individuals or businesses that have agreed to the terms of the [Sho
 
 ### What information do we collect and why?
 
-  * From Shopify website visitors, we collect information about the device and browser you use, your network connection and your IP address. We may also receive Personal Information when you purchase tickets or make other requests to Shopify via any of our websites.
+  * From Shopify website visitors, we collect information about the device and browser you use, your network connection and your IP address. We also collect Personal Information submitted by you via any messaging feature available from any of our websites (“Messaging Feature”).
+  * We may also receive Personal Information when you purchase tickets or make other requests to Shopify via any of our websites.
   * From telephone support users, we collect your phone number and call audio.
   * From chat support users, we collect your name, email address, information about the device and browser you use, your network connection, your IP address and chat transcript.
   * From forum users, we collect your name, email address and website URL.
 
 
 
-We use this information to service your account, enhance our Services, and answer any questions you may have.
+We use this information to provide and enhance our Services (including servicing your account, if applicable), and answer any questions you may have.
 
 ### When do we collect this information?
 
-  * We collect this information when you visit Shopify-hosted webpages or engage with us either by email, web form, instant message, phone, or post content on our websites (including forums & blogs). We also collect any additional information that you might provide to us.
+  * We collect this information when you visit Shopify-hosted webpages, use Services offered on our websites or engage with us either by email, web form, instant message, phone, or post content on or through our websites (including forums, blogs and via any Messaging Feature). We also collect any additional information that you might provide to us.
 
 
 
@@ -175,8 +176,6 @@ Chief Privacy Officer
 (613) 241-2828  
 
 
-Last updated: September 27, 2016  
-© 2016 Shopify Inc.  
+Last updated: May 31, 2017  
+© 2017 Shopify Inc.  
 
-
-## Start your free 14-day trial today!
