@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpost.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110003354id_/http%3A//globalpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013339id_/https%3A//www.pri.org/privacy) for the most accurate reproduction.*
 
 # PRI.org privacy policy | Public Radio International
 
