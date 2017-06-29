@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altitudedigital.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116172327id_/http%3A//altitudedigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altitudedigital.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630001254id_/https%3A//altitudedigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Altitude Digital
 
