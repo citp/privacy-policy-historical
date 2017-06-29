@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126193901id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629195915id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
 
 # Security Policy | Cloudflare
 
@@ -30,11 +30,7 @@ Cloudflare collects and maintains certain information from our users for the pur
 
 ## COOKIES:
 
-Our site and services use "cookies" in order to provide a better service to you. Cookies are placed by a browser onto your computer's hard drive to assign a unique identification to that computer. For example, we may use cookies to help direct you to the appropriate part of our website, by indicating that you are a repeat visitor to our website. We may also use information provided to us to present you with services that are customized to your preferences. Cloudflare does not store information we consider personal or private in a cookie, unless that information is obscured.
-
-Some portions of our website are functional without cookies. You may delete Cloudflare's cookies yourself through your browser's cookie manager. However, disabling cookies will reset your session, disable auto-login, and may adversely affect other functions on the Cloudflare website and the services we provide.
-
-As part of our services, we may place cookies on the computers of visitors to Cloudflare protected websites. We do this in order to identify malicious visitors, reduce the chance of blocking legitimate users, and to provide customized services.
+Our site and services use "cookies" in order to provide a better service to you. Further information on our use of cookies can be found at <https://www.cloudflare.com/cookie-policy/>
 
 ## DATA AGGREGATION:
 
@@ -62,9 +58,9 @@ If you purchase Cloudflare’s registrar service, ICANN and the registry operato
 
 ## INTERNATIONAL DATA TRANSFERS:
 
-Cloudflare has certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. A detailed description of how we comply with the Privacy Shield Principles can be found [here](https://web.archive.org/privacyshield/). For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website [here](https://www.privacyshield.gov/welcome). Please note that our Privacy Shield certification will become active once formally accepted by the U.S. Department of Commerce.
+Cloudflare has certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. A detailed description of how we comply with the Privacy Shield Principles can be found [here](https://web.archive.org/privacyshield/). For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website [here](https://www.privacyshield.gov/welcome).
 
-Cloudflare also abides by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, and we’ve certified that we adhere to the Safe Harbor Principles. For more information on the U.S.-Swiss Safe Harbor Framework and to view a copy of our certification, please visit [here](http://www.export.gov/safeharbor/). If you have questions regarding our compliance with the U.S.-Swiss Safe Harbor Framework, please contact [privacy@cloudflare.com](mailto:privacy@cloudflare.com) or write to us at: Cloudflare Trust and Compliance, 101 Townsend St., San Francisco, CA 94107. As part of our participation in this Safe Harbor Framework, we’ve also agreed to dispute resolution by TRUSTe, our U.S.-based third party dispute resolution provider, for disputes relating to our compliance. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe (free of charge) [here](https://feedback-form.truste.com/watchdog/request). Complaints must include the following information: the name and contact details of the data subject, the alleged privacy violation, and whether the particulars of the complaint should be shared with our customer, if not the data subject. The TRUSTe dispute resolution process shall be conducted in English.
+Cloudflare also abides by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, and we’ve certified that we adhere to the Safe Harbor Principles. For more information on the U.S.-Swiss Safe Harbor Framework and to view a copy of our certification, please visit [here](http://www.export.gov/safeharbor/). If you have questions regarding our compliance with the U.S.-Swiss Safe Harbor Framework, please contact [privacy@cloudflare.com](mailto:privacy@cloudflare.com) or write to us at: Cloudflare Trust and Compliance, 101 Townsend St., San Francisco, CA 94107. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ACCESSING OR USING OUR SITES OR SERVICES, OR OTHERWISE PROVIDING INFORMATION TO US OR OUR CUSTOMERS, CONSTITUTES CONSENTING TO OUR POTENTIAL TRANSFER, PROCESSING AND STORAGE OF SUCH INFORMATION IN THE UNITED STATES.
 
@@ -78,8 +74,8 @@ This Policy was last updated on September 30, 2016.
 
 ## CONTACT INFORMATION:
 
-Attention: Trust and Compliance  
-Cloudflare, Inc.  
-101 Townsend St.  
-San Francisco, CA 94107  
+Attention: Trust and Compliance   
+Cloudflare, Inc.   
+101 Townsend St.   
+San Francisco, CA 94107   
 privacy@cloudflare.com
