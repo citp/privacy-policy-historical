@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121222035id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629160651id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ASX
 
@@ -13,6 +13,7 @@
   * How to access your Personal Information?
   * Web site collection and Direct Marketing
   * Notification of Collection of Personal Information
+  * Avoiding Phishing and Scams
   * Links to other Sites
   * Contact Us
   * Updates to this Privacy Statement
@@ -110,6 +111,18 @@ We may also from time to time email you about an event or new feature/service th
 ASX will notify you at the time of collecting Personal Information.  The Notification of Collection statement covers the following:
 
 “ _This information is collected by ASX to facilitate the provision of a product or service. Failure to provide this information to ASX is likely to prevent ASX from being able to offer you the product or service. Should you wish to, you can access the information you provide to ASX by contacting the ASX. ASX may from time to time use external service providers but will not disclose personal information you provide to any other organisations or individuals, unless required or authorised by law to do so or unless you consent to the disclosure. ASX does not generally provide personal information to overseas parties but does use international service providers for technological solutions. If you would like to contact us or lodge a complaint please refer to the ASX's Privacy  Policy for further details._”
+
+### Avoiding Phishing and Scams
+
+  
+
+
+If you are a broker-sponsored investor on ASX, we will hold your personal and financial information in CHESS, our clearing and settlement facility. This information will include your HIN (Holder Identification Number), your name, address and any email address, your residency status and the financial products you hold in CHESS. When communicating with ASX, we may ask you to confirm those details to assist us with identification. However, we will never ask you to provide other personal or financial information such as passwords, date of birth, bank account balances, portfolio balances or your personal bank account details, or instruct you to pay funds into third party bank accounts.
+
+  If you receive a communication from someone who claims to be from ASX and who asks you to provide your personal or financial information, this may indicate that you are the target of a scam. If this happens to you, please immediately report this to ASX by calling 131 279 or by sending the details to us at [info@asx.com.au](mailto:info@asx.com.au).
+
+Your prompt action can assist us to minimise the impact to other market users of ASX-related scam activity.    
+You can report any non-ASX related scam activity to SCAMwatch (a scam reporting website run by the Australian Competition and Consumer Commission) at <http://www.scamwatch.gov.au/>.
 
 ### Links to other Sites
 
