@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themerkle.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124165316id_/http%3A//themerkle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themerkle.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629223317id_/https%3A//themerkle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Merkle
 
