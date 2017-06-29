@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124141259id_/http%3A//www.loonmtn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629101232id_/http%3A//loonmtn.com/privacy-policy) for the most accurate reproduction.*
 
 # Boyne Resorts Privacy Policy
 
@@ -183,7 +183,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Choice/Opt-out**
 
-If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or email communication. We offer an opportunity to opt-out of certain communications on our profile page [www.LoonMtn.com/eNewsPreference](http://www.loonmtn.com/enews-preference-center), or you may contact us at [privacy@loonmtn.com](mailto:privacy@loonmtn.com) or by mail (See the "Contact Us" section) to opt-out.
+If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or email communication. We offer an opportunity to opt-out of certain communications on our profile page [www.LoonMtn.com/eNewsPreference](http://loonmtn.com/enews-preference-center), or you may contact us at [privacy@loonmtn.com](mailto:privacy@loonmtn.com) or by mail (See the "Contact Us" section) to opt-out.
 
 Through the use the profile page mentioned above, individuals would also be able to update their personally identifiable information they have on record with Boyne USA Resorts.
 
