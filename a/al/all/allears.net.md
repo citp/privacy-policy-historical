@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124025644id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629043401id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-RYI Enterprises, LLC, (RYI) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™** , and the **Ears to Ears™** moderated forum on Yahoo.
+RYI Enterprises, LLC, (RYI) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™**.
 
 RYI has created this **privacy statement** in order to demonstrate our firm commitment to the users' privacy. The following discloses the information gathering and dissemination practices for **AllEars.net** **®.**
 
@@ -26,7 +26,7 @@ RYI will not knowingly or intentionally disclose, give, sell or transfer any per
 
 If you choose to subscribe to our weekly newsletter, **ALL EARS®** , you will have to provide an e-mail address. **ALL EARS®** is only delivered electronically.
 
-RYI utilizes Ad-rotator.com for banner rotation and statistics. Ad-rotator.com maintains information on each visitor and all associated data for the last 7 days. Other information is kept in compact forms. Ad-rotator also tracks how many people are currently active on the site, where they are and came from, which ads were viewed at what time. AllEarsNet® webmasters have access to this information. 
+RYI utilizes **[adspeed.com](http://adspeed.com/)** for banner rotation and statistics. **[adspeed.com](http://adspeed.com/)** maintains information on each visitor and all associated data for the last 30 days. Other information is kept in compact forms. **[adspeed.com](http://adspeed.com/)** also tracks how many people are currently active on the site, where they are and came from, which ads were viewed at what time. AllEarsNet® webmasters have access to this information. 
 
 ### INFORMATION USE
 
@@ -34,11 +34,15 @@ We reserve the right to perform statistical analysis of user behavior and charac
 
 ### COOKIES
 
-A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not request cookies of its visitors.** However, our banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information. 
+A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not require cookies of its visitors.** However, our ad and banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information and it is subject to the privacy policies of those third parties.
 
-If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Netscape) or Internet Options (Microsoft Internet Explorer) feature to disable cookies. 
+If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Firefox) or Internet Options (Microsoft Internet Explorer) feature to disable cookies.
 
-If you disable cookies you may not be able to use certain features on the **AllEars.net®** websites. Also, the disabling of cookies may prohibit your participation in contests and drawings.
+If you disable cookies you may not be able to use certain features on the AllEars.net® website. Also, the disabling of cookies may prohibit your participation in contests and drawings.
+
+#### **Special Note About Google Advertising**
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. [Learn how to opt out of Google's cookie usage](https://tools.google.com/dlpage/gaoptout/). Any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
 
 ### REGISTRATION FORMS 
 
@@ -102,4 +106,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 [**admin@allears.net**](mailto:admin@allears.net)
 
-This Privacy Policy was last modified on January 6, 2008.
+This Privacy Policy was last modified on June 20, 2017 
