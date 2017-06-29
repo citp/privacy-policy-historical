@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ingress.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805030844id_/http%3A//www.nianticlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingress.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629162818id_/http%3A//www.nianticlabs.com/privacy) for the most accurate reproduction.*
 
-# Niantic, Inc. Privacy Policy
-
-Niantic, Inc. Privacy Policy
+# Niantic, Inc. Privacy Policy - Niantic
 
 **Last Updated: October 6, 2015**
 
