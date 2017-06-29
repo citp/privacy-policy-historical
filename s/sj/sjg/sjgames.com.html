@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the sjgames.com privacy policy that was archived on 2016-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126085119id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sjgames.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629130533id_/http%3A//www.sjgames.com/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Steve Jackson Games: Privacy Policy</title>
-<link rel="stylesheet" href="/css/borderbox.css?v=265119" type="text/css">
-<link rel="stylesheet" href="/css/goldpage.css?v=265119" type="text/css">
-<link rel="stylesheet" href="/css/general.css?v=265119" type="text/css">
+<link rel="stylesheet" href="/css/borderbox.css?v=29534" type="text/css">
+<link rel="stylesheet" href="/css/goldpage.css?v=29534" type="text/css">
+<link rel="stylesheet" href="/css/general.css?v=29534" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"><!--
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -19,33 +19,43 @@ ga('overviewTracker.require', 'displayfeatures');
 ga('overviewTracker.linker:autoLink', ['warehouse23.com', 'worldofmunchkin.com', 'forums.sjgames.com', 'basement.warehouse23.com'], true);
 ga('overviewTracker.send', 'pageview');
 
-ga(function() {
-  var newPath = location.pathname + location.search;
-  if (history.replaceState) history.replaceState(null, '', newPath);
-});
 
+ga(function() {
+  var l = window.location;
+  if( l.hash.indexOf( "ga" ) != -1 )
+  {
+    var anchor = l.hash.match(/#(?!ga)[^&]+/);
+    anchor  =   anchor? anchor[0]: '';
+    gaCheck = "_ga";
+    if (anchor.includes(gaCheck))
+    {    	
+    	if (history.replaceState) history.replaceState(null, '', l.pathname + l.search);
+    } else {
+        l.hash = anchor;        
+    }
+  }
+});
 // -->
 </script>
 </head>
 <body>
 <div id="wrapper">
 <a name="top"></a>
-<p align="center" style="padding: 0px;"><img usemap="#map" border="0" alt="Steve Jackson Games – Site Navigation" src="http://www.sjgames.com/img/topbar.jpg" width="816" height="152"></p>
+<p align="center" style="padding: 0px;"><img usemap="#map" border="0" alt="Steve Jackson Games – Site Navigation" src="http://www.sjgames.com/img/topbar2.jpg" width="816" height="152"></p>
 <map name="map">
 <area shape="rect" coords="149,33,717,70" href="/" alt="Home" title="Home">
 <area shape="rect" coords="170,77,255,96" href="/general/" alt="General Info" title="General Info">
-<area shape="rect" coords="273,77,355,96" href="/general/feedback.html" alt="Contact Us" title="Contact Us">
-<area shape="rect" coords="443,77,526,96" href="/ill/" alt="Illuminator" title="Illuminator">
-<area shape="rect" coords="369,77,430,96" href="/search/" alt="Search" title="Search">
-<area shape="rect" coords="538,76,595,96" href="/store/" alt="Store" title="Store">
-<area shape="rect" coords="606,76,666,96" href="/twitter/" alt="Twitter" title="Twitter">
+<area shape="rect" coords="280,77,365,96" href="/general/followus.html" alt="Follow Us" title="Follow Us">
+<area shape="rect" coords="385,77,455,96" href="/search/" alt="Search" title="Search">
+<area shape="rect" coords="475,77,570,96" href="/ill/" alt="Illuminator" title="Illuminator">
+<area shape="rect" coords="590,77,660,96" href="http://www.warehouse23.com/" alt="Store" title="Store">
+<area shape="rect" coords="680,77,740,96" href="http://forums.sjgames.com" alt="Forums" title="Forums">
 <area shape="rect" coords="592,101,690,121" href="/newproducts/" alt="What's New" title="What's New">
 <area shape="rect" coords="486,101,578,121" href="/ourgames/" alt="Other Games" title="Other Games">
 <area shape="rect" coords="426,101,474,120" href="/ogre/" alt="Ogre" title="Ogre">
 <area shape="rect" coords="356,102,413,121" href="/gurps/" alt="GURPS" title="GURPS">
 <area shape="rect" coords="273,102,343,121" href="/munchkin/" alt="Munchkin" title="Munchkin">
 <area shape="rect" coords="183,101,266,121" href="/ourgames/" alt="Our Games:" title="Our Games:">
-<area shape="rect" coords="680,77,740,96" href="http://forums.sjgames.com" alt="Forums" title="Forums">
 <area shape="poly" coords="99,1,193,143,13,142" href="/" alt="Home" title="Home">
 <area shape="default" coords="0,0,816,152" nohref="" alt="">
 </map>
