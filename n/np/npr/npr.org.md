@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231184948id_/http%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629221331id_/http%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : NPR
 
-**Effective Date April 5, 2016**
+**Effective Date May 8, 2017**
 
 _See related:[NPR Terms of Use](http://www.npr.org/about-npr/179876898/terms-of-use)_
 
@@ -16,7 +16,7 @@ NPR's Privacy Policy is summarized here. Please scroll down to see the full Priv
 
 **Children**
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or mobile device, to NPR or to anyone else. NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13, please do not attempt to register for any NPR Services or provide any information about yourself.
 
 **Gathering of Information**
 
@@ -27,6 +27,7 @@ NPR collects contact information, such as name, address, email address, and tele
   * NPR collects information from a visitor's mobile device or app, including unique device identifier, operating system, phone model, app version and/or automobile make (for certain connected car platforms).
   * NPR collects information enabling it to recognize a visitor as the same visitor when the visitor accesses the NPR Services using different browsers or devices.
   * In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service, NPR collects information about each visitor's listening activity, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. NPR may share this information with the Member stations localized to or associated with a visitor's account.
+  * NPR also collects information about listener interactions with NPR podcasts and other media files, and about the devices and playback platforms used to download and play these files. This information includes descriptions of the episode or file content and embedded sponsorship messages, time and date stamps for download and playback events (e.g., when a particular segment or sponsorship message is played, skipped or paused) and unique listener device and session IDs.
   * NPR may collect information related to content preferences.
   * NPR may collect a visitor's other personal information (such as age or gender) (a) that the visitor has chosen to associate with the visitor's social media account(s), or (b) in aggregated, non-identifying form through third-party vendors.
   * NPR uses cookies and web beacons to track certain visitor activity. NPR's third-party vendors that provide analytics services, provide NPR's discussion platform, and serve sponsorship acknowledgments also may use their own cookies and web beacons to track visitor activity.
@@ -46,15 +47,19 @@ NPR uses the personally-identifying information it gathers (a) to provide reques
 NPR generally does not share personally-identifying information it gathers with third parties, except with NPR Member stations, NPR service vendors (to the extent necessary for the vendor to provide the services), and other third parties when a visitor consents. When NPR shares personally-identifying information with NPR Member stations, NPR requires those Member stations to commit to the same restrictions against sharing that personally-identifying information with third parties as NPR commits to in this Privacy Policy.
 
   * Any information a visitor submits, posts to or shares through the NPR Services will become available to the public.
-  * NPR may share aggregate information about use of the NPR Services that does not identify its visitors individually.
+  * NPR may share with anyone in NPR's discretion aggregated or other information about use of the NPR Services that does not personally identify our visitors.
   * NPR will release visitor information when required to do so by law or when it believes it is necessary to protect NPR, NPR employees, NPR Member stations, NPR Member station employees, visitors to the NPR Services, sponsors, service providers, the public, or others.
   * If you do not consent to the collection, use or sharing of your personally-identifying information as described in this Privacy Policy, please do not provide that information. By providing your personally-identifying information, you are "opting in" to the collection, use and sharing described in this Privacy Policy.
 
 
 
+**For California Residents – Your California Privacy Rights**
+
+California residents can request and obtain from us once a year and free of charge a list of all third parties to which NPR has disclosed certain information during the preceding calendar year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please [Contact Us](http://www.npr.org/contact/) (select "Contact an NPR Department," and then select "NPR Management"). For all requests, you must put the statement "Your California Privacy Rights" in the message field of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept these requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. ****
+
 **Contact**
 
-****If you have questions, wish to correct, update or remove any of your personal information, or wish to opt out of future communications from NPR, please[Contact Us](http://www.npr.org/contact/).
+****If you have questions, wish to correct, update or remove any of your personal information, or wish to opt out of future communications from NPR, please[Contact Us](http://www.npr.org/contact/) (select "Contact an NPR Department" and then select "NPR Management").
 
 ### **Full Version of Privacy Policy**
 
@@ -72,9 +77,11 @@ NPR collects personally-identifying information from visitors whenever visitors 
 
 Any information that visitors Submit on or through NPR's social networking features, forums and discussions, as part of story or blog comments, or that visitors otherwise Submit to the NPR Services, may become public, including the full name and nickname that visitors provide when registering for an NPR account or creating a public profile.
 
-NPR also may collect other personal information (such as age, gender or other demographic information) (a) that the visitor has chosen to associate with his or her own social media account(s), or (b) in aggregated, non-identifying form through third-party vendors that provide analytics services. This information may be stored on NPR's servers with other information previously received or collected from the visitor.
+NPR also may collect other personal information (such as age, gender or other demographic information) (a) that the visitor has chosen to associate with his or her own social media account(s), or (b) in aggregated or other non-identifying form through third-party vendors that provide analytics services. This information may be stored on NPR's servers with other information previously received or collected from the visitor.
 
 In order to personalize the listening experience for visitors to personalized digital listening services offered through the NPR Services, such as the "NPR One" service (collectively, "NPR Personalized Services"), when visitors use NPR Personalized Services, NPR collects information about the listening activity of each visitor, including audio segments that a visitor listens to, audio segments that a visitor skips and shares, audio segments that a visitor marks as interesting, and listening times and frequency. NPR also collects information regarding whether a visitor has donated to Member stations through the NPR Services, or has requested information about or expressed interest in donating to Member stations. Within NPR's mobile sites and applications and any features of these sites and applications ("NPR Mobile Services"), NPR collects a device's unique identifier, operating system, device model, app version, automobile make (for certain connected car platforms), and/or content preferences.
+
+NPR also collects information about visitor interactions with NPR podcasts and other media files, both when visitors download these files and when they listen to them using the NPR One app. We collect this information through server logs (described further below), as well as metadata containers and code embedded in our audio files that send listening information back to our servers over the Internet during playback. The information we collect in this manner includes IDs associated with the titles and other descriptions of the episodes, segments and sponsorship messages included in the audio file, time and date stamps for download and playback events (e.g., when playback of a particular segment or sponsorship message starts, stops or is skipped or paused), listener device IDs, session IDs and information about the device or platform used to download or play a particular file.
 
 Visitors have the opportunity to select a "favorite" Member station by (a) entering a zip code, (b) authorizing NPR to use geolocation data regarding the visitor's current location, or (c) selecting from a list of Member stations. For certain of the NPR Services, including NPR Personalized Services, a Member station is automatically assigned to the visitor based on geolocation data or based on a previously-assigned "favorite" or associated Member station. Geolocation data consists of general location information based on latitude and longitude (if the visitor has enabled location services for an NPR application on the visitor's mobile device), or NPR may approximate a visitor's location based on the IP address of the visitor's computer or mobile device. ****
 
@@ -82,7 +89,7 @@ NPR uses a third-party vendor that collects unique device identifiers and any vo
 
 NPR uses Google's Universal Analytics service to collect information that enables NPR to recognize a visitor as the same user when the visitor accesses the NPR Services using different browsers or devices. See the "Opting Out of Cookies and Web Beacons" section below for more information about opting out of this collection of information by Google Analytics.
 
-Like other web servers, the server used by NPR for the NPR Services automatically creates log files for each visitor who accesses the NPR Services. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, email address, credit card information, or other similar personally-identifying information. Rather, they contain some or all of the following information:
+Like other web servers, the server used by NPR for the NPR Services automatically creates log files for each visitor who accesses the NPR Services. These "access logs" allow us to make our Services more useful to our visitors. The access logs do NOT record a visitor's name, address, email address, credit card information, or other similar personally-identifying information. Rather, they contain some or all of the following information:
 
   * The Internet Protocol address (IP address) of the machine which accessed the NPR Services.
   * General location information (based on IP address or latitude and longitude).
@@ -119,7 +126,7 @@ NPR and its third-party vendors also may use web beacons, alone or in conjunctio
 
 Visitors desiring to opt out of, or opt back into, Nielsen digital measurement research on browsers may do so at <http://www.nielsen.com/digitalprivacy#choice>. Opting out of the collection of information for Nielsen digital measurement research is cookie-based and will only affect the specific browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.
 
-In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third-party vendors and other participating companies, please visit **<http://networkadvertising.org/choices>**. Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based. Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.
+In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third-party vendors and other participating companies, please visit **<https://networkadvertising.org/choices>**. Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based. Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.
 
 For more information about opting out of interest-based messages, visit **[www.aboutads.info/choices](http://www.aboutads.info/choices)**.
 
@@ -135,13 +142,15 @@ Excluding information provided by the visitor when participating in the NPR soci
 
 NPR also may disclose personally-identifying information if required to do so by law or if it believes that such action is necessary (a) to comply with the law or with legal process, (b) to protect against misuse or unauthorized use of the NPR Services, (c) to protect the personal safety, property or rights of visitors to the NPR Services, the public, NPR and its employees, officers, directors, agents and contractors, NPR Member stations and NPR Member station personnel, sponsors, service providers, and others, or (d) to enforce the Terms of Use.
 
-If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the NPR Services). You can also "opt out" according to the process described below in the section titled "Corrections to Registrations; Opting Out of Communications."
+If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the NPR Services). You can also "opt out" from the use of your personal information for certain direct communications purposes by following the process described below in the section titled "Corrections to Registrations; Opting Out of Communications."
 
-NPR may share with third parties anonymous information that does not identify its visitors. The use and disclosure of such information is not subject to restrictions under this Privacy Policy.
+NPR may share with any third parties anonymous information that does not personally identify its visitors. The use and disclosure of such information is not subject to restrictions under this Privacy Policy.
 
 NPR, with the assistance from time to time of its third-party service vendors, uses non-identifying information (in aggregated and non-aggregated form), including non-identifying aggregate data regarding age, gender and/or visitor interests, to analyze use of and better design the NPR Services. For example, NPR may use information to recognize a visitor as the same user when the visitor accesses the NPR Services using different browsers or devices. NPR may share information with third parties in aggregate, non-identifying form as appropriate. For example, we may tell a third party that a certain number or category of visitors accessed a particular audio stream on the NPR Services. We may share non-identifying aggregate information with third-party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR. We may share non-identifying information, in aggregated or non-aggregated form, with third-party vendors to help NPR analyze and improve the NPR Services. However, we will not disclose any information that could be used to identify our visitors.
 
 NPR also may share information obtained from devices that visitors use to access the NPR Services with certain of its third-party vendors, including its third-party interactive audio sponsorship acknowledgment service provider, for a variety of purposes, including tracking sponsorship acknowledgment credit frequency and voice-activated actions taken in response to interactive audio sponsorship acknowledgments.
+
+We also may share with sponsors, content producers and Member stations information that does not personally identify our visitors, as described in this Privacy Policy.
 
 ### **Security**
 
@@ -149,13 +158,13 @@ NPR also may share information obtained from devices that visitors use to access
 
 ### **Children**
 
-****Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. The NPR Services are not directed at children under the age of 13 and NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+****Under 13: Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) via the web or their mobile device, to NPR or to anyone else. NPR does not knowingly allow anyone under the age of 13 to provide any personally-identifying information to NPR. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 
 13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Services, register for the NPR Services, create a public profile, participate in any online contests, or place an order on the NPR Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or otherwise sending any personally-identifying information.
 
 ### **Corrections to Registrations; Opting Out of Communications**
 
-****Please[Contact Us](http://www.npr.org/contact/) to (a) correct or update any registration information that you have provided to NPR, (b) opt-out of future communications from NPR, or (c) request NPR to cancel your NPR account, NPR newsletter registration and other NPR registrations.
+****Please[Contact Us](http://www.npr.org/contact/) (select "Contact an NPR Department," and then select "NPR Management") to (a) correct or update any registration information that you have provided to NPR, (b) opt-out of future communications from NPR, or (c) request NPR to cancel your NPR account, NPR newsletter registration and other NPR registrations.
 
 ### **Acceptance of Privacy Policy Terms**
 
@@ -165,7 +174,7 @@ NPR reserves the right to change this Privacy Policy. Any changes to this policy
 
 It is important to note that the NPR Services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as the NPR Services. For instance, clicking or tapping on a sponsorship acknowledgment or some third-party logos on the NPR Services will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that the NPR Services would not. NPR is not responsible for the privacy practices of, or any information or materials on, these other sites. Please visit these sites if you wish to review their privacy policies.
 
-The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, Google+, or Disqus. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.
+The NPR Services include a tool that allows you to sign in or share content using information from your account with a third-party service, such as Facebook, Twitter, or Google+. Please be aware that those third-party services are unrelated to NPR, and that your use of the third-party services is subject to the terms and policies of those services.
 
 ### **International User Notice**
 
@@ -173,4 +182,4 @@ The NPR Services include a tool that allows you to sign in or share content usin
 
 ### **Questions**
 
-****If you have any questions or comments concerning our Privacy Policy, please[Contact Us](http://www.npr.org/contact/).
+****If you have any questions or comments concerning our Privacy Policy, please[Contact Us](http://www.npr.org/contact/) (select "Contact an NPR Department," and then select "NPR Management").
