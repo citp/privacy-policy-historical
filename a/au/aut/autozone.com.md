@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051202id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630005220id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
@@ -29,6 +29,8 @@ AutoZone may share personal customer information provided to AutoZone with third
 AutoZone is not in the business of selling its customers' personal information to others. AutoZone does not sell, rent or trade its customers' personal information to third parties. 
 
 AutoZone also collects, stores, and uses aggregate data that do not contain personally identifiable information, such as demographics or statistical information. This aggregate data may be shared with and used by third parties to help AutoZone and its suppliers better understand and serve our customers. 
+
+AutoZone participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more at [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) about how Adobe does this and how you may opt out of this program. 
 
 #### Your Choices 
 
