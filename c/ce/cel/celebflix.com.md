@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebflix.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207005950id_/http%3A//www.celebflix.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebflix.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214238id_/http%3A//www.celebflix.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
