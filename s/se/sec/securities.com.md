@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the securities.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315131358id_/http%3A//www.securities.com/emis/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securities.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629212410id_/https%3A//www.emis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Our Privacy Commitments
 
-Euromoney Institutional Investor plc and Institutional Investor Inc. (together "we") respect the privacy of every person who visits, registers with or subscribes to our websites and online publications ("you"), and are committed to ensuring a safe online experience. This Privacy Statement outlines the information we may collect about you in relation to your use of our websites and related publications and services ("personal data") and how we may use that personal data. It also outlines the methods by which we and our service providers may (subject to necessary consents) monitor your online behaviour in order to deliver customised advertisements and marketing materials and other tailored services. This Privacy Statement also tells you how you can verify the accuracy of your personal data and how you can request that we delete or update it.
+Euromoney Institutional Investor plc and Institutional Investor Inc. (together "we") respect the privacy of every person who visits, registers with or subscribes to our websites and online publications ("you"), and are committed to ensuring a safe online experience. This Privacy Statement outlines the information we may collect about you in relation to your use of our websites and related publications and services ("personal data") and how we may use that personal data. It also outlines the methods by which we and our service providers may (subject to necessary consents) monitor your online behaviour in order to deliver customised advertisements and marketing materials and other tailored services. This Privacy Statement also tells you how you can verify the accuracy of your personal data and how you can request that we delete or update it. 
 
 This Privacy Statement applies to all websites operated by us (as indicated on the relevant website) ("Sites"). For the purpose of this Privacy Statement "group company" shall mean Euromoney Institutional Investor plc and any of its subsidiary companies, including, without limitation, Institutional Investor Inc. Please note that the Sites may contain links to external sites and may contain advertisements for, and/or the opportunity for you to purchase products or services from third parties. This privacy statement does not cover the activities of such third parties, and you should consult those third party sites' privacy policies for information on how your data is used by them.
 
@@ -32,13 +32,13 @@ USA
 
 ## Name of the Data Controller
 
-The Data Controllers are Euromoney Institutional Investor plc and Institutional Investor Inc.
+The Data Controllers are Euromoney Institutional Investor plc and Institutional Investor Inc. 
 
 Euromoney Institutional Investor plc is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner's Office.
 
 ## Collection of Personal Data
 
-Our primary goal in collecting personal data from you is to give you an enjoyable customised experience whilst allowing us to provide services and features that most likely meet your needs.
+Our primary goal in collecting personal data from you is to give you an enjoyable customised experience whilst allowing us to provide services and features that most likely meet your needs. 
 
 We collect certain personal data from you, which you give to us when using our Sites and/or registering or subscribing for our products and services. However, we also give you the option to access our Sites' home pages without subscribing or registering or disclosing your personal data.
 
@@ -49,7 +49,7 @@ Please note that we do not intend to collect any personal data from children und
 ## Types of Personal Data Held and its Use
 
 **Customer Services and Administration**  
-At some Sites, Euromoney collects personal data such as your name, job title, work and/or home address, and telephone number and email address in order to register you for access to certain content and subscriptions. This information may be supplemented with demographic information from your use of our Sites such as your postal area, age, gender, purchasing preferences and interests.
+At some Sites, Euromoney collects personal data such as your name, job title, work and/or home address, and telephone number and email address in order to register you for access to certain content and subscriptions. This information may be supplemented with demographic information from your use of our Sites such as your postal area, age, gender, purchasing preferences and interests. 
 
 At other Sites, Euromoney may only collect broad demographic information for aggregate use.
 
@@ -81,7 +81,7 @@ Some of your personal data may be collected and processed with the intention of 
 
 ## Cookies and similar technologies
 
-All our Sites use cookies and similar technical tools to collect information about your access to the Site and the services we provide.
+All our Sites use cookies and similar technical tools to collect information about your access to the Site and the services we provide. 
 
 Cookies are pieces of information which include a unique reference code that a website transfers to your device to store and sometimes track information about you. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer. Cookies cannot be used to run programs or deliver viruses to your computer. They are uniquely assigned to you and can only be read by a Web server in the domain that issued the cookie.
 
@@ -119,7 +119,7 @@ For turning cookies and similar technologies on and off, see the information in 
 
 ## Disclosures
 
-Information collected at one Site may be shared between Euromoney Institutional Investor plc, Institutional Investor Inc. and other group companies for the purposes listed above.
+Information collected at one Site may be shared between Euromoney Institutional Investor plc, Institutional Investor Inc. and other group companies for the purposes listed above. 
 
 Your personal data may also be sold to other companies in the form of lists and directories, but only after permission from you in accordance with the provisions above.
 
@@ -129,15 +129,15 @@ We may transfer, sell or assign any of the information described in this policy 
 
 ## Public forums, message boards and blogs
 
-Some of our Sites make message boards, blogs or other facilities for user generated content available and users can participate in these facilities. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
+Some of our Sites make message boards, blogs or other facilities for user generated content available and users can participate in these facilities. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. 
 
 ## Transfers outside the EEA
 
-Services on the Internet are accessible globally so collection and transmission of personal data is not always limited to one country. Euromoney Institutional Investor plc may transfer your personal data, for the purposes listed above, to other group companies, service providers or other third parties which may be located in countries outside the European Economic Area, whose laws may not give the level of protection to personal data as within the UK. This will include transfers to Institutional Investor Inc. in the US (and Institutional Investor Inc. will collect some data directly from you, in relation to the Sites which it operates) and to third parties who provide us with email and marketing services. Where we conduct any transfers we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement.
+Services on the Internet are accessible globally so collection and transmission of personal data is not always limited to one country. Euromoney Institutional Investor plc may transfer your personal data, for the purposes listed above, to other group companies, service providers or other third parties which may be located in countries outside the European Economic Area, whose laws may not give the level of protection to personal data as within the UK. This will include transfers to Institutional Investor Inc. in the US (and Institutional Investor Inc. will collect some data directly from you, in relation to the Sites which it operates) and to third parties who provide us with email and marketing services. Where we conduct any transfers we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement. 
 
 ## Confidentiality and Security of Your Personal Data
 
-We are committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal data from loss, misuse or alteration.
+We are committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal data from loss, misuse or alteration. 
 
 The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features described above to try to prevent unauthorised access.
 
@@ -174,6 +174,6 @@ Upon request, we will provide you with a readable copy of the personal data whic
 
 ## Changes to this Privacy Statement
 
-We will occasionally update this Privacy Statement to reflect new legislation or industry practice, group company changes and customer feedback. We encourage you to review this Privacy Statement periodically to be informed of how we are protecting your personal data.
+We will occasionally update this Privacy Statement to reflect new legislation or industry practice, group company changes and customer feedback. We encourage you to review this Privacy Statement periodically to be informed of how we are protecting your personal data. 
 
 _This Privacy Statement was last updated in April 2012._
