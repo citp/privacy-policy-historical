@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamviewer.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120030id_/https%3A//www.teamviewer.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamviewer.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629123308id_/https%3A//www.teamviewer.com/en/privacy-policy) for the most accurate reproduction.*
 
 # TeamViewer Privacy Policy
 
@@ -14,7 +14,7 @@ Below we provide information about the collection of personal data when using th
 
 ### **3. Provider Identification**
 
-The service provider in accordance with § 13 Telemediengesetz (TMG) [German Telemedia Act] and the responsible body in accordance with § 3 para. 7 Bundesdatenschutzgesetz (BDSG) [German Federal Data Protection Act] is TeamViewer GmbH, Jahnstr. 30, 73037 Göppingen, for details see our imprint: <http://www.teamviewer.com/de/company/index.aspx#imprint>. 
+The service provider in accordance with § 13 Telemediengesetz (TMG) [German Telemedia Act] and the responsible body in accordance with § 3 para. 7 Bundesdatenschutzgesetz (BDSG) [German Federal Data Protection Act] is TeamViewer GmbH, Jahnstr. 30, 73037 Göppingen, for details see our imprint: <https://www.teamviewer.com/en/imprint/>. 
 
 ### **4. Data Security**
 
