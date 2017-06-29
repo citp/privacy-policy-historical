@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyezinearticles.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224200142id_/http%3A//easyezinearticles.com/eea-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyezinearticles.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629092459id_/http%3A//easyezinearticles.com/eea-privacy-policy) for the most accurate reproduction.*
 
 # EEA Privacy policy - Easy Ezine ArticlesEasy Ezine Articles
 
