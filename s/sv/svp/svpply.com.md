@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231012002id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629224020id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
@@ -111,6 +111,10 @@ If you reside in the United States, you are contracting with eBay Inc., 2065 Ham
   * If you reside in a country within the European Union you are contracting with eBay Europe S.à.r.l., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg
 
   * If you reside in India, you are contracting with eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India
+
+  * Starting on July 1, 2017, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada
+
+  * Starting on August 1, 2017, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom
 
   * If you reside in any other country, you are contracting with eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
