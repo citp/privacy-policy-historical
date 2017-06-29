@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertz.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626224706id_/https%3A//www.hertz.com/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629072354id_/https%3A//www.hertz.com/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@
 
 [ **Legal Issues:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Legal_Issues)  We aim to comply with the privacy laws applicable to the personal data we collect and use.
 
-[ **Changes:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Changes)  We may change this policy from time to time. The policy was **last updated** on 29 **May  ** **2014.**
+[ **Changes:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Changes)  We may change this policy from time to time. The policy was **last updated** on 29 **September  ** **2016.**
 
 | 
 
@@ -80,9 +80,41 @@ We operate a network of licensees in provision of our services worldwide and are
  **Legal Issues** **  
 **\--------------------------------------------------------
 
-We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
+ **EU-U.S. PRIVACY SHIELD FRAMEWORK**
 
-The Hertz Corporation and those of its subsidiaries operating within the United States of America, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit <http://www.export.gov/safeharbor/> to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
+The Hertz Corporation and its subsidiaries in the U.S. (a complete list of participating subsidiaries is available [here](https://www.hertz.com/rentacar/misc/index.jsp?targetPage=privacyshield_locations.jsp). The Hertz Corporation and its subsidiaries in the U.S. (individually and collectively, the "Company") participates in the EU-U.S. Privacy Shield Framework (the "Framework"). Company's participation in the Framework applies to personal data received in the United States from the European Union ("EU") about employees ("EU Employee Data") and customers ("EU Customer Data") (collectively, "EU Personal Data"). We are committed to subjecting such EU Personal Data to the Framework to the extent that we have received it in reliance on the Framework, including its Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Framework, visit the U.S. Department of Commerce's Privacy Shield List [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
+
+ **EU Personal Data Collection, Use, and Disclosure**
+
+EU Employee Data: The Company provides to EU employees a notice about the collection, use, and disclosure of their EU Employee Data through internal company policies.
+
+EU Customer Data: The Company collects and processes the following categories of EU Customer Data: name, telephone number, residence address, email address, date of birth, payment card number, driver's license number, IP address, pixel tags, customer service notes and records, rental car transactions (dates and locations of travel, preferences and additional operators). The Company will use and otherwise process EU Customer Data in the United States for the following purposes: general business administration; data hosting; data analytics; fulfilment of requests; tracking benefits; responding to inquiries; and exercising a right or obligation imposed by law or contract (e.g., mandatory reporting obligations). The Company transfers EU Customer Data to the following types of third parties: document management systems providers.
+
+ **Rights of EU Data Subjects**
+
+If you are an EU data subject, you have the right to access your own EU Personal Data subject to certain limitations, such as where the legitimate rights of other persons would be infringed or where the burden or expense of providing access would be disproportionate. If you wish to exercise such rights, please contact us as described below.
+
+**Choices of EU Data Subjects**
+
+Individual customers have the right to exercise choice (opt-out) from our use of their EU Customer Data for direct marketing purposes. To exercise this right, please follow the directions at the bottom of this Policy or follow the instructions in any direct marketing message you may have received. We do not otherwise use or disclose EU Customer Data in a manner that is subject to choice requirements under the Framework. We describe the choices for EU Employee Data through internal company policies.
+
+**Recourse, Enforcement, and Liability**
+
+Please contact us as specified below if you have any questions, need access to your EU Personal Data, or otherwise need assistance. We remain responsible for our collection, use and disclosure of EU Personal Data in accordance with the Framework. We also are responsible for third party agents that are processing such data on our behalf, unless we prove that we are not responsible for the event giving rise to the damage. In certain situations, we may be required to disclose EU Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
+
+If you have an unresolved concern about EU Personal Data that we have not addressed satisfactorily, we have committed to cooperate with the panel established by the EU Data Protection Authorities to serve as our independent dispute resolution body for the Framework. We are also subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to the Framework. In addition, under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/welcome), EU data subjects may invoke binding arbitration for non-monetary issues when other dispute resolution procedures have been exhausted.
+
+**Contact Us**
+
+Please contact us by emailing [euprivacy@hertz.com](mailto:euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above.
+
+The Hertz Corporation  
+Attention: Legal-Privacy  
+8501 Williams Rd.  
+Estero, FL 33928  
+USA
+
+We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
 
  **Changes**   **  
 **\--------------------------------------------------------
@@ -478,15 +510,13 @@ We hope this policy answers your questions about our collection, use and discl
 
 ·         For Hertz NeverLost customers, you may call (800) 823-2547 in the United States
 
- ** _US-EU and US-Swiss Safe Harbor Enforcement:_**  Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), or [www.hertzequip.com](http://www.hertzequip.com/);  for Hertz NeverLost customers, by initiating a Live Chat session via [www.neverlost.com](http://www.neverlost.com/); or writing to us at any of the addresses below.  We have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
  ** _Contact addresses:_**
 
 • Director, Privacy Services, The Hertz Corporation, P.O. Box 25301, Oklahoma City, OK 73125, U.S.A.
 
 • Director, Privacy Services, Hertz Europe Service Centre, Swords Business Park, Swords, Co. Dublin, Republic of Ireland
 
-• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 6, 10 Dorcas Street, South Melbourne VIC 3205, Australia
+• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 15, 636 St.Kilda Road, Melbourne VIC 3004, Australia
 
 • Director, Privacy Services, Hertz New Zealand Ltd., Private Bag 4716, Christchurch, New Zealand 8020
 
@@ -535,7 +565,7 @@ A.  Please send me marketing offers and materials from or on behalf of Hertz:
 
   Postal mail                                                [  ]          [  ]
 
-  E-mail                                                       [  ]          [  ]  
+  E-mail                                                      [  ]          [  ]  
  
 
 B.  Please share my personal data with Hertz’s licensees, affiliates and business partners for their marketing purposes:
@@ -543,6 +573,6 @@ B.  Please share my personal data with Hertz’s licensees, affiliates and busi
                                                                   **Yes           No**
 
   
-                                                                  [  ]          [  ]
+                                                                      [  ]          [  ]
 
 Any consent regarding your receiving marketing materials provided above can be withdrawn or other otherwise changed at any time in accordance with the instructions set forth in this Privacy Policy.
