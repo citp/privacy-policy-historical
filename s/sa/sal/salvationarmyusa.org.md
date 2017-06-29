@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127170119id_/http%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629140953id_/http%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
 
 # The Salvation Army - Privacy Policy
 
@@ -25,4 +25,4 @@ Notwithstanding any other provision, we may also engage a third party partner fo
 
 This web site is operated by The Salvation Army, USA. No material from this web site or any web site owned, operated, licensed, or controlled by The Salvation Army may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. All trademarks, service marks, and trade names are proprietary to The Salvation Army.
 
-All materials contained on this web site are Copyright ©2016 The Salvation Army or are licensed or otherwise published by The Salvation Army with the permission of the owner of the material. All rights in such materials published with permission of the material's owner are reserved to the respective owners.
+All materials contained on this web site are Copyright ©2017 The Salvation Army or are licensed or otherwise published by The Salvation Army with the permission of the owner of the material. All rights in such materials published with permission of the material's owner are reserved to the respective owners.
