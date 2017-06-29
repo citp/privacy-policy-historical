@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvorm.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906090623id_/http%3A//www.techvorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvorm.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629033556id_/https%3A//techvorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • TechVorm
 
