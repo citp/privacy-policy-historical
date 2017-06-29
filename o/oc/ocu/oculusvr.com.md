@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116172219id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190108id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Oculus
 
-_Effective Date: February 12, 2016_
+## Oculus Privacy Policy
+
+ _Effective Date: February 12, 2016_
 
 Oculus VR, LLC ("Oculus," "we," "us") makes virtual reality products and operates a platform where users can download and submit content for and obtain services related to our products. Collectively, we describe our products and services—including our websites, mobile apps, platform, content and hardware—as our "Services." This Privacy Policy explains how we treat information from or about our users, including how we collect, use, and share information in connection with our Services. 
 
