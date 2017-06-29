@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saltandlavender.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227152429id_/http%3A//www.saltandlavender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saltandlavender.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629133327id_/http%3A//www.saltandlavender.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Disclosure • Salt & Lavender
+# Privacy Policy, Disclosure, & Disclaimer • Salt & Lavender
 
 This privacy policy sets out how Salt & Lavender uses and protects any information that you give while using [http://www.saltandlavender.com](http://www.saltandlavender.com/).
 
@@ -56,4 +56,16 @@ This website uses affiliate links, meaning that I will earn a small commission w
 
 Salt & Lavender is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-Thank you
+**Sponsored Posts**
+
+This website will occasionally be compensated by brands or companies to feature their products in blog posts. This relationship will always be disclosed within the blog post. I only work with brands that I feel are a good fit for my blog and only promote products that I believe in.
+
+**Disclaimer**
+
+I am not a professional chef, dietician, medical professional, or nutritionist. This blog is a reflection of my opinions and general knowledge that I’ve gained from personal experience and information I’ve come across, and it’s accurate to the best of my knowledge. My recipes should be taken as a guideline only, and your best judgment should be used to ensure the food is safely prepared and/or a good fit for your diet. Please consult a medical professional if you are unsure.
+
+**Content Policy**
+
+Salt & Lavender owns the rights to the recipe photo content and recipes on this blog. All recipe photography on this site is my own, unless otherwise indicated with a source link. Please do not republish any recipe or post without my permission. If you want to use one of my photos with a link back for a roundup style post, that’s fine. [Contact me](http://www.saltandlavender.com/contact/) if you have any questions.
+
+I retain the right to change or update this policy at any time.
