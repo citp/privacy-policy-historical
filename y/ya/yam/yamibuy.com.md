@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamibuy.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201180214id_/http%3A//yamibuy.com/en/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamibuy.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629020948id_/http%3A//www.yamibuy.com/en/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
