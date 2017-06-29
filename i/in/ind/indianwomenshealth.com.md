@@ -1,78 +1,124 @@
-> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianwomenshealth.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629173017id_/http%3A//www.gsk.com/en-gb/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement | GSK
 
-Your privacy is very important to BioQuest Solutions Pvt. Ltd. (hereafter referred to as " **BioQuest** " or " **BQ** " or " **Us** " or " **We** " or " **Owner** "). We shall not sell or rent your personal information to any third parties for their marketing purposes without your explicit consent. A reading of this privacy policy will let you know more about the ways in which we use and protect your personal information. 
+This Privacy Statement sets out how GSK uses and protects any information that you give to us. 
 
-The privacy practices of the above statement apply to our services available under the domain and subdomains of [ www.indianwomenshealth.com ](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/index.aspx)(the "Site") and apply generally to our parent company, affiliates, subsidiaries or joint venture websites whose specific privacy policies are available from our Privacy Central pages. By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. 
+Updated: 10 December 2014
 
-This Privacy Policy describes the information, as part of the normal operation of our services; we collect from you and what may happen to that information. Although this policy may seem lengthy & detailed, the reason for this is that we believe you should know as much as possible about the Website and / or its Owner’s practices so that you can make informed decisions. 
+This Privacy Statement sets out how GSK uses and protects any information that you give to us.  We respect your privacy and are committed to protecting your personal information.  This Privacy Statement explains how we collect, transfer, process, use and disclose your data and sets out our security practices.
 
-By registering with the Website you confirm that you have read and accepted the Privacy Policy and the User Agreement of the Website and you express consent to us using and you disclosing your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance of Terms & Conditions during registration for a first time registering user, and is otherwise been effective from 1st January 2008 for all users. 
+By providing us with your personal information, you agree and consent to its transfer, processing, use and disclosure as outlined in this Privacy Statement.
 
-**1\. Your Privacy - Our Commitment**   
-At [www.indianwomenshealth.com ](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/index.aspx), we shall take extreme measures to protect your privacy and this is our commitment to you. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read this policy to understand how your personal information will be treated while you make full use of our Website. 
+Information about the operator of websites or mobile applications (and GSK entity controlling any PII that is collected) can be found on the footer and/or contact page of websites and in the licensing agreement of mobile applications.
 
-**2\. Privacy Guarantee**   
-We promise that they will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Website and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority. 
+### What we collect
 
-**3.Information We Collect**   
-When you use our Website, we collect and store your personal information. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose. 
+We collect personally identifiable information (PII) that you provide to us, which is information that identifies you as an individual.  We only do this when you have agreed to our request for that information.  This PII may include your:
 
-In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our Website, you will need to register using our online registration form, where you may be required to provide us with your contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout the Website. Whereever possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. 
+  * name
+  * address
+  * telephone number
+  * e-mail address
 
-We may automatically track certain information about you based upon your usage behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include the Uniform Resource Locator (URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address. 
 
-We use data collection devices such as "cookies" on certain pages of the Website to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session. 
 
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties. 
+### How we use your PII
 
-If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback for other users, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by applicable law in the India. 
+By providing your PII, you agree that, where it is permitted by local law or where you have agreed to receiving these communications from us, we may use the information:
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. 
+  * to respond to your requests
+  * to improve our level of service
+  * to improve the content of our communications
+  * to provide you with tips, helpful information, product news and updates
+  * to notify you of our new products and services
+  * to seek your views on our products and services
+  * to consider your application for employment
+  * for our own administrative and quality assurance purposes
+  * for other purposes that may be detailed on the website or mobile application
 
-If you register for the Website on another website or use a website providing a service for [www.indianwomenshealth.com](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/index.aspx) or a website that helps facilitate your activity on this Website, that website may provide personal information about you and your transactions back to us. 
 
-**4\. Our Use Of Your Information**   
-We use your personal information to facilitate the services you have placed on IWH. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy. 
 
-You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze Website usage, improve the Website's content and product offerings, and customize the Website's content, layout, and services. These uses improve the Website and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Website. 
+### Website and mobile application usage information
 
-You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, including but not limited to targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Website. By accepting the User Agreement and Privacy Policy, you express agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time. 
+We also automatically collect information about your computer browser type and operating system, websites you visited before and after visiting our websites, standard server log information, Internet Protocol (IP) addresses, GPS location data, mobile phone service provider, and mobile phone operating system.  We aggregate this information to understand how our visitors use our websites and mobile applications so that we can improve them and the services we offer.  GPS location data does not typically identify individual users.  We may also share this aggregated information with other companies within the GSK group and with other third parties.  This information includes:
 
-**5\. Our Disclosure Of Your Information**   
-We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. The following are examples of some categories of persons to whom we would specifically share your information with from time-to-time. 
+  * the total number of visits to our websites and mobile applications
+  * the number of visitors to each page of our websites and mobile applications
+  * the domain names of our visitors' internet service providers.
 
-**i. Advertisements**   
-a. Where a user enters information on any form of an advertiser, the information is simultaneously collected by the Website and the advertiser. The information is used by the Website in accordance with the terms of this privacy policy and is used by the advertiser as per the advertisers’ prevalent privacy policies. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information. 
 
-b. The Website may also aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. 
 
-**ii. Items And Services Offered On The Site By Third Parties**   
-There may be certain items and services for which third parties request for information before the item/service is listed on the Website. The information provided by the user for such purposes is simultaneously collected by the Owner and the respective third party. This information is utilized by the third party in accordance with its privacy policy and the terms of the offer. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. 
+### How we protect your PII
 
-**iii. Internal Service Providers**   
-We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Website (e.g., search technology, discussion boards, bill collection, affiliate and rewards programs, co-branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced Website related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you (such as for Website surveys or for a co-branded credit card). In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. 
+GSK will take appropriate legal, organizational, and technical measures to protect your personal information consistent with applicable privacy and data security laws.  When GSK uses a third-party service provider, that provider will be carefully selected and required to use appropriate measures to protect the confidentiality and security of personal information.  We use a variety of security technologies and procedures to help protect your PII from unauthorised access, use or disclosure.  Unfortunately, the transmission of information via the Internet or a mobile phone network connection is not completely secure.  Although we will do our best to protect your PII, we cannot guarantee the security of the PII you transmit to our websites or mobile applications:  any transmission is at your own risk.  While we cannot guarantee that loss, misuse or alteration to data will not occur, once we have received your information, we will employ appropriate technical security measures to prevent such unfortunate occurrences.
 
-**iv. Other Corporate Entities**   
-We share much of our data, including personal information about you, with our parent, affiliates, subsidiaries, and joint ventures that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our parent company, affiliates, subsidiaries, and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. The Owner its affiliates, subsidiaries, its joint ventures, or any combination of such, will share some or all of your personal information with another business entity should we plan to, merge with, or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. 
+### Sharing PII with third parties
 
-**v. Legal Requests**   
-We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad users. Therefore, in response to a verified request by law enforcement or other Government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, UserID history, fraud complaints, listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad users, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, zip code, country, phone number, email, and company name to Intellectual Property right's owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity. 
+We may share your PII with our affiliates, contractors and agents in the normal course of business for delivery of the activities to which you have agreed.  Unless otherwise specified in the website or mobile application, we will not sell or rent PII to other third parties, except that your PII may be transfered to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred.  Sometimes we use selected third parties to provide support services in connection with our websites, mobile applications or in the normal course of business.  These parties may, from time to time, have access to your information to enable them to provide those services to us.  We require all companies providing such support services to meet the same standards of data protection as our own.  They are prohibited from using the information for their own purposes.  In particular, we do not allow service providers to use your PII for their own marketing activities.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the Government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Website. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+### When we may disclose your PII to others
 
-**6\. What About Children's Privacy?**   
-Children are not eligible to use our Website and we ask that minors (under the age of 18) do not submit any personal information to us. 
+GSK reserves the right to disclose personal information about you, including your e-mail address, for reporting to government authorities, to parties in relevant legal proceedings as authorized by the presiding court or tribunal and otherwise to the extent required or explicitly authorized by applicable law.  In certain special cases where permitted by local law, we may disclose your PII:
 
-**7\. Access Or Change Your Personally Identifiable Information**   
-To protect your privacy and security, we will verify your identity before granting access or making changes to your personally-identifying information. If you have registered your profile on the Website, your User ID and Password are required in order to access your profile information. 
+  * when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you or otherwise injuring or interfering with GSK's rights, property or operations, other users of this website or mobile application or anyone else who could be harmed by such activities
+  * when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation
+  * in connection with a substantial corporate transaction, such as the sale of a product line or division, a merger, consolidation, asset sale or in the unlikely event of bankruptcy.
 
-**8\. Security**   
-When you place orders or access your account information, we offer the use of a secure server. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
 
-**9\. Your Consent**   
-By using the Website, you consent to the collection and use of the information you disclose on the Website. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Website at least 10 days in advance of implementation. 
 
-**10\. Tell Us What You Think**   
-At [www.indianwomenshealth.com](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/index.aspx) , we welcome your questions and comments regarding our privacy policy. Please [click here to contact us.](https://web.archive.org/web/20131112033116id_/http%3A//www.indianwomenshealth.com/ContactUs.aspx)
+PII collected may be transferred to, stored and processed in your country of residence or any other country in which GSK (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA).  This means that your information may be processed in countries with lower data protection standards than your country of residence.  By using our websites and mobile applications, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA.  We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.
+
+### Use of IP addresses
+
+An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN).  Web servers automatically identify your computer by the IP address assigned to it during your session online.
+
+GSK, or third party companies acting on our behalf, may collect IP addresses for the purposes of systems administration and to audit the use of our websites.  We also may use IP addresses to identify users of our websites when we feel it is necessary to enforce compliance with the websites’ terms of use or to protect our service, websites or other users.
+
+### Cookies
+
+Our websites and mobile applications may use technology called "cookies."  A cookie is a small text file that is placed on your hard disk by a server.  Cookies allow our websites and mobile applications to respond to you as an individual.  The website or mobile application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  For instance, our server may set a cookie that keeps you from having to enter a password more than once during a visit to a website.
+
+You can choose to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies or receive a warning before a cookie is stored if you prefer.  Please refer to your Internet browser’s instructions or help screen to learn more about these functions and to specify your cookie preferences.
+
+If you choose to decline cookies, you may not be able to fully experience the interactive features of our websites or any other websites that you visit.  For additional information regarding our use of cookies, review our global [Cookie Policy](http://www.gsk.com/en-gb/cookie-policy/).
+
+### Information from outside sources
+
+Where permitted by local law, we may also collect legally obtained information from third parties to add to our existing user databases.  Some of this information may be PII.  We do this to better target information offerings and promotional campaigns in which we think you would be interested.  Such PII will only be collected and used by us in accordance with the basis on which it was originally provided by the subject, or as otherwise permitted by local law.
+
+### Access
+
+We will retain your information only for the period necessary to fulfil the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.  You may contact us in writing to request the updating, correcting or removal of PII that you have provided to us at any time using the contact information provided at the end of this Privacy Statement.  Your local laws may also give you the right to access information that you have provided to us.  In some countries, you may need to pay a reasonable fee to meet our costs in providing you with this information.
+
+### Links to other websites
+
+Our websites and mobile applications may from time to time provide links to or embed third party websites.  This Privacy Statement does not apply to those websites.  If you choose to enter such a linked site, you agree that we are not responsible for the availability of such websites and do not review or endorse and shall not be liable, directly or indirectly, for:
+
+  * how these websites treat your PII
+  * the content of such websites
+  * the use that others make of these websites.
+
+
+
+Please ensure you check the legal and privacy statements posted on each website or mobile application you access before entering any PII.
+
+### Use of our websites and mobile applications by children
+
+Unless otherwise explicitly stated, websites and mobile applications on which this Privacy Statement appears are not intended or designed to attract children under the age of 13.  We do not knowingly collect PII from visitors in that age group via these websites or mobile applications.  On those websites or mobile applications that are intended for use by children under the age of 13, we only collect PII with the explicit consent of a parent or guardian.
+
+### Changes
+
+We may occasionally update this Privacy Statement.  If the changes we make are material, we also may post a notice regarding the changes on our websites or mobile applications and related licensing agreements.  We encourage you to periodically review this Privacy Statement to stay informed about how we are helping to protect the PII we collect.  Your continued use of our websites and mobile applications constitutes your agreement to the Privacy Statement and any updates.  Subsequent changes in this Privacy Statement will not apply to data that were collected before the change is made.
+
+This Privacy Statement was last updated on 10 December 2014.
+
+### Contact us
+
+References to “GSK,” “we,” “us” and “our” are references to GlaxoSmithKline PLC and its affiliates.  Please address any questions, comments and requests regarding this Privacy Statement to your local GSK affiliate using the contact information below.  If you contact us, please note the name of the websites you have visited, as well as how we may contact you.
+
+To contact GSK in the United Kingdom, call 0808-234-6680.
+
+To contact GSK in the United States, call 1-866-475-3844.
+
+[Contact information for other GSK locations can be found here](https://web.archive.org/en-gb/contact-us/worldwide/ "Worldwide").
