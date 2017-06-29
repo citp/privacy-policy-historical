@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053428id_/http%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwestcenter.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629115134id_/http%3A//www.eastwestcenter.org/about-ewc/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | East-West Center | www.eastwestcenter.org
 
@@ -28,7 +28,7 @@ I. **What this Privacy Statement and Policy Covers**
 
 1) to fulfill your requests for products, services and information,  
 2) to respond to your inquiries, and   
-3) to contact you about new products and services. 
+3) to contact you about new products and services.
 
  IV. **Information Sharing and Disclosure**
 
@@ -38,7 +38,7 @@ I. **What this Privacy Statement and Policy Covers**
 
  V. **Editing Your Personal Information**
 
-You have the ability to edit any personal information you provide to us by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org) . You can also find out what personal information we have on record for you by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org). 
+You have the ability to edit any personal information you provide to us by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org) . You can also find out what personal information we have on record for you by emailing us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org).
 
  VI. **Your Ability to "Opt-out" of Receiving Future Communications from Us**
 
@@ -66,8 +66,8 @@ The East-West Center may amend this policy from time to time. If we make any sub
 
  If you have questions or suggestions please email us at [ webhelp@eastwestcenter.org](mailto:webhelp@eastwestcenter.org) , or visit the [ Web Help](https://web.archive.org/about-ewc/help/web-help)page.
 
-** A note about links to third party websites**
+ ** A note about links to third party websites**
 
-For your convenience, this website may contain links to other websites  operated by third parties ("third party websites"). In making these hyperlinks available, the Center is not endorsing those third-party websites, their content, products or services they offer, nor the owners of these third party websites. It is your responsibility to ensure that you obtain all information relevant to making a decision and that you read the privacy and security policy on those third-party websites. We have no control over such third-party websites and will not be liable for any loss or damage you suffer, whether directly or indirectly, as a result of your use of third party websites. You agree that where you access third party websites, you do so entirely at your own risk. 
+For your convenience, this website may contain links to other websites  operated by third parties ("third party websites"). In making these hyperlinks available, the Center is not endorsing those third-party websites, their content, products or services they offer, nor the owners of these third party websites. It is your responsibility to ensure that you obtain all information relevant to making a decision and that you read the privacy and security policy on those third-party websites. We have no control over such third-party websites and will not be liable for any loss or damage you suffer, whether directly or indirectly, as a result of your use of third party websites. You agree that where you access third party websites, you do so entirely at your own risk.
 
 © 4/4/2013 East-West Center. All Rights Reserved.
