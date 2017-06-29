@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325082815id_/http%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629073921id_/https%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of SummitLighthouse.org
 
@@ -8,7 +8,7 @@
 
 We only use your e-mail address supplied to us to fulfill requested email or e-newsletter subscriptions, communicate with you regarding orders you have placed and/or questions you have asked.
 
-If you do not want to receive e-mail from us in the future,please let us know by unsubscribing by either using the unsubscribe link provided in our emails, editing your profile or by [contacting us](http://www.summitlighthouse.org/aboutus/contact-us/ "Contact Us"). We will honor your request as quickly as possible.
+If you do not want to receive e-mail from us in the future,please let us know by unsubscribing by either using the unsubscribe link provided in our emails, editing your profile or by [contacting us](https://www.summitlighthouse.org/aboutus/contact-us/ "Contact Us"). We will honor your request as quickly as possible.
 
 **Regarding e-mails you send to us:** Please be aware that e-mail is not a secure method of transmitting information; therefore, please do not send us credit-card information or disclose other sensitive information by e-mail. The Summit Lighthouse websites are not responsible for any loss or damage that results from interception and/or unauthorized use by third parties of any information that you send us by e-mail.
 
@@ -18,7 +18,7 @@ If you supply us with your telephone number, we only use it to call you about yo
 
 If you supply us with your mailing address, we may use it to contact you regarding orders you have placed or non-electronic newsletter subscriptions or memberships relating to The Summit Lighthouse or Church Universal and Triumphant. If you are on our mailing list due to a subscription or membership, we use your mailing address you provide to send items you have requested, subscribed to and/or periodic announcements for new products, upcoming events, and fundraising efforts.
 
-If you do not want to receive promotional mail from us in the future, please let us know. If you opt out of promotional mail, we may still use your mailing address to contact you on business matters regarding any of your subscriptions and/or orders you’ve placed.
+If you do not want to receive promotional mail from us in the future, please let us know. If you opt out of promotional mail, we may still use your mailing address to contact you on business matters regarding any of your subscriptions and/or orders you've placed.
 
 ### International Visitors
 
