@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230145427id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629085816id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | KPMG | GLOBAL
 
-### Last updated 23 October, 2014
+### Last updated 24 April, 2017
 
 KPMG1 is dedicated to protecting the confidentiality and privacy of information entrusted to it. As part of this fundamental obligation, KPMG is committed to the appropriate protection and use of personal information (sometimes referred to as "personally identifiable information" or "PII") that has been collected online.
 
@@ -29,16 +29,17 @@ Generally, our intent is to collect only the personal information that is provid
 
 **1\. Collection and use of personal information**
 
-We obtain personal information about you if you choose to provide it — for example, to contact mailboxes or to register for certain services. In some cases, you may have previously provided your PII to KPMG (if, for example, you are a former employee). By registering and/or submitting personal information to KPMG, you are also agreeing to the use of this information in accordance with this Privacy Statement. Your personal information is not used for other purposes, unless we obtain your permission, or unless otherwise required or permitted by law or professional standards. For example, if you send us an email message requesting information about KPMG, we will use your email address and other information you supply to respond to your request. If you send us a resume or curriculum vitae (CV) to apply online for a position with KPMG, we will use the information that you provide to match you with available KPMG job opportunities.
+We obtain personal information about you if you choose to provide it — for example, to contact mailboxes or to register for certain services. In some cases, you may have previously provided your PII to KPMG (if, for example, you are a former employee). If you choose to register or login to a KPMG web site using a third party single sign-in service that authenticates your identity and connects your social media login information (e.g., LinkedIn, Google, or Twitter) with KPMG, we will collect any information or content needed for the registration or log-in that you have permitted the social media provider to share with us, such as your name and email address. Other information we collect may depend on the privacy settings you have set with your social media provider, so please review the privacy statement or policy of the applicable service.
+
+By registering and/or submitting personal information to KPMG, you are also agreeing to the use of this information in accordance with this Privacy Statement. Your personal information is not used for other purposes, unless we obtain your permission, or unless otherwise required or permitted by law or professional standards. For example, if you register to a KPMG web site and provide information about your preferences we will use this information to personalize your user experience. Where you register or login using a third party single user sign-in we may also recognize you as the same user across any different devices you use and personalize your user experience across other KPMG sites you visit. If you send us a resume or curriculum vitae (CV) to apply online for a position with KPMG, we will use the information that you provide to match you with available KPMG job opportunities.
 
 In some cases where you have registered for certain services we may store your email address temporarily until we receive confirmation of the information you provided via an email (i.e. where we send an email to the email address provided as part of your registration to confirm a subscription request).
 
 KPMG generally collects only the personal information necessary to fulfill your request. Where additional, optional information is sought, you will be notified of this at the point of collection.
 
-_KPMG only collects "sensitive" personal information when the relevant individuals voluntarily provide us with this information or where such information is required or permitted to be collected by law or professional standards. Sensitive information includes personal information regarding a person's race, ethnicity, political beliefs, trade union membership, religious or similar beliefs, physical or mental health, sexual life or criminal record. Please use your discretion when providing sensitive information to KPMG, and under any circumstances,   **do not provide sensitive information to KPMG, unless you thereby consent to KPMG's use of that information for its legitimate business purposes and consent to the transfer and storage of such information to and in KPMG databases.**  If you have any questions about whether the provision of sensitive information to KPMG is, or may be, necessary or appropriate for particular purposes, please contact KPMG at privacy@kpmg.com._
+_KPMG only collects "sensitive" personal information when the relevant individuals voluntarily provide us with this information or where such information is required or permitted to be collected by law or professional standards. Sensitive information includes personal information regarding a person's race, ethnicity, political beliefs, trade union membership, religious or similar beliefs, physical or mental health, sexual life or criminal record. Please use your discretion when providing sensitive information to KPMG, and under any circumstances, **do not provide sensitive information to KPMG, unless you thereby consent to KPMG's use of that information for its legitimate business purposes and consent to the transfer and storage of such information to and in KPMG databases.** If you have any questions about whether the provision of sensitive information to KPMG is, or may be, necessary or appropriate for particular purposes, please contact KPMG at privacy@kpmg.com._
 
-**1.1 Automatic collection of personal information**
-
+**1.1 Automatic collection of personal information**  
 In some instances, KPMG and its service providers uses cookies, web beacons and other technologies to automatically collect certain types of information when you visit us online, as well as through emails that we may exchange. The collection of this information allows us to customize your online experience, improve the performance, usability and effectiveness of KPMG's online presence, and to measure the effectiveness of our marketing activities.
 
 **1.1.1 IP addresses**
@@ -49,7 +50,7 @@ An IP address is a number assigned to your computer whenever you access the inte
 
 Cookies may be placed on your computer or internet-enabled device whenever you visit us online. This allows the site to remember your computer or device and serves a number of purposes.
 
-On some of our web sites, a notification banner will appear requiring your consent to collect cookies. If you do not provide consent, your computer or internet-enabled device will not be tracked for marketing-related activities.  A secondary type of cookie referred to as "user-input" cookies may still be required for necessary functionality. Such cookies will not be blocked through the use of this notification banner. Your selection will be saved in a cookie and is valid for a period of 90 days. If you wish to revoke your selection, you may do so by clearing your browser's cookies.
+On some of our web sites, a notification banner will appear requiring your consent to collect cookies. If you do not provide consent, your computer or internet-enabled device will not be tracked for marketing-related activities. A secondary type of cookie referred to as "user-input" cookies may still be required for necessary functionality. Such cookies will not be blocked through the use of this notification banner. Your selection will be saved in a cookie and is valid for a period of 90 days. If you wish to revoke your selection, you may do so by clearing your browser's cookies.
 
 Although most browsers automatically accept cookies, you can choose whether or not to accept cookies via your browser's settings (often found in your browser's Tools or Preferences menu). You may also delete cookies from your device at any time. However, please be aware that if you do not accept cookies, you may not be able to fully experience some of our web sites' features.
 
@@ -107,17 +108,15 @@ The second cookie (2) is set if the visitor is invited to participate in the sur
 
 | 
 
-1 Session
-
+1 Session  
 Deleted upon closing the browser
 
-2 Persistent
-
+2 Persistent  
 Deleted automatically after 90 days or presenting survey invite.  
   
 Social sharing | 
 
-We use third party social media widgets or buttons to provide you with additional functionality to share content from our web pages to social media websites and email. Use of these widgets or buttons may place a cookie on your device to make their service easier to use, ensure your interaction is displayed webpages (e.g. the social share count cache is updated) and log information about your activities across the Internet and on our web sites. We encourage you to review each provider's privacy information before using any such service. For further details on our use of social media widgets and applications, see below.
+We use third party social media widgets or buttons to provide you with additional functionality to share content from our web pages to social media websites and email. Use of these widgets or buttons may place a cookie on your device to make their service easier to use, ensure your interaction is displayed on our webpages (e.g. the social share count cache is updated) and log information about your activities across the Internet and on our web sites. We encourage you to review each provider's privacy information before using any such service. For further details on our use of social media widgets and applications, see below.
 
 | 
 
@@ -187,12 +186,14 @@ KPMG has reasonable security policies and procedures in place to protect persona
 
 Please be aware that KPMG web sites may contain links to other sites, including sites maintained by other KPMG member firms that are not governed by this Privacy Statement but by other privacy statements that may differ somewhat. We encourage users to review the privacy policy of each Web site visited before disclosing any personal information.
 
+By registering on any KPMG web site and then navigating to another KPMG web site while still logged in, you agree to the use of your personal information in accordance with the privacy statement of the KPMG web site you are visiting.
+
 **7\. Changes to this statement**
 
 KPMG may modify this Privacy Statement from time to time to reflect our current privacy practices. When we make changes to this statement, we will revise the "updated" date at the top of this page. We encourage you to periodically review this Privacy Statement to be informed about how KPMG is protecting your information.
 
 **8\. Policy questions and enforcement**
 
-KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at privacy@kpmg.com . You may also use this address to communicate any concerns you may have regarding compliance with our Privacy Statement.
+KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at privacy@kpmg.com. You may also use this address to communicate any concerns you may have regarding compliance with our Privacy Statement.
 
 _1  "KPMG," "we," "our," and "us" refers to KPMG International Cooperative ("KPMG International"), a Swiss entity, and/or to any one or more of the member firms of the KPMG network of independent firms affiliated with KPMG International. KPMG International provides no client services._
