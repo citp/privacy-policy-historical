@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105092211id_/https%3A//www.expedia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629110819id_/https%3A//www.expedia.com.au/privacy) for the most accurate reproduction.*
 
-# Expedia Privacy Pledge| Expedia.com.au
+# Expedia Privacy Pledge
 
-  
 Below you will find the Privacy Policy for www.expedia.com.au, a website operated by Expedia, Inc.   
+
+
 Expedia, Inc. (“we” or “us”) complies with the National Privacy Principles set out in the Privacy Act 1988 (Cth) in relation to the collection and disclosure of information regarding individuals using and accessing this website. We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.   
 
 
@@ -43,7 +44,7 @@ Information from Other Sources. We also may periodically obtain both personal an
 Automatic Information. We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see  Cookies and other technologies.   
 
 
-**How we use your information **  
+**How we use your information**  
 We use sensitive billing information (such as cardholder name, credit card number, and expiration date) and disclose such information to our third party suppliers and vendors for the purpose of completing the travel bookings you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. By providing your personal information to us, you consent to the use of your personal information as described.   
 
 
@@ -53,7 +54,7 @@ Email Communications. We want to make it easy for you to take advantage of trave
 Please review " Your choices with respect to the collection and use of your information" below.  
 
 
-**With whom we share your information **  
+**With whom we share your information**  
 We may share your information with the following entities:   
 
 
@@ -67,7 +68,7 @@ We may share your information with the following entities:
 
 ·                     Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotels.com, L.P.; Hotwire, Inc; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of commercial electronic communications and, at a minimum, give you an opportunity in any commercial electronic message they send to choose not to receive such commercial electronic messages in the future. 
 
-·                     Government and Law Enforcement Agencies.  We may be required to disclose your personal information to law enforcement agencies and governments around the world for security, customs and immigration purposes. For example, under U.S. Law, the U.S. Department of Homeland Security Bureau of Customs and Border Protection requires that certain travel and reservation information relating to people travelling to or via the U.S.A, known as Passenger Name Record or PNR data, be provided to it prior to arrival in, or departure from, the U.S.A.   
+·                     Government and Law Enforcement Agencies. We may be required to disclose your personal information to law enforcement agencies and governments around the world for security, customs and immigration purposes. For example, under U.S. Law, the U.S. Department of Homeland Security Bureau of Customs and Border Protection requires that certain travel and reservation information relating to people travelling to or via the U.S.A, known as Passenger Name Record or PNR data, be provided to it prior to arrival in, or departure from, the U.S.A.   
 
 
   
@@ -91,7 +92,7 @@ By providing your personal information to us, you consent to the disclosure of y
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.   
 
 
-**How you can access your information **  
+**How you can access your information**  
 You can access and update your contact information by visiting this website’s Account Overview page. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.   
 
 
@@ -147,10 +148,10 @@ If you are visiting our website from Australia or from any other country outside
 **Changes to this Privacy Policy**  
 We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. 
 
-**How you can contact us **  
+**How you can contact us**  
 If you have questions about this Privacy Policy (or your travel planning or purchases), please email us using our [customer service and feedback form](mailto:help@support.expedia.com.au).   
 
 
 This Privacy Policy is effective as of June 19, 2012. 
 
-Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA 
+Expedia, Inc. is not responsible for content on external Web sites. © 2017 Expedia, Inc. All rights reserved. 
