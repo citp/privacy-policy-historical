@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328043546id_/http%3A//www.zarget.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarget.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629212033id_/https%3A//zarget.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Zarget: A/B Testing and Heatmap Software
+# Privacy - Zarget
 
-Privacy Policy
+Privacy Policy 
 
 This Privacy Policy is effective as of Oct 1, 2015.
 
@@ -44,22 +44,22 @@ The cookies (our own and third party) we may use in connection with our Website 
 
 Name  |  Purpose  |  Privacy Policy   
 ---|---|---  
-Google analytics  |  Website analytics cookie for visitor information and source.  |  <http://www.google.com/intl/en/policies/privacy/>  
-Adwords Conversion  |  Conversion tracking cookie for ads delivered by Google Adwords  |  <http://www.google.com/intl/en/policies/privacy/>  
-Capterra  |  Conversion tracking cookie for ads delivered by Capterra  |  <http://www.capterra.com/legal_privacy_policy>  
-Facebook  |  Facebook tracking to track people interactions with the Like button.  |  <http://www.facebook.com/about/privacy/>  
-Google Interest Based Ads  |  Cookie to serve ads based on a user’s prior visits to our website.  |  <http://www.google.com/intl/en/policies/privacy/>  
-Criteo  |  Track information about which pages you viewed, and in certain cases which products you bought.  |  <http://www.criteo.com/privacy/>  
-Doubleclick  |  Service for accessing multiple sources of online display advertising inventory.  |  <http://www.google.com/intl/en/policies/privacy/>  
+Google analytics  |  Website analytics cookie for visitor information and source.  |  <https://www.google.com/intl/en/policies/privacy/>  
+Adwords Conversion  |  Conversion tracking cookie for ads delivered by Google Adwords  |  <https://www.google.com/intl/en/policies/privacy/>  
+Capterra  |  Conversion tracking cookie for ads delivered by Capterra  |  <https://www.capterra.com/legal_privacy_policy>  
+Facebook  |  Facebook tracking to track people interactions with the Like button.  |  <https://www.facebook.com/about/privacy/>  
+Google Interest Based Ads  |  Cookie to serve ads based on a user’s prior visits to our website.  |  <https://www.google.com/intl/en/policies/privacy/>  
+Criteo  |  Track information about which pages you viewed, and in certain cases which products you bought.  |  https://www.criteo.com/privacy/  
+Doubleclick  |  Service for accessing multiple sources of online display advertising inventory.  |  <https://www.google.com/intl/en/policies/privacy/>  
 Getapp  |  Getapp partners with third party ad networks to provide you targeted advertising based upon your interests.  |  <https://www.getapp.com/privacy_policy>  
-Acquisio  |  Acquisio uses third parties to assist us in measuring statistical information about users of the service.  |  <http://www.acquisio.com/privacy-policy>  
+Acquisio  |  Acquisio uses third parties to assist us in measuring statistical information about users of the service.  |  <https://www.acquisio.com/privacy-policy>  
 Chango  |  User data tracking to deliver consumers more relevant advertising.  |  <https://www.chango.com/privacy/policy/>  
-Quantcast  |  QuantCast cookies collect data for the purpose of interest-based advertising.  |  <http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>  
-Bing  |  Used to track the pages you view and links you click when using Microsoft's and its advertising partners' web sites and services.  |  <http://www.microsoft.com/en-us/privacystatement/default.aspx>  
-Magnetic  |  A unique, random identifier to anonymously track users for targeted advertising.  |  <http://www.magnetic.com/privacy/corporate-privacy-policy/>  
-Shareasale  |  A third party affiliate marketing network.  |  [https://www.shareasale.com/agreement.cfm,](https://www.shareasale.com/agreement.cfm) [ http://www.shareasale.com/w3c/policy.html](http://www.shareasale.com/w3c/policy.html)  
-Bizible  |  A plug-in that brings marketing and sales data together.  |  <http://www.bizible.com/privacy-policy>  
-Bizo (Linkedin)  |  LinkedIn cookies for the purpose of interest-based advertising.  |  <http://www.linkedin.com/legal/cookie_policy>  
+Quantcast  |  QuantCast cookies collect data for the purpose of interest-based advertising.  |  <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>  
+Bing  |  Used to track the pages you view and links you click when using Microsoft's and its advertising partners' web sites and services.  |  <https://www.microsoft.com/en-us/privacystatement/default.aspx>  
+Magnetic  |  A unique, random identifier to anonymously track users for targeted advertising.  |  https://www.magnetic.com/privacy/corporate-privacy-policy/  
+Shareasale  |  A third party affiliate marketing network.  |  [https://www.shareasale.com/agreement.cfm,](https://www.shareasale.com/agreement.cfm) [ https://www.shareasale.com/w3c/policy.html](https://www.shareasale.com/w3c/policy.html)  
+Bizible  |  A plug-in that brings marketing and sales data together.  |  https://www.bizible.com/privacy-policy  
+Bizo (Linkedin)  |  LinkedIn cookies for the purpose of interest-based advertising.  |  <https://www.linkedin.com/legal/cookie_policy>  
   
 By use of our Website or Service, you also accept the terms of the Privacy Policy of the respective cookies as enumerated above. You can set your browser to either reject all cookies, to allow only “trusted” websites to set them, or to accept only those cookies from those websites you are currently on. 
 
@@ -67,17 +67,17 @@ For more information on controlling cookie settings in your browser, please refe
 
 More information on ["Incognito" mode and cookie setting in Google Chrome](https://support.google.com/chrome/answer/95464?hl=en)
 
-More information on ["InPrivate" and cookie setting in Internet Explorer](http://windows.microsoft.com/en-in/windows-vista/what-is-inprivate-browsing)
+More information on ["InPrivate" and cookie setting in Internet Explorer](https://windows.microsoft.com/en-in/windows-vista/what-is-inprivate-browsing)
 
-More information on ["Private Browsing" and cookie setting in FireFox](http://support.mozilla.org/en-US/kb/settings-privacy-browsing-history-do-not-track)
+More information on ["Private Browsing" and cookie setting in FireFox](https://support.mozilla.org/en-US/kb/settings-privacy-browsing-history-do-not-track)
 
-More information on ["Private Browsing" and cookies setting in Safari](http://support.apple.com/kb/ht1677)
+More information on ["Private Browsing" and cookies setting in Safari](https://support.apple.com/kb/ht1677)
 
 Please note that if you wish to turn off the cookies in your web browser, you might not be able to take advantage of many features of our Service. 
 
 To learn how to delete or disable cookies in general, visit 
 
-[www.allaboutcookies.org/manage-cookies.](https://web.archive.org/web/20160328043546id_/http%3A//www.zarget.com/www.allaboutcookies.org/manage-cookies)
+[www.allaboutcookies.org/manage-cookies.](https://www.allaboutcookies.org/manage-cookies)
 
 Osmnez clients have the responsibility to inform the individuals with whom they interact with via the help of the Service about the cookies used by Osmnez and by themselves and should obtain individuals’ consent, if necessary. 
 
@@ -91,7 +91,7 @@ Do Not Track. Do Not Track (“DNT”) is an optional browser setting that allow
 
 ###  Social Media Features and Features 
 
-Our Website includes social media features, such as the Facebook “Like” button, the “Share This” button or interactive mini-programs. These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing them. 
+Our Website includes social media features, such as the Facebook “Like” button, the “Share This” button or interactive mini-programs. These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the Privacy Policy of the company providing them. 
 
 ###  Links to Third Party Sites 
 
@@ -159,4 +159,4 @@ In the event Osmnez goes through a business transition, such as a merger or acqu
 
 ###  Contacting Osmnez 
 
-If you have any questions about this privacy policy or your dealings with the Osmnez website, you can contact us at [privacy@zarget.com](mailto:privacy@zarget.com) or via postal mail at Osmnez Technologies Inc, 340 S Lemon Ave #3891, Walnut, CA 91789. 
+If you have any questions about this Privacy Policy or your dealings with the Osmnez website, you can contact us at [privacy@zarget.com](mailto:privacy@zarget.com) or via postal mail at Osmnez Technologies Inc, 340 S Lemon Ave #3891, Walnut, CA 91789. 
