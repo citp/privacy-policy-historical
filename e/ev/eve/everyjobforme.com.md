@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915224138id_/http%3A//www.everyjobforme.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjobforme.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190918id_/https%3A//www.everyjobforme.com/privacy_policy) for the most accurate reproduction.*
 
-# EveryJobForMe - Find Jobs. Showcase Your Resume. Get Hired.
+# Search Jobs - Job Listings | EveryJobForMe
 
-### EveryJobForMe.com PRIVACY POLICY Effective Date: April 16, 2010
+#### EveryJobForMe.com PRIVACY POLICY Effective Date: April 16, 2010
 
 This privacy policy (this "Policy") covers the web site www.EveryJobForMe.com and the other web sites operated under the domain name EveryJobForMe.com (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
@@ -24,9 +24,8 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@everyjobforme.com 
 
 Address:  
-40 Warren Street  
-3rd Floor  
-Charlestown, MA 02129  
+625 Massachusetts Ave  
+Cambridge, MA 02139  
 
 
 **Registration**
