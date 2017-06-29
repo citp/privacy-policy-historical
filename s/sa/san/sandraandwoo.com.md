@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121083742id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629105754id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Sandra and Woo » Privacy Policy | The comedy webcomic
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, respond to a surv
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.de/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 **What do we use your information for?**
 
@@ -82,8 +82,8 @@ This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino S
 
 Opt out of from behavioral advertising:
 
-  * [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Opt Out From Online Behavioral Advertising By Participating Companies \(BETA\)")
-  * [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative")
+  * [Digital Advertising Alliance](http://optout.aboutads.info/#!/ "Opt Out From Online Behavioral Advertising By Participating Companies \(BETA\)")
+  * [Network Advertising Initiative](http://optout.networkadvertising.org/#!/ "Network Advertising Initiative")
 
 
 
@@ -95,4 +95,4 @@ Only in exceptional cases, the full IP address is sent to and shortened by Googl
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout?hl=en-GB>.
 
-Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html> or at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>. Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).
+Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html> or at <https://www.google.com/intl/en-GB/policies/privacy/>. Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).
