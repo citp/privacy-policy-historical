@@ -1,49 +1,118 @@
-> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412021744id_/http%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629070307id_/https%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Velaro Live Chat Software Solutions
+# Privacy Policy | Velaro Live Chat Software
 
-Velaro complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Velaro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+### Velaro Privacy Policy
 
-Velaro has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Velaro, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+This privacy policy sets out how Velaro uses and protects any information that you provide Velaro when you visit Velaro websites or use Velaro products.
 
-**COLLECTION OF YOUR PERSONAL INFORMATION**
+Velaro is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Velaro websites or products, then you can be assured that it will only be used in accordance with this privacy statement. Velaro may change this policy from time to time by updating this page. You should check this page occasionally to ensure that you agree with any changes. This policy is effective as of 5/26/2017.
 
-Velaro collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Velaro also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+### What we collect
 
-There is also information about your computer hardware and software that is automatically collected by Velaro. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Velaro for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Velaro Web site.
+**When you** visitor **our website, we may collect:**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Velaro public message boards, this information may be collected and used by others. Note: Velaro does not read any of your private online communications.
+  * Name and job title.
+  * Contact information including email address.
+  * Demographic information such as location, preferences and interests.
+  * Other information relevant to customer support, surveys or other offers.
 
-Velaro encourages you to review the privacy statements of Web sites you choose to link to from Velaro so that you can understand how those Web sites collect, use and share your information. Velaro is not responsible for the privacystatements or other content on Web sites outside of the Velaro and Velaro family of Web sites.
 
-**USE OF YOUR PERSONAL INFORMATION**
 
-Velaro collects and uses your personal information to operate the Velaro Web site and deliver the services you have requested. Velaro also uses your personally identifiable information to inform you of other products or services available from Velaro and its affiliates. Velaro may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**When you use our products, we may collect:**
 
-Velaro does not sell, rent or lease its customer lists to third parties. Velaro may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Velaro may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Velaro, and they are required to maintain the confidentiality of your information.
+  * User identification information, such as name and contact data.
+  * Engagement information, such as survey data, chat transcripts and message history.
+  * Automatic information, such as IP address and computing device details.
 
-Velaro does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Velaro keeps track of the Web sites and pages our customers visit within Velaro, in order to determine what Velaro services are the most popular. This data is used to deliver customized content and advertising within Velaro to customers whose behavior indicates that they are interested in a particular subject area.
 
-Velaro Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Velaro or the site; (b) protect and defend the rights or property of Velaro; and, (c) act under exigent circumstances to protect the personal safety of users of Velaro, or the public.
+### What we do with the information we gather
 
-**USE OF COOKIES**
+We require this information to understand your needs and provide you with a better service, and for the following reasons:
 
-The Velaro Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  * To facilitate the goals of the brands using our products.
+  * For internal record keeping and billing.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the contact information which you have provided.
+  * Occasionally, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customize our website or products per your interests and preferences.
+  * We may provide your information to our third-party partners for marketing or promotional purposes.
+  * We will never sell your information, unless at one point you subscribed to our free service (excludes trial periods).
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Velaro pages, or register with Velaro site or services, a cookie helps Velaro to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Velaro Web site, the information you previously provided can be retrieved, so you can easily use the Velaro features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Velaro services or Web sites you visit.
 
-**SECURITY OF YOUR PERSONAL INFORMATION**
+### Security
 
-Velaro secures your personal information from unauthorized access, use or disclosure. Velaro secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**CHANGES TO THIS STATEMENT**
+### How we use cookies
 
-Velaro will occasionally update this Statement of Privacy to reflect company and customer feedback. Velaro encourages you to periodically review this Statement to be informed of how Velaro is protecting your information.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**CONTACT INFORMATION**
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.  
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. Cookies also enable us to improve the performance of our messaging products by capturing your preferences. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-Velaro welcomes your comments regarding this Statement of Privacy. If you believe that Velaro has not adhered to this Statement, please contact Velaro at [info@velaro.com](mailto:info@velaro.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of our websites and products.
+
+### Links to other websites
+
+Our website or products may contain links to enable you to visit other websites or third party applications easily. However, once you have used these links to leave our site, you should note that we do not have any control over other websites or applications. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and applications and they are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website or application in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+**When using our website:**
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@velaro.com](mailto:support@velaro.com).
+  * You have a right to access the website data that we maintain about you, and may do so simply by emailing us at [support@velaro.com](mailto:support@velaro.com).
+
+
+
+**When using our messaging products:**
+
+  * When you submit information, and send messages during an engagement session with a brand using one of our messaging products, this data will be encrypted and securely archived. If you do not wish for your information to be archived, you may opt not to submit information.
+  * Your information may be stored by brands that use Velaro products; in this case your information is subject to the privacy policy of that brand.
+  * You have a right to access the application data that we maintain about you, and may do so simply by emailing us at [support@velaro.com](mailto:support@velaro.com).
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission (as a paying customer) or use our free service, where applicable by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. We will provide an individual opt-out or opt-in, choice before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. You may modify your auto-opt-in within your profile in the application profile settings.
+
+Velaro is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Velaro is potentially liable.
+
+### EU-US Privacy Shield Framework
+
+Velaro complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from European Union and Switzerland to the United States, respectively. Velaro has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
+
+In compliance with the EU-US Privacy Shield Principles, Velaro commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Velaro at:
+
+Alex Bloom  
+8 Market Place, Suite 300  
+Baltimore Maryland 21202  
+[support@velaro.com](mailto:support@velaro.com)
+
+Velaro has further committed to refer unresolved privacy complaints under the US-EU Privacy Shield to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Velaro, please visit the BBB EU PRIVACY SHIELD web site at http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+### Swiss-US Privacy Shield
+
+Velaro complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.
+
+Velaro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-Swiss Safe Harbor Principles, Velaro. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Velaro at:
+
+Alex Bloom  
+8 Market Place, Suite 300  
+Baltimore Maryland 21202  
+[support@velaro.com](mailto:support@velaro.com)
+
+Velaro has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
