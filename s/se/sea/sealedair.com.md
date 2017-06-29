@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230124338id_/https%3A//sealedair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629071335id_/https%3A//sealedair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sealed Air
 
@@ -91,7 +91,6 @@ This Privacy Policy may be updated periodically and without prior notice to you 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us as indicated below:
 
 Sealed Air  
-(Attn: Executive Director, Digital Marketing)  
-8215 Forest Point Boulevard  
-Charlotte, NC 28273    
-[contact.us@sealedair.com](mailto:contact.us@sealedair.com)
+Attn: Executive Director, Digital & Social Marketing  
+2415 Cascade Pointe Blvd.  
+Charlotte, NC 28208
