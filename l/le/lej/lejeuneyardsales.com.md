@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209090102id_/http%3A//lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629205044id_/http%3A//www.lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Lejeune bookoo - Buy and sell with your neighbors!
 
