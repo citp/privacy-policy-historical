@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinelikes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000323id_/http%3A//machinelikes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinelikes.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629133816id_/http%3A//machinelikes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Machine Likes
 
@@ -6,8 +6,7 @@
 
 * * *
 
-  
-
+Last Updated : 10 Feb 2017
 
 This privacy policy sets out how MachineLikes.com uses and protects any information that you give to MachineLikes.com when you use this website. 
 
@@ -72,6 +71,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email admin@MachineLikes.com. 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-  
-
