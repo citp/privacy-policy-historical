@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124203724id_/http%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011625id_/https%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclosure - Small Business Advice Help For Startups and Entrepreneurs
 
@@ -103,4 +103,4 @@ We may change this Privacy Policy from time to time. If/when changes are made to
 
 **Changes to the Terms**
 
-Success Harbor reserves the right to add, delete or modify any part of the above Terms of Service, at any time, without further notice, and at its own discretion. You may always access a current version of the Success Harbor Terms of Service at [http://www.successharbor.com/privacy-policy](https://web.archive.org/privacy-policy)
+Success Harbor reserves the right to add, delete or modify any part of the above Terms of Service, at any time, without further notice, and at its own discretion. You may always access a current version of the Success Harbor Terms of Service at [https://www.successharbor.com/privacy-policy](https://web.archive.org/privacy-policy)
