@@ -1,99 +1,116 @@
-> *The following text is extracted and transformed from the imgstg.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219224331id_/http%3A//www.imgstg.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgstg.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629220659id_/http%3A//sportstg.com/privacy) for the most accurate reproduction.*
 
-# IMG Sports Technology Group Privacy Policy
+# Privacy Policy – SportsTG
 
-**Introduction**
+**Effective 2016**
 
-IMG Sports Technology Group understands the importance of protecting your right to privacy and has therefore prepared this Privacy Policy (the Policy) to help you understand how the company aims to protect the privacy of your personal information.
+**Table of Contents:**
 
-In this document, IMG Sports Technology Group outlines what details about you are kept and why the company needs these details. 
+**1\. INTRODUCTION**  
+**2\. WHAT INFORMATION DO WE COLLECT?**  
+**3\. HOW DO WE USE YOUR INFORMATION?**  
+**4\. HOW DO WE PROTECT YOUR INFORMATION**  
+**5\. HOW CAN YOU ACCESS YOUR INFORMATION?**  
+**6\. HOW CAN YOU OPT OUT?**  
+**7\. OTHER IMPORTANT INFORMATION FOR YOU**  
+**8\. HOW YOU CAN CONTACT US**
 
-The Australian Privacy Principles (APP) provide the text of the 13 APPs from Schedule 1 of the Privacy Amendment (Enhancing Privacy Protection) Act 2012, which amends the Privacy Act 1988 (the Act). 
+**1\. INTRODUCTION**
 
-Privacy Amendment (Enhancing Privacy Protection) Act 2012 includes schedules that guide regulation of the way private organisations, including IMG Sports Technology Group, handles personal information.
+SportsTG Pty Ltd (ABN 76 608 341 260) and its wholly owned subsidiary companies in the United Kingdom (SportsTG (UK) Limited (Company Number 06809213) and in New Zealand (SportsTG Limited (NZBN 9429042499190) (“Company” or “we” or “SportsTG) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including sports management solutions, websites, mobile sites, applications (“apps”), widgets, competitions, customer surveys and advertising services (collectively, the “Company Services”). By using Company Services, you agree to the terms and conditions of this Privacy Policy.
 
-The Act contains 13 Privacy Principles that regulate, among other things, how organisations collect, store and protect the quality of personal information. Also, how these organisations should use and share personal information with other organisations. 
+This Privacy Policy applies to all persons who interact with us, including those who are registered and unregistered users of Company Services, subscribers to our products or services, and advertisers. This Privacy Policy applies to Company’s collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address).
 
-Notwithstanding the APPs form part of all IMG Sports Technology Group’s procedures and policies and the way personal information and details are administered by the company, the Policy also provides a specific framework for the collection, retention and administration of your personal information.
+Company provides various services to sporting organisations including national governing bodies, state federations, associations, leagues and clubs (“Sporting Organisations”) to assist those Sporting Organisations to administer their sports. The services we provide to Sporting Organisations may include online registration and payments, membership and competition management systems, other systems developed and/or operated by SportsTG from time-to-time, operating and hosting of systems and websites, and data collection and storage services. The collection of information about you by the Sporting Organisation, for example when you register as a member of a Sporting Organisation, and the use and disclosure of that information is governed by the privacy policies of the relevant Sporting Organisation.
 
-**What personal information do we collect?**
+Company does not use information collected by Sporting Organisations other than in providing services to the Sporting Organisations. However, when you visit websites that we operate or host for Sporting Organisations, Company does collect certain de-identified or anonymous information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information, and if you access those websites from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device. Company uses that information as if your access to those websites was a Company Service provided to you. See below for details on how we use that information.
 
-IMG Sports Technology Group collects personal information from clients and other associates to assist in providing our range of products and services. The type of personal information IMG Sports Technology Group collects about you may include all or some of the following: your name, address, telephone number, fax number, email address, company and/or business information, and any other details appropriate to the products and services provided by IMG Sports Technology Group. 
+Company is bound by the privacy laws applicable in Australia, New Zealand and the UK in relation to the collection, storage and handling of your personal information. Where appropriate we will handle personal information relying on the media exemption, related bodies corporate exemption and the employee records exemption in the Act.
 
-IMG Sports Technology Group collects personal information when users: utilise the company website to lodge their personal details, resume, company details and information; change or update any of these details; or, send us documents via email containing personal information.
+**2\. WHAT INFORMATION DO WE COLLECT?**
 
-IMG Sports Technology Group collects registration information, which is the information you provide us in the course of registering for or acquiring one or more of our company services, for example, to create an account or subscribe to a newsletter. Registration information may include name, postal address, email address, gender, and birthday. 
+Company collects the personal information needed to provide Company Services and for our business operations. If you choose not to provide certain personal information to us, we may not be able to provide you with the services you require. The following are the main types of personal information collected by Company and the main purposes for which they are collected.
 
-When you access and interact with IMG Sports Technology Group either directly or via an organisation who is a client of ours, we may collect certain information about those visits via cookies. Our servers receive and record information about your device, browser, IP address and other software information when you access our services. 
+**Registration Information** is the information you provide to Company in the course of registering for or acquiring a Company Service, for example, to create an account, become a subscriber, make a support inquiry, become an advertiser, post comments, receive a newsletter, or enter a competition. Registration Information may include, for example, name, delivery or postal address, email address, gender and birthday. It includes additional information which you provide to Company in the course of that relationship. Where possible you may have the option of interacting with us anonymously (for example when browsing our digital products as a casual user) or using a pseudonym. We will usually make it clear whenever this is an option.
 
-The personal information IMG Sports Technology Group collects about you is used to correspond with you and assist in providing other products and services from IMG Sports Technology Group. If you choose not to provide your personal information, it may mean that we will not be able to provide these services to you.
+**Public Information and Posts** consist of comments or content that you post to the Company Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
-There are other organisations that are connected to the services we provides to you and which may have access to your personal information. They are:
+**Information from third party Social Media.** If you access or log-in to a Company Service through a third party social media service or connect a Company Service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address, followers or friends lists, and any information you have disclosed in connection with that social media service. We do not collect your passwords other than in relation to our own services. When you access the Company Services through third party social media services or when you connect a Company Service to third party social media services, you are authorizing Company to collect, store use and disclose such information and content in accordance with this Privacy Policy.
 
-  * Member and affiliated organisations of IMG Sports Technology Group;
-  * Web development companies – organisations contracted to develop and maintain the IMG Sports Technology Group website; and
-  * Auditors and Regulators – organisations that ensure IMG Sports Technology Group is complying with legislation and contractual obligations. 
+**Activity Information – cookies and other technologies.** When you access and interact with the Company Services, we may collect certain information about those visits. For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
 
+Cookies and other tracking technologies (such as browser cookies and local storage, pixel beacons, and Adobe Flash technology including cookies) are comprised of small bits of data or code that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so that such websites, apps and other services can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information such as pages you have visited, content you have viewed, search queries you have run and advertisements you have viewed in relation to your usage of the Company Services and other websites you have visited.
 
+Third parties that support the Company Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Company Services usage statistics, may also use these technologies to collect similar information. Company does not control these third-party technologies and their use is governed by the privacy policies of those third parties using such technologies.
 
-**How do we collect and hold your personal information**
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Company Services.
 
-If IMG Sports Technology Groups holds personal information about you that was collected for the primary purpose, providing our products and services. IMG Sports Technology Group will not use or disclose the information for another purpose unless you have consented to the use or disclosure of your personal information.
+**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as commercially available sources and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
-Your personal information is stored on IMG Sports Technology Group’s secure server. We do not, under any circumstances, sell, steal or share our clients’ lists with any other party, unless it is required by law. We also do not contact or market to anyone on our clients’ lists, unless you have subscribed to receive that information or it is required by law. 
+**Information in relation to other persons who deal with us.** When you apply for a job or contract with us we may collect certain information from you or from any recruitment consultant, your previous employers and others who may be able to provide information to assist us in deciding whether or not to make you an offer of employment or engage you under a contract. This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees which are exempt from the privacy laws applicable in your jurisdiction.
 
-IMG Sports Technology Group will not misuse or change your personal information without your knowledge. We will not share your personal information with anyone who does not have authority to access your information. To make sure of this, we will regularly audit access to the systems that support IMG Sports Technology Group and make sure that other organisations we deal with have privacy policies adhering to the APPs.
+Company also collects personal information about individuals who are, or are employed by, our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. Generally, if appropriate, we will state why we are collecting personal information when we collect it and how we plan to use it, or these things will be obvious when we collect the information.
 
-IMG Sports Technology Group ensures steps are taken by our third party server providers so that personal information is protected from misuse; interference and loss; and from unauthorised access, modification or disclosure.
+**3\. HOW DO WE USE YOUR INFORMATION?**
 
-**Why do we collect, hold, use and disclose your personal information**
+We use the information we collect from and about you to provide the Company Services and features to you, including: to provide you with customer support and to respond to inquiries; to improve your experience with both online and off-line Company Services by delivering content and information Company believes you are likely to find relevant and interesting, including product improvement updates, information to help administer sports, advertisements and promotions; to allow you to comment on content, and participate in games, competitions, or rewards programs;, to measure and improve Company Services and features. Where you have expressly consented to this, Company may deliver direct marketing messages. When you are not reasonably identifiable in relation to the information collected from or about you, we may use that information for any purpose or share it with third parties. We may also de-identify the information we collect about you so that we can use and disclose it without using or revealing any personal information about you.
 
-  * To provide company services to you, to fulfil administrative functions associated with these services, for customer service, support and maintenance, product improvement and client relationship purposes, as well as to enter into contracts with you or third parties. 
-  * To provide co-branded services and features. We may offer co-branded services or features, such as competitions or other promotions together with a third party. By virtue of these relationships, we may share the information you submit in connection with the co-branded service with the third party. The third party’s use of this information will be governed by the third party privacy policy. We will advise you when this is occurring or obtain your express consent to share your personal information in these circumstances 
-  * To bill and collect money owed to us. This includes sending you emails, invoices receipts, notices of delinquency, and alerting you if a payment fails. We use third parties for our payment processing, and we send billing information to those third parties to process your orders and credit card payments. 
-  * To send you system related information. For example, we may let you know about temporary or permanent changes to our services, planned system outages, new features and releases. 
-  * To provide customer support 
-  * To meet legal requirements such as complying with court or tribunal orders 
-  * To communicate with you about your account for informal reasons 
-  * To send informational and promotional content that you have consented to or reasonably expect IMG Sports Technology Group to use or disclose for that purpose. 
-  * IMG Sports Technology Group provides a simple means by which you may request not to receive direct marketing communication (ability to unsubscribe or make a request to not receive direct marketing communications from IMG Sports Technology Group) 
+We use the information we collect from and about you for these additional purposes:
 
+**To provide Company Services to you.** Company will use your information to provide Company Services to you, to fulfil administrative functions associated with these services, for customer service, support and maintenance, surveys, product improvement and client relationship purposes, as well as to enter into contracts with you or third parties. We may also use your information to improve Company Services including through research and data analysis by us and our service providers. Where your information is contained within an advertisement which Company publishes for you, Company may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions applicable to the initial publication of the advertisement. Where your personal information is contained in a user generated post we may publish your name and suburb to identify you as the author of the comment if we choose to publish comment in any media. We may use and disclose your personal information in other ways expressly disclosed at the point of collection. If you are a competition winner we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
 
+**To allow service and content providers to assist us in providing and managing the Company Services.** Company may make your information available to certain third party service and content providers, such as providers of data cloud services, website hosting service providers, direct marketing services, who help us manage or provide the Company Services or provide Company with related services. These third parties may be located in a range of different countries including Japan, United Kingdom, United States of America and Singapore. Company generally requires these service and content providers to comply with relevant privacy laws and not to use personal information which Company provides for any purpose other than the specific service they are providing to you and/or Company.
 
-**How can you access/correct your personal information?**
+**To allow social sharing functionality.** If you log in with or connect a social media service account with Company Services, we may share your user name, picture, tweets and likes, as well as your activities and comments with other Company Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Company Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Company Services account and do not participate in social sharing on Company Services.
 
-If IMG Sports Technology Group holds personal information about you and you request IMG Sports Technology Group to correct or update the information, we will take reasonable steps in the circumstances to correct or update that information. 
+**To provide co-branded services and features.** We may offer co-branded services or features, such as competitions or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Company Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy. We will advise you when this is occurring or obtain your express consent to share your personal information in these circumstances.
 
-Notification of correction to third parties
+**To deliver relevant advertisements.** Company and our advertisers may use the information we collect from and about you to deliver relevant ads to you when you use the Company Services or another service. Please refer to Section 6 below for information about your choices in connection with the advertisements you see when using the Company Services.
 
-If IMG Sports Technology Group corrects personal information about an individual that we previously disclosed to another company and the individual requests us to notify the other entity of the correction, IMG Sports Technology Group will take reasonable steps in the circumstances to give that notification unless it is impracticable or unlawful to do so. 
+**To contact you.** Where you have expressly consented to this, Company may periodically send direct marketing messages, such as special offers, which it believes might be of interest to you.
 
-How an individual may access information 
+**To share with our Company Affiliates.** Company may share your information with Company’s related companies both in and outside of Australia including in United Kingdom, New Zealand and United States of America. Users who visit our related companies’ services should still refer to their separate privacy policies (if any), which may differ in some respects from this Privacy Policy. Where we share your information with our related companies, they may use your information in the same way as we can under this Privacy Policy.
 
-To obtain a copy of your personal information, please contact IMG Sports Technology Group for advice on how to obtain this information. 
+**To share with business partners.** Where you have expressly consented to this, Company may share your information with business partners to permit them to send you marketing communications consistent with your choices.
 
-IMG Sports Technology Group will respond to the request for access to the personal information within a reasonable period after the request is made, if it is reasonable and practicable to do so. 
+**To protect the rights of Company and others.** There may be instances when Company may disclose your information, including situations where Company has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Company Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process in any country; or (v) respond to requests from public and government authorities.
 
-Policy Updates
+**To complete a merger or sale of assets.** If Company sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Company may transfer or disclose your information to the party or parties involved in the transaction as part of that transaction and as part of any due diligence processes which take place in contemplation of a potential transaction.
 
-From time to time we may change our privacy practices as expressly permitted by the Act. We will notify you of any changes to this Policy as required by law. We will also post an updated copy of this Policy on our website. It will have a different date and version number to the one set out below. Please check our site periodically for updates. 
+**4\. HOW DO WE PROTECT YOUR INFORMATION?**
 
-**How can you complain about a breach of the Australian Privacy Principles?**
+Company uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
 
-If you want further information on how IMG Sports Technology Group handles personal information, or if you want to discuss a possible breach of privacy, please contact IMG Sports Technology Group in one of the following ways:
+**5\. HOW CAN YOU ACCESS YOUR INFORMATION?**
 
-  * By telephone on +61 (3) 9426 2600 
-  * Write to:   
-IMG Sports Technology Group   
-Ground Floor East   
-600 Victoria Street   
-Richmond, VIC 3121
-  * By email at info@imgstg.com
+If you would like to access, review, correct or update your personal information, you may contact us as outlined in section 8 of this policy. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can assist in responding to your request. We will try to respond to your request as soon as reasonably practicable. If we deny access in any circumstances we will generally tell you why.
 
+**6\. HOW CAN YOU OPT OUT?**
 
+You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to http://youronlinechoices.com.au (Australia); www.cap.org.uk (United Kingdom); and www.iab.org.nz (New Zealand).  
+If you want to stop receiving promotional materials, you can change your account settings or follow the unsubscribe instructions at the bottom of each email or text message. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.  
+If you have linked any of your social media accounts to your account for any Company Services, you can cancel that link by changing your account settings.  
+If you need any assistance with changing your account settings, please call Company.
 
-If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+**7\. OTHER IMPORTANT INFORMATION FOR YOU**
 
-**Are we likely to disclose personal information to overseas recipients?**
+**Updates to Privacy Policy.** Company may modify this Privacy Policy at any time. Please look at the Last Updated date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Company Services. If the changes affect any agreement between us, you will be entitled to terminate our agreement if those changes are not acceptable to you, on reasonable grounds.
 
-IMG Sports Technology Group has staff in the United Kingdom and New Zealand who are privy to personal information in our console. Other than staff, IMG Sports Technology Group are unlikely to disclose personal information to overseas recipients unless expressly permitted by you. 
+**Location of Data.** Some of the Company Services are hosted in and managed outside of the country in which you reside, and in dealing with Company, you consent to having any personal information accessible from or transmitted outside of your country of residence.
+
+**Linked Services.** The Company Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. Company is not responsible for the privacy practices of unaffiliated companies, and once you leave the Company Services or click an advertisement you should check the applicable privacy policy of the other service.
+
+**Collection of Personal Financial Information by a Payment Service**. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+
+**Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.  
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security or other policies. We do not always completely remove or delete all of your information for a number of reasons including due to technical and systems constraints, contractual, financial or legal requirements.
+
+**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Company Services or otherwise. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+**Complaint.  **If you think we have breached the privacy laws in your jurisdiction, you may complain to us by contacting us as outlined in section 8 below. When you contact us, please include your email address, name, address, and telephone number and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days, by making contact with you to inform you whether we have accepted your complaint, need further information or do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the privacy regulator in your juristiction, including the Office of the Australian Information Commissioner (www.oaic.gov.au), the UK’s Information Commissioner’s Office (www.ico.org.uk) and New Zealand Privacy Commissioner (www.privacy.org.nz)
+
+**8\. HOW YOU CAN CONTACT US**
+
+If you have questions about this Privacy Policy, please contact our Privacy Officer at:  
+Email: privacy@sportstg.com  
+Mail: HWT Tower, Level 9, 40 City Road, Southbank VIC 3006
