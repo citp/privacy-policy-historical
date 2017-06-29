@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfollowerstats.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230092054id_/http%3A//unfollowerstats.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowerstats.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629083800id_/http%3A//unfollowerstats.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy :: Track and unfollow your unfollowers! :: Unfollower Stats
 
