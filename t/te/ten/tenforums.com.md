@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201140909id_/http%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenforums.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629184737id_/https%3A//www.tenforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Windows 10 Forums - Privacy Policy
 
@@ -172,4 +172,4 @@
 >   
 >  This website is owned and operated by Designer Media Ltd. 
 > 
-> If you have any questions about our cookies or this cookies policy, please [contact us.](http://www.tenforums.com/sendmessage.php)
+> If you have any questions about our cookies or this cookies policy, please [contact us.](https://www.tenforums.com/sendmessage.php)
