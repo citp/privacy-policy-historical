@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231013541id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630014423id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Humans Are Free
 
@@ -30,9 +30,11 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
   
 Medical disclaimer
 
-This website is not intended for the purpose of providing medical advice. The views of the authors are not necessarily shared by http://HumansAreFree.com. 
+This website is not intended for the purpose of providing medical advice. The views of the authors are not necessarily shared by http://HumansAreFree.com.    
+  
+The information found here is not intended to be a substitute for professional medical advice, diagnosis or treatment and is for information only. Always seek the advice of your physician or another qualified health provider with any questions about your medical condition and/or current medication. 
 
-All information, content, and material of this website is for informational purposes only and are not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.     
+All information, content, and material of this website is for informational purposes only and are not intended to serve as a substitute for the consultation, diagnosis, and/or medical treatment of a qualified physician or healthcare provider.  Do not disregard professional medical advice or delay seeking advice or treatment because of something you have read here.  
   
 Contact Information  
   
