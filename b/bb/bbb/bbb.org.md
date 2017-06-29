@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022050id_/http%3A//www.bbb.org/council/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629232041id_/http%3A//www.bbb.org/council/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
