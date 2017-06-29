@@ -1,66 +1,176 @@
-> *The following text is extracted and transformed from the shortcoursesportal.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223223158id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortcoursesportal.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629073103id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | StudyPortals
 
-_We respect the privacy of visitors to the websites owned by StudyPortals B.V. (hereafter “the Website”) and take care that the personal data which you provide us is handled in a confidential manner. The processing of the personal data happens in a manner in accordance with the demands of the Dutch Data Protection Act._
+_In this policy, you can find direct information about how, whether, and why we collect and use your personal information on all of our StudyPortals B.V. websites (collectively, `the Website´). This privacy and cookies policy applies to any personal information that is extracted when you use our services, visit our Website, or otherwise interact with us. We have divided this privacy policy into different sections. Please go to the relevant section below for further information. The processing of your personal data complies with the “Wet Bescherming Persoonsgegevens”, the Dutch Data Protection Act._
 
-**Goals of the data processing**
+## **About us**
+
+We are StudyPortals B.V. (Chamber of Commerce 180.86.860), in the rest of this document referred to as StudyPortals.
+
+We maintain our headquarters at:  
+Klokgebouw 280  
+5617 AC  
+Eindhoven, the Netherlands.
+
+For more information visit: <https://www.studyportals.com/about/>
+
+## **Types of personal data we process**
+
+**General**.
+
+We may collect and process the following categories of personal information:
+
+  * **Name, e-mail address and other identifying information**  
+For example, we may record your name, e-mail address, gender, date of birth, nationality, country of residence, education history, achievements, or language test scores.
+  * **Your contact details and personal account/registration details**  
+Your contact details may include: your address, telephone number, and email address. When you create a personal account or register for a service, we may also record your sign-in details and other information you provide when you create your personal account or fill in a registration form.
+  * **Our communication with you**  
+When you send us an email, or chat with us online or via social media, we save your correspondence with us.
+  * **Information we collect when you use our Website**  
+– When you visit our Website or use our services, we may register your IP address, browser type, operating system, referring website, web-browsing behavior.  
+– We may receive an automatic notification when you open (or open a link from) a newsletter.
+  * **Information in relation to social media**  
+Depending on your social network settings, we may receive information from your social network provider. For example, when you sign in for our services using a social network account, we may have access to your social network profile, including your contact details, interests, and social network. For more information on the personal data that we receive from your social network provider, and how to change your privacy settings, please refer to the website and the privacy policy given by your social network provider.
+  * **Information you choose to share with us**  
+You may also choose to share information with us. For example when you leave a comment for us on Facebook, fill out a survey, or submit an entry for a contest or scholarship, you have opted to share personal information with us.
+
+
+
+## **Cookies and similar technologies**
+
+When you use our Website for the first time, a cookie notice is shown. When you continue using the website you allow cookies to be placed on or tracked by our Website. StudyPortals uses the information collected through cookies strictly for the purposes stated in this Privacy and Cookie Policy.
+
+**StudyPortals uses three types of cookies**
+
+**Functional cookies**  
+These are cookies which enable users to: view StudyPortals’s Website, use specific functions on the Webiste, and gain access to secured features. If you do not enable or permit of this type of cookie, however, your user experience may be affected in the following ways:
+
+  * Certain features of StudyPortals’s Website will become or unavailable;
+  * StudyPortals can provide less support to users;
+  * StudyPortals will be unable to remember your preferences with regard to using or displaying a specific function.
+
+
+
+**Analytic cookies**  
+StudyPortals uses cookies to make Website improvements. The cookies collect information about how visitors use, access, and interact with the Website. WebAnalytics cookies are one example of this type of cookie.
+
+**Marketing and other cookies**  
+Marketing cookies are what advertising networks typically placed on Website. These networks are act as intermediaries between StudyPortals and advertisers. They are used to:
+
+  * show relevant, personalised advertisements or offers through every type of medium (such as e-mail, social media, and banner ads) based on your visit and click behavior;
+  * limit the number of times each advertisement is displayed;
+  * measure the effectiveness of an advertising campaign;
+  * make a link to social media, so that you can be recognised when you wish to use social media through StudyPortal’s Website.
+
+
+
+Below you can find the full list of cookies StudyPortals uses.
+
+**Functional Cookies**  
+---  
+Name | What is it for  
+__cfduid | Cloudflare  
+*_SID  
+(Name changes depending on the Website you’re visiting) | Ensuring Stability of Software Systems  
+**Analytics**  
+---  
+Name | What is it for  
+_sp_ses.08a0 | Behavior Tracking  
+_sp_id.08a0 | Behavior Tracking  
+StudyPortals-trck | Behavior Tracking  
+_vwo_uuid | Visual Website Optimizer  
+_ga | Google analytics  
+_gid | Google analytics  
+_gat | Google analytics  
+hot jar | Hot Jar  
+**Marketing and other Cookies**  
+---  
+Name | What is it for  
+DoubleClick | Advertisement tracking  
+Google AdWords Conversion | Advertisement tracking  
+  
+You can disable these cookies through your browser. For examples and more data on cookies, see: [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+
+## **How we collect your data**
+
+StudyPortals collects personal data in a number of ways. Information is obtained, for example, when you visit our Website, register on our Website, communicate with us via social media, or subscribe to our newsletter.
+
+We may also receive personal information from associated educational institutions, subsidiaries, partners, or other service providers.
+
+We collect some information by accessing your publicly available data, such as your Facebook or Linkedin public profile.
+
+## **Goals of processing your data**
+
+The main purposes for using your personal information include:
+
+**Providing services to you**
+
+-For example, based on the country or field of study that you choose, we can send you programme recommendations that we believe best match your profile .
+
+-To make your user experience easier and more effective, we may assess how you use our services,  and combine this data with information collected via your personal account, registration details, cookies, and similar technologies (please see above). This combination enables us to, for example, optimize our search algorithms.
+
+-You can contact education institutes through our Website, by means of an electronic form. By sending an inquiry, you also create your own user account, enabling you to view the inquiries you sent.
+
+**To communicate with you  
+****  
+** We use your contact details to communicate with you, answer your questions, or handle your complaints.
+
+**For statistical research  
+**  
+–  **General**. We use automatic tools to perform statistical research into general trends. We broadly examine how our users behave towards our services, as well as the preferences our users set.  
+–  **Data**. To perform our research, we may merge and analyze the different types of data described above. We may also combine such aggregated data with information we receive from our subsidiaries, educational institutions, or from public sources.  
+–  **Benefits**. Statistical research helps us develop better services and offerings, allowing us to improve the design and content of our Website. We can also advise higher education institutions on how they can better serve you.
+
+**For direct marketing purposes  
+**  
+–  **General**. We may use your personal information to send you newsletters, promotions, or other marketing communications.  
+–  **Categories of data**. To perform our research, we may merge and analyze the different types of data described above. We may also combine such aggregated data with information we receive from our subsidiaries, educational institutions, or from public sources.  
+–  **Benefits**. We use the results of our analysis to tailor our marketing communications to your specific interests and preferences. For example, if our analysis shows that you may be interested in certain types of programmes or a specific country, we may customize our newsletter and Website with content that are relevant to you.  
+–  **Channels**. We may use different channels for our marketing communications, such as e-mail, social media, and your personal online account.
+
+**To initiate and evaluate business relationships**
 
 Your personal data will be processed for the entering into agreements and the performance thereof to the point of commercial services and the managing of the business relations which emerge from them, including the performance of activities aimed at the expansion of our client database.
 
-If you fill out a contact or registration form on the Website, or send us an e-mail, the data provided by you will be stored for as long as the nature of the form or the contents of your e-mail demand with regards to the handling and answering thereof.
+## **Disclosing or sharing data with third parties**
 
-**Click-behaviour and Visit Data**
+**General**
 
-General visitor data is registered on the website. This can notably include the IP-address of your computer, the possible username, the moment of retrieval and data sent by the browser of the visitor. This data is registered and used for statistical analyses of visit data and click-behaviour on the Website. Additionally this data is used for optimization of the Website.
+We reserve the right to release personal information without your consent or without consulting you, when we deem it necessary to comply with our legal obligations, to enforce our terms and conditions, to protect the security of this Website, or to prevent fraud.
 
-We try to keep this data as anonymous as we can.
+**Other institutions or businesses**
 
-**Google Analytics**
+You can contact education institutes through our Website, by means of an electronic form. The details in your inquiry will then be shared with the institute you are trying to contact.
 
-We make use of Google Analytics to keep track of how visitors use the Website and how effective our AdWords-advertisements are on Google´s search results. The acquired data is, including the address of your computer (IP-address), transferred to and by Google to be stored in servers in the United States. Please read Google´s privacy policy for more data in addition to Google Analytics specific privacy policy.
+We may share personally identifiable information (such as name and email address) with carefully selected Higher Education Institutions, to verify the status of your application or enrolment, evaluate and manage the performance of our business agreements or initiate new agreements. . Some of these institutions may also have access to your information so that they may consider further marketing campaigns or recruitment measures. We will inform the Higher Education Institutions that they are not allowed to use your personal information for any reason other than mentioned above.  Users should note however that, how these educational institutions use this data is not governed by our privacy and cookie policy. Therefore, we cannot be held responsible for how the data is utilized once it is shared with them . Educational institutions have separate policy practices for which StudyPortals has no responsibility or liability. For further information on how such institutions use your information, please visit the applicable privacy policy of that institution.
 
-Google uses this data to keep track of how the Website is used, to report on the use of the Website to us and to be able to inform its advertisers about the effectiveness of their campaigns. Google can share this data with third parties when they are required to do so by Law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. We have not granted permission to Google to use the acquired data for any other services provided by Google.
+**Third party websites**
 
-**Social media**
+Our website contains links to third-party websites. If you follow these links, you will exit our Website. This privacy and cookie policy does not apply to third party websites. Studyportals cannot accept liability for the ways in which these third party websites use of your personal data. You use these websites at your own risk. For more information on how these third parties treat your personal information, please check their respective privacy policies (if available).
 
-Incorporated in the Website are buttons to promote or share web-pages on the social networks Facebook and Twitter, as well as the AddThis toolbar to promote or share web-pages on other social networks, blogs and through email. These buttons are realized by code supplied by AddThis, Facebook and Twitter and not by StudyPortals B.V.. This code places a cookie.
+**Other countries**
 
-Please read the privacy statements of AddThis, Facebook and Twitter (which are changed on a regular basis) to see what they do with the personal data which is acquired and processed by this code.
+StudyPortals may transfer your personal data to countries outside of your country of residence. This might occur in the course of sharing information with Education Institutions or our subsidiaries.  Some of these countries may not require an adequate level of personal data protection compared to the level of protection provided in your own country.
 
-**User account**
+## **Security and retention**
 
-You can create an account in order to customize their experience. As registered user you can for instance save your favourite programmes or search queries, and more easily contact the universities of your interest. We save information about your interest in order to present relevant content. This includes your former search queries and click behaviour. We send occasional personal notifications and service messages about the status of your account; this can include a request to update your account details.
+StudyPortals will take appropriate technical and organizational measures to protect your personal data against loss or unlawful use.
 
-**Inquiries**
+Your personal data will be retained for as long as required for the purposes described in this privacy policy, or insofar as is necessary to comply with our contractual or statuary obligations, and to solve any disputes.
 
-You can reach out to education institutes through our Website, by means of an electronic form. The details in your inquiry will then be shared with the particular institute you are trying to contact, and only with that institute. By sending in inquiry you also create your own user account, enabling you to view the inquiries you sent. We will never share your contact details or other information which can be used to personally identify you with any institute or third party without your express consent.
+## **Your Rights**
 
-**E-mail services**
+You can update and amend your personal data. You are also assume any other rights afforded under applicable data protection laws – including, for example, objecting to the processing of your personal data. All you have to do is send your written response, accompanied by a copy of your proof of identity, to:
 
-We offer newsletters with which we want to inform interested persons about news and developments in the area of higher education, our services, and related events. Your e-mail address will only be added to our list of newsletter subscribers with your express permission. We also offer update mailings which contain information we believe will be of interest to you, based on your profile information and indicated interests. The frequency of these update mailings will be set to a default frequency upon the creation of your user account. Every newsletter and update mailing contains a link with which you can adjust the frequency or remove yourself from our mailing list.
+Studyportals BV  
+People and Culture  
+Klokgebouw 280  
+5617 AC Eindhoven,  
+the Netherlands.
 
-**Use of cookies**
+You may object or revoke your consent for receiving marketing communications at any time, by following the instructions in the relevant marketing communication or by sending an email to [students@studyportals.com](mailto:students@studyportals.com). You can also contact us at [students@studyportals.com](mailto:students@studyportals.com) if you have any questions, remarks, or complaints in relation to this privacy policy.
 
-We make use of analytical and advertising cookies in the offering and performance of our electronic services. A cookie is a simple small file which is sent along with the web-pages of the Website and is saved on your hard-drive by your browser. We use cookies to save your options and preferences. You can disable these cookies through your browser, see for examples and more data on cookies [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+## **How do we look after this policy**
 
-Cookies from the American company Google are placed through the Website as part of the “Analytics”-service. We use this service to keep track of and acquire data on how visitors use the Website. Google can share data when required to do so by law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices.
-
-**Your Data**
-
-We collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. In addition, from time to time, we may share personally identifiable information (such as name, email address and phone number) with carefully selected Higher Education Institutions, to verify the status of application or enrolment. We will inform the Higher Education Institutions that they are not allowed to use your personal information for any other reasons than to verify the status of your potential application or enrolment. However, the use of this data by these educational institutions is not governed by our Privacy statement and we can therefore not be held responsible for their use of the data we share with them. Educational institutions have separate policy practices for which StudyPortals has no responsibility or liability. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution.
-
-We reserve the right to release personal information without your consent or without consulting you, when we believe that this is appropriate to comply with our legal obligations, to enforce our terms and conditions, to protect the security of this website or to prevent fraud.
-
-**Insight, correction and removal**
-
-When you have a relation with StudyPortals B.V., you have after written request the option to view your personal data. In case the data provided by us contains errors, you can make a written request to have the data corrected or to have it removed. In addition you can inform us in writing that you do not desire to be approached with data on our products and services by reporting this to the following address:
-
-StudyPortals B.V.  
-Torenallee 45 4.02  
-5617 BA Eindhoven  
-The Netherlands
-
-**Change to the privacy statement**
-
-We retain the right to alter or otherwise make changes to this privacy statement. Changes will be announced on the Website.
+This privacy policy is effective as of 24 May 2017 and replaces our previous privacy and cookie policy. We retain the right to alter or otherwise make changes to this policy. We will notify you of any changes by posting the revised policy on our Website. Changes take effect as soon as it is posted.
