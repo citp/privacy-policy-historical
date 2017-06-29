@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ariessys.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209100339id_/http%3A//www.ariessys.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariessys.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629030957id_/http%3A//www.ariessys.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aries Systems Corporation
 
 ## Aries Systems Corporation – Website Privacy Policy Statement
 
-_Last Updated: September 1, 2016_
+_Last Updated: January 3, 2017_
 
 ##### 1\. Introduction.
 
@@ -87,6 +87,8 @@ The Website is designed and intended for use only by individuals who are at leas
 ##### 12\. Disputes.
 
 Aries Systems will use the services of the American Arbitration Association to adjudicate any disputes arising from this Privacy Policy.
+
+Any questions, concerns, inquiries, or complaints regarding the use or disclosure of personal information subject to the U.S.-EU Privacy Shield or the U.S.-Swiss Safe Harbor should be directed to Aries Systems Corporation’s Privacy Officer at [privacyofficer@ariessys.com](mailto:privacyofficer@ariessys.com). Aries Systems Corporation will investigate and attempt to resolve complaints and disputes by reference to the principles contained in this Policy. For complaints that cannot be resolved between Aries Systems and the complainant, Aries Systems has agreed to participate in the American Arbitration Association (AAA) dispute resolution services. Individuals who submit a question or concern to Aries Systems and who do not receive acknowledgment therefrom of the inquiry or who think their question or concern has not been satisfactorily addressed within 45 days may then contact the AAA Safe Harbor/Privacy Shield Dispute Resolution Program at [http://www.adr.org](http://www.adr.org/), which is based in the United States. AAA will attempt to resolve these disputes and does not charge individuals a fee for this service. Individuals who think their question or concern has not been satisfactorily addressed by the AAA Safe Harbor/Privacy Shield Dispute Resolution Program may be entitled to invoke binding arbitration under certain circumstances. Aries Systems Corporation is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Aries Systems requires that any third party who receives User Information from Aries Systems further comply with the Privacy Shield Frameworks, and Aries Systems abides by the Privacy Shield principles, including the principle of accountability for onward transfers.
 
 ##### 13\. Contacting Aries Systems or the Publisher.
 
