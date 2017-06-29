@@ -1,24 +1,34 @@
-> *The following text is extracted and transformed from the gamemew.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231754id_/http%3A//www.gamemew.com/specials/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemew.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629095314id_/http%3A//gameolay.com/about/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY--www.gamemew.com
+# Privacy Policy
 
-GAMEMEW  
+Privacy Policy for www.gameolay.com 
 
+If you require any more information or have any questions about our privacy policy, please feel free to **[contact us](https://web.archive.org/web/20170629095314id_/http%3A//gameolay.com/about/contact.html)**. 
 
-##  PRIVACY POLICY
+At www.gameolay.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.gameolay.com and how it is used. 
 
-No information is sold or released to anyone about visitors to Gamemew.Com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first. 
+**Personal Information**  
+Any personal information that you provide to our web site shall stay absolutely safe, private, and secure. We do not resell personal information to outside sources. 
 
-Gamemew.Com does not attempt to collect personal information from children. Note that Gamemew.Com cannot always determine that a user is a child. Gamemew.Com does not maintain databases of children or adults. 
+**External Links**  
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
-When visiting any Internet site, your unique address called an "IP address" is recorded. Gamemew.Com does not release any information about the collection of this address to any third party except under court order. Gamemew.Com archives the log files in order to create aggregate statistical reports, detect errors at the web site, and for security reasons. The log files are eventually deleted. 
+**Security**  
+We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems. 
 
-IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view/click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers. 
+**Log Files**  
+Like many other Web sites, www.gameolay.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Your privacy is important to us. Gamemew.Com service is free for all to use, and prior registration is not needed for use of Gamemew.Com 
+**Cookies and Web Beacons**  
+www.gameolay.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Gamemew.Com will explicitly ask when it needs information that personally identifies you. All the personally identifiable information we collect are only gathered with your voluntary act. Gamemew.Com keeps all the personal information private and does not, and will not, share it with any third parties except under these circumstances. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
 
-* When such action is necessary to conform to legal requirements or comply with legal process * When such action is necessary to protect and defend rights or property of Gamemew.Com * When such action is necessary to enforce Gamemew.Com terms of service 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gameolay.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-Gamemew.Com uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent. 
+www.gameolay.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gameolay.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
