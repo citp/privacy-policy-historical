@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the defymedia.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119040432id_/http%3A//www.defymedia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the defymedia.com privacy policy that was archived on 2017-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170629075857id_/http%3A//www.defymedia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="wf-loading" classname="wf-loading"><!--// OPEN HEAD //--><head>
 				
@@ -15,7 +15,7 @@
 		<link rel="shortcut icon" href="http://cdn.defymedia.com/wp-content/uploads/2016/07/favicon.png">		
 												
 						<!--// GOOGLE FONT LOADER //-->
-		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script>
+		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WG488TK"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script>
 			var html = document.getElementsByTagName('html')[0];
 			html.className += '  wf-loading';
 			setTimeout(function() {
@@ -1053,7 +1053,7 @@ E-mail:&nbsp;</i><i>privacy@defymedia.com</i><i>&nbsp; &nbsp;</i></p>
 			<!--// OPEN #copyright //-->
 			<footer id="copyright" class="copyright-divider">
 				<div class="container">
-					<p>©2016 Defy Media, Inc.   <a href="/privacy-policy">Privacy Policy</a>  | <a href="/terms-of-use">Terms of Use</a>  |  <a href="/online-tracking-and-advertising">Ad Choices/Tracking</a></p>
+					<p>©2017 Defy Media, Inc.   <a href="/privacy-policy">Privacy Policy</a>  | <a href="/terms-of-use">Terms of Use</a>  |  <a href="/online-tracking-and-advertising">Ad Choices/Tracking</a></p>
 					<nav class="footer-menu std-menu">
 						<div class="menu-main-menu-phase-i-container"><ul id="menu-main-menu-phase-i-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5054"><a href="http://www.defymedia.com/about-us/">About Us</a>
 <ul class="sub-menu">
@@ -1114,7 +1114,13 @@ E-mail:&nbsp;</i><i>privacy@defymedia.com</i><i>&nbsp; &nbsp;</i></p>
 		<!--// FRAMEWORK INCLUDES //-->
 		<div id="sf-included" class=""></div>
 		
-					
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WG488TK');</script>
+<!-- End Google Tag Manager -->			
 		<!--// WORDPRESS FOOTER HOOK //-->
 		 <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -1122,12 +1128,59 @@ E-mail:&nbsp;</i><i>privacy@defymedia.com</i><i>&nbsp; &nbsp;</i></p>
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-3335426-59', 'auto');
-  ga('send', 'pageview');</script>
+  ga('send', 'pageview');
+
+// Custom tracker for GA
+jQuery(function() {
+    jQuery('body').on('click','[data-ga]', function(event) {
+        var $this = jQuery(this);
+        if (!$this.hasClass('ga-tracked') && $this.attr('data-ga')) {
+            var gaData = $this.attr('data-ga').split(':');
+            // ga('send', $event, $category, $action, $label, $value);
+            ga('send', 'click', gaData[0], gaData[1], gaData[2]);
+            $this.addClass('ga-tracked');
+        }
+    });
+});
+</script>
 
 <!-- Segment Pixel - Defy Media Corp 1 - DO NOT MODIFY -->
 <img src="https://secure.adnxs.com/seg?add=2479152&amp;t=2" width="1" height="1">
 <!-- End of Segment Pixel -->
- <script type="text/javascript" src="http://cdn.defymedia.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+ 
+<!-- Twitter universal website tag code --> 
+<script> 
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments); 
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js', 
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script'); 
+// Insert Twitter Pixel ID and Standard Event data below 
+twq('init','nvba8'); 
+twq('track','PageView'); 
+</script> 
+<!-- End Twitter universal website tag code --> 
+
+
+<!-- Facebook Pixel Code --> 
+<script> 
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? 
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; 
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; 
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, 
+document,'script','https://connect.facebook.net/en_US/fbevents.js'); 
+fbq('init', '258901894543269'); 
+fbq('track', 'PageView'); 
+</script> 
+<noscript><img height="1" width="1" style="display:none" 
+src="https://www.facebook.com/tr?id=258901894543269&ev=PageView&noscript=1" 
+/></noscript> 
+<!-- DO NOT MODIFY --> 
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WG488TK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript" src="http://cdn.defymedia.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.defymedia.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
@@ -1172,8 +1225,8 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.defymedia.com\/wp-content\/plugins\/cont
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 16/24 queries in 0.023 seconds using memcached
+Database Caching 16/24 queries in 0.026 seconds using memcached
 Object Caching 3482/3502 objects using memcached
 Content Delivery Network via cdn.defymedia.com
 
- Served from: www.defymedia.com @ 2016-11-18 19:24:57 by W3 Total Cache --></body></html>
+ Served from: www.defymedia.com @ 2017-06-29 00:44:00 by W3 Total Cache --></body></html>
