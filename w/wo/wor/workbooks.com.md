@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209151652id_/http%3A//www.workbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143349id_/http%3A//www.workbooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Workbooks CRM - Privacy Policy
+# Privacy Policy | Workbooks
 
 ### Privacy Policy
 
@@ -67,6 +67,8 @@ Our Website uses cookies from the following third parties:
 
   * Google Analytics: for statistical purposes. You can decline cookies from Google Analytics by clicking on this link: <https://tools.google.com/dlpage/gaoptout/>
   * Google Ads: i.e. for the purpose of displaying relevant advertisements. Workbooks uses Remarketing with Google Analytics to advertise online. Third party vendors, including Google, show our adverts on sites across the internet. Workbooks and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+  * Communigator: for allowing us to recoginise you when return to our site and provide us with IP information. For more information please see [Communigators Cookie Policy](https://www.communigator.co.uk/cookie-policy/).
+  * Hubspot: to allow us to understand which of our Marketing channels you came through. For information can be found [here](https://knowledge.hubspot.com/articles/kcs_article/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser).
 
 
 
