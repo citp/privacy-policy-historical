@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027161031id_/http%3A//www.jons-info.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629031058id_/http%3A//jons-info.com/pages/10/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## PRIVACY POLICY
+Jons-Info.com (" **Jons-Info** ") operates Jons-Info.com and may operate other websites. It is Jons-Info's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-### Introduction
+**Website Visitors**
 
-We Jons-Info.com are incorporated in England carrying on business as a Article Directory and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
+Like most website operators, Jons-Info collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Jons-Info's purpose in collecting non-personally identifying information is to better understand how Jons-Info's visitors use its website. From time to time, Jons-Info may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-### We are committed to protecting your privacy
+Jons-Info also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Jons-Info.com blogs/sites. Jons-Info only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
+**Gathering of Personally-Identifying Information**
 
-### Information Collected
+Certain visitors to Jons-Info's websites choose to interact with Jons-Info in ways that require Jons-Info to gather personally-identifying information. The amount and type of information that Jons-Info gathers depends on the nature of the interaction. For example, we ask visitors who sign up at Jons-Info.com to provide a username and email address. Those who engage in transactions with Jons-Info are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Jons-Info collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Jons-Info. Jons-Info does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
+**Aggregated Statistics**
 
-[Data in relation to credit card payments is processed by www.paypal.com on a secure website linked to ours and they have their own privacy policy.]
+Jons-Info may collect statistics about the behavior of visitors to its websites. Jons-Info may display this information publicly or provide it to others. However, Jons-Info does not disclose personally-identifying information other than as described below.
 
-### Information Use
+**Protection of Certain Personally-Identifying Information**
 
-We use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. 
+Jons-Info discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Jons-Info's behalf or to provide services available at Jons-Info's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Jons-Info's websites, you consent to the transfer of such information to them. Jons-Info will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Jons-Info discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Jons-Info believes in good faith that disclosure is reasonably necessary to protect the property or rights of Jons-Info, third parties or the public at large. If you are a registered user of an Jons-Info website and have supplied your email address, Jons-Info may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Jons-Info and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Jons-Info takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### Cookies 
+**Cookies**
 
-Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Jons-Info uses cookies to help Jons-Info identify and track visitors, their usage of Jons-Info website, and their website access preferences. Jons-Info visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Jons-Info's websites, with the drawback that certain features of Jons-Info's websites may not function properly without the aid of cookies.
 
-### Disclosing Information
+**Business Transfers**
 
-We do not disclose any personal information obtained about you from this website to third parties except when we need to do so in order to complete the transaction - e.g. when arranging for a courier company to deliver goods that you have ordered. We may also use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
+If Jons-Info, or substantially all of its assets, were acquired, or in the unlikely event that Jons-Info goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Jons-Info may continue to use your personal information as set forth in this policy.
 
-We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
+**Ads**
 
-### Changes to this Policy
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Jons-Info and does not cover the use of cookies by any advertisers.
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
+**Privacy Policy Changes**
 
-### Contacting Us
-
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [mailto:webmaster@jons-info.com](mailto:webmaster@jons-info.com). You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
-
-Privacy Policy written by [ContractStore Ltd - Business Contracts](http://www.contractstore.com/).
+Although most changes are likely to be minor, Jons-Info may change its Privacy Policy from time to time, and in Jons-Info's sole discretion. Jons-Info encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Jons-Info.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
