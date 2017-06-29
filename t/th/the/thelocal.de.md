@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223502id_/https%3A//www.thelocal.de/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629190057id_/https%3A//www.thelocal.de/page/view/privacy) for the most accurate reproduction.*
 
 # Your privacy on The Local - The Local
 
