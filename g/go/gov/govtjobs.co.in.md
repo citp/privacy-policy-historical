@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215213014id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629051953id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,5 +38,5 @@ Our website may contain links to other websites of interest. However, once you h
 
 ###### 
 
-engineering government jobs, government law jobs, state health society jharkhand, ifs exam pattern, govt job notifications, asst prof political science, air force vacancies 2012, canara bank is government bank or a psu, recruitment in public sector, Government Job Bank
+mail yokohama-cci or jp, new post in rrb railway indian, new job notifications in govt, govt jobs in patna, vacancy for architect, Punjab Government Jobs 2012, cg gov job in, www emoloyment news govt in, vacancy for accountant in rajasthan govt, Purba Medinipur Zilla Parishad Recruitment
 
