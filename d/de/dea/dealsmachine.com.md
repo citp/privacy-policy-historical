@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsmachine.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117124814id_/http%3A//www.dealsmachine.com/gp/privacy-policy-100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsmachine.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629131044id_/http%3A//www.dealsmachine.com/gp/privacy-policy-100) for the most accurate reproduction.*
 
 # DealsMachine: Privacy Policies
 
@@ -33,15 +33,6 @@ We reserve the right to change this privacy policy at any time. However, if any 
 **What kind of email are you sending to the customer?**  
 Email content is sent to our customers which can include the following:  
 Transaction mail, Shipping notification, Weekly deal, Promotion, Activity, 
-
-**Our Address, Phone Number and Email**  
-Zhongxing Industrial zone ,chuangye road, Nanshan District, Shenzhen, 518057.China  
-+1 530-419-5986  
-Email:support@Dealsmachine.com  
-[Contact Us](http://www.dealsmachine.com/m-article-id-20-pid-.html)
-
-  
-
 
 **How to unsubscribe**  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in
