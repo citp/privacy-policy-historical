@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117204651id_/http%3A//circleci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231406id_/http%3A//circleci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CircleCI
 
