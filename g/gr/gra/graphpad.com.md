@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203150922id_/http%3A//graphpad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629122603id_/http%3A//www.graphpad.com/company/privacy-policy) for the most accurate reproduction.*
 
 # graphpad.com
 
@@ -8,7 +8,7 @@
 
 If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online, please feel free to place your order with us by telephone at (858) 454-5577.
 
-**Your credit card number is safe.** When you order software online from us, your credit card number is encrypted using state-of-the-art technology so that no one else can read it. Your credit card transaction is cleared in seconds through PayPal, an industry leader in secure online purchasing. Thanks to this encryption, we believe that online ordering is now safer than giving your card number via phone, or handing your card to a waiter in a restaurant. There is no safer way to make a purchase. Only the last four digits of your credit card number are stored in our system.
+**Your credit card number is safe.** When you order software online from us, your credit card number is encrypted using state-of-the-art technology so that no one else can read it. Your credit card transaction is cleared in seconds through PayPal, an industry leader in secure online purchasing. Thanks to this encryption, we believe that online ordering is now safer than giving your card number via phone, or handing your card to a waiter in a restaurant. There is no safer way to make a purchase.
 
 **No abuse of cookies.** A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website's computers and stored on your computer's hard drive. We do not use cookies to monitor your web usage or to obtain information from your system.
 
