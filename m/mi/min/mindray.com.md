@@ -1,294 +1,75 @@
-> *The following text is extracted and transformed from the mindray.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119170149id_/http%3A//www.mindray.com/en/Cookieprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindray.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629155214id_/http%3A//www.mindraynorthamerica.com/%3Fpage_id%3D1489) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Mindray North America
 
-##  Effective date of this Privacy Notice
+Mindray DS USA, Inc. (“Mindray”) is strongly committed to respecting and protecting your privacy. Please carefully read the following Privacy Policy.
 
-August 22, 2014
+The purpose of this privacy policy is to explain the type of information that Mindray collects from our users on this site and in the course of the relationship, what we do with that information, and how users can update and control the use of information provided on this site. Please note that this policy may change from time to time so please check it frequently. If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Any changes to this policy will be considered effective immediately upon posting. This Policy was last revised on 12/6/2013 and became effective that day.
 
-###  Introduction
+**I. User Consent to Policy**
 
-This Privacy Notice applies to the personal data of consumers that is collected or used by  Mindray or its affiliates or subsidiaries (Mindray) . Mindray appreciates the interest you have shown in our company, products and services by visiting our websites, [www.mindray.com](http://www.mindray.com/) or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together "Mindray Pages"). This Privacy Notice applies to all the personal data Mindray collects when you interact with Mindray, such as when you visit our websites, when you use the products or services offered by Mindray, when you purchase products of Mindray, when you subscribe to newsletters, when you contact customer support etc.
+Any person accessing, browsing, or otherwise using the site shall be considered a “User.” All Users are bound by the terms of this Privacy Policy. Users consent to the collection, use, and disclosure of User information pursuant to the terms of this Privacy Policy.
 
-This includes, without limitation, all online and offline collections of all types of personal data. However, some Mindray Pages collections work with special kinds of data (for example, medical data), which require a somewhat different privacy notice. Whenever and wherever that is the case, Mindray will make it clear that the privacy notice concerned is different from this general Privacy Notice.
+**II. Type of Information We Collect:**
 
-###  Why we ask you to share your Personal Data
+A. Contact Information
 
-We ask you to share your personal data with us for purposes including, but not limited to:
+You are welcome to browse some portions of the web site without becoming a registered user. For some services or areas on the site, specifically to order product, we will ask that you register if you have not already done so and provide us with information about you and/or your company such as name, job title, email address, and other types of information which enable us to provide services and information to you. Once we provide you with a user name and password you will be able to order product.
 
-  * Buying Mindray products online;
+B. Credit and Financial Information
 
+Currently, our online orders are treated identically to other orders, including those made over the phone. All new customers need to be approved by Mindray’s credit department, which may request further information, including but not limited to financial information, equipment information, and other personal information; this information will not be collected through the web site. We may collect other personal information when you provide comments or participate in surveys.
 
-  * Activating or registering certain products or enhancing functionality;
+C. Human Resources Information
 
+Our Human Resources staff may review and process your job application and/or resume submitted through [jobs@mindray.com](mailto:jobs@mindray.com) or other employment websites or services. If no opportunities are available at this time, we may keep your information on file for purposes of identifying future employment opportunities for you at Mindray.
 
-  * Receiving information about Mindray products and services;
+Please note that employment websites or services are third-party websites/services that are not affiliated with Mindray and are not governed by Mindray’s Privacy Policy or Terms of Use. Please contact these websites/services for information regarding their privacy policies.
 
+D. Browsing and Technical Information
 
-  * Participating in Mindray online communities, including our social media channels/pages and blogs;
+Mindray may also collect aggregate information about the use of our site, such as which pages are most frequently visited, how many users we receive daily, and how long users stay on each page.
 
+**III. Cookies**
 
-  * Storing your preferences for future interactions and communications from Mindray;
+The site may make use of two types of cookies. “Cookies” are small data files, typically made up of a string of text and numbers, which assign you a unique identifier. A “client cookie” may be sent to your browser so that our systems remember your requests and keep track of the pages you view on our site and which services you use. A “server cookie” may be maintained on our systems to recognize you when you return to the site. This information allows us to better administer the site and provide a more tailored and user friendly service to you. You may set your browser to notify you when you receive a cookie or to prevent cookies from being sent; if so, you may limit the functionality Mindray can provide you when you visit the site.
 
+**IV. Security**
 
-  * Helping us to develop products and create campaigns that are designed around you, optimise customer services and continuously improve our websites;
+Mindray strives to have in place appropriate means to protect your information. However, in providing your information over a public or third party network, you do so at your own risk. Mindray makes no representation or warranties with regard to the sufficiency of its security measures.
 
+**V. Use Of The Information We Collect:**
 
-  * Helping us to improve products and services, and allowing Mindray to keep you informed of, or involve you in testing of, new products and services;
+The information about you, which you provide and we collect in the course of our relationship, is used to facilitate your orders or other activities between us, and to provide you with both general and tailored information about offers, products, services or other useful information from us or others. If you order products or services from us, we may maintain an order history for your account. We also may combine information you have provided to us in communications offline with the information you have given us online (or vice versa), to provide a more customized experience for you when you deal with us. We may use demographic and site usage information collected from users to improve the usefulness of our site and to prepare aggregate, non-identifying, information used in marketing, site advertising, or similar activities.
 
+By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of our company we may use the data collected in the course of our relationship for the purposes identified in this policy, for the purposes identified in our other communications with you, or to provide the information to other Mindray businesses or subsidiaries which may be outside your resident jurisdiction. In addition, such data may be stored on servers located in other jurisdictions. By providing us with your data, you consent to the transfer of such data.
 
-  * Resolving consumer and/or product issues;
+Personal data relating to an identified or identifiable individual that is submitted to this site will be collected, processed, stored, and disposed of in accordance with applicable U.S. law. U.S. law, however, may not provide the degree of protection to personal data which is available in other countries. The submission of personal data constitutes the User’s acknowledgement that s/he has read and understood this notice, and agrees to its terms. As our services evolve, the types of information we collect may change. Please check this policy frequently for the most current explanation of our data practices.
 
+**VI. With Whom Do We Share Information?**
 
-  * Receiving personalised messages, special offers and advertisements that are relevant to your personal interests, based on the information you have shared with us and on the information we have collected through cookies or similar techniques regarding your use of the Mindray websites/social media/blogs. For more information on how we use cookies,[click here](https://web.archive.org/en/Cookienotice.html)
+We do not sell, rent or lease your email address or other personally identifying information to third parties. We may, however, share your information with companies affiliated with Mindray to achieve the purposes identified in this policy, in our other communications with you, or on the site.
 
+We may provide to others the aggregate statistics about our customers’ orders or related site activity for purposes of marketing or promotion.
 
+We may disclose information about you to others if we have a good faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Mindray or others.
 
-We generally process your personal data only for those purposes that we have communicated with you. If we use it for other (closely related) purposes, additional data protection measures will be implemented if required by law.
+**VII. Third Party Websites**
 
-###  Type of Personal Data we may collect
+Other companies that provide services on our site, that provide a co-branded version of our site, or that advertise or link on our site, may use cookies or collect other information about you when you go to their site. Mindray does not control the collection or use of information by these companies. You should contact these companies directly if you have any questions about their collection or use of information about you. Mindray’s privacy policy does not govern the privacy practices of these other companies or websites. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
 
-When you interact with Mindray, for instance by registering at My Mindray, purchasing a product or interacting with Mindray via our Mindray Pages (e.g. "like us on Facebook"), we may ask for or receive certain data, such as:
+**VIII. Opting Out, Accessing Or Changing Information**
 
-  * Your name;
+Mindray maintains customer information, including order history and site usage data, for a length of time appropriate to our business needs. You may contact us at [privacyofficer@mindray.com](mailto:privacyofficer@mindray.com) or at (201) 995-8000 to correct or update any personal identifying information which you have submitted to us, or should you have questions about information maintained by us. If you operate in the European Union or other jurisdictions that provide access rights under law, you may access your personal information or have it corrected or updated in accordance with applicable law by contacting us. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
+**IX. Sale of Customer Data**
 
-  * Your email address;
+At this time, Mindray does not sell its customer data, however, as we continue to develop our business, we might sell or buy business assets. In such transactions, customer information generally is one of the transferred business assets. In the event that Mindray or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
+**X. Site not for Children**
 
-  * Your telephone number;
+This site is not directed at children 13 years of age or under and Mindray does not knowingly collect any information from children 13 years of age or under through the site.
 
+**Questions or Concerns?**
 
-  * Your social media profile;
-
-
-  * Your gender;
-
-
-  * Your age;
-
-
-  * Information about the products you've purchased;
-
-
-  * Your usage of and activities on our Mindray Pages;
-
-
-  * Your interests; and
-
-
-  * Other information related to your online behavior.
-
-
-
-Also, depending on the choices you have made regarding your settings on various social media sites, and your settings on our Mindray Pages, certain personal data may be shared with Mindray about your online activities and social media profiles (e.g. interests, marital status, gender, user name, photo, comments you have posted etc.).
-
-In addition, [we may collect personal data via cookies or similar techniques](https://web.archive.org/en/Cookienotice.html), including, but not limited to:
-
-  * Your IP address;
-
-
-  * Your cookie ID;
-
-
-  * Your web browser;
-
-
-  * Your location;
-
-
-  * The web pages you visit on our websites;
-
-
-  * The advertisements you've viewed or clicked through;
-
-
-  * Etc.
-
-
-
-###  Different ways we collect your Personal Data
-
-You can share your personal data with Mindray in several ways, including, but not limited to:
-
-  * Registering as a member of My Mindray;
-
-
-  * Registering a purchase;
-
-
-  * Your communications with Mindray. These can be product- or service-related, and may include the contents of your questions to us, or requests you addressed to us;
-
-
-  * Communicating with one of our Mindray Customer Care representatives by email or phone or in writing;
-
-
-  * Ordering a product;
-
-
-  * Participating in a promotion, game or competition;
-
-
-  * Participating in a social media activity related to a Mindray promotion (for example clicking "like" or "share");
-
-
-  * Asking to receive messages on your mobile phone/device;
-
-
-  * Subscribing to a Mindray newsletter;
-
-
-  * Sending us a completed reply card, included with your Mindray product;
-
-
-  * Voluntarily participating in product testing or surveys;
-
-
-  * Social sign-on (using your Facebook or LinkedIn credentials, for example, to create an account or log on);
-
-
-  * When using Mindray connected products and/or Apps, you may be asked whether you wish to share data with Mindray (e.g. share your usage data or your location data);
-
-
-  * [Cookies](https://web.archive.org/en/Cookienotice.html)placed on your computer or mobile device when you visit our websites;
-
-
-  * Social Listening: Mindray may search the Internet for relevant and publicly available content and use it to improve its products or services, resolve consumer issues and provide targeted marketing.
-
-
-
-Mindray may also obtain your personal data if you are a customer of a Mindray partner. Personal data may also reach us when we purchase another company of which you are a customer. If you do not want Mindray to use your personal data that has not been provided by you, you may let us know at any time by contacting us at [ privacy@mindray.com](mailto:privacy@mindray.com).
-
-###  Sharing your Personal Data with others
-
-We may share your personal data with service providers, business partners and other third parties, in accordance with applicable law.
-
-For example, Mindray may sell you a product or offer you a service in a joint marketing effort with another company (Business Partner). We will let you know that such a relationship exists and who these companies are prior to processing your data for such joint marketing efforts.
-
-If we are required by law to obtain your consent, or otherwise believe that your consent is appropriate in the circumstances, we will obtain your consent before we share your personal data.
-
-The agreements with these Business Partners will limit the purposes for which your personal data can be used and disclosed, and will require your personal data to be adequately safeguarded.
-
-Mindray will disclose personal data only in conformance with this Privacy Notice and/or when required by law.
-
-From time to time, Mindray may sell a business or a part of a business to another company. Such a transfer of ownership could include the transfer of your personal data directly related to that business to the purchasing company.
-
-###  Your rights
-
-Once you have provided us with your personal data, you have reasonable access to that information so that you can update, modify or, if legally possible, delete it. For My Mindray you may do this by logging into your account and accessing your "personal settings", where you can also change your preferences relating to how Mindray communicates with you. You may also make these requests regarding your personal data by contacting Mindray at [privacy@mindray.com](mailto:privacy@mindray.com)
-
-You will also be provided with an opt-out opportunity when necessary and we will comply with any local legislation.
-
-We encourage you to keep your personal settings and personal data complete and current.
-
-###  Your choices
-
-We want to know you better so we can serve you better while at the same time respecting your choices about how we use your personal data.
-
-Your personal data may be transferred from your home country to other Mindray companies, in different locations around the world, which may communicate with you about Mindray products, services or special offers that you may be interested in. If local law requires it, we will ask for prior consent to transfer your personal data outside of your geographic region.
-
-If you do not want us to send you personalised offers or information, you can let us know by checking the appropriate box on the registration form or reply card, or by selecting "opt-out" on emails you receive.
-
-Where local law requires it, we will ask you to "opt-in" or affirmatively consent to the processing of your personal data. For example, where local law so requires, we will only send you newsletters if you have subscribed to them. Similarly, where local law so requires, we will ask you to "opt-in" before using sophisticated profiling techniques.
-
-Because Mindray sells thousands of products in hundreds of countries, you may have previously provided us with your personal data through reply cards, via our call centres or in some other manner. Your decision not to register now will not affect the personal data you have already provided to Mindray. Of course, you will always have the option to unsubscribe from any targeted communication from Mindray or change your personal profile information.
-
-###  Do Not Track Signals
-
-Mindray takes privacy and security very seriously, and strives to put our website users first in all aspects of our business. Mindray utilises cookies to help you to get the most out of the Mindray Pages.
-
-Please be aware that Mindray currently does not make use of a technical solution that would enable us to respond to your browser's 'Do Not Track' signals. In order to manage your cookie preferences, however, you may alter the cookie settings in your browser settings at any time. You may accept all, or certain, cookies. If you do disable our cookies in your browser settings, you may find that certain sections of our website(s) will not work. For example, you may have difficulties logging in or making online purchases.
-
-You can find further information on how to alter your cookie settings for the browser that you use from the following list:
-
-  
-<https://www.google.com/intl/en/policies/technologies/managing/>  
-<http://support.mozilla.com/en-US/kb/Cookies#w_cookie-settings>  
-<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>  
-<http://www.apple.com/safari/features.html#security>
-
-On the Mindray pages, Flash cookies are also used. Flash cookies may be removed by managing your Flash Player settings. Depending on the version of Internet Explorer (or other browser) and media player you use, you may be able to manage Flash cookies with your browser. You may manage Flash Cookies by visiting the [Adobe website.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)Please be aware that restricting the use of Flash Cookies may affect the features available to you.
-
-###  Social Media
-
-When you participate in various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the personal data in your social media profile(s).
-
-Also, depending on the choices you have made regarding your settings on various social media sites (and/or in combination with your settings on the Mindray pages), certain personal data may be shared with Mindray about your online activities and social media profiles (e.g. interests, marital status, gender, user name, photo, comments and content you have posted/shared etc.).
-
-###  Links to Other Websites
-
-During your online journey across Mindray websites, you may encounter links to other websites for your convenience and information. These websites may operate independently from Mindray, and may have their own privacy notices, statements or policies. We strongly suggest that you review them to understand how your personal data may be processed in connection with those sites, as we are not responsible for the content of non-Mindray-owned or -managed sites, or the use or privacy practices of those sites.
-
-###  Cloud
-
-Mindray may store your personal data in a cloud. This means that your personal data may be processed on behalf of Mindray by a cloud service provider and could be stored in different locations around the world. Mindray makes use of organisational and contractual measures to protect your personal data and to impose similar, but in no way less restrictive, requirements on our cloud services providers, including requirements that your personal data be processed exclusively for the purposes mentioned above.
-
-###  How we protect your Personal Data
-
-We recognise and take seriously our responsibility to protect the personal data you entrust to Mindray from loss, misuse or unauthorised access. Mindray uses a variety of security technologies and organisational procedures to help protect your personal data. For example, we implement access controls, use firewalls, secure servers and we encrypt certain types of data, such as financial information and other sensitive data.
-
-###  Special information for parents
-
-While Mindray websites are not generally targeted at children under the age of 16, it is Mindray' policy to comply with the law when it requires parent or guardian permission before children's information is collected, used or disclosed.
-
-Mindray strongly recommends that parents take an active role in supervising the online activities of their children. If you believe we have collected personal data from a person who is under the age of 16, please contact us at [privacy@mindray.com](mailto:privacy@mindray.com)
-
-**Mobile Privacy Policy**
-
-**Mobile Information We Collect**
-
-  * Personally identifiable information (e.g. Name, email address) we collect consists only of what you share with us. For example, certain products may ask for this type of information so that we may contact you by phone or email at your request. You choose what, how, and when you want to share.
-
-
-  * If you use any location-enabled products, you may be sending us location information. Mindray does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby restaurant you requested. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
-
-
-  * Web-enabled mobile applications may use cookies or web beacons and other methods to customize your browsing experience. Please see Mindray 's web privacy policy for more information.
-
-
-  * Some mobile applications will utilize Google Analytics (or similar tool) to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information will not identify you to Mindray. It may, however, let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
-
-
-  * Use of 3rd party services such as social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. Mindray does not capture or store your login information or other personally identifiable information for these services, however session info or cookies may be stored.
-
-
-
-**Mobile How We Use Collected Information**
-
-  * We use the information to personalize your experience with the application and to improve your overall experience including the development of new products, services, and features. We also use the information to provide customer support, and when applicable, register and administer your account. Additionally, we may use the information you provide to contact you about updates to our service.
-
-
-  * Information you provide may be used to fulfill the service(s) or carry out the transaction(s) you have requested or authorized. For example, if you authorize a purchase through a mobile eCommerce application, we will use provided information to ship and bill you.
-
-
-
-**Mobile Information sharing**
-
-  * Mindray does not share any collected information with 3rd parties with the following exceptions:
-
-
-  * Mindray may provide some personal data to third-party partners that are providing services essential to your mobile user experience.
-
-
-  * All requests are sent through your mobile carrier's network and your carrier may have access to it. Consult your carrier's privacy policies for additional information.
-
-
-  * Certain mobile products and services and manufacturers allow you to interact and share your information with others. For example, you may want to Tweet or post to your Facebook page content from a Mindray mobile application. Consult your mobile device manufacturer, or mobile product or application developer's privacy policies for additional information.
-
-
-
-###  Changes to this Privacy Notice
-
-The services that Mindray provides are always evolving and the form and nature of the services that Mindray provides may change from time to time without prior notice to you. For this reason, we reserve the right to change or add to this Privacy Notice from time to time and will post any material revisions on our websites.
-
-We will post a prominent notice on our privacy notice page to notify you of any significant changes to this Privacy Notice, and will indicate at the top of the notice when it was most recently updated. We encourage you to check back often to review the latest version.
-
-The new Privacy Notice will be effective upon posting. If you do not agree to the revised notice, you should alter your preferences, or consider stopping using the Mindray pages. By continuing to access or make use of our services after the changes become effective, you agree to be bound by the revised privacy notice.
-
-###  How to contact us
-
-Contact us at [privacy@mindray.com](mailto:privacy@mindray.com). Please note that this email address is strictly for privacy related queries.
-
-General customer service questions will not be answered if sent to this email address. If your question is not related to privacy, please submit it through our contact page here.
-
-[http://www.mindray.com/](https://web.archive.org/en/about/global.html)
+Please feel free to contact us at [privacyofficer@mindray.com](mailto:privacyofficer@mindray.com) or at (201) 995-8000 if you have questions or concerns about this privacy policy or about Mindray’s collection of your information.
