@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burstdaily.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211014242id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstdaily.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629121734id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - burstdaily.com
 
@@ -123,5 +123,3 @@ Please let us know if the personal information which we hold about you needs to 
 11\. Contact
 
 If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info@burstdaily.com
-
-Pages: 1 [2](http://burstdaily.com/privacy-policy/2/)
