@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042640id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629024732id_/https%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Opera
 
@@ -39,7 +39,7 @@ The information we collect may include: personal data, for example your name, em
 Generally, we collect data:
 
   * When you provide it explicitly to us; for example, when you submit a form on our websites
-  * When you use our products and services, or visit our websites
+  * When you install and run our products, use our services, or visit our websites
   * When third parties share information with us
 
 
@@ -87,7 +87,7 @@ You can find out if we hold any personal data about you by contacting us. You ma
 
 ### Contact information
 
-If you have any questions about this statement or any privacy issues regarding Opera and our products or services, we can be reached by email [privacy@opera.com](mailto:privacy@opera.com) or by post at:
+If you have any questions about this statement or any privacy issues regarding Opera and our products or services, we can be reached by post at:
 
 Opera Software AS  
 P.O. Box 4214 Nydalen  
@@ -98,7 +98,6 @@ For privacy policies and questions specifically related to the Opera products an
 
   * [Opera for computers](https://web.archive.org/privacy/computers)
   * [Opera for Android](https://web.archive.org/privacy/operaforandroid)
-  * [Opera Coast](https://web.archive.org/privacy/coast)
   * [Opera Mini](https://web.archive.org/privacy/mini)
   * [Opera Mini for Android](https://web.archive.org/privacy/mini/android)
   * [Opera Mini for iOS](https://web.archive.org/privacy/mini/ios)
