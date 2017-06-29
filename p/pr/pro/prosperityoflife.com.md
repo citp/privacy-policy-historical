@@ -1,80 +1,46 @@
-> *The following text is extracted and transformed from the prosperityoflife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperityoflife.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629230228id_/http%3A//prosperityoflife.com/page12.html) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# None
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+We respect and are committed to protecting your privacy.  
 
-**What information do we collect?**
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the Prosperity of Life powered by Polaris Network. The "Prosperity of Life powered by Polaris Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Prosperity of Life powered by Polaris, and each of its wholly-owned subsidiaries as linked directly or indirectly from the polarisglobal.com (collectively the "Site") home page (collectively hereafter "Prosperity of Life powered by Polaris"). By accessing the Prosperity of Life powered by Polaris Network, you are consenting to the information collection and use practices described in this Privacy Policy. We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+What information are you collecting and how are you collecting it? Do you collect IP addresses?
 
-**What do we use your information for?**
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as a computer's "Internet Protocol" (IP) address. When a visitor requests a page from any Web site within the Prosperity of Life powered by Polaris Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the Prosperity of Life powered by Polaris Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
 
-Any of the information we collect from you may be used in one of the following ways: 
+What are cookies?
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+From time to time, Prosperity of Life powered by Polaris or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can not read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Prosperity of Life powered by Polaris's Network you have visited or customized, so the next time you visit those pages they may be readily accessible. Our advertisers may also use cookies to ascertain how many times you have seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other web sites may be diminished and some features may not work as intended.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+How do you use single-pixel gifs?
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+Prosperity of Life powered by Polaris and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count web page accesses and gather some general statistical information. Prosperity of Life powered by Polaris does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
 
-• To process transactions
+What personal information do you collect?
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+Wherever Prosperity of Life powered by Polaris collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and products). Participation in contests or other promotions on the Prosperity of Life powered by Polaris Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. If you are purchasing something on the Prosperity of Life powered by Polaris Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. Prosperity of Life powered by Polaris also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may also use your IP address internally and share it with third parties. You may stop the arrival of announcements and newsletters at any time by removing your e-mail address from the list by forwarding the request to support@mypgmail.com or by following the instructions on the e-mails you receive. When you use co-branded services, or those provided by a third party, within the Prosperity of Life powered by Polaris Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. We may from time to time send e-mails announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from Prosperity of Life powered by Polaris or third party companies. 
 
-• To send periodic emails
+Will you disclose the information you collect to outside third parties?
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Prosperity of Life powered by Polaris will disclose personal information and/or an IP address: 1. To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact; 2. When required by law or in the good-faith belief that such action is necessary to: A. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal processes served on Prosperity of Life powered by Polaris; 
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+B. Protect and defend the rights or property of the Prosperity of Life powered by Polaris Network of sites and related properties, or visitors to the Prosperity of Life powered by Polaris Network of sites and related properties; C. Identify persons who may be violating the law, the Prosperity of Life powered by Polaris legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Prosperity of Life powered by Polaris Network or its related properties; D. Fulfill a user's order or request; to process and fulfill your order or notify you of order status; when we have your consent to share the information; when you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+What else should I know about my privacy when online?
 
-**How do we protect your information?**
+The Prosperity of Life powered by Polaris Network contains many hyperlinks to third party web sites. The Polaris Global Network may also contain advertisements of third parties. Prosperity of Life powered by Polaris is not responsible for the privacy practices or the content of such third party web sites or advertisers. Prosperity of Life powered by Polaris does not share any of the individual personal information you provide Prosperity of Life powered by Polaris with the third parties to which Prosperity of Life powered by Polaris links, except as stated elsewhere within this Privacy Policy, although Prosperity of Life powered by Polaris may share general, aggregate data with such third parties (such as how many people use our site). Please check with those web sites to determine their privacy policy. If you use Prosperity of Life powered by Polaris's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Prosperity of Life powered by Polaris advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. Please keep in mind that whenever you voluntarily disclose personal information online - for example through email, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Certain Prosperity of Life powered by Polaris properties use a shopping-cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Prosperity of Life powered by Polaris media properties do not use SSL and thereby do not offer a secure coded way to transfer information. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you are online. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+Business Transfers
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+We are always seeking to improve our network of web sites and our business. In accomplishing these objectives, we may sell a company, assets or websites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue, or for other business purposes. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Your Consent To This Agreement
 
-**Do we use cookies?**
+By using the Prosperity of Life powered by Polaris Network, you consent to the collection and use of information by Prosperity of Life powered by Polaris as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Please send any questions about Prosperity of Life powered by Polaris's Privacy Policy to: support@mypgmail.com.
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Testimonial Disclosure
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
-
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+Prosperity Of Life Leadership
