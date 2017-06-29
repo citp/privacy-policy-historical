@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208211308id_/http%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000048id_/http%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# MilitaryFactory.com Site Privacy Policy
+# Privacy Policy
 
 Stat Tracking  
 For your information, the following are some examples of the information we collect during a typical visit to our website:
@@ -10,7 +10,7 @@ For your information, the following are some examples of the information we coll
 • Operating System  
 • IP Address  
 • Entry Page, Pages Visited in Order of Visit and Exit Page  
-• Inbound Links from whence you came to our website (if coming from another website's link) 
+• Inbound Links from whence you came to our website (if coming from another website's link)
 
 For a real-time example of some of what is tracked and what isn't, you can always visit our publicly-displayed traffic stats information [here](http://extremetracking.com/open;unique?login=m1l1fact).
 
