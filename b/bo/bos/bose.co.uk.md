@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230112623id_/https%3A//www.bose.co.uk/en_gb/support/cookie_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629063116id_/https%3A//www.bose.co.uk/en_gb/support/cookie_policy.html) for the most accurate reproduction.*
 
 # Cookie Policy
 
 At Bose®, we respect your concerns about privacy and value the relationship we have with you.  
-For the purposes of this policy, Bose means Bose B.V., with registered offices in Gorslaan 60, 1441 RG Purmerend, The Netherlands.  
+For the purposes of this policy, Bose means Bose B.V., with registered offices at Gorslaan 60, 1441 RG Purmerend, The Netherlands.  
 Like many companies, we use technology on our website to collect information that helps us enhance your online experience.  
-The cookies we use at Bose® allow our website to work, and to help us to understand what information and advertising is most useful to visitors.  
+The cookies we use at Bose® allow our website to work, and help us to understand what information and advertising is most useful to visitors.  
 This Cookie Policy explains:  
 
 
@@ -23,7 +23,7 @@ This Cookie Policy explains:
 ###  What cookies are 
 
 A cookie is a text file containing information which is downloaded to your computer or mobile device when you visit a website. Cookies are useful because they allow websites to recognise a user's device. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
-When we refer to Cookies throughout this Policy, we intend to cover all similar devices including web beacons and log files. For more information on those additional tools, please read our Glossary.
+When we refer to cookies throughout this Policy, we intend to cover all similar devices including web beacons and log files. For more information on those additional tools, please read our Glossary.
 
 ###  What information we collect and why 
 
@@ -31,22 +31,22 @@ Part of creating an enjoyable and lasting experience for our customers is to use
 Examples of the types of information we collect via cookies are:  
 
 
-  * how many users visit the Bose® website, how often the site is visited, the pages visited on the site, click-through on the site and the total time spent on the site;
-  * the website visited before the Bose® site;
-  * whether you have visited our website before or if you are a new visitor;
-  * your viewing preferences (e.g. layout, sizing preferences, language, etc.);
-  * your purchases and orders; and
-  * your username, password, browser type and IP address, so we can recognise you on future visits.
+  * How many users visit the Bose® website, how often the site is visited, the pages visited on the site, click-through on the site and the total time spent on the site;
+  * The website visited before the Bose® site;
+  * Whether you have visited our website before or if you are a new visitor;
+  * Your viewing preferences (e.g. layout, sizing preferences, language, etc.);
+  * Your purchases and orders; and
+  * Your username, password, browser type and IP address, so we can recognise you on future visits.
 
 
 
-Please note that we do not collect your name or e-mail address via cookies.
+Please note that we do not collect your name or email address via cookies.
 
 In addition, cookies help us to:  
 
 
-  * customise your visit: we may use information from your visit to help improve your next visit to our site;
-  * customise the advertising and marketing messages you receive on this site either from ourselves or from third parties. This could involve identifying website features in which you have an interest, and recommending accessories for your Bose® system or providing useful information such as how to expand your audio system into other rooms. Our goal is to provide you with what you want as quickly and easily as possible; and
+  * Customise your visit: we may use information from your visit to help improve your next visit to our site;
+  * Customise the advertising and marketing messages you receive on this site either from ourselves or from third parties. This could involve identifying website features in which you have an interest, and recommending accessories for your Bose® system or providing useful information such as how to expand your audio system into other rooms. Our goal is to provide you with what you want as quickly and easily as possible; and
   * look at customer trends: we compile information from thousands of customer visits and analyse it as a whole. This kind of study focuses on identifying trends among the many visitors to our site rather than analysing information about any individual customer.
 
 
@@ -55,7 +55,7 @@ In addition, cookies help us to:
 
 When you use our website, the following categories of cookies may be set on your device:
 
-**First-party cookies**  
+ **First-party cookies**  
 These cookies are set by Bose®. For the most part, they are strictly necessary to enable you to move around the website and use its features.
 
   * _Strictly necessary cookies_ – These cookies are set by Bose® and enable you to move about the site or to receive certain requested features, such as storing language preferences or allowing you to place orders on the website.
@@ -64,7 +64,7 @@ These cookies are set by Bose®. For the most part, they are strictly necessary 
 
 
 **Third-party cookies  
-**In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and in conjunction with web beacons.
+** In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and in conjunction with web beacons.
 
   * _Strictly necessary cookies_ – These cookies enable useful services and functionalities, for example the online chat support.
   * _Online behavioural advertising cookies_ – These cookies collect information about your browsing habits, product and services preferences. This information will allow Bose® and advertising networks we work with to display relevant ads in the most appropriate places on partner websites and on Bose®'s websites. For example, third parties or affiliates may administer Bose® banner advertising programs on a non-Bose® website.
@@ -75,11 +75,11 @@ These cookies are set by Bose®. For the most part, they are strictly necessary 
 
 The length of time cookies are stored on your machine can vary, but they generally fall into two categories: temporary or persistent.
 
-**Temporary cookies**  
-We use temporary session cookies on all of our secure pages to assign and store a session ID to you so that you can move uninterrupted between the areas of our site. This session ID is also used for internal reporting purposes. It is not personally identifiable to you, and this type of cookie does not leave any retrievable information on your hard drive. Most of our first party cookies are session cookies which expire when you close your internet browser.
+ **Temporary cookies**  
+We use temporary session cookies on all of our secure pages to assign and store a session ID to you so that you can move uninterrupted between the areas of our site. This session ID is also used for internal reporting purposes. It is not personally identifiable to you, and this type of cookie does not leave any retrievable information on your hard drive. Most of our first-party cookies are session cookies which expire when you close your internet browser.
 
-**Persistent cookies**  
-Our first party analytics cookies and third party cookies are persistent cookies because they are used to help us understand visitor patterns over a longer term or to provide additional functions you have requested in relation to site customization and saved or stored content. They can be stored on your computer for 24 hours, a week, or several years, depending on the function they're helping to perform.  
+ **Persistent cookies**  
+Our first-party analytics cookies and third-party cookies are persistent cookies because they are used to help us understand visitor patterns over a longer term or to provide additional functions you have requested in relation to site customisation and saved or stored content. They can be stored on your computer for 24 hours, a week, or several years, depending on the function they're helping to perform.  
 
 
 ###  How to manage cookies 
@@ -110,10 +110,10 @@ If you are concerned about having cookies on your device, follow the directions 
 
 If you are using **Internet Explorer (IE) 9.0+** :
 
-**To disable cookies:**
+ **To disable cookies:**
 
   * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
-  * Click on 'Privacy' Tab on top
+  * Click on the 'Privacy' tab at the top
   * Move the slider up to the desired Privacy Level
 
 
@@ -122,19 +122,19 @@ If you are using **Internet Explorer (IE) 9.0+** :
 
 
   * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
-  * Click on 'General' tab which should be under 'Browsing History' and click 'Delete'
+  * Click on the 'General' tab which should be under 'Browsing History' and click 'Delete'
 
 
 
 If you are using **Firefox 2.0+ / 3.0+ / 4.0+** :
 
-**To disable cookies:**  
+ **To disable cookies:**  
 
 
   * Go to 'Tools' in the menu bar
   * Click on 'Options'
-  * Click on 'Privacy Tab'
-  * Disable the box that says 'Accept Cookies From sites'
+  * Click on the 'Privacy' tab
+  * Disable the box that says 'Accept Cookies From Sites'
 
 
 
@@ -143,7 +143,7 @@ If you are using **Firefox 2.0+ / 3.0+ / 4.0+** :
 
   * Go to 'Tools' in the menu bar
   * Click on 'Options'
-  * Click on 'Privacy Tab'
+  * Click on the 'Privacy' tab
   * Click on 'Clear Now'
   * Select 'Cookies'
   * Click on 'Clear Private Data Now'
@@ -152,7 +152,7 @@ If you are using **Firefox 2.0+ / 3.0+ / 4.0+** :
 
 If you are using **Google Chrome**
 
-**To disable cookies:**  
+ **To disable cookies:**  
 
 
   * Go to 'Tools Menu'
@@ -167,8 +167,8 @@ If you are using **Google Chrome**
   * Go to 'Tools Menu'
   * Click on 'Options'
   * Click on 'Under the Hood'
-  * Under 'Privacy' section select 'Show Cookies'
-  * A new window should open called 'Cookies'. In here you can see all the cookies within your Google Chrome Browser
+  * Under the 'Privacy' section select 'Show Cookies'
+  * A new window should open called 'Cookies'. In here you can see all the cookies within your Google Chrome browser
   * Click on 'Remove All' to remove all traces of cookies
   * If you wish to only remove a certain cookie, simply highlight and click 'Remove'
 
@@ -178,8 +178,8 @@ If you use a web browser not listed above, please refer to your browser's docume
 
 ###  What happens if you reject all cookies? 
 
-You'll still be able to use some parts of our websites. But some useful features will not work if you disable cookies.  
-For example, you will not be able to use the online chat support or make purchases. You also will not be able to use our store locator or share pages with your social network.
+You'll still be able to use some parts of our website. But some useful features will not work if you disable cookies.  
+For example, you won't be able to use the online chat support or make purchases. Nor will you be able to use our store locator or share pages with your social network.
 
 ###  Changes to the policy 
 
@@ -191,7 +191,7 @@ If you have any questions or concerns regarding our use of cookies, or if you wa
 
 ###  GLOSSARY 
 
-Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie.
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie.
 
 Log files are web server files (such as domain name or IP address, URL, the http response code, the website from where you visit us and/or the date and duration of your visit) that are automatically created when an internet user visits a site.
 
