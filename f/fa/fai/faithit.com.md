@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231021042id_/http%3A//www.faithit.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithit.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630001306id_/http%3A//faithit.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Faithit.com
+# Privacy Policy | Faithit
 
 FaithIt.com respects the privacy of its subscribers, those who respond to polls, add comments and subscribe to newsletters. It is the policy of FaithIt.com:
 
