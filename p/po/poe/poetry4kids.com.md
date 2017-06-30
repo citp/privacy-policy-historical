@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224022824id_/http%3A//poetry4kids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630124114id_/http%3A//www.poetry4kids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenn Nesbitt's Poetry4kids.com
 
@@ -39,7 +39,7 @@ Google, as a third party vendor, uses cookies to serve ads on poetry4kids.com.
 
 It is our intention to adhere to the Self-Regulatory Guidelines for Advertising of the [Children’s Advertising Review Unit](http://www.asrcreviews.org/) of the [Better Business Bureau](http://www.bbb.org/).
 
-As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can’t guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](http://poetry4kids.com/contact/) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
+As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can’t guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](http://www.poetry4kids.com/contact/) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
 
 If you have any questions about this website, you may contact us at:
 
