@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice-watch.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230145521id_/https%3A//www.ice-watch.com/be-en/doc/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice-watch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630070730id_/https%3A//www.ice-watch.com/be-en/doc/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Ice-Watch
 
