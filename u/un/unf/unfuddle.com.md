@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425043127id_/https%3A//unfuddle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630113510id_/https%3A//unfuddle.com/privacy-policy) for the most accurate reproduction.*
 
 # Unfuddle Privacy Policy
 
-Unfuddle LLC ("Unfuddle") operates several websites including, but not limited to, Unfuddle.com and its respective subdomains (collectively the "Unfuddle Websites"). "You" or "Your" refers to visitors to the Unfuddle Websites and users or participants of the Unfuddle Websites and the Services (as defined in the Terms of Use). It is Unfuddle's policy to respect your privacy regarding any information we may collect while operating the Unfuddle Websites. By visiting the Unfuddle Websites and utilizing our Services, You are accepting the practices described in Unfuddle's Privacy Policy (“Privacy Policy”), and agree to be subject to Unfuddle's Terms of Use ("Terms of Use").
+Unfuddle LLC ("Unfuddle") operates several websites including, but not limited to, Unfuddle.com, Unfuddle.io, and their respective subdomains (collectively the "Unfuddle Websites"). "You" or "Your" refers to visitors to the Unfuddle Websites and users or participants of the Unfuddle Websites and the Services (as defined in the Terms of Use). It is Unfuddle's policy to respect your privacy regarding any information we may collect while operating the Unfuddle Websites. By visiting the Unfuddle Websites and utilizing our Services, You are accepting the practices described in Unfuddle's Privacy Policy (“Privacy Policy”), and agree to be subject to Unfuddle's Terms of Use ("Terms of Use").
 
 ### Collection of Non-Personally-Identifying and Personally-Identifying Information
 
