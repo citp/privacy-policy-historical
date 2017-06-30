@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231035928id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630174439id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Company | Micro Focus
 
@@ -149,7 +149,7 @@ lb_novell
 lb_partnernetprogram  
 lb_suse | Access Manager is a Novell product used to manage authentication and security. These cookies are essential for its functionality. | Session | [http://www.novell.com/  
 support/kb  
-/doc.php?id=7004090](https://web.archive.org/web/20121114173931/http://www.netiq.com/company/redirect.html?url=http://www.novell.com/support/kb/doc.php?id=7004090)  
+/doc.php?id=7004090](https://web.archive.org/web/20121227045556/http://www.netiq.com/company/redirect.html?url=http://www.novell.com/support/kb/doc.php?id=7004090)  
 Access Manager | IPCZQX##########  
 UrnNovellNidpClusterMemberId  
 ZNPCQ003-########  
@@ -160,7 +160,7 @@ lb_novell
 lb_partnernetprogram  
 lb_suse | Access Manager is a Novell product used to manage authentication and security. These cookies are essential for its functionality. | Session | [http://www.novell.com/  
 support/kb/  
-doc.php?id=7004090](https://web.archive.org/web/20121114173931/http://www.netiq.com/company/redirect.html?url=http://www.novell.com/support/kb/doc.php?id=7004090)  
+doc.php?id=7004090](https://web.archive.org/web/20121227045556/http://www.netiq.com/company/redirect.html?url=http://www.novell.com/support/kb/doc.php?id=7004090)  
 MyNetIQ Legacy | policytarget  
 TJS | Legacy cookies used to manage access to restricted resources. | Session Persistent |    
   
