@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tomsshoes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042704id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomsshoes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630023017id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TOMS
+# Privacy Policy | TOMS®
 
 ## Updated: August 22, 2016
 
@@ -122,4 +122,4 @@ Attn: Legal Department
 
 Please also visit our [Terms of Use & Terms of Sale](https://web.archive.org/terms-of-use-terms-of-sale "Go to Terms of Use & Terms of Sale page") that explains other terms and conditions governing your use of this Website and our Stores.
 
-© TOMS Shoes, LLC. 2006-2016, all rights reserved.
+© TOMS Shoes, LLC. 2006-2017, all rights reserved.
