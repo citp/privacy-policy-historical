@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebook-pmdcenter.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231215423id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook-pmdcenter.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230706id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
 # Data Policy
 
@@ -68,7 +68,7 @@ We use your information to send you marketing communications, communicate with y
 
 Show and measure ads and services.
 
-We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://web.archive.org/about/ads) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://l.facebook.com/l.php?u=ATP1VH48pfrJIVo6jHJ8A0JxGLOAWq7RFgfA8_7swE9nWIqFM6IxJhWFSIVVcC2hrUYl0JjpF76Wk_JMXQZY0g&h=ATNqDb3K_OJb-XzKULUgYm9GHLtOtHXrb3l8pPm62PhmrGoONj2Fn2eT23MBdcKdWSFKf90paVIpAdrajhFnpi-KHprIhuMh37g9SW97lVJFhti6hfuY6KmRYfzcVKmhDoEMyQ&s=1) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
 Promote safety and security.
 
@@ -140,7 +140,7 @@ We may access, preserve and share your information in response to a legal reques
 
 Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries. 
 
-You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=eAQH6ojm-&s=1). 
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMcwJ5ShW3s3JXNPsFtmoRUI0xGN9YOMyVifJGloEwFRUjPRrK_fPUWGQ8hBT4PwSDwch3axKWxHmugRVP72hmvib3ixNCO72Ljce73AX7iuPXvHLA-tosl2cWun-4_Xl8L&s=1). 
 
 ###  How will we notify you of changes to this policy? 
 
