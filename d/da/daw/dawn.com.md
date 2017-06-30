@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231190308id_/http%3A//www.dawn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230803id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DAWN.COM - DAWN.COM
 
@@ -11,7 +11,7 @@ This is the main privacy policy for dawn.com and Dawn Media Group publications o
 At Dawn.com we collect different types of information about our users for four main reasons:
 
   * To provide personalised services unique to individual users.
-  * To help us to monitor and improve the services we offer
+  * To help us to monitor and improve the services we offer.
   * To sell advertising space on the site. This helps us to keep the site free of charge.
   * With user consent, to market services to individuals' users.
 
@@ -25,20 +25,22 @@ Please follow the links below for further information.
 
 ### Our principles
 
-  * We do our utmost to protect user privacy through the appropriate use of the security technology. 
+  * We do our utmost to protect user privacy through the appropriate use of the security technology. This means: - we ensure that we have appropriate physical and technological security measures to protect your information - we ensure that when we outsource any processes that the service provider has appropriate security measures.
 
-This means: - we ensure that we have appropriate physical and technological security measures to protect your information - we ensure that when we outsource any processes that the service provider has appropriate security measures.
+  * We will respect your privacy. You should receive marketing emails only from DMG and, if you choose, from carefully chosen third parties.
 
-  * We will respect your privacy. You should receive marketing emails only from DMG and, if you choose, from carefully chosen third parties. 
+  * It will be made clear to you where you have these choices; for example, tick boxes will let you decide whether you wish to receive marketing.
 
-It will be made clear to you where you have these choices; for example, tick boxes will let you decide whether you wish to receive marketing.
+  * We may, however, email you occasionally with information or queries about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
 
-We may, however, email you occasionally with information or queries about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
+  * We will collect and use individual user details only where we have legitimate business reasons and are legally entitled to do so.
 
-  * We will collect and use individual user details only where we have legitimate business reasons and are legally entitled to do so. 
-  * We will be transparent in our dealings with you as to what information about you we will collect and how we will use your information. 
-  * We will use personal data only for the purpose(s) for which they were originally collected and we will ensure personal data are securely disposed of. 
-  * Our site is accessible via the Internet. This means that, wherever you choose to post your data on the site, they can be accessed from anywhere around the world. 
+  * We will be transparent in our dealings with you as to what information about you we will collect and how we will use your information.
+
+  * We will use personal data only for the purpose(s) for which they were originally collected and we will ensure personal data are securely disposed of.
+
+  * Our site is accessible via the Internet. This means that, wherever you choose to post your data on the site, they can be accessed from anywhere around the world.
+
 
 
 
@@ -48,7 +50,7 @@ We may, however, email you occasionally with information or queries about your r
 
 We collect information on our users through registration and use of the website, through cookies, where you choose to disclose data in postings, and when you enter sales promotions and competitions ("sales promotions").
 
-Certain services that we provide may involve the collection by us of additional information, such as your geographic location from time to time, to enable the service to be provided as designed. In particular, this may apply to certain Apps that you download, or which we provide. 
+Certain services that we provide may involve the collection by us of additional information, such as your geographic location from time to time, to enable the service to be provided as designed. In particular, this may apply to certain Apps that you download, or which we provide.
 
 ### Registration
 
@@ -84,11 +86,16 @@ Some DMG webpages use plugins from third party platforms (such as the 'Facebook 
 
 We use cookies for a number of reasons:
 
-  * For statistical purposes to track how many individual unique users we have and how often they visit our websites. We collect data listing which of our pages are most frequently visited and by which types of users and from which countries. 
-  * We use third parties to collect anonymous user information, sometimes through cookies and web beacons. Click here to learn more about how we use a third party service to collect and use information on dawn.com 
-  * DMG and third party advertisers will generate statistical cookies to track advertising impressions and conversions. 
-  * Placing cookies on your computer means we can serve you adverts that you might be more interested in, and allows us to control the number of times you see them and measure how effective the ad campaign has been. This helps us to keep the site free of charge. 
-  * Flash cookies may be used to store user preferences for media player functionality and without them some video content may not render correctly. You can turn cookies off but if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content. 
+  * For statistical purposes to track how many individual unique users we have and how often they visit our websites. We collect data listing which of our pages are most frequently visited and by which types of users and from which countries.
+
+  * We use third parties to collect anonymous user information, sometimes through cookies and web beacons. Click here to learn more about how we use a third party service to collect and use information on dawn.com
+
+  * DMG and third party advertisers will generate statistical cookies to track advertising impressions and conversions.
+
+  * Placing cookies on your computer means we can serve you adverts that you might be more interested in, and allows us to control the number of times you see them and measure how effective the ad campaign has been. This helps us to keep the site free of charge.
+
+  * Flash cookies may be used to store user preferences for media player functionality and without them some video content may not render correctly. You can turn cookies off but if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
+
 
 
 
@@ -98,7 +105,15 @@ By using the sites you are agreeing to the use of cookies as described.
 
 ### About our advertising
 
-We use targeted advertising, which allows us to deliver visitors to our website directed to your interests. As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in. This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink. We do not share behavioral data with other websites. Please visit http://www.dawn.com/privacypolicyoptout to opt you. 
+We use targeted advertising, which allows us to deliver visitors to our website directed to your interests.
+
+As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.
+
+This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink.
+
+We do not share behavioral data with other websites.
+
+Please visit http://www.dawn.com/privacypolicyoptout to opt you.
 
 ### Other Advertising
 
