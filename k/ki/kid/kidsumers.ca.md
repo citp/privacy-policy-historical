@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115175842id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630090024id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy | Kidsumers
 
