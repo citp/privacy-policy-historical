@@ -1,45 +1,88 @@
-> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623204428id_/http%3A//www.fayobserver.com/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133609id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | fayobserver.com
+# Privacy Policy – Gatehouse Media
 
-Welcome to The Fayetteville Observer and its online service, FayObserver.com, which also hosts FayObserver Blogs, email subscription newsletters, text message alerts and other topic-specific sites (collectively, the "Online Service"). The Fayetteville Observer takes your privacy seriously. Our Privacy Policy explains our policies and practices for collecting, using, maintaining, sharing, and protecting personal information. Our Privacy Policy should be read in conjunction with the Terms of Use Agreement (the "Agreement") between you and Fayetteville Publishing Company, owner of The Fayetteville Observer ("us" or "we") for use of the Online Service.
+This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).
 
-From time to time, we may make changes in this Privacy Policy. We will notify you of any such changes by posting them here. Your continued use of the Online Service after we post such changes signifies that you have accepted these changes.
+### INFORMATION COLLECTION AND USE.
 
-Our Online Service may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of these sites. When you link to any other site, you should check the privacy policy of the sponsor of that site.
+We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under “Legal Matters” below. We maintain security measures to keep this information private.
 
-### Information We Collect
+### PERSONALLY IDENTIFIABLE INFORMATION.
 
-When you order subscriptions, register for services, offers, promotions, contests, or sweepstakes, access archived information, place advertisements, complete surveys, correspond with us, register for email newsletter subscriptions or text message alerts, or make other uses of the Online Service, we may collect personal information, including your e-mail address, postal address, home or work telephone number, credit card information (only if you choose to make a purchase online), or demographic data such as gender, age, income, education, occupation, or interests.
+Anyone can access our Websites, but there are certain areas and services that require registration or provision of certain personal information if accessed, such as by way of example: entering premium content areas, placing advertisements online and making other online purchases, signing up for email newsletters, promotions, contests, sweepstakes or special offers, or participating in reader forums, message boards, chats and reader surveys. If you choose to make a purchase or use such areas, we will ask for certain personally identifiable information, which may include name, mailing address, valid email address and other personal information. Based upon the personally identifiable information you provide us at registration, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your “account.” We will communicate with you by email or as otherwise directed by you.
 
-Like many other commercial sites, our Online Service uses a standard technology called a "cookie" to collect information about how our site is used. A cookie is a small text file placed in your browser so that we can save and remember any preferences you set while using the Online Service. A cookie cannot retrieve other data from your hard drive, pass on a computer virus, or capture your e-mail address. Cookies may be used to enhance your use of our Online Service. For example, cookies can securely store your password, personalize home pages, identify which parts of a site you have visited, and keep track of items you select in an online "shopping cart." We do not use cookies to gather personally identifiable information about you without your consent. Like many other commercial sites, our Online Service may count users who have visited a web page or recognize users by accessing certain cookies.
+We strive to keep personal information–such as your name or e-mail address–that you voluntarily disclose private. We do not authorize your personal information to be shared with third parties without your consent, aside from third parties that perform services for us (which may include by way of example: credit card processing and billing, shipping, email and list processing, and promotions management). We provide these suppliers only with the information they need to process the transaction or provide the service. We require that such parties either must comply with our Privacy Policy or have comparable privacy policies that protect your information.
 
-### How We Use Information
+If you purchase a product or service from us, or through us, we request certain personally identifiable information from you on our order form. You must provide contact information and billing information (such as credit card number, expiration date.) We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-We may perform statistical analyses of aggregate user behavior so that we can measure interest in the various areas of our Online Service for product development purposes. The information we collect is used to improve the content of the Online Service and to enhance your experience when using the Online Service. We do not use personally identifying information for any reason that is not disclosed either in this Privacy Policy or at the time the information is requested.
+Certain information supplied by you to our Websites may be password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish accessing our Website in order to prevent others from accessing your personal information. You are solely responsible for the control and use of each password you create.
 
-### Disclosure to Third Parties
+Personal information which you provide on bulletin boards or in other areas that are accessible to other users could be collected and disclosed by others. We cannot take any responsibility for such collection or disclosure.
 
-We will not disclose personally identifiable information about you without your consent, except in the certain circumstances, described below. We reserve the right to disclose personally identifiable information, including the names of those posting to FayObserver.com, when we believe the law requires us to do so or when we believe, in our sole discretion, that such disclosure is necessary in order to respond to claims against us, to protect our customers, to ensure the integrity and operation of our business, or to protect the rights, property, or best interests of The Fayetteville Observer, its affiliates, or others.
+From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the Unsubscribe link in the email, or by contacting us as instructed at the end of this Privacy Policy.
 
-We may disclose our statistical analyses or demographic data about users to third parties such as current or prospective advertisers or other business partners, but only in a form that does not identify individual users. In some instances, we operate shared web sites with businesses affiliated with us. Our Privacy Policy will apply to these web sites.
+### LEGAL MATTERS
 
-We have no control over the privacy policies of other sites to which our Online Service provides links. When you link to any other site from our Online Service, you should check the privacy policy of the sponsor of that site. We are not responsible for or liable for the privacy policies and practices of others.
+We may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to: (1) comply with the law, government action or with legal process served on us; (2) protect and defend our rights or property, including without limitation these Websites; or (3) protect the personal safety or property of our users or the public (by way of example, if you provide false information or pretend to be someone else, information about you may be disclosed as part of an investigation). In the event of a change of control of GateHouse or any of its subsidiaries (such as through a merger or sale of equity) or in the event of a direct or indirect sale of any Website through a sale of assets, liquidation or other transaction, any personal information of users of the affected Websites in our possession will be transferred to the new company as part of the transaction. We are not obligated to notify Website users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.
 
-**PLEASE BE AWARE** that when you voluntarily disclose personal information (such as your name and e-mail address) to third parties in chat areas, forums, or bulletin boards, that information may be collected by others who are not within our control. This may result in your receiving unsolicited messages from them. We are not responsible for any information that you choose to disclose to the public, or for any consequences of such disclosure.
+### AGGREGATE INFORMATION
 
-### Security of Information
+If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other third party, unless we let you know that at the time of collection and you consent by providing the information. When we share demographic information with third parties, we will give them aggregate information only, unless you have consented otherwise, or unless otherwise required by law, government action or legal process served on us.
 
-We use our best efforts to ensure the security of all personal information that you submit. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. Other information collected from you is stored in an area not accessible to the general public, inlcuding phone numbers collected through text message alert registration.
+Occasionally, we use “cookies” to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. We only use cookies for the purpose of holding information during online sessions (for example, to hold answers to online surveys for short-term storage, or to create a temporary ID for use in a multiple-session assessment). When you view an ad for the Websites on other sites, third party advertisers may place or recognize a unique cookie on your browser. The Websites and the advertiser may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which website pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.
 
-### Not for Children Under 13
+We may also collect other information from users to the Websites such as the user’s IP address (the number assigned automatically to your computer whenever you use the World Wide Web), length of time spent on the Websites, and the pages accessed during each visit to the Websites. We use this information to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-The Children's Online Privacy Protection Act (COPPA) provides that web site operators cannot knowingly collect information from children younger than 13 without verifiable permission from their parents. We do not intend for our Online Service to be used by anyone under the age of 13 for any purpose, including for any service that requires the collection of personal information, through registration or otherwise. Our Terms of Use require that users represent and warrant that they are at least 13 years old. Therefore, we will not knowingly gather or disclose personal information about users under the age of 13 without prior parental consent, except as required by law. Other sites accessible through the Online Service have their own policies about children's privacy. We are not responsible for their policies, and you should contact them directly regarding those policies.
+We may also use third-party advertising companies to collect data and/or serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-### Updating Information, Opting-Out
+### HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION
 
-You may use our online registration form at any time to change or update information you have provided to us. Questions regarding the accuracy of your personal information, the use of the information collected, or our Privacy Policy in general should be directed via e-mail to [privacy@FayObserver.com](mailto:privacy@FayObserver.com). You can also reach us by calling (910) 323-4848 or by writing to The Fayetteville Observer, Online Department, P.O. Box 849, Fayetteville, NC 28392.
+To opt out of further email communications from us, just click on the Unsubscribe link in the email, or contact us as instructed at the end of this Privacy Policy. We need up to 30 days to process your request.
 
-We may occasionally send you information via e-mail about various products and services. You may "opt-out" of receiving further e-mail contact from us by clicking the "click to unsubscribe" link at the bottom of one of your emails, or by managing email subscriptions online at [ http://www.fopoints.com/asp2/subscriptions.aspx](http://www.fopoints.com/asp2/subscriptions.aspx). You can also contact us at the e-mail address, telephone number, or postal address listed above. This will not prevent you from accessing and using the Online Service.
+To change your personal information that you have provided us, please contact us as instructed at the end of this Privacy Policy.
 
-Tell our editors your news tips, story ideas and coverage requests. All tips are confidential.
+### CHILDREN’S ON-LINE PRIVACY INFORMATION
+
+These Websites are not intended for use by children under the age of 13. We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Websites without their permission.
+
+Involvement of parents: In accordance with the provisions of the Children’s Online Privacy Act, in the event that we do begin collecting any personal information or data from children under the age of 13, we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain personal information from children under the age of 13. A parent may review and have deleted their child’s personal information, and may refuse to permit further collection or use of their child’s information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child’s personal information without consenting to the disclosure of that information to others.
+
+### OUR COMMITMENT TO DATA SECURITY
+
+We have put in place security procedures reasonably designed to safeguard and secure the information under our control, and we follow generally accepted industry standards.
+
+Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers and in storing that information on our systems, no method of transmission over the Internet, or of electronic storage, is 100% secure. So we cannot ensure or guarantee the security of any information transmitted to us over the Internet.
+
+When you enter sensitive information (such as credit card numbers) on our forms, we encrypt, or instruct our providers to encrypt, that information using secure socket layer technology (SSL).
+
+### LINKS TO OTHER SITES
+
+This Privacy Policy solely applies to information collected directly by the Websites. Our Websites may contain links to other web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage users to be aware that when they leave our Websites for another site, even if through a link, they should read the privacy statements of each and every web site that collects personally identifiable information. The provision of external links to other websites is a common practice on the Internet and it in no way indicates that we endorse or approve the linked company, or its products, services or website.
+
+### AP NEWS REGISTRY PRIVACY POLICY
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+
+### CHANGES OR UPDATES TO THIS PRIVACY POLICY.
+
+We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.
+
+GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXu’s privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
+
+### CONTACT US
+
+If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways:
+
+**E-mail us at:** [webmaster@gatehousemedia.com](mailto:webmaster@gatehousemedia.com)
+
+**Write to us at:**  
+Webmaster  
+GateHouse Media, LLC  
+175 Sully’s Trail, 3rd Floor  
+Corporate Crossings Office Park  
+Pittsford, NY 14534
+
+**Call us at:** (585) 598-0030 and ask for the GateHouse webmaster
+
+Last revised November 2015
