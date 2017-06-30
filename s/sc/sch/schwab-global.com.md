@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124165547id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193951id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
