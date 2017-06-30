@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 12newsnow.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216173939id_/http%3A//www.12newsnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12newsnow.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134049id_/http%3A//www.12newsnow.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | 12NewsNow.com
+# 12NewsNow | Beaumont, Port Arthur, Orange, Vidor, Silsbee, Lumberton, Kountze, Nederland, Port Neches, TX | 12NewsNow.com
 
 ## Privacy Policy
 
