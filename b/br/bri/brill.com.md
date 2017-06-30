@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128235855id_/http%3A//www.brill.com/about/policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630020902id_/http%3A//www.brill.com/about/policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Brill
 
