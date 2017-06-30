@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the enchantedlearning.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203064329id_/http%3A//www.enchantedlearning.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchantedlearning.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630094641id_/http%3A//www.enchantedlearning.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Enchanted Learning
-
-[ ](https://twitter.com/EnchantedLearni/)[ ](https://www.facebook.com/EnchantedLearning)
 
   * Enchanted Learning does not track individual users as they visit our (non-members’) web site.
   * We do not require registration. However, some activities at the EnchantedLearning.com web site may be available only to members.
