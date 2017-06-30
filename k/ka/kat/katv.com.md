@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katv.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227054712id_/http%3A//katv.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201211id_/http%3A//katv.com/station/privacy) for the most accurate reproduction.*
 
 # Little Rock Privacy | News, Weather, Sports, Breaking News | KATV
 
