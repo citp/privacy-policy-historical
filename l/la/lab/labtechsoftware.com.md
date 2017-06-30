@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201192145id_/http%3A//www.labtechsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630064929id_/http%3A//www.labtechsoftware.com/privacy) for the most accurate reproduction.*
 
 # LabTech Software Privacy Policy
 
-### LabTech Software Privacy Policy
+### ConnectWise Inc. (ConnectWise) Privacy Policy
 
-#### Please take a few minutes to read LabTech Software's Online Privacy Policy
+#### Please take a few minutes to read ConnectWise's Online Privacy Policy
 
-We at LabTech Software are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
+We at ConnectWise are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
-LabTech Software has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit LabTech Software's web pages without telling us who you are or revealing any Personal Information about yourself.
+ConnectWise has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit ConnectWise's web pages without telling us who you are or revealing any Personal Information about yourself.
 
-If you choose to provide us with your Personal Information on our web sites, we may transfer that information within LabTech Software, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
+If you choose to provide us with your Personal Information on our web sites, we may transfer that information within ConnectWise, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-LabTech Software strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, LabTech Software intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred or retained. 
+ConnectWise strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, ConnectWise intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred or retained. 
 
 #### Cookies and Other Tracking Technologies
 
@@ -24,34 +24,34 @@ Tracking technologies may record information such as Internet domain and host na
 
 #### Notice
 
-Where LabTech Software collects Personal Information on our web site, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of LabTech Software or those working on LabTech Software's behalf. LabTech Software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on LabTech Software's behalf unless such transfer is legally required.
+Where ConnectWise collects Personal Information on our web site, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of ConnectWise or those working on ConnectWise's behalf. ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise's behalf unless such transfer is legally required.
 
 #### Choice
 
-You may choose whether or not to provide Personal Information to LabTech Software. The notice we intend to provide where LabTech Software collects Personal Information on the web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most areas of LabTech Software's web site, but you may be unable to access certain options, offers and services that involve our interaction with you.
+You may choose whether or not to provide Personal Information to ConnectWise. The notice we intend to provide where ConnectWise collects Personal Information on the web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most areas of ConnectWise's web site, but you may be unable to access certain options, offers and services that involve our interaction with you.
 
-If you chose to have a relationship with LabTech Software, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+If you chose to have a relationship with ConnectWise, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
 #### Security
 
-Wherever your Personal Information may be held within LabTech Software or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+Wherever your Personal Information may be held within ConnectWise or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
 
 #### Access/Accuracy
 
-To the extent that you do provide us with Personal Information, LabTech Software wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the web, our goal is to provide a means of contacting LabTech Software should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, please [contact us](https://web.archive.org/contact/contact-us) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with Personal Information, ConnectWise wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the web, our goal is to provide a means of contacting ConnectWise should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, please [contact us](https://web.archive.org/contact/contact-us) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 #### Third Party Services
 
-Third parties provide certain services available on LabTechSoftware.com on LabTech Software's behalf. LabTech Software may provide information, including Personal Information that LabTech Software collects on the web to third-party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which LabTech Software maintains its web site and mailing lists. LabTech Software will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on LabTech Software’s behalf.
+Third parties provide certain services available on LabTechSoftware.com on ConnectWise's behalf. ConnectWise may provide information, including Personal Information that ConnectWise collects on the web to third-party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which ConnectWise maintains its web site and mailing lists. ConnectWise will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on ConnectWise’s behalf.
 
-LabTech Software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on LabTech Software’s behalf unless such transfer is legally required. Similarly, it is against LabTech Software’s policy to sell Personal Information collected online without consent.
+ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise’s behalf unless such transfer is legally required. Similarly, it is against ConnectWise’s policy to sell Personal Information collected online without consent.
 
 #### Commitment
 
-We are committed to privacy and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and LabTech Software’s web sites are constantly evolving to meet these demands.
+We are committed to privacy and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and ConnectWise’s web sites are constantly evolving to meet these demands.
 
 If you have any comments or questions regarding our Online Privacy Policy, please [contact us](https://web.archive.org/contact/contact-us). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 #### Your Consent
 
-By using this web site, you consent to the terms of our Online Privacy Policy and to LabTech Software’s processing of Personal Information for the purposes given above, as well as those explained where LabTech Software collects Personal Information on the web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+By using this web site, you consent to the terms of our Online Privacy Policy and to ConnectWise’s processing of Personal Information for the purposes given above, as well as those explained where ConnectWise collects Personal Information on the web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
