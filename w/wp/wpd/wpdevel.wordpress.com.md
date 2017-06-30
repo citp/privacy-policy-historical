@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdevel.wordpress.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223070432id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdevel.wordpress.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630173718id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # About » Privacy Policy — WordPress
 
@@ -30,4 +30,4 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Although most changes are likely to be minor, WordPress.org may change its Privacy Policy from time to time, and in WordPress.org’s sole discretion. WordPress.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[](http://creativecommons.org/licenses/by-sa/2.5/)
+[](https://creativecommons.org/licenses/by-sa/2.5/)
