@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231190606id_/https%3A//www.thenews.com.pk/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225546id_/https%3A//www.thenews.com.pk/privay-policy) for the most accurate reproduction.*
 
 # Privay-policy - The News International: Latest News Breaking, Pakistan News
 
