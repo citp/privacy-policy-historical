@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medium.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231081109id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medium.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
 # Medium Privacy Policy – Medium Policy – Medium
 
