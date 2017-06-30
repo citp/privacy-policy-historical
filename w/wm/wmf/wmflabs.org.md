@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmflabs.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124156id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmflabs.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630082925id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -29,8 +29,8 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
 **We are committed to:**
 
-  * Describing how your information may be used or shared in this Privacy Policy. 
-  * Using reasonable measures to keep your information secure. 
+  * Describing how your information may be used or shared in this Privacy Policy.
+  * Using reasonable measures to keep your information secure.
   * Never selling your information or sharing it with third parties for marketing purposes. 
   * Only sharing your information in limited circumstances, such as to improve the Wikimedia Sites, to comply with the law, or to protect you and others.
   * Retaining your data for the shortest possible time that is consistent with maintaining, understanding, and improving the Wikimedia Sites, and our obligations under law.
@@ -412,7 +412,7 @@ Because things naturally change over time and we want to ensure our Privacy Poli
 
 
 
-We ask that you please review the most up-to-date version of our **Privacy Policy**. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part. 
+We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part. 
 
 ### Contact Us
 
