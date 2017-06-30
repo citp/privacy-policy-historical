@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220185953id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630041231id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
 
 # Soft4Boost - system utilities, audio, video, image and burning software.
 
-[Soft4Boost.com](https://web.archive.org/) respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Soft4Boost.com treatment of your personally identifiable information collected in connection with your activities on the Soft4Boost.com web site.
+[SorentioApps.com](https://web.archive.org/) respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains SorentioApps.com treatment of your personally identifiable information collected in connection with your activities on the SorentioApps.com web site.
 
 ## 1\. COLLECTION OF YOUR PERSONAL INFORMATION
 
-Soft4Boost.com will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below.
+SorentioApps.com will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below.
 
 ## 2\. CONTRACTUAL OBLIGATION
 
@@ -31,11 +31,11 @@ Our websites does use "cookies" for the sole purpose of tracking affiliate refer
 
 ## 4\. LINKS TO OTHER SITES
 
-The Web Site may contain links to other web sites. [Soft4Boost.com](https://web.archive.org/) does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, Soft4Boost.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
+The Web Site may contain links to other web sites. [SorentioApps.com](https://web.archive.org/) does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, SorentioApps.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
 
 ## 5\. CHANGES TO THIS POLICY
 
-Soft4Boost.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
+SorentioApps.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 ## 6\. CONTACT INFORMATION
 
