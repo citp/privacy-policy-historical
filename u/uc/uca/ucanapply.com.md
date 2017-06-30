@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the ucanapply.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206005548id_/http%3A//ucanapply.com/ucanapplyaboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucanapply.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133116id_/http%3A//ucanapply.com/privacy.html) for the most accurate reproduction.*
 
-# UCanApply
+# Privacy-Ucanapply
 
-## UCanApply.com Application Privacy Policy
+**Effective Date : From 1st of January, 2011 onwards**  
+UCanApply.com's Apply Online Program, hosted through ucanapply.com, is an Internet property of Learning Spiral Pvt Ltd. ("UCanApply.com," "we," "our," or "us"). This UCanApply.com Application Privacy Policy is given by Learning Spiral Pvt. Ltd and is applicable to users of the Apply Online Program (the "Apply Online Program" applies to all services performed by UCanApply.com on behalf of the colleges, schools, educational boards, exam conducting bodies and/or universities to include the hosting of online application forms, inquiry forms, event forms and interview forms) for applications made to colleges, schools, educational boards, exam conducting bodies and/or universities (in short "schools"). We are providing this UCanApply.com Application Privacy Policy to you so that you can learn about how we collect and share information you submit through the Apply Online Program. Data privacy and security is important to us and to users of the Apply Online Program, so we want to make sure that users of our Apply Online Program understand our privacy and security practices and policies. In addition to this UCanApply.com Application Privacy Policy, we are fully committed to adhering to all relevant rules, regulations, laws as prevailing in India relevant to our services.  
+This UCanApply.com Application Privacy Policy will tell you the following:  
 
-**Effective Date: From 1st of January,2011 onwards**   
-UCanApply.com's Apply Online Program, hosted through ucanapply.com, is an Internet property of Learning Spiral Pvt Ltd. ("UCanApply.com," "we," "our," or "us"). This UCanApply.com Application Privacy Policy is given by Learning Spiral Pvt. Ltd and is applicable to users of the Apply Online Program (the "Apply Online Program" applies to all services performed by UCanApply.com on behalf of the colleges, schools, educational boards, exam conducting bodies and/or universities to include the hosting of online application forms, inquiry forms, event forms and interview forms) for applications made to colleges, schools, educational boards, exam conducting bodies and/or universities (in short "schools"). We are providing this UCanApply.com Application Privacy Policy to you so that you can learn about how we collect and share information you submit through the Apply Online Program. Data privacy and security is important to us and to users of the Apply Online Program, so we want to make sure that users of our Apply Online Program understand our privacy and security practices and policies. In addition to this UCanApply.com Application Privacy Policy, we are fully committed to adhering to all relevant rules, regulations, laws as prevailing in India relevant to our services.
-
-This UCanApply.com Application Privacy Policy will tell you the following:
 
   * What information we collect/track about you.
   * With whom we share the information we collect/track.
@@ -17,10 +15,9 @@ This UCanApply.com Application Privacy Policy will tell you the following:
 
 This UCanApply.com Application Privacy Policy applies to the information you provide to us through the Apply Online Program. 
 
-## Information Collection Practices and Policies
+#### Information Collection Practices and Policies
 
-UCanApply.com's Apply Online Program allows you to apply to schools, colleges, educational boards, exam conducting bodies and Universities you select. Each school requires you to provide the information requested on its application. In order for your application to be processed, all information requested by a school must be provided. In connection with processing your application, we may collect payment or billing information (e.g., credit card information) from you to pay the school's application fees. When you apply to a school using our Apply Online Program, we share the information you provide with the school. The information you may be requested to submit may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Domicile, and (6) Date of Birth (7) Category, (8) Class, (9) Gender etc.
-
+UCanApply.com's Apply Online Program allows you to apply to schools, colleges, educational boards, exam conducting bodies and Universities you select. Each school requires you to provide the information requested on its application. In order for your application to be processed, all information requested by a school must be provided. In connection with processing your application, we may collect payment or billing information (e.g., credit card information) from you to pay the school's application fees. When you apply to a school using our Apply Online Program, we share the information you provide with the school. The information you may be requested to submit may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Domicile, and (6) Date of Birth (7) Category, (8) Class, (9) Gender etc.  
 We use the following services to monitor the processing of your application: Web analytics and Web hosting. We use a credit card payment processing service provider to process any payments required to submit your application. The said services provider is of the highest repute and verified by reliable security agencies like verisign etc. We use a service to convert your details uploaded within your online application to a PDF format. We also may use a third party address verification service and communication services for sending of SMS, Emails etc.
 
 **IP Addresses**  
@@ -48,3 +45,13 @@ If you have any questions or comments, please don't hesitate to contact us direc
 
 Our physical mailing address is,  
 3A, Auckland Place, Room 5B, Floor 5th, Kolkatta-700017, West Bengal, India. 
+
+We are an ISO 9001-2008 company and dedicated toward maintaining the best standards in service and technology.
+
+  * [____](https://www.facebook.com/ucanapply/)
+
+
+
+__3A, Auckland Place, 5th Floor, Room 5B Kolkata – 700 017, West Bengal, India
+
+Copyright © Learning Spiral Pvt. Ltd. 2016, All Rights Reserved. 
