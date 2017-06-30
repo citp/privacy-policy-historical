@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229064647id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630032928id_/http%3A//www.vistaprint.com/customer-care/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
