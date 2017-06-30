@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231192404id_/http%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630192800id_/https%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Sunlight Foundation
-
-## Privacy Policy
 
 The Sunlight Foundation values your privacy. When you trust us with your personal information, we take that responsibility seriously. Here’s what we hope is a readable summary of the most important parts of our Terms of Service and Privacy Policy:
 
