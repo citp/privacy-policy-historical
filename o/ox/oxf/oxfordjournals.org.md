@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordjournals.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204190412id_/http%3A//www.oxfordjournals.org/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordjournals.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125932id_/https%3A//academic.oup.com/journals/pages/about_us/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Journals | Oxford Academic
 
 Updated on: 11/07/2016
 
@@ -62,7 +62,7 @@ While the third party advertisers may obtain your information via their advertis
 
 ### **Use of cookies**
 
-OUP uses "cookies" and other technologies on the Website. The terms and conditions governing OUP's use of "cookies" and such other technologies on the Website are set out in OUP's [Cookie Policy](http://global.oup.com/cookiepolicy/?cc=gb).
+OUP uses "cookies" and other technologies on the Website. The terms and conditions governing OUP's use of "cookies" and such other technologies on the Website are set out in OUP's [Cookie Policy](http://global.oup.com/cookiepolicy).
 
 By using the Website, you are agreeing to be bound by the terms of our Cookie Policy.
 
@@ -76,14 +76,14 @@ The information that we collect from you may be transferred to, and stored at, a
 
 The transmission of information via the internet is not completely secure. Although we will do our best to protect your information including personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access
 
-### **Updating Your Details**
+### **Updating your details**
 
 If any of the information that you have provided to OUP changes e.g. if you change your e-mail address you may update your account details online on the Website or by contacting Customer Services on [Jnls.Cust.Serv@oup.com](mailto:Jnls.Cust.Serv@oup.com).
 
-### **Changes to our Privacy Policy**
+### **Changes to our privacy policy**
 
 We reserve the right to make changes to this privacy policy. Any changes we may make to this privacy policy will be posted on this page and, where appropriate, notified to you by e-mail.
 
-### **Governing Law**
+### **Governing law**
 
 You agree that this privacy policy shall be exclusively governed in accordance with the laws of and the courts in England and Wales.
