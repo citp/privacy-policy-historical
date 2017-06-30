@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060556id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630050529id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
 
 # PayPal
 
@@ -9,12 +9,6 @@ Effective Date : July 1, 2015
 ### Your Privacy Rights
 
 This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them.
-
-The PayPal website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If this policy or our customer support team cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe certification applies to only information that is collected through this website.
-
-[](https://privacy.truste.com/privacy-seal/PayPal/validation?rid=29e80c36-8b02-499f-b02a-5a2f638e0a36 "TRUSTe online privacy certification")
 
 **Jump to section:**
 
@@ -182,6 +176,6 @@ You can review and edit your personal information at any time by logging in to y
 
 ### How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this form**](http://www.paypal.com/ewf/f=ci_prv).
+If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this form**](https://www.paypal.com/ca/selfhelp/contact/email/privacy?locale.x=en_CA).
 
                                                                                                                            **Back to top**
