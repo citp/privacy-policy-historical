@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219105819id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185352id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
@@ -29,23 +29,23 @@ In particular, we’d like to help you understand important topics like:
 
 SBS may request, collect and hold the following kinds of information in either electronic or hard copy format. 
 
-**1\. Competition and registration information**
+**a) Competition and registration information**
 
 When you sign up for a competition, register as an SBS user on our digital services, or request an email newsletter, we will ask you to provide personal details such as your first name, surname, and email address. To help with prize distribution and entry eligibility as part of a competition, SBS may also request a mailing address, phone number and your date of birth. 
 
 SBS will also invite you to offer other optional information through your user profile so that we can tailor our services to your specific interests or profile. This includes information such as the types of content you are interested in (for instance, sport, food or movies), and whether you’d like to receive information or offers from our partners. 
 
-**2\. Information you post on our digital services**
+**b) Information you post on our digital services**
 
 When you interact with SBS and the SBS community on our digital services as a registered SBS user or using social media (for example by making a public comment on a particular topic), we may collect the information you choose to post (such as your opinion about a matter you are commenting on, which may include sensitive information you choose to make public). You should be careful about making any sensitive or personal information public. 
 
-**3\. Your social media information**
+**c) Your social media information**
 
 Some of our digital services are linked to third party social media services like Facebook or Twitter. You can decide to access or log in to an SBS service using your social media profile, or to connect an SBS related service to a third party social media service. If you do this, SBS can collect your social media user information, and any further information you have permitted the social media site to share with SBS. In choosing to access or connect to SBS services via social media, you are authorising SBS to collect, store, use and disclose such information and content in accordance with this Privacy Policy.
 
 You should be aware that any posts you make on SBS social media channels including our Facebook, Twitter or Instagram profiles may be publicly available and able to be found via search engines. SBS strongly recommends that you become familiar with the privacy settings and terms of your social media account/s.
 
-**4\. Cookies and other tracking data**
+**d) Cookies and other tracking data**
 
 When you use SBS’s digital services, information about your usage will automatically be gathered by SBS, or third parties contracted by SBS, through tracking devices including the use of cookies, web beacons and web server logs. These tracking devices are not used to record any personally identifiable information such as your name or email address. The information collected is aggregated, and is effectively anonymous to us.
 
@@ -63,13 +63,13 @@ SBS contracts with a range of third party providers for these purposes.
 
 The type of information gathered typically includes geographic location, date and time of site visits, your server (IP) address.
 
-**5\. By contacting or interacting with SBS for a specific reason such as lodging a complaint or applying for a job**
+**e) By contacting or interacting with SBS for a specific reason such as lodging a complaint or applying for a job**
 
 SBS may collect and hold personal and sensitive information about you in order to respond to any enquiries, or to carry out our business and operational functions, such as personnel management. The information we collect will depend on the type of information we need to manage these matters. 
 
 For example personnel records may include personal and sensitive information such as name, address, date of birth, disabilities, place of birth, ancestry, tax file number, and relationship information. Recruitment records may include employment history and experience, referees and other employment related information. SBS studio audience registration records may include sensitive information such as cultural background, political party affiliation and other organisation affiliation information. 
 
-**6\. Collecting personal information from children and young people**
+**f) Collecting personal information from children and young people**
 
 SBS is committed to providing a safe and welcoming digital environment for children and young people. Some of our activities, such as [SBS Learn](http://www.sbs.com.au/learn), are directed to children and young people. SBS may collect personal information directly from children and young people for the purpose of these activities. 
 
@@ -77,7 +77,7 @@ Where SBS considers that capacity to consent to the collection of the personal i
 
 If you are a parent or guardian, you should read and explain this Privacy Policy and any applicable house rules with your child if you think they may not understand how it applies.
 
-**7\. Information sourced from other parties**
+**g) Information sourced from other parties**
 
 In some circumstances, SBS may source information about you which is on the public record, or can be requested from third parties. For example, **** when you apply for a job or internship at SBS, SBS will seek information from you directly, but may also collect information about you from third parties (including your previous employers and recruitment consultants). 
 
