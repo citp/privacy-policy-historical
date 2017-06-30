@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zam.com privacy policy that was archived on 2016-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222151656id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zam.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630035021id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -17,17 +17,19 @@
 	<meta property="og:site_name" content="ZAM">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/css/reset.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/css/style.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/slick/slick/slick.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/css/color.css">
-	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/css/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/css/style.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/slick/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/css/color.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/css/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/font-awesome/css/font-awesome.min.css">
+    <link rel="icon" type="image/x-icon" href="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/favicon.ico">
 
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/jquery/jquery-2.2.0.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/fixto/fixto.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/owl/owl-carousel/owl.carousel.min.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/lightbox/lightbox.js"></script>
-	<script src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/js/js.cookie.js"></script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/jquery/jquery-2.2.0.js"></script>
+	<script src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/fixto/fixto.js"></script>
+	<script src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/owl/owl-carousel/owl.carousel.min.js"></script>
+	<script src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/lightbox/lightbox.js"></script>
+	<script src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/js/js.cookie.js"></script>
 
 	<script>
 		$(document).ready(function() {
@@ -94,26 +96,16 @@
 	<script type="text/javascript">
 		if (typeof MonkeyBroker === "undefined") {
 			ga("send", "event", "AdFillMonkeyBroker", "Ad Blocked", { nonInteraction: true });
-			MonkeyBroker.site = {
-				"id": 1836,
-				"customDomainName": 'mb.zam.com',
-				"reportBadAd": true,
-				"reportBadAdText": "Report Ad",
-				"lightboxCallback": function (e, t) {
-					var iframeAdReport = document.createElement("iframe");
-					iframeAdReport.src = e;
-					iframeAdReport.height = 0;
-					iframeAdReport.width = 0;
-					document.getElementsByTagName("body")[0].appendChild(iframeAdReport);
-
-					t.parentNode.removeChild(t);
-
-					alert("Thank you for your feedback, we will look into it!");
-				}
-			};
 		} else {
+			function getMBSiteId() {
+				if (typeof(I11C) !== "undefined" && I11C.Morph == 1) {
+					return 1836;
+				} else {
+					return 1802;
+				}
+			}
 			MonkeyBroker.site = {
-				"id": 1802,
+				"id": getMBSiteId(),
 				"customDomainName": 'mb.zam.com',
 				"reportBadAd": true,
 				"reportBadAdText": "Report Ad",
@@ -129,91 +121,96 @@
 					alert("Thank you for your feedback, we will look into it!");
 				}
 			};
-		}
-		MonkeyBroker.addAttribute('mb_pc', 'Other');
-		MonkeyBroker.addAttribute('mb_ri', 90);
+			MonkeyBroker.addAttribute('mb_pc', 'Other');
+			MonkeyBroker.addAttribute('mb_ri', 90);
 
-		MonkeyBroker.addSlot({
-			slot:'horizontal_all_static',
-			sizes:['970x250', '970x90', '728x90']
-		});
-		MonkeyBroker.addSlot({
-			slot: 'horizontal_btf_static',
-			sizes: ['22', '37', '38']
-		});
-		MonkeyBroker.addSlot({
-			slot: 'vertical_300x250_static',
-			sizes: ['300x250']
-		});
-		MonkeyBroker.addSlot({
-			slot: 'vertical_btf_static',
-			sizes: ['26', '39', '40', 'Stacked 300x250']
-		});
-
-		MonkeyBroker.addSlot({slot: 'skin', sizes: [30], dataTag: true});
-		MonkeyBroker.addSlot({ slot: 'header-tko', sizes: [41], rm: true})
-		MonkeyBroker.registerSizeCallback(30, function (data) {
-			$('body').addClass('takeover');
-
-			image = data['image'];
-			link = data['link'];
-			tracker = data['impressionTracking'];
-
-			$('body.takeover').css({
-				'background-image': 'url(' + image + ')'
+			MonkeyBroker.addSlot({
+				slot:'horizontal_all_static',
+				sizes:['970x250', '970x90', '728x90']
 			});
-			$('body.takeover').bind('click', function (evt) {
-				if(evt.target == $('body')[0]) {
-					window.open(link);
+			MonkeyBroker.addSlot({
+				slot: 'horizontal_btf_static',
+				sizes: ['22', '37', '38']
+			});
+
+			if ('static' != 'account') {
+				MonkeyBroker.addSlot({
+					slot: 'vertical_all_static',
+					sizes: ['300x600','300x250','160x600','Stacked 300x250']
+				});
+			}
+
+			if (window.innerWidth < 728) {
+                MonkeyBroker.addSlot({
+                    slot: 'sticky_static',
+                    sizes: ['320x50']
+                });
+            }
+
+			MonkeyBroker.addSlot({slot: 'skin', sizes: [30], dataTag: true});
+			MonkeyBroker.addSlot({ slot: 'header-tko', sizes: [41], rm: true})
+			MonkeyBroker.registerSizeCallback(30, function (data) {
+				$('body').addClass('takeover');
+
+				image = data['image'];
+				link = data['link'];
+				tracker = data['impressionTracking'];
+
+				$('body.takeover').css({
+					'background-image': 'url(' + image + ')'
+				});
+				$('body.takeover').bind('click', function (evt) {
+					if(evt.target == $('body')[0]) {
+						window.open(link);
+					}
+				});
+
+				if (tracker) {
+					$('body.takeover').append($('<img>').attr('src', tracker));
+				}
+
+				if ($('body.takeover .page').size() == 0) {
+					return;
+				}
+				var $pageDistance = $('body.takeover .page').offset().top;
+					$pageDistance -= $(".main-navigation").outerHeight();
+
+				$(window).scroll(function() {
+					if ($(window).scrollTop() >= $pageDistance ){
+						$('body.takeover').addClass('bg-fixed');
+					}
+					else {
+						$('body.takeover').removeClass('bg-fixed');
+					}
+				});
+			});
+
+			MonkeyBroker.go();
+
+		// mobile ad units
+		$(function () {
+			// dynamic ads on mobile content
+			$('section.article-wrapper main h2').each(function (i, item) {
+				if (i % 2 == 1) {
+					$(this).prepend($('<div class="ad_unit_mobile">'));
 				}
 			});
 
-			if (tracker) {
-				$('body.takeover').append($('<img>').attr('src', tracker));
-			}
-
-			if ($('body.takeover .page').size() == 0) {
-				return;
-			}
-			var $pageDistance = $('body.takeover .page').offset().top;
-				$pageDistance -= $(".main-navigation").outerHeight();
-
-			$(window).scroll(function() {
-				if ($(window).scrollTop() >= $pageDistance ){
-					$('body.takeover').addClass('bg-fixed');
+			loadMobileAds = function (e, item) {
+				elem = $(item);
+				if (!elem.is(":visible")) {
+					return;
 				}
-				else {
-					$('body.takeover').removeClass('bg-fixed');
-				}
-			});
+
+				MonkeyBroker.adPlacement({
+					sizes: ['300x250'],
+					el: elem.get(0)
+				});
+			};
+			$('.ad_unit_mobile').each(loadMobileAds);
+			$('body').on('blogroll:loadAd', loadMobileAds);
 		});
-
-		MonkeyBroker.go();
-
-	// mobile ad units
-	$(function () {
-		// dynamic ads on mobile content
-		$('section.article-wrapper main h2').each(function (i, item) {
-			if (i % 2 == 1) {
-				$(this).prepend($('<div class="ad_unit_mobile">'));
-			}
-		});
-
-		loadMobileAds = function (e, item) {
-			elem = $(item);
-			if (!elem.is(":visible")) {
-				console.log('skipping ad because not visible');
-				return;
-			}
-
-			MonkeyBroker.adPlacement({
-				sizes: ['300x250'],
-				el: elem.get(0)
-			});
-		};
-		$('.ad_unit_mobile').each(loadMobileAds);
-		$('body').on('blogroll:loadAd', loadMobileAds);
-	});
+	}
 	</script>
 	<!-- Start of Chartbeat -->
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -228,10 +225,12 @@
 					<span class="anon clear-fix" style="display: none">
 						<a class="user register" href="/account/register"><span>Register</span></a>
 						<a class="user login" href="/account/login"><span>Login</span></a>
+                        <a class="user help" href="http://help.zam.com"><span>Help</span></a>
 					</span>
 					<span class="logged-in clear-fix" style="display: none">
 						<a class="user account" href="/account/manage"><span></span></a>
 						<a class="user logout" href="javascript:;"><span>Logout</span></a>
+                        <a class="user help" href="http://help.zam.com"><span>Help</span></a>
 					</span>
 				</div>
 				<script>
@@ -267,7 +266,9 @@
 				<div class="right">
 					<div class="ad wide">
 						<script type="text/javascript">
-MonkeyBroker.fillSlot("horizontal_all_static");
+if (typeof MonkeyBroker !== "undefined") {
+	MonkeyBroker.fillSlot("horizontal_all_static");
+}
 </script>
 					</div>
 				</div>
@@ -291,13 +292,13 @@ MonkeyBroker.fillSlot("horizontal_all_static");
 						<li class="parent">
 							<a>Featured Sites</a>
 							<ul class="soft">
-								<li><a href="http://www.wowhead.com/">Wowhead</a></li>
-								<li><a href="http://www.lolking.net/">LolKing</a></li>
-								<li><a href="http://www.hearthhead.com/">Hearthhead</a></li>
-								<li><a href="http://overking.com/">Overking</a></li>
-								<li><a href="http://opshead.com/">Opshead</a></li>
-								<li><a href="http://www.destinydb.com/">Destiny DB</a></li>
-								<li><a href="http://www.tf2outpost.com/">TF2Outpost</a></li>
+								<li><a target="_blank" href="http://www.wowhead.com/">Wowhead</a></li>
+								<li><a target="_blank" href="http://www.lolking.net/">LolKing</a></li>
+								<li><a target="_blank" href="http://www.hearthhead.com/">Hearthhead</a></li>
+								<li><a target="_blank" href="http://overking.com/">Overking</a></li>
+								<li><a target="_blank" href="http://opshead.com/">Opshead</a></li>
+								<li><a target="_blank" href="http://www.destinydb.com/">Destiny DB</a></li>
+								<li><a target="_blank" href="http://www.tf2outpost.com/">TF2Outpost</a></li>
 								<!-- <li><a href="http://www.nexusmods.com/">Nexusmods</a></li> -->
 							</ul>
 						</li>
@@ -339,6 +340,13 @@ MonkeyBroker.fillSlot("horizontal_all_static");
 				</div>
 			</div>
 		</div>
+        <div class="bottom">
+            <script type="text/javascript">
+if (typeof MonkeyBroker !== "undefined") {
+	MonkeyBroker.fillSlot("sticky_static");
+}
+</script>
+        </div>
 		<div class="mobile-nav"></div>
 	</header>
 
@@ -502,13 +510,27 @@ MonkeyBroker.fillSlot("horizontal_all_static");
 				<div class="sticky-item">
 					<div class="ad vert">
 						<script type="text/javascript">
-MonkeyBroker.fillSlot("vertical_300x250_static");
+if (typeof MonkeyBroker !== "undefined") {
+	MonkeyBroker.fillSlot("vertical_all_static");
+}
 </script>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+	<div class="content-footer">
+		<div class="ad vert mobile-content">
+			<div class="ad_unit_mobile"></div>
+		</div>
+		<div class="ad wide">
+			<script type="text/javascript">
+if (typeof MonkeyBroker !== "undefined") {
+	MonkeyBroker.fillSlot("horizontal_btf_static");
+}
+</script>
+		</div>
+	</div>
 </div>
 
 	<footer id="main-footer">
@@ -518,11 +540,11 @@ MonkeyBroker.fillSlot("vertical_300x250_static");
 					<a class="logo soft" href="./"></a>
 					<a class="button wide anon" href="/account/register">Sign Up Now</a>
 					<div class="social-links clear-fix">
-						<a class="facebook" href="http://www.facebook.com/ZAMofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/images/spacer-1x1.png"></a>
-						<a class="twitter" href="http://twitter.com/zamofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/images/spacer-1x1.png"></a>
-						<a class="youtube" href="https://www.youtube.com/user/ZAMOfficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/images/spacer-1x1.png"></a>
-						<a class="twitch" href="http://www.twitch.tv/zam"><img src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/images/spacer-1x1.png"></a>
-						<a class="rss" href="/feeds/rss/"><img src="http://d17omnzavs9b58.cloudfront.net/d-OYPGXBRBJ/images/spacer-1x1.png"></a>
+						<a class="facebook" href="http://www.facebook.com/ZAMofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/spacer-1x1.png"></a>
+						<a class="twitter" href="http://twitter.com/zamofficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/spacer-1x1.png"></a>
+						<a class="youtube" href="https://www.youtube.com/user/ZAMOfficial"><img src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/spacer-1x1.png"></a>
+						<a class="twitch" href="http://www.twitch.tv/zam"><img src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/spacer-1x1.png"></a>
+						<a class="rss" href="/feeds/rss/"><img src="http://d17omnzavs9b58.cloudfront.net/d-5PKYEKK6N/images/spacer-1x1.png"></a>
 					</div>
 				</div>
 			</div>
