@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011310id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630123633id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
