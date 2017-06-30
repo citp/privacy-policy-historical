@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916040951id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630163958id_/http%3A//www.applebees.com/Privacy-Statement) for the most accurate reproduction.*
 
-# Applebee's Privacy Policy
+# Privacy Policy
 
-### DINEEQUITY PRIVACY POLICY
+## Dineequity privacy policy
 
 Last Updated: January 1, 2014
 
 DineEquity, Inc. is committed to safeguarding your privacy. We take your privacy seriously. This Privacy Policy (“ **Policy** ”) describes how DineEquity, Inc. and its affiliates, including International House of Pancakes, LLC and Applebee’s International, Inc. (“ **DineEquity** ,” “ **us** ,” “ **our** ,” and “ **we** ”) collect, use and disclose personal information of customers who use our services and websites, including [dineequity.com](http://www.dineequity.com/), [ihop.com](http://www.ihop.com/), [applebees.com](http://www.applebees.com/), our mobile websites, mobile applications, social networking or other interactive media sites, and other online or mobile services that link to this Policy (each, a “ **Site,”** and collectively, the “ **Sites”** ). This Policy does not apply to third party websites and services.
 
-**By using the Site, you agree to the terms of this Policy. If you do not agree with the terms of this Policy, do not use the Site.** Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+**By using the Site, you agree to the terms of this Policy.** **If you do not agree with the terms of this Policy, do not use the Site.** Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 DineEquity has operations in many international locations and partners with companies around the world. DineEquity offers many country specific websites; this site is intended for U.S. audiences only. If you are visiting this Site from outside of the U.S., communications with our Sites will necessarily result in the transfer of information across international boundaries. If you are located in the European Economic Area (“ **EEA”** ), your data may be transferred from the EEA to countries, including the U.S., which do not have data protection laws comparable to those in the EEA. By visiting this Site and communicating electronically with us, you consent to your data being transferred to and processed by DineEquity and its partners and service providers in the U.S. and other counties outside of the EEA as set out in this Privacy Policy and subject to the laws of the U.S. Please do not use our Sites if it is illegal to do so in your country. 
 
 We may update this Policy from time to time, so please check this page periodically for updates. When we update the Policy, we will post the new Policy on this page and change the date at the top of the Policy. We will notify you of any material changes to the Policy.
 
-#### WHAT INFORMATION DOES DINEEQUITY COLLECT?
+### What information does DineEquity collect?
 
 DineEquity or a third party service provider may collect the following types of personal information:
 
@@ -36,7 +36,7 @@ DineEquity or third party service providers may also collect aggregated or anony
 
 DineEquity is not responsible for any personal information or other data that franchisees of DineEquity or its affiliates choose to collect.
 
-#### HOW DOES DINEEQUITY USE PERSONAL INFORMATION?
+### How does Dineequity user personal information?
 
 DineEquity may use information collected to:
 
@@ -49,7 +49,7 @@ DineEquity may use information collected to:
 
 
 
-#### DOES DINEEQUITY SHARE PERSONAL INFORMATION?
+### Does DineEquity share personal information? 
 
 DineEquity will not disclose your personal information to third parties, except as provided below. We may share your personal information under the following limited circumstances:
 
@@ -63,15 +63,15 @@ DineEquity will not disclose your personal information to third parties, except 
 
 
 
-#### HOW DOES DINEEQUITY SECURE PERSONAL INFORMATION
+### How does DineEquity secure personal information?
 
 DineEquity takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information. Although no transmission of data over the Internet or other public network can be guaranteed to be 100% secure, DineEquity makes reasonable efforts to protect any information you share with us.
 
-#### HOW DOES DINEEQUITY TREAT INFORMATION FROM CHILDREN?
+### How does DineEquity treat information from children?
 
 DineEquity does not intend for any portion of the Site to be accessed or used by children under the age of thirteen, nor does DineEquity intend to collect any personally identifiable information from children under the age of thirteen. By using the Site, you are representing that you are not under the age of thirteen. If we obtain knowledge that a child under the age of thirteen has provided us with personally identifiable information, we will promptly delete such information.
 
-#### WHAT CHOICES DOES DINEEQUITY OFFER ABOUT PERSONAL INFORMATION?
+### What choices does DineEquity offer about personal information?
 
 You may contact us at the email address or phone number below if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
 
@@ -89,12 +89,11 @@ When you download our mobile apps, you may be able to manage how your mobile dev
 
 Please note that any information you choose to provide in a public setting, such as on DineEquity social network pages, is not only provided to DineEquity but may also be shared publicly. Use caution when posting or sharing information on social networking sites. You may also be able to manage the sharing of certain personal information when you connect with us through social networks by adjusting the privacy or security settings of your social network accounts.
 
-#### YOUR CALIFORNIA PRIVACY RIGHTS
+### Your California privacy rights
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits California residents to request annually, free of charge, information about what personal information DineEquity disclosed to third parties, including affiliates, for direct marketing purposes. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which DineEquity shared information in the immediately preceding calendar year. California residents may make such requests in writing to:
 
-Dine Equity:  
-
+Dine Equity:
 
 **Dine Equity, Inc.**  
 **Attention: Privacy Desk**  
@@ -102,8 +101,7 @@ Dine Equity:
 **Glendale, CA 91203**  
 **[privacydesk@dineequity.com](mailto:privacydesk@dineequity.com)**
 
-IHOP:  
-
+IHOP:
 
 **International House of Pancakes, LLC**  
 **Attention: Privacy Desk**  
@@ -111,8 +109,7 @@ IHOP:
 **Glendale, CA 91203**  
 **[privacydesk@ihop.com](mailto:privacydesk@ihop.com)**
 
-Applebee's:  
-
+Applebee's:
 
 **Applebee's International, Inc.**  
 **Attention: Privacy Desk**  
@@ -120,12 +117,11 @@ Applebee's:
 **Kansas City, MO 64114**  
 **[privacydesk@applebees.com](mailto:privacydesk@applebees.com)**
 
-#### CONTACT US
+### Contact us
 
 Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via email or via postal mail at the following addresses:
 
-Dine Equity:  
-
+Dine Equity:
 
 **Dine Equity, Inc.**  
 **Attention: Privacy Desk**  
@@ -133,8 +129,7 @@ Dine Equity:
 **Glendale, CA 91203**  
 **[privacydesk@dineequity.com](mailto:privacydesk@dineequity.com)**
 
-IHOP:  
-
+IHOP:
 
 **International House of Pancakes, LLC**  
 **Attention: Privacy Desk**  
@@ -142,8 +137,7 @@ IHOP:
 **Glendale, CA 91203**  
 **[privacydesk@ihop.com](mailto:privacydesk@ihop.com)**
 
-Applebee's:  
-
+Applebee's:
 
 **Applebee's International, Inc.**  
 **Attention: Privacy Desk**  
