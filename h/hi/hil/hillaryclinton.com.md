@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231080708id_/https%3A//hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231236id_/https%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Legal | Hillary for America
 
