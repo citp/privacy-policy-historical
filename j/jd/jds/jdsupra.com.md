@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128160316id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202920id_/http%3A//jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
-# JD Supra
+# Privacy Policy | JD Supra
 
 ## Updated: October 8, 2015:
 
