@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231021252id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems-and-quotes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630075013id_/http%3A//www.poems-and-quotes.com/privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy Statement
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20161231021252id_/http%3A//www.poems-and-quotes.com/contact.html).
+This statement discloses privacy policy of Poems & Quotes. Please, [contact us](http://www.poems-and-quotes.com/contact), if you have any further questions.
 
 ## Information Collection and Use
 
@@ -10,16 +10,12 @@ Poems & Quotes will not sell, share, or rent information voluntarily given to us
 
 ## Our E-publications
 
-If a user wishes to subscribe for our e-publications, we ask for contact information such as name and e-mail address. We have never purchased or used e-mail lists in order to spam. Users who no longer wish to receive our e-publications or promotional materials may opt-out of receiving these communications. Unsubscribe instructions are contained in every subscriber-based e-publication.
+If a user wishes to subscribe for our e-publications, we ask for contact information such as name and e-mail address. We have never purchased or used e-mail lists in order to spam. Users who no longer wish to receive our e-publications or promotional materials may opt-out of receiving these communications. Un-subscribe instructions are contained in every subscriber-based e-publication.
 
 ## User registration
 
-During registraton new user is asked to submit his/her name and e-mail address. The information collected in this sections is not used in any other way than to identify the origin of submissions and to display it along with them on our website.
-
-## Send Poem
-
-Our send poem to a friend services require visitors to enter names or nicknames and e-mail addresses of the sender and the recipient of a poem and may contain private information inside. Poems & Quotes does not share this information with third parties and we do not collect or use e-mail addresses of the senders or the recipients for any purposes. Poems & Quotes takes no responsibility for incorrect information supplied by the sender.
+During registration new user is asked to provide name and e-mail address. This information is not used in any other way than to identify the origin of submissions and to display authors name along with submissions on this site.
 
 ## Third-party advertising companies
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party advertising companies to serve ads when you visit this web site. These companies may use aggregated information about your visits to this and other web sites in order to provide advertisements about various goods and services. 
