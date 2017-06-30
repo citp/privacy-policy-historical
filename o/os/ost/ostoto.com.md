@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ostoto.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220124422id_/http%3A//www.ostoto.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ostoto.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210729id_/http%3A//www.ostoto.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | OSToto
+# Privacy Policy
 
 OSToto software is committed to protecting your privacy. In order to provide full range of services, we may collect your visiting cookies and log information.
 
