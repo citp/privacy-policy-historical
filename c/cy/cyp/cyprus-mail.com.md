@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyprus-mail.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617164305id_/http%3A//cyprus-mail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyprus-mail.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152403id_/http%3A//cyprus-mail.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Cyprus Mail Cyprus Mail
+# PRIVACY POLICY - Cyprus Mail
 
 __Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) and from now on will be referred as the “Site”. If you do not accept this privacy policy and cookies notice, do not use this Site.  
 About **CYPRUS MAIL COMPANY LTD**.
