@@ -1,59 +1,86 @@
-> *The following text is extracted and transformed from the outsourcing.org privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514041426id_/http%3A//www.outsourcing.org/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsourcing.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630020014id_/https%3A//www.contrib.com/home/privacy) for the most accurate reproduction.*
 
-# Outsourcing Directory User Registration
+# Privacy Policy - Contrib.com
 
-Our Privacy Policy describes the information, as part of the normal operation of services that we collect from you and what may happen to that information. 
+## What information do we collect? 
 
-By accessing the website, you expressly consent to the information collection and use practices described herein. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. 
 
-**1\. What information is collected?**
+**What do we use your information for?**
 
-  * **Registration data** is collected during the new user registration process and includes information provided by you such as name, address, telephone/facsimile number, email address and other details about your business or the services you provide. 
-  * **Publishable data** is information you submit to us for publication on our website. By submitting such information, you consent to its publication in any form.
-  * **Account information** is collected when you establish an account with Outsourcing.org (or its designees) and includes all required billing and transaction data.
-  * **Statistical data** is anonymous website usage information that is collected for administration and analysis purposes. Statistical data does not include any personally identifying details, but does include your IP address, your ISP's details, time and date of your visit, your browser type/version, your operating system, the pages you viewed and your entry/exit links.
+Any of the information we collect from you may be used in one of the following ways:
 
-
-
-**2\. How do we use information we collect?**
-
-The information collected above is used to service your account, to enhance our marketing efforts and to analyze website usage. Outsourcing.org does not sell, rent, trade or exchange any personally-identifying information. We may share anonymous statistical information with our partners and advertisers. You may 'opt-in' to have certain information of yours shared with carefully selected organizations and advertisers.
-
-  * **Registration data** is used to provide services that you request, and to contact you regarding related products and announcements. We may contact you periodically with marketing-related communications relevant to you. You may set your preferences relating to receipt of such communication in the "My Account" area.
-  * **Publishable data** submitted to us online becomes available on the website, and therefore, accessible to the general public. By disclosing such data, you consent that it be made public, without reservation, and thereby relinquish any proprietary rights you may have to it. Please exercise prudence when deciding what to submit for publishing on the website. Data, once published, becomes the property of Outsourcing.org, and the request for removal of any such data must be made in writing to Outsourcing.org, and removal is at the sole discretion of Outsourcing.org. Similarly, Outsourcing.org maintains all rights of refusal when selecting data to be admitted to the site, at its sole discretion.
-  * **Account Information** is shared with banks or other institutions relevant to the processing of transactions. Outsourcing.org may determine your creditworthiness through banks and credit agencies using your Account Information. Your credit card details will be transmitted to the appropriate financial institution(s) for processing. Outsourcing.org uses secure technology, and strict internal procedures, to protect your Account Information. Be aware that no technology can guarantee absolute security, and Outsourcing.org shall not be liable for any damages that might result from unauthorized use, publication, disclosure or other misuse of your Account Information. Please contact the financial institution that issues your credit card or other banking information for additional details that may relate to your personal account.
-  * **Statistical data** is used by us to ensure optimal relevance, performance and usability of our website. No personally identifying information is collated or disseminated.
+  * To personalize your experience
+   (your information helps us to better respond to your individual needs)
+  * To improve our website
+   (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service
+   (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
+   Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason    whatsoever,without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send periodic emails
+   The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to    receiving occasional company news, updates, related product or service information, etc. 
 
 
+## How do we protect your information? 
 
-**3\. Legal Disclosure of information**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-Outsourcing.org reserves the right to disclose information collected to the relevant authorities if there is reason to believe that such disclosure is necessary to identify and/or prevent illegal or harmful activities. Outsourcing.org reserves the right to disclose information collected in response to a subpoena, or other judicial order, when required by law. Outsourcing.org reserves the right to disclose information collected if there is reason to believe that a user is breach of our Terms of Service, or other agreement with us. Outsourcing.org may disclose your information to pursue a claim and/or prevent further injury or damage. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**4\. Third-Party Partnerships**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Outsourcing.org has relationships with third party organizations, which offer products and services deemed useful to our users. The Outsourcing.org website has links to third party websites and/or co-branded websites. We have no control over the information submitted to third parties. Outsourcing.org recommends you familiarize yourself with all privacy policies and terms of service agreements before submitting any information online, and any information submitted by you to such third parties is at your own volition and risk.
+## Do we use cookies? 
 
-**5\. Cookies**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-"Cookies" are used by many websites, including Outsourcing.org, to store information about visitors to the site. A "cookie" is a small data file, which is sent to your browser and is stored on your computer. "Cookies" enable website operators to acknowledge your visits, track your usage patterns and identify you. Outsourcing.org uses cookies to identify registered users and access their information, eliminating the need to re-enter the same information on subsequent visits. We also use cookies to help target advertisements and track special offerings and promotions. Your browser allows you to configure whether cookies are accepted, and, if so, how they are used. Disabling cookies on your browser may render some features of our site unavailable. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-**6\. Protection of minors**
+## Do we disclose any information to outside parties?
 
-Neither the Outsourcing.org website, nor the products and services offered therein, are intended to be targeted to minors. We have no way of determining the age of individuals accessing the website. If a parent or guardian is aware of information provided by a minor without their consent, they should contact us forthwith. We will make every effort to remove such information promptly.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**7\. Site Security**
+## Third party links
 
-Outsourcing.org employs commercially reasonable security mechanisms to prevent unauthorized access to our website, and to maintain data integrity. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-We recommend that our users select secure passwords and do not divulge them to others. Our staff will never request that you divulge your password. If you access the website from a shared computer, please ensure you logout completely when you end your session.
+## California Online Privacy Protection Act Compliance
 
-While we make every reasonable effort to maintain high security, no website can absolutely guarantee the security. When you disclose or transmit to us, you do so at your own risk. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. 
 
-**8\. Changes to the Privacy Policy**
+## Childrens Online Privacy Protection Act Compliance
 
-Periodically, we make changes to our Privacy Policy. The most recent Privacy Policy is posted on our website. By using the website, you acknowledge that all information collected is governed by the latest Privacy Policy in effect. If you do not agree to any changes to our Privacy Policy, please write to Outsourcing.org to request the return or destruction of your collected information.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**9\. Corrections and feedback**
+## Online Privacy Policy Only
 
-You can view and edit your information on our website at any time (link to My Account). We strive to provide the best possible service to our users, and we welcome your comments and suggestions. 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.contrib.com/tos
+
+## Your Consent
+
+By using our site, you consent to our privacy policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on 8/23/2010
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+**www.domainholdings.com**  
+PO Box 1567  
+Stony brook, NY 11790  
+USA  
+Privacy@domainholdings.com  
+
+
+## No Guarantees
+
+While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, we are not in a position to guarantee compliance with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we make no warranties or representations as regards maintenance or nondisclosure of data.
