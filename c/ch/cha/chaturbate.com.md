@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chaturbate.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231131348id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbate.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193401id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chaturbate
 
 Effective Date: March 4, 2014
 
-Last Modified: March 4, 2014
+Last Modified: April 6, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“Chaturbate,” “we,” “our”). By using our Services and/or registering with Chaturbate, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as Chaturbate adheres to the standards set forth more clearly below.
 
