@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602103522id_/https%3A//www.lottoland.com.au/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630102758id_/https%3A//www.lottoland.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Lottoland.com.au
+# Privacy Policy - Lottoland Australia - Lottoland.com.au
 
 ##  1 General 
 
@@ -106,7 +106,7 @@
 
 ####  (iii) necessary to co-operate with the judicial process of a law enforcement agency or lawful investigations of a law investigative agency; 
 
-####  (iv) necessary to protect and defend the rights or property of Betfred, our Website, or partner websites; or 
+####  (iv) necessary to protect and defend the rights or property of Lottoland, our Website, or partner websites; or 
 
 ####  (v) necessary to lessen, prevent or detect unlawful activity or serious threats to individuals, public health or safety or the integrity of any sporting or other event. 
 
