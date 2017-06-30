@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsglobal.com.au privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122085706id_/http%3A//www.smsglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsglobal.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630144645id_/http%3A//smsglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SMS Gateway - Web SMS, Email SMS & SMS APIs - SMSGlobal
 
