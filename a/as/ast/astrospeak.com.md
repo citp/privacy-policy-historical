@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrospeak.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233842id_/http%3A//www.astrospeak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrospeak.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630112627id_/http%3A//www.astrospeak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy Astrospeak | Astrospeak.com
 
@@ -82,13 +82,13 @@ However the internet is an ever evolving medium. We may change our privacy polic
   
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to astrospeak@timesinternet.in to 
 
-Ms.Deepa Kalra ("Grievance Officer") 
+Mr. Mohit Bhardwaj ("Grievance Officer") 
 
 **Grievance Redressal**
 
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
 
-Ms.Deepa Kalra **(Grievance Officer)**
+Mr. Mohit Bhardwaj **(Grievance Officer)**
 
   
 **Times Internet Limited**
@@ -108,6 +108,8 @@ Times Centre, FC - 6, First Floor, Sector 16-A,
 Film City, Noida - 201301, Uttar Pradesh, India 
 
 Ph: 0120 – 6636959 
+
+Email: astrospeak@timesinternet.in 
 
 We request you to please provide the following information in your complaint:- 
 
