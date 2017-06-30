@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexprofitaccelerator.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085934id_/http%3A//www.profitsrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexprofitaccelerator.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630053951id_/http%3A//www.profitsrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Profits Run - Privacy Policy
 
