@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refworld.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040433id_/http%3A//www.refworld.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refworld.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630162419id_/http%3A//www.refworld.org/privacy.html) for the most accurate reproduction.*
 
 # Refworld | UNHCR Refworld Privacy Policy
 
