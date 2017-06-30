@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingmuscle.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122231449id_/http%3A//breakingmuscle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingmuscle.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630151856id_/http%3A//breakingmuscle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking Muscle
 
