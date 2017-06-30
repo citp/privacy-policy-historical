@@ -1,64 +1,69 @@
-> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301202344id_/http%3A//electricliterature.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# Privacy Policy – Electric Literature
+# Medium Privacy Policy – Medium Policy – Medium
 
-**Welcome to Electric Literature or electricliterature.com (the “Site”).**
+**Effective Date: March 7, 2016**
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Your Site (collectively, “Services”) (”Authorized Customers”).
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-**“Personally Identifiable Information”** refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+#### General information
 
-**What Personally Identifiable Information is collected?**
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+#### What we may collect
 
-**What organizations are collecting the information?**
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
 
-**How does the Site use Personally Identifiable Information?**
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+#### Email from Medium
 
-**With whom may the information may be shared?**
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
-**How is Personally Identifiable Information stored?**
+#### Disclosure of your information
 
-Personally Identifiable Information collected by Your Site is securely stored and is not accessible to third parties or employees of Your Site except for use as indicated above.
+As a rule, we don’t share your personal information outside the company.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**
+We won’t sell your personal information.
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at editors@electricliterature.com  
-Are Cookies Used on the Site?
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
 
-**How does Your Site use login information?**
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
 
-Your Site uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.  
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+#### Cookies
 
-Your Site has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
-**How does the Site keep Personally Identifiable Information secure?**
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**
+#### Data Storage
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at editors@electricliterature.com
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
+####  **Modifying your personal information or deleting your  account**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting editors@electricliterature.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
-What happens if the Privacy Policy Changes?
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-**Links:** This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+If you delete your account, your account and content may be unrecoverable.
 
-_© 2011 Electric Literature, electricliterature.com, All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited._
+#### Data security
+
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
+
+#### Changes to this Policy
+
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+
+#### Questions
+
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
