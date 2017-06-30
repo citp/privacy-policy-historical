@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107200800id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630093027id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
-# Porch | About
+# Porch | Privacy
 
 Effective Date 10/19/2016
 
