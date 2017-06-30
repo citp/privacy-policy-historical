@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skippyads.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220132406id_/http%3A//skippyads.com/publishers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skippyads.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230915id_/http%3A//skippyads.com/publishers/privacy) for the most accurate reproduction.*
 
 # Skippy Ads - Privacy Policy
 
