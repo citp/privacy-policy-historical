@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018082441id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630123926id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BitPay
 
@@ -43,7 +43,7 @@ We may collect information about a visitor’s computer or other access devices 
 
 We may use this information for risk-management purposes (i.e. to verify merchant’s identity or address). We may also obtain information about our merchants from third parties such as credit bureaus and identity verification services. We ensure that such third parties adhere to the same data protection principles as BitPay.
 
-  3.  **Shoppers of merchants** : when a Shopper overpays or underpays an invoice created by a BitPay merchant, the Shopper will be requested to fill in the following:
+  3.  **Shoppers of merchants** : when a Shopper wants to pay an invoice created by a BitPay merchant, the Shopper will be requested to fill in the following:
     * Email address
 
 This information is requested since it will enable our system to send an email to Shoppers directly to obtain a bitcoin refund address in case of a payment exception (e.g. overpayments, underpayments, etc.). This creates a more seamless payment experience for both our Merchants and their Shoppers. 
