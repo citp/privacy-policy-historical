@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003423id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630064517id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 GigaPurbalingga  
 http://gigapurbalingga.com/  
-purbalingga, jawa tengah, Indonesia  
-gilang@gigapurbalingga.com
+Jawa Tengah, Indonesia  
+admin@gigapurbalingga.com
 
 This document was last updated on February 21, 2014
