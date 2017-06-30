@@ -1,2424 +1,592 @@
-<!--The following is the downloaded HTML source of the information-management.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124201939id_/http%3A//www.information-management.com/about/privacy.html) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-		  	
-				
-				
-				
-				
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-					<title>Privacy Policy</title>
-	<link rel="Shortcut Icon" href="http://cdn.information-management.com/media/ui/favicon.ico">
-	<link rel="apple-touch-icon" href="http://cdn.information-management.com/media/ui/imt-apple-touch-icon-precomposed.png">
-
-			
-	                            	
-		
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//c.lytics.io/api/tag/103fde727a1ea242164d0420f5e2bcdf/lio.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
-	{
-		"@context" : "http://schema.org",
-		"@type" : "Organization",
-		"name" : "Information Management",
-		"url" : "http://www.information-management.com",
-		"logo" : "http://cdn.information-management.com/media/ui/imt-apple-touch-icon-precomposed.png",
-		"sameAs" : [
-			"https://www.facebook.com/InfoMgmt",
-			"https://www.linkedin.com/groups/Information-Management-information-professional-3997215",
-			"https://plus.google.com/+Informationmanagement1",
-			"https://twitter.com/infomgmt"
-		],
-		"contactPoint" : [{
-			"@type" : "ContactPoint",
-			"telephone" : "+1-800-221-1809",
-			"email" : "custserv@sourcemedia.com",
-			"contactType" : "customer support"
-		}]
-	}
-</script>
-
-	  		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<link href="https://plus.google.com/+Informationmanagement1" rel="publisher">
-
-			<meta name="keywords" content="information management, privacy policy, PII">
-			<meta name="description" content="This policy covers Information Management’s treatment of personally identifiable information collected when you are on the Information Management site.">
-
-	
-				
-	<meta property="og:title" content="Privacy Policy">	<meta property="og:site_name" content="Information Management">		<meta property="og:description" content="This policy covers Information Management’s treatment of personally identifiable information collected when you are on the Information Management site.">
-			<meta property="og:image" content="http://cdn.information-management.com/media/ui/informationmgmt-socialshare-logo.png">
-	
-	
-	<!-- jQuery / Fancybox dependants-->
-	<script src="//code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
-	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
-	
-					
-								
-				
-			
-		
-<script>
-		window.showInterstitial = false;
-		window.showWelcomeAd = false;
-</script>
-
-		
-	<link rel="stylesheet" type="text/css" href="http://cdn.information-management.com/css/wa-styles.css">
-		<style>		
-											#wait { display: none; }
-			
-	</style><!-- /css overrides -->		
-					
-			
-
-		
-	<script>
-	(function($){ // anon function
-		var debug = false;
-		
-		window.welcomeId = 'imt';
-		if (debug) console.log("Welcome Id: "+welcomeId);
-		welcomeId += welcomeId ? '_' : '';
-		var waDomain = ".information-management.com";
-				
-		// General Cookie functions
-		setCookie = function(cookieName, cookieValue, expire) {
-			if (expire) {
-				var expires = "; expires=" + expire.toGMTString();
-			}
-			else var expires = "";
-			document.cookie = cookieName + "=" +  escape(cookieValue) + "; domain=" + escape(waDomain) + expires + "; path=/";
-		}
-		
-		getCookie = function(cookieName) {
-			var i,x,y,ARRcookies=document.cookie.split(";");
-			for (i=0;i<ARRcookies.length;i++) {
-				x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-				y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-				x=x.replace(/^\s+|\s+$/g,"");
-				if (x==cookieName) {
-					return unescape(y);
-				}
-			}
-			return null;
-		}
-	
-		function deleteCookie (name) {
-			var exp = new Date();
-			exp.setTime (exp.getTime() - 1);
-			var cval = getCookie (name);
-			document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-		}
-		// END - General Cookie functions
-
-		if (debug) console.log('function loaded and called.');
-
-		// check if the welcome ad should fire
-		var userAgent = navigator.userAgent;
-		if (userAgent.indexOf("Sailthru Content Spider") == -1){
-			var now = (new Date()).getTime();
-			var interval = (2-0) * 60000;
-			var maxCount = 1 - 0;
-			var expire = (new Date()).getTime() + (24-0) * 3600000;
-			expire = new Date(expire);
-			if (getCookie(welcomeId + "wa_first") == null) { // never seen
-				setCookie(welcomeId + "wa_first", now, expire);
-				setCookie(welcomeId + "wa_last", now, expire);
-				setCookie(welcomeId + "wa_count", 1, expire);
-				showInterstitial = 'Welcome Ad';
-				showWelcomeAd = true;
-				if (debug) console.log('NEW. now: '+now+', expire: '+expire+', count: 1');
-			} else {
-				var count = getCookie(welcomeId + "wa_count") - 0;
-				var last_seen = getCookie(welcomeId + "wa_last") - 0;
-				if (interval > 0 && last_seen + interval < now && count < maxCount) {
-					setCookie(welcomeId + "wa_last", now, expire);
-					setCookie(welcomeId + "wa_count", count + 1, expire);
-					showInterstitial = 'Welcome Ad';
-					showWelcomeAd = true;
-					if (debug) console.log('now: '+now+', expire: '+expire+', count: '+(count+1)+' of '+maxCount);
-				} else if (debug) {
-					console.log('now: '+now+', expire: '+expire+', count: '+count+' of '+maxCount+', next: '+(last_seen+interval)+', diff: '+(last_seen+interval-now));
-				}
-			}
-			if (debug) console.log('showInterstitial: '+showInterstitial+', showWelcomeAd: '+showWelcomeAd);
-		} // end showWelcomeAd check
-
-		if (showWelcomeAd){
-		
-			$(function(){ // doc ready
-				if (debug) console.log('showing ad');
-			
-				function goBack(){
-					$('.welcome-overlay').hide();
-					$('html, body').css({overflow:""});
-				}
-				
-				var timer = 10000;
-				var count= timer/1000;
-				var timeSpent=0;
-				var counter;
-				function countdown(){
-					timeSpent++;
-					if (count-- <= 0) {
-						clearInterval(counter);
-						ga('send', 'event', 'Overlay Welcome Ad', 'Auto Redirect to Site', {'nonInteraction':1});
-						goBack();
-						return;
-					}
-				}
-				counter=setInterval(countdown, 1000); //1000 will run it every 1 second
-
-				ga('send', 'event', 'Overlay Welcome Ad', 'Impression', {'nonInteraction':1});
-				$('#wait').click(function() {
-					clearInterval(counter);
-					goBack();
-					ga('send', 'event', 'Overlay Welcome Ad', 'Skip Ad', 'Time Spent on Ad',timeSpent, {'nonInteraction':1});
-				});
-								setTimeout(function(){$('#wait').show();},1500);
-							}); // end doc ready
-		} // end if showWelcomeAd		
-
-	})(jQuery);
-	</script>
- 
-	
-	<script type="text/javascript" src="http://cdn.information-management.com/media/js/twitter/jquery.tweet.js"></script>
-	<script type="text/javascript" src="http://cdn.information-management.com/media/js/jquery.site-functions.js"></script>
-	<script type="text/javascript" src="http://cdn.information-management.com/media/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-	<link rel="stylesheet" href="http://cdn.information-management.com/media/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
-	<link href="http://fonts.googleapis.com/css?family=Roboto:700,500,400" rel="stylesheet" type="text/css">
-
-						
-
- 	
-  								
-					
-									  				  					  
-				  				  				  					  
-				  				  				  					  
-				
-				
-	  
-
-		
-  
-		<link rel="stylesheet" type="text/css" media="Screen" href="http://cdn.information-management.com/css/site-styles.css?v=11241614">
-
-	<!--[if IE 6]>
-		<link rel="stylesheet" type="text/css" media="Screen" href="/css/style.css" />
-	  <link rel="stylesheet" type="text/css" media="Screen" href="/css/jquery.tooltip.css" />
-	  <link rel="stylesheet" type="text/css" href="http://cdn.information-management.com/media/js/jcarousel/skins/tango/skin.css" />
-	  <link rel="stylesheet" type="text/css" href="/css/basic.css" />
-	  <link rel="stylesheet" type="text/css" href="/css/boxes.css" />
-	  <link rel="stylesheet" type="text/css" href="/css/override.css" />
-	<![endif]-->
-
-				
-	<!--[if IE 7]>
-    <style>
-		#two-col-layout {
-			overflow:visible;
-		}
-		#footer {
-			display:inline-block;
-		}
-		#content {
-			display:inline-block;
-		}
-    </style>
-  <![endif]-->
-
-    <!--[if lt IE 7]>
-    <script src="http://cdn.information-management.com/media/js/ie7/IE9.js"></script>
-  <![endif]-->
-  
-  <!--[if IE 6]>
-    <style>
-	  .web-search-box {
-	   	width: 175px;
-		}
-		.index-2col .col1 {
-	   margin: 0 15px 0 0;
-	   width: 300px;
-		}
-		.col2-text {
-			margin-right: 0px;
-		}
-    </style>
-  <![endif]-->
-
-	<script type="text/javascript" src="http://cdn.information-management.com/media/js/site-utilities.js"></script>
-
-	<script type="text/javascript">function addClassNames() { return false; }</script>
-
-		
-	
- 
-
-	<link rel="alternate" type="application/rss+xml" href="http://www.information-management.com/reader_services/rss.html" title="Information Management - RSS Feeds">
-
-	<script type="text/javascript">
-	addOnLoadEvent('if (document.getElementById("ranking-table")) alternate("ranking-table");');
-	</script>
-
- 
-		 
-			  	
-
-	
-<!-- Start Google Analytics Code -->
-<!-- Universal GA code for all sites -->
-<script>
-	window.intDomain = 'information-management.com';
-</script>
-<script src="http://cdn.information-management.com/custom/js/ga-config.js"></script>
-<script src="http://cdn.information-management.com/custom/js/ga-pre.js"></script>
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  
-	ga('create', 'UA-219761-26', 'information-management.com', {
-		'allowLinker': true
-	});
-	ga('require', 'linkid', 'linkid.js'); 
-	ga('require', 'linker');
-	ga('require', 'displayfeatures');
-	ga('linker:autoLink', ['sourcemediaconferences.com']);
-	ga('set', 'dimension3', 'non-registered-user');
-	ga('set', 'dimension4', 'No');
-	ga('set', 'dimension8', (new Date()).getHours());
-	ga('set', 'dimension18', 'WW_201611|undefined');
-	
-	
-	ga('send', 'pageview');
-	
-</script>
-<script src="http://cdn.information-management.com/custom/js/jquery.ga-clicks.js"></script>
-
-
-			
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-
-
-
-	
-		
-	
-
-			
-			
-
-
-						<script type="text/javascript">
-			(function() {
-				var useSSL = 'https:' == document.location.protocol;
-				var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-				document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-			})();
-		</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-		<script>
-		
-if (showWelcomeAd) { var welcomead = googletag.defineSlot("/16059533/InformationManagement", [640, 480], "welcomead")
-	.addService(googletag.pubads())
-	.setTargeting("im_pos", "welcomead") };
-var collapsed_header = googletag.defineSlot("/16059533/InformationManagement", [[728, 90],[970, 90],[970, 91],[970, 250]], "collapsed_header")
-	.addService(googletag.pubads())
-	.setTargeting("im_pos", "collapsed_header")
-	.setTargeting("roadblock", "true");
-var bigbox1 = googletag.defineSlot("/16059533/InformationManagement", [[300, 250],[300, 600]], "bigbox1")
-	.addService(googletag.pubads())
-	.setTargeting("im_pos", "bigbox1");
-googletag.pubads().enableSyncRendering();
-//googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-		</script>
-		
-
-<script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script><script type="text/javascript" async="" src="https://s.dpmsrv.com/dpm_c415505dca69be631ca5d391b3ccd2b44b52d017.min.js"></script></head>
-
-<body id="">
-	
-
-<!-- Start Lytics -->
-<script type="text/javascript">
-window.jstag=function(e){var t={_q:[],_c:{},ts:(new Date).getTime()},e=!1,i=(window,document),n="/static/io",s=".min.js",r=Array.prototype.slice,a="//c.lytics.io",c="//c.lytics.io",o="io";return t.init=function(e){return c=e.url||c,s=e.min===!1?".js":s,o=e.tag||o,t._c=e,this},t.load=function(){var t,r=i.getElementsByTagName("script")[0];return e=!0,i.getElementById(n)?this:(t=i.createElement("script"),n=a+"/static/"+o+s,t.id=n,t.src=n,r.parentNode.insertBefore(t,r),this)},t.bind=function(t){e||this.load(),this._q.push([t,r.call(arguments,1)])},t.ready=function(){e||this.load(),this._q.push(["ready",r.call(arguments)])},t.send=function(){return e||this.load(),this._q.push(["ready","send",r.call(arguments)]),this},t}(),window.jstag.init({ cid: "103fde727a1ea242164d0420f5e2bcdf", url:'//c.lytics.io', min:false }),function(t){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//c.lytics.io/api/tag/"+t+"/lio.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(e,i)}("103fde727a1ea242164d0420f5e2bcdf");
-</script>
-<!-- End Lytics -->	
-
-	
-	
-
-	
-	
-			
-		<div class="welcome-overlay" style="display:none;">
-			<div class="interstitial_ad_wrapper">
-				<div class="header">
-					<div class="thought_of_the_day">
-						<img class="welcome-logo" src="http://cdn.information-management.com/media/newspics/logo-informationmanagement-transN.png" alt="">
-					</div>
-					<div class="continue">
-						<div class="holdMe"><a id="wait" class="continue">Continue to Site »</a></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-				<div class="ad_wrapper"><center><p>ADVERTISEMENT</p><div id="welcomead" style="width: 640px;height: 480px;">
-	<script type="text/javascript">
-		if (showWelcomeAd) { googletag.display("welcomead") }
-	</script>
-</div></center></div>
-			</div>
-		</div>
-		<script>
-			if (showWelcomeAd) {
-				$('.welcome-overlay').show();
-				$('html, body').css({overflow: "hidden"});
-			}
-		</script>
-		
-	
-		
-
-			<a id="inline-custom-interstitial" href="/ad_includes/custom_interstitial_toggle.html" class="iframe" rel="nofollow"></a>
-		<a id="inline" href="/ad_includes/interstitial.html" class="iframe" rel="nofollow"></a>
-	
-
-<div id="wrapper">
-
-
-
-<div id="header-bottom-wrapper">
-	<div id="header-bottom" class="clearfix">
-  	<div id="logo" class="left">
-    	<h4 class="logo"><a href="http://www.information-management.com"><img src="http://cdn.information-management.com/media/ui/logo-informationmanagement-transN.png" alt="Information Management News"></a></h4>		</div><!-- logo -->
-		<div id="search" class="right">
-			<div class="holder clearfix">
-				<div class="links-holder right">
-					<div class="links top">
-						<a href="/register">Sign Up</a> &nbsp; | &nbsp; <a href="#signInContainer" class="fancybox">Sign In</a>					</div>
-				</div>
-			</div>
-			<div class="holder clearfix">
-				<div id="search-box" class="right">
-					<form name="search" id="form1" action="/search/index.html">
-						<input type="hidden" name="zkDo" value="search" id="zkDo">
-						<input type="hidden" name="frommonth" value="05">
-						<input type="hidden" name="fromday" value="24">
-						<input type="hidden" name="fromyear" value="2015">
-						<input type="hidden" name="tomonth" value="11">
-						<input type="hidden" name="today" value="24">
-						<input type="hidden" name="toyear" value="2016">
-						<input type="hidden" name="publication" value="all_articles">
-						<div class="left" id="search-text"><input name="query" id="term"></div>
-						<div class="left" id="search-button"><input type="image" src="http://cdn.information-management.com/media/ui/mag-glass.png"></div>
-					</form>
-				</div><!-- search box -->
-				<div class="social-media clearfix right">
-					<a href="https://www.facebook.com/InfoMgmt" target="_blank"><img src="http://cdn.information-management.com/media/ui/facebook-20x20.png"></a>
-					<a href="https://twitter.com/infomgmt" target="_blank"><img src="http://cdn.information-management.com/media/ui/twitter-20x20.png"></a>
-					<a href="https://www.linkedin.com/groups/Information-Management-information-professional-3997215" target="_blank"><img src="http://cdn.information-management.com/media/ui/linkedin-20x20.png"></a>
-					<a href="https://plus.google.com/+Informationmanagement1" target="_blank"><img src="http://cdn.information-management.com/media/ui/google-20x20.png"></a>
-				</div><!-- social-media -->
-			</div>
-		</div><!-- search -->
-	</div><!-- header-bottom -->
-</div><!-- header-bottom-wrapper -->
-
-				
-<div class="carousel-item-title" style="margin:0px;">
-	<div id="sub-nav">
-		<a href="/video/">Video</a> |	
-		<a href="/gallery/">Slideshows</a> |
-		<a href="/white_papers/">White Papers</a> | 
-		<a href="/web_seminars/">Web Seminars</a> | 
-		<a href="/reader_services/enewsletters.html">Newsletters</a> | 
-		<a href="/ebooks/">eBooks</a>
-	</div>
-</div>
-
-	
-		
-		
-	
-			
-		<div id="hidden-1" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/big-data/">Big Data</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/analytics/">Analytics</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/predictive-analytics/">Predictive Analytics</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-science/">Data Science</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/internet-of-things/">Internet of Things / Sensor / Machine Data</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/business-intelligence/">Business Intelligence</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/dashboards-and-visualization/">Dashboards &amp; Visualization</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/interview-american-expresss-machine-learning-strategy-10027483-1.html">Interview: American Express's Machine Learning Strategy</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/inside-the-head-of-a-data-scientist-10027481-1.html">How Data Scientists May Revolutionize SMB IT Market</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/predictive-analytics-vs-alzheimers-clinical-center-examines-the-data-10027397-1.html">Predictive Analytics vs Alzheimer's: Clinical Center Examines the Data</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/big-data-file-transfers-solving-the-challenge-10027405-1.html">Big Data File Transfers: Solving the Challenge</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/information-strategy-leadership/building-human-curiosity-into-artificial-intelligence-10027423-1.html">Building Human Curiosity into Artificial Intelligence</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Cindi_Howson.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/big-data-analytics/microsoft-microstrategy-and-munich-bi-and-analytics-10030324-1.html">Microsoft, MicroStrategy, and Munich BI and Analytics</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Renu_Rajani.png">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/big-data-analytics/algorithmic-business-in-need-of-model-based-testing-10030327-1.html">Algorithmic Business: In Need of Model-Based Testing</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-2" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/data-federation-virtualization/">Data Federation &amp; Virtualization</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-integration/">Data Integration</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-architecture/">Data Architecture</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-management/">Data Management</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-modeling/">Data Modeling</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-warehousing/">Data Warehousing</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/enterprise-information-management/">Enterprise Information Management</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/unstructured-data-content-management/">Unstructured Data / Content Management</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/cloud-computing/">Cloud Computing</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/enterprise-software-ERP-CRM/">Enterprise Software / ERP / CRM</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-discovery/">Data Discovery</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/mdm-data-governance/data-managements-role-in-corporate-social-responsibility-10027424-1.html">Data Management's Role in Corporate Social Responsibility</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/data-management/unlocking-the-value-of-unstructured-patient-data-10027433-1.html">Unlocking the Value of Unstructured Patient Data</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/Chief-Data-Officer-CDO-Fix-CIO-CMO-10026651-1.html">Are Chief Data Officers (CDOs) A Short-term Fix?</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/Hadoop-as-a-Service-HDaaS-Cloud-10026690-1.html">Hadoop as a Service (HDaaS) Reality Check</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/Disaster-Recovery-As-A-Service-DRAAS-Market-Size-Forecast-10026426-1.html">Large Enterprises Embrace Disaster Recovery as a Service (DRaaS)</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Rob_Clyde.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/data-management/augmented-reality-has-arrived-time-to-embrace-the-opportunities-10030338-1.html">Augmented Reality has Arrived: Time to Embrace the Opportunities</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Henk-Jan_van_der_Klis_two.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/data-management/a-bid-farewell-to-blockchain-10030340-1.html">A Bid Farewell to Blockchain</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-3" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/master-data-management/">MDM</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-quality/">Data Quality</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/compliance/">Compliance</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/grc/">GRC</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-governance/">Data Governance</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/data-management/conference-tutorial-takes-the-mystery-out-of-data-governance-10030181-1.html">Conference Tutorial Takes the Mystery Out of Data Governance</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/master-data-management-sees-large-gains-among-special-interest-groups-10030158-1.html">Master Data Management Sees Large Gains Among Special Interest Groups</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/big-data-analytics/distinguishing-relevant-data-from-poor-data-10030145-1.html">Distinguishing Relevant Data from Poor Data</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Frank_Buytendijk.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/big-data-analytics/who-owns-the-data-anyway-10030281-1.html">Who Owns The Data, Anyway?</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Nicola_Askham.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/big-data-analytics/data-governance-interview-nick-keen-10029383-1.html">Data Governance Interview - Nick Keen</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-4" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/data-architecture/">Data Architecture</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-warehousing/">Data Warehousing</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/cloud-computing/">Cloud Computing</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/open-source/">Open Source</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-center/">Data Center</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-storage/">Data Storage</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/disaster-recovery/">Disaster Recovery</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/hardware/">Hardware</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/iot-cloud-and-big-data-analytics-reshape-vertical-markets-10027441-1.html">How IoT and Analytics Reshape Vertical Markets</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/infrastructure/can-your-network-withstand-a-rise-in-dns-attacks-10027422-1.html">Can Your Network Withstand a Rise in DNS Attacks?</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/mobility/4-tips-to-keep-endpoint-data-secure-10027436-1.html">4 Tips to Keep Endpoint Data Secure</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/Infrastructure-Analysis-Culture-Analytics-10026394-1.html">Infrastructure Analysis -- A New Culture of Analytics</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/Government-Internet-of-Things-Smart-Cities-10026579-1.html">Governments Must Embrace IoT for Smart Cities</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Michele_Pelino.png">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/infrastructure/iot-software-helps-firms-navigate-the-complex-solution-landscape-10030339-1.html">IoT Software Helps Firms Navigate The Complex Solution Landscape</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Jennifer_Adams.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/infrastructure/the-us-leads-in-public-cloud-services-but-others-are-catching-up-10030319-1.html">The US Leads In Public Cloud Services, But Others Are Catching Up</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-5" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/enterprise-information-management/">Enterprise Information Management</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/business-process-management/">Business Process Management</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/data-governance/">Data Governance</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/leadership/">Leadership</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/roles-skills/">Roles and Skills</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/social-media-collaboration/">Social Media / Collaboration</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/big-data-analytics/inside-the-head-of-a-data-scientist-10027481-1.html">How Data Scientists May Revolutionize SMB IT Market</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/data-management/banking-giants-partner-on-data-management-10027415-1.html">Banking Giants Partner on Data Management, Quality</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/information-strategy-leadership/top-risk-management-concerns-survey-results-10027456-1.html">Top Risk Management Concerns: Survey Results</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/CIO-Business-Outcomes-Strategy-10026619-1.html">Best IT Outcomes Involve CIOs Who Influence Business, Data Strategy</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/digital-business-transformation-gartner-research-10026465-1.html">Only 30 Percent of Digital Business Transformations Will Succeed</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/David_Blackwood_Photo_Dec_2015.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/information-strategy-leadership/do-we-need-two-types-of-cio-10030189-1.html">Do We Need Two Types of CIO?</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/cokins-gary-83-86.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/information-strategy-leadership/the-cfos-expanding-quantitative-role-226128-reality-or-delusion-10030165-1.html">The CFO’s Expanding Quantitative Role – Reality or Delusion?</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-6" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/network/">Network</a>
-			      </div>
-							      	<div class="blog-watch-item">
-			      	<a href="/risk-management/">Risk Management</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/mdm-data-governance/how-to-advance-an-organizations-data-culture-10027642-1.html">How to Advance an Organization’s Data Culture</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Richard_Hollis.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/security/csx-europe-illuminates-key-cyber-security-insights-and-advancements-10030318-1.html">CSX Europe Illuminates Key Cyber Security Insights and Advancements</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Charlie_Dai.png">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/security/chinas-cybersecurity-law-challenges-foreign-companies-10030302-1.html">China's Cybersecurity Law Challenges Foreign Companies</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-		
-		
-		
-	
-			
-		<div id="hidden-7" class="hidden-div hidden-div-btn" style="display:none;">
-	    <div class="clear">
-	    
-	      	
-	      <div class="col-1 left">
-		      <div class="col-header">Topics</div>
-		      		      	<div class="blog-watch-item">
-			      	<a href="/mobility/">Mobility</a>
-			      </div>
-							    </div>
-	      
-		    	      <div class="col-2 left">
-					<div class="col-header">Features</div>
-						        
-	        	        		        	      		
-	      				        
-			        <div class="article-related-links-item">
-			            <a href="/news/mobility/mobile-hardware-market-slowdown-continues-10027450-1.html">Mobile Hardware Market Slowdown Continues</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/mobility/Internet-of-Things-Wearables-Tipping-Point-10027402-1.html">Internet of Things Pushes Wearables Toward Tipping Point</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/gallery/Gartner-Top-10-Mobile-Technologies-2016-2015-10027395-1.html">Gartner’s Top 10 Mobile Technologies for 2016</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item">
-			            <a href="/news/Privacy-Security-Internet-of-Things-Healthcare-10026472-1.html">Consumer Privacy, Security at Risk from Internet-Connected Health Devices</a>
-			        </div>         
-			        
-			        <div class="article-related-links-item last-item">
-			            <a href="/news/smart-watches-smart-glasses-vertical-markets-10026517-1.html">Smart Glasses Find Vertical Market Niches</a>
-			        </div>         
-			                                       
-		      	      </div>
-	      
-	      	      <div class="col-3 left">
-	            
-	      		<div class="col-header">Blogs</div>	
-	          
-	          																								
-		          <div class="clearfix person">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Charlie_Dai.png">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/mobility/boost-digital-business-with-the-internet-of-things-10030220-1.html">Boost Digital Business With The Internet Of Things</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          																		
-		          <div class="clearfix person-last">
-		              
-		              		              																													
-																					              		              <div class="carousel-item-image left">
-		                  <img width="107" src="http://cdn.information-management.com/media/newspics/Chris_King.jpg">
-		              </div>
-		              		              
-		              <div class="left item">
-		                  <div class="carousel-item-title">
-		                      <a href="http://www.information-management.com/blogs/data-management/the-art-philosophy-and-pragmatisms-of-siam-supplier-management-10029847-1.html">The Art, Philosophy and Pragmatisms of SIAM Supplier Management</a>
-											</div>
-											<div class="carousel-item-desc"> </div>
-		              </div>
-		          </div>
-	          	          	          
-	          <div id="bankthink-see-all">
-	              <a href="http://www.information-management.com/blogs/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-	          </div> 
-	                        
-	      </div>
-	      
-	      	      <div class="col-4 left">
-	          <div class="col-header">Multimedia</div>
-	          
-	          	          	            
-	          	          	          
-	          	          	
-	          	          
-	          		          <div id="multimedia-desc">
-		              <strong><a href="http://www.information-management.com/resource-center/?id=10030283">9 Essential AI Technologies</a></strong> 
-		          </div>
-												
-							  							  							  							  								  							
-										          <div id="multimedia-image">
-			              <a href="http://www.information-management.com/resource-center/?id=10030283"><img width="212" src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg"></a>
-			          </div>
-		          	                      	
-		          <div id="multimedia-see-all">
-		              <a href="http://www.information-management.com/resource-center/"><img class="morebutton" src="http://cdn.information-management.com/media/ui/btn-more.png"></a>
-		          </div>
-	          
-	      </div>
-	      
-	    </div>
-	</div>
-	
-<div id="primary-menu">
-    <div class="nav-container">
-        <ul class="nav-items">
-        																
-		<a href="http://www.information-management.com/big-data-analytics/"><li class="off nav-item" id="menu-1">Big Data &amp; Analytics</li></a>
-	
-		<a href="http://www.information-management.com/data-management/"><li class="off nav-item" id="menu-2">Data Management</li></a>
-	
-		<a href="http://www.information-management.com/mdm-data-governance/"><li class="off nav-item" id="menu-3">MDM &amp; Data Governance</li></a>
-	
-		<a href="http://www.information-management.com/infrastructure/"><li class="off nav-item" id="menu-4">Infrastructure</li></a>
-	
-		<a href="http://www.information-management.com/information-strategy-leadership/"><li class="off nav-item" id="menu-5">Info Strategy &amp; Leadership</li></a>
-	
-		<a href="http://www.information-management.com/security/"><li class="off nav-item" id="menu-6">Security</li></a>
-	
-		<a href="http://www.information-management.com/mobility/"><li class="off nav-item" id="menu-7">Mobility</li></a>
-	
-						            <a href="http://www.information-management.com/sponsored/"><li class="off nav-item" id="menu-wswp">web seminars &amp;<br>white papers</li></a>
-            <a href="http://www.information-management.com/resource-center/"><li class="off nav-item" id="menu-rc">resource<br>center</li></a>
-		</ul>
-    </div><!-- content center -->
-</div><!-- primary-menu -->
-
-<script type="text/javascript">
-	$(document).ready(function() {
-		var delayAmount=100;
-																
-		$("#menu-1").hover(
-		  function () {
-			$("#hidden-1").delay(delayAmount).fadeIn();
-			$("#menu-1").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-1").hide();
-			$("#hidden-1").clearQueue();
-			$("#menu-1").removeClass("on");
-		  }
-		);
-		$("#hidden-1").hover(
-		  function () {
-			$("#hidden-1").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-1").hide();
-		  }
-		);
-	
-		$("#menu-2").hover(
-		  function () {
-			$("#hidden-2").delay(delayAmount).fadeIn();
-			$("#menu-2").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-2").hide();
-			$("#hidden-2").clearQueue();
-			$("#menu-2").removeClass("on");
-		  }
-		);
-		$("#hidden-2").hover(
-		  function () {
-			$("#hidden-2").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-2").hide();
-		  }
-		);
-	
-		$("#menu-3").hover(
-		  function () {
-			$("#hidden-3").delay(delayAmount).fadeIn();
-			$("#menu-3").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-3").hide();
-			$("#hidden-3").clearQueue();
-			$("#menu-3").removeClass("on");
-		  }
-		);
-		$("#hidden-3").hover(
-		  function () {
-			$("#hidden-3").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-3").hide();
-		  }
-		);
-	
-		$("#menu-4").hover(
-		  function () {
-			$("#hidden-4").delay(delayAmount).fadeIn();
-			$("#menu-4").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-4").hide();
-			$("#hidden-4").clearQueue();
-			$("#menu-4").removeClass("on");
-		  }
-		);
-		$("#hidden-4").hover(
-		  function () {
-			$("#hidden-4").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-4").hide();
-		  }
-		);
-	
-		$("#menu-5").hover(
-		  function () {
-			$("#hidden-5").delay(delayAmount).fadeIn();
-			$("#menu-5").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-5").hide();
-			$("#hidden-5").clearQueue();
-			$("#menu-5").removeClass("on");
-		  }
-		);
-		$("#hidden-5").hover(
-		  function () {
-			$("#hidden-5").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-5").hide();
-		  }
-		);
-	
-		$("#menu-6").hover(
-		  function () {
-			$("#hidden-6").delay(delayAmount).fadeIn();
-			$("#menu-6").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-6").hide();
-			$("#hidden-6").clearQueue();
-			$("#menu-6").removeClass("on");
-		  }
-		);
-		$("#hidden-6").hover(
-		  function () {
-			$("#hidden-6").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-6").hide();
-		  }
-		);
-	
-		$("#menu-7").hover(
-		  function () {
-			$("#hidden-7").delay(delayAmount).fadeIn();
-			$("#menu-7").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-7").hide();
-			$("#hidden-7").clearQueue();
-			$("#menu-7").removeClass("on");
-		  }
-		);
-		$("#hidden-7").hover(
-		  function () {
-			$("#hidden-7").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-7").hide();
-		  }
-		);
-	
-		$("#menu-rc").hover(
-		  function () {
-			$("#hidden-rc").delay(delayAmount).fadeIn();
-			$("#menu-rc").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-rc").hide();
-			$("#hidden-rc").clearQueue();
-			$("#menu-rc").removeClass("on");
-		  }
-		);
-		$("#hidden-rc").hover(
-		  function () {
-			$("#hidden-rc").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-rc").hide();
-		  }
-		);
-		$("#menu-wswp").hover(
-		  function () {
-			$("#hidden-wswp").delay(delayAmount).fadeIn();
-			$("#menu-wswp").addClass("on");
-		  }, 
-		  function () {
-			$("#hidden-wswp").hide();
-			$("#hidden-wswp").clearQueue();
-			$("#menu-wswp").removeClass("on");
-		  }
-		);
-		$("#hidden-wswp").hover(
-		  function () {
-			$("#hidden-wswp").show();
-			
-		  }, 
-		  function () {
-			$("#hidden-wswp").hide();
-		  }
-		);
-	});
-</script>
-
-<div id="hidden-wswp" style="display:none;" class="hidden-div">
-    <div class="clearfix">
-		
-		
-	 		
-		 		
-		 		
-		 		
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-			
-		
-										<div id="data-tools-col-1" class="left">
-																	<div class="col-header">Upcoming Web Seminars</div>
-																						<div class="clearfix person">
-							<div class="carousel-item-image left">
-								<img src="http://cdn.information-management.com/media/newspics/logo-_resize.jpg">
-							</div>
-							<div class="left item">
-								<div class="carousel-item-title">
-									<a target="_blank" href="http://pages.marketing.information-management.com/20161129_imt_ibm_ws_lp.html?source=site">Business intelligence starts with business strategy</a>
-								</div>
-								<div class="carousel-item-desc">
-									Sponsor: IBM<br>									Date: November 29, 2016<br>
-									Time: 02:00PM ET <br>
-									Duration: 1 hr																										</div>
-							</div>
-						</div>
-																								<div class="clearfix person">
-							<div class="carousel-item-image left">
-								<img src="http://cdn.information-management.com/media/newspics/logo-_resize.jpg">
-							</div>
-							<div class="left item">
-								<div class="carousel-item-title">
-									<a target="_blank" href="http://pages.marketing.information-management.com/20161206_imt_ibm_ws_lp.html?source=site">Business Intelligence that is all about the customer</a>
-								</div>
-								<div class="carousel-item-desc">
-									Sponsor: IBM<br>									Date: December 6, 2016<br>
-									Time: 02:00PM ET <br>
-									Duration: 1 hr																										</div>
-							</div>
-						</div>
-																																																																																																																																																																																																																																																															
-          <div class="clearfix">
-	          <div id="bankthink-see-all" class="right">
-	          	<a href="/web_seminars/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-	          </div>  
-          </div>                
-        </div>
-       
-				<div id="data-tools-col-2" class="left">
-        		<div class="col-header">White Papers</div>
-        		
-                      	            <div class="article-related-links-item">
-                <a href="/white_papers/ventana-research-fulfilling-the-promise-of-data-lakes-10030305-1.html">Ventana Research: Fulfilling the promise of data lakes</a>
-            </div>                                
-                        <div class="article-related-links-item">
-                <a href="/white_papers/the-ultimate-data-preparation-kit-10030294-1.html">The ultimate data preparation kit</a>
-            </div>                                
-                        <div class="article-related-links-item">
-                <a href="/white_papers/the-evolution-of-the-data-warehouse-10030291-1.html">The evolution of the data warehouse</a>
-            </div>                                
-                        <div class="article-related-links-item">
-                <a href="/white_papers/software-defined-persistent-storage-for-containers-10030290-1.html">Software-defined persistent storage for containers</a>
-            </div>                                
-                        <div class="article-related-links-item">
-                <a href="/white_papers/the-mdm-crossroad-to-graph-or-not-to-graph-10030269-1.html">The MDM crossroad — To graph or not to graph?</a>
-            </div>                                
-                                                      
-            <div class="clearfix button-padding">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/white_papers/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>  
-            <div class="col-header">eBooks</div>
-            
-                      	            <div class="article-related-links-item">
-							<a href="http://www.information-management.com/digital_edition/opening-our-eyes-in-the-era-of-big-data-10023762-1.html">Opening Our Eyes in the Era of Big Data</a>
-            </div>                                
-                        <div class="article-related-links-item">
-							<a href="/digital_edition/intersection-of-big-data-data-governance-and-mdm-10023711-1.html">The Intersection of Big Data, Data Governance and MDM</a>
-            </div>                                
-                                                                   
-            <div class="clearfix button-padding">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/ebooks/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>  
-        </div>                    
-       
-    </div>
-</div>
-
-
-<div id="hidden-rc" class="hidden-div hidden-div-btn" style="display:none;">
-    <div class="clear">
-      
-      	
-      <div class="col-1 left">
-            <div class="col-header">DM Radio</div>
-		    		
-		        																																
-																																								
-																																								
-																																								
-																																								
-																																								
-																																								
-																																								
-																																								
-																																								
-																									        			        																				            	<div class="article-related-links-item">
-			                <a href="/dmradio/going-mobile-five-tips-for-the-application-designer-10029004-1.html">Going Mobile -- Five Tips for the Application Designer</a>
-			            	</div>
-			            				            			          												            	<div class="article-related-links-item">
-			                <a href="/dmradio/artificial-intelligence-and-the-internet-of-things-10029267-1.html">Artificial Intelligence and the Internet of Things</a>
-			            	</div>
-			            				            			          												            	<div class="article-related-links-item">
-			                <a href="/dmradio/big-data-a-second-chance-for-data-management-10029268-1.html">Big Data: A Second Chance for Data Management?</a>
-			            	</div>
-			            				            			          												            	<div class="article-related-links-item">
-			                <a href="/dmradio/the-imminent-rise-of-machine-learning-10029337-1.html">Deus ex Machina? The Imminent Rise of Machine Learning</a>
-			            	</div>
-			            				            			          												          												          												          												          												          												          			        		        		  </div>
-    	
-    	
-    	
-        <div class="col-2 left">
-            <div class="col-header">Newsletters</div>
-                      	            <div class="article-related-links-item">
-                <a href="/register/?user_publications[]=85">Information Management Daily</a>
-                <div class="clearfix">
-                    <div id="bankthink-see-all" style="margin: 5px 0 0;" class="right">
-                        <a href="/register/?user_publications[]=85"><img src="http://cdn.information-management.com/media/ui/btn-subscribe.png" class="morebutton"></a>
-                    </div>  
-                </div>  
-            </div>
-                        <div class="article-related-links-item">
-                <a href="/register/?user_publications[]=81">Blog Newsletter</a>
-                <div class="clearfix">
-                    <div id="bankthink-see-all" style="margin: 5px 0 0;" class="right">
-                        <a href="/register/?user_publications[]=81"><img src="http://cdn.information-management.com/media/ui/btn-subscribe.png" class="morebutton"></a>
-                    </div>  
-                </div>  
-            </div>
-                        <div class="article-related-links-item">
-                <a href="/register/?user_publications[]=23">InfoManagement Direct</a>
-                <div class="clearfix">
-                    <div id="bankthink-see-all" style="margin: 5px 0 0;" class="right">
-                        <a href="/register/?user_publications[]=23"><img src="http://cdn.information-management.com/media/ui/btn-subscribe.png" class="morebutton"></a>
-                    </div>  
-                </div>  
-            </div>
-                        <div class="article-related-links-item last-item">
-                <a href="/register/?user_publications[]=86">Cloud Computing</a>
-                <div class="clearfix">
-                    <div id="bankthink-see-all" style="margin: 5px 0 0;" class="right">
-                        <a href="/register/?user_publications[]=86"><img src="http://cdn.information-management.com/media/ui/btn-subscribe.png" class="morebutton"></a>
-                    </div>  
-                </div>  
-            </div>
-                                                                                              
-        </div>
-        <div class="col-3 left">
-        	
-            
-                 
-            
-            
-                        <div class="col-header">Vendor Showcase</div>
-          	            <div class="article-related-links-item">
-                <a href="/vendor_showcase/-10020409-1.html">Learn How Data Warehouse, Metadata, and Modeling Are Being Transformed</a>
-            </div>                                
-            <div class="clearfix">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/vendor_showcase/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>  
-                             
-            
-            
-                        <div class="col-header">Glossary</div>
-          	            <div class="article-related-links-item">
-                <a href="/glossary/a.html">Information Management Glossary</a>
-            </div>                                
-            <div class="clearfix">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/glossary/a.html"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>  
-         		         		         		     
-        </div>
-        <div class="col-4 left">
-
-            
-                        <div class="col-header">Bookstore</div>
-          	            <div class="clearfix person">
-                                <div class="carousel-item-image left">
-                    <img src="http://cdn.information-management.com/media/bookstore/predictive.jpg" width="75">
-                </div>
-                                <div class="left item">
-                    <div class="carousel-item-title">
-                        <a href="/books/-10023604-1.html">Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die</a>
-                    </div>
-                </div>
-            </div>        	
-            <div class="clearfix">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/books/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>  
-                             
-            
-            
-                        <div class="col-header">Events</div>
-          	            <div class="article-related-links-item">
-                <a href="/conferences/mdmsanfrancisco/">MDM &amp; Data Governance San Francisco</a>
-            </div>    
-                         
-            <div class="clearfix">
-                <div id="bankthink-see-all" class="right">
-                    <a href="/industry_events/"><img src="http://cdn.information-management.com/media/ui/btn-more.png" class="morebutton"></a>
-                </div>  
-            </div>
-            <div class="col-header" style="margin-top:10px;"><a href="/issues/archives.html">Magazine Archives</a></div>
-        </div>
-    </div>
-</div>
-
-
-
-																			<form name="quick-subscribe-form" id="quick-subscribe-form" action="">
-<div id="call-to-actions" class="clearfix">
-<div class="left call-to-action1"><a name="submit-trial" class="qlbtn" href="http://www.information-management.com/register/"><img src="http://cdn.information-management.com/media/ui/IM_OFIE_REGISTER_LONG.png"></a></div>
-</div>  
-</form>
-
- 
-													<div id="top-ad">
-									<div id="collapsed_header">
-	<script type="text/javascript">
-		googletag.display("collapsed_header")
-	</script>
-</div>
-								</div>
-			 
-	<div id="content-wrapper">
-	<!-- content start -->
-		<div id="content" class="clearfix">
-															<div id="two-col-layout">
-				<!-- column one start -->
-								<div id="col-one" class="left">														
-<div id="default_template">
-
-<h4 class="carousel-header">Privacy Policy</h4>
-<p>This privacy policy covers Information Management’s treatment of personally identifiable information we collect when you are on the Information Management site, located at http://www.informationmgmt.com/.  This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies Information Management does not own or control, or to individuals Information Management does not employ or manage, including operators of sites to which you may link from the Information Management Web site. </p>
-
-<p>This Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
-
-<p>The full text of our privacy policy is available on the Web at <a href="http://www.information-management.com/about/privacy.html">http://www.information-management.com/about/privacy.html</a>.  Users may go to <a href="http://www.information-management.com/profile/">http://www.information-management.com/profile/</a> for information on how to opt-in or opt-out of use of their information. 
-We invite you to contact us if you have questions about this policy: </p>
-Email: <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a> <br>
-Phone: (800) 221-1809 <br>
-Mail to:<br>
-SourceMedia <br>
-One State Street Plaza, 27th Floor <br>
-New York, NY 10004 <br>
-USA <br>
-
-
-<h4>Dispute Resolution and Privacy Seals</h4>
-<p>We have privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, please contact customer service <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a> so they can help you resolve your concern. </p>
-
-
-<h4>Additional Information</h4>
-
-<p>This policy is valid for 1 day from the time that it is loaded by a client. </p>
-
-
-<h4>Data Collection</h4>
-<p>P3P policies interpret the data collected and divide it into groups (also referred to as "statements"). Information Management’s policy contains three data groups. The data practices of each group will be explained as follows: </p>
-
-<h4>Group "Basic information"</h4>
-<p>We collect the following information: </p>
-<ul><li>Clickstream data</li>
-<li>HTTP protocol elements</li>
-<li>Search terms</li></ul>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity</li>
-<li>Web site and system administration</li>
-<li>Research and development</li></ul>
-<p>This data will be used by Information Management and our agents. <br>
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
-Data collected from all Web users: access logs and search strings (if entered).</p>
-
-
-<h4>Group "Cookies"</h4>
-<p>At the user's option, Information Management will collect HTTP cookies.</p>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity.</li>
-<li>Anonymous user analysis. The user must opt-in to this usage.</li>
-<li>Anonymous user profiling and decision-making. The user must opt-in to this usage.</li>
-<li>User analysis. The user must opt-in to this usage.</li>
-<li>User profiling and decision-making. The user must opt-in to this usage.</li></ul>
-<p>This data will be used by Information Management and our agents. <br>
-The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.</p>
-
-
-<h4>Group "Mailing registration"</h4>
-<p>At the user's option, we will collect the following data: </p>
-<ul><li>Online contact information</li>
-<li>Physical contact information</li>
-<li>Demographic data</li>
-<li>Preference data</li>
-<li>Given name (First name)</li>
-<li>Family name (Last name)
-</li><li>User's job title
-</li><li>Organization name
-</li><li>State or province
-</li><li>Postal code
-</li><li>Country name
-</li><li>Work email address</li></ul>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity.
-</li><li>User analysis. The user must opt-in to this usage.
-</li><li>White papers and Web Seminars may be sponsored material on the site. By accessing the assets the user information may be shared with the sponsors.</li></ul>
-<p>This data will be used by Information Management and our agents. In addition, the following types of entities will receive this information: </p>
-<ul><li>Others following the same practices. The user must opt-in to this data sharing.</li></ul>
-<p>The following explanation is provided for why this data is collected: This information is collected so that Information Management can send you valuable and useful information which is relevant to your needs and interests.</p>
-
-
-<h4>Cookies</h4>
-<p>Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.</p>
-<p>Our site makes use of cookies. Cookies are used for the following purposes:</p>
-<ul>
-<li>Completing the user's current activity</li>
-<li>Pseudononymous analysis</li>
-<li>Pseudonym-based decision-making</li>
-<li>User analysis</li>
-
-<li>Individual-based decision-making</li>
-</ul>
-<div style="padding-top: 5px; padding-bottom: 15px;"><hr></div>
-<h4>Compact Policy Summary</h4>
-<p>The compact policy which corresponds to this policy is:</p>
-<p>CP="CAO DSP LAW CURa ADMa DEVa PSAi PSDi IVAi IVDi CONi OUR SAMi BUS IND PHY ONL UNI COM NAV INT DEM STA PRE"</p>
-<p>The following table explains the meaning of each field in the compact policy.</p>
-<table style="padding: 5px;" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td align="center"><b>Field</b></td><td align="center"><b>Meaning</b></td></tr><tr><td>CP=</td><td>This is the compact policy header; it indicates that what follows is a P3P compact policy.</td></tr><tr><td>CAO</td><td>Access is available to contact and other information.</td></tr><tr><td>DSP</td><td>The policy contains at least one dispute-resolution mechanism.</td></tr><tr><td>LAW</td><td>Privacy law specifies penalties for a violation of this policy.</td></tr><tr><td>CURa</td><td>The data is used for completion of the current activity.</td></tr><tr><td>ADMa</td><td>The data is used for site administration.</td></tr><tr><td>DEVa</td><td>The data is used for research and development.</td></tr><tr><td>PSAi</td><td>The data is used for pseudononymous analysis, if the user selects it.</td></tr><tr><td>PSDi</td><td>The data is used for pseudononymous decision-making, if the user selects it.</td></tr><tr><td>IVAi</td><td>The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.</td></tr><tr><td>IVDi</td><td>The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.</td></tr><tr><td>CONi</td><td>The data is used for contacting the user, if the user selects it.</td></tr><tr><td>OUR</td><td>The data is given to ourselves and our agents.</td></tr><tr><td>SAMi</td><td>The data is given to other organizations following the same practices, if the user selects it.</td></tr><tr><td>BUS</td><td>Our business practices specify how long the data will be kept.</td></tr><tr><td>IND</td><td>The data will be kept indefinitely.</td></tr><tr><td>PHY</td><td>Physical contact information is collected.</td></tr><tr><td>ONL</td><td>Online contact information is collected.</td></tr><tr><td>UNI</td><td>Unique identifiers are collected.</td></tr><tr><td>COM</td><td>Computer information is collected.</td></tr><tr><td>NAV</td><td>Navigation and clickstream data is collected.</td></tr><tr><td>INT</td><td>Interactive data is collected.</td></tr><tr><td>DEM</td><td>Demographic and soc
-oeconomic data is collected.</td></tr><tr><td>STA</td><td>State-management data is collected</td></tr><tr><td>PRE</td><td>Preference information is collected.</td></tr></tbody></table><p>The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <a href="http://www.w3.org/TR/p3pdeployment">http://www.w3.org/TR/p3pdeployment</a>.</p>
-
-<h4>Policy Evaluation</h4>
-<p>Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.</p>
-<p><b>Note</b>: this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.</p>
-<p><b>Satisfactory policy</b>: this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.</p>
-
-
-</div>
-				</div>
-			<!-- column one end -->
-							<!-- right rail start -->
-				<div id="col-two" class="right">
-									
-
-
-
-	
-
-<!-- ad start -->
-<div class="module">
-	<div id="bigbox1">
-	<script type="text/javascript">
-		googletag.display("bigbox1")
-	</script>
-</div>
-</div>
-<!-- ad end -->
-
-
-						
-<!-- video gallery start -->
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery('#video-gallery').jcarousel({
-		scroll: 2,
-		visible: 2
-	});
-
-});
-</script>
+<!--The following is the downloaded HTML source of the information-management.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630150418id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.-->
 
+<!DOCTYPE html><html class="Page" itemscope="" itemtype="http://schema.org/WebPage"><head>
+            <meta charset="UTF-8">
 
+<title>Privacy Policy  | SourceMedia</title>
+<link rel="canonical" href="https://www.sourcemedia.com/news/privacy-policy">
+<meta name="description" content="SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences.">
 
 
+
+    <link rel="stylesheet" type="text/css" href="https://assets.sourcemedia.com/resource/corporate/All.min.c3ea04219c9ff7927e6cc519657539ab.css">
+
+
+    <style type="text/css">.SocialFeedItem--instagram .SocialFeedItem-body {
+ 	padding-right: 30px;   
+}</style>
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <meta name="msapplication-config" content="/corporate/media/favicons/browserconfig.xml">
+
+
+    <meta name="theme-color" content="#FFFFFF">
+
+
+    <link rel="apple-touch-icon" type="image/png" href="/corporate/media/favicons/apple-touch-icon.png" sizes="180x180">
+
+
+    <link rel="icon" type="image/png" href="/corporate/media/favicons/favicon-32x32.png" sizes="32x32">
+
+
+    <link rel="icon" type="image/png" href="/corporate/media/favicons/favicon-16x16.png" sizes="16x16">
+
+
+    <link rel="manifest" type="application/json" href="/corporate/media/favicons/manifest.json">
+
+
+    <link rel="mask-icon" type="image/svg+xml" href="/corporate/media/favicons/safari-pinned-tab.svg" color="#00B5FF">
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="/corporate/media/favicons/favicon.ico">
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-219761-56', 'sourcemedia.com');
+ga('send', 'pageview')</script>
+
+
+    <script type="text/javascript" src="https://secure.leadforensics.com/js/92410.js"></script>
+
+
+
+        </head>
     
-        	    
-		<!-- video start -->
-  <div class="module module-video">
-		<h4 class="carousel-header"><a href="/more/videos.html">Videos</a></h4>
-		<div class="video">
-			<a href="/video/60-seconds-smarter-e-and-m-guidelines-explained10026128-1.html"><img src="http://cdn.information-management.com/media/newspics/EandM-280.jpg" width="300" border="0" alt="" title=""></a>		</div>
-		<div class="video-caption">
-			<a href="/video/60-seconds-smarter-e-and-m-guidelines-explained10026128-1.html">60 Seconds Smarter: E&amp;M Guidelines Explained</a>
-					</div>
-	</div>
-	<!-- video end -->
-			
-
-	
-			<div class="advertisement">&nbsp;</div>
-		
-  
-			
-						
-
- <!-- most read start -->
-        <script type="text/javascript">
-
-        $(document).ready(function() {
-
-        $('#most-read').click(function() {
-				
-				$('#most-read').removeClass("tab-on");
-				$('#most-emailed').removeClass("tab-off");
-				
-				$('#most-read').addClass("tab-off");
-				$('#most-emailed').addClass("tab-on");
-				
-				$('#most-read-content').show();
-				$('#most-emailed-content').hide();         
-				
-        });
-                                
-        $('#most-emailed').click(function() {
                 
-				$('#most-read').removeClass("tab-off");
-				$('#most-emailed').removeClass("tab-on");
-				
-				$('#most-read').addClass("tab-on");
-				$('#most-emailed').addClass("tab-off");
-				
-				$('#most-read-content').hide();
-				$('#most-emailed-content').show();
-        });
-       });
+        <body class="Page-body">
+            
+	
 
-    </script>
+	
 
-<div class="module">
-	<div id="tabs" class="clearfix">
-		<div id="most-read" class="left tab tab-off">Most Read</div>
-    <div id="most-emailed" class="left tab tab-on">Most Emailed</div>
-  </div>
-	<div id="most-read-content" class="tab-content">
-		<ul>
+	
+
+	<header class="Header">
 		
-																						
-																					<li><a href="/news/security/hidden-fees-what-is-the-cost-of-a-data-breach-10030300-1.html">Hidden Fees: What is the Cost of a Data Breach?</a></li>
-																
-																																								
-																					<li><a href="/gallery/oct-top-reader-pick-2015s-top-stories-top-10-big-data-companies-10026248-1.html">Top 10 Big Data Companies</a></li>
-																
-																																								
-																					<li><a href="/news/big-data-analytics/to-achieve-advanced-analytics-start-with-big-data-integration-10030322-1.html">To Achieve Advanced Analytics, Start with Big Data Integration</a></li>
-																
-																																								
-																					<li><a href="/gallery/9-essential-ai-technologies-10030283-1.html">9 Essential AI Technologies</a></li>
-																
-																																								
-																					<li><a href="/news/security/building-security-resiliency-into-critical-infrastructure-10030301-1.html">Building Security Resiliency Into Critical Infrastructure</a></li>
-																
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													</ul>
-	</div>
-	<div id="most-emailed-content" style="display:none;" class="tab-content">
-		<ul>
+			
+		<div class="Header-logo">
+			
+	<div class="Logo">
 		
-																						
-																				<li><a href="/blogs/infrastructure/10-key-developments-in-cloud-computing-shape-the-industry-in-2017-10030267-1.html">10 Key Developments In Cloud Computing Shape The Industry In 2017</a></li>
-															
-																					  																		
-																				<li><a href="/news/big-data-analytics/a-look-at-insurances-big-data-trajectory-10030254-1.html">A Look at Insurance's Big Data Trajectory</a></li>
-															
-																					  																		
-																				<li><a href="/news/big-data-analytics/data-science-and-especially-machine-learning-top-skills-for-freelancers-10030167-1.html">Data Science, and Especially Machine Learning, Top Skills for Freelancers </a></li>
-															
-																					  																		
-																				<li><a href="/infodirect/20000211/-1925-1.html">An Intelligible Approach to Enterprise Business Discovery and Information Deployment</a></li>
-															
-																					  																		
-																				<li><a href="/issues/20070401/-1079638-1.html">Business Rules and Business Intelligence</a></li>
-															
-																					  															  															  															  															  															  															  															  															  															  															  															  							</ul>
+			<a href="/" data-cms-ai="0">
+                <img src="https://assets.sourcemedia.com/resource/corporate/media/sm-logo.bc393906f71fe55ba6205571f9a7aea7.svg" alt="SourceMedia" data-src-inverted="https://assets.sourcemedia.com/resource/corporate/media/sm-logo-inverted.559607f43dde3199871fda477905cab7.svg">
+			</a>
+		
 	</div>
-</div>
-<!-- most read end -->
-			
-						<div class="module tech-headlines" style="border-bottom:none;">
-	<h4 class="carousel-header"><p>Featured Topics</p></h4>
-	<ul>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/big-data/">BIG DATA</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/business-intelligence/">BUSINESS INTELLIGENCE</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/data-integration/">DATA INTEGRATION</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/data-management/">DATA MGMT</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/data-modeling/">DATA MODELING</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/data-quality/">DATA QUALITY</a></div>
-    </li>
-			<li>
-			<img src="http://cdn.information-management.com/media/ui/btn-carousel-right-trans.png" width="12px" style="float:left;">
-    	<div class="headline-caption" style="border-bottom:1px dotted #CCCCCC; padding-left:20px; padding-bottom:7px;"><a target="_blank" href="/grc/">GOVERNANCE, RISK &amp; COMPLIANCE</a></div>
-    </li>
-	</ul>
-</div>
- 
-			
-						
-<!-- video gallery start -->
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery('#gallery').jcarousel({
-		scroll: 2,
-		visible: 2
-	});
 
-});
-</script>
+		</div>
+	
+			<div class="Header-navigationWrapper">
+				
+		<nav class="Header-navigation">
+			<ul class="Header-navigation-items">
+				
+					<li class="Header-navigation-items-item"><a href="/communities" class="" data-cms-ai="0">Communities</a></li>
+				
+					<li class="Header-navigation-items-item"><a href="/services" class="" data-cms-ai="0">Marketing Services</a></li>
+				
+					<li class="Header-navigation-items-item"><a href="/information-services" class="" data-cms-ai="0">Subscription Information</a></li>
+				
+					<li class="Header-navigation-items-item"><a href="/events" class="" data-cms-ai="0">Events</a></li>
+				
+			</ul>
+		</nav>
+	
+				
+		<nav class="Header-additionalNavigation">
+			<ul class="Header-additionalNavigation-items">
+				
+					<li class="Header-additionalNavigation-items-item"><a href="https://careers-sourcemedia.icims.com/" class="" data-cms-ai="0">Careers</a></li>
+				
+					<li class="Header-additionalNavigation-items-item"><a href="/media-kits" class="" data-cms-ai="0">Media Kits</a></li>
+				
+					<li class="Header-additionalNavigation-items-item"><a href="/about" class="" data-cms-ai="0">About</a></li>
+				
+			</ul>
+		</nav>
+	
+			</div>
+			<div class="Header-expanders">
+				<a href="#menu" class="Header-expand" data-cms-ai="0"><span class="screen-reader-only">Open Menu</span></a>
+				<a href="#menu" class="Header-collapse" data-cms-ai="0"><span class="screen-reader-only">Close Menu</span></a>
+			</div>
+		
+	</header>
 
 
 
 
     
-        	    
-		<!-- video start -->
-  <div class="module module-video">
-		<h4 class="carousel-header"><a href="/more/gallery.html">Slideshows</a></h4>
-		<div class="video">
-			<a href="/gallery/9-essential-ai-technologies-10030283-1.html"><img src="http://cdn.information-management.com/media/gallery/p1b1mcibem1q5e1a2t7i3199pki96.jpg" width="300" border="0" alt="" title=""></a>		</div>
-		<div class="video-caption">
-			<a href="/gallery/9-essential-ai-technologies-10030283-1.html">9 Essential AI Technologies</a>
-					</div>
-	</div>
-	<!-- video end -->
-		  
-        	    
-			<!-- video gallery start -->
-	<div class="module">
+
+    
+
+    
+        <div class="MainAsideLayout">
+            
+                
+        <div class="MainAsideLayout-main">
+    
+
+    
+
+    
+
+    
+
+    
+        <article>
+            
+                
+        <h1 class="ArticleMain-headline"><header>
+	
+		<div class="bsp-page-title-wrapper">
+
+	<strong class="bsp-page-title title-small">
 		
-		<ul id="gallery" class="jcarousel-skin-tango">
+		Privacy Policy
+        
+	</strong>
+</div>
+
+	
+</header></h1>
+    
+                
+        <div class="ArticleMain-info">
+            
+
+            
+
+            
+
+            
+        </div>
+    
+                
+                
+        <div class="ArticleMain-body" itemprop="articleBody"><div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=Privacy%20Policy%20%7C%20Source%20Media%20Dot%20Com&amp;body=SourceMedia%20provides%20market%20information%2C%20including%20news%2C%20analysis%2C%20and%20insight%20to%20the%20financial%20services%20and%20related%20industries%20such%20as%20accounting%20and%20technology%2C%20through%20its%20publications%2C%20industry-standard%20data%20applications%2C%20seminars%20and%20conferences.%0A%0Ahttps://www.sourcemedia.com/news/privacy-policy" class="action action-size--large" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a class="action action-size--large" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        <span class="share-links-wrapper">
+
+	<span class="share-links-title">Share on</span>
+
+	<ul class="share-links" data-bsp-share="" data-bsp-share-options="{
+    			&quot;description&quot;:&quot;SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences.&quot;,
+    			&quot;image&quot;:&quot;&quot;,
+    			&quot;title&quot;:&quot;SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies SourceMedia does not own or control, or to individuals SourceMedia does not employ or manage, including operators of sites to which you may link from any SourceMedia web site. SourceMedia has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use. AMERICAN BANKER RESEARCH REFUND POLICY. All sales of American Banker Research: Issues + Actions are final and no refunds will be issued after purchase is complete. Information Collection and Dissemination General Principles In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the \&quot;Digital Offering\&quot;) without identifying yourself or revealing any personal information. As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain SourceMedia trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, social media groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. If you receive relevant newsletters from SourceMedia’s publications and do not opt-out of these communications, we may decide to send you related promotional emails from time to time that we deem relevant to you. We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes. If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy. If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc. Information Sharing We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only in the manner described in this privacy Policy. When you register for the Digital Offering or related products and services and are asked for personal information, you are sharing that information with SourceMedia as well as business partners and vendors providing hosting and other services for SourceMedia. Unless you opt-out, we will share your Personal Information with SourceMedia’s affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out; send us an email to custserv@sourcemedia.com. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. Aggregated Information We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties. Information about your visits to, and activity on, SourceMedia web sites, an IP address, and the number of times you have viewed an advertisement and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We do this to focus our communications and provide you content, services and offers we believe may be of interest to you. Your aggregated information about your visits to, and activity on, SourceMedia web sites may be provided from time to time to our advertisers of Sponsored Content. Refer SourceMedia “Sponsored Content” section in this Privacy Policy. SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web seminars White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for such assets including information on your visits to, and activity on, SourceMedia web sites may be shared with those Sponsors in order to contact you regarding their products and services in their normal course of business. HTML verification and email tracking When receiving email from us, we may place a small piece of code in that email to determine whether or not you can accept HTML images and whether or not you viewed and/or clicked on links contained in the email. This process does not leave any information on your computer, nor does it collect information from your computer. Email opt-outs. In the event you decide to unsubscribe from our newsletters or promotional emails we will honor your request within thirty business days. Information on Children As a business-to-business company, we do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults who are professionally engaged in the businesses we serve. Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. Updating Visitor Information Registered users have the option of accessing, correcting, updating and modifying Personal and/or Financial Information, or visitor profile, at any time and as often as desired. You may elect to stop receiving marketing material from SourceMedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page or by following instructions at the end of any such e-mail received. If you desire to delete your Personal and/or Financial Information please contact us at custserv@sourcemedia.com. Update Your Newsletter Subscriptions You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com. Update Your Print Subscription Information You can correct or change your print subscription information by sending an email to custserv@sourcemedia.com. Please allow 2-4 weeks for changes to take effect. Third Party and Affiliated Links Our Digital Offerings contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering. SourceMedia Magazines, Web Seminars, Events, Sites and Other Publications and Services As a SourceMedia customer you can also expect to receive relevant email and postal offers for SourceMedia publications, web seminars, white papers, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customer’s specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com. SourceMedia Sponsored Assets SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web Seminars, White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for these assets will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@sourcemedia.com. SourceMedia Events SourceMedia events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@sourcemedia.com. SourceMedia Web Seminars SourceMedia Web Seminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Web Seminar Sponsors use the information you provide, please contact the Sponsor directly. SourceMedia Web Seminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering Web Seminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the Web Seminars service. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. If you have any questions, please contact custserv@sourcemedia.com. Online Ad Serving We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp Cookies A \&quot;cookie\&quot; is a bit of data sent by a Web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. SourceMedia uses temporary, session-specific cookies to ensure visits to its Web site are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. SourceMedia also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a SourceMedia Web site. If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information. We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic. Pixel Tags Like many web sites, SourceMedia may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small JavaScript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable JavaScript; or there are commercial software packages available that can omit pixel tags and most advertisements. Opt-out Option Visitors to this Digital Offering and related products and services can decide if they want to receive promotional information from SourceMedia. On the visitor registration pages, you are expressly providing your consent to receive advertising and promotional information from SourceMedia and our affiliate partners. Any e-mail you receive will include instructions on how to be removed from SourceMedia’s promotional e-mail list and 3rd party sponsored mailings. If you continue receiving email after opting out, please contact us at custserv@sourcemedia.com. Security and Encryption This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet. This Digital Offering also uses password encryption to ensure your privacy when registering for newsletters, events, and other SourceMedia related media. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. We maintain a secure process to collect, transmit, and store your personally identifiable information. When you provide credit-card information online, we use secure socket layer (SSL) encryption to protect it. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. Subscribers can review or change online subscription or credit-card information at any time at My Account. We urge you to keep your online password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place, such as a library or Internet cafe. Notification of Changes SourceMedia reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy. Your Acceptance of these Terms By using our Digital Offering, products or services, you signify your acceptance of the terms of the SourceMedia Privacy Policy. If you do not agree to the terms of the SourceMedia Privacy Policy, please do not use the Digital Offering, products and/or services and exit the Digital Offering immediately. Your rights You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data. You can also notify us by contacting us at custserv@sourcemedia.com. The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that SourceMedia does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites. In The Event of Sale or Bankruptcy The ownership of SourceMedia may change at some point in the future. Should that occur, we want to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of SourceMedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in “Changes to Privacy Policy.” Changes to Privacy Policy SourceMedia may amend this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy. Spam We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists. Customer Service custserv@sourcemedia.com (800) 221-1809 Mail to: SourceMedia One State Street Plaza, 27th Floor New York, NY 10004 USA Questions? If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at custserv@sourcemedia.com.&quot;,
+    			&quot;url&quot;:&quot;https://www.sourcemedia.com/news/privacy-policy&quot;,
+    			&quot;redirectUrl&quot;:&quot;https://www.sourcemedia.com/news/privacy-policy&quot;,
+    			&quot;iconClass&quot;:&quot;icon&quot;,
+    			&quot;serviceProps&quot;:{
+					
+						&quot;linkedin&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>linkedin</span>&quot;
+						}
+						,
+					
+						&quot;twitter&quot;: {
+							
+							&quot;title&quot;: &quot;Privacy Policy&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>twitter</span>&quot;
+						}
+						,
+					
+						&quot;facebook&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>facebook</span>&quot;
+						}
+						,
+					
+						&quot;google&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>google</span>&quot;
+						}
+						
+					
+    			},
+                &quot;sharingClass&quot;       : &quot;share-link&quot;,
+                &quot;serviceClassBefore&quot; : &quot;&quot;
+    		}">
+		
 			
-			<li>
-				<div class="carousel-item-image"><a href="/gallery/10-people-in-your-organization-that-are-your-top-security-risks-10030321-1.html"><img width="100" src="http://cdn.information-management.com/media/gallery/p1b236pirc1bh1105cfj71d9s14gn6.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="/gallery/10-people-in-your-organization-that-are-your-top-security-risks-10030321-1.html">10 People In Your Organization That Are Your Top Security Risks</a></div>
-							</li>
+				<li class="linkedin-share">
+    
+</li>
+
+			
 		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="/gallery/7-top-lessons-from-the-state-of-the-cdo-study-10030272-1.html"><img width="100" src="http://cdn.information-management.com/media/gallery/p1b1jqiq3610v6827soj1n2dfns6.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="/gallery/7-top-lessons-from-the-state-of-the-cdo-study-10030272-1.html">7 Top Lessons from ‘The State of the CDO’ Study</a></div>
-							</li>
+			
+				<li class="twitter-share">
+    
+</li>
+
+			
 		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="/gallery/top-companies-for-data-center-outsourcing-226128-leaders-and-niche-players-10030297-1.html"><img width="100" src="http://cdn.information-management.com/media/gallery/p1b1ovc9trmdpn0n35vjo4986.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="/gallery/top-companies-for-data-center-outsourcing-226128-leaders-and-niche-players-10030297-1.html">Top Companies for Data Center Outsourcing – Leaders and Niche Players</a></div>
-							</li>
+			
+				<li class="facebook-share">
+    
+</li>
+
+			
 		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="/gallery/top-firms-for-data-center-outsourcing-226128-challengers-10030308-1.html"><img width="100" src="http://cdn.information-management.com/media/gallery/p1b1rienedmn9n9ggif1l9e1ng46.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="/gallery/top-firms-for-data-center-outsourcing-226128-challengers-10030308-1.html">Top Firms for Data Center Outsourcing – Challengers &amp; Visionaries</a></div>
-							</li>
+			
+				<li class="google-share">
+    
+</li>
+
+			
 		
-		  
-        	    
+	</ul>
+</span>
+
+    
+</a>
+
+    
+</div>
+<p>SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies SourceMedia does not own or control, or to individuals SourceMedia does not employ or manage, including operators of sites to which you may link from any SourceMedia web site. SourceMedia has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use.</p><p>AMERICAN BANKER RESEARCH REFUND POLICY. All sales of American Banker Research: Issues + Actions are final and no refunds will be issued after purchase is complete.</p><p><b>Information Collection and Dissemination</b><br><b>General Principles</b><br>In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the "Digital Offering") without identifying yourself or revealing any personal information.<br>As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you.<br>Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain SourceMedia trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, social media groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information.<br>If you receive relevant newsletters from SourceMedia’s publications and do not opt-out of these communications, we may decide to send you related promotional emails from time to time that we deem relevant to you.<br>We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes.<br>If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy.<br>If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc.<br><b>Information Sharing</b><br>We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only in the manner described in this privacy Policy. When you register for the Digital Offering or related products and services and are asked for personal information, you are sharing that information with SourceMedia as well as business partners and vendors providing hosting and other services for SourceMedia. Unless you opt-out, we will share your Personal Information with SourceMedia’s affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out; send us an email to custserv@sourcemedia.com.</p><p>Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.</p><p><b>Aggregated Information</b><br>We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties. Information about your visits to, and activity on, SourceMedia web sites, an IP address, and the number of times you have viewed an advertisement and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We do this to focus our communications and provide you content, services and offers we believe may be of interest to you. Your aggregated information about your visits to, and activity on, SourceMedia web sites may be provided from time to time to our advertisers of Sponsored Content. Refer SourceMedia “Sponsored Content” section in this Privacy Policy. SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web seminars White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for such assets including information on your visits to, and activity on, SourceMedia web sites may be shared with those Sponsors in order to contact you regarding their products and services in their normal course of business.</p><p><b>HTML verification and email tracking</b><br>When receiving email from us, we may place a small piece of code in that email to determine whether or not you can accept HTML images and whether or not you viewed and/or clicked on links contained in the email. This process does not leave any information on your computer, nor does it collect information from your computer. Email opt-outs. In the event you decide to unsubscribe from our newsletters or promotional emails we will honor your request within thirty business days.</p><p><b>Information on Children</b><br>As a business-to-business company, we do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults who are professionally engaged in the businesses we serve. Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.</p><p>Updating Visitor Information<br>Registered users have the option of accessing, correcting, updating and modifying Personal and/or Financial Information, or visitor profile, at any time and as often as desired. You may elect to stop receiving marketing material from SourceMedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page or by following instructions at the end of any such e-mail received.</p><p>If you desire to delete your Personal and/or Financial Information please contact us at custserv@sourcemedia.com.</p><p><b>Update Your Newsletter Subscriptions</b><br>You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com.</p><p><b>Update Your Print Subscription Information</b><br>You can correct or change your print subscription information by sending an email to custserv@sourcemedia.com. Please allow 2-4 weeks for changes to take effect.</p><p><b>Third Party and Affiliated Links</b><br>Our Digital Offerings contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering.</p><p>SourceMedia Magazines, Web Seminars, Events, Sites and Other Publications and Services<br>As a SourceMedia customer you can also expect to receive relevant email and postal offers for SourceMedia publications, web seminars, white papers, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customer’s specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com.</p><p><b>SourceMedia Sponsored Assets</b><br>SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web Seminars, White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for these assets will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Sponsors use the information you provide, please contact the Sponsor directly.</p><p>If you have any questions, please contact custserv@sourcemedia.com.</p><p><b>SourceMedia Events</b><br>SourceMedia events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.</p><p>If you have any questions, please contact custserv@sourcemedia.com.</p><p><b>SourceMedia Web Seminars</b><br>SourceMedia Web Seminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Web Seminar Sponsors use the information you provide, please contact the Sponsor directly.</p><p>SourceMedia Web Seminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering Web Seminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the Web Seminars service. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor.</p><p>If you have any questions, please contact custserv@sourcemedia.com.</p><p><b>Online Ad Serving</b><br>We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp</p><p><b>Cookies</b><br>A "cookie" is a bit of data sent by a Web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. SourceMedia uses temporary, session-specific cookies to ensure visits to its Web site are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. SourceMedia also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a SourceMedia Web site.</p><p>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information.</p><p>We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.</p><p><b>Pixel Tags</b><br>Like many web sites, SourceMedia may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small JavaScript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable JavaScript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p><p><b>Opt-out Option</b><br>Visitors to this Digital Offering and related products and services can decide if they want to receive promotional information from SourceMedia. On the visitor registration pages, you are expressly providing your consent to receive advertising and promotional information from SourceMedia and our affiliate partners. Any e-mail you receive will include instructions on how to be removed from SourceMedia’s promotional e-mail list and 3rd party sponsored mailings. If you continue receiving email after opting out, please contact us at custserv@sourcemedia.com.</p><p><b>Security and Encryption</b><br>This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet.</p><p>This Digital Offering also uses password encryption to ensure your privacy when registering for newsletters, events, and other SourceMedia related media. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. We maintain a secure process to collect, transmit, and store your personally identifiable information. When you provide credit-card information online, we use secure socket layer (SSL) encryption to protect it. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. Subscribers can review or change online subscription or credit-card information at any time at My Account.</p><p>We urge you to keep your online password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place, such as a library or Internet cafe.</p><p><b>Notification of Changes</b><br>SourceMedia reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy.</p><p><b>Your Acceptance of these Terms</b><br>By using our Digital Offering, products or services, you signify your acceptance of the terms of the SourceMedia Privacy Policy. If you do not agree to the terms of the SourceMedia Privacy Policy, please do not use the Digital Offering, products and/or services and exit the Digital Offering immediately.</p><p><b>Your rights</b><br>You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data. You can also notify us by contacting us at custserv@sourcemedia.com.</p><p>The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that SourceMedia does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.</p><p>In The Event of Sale or Bankruptcy<br>The ownership of SourceMedia may change at some point in the future. Should that occur, we want to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of SourceMedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in “Changes to Privacy Policy.”</p><p><b>Changes to Privacy Policy</b><br>SourceMedia may amend this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy.</p><p><b>Spam</b><br>We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists.</p><p><b>Customer Service</b><br>custserv@sourcemedia.com<br>(800) 221-1809</p><p><b>Mail to:</b></p><p>SourceMedia<br>One State Street Plaza, 27th Floor <br>New York, NY 10004 <br>USA</p><p><b>Questions?</b><br>If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at custserv@sourcemedia.com.<br></p>
+<div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=Privacy%20Policy%20%7C%20Source%20Media%20Dot%20Com&amp;body=SourceMedia%20provides%20market%20information%2C%20including%20news%2C%20analysis%2C%20and%20insight%20to%20the%20financial%20services%20and%20related%20industries%20such%20as%20accounting%20and%20technology%2C%20through%20its%20publications%2C%20industry-standard%20data%20applications%2C%20seminars%20and%20conferences.%0A%0Ahttps://www.sourcemedia.com/news/privacy-policy" class="action action-size--large" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a class="action action-size--large" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        <span class="share-links-wrapper">
+
+	<span class="share-links-title">Share on</span>
+
+	<ul class="share-links" data-bsp-share="" data-bsp-share-options="{
+    			&quot;description&quot;:&quot;SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences.&quot;,
+    			&quot;image&quot;:&quot;&quot;,
+    			&quot;title&quot;:&quot;SourceMedia provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies SourceMedia does not own or control, or to individuals SourceMedia does not employ or manage, including operators of sites to which you may link from any SourceMedia web site. SourceMedia has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use. AMERICAN BANKER RESEARCH REFUND POLICY. All sales of American Banker Research: Issues + Actions are final and no refunds will be issued after purchase is complete. Information Collection and Dissemination General Principles In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the \&quot;Digital Offering\&quot;) without identifying yourself or revealing any personal information. As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain SourceMedia trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, social media groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. If you receive relevant newsletters from SourceMedia’s publications and do not opt-out of these communications, we may decide to send you related promotional emails from time to time that we deem relevant to you. We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes. If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy. If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc. Information Sharing We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only in the manner described in this privacy Policy. When you register for the Digital Offering or related products and services and are asked for personal information, you are sharing that information with SourceMedia as well as business partners and vendors providing hosting and other services for SourceMedia. Unless you opt-out, we will share your Personal Information with SourceMedia’s affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out; send us an email to custserv@sourcemedia.com. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. Aggregated Information We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties. Information about your visits to, and activity on, SourceMedia web sites, an IP address, and the number of times you have viewed an advertisement and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We do this to focus our communications and provide you content, services and offers we believe may be of interest to you. Your aggregated information about your visits to, and activity on, SourceMedia web sites may be provided from time to time to our advertisers of Sponsored Content. Refer SourceMedia “Sponsored Content” section in this Privacy Policy. SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web seminars White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for such assets including information on your visits to, and activity on, SourceMedia web sites may be shared with those Sponsors in order to contact you regarding their products and services in their normal course of business. HTML verification and email tracking When receiving email from us, we may place a small piece of code in that email to determine whether or not you can accept HTML images and whether or not you viewed and/or clicked on links contained in the email. This process does not leave any information on your computer, nor does it collect information from your computer. Email opt-outs. In the event you decide to unsubscribe from our newsletters or promotional emails we will honor your request within thirty business days. Information on Children As a business-to-business company, we do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults who are professionally engaged in the businesses we serve. Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. Updating Visitor Information Registered users have the option of accessing, correcting, updating and modifying Personal and/or Financial Information, or visitor profile, at any time and as often as desired. You may elect to stop receiving marketing material from SourceMedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page or by following instructions at the end of any such e-mail received. If you desire to delete your Personal and/or Financial Information please contact us at custserv@sourcemedia.com. Update Your Newsletter Subscriptions You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com. Update Your Print Subscription Information You can correct or change your print subscription information by sending an email to custserv@sourcemedia.com. Please allow 2-4 weeks for changes to take effect. Third Party and Affiliated Links Our Digital Offerings contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering. SourceMedia Magazines, Web Seminars, Events, Sites and Other Publications and Services As a SourceMedia customer you can also expect to receive relevant email and postal offers for SourceMedia publications, web seminars, white papers, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customer’s specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to custserv@sourcemedia.com. SourceMedia Sponsored Assets SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web Seminars, White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for these assets will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@sourcemedia.com. SourceMedia Events SourceMedia events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact custserv@sourcemedia.com. SourceMedia Web Seminars SourceMedia Web Seminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Web Seminar Sponsors use the information you provide, please contact the Sponsor directly. SourceMedia Web Seminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering Web Seminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the Web Seminars service. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. If you have any questions, please contact custserv@sourcemedia.com. Online Ad Serving We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp Cookies A \&quot;cookie\&quot; is a bit of data sent by a Web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. SourceMedia uses temporary, session-specific cookies to ensure visits to its Web site are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. SourceMedia also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a SourceMedia Web site. If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information. We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic. Pixel Tags Like many web sites, SourceMedia may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small JavaScript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable JavaScript; or there are commercial software packages available that can omit pixel tags and most advertisements. Opt-out Option Visitors to this Digital Offering and related products and services can decide if they want to receive promotional information from SourceMedia. On the visitor registration pages, you are expressly providing your consent to receive advertising and promotional information from SourceMedia and our affiliate partners. Any e-mail you receive will include instructions on how to be removed from SourceMedia’s promotional e-mail list and 3rd party sponsored mailings. If you continue receiving email after opting out, please contact us at custserv@sourcemedia.com. Security and Encryption This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet. This Digital Offering also uses password encryption to ensure your privacy when registering for newsletters, events, and other SourceMedia related media. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. We maintain a secure process to collect, transmit, and store your personally identifiable information. When you provide credit-card information online, we use secure socket layer (SSL) encryption to protect it. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. Subscribers can review or change online subscription or credit-card information at any time at My Account. We urge you to keep your online password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place, such as a library or Internet cafe. Notification of Changes SourceMedia reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy. Your Acceptance of these Terms By using our Digital Offering, products or services, you signify your acceptance of the terms of the SourceMedia Privacy Policy. If you do not agree to the terms of the SourceMedia Privacy Policy, please do not use the Digital Offering, products and/or services and exit the Digital Offering immediately. Your rights You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data. You can also notify us by contacting us at custserv@sourcemedia.com. The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that SourceMedia does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites. In The Event of Sale or Bankruptcy The ownership of SourceMedia may change at some point in the future. Should that occur, we want to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of SourceMedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in “Changes to Privacy Policy.” Changes to Privacy Policy SourceMedia may amend this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy. Spam We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists. Customer Service custserv@sourcemedia.com (800) 221-1809 Mail to: SourceMedia One State Street Plaza, 27th Floor New York, NY 10004 USA Questions? If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at custserv@sourcemedia.com.&quot;,
+    			&quot;url&quot;:&quot;https://www.sourcemedia.com/news/privacy-policy&quot;,
+    			&quot;redirectUrl&quot;:&quot;https://www.sourcemedia.com/news/privacy-policy&quot;,
+    			&quot;iconClass&quot;:&quot;icon&quot;,
+    			&quot;serviceProps&quot;:{
+					
+						&quot;linkedin&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>linkedin</span>&quot;
+						}
+						,
+					
+						&quot;twitter&quot;: {
+							
+							&quot;title&quot;: &quot;Privacy Policy&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>twitter</span>&quot;
+						}
+						,
+					
+						&quot;facebook&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>facebook</span>&quot;
+						}
+						,
+					
+						&quot;google&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>google</span>&quot;
+						}
+						
+					
+    			},
+                &quot;sharingClass&quot;       : &quot;share-link&quot;,
+                &quot;serviceClassBefore&quot; : &quot;&quot;
+    		}">
+		
+			
+				<li class="linkedin-share">
+    
+</li>
+
+			
+		
+			
+				<li class="twitter-share">
+    
+</li>
+
+			
+		
+			
+				<li class="facebook-share">
+    
+</li>
+
+			
+		
+			
+				<li class="google-share">
+    
+</li>
+
+			
+		
+	</ul>
+</span>
+
+    
+</a>
+
+    
+</div>
+</div>
+    
+            
+        </article>
+    
+
+</div>
+    
+                
+        <div class="MainAsideLayout-aside"><!--sm-display-ad.hbs-->
+<div id="gpt-ad-" data-sm-google-ad-options="{
+        &quot;id&quot;:&quot;&quot;,
+        &quot;position&quot;:&quot;&quot;,
+        &quot;sizes&quot;:&quot;&quot;,
+        &quot;adUnitPath&quot;:&quot;&quot;,
+        &quot;keywords&quot;:&quot;&quot;,
+        &quot;person&quot;:&quot;&quot;,
+        &quot;organization&quot;:&quot;&quot;,
+        &quot;event&quot;:&quot;&quot;,
+        &quot;location&quot;:&quot;&quot;,
+        &quot;program&quot;:&quot;&quot;,
+        &quot;contentId&quot;:&quot;&quot;,
+        &quot;deferRendering&quot;:
+    
+    }">
+</div>
+<div class="module mod-reading-list sticky" data-sm-reading-list="">
+    
+    <h3 class="module-heading"></h3>
+
+    
+
+    
+
+    
+</div>
+</div>
+    
+            
+         </div>
+    
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	<footer class="Footer">
+		
+			<div class="Footer-body">
 				
-			<li>
-				<div class="carousel-item-image"><a href="/gallery/7-reasons-why-data-science-lacks-ethics-and-how-to-retrofit-morality-10030240-1.html"><img width="100" src="http://cdn.information-management.com/media/gallery/p1b16snnkf1m031fk01el06j4ova6.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="/gallery/7-reasons-why-data-science-lacks-ethics-and-how-to-retrofit-morality-10030240-1.html">7 Reasons Why Data Science Lacks Ethics, and How to Retrofit Morality</a></div>
-							</li>
+		<div class="Footer-profile">
+	
+
+	
+
+	
+
+	
+		<div class="CompanyProfile">
+			
+				
+		<div class="CompanyProfile-logo">
+	<div class="Logo">
+		
+			<a href="/" data-cms-ai="0">
+                <img src="https://assets.sourcemedia.com/resource/corporate/media/sm-logo-inverted.559607f43dde3199871fda477905cab7.svg" alt="SourceMedia" data-src-inverted="https://assets.sourcemedia.com/resource/corporate/media/sm-logo.bc393906f71fe55ba6205571f9a7aea7.svg">
+			</a>
+		
+	</div>
+</div>
+	
+				
+		<div class="CompanyProfile-address">One State Street Plaza<br>27th Floor<br>New York, NY 10004</div>
+	
+				
+		<div class="CompanyProfile-phone">212.803.8200</div>
+	
+			
+		</div>
+	
+
+</div>
+	
+				
+		<div class="Footer-social">
+	
+		
+		<h3 class="SocialLinks-title">Follow Us For Updates</h3>
+	
+		
+		<ul class="SocialLinks-items">
+			
+				<li class="SocialLinks-items-item">
+					
+	<a class="SocialLink SocialLink--facebook" href="https://www.facebook.com/SourceMediaCo/" alt="Facebook" target="_blank" data-cms-ai="0"></a>
+
+
+				</li>
+			
+				<li class="SocialLinks-items-item">
+					
+	<a class="SocialLink SocialLink--twitter" href="https://twitter.com/sourcemediaco" alt="Twitter" target="_blank" data-cms-ai="0"></a>
+
+
+				</li>
+			
+				<li class="SocialLinks-items-item">
+					
+	<a class="SocialLink SocialLink--linkedIn" href="https://www.linkedin.com/company/sourcemedia" alt="LinkedIn" target="_blank" data-cms-ai="0"></a>
+
+
+				</li>
+			
+				<li class="SocialLinks-items-item">
+					
+	<a class="SocialLink SocialLink--googlePlus" href="https://plus.google.com/+SourcemediaCo" alt="Google+" target="_blank" data-cms-ai="0"></a>
+
+
+				</li>
 			
 		</ul>
 	
-	<div id="see-all-links">
-		<div class="see-all-link"><a href="/more/gallery.html">More Slide Shows »</a></div><br>
-	</div>
 	
-  </div>
-	<!-- video gallery end -->
-		
-			
 
+</div>
 	
-		
-  
-			
+				<div class="Footer-navigationWrapper">
+					
+		<nav class="Footer-navigation">
+			<ul class="Footer-navigation-items">
 				
-						
-	
-<!-- ad start -->
-<div class="module">
-	<div class="advertisement">&nbsp;</div>
-		
-</div>
-<!-- ad end -->
-
+					<li class="Footer-navigation-items-item"><a href="/about" data-cms-ai="0">About</a></li>
 				
-<!-- ad start -->
-<div class="module">
-	<div class="advertisement">&nbsp;</div>
-		
-</div>
-<!-- ad end -->
-
-
-								</div>	<!-- right rail end -->
-			 			<div style="clear:both;"></div>
-		</div>	<!-- 2-col layout end -->
-	</div>  <!-- content end -->
-</div>
-
-</div><!-- wrapper -->
-
-<meta itemprop="image" content="http://cdn.information-management.com/media/ui/informationmgmt-socialshare-logo.png">
+					<li class="Footer-navigation-items-item"><a href="/about#contact" data-cms-ai="0">Contact</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/communities" data-cms-ai="0">Communities</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/services" data-cms-ai="0">Marketing Services</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/information-services" data-cms-ai="0">Subscription Information</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/events" data-cms-ai="0">Events</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/latest-news" data-cms-ai="0">Latest</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="/media-kits" data-cms-ai="0">Media Kits</a></li>
+				
+					<li class="Footer-navigation-items-item"><a href="https://careers-sourcemedia.icims.com/" data-cms-ai="0">Careers</a></li>
+				
+			</ul>
+		</nav>
 	
-<div id="footer-wrapper">
-	<div id="footer">
-	    <div class="frame clearfix">
-
-			<div class="left footer-col-1">
-				<h2><a href="http://www.information-management.com">Information Management</a></h2>
-				<div style="height:20px;"></div>
-				<ul>
-						<li><a href="http://www.information-management.com/about/">About Us</a></li>
-						<li><a href="http://www.information-management.com/about/contact.html">Contact Us</a></li>
-						<li><a href="http://www.sourcemediareprints.com/" target="_blank">Content Licensing</a></li>
-						<li><a href="http://www.sourcemedia.com/media_kits/information_management.html">Advertise with Us</a></li>
-						<li><a href="http://www.information-management.com/about/customer_service.html">Customer Service</a></li>
-						<li><a href="http://www.information-management.com/about/contact.html">Feedback</a></li>
-						<li><a href="http://www.information-management.com/profile/">My Account</a></li>
-						<li><a href="http://www.information-management.com/resources/sitemap.html">Site Map</a></li>
-						<li><a href="http://www.information-management.com/about/privacy.html">Privacy Policy</a></li>
-						<li><a href="http://www.information-management.com/about/editorial_calendar.html">Editorial Submissions</a></li>
-				</ul>
-			</div>
-			<div class="left footer-col-2">
-				<h2><a href="http://www.sourcemedia.com/">sourcemedia corporate site</a></h2>
-				<div style="height:20px;"></div>
-				<h2>banking</h2>
-				<ul>
-					<li><a href="http://www.americanbanker.com">American Banker</a></li>
-					<li><a href="http://www.cujournal.com">Credit Union Journal</a></li>
-					<!--<li><a href="http://www.americanbanker.com/magazine/">American Banker Magazine</a></li>-->
-				</ul>
-				<h2 class="second">mortgages</h2>
-				<ul>
-					<li><a href="http://www.nationalmortgagenews.com">National Mortgage News</a></li>
-				</ul>
-				<h2 class="second">payments</h2>
-				<ul>
-					<li><a href="http://www.paymentssource.com">PaymentsSource</a></li>
-					<li><a href="http://www.paymentssource.com/retail-acquiring">ISO &amp; Agent</a></li>
-				</ul>
-			</div>
-			<div class="left footer-col-3">
-				<h2>municipal finance</h2>
-				<ul>
-					<li><a href="http://www.bondbuyer.com">The Bond Buyer</a></li>
-				</ul>
-				<h2 class="second">capital markets</h2>
-				<ul>
-					<li><a href="http://www.themiddlemarket.com">Mergers &amp; Acquisitions</a></li>
-					<li><a href="http://www.structuredfinancenews.com">Asset Securitization Report</a></li>
-				</ul>
-				<h2 class="second">accounting</h2>
-				<ul>
-					<li><a href="http://www.accountingtoday.com">Accounting Today</a></li>
-					<li><a href="http://www.accountingtoday.com/taxprotoday">Tax Pro Today</a></li>
-				</ul>
-			</div>
-			<div class="left footer-col-4">
-				<h2>healthcare technology</h2>
-				<ul>
-					<li><a href="http://www.healthdatamanagement.com">Health Data Management</a></li>
-					<li><a href="http://www.insurancenetworking.com">Insurance Networking News</a></li>
-					<li><a href="http://www.information-management.com">Information Management</a></li>
-				</ul>
-				<h2 class="second">employee benefits</h2>
-				<ul>
-					<li><a href="http://www.benefitnews.com">Employee Benefit News</a></li>
-					<li><a href="http://www.employeebenefitadviser.com">Employee Benefit Adviser</a></li>
-				</ul>
-				<h2 class="second">investment advisory</h2>
-				<ul>
-					<li><a href="http://www.financial-planning.com">Financial Planning</a></li>
-					<li><a href="http://www.onwallstreet.com">On Wall Street</a></li>
-					<li><a href="http://www.bankinvestmentconsultant.com">Bank Investment Consultant</a></li>
-					<li><a href="http://www.mmexecutive.com">Money Management Executive</a></li>
-				</ul>
-			</div>
-
-		</div>
-		 <div id="footer-bottom" class="clearfix">
-				<div class="left" id="footer-bottom-logo">
-					<img src="http://cdn.information-management.com/media/ui/sm-logo-4c.png">
 				</div>
-				<div class="left" id="footer-bottom-more-links">
-					<div id="footer-bottom-privacy">
-					© 2016 <a href="http://www.sourcemedia.com/">SourceMedia</a>. All rights reserved.
-					</div>
-					<div id="mobile-link">
-					  <a href="?zkMobileView=true">Mobile Version</a>
-					</div>
-				</div>
-		 </div>
-	</div>
-</div>
-
-
-<script type="text/javascript">
-	$(document).ready(function(){
-		jQuery(function ($) {
-			$('.basic').click(function (e) {
-				$('#basic-modal-content').modal();
-				return false;
-			});
-		});
-		if (!window.XMLHttpRequest) {var isIE6 = true;}
-		var isiPad = navigator.userAgent.match(/iPad/i) != null;
-		var isiPhone = navigator.userAgent.match(/iPhone/i) != null;
-		var isMobile = "";
-		if ( (isiPad)|| (isiPhone) || (isMobile) ) {
-			$('#term').addClass("ipad-search-box");
-		} else {
-			$('#term').addClass("web-search-box");
-		}
-	});
-</script>
-
-<!-- add overlay -->
-
-	<div style="display: none;">
-	<div id="signInContainer" class="grid_8">
-				
-		<div class="clearfix" id="logged-out-login">
+			</div>
 			
-		  
-		  <div id="login-left" class="left">
-		  	<form method="post" action="/profile/">
-				<input type="hidden" name="zkLogin" value="true">
-				<input type="hidden" name="zkLoginRedirectUrl" value="/about/privacy.html"> 
-				<input type="hidden" name="return_url" value="/about/privacy.html">     
-		  	<div id="login-disclaimer">
-		    	Please note you must now log in with your <strong>email address</strong> and password.
-		    </div>
-		    <div class="login-input login-input-text">
-		    	E-MAIL ADDRESS
-		      <br>
-		      <input type="email" name="login_id" id="login_id" value="" class="text">
-		    </div>                                    
-		    <div class="login-input login-input-text">
-		    	PASSWORD
-		      <br>
-		      <input type="password" name="login_pwd" id="login_pwd" value="" class="text">
-		    </div>                                    
-		    <div class="login-input">
-		    	<input type="image" src="http://cdn.information-management.com/media/ui/login.png">
-		    </div>
-		    <div class="login-input login-input-checkbox">
-		    	<input name="zkMaintainState" type="checkbox" class="ckBox" value="1" id="zkMaintainState" checked="checked"> Remember me
-		    </div>
-		    </form>
-		  </div>
-		  
-		  <div id="login-right" class="left">
-		  	<a href="/account/login/reset/">Forgot your password?</a>
-		    <br><br>
-		    <a href="/about/contact.html">Contact customer service.</a>
-		  </div>
-		  
-		</div>
-
-	</div>
-</div> 
-<script type="text/javascript">
-  $(document).ready(function() {
-		$('.popup').click(function(event) {
-	    var width  = 575,
-	        height = 400,
-	        left   = ($(window).width()  - width)  / 2,
-	        top    = ($(window).height() - height) / 2,
-	        url    = this.href,
-	        opts   = 'status=1' +
-	                 ',width='  + width  +
-	                 ',height=' + height +
-	                 ',top='    + top    +
-	                 ',left='   + left;
-	    window.open(url, 'socialshare', opts);
-	    return false;
-	  });
-	});
-</script>
-<script>
-	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-	</script>
-<!-- Place this render call where appropriate -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 993802649;
-var google_conversion_label = "ft3pCI_NpRUQmfPw2QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993802649/?value=0&amp;label=ft3pCI_NpRUQmfPw2QM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-<script type="text/javascript">
-(function() {
-var didInit = false;
-function initMunchkin() {
-if(didInit === false) {
-didInit = true;
-//Add Params to the init method
-Munchkin.init('555-ETU-514', {'altIds':['651-ZTW-782']});
-}
-}
-var s = document.createElement('script');
-s.type = 'text/javascript';
-s.async = true;
-s.src = '//munchkin.marketo.net/munchkin.js';
-s.onreadystatechange = function() {
-if (this.readyState == 'complete' || this.readyState == 'loaded') {
-initMunchkin();
-}
-};
-s.onload = initMunchkin;
-document.getElementsByTagName('head')[0].appendChild(s);
-})();
-</script>
+		<div class="Footer-copyright">© 2017 SourceMedia LLC. All rights reserved. SourceMedia is an Observer Capital company. Use, duplication, or sale of this service, or data contained herein, is strictly prohibited. All audience and traffic data based on company reports and estimates as of Q1 2016. <a href="/privacypolicy" class="Footer-privacy-policy" data-cms-ai="0">Privacy Policy</a></div>
 	
-	
-			<!-- Quantcast Tag -->
-		<script type="text/javascript">
-		var _qevents = _qevents || [];
-		(function() {
-		var elem = document.createElement('script');
-		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-		elem.async = true;
-		elem.type = "text/javascript";
-		var scpt = document.getElementsByTagName('script')[0];
-		scpt.parentNode.insertBefore(elem, scpt);
-		})();
-		_qevents.push({
-		qacct:"p-a2frTBW8R4ZJc"
-		});
-		</script>
 		
-		<noscript>
-		<div style="display:none;">
-		<img src="//pixel.quantserve.com/pixel/p-a2frTBW8R4ZJc.gif" border="0" height="1" width="1" alt="Quantcast"/>
-		</div>
-		</noscript>
-		<!-- End Quantcast tag -->
-		
-<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=41089=941430[8760]" width="1" height="1" border="0">
-<!--Adblock Check--> <script type="text/javascript" src="http://cdn.information-management.com/media/js/ads.js"></script> <script type="text/javascript"> jQuery(document).ready(checkAds()); function checkAds(){if( window.canRunAds === undefined ){ document.write("<script>ga('send','event','Adblock', 'Blocked');</sc" + "ript>");}else{document.write("<script> ga('send', 'event','Adblock', 'Unblocked');</sc" + "ript>");}} </script> <!--End Adblock Check-->
+	</footer>
 
-<script>
-   (function() {
-       var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
-   s.type='text/javascript';
-   s.async=true;
-   s.src=sc+'s.dpmsrv.com/dpm_c415505dca69be631ca5d391b3ccd2b44b52d017.min.js';
-   h.appendChild(s);
-   })();
-</script>
 
+
+
+	<script type="text/javascript" src="https://assets.sourcemedia.com/resource/corporate/All.min.5593703a063db0060413442304aaec9a.js"></script>
+
+
+
+        <script type="text/javascript" src="//www.sourcemedia.com/_resource/analytics.js" data-cms-main-id="00000154-ca33-d5fa-a557-df7b012e0002,00000156-3232-d429-a7d7-feb2c2ca0000" data-cms-ids="[&quot;00000154-ca33-d5fa-a557-df7b012e0002,00000156-3232-d429-a7d7-feb2c2ca0000&quot;]"></script>
+    
+            
+        
+    
 
 </body></html>
