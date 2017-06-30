@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812122958id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630092809id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Drivers - special programs that are necessary for the correct interaction of computer devices with the Windows operating system. Read more about [DriverUpdaterPro](https://web.archive.org/driverupdaterpro.html)
 
 |  | 
 
