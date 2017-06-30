@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the gofundme.com privacy policy that was archived on 2016-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213162140id_/http%3A//www.gofundme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gofundme.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630210754id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
-    <meta content="text/html; charset=utf8" http-equiv="Content-type">
-    <meta charset="utf8">
-    <meta content="ie=edge" http-equiv="x-ua-compatible"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDTFTZ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIGUFdSGwoAVFVRDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+    <meta content="ie=edge" http-equiv="x-ua-compatible">
     <title>GoFundMe Privacy Policy</title>
 
+    <link rel="canonical" href="https://www.gofundme.com/privacy">
+    
+    
+    
     <link href="//funds.gofundme.com/favicon/4.ico" rel="shortcut icon" type="image/x-icon">
     <meta content="This page contains the privacy policy for the online fundraising service GoFundMe." name="description">
     <meta content="GoFundMe, online fundraising, donation website, donations online, accept donations " name="Keywords">
@@ -17,11 +20,13 @@
     <meta content="407682420960" property="fb:app_id">
 
     
-    <script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDTFTZ"></script><script>
     GFM_DOMAIN = "gofundme.com";
     FACEBOOK_APP_ID = "407682420960";
-</script>            <link href="https://funds.gofundme.com/css/marketing/app.min.css?v=15.55&amp;url=1" media="all" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Lato:300,900" rel="stylesheet" type="text/css">
+    GOOGLE_CLIENT_ID = "915486944487-ivo3ng6it92lj44ka8ca7nro7o5kk3om.apps.googleusercontent.com";
+</script>
+            <link href="https://funds.gofundme.com/css/marketing/app.min.css?v=18.39&amp;url=1" media="all" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet" type="text/css">
     <!-- Load jQuery from Google CDN, fall back with local version -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script>
@@ -30,37 +35,20 @@
 
 <!-- If production, don't show JQMigrate logging -->
     <script src="https://code.jquery.com/jquery-migrate-1.4.0.min.js" integrity="sha256-nxdiQ4FdTm28eUNNQIJz5JodTMCF5/l32g5LwfUwZUo=" crossorigin="anonymous"></script>
-    <script src="//funds.gofundme.com/js/3.0/jquery.cookie.js"></script>
     <!-- Start Analytics -->
-<script type="text/javascript">
-    (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;}})(document,window.mixpanel||[]);
-</script>
-<script src="//funds.gofundme.com/js/3.0/mixpanel-2.7.5.min.js" type="text/javascript"></script>
-<script src="//funds.gofundme.com/js/3.0/jquery.cookie.js" type="text/javascript"></script>
 
 <script>
-    // Default endpoint
-    mixpanel.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoiZ29mdW5kbWUtZmFzdHRyYWNrIiwiaW5wdXRMYWJlbCI6Ik1vYmlsZV9TREsiLCJpbnB1dFR5cGUiOiJKU1NESyJ9.VcK4Qu7IFdx-4eaNvFpO6-k7uLU4BnnoCaUKfLDYXBM", {"api_host":"https://inputs.alooma.com", track_links_timeout: 300, track_pageview: false, disable_notifications: true}, 'default');
-    // Impressions endpoint
-    mixpanel.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoiZ29mdW5kbWUtZmFzdHRyYWNrIiwiaW5wdXRMYWJlbCI6ImpzX2ltcHJlc3Npb25zIiwiaW5wdXRUeXBlIjoiSlNTREsifQ.b5cv2xeiayTkWNVbv-Hg9BGILIHwgE1nL2Tl2OaPVIA", {"api_host":"https://inputs.alooma.com", track_links_timeout: 300, track_pageview: false, disable_notifications: true}, 'impression');
-    var arrayToClear = ["fund_id", "fund_name", "user_id", "person_id", "rcid", "donation", "experimentvariant_ids", "viewid", "viewrid", "pc_code", "rendered_at", "gfm", "flows", "flow"];
-    var arrayLength = arrayToClear.length;
-    for (var i = 0; i < arrayLength; i++) {
-        mixpanel.default.unregister(arrayToClear[i]);
-        mixpanel.impression.unregister(arrayToClear[i]);
+    var GFM = GFM || {};
+    GFM.components = GFM.components || {};
+    GFM.components.visitorCookieStrings = {
+        privacyLine: 'By continuing to use the website, you will be agreeing to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies.</a>',
+        responsivePrivacyLine: 'By continuing to use the website,</div><div class="disp-ib">&nbsp;you agree to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies</a>'
     }
 </script>
 
-<script src="//funds.gofundme.com/js/4.0/analytics.js?v=15.55" type="text/javascript"></script>
-<script src="//funds.gofundme.com/js/5.0/components/gaEventTracking.js?v=15.55" type="text/javascript"></script>
-<script src="//funds.gofundme.com/js/5.0/app/signup/coAnalytics.js?v=15.55" type="text/javascript"></script>
+<script src="//funds.gofundme.com/js/build/headerIncludes.min.js?v=18.39"></script>
 
-    <script src="//funds.gofundme.com/node_modules/node-polyglot/build/polyglot.js" type="text/javascript"></script>
-    <script src="//funds.gofundme.com/js/5.0/helpers/jsStringExternalization.js" type="text/javascript"></script>
-
-
-<script src="//funds.gofundme.com/js/5.0/components/visitorCookie.js" type="text/javascript"></script>
-
+<script src="//funds.gofundme.com/js/5.0/app/signup/coAnalytics.js?v=18.39" type="text/javascript"></script>
 <script type="text/javascript">
 try {
 
@@ -73,15 +61,15 @@ try {
 var allowDebug = false;
 GFM.analytics.data.clickstream=false;GFM.analytics.setData("u", "");
 GFM.analytics.setData("p", "");
-GFM.analytics.setData("fud", "2f65284845394afda7ac4aa4b486ce21");
+GFM.analytics.setData("fud", "65ca9527463841f881d77ceeba2d0114");
 GFM.analytics.setData("flw", "");
-GFM.analytics.setData("a", "52508a780196400b997456f8ec70db42");
+GFM.analytics.setData("a", "308d58fdb2f546c2b76deebdebb44e97");
 GFM.analytics.setData("pcd", "");
-GFM.analytics.setData("vri", "94c55b80c21d4362a2f285c11658caab");
+GFM.analytics.setData("vri", "97e33e5a89dd4ad8ae930354245d4518");
 GFM.analytics.setData("lang", "");
 GFM.analytics.setData('vi', 'pg_index_new_privacy');
 GFM.analytics.setData('ra', $.now());
-GFM.analytics.setData("gfm", {"os":"Other","browser":"Other","platform":"desktop","country":"US","lat":37.781101226807,"long":-122.46250152588});
+GFM.analytics.setData("gfm", {"os":"Other","browser":"Other","platform":"desktop","country":"US","lat":37.774898529053,"long":-122.41940307617,"paid_code":"rf_wnd_com\/"});
 
 package = GFM.analytics.getPackage();
 mixpanel.default.register(package);
@@ -94,6 +82,7 @@ mixpanel.impression.register(package);
         window.console.log("Broken load: " + e);
     }
 } // begun immediately after <script>
+
 
 </script>
 <!-- End Analytics -->
@@ -121,7 +110,7 @@ mixpanel.impression.register(package);
         }
     </script>
 </head>
-<body class="theme-gfm sticky-header lang-en_US pg-content" ontouchstart="">
+<body class="theme-gfm sticky-header  lang-en_US pg-content" ontouchstart="">
 <script>
 window.dataLayer = window.dataLayer || [ ];
 dataLayer.push(GFM.analytics.getGaDataLayer());
@@ -147,8 +136,10 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 })(window,document,'script','dataLayer','GTM-TDTFTZ');} catch (ignore) {}</script>
 <!-- End Production Google Tag Manager -->
 
-<!-- TODO(zsaraf): add global nav polyglot hash js file here AND in gulp.scripts.config.js -->
-    
+
+
+
+
 <!-- Add a class of .global-nav-simple to remove all buttons and links -->
 <div class="fixed-container ">
     <div class="reveal-overlay reveal-overlay--global-nav js-nav-reveal-overlay"></div>
@@ -161,32 +152,8 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                 <a href="/" class="logo-single" data-gfm-analytics-element="btn_nav_gfm_logo">GoFundMe</a>
 
                 <!-- MENU ICON -->
-                <button id="nav-menu-hamburger-icon" type="button" class="tcon tcon-menu--xcross top-bar-nav-icon top-bar-nav-icon--hamburger" aria-label="Toggle Menu" data-gfm-analytics-element="btn_nav_hamburger_icon" data-show-referral-badge="0">
+                <button id="nav-menu-hamburger-icon" type="button" class="tcon tcon-menu--xcross top-bar-nav-icon top-bar-nav-icon--hamburger" aria-label="Toggle Menu" data-gfm-analytics-element="btn_nav_hamburger_icon">
                     <span class="tcon-menu__lines" aria-hidden="true"></span>
-                    <span class="tcon-visuallyhidden">Toggle Menu</span>
-                </button>
-
-                <!-- DESKTOP SEARCH AND LEFT LINKS -->
-                <ul id="nav-left-links-contain-large" class="menu-divided menu horizontal ml float-left show-for-large">
-                    <li id="nav-search-input-contain-large">
-                        <div class="search-with-icon search-with-icon--green js-search-nav-contain-large ml">
-                            <input id="global-nav-search" type="text" class="js-search-nav-bar-large top-bar-search" placeholder="Search">
-                        </div>
-                        <ul class="search-drop js-search-nav-drop-large hide"></ul>
-                    </li>
-                                    </ul>
-
-                <!-- DESKTOP SHARE BUTTONS -->
-                                    <ul class="menu-divided menu-divided--after menu horizontal float-right show-for-large js-hide-desktop-nav-search">
-                                                        <li>
-                                    <a href="/sign-up" data-gfm-analytics-element="link_nav_start_fundraiser" data-open-modal="">Start a Fundraiser</a>
-                                </li>
-                                                </ul>
-                
-                <!-- SEARCH ICON -->
-                <button id="nav-menu-search-icon" type="button" class="tcon tcon-search--xcross top-bar-nav-icon top-bar-nav-icon--search hide-for-large float-right" aria-label="Toggle Search" data-gfm-analytics-element="btn_nav_search_icon">
-                    <span class="tcon-search__item" aria-hidden="true"></span>
-                    <span class="tcon-visuallyhidden">Toggle Search</span>
                 </button>
 
                 <!-- HAMBURGER DROPDOWN MENU -->
@@ -205,15 +172,37 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                                         <a href="/tour" data-gfm-analytics-element="link_nav_tour" data-open-modal="">How It Works</a>
                                     </li>
                                                                     <li class="">
-                                        <a href="/contact" data-gfm-analytics-element="link_nav_help" data-open-modal="">Help</a>
+                                        <a href="https://support.gofundme.com" data-gfm-analytics-element="link_nav_help" data-open-modal="">Help</a>
                                     </li>
                                                                     <li class="">
                                         <a href="/sign-in" data-gfm-analytics-element="link_nav_sign_in" data-open-modal="">Sign In</a>
                                     </li>
                                                         </ul>
                     </div>
-                    <!-- GROW-258 referral CTA in dropdown menu todo(dhuang) remove when done -->
-                                    </div>
+                </div> <!-- END HAMBURGER DROPDOWN MENU (CHEESE) -->
+
+
+                <!-- DESKTOP SEARCH AND LEFT LINKS -->
+                <ul id="nav-left-links-contain-large" class="menu-divided menu horizontal ml float-left show-for-large">
+                    <li id="nav-search-input-contain-large" class="hide-when-search-disabled">
+                        <div class="search-with-icon search-with-icon--green js-search-nav-contain-large ml">
+                            <input id="global-nav-search" type="text" class="js-search-nav-bar-large top-bar-search" placeholder="Search">
+                        </div>
+                        <ul class="search-drop js-search-nav-drop-large hide"></ul>
+                    </li>
+                                    </ul>
+
+                <!-- DESKTOP SHARE BUTTONS -->
+                                    <ul class="menu-divided menu-divided--after menu horizontal float-right show-for-large js-hide-desktop-nav-search">
+                                                        <li>
+                                    <a href="/sign-up" data-gfm-analytics-element="link_nav_start_fundraiser" data-open-modal="">Start a Fundraiser</a>
+                                </li>
+                                                </ul>
+                
+                <!-- SEARCH ICON -->
+                <button id="nav-menu-search-icon" type="button" class="tcon tcon-search--xcross top-bar-nav-icon top-bar-nav-icon--search hide-for-large float-right" aria-label="Toggle Search" data-gfm-analytics-element="btn_nav_search_icon">
+                    <span class="tcon-search__item" aria-hidden="true"></span>
+                </button>
 
                 <!-- SEARCH DROPDOWN MENU -->
                 <div id="nav-menu-search-dropdown" class="top-bar-menu top-bar-menu--full row" style="display:none;">
@@ -368,6 +357,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 <div class="row mt30 large-collapse">
     <div class="small-12 column">
 
+        
         <div class="callout-center callout primary">
             <div class="row">
                                     <div class="small-12 large-8 column">
@@ -384,10 +374,15 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         <div class="callout primary text-center hide-for-large">
             <h4>Download the App</h4>
             <div class="mb20">Our native Android and iOS apps unlock GoFundMe's full potential!</div>
-            <div class="app-contain cf">
-
-                <a href="https://itunes.apple.com/app/apple-store/id734130700?pt=2179020&amp;ct=gofundme_public_web_mobileapp&amp;mt=8" border="0" class="img-app-store">Available on the App Store</a>
-                <a href="https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&amp;referrer=utm_source%3Dgofundme%26utm_medium%3Dpublic_web_mobileapp" border="0" class="img-play-store">Get it on Google Play</a>
+            <div class="media-object stack-for-small">
+                <div class="media-object-section">
+                    <a href="https://itunes.apple.com/app/apple-store/id734130700?pt=2179020&amp;ct=gofundme_public_web_mobileapp&amp;mt=8" border="0" class="img-app-store">Available on the App Store</a>
+                </div>
+                <div class="media-object-section">
+                    <a href="https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&amp;referrer=utm_source%3Dgofundme%26utm_medium%3Dpublic_web_mobileapp" border="0" class="media-object-section img-play-store">Get it on Google Play</a>
+                </div>
+                
+                
             </div>
         </div>
 
@@ -395,17 +390,17 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
             <h1 class="text-center">Why GoFundMe?</h1>
             <div class="show-for-large mb30"></div>
             <div class="row large-uncollapse">
-                <div class="small-12 large-5 large-push-1 column">
+                <div class="small-12 large-6 column">
                     <ul class="list-with-checks fa-ul mb0">
                         <li><i class="fa-li fa fa-check"></i>Mobile-Friendly Campaigns</li>
                         <li><i class="fa-li fa fa-check"></i>No penalties for missing goal</li>
                         <li><i class="fa-li fa fa-check"></i>GoFundMe Mobile App</li>
                     </ul>
                 </div>
-                <div class="small-12 large-5 large-pull-1 column">
+                <div class="small-12 large-6 column">
                     <ul class="list-with-checks fa-ul">
                         <li><i class="fa-li fa fa-check"></i>No deadlines or goal requirements</li>
-                        <li><i class="fa-li fa fa-check"></i>5-Minute Email Support</li>
+                        <li class="is-5min"><i class="fa-li fa fa-check"></i>5-Minute Email Support</li>
                         <li><i class="fa-li fa fa-check"></i>Keep every donation you receive</li>
                     </ul>
                 </div>
@@ -413,7 +408,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
             <div class="show-for-large mb20"></div>
             <div class="row">
                 <div class="column small-12 large-6 large-centered">
-                    <a href="/sign-up" class="button expanded primary large">Start a Fundraiser</a>
+                    <a href="/sign-up" data-gfm-analytics-element="btn_footer_why_gofundme_signup" class="button expanded primary large">Start a Fundraiser</a>
                 </div>
             </div>
         </div>
@@ -427,92 +422,150 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 <!-- Footer -->
 
 <footer class="js-under-overlay">
-    <div class="footer-contain row small-collapse large-uncollapse">
-        <div class="column small-12">
-            <div class="layer-white pl0 pr0">
-                
-                <!-- Mobile Footer links -->
-                <div class="row small-12 column">
-    				<ul class="footer-menu vertical menu hide-for-large mb0" data-accordion-menu="">
-    			            			            <li class="footer-link">
-    			                <a href="#">Get Started</a>
-    			                <ul class="menu vertical nested">
-    			                                                                			                        <li class=""><a href="/tour">How It Works</a></li>
-    			                                                                			                        <li class=""><a href="/pricing">Pricing and Fees</a></li>
-    			                                                                			                        <li class=""><a href="/questions">Common Questions</a></li>
-    			                                                                			                        <li class=""><a href="/success">Success Stories</a></li>
-    			                                                                			                        <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
-    			                        			                </ul>
-    			            </li>
-    			            			            <li class="footer-link">
-    			                <a href="#">Learn More</a>
-    			                <ul class="menu vertical nested">
-    			                                                                			                        <li class=""><a href="/about-us">About Us</a></li>
-    			                                                                			                        <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
-    			                                                                			                        <li class=""><a href="/press">Press</a></li>
-    			                                                                			                        <li class="hide-non-en_US"><a href="/fundraising-ideas">Fundraising Ideas</a></li>
-    			                                                                			                        <li class=""><a href="/jobs">We're Hiring!</a></li>
-    			                        			                </ul>
-    			            </li>
-    			            			            <li class="footer-link">
-    			                <a href="#">Get Support</a>
-    			                <ul class="menu vertical nested">
-    			                                                                			                        <li class=""><a href="/contact">Ask a Question</a></li>
-    			                                                                			                        <li class=""><a href="http://support.gofundme.com/hc/en-us">Help Center</a></li>
-    			                                                                			                        <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
-    			                        			                </ul>
-    			            </li>
-    			            			    </ul><!--/.vertical .menu-->
+    <div class="footer-contain layer-white">
+        <div class="row small-collapse large-uncollapse">
+            <div class="column small-12">
 
-
-    			    <div class="small-12 large-4 column">
-                		<div class="show-for-large">
-                			<div class="logo-large mb30"></div>
-                                            		</div>
-                        <div class="select-contain-width">
-    <select class="js-locale-select form-text form-select">
-        <option value="en_US">English</option>
-        <option value="es_ES">Español</option>
-    </select>
+                    <div class="gfm-guarantee-footer value-props row column">
+                        <div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--trophy"></div>
+    <div class="prop-content">
+        <h4>#1 Fundraising Platform</h4>
+        <div>
+            People have raised more money on GoFundMe than anywhere else.        </div>
+        <div>
+            <a href="//www.gofundme.com/tour" class="read-more">How It Works</a>
+        </div>
+    </div>
 </div>
-                	</div>
+<div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--secure"></div>
+    <div class="prop-content">
+        <h4>GoFundMe Guarantee</h4>
+        <div>
+            Your donation is protected. If anything is not right, we’ll give you a full refund.        </div>
+        <div>
+            <a href="//www.gofundme.com/guarantee-refund-policy" class="read-more">Learn More</a>
+        </div>
+    </div>
+</div>
+<div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--clock"></div>
+    <div class="prop-content">
+        <h4>5-Minute Support</h4>
+        <div>
+            Contact us with your questions and we'll reply in 5 minutes—24/7.        </div>
+        <div>
+            <a href="//www.gofundme.com/contact?t=home_page_question" class="read-more">Get Help</a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="dotted-line ml mr"></div>
+                    <!-- Mobile Footer links -->
+                    <div class="row small-12 column">
+        				<ul class="footer-menu vertical menu hide-for-large mb0" data-accordion-menu="">
+        			                			            <li class="footer-link">
+        			                <a href="#">Get Started</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/tour">How It Works</a></li>
+        			                                                                        			                        <li class=""><a href="/pricing">Pricing and Fees</a></li>
+        			                                                                        			                        <li class=""><a href="/questions">Common Questions</a></li>
+        			                                                                        			                        <li class=""><a href="/success">Success Stories</a></li>
+        			                                                                        			                        <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Top Categories</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/medical-fundraising">Medical Fundraising</a></li>
+        			                                                                        			                        <li class=""><a href="/funeral-memorial-fundraising">Memorial Fundraising</a></li>
+        			                                                                        			                        <li class=""><a href="/charity-fundraising">Charity Fundraising</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Learn More</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/about-us">About Us</a></li>
+        			                                                                        			                        <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
+        			                                                                        			                        <li class=""><a href="/press">Press</a></li>
+        			                                                                        			                        <li class="hide-non-en_US"><a href="/fundraiser-success-tips">Fundraising Ideas</a></li>
+        			                                                                        			                        <li class=""><a href="/jobs">We're Hiring!</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Get Support</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us">Ask a Question</a></li>
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us">Help Center</a></li>
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			    </ul><!--/.vertical .menu-->
 
-                	<div class="footer-col-adjust large-8 column large-uncollapse show-for-large">
-    	                    	                    <div class="column large-4">
-    	                        <div class="list-heading">Get Started</div>
-    	                        <ul class="list-links">
-    	                                                                        	                                <li class=""><a href="/tour">How It Works</a></li>
-    	                                                                        	                                <li class=""><a href="/pricing">Pricing and Fees</a></li>
-    	                                                                        	                                <li class=""><a href="/questions">Common Questions</a></li>
-    	                                                                        	                                <li class=""><a href="/success">Success Stories</a></li>
-    	                                                                        	                                <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
-    	                                	                        </ul>
-    	                    </div>
-    	                    	                    <div class="column large-4">
-    	                        <div class="list-heading">Learn More</div>
-    	                        <ul class="list-links">
-    	                                                                        	                                <li class=""><a href="/about-us">About Us</a></li>
-    	                                                                        	                                <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
-    	                                                                        	                                <li class=""><a href="/press">Press</a></li>
-    	                                                                        	                                <li class="hide-non-en_US"><a href="/fundraising-ideas">Fundraising Ideas</a></li>
-    	                                                                        	                                <li class=""><a href="/jobs">We're Hiring!</a></li>
-    	                                	                        </ul>
-    	                    </div>
-    	                    	                    <div class="column large-4">
-    	                        <div class="list-heading">Get Support</div>
-    	                        <ul class="list-links">
-    	                                                                        	                                <li class=""><a href="/contact">Ask a Question</a></li>
-    	                                                                        	                                <li class=""><a href="http://support.gofundme.com/hc/en-us">Help Center</a></li>
-    	                                                                        	                                <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
-    	                                	                        </ul>
-    	                    </div>
-    	                
-                	</div>
-                </div><!--/.row-->
 
-            </div><!--/.layer-white-->
-        </div><!--/.column-->
-    </div><!--/.row-->
+        			    <div class="small-12 large-4 column">
+                    		<div class="show-for-large">
+                    			<div class="logo-large mb30"></div>
+                                                    		</div>
+                            <div class="select-contain-width">
+    <select class="js-locale-select form-text form-select">
+                    <option value="en_US">English (US)</option>
+                    <option value="en_GB">English (UK)</option>
+                    <option value="es_ES">Español</option>
+                    <option value="de_DE">Deutsch</option>
+                    <option value="fr_FR">Français</option>
+                    <option value="it_IT">Italiano</option>
+                    <option value="nl_NL">Nederlands</option>
+            </select>
+</div>
+                    	</div>
+
+
+                    	<div class="footer-col-adjust large-8 column large-uncollapse show-for-large">
+        	                        	                    <div class="column large-3">
+        	                        <div class="list-heading">Get Started</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/tour">How It Works</a></li>
+        	                                                                                	                                <li class=""><a href="/pricing">Pricing and Fees</a></li>
+        	                                                                                	                                <li class=""><a href="/questions">Common Questions</a></li>
+        	                                                                                	                                <li class=""><a href="/success">Success Stories</a></li>
+        	                                                                                	                                <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3">
+        	                        <div class="list-heading">Top Categories</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/medical-fundraising">Medical Fundraising</a></li>
+        	                                                                                	                                <li class=""><a href="/funeral-memorial-fundraising">Memorial Fundraising</a></li>
+        	                                                                                	                                <li class=""><a href="/charity-fundraising">Charity Fundraising</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3">
+        	                        <div class="list-heading">Learn More</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/about-us">About Us</a></li>
+        	                                                                                	                                <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
+        	                                                                                	                                <li class=""><a href="/press">Press</a></li>
+        	                                                                                	                                <li class="hide-non-en_US"><a href="/fundraiser-success-tips">Fundraising Ideas</a></li>
+        	                                                                                	                                <li class=""><a href="/jobs">We're Hiring!</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3">
+        	                        <div class="list-heading">Get Support</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us">Ask a Question</a></li>
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us">Help Center</a></li>
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                                    	</div>
+                    </div><!--/.row-->
+
+
+            </div><!--/.column-->
+        </div><!--/.row-->
+    </div><!--/.layer-contain-->
 
     <!-- GFM footer, TOS, privacy policy links -->
     <div class="site-info row">
@@ -525,7 +578,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 	                <li><a href="/privacy">Privacy</a></li>
 	                <li><a href="/legal">Legal</a></li>
 	            </ul>
-	            <div>© 2010-2016 GoFundMe</div>
+	            <div>© 2010-2017 GoFundMe</div>
 	            <ul class="menu social-links">
 	                <li><a href="https://www.facebook.com/gofundme"><i class="fa fa-facebook-official fb-blue" aria-hidden="true"></i></a></li>
 	                <li><a href="https://twitter.com/gofundme"><i class="fa fa-twitter tw-blue" aria-hidden="true"></i></a></li>
@@ -537,7 +590,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         	<div class="row show-for-large">
 	        	<div class="large-6 column">
 		            <ul class="menu pl">
-		                <li>© 2010-2016 GoFundMe</li>
+		                <li>© 2010-2017 GoFundMe</li>
 		                <li><a href="/terms">Terms</a></li>
 		                <li><a href="/privacy">Privacy</a></li>
 		                <li><a href="/legal">Legal</a></li>
@@ -559,7 +612,6 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 
 <input id="_token" name="_token" type="hidden" value="1d8559b30676003109f201370930f778">
 <!-- shared modals of home page and campaign page -->
-<!-- Sign Up Card Modal -->
 <div class="modal--signup reveal" id="signup-card-modal" data-reveal="" data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-close-on-click="false" data-close-on-esc="false">
     <div class="row column small-9 ">
             <h1 class="card-title">  </h1>
@@ -687,7 +739,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                     </div>
 
                     <div class="input-with-error">
-                        <input type="password" class="mb10" id="id_password" name="Users[password]" data-gfm-analytics-element="input_password" placeholder="Password">
+                        <input type="password" class="mb10" id="id_password" name="Users[password]" data-gfm-analytics-element="input_password" placeholder="Password" autocomplete="off">
                         <div class="input-error is-error js-input-error hide">
                             <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
                                 <span class="error-msg">
@@ -722,8 +774,8 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 </div>
 
 
-    <script src="//funds.gofundme.com/js/build/homepage.min.js?v=15.55"></script>
 
+<script src="//funds.gofundme.com/js/build/homepage.min.js?v=18.39"></script>
 <script type="text/javascript">
     if (typeof(_gat) == 'object')
     {
@@ -763,6 +815,6 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 </script>
 <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/oqir6j0k';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script-->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"313ceb8fb7","applicationID":"9004387","transactionName":"MQMDMBcAWRdQV0RYCQhJIhEWFVgJHl1eVQMeOQ8BEk5HFlhCUVIf","queueTime":0,"applicationTime":14,"atts":"HUQARl8aShk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
