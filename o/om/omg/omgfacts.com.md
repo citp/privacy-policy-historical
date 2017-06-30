@@ -1,67 +1,69 @@
-> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052218id_/http%3A//www.omgfacts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# Privacy Policy - OMG Facts - The World's #1 Fact Source
+# Medium Privacy Policy – Medium Policy – Medium
 
-Your privacy is important to Spartz, LLC. This privacy statement provides information about the personal information Spartz, LLC collects, and the ways in which Spartz, LLC uses that personal information. 
+**Effective Date: March 7, 2016**
 
-### Personal information collection
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-The types of personal information Spartz, LLC collects are: 
+#### General information
 
-  * Information about your use of this website
-  * Information that you provide for the purposes of registering for this website
-  * Information about transactions carried out over this website
-  * Information you provide for the purpose of subscribing to the website services
-  * Demographic and interests reporting
-  * Any other information that you send Spartz, LLC
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
+#### What we may collect
 
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 
-### Using Personal Information
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
 
-Spartz, LLC may use your personal information to: 
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
 
-  * Administer this website
-  * Personalize this website for you
-  * Enable your access to and use of the website services
-  * Publish information about you on the website
-  * Send you products that you purchase
-  * Send you statements and invoices
-  * Collect payments from you and
-  * Send you marketing communications
+#### Email from Medium
 
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
 
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Where Spartz, LLC discloses your personal information to its agents or sub-contractors, for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Spartz, LLC may disclose your personal information to the extent that is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
+#### Disclosure of your information
 
-### Securing your Data
+As a rule, we don’t share your personal information outside the company.
 
-Spartz, LLC will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Spartz, LLC will store all the information you provide (on its secure servers). [Information relating to electronic transfers entered into via this website will be protected via encrypted technology.] 
+We won’t sell your personal information.
 
-### Cross-border Data Transfers
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
 
-Information that Spartz, LLC collects may be stored and processed in and transferred between any of the countries in which Spartz, LLC operates to enable the use of information in accordance with this privacy policy. [In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.] You agree to such cross-border transfers of personal information. 
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
 
-### Using Cookies
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit http://http://www.networkadvertising.org and http://www.networkadvertising.org/managing/opt_out.asp 
+#### Cookies
 
-### Consent
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
-By using our site, you consent to our website's privacy policy. 
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
 
-### Updating this Statement
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
-Spartz, LLC may update this privacy policy by posting a new version on this website. You should check the page periodically to ensure you are familiar with any changes. 
+#### Data Storage
 
-### Other Websites
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
 
-This website contains links to other websites. Spartz, LLC is not responsible for the privacy policies or practices of any third party. 
+####  **Modifying your personal information or deleting your  account**
 
-### Children's Online Privacy Protection Act Compliance
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
 
-We do not provide services directed to children or otherwise target our site to children, and we do not collect personal information from children under the age of 13. No content that depicts, describes, identifies or otherwise relates to an individual under the age of 13 may be submitted to us, and no such content or other information relating to an individual under the age of 13 will be knowingly solicited or received by us. 
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-### Contact
+If you delete your account, your account and content may be unrecoverable.
 
-If there are any questions regarding this Privacy Policy, or if you wish to change or delete any information previously provided by you or collected from you, you may contact us at: [info@spartzinc.com](mailto:info@spartzinc.com) or by calling 312.880.7207. 
+#### Data security
+
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
+
+#### Changes to this Policy
+
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+
+#### Questions
+
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
