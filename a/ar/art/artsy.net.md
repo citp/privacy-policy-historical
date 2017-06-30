@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227130519id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215221id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Artsy
 
-## Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy, [click here](https://web.archive.org/web/20161227130519id_/https%3A//www.artsy.net/page/past-privacy-1).
+[__](https://web.archive.org/)[__](https://web.archive.org/)
 
-Last Updated: September 28, 2016
+## Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy,[click here](https://web.archive.org/web/20170630215221id_/https%3A//www.artsy.net/page/past-privacy-1).
+
+Last Updated: January 16, 2017
 
 This Privacy Policy ("Policy") describes how Art.sy, Inc. d/b/a Artsy (“Artsy” or “we” or “our” or “us”) collects, stores, shares, and uses information, and your choices about privacy when you use our website, products, and services (collectively, “Services”). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices. This Policy is part of our Terms of Use, which can be viewed at: [https://artsy.net/terms](https://web.archive.org/terms). Any capitalized terms that are used but not defined in this Policy have the same meaning given to them in our Terms of Use. By accessing or using our Services in any way, you agree that your information may be collected, stored, shared, and used as described in this Policy and our Terms of Use. 
 
@@ -79,7 +81,7 @@ As described in our Terms of Use, some Services may enable you to provide User C
 
 **Service Providers.** We may contract with third-party service providers that help us provide some of our Services, or that perform some services for us related to our Services, and they may access your Personal Information as needed to perform their functions for us. Examples may include but are not limited to order fulfillment, package delivery, payment processing, bill collection, fraud investigation, email and postal mail administration, customer service assistance, web and mobile data analytics, and server and database hosting services. 
 
-We use third parties, including Plaid, to gather your data from financial institutions. By using our Services, you grant our third-party providers the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to terms of our third-party provider’s privacy policy.
+We use third parties, including Plaid Technologies, Inc. and Stripe, to gather your data from financial institutions. By using our Services, you grant our third-party providers the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to terms of such third-party providers' privacy policies and service terms.
 
 **Business Transfers.** If we are involved in a merger, acquisition, or sale of assets, your Personal Information may be one of the assets transferred. In this event, if you have registered for an Artsy account, we will notify you of the change of ownership by sending an email to the current email address you provided us under your Artsy account.
 
