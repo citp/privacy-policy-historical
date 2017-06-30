@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043903id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085613id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Diabetic Connect
 
@@ -315,7 +315,7 @@ We welcome your input and feedback about our sites and the services that we prov
 
   * Email: [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com).
 
-  * Mail: Attention: Privacy and Compliance, Alliance Health Networks Inc., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
+  * Mail: Attention: Privacy and Compliance, Alliance Health Networks, LLC., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
 
   * Phone: 801-355-6002
 
