@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxatlanta.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124340id_/http%3A//www.fox5atlanta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxatlanta.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200024id_/http%3A//www.fox5atlanta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WAGA
 
