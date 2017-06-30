@@ -1,67 +1,424 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406014653id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630155537id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
-# Privacy statement | Wellcome Trust
+# Terms of use | Wellcome
 
-The Wellcome Trust regards the lawful and correct treatment of personal information as very important and is fully committed to the principles of data protection, as set out in the Data Protection Act 1998.
+This statement explains how the Wellcome Trust Limited (as trustee of the Wellcome Trust) (“Wellcome”) uses the personal information we collect from you when you visit Wellcome’s websites. By visiting Wellcome’s websites you are consenting to our use of your information in this way. 
 
-## **Why we collect information about you**
+We may make changes to this statement so please check from time to time for any updates.
 
-We process personal data in connection with our charitable mission to support bright minds in science, the humanities and social sciences, and public engagement. We do this through a range of activities, including grant funding, capacity building in history of medicine and biomedical ethics, by measuring the societal and historical impacts of biomedical research, and by means of our public venue facilities and the Wellcome Library.
+### Information about you we may collect and use
 
-## **What information we collect about you and how we use this**
+You may give us your name and contact information by:
 
-You may be asked for personal information if you want to take advantage of specific services we offer, such as when completing a publication subscription form or a Library joining form, when arranging Library appointments, or in connection with Wellcome Collection activities. We will use the personal information you provide to administer our relationship with you and deliver the services you have told us you wish to use or to send you information that you have requested. We may offer you the opportunity to opt in to receiving additional information about our activities or those of our partners and service providers. You may opt out of this at any time by contacting us.
+  * filling in forms on our websites
+  * subscribing to our publications, newsletters and updates about our activities and events
+  * registering for or enquiring about our activities, events and services
+  * contacting us through our websites
+  * reporting problems with our websites.
 
-Information that you supply in connection with the provision of a service or a grant application and any funding arising from it will be treated in confidence and in accordance with the principles of the Data Protection Act. Details are given on the grant application forms regarding how personal information provided as part of a grant application, and any subsequent award, is used.
 
-## **Surveys**
 
-Occasionally, we conduct web surveys among current or previous grantholders and others to evaluate the impact of our policies, services and funding. We also conduct surveys on behalf of, or in partnership with, other organisations whose aims are similar to our own.
+You may provide your name, contact information and other personal information to us if you:
 
-The results of these surveys will be used solely for evaluation purposes. No information contained in the results will be attributed to the person who submitted it without their explicit consent being obtained in advance. The survey results may be anonymised and, for information and/or research purposes, may also be made available to other organisations, some of which are our funding partners. We will tell you who these organisations are as part of the survey process.
+  * apply for a job at Wellcome 
+  * apply for a Wellcome grant 
+  * respond to our surveys 
+  * participate in our online discussion groups.
 
-All data collected by the Trust for the purpose of surveys will be held and processed by the Trust in a secure environment. All data will be anonymised and stored for a maximum of two years; it will then be destroyed, unless the data are required for career-tracking purposes, in which case they will not be anonymised and will be held for a longer period of time.
 
-## **Do we use 'cookies'?**
 
-Like most other organisations, the Wellcome Trust uses cookies on its websites.
+We may also receive information about you from third parties, for example from our service providers. When you visit our sites, we use third party services to collect certain technical information from your device including standard internet log information ie Internet Protocol (IP) address, browser type and version, and page interaction information.
 
-Cookies are text files that are placed on your computer when you visit a website, which identify your computer to the server. Cookies do not identify the individual user, just the computer used.
+### How we use your information
 
-Cookies provide information to the website owner and some are essential to allow parts of the website to operate.  [Find out more about cookies and the Trust’s use of them.](http://www.wellcome.ac.uk/About-this-site/cookies/index.htm "Find out more about cookies and the Trust’s use of them.")
+We use the information you give us to:
 
-## **Do we use CCTV?**
+  * send you the publications, newsletters and updates that you have subscribed to
+  * provide you with the services and the information about our activities and events that you have requested
+  * administer any user accounts we set up for you
+  * conduct surveys and process your response to any survey you participate in for research, evaluation and statistical purposes
+  * ensure that content from our sites is presented in the most effective manner for you
+  * to otherwise communicate with you in connection with our charitable aims and activities.
 
-The Trust has installed CCTV systems both within and outside its London premises at 183 and 215 Euston Road to maintain the security and safety of the site and for the prevention and detection of crime.
 
-CCTV images captured by the Trust will only be released to authorised third parties in accordance with the above purposes. You have the right to see CCTV images of yourself and to be provided with a copy of the images on request.
 
-Images captured on CCTV will not be kept for longer than necessary. 
+If you apply for a Wellcome grant, any information we collect will be used in accordance with the privacy statement provided during the grant application process.
 
-## **How do we protect personal information?**
+If you apply for a job at Wellcome via our online application system, the information we collect will only be used for recruitment purposes. Any equal opportunities monitoring information we collect during the recruitment process will be kept strictly confidential, separate to any job application you make and will only be used for equal opportunities monitoring purposes. 
 
-We use appropriate organisational and technical measures to ensure that your data are secure and protected from loss, misuse and unauthorised access or alteration. Occasionally, we introduce changes or improvements to our systems. Any test data that may have been used in this connection are managed in a secure and confidential manner.
+The technical information we collect when you visit our sites is used for site administration and internal operations (ie troubleshooting, data analysis, testing, research, statistical and survey purposes). This enables us to improve our sites to ensure that content is presented in the most effective manner for you and for your device, to allow you to participate in interactive features of our services when you choose to do so, and as part of our efforts to keep our sites safe and secure.
 
-## **Do we share your information with anyone else?**
+### Cookies
 
-The Trust does not pass on your information to others unless we have stated that we will do so as part of our terms and conditions. Some of our publications are distributed by or with the assistance of third parties, but we agree with those third parties that they will keep your information secure and not use it for other purposes.
+When you visit our websites we use cookies to automatically collect information about how you use our sites. Please see our Cookies information (below).
 
-We may ask you for your agreement to send your contact details to third parties that help us to provide certain services so that they can tell you about their products and services. This will be clearly explained at the point where we collect your information. You will be given the opportunity to decline or to choose how you are contacted.
+### Sharing your information
 
-## **Your rights**
+For the purposes described above: we may share your personal information with different parts of our organisation including Wellcome Library, Wellcome Collection, Wellcome Trust Conference Centre and Wellcome Genome Campus (Genome Research Limited).
 
-You have the right to ask us at any time not to contact you or to change your preferred methods of contact for marketing purposes. 
+We may also share your information with our service providers, suppliers, partners, associated organisations and agents, some of whom may be based outside the European Economic Area.
 
-You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
+### Looking after your personal information
 
-## **Changes to our privacy statement**
+We securely store all information you provide to us. Where we have given you (or where you have chosen) a password to access certain parts of our sites, you are responsible for keeping this password confidential. As the transmission of information via the internet is not completely secure, we cannot guarantee the security of your information transmitted to our sites; any transmission is at your own risk.
 
-Any changes we may make to our privacy statement in the future will be posted on this page. Please check frequently to read any updates or changes we have made.
+Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access.
 
-## **How to tell us about changes**
+### Your rights
 
-If you have any questions about data protection or require further information, please email  [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk "dataprotection@wellcome.ac.uk") or write to the Data Protection Compliance Officer, Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE, UK.
+You have the right to ask us not to use your personal information for marketing purposes by checking certain boxes on the forms we use to collect your information, or by contacting us. 
 
-This privacy policy covers the following websites:  [Wellcome Trust](https://web.archive.org/web/20160406014653id_/http%3A//www.wellcome.ac.uk/index.htm "Wellcome Trust"),  [Wellcome Collection](http://wellcomecollection.org/ "Wellcome Collection"),  [Wellcome Library](http://wellcomelibrary.org/ "Wellcome Library"),  [Wellcome Images](http://wellcomeimages.org/ "Wellcome Images"),  [Mosaic](http://mosaicscience.com/ "Mosaic"),  [strategy.wellcome.ac.uk](http://strategy.wellcome.ac.uk/ "strategy.wellcome.ac.uk") and  [thecrunch.wellcome.ac.uk](http://thecrunch.wellcome.ac.uk/ "thecrunch.wellcome.ac.uk"). 
+You have the right to access information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
-Other websites linked to from these sites are not covered by this policy.
+Our sites may contain links to and from the websites of third party affiliates. These sites have their own privacy policies which you are advised to read. We accept no responsibility or liability for such policies. 
+
+### Contact
+
+For any queries or requests relating to this statement, write to Data Protection Compliance Officer, Wellcome Trust, Gibbs Building, 215 Euston Road, London NW1 2BE, UK, or email [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk).
+
+Like most websites, Wellcome uses cookies to capture information about our sites’ users. A cookie is a small file of letters and numbers that we put on your computer if you agree.
+
+Cookies allow us to recognise and count your visits, and to see how you move around our sites while you are using them. This helps us to provide you with a good experience while you browse and to improve the way our sites work, for example by making sure you can find what you need.
+
+Cookies are also set when you:
+
+  * click on social networking buttons in our pages
+  * watch videos
+  * register for services
+  * take part in surveys and other activities.
+
+
+
+### Third-party cookies
+
+As well as the cookies we set, we may use third party cookies set by other websites when you visit them to help us to understand some simple information about the age, location and interests of the people who visit our sites. 
+
+We only ever use this information in aggregate, and never associate it with any personal information that might identify you. 
+
+You can opt out of being tracked by cookies set by third parties by using the [Google ad preferences page](https://www.google.com/settings/ads/) or the [opt-out tool](https://tools.google.com/dlpage/gaoptout/). 
+
+You can also get more information from [Google](https://myaccount.google.com/intro/privacy#ads) or the [Your Online Choices website](http://www.youronlinechoices.com/uk/your-ad-choices).
+
+By continuing to use our sites and by using video and social media functionality, you consent to the relevant cookies being set on your device.
+
+For general information about cookies, and how to control and disable them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
+
+### Cookies we use on our sites by type
+
+Across our sites we may make use of Flash files, which present information, allow integration with third parties (such as YouTube) and can offer a richer online experience. We have strived to identify any Flash elements that are likely to set cookies but, at this point in time, we cannot guarantee the status of every Flash file. Adobe offers a tool to monitor and remove Flash cookies.
+
+We use Google Analytics, Google Analytics demographics and interest reporting, and integrated services that require Google Analytics to collect data via advertising cookies and identifiers. Google Analytics is a tool that helps website and app owners to understand how their visitors behave. It uses a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. It also uses some cookies set by other websites to help us understand more about our sites’ visitors.
+
+The following is a list of the cookies we use, why and on which of our sites.
+
+### Access control
+
+**Name** Wlauth
+
+**Purpose  **Set when a user logs in with a Library account or social login. Contains an access token, in encrypted form, that allows the user to view protected content in the digital library and manage their bookmarks.
+
+**Duration**  2 years (the user still needs to log in again to view protected content if their session has been inactive for more than 10 minutes)
+
+**Used on  **Wellcome Library
+
+### Alerts
+
+**Name** alertpopups_lib
+
+**Purpose  **Remembers alert messages a user has seen.
+
+**Duration  **40 years
+
+**Used on** Wellcome Library
+
+### Analytics
+
+**Name** _ethnio_displayed
+
+**Purpose  **Set once a visitor sees an Ethnio screener. Used to make sure site visitors aren't annoyed by multiple screener invites.
+
+**Duration**  30 days
+
+**Name** _ga
+
+**Purpose** Used to distinguish users.
+
+**Duration** 2 years
+
+**Used on** Explorify
+
+**Name** _gat
+
+**Purpose**  Used to ensure that there are not too many people requesting a page or resource from Google Analytics at the same time.
+
+**Duration**  10 minutes
+
+**Used on** Explorify
+
+**Name** id / IDE (doubleclick.net)
+
+**Purpose** A third-party cookie set by Google on other websites, and used to show us anonymous, aggregated demographic information in Google Analytics to help us understand our users better.
+
+**Duration** 2 years
+
+**Used on** Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors, Explorify
+
+**Name** _hjClosedSurveyInvites
+
+**Purpose**  Set once a visitor interacts with a Survey invitation modal popup. Used to ensure that the same invite does not reappear if it has already been shown. This information is used by Hotjar. 
+
+**Duration** 1 year
+
+**Used on**  Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name** _hjDonePolls
+
+**Purpose  **Set once a visitor completes a poll using the Feedback Poll widget. Used to ensure that the same poll does not reappear if it has already been filled in. This information is used by Hotjar. 
+
+**Duration  **1 year
+
+**Used on**  Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name** hjMinimizedPolls
+
+**Purpose** Set once a visitor minimises a Feedback Poll widget. Used to ensure that the widget stays minimised when the visitor navigates through your site. This information is used by Hotjar. 
+
+**Duration** 1 year
+
+**Used on** Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name**  _hjDoneTestersWidgets
+
+**Purpose  **Set once a visitor submits their information in the Recruit User Testers widget. Used to ensure that the same form does not reappear if it has already been filled in. This information is used by Hotjar. 
+
+**Duration  **1 year
+
+**Used on  **Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name**  _hjMinimizedTestersWidgets
+
+**Purpose  **Set once a visitor minimises a Recruit User Testers widget. Used to ensure that the widget stays minimised when the visitor navigates through your site. This information is used by Hotjar. 
+
+**Duration  **1 year
+
+**Used on  **Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name**  _hjDoneSurveys
+
+**Purpose** Set once a visitor completes a survey. Used to only load the survey content if a visitor hasn't yet completed the survey. This information is used by Hotjar. 
+
+**Duration  **1 year
+
+**Used on  **Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name**  _utma
+
+**Purpose  **Collects data such as the number of times a visitor has been to the site, when their first visit was and when their last visit occurred. This information is used by Google Analytics.
+
+**Duration  **2 years
+
+**Used on  **Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+**Name** _utma
+
+**Purpose**  Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.
+
+**Duration** 2 years
+
+**Used on** Explorify
+
+**Name**  _utmb
+
+**Purpose** Takes a timestamp of the exact moment when a visitor enters the site. Used by Google Analytics to calculate the length of a website visit.
+
+**Duration  **30 minutes
+
+**Used on  **Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Explorify, Questions for Governors
+
+**Name**  _utmb
+
+**Purpose** Takes a timestamp of the exact moment when a visitor leaves the site. Used by Google Analytics to calculate the length of a website visit.
+
+**Duration  **Session cookie
+
+**Used on** Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Explorify, Questions for Governors
+
+**Name**  _utmc
+
+**Purpose** Used in conjunction with other cookies to determine whether a user is in a new session or visit.
+
+**Duration  **End of browser session
+
+**Used on**  Explorify
+
+**Name**  _utmt
+
+**Purpose** Used to ensure there are not too many people requesting a page or resource from Google Analytics at the same time.
+
+**Duration  **10 minutes
+
+**Used on** Explorify
+
+**Name**  _utmz
+
+**Purpose** Used to find information about how visitors to a site are using a page.
+
+**Duration  **2 years from set/update
+
+**Used on** Explorify
+
+**Name**  _utmz
+
+**Purpose** Collects data about where a visitor came from, what search engine they used, what link they clicked on, what keywords they used and from where in the world they accessed the site. Used by Google Analytics.
+
+**Duration  **6 months
+
+**Used on** Wellcome Trust, Wellcome Collection, Wellcome Library, Wellcome Images, Wellcome Image Awards, Big Picture, Mosaic, Wellcome Book Prize, Explorify, Questions for Governors
+
+**Name**  UID
+
+**Purpose** ScorecardResearch uses a combination of web tags and cookies to help count users who have visited and seen a page or various parts of a page.
+
+**Duration  **1 year
+
+**Used on** Wellcome Trust, Wellcome Collection, Big Picture, Mosaic, Wellcome Book Prize, Questions for Governors
+
+### Browser/Javascript functionality 
+
+**Name** ¬js
+
+**Purpose**  Checks whether a user’s browser supports JavaScript.
+
+**Duration**  Session cookie
+
+**Used by**  Mosaic, Big Picture, Wellcome Collection, Wellcome Book Prize
+
+### Media 
+
+**Name** NID
+
+**Purpose**  Pages embedding content from Google Maps set this cookie.
+
+**Duration  **6 months
+
+**Used on** Wellcome Library
+
+### Personalisation 
+
+**Name** wlauthdisp
+
+**Purpose**  Contains a user's display name (but not their username or other login details). It is made available for the client-side script to use, eg to display a welcome message.
+
+**Duration  **2 years
+
+**Used on** Wellcome Library
+
+**Name**  wlredirect
+
+**Purpose**  Stores the address of the page a user is on when initiating the login process, so that the user can be returned to the same page once their login has been completed.
+
+**Duration** Session cookie
+
+**Used on** Wellcome Library
+
+### Session
+
+**Name** explorify.wellcome.ac.uk
+
+**Purpose** To maintain session state between requests
+
+**Duration** Session cookie
+
+**Used on** Explorify
+
+### Social networking 
+
+**Name  **lsd 
+
+**Purpose**  Contains a random value that is set when a Facebook user logs out, to prevent cross-site request forgery (CSRF) attacks.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Collection
+
+**Name**  noscript
+
+**Purpose**  Modifies the user interface to support browsers that do not support, or have deliberately disabled, JavaScript.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Collection
+
+**Name  **reg_fb_gate
+
+**Purpose**  Contains the first Facebook page that a web browser visited. These cookies are used by Facebook to track registration effectiveness by recording how a user originally came to Facebook when they created their account.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Collection
+
+### User preferences
+
+**Name  **PREF
+
+**Purpose**  Stores user preferences for Google.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Library
+
+**Name  **cookieconsent_lib
+
+**Purpose**  Remembers a user's cookie preference.
+
+**Duration  **40 years
+
+**Used on**  Wellcome Library
+
+**Name  **cookie-agreed-en
+
+**Purpose**  Remembers a user's cookie preference.
+
+**Duration  **100 days
+
+**Used on**  Mosaic, Big Picture, Wellcome Collection
+
+**Name  **download¬_as_data_format
+
+**Purpose**  Remembers data download format preferences (.txt, .CSV etc.).
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Library
+
+**Name  **wldata
+
+**Purpose**  Remembers toggle-a-tron setting.
+
+**Duration  **2 years
+
+**Used on**  Wellcome Library
+
+### Your visit
+
+**Name**  ASP.NET_Sessionld
+
+**Purpose**  Stores session data during a website visit, issued by Microsoft's ASP.NET application, a framework for building websites.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Library
+
+**Name  **JSESSIONID, ASPSESSIONIDCADTBCQD, ASPSESSIONIDACABDQQA, ASPSESSIONIDACDCARQA
+
+**Purpose**  Stores session data during a website visit, issued by Microsoft’s ASP.NET application.
+
+**Duration  **Session cookie
+
+**Used on**  Wellcome Library
+
+The material contained in the Wellcome Trust website is provided for general purposes only. Although we endeavour to ensure that the content is accurate and up to date, the Wellcome Trust accepts no responsibility for loss arising from reliance on information contained in this site or other sites that may be linked to from our site from time to time.
+
+Unless otherwise stated, all content on the site is © The Wellcome Trust and is licensed under [Creative Commons Attribution 2.0 UK](http://creativecommons.org/licenses/by/2.0/uk/ "Creative Commons Attribution 2.0 UK").
+
+This means that you are free to share the content by copying, distributing and transmitting it, but please attribute it to the Wellcome Trust and provide a link to its website [http://www.wellcome.ac.uk](http://www.wellcome.ac.uk/ "Error - target node or document does not exist"). For any reuse or distribution, you must make these licence terms clear to others.
