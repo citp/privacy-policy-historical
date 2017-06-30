@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127015532id_/http%3A//viconsortium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viconsortium.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630184613id_/http%3A//viconsortium.com/privacy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy ‹
 
 ### The Virgin Islands Consortium Privacy Policy
 
@@ -14,13 +14,17 @@ This privacy policy applies only to the Site. This policy does not apply to info
 
 **Information provided directly to us:**
 
-You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you subscribe or register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
 * Contact information, such as name, email address, postal address, phone number, and mobile number;  
 * Username and password;  
 * Information posted in community discussions and other interactive online features;  
 * Search queries conducted on the Site; and  
 * Correspondence you send to us.
+
+### **Billing and Credit Card Information**
+
+To enable payment and donations via the VIC Services, we collect and store name, address, telephone number, email address, credit card information and other billing information. This information will only be shared with third parties who help to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
 
 ### Information collected automatically when you view the Virgin Islands Consortium
 
@@ -41,7 +45,7 @@ We may use the information that we collect to send you e-mail communications, su
 
 ### Advertising
 
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested.
+We display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested.
 
 Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
 
