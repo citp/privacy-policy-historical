@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035012id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201316id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
-By using this site you are consenting to the use of cookies. [Find out more](https://web.archive.org/privacy/index.html "Privacy & Cookies") about cookies and why we use them.
+By using this site you are consenting to the use of cookies. [Find out more](https://web.archive.org/privacy/index.html "Privacy & Cookies") about cookies and why we use them
 
 [x close] 
 
 [ ](https://web.archive.org/index.html "Yorkshire Building Society")
 
   * [](https://web.archive.org/index.html "Homepage")
-  * Mortgages
-  * Savings
-  * Insurance
-  * Investments
+  * [Mortgages](https://web.archive.org/mortgages/index.html "Mortgages")
+  * [Savings](https://web.archive.org/savings/index.html "Savings")
+  * [Insurance](https://web.archive.org/insurance/index.html "Insurance")
+  * [Life Planning](https://web.archive.org/life-planning/index.html "Life Planning")
   * Help & Support
 
 
@@ -44,25 +44,31 @@ Unless you have indicated that you do not want to be contacted for marketing, we
   4. ####  Share Plans
 
 If you are a member of an employee share scheme administered by us we 
-    1. Will use information provided by your employer to check your eligibility
-    2. May disclose information about your scheme participation to your employer for the purpose of administering the account
-    3. Notify you of additional products and services that may be of interest to you unless our contract with your employer prohibits us from doing so or you have told us that you do not want us to do this.
-  5. ####  Email
+    1. will use information provided by your employer to check your eligibility
+    2. may disclose information about your scheme participation to your employer for the purpose of administering the account
+    3. notify you of additional products and services that may be of interest to you unless our contract with your employer prohibits us from doing so or you have told us that you do not want us to do this.
+  5. ####  Help to Buy: ISA Scheme
+
+If a ISA account is registered as a Help to Buy: ISA Scheme we will share personal information and details with HM Treasury, UKAR the Administrator of the scheme and any appointed contractors and third parties to enable them to 
+    1. administer the scheme, including confirmation of eligibility and paying bonuses
+    2. carry out data reporting, compliance, investigations, audit and fraud prevention work necessary to run the scheme.
+    3. compile management statistical information about the performance of the scheme
+
+
+
+  6. ####  Email
 
 You should note that ordinary email is not secure. Please do not send us any confidential information via email. Similarly, we will not use email to send confidential information about your accounts to you unless you specifically request, and agree to, this. For your own protection, please do not include confidential or other personal information in any unprotected e-mails you send to us
-
-
-
-  6. ####  Site monitoring
+  7. ####  Site monitoring
 
 We use technical methods (called "cookies") to identify what stage in an application process you are at, improve your experience by making it quicker and easier for you to use the site, identify how effective our advertising is and provide you with information in the future we believe is relevant to you. No personal information is captured unless you proceed with an application at which point details of where your enquiry originated will be linked to your customer record. You can block or delete cookies from this site in your browser settings. To find out how to delete cookies visit [www.aboutcookies.org.](http://www.aboutcookies.org/) By doing this your experience may be affected and parts of this site may not work. By continuing with an enquiry/application you will be consenting to the use of cookies as explained.
-  7. ####  Communicating with others
+  8. ####  Communicating with others
 
 All communications with us may be monitored/recorded to improve the quality of our service, staff training and for your protection and security.
-  8. ####  Links to other sites
+  9. ####  Links to other sites
 
 This Privacy Policy only covers you while you are on our site. Once you click on a link to another website, the Policy no longer applies.
-  9. [Applying for a job](http://www.ybs.jobs/apply/your-personal-information/)
+  10. [Applying for a job](http://www.ybs.jobs/apply/your-personal-information/)
 
 
 
@@ -78,7 +84,7 @@ Complete a [Submit Access Request Form](https://web.archive.org/pdf/privacy/requ
 
 ###  Full details of your rights and the Data Protection Act
 
-Our leaflet [Your rights and the Data Protection Act](https://web.archive.org/pdf/privacy/your-rights-and-data-protection.pdf) (71 KB) has full details about all your rights under the Data Protection Act and how to invoke them. It also includes information about our legal obligations to you, and the Credit Reference and Fraud Prevention Agencies we use along with other useful information.
+Our leaflet [Your rights and the Data Protection Act](https://web.archive.org/pdf/privacy/your-rights-and-data-protection.pdf) (254 KB) has full details about all your rights under the Data Protection Act and how to invoke them. It also includes information about our legal obligations to you, and the Credit Reference and Fraud Prevention Agencies we use along with other useful information.
 
 To view the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to download it, visit the [Adobe web site.](http://www.adobe.com/)
 
