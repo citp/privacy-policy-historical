@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051938id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190401id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Imgur
 
-Your Privacy Rights – Effective January 14, 2016
+Your Privacy Rights – Effective January 17, 2017
 
-**Our Privacy Policy has changed**
+**Our Privacy Policy has changed - January 17, 2017**
 
 ## Information we collect; how we use it
 
@@ -36,6 +36,10 @@ That stated, we do offer two privacy settings if you upload images via your user
 
 
 
-If you have any questions about our use of your Private Data, please contact us at [privacy@imgur.com](mailto:privacy@imgur.com).
+## Messaging Privacy
+
+Imgur allows users to send messages to one another both indirectly (via comments to posts) and directly (via chat). Imgur's messaging functionality is not intended to be a secure messaging platform; it's just for fun. As is the case with images, so too for messaging: To ensure that Imgur's messaging platform is not used as a platform for illegality, no messages are ever completely hidden from public view. We may monitor user messaging.
+
+If you have any questions about our use of your Private Data, please contact us at [Imgur Help](http://help.imgur.com/).
 
 We may revise our privacy policy from time to time by posting the changes here.
