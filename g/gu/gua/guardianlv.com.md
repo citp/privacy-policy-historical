@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053425id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630053333id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Guardian Liberty Voice
 
@@ -89,4 +89,4 @@ Las Vegas, Nevada 89119
 United States  
 donahue@guardianexpress.net
 
-This policy is powered by Free Privacy Policy and Rhino Support help desk software. 
+This policy is powered by Free Privacy Policy and Rhino Support help desk software.
