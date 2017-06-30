@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashrae.org privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219060948id_/https%3A//www.ashrae.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashrae.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701014841id_/https%3A//www.ashrae.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ashrae.org
 
