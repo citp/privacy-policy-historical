@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all.biz privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053202id_/http%3A//www.all.biz/privacy_policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all.biz privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630020430id_/http%3A//www.all.biz/privacy_policy_en) for the most accurate reproduction.*
 
 # Allbiz Privacy Policy
 
