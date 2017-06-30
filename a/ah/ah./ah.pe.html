@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the ah.pe privacy policy that was archived on 2016-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114012544id_/http%3A//adhy.pe/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ah.pe privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630024206id_/https%3A//adhy.pe/privacy) for the most accurate reproduction.-->
 
 <html><head>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
         
-        <link rel="apple-touch-icon" sizes="57x57" href="http://adhy.pe/img/fav/apple-touch-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="http://adhy.pe/img/fav/apple-touch-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="http://adhy.pe/img/fav/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="http://adhy.pe/img/fav/apple-touch-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="http://adhy.pe/img/fav/apple-touch-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="http://adhy.pe/img/fav/apple-touch-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="http://adhy.pe/img/fav/apple-touch-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="http://adhy.pe/img/fav/apple-touch-icon-152x152.png">
-        <link rel="icon" type="image/png" href="http://adhy.pe/img/fav/favicon-32x32.png" sizes="32x32">
-        <link rel="icon" type="image/png" href="http://adhy.pe/img/fav/favicon-96x96.png" sizes="96x96">
-        <link rel="icon" type="image/png" href="http://adhy.pe/img/fav/favicon-16x16.png" sizes="16x16">
-        <link rel="manifest" href="http://adhy.pe/img/fav/manifest.json">
+        <link rel="apple-touch-icon" sizes="57x57" href="//adhy.pe/img/fav/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="//adhy.pe/img/fav/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="//adhy.pe/img/fav/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//adhy.pe/img/fav/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="//adhy.pe/img/fav/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//adhy.pe/img/fav/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="//adhy.pe/img/fav/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//adhy.pe/img/fav/apple-touch-icon-152x152.png">
+        <link rel="icon" type="image/png" href="//adhy.pe/img/fav/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="//adhy.pe/img/fav/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="//adhy.pe/img/fav/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="//adhy.pe/img/fav/manifest.json">
         <meta name="msapplication-TileColor" content="#da532c">
-        <meta name="msapplication-TileImage" content="http://adhy.pe/img/fav/mstile-144x144.png">
+        <meta name="msapplication-TileImage" content="//adhy.pe/img/fav/mstile-144x144.png">
         <meta name="theme-color" content="#ffffff">
         <meta name="propeller" content="c3d547e5f4229032873775ed64b37b1a">
         <title>Privacy policy | AdHy.pe</title>
@@ -31,7 +31,7 @@
         <meta name="description" content="Privacy policy">
         <meta name="author" content="AdHy.pe Team">
     </head>
-    <body class="page-privacy subpage- theme-5">
+    <body class="page-privacy subpage- theme-4">
         <!-- Navbar -->
 <div class="navbar_container">
     <nav id="main_menu" class="navbar navbar-default">
@@ -43,17 +43,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://adhy.pe/">                
-                    <img src="http://adhy.pe/img/logo.png" alt="ADhy.pe">                </a>
+                <a class="navbar-brand" href="//adhy.pe/">                
+                    <img src="//adhy.pe/img/logo.png" alt="ADhy.pe">                </a>
             </div>
             <!-- collapse -->
-            <div class="navbar-collapse collapse" id="adhype-main"><ul class="nav navbar-nav navbar-right"><li class=""><a href="http://adhy.pe/index/index">Home</a></li><li class=""><a href="http://adhy.pe/earnOnLinks/index">Earn on links</a></li><li class=""><a href="http://adhy.pe/tools/index">Tools</a></li><li class=""><a href="http://adhy.pe/account/login">Log In</a></li><li class=""><a href="http://adhy.pe/account/signup">Sign Up</a></li><li class="facebook"><a href="http://adhy.pe/account/facebook">Log In with <b>facebook</b></a></li></ul></div>     
+            <div class="navbar-collapse collapse" id="adhype-main"><ul class="nav navbar-nav navbar-right"><li class=""><a href="//adhy.pe/index/index">Home</a></li><li class=""><a href="//adhy.pe/rates/index">Rates</a></li><li class=""><a href="//adhy.pe/earnOnLinks/index">Earn on links</a></li><li class=""><a href="//adhy.pe/tools/index">Tools</a></li><li class=""><a href="//adhy.pe/account/login">Log In</a></li><li class=""><a href="//adhy.pe/account/signup">Sign Up</a></li><li class="facebook"><a href="//adhy.pe/account/facebook">Log In with <b>facebook</b></a></li></ul></div>     
             <!-- /collapse -->        
                     <div id="user-details">            
             <i id="top-caret" class="fa fa-caret-down"></i>
                 <div class="userinfo"></div>
                 <div>                    
-                    <a href="http://adhy.pe/account/settings" class="pull-left nav-links">Settings</a>                    <a href="http://adhy.pe/account/logout" class="pull-right nav-links">Logout</a>                    
+                    <a href="//adhy.pe/account/settings" class="pull-left nav-links">Settings</a>                    <a href="//adhy.pe/account/logout" class="pull-right nav-links">Logout</a>                    
                 </div>
             
         </div>        </div>    
@@ -64,6 +64,10 @@
          
 </div>    
 <!-- / Alerts -->
+
+
+<!-- Slide in panels -->
+    <!-- / Slide in panels -->
 
 <!-- Content -->
 <section id="terms" class="page-main">
@@ -166,12 +170,12 @@
                 
                 <!-- Bottom navigation -> put to elements -->
                 <ul id="footernav" class="list-inline">
-                    <li><a href="http://adhy.pe/rates">Payout rates</a></li>
-                    <li><a href="https://www.facebook.com/1689718351261451/photos/?tab=album&amp;album_id=1708424166057536">Payments proofs</a></li>
+                    <li><a href="//adhy.pe/rates">Payout rates</a></li>
+                    <li><a href="https://www.facebook.com/1689718351261451/photos/?tab=album&amp;album_id=1708424166057536" target="_blank">Payments proofs</a></li>
                     <li><a rel="nofollow" href="javascript:zE.activate()">Contact</a></li>
-                                        <li><a rel="nofollow" href="http://adhy.pe/affiliateProgram">Affiliate Program</a></li>
-                    <li><a rel="nofollow" href="http://adhy.pe/terms">Terms</a></li>
-                    <li><a rel="nofollow" href="http://adhy.pe/privacy">Privacy policy</a></li>
+                    <li><a rel="nofollow" href="javascript:zE.activate()">DMCA</a></li>
+                                        <li><a rel="nofollow" href="//adhy.pe/terms">Terms</a></li>
+                    <li><a rel="nofollow" href="//adhy.pe/privacy">Privacy policy</a></li>
                 </ul>
             </div>            
             <div class="col-md-4">
@@ -179,11 +183,14 @@
                     
                 </div>
                 <div id="credits" class="text-right">
-                    <span class="paypal">
+                	<span class="paypal">
                         <img src="/libs/PayPal/logo/Horizontal/PP_logo_h_100x26.png" alt="Adhy.pe uses paypal"> 
                     </span>
+                    <span class="paypal">
+                        <img src="/libs/Payza/payza.png" alt="Adhy.pe uses payza"> 
+                    </span>
                     <span class="adhype">
-                        © 2016 AdHy.pe
+                        ©2015-2017 AdHy.pe
                     </span>                    
                 </div>
             </div>
@@ -191,8 +198,13 @@
     </div>            
 </footer>
 <!-- Start of adhype Zendesk Widget script -->
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","adhype.zendesk.com");
-/*]]>*/</script>
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>
+/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","adhype.zendesk.com");
+/*]]>*/
+zE(function() {
+zE.setLocale('en');
+});
+</script>
 <!-- End of adhype Zendesk Widget script -->
 
        
@@ -216,7 +228,7 @@
 		
 		</script>
 		       
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f8ecb62ca7","applicationID":"12908709","transactionName":"NlUHZhRTWkNXUEVfWw8fMEAPHV1eUlZJGEQJQA==","queueTime":0,"applicationTime":3,"atts":"GhIEEFxJSU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f8ecb62ca7","applicationID":"12908709","transactionName":"NlUHZhRTWkNXUEVfWw8fMEAPHV1eUlZJGEQJQA==","queueTime":0,"applicationTime":5,"atts":"GhIEEFxJSU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
