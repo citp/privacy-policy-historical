@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901152311id_/https%3A//www.spongecell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630042906id_/https%3A//www.spongecell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spongecell
 
@@ -80,4 +80,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 **HOW TO CONTACT US**
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@spongecell.com](mailto:privacy@spongecell.com). “PRIVACY POLICY”, in the subject line, or mail us at the following address: 261 Madison Avenue, 14th Floor New York, NY 10016.
+If you have questions about this Privacy Policy, please e-mail us at [privacy@spongecell.com](mailto:privacy@spongecell.com). “PRIVACY POLICY”, in the subject line, or mail us at the following address: PO Box 777, New York, NY 10108.
