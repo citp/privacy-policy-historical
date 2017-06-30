@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223124543id_/http%3A//cvshealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630144652id_/https%3A//www.cvshealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CVS Health
 
@@ -6,7 +6,7 @@
 
 ### Effective Date:  August 9, 2016
 
-This Privacy Policy describes the practices of CVS Pharmacy, Inc. (“CVS,” “we” or “us”) in connection with information collected through CVSHealth.com (the “Website”). By using the Website, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287 or email us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com).
+This Privacy Policy describes the practices of CVS Pharmacy, Inc. (“CVS,” “we” or “us”) in connection with information collected through CVSHealth.com (the “Website”). By using the Website, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287 or email us at [privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com).
 
 We may change this Privacy Policy. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Website. Your use of the Website following these changes means that you accept the revised Privacy Policy. 
 
@@ -78,23 +78,23 @@ Please be aware that there may be fraudulent websites that illegally use CVS log
 
 These sites have not been authorized by CVS to use our name and we work aggressively to identify their source and have them shut down. If you are in receipt of this type of spam email, to help protect your privacy you should avoid replying to it or forwarding it to other people.
 
-In addition to our official websites, CVS works with a number of third parties that host websites and micro-sites that provide information and services to our customers. If you are concerned that a website or an email may be fraudulent, please contact us by phone at 888-607-4287 or email [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com) with your concerns.
+In addition to our official websites, CVS works with a number of third parties that host websites and micro-sites that provide information and services to our customers. If you are concerned that a website or an email may be fraudulent, please contact us by phone at 888-607-4287 or email [privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com) with your concerns.
 
 #### Your Choices and Access
 
 You can take yourself off our email list for promotional offers at any time by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out.
 
-You can request the removal or modification of the personal information you have provided to us by sending an email to [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com) For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
+You can request the removal or modification of the personal information you have provided to us by sending an email to [privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com) For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
 
 #### Your California Privacy Rights
 
-If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers’ personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com).
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers’ personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at [privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com).
 
 #### Contact Information
 
-If you have any questions or concerns about this statement, or about the way your information is collected and used, please email us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com).
+If you have any questions or concerns about this statement, or about the way your information is collected and used, please email us at [privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com).
 
 If you have any questions about the content of this Privacy Policy, please contact the CVS Health Corporation Privacy Office:
 
@@ -103,4 +103,4 @@ CVS Health Corporation
 Woonsocket, R.I. 02895  
 (888) 607-4287
 
-[privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com)
+[privacy.officer@cvshealth.com](mailto:privacy.officer@cvshealth.com)
