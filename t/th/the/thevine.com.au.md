@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130174449id_/http%3A//thevine.com.au/thevine-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630091735id_/http%3A//thevine.com.au/thevine-privacy-policy) for the most accurate reproduction.*
 
 # Pitney Media Group Privacy Policy | TheVine
 
