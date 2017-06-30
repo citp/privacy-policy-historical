@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redditblog.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231231150id_/https%3A//www.reddit.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redditblog.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232807id_/https%3A//www.reddit.com/help/privacypolicy) for the most accurate reproduction.*
 
 # reddit.com: privacy policy
 
