@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231122552id_/https%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235729id_/https%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
 
 # Flipkart.com
 
@@ -72,7 +72,7 @@ Our Website has stringent security measures in place to protect the loss, misuse
 
 We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [unsubscribe](https://web.archive.org/web/20161231122552id_/https%3A//www.flipkart.com/unsubscribe.php)
+If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [unsubscribe](https://web.archive.org/web/20170630235729id_/https%3A//www.flipkart.com/unsubscribe.php)
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email  
 address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
@@ -89,7 +89,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Mr. Krishna Salunke
+Mr. Rajiv Ravindran
 
 Flipkart Internet Pvt Ltd.  
 AKR Tech Park  
