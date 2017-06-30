@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110012247id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630055543id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | chess24.com
 
