@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123183521id_/http%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630145828id_/http%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # DVD Empire | Free Shipping on DVD & Blu-ray Movies
 
-Your privacy is important to Ravana, LLC. ("DVDEmpire"). We realize that visiting DVDEmpire (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information.
+Your privacy is important to Ravana, LLC. ("DVDEmpire"). We realize that visiting DVDEmpire (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information. 
 
 We believe that you have a right to know the personal information that we collect from you, why we collect it and how we use the information. This Privacy Policy covers how we collect, use, disclose, store and protect your personal information.
 
@@ -15,7 +15,7 @@ We believe that you have a right to know the personal information that we collec
   * How You Can Decide What Marketing Communication You Receive From Us
   * How We Protect The Security Of Your Personal Information
   * Changes To The Privacy Policy
-  * How To Contact DVDEmpire
+  * How To Contact DVDEmpire 
 
 
 
@@ -67,7 +67,7 @@ Information we collect on the Website may be used to enhance your shopping exper
 
 
 
-When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from DVDEmpire, information regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
+When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from DVDEmpire, i nformation regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
 
 * * *
 
