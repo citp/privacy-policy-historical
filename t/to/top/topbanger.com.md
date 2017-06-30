@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbanger.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612093758id_/http%3A//topbanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbanger.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630155524id_/http%3A//topbanger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Banger
 
@@ -36,4 +36,4 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 **Contacting Us** If there are any questions regarding this privacy policy you may contact us using the information below.
 
-mail@tobanger.com
+thetopbanger.com@gmail.com
