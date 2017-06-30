@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsmyascent.com privacy policy that was archived on 2016-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129220230id_/http%3A//timesascent.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsmyascent.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630210038id_/http%3A//www.timesascent.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,7 @@
 <![endif]-->
 
 <link href="/resources/css/master.-mymin.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=159376190816234"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/resources/js/jquery-1.8.2-min.-mymin.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=365646363535523"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/resources/js/jquery-1.8.2-min.-mymin.js"></script>
 <script type="text/javascript" src="/resources/js/jquery.validate.-mymin.js"></script>
 <script type="text/javascript" src="/resources/js/common.-mymin.js"></script>
 <script type="text/javascript" src="/resources/js/postmessage.-mymin.js" charset="utf-8"></script> 
@@ -290,7 +290,7 @@ $(document).ready(function(){
 		<input type="hidden" id="facebookMappingMessage" value="">
 		<input type="hidden" id="followCompanyMessage" value="">
 	    <div class="logo">
-	    	<a href="/home"><img src="/resources/images/logo.png" alt="Times Ascent" width="249" height="93"></a>
+	    	<a href="/home" onclick="ga('send', 'event', 'Header', 'Click On Link','Home');"><img src="/resources/images/logo.png" alt="Times Ascent" width="249" height="93"></a>
 	   	</div>
 	   	
 	   	<!--Header right-->
@@ -298,13 +298,13 @@ $(document).ready(function(){
 	      <div class="headerNav">
 	      		<div class="fRt mR15">
 	      			<!-- register is at multiple place so putting name instead of ID -->
-			      	<a href="/registrationWizard" name="register">Register</a>&nbsp; | &nbsp;
+			      	<a href="/registrationWizard" name="register" onclick="ga('send', 'event', 'Header', 'Click On Link','Register');">Register</a>&nbsp; | &nbsp;
 			      	<a style="cursor:pointer;" name="contactUs">Contact Us</a>&nbsp; | &nbsp;
 			      	<a href="/faq" name="faq">Help</a>&nbsp; | &nbsp;
-			      	<a href="https://www.facebook.com/timesascent" target="_blank" title="Facebook"><img src="/images/icons/fbicon.png" alt="Facebook"></a>                            
-			      	<a href=" https://twitter.com/timesascent" target="_blank" title="Twitter"><img src="/images/icons/twittericon.png" alt="Twitter"></a>                           
-			      	<a href=" https://www.linkedin.com/company/times-ascent" target="_blank" title="Linkedin"><img src="/images/icons/linkedinicon.png" alt="Linkedin"></a>
-			      	<a href="/rss/aboutRSS" target="_blank" title="RSS"><img src="/images/icons/rssicon.png" alt="Rss"></a>
+			      	<a href="https://www.facebook.com/timesascent" target="_blank" title="Facebook" onclick="ga('send', 'event', 'Header', 'Click On Link','Facebook');"><img src="/images/icons/fbicon.png" alt="Facebook"></a>                            
+			      	<a href=" https://twitter.com/timesascent" target="_blank" title="Twitter" onclick="ga('send', 'event', 'Header', 'Click On Link','Twitter');"><img src="/images/icons/twittericon.png" alt="Twitter"></a>                           
+			      	<a href=" https://www.linkedin.com/company/times-ascent" target="_blank" title="Linkedin" onclick="ga('send', 'event', 'Header', 'Click On Link','Linkedin');"><img src="/images/icons/linkedinicon.png" alt="Linkedin"></a>
+			      	<a href="/rss/aboutRSS" target="_blank" title="RSS" onclick="ga('send', 'event', 'Header', 'Click On Link','RSS');"><img src="/images/icons/rssicon.png" alt="Rss"></a>
 		      	</div>
 		      	
 		      	<div class="fRt">
@@ -320,6 +320,7 @@ $(document).ready(function(){
 $(document).ready(function(){
 	$("#signFormId").validate();
 	$("signInBtnId").click(function(){
+		ga('send', 'event', 'Login Page', 'Click : Login','Login');
 		var validForm = $("#signFormId").valid();
 		if(validForm) {
 			$("signFormId").submit();
@@ -337,15 +338,19 @@ $(document).ready(function(){
 	});
 	
    	if ($(".thankyouMessage").html().length > 0) {
-    	$('.thankyouMessage') .show();
+    	$('.thankyouMessage').show();
   	}else{
-	   $('.thankyouMessage') .hide();
+	   $('.thankyouMessage').hide();
    	}
 });
+function refreshCaptcha(){
+	d = new Date();
+	$("#captchaImage").attr("src", "simpleCaptcha.png?"+d.getTime());
+}
 </script>
 
 <!-- Here body is explicitly written because its needed to run focus() on load of body -->
-   <form name="f" action="j_spring_security_check" method="POST" id="signFormId">
+   <form name="f" action="/loginValidator" method="POST" id="signFormId">
        <div class="srccont">
        	
 		<div class="thankyouMessage"></div>
@@ -354,10 +359,22 @@ $(document).ready(function(){
            
            <label class="w80 fLt">Password</label>
            <input type="password" class="w140 fLt required" name="j_password" value="">
-           <br class="clear">
-           <p><a href="javascript:void(0);" id="verificationId">Resend Verification Email</a> &nbsp;|&nbsp; <a href="javascript:void(0);" id="forgotPasswordId">Forgot your password?</a></p>
+           
+           <label class="fLt" style="padding-top:5px;">
+           <span style="color: #6f6f6f; float: left; width: 92px; line-height: 14px;">Please Solve The Equation</span>
+           <img src="/simpleCaptcha.png" id="captchaImage" class="mR10" style="width:110px;">
+		   <img src="/resources/images/refresh_icon.png" onclick="javascript:refreshCaptcha();" style="margin-top:0px; cursor:pointer;">
+		   </label>
+           
+           <label id="captchaMsgId" class="error" style="display: none; margin-bottom: 5px;"></label>
+           
+           <label class="w80 fLt">&nbsp;</label>
+		   <input type="text" name="captchaStr" class="fLt w140 required">
+		   		   
+           <label class="fLt" style="padding-right:0px;"><a href="javascript:void(0);" id="verificationId" style="font-size:11px;">Resend Verification Email</a> &nbsp;|&nbsp; 
+           <a href="javascript:void(0);" id="forgotPasswordId" style="font-size:11px;">Forgot your password?</a></label>
          	
-    	   <div class="fLt pT10"><a href="/facebooklogin"><img src="/resources/images/facebook-loginBtn.png"></a></div>
+    	   <div class="fLt pT10"><a href="/facebooklogin" onclick="ga('send', 'event', 'Login Page', 'Click : Facebook Login','Facebook Login');"><img src="/resources/images/facebook-loginBtn.png"></a></div>
            <input name="SignIn" type="submit" value="Sign In" id="signInBtnId" class="form_submit_mn_btn fRt mR10 mT5"> 
          	<br class="clear">
          	<div class="pT5" style="border-top:#cecece solid 1px; margin-top:7px;"> 
@@ -381,6 +398,7 @@ $(document).ready(function() {
 	doBindingsForPopUps();
 	$('#forgotPasswordFormId').validate();
 	$("#fogotPasswordSubmitBtn").click(function(e) {
+		ga('send', 'event', 'Home Page', 'Click : Forgot Password','Forgot Password');
 		$('#errorMessageId').text('');
 		var validationFlag = $('#forgotPasswordFormId').valid();
 		if(validationFlag) {
@@ -431,6 +449,7 @@ $(document).ready(function() {
 	doBindingsForPopUps();
 	$('#resendVerificationMailFormId').validate();
 	$("#resendVerificationMailSubmitBtn").click(function(e) {
+		ga('send', 'event', 'Registration Page', 'Click : Resend Mail Button','Resend Verification Mail');
 		$('#errorMessageId').text('');
 		var validationFlag = $('#resendVerificationMailFormId').valid();
 		if(validationFlag) {
@@ -478,12 +497,12 @@ $(document).ready(function() {
 			<!-- navigation -->
 		   	<nav id="navigation">
 		       <ul>
-			       	<li><a href="/home" class="homeActive">Home</a></li>
-			       	<li><a href="/jobs" class="jobsActive">Jobs</a></li>
-			       	<li><a href="/careerAdvice" class="careerActive">Career Advice</a></li>
-			       	<li><a href="/hrZone" class="hrZoneActive">HR Zone</a></li>
-			       	<li><a href="/events" class="eventsActive">Events</a></li>
-			       	<li style="background:none;"><a href="/jobfairs" target="_blank" class="jobFairActive">Job Fairs</a></li>
+			       	<li><a href="/home" class="homeActive" onclick="ga('send', 'event', 'Header', 'Click On Link','Home');">Home</a></li>
+			       	<li><a href="/jobs" class="jobsActive" onclick="ga('send', 'event', 'Header', 'Click On Link','Jobs');">Jobs</a></li>
+			       	<li><a href="/careerAdvice" class="careerActive" onclick="ga('send', 'event', 'Header', 'Click On Link','Career Advice');">Career Advice</a></li>
+			       	<li><a href="/hrZone" class="hrZoneActive" onclick="ga('send', 'event', 'Header', 'Click On Link','HR Zone');">HR Zone</a></li>
+			       	<li><a href="/events" class="eventsActive" onclick="ga('send', 'event', 'Header', 'Click On Link','Events');">Events</a></li>
+			       	<li style="background:none;"><a href="/jobfairs" target="_blank" class="jobFairActive" onclick="ga('send', 'event', 'Header', 'Click On Link','Job Fairs');">Job Fairs</a></li>
 		        </ul>
 		    </nav>
 	    </div>
@@ -589,7 +608,7 @@ $(function(){
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=159376190816234";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=365646363535523";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <footer id="footer">
@@ -617,27 +636,27 @@ $(function(){
 		<h3>Jobs by Industry</h3>
 		<nav>
 			<ul>
-				<li><a href="/jobs-industry-16194/Education-Training-jobs-f">Education Jobs</a></li>
-				<li><a href="/jobs-industry-16195/Engineering-jobs-f">Engineering Jobs</a></li>
-				<li><a href="/jobs-industry-16213/Recruitment-Agency-jobs-f">Recruitment Agency Jobs</a></li>
-				<li><a href="/jobs-industry-16191/Consulting-Services-jobs-f">Consultancy Jobs</a></li>
-				<li><a href="/jobs-industry-16207/Production-&amp;-Manufacturing-jobs-f">Production &amp; Manufacturing Jobs</a></li>
-				<li><a href="/jobs-industry-16187/Healthcare-&amp;-Medical-jobs-f">Healthcare &amp; Medical Jobs</a></li>
-				<li><a href="/jobs-industry-16190/Construction-jobs-f">Construction Jobs</a></li>
-				<li><a href="/jobs-industry-16202/IT-Software-jobs-f">IT Software Jobs</a></li>
-				<li><a href="/jobs-industry-16189/Hospitality-jobs-f">Hospitality Jobs</a></li>
-				<li><a href="/jobs-industry-16188/BPO-ITES-jobs-f">BPO Jobs</a></li>
-				<li><a href="/jobs-industry-16182/Banking-&amp;-Finance-jobs-f">Banking &amp; Finance Jobs</a></li>
-				<li><a href="/jobs-industry-16200/Travel-&amp;-Tourism-jobs-f">Travel &amp; Tourism Jobs</a></li>
-				<li><a href="/jobs-industry-16212/Real-Estate-jobs-f">Real Estate Jobs</a></li>
-				<li><a href="/jobs-industry-16199/Government-Sector-jobs-f">Government Naukri</a></li>
-				<li><a href="/jobs-industry-16186/Automobile-jobs-f">Automobile Jobs</a></li>
-				<li><a href="/jobs-industry-16196/Media-jobs-f">Media Jobs</a></li>
-				<li><a href="/jobs-industry-16210/Chemical-jobs-f">Chemical Jobs</a></li>
-				<li><a href="/jobs-industry-16201/IT-Hardware-Networking-jobs-f">IT Hardware &amp; Networking Jobs</a></li>
-				<li><a href="/jobs-industry-16215/Retail-jobs-f">Retail Jobs</a></li>
-				<li><a href="/jobs-industry-16217/Telecom-jobs-f">Telecom Jobs</a></li>
-				<li><a href="/jobs-industry-16203/Insurance-jobs-f">Insurance Jobs</a></li>
+				<li><a href="/jobs-industry-16194/Education-Training-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Education Jobs</a></li>
+				<li><a href="/jobs-industry-16195/Engineering-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Engineering Jobs</a></li>
+				<li><a href="/jobs-industry-16213/Recruitment-Agency-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Recruitment Agency Jobs</a></li>
+				<li><a href="/jobs-industry-16191/Consulting-Services-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Consultancy Jobs</a></li>
+				<li><a href="/jobs-industry-16207/Production-&amp;-Manufacturing-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Production &amp; Manufacturing Jobs</a></li>
+				<li><a href="/jobs-industry-16187/Healthcare-&amp;-Medical-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Healthcare &amp; Medical Jobs</a></li>
+				<li><a href="/jobs-industry-16190/Construction-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Construction Jobs</a></li>
+				<li><a href="/jobs-industry-16202/IT-Software-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">IT Software Jobs</a></li>
+				<li><a href="/jobs-industry-16189/Hospitality-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Hospitality Jobs</a></li>
+				<li><a href="/jobs-industry-16188/BPO-ITES-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">BPO Jobs</a></li>
+				<li><a href="/jobs-industry-16182/Banking-&amp;-Finance-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Banking &amp; Finance Jobs</a></li>
+				<li><a href="/jobs-industry-16200/Travel-&amp;-Tourism-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Travel &amp; Tourism Jobs</a></li>
+				<li><a href="/jobs-industry-16212/Real-Estate-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Real Estate Jobs</a></li>
+				<li><a href="/jobs-industry-16199/Government-Sector-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Government Naukri</a></li>
+				<li><a href="/jobs-industry-16186/Automobile-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Automobile Jobs</a></li>
+				<li><a href="/jobs-industry-16196/Media-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Media Jobs</a></li>
+				<li><a href="/jobs-industry-16210/Chemical-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Chemical Jobs</a></li>
+				<li><a href="/jobs-industry-16201/IT-Hardware-Networking-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">IT Hardware &amp; Networking Jobs</a></li>
+				<li><a href="/jobs-industry-16215/Retail-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Retail Jobs</a></li>
+				<li><a href="/jobs-industry-16217/Telecom-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Telecom Jobs</a></li>
+				<li><a href="/jobs-industry-16203/Insurance-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Industry');">Insurance Jobs</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -647,27 +666,27 @@ $(function(){
 		<h3>Jobs in India</h3>
 		<nav>
 			<ul>
-				<li><a href="/jobs-l/Mumbai-jobs">Jobs in Mumbai</a></li>
-				<li><a href="/jobs-l/Chennai-jobs">Jobs in Chennai</a></li>
-				<li><a href="/jobs-l/Delhi-jobs">Jobs in Delhi</a></li>
-				<li><a href="/jobs-l/Kolkata-jobs">Jobs in Kolkata</a></li>
-				<li><a href="/jobs-l/Bangalore-jobs">Jobs in Bangalore</a></li>
-				<li><a href="/jobs-l/Hyderabad-jobs">Jobs in Hyderabad</a></li>
-				<li><a href="/jobs-l/Pune-jobs">Jobs in Pune</a></li>
-				<li><a href="/jobs-l/Ahmedabad-jobs">Jobs in Ahmedabad</a></li>
-				<li><a href="/jobs-l/Noida-jobs">Jobs in Noida</a></li>
-				<li><a href="/jobs-l/Jaipur-jobs">Jobs in Jaipur</a></li>
-				<li><a href="/jobs-l/Mangalore-jobs">Jobs in Mangalore</a></li>
-				<li><a href="/jobs-l/Nagpur-jobs">Jobs in Nagpur</a></li>
-				<li><a href="/jobs-l/Nasik-jobs">Jobs in Nasik</a></li>
-				<li><a href="/jobs-l/Mysore-jobs">Jobs in Mysore</a></li>
-				<li><a href="/jobs-l/Lucknow-jobs">Jobs in Lucknow</a></li>
-				<li><a href="/jobs-l/Cochin-jobs">Jobs in Cochin</a></li>
-				<li><a href="/jobs-l/Goa-jobs">Jobs in Goa</a></li>
-				<li><a href="/jobs-l/Vadodara-jobs">Jobs in Vadodara</a></li>
-				<li><a href="/jobs-l/Ghaziabad-jobs">Jobs in Ghaziabad</a></li>
-				<li><a href="/jobs-l/Surat-jobs">Jobs in Surat</a></li>
-				<li><a href="/jobs-l/Dehradun-jobs">Jobs in Dehradun</a></li>
+				<li><a href="/jobs-l/Mumbai-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Mumbai</a></li>
+				<li><a href="/jobs-l/Chennai-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Chennai</a></li>
+				<li><a href="/jobs-l/Delhi-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Delhi</a></li>
+				<li><a href="/jobs-l/Kolkata-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Kolkata</a></li>
+				<li><a href="/jobs-l/Bangalore-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Bangalore</a></li>
+				<li><a href="/jobs-l/Hyderabad-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Hyderabad</a></li>
+				<li><a href="/jobs-l/Pune-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Pune</a></li>
+				<li><a href="/jobs-l/Ahmedabad-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Ahmedabad</a></li>
+				<li><a href="/jobs-l/Noida-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Noida</a></li>
+				<li><a href="/jobs-l/Jaipur-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Jaipur</a></li>
+				<li><a href="/jobs-l/Mangalore-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Mangalore</a></li>
+				<li><a href="/jobs-l/Nagpur-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Nagpur</a></li>
+				<li><a href="/jobs-l/Nasik-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Nasik</a></li>
+				<li><a href="/jobs-l/Mysore-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Mysore</a></li>
+				<li><a href="/jobs-l/Lucknow-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Lucknow</a></li>
+				<li><a href="/jobs-l/Cochin-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Cochin</a></li>
+				<li><a href="/jobs-l/Goa-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Goa</a></li>
+				<li><a href="/jobs-l/Vadodara-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Vadodara</a></li>
+				<li><a href="/jobs-l/Ghaziabad-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Ghaziabad</a></li>
+				<li><a href="/jobs-l/Surat-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Surat</a></li>
+				<li><a href="/jobs-l/Dehradun-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs in India');">Jobs in Dehradun</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -676,37 +695,37 @@ $(function(){
 		<h3>International Jobs</h3>
 		<nav class="footNavSep">
 			<ul>
-				<li><a href="/jobs-l/Kuwait-jobs">Jobs in Kuwait</a></li>
-				<li><a href="/jobs-l/Oman-jobs">Jobs in Oman</a></li>
-				<li><a href="/jobs-l/Saudi-Arabia-jobs">Jobs in Saudi Arabia</a></li>
-				<li><a href="/jobs-l/United-Arab-Emirates-jobs">Jobs in United Arab Emirates</a></li>
-				<li><a href="/jobs-l/Qatar-jobs">Jobs in Qatar</a></li>
-				<li><a href="/jobs-l/USA-jobs">Jobs in USA</a></li>
-				<li><a href="/jobs-l/UK-jobs">Jobs in UK</a></li>
-				<li><a href="/jobsAtOtherLocation" id="jobsAtOtherLocation">Jobs at Other Locations</a></li>
+				<li><a href="/jobs-l/Kuwait-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in Kuwait</a></li>
+				<li><a href="/jobs-l/Oman-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in Oman</a></li>
+				<li><a href="/jobs-l/Saudi-Arabia-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in Saudi Arabia</a></li>
+				<li><a href="/jobs-l/United-Arab-Emirates-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in United Arab Emirates</a></li>
+				<li><a href="/jobs-l/Qatar-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in Qatar</a></li>
+				<li><a href="/jobs-l/USA-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in USA</a></li>
+				<li><a href="/jobs-l/UK-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs in UK</a></li>
+				<li><a href="/jobsAtOtherLocation" id="jobsAtOtherLocation" onclick="ga('send', 'event', 'Footer', 'Click On Link','International Jobs');">Jobs at Other Locations</a></li>
 			</ul>
 		</nav>
 		
 		<h3 style="margin-bottom:2px;">Career Advice Articles</h3>
 		<nav class="footNavSep">
 			<ul>
-				<li><a href="/Career-Growth-Articles/Corporate-Life.html">Corporate Life</a></li>
-				<li><a href="/Career-Growth-Articles/Global-Research.html">Global Research</a></li>
-				<li><a href="/Career-Growth-Articles/Leadership.html">Leadership</a></li>
-				<li><a href="/Career-Growth-Articles/Personal-Life.html">Personal Growth</a></li>
-				<li><a href="/Career-Growth-Articles/Talent-and-Careers.html">Talent &amp; Careers</a></li>
-				<li><a href="/Career-Growth-Articles/The-Chat-Room.html">The Chat Room</a></li>
+				<li><a href="/Career-Growth-Articles/Corporate-Life.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">Corporate Life</a></li>
+				<li><a href="/Career-Growth-Articles/Global-Research.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">Global Research</a></li>
+				<li><a href="/Career-Growth-Articles/Leadership.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">Leadership</a></li>
+				<li><a href="/Career-Growth-Articles/Personal-Life.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">Personal Growth</a></li>
+				<li><a href="/Career-Growth-Articles/Talent-and-Careers.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">Talent &amp; Careers</a></li>
+				<li><a href="/Career-Growth-Articles/The-Chat-Room.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','Career Advice Articles');">The Chat Room</a></li>
 			</ul>
 		</nav>
 		
 		<h3 style="margin-bottom:2px;">HR Zone Articles</h3>
 		<nav>
 			<ul>
-				<li><a href="/Human-Resource-Articles/Global-HR-Policies.html">Global HR Policies</a></li>
-				<li><a href="/Human-Resource-Articles/Organisational-Effectiveness.html">Organisational Efficiency</a></li>
-				<li><a href="/Human-Resource-Articles/Staffing-and-Compensation.html">Employee Benefits</a></li>
-				<li><a href="/Human-Resource-Articles/Training-and-Development.html">Careers &amp; Training</a></li>
-				<li><a href="/Human-Resource-Articles/Work-Life-Balance.html">Work Life Balance</a></li>
+				<li><a href="/Human-Resource-Articles/Global-HR-Policies.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','HR Zone Articles');">Global HR Policies</a></li>
+				<li><a href="/Human-Resource-Articles/Organisational-Effectiveness.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','HR Zone Articles');">Organisational Efficiency</a></li>
+				<li><a href="/Human-Resource-Articles/Staffing-and-Compensation.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','HR Zone Articles');">Employee Benefits</a></li>
+				<li><a href="/Human-Resource-Articles/Training-and-Development.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','HR Zone Articles');">Careers &amp; Training</a></li>
+				<li><a href="/Human-Resource-Articles/Work-Life-Balance.html" onclick="ga('send', 'event', 'Footer', 'Click On Link','HR Zone Articles');">Work Life Balance</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -715,26 +734,26 @@ $(function(){
 		<h3>Jobs by Function</h3>
 		<nav>
 			<ul>
-				<li><a href="/jobs-c-84/Engineering-Civil-Architecture">Engineering, Civil and<br> Architecture</a></li>
-				<li><a href="/jobs-c-83/Learning-&amp;-Library">Learning &amp; Library</a></li>
-				<li><a href="/jobs-c-94/Real-Estate-&amp;-Housing">Real Estate &amp; Housing</a></li>
-				<li><a href="/jobs-c-69/Office-Administration">Office Administration</a></li>
-				<li><a href="/jobs-c-76/Sales-&amp;-Business-Dev">Sales &amp; Business Dev</a></li>
-				<li><a href="/jobs-c-79/IT-Hardware-&amp;-Software">IT Hardware and Software</a></li>
-				<li><a href="/jobs-c-72/Finance-&amp;-Accounting">Finance &amp; Accounting</a></li>
-				<li><a href="/jobs-c-82/Healthcare-&amp;-Medical">Healthcare &amp; Medical</a></li>
-				<li><a href="/jobs-c-77/Production-&amp;-Manufacturing">Production and Manufacturing</a></li>
-				<li><a href="/jobs-c-75/Marketing,Advertising">Marketing,Advertising </a></li>
-				<li><a href="/jobs-c-86/Hospitality-&amp;-Tourism">Hospitality &amp; Tourism</a></li>
-				<li><a href="/jobs-c-70/ITES-BPO-KPO-Support">ITES BPO KPO Support </a></li>
-				<li><a href="/jobs-c-80/Supply-Chain,Logistic">Supply Chain,Logistic</a></li>
-				<li><a href="/jobs-c-78/QA-&amp;-Testing">QA &amp; Testing</a></li>
-				<li><a href="/jobs-c-73/Human-Resources">Human Resources</a></li>
-				<li><a href="/jobs-c-74/Law,Legal">Law, Legal</a></li>
-				<li><a href="/jobs-c-88/Journalism-&amp;-Creative">Journalism &amp; Creative</a></li>
-				<li><a href="/jobs-c-71/Banking-&amp;-Insurance">Banking &amp; Insurance</a></li>
-				<li><a href="/jobs-c-81/Aviation">Aviation</a></li>
-				<li><a href="/jobsByOtherCategories" id="jobsByOtherCategories">Other Categories</a></li>
+				<li><a href="/jobs-c-84/Engineering-Civil-Architecture" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Engineering, Civil and<br> Architecture</a></li>
+				<li><a href="/jobs-c-83/Learning-&amp;-Library" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Learning &amp; Library</a></li>
+				<li><a href="/jobs-c-94/Real-Estate-&amp;-Housing" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Real Estate &amp; Housing</a></li>
+				<li><a href="/jobs-c-69/Office-Administration" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Office Administration</a></li>
+				<li><a href="/jobs-c-76/Sales-&amp;-Business-Dev" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Sales &amp; Business Dev</a></li>
+				<li><a href="/jobs-c-79/IT-Hardware-&amp;-Software" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">IT Hardware and Software</a></li>
+				<li><a href="/jobs-c-72/Finance-&amp;-Accounting" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Finance &amp; Accounting</a></li>
+				<li><a href="/jobs-c-82/Healthcare-&amp;-Medical" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Healthcare &amp; Medical</a></li>
+				<li><a href="/jobs-c-77/Production-&amp;-Manufacturing" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Production and Manufacturing</a></li>
+				<li><a href="/jobs-c-75/Marketing,Advertising" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Marketing,Advertising </a></li>
+				<li><a href="/jobs-c-86/Hospitality-&amp;-Tourism" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Hospitality &amp; Tourism</a></li>
+				<li><a href="/jobs-c-70/ITES-BPO-KPO-Support" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">ITES BPO KPO Support </a></li>
+				<li><a href="/jobs-c-80/Supply-Chain,Logistic" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Supply Chain,Logistic</a></li>
+				<li><a href="/jobs-c-78/QA-&amp;-Testing" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">QA &amp; Testing</a></li>
+				<li><a href="/jobs-c-73/Human-Resources" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Human Resources</a></li>
+				<li><a href="/jobs-c-74/Law,Legal" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Law, Legal</a></li>
+				<li><a href="/jobs-c-88/Journalism-&amp;-Creative" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Journalism &amp; Creative</a></li>
+				<li><a href="/jobs-c-71/Banking-&amp;-Insurance" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Banking &amp; Insurance</a></li>
+				<li><a href="/jobs-c-81/Aviation" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Aviation</a></li>
+				<li><a href="/jobsByOtherCategories" id="jobsByOtherCategories" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Function');">Other Categories</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -743,27 +762,27 @@ $(function(){
 		<h3>Jobs In IT</h3>
 		<nav>
 			<ul>
-				<li><a href="/job-Java/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Java Jobs</a></li>
-				<li><a href="/job-.NET/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">.Net Jobs</a></li>
-				<li><a href="/job-SAP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">SAP Jobs</a></li>
-				<li><a href="/job-Oracle/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Oracle Jobs</a></li>
-				<li><a href="/job-SQL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">SQL Jobs</a></li>
-				<li><a href="/job-DBA/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">DBA Jobs</a></li>
-				<li><a href="/job-Datacenter/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Datacenter Jobs</a></li>
-				<li><a href="/job-Photoshop/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Photoshop Jobs</a></li>
-				<li><a href="/job-Networking/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Networking Jobs</a></li>
-				<li><a href="/job-Windows/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Windows Jobs</a></li>
-				<li><a href="/job-Linux/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Linux Jobs</a></li>
-				<li><a href="/job-ITIL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">ITIL Jobs</a></li>
-				<li><a href="/job-ISO/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">ISO Jobs</a></li>
-				<li><a href="/job-Consulting/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Consulting Jobs</a></li>
-				<li><a href="/job-Testing/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Testing Jobs</a></li>
-				<li><a href="/job-CAD/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">CAD Jobs</a></li>
-				<li><a href="/job-Visual-Basic/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Visual Basic Jobs</a></li>
-				<li><a href="/job-PHP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">PHP Jobs</a></li>
-				<li><a href="/job-Support/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Support Jobs</a></li>
-				<li><a href="/job-Project-Management/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Project Management Jobs</a></li>
-				<li><a href="/job-Microsoft/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Microsoft Jobs</a></li>
+				<li><a href="/job-Java/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Java Jobs</a></li>
+				<li><a href="/job-.NET/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">.Net Jobs</a></li>
+				<li><a href="/job-SAP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">SAP Jobs</a></li>
+				<li><a href="/job-Oracle/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Oracle Jobs</a></li>
+				<li><a href="/job-SQL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">SQL Jobs</a></li>
+				<li><a href="/job-DBA/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">DBA Jobs</a></li>
+				<li><a href="/job-Datacenter/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Datacenter Jobs</a></li>
+				<li><a href="/job-Photoshop/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Photoshop Jobs</a></li>
+				<li><a href="/job-Networking/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Networking Jobs</a></li>
+				<li><a href="/job-Windows/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Windows Jobs</a></li>
+				<li><a href="/job-Linux/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Linux Jobs</a></li>
+				<li><a href="/job-ITIL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">ITIL Jobs</a></li>
+				<li><a href="/job-ISO/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">ISO Jobs</a></li>
+				<li><a href="/job-Consulting/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Consulting Jobs</a></li>
+				<li><a href="/job-Testing/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Testing Jobs</a></li>
+				<li><a href="/job-CAD/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">CAD Jobs</a></li>
+				<li><a href="/job-Visual-Basic/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Visual Basic Jobs</a></li>
+				<li><a href="/job-PHP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">PHP Jobs</a></li>
+				<li><a href="/job-Support/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Support Jobs</a></li>
+				<li><a href="/job-Project-Management/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Project Management Jobs</a></li>
+				<li><a href="/job-Microsoft/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs In IT');">Microsoft Jobs</a></li>
 			</ul>
 		</nav>
 	</section>	
@@ -776,11 +795,11 @@ $(function(){
 		<h3>Information</h3>
 		<nav>
 			<ul>
-				<li><a name="faq" href="/faq">FAQ</a></li>
-		        <li><a id="aboutUs" href="/aboutUs">About Us</a></li>
-	        	<li><a name="contactUs" style="cursor:pointer;">Contact Us</a></li>
-	        	<li><a id="reportBug" style="cursor:pointer;">Report A Bug</a></li>
-	        	 <li><a id="advertise" href="/ascentadsolution/index.html" target="_self">Advertise with Us</a></li>
+				<li><a name="faq" href="/faq" onclick="ga('send', 'event', 'Footer', 'Click On Link','FAQ');">FAQ</a></li>
+		        <li><a id="aboutUs" href="/aboutUs" onclick="ga('send', 'event', 'Footer', 'Click On Link','About Us');">About Us</a></li>
+	        	<li><a name="contactUs" style="cursor:pointer;" onclick="ga('send', 'event', 'Footer', 'Click On Link','Contact Us');">Contact Us</a></li>
+	        	<li><a id="reportBug" style="cursor:pointer;" onclick="ga('send', 'event', 'Footer', 'Click On Link','Report A Bug');">Report A Bug</a></li>
+	        	 <li><a id="advertise" href="/ascentadsolution/index.html" target="_self" onclick="ga('send', 'event', 'Footer', 'Click On Link','Advertise with Us');">Advertise with Us</a></li>
 			</ul>
 		</nav>
 	</section>	
@@ -789,9 +808,9 @@ $(function(){
 		<h3>&nbsp;</h3>
 		<nav>
 			<ul>
-				<li><a id="feedback" style="cursor:pointer;">Feedback</a></li>
-		        <li><a id="privacyPolicy" href="/privacyPolicy">Privacy Policy</a></li>
-		        <li style="background:none;"><a id="termsOfUse" href="/termsOfUse">Terms of Use</a></li>
+				<li><a id="feedback" style="cursor:pointer;" onclick="ga('send', 'event', 'Footer', 'Click On Link','Feedback');">Feedback</a></li>
+		        <li><a id="privacyPolicy" href="/privacyPolicy" onclick="ga('send', 'event', 'Footer', 'Click On Link','Privacy Policy');">Privacy Policy</a></li>
+		        <li style="background:none;"><a id="termsOfUse" href="/termsOfUse" onclick="ga('send', 'event', 'Footer', 'Click On Link','Terms of Use');">Terms of Use</a></li>
 	        	<li><a href="/siteMap">Site Map</a></li>
 			</ul>
 		</nav>
@@ -801,9 +820,9 @@ $(function(){
 		<h3>Other Timesgroup Sites</h3>
 		<nav>
 			<ul>
-				<li><a target="_blank" href="http://www.ascentmatcher.com/">Ascent Matcher</a></li>
-				<li><a target="_blank" href="http://epaper.timesofindia.com/">Times Of India - ePaper</a></li>
-				<li><a target="_blank" href="http://www.timesofindia.indiatimes.com/">Times Of India</a></li>
+				<li><a target="_blank" href="http://www.ascentmatcher.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Ascent Matcher');">Ascent Matcher</a></li>
+				<li><a target="_blank" href="http://epaper.timesofindia.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Times Of India - ePaper');">Times Of India - ePaper</a></li>
+				<li><a target="_blank" href="http://www.timesofindia.indiatimes.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Times Of India');">Times Of India</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -812,9 +831,9 @@ $(function(){
 		<h3>&nbsp;</h3>
 		<nav>
 			<ul>
-				<li><a target="_blank" href="http://www.mumbaimirror.com/">Mumbai Mirror</a></li>
-				<li><a target="_blank" href="http://www.bangaloremirror.com/">Bangalore Mirror</a></li>
-				<li><a target="_blank" href="http://www.ahmedabadmirror.com/">Ahmedabad Mirror</a></li>
+				<li><a target="_blank" href="http://www.mumbaimirror.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Mumbai Mirror');">Mumbai Mirror</a></li>
+				<li><a target="_blank" href="http://www.bangaloremirror.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Bangalore Mirror');">Bangalore Mirror</a></li>
+				<li><a target="_blank" href="http://www.ahmedabadmirror.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Ahmedabad Mirror');">Ahmedabad Mirror</a></li>
 			</ul>
 		</nav>
 	</section>
@@ -823,8 +842,8 @@ $(function(){
 		<h3>&nbsp;</h3>
 		<nav>
 			<ul>
-				<li><a target="_blank" href="http://www.punemirror.in/">Pune Mirror</a></li>
-				<li><a target="_blank" href="http://www.educationtimes.com/">Education Times</a></li>
+				<li><a target="_blank" href="http://www.punemirror.in/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Pune Mirror');">Pune Mirror</a></li>
+				<li><a target="_blank" href="http://www.educationtimes.com/" onclick="ga('send', 'event', 'Footer', 'Click On Link','Education Times');">Education Times</a></li>
 			</ul>
 		</nav>
 	</section>	
@@ -832,33 +851,33 @@ $(function(){
 	<br>
     <div class="fLt pT5">
     	<span style="font-size:14px;"><strong>Jobs by Company Name - </strong></span>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-A-jobs">A</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-B-jobs">B</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-C-jobs">C</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-D-jobs">D</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-E-jobs">E</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-F-jobs">F</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-G-jobs">G</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-H-jobs">H</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-I-jobs">I</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-J-jobs">J</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-K-jobs">K</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-L-jobs">L</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-M-jobs">M</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-N-jobs">N</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-O-jobs">O</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-P-jobs">P</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Q-jobs">Q</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-R-jobs">R</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-S-jobs">S</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-T-jobs">T</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-U-jobs">U</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-V-jobs">V</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-W-jobs">W</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-X-jobs">X</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Y-jobs">Y</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Z-jobs">Z</a>
-		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employer-Others-jobs">[0-9]</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-A-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">A</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-B-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">B</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-C-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">C</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-D-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">D</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-E-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">E</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-F-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">F</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-G-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">G</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-H-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">H</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-I-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">I</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-J-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">J</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-K-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">K</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-L-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">L</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-M-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">M</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-N-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">N</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-O-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">O</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-P-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">P</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Q-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">Q</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-R-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">R</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-S-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">S</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-T-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">T</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-U-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">U</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-V-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">V</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-W-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">W</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-X-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">X</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Y-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">Y</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Z-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">Z</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employer-Others-jobs" onclick="ga('send', 'event', 'Footer', 'Click On Link','Jobs by Company Name');">[0-9]</a>
     </div>
     
     <div class="fRt mB5 w260 pT5">
