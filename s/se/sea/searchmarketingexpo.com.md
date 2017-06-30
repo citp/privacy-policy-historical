@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130164247id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630135847id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Third Door Media
 
@@ -40,7 +40,7 @@ Your personally identifiable information will only be shared with other companie
 
   * __We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
   * __We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
-  * __You allow your badge to be scanned at Search Marketing Expo, a Third Door Media conference.
+  * __You allow your badge to be scanned at our conferences including Search Marketing Expo and MarTech.
 
 
 
