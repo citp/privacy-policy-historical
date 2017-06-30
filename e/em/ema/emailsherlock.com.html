@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2016-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228190140id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630231442id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,6 @@
 		<link href="/templates/July2016/styles/responsive.css" rel="stylesheet" type="text/css">
 		<meta name="google-site-verification" content="Df-qAilVAP_cLwvsaHR_FzePRA4PJRsu18zG3HRGnXI">
 		<meta property="fb:app_id" content="538642846200264">
-        <meta property="fb:admins" content="701705330">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
         <script type="text/javascript" src="/javascripts/jquery.tipsy.js"></script>
         <script type="text/javascript" src="/socialshare/inc/js/jquery.plugins.js"></script>
@@ -36,6 +35,13 @@
 				}
 			}
 			function getResults(query) {
+
+			    if(query === '&updateinfo=yes') {
+                    $('html, body').animate({
+                        scrollTop: $("#results").offset().top
+                    }, 1000);
+                }
+
 				if (query == undefined) {
 					query = '';
 				}
@@ -109,7 +115,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="counter"><i>44,978,125</i> searches so far</div>
+				<div class="counter"><i>49,143,794</i> searches so far</div>
 			</div>
 		</header>
 
