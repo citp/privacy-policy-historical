@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126124651id_/http%3A//startupbritain.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbritain.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630095938id_/http%3A//startupbritain.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Startup Britain
+# Privacy Policy – StartUp Britain
 
 Your privacy is important to StartUp Britain We are committed to safeguarding the privacy of our website visitors; this privacy statement sets out how we will treat your personal information.
 
