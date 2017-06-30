@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irrawaddy.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017164228id_/http%3A//www.irrawaddy.com%3Fpage_id%3D915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irrawaddy.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235155id_/https%3A//www.irrawaddy.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 At The Irrawaddy we collect information about our readers and supporters for three main reasons:
 
