@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycbseguide.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220224507id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycbseguide.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630174935id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="st-layout" lang="en"><head>
     <meta charset="utf-8">
@@ -8,15 +8,16 @@
     <meta name="keywords" content=" Privacy Policy, cbse, mycbseguide ">
     <meta name="description" content=" myCBSEguide.com has created this privacy statement in order to demonstrate our firm 
 commitment to privacy. The following discloses our information gathering and usage practices.">
-    <title>Privacy Policy | myCBSEguide.com
+    <title>
+        Privacy Policy | myCBSEguide.com
     </title>
 
     
 
     
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
-    <link href="//media.mycbseguide.com/v1.7.8/learning/learning.vendor.1.0.9.css" rel="stylesheet">
-    <link href="//media.mycbseguide.com/v1.7.8/learning/learning.app.1.0.9.css" rel="stylesheet">
+    <link href="//media.mycbseguide.com/v1.8.0/learning/learning.vendor.1.0.1.css" rel="stylesheet">
+    <link href="//media.mycbseguide.com/v1.8.0/learning/learning.app.1.0.1.css" rel="stylesheet">
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.7&amp;appId=429663383778405"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
 
@@ -24,20 +25,44 @@ commitment to privacy. The following discloses our information gathering and usa
         var API_BASE_URL = "https://api.mycbseguide.com/v1/";
         window.globalVariable = [];
         window.globalVariable.WEB_API_BASE_URL = "/v1/";
+
+        //questions
         window.globalVariable.WEB_API_QUESTIONS_URL = globalVariable.WEB_API_BASE_URL + "help/questions/";
         window.globalVariable.WEB_API_ANSWERS_URL =  globalVariable.WEB_API_BASE_URL + "help/answers/";
         window.globalVariable.WEB_API_QUESTIONS_Q_COMMENT_URL = globalVariable.WEB_API_BASE_URL + "help/question_comments/";
         window.globalVariable.WEB_API_QUESTIONS_A_COMMENT_URL = globalVariable.WEB_API_BASE_URL + "help/answer_comments/";
 
-
-
+        //practice
         window.globalVariable.WEB_API_PRACTICE_CATEGORY = globalVariable.WEB_API_BASE_URL + "practice/category/";
         window.globalVariable.WEB_API_PRACTICE_QUESTION = globalVariable.WEB_API_BASE_URL + "practice/question/category";
         window.globalVariable.WEB_API_PRACTICE_SUBMIT = globalVariable.WEB_API_BASE_URL + "practice/attempted";
 
+        //user
         window.globalVariable.WEB_API_REPORT_PRACTICE = globalVariable.WEB_API_BASE_URL + "user/report/practice/";
+        window.globalVariable.WEB_API_USER_ME = globalVariable.WEB_API_BASE_URL + "user/me/";
 
+        //category
         window.globalVariable.WEB_API_CATEGORY_DROPDOWN = globalVariable.WEB_API_BASE_URL + "category/dropdown/";
+
+        //test generator
+        window.globalVariable.WEB_API_TEST_GENERATOR = globalVariable.WEB_API_BASE_URL + "test-generator/user-testpapers/";
+        window.globalVariable.WEB_API_TEST_GENERATOR_CATEGORY = globalVariable.WEB_API_BASE_URL + "test-generator/category/";
+        window.globalVariable.WEB_API_TEST_GENERATOR_WEIGHTAGE = globalVariable.WEB_API_BASE_URL + "test-generator/weightage/";
+        window.globalVariable.WEB_API_GENERATE_PDF = globalVariable.WEB_API_BASE_URL + "test-generator/generate-pdf/";
+
+        //teacher
+        window.globalVariable.WEB_API_TEACHER = globalVariable.WEB_API_BASE_URL + "teach/teachers/";
+        window.globalVariable.WEB_API_TEACHER_ME = window.globalVariable.WEB_API_TEACHER + "me/";
+        window.globalVariable.WEB_API_TEACHER_PAYMENT = window.globalVariable.WEB_API_TEACHER + "{0}" + "/payment/";
+
+        //review
+        window.globalVariable.WEB_API_REVIEW = globalVariable.WEB_API_BASE_URL + "review/";
+        window.globalVariable.WEB_API_REVIEW_ASSIGNED_MODULES =  window.globalVariable.WEB_API_REVIEW + "module/";
+        window.globalVariable.WEB_API_REVIEW_ASSIGNED_Q_BACKLOG = window.globalVariable.WEB_API_REVIEW + "question-backlog/filtered/";
+        window.globalVariable.WEB_API_REVIEW_ASSIGNED_Q_RAW = window.globalVariable.WEB_API_REVIEW + "question/filtered/";
+        window.globalVariable.WEB_API_REVIEW_ASSIGNED_C_BACKLOG = window.globalVariable.WEB_API_REVIEW + "content-backlog/filtered/";
+        window.globalVariable.WEB_API_REVIEW_ASSIGNED_C_RAW = window.globalVariable.WEB_API_REVIEW + "content-raw/filtered/";
+
     </script>
 
     <script>
@@ -127,7 +152,7 @@ commitment to privacy. The following discloses our information gathering and usa
 
             <div class="navbar-brand navbar-brand-logo">
                 <a class="" href="/">
-                    <img class="img-responsive" src="//media.mycbseguide.com/v1.7.8/learning/images/mycbseguide_logo3.png" alt="myCBSEguide">
+                    <img class="img-responsive" src="//media.mycbseguide.com/v1.8.0/learning/images/mycbseguide_logo3.png" alt="myCBSEguide">
                 </a>
             </div>
         </div>
@@ -141,98 +166,26 @@ commitment to privacy. The following discloses our information gathering and usa
                         
                             
     <li>
-        <a href="/course/cbse-class-12/1250/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 12</span>
+        <a href="/course/cbse/2877/">
+            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE</span>
         </a>
     </li>
 
     <li>
-        <a href="/course/cbse-class-11/1339/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 11</span>
+        <a href="/course/entrance-exam/2878/">
+            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;Entrance Exam</span>
         </a>
     </li>
 
     <li>
-        <a href="/course/cbse-class-10/1175/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 10</span>
+        <a href="/course/up-board/2880/">
+            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;UP Board</span>
         </a>
     </li>
 
     <li>
-        <a href="/course/cbse-class-09/1217/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 09</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-08/1443/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 08</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-07/1444/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 07</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-06/1445/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 06</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-05/1446/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 05</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-04/1447/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 04</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-03/1448/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 03</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-02/2599/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 02</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/cbse-class-01/2600/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CBSE Class 01</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/pre-school/2594/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;Pre-School</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/ctet/2582/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;CTET</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/jee-main/2593/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;JEE main</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/course/neet-ug/1835/">
-            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;NEET-UG</span>
+        <a href="/course/teacher-exams/2879/">
+            <i class="fa fa-graduation-cap fa-fw"></i><span>&nbsp;Teacher Exams</span>
         </a>
     </li>
 
@@ -291,12 +244,15 @@ commitment to privacy. The following discloses our information gathering and usa
                 <li class="dropdown">
                     <a href="http://elpiscart.com/">Shop</a>
                 </li>
+                <li class="dropdown">
+                    <a href="https://goo.gl/forms/7VnDa0NJePYpzVX13" rel="nofollow">Join Us</a>
+                </li>
 
             </ul>
             <div class="navbar-right">
                 
                 
-                <a href="/accounts/login/" class="navbar-btn btn btn-primary">Log In</a>
+                <a href="/accounts/login/" class="navbar-btn btn btn-primary">Login</a>
                 <a href="/accounts/signup/" class="navbar-btn btn btn-success">Register</a>
                 
             </div>
@@ -308,6 +264,7 @@ commitment to privacy. The following discloses our information gathering and usa
 </div>
 
 <!--  nav bar -->
+
 
 
     <!-- Sidebar component with st-effect-1 (set on the toggle button within the navbar) -->
@@ -418,14 +375,14 @@ commitment to privacy. The following discloses our information gathering and usa
 
           <div class="container-fluid left-right-padding-none">
 
-                    <div id="page-content">
+                    <div id="page-content" class="clear-nav-top">
                         
 
                         
 
 
 
-<div class="container clear-nav-top">
+<div class="container">
     <div class="page-section">
         <div class="row">
             <div class="col-md-9">
@@ -512,9 +469,9 @@ commitment to privacy. The following discloses our information gathering and usa
 $(document).ready(function(){
 
 var array = [
-'<center><a href="http://www.LearnNext.com/FreeTrial.htm?trackerId=13&utm_campaign=ilearning1&utm_source=mycbseguide&utm_medi" rel="nofollow"  onclick="trackOutboundLink(\'http://www.LearnNext.com/FreeTrial.htm?trackerId=13&utm_campaign=ilearning1&utm_source=mycbseguide&utm_medi\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/LN_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
-'<center><a href="http://www.meritnation.com?mncid=mycbseguide_direct" rel="nofollow"  onclick="trackOutboundLink(\'http://www.meritnation.com?mncid=mycbseguide_direct\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/MN_250_apr16.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
-'<center><a href="http://www.dronstudy.com/success-story-om-pandey-science-olympiad-topper/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide" rel="nofollow"  onclick="trackOutboundLink(\'http://www.dronstudy.com/success-story-om-pandey-science-olympiad-topper/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/DS_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>'
+'<center><a href="http://elpiscart.com/" rel="nofollow"  onclick="trackOutboundLink(\'http://elpiscart.com\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/eb_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
+'<center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>',
+'<center><a href="http://www.dronstudy.com/online-test/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide" rel="nofollow"  onclick="trackOutboundLink(\'http://www.dronstudy.com/online-test/?utm_source=mycbseguide&utm_medium=ad&utm_campaign=mycbseguide\'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/ds/DS_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"/></a></center>'
 ];
 var str = ['0', '1', '2'];
 for(var j, x, i = str.length; i; j = parseInt(Math.random() * i), x = str[--i], str[i] = str[j], str[j] = x);
@@ -529,8 +486,7 @@ for(var i=0;i<=2;i++){
 
 </p><div id="advt_random_div"></div>
 
-<center><a href="http://examfear.com/" rel="nofollow" onclick="trackOutboundLink('http://examfear.com/'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/ef_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
-<center><a href="http://elpiscart.com/" rel="nofollow" onclick="trackOutboundLink('http://elpiscart.com/'); return false;"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/eb_250.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
+<center><a href="https://docs.google.com/forms/d/1ra4eViZmN-zabO9b57foRZK6ZTwlcwSlpewbZMyXisg/viewform?c=0&amp;w=1" rel="nofollow" target="_blank"><img class="img-responsive" src="http://media.mycbseguide.com/images/mcg/join-us.gif" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
                           <p></p>
                         </div>
                       </div>
@@ -579,7 +535,6 @@ for(var i=0;i<=2;i++){
                         <div class="panel-body">
                           <p>
                                 </p><center><a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&amp;referrer=utm_source%3Dmycbse_sidebar%26utm_medium%3Dbanner%26utm_campaign%3Dmycbseads" rel="nofollow" target="_blank"><img class="img-responsive" src="http://media.mycbseguide.com/images/ads/mobile_app.png" alt="banner" border="0" style="float: left; margin-bottom:5px;"></a></center>
-
                           <p></p>
                         </div>
                       </div>
@@ -708,7 +663,7 @@ for(var i=0;i<=2;i++){
                     <span class="text-headline text-light">Mobile App</span>
                     <div class="form-group">
                         <a href="https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide&amp;referrer=utm_source%3Dmycbse_bottom%26utm_medium%3Dtext%26utm_campaign%3Dmycbseads">
-                            <img style="width: 210px;margin-left: -5px;" src="//media.mycbseguide.com/v1.7.8/learning/images/google-play-logo.png" alt="myCBSEguide App">
+                            <img style="width: 210px;margin-left: -5px;" src="//media.mycbseguide.com/v1.8.0/learning/images/google-play-logo.png" alt="myCBSEguide App">
                         </a>
                     </div>
                 </div>
@@ -723,7 +678,7 @@ for(var i=0;i<=2;i++){
                     </p>
 
                     <p class="text-subhead">
-                        All Content and Intellectual Property is under Copyright Protection | myCBSEguide.com ©2007-2016
+                        All Content and Intellectual Property is under Copyright Protection | myCBSEguide.com ©2007-2017
                     </p>
 
                 </div>
@@ -774,8 +729,11 @@ for(var i=0;i<=2;i++){
     </script>
 
 
-    <script src="//media.mycbseguide.com/v1.7.8/learning/learning.vendor.1.0.9.js"></script>
-    <script src="//media.mycbseguide.com/v1.7.8/learning/learning.app.1.0.9.js"></script>
+    <script src="//media.mycbseguide.com/v1.8.0/learning/learning.vendor.1.0.1.js"></script>
+    <script src="//media.mycbseguide.com/v1.8.0/learning/learning.app.1.0.1.js"></script>
+    
+
+    
 
 <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
@@ -808,7 +766,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         </div>
     </div>
 </div>
-<!-- mycbseguide-deployed-version='7.5.2' -->
+<!-- mycbseguide-deployed-version='9.3.1' -->
 
 
 
