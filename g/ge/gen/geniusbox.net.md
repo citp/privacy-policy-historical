@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116195359id_/http%3A//www.geniusbox.net/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusbox.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630144050id_/http%3A//geniusbox.net/Legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112)
-
-GeniusBox is certified as a Trusted Download Program by TRUSTe signifying that GeniusBox has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding GeniusBox, please contact us at Wisconsin Technology Group 11414 W. Park Pl. Suite 202 Milwaukee, Wisconsin 53224 - 3500 or by email at support@geniusbox.net. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=229&sealid=112).
 
 GeniusBox PRIVACY POLICY
 
@@ -102,15 +98,10 @@ GeniusBox may update this Privacy Policy from time to time in its sole discretio
 
 10\.       Who We Are
 
-Any references made in this Privacy Policy to "us", "we", "our" and/or "GeniusBox" shall be deemed to have been made to Wisconsin Technology Group, as well as any company that controls Wisconsin Technology Group, directly or indirectly, and any other subsidiary of that controlling company.
+Any references made in this Privacy Policy to "us", "we", "our" and/or "GeniusBox" shall be deemed to have been made to GeniusBox, as well as any company that controls GeniusBox, directly or indirectly, and any other subsidiary of that controlling company.
 
 11\.       More Information
 
 For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices.
 
-We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.  However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us through our contact form at http://www.geniusbox.net#contact or write to us at:
-
-Wisconsin Technology Group  
-11414 W. Park Pl. Suite 202  
-Milwaukee, Wisconsin 53224 - 3500  
-support@geniusbox.net
+We do not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.  However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us through our contact form at http://www.geniusbox.net#contact or write to us at: support@geniusbox.net
