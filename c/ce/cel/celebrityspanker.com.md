@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityspanker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060414id_/http%3A//celebsuncensored.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityspanker.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701012050id_/http%3A//celebsuncensored.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
