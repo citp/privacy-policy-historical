@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230121256id_/https%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234905id_/https%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
@@ -20,11 +20,7 @@ When you click on links on the Website you may leave it. We are not responsible 
 
 If you have any questions or concerns about our Privacy Policy, contact us through this link: [ https://www.getresponse.com/feedback.html](https://www.getresponse.com/feedback.html). You may also contact us by mail at: Arkońska 6, A3, 80-387 Gdańsk, Poland.
 
-TRUSTe Program – GetResponse Sp. z.o.o. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. This Privacy Policy covers the website [www.getresponse.com](https://www.getresponse.com/) and does not cover other services found on our site such as GetResponse Affiliate. The TRUSTe program covers only information that is collected through this Website, and does not cover our Mobile Apps, information collected on behalf of our Customers and other information, such as information that may be collected through other GetResponse’s websites. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have any complaints about our policy or practices please let us know via this link: [ https://www.getresponse.com/feedback.html](https://www.getresponse.com/feedback.html). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
- **SPECIAL NOTE ABOUT CHILDREN**
+**SPECIAL NOTE ABOUT CHILDREN**
 
 This Website is not intended for children, especially kids under 13. Children may use this Website only with the direct supervision of their parent.
 
@@ -65,6 +61,8 @@ GetResponse will not share, sell, rent or trade the Customer’s and Subscriber�
 
 We reserve the right to disclose the Customer’s and Subscriber’s personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, Court order, or legal process served on GetResponse.
 
+In certain situations, GetResponse may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We use other third parties in a scope necessary to provide the Service, such as a credit card processing company to bill the Customer for goods and services. When you sign up for the Service we will share your information as necessary for the third party to provide the Service.
 
 These third parties are prohibited from using your personal information for promotional purposes.
@@ -97,7 +95,7 @@ We will use this information solely for processing payments for the Service that
 
 GetResponse collects only personal information that you choose to provide voluntarily registering to our Service. GetResponse shall advise you which information is mandatory to provide and what you do not have to enclose.
 
-We [GetResponse] and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We [GetResponse] and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. 
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
@@ -147,7 +145,7 @@ We post customer testimonials/reviews on the Website which may contain personal 
 
  **View, Change or Remove Information**
 
-You may change or delete your profile information at any time by going to your profile page and clicking ['My Account'](https://www.getresponse.com/my_account.html) option from the menu, then the information will be updated. Please contact us using our [feedback form](https://app.getresponse.com/feedback.html) if you need assistance in updating or reviewing your information. GetResponse will respond to you to review the information within 20 days.
+Upon request GetResponse will provide you with information about whether we hold any of your personal information. You may change or delete your profile information at any time by going to your profile page and clicking ['My Account'](https://www.getresponse.com/my_account.html) option from the menu, then the information will be updated. Please contact us using our [feedback form](https://app.getresponse.com/feedback.html) if you need assistance in updating or reviewing your information. GetResponse will respond to you to review the information within 20 days.
 
  **Other Terms**
 
@@ -161,4 +159,4 @@ Information posted by users in online blog updates, public forums, online bullet
 
 "You" and "Customer" mean the same.
 
-"Effective Date": 4/28/2016 is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.
+"Effective Date": 03/03/2017
