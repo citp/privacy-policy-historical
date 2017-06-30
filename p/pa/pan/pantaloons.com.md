@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120064215id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202301id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
 
 # Pantaloons
 
@@ -78,21 +78,41 @@ Changes to our Privacy Policy
 
 We may change these terms under Privacy Policy without notice. Continued use of this website indicates an acceptance to these terms and conditions herein and any subsequent changes that may be made from time to time. We recommend that the user / visitor visits these terms and conditions from time to time to understand and be fully aware of the user policy of this Website.
 
-Pujo Gift With Purchase Offer Terms & Conditions
+Terms & Conditions
 
-  * Offer valid at Pantaloons in West Bengal & Silchar from 2nd September -11th October, only 
-  * Shop, club your purchases & redeem offer is applicable only for Pantaloons Greencard Members.
-  * Only those transactions will be considered for this offer, where mobile number is provided before billing
-  * Select brands available at select stores
-  * Visit the customer service desk to avail branded gift entitlement after billing is completed
-  * Redemption Bills containing Gifts article will not be considered for cumulative shopping
-  * No two offers can be clubbed together, on Pantaloons exclusive brands.
-  * Offer clubbing permitted for Pantaloons partner brands covering apparel, cosmetics, watches, footwear, handbags and fashion accessories.
-  * Greencard members can continue to earn and redeem points even during the offer period. 
-  * Partial redemption of Credit Note not allowed on bills containing gift with purchase articles.
-  * Unutilized purchase entitlement will lapse once a gift has been availed of
-  * Offer is valid till gift stocks last
-  * Unutilized purchase entitlement will lapse once a gift has been availed of
-  * Only One Gift can be redeemed at one time
+Paytm E wallet offer (16th June - 30th June, 2017):
+
+  * Get Rs 150 Cashback @ Pantaloons on Paytm payments
+  * Valid on a minimum transaction of Rs.3000 & above
+  * Offer valid from 16th June - 30th June, 2017
+  * This offer can be availed once during the offer period
+  * Cashback will be credited within 48 hours
+
+
+
+Mobikwik E wallet offer (16th June - 31st July, 2017):
+
+  * Get flat 10% Super Cash @ Pantaloons on Mobikwik payments
+  * Maximum MobiKwik Super Cash is Rs.250
+  * Offer valid from 16th June - 31th July, 2017
+  * This offer can be availed once during the offer period
+  * Cashback will be credited within 48 hours
+
+
+
+CASH BACK OFFER - TERMS & CONDITIONS
+
+  * 5% Cash Back offer shall be available to all State Bank Debit and SBI Credit Cardholders shopping for a net value of Rs 3,000/- or above in one single transaction.
+  * Maximum available cashback is Rs 750/-
+  * Offer Period: 16th June 2017 - 30th July 2017 (Both days included)
+  * Cashback will be processed within 45 days or by 15th Sept 2017, after expiry of promotion period by SBI.
+  * This offer is valid for all State Bank Debit and SBI Credit Cardholders excluding SBI Corporate Credit Card with no outstanding of more than 30 days.
+  * State Bank Debit Cards refers to any Debit Card issued by o State Bank of India o State Bank of Hyderabad o State Bank of Bikaner and Jaipur o State Bank of Travancore o State Bank of Mysore o State Bank of Patiala 
+  * All customer queries on the offer should be raised during the offer period on or before 15th Octâ€™2017
+  * The cashback will be calculated at card level, ie: A cardholder who swipes his/her Card for a minimum value of Rs. 3,000/- or above can avail a 5% cashback on each qualifying transaction during the offer period.
+  * The offer is not transferable, non-negotiable and cannot be en-cashed.
+  * The processing responsibility of the applicable cash back lies on SBI and Pantaloons is not in any way liable/ responsible for this cash back offer.
+  * Any complaints whatsoever in relation to the offer would be addressed by SBI at their customer service number: Credit Cards: 1860 180 1290 or 1800 180 1290 Debit Cards: 1800-112-211 or 1800-425-3800
+  * Pantaloons reserve the right to withdraw and /or alter any of the terms and conditions and/or replace this scheme or parts thereof anytime without assigning any reason whatsoever.
 
 
