@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueair.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603191352id_/https%3A//www.blueair.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueair.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630210028id_/https%3A//www.blueair.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blueair
 
@@ -84,4 +84,4 @@ You can access, amend or delete your personal data held by Blueair through the c
 
 You can delete the information on the Blueair device by resetting it to the default settings (using Reset in the Settings menu) and on your mobile device by uninstalling the Blueair mobile application.
 
-If you have any questions, please contact us at [info@blueair.se](mailto:info@blueair.se). Blueair AB, Danderydsgatan 11, 114 26 Stockholm, Sweden.
+If you have any questions, please contact us at [info@blueair.se](mailto:info@blueair.se). Blueair AB, Karlavägen 108, 115 26 Stockholm, Sweden.
