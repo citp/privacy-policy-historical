@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229082120id_/https%3A//rocketfuel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125429id_/https%3A//rocketfuel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Rocket Fuel
 
-Last Modified September 20,2016
+Last Modified January 17, 2017
 
 **ROCKET FUEL PRIVACY STATEMENT**
 
@@ -54,7 +54,7 @@ We make inferences from the data we collect, or match with others, in order to s
 
 We also use the information we collect to measure the effectiveness of ads on behalf of our advertisers and publishers.
 
-We may also predict whether different anonymous identifiers associated with different browsers and different devices, like a laptop, a phone or a tablet, may belong to one person, and then link the activity we see across those devices into a common profile. We call this a “cross device graph”. We believe this helps us serve you better advertisements, control how many times you may see the same advertisement, and provide better service to our advertisers.   We make these predictions based only on the anonymous information that we have, and we do not use personally identifiable information that directly identifies you (for example, your account information with a service provider) to make these cross-device graphs.
+We may also predict whether different anonymous identifiers associated with different browsers and different devices, like a laptop, a phone or a tablet, may belong to one person, and then link the activity we see across those devices into a common profile. We call this a “cross device graph”. We believe this helps us serve you better advertisements, control how many times you may see the same advertisement, and provide better service to our advertisers. We make these predictions based on the anonymous information and deidentified information that we may receive from our third party partners, that you may have provided personal information to. However, we do not collect, use or store personally identifiable information that directly identifies you (for example, your account information with a service provider) when we create these cross-device graphs.
 
 **Information Sharing**
 
@@ -83,7 +83,7 @@ An opt-out in any of the tools listed here will have the same effect, and you do
 
 **Industry Memberships**
 
-Rocket Fuel is a member of the Network Advertising Initiative ([NAI](http://www.networkadvertising.org/code-enforcement)), an organization working to educate people and help them manage their online privacy. Rocket Fuel adheres to the NAI’s Code of Conduct.
+Rocket Fuel is a member of the Network Advertising Initiative ([NAI](http://www.networkadvertising.org/code-enforcement)), an organization working to educate people and help them manage their online privacy. Rocket Fuel adheres to the NAI’s Codes of Conduct.
 
 Rocket Fuel also complies with the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA), and Digital Advertising Alliance of Canada (DAAC), and the European Digital Advertising Alliance (EDAA). As part of compliance with the Self-Regulatory Program, Rocket Fuel is licensed and certified to deploy the Advertising Option icon (AdChoices).
 
@@ -175,7 +175,7 @@ Rocket Fuel Inc
 
 c/o Privacy
 
-1900 Seaport Blvd
+2000 Seaport Blvd
 
 Pacific Shores Center
 
