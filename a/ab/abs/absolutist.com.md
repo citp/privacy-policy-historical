@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120002414id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200542id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,4 @@ We have security measures in place to protect the loss, misuse and alteration of
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see below for contact information.
 
 **More Information**   
-If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20161120002414id_/http://absolutist.com/contacts/)
+If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20170630200542id_/http%3A//contacts/)
