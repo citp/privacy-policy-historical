@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gwallet.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125845id_/https%3A//radiumone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwallet.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125412id_/https%3A//radiumone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadiumOne
 
-**Last updated:** November 16, 2016
+**Last updated:** June 27, 2017
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=733e54ee-8f15-47f2-9e45-96aa59b29de9 "TRUSTe Privacy Certification")
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=78617631-42f6-4e78-ab6a-ded524023ed0 "TRUSTe Privacy Certification")
 
-RadiumOne is a digital advertising company. We value the privacy of consumers (“ **Users** ”, “ **you** ”, “ **your** ”) who visit our websites at [http://radiumone.com](https://radiumone.com/), [http://po.st](http://po.st/), or [http://radiumone.co.uk](http://radiumone.co.uk/) (the “ **Sites** ”) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform”** ). In this Privacy Policy we use the terms “ **RadiumOne** ”, “ **our** ”, “ **us** ”, and “ **we** ” to refer to RadiumOne, Inc.; RadiumOne UK Ltd.; and our affiliates.
+RadiumOne is a digital advertising company. We value the privacy of consumers (“ **Users** ”, “ **you** ”, “ **your** ”) who visit our websites at [https://radiumone.com](https://radiumone.com/), [https://po.st](https://po.st/), or [http://radiumone.co.uk](http://radiumone.co.uk/) (the “ **Sites** ”) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform”** ). In this Privacy Policy we use the terms “ **RadiumOne** ”, “ **our** ”, “ **us** ”, and “ **we** ” to refer to R1Demand, LLC; RadiumOne UK Ltd.; and our affiliates.
 
 The RadiumOne technology (the “ **Technology** ”) gathers User information from the Platform to optimize the delivery of digital advertising to Users. We use the information that we collect about you in connection to our advertising services to tailor advertising to you more effectively and for statistical reporting and analytics purposes, as further explained in the section _“How We Use and Disclose Information”_ below.  When we provide our advertising services under a contract with one of our clients for running campaigns on their behalf, we use the information that we collect about you for the purpose of providing the service for which the client has engaged us.
 
@@ -128,7 +128,7 @@ Please note that opting out of either Browser-Based or Mobile Application-Based 
 
 **Data Retention**
 
-RadiumOne uses Browser-Based Data and Mobile App-Based Data for Targeted Advertising for no more than 13 months. We maintain ad server log data and stored data for a period of up to 24 months in order to comply with audits, court order or law enforcement inquiries. After 24 months, all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions, clicks, and conversions) used for financial reporting purposes. If we hold personal information about you as described in the “ _RadiumOne Site Privacy Practices_ ” section below, we will only keep it for as long as it is necessary for the purposes of (a) collecting and processing it and (b) complying with our legal obligations, resolving disputes, and enforcing our agreements.
+RadiumOne uses Browser-Based Data and Mobile App-Based Data for Targeted Advertising for no more than 13 months. We maintain ad server log data and stored data for a period of up to 18 months in order to comply with audits, court order or law enforcement inquiries. After 18 months, all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions, clicks, and conversions) used for financial reporting purposes. If we hold personal information about you as described in the “ _RadiumOne Site Privacy Practices_ ” section below, we will only keep it for as long as it is necessary for the purposes of (a) collecting and processing it and (b) complying with our legal obligations, resolving disputes, and enforcing our agreements.
 
 **Security**
 
@@ -202,9 +202,9 @@ With respect to personal information received or transferred pursuant to the Pri
 Residents of the EU who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
 
   1. You can contact RadiumOne directly using the details in the “Contact Us” section below. We will respond to your complaint within 45 days of receipt.
-  2. We have further committed to refer unresolved privacy complaints under the Privacy Shield via TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please contact TRUSTe (free of charge) at https://feedback-form.truste.com/watchdog/request.
+  2. We have further committed to refer unresolved privacy complaints under the Privacy Shield via TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please contact TRUSTe (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
   3. Further, your complaint can be made or referred to the U.S. Department of Commerce or the Federal Trade Commission for further investigation.
-  4. For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration. To find out more about the Privacy Shield’s binding arbitration scheme, please see https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+  4. For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration. To find out more about the Privacy Shield’s binding arbitration scheme, please see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
 
 
 
@@ -236,10 +236,10 @@ If you want to write to us regarding your privacy rights or have any questions, 
 **If you are based in the United States or a country outside Europe:**
 
 _Privacy Officer  
-RadiumOne, Inc.  
-55 Second St.  
-18th Floor  
-San Francisco, CA 94105  
+R1Demand, LLC  
+601 Montgomery St.  
+16th Floor  
+San Francisco, CA 94111  
 USA_
 
 **If you are based in Europe or Australia:**
