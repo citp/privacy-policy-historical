@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231062711id_/http%3A//www.karl.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200548id_/http%3A//www.karl.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -19,7 +19,7 @@ The above-mentioned data processors have been chosen by YOOX NET-A-PORTER GROUP 
 
   * [United Parcel Service S.p.A.("UPS")](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the www.karl.com US Site; 
   * BT Italia S.p.A., for purposes related to the maintenance of YOOX NET-A-PORTER GROUP servers; 
-  * [YOOX NET-A-PORTER GROUP Italy](http://www.yoox.com/). We provide YOOX NET-A-PORTER GROUP Italy with personal data of users and customers for purposes related to direct marketing services of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. and in connection with other services provided by YOOX NET-A-PORTER GROUP Italy to YNAP USA, such as call center and help desk services.
+  * [YOOX NET-A-PORTER GROUP Italy](http://www.ynap.com/). We provide YOOX NET-A-PORTER GROUP Italy with personal data of users and customers for purposes related to direct marketing services of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. and in connection with other services provided by YOOX NET-A-PORTER GROUP Italy to YNAP USA, such as call center and help desk services.
 
 Please contact our Customer Service or send us an e-mail at [privacy@mail.karl.com](mailto:privacy@mail.karl.com) if you would like to receive a full list of our data processors.
 
