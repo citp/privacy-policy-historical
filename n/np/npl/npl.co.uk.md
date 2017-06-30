@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123183038id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205201id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : National Physical Laboratory
 
@@ -111,7 +111,6 @@ npl.co.uk
 resource.npl.co.uk  
 project.npl.co.uk  
   
-  
 You can opt out of Google Analytics monitoring [here](https://tools.google.com/dlpage/gaoptout)
 
 ### Session cookie
@@ -180,42 +179,7 @@ Cookie set when signing up to download NPL PDFs. Allows user to download PDFs wi
 
 publications.npl.co.uk  
   
-###  Marketo marketing activity
-
-**Name**
-
-| 
-
-**Description**
-
-| 
-
-**Longevity**
-
-| 
-
-**Domain**  
-  
----|---|---|---  
-  
-** _mkto_trk**
-
-| 
-
-Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor.
-
-[Privacy Policy](http://uk.marketo.com/trust/legal/privacy/ "Marketo privacy policy")
-
-| 
-
-Long term
-
-| 
-
-npl.co.uk  
-  
-##   
-Cookies set by third-party services
+## Cookies set by third-party services
 
 On some areas of the site we use third party multimedia services to support our work. Often these will be embedded material hosted on other sites or services provided by external sites. These external sites may present you with cookies. NPL doesn't control the dissemination of these cookies and you should check the relevant third party website for more information about these.
 
