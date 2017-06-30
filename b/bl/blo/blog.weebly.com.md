@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231173604id_/https%3A//www.weebly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630162835id_/https%3A//www.weebly.com/privacy) for the most accurate reproduction.*
 
 # Weebly网站构建器：创建免费网站、网店或博客
 
