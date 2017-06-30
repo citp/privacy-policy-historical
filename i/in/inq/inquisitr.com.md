@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231024646id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630044214id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Inquisitr News
+# The Inquisitr
 
 Inquisitr.com owners of the Inquisitr and Inquisitr.com, values the privacy of our readers. We recognize your right to privacy and work hard to protect your private information at all turns.
 
