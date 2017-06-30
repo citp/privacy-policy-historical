@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wp-answers.com privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202084627id_/http%3A//wp-answers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wp-answers.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630085613id_/http%3A//wp-answers.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,13 +24,23 @@
 		  })();
 		</script>
 <!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//qeryz.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="WP-Answers: WordPress Question &amp; Answer Plugin / Theme » Feed" href="http://wp-answers.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="WP-Answers: WordPress Question &amp; Answer Plugin / Theme » Comments Feed" href="http://wp-answers.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="WP-Answers: WordPress Question &amp; Answer Plugin / Theme » Privacy Policy Comments Feed" href="http://wp-answers.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.10","twemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/twemoji.js?ver=4.2.10"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/wp-answers.com\/wp-includes\/js\/twemoji.js"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -38,16 +48,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -57,48 +70,96 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
+				/*
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
+				 */
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'flag', 'emoji4' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -126,7 +187,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://wp-answers.com/wp-includes/js/twemoji.js?ver=4.2.10" type="text/javascript"></script><script src="http://wp-answers.com/wp-includes/js/wp-emoji.js?ver=4.2.10" type="text/javascript"></script>
+		</script><script src="http://wp-answers.com/wp-includes/js/twemoji.js" type="text/javascript" defer=""></script><script src="http://wp-answers.com/wp-includes/js/wp-emoji.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -141,17 +202,35 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="dwpb_style-css" href="http://wp-answers.com/wp-content/plugins/dw-promobar/assets/css/main.css?ver=4.2.10" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="wpmu-animate-min-css-css" href="http://wp-answers.com/wp-content/plugins/popover/css/animate.min.css?ver=4.2.10" type="text/css" media="all">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js?ver=4.2.10"></script>
-<script type="text/javascript" src="http://wp-answers.com/wp-content/themes/wp-answers2/js/ie.js?ver=4.2.10"></script>
-<script type="text/javascript" src="http://wp-answers.com/wp-content/themes/wp-answers2/js/tabs.js?ver=1.0"></script>
+<link rel="stylesheet" id="wpt-css-default-css" href="http://wp-answers.com/wp-content/plugins/kento-pricing-table-free/themes/default/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpt-css-css" href="http://wp-answers.com/wp-content/plugins/kento-pricing-table-free/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-color-picker-css" href="http://wp-answers.com/wp-admin/css/color-picker.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="smile-modal-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/modules/modal/assets/css/modal.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="cp-perfect-scroll-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/modules/slide_in/../../admin/assets/css/perfect-scrollbar.min.css" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpt_ajax = {"wpt_ajaxurl":"http:\/\/wp-answers.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/kento-pricing-table-free/js/wpt-ajax.js"></script>
+<script type="text/javascript" src="https://qeryz.com/survey/js/qryz_v3.2.js"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/themes/wp-answers2/js/tabs.js"></script>
+<link rel="https://api.w.org/" href="http://wp-answers.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wp-answers.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wp-answers.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.10">
+<meta name="generator" content="WordPress 4.7.5">
 <link rel="shortlink" href="http://wp-answers.com/?p=119">
-<link rel="stylesheet" type="text/css" href="http://wp-answers.com/wp-admin/admin-ajax.php?action=upfw_css">
+<link rel="alternate" type="application/json+oembed" href="http://wp-answers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp-answers.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://wp-answers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp-answers.com%2Fprivacy-policy%2F&amp;format=xml">
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/		</style>
+	<link rel="stylesheet" type="text/css" href="http://wp-answers.com/wp-admin/admin-ajax.php?action=upfw_css">
 <script>
 var menu_flag = false;
 function Show_Menus() {
@@ -163,10 +242,45 @@ function Show_Menus() {
 			menu_flag = true;
 	}
 }
+$(document).ready(function() {
+if ($(window).width() <= 700){	
+		// do something here	
+		
+		if(! $('#responsive-menu-btn a').hasClass('responmenu')){
+		$('#responsive-menu-btn').css({'display':'inline-block','font-size': '16px','margin-top': '2%','float': 'right','padding':'2% 1%'});
+		$('#main-nav').css({'display':'none','height': 'inherit','float': 'right','font-size': '14px','position':'absolute','margin-top': '8.6%','left': '51%','background-color': '#173A4C','z-index': '99','width': '38%','text-align': 'left'});
+		$("#main-nav li").css("float","none");
+		$('#responsive-menu-btn').html( '<a href="#" onclick="Show_Menus()"><img alt="mobile menu" src="http://wp-answers.com/wp-content/themes/wp-answers2/img/mobile_menu.png" height="50px" width="50px"/></a>' );		
+	}
+}else{
+	$('#responsive-menu-btn').css("display","none");
+	
+}	
+    $(window).resize(function(){
+	if ($(window).width() <= 700){	
+		// do something here	
+		
+		if(! $('#responsive-menu-btn a').hasClass('responmenu')){
+		$('#responsive-menu-btn').css({'display':'inline-block','font-size': '16px','margin-top': '5%','float': 'right','padding':'5px 10px'});
+		$('#main-nav').css({'display':'none','height': 'inherit','float': 'right','font-size': '14px','position':'absolute','margin-top': '8.6%','left': '47%','background-color': '#173A4C','z-index': '99','width': '50%'});
+		$("#main-nav li").css("float","none");
+		$('#responsive-menu-btn').html( '<a href="#" onclick="Show_Menus()"><img alt="mobile menu" src="http://wp-answers.com/wp-content/themes/wp-answers2/img/mobile_menu.png" height="50px" width="50px"/></a>' );		
+	}
+}else{
+	$('#responsive-menu-btn').css("display","none");
+	
+}	
+});
+$(window).resize(function(){
+	if ($(window).width() <= 768){	
+		$(".shots").css("float","none");	
+}	
+});
+});
 </script>
 </head>
 
-<body class="page page-id-119 page-template-default dwpb-push-page dwpb-allow-close">
+<body class="page-template-default page page-id-119">
 
 
 <div id="header-inside">
@@ -174,14 +288,13 @@ function Show_Menus() {
 <div id="navbar">
 
 <p><a href="http://wp-answers.com" class="logoimage"><img src="http://wp-answers.com/wp-content/themes/wp-answers2/img/logo.png" class="logo" alt="logo"></a></p>
-<p id="responsive-menu-btn"> <a href="#" onclick="Show_Menus()">Responsive Menu</a></p>
+<p id="responsive-menu-btn"> </p>
 
 <div id="main-nav">
 <div class="menu-header"><ul id="menu-menu" class="menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-130"><a href="http://wp-answers.com">Home</a></li>
-<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://wp-answers.com/features/">Features</a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://wp-answers.com/examples/">Examples</a></li>
 <li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://wp-answers.com/add-ons/">Add-Ons</a></li>
 <li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://wp-answers.com/demo/">Demo</a></li>
-<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://wp-answers.com/examples/">Examples</a></li>
 <li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://wp-answers.com/affiliates/">Affiliates</a></li>
 <li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://wp-answers.com/blog/">Blog</a></li>
 <li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://wp-answers.com/contact/">Contact</a></li>
@@ -221,7 +334,7 @@ function Show_Menus() {
 <h3>Other Websites</h3>
 <p>This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.</p>
 </div>
-
+<span class="cp-load-after-post"></span>
 
 </div><!-- End Content -->
 
@@ -269,29 +382,231 @@ function Show_Menus() {
 				<a href="http://wp-answers.com/wp-answers-version-4-7-1-released/">WP-Answers Version 4.7.1 Released</a>
 						</li>
 				</ul>
-		</div><div class="footerwidget"><h4 class="foothead">Pages</h4><div class="menu-menu-container"><ul id="menu-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-130"><a href="http://wp-answers.com">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://wp-answers.com/features/">Features</a></li>
+		</div>		<div class="footerwidget"><h4 class="foothead">Pages</h4><div class="menu-menu-container"><ul id="menu-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-130"><a href="http://wp-answers.com">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://wp-answers.com/examples/">Examples</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://wp-answers.com/add-ons/">Add-Ons</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://wp-answers.com/demo/">Demo</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://wp-answers.com/examples/">Examples</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://wp-answers.com/affiliates/">Affiliates</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://wp-answers.com/blog/">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://wp-answers.com/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://wp-answers.com/purchase/">Purchase</a></li>
-</ul></div></div><div class="footerwidget"><h4 class="foothead">Social media</h4><ul id="socialmedia"><li class="facebook"><span class="socialnumber"><a href="http://www.facebook.com/WPAnswers"> </a></span><p>Fans</p></li><li class="twitter"><span class="socialnumber"><a href="http://twitter.com/wp_answers">478</a></span><p>Followers</p></li><li class="rss"><span class="socialnumber"><a href="http://feeds.feedburner.com/wp-answers">54</a></span><p>Subscribers</p></li><li class="dribbble"><span class="socialnumber"><a href="http://dribbble.com/olidale"> </a></span><p>Followers</p></li></ul></div>
+</ul></div></div><div class="footerwidget"><h4 class="foothead">Social media</h4><ul id="socialmedia"><li class="twitter"><span class="socialnumber"><a href="http://twitter.com/wp_answers">478</a></span><p>Followers</p></li><li class="rss"><span class="socialnumber"><a href="http://feeds.feedburner.com/wp-answers">54</a></span><p>Subscribers</p></li></ul></div>
 
-<p class="copy">Copyright © 2010 - 2012 <a href="http://hbwsl.com" target="_blank">Hummingbird Web Solutions Pvt Ltd.</a> All Rights Reserved<br>
+<p class="copy">Copyright © 2010 - 2017 <a href="http://hbwsl.com" target="_blank">Hummingbird Web Solutions Pvt Ltd.</a> All Rights Reserved<br>
 WP-Answers is a <a href="http://wp-answers.com">WordPress Question and Answer Plugin  </a> - <a href="http://wp-answers.com/terms-conditions/">Terms &amp; Conditions</a> - <a href="http://wp-answers.com/privacy-policy/">Privacy Policy</a></p>
 </div><!-- End Bottom -->
 </div><!-- End Footer -->
 
-<script>window._popup_data = {"ajaxurl":"http:\/\/wp-answers.com\/wp-admin\/admin-ajax.php","do":"get_data","ajax_data":{"orig_request_uri":"\/privacy-policy\/"}};</script><script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+	            <script type="text/javascript" id="modal">
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1498812974 * 1000 ;
+				var diffms = (now - gmt) ;
+				</script>
+	             <style type="text/css"></style><link rel="stylesheet" type="text/css" id="cp-google-fonts" href="https://fonts.googleapis.com/css?family=Bitter|Lato|Libre+Baskerville|Montserrat|Neuton|Open+Sans|Pacifico|Raleway|Roboto|Sacramento|Varela+Round|Lato|Open Sans|Libre Baskerville|Montserrat|Neuton|Raleway|Roboto|Sacramento|Varela Round|Pacifico|Bitter">	<div data-class-id="content-5956122e8b941" data-referrer-domain="" data-referrer-check="hide" data-after-content-value="50" class="cp-onload overlay-show cp-cp_id_3cf75 cp-modal-global" data-overlay-class="overlay-zoomin" data-onload-delay="" data-onscroll-value="" data-exit-intent="enabled" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-dev-mode="disabled"></div>
+	<div data-form-layout="cp-form-layout-1" class="cp-modal-popup-container cp_id_3cf75 cp-jugaad-container">
+		<div class="cp-overlay  smile-bounceInDown content-5956122e8b941 global_modal_container " data-placeholder-font="" data-class="content-5956122e8b941" style=" background:rgba(0, 0, 0, 0.71)" data-closed-cookie-time="10" data-conversion-cookie-time="90" data-modal-id="cp_id_3cf75" data-modal-style="cp_id_3cf75" data-option="smile_modal_styles" data-custom-class="cp-cp_id_3cf75 cp-modal-global" data-load-on-refresh="enabled" data-scheduled="false" data-timezone="0" data-timezonename="" data-placeholder-color="" data-image-position="" data-hide-img-on-mobile="768" data-affiliate_setting="0" data-overlay-animation="smile-bounceInDown" data-redirect-to="self" data-tz-offset="0">
+	    	<div class="cp-modal cp-modal-custom-size" style="width:100%;height:auto;max-width:700px;">
+	      		<div class="cp-animate-container" data-overlay-animation="smile-bounceInDown" data-exit-animation="smile-fadeOutDown">
+	      			<div class="cp-modal-content " style="box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);-webkit-box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);-moz-box-shadow:0px 0px 5px 0px rgba(86,86,131,0.6);border-radius: 2px 2px 2px 2px;-moz-border-radius: 2px 2px 2px 2px;-webkit-border-radius: 2px 2px 2px 2px;border-style: none;border-color: rgb(255,255, 255);border-width:  px;border-width:0px;;">
+					
+	        		<div class="cp-modal-body cp-jugaad " style="">
+	          		 	      					<div class="cp-modal-body-overlay cp_cs_overlay" style="background-color: ;;"></div>
+	      				
+		<!-- BEFORE CONTENTS -->
+					<div class="cp-row cp-table form_right form-one-third">
+		
+					<div class="col-md-7 col-sm-7 col-lg-7 col-xs-12 cp-content-section" style="">
+				<div class="cp-content-section-overlay" style="background-color:#F6F7F1;"></div>
+			    	    		<div class="cp-jugaad-text-container cp-text-center col-md-12 col-sm-12 col-xs-12 col-lg-12 txt-pos-bottom cp-text-center">
+	    				<div class="cp-title-container ">
+            	<h2 class="cp-title cp_responsive" style="color: #333333;"><div><span class="cp_responsive cp_font" data-font-size="24px" style="font-size: 24px;"><span data-font-size="22px"><span data-font-size="20px"><span data-font-size="16px"><span data-font-size="12px"><span data-font-size="10px"><span data-font-size="8px">Leave your email to receive an exclusive discount on WP Answers</span></span></span></span></span></span></span></div></h2>
+           	</div>
+            <div class="cp-desc-container cp-empty">
+	        	<div class="cp-description cp_responsive" style="color: #333333;"></div>
+			</div>
+			<div class="modal-note-container-2 cp-empty">
+				<div class="cp-modal-note-2 cp_responsive"></div>
+			</div>
+		</div>
+	    		</div>
+							<div class="col-md-5 col-sm-5 col-lg-5 col-xs-12 cp-form-section form-pos-right form-pos-form_right" style="">
+				<div class="cp-form-section-overlay" style="background-color:#25394A;"></div>
+			<div class="cp-short-title-container cp-empty">
+	        	<div class="cp-short-title cp_responsive"></div>
+			</div>
+			<div class="cp-form-container">
+				
+		<style type="text/css" class="cp-form-css">.content-5956122e8b941 .cp-form-container label {    display:none;}.content-5956122e8b941 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5956122e8b941 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5956122e8b941 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5956122e8b941 .cp-form-container textarea:focus, .content-5956122e8b941 .cp-form-container .cp-form-field button, .content-5956122e8b941 .cp-form-container .cp-form-field input, .content-5956122e8b941 .cp-form-container .cp-form-field select, .content-5956122e8b941 .cp-form-container .cp-form-field textarea {  	text-align: left; 	font-size: 15px; 	font-family: ; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: 3px;}.content-5956122e8b941 .cp-form-container .cp-submit {  	padding-top: 5px; 	padding-bottom: 5px; 	padding-left: 15px; 	padding-right: 15px;}.content-5956122e8b941 .cp-form-container .cp-submit.cp-btn-flat {  	background: #EA773D!important;border-radius:3px;}.content-5956122e8b941 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #dd6a30!important;}.content-5956122e8b941 .cp-form-field.cp-enable-box-shadow > div { border-radius: 3px;}</style>
+			<div class="form-main cp-form-layout-1">
+
+		        <form id="smile-optin-form" class="cp-form  ">
+
+					
+		<input type="hidden" name="cp-page-url" value="http://wp-answers.com/privacy-policy">
+		<input type="hidden" name="param[user_id]" value="cp-uid-5a008807f87a3559d53ce4999826cf96">
+        <input type="hidden" name="param[date]" value="30-6-2017">
+		<input type="hidden" name="list_parent_index" value="1">
+        <input type="hidden" name="option" value="cp_mailchimp_wp-answers_subscription_list">
+		<input type="hidden" name="action" value="mailchimp_add_subscriber">
+        <input type="hidden" name="list_id" value="456e4b95cf">
+        <input type="hidden" name="style_id" value="cp_id_3cf75">
+        <input type="hidden" name="msg_wrong_email" value="Please enter correct email address.">
+        <input type="hidden" name="redirect" value="http://wp-answers.com/">
+                
+					<div class="cp-all-inputs-wrap col-xs-12  ">
+
+								
+									<div class="cp-form-field  col-md-12 col-lg-12 col-sm-12 col-xs-12 odd-field-fallback "><label>Email</label><div>
+
+										<input class="cp-input cp-email" type="email" name="param[email]" placeholder="Enter Your Email Address" required="">						            </div></div><!-- .cp-form-field -->
+
+						            
+					</div>
+
+					
+			        <div class="cp-submit-wrap  cp-submit-wrap-full col-md-12 col-lg-12 col-sm-12 col-xs-12 ">
+		            	<div class="cp-submit btn-subscribe cp_responsive cp-btn-flat  ">
+			                SUBSCRIBE NOW			            </div>
+			        </div><!-- .cp-submit-wrap -->
+		        </form><!-- #smile-optin-form -->
+		    </div>
+					</div><!-- .cp-form-container -->
+			<div class="modal-note-container cp-empty">
+	        	<div class="cp-modal-note cp_responsive"></div>
+			</div>
+		</div><!-- .cp-form-section -->
+	    		</div>
+		<!-- AFTER CONTENTS -->
+		</div><!-- .cp-modal-body -->
+
+		
+			</div><!-- .cp-modal-content -->
+            			<div class="cp-form-processing-wrap" style="border-radius: 2px 2px 2px 2px;-moz-border-radius: 2px 2px 2px 2px;-webkit-border-radius: 2px 2px 2px 2px;border-style: none;border-color: rgb(255,255, 255);border-width:  px;border-width:0px;;border-width: 0px;box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.71) inset;;">
+				<div class="cp-form-after-submit">
+            		<div class="cp-form-processing" style="">
+            			<div class="smile-absolute-loader" style="visibility: visible;">
+					        <div class="smile-loader">
+					            <div class="smile-loading-bar"></div>
+					            <div class="smile-loading-bar"></div>
+					            <div class="smile-loading-bar"></div>
+					            <div class="smile-loading-bar"></div>
+					        </div>
+					    </div>
+            		</div>
+            		<div class="cp-msg-on-submit"></div>
+            	</div>
+            </div>
+            
+    		
+	      				      	<div class="cp-overlay-close cp-image-close cp-adjacent-close cp-adjacent-right" style="width: 32px">
+										<img class="cp-default-close" src="http://wp-answers.com/wp-content/plugins/convertplug/modules/modal/functions/config/img/cross.png">							      	</div>
+
+		    		</div><!-- .cp-animate-container -->
+
+		
+    </div><!-- .cp-modal -->
+		<!-- .affiliate link for fullscreen -->
+
+			</div><!-- .cp-overlay -->
+</div><!-- .cp-modal-popup-container -->
+	            <script type="text/javascript" id="info-bar">
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1498812974 * 1000 ;
+				var diffms = (now - gmt) ;
+				</script>
+	            	            <script type="text/javascript" id="slidein">
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1498812974 * 1000 ;
+				var diffms = (now - gmt) ;
+				</script>
+	            <link rel="stylesheet" id="bsf-core-frosty-style-css" href="http://wp-answers.com/wp-content/plugins/convertplug/admin/bsf-core/assets/css/frosty.css" type="text/css" media="all">
+<link rel="stylesheet" id="jugaad-cp_id_3cf75-css" href="http://wp-answers.com/wp-content/plugins/convertplug/modules/modal/functions/config/../../assets/demos/jugaad/jugaad.min.css" type="text/css" media="all">
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/wp-answers.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2"></script>
-<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/popover/js/public.min.js?ver=4.2.10"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-includes/js/wp-embed.js"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/convertplug/admin/bsf-core/assets/js/frosty.js"></script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/convertplug/modules/assets/js/idle-timer.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var smile_ajax = {"url":"http:\/\/wp-answers.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wp-answers.com/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js"></script>
 
 </body></html>
