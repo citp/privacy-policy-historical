@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219080446id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630090830id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
+| 
+
+### Effective: 03 January 2017  
+  
+---|---  
+  
 ## Introduction
 
 ### What this policy is for
@@ -21,8 +27,6 @@ When you provide personal information to The Sun, The Sun on Sunday, The Irish S
 When you provide personal information to The Times, The Sunday Times and The Sunday Times Travel Magazine and other associated websites, the data controller is Times Newspapers Limited.
 
 When you provide personal information to The Times Literary Supplement, the data controller is The Times Literary Supplements Limited.
-
-When you provide personal information to [milkround.com](http://www.milkround.com/), [secondpost.com](http://www.secondpost.com/), [fsmilkround.com](http://www.fsmilkround.com/), [graduatecareer.com](http://www.graduatecareer.com/), [milkroundonline.com](http://www.milkroundonline.com/) or [milkroundats.com ](http://www.milkroundats.com/)(Milkround Online Network), the data controller is Milkround Online Limited.
 
 When you provide personal information to The Sunday Times Driving, the data controller is News UK Automotive Limited.
 
