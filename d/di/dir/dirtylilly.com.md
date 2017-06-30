@@ -1,19 +1,30 @@
-> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227015751id_/http%3A//www.dirtylilly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222748id_/http%3A//dirtylilly.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Dirty Lilly - Official Site - Examine Me doing Rude Things
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**Legal and Privacy Policy**
 
-**The Information We Collect:**  
-This notice applies to all information collected or submitted to dirtylilly.com. On some pages, you can purchase a Membership to dirtylilly.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. Should you choose to purchase a Membership to dirtylilly.com, we use CCbill and PaycomEU, a third-party credit card processing services, who will obtain additional information such as your address, phone number, and credit card data. 
+In compliance with the Federal Labeling and Record-Keeping Law (18 U.S.C. 2257), all models located within our domain were 18 years of age or older during the time of photography. All models’ proof of age is held by the custodian of records, which is listed below, organized by producer. All content and images are in full compliance with the requirements of 18 U.S.C. 2257 and associated regulations. Custodian of records contact email: team(at)agnetis(dot)com
+
+All images on this web site are Copyright C 2013 by and are protected by United States copyright laws and international treaty provisions. United States copyright laws prohibit you from any use of these images without expressed permission from this website. 
+
+**Privacy Policy**  
+Our Commitment To Privacy  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+We do not collect any customer information. We do not, and will not, distribute, rent or sell any personally identifiable information to third parties without your express consent, other than as necessary to process your credit card payment. Please see our payment processor’s Privacy Policy concerning collected information.
+
+This notice applies to all information collected or submitted on this website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: Name, Address, Email address
 
 **The Way We Use Information:**  
-The information collected by dirtylilly.com is used solely for the creation and maintenance of your Membership account. We do not sell, loan, lease, swap, trade or otherwise disclose your personal data. That information collected by credit card processing services is used for the purpose of processing payment of your Membership to dirtylilly.com. 
+When you join the membership portion of our web site, you are asked to provide your name, address, e-mail, username and password, credit card number and expiration date, and birth date. When you participate in special events such as contests and polls, you may be asked to provide your name, e-mail, username and password, and birth date. When users request pages from our server, our Web server automatically collects some information about the users, including their IP addresses. If you choose to post messages on a bulletin board on our site, we will maintain on the bulletin board such information about you as you choose to disclose. If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. We will maintain a record or notes of communications with you regarding your account.
 
-**Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+We use you information solely in order to process your credit card payment, to facilitate your viewing of our web site and to communicate with you. We also use this information to compile broad demographic and web site usage information about our users in general that does not contain anything that could be used to identify you personally.
 
-**How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies,  
-please send us a ticket at [HELP DESK](http://www.theadultgroup.com/support/)
+uses your e-mail address to send periodic e-mail newsletters and promotional e-mail to you about services and products offered by us, if such communication has been requested by you. You will not receive any e-mail from us unless you have requested it and can indicate at any time that you do not wish to receive e-mail information from us. We do not provide your e-mail to third parties without your express consent.
+
+ **Our Commitment To Data Security:**  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**How You Can Access Or Correct Your Information:**  
+You can access all your personally identifiable information that we collect online and maintain by this website. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
