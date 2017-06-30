@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.com.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073605id_/http%3A//www.vistaprint.com.au/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630032220id_/http%3A//www.vistaprint.com.au/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
@@ -13,7 +13,7 @@ Customer Care
 Lexington MA 02421  
 USA
 
-How to manage your account:If you wish to change your name, e-mail address, password, communication and/or opt-in preferences after you have registered, you can access your account by logging into My Account and selecting Account Update. You may also request these changes by e-mailing customercare@vistaprint.com or calling Customer Care at 1800-021-631 or writing to: 
+How to manage your account:If you wish to change your name, e-mail address, password, communication and/or opt-in preferences after you have registered, you can access your account by logging into My Account and selecting Account Update. You may also request these changes by e-mailing customercare@vistaprint.com or calling Customer Care at 1800-431-217 or writing to: 
 
 Vistaprint Limited  
 c/o Vistaprint USA Incorporated  
