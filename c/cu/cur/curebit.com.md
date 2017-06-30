@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511063547id_/https%3A//www.talkable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630060848id_/https%3A//www.talkable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Talkable
 
@@ -92,7 +92,7 @@ Talkable provides periodic training for its employees involved in the collection
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Talkable commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Talkable at: 
 
   1. Email: [legal@talkable.com](mailto:legal@talkable.com)
-  2. Postal mail: Talkable, 290 Division St, Suite 405, San Francisco, CA 94103 
+  2. Postal mail: Talkable, 475 Valencia St, 2nd Floor, San Francisco, CA 94103 
 
 
 
