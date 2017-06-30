@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103110832id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630074502id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Timberland.com
 
@@ -76,12 +76,12 @@ We may share personal information with a third party if we are required by law t
 
 We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-####    
+####   
 WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?
 
 The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-####    
+####   
 HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?
 
 You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
@@ -101,7 +101,7 @@ If you establish an account, you may receive certain types of communications eve
 
 This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
 
-####    
+####   
 HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
