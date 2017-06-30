@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122251id_/http%3A//www.hot97.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222334id_/http%3A//www.hot97.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HOT 97 | Where Hip Hop Lives
+# Privacy Policy | HOT 97 | #1 For Hip Hop
 
 **Privacy Policy**
 
