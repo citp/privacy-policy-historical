@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031022656id_/http%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630115730id_/https%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Academy of Ophthalmology
 
-The American Academy of Ophthalmology (“Academy”) has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **[www.aao.org](http://www.aao.org/)** and all other Academy-affiliated websites (collectively, “website”).
+The American Academy of Ophthalmology (“Academy”) has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **[www.aao.org](https://www.aao.org/)** and all other Academy-affiliated websites (collectively, “website”).
 
 ## General Principles
 
