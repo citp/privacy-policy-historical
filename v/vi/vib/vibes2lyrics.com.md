@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102145439id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054744id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIBES2LYRICS.COM NIGERIA
 
-**AD:-** **Promote Your Music On This Website For A Token[Click Here](http://goo.gl/hPZBao) For More Info. Tell/WhatsApp:- 08021253418; BBM PIN:5EFC2A5B**  
+**AD:-** **Promote Your Music On This Website For A Token[Click Here](http://goo.gl/hPZBao) For More Info. Tell/WhatsApp:- 08021253418; BBM PIN:D8BC5131**  
 **Join Our BBM Channel For Hot Updates, PIN:**[ **C004AD282**](http://pin.bbm.com/C004AD282)
 
 ## Personal Information
@@ -40,7 +40,9 @@
 
 
 
-[](https://goo.gl/85opZT)
+[](http://pofela.com/)
+
+[](https://goo.gl/nDOua9)
 
   * About
   * Latest Posts
