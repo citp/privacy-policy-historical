@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227160928id_/https%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225941id_/https%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow
 
-By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a "Service:, collectively the "Services"), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy ("Privacy Policy"). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. ("Leaf Group," "we," "us," or "our") uses, shares and manages this information.
+By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a "Service", collectively the "Services"), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy ("Privacy Policy"). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. ("Leaf Group," "we," "us," or "our") uses, shares and manages this information.
 
-Leaf Group Ltd. is subject to the investigative and enforcement authority of the US Federal Trade Commission ("FTC").
+Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission ("FTC").
 
 I. Data Collection and Use.
 
 A. Information You Directly and Voluntarily Provide to Us. We may collect and store some or all of the following information you make available to us:
 
   * If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, telephone number, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service. If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.
-  * Information you provide when you contact us for technical or customer support or with questions about your use of the Service
+  * Information you provide when you contact us for technical or customer support or with questions about your use of the Service.
 
 
 
@@ -88,7 +88,7 @@ IX. US-Swiss Safe Harbor. Leaf Group complies with the US-Swiss Safe Harbor Fram
 
 In compliance with the US-Swiss Safe Harbor Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. Swiss citizens individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
 
-We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit http://www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 X. Security. We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
 
