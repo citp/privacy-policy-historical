@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204014337id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630053058id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | District Lines
 
