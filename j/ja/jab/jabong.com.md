@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231115711id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630182022id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jabong.com
 
@@ -16,7 +16,7 @@ contact
 
 1.1. This privacy policy (“Privacy Policy”) shall form an integral part of the Terms of Use of the Website (“Terms”) set out at <http://www.jabong.com/terms_and_conditions> and shall be read along with the Terms. Any capitalized term not specifically defined herein shall draw its meaning from the meaning ascribed to such term in the Terms.
 
-1.2. We are Jabong.com, a service provided by Novarris Fashion Trading Private Limited. from, Gurgaon, Haryana, India - 122015. In this Privacy Policy, references to “you” and “User” mean any person submitting any data to us or our agent or the Website.
+1.2. We are Jabong.com, a service provided by Novarris Fashion Trading Private Limited, a wholly owned subsidiary of Jade eServices Private Limited from, Gurgaon, Haryana, India - 122015. In this Privacy Policy, references to “you” and “User” mean any person submitting any data to us or our agent or the Website.
 
 1.3. If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or at our email address, [service@jabong.com.](mailto:service@jabong.com)
 
