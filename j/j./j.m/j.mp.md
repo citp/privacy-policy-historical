@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the j.mp privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124138id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j.mp privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630195347id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
 # Bitly | Privacy Policy
 
