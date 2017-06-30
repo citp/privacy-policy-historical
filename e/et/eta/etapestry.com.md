@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etapestry.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113091450id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etapestry.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222907id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Blackbaud
 
