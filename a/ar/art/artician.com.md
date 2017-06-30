@@ -1,51 +1,81 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809082247id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214239id_/http%3A//elitepush.com/privacy) for the most accurate reproduction.*
 
-# Artician Privacy Policy
+# Privacy Policy - Elite Push
 
-  
+**Privacy Policy**
 
+Protecting your private information is our priority. This Statement of Privacy applies to the http://elitepush.com and Elite Push Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Elite Push Inc. include http://elitepush.com and Elite Push. The Elite Push website is a Videos, Courses, Webinars, Articles, Guides, Business Coaching, Inspiration, E-commerce site. By using the Elite Push website, you consent to the data practices described in this statement.
 
-**Last updated:** April 27 2013
+**Collection of your Personal Information**
 
-The Artician Network is owned and operated by Artician LLC, and Artician Studios LLC.  
-We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
+Elite Push may collect personally identifiable information, such as your name. If you purchase Elite Push’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
-## Definitions:
+Information about your computer hardware and software may be automatically collected by Elite Push. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Elite Push website.
 
-The website, this website, us, we, and Artician refers to - Artician, Artician LLC., Artician.com, Artician.net, Artician Network, Artician Studios LLC, and Artician Web Development Studios.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Elite Push’s public message boards, this information may be collected and used by others.
 
-You - first person, singular, referring to the person reading these Terms of Use, and accessing the Artician Network.
+Elite Push encourages you to review the privacy statements of websites you choose to link to from Elite Push so that you can understand how those websites collect, use and share your information. Elite Push is not responsible for the privacy statements or other content on websites outside of the Elite Push website.
 
-Users, Visitors - registered members and unregistered visitors on the website.
+**Use of your Personal Information**
 
-## Information
+Elite Push collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-We collect e-mail addresses and information of visitors and users of Artician. The information we collect is used to improve the content of Artician for each individual visitor, and used to notify visitors and users about updates to Artician. If you do not want to receive e-mails from us in the future, please let us know by sending us e-mail at . We do not sell or share your email address to any third party.
+Elite Push may also use your personally identifiable information to inform you of other products or services available from Elite Push and its affiliates. Elite Push may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-## With respect to cookies:
+Elite Push does not sell, rent or lease its customer lists to third parties.
 
-We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+Elite Push may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Elite Push, and they are required to maintain the confidentiality of your information.
 
-We do not make the e-mail addresses of those who access our site available to any organizations. If you would like more information about how we use your email address, please let us know e-mailing us at 
+Elite Push may keep track of the websites and pages our users visit within Elite Push, in order to determine what Elite Push services are the most popular. This data is used to deliver customized content and advertising within Elite Push to customers whose behavior indicates that they are interested in a particular subject area.
 
-## With respect to Ad Servers:
+Elite Push will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Elite Push or the site; (b) protect and defend the rights or property of Elite Push; and, (c) act under exigent circumstances to protect the personal safety of users of Elite Push, or the public.
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads within the Artician Network. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.adsense.com  
-http://www.adbrite.com/  
-http://www.bidvertiser.net/  
+**Use of Cookies**
 
+The Elite Push website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Elite Push pages, or register with Elite Push site or services, a cookie helps Elite Push to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Elite Push website, the information you previously provided can be retrieved, so you can easily use the Elite Push features that you customized.
 
-Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Elite Push services or websites you visit.
 
-Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+**Security of your Personal Information**
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
+Elite Push secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-## With respect to security:
+**Children Under Thirteen**
 
-We have appropriate security measures in place in our physical facilities to protect against the misuse or alteration of information that we have collected from you at our site.
+Elite Push does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-We can be reached via e-mail at 
+**Disconnecting your Elite Push Account from Third Party Websites**
+
+You will be able to connect your Elite Push account to third party accounts. BY CONNECTING YOUR ELITE PUSH ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Must login into 3rd party website to account settings and disconnect access..
+
+**Opt-Out & Unsubscribe**
+
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Elite Push by contacting us here:
+
+– Web page: http://elitepush.com/contact
+
+– Email:info@elitepush.com
+
+– Phone: 267-800-PUSH
+
+**Changes to this Statement**
+
+Elite Push will occasionally update this Statement of Privacy to reflect company and customer feedback. Elite Push encourages you to periodically review this Statement to be informed of how Elite Push is protecting your information.
+
+**Contact Information**
+
+Elite Push welcomes your questions or comments regarding this Statement of Privacy. If you believe that Elite Push has not adhered to this Statement, please contact Elite Push at:
+
+**Elite Push Inc.**  
+1339 E. Berks St  
+Philadelphia, Pennsylvania 19125
+
+**Email Address:**  
+info@elitepush.com
+
+**Telephone number:  
+**267-800-PUSH
+
+Effective as of April 01, 2016
