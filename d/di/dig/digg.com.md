@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125408id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215421id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digg
 
@@ -6,7 +6,7 @@ You care about how your personal information is used and shared. Digg takes your
 
 News.me is the company that operates the various Digg sites, apps, services, content, features, and related products, such as the Digg homepage, Digg Video, Digg Reader, the Daily Digg, Digg Dialog, and Digg’s mobile applications. Collectively, in this document, we’ll refer to the suite of Digg products and services as “Digg”.
 
-This Privacy Policy describes the policies and procedures of News.me Inc. on the collection, use and disclosure of your information on Digg. In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"); (ii) your use of Digg generally; and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of News.me Inc. on the collection, use and disclosure of your information on Digg. In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"); (ii) your use of Digg generally; and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy. In this document, we’ll refer to the information associated with your use of Digg as “Usage Data”.
 
 ##### What Does This Privacy Policy Cover?
 
@@ -62,7 +62,9 @@ Digg mobile applications (iOs and Android) use Localytics for demographic and in
 
 Digg uses Chartbeat in order to measure engagement and help us make decisions about features or products we offer. If you would like to opt-out, you can delete some cookies from your browser as described in the [Charbeat Privacy Policy](https://chartbeat.com/privacy/).
 
-Digg uses Quantcast for information on Internet traffic statistics and demographic data. If you do not wish to participate, you may adjust your setting in Quantcast’s [opt-out tool](https://www.quantcast.com/opt-out/). 
+Digg uses Quantcast for information on Internet traffic statistics and demographic data. If you do not wish to participate, you may adjust your setting in Quantcast’s [opt-out tool](https://www.quantcast.com/opt-out/).
+
+You may also opt-out of the collection and use of information for ad targeting by going to <http://www.aboutads.info/choices>.
 
 ###### IP Address Information and Other Information Collected Automatically:
 
@@ -72,13 +74,19 @@ Generally, Digg automatically collects usage information, such as the number and
 
 ###### Information Collected Using Cookies:
 
-Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or Digg application and tell us how and when you visit and use Digg through the web or through an application.
+Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or Digg application and tell us how and when you visit and use Digg through the web or through an application. Digg may also use cookies to display the most appropriate advertisements, based on your interests and activity on our sites.
 
 Digg cookies also allow us to track when you have accessed content through Digg. Each access is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser or application and associated with Digg.
 
 Digg cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser or application has accessed content through Digg and may associate that information with your Account if you have one.
 
 This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer or device. For example, third party websites may set their own cookies.
+
+###### Pixel Tags
+
+We may also use "pixel tags," which are small graphic files that allow us and third parties to monitor the use of Digg and collect Usage Data. A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer.
+
+We may use pixel tags, either provided by us or by our third party advertisers, service providers and ad networks, to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Digg and use them in combination with our cookies to provide offers and information of interest to you. Pixel tags may also enable ad networks to serve targeted advertisements to you when you visit Digg or other websites.
 
 ###### Aggregate Information:
 
