@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306044753id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231929id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
 
 # Serious Explorations' Privacy Policy
 
-  
-Serious Explorations Privacy Policy
-
-April 27, 2013
+August 14, 2016
 
 At Serious Explorations we recognize that your privacy is important. This document outlines the types of personal   
 information we receive and collect when you use Serious Explorations's services, as well as some of the steps we   
@@ -53,16 +50,7 @@ correct such data if it is inaccurate and delete it, when reasonably possible.
 
 * You may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html). 
 
-* Serious Explorations has been equipped with an affiliate program called VigLink.  
+* Serious Explorations has been equipped with an affiliate program called Skimlinks.  
 If you click an affiliated link on our website and buy anything from the associated site, Serious Explorations will directly benefit.  
-Unlike other affiliate programs, VigLink is automatic. Any link on this website that is associated with them will be automatically converted to an affiliate link.  
-Visit **[Viglink](http://www.viglink.com/)** for more information. 
-
-For more information about our privacy practices contact: 
-
-Rick Horwitz   
-PO Box 670   
-Wittmann, AZ 85361 
-
-Or, send a **[Private Message](http://www.explorerforum.com/forums/private.php?)** to "Rick" on our message board at: www.explorerforum.com   
-message board.
+Unlike other affiliate programs, Skimlinks is automatic. Any link on this website that is associated with them will be automatically converted to an affiliate link.  
+Visit 
