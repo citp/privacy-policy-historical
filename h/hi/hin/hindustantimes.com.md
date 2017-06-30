@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191611id_/http%3A//www.hindustantimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630233521id_/http%3A//www.hindustantimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Hindustan Times - News
 
@@ -14,7 +14,7 @@ The information provided by you shall be used by us to:
   * Send you marketing/promotional communications (If you do not wish to receive such marketing/promotional communications from us you may indicate your preferences at the time of registration or by following the instructions provided on the website or by providing instructions to this effect);
   * Send newsletter(s) to you (Provided you subscribe to the same);
   * Send you service-related announcements on rare occasions when it is necessary to do so;
-  * Provide you the opportunity to participate in contests or surveys on our website (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);
+  * Provide you the opportunity to participate in contests or surveys on our website or make use of certain tools (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);
   * Provide customer support and the services you request;
   * Resolve disputes, if any and troubleshooting;
   * Avoid/check illegal and/or potentially prohibited activities and to enforce Agreements ;
