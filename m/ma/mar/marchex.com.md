@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229082058id_/http%3A//www.marchex.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchex.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125406id_/http%3A//www.marchex.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Marchex
 
@@ -6,9 +6,9 @@
 
 Marchex, Inc., its subsidiaries and affiliates (collectively “we” or “Marchex”) respect your privacy. This Privacy Policy applies to the information Marchex collects on [marchex.com](http://www.marchex.com/), including the site’s customer log-in areas (our “Site”), and to the information we collect on behalf of our Clients in provision of our Analytics Services to our Clients. This Privacy Policy describes how we collect and use the personal information we collect on our Site and the information we collect on behalf of our Clients who use our Analytics Services. The Policy also describes the choices you have regarding our collection and use of your personal information. Our Site contains links to other third-party sites. We are not responsible or liable for the privacy practices or content of such sites since we do not control them.
 
-### Marchex Site
+ ** _Marchex Site_**
 
-#### What Information Do We Collect on our Site?
+ **What Information Do We Collect on our Site?**
 
 We may request that an entity applying for an account with Marchex, on our Site, provide us with certain personal information (such as name, email address, login information, etc.) relevant to our provision of services to the entity.
 
@@ -24,7 +24,7 @@ We also collect information automatically from customers and Site users, as desc
 
  _Third-Party Analytics._ We use automated devices and third-party applications, such as Google Analytics to evaluate usage of our Site and Marketo to evaluate our email marketing. We and our third-party providers also may use other analytic means, such as clear GIFs to evaluate our Site and to help us improve our Site, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties’ use of the data.
 
-#### How Do We Use Information Collected on Our Site?
+ **How Do We Use Information Collected on Our Site?**
 
 We may use the information we collect on our Site for account management purposes, such as to register and administer your account, to answer to your customer service requests and to communicate with you about your account.
 
@@ -36,21 +36,21 @@ You may opt out of many website third-party ad networks, including those operate
 
 Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your opt out may no longer be effective. Additional information is available on the NAI and DAA websites accessible by the above links.
 
-#### With Whom Do We Share Information that We Collect on our Site?
+ **With Whom Do We Share Information that We Collect on our Site?**
 
 We may provide the aforementioned third-party advertisers with information about your usage of our Site. We do not share your personal information collected on our Site, such as name, email address, or other personal information with these third parties. These third parties may collect IP address and related site usage data; however we don’t permit them to collect your name, contact information or other personally identifiable information through our Site.
 
-Marchex may share non-personal information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include, for example, your IP address, pages(s) you visited and keyword searches you conducted on our Site. This information may allow such third parties to provide you customized advertising.
+Marchex may share some information about our users with advertisers, business partners, sponsors, and other third parties. Such information may include, for example, your IP address, pages(s) you visited and keyword searches you conducted on our Site. This information may allow such third parties to provide you customized advertising. You can opt-out from getting these third party advertising by following the instructions discussed on the previous section.
 
 In addition, Marchex may partner with other parties in connection with the various services offered on our Site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are only permitted to use this information on our behalf.
 
-If you choose to share our website with others (e.g., sharing investor pages or sending job posts to friends), we will ask you to provide the name and email of the recipient and send that person an email regarding our website. This information will only be used for sending a one-time email. Marchex does not store this information.
+If you choose to share our website with others (e.g., sharing investor pages or sending job posts to friends), we will ask you to provide the name and email of the recipient and send that person an email regarding our website. This information will only be used for sending a one-time email. Marchex does not store this information. If you believe that someone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [privacy@marchex.com](mailto:privacy@marchex.com).
 
 Marchex may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants, court orders or similar legal process), to enforce the terms of our Privacy Policy and Terms of Service, and as evidence in litigation in which we are involved. We may also determine that such action is reasonably necessary to protect our or another party’s rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.
 
 In the event of a transfer of ownership of Marchex, such as acquisition by or merger with another company, or in the case of bankruptcy, a user’s information (as well as any other information we collect via our Site or the Analytics Services) may be transferred to the acquiring company.
 
-### Marchex Call Analytics and Performance Advertising Services
+ ** _Marchex Call Analytics and Performance Advertising Services_**
 
 Marchex provides call analytics services and related online and mobile advertising services to its business customers and clients (collectively, “Clients”). As part of these services, Marchex:
 
@@ -60,11 +60,11 @@ Marchex provides call analytics services and related online and mobile advertisi
 
 
 
-#### Information Collected and Used in Provision of Our Analytics and Advertising Services
+ **Information Collected and Used in Provision of Our Analytics and Advertising Services**
 
 For the purpose of providing call analytics and performance advertising services to Clients, we collect online usage and analytics information across third-party websites. We may link this information with other information we collect from third parties, including cross-device information, as well as information we collect offline.
 
-The types of non-personally identifiable information we collect in providing our analytics services include IP address, a date and time stamp, device ID, cookie ID, URL and referring URL, browser type, advertising identifiers, header information, and other information about the ad or web page or mobile application the user was viewing. We collect this information automatically via cookies and pixel tags or from third party providers. We may also collect information related to calls placed to our Clients, such as caller ID information of the caller, and may link this information to the online activity we have collected, as well as to information collected from third parties which may include cross-device information. Such correlations may be used to help our Clients deliver targeted advertising content to their users based on anonymous identifiers.
+The types of information we passively collect in providing our analytics services include IP address, a date and time stamp, device ID, cookie ID, URL and referring URL, browser type, advertising identifiers, header information, and other information about the ad or web page or mobile application the user was viewing. We collect this information automatically via cookies and pixel tags or from third party providers. We may also collect information related to calls placed to our Clients, such as caller ID information of the caller, and may link this information to the online activity we have collected, as well as to information collected from third parties which may include cross-device information. Such correlations may be used to help our Clients deliver targeted advertising content to their users based on anonymous identifiers.
 
 Sometimes we may collect sensitive information as part of providing services to our Clients. Sensitive information includes information or an opinion (that is also personal information) about an individual’s health, racial or ethnic origin, political opinions, philosophical beliefs, criminal record and sexual orientation, amongst other things.
 
@@ -74,7 +74,7 @@ Marchex collects information under the direction of its Clients, and has no dire
 
 We may transfer personal information to companies that help us provide our services. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-#### Opt Out
+ **Opt Out**
 
 If you would like to opt out of our online call analytics services, you may do so by [clicking here](http://px.marchex.io/OptOut.html) to obtain the Marchex opt-out cookie.
 
@@ -84,7 +84,7 @@ If your browser is configured to reject cookies when you visit the opt-out page,
 
 If you would like information about how to opt out of having your information collected in mobile applications, you may go to: <https://www.ghostery.com/support/global-opt-out/>.
 
-#### Swiss and United States Safe Harbor and Privacy Shield Programs
+ **Swiss and United States Safe Harbor and Privacy Shield Programs**
 
 Marchex complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Marchex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Marchex’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
@@ -98,27 +98,27 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-#### Disclosure to Overseas Recipient
+ **Disclosure to Overseas Recipient**
 
 Marchex is headquartered in the United States, with affiliates in a number of jurisdictions worldwide. Further, some of the organizations we use to assist us in providing you with our products and services are located overseas. If we share your personal information with an organization that’s located outside of your home jurisdiction, we will take reasonable steps to require that it is handled in accordance with this Privacy Policy and applicable privacy laws. We may transfer your personal information to the United States and other jurisdictions. The location of our overseas service providers may vary from time to time.
 
-### General
+ ** _General_**
 
-#### User Access and Retention of Information
+ **User Access and Retention of Information**
 
 Upon request Marchex will provide you with information about whether we hold any of your personal information. Marchex customers may access, change or delete most of their personal information on record with us, by logging into their account and updating it. If you have any questions or need assistance in changing, deleting, or accessing some information, you may contact us at [privacy@marchex.com](mailto:privacy@marchex.com). We will respond to your request to access within 30 days.
 
 We will retain your information (including information we collect on behalf of our Clients) for as long as your or that Client’s account is active or as needed to provide you services, and as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, or as otherwise reasonably necessary for our business purposes.
 
-#### Security
+ **Security**
 
 The security of your personal information is important to us. We have implemented safeguards, including where appropriate SSL encryption for sensitive data in transmission, to protect the personal information submitted to us. No method of transmission over the Internet, or electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at [privacy@marchex.com](mailto:privacy@marchex.com).
 
-#### Consent and Changes to this Privacy Policy
+ **Consent and Changes to this Privacy Policy**
 
 Use of Marchex services is subject to separate terms and conditions. Marchex may decide to change this Privacy Policy from time to time. If and when we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-#### Contact Information for Questions and Concerns
+ **Contact Information for Questions and Concerns**
 
 Feel free to contact us at any time with any questions or concerns you may have regarding our Privacy Policy.
 
@@ -129,6 +129,4 @@ Office: 206-331-3300
 Fax: 206-331-3696  
 Email: [privacy@marchex.com](mailto:privacy@marchex.com)
 
- _Effective September 28, 2016_
-
-If Marchex does not satisfactorily address your concern, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+ _Effective March 29,  2017_
