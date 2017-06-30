@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222034731id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630100207id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « myThings
 
 **MYTHINGS TAKES YOUR PRIVACY SERIOUSLY**
 
 The following describes the overall company Privacy Policy of myThings (referred to as “myThings“, “we”, “us” and “our”). We understand how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. This Privacy Policy was created to inform you what information we collect when you visit www.mythings.com as well as our customer’s (referred to as “Advertisers”) websites; and then how that information is collected and used by companies that display advertisements(referred to as “Partners”). Those who visit our Advertisers’ websites are referred to as “Prospects” throughout this policy. Because our Privacy Policy may be updated periodically, we encourage you to review these pages on a regular basis. 
-
-myThings, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@mythings.com](mailto:info@mythings.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
-
-This privacy policy only covers the information collected through the Web site and not the myThings technology.
 
 **PERSONAL AND NON-PERSONAL INFORMATION**
 
