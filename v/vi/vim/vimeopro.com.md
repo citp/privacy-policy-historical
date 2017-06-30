@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231081158id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231914id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Vimeo
 
@@ -124,4 +124,4 @@ If you have any questions about this Privacy Policy or our information-handling 
 >  New York, New York 10011  
 > 
 
-©2016 Vimeo, Inc. All rights reserved.
+©2017 Vimeo, Inc. All rights reserved.
