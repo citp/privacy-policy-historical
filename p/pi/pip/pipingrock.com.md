@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219230926id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200342id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piping Rock Health Products
 
@@ -30,6 +30,8 @@ You may be able to disable cookies by changing a setting in your web browser. Pl
 We may combine information collected from tracking devices and the information we collect in our cookies (as described below) with other information we collect about you.
 
 Third parties may place anonymous cookies on the browsers of visitors to our websites and may send their own cookies to the visitor’s cookie file.  Pursuant to global data regulations, Company’s employees have a right of access, modification and erasure of the personal data collected for the sole purpose of the service provision.  These rights may be exercised at [privacy@criteo.com](mailto:privacy@criteo.com)
+
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
 
 ### How Do We Use Your Personal Information?
 
