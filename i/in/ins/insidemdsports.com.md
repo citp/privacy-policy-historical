@@ -1,163 +1,143 @@
-> *The following text is extracted and transformed from the insidemdsports.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530144851id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidemdsports.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152155id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CBS Interactive Privacy Policy :: CBS Interactive
 
-**Privacy Policy**
+[ ](https://web.archive.org/)
 
-Last modified: 7/28/2014 
+##### Last Modified: September 15, 2016
 
-**Introduction**
+Click to review [previous version](https://web.archive.org/legal/cbsi/privacy-policy/20150528).
 
-CBT Sports, LLC (the “Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy. 
+**Note:** The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Web Services. By using any of the CBS Interactive Web Services, you consent to the terms of the updated Privacy Policy. 
 
-This policy describes the types of information we may collect through the websites, services and applications we make available to you, including 247sports.com (the “Website”), and our practices for collecting, using, maintaining, protecting and disclosing that information. 
+[Click here](https://web.archive.org/legal/cbsi/privacy-policy/faq) for more information about the updates and to review the previous version. 
 
-This policy applies to information we collect: 
+Welcome to the network of interactive services provided by CBS Interactive Inc., its affiliates and its subsidiaries (collectively “CBS Interactive,” “us,” or “we”). CBS Interactive is committed to protecting your privacy. CBS Interactive owns, operates, or provides access to, several interactive web sites, mobile and connected TV applications , or other online interactive features and services that provide an authorized link or URL to this Privacy Policy (collectively "CBS Interactive Services", or "Services"). This Privacy Policy describes, among other things, the types of information collected about you when you visit the CBS Interactive Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Interactive. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://web.archive.org/legal/cbsi/privacy-policy/privacy-principles). 
 
-• on this Website;   
-• in e-mail, text and other electronic messages between you and this Website; or   
-• through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website. 
+  1. #### Scope of Privacy Policy
 
-It does not apply to information collected by: 
+This Privacy Policy applies to information, including contact information, collected about you by the CBS Interactive Services. Please review this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/legal/cbsi/terms-of-use) which governs your use of the CBS Interactive Services.
 
-• us offline or through any other means, including on any other website operated by the Company or any third party (including our affiliates); or   
-• any third party (including our affiliates), including through any application or content (including advertising) that may link to or be accessible from the Website. 
+  2. #### Information Collected
 
-For purposes of this policy, “Personal Information” does not include persistent identifiers that can be used to recognize users over time and across different websites or online services. 
+**Information you provide directly to CBS Interactive Services**. You are not required to provide information about yourself when you visit a CBS Interactive Services. CBS Interactive Web Sites may ask you for different types of information when you register for certain services, access various content or features, or directly contact the Services including: 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see “Changes to our Privacy Policy” below). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+    * Contact information, such as name, email address, postal address, phone number, facsimile number, and mobile number;
+    * User name, password, and password reminder questions and answers;
+    * Age and date of birth;
+    * Other demographic information, such as gender, job information, and postal code;
+    * Public information, including profile information, you provide to the CBS Interactive Services for publication, such as your user name, comments, likes, interests, status, pictures and the address of your website;
+    * Communications preferences, such as which newsletters you would like to receive;
+    * Search queries;
+    * In limited circumstances, payment and identity verification information, such as credit card number, social security number or comparable national identifiers, and driver's license number where needed for payment, to complete a particular transaction, or to access a particular service (e.g., contests or paid subscriptions);
+    * Contact information about others when you provide information about others or refer a friend to a particular website or service (note: such information is used solely to facilitate the communications requested);
+    * Information posted in community discussions and other interactive online features;
+    * Correspondence you send to us; and
+    * Information collected about you offline (including via facsimile, mail, or in person for sweepstakes entrance forms).
 
-**Children Under the Age of 13**
+**Information we collect automatically on CBS Interactive Services**. CBS Interactive Services may collect certain information automatically, including: 
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. 
+    * Your device type and settings, software used and browser type and operating system;
+    * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+    * Websites or other services you visited before and after visiting a CBS Interactive Services;
+    * Web pages and advertisements you view and links you click on within CBS Interactive Services;
+    * Unique identifiers and connection information, including mobile device identification numbers (e.g. Apple’s Identifier for Advertising IP (IDFA) or Google’s Android Advertising ID (AAID)) and internet connection means (e.g. mobile operator, ISP, WiFi connection) that can identify the physical location of such devices in accordance with applicable law;
+    * Information collected through [cookies, web beacons, and other similar technologies](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons);
+    * Information about your interactions with audio and video content, such as the type of content listened to (including music applications such as iTunes, Spotify and Last.fm) and content viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded;
+    * Upon request, your bandwidth speed and information about the software programs installed on your computer including registry key information; and
+    * Standard server log information.
 
-We do use persistent identifiers to monitor Website traffic and usage patterns in order to support the internal operations of our Website and provide a better user experience. It is possible that we may collect some of this information from children under 13. 
+**Information we obtain from other sources**. Where permitted by applicable law, we may collect information about you from other sources, including through interactive applications (e.g., mobile devices, third party services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), and from commercially available sources (e.g., data aggregators and public databases). The following are examples of information we may collect from other sources: 
 
-Parents can review or have deleted their child’s Personal Information and refuse to permit further collection or use of their child’s information. If you believe we might have any information from or about a child under 13 and/or wish to exercise the rights of parents described in the previous sentence, please contact us at: 
+    * Name, postal address, and telephone number;
+    * Demographic data, such as age, gender, and income level;
+    * If you access third party services (e.g., Facebook, Google+ or Twitter) through a CBS Interactive Service, or if you access a CBS Interactive Service via a third party service, your username and password for those services and other information available about or collected from you on those services, as described in our overview of [Video Services and Social Networking Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking)
+    * Your interests and purchase behavior;
+    * Publicly-observed data, such as activities on blogs, videos, and other online postings; and
+    * Other navigation data, such as web sites visited and advertisements viewed or clicked on.
 
-CBT Sports, LLC   
-12 Cadillac Drive, Suite 230   
-Brentwood, TN 37027   
-Phone: 615-879-3796   
-Email [Support@247Sports.com](mailto:support@247sports.com)
+This Privacy Policy does not cover the practices of third parties, including those that may disclose information to CBS Interactive. 
 
-**Information We Collect About You and How We Collect It**
+**Combining Information**. Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you and to develop rich online content and services across the CBS Interactive Services. 
 
-Usage Details, IP Addresses, Cookies and Other Technologies. We collect certain limited information from and about users of our Website automatically as you navigate through the site, when we send you emails, when you respond to surveys, and when you use any referral service we may offer. Information collected automatically may include certain information about your equipment, browsing actions and patterns, including: 
+  3. #### Use of Information
 
-• details of your visits to our Website, including traffic data and other communication data and the resources that you access and use on the Website; and/or   
-• information about your computer and internet connection, including your IP address, operating system and browser type. 
+We only use payment and identity verification information, such as credit card numbers, driver's license numbers, social security numbers, or comparable national identifiers as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.We generally use other information we collect about you to:
 
-The information we collect automatically is statistical data. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to: 
+    * Fulfill your requests for products, services, and information, including to send you electronic newsletters, authorize a purchase, and complete a transaction that you have requested;
+    * Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;
+    * Provide you with electronic newsletters, information, special offers and promotional materials on behalf of CBS Interactive Services, companies within our corporate family, and third parties, in accordance with applicable law;
+    * Analyze the use of CBS Interactive Services and information about visitors to our Services to understand and improve our service offerings and, in accordance with our sharing policies, discussed below, to produce or disclose anonymous or aggregated data and statistics that might help third parties develop their own products and service offerings;
+    * Customize the content you see when you visit a CBS Interactive Services;
+    * Develop and provide advertising tailored to your interests, as described in our overview of [CBS Interactive Online Advertising](https://web.archive.org/legal/cbsi/privacy-policy/online-advertising);
+    * Prevent potentially prohibited or illegal activities and otherwise in accordance with CBS Interactive's [Terms of Use](https://web.archive.org/legal/cbsi/terms-of-use), including restrictions of the use of software to remove, modify, disable, block or otherwise impair any advertising in connection with the Services; and
+    * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+  4. #### Disclosure of Information
 
-• estimate our audience size and usage patterns;   
-• store information about your preferences, allowing us to customize our Website according to your individual interests;   
-• speed up your searches; and   
-• recognize you when you return to our Website. 
+CBS Interactive is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you. 
 
-The technologies we use for this automatic data collection may include: 
+    * **With your consent.** With your consent, we may share your contact information with third party marketing partners. For example, CBS Interactive Services such as ZDNet.com and TechRepublic.com offer free access to relevant services (e.g., webcasts and white papers) if you allow your information to be shared with third parties so that they can contact you by email, telephone, postal mail or other common communication methods about their products or services.
+    * **Authorized third party service providers.** We share your contact information with third party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, suppression list management and data processing. These third parties are allowed to use your contact information to help us provide our services and not for any other purpose. Also, authorized third party service providers may collect non-contact information about your visits to our Services with cookies, web beacons and other similar technologies that may be used to deliver advertisements or marketing tailored to your interests or, in connection with other data about you including data regarding your use of websites, apps or other services over time and across the Internet, to determine the connections that may exist among different devices. For example, if your IP address is associated with multiple devices (such as smartphones, connected TVs, tablets and so on), these services providers may determine that you, as a user, are connected to such devices. For more information, visit our overview on [cookies, web beacons and other technologies (including Do Not Track).](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons)
+    * **Sweepstakes, contests, or promotions.** When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotions, your information may be disclosed to our sponsors and third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list. Further, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing our sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law. All terms applicable to the particular promotion will be made available to you at the time you enter the promotion.
+    * **Co-Branded Partners.** Co-Branded Partners are third parties with whom a CBS Interactive Service may jointly offer a service or feature. You can tell when you are accessing a service or feature offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may also apply to its use of your information.
+    * **CBS Interactive Services and other CBS businesses.** CBS Interactive and other business units of CBS Corporation, our parent company, continue to expand their online presence in order to offer users rich and deep interactive experiences. Where permitted by law, we may share information we collect about you within the family of [CBS Interactive Services ](https://web.archive.org/brands)and with [CBS Corporation](http://www.cbscorporation.com/), our parent company, and other [CBS-affiliated companies](http://www.cbscorporation.com/portfolio), so that we can provide you with information about products and services that might interest you. 
+    * **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Interactive Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+    * **Legal requirements.** We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations, such as [FCC requirements](https://web.archive.org/legal/cbsi/privacy-policy/cbs-radio-and-requirements).
+    * **Protect our Services and users.** We may disclose information to protect and defend the legal rights, interests, and safety of CBS Interactive Services, other CBS companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Services and members of the public; and as otherwise disclosed in our [Terms of Use](https://web.archive.org/legal/cbsi/terms-of-use).
 
-• Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
+Please note that we may share information with advertisers as described in our overview of [CBS Interactive Online Advertising](https://web.archive.org/legal/cbsi/privacy-policy/online-advertising). In addition, information collected about your interactions with audio and video content may be shared with third parties, including social networking services, such as Facebook, and video measurement and subscription services, including Nielsen TV Rating, as described in our [Video Services and Social Networking Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking). Finally, we also may share aggregated or anonymized information with third parties, to help us develop content and services we hope will interest you or to help these third parties develop their own products and service offerings including targeted marketing as described in our overview of [Third Party Online Advertising](https://web.archive.org/legal/cbsi/privacy-policy/third-party-online-advertising).
 
-• Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information below. 
+  5. #### Your Choices
 
-• Web Beacons. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+You can choose to enjoy content and features on CBS Interactive Services without providing us directly with any information about you; however, as described above, some information may be collected automatically or be requested so that you can take advantage of certain features and services offered on CBS Interactive Services.You can opt out of receiving commercial email or text messages from a particular CBS Interactive Services or other service by following the instructions contained in any such message or by [contacting us directly](https://web.archive.org/legal/cbsi/contact-us/pp). Please note that even if you unsubscribe to commercial messages, we may still need to send you communications relating to your use of the CBS Interactive Web Sites, such as service announcements.You also have choices about whether cookies and other similar technologies are placed on your computer or mobile device. For more information, visit our overview on [cookies, web beacons and other similar technologies](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons) (including Do Not Track).You also may choose to opt out of use of data that our authorized third party service providers or we collect about your visits to our business partners’ websites that may be used to deliver advertisements tailored to your interests. To opt out, visit the [CBS Interactive Business Partner Advertising Opt-Out](https://web.archive.org/legal/cbsi/privacy-policy/business-partner-ad-opt-out) page.Finally, you also have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of Third Party Online Advertising. 
 
-We do not collect personal information automatically, but we may tie this information to Personal Information about you that we collect from other sources or you provide to us. 
+  6. #### Access
 
-Information You Provide to Us. If you register with our Website as a subscriber, we collect additional information from and about you, including information by which you may be personally identified, such as name, postal address, e-mail address, telephone number or credit/debit card information (“personal information”) and information that is about you but individually does not identify you, such as your gender. We collect this information directly from you when you provide it to us. 
+If you choose to share contact information with us, you may have the opportunity to update that information on a CBS Interactive Service. You also may update or amend your information by [contacting us](https://web.archive.org/legal/cbsi/contact-us/pp). If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time. Please note that we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. In some cases, you may be entitled under local laws to access or object to the processing of information that we hold relating to you. 
 
-The information we collect on or through our Website may include: 
+  7. #### Protection of Information
 
-• Information that you provide by filling in forms on our Website. This includes information provided at the time of subscribing to our service. We may also ask you for information when you report a problem with our Website.   
-• Records and copies of your correspondence (including e-mail addresses), if you contact us.   
-• Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.   
-• Your search queries on the Website. 
+We are committed to protecting your information. We have adopted commercially reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, unauthorized access, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using CBS Interactive Services but we cannot ensure or warrant the security of any information you transmit to us. Please refer to the [U.S. Federal Trade Commission's web site](http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm) for information on how to protect yourself from identity theft. 
 
-You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on the Website and transmitted to others at your own risk. Although we limit access to certain pages to subscribers only, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.   
-  
-We may provide a referral service to enable you to tell a friend about the Services, in which case we will ask you for your friend’s name and email address and then send your friend a one-time email inviting him or her to try the Services. 
+  8. #### Transfer of Data Internationally
 
-**Third-party Advertiser Use of Cookies and Other Tracking Technologies.**
+CBS Interactive is headquartered in the United States and has affiliate offices and partners in other countries. Please be aware that information you provide to us or that we obtain as a result of your use of the CBS Interactive Services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law. The privacy and data protection laws in the country to which your information is transferred may not be equivalent to such laws in your country of residence. By using and participating in any CBS Interactive Services or providing us with your information, you consent to the collection, internationaltransfer, storage, and processing of your information. 
 
-Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users’ behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. 
+  9. #### Visitors from Outside the United States
 
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. 
+For additional information about CBS Interactive's privacy practices, as well as our affiliate offices and partners in some of the other countries where we operate, please click on the appropriate link for your jurisdiction: [Australia](https://web.archive.org/legal/cbsi/privacy/australia), [Canada](https://web.archive.org/legal/cbsi/privacy/canada%22), the [United Kingdom](https://web.archive.org/legal/cbsi/privacy/uk). 
 
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI website](https://web.archive.org/tu/MTgyNTg2dGlueTI0Nw==). We are committed to complying with the Self-Regulatory Program for Online Behavioral Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page](https://web.archive.org/tu/MTgyNTg3dGlueTI0Nw==). 
+  10. #### California Visitors
 
-**How We Use Your Information**
+For additional information for residents of the State of California [click here](https://web.archive.org/legal/cbsi/privacy-policy/california). 
 
-We use information that we collect about you or that you provide to us, including any personal information: 
+  11. #### Privacy Protections for Children
 
-• to present our Website and its contents to you;   
-• to provide you with information, products or services that you request from us;   
-• for any purpose that such information is provided for;   
-• to provide you with notices about your account and/or subscription, including expiration and renewal notices and receipts for payments;   
-• to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;   
-• to notify you about changes to our Website or any products or services we offer or provide though it;   
-• to allow you to participate in interactive features on our Website;   
-• in any other way we may describe when you provide the information; and/or   
-• for any other purpose with your consent. 
+Most CBS Interactive Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Interactive Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken when information has been collected from children under 18. In those instances where a CBS Interactive Service has actual knowledge that it collects information from children or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children, please see the [Children's Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy/childrens-privacy-policy). 
 
-We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile. For more information, see “Choices About How We Use and Disclose Your Information” below. 
+  12. #### User-Generated Content
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
+Some CBS Interactive Services enable users to submit their own content for use in contests, blogs, on-air radio and TV broadcasts, online audio and video streams, videos, message boards, and other functions. Publication of User Generated Content on the CBS Interactive Services is subject to our [Terms of Use](https://web.archive.org/legal/cbsi/terms-of-use). Please remember that any information you disclose becomes public information and exercise caution when choosing to disclose your contact, financial, and other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety. You should also be aware that we may also engage a third party to provide some of the services associated with the blogs, message boards and similar functions. This third party will collect and host the information that you submit to the CBS Interactive Services but will not use any of this information for purposes other than providing the service. 
 
-Any information you provide us for a referral service will be stored for the sole purpose of sending a one-time email and tracking the success of the referral service. 
+  13. #### Third Party Websites and Services
 
-**Disclosure of Your Information**
+Please note that some CBS Interactive Services may contain links to other websites and services. We are not responsible for the privacy practices of those websites, and we recommend that you review the privacy policies of each website that you visit. When you select a link to a third party web site from one of the CBS Interactive Services (e.g., if you link to PayPal to pay for a product or service offered by a CBS Interactive Service), you will be leaving the CBS Interactive Service. Any information that you disclose on the third party website will be governed by that website's privacy policy. 
 
-We may disclose aggregated, non-identifying information (including personal information that has been aggregated with other information so that it no longer can personally identify the user) about our users without restriction. 
+  14. #### Changes to This Privacy Policy
 
-We may disclose personal information that we collect or you provide as described in this privacy policy: 
+We may update this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Last Modified Date" and such changes will be effective upon posting. If we make any material changes in the way we use your information, we will notify you by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Interactive Services. 
 
-• to our affiliates;   
-• to contractors, service providers, parties referred to as Preferred Content Providers (as defined below), and other third parties we use to support our business;   
-• to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred;   
-• to fulfill the purpose for which you provide it;   
-• for any other purpose disclosed by us when you provide the information; and/or with your consent. 
+  15. #### Questions
 
-For the purposes hereof, “Preferred Content Providers” are as follows: 
+If you have questions regarding this Privacy Policy, please [contact us](https://web.archive.org/legal/cbsi/contact-us/pp) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below: 
 
-\- CBS Interactive, Inc. (CBSSports.com)   
-\- Saturday Down South (SDS)   
-\- Comicbook.com, LLC (Comicbook.com)   
-\- Facebook, Inc. 
+CBS Interactive Inc. 235 Second Street San Francisco, CA 94105 USA Legal Department
 
-We will update the list of Preferred Content Providers from time to time as the list of parties changes. We will not notify you of any modifications to the list of Preferred Content Providers, so it is your responsibility to check this list frequently so that you are aware of any changes to the list. 
+For international users, please [select this link](https://web.archive.org/legal/cbsi/privacy-policy/contact-info) to find the address of your closest CBS Interactive office. We are committed to working with you to obtain a fair resolution of any privacy concern. 
 
-We may also disclose your personal information: 
 
-• to comply with any court order, law or legal process, including to respond to any government or regulatory request;   
-• to enforce or apply our [Terms of Use](http://247sports.com/Article/Terms-of-Service-34) and other agreements, including for billing and collection purposes; and/or   
-• if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. 
 
-**Accessing and Correcting Your Information**
 
-You can review and change your personal information by logging into the Website and visiting your account profile page. 
+[ ](https://web.archive.org/)
 
-You may also send us an e-mail at [Support@247Sports.com](mailto:support@247sports.com) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
-
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Information that you disclose in any User Contributions is public information, with no expectation of privacy or confidentiality. You should be aware that any personal information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not and will not be responsible for the dissemination of any personal information contained in any User Contributions. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](http://247sports.com/Article/Terms-of-Service-34). 
-
-**Your California Privacy Rights**
-
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [Support@247Sports.com](mailto:support@247sports.com). 
-
-**Data Security**
-
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology. 
-
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we exercise reasonable care to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
-
-**Changes to Our Privacy Policy**
-
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes. 
-
-**Contact Information**
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [Support@247Sports.com](mailto:support@247sports.com).   
-
+[ x ] Close
