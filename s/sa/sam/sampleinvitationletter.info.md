@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128092944id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleinvitationletter.info privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201548id_/http%3A//www.sampleinvitationletter.info/privacy) for the most accurate reproduction.*
 
-# Privacy - Sample Invitation Letter for Visa
+# Privacy - Sample Invitation Letters
 
 Effective Date: **April 30, 2016**
 
