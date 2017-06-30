@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020443id_/http%3A//www.motorsport.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225701id_/https%3A//www.motorsport.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Corporate info | Motorsport.com
+# Privacy Policy | Corporate info | Motorsport.com
 
-**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT.COM, INC., PRODUCT OR SERVICE.**
+**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT NETWORK, LLC PRODUCT OR SERVICE.**
 
-Motorsport.com, Inc., produces and publishes the Motorsport.com Website (this "Website"), downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+Motorsport Network, LLC produces and publishes multiple websites, one of them being the Motorsport.com Website (this "Website") as well as downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
   1. Personal Information Collected Via Our Services
   2. How We Use and Share Your Personal Information
@@ -38,16 +38,42 @@ If we collect such information, in most instances, the applicable page(s) or loc
 
 ### 2\. How We Use and Share Your Personal Information
 
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may:
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law.
+
+We may use and share your personal information as described in Section 1 as follows:
 
   * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
   * Use your information to send you electronic communications, including emails about the Website applicable to your interactions with our Website, and about products, services, sponsors, partners and affiliates when you make a purchase, agree to rules or terms, or otherwise engage with our Website, to the extent the sending of such electronic communication is permissible under applicable law;
-  * Share your information with certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
   * Use and share your information with one or more race series or related entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such race series or related entities (e.g., you've asked to receive the newsletter of a race series or you've purchased race series-specific merchandise), so they may learn more about fans like you, add you to the race series' postal mail list and provide better services to you;
-  * Share your information upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
-  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your Motorsport.com experience;
+  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your experience;
   * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection with such a program; **or**
   * Use and share your information with permission from you.
+
+
+
+We may use your personal information:
+
+  * For our statistical, research, recordkeeping, and reporting purposes;
+  * For our own marketing purposes;
+  * To personalize and improve your experience; and
+  * To monitor for compliance with our Terms of Service.
+
+
+
+We may share personal information:
+
+  * With certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
+  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
+  * With our subsidiaries and affiliates for their direct marketing purposes;
+  * With third parties, including for their direct marketing purposes;
+  * With service providers that help us operate our business;
+  * With our affiliates and with service providers that help us operate our business;
+  * With government entities as needed to provide our services and where required by law;
+  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
+  * Pursuant to a subpoena, court order, or other legal process;
+  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
+  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
+  * With your consent or as otherwise disclosed at the time of collection.
 
 
 
@@ -83,7 +109,7 @@ When using our Services or when using certain third party social networking serv
 
 
 
-When you use our Mobile Application, we or our third party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](http://www.flurry.com/user-opt-out.html) and follow the instructions.
+When you use our Mobile Application, we or our third-party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third-party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](http://www.flurry.com/user-opt-out.html) and follow the instructions.
 
 ### 6\. Other Circumstances When Your Data May Be Shared
 
@@ -97,7 +123,7 @@ We may share aggregated demographic information with third parties. This informa
 
 
 
-As time passes, Motorsport.com, INC., may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+As time passes, Motorsport Network, LLC may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
 
   * _Disclosure for Legal Purposes._
 
@@ -111,7 +137,7 @@ You may choose and control what information you provide about yourself and certa
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
-If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motorsport.com directly at +1 305 877 30 97.
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motorsport Network directly at +1 305 877 30 97.
 
 Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
@@ -133,13 +159,13 @@ The account information associated with any of our Services is password protecte
 
 
 
-Our Services contain links to other websites and products produced by Motorsport.com, Inc., and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+Our Services contain links to other websites and products produced by Motorsport Network, LLC, and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
   * _Your California Privacy Rights._
 
 
 
-If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport.com, Inc., Privacy Administrator, 4100 NE 2nd Avenue, suite 302, Miami Design District, FL 33137, USA..
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport Network, LLC, Privacy Administrator, 5972 NE 4th Avenue Miami, FL 33137 USA.
 
   * _Special Rules For Children._
 
@@ -154,12 +180,12 @@ Because of federal law, we are not permitted to knowingly collect any personal i
 If you have questions or concerns about this Privacy Policy, you can contact us at:
 
 **Privacy Administrator**  
- **Motorsport.com, Inc.**  
-4100 NE 2nd Avenue, suite 302  
-Miami Design District, FL 33137  
+ **Motorsport Network, LLC**  
+5972 NE 4th Avenue  
+Miami, FL 33137  
 USA
 
-**Phone:** +1 305 877 3097
+**Phone:** +1 305 507 87 99
 
 Or send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com)
 
@@ -169,4 +195,4 @@ Or send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com)
 
 If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications, Mobile Games and Social Games so that you may review the updated policy.
 
-**LAST UPDATED AND EFFECTIVE DATE: JULY 10, 2014**
+**Last updated and effective date: May 16, 2017**
