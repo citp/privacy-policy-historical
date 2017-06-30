@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231015503id_/http%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activistpost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630052857id_/http%3A//www.activistpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Activist Post
 
