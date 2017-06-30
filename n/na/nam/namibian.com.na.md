@@ -1,104 +1,104 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914075442id_/http%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203809id_/http%3A//www.namibian.com.na/Privacy-Policy) for the most accurate reproduction.*
 
 # The Namibian
 
 ##  Sport 
 
-[view all](http://www.namibian.com.na/index.php?section=1&category-id=4&sub-category-id=0)
+[view all](http://www.namibian.com.na/The-Namibian/Sport)
 
 * * *
 
-2016-09-14
+2017-06-30
 
-## [Shikongo through to semis of 200m at Paralympics](http://www.namibian.com.na/Shikongo-through-to-semis-of-200m-at-Paralympics/45474/read "Click to read full article")
+## [Zimbabwe cruise into quarterfinals](http://www.namibian.com.na/56262/read/Zimbabwe-cruise-into-quarterfinals "Click to read full article")
 
-RIO DE JANEIRO – Paralympic sprinter Ananias Shikongo qualified for the next round of the men's T11, 200 metre race of the 2016 Paralympic Games underway here.
-
-* * *
-
-2016-09-14
-
-## [Peace Run comes to Namibia](http://www.namibian.com.na/Peace-Run-comes-to-Namibia/45473/read "Click to read full article")
-
-THE World Peace Run came to Namibia this week to spread the message of world peace and universal brotherhood.
+CAPTAIN Ovidy Karuru scored a hat-trick as Zimbabwe cruised into the quarter-finals of the Cosafa Castle Cup with a commanding 6-0 victory over Seychelles in their Group B clash at the Royal Bafokeng Sports Palace on Friday.
 
 * * *
 
-2016-09-14
+2017-06-30
 
-## [Namibian bowls team excels at AST in Harare](http://www.namibian.com.na/Namibian-bowls-team-excels-at-AST-in-Harare/45472/read "Click to read full article")
+## ['Money' on his mind as Pacquiao faces former teacher](http://www.namibian.com.na/56261/read/Money-on-his-mind-as-Pacquiao-faces-former-teacher "Click to read full article")
 
-NAMIBIA's bowls team has excelled at the African States Tournament which is currently underway in Harare, Zimbabwe by winning one gold, two silver and one bronze medal to date.
+BRISBANE - Filipino legend Manny Pacquiao faces unheralded Australian challenger Jeff Horn in Sunday's world welterweight title fight in Brisbane in pursuit of a dream rematch with Floyd Mayweather.
+
+* * *
+
+2017-06-30
+
+## [Absent stars toast Germany's Confed Cup success](http://www.namibian.com.na/56260/read/Absent-stars-toast-Germanys-Confed-Cup-success "Click to read full article")
+
+SOCHI - Absent World Cup-winning stars have toasted Germany's Confederations Cup success in Russia with a 4-1 semi-final win over Mexico sealing Sunday's final against Chile.
 
 * * *
 
 ##  Entertainment 
 
-[view all](http://www.namibian.com.na/index.php?section=1&category-id=6&sub-category-id=0)
+[view all](http://www.namibian.com.na/The-Namibian/Entertainment)
 
 * * *
 
-2016-09-14
+2017-06-29
 
-## [From The Twittersphere](http://www.namibian.com.na/From-The-Twittersphere/45453/read "Click to read full article")
+## [From The Twittersphere](http://www.namibian.com.na/56196/read/From-The-Twittersphere "Click to read full article")
 
-FROM amandla to Nkandla, from blessers to 'blesser banks'. From beatitudes (the Biblical 'blessed are/s…') to be-attitudes. What a time to be alive!
-
-* * *
-
-2016-09-13
-
-## [From The Twittersphere](http://www.namibian.com.na/From-The-Twittersphere/45397/read "Click to read full article")
-
-FOOTWASHING and lobola aside, it seems like 'Our Perfect Wedding' all but delivered this Sunday. And then around came Monday, like fish sweat on soles and exploding cellphones!
+THERE are questions and then there are kweshens.
 
 * * *
 
-2016-09-14
+2017-06-29
 
-## [NAGN joins Omaruru Artists' Trail](http://www.namibian.com.na/NAGN-joins-Omaruru-Artists-Trail/45451/read "Click to read full article")
+## [See Ghetto Ballerina live at Goethe-Institut](http://www.namibian.com.na/56198/read/See-Ghetto-Ballerina-live-at-Goethe-Institut "Click to read full article")
 
-THE National Art Gallery of Namibia (NAGN) will be taking part in this year's Omaruru Artists' Trail scheduled to take place on 23 and 24 September in the quaint town.
+CONSCIOUS and enlightening music makes its way to the Goethe-Institut Namibia on Friday, 7 July, at Night Under the Stars which features young female rapper Ghetto Ballerina live on stage.
+
+* * *
+
+2017-06-29
+
+## [Gina Jeanz first Namibian on Rocking The Daisies line-up](http://www.namibian.com.na/56197/read/Gina-Jeanz-first-Namibian-on-Rocking-The-Daisies-line-up "Click to read full article")
+
+FASHION model, producer, graphic designer and all-round creative genius Gina Jeanz is excited for her upcoming gig at South Africa's Rocking The Daisies music and lifestyle festival.
 
 * * *
 
 ##  Business 
 
-[view all](http://www.namibian.com.na/index.php?section=1&category-id=2&sub-category-id=0)
+[view all](http://www.namibian.com.na/The-Namibian/Business)
 
 * * *
 
-2016-09-14
+2017-06-30
 
-## [NEEEB to avoid negative impact on business – PM](http://www.namibian.com.na/NEEEB-to-avoid-negative-impact-on-business-%E2%80%93-PM/45442/read "Click to read full article")
+## [Medical aids not challenging Namfisa's directive](http://www.namibian.com.na/56241/read/Medical-aids-not-challenging-Namfisas-directive "Click to read full article")
 
-PRIME minister Saara Kuugongelwa-Amadhila says the most talked about New Equitable Economic Empowerment Bill will avoid measures that may have a negative impact on business.
-
-* * *
-
-2016-09-14
-
-## [Oil prices fall on profit-taking, eyes on China data](http://www.namibian.com.na/Oil-prices-fall-on-profit-taking-eyes-on-China-data/45443/read "Click to read full article")
-
-SINGAPORE - Oil prices fell in early trade yesterday on concerns over increased drilling in the United States, and as investors took profits after oil prices rose close to 1% in the previous session.
+THE Namibian Association of Medical Aid Funds' CEO, Stephen Tjiuoro, said the association will not challenge the Namibia Financial Institutions Supervisory Authority's directive to medical aid funds to phase out covering members' lifestyle benefits such as gym fees and wellness programmes by 31 December 2018.
 
 * * *
 
-2016-09-14
+2017-06-29
 
-## [German musicians Mine and Edgar Wasser to rock Windhoek, Otjiwarongo](http://www.namibian.com.na/German-musicians-Mine-and-Edgar-Wasser-to-rock-Windhoek-Otjiwarongo/45452/read "Click to read full article")
+## [Namibia can't copy and paste SA rules – economist](http://www.namibian.com.na/56205/read/Namibia-cant-copy-and-paste-SA-rules-%E2%80%93-economist "Click to read full article")
 
-IN celebration of the German embassy's initiative Language Day, two concerts featuring two German guests, singer Mine and rapper Edgar Wasser, are scheduled for 21 and 23 September in Otjiwarongo and Windhoek.
+NAMIBIA cannot just copy and paste all policies and rules which our biggest trading partner, South Africa, implements.
+
+* * *
+
+2017-06-30
+
+## [Lack of funds cripples young man's SME dream](http://www.namibian.com.na/56242/read/Lack-of-funds-cripples-young-mans-SME-dream "Click to read full article")
+
+WHEN 22-year-old Benjamin Katjiuano started selling small food items two years ago, he had very big dreams about his business venture.
 
 * * *
 
 ## Poll
 
-[View older polls](http://www.namibian.com.na/index.php?page=poll&id=0)
+[View older polls](http://www.namibian.com.na/The-Namibian/Voting-Polls/0)
 
 * * *
 
-Should pensioners' municipal bills be subsidised?
+What should be done to decrease the number of car accidents in Namibia?
 
 ##  Your Privacy 
 
