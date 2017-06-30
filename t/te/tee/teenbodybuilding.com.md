@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teenbodybuilding.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140110id_/http%3A//www.bodybuilding.com/store/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenbodybuilding.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211643id_/http%3A//www.bodybuilding.com/store/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Bodybuilding.com Help: What Is Your Privacy Policy?
 
-24/7 Support
+Customer Support
 
 1-208-377-9994 | International
 
@@ -32,7 +32,7 @@ Bodybuilding.com complies with the EU – U.S. Privacy Shield Framework for pers
 
 In compliance with the EU-US Privacy Shield Principles, Bodybuilding.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Bodybuilding.com at [legal@bodybuilding.com](mailto:legal@bodybuilding.com).
 
-Bodybuilding.com has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU Privacy Shield, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20161231140110id_/http%3A//www.bodybuilding.com/store/help/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+Bodybuilding.com has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU Privacy Shield, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
 
 Finally and in [certain circumstances](https://www.privacyshield.gov/article?id=ANNEX-I-introduction), EU individuals may also have the right to invoke binding arbitration before the Privacy Shield Panel. Please see <https://www.privacyshield.gov/article?id=C-Pre-Arbitration-Requirements> for more information on the binding arbitration option.
 
