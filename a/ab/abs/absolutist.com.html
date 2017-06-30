@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the absolutist.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120002414id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the absolutist.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630200542id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <meta charset="UTF-8">
+<!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=1000, target-densityDpi=device-dpi">
+    <meta name="viewport" content="width=1000">
+    <meta property="og:image" content="http://absolutist.com/data/default.png">
     <title>Privacy Policy</title>
     <meta name="keywords" content="privacy policy">
     <meta name="description" content="privacy policy">
@@ -14,10 +14,119 @@
     <link rel="stylesheet" href="/themes/absolutist/style/lightbox/lightbox.css">
     <link rel="stylesheet" href="/themes/absolutist/style/reset.css">
     <link rel="stylesheet" href="/themes/absolutist/style/main.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="/themes/absolutist/script/jquery-1.11.0.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/themes/absolutist/script/jquery-1.11.0.min.js"></script>
     <script src="/themes/absolutist/script/jquery-ui.js" async=""></script>
     <script src="/themes/absolutist/script/lightbox.min.js" async=""></script>
     <script type="text/javascript" src="/themes/absolutist/script/jquery.rating.min.js"></script>
+    <script type="application/ld+json">
+		{
+		  "@context" : "http://schema.org",
+		  "@type" : "Organization",
+		  "name" : "Absolutist",
+		  "url" : "http://absolutist.com/",
+		  "sameAs" : [
+			"https://twitter.com/AbsolutistGame",
+			"https://www.facebook.com/Absolutist.games",
+			"https://plus.google.com/u/0/113294275757831098687/posts"
+		  ]
+		}
+	</script>
+    <script type="text/javascript">
+		<!-- Begin
+		var expDays = 1;
+		function GetCookie (name) { 
+			var arg = name + "="; 
+			var alen = arg.length; 
+			var clen = document.cookie.length; 
+			var i = 0; 
+			while (i < clen) { 
+				var j = i + alen; 
+				if (document.cookie.substring(i, j) == arg) 
+					return getCookieVal (j); 
+				i = document.cookie.indexOf(" ", i) + 1; 
+				if (i == 0) break; 
+			} 
+			return null;
+		}
+		function SetCookie (name, value) { 
+			var argv = SetCookie.arguments; 
+			var argc = SetCookie.arguments.length; 
+			var expires = (argc > 2) ? argv[2] : null; 
+			var path = (argc > 3) ? argv[3] : null; 
+			var domain = (argc > 4) ? argv[4] : null; 
+			var secure = (argc > 5) ? argv[5] : false; 
+			path = "/";
+			document.cookie = name + "=" + escape (value) + 
+			((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+			((path == null) ? "" : ("; path=" + path)) + 
+			((domain == null) ? "" : ("; domain=" + domain)) + 
+			((secure == true) ? "; secure" : "");
+		}
+		function DeleteCookie (name) { 
+			var exp = new Date(); 
+			exp.setTime (exp.getTime() - 1); 
+			var cval = GetCookie (name); 
+			document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+		}
+		var exp = new Date(); 
+		exp.setTime(exp.getTime() + (expDays*16*60*60*1000));
+		function amt(){
+			var count = GetCookie('count')
+			if(count == null) {
+				SetCookie('count','1')
+				return 1
+			}
+			else {
+				var newcount = parseInt(count) + 1;
+				DeleteCookie('count')
+				SetCookie('count',newcount,exp)
+				return count
+			}
+		}
+		function getCookieVal(offset) {
+			var endstr = document.cookie.indexOf (";", offset);
+			if (endstr == -1)
+				endstr = document.cookie.length;
+			return unescape(document.cookie.substring(offset, endstr));
+		}
+		function checkCount() {
+			var count = GetCookie('count');
+			if (count == null) {
+				$( document ).ready(function() {
+					$.getJSON('/data/push.json?_='+new Date().getTime(), function(data) {
+						var test = false;
+						if(location != "http://absolutist.com/adminv5/pushLoader.php"){
+							var pushPreview = location.search.split('?previewPush=')[1];
+							if(pushPreview == 1 || pushPreview == 2){
+								test = true;
+							}
+						}
+						if(data.status === "on" && !test){
+							count=1;
+							SetCookie('count', count, exp);
+							$('#pushTitle').html(data.title);
+							$('#pushDesc').html(data.desc);
+							$('#pushBtn').html(data.btnName);
+							$("#pushBtnUrl").attr("href", data.btnUrl);
+							$("#pushUrl").attr("src", "/themes/absolutist/img/substrate/"+data.img);
+							setTimeout($('#popup').css({'display':'block'}), 500);
+						}
+					});
+				});
+			}
+			else {
+				$( document ).ready(function() {
+					$.getJSON('/data/push.json?_='+new Date().getTime(), function(data) {
+						if(data.status === "on"){
+							count++;
+							SetCookie('count', count, exp);
+						}
+					});
+				});
+			}
+		}
+		// End -->
+	</script>
     <script type="text/javascript">
 		$(function(){
 			$('#rating_1').rating({
@@ -56,14 +165,25 @@
             $('#uppBtn').hide();
           }
         });
-        
+        if(location != "http://absolutist.com/adminv5/pushLoader.php"){
+			var pushPreview = location.search.split('?previewPush=')[1];
+			if(pushPreview == 1 || pushPreview == 2){
+				$( document ).ready(function() {
+					$.getJSON('/data/pushPreview.json?_='+new Date().getTime(), function(data) {
+						$('#pushTitle').html(data.title);
+						$('#pushDesc').html(data.desc);
+						$('#pushBtn').html(data.btnName);
+						$("#pushBtnUrl").attr("href", data.btnUrl);
+						$("#pushUrl").attr("src", "/themes/absolutist/img/substrate/"+data.img);
+						$('#popup').css({'display':'block'});
+					});
+				});
+			}
+		}
       });
     </script>
-        <!--PAGE:HEADDATA-->
-    <style>body {background:#140d39 url('/themes/absolutist/img/substrate/full-pipe.jpg?1475773053') top center no-repeat; background-attachment:fixed;}</style>
-<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter96183 = new Ya.Metrika({id:96183, webvisor:true, clickmap:true, accurateTrackBounce:true,type:1}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script>
-<!--<noscript><div><img src="//mc.yandex.ru/watch/96183?cnt-class=1" style="position:absolute; left:-9999px;" alt="" /></div></noscript>-->
-<!-- /Yandex.Metrika counter -->
+    <!--PAGE:HEADDATA-->
+    <style>body {background:#3d69a2 url('/themes/absolutist/img/substrate/time-gap-4th-july.jpg?1498485746') top center no-repeat; background-attachment:fixed;}</style>
  <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -81,7 +201,26 @@
       <script type="text/javascript" src="/themes/absolutist/script/cookieconsent.min.js"></script>
       <!-- End Cookie Consent plugin -->
   <link rel="stylesheet" type="text/css" href="//web.archive.org/web/20170325181837/http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/light-bottom.css"></head>
-<body style=""><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Ok</a><p class="cc_message">Our website uses cookies to provide better user experience. By continuing to browse the site, you agree to our use of cookies. <a data-cc-if="options.link" target="_blank" class="cc_more_info" href="http://cookies.insites.com/">Learn more.</a></p><a class="cc_logo" target="_blank" href="https://web.archive.org/web/20170325181837/http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div>
+<body onload="checkCount()" style=""><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Ok</a><p class="cc_message">Our website uses cookies to provide better user experience. By continuing to browse the site, you agree to our use of cookies. <a data-cc-if="options.link" target="_blank" class="cc_more_info" href="http://cookies.insites.com/">Learn more.</a></p><a class="cc_logo" target="_blank" href="https://web.archive.org/web/20170325181837/http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div>
+	<div id="popup" style="display:none;">
+		<div id="pushMessage" style="background:white none repeat scroll 0 0;border:1px solid #c8c8c8;border-radius:3px;bottom:15px;font-family:'Arial',sans-serif;font-size:12px;padding:20px 10px 10px;position:fixed;right:15px;text-align:center;transition:right 1s ease-in-out 0s;width:400px;z-index:10000;box-shadow:0 0 10px rgba(0,0,0,0.5);padding:10px;color:#000;">
+			<div style="bottom: 15px; display: block;">		
+				<div onclick="$('#popup').hide();" style="background:rgba(0,0,0,0) url('/data/crossx.png') no-repeat scroll 0 0;cursor:pointer;padding:7px;position:absolute;right:3px;top:4px;" title="Close"></div>									
+				<div id="pushTitle" style="font-weight:bold;color:#1e52a5;"></div>				
+				<div style="text-align: justify;height:90px;overflow: hidden;">
+					<div style="margin-top:10px; padding-right: 8px;">
+						<img id="pushUrl" style="float: left; margin: 0 12px 6px 6px;" height="80" src="/themes/absolutist/img/substrate/80x80sale.jpg" width="80" alt="">
+						<div id="pushDesc"></div> 
+					</div>
+				</div>
+				<div style="margin-top:15px;margin-bottom:5px;">
+					<a id="pushBtnUrl" style="text-decoration: none;color: #fff;padding: 8px 25px 8px 8px; height:31px;background:url('/data/learnmore_l.png') no-repeat center right;" href="" target="_blank" title="" onclick="$('#popup').hide();">
+						<div id="pushBtn" style="display:inline;"></div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
   <div id="allWrapper">
 <!-- SubstrateLinks -->
 <!-- End of SubstrateLinks -->
@@ -123,10 +262,10 @@
         <div id="subLinkLeft" style="left:280px;"></div>
         <div id="subLinkRight" style="right:90px;"></div>
 <!-- Substrate Links -->
-<a href="http://absolutist.com/ios/full-pipe/" target="_blank" style="position:absolute; top:0px; height:100px; left:350px; width:450px;" onclick="ga('send', 'event', 'numbers_button', 'click', 'gplay_numbers', 1);"></a>
+<a href="http://absolutist.com/promo/" target="_blank" style="position:absolute; top:0px; height:115px; left:350px; width:450px;" onclick="ga('send', 'event', 'numbers_button', 'click', 'gplay_numbers', 1);"></a>
 <div id="subLinks" style="position:absolute; top:0px; height:41px; left:830px;">
   
-<a href="https://play.google.com/store/apps/details?id=com.absolutist.fullpipe&amp;referrer=utm_source%3Dabsback%26utm_medium%3Dlink" target="_blank" style="display:block; padding-top:8px;"><img src="/themes/absolutist/img/store/btn_googleplay.png" height="41" width="120" alt="play!"></a><a href="https://itunes.apple.com/app/apple-store/id900071823?pt=68276&amp;ct=abswebsite&amp;mt=8" target="_blank" style="display:block; padding-top:4px;"><img src="/themes/absolutist/img/store/btn_appstore.png" height="41" width="120" alt="play!"></a>
+<a href="https://play.google.com/store/apps/details?id=com.absolutist.timegap&amp;referrer=utm_source=absback&amp;utm_medium=button" target="_blank" style="display:block; padding-top:8px;"><img src="/themes/absolutist/img/store/btn_googleplay.png" height="41" width="120" alt="play!"></a><a href="https://itunes.apple.com/app/apple-store/id661173158?pt=68276&amp;ct=absback&amp;mt=8" target="_blank" style="display:block; padding-top:4px;"><img src="/themes/absolutist/img/store/btn_appstore.png" height="41" width="120" alt="play!"></a>
 </div>
 <!-- End of Substrate Links -->
       </div>
@@ -224,7 +363,7 @@ $(document).ready(function () {
   <div class="del"></div>
 </div>
 <!-- /TopMenu Widget -->
-          <p onclick="$(window).scrollTop(0)" id="uppBtn" style="float:right; color:#ffffff; font-size:18px; padding:3px 3px; cursor:pointer; display:none;">⇪ ⇪ ⇪</p>
+          <p onclick="$(window).scrollTop(0)" id="uppBtn" style="float:right; color:#ffffff; font-size:18px; cursor:pointer; display:none;">⇪ ⇪ ⇪</p>
         </div>
 <div id="mca">
 
@@ -258,12 +397,32 @@ $(document).ready(function () {
 </table>
 </div>
 <!-- AdWidget [main_page_160x600] -->
+<script>
+		var adBlockEnabled = false;
+		var testAd = "";
+		window.setTimeout(function() {
+			testAd = $(".ad_160x600")[0];
+			if(testAd.offsetHeight === 0) {
+				adBlockEnabled = true;
+			}
+			if(adBlockEnabled) {
+				/*$.ajax({
+					 type: "POST",
+					 url: "/service/adblockcount.php",
+					 data: "ad=ad_160x600",
+					 success: function(m) {
+					   console.log(m);
+					 }
+				});*/
+			}
+		}, 100);
+	</script>
 <div class="ad_160x600 adBox" style="width:160px; height:600px; text-align:center; font-size:32px; margin-top:6px; float:right;z-index: 777;">
-<script language="Javascript">
+<script>
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=72054;
 document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=72054&amp;script=1&amp;rnd=417815"></script>
+</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=72054&amp;script=1&amp;rnd=808460"></script>
 
   <div class="clear"></div>
 </div>
@@ -311,7 +470,7 @@ document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/vie
     
     <div class="clear"></div>
   </div>
-  <div class="bottomBar">© Absolutist.com, 2000 - 2016</div>
+  <div class="bottomBar">© Absolutist.com, 2000 - 2017</div>
 </div>
       </div>
     </div>
