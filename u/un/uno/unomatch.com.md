@@ -1,83 +1,78 @@
-> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217064324id_/http%3A//www.unomatch.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630120337id_/http%3A//unomatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy , Unomatch - Get Socialized
+# PRIVACY POLICY - Unomatch Shop
 
-Last updated 3rd Jan 2014 8:05am GMT. 
+Unomatchshop values our customers and respects their privacy. We collect information about you through our website in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
-Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use Unomatch to share with others and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help make informed decisions. 
+This privacy policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our privacy policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
-BY USING THIS WEBSITE YOU EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS POLICY.
+If you have any questions about our privacy policy, please contact us at [customerservice@unomatchshop.com](mailto:customerservice@unomatchshop.com)
 
-Unomatch is physically located in The United States of America and operated from the United States of America. 
+#### What kind of information does Unomatchshop collect?
 
-General Website Visitors
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit our website to place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone.
 
-In general, you may visit many pages of the Website without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit the Website and analyze this data for trends and statistics, but individual users will remain anonymous unless they voluntarily tell us who they are. Unomatch collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. From time to time, Unomatch may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+#### How does Unomatchshop use my information?
 
-Unomatch also collects potentially personally-identifying information like Internet Protocol (IP) addresses for visitors and for users leaving comments. Unomatch only discloses visitor and commenter IP addresses to the extent necessary to continue operating the Website, or if required to do so by law. 
+We may use your personal information in the following ways:
 
-Collection of Personally-Identifying Information
+  * To process and fulfill your order, including to send you emails to confirm your order status and shipment
+  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
+  * To administer and fulfill our contests and other promotions
+  * To help us learn more about your shopping preferences
+  * To help us address problems with and improve our site design, products and services
+  * To enhance your shopping experience
+  * To analyze trends and statistics
+  * To protect the security or integrity of our websites and our business
+  * To contact you if necessary
 
-If you choose to sign up to Unomatch, we will ask you to provide certain personal information about yourself, such as your name, shipping/billing addresses, telephone number, e-mail address, birth date, gender, occupation, or personal interests. We gather this information for the sole purpose of creating an account on our system. Whether or not you choose to provide the information we request is entirely up to you. But if you choose not to provide the information we request, you may be unable to access certain services, offers, and content on the Website. 
 
-By signing up to Unomatch you expressly agree to provide this information to us and to our use of it consistent with the terms and conditions of this policy. You also agree that we may from time to time send you Email newsletters. You are free to unsubscribe from the Email mailing list at any time following the instructions contained within the Email footer. 
 
-Safety
+#### How does Unomatchshop use cookies?
 
-We do our best to keep Unomatch safe, but we cannot guarantee it. We need your help to do that, which includes the following commitments:   
-You will not send or otherwise post unauthorized commercial communications (such as spam) on Unomatch.   
-You will not collect users' content or information, or otherwise access Unomatch, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our permission.   
-You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on Unomatch.   
-You will not upload viruses or other malicious code.   
-You will not solicit login information or access an account belonging to someone else.   
-You will not bully, intimidate, or harass any user.   
-You will not post content that: is hateful, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.   
-You will not develop or operate a third-party application containing alcohol-related or other mature content (including advertisements) without appropriate age-based restrictions.   
-You will not offer any contest, giveaway, or sweepstakes ("promotion") on Unomatch without our prior written consent. If we consent, you take full responsibility for the promotion, and will follow our Promotions Guidelines and all applicable laws.   
-You will not use Unomatch to do anything unlawful, misleading, malicious, or discriminatory.   
-You will not do anything that could disable, overburden, or impair the proper working of Unomatch, such as a denial of service attack.   
-You will not facilitate or encourage any violations of this Statement. 
+Our websites use “cookies,” which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
-Responding to legal requests and preventing harm
+For example, we may use cookies to enable you to use certain website features, remember the items in your shopping bag, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites.
 
-We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you, including financial transaction data related to purchases made with Unomatch Credits, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. 
+You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-Registration and Account Security
+#### How does Unomatch use pixel tags?
 
-Unomatch users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:   
-You will not provide any false personal information on Unomatch, or create an account for anyone other than yourself without permission.   
-You will not create more than one personal profile.   
-If we disable your account, you will not create another one without our permission.   
-You will not use your personal profile for your own commercial gain (such as selling your status update to an advertiser).   
-You will not use Unomatch if you are under 13.   
-You will not use Unomatch if you are a convicted sex offender.   
-You will keep your contact information accurate and up-to-date.   
-You will not share your password, (or in the case of developers, your secret key), let anyone else access your account, or do anything else that might jeopardize the security of your account.   
-You will not transfer your account (including any page or application you administer) to anyone without first getting our written permission.   
-If you select a username for your account we reserve the right to remove or reclaim it if we believe appropriate (such as when a trademark owner complains about a username that does not closely relate to a user's actual name). 
+We use “pixel tags” (also called “web beacons” or “clear gifs”), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers’ online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
 
-Protecting Other People's Rights
+Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer’s internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
 
-We respect other people's rights, and expect you to do the same.   
-You will not post content or take any action on Unomatch that infringes or violates someone else's rights or otherwise violates the law.   
-We can remove any content or information you post on Unomatch if we believe that it violates this Statement.   
-We will provide you with tools to help you protect your intellectual property rights. To learn more, visit our How to Report Claims of Intellectual Property Infringement page.   
-If we remove your content for infringing someone else's copyright, and you believe we removed it by mistake, we will provide you with an opportunity to appeal.   
-If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.   
-You will not use our copyrights or trademarks (including Unomatch, the Unomatch and UM Logos, UM), or any confusingly similar marks, without our written permission.   
-If you collect information from users, you will: obtain their consent, make it clear you (and not Unomatch) are the one collecting their information, and post a privacy policy explaining what information you collect and how you will use it.   
-You will not post anyone's identification documents or sensitive financial information on Unomatch.   
-You will not tag users or send email invitations to non-users without their consent. 
+Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-Notifications and Other Messages
+We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications.
 
-We may send you notifications and other messages using the contact information we have for you, like your email address. You can control most of the notifications you receive, including ones from Pages you like and applications you use, using your Notifications settings. 
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-Security and bugs
+#### How do I know my personal information is secure?
 
-We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on Unomatch, visit the Unomatch Security Page. We try to keep Unomatch up, bug-free and safe, but can't make guarantees about any part of our services or products. 
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
 
-Privacy Policy Changes
+When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.”
 
-This privacy policy is effective as of date appearing at the top of this page. To find out what has changed, contact support@unomatch.com. Company reserves the right to modify the terms of this privacy policy at any time and in its sole discretion, by posting a change notice on this page. Although most changes are likely to be minor, Unomatch encourages visitors to frequently check this page for any changes to its Privacy Policy.   
-YOUR CONTINUED USE OF UNOMATCH AFTER ANY CHANGE IN THIS PRIVACY POLICY WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGE. 
+If for any reason you cannot access the secure server, or if you’re not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, “How do I contact you?”, below.
+
+#### What is “phishing”?
+
+“Phishing” is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+#### What about links to other websites?
+
+For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.
+
+#### Business Transactions
+
+Unomatchshop may acquire other businesses, and another company may acquire Unomatchshop or substantially all of its assets such as through a merger, consolidation, acquisition, or asset purchase. If that occurs, the information we collect may be one of the assets examined or transferred as part of the transaction. We will not transfer the information we have collected unless the acquirer of all or substantially all of unomatchshop assets agrees to provide the same or substantially similar privacy protections as those established by this privacy policy. In the event Unomatchshop is involved in a bankruptcy proceeding, the information collected by Unomatchshop may be sold in such bankruptcy proceeding (without any requirement of a consumer privacy ombudsman) so long as the acquirer of all or substantially all of Unomathcshop assets agrees to be bound by the same or substantially similar privacy protections as those established by this privacy policy.
+
+#### How do I contact you?
+
+We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us at [customerservice@unomatchshop.com](mailto:customerservice@unomatchshop.com).
+
+Unomatchshop  
+ATTN: Privacy  
+13-35 B, Sperber Road, Fair Lawn,  
+New Jersey – 07410, U.S.A.
