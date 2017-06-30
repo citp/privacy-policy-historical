@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929034316id_/http%3A//www.abercrombie.co.jp/en_JP/AF-ca-privacy-and-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombie.co.jp privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201518id_/http%3A//www.abercrombie.co.jp/en_JP/AF-ca-privacy-and-terms.html) for the most accurate reproduction.*
 
 # AF-ca-privacy-and-terms
+
+Updated: June 2017
 
 In order to make your visits to the various online channels of Abercrombie & Fitch as responsive as possible, we provide this summary of what information we collect online, and how that information is used. 
 
@@ -35,7 +37,7 @@ We collect general information about our visitors’ experience with our Website
 
 #### 2\. Location Information
 
-Our Websites, Apps, and communications may use your IP address to determine the city where you are located. This allows us to tailor content to you, such as a map of nearby stores. Mobile devices include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Websites, Apps or communications may not be available. See the “Opt-Out” section below for the choices you have regarding collection of location information. 
+Our Website, Apps, and communications may use your IP address to determine the approximate location of your Internet Service Provider (ISP). This allows us to tailor content to you, such as a map of nearby stores. Mobile devices include your cell phone, and could include your laptop or tablet depending on the type of wireless connectivity used. If you do not consent to provide or disable location-based services, we may ask you to manually select the region where you are located, or to enter your zip code; if you chose not to provide this information some features of the Websites, Apps or communications may not be available. See the “Opt-Out” section below for the choices you have regarding collection of location information. 
 
 #### 3\. Personal Data
 
@@ -43,13 +45,11 @@ Our Websites, Apps, and communications may use your IP address to determine the 
 
 If you complete a general "Contact Us" form on one of our Websites we may collect your name, email address, and any information that you provide in the text of your message.
 
-If you use the "Contact Us" feature available in the "Investor Relations" portion of our Websites, we may process your name, title, organization, address, telephone number, fax number, email address, and any information that you provide in the text of your message.
-
 If you use the Click to Chat feature on our Websites we may collect your name and any additional personal data or other information that you provide throughout the communication.
 
 #### Sign Up for Marketing Email List
 
-If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Hollister Co., abercrombie kids, and Gilly Hicks. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the Opt Out section below for more details.
+If you sign up for our marketing email list, or the marketing email list for any of our affiliate brands, you will be asked to provide your email address. Our affiliate brands are: Hollister Co. and abercrombie kids. Signing up enables you to receive information about products and offers that we provide via email. Once you sign up you will receive an email to the email address you submitted confirming you are subscribed. In some locations on our Websites/Apps you are given the opportunity to submit additional information, such as gender and date of birth, that will help us cater messaging and marketing emails we send to you. In addition, we may identify you when you click a link in an email to get to our Websites, and may personalize messaging, promotions or product recommendations. You can choose the frequency with which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from us. See the Opt Out section below for more details.
 
 If you were on the Abercrombie & Fitch marketing email list prior to September 2014 and supply your email address on Abercrombie.co.jp you may receive emails catered to your location.
 
@@ -85,15 +85,7 @@ If you provide us with your email address to contact you when a product on the s
 
 #### Purchasing at the Online Store
 
-If you purchase merchandise through our Websites, we will gather your personal data (including your name, billing and shipping address information, email address, telephone number, and payment information), as well as information about your purchases on our Websites, which we may combine with your store purchase information. In addition, if you have created an account you will be able to view your order details in the account section. Some information provided in checkout may be used to personalize a future visit or communications, to cater products or offers to you or shared with affiliates or third parties for our marketing or advertising purposes. 
-
-#### Investor Email Alerts
-
-Our Websites offer investors the opportunity to sign up for email alerts, which are messages that are conveniently delivered to your email box whenever certain new company information is posted to our Websites. To receive these email alerts, investors must provide their email address, upon which they consent to the processing and transfer of their personal data for this purpose.
-
-#### Investor Electronic Delivery of Proxy Materials
-
-If you are an investor and elect to sign up to receive your proxy materials via electronic document delivery, any personal data that you provide will be collected and sent directly to Broadridge Financial Solutions, Inc. in the United States, our third party service provider.
+If you purchase merchandise through our Websites, we will gather your personal data (including your name, billing and shipping address information, email address, telephone number, banking and payment information), as well as information about your purchases on our Websites, which we may combine with your store purchase information. In addition, if you have created an account you will be able to view your order details in the account section. Some information provided in checkout may be used to personalize a future visit or communications, to cater products or offers to you or shared with affiliates or third parties for our marketing or advertising purposes. 
 
 #### Surveys
 
@@ -120,9 +112,17 @@ In addition:
 
 
 
+Personal information may be collected directly by Abercrombie & Fitch through social media accounts (“Social Media Pages”) and may also be collected by the social media site hosting the Abercrombie & Fitch Social Media Page.
+
+Personal Information collected directly by Abercrombie & Fitch: The collection of personal information directly by Abercrombie & Fitch on our Social Media Pages will include the type of information addressed under "What is Personal Data" above. Examples of how personal information may be directly collected on Abercrombie & Fitch Social Media Pages include providing information through an application or form which has a link to this privacy policy. We will use and share the information we collect on our Social Media Pages in the manner specified below in "Using Information We Collect” and in "Information We Share With Third Parties."
+
+Personal Information collected by the social media sites: This privacy policy does not cover the privacy and security practices of the social media sites on which Abercrombie & Fitch has Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
+
+The social media sites where Abercrombie & Fitch has Social Media Pages may provide aggregate information and analysis to Abercrombie & Fitch about your use of our Social Media Pages. This allows us to better understand and analyze our user growth, general demographic information about the users of our Social Media Pages, and interaction with content on our Social Media Pages. Overall, this information may be used to help us understand the types of visitors and users of our Social Media Pages and use of the content.
+
 We use the information collected through our Websites, Apps, and communications for the following purposes:
 
-  * To fulfil orders and complete transactions, including for processing payments, verifying addresses, and to ship merchandise. 
+  * To fulfill orders and complete transactions, including for processing payments and refunds, verifying addresses, and to ship merchandise. 
 
   * To conduct appropriate anti-fraud checks in the course of which the personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information.
 
@@ -154,14 +154,34 @@ We use the information collected through our Websites, Apps, and communications 
 
   * To consider you for employment, and administer and maintain application information provided.
 
-  * To provide Investor Relations email alerts and/or proxy materials, or related purposes. 
-
 
 
 
 Please note that if you do not provide us with the required personal information, we may not be able to provide the information, products or services you need or process your request.
 
-All of the information gathered through our Websites, Apps, and communications that you provide to us is sent to the United States and Hong Kong. We store and process your personal data and any other information that we collect from you through our Websites, Apps, and communications in the United States, Japan, and Hong Kong. Our third party service providers who offer services to us from time to time may also store and process your personal data in the United States, Japan, and Hong Kong. We, and our third party service providers mentioned above, may need to disclose your personal data that we store if required to do so under any applicable laws, rules or regulations.
+#### 1\. Email Addresses
+
+We do not sell, or grant rights to external third parties, to use your email address for their own marketing purposes.
+
+Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed by you on our Websites, or other operational emails. 
+
+#### 2\. Postal Addresses
+
+We make the names and postal addresses in our postal mailing list, sometimes categorized by purchasing information, available to our affiliates (for example, Hollister Co. and abercrombie kids) and other unaffiliated companies for their marketing purposes. See the “Opt-Out” section below for instructions on how to opt out of sharing with unaffiliated companies.
+
+#### 3\. Service Providers
+
+Please be aware that we may share information collected with third parties to assist us with our e-commerce business, such as our Websites, Apps, and communications, and our Social Media Pages. Some examples of the assistance that may be provided by third party service providers are: fulfilling orders (including but not limited to, processing payments, assisting with shipment, providing fraud prevention services, and verifying addresses), providing advertising services - including on social media sites and internet search engines, sending marketing communications, your actions in response to our communications and the effectiveness of our advertising, monitoring and analyzing site activity, serving site content (including a site search feature, product options, and personalized messaging), organizing information, conducting surveys, administering and maintaining employment application information, offering interactive features on our App, evaluating potential models, and administering emails, sweepstakes or contests. Such third parties may have access to your personal data to provide services on our behalf, but may not use your information for any other purpose.
+
+#### 4\. Legal Disclosures
+
+You should also be aware that we may disclose specific information about you if we are required, or we genuinely believe that we are required, to do so by law or if we reasonably consider that it is necessary to protect the users of our Websites and Apps and that it is difficult to obtain consent from you. In the event that we, or our parent company, are acquired by a new owner, or if following a reorganization of our corporate group we become part of one of our affiliate companies, your information may be transferred to a new owner, or another of our affiliate companies, as part of our assets. If this occurs, we will take all reasonable steps to ensure that our new owner or the affiliate which we become part of will use your personal data only in accordance with the terms of this privacy policy.
+
+#### 5\. Sharing Information within our Group
+
+We may disclose the information that you provide to us (including, without limitation, your personal data) to any member of our group, which means our subsidiaries, our ultimate holding company and the subsidiaries of our holding company (including our affiliated companies). A&F and its affiliates will not subscribe you to their ongoing marketing email or text message programs unless you have separately consented to receive such marketing emails or texts from a given affiliate. These members may use information provided by you for marketing purposes or to serve personalized messaging on our Websites, Apps, and communications.
+
+All of the information gathered through our Websites, Apps, and communications that you provide to us is sent to the United States and Japan. We store and process your personal data and any other information that we collect from you through our Websites, Apps, and communications in the United States, Japan, and Japan. Our third party service providers who offer services to us from time to time may also store and process your personal data in the United States, Japan, and Japan. We, and our third party service providers mentioned above, may need to disclose your personal data that we store if required to do so under any applicable laws, rules or regulations.
 
 #### What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
@@ -177,7 +197,7 @@ We contract with third party advertising companies to serve you online display a
 
 By submitting your personal data to us through our Websites, Apps, and communications, you are agreeing that we may collect, use and disclose your personal data in accordance with the purposes and uses identified in this policy.
 
-#### 1.Collection of Location Information
+#### 1\. Collection of Location Information
 
 a. _Mobile Device Location Information Through our Mobile Sites and Apps._ Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites and Apps from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend you review the specific instructions provided for your mobile device. Note that some features on our Websites and Apps may not be available if you disable location-based services.
 
@@ -185,9 +205,9 @@ b. _Desktop Device Location Information Through Website Features._ Your desktop 
 
 c. _Location Information Through Email._ Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information. You can also unsubscribe from receiving our emails, as described in the Email Address section below.
 
-#### 2.Email Address
+#### 2\. Email Address
 
-If you no longer wish to receive emails from us, please [click here](http://www.abercrombie.co.jp/en_JP/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the email and phone page within the “My Account” section, click on the drop-down menu and select ‘No emails/Unsubscribe’ for the brand from which you no longer want to receive marketing emails, and press ‘SUBMIT.' Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address. 
+If you no longer wish to receive emails from us, please [click here](https://www.abercrombie.co.jp/en_JP/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the email and phone page within the “My Account” section, click on the drop-down menu and select ‘No emails/Unsubscribe’ for the brand from which you no longer want to receive marketing emails, and press ‘SUBMIT.' Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address. 
 
 Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed on our Websites or other operational emails.
 
@@ -212,7 +232,7 @@ Upon your written request, we will inform you of the personal data relating to y
 
 Please send your written request to the email address or postal address provided under "Questions About Privacy" below. In your written request, please include your name, address, phone number, and email address so that we may verify whether we retain any personal data about you.
 
-No one under the age of 18 should provide personal data on our Websites and Apps.
+Our Websites are not directed at children under the age of 18, and we do not knowingly collect any personal information from children under the age of 18. The children’s products we sell on our Websites are intended for purchase by adults only. No one under the age of 18 should provide personal data on our Websites or at our stores. n the past, our affiliated company, abercrombie kids, collected personal information from children under the age of 18 with the consent of the child’s parent or guardian. Any such personal information collected by abercrombie kids has been deleted, and abercrombie kids no longer has any information concerning that child.
 
 For your convenience and enjoyment, our Websites and Apps may contain links to other websites operated by third parties ("Third Party Sites"). We do not monitor and are not responsible for the privacy practices or the content of such Third Party Sites. We would urge you to review the privacy policies of each Third Party Site to ensure that you are comfortable with the privacy policies and practices.
 
@@ -220,9 +240,11 @@ As we continue to offer our customers new and different types of content and ser
 
 We limit the number of employees that have access to the databases that contain personal information. 
 
-Abercrombie.co.jp is designed to accept orders from web browsers that allow communication through Secure Socket Layer (SSL) technology, such as Mozilla Firefox 30.0+, Microsoft Internet Explorer 8.0+, Google Chrome 35.0+, and Apple Safari 7.0+. Additionally, some of the site content requires Adobe Flash Player 9.0 or later. Browsers that do not meet this requirement will be prevented from navigating the online store section of our Websites.
+Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 4.4+, and Apple iOS 8+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
+
+If, for any reason, you are accessing a country specific website for a country in which you are not located (e.g. utilizing a proxy server) please contact Customer Service to view the policies and terms specific to your jurisdiction.
 
 If you have any questions, comments or concerns regarding our privacy practices or our legal compliance with the Japanese Act on Protection of Personal Information or other applicable privacy law or regulation, please email us at [Privacy_Policy@Abercrombie.com](mailto:Privacy_Policy@Abercrombie.com) or write to us at the address set out below:
 
