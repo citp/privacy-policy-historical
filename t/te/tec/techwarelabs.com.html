@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techwarelabs.com privacy policy that was archived on 2016-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161215091428id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techwarelabs.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630133924id_/http%3A//www.techwarelabs.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +13,7 @@
 <link rel="alternate" type="application/atom+xml" title="TechwareLabs Atom Feed" href="http://www.techwarelabs.com/feed/atom/">
 <link rel="pingback" href="http://www.techwarelabs.com/xmlrpc.php">
 
-<!-- All in One SEO Pack 2.3.11.1 by Michael Torbert of Semper Fi Web Design[113,156] -->
+<!-- All in One SEO Pack 2.3.13.2 by Michael Torbert of Semper Fi Web Design[113,156] -->
 <meta name="description" content="Thanks for your interest; we're big fans of privacy, too! Unfortunately, the Internet is a pretty tangled web (pun intended) of sites and services, and the">
 
 <link rel="canonical" href="http://www.techwarelabs.com/privacy-policy/">
@@ -24,18 +24,74 @@
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 			ga('create', 'UA-3390828-1', { 'cookieDomain': 'www.techwarelabs.com' } );
-			
+			ga('require', 'displayfeatures');
+			ga('require', 'ec');
+			ga('require', 'linkid', 'linkid.js');
 			ga('send', 'pageview');
 			</script>
-<!-- /all in one seo pack -->
+					<script type="text/javascript">
+						function recordOutboundLink(link, category, action) {
+														ga('send', 'event', category, action);
+														if (link.target == '_blank') return true;
+							setTimeout('document.location = "' + link.href + '"', 100);
+							return false;
+						}
+						/* use regular Javascript for this */
+						function getAttr(ele, attr) {
+							var result = (ele.getAttribute && ele.getAttribute(attr)) || null;
+							if (!result) {
+								var attrs = ele.attributes;
+								var length = attrs.length;
+								for (var i = 0; i < length; i++)
+									if (attr[i].nodeName === attr) result = attr[i].nodeValue;
+							}
+							return result;
+						}
+
+						function aiosp_addLoadEvent(func) {
+							var oldonload = window.onload;
+							if (typeof window.onload != 'function') {
+								window.onload = func;
+							} else {
+								window.onload = function () {
+									if (oldonload) {
+										oldonload();
+									}
+									func();
+								}
+							}
+						}
+
+						function aiosp_addEvent(element, evnt, funct) {
+							if (element.attachEvent)
+								return element.attachEvent('on' + evnt, funct);
+							else
+								return element.addEventListener(evnt, funct, false);
+						}
+
+						aiosp_addLoadEvent(function () {
+							var links = document.getElementsByTagName('a');
+							for (var x = 0; x < links.length; x++) {
+								if (typeof links[x] == 'undefined') continue;
+								aiosp_addEvent(links[x], 'onclick', function () {
+									var mydomain = new RegExp(document.domain, 'i');
+									href = getAttr(this, 'href');
+									if (href && href.toLowerCase().indexOf('http') === 0 && !mydomain.test(href)) {
+										recordOutboundLink(this, 'Outbound Links', href);
+									}
+								});
+							}
+						});
+					</script>
+					<!-- /all in one seo pack -->
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s.gravatar.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="TechwareLabs » Privacy Policy Comments Feed" href="http://www.techwarelabs.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.techwarelabs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=70ab4a334b281a56b0faedf54eaf9b3e"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.techwarelabs.com/wp-includes/js/wp-emoji-release.min.js?ver=70ab4a334b281a56b0faedf54eaf9b3e" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.techwarelabs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=f8833c5b453405c23c421ea18e79ac7f"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.techwarelabs.com/wp-includes/js/wp-emoji-release.min.js?ver=f8833c5b453405c23c421ea18e79ac7f" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -50,10 +106,10 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="my-style-css" href="http://www.techwarelabs.com/wp-content/plugins/hot-deals-widget/img/tb_wp_style.css?ver=70ab4a334b281a56b0faedf54eaf9b3e" type="text/css" media="all">
+<link rel="stylesheet" id="my-style-css" href="http://www.techwarelabs.com/wp-content/plugins/hot-deals-widget/img/tb_wp_style.css?ver=f8833c5b453405c23c421ea18e79ac7f" type="text/css" media="all">
 <link rel="stylesheet" id="social-logos-css" href="http://www.techwarelabs.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://www.techwarelabs.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://www.techwarelabs.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=70ab4a334b281a56b0faedf54eaf9b3e" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.techwarelabs.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://www.techwarelabs.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=f8833c5b453405c23c421ea18e79ac7f" type="text/css" media="all">
 <script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.techwarelabs.com/xmlrpc.php?rsd">
@@ -70,11 +126,16 @@ img.emoji {
 		background-image: url(http://www.techwarelabs.com/wp-content/plugins/download-monitor/page-addon/morebutton.gif);
 	}
 	</style>
-<!-- <meta name="NextGEN" version="2.1.60" /> -->
 <link type="text/css" rel="stylesheet" href="http://www.techwarelabs.com/wp-content/plugins/show-wordpress-blog-vital-stats/wp_blog_vitals_style.css">
-
+<!-- <meta name="NextGEN" version="2.2.10" /> -->
+<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style>
 <link rel="dns-prefetch" href="//v0.wordpress.com">
-<script type="text/javascript" charset="utf-8" src="http://w.sharethis.com/widget/?wp=4.7&amp;publisher=7785210e-df6c-4cb2-b2cd-9f6445302edf"></script>
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<script type="text/javascript" charset="utf-8" src="http://w.sharethis.com/widget/?wp=4.8&amp;publisher=7785210e-df6c-4cb2-b2cd-9f6445302edf"></script>
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
@@ -279,34 +340,34 @@ jQuery(document).ready(function() {
 							<ul>
                             <!-- old query: "cat=-".get_option('ds_carousel').",-".get_option('ds_featured').",$cat&showposts=5" -->
 								<li>
-									<h5><a href="http://www.techwarelabs.com/hands-on-with-the-lenovo-yoga-book/" rel="bookmark">Hands on with the Lenovo Yoga Book</a></h5>
+									<h5><a href="http://www.techwarelabs.com/azpen-a848-projector-tablet/" rel="bookmark">Azpen A848 Projector Tablet</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/megacon-2016-mega-photo-gallery/" rel="bookmark">Megacon 2016 Mega Photo Gallery</a></h5>
+									<h5><a href="http://www.techwarelabs.com/cherry-mx-6-0-red-switch-led/" rel="bookmark">Cherry MX 6.0 Red Switch LED</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/in-win-foresights-server-products/" rel="bookmark">In Win Foresight’s Server Products</a></h5>
+									<h5><a href="http://www.techwarelabs.com/accell-usb-c-to-displayport-cable-review/" rel="bookmark">Accell USB-C to DisplayPort Cable review</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/edimax-enters-internet-of-things-taitra/" rel="bookmark">Edimax Enters Internet of Things – Taitra</a></h5>
+									<h5><a href="http://www.techwarelabs.com/megacon-2017-gallery/" rel="bookmark">Megacon 2017 Gallery</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/taitra-gigabyte-ups-the-power-for-egaming/" rel="bookmark">Taitra Gigabyte Ups the Power for eGaming</a></h5>
+									<h5><a href="http://www.techwarelabs.com/wraps-wristband-headphones/" rel="bookmark">Wraps Wristband Headphones</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/taitra-thermaltake-headquarters-conference-and-tour/" rel="bookmark">Taitra Thermaltake Headquarters Conference and Tour</a></h5>
+									<h5><a href="http://www.techwarelabs.com/powercolor-red-devil-radeon-rx570-amd/" rel="bookmark">PowerColor Red Devil Radeon RX570 AMD</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/nextbook-flexx-10-review/" rel="bookmark">Nextbook Flexx 10 Review</a></h5>
+									<h5><a href="http://www.techwarelabs.com/monster-fatal1ty-fxm-200/" rel="bookmark">Monster Fatal1ty FxM 200</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/43228-2/" rel="bookmark">Acer Headquarters Tour -Taitra</a></h5>
+									<h5><a href="http://www.techwarelabs.com/what-is-xboxs-project-scorpio/" rel="bookmark">What Is Xbox’s ‘Project Scorpio’?</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/thermaltake-pacific-rl240-watercooling-kit-review/" rel="bookmark">Thermaltake Pacific RL240 Watercooling kit review</a></h5>
+									<h5><a href="http://www.techwarelabs.com/hyperx-cloud-stinger-headset-review/" rel="bookmark">HyperX Cloud Stinger Headset Review</a></h5>
 								</li>
 								<li>
-									<h5><a href="http://www.techwarelabs.com/mobilelite-wireless-g3-file-hub/" rel="bookmark">MobileLite Wireless G3 File Hub</a></h5>
+									<h5><a href="http://www.techwarelabs.com/website-maker/" rel="bookmark">Website Maker</a></h5>
 								</li>
 							</ul>
 							<a href="/reviews/" class="more-link">More Posts</a>
@@ -317,7 +378,15 @@ jQuery(document).ready(function() {
 					<li class="box ads"> 
 						<h4>TechwareLabs Sponsors</h4> 
 						<div class="inner"> 
- <ul class="ubd-block-ad"><li><a href="/advertising"><img src="/wp-content/gallery/advertisements/advertise.gif" alt="Advertise with us!"></a>
+ <ul class="ubd-block-ad"><li><a href="http://www.glacialtech.com/?LinkName=TWL_125"><img src="/wp-content/gallery/advertisements/gt125x125.gif" style="border: 0px" alt="GlacialTech"></a></li><li><object type="application/x-shockwave-flash" data="/wp-content/ads/HyperX.swf" width="125" height="125" id="FlashID" title="Kingston HyperX Ad">
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="9.0.45.0">
+    <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+    <div>
+      <h4>Content on this page requires Adobe Flash Player.</h4>
+    </div>
+</object></li><li><a href="/advertising"><img src="/wp-content/gallery/advertisements/advertise.gif" alt="Advertise with us!"></a>
 
 </li><li><a href="http://www.elogisys.com/"><object type="application/x-shockwave-flash" data="/wp-content/ads/Logisys_SWF.swf" width="125" height="125" id="FlashID2" title="Logisys Ad">
   <param name="quality" value="high">
@@ -327,15 +396,7 @@ jQuery(document).ready(function() {
     <div>
       <h4>Content on this page requires Adobe Flash Player.</h4>
     </div>
-</object></a></li><li><a href="http://www.glacialtech.com/?LinkName=TWL_125"><img src="/wp-content/gallery/advertisements/gt125x125.gif" style="border: 0px" alt="GlacialTech"></a></li><li><object type="application/x-shockwave-flash" data="/wp-content/ads/HyperX.swf" width="125" height="125" id="FlashID" title="Kingston HyperX Ad">
-  <param name="quality" value="high">
-  <param name="wmode" value="opaque">
-  <param name="swfversion" value="9.0.45.0">
-    <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-    <div>
-      <h4>Content on this page requires Adobe Flash Player.</h4>
-    </div>
-</object></li></ul>							<div style="text-align: center;" id="textad17"><a href="http://www.schtrade.co.uk/desktops/"><strong>Desktop computers at SCH Trade</strong></a></div>
+</object></a></li></ul>							<div style="text-align: center;" id="textad17"><a href="http://www.schtrade.co.uk/desktops/"><strong>Desktop computers at SCH Trade</strong></a></div>
 							<div class="ad-here"><a href="http://www.techwarelabs.com/advertising">Click Here to Advertise With Us</a></div> 
 						</div> 
 						<!-- .xoxo li -->
@@ -349,19 +410,19 @@ jQuery(document).ready(function() {
 </div>
 <hr>
 <!-- hotdeals WPV0.6 -->
-<a href="https://www.techbargains.com/deal/386909/amazon-gold-box-deal-of-the-day" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636173591892729948anker.png&amp;width=200&amp;height=200" alt="Amazon Deal of the Day - Up to 63% ..."><div>Amazon Deal of the Day - Up to 63% off Select Anker Headphones</div></div>
+<a href="https://www.techbargains.com/deal/386637/udemy-course-sale" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636271534029336754udemydealpost.png&amp;width=200&amp;height=200" alt="Udemy 4th of July Sale - up to 95% ..."><div>Udemy 4th of July Sale - up to 95% off Online Learning Courses for $10 Each</div></div>
 </a>
 <hr>
 
-<a href="https://www.techbargains.com/deal/387554/amazon-gold-box-deal-of-the-day" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636173588928691948logi.png&amp;width=200&amp;height=200" alt="Amazon Deal of the Day - Up to 50% ..."><div>Amazon Deal of the Day - Up to 50% off select Logitech PC accessories</div></div>
+<a href="https://www.techbargains.com/home-depot-special-buy-of-the-day" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636343819982959150table.png&amp;width=200&amp;height=200" alt="Home Depot Deal of the Day: 50% off..."><div>Home Depot Deal of the Day: 50% off Select Patio Furniture</div></div>
 </a>
 <hr>
 
-<a href="https://www.techbargains.com/apple-iphone-6-plus-deals" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636149783569565673274548-img_6978b724-adf1-441c-ba95-0f0d1c79ba0d_grande_2x[1].jpeg&amp;width=200&amp;height=200" alt="Apple iPhone 6 Plus 16GB GSM Unlock..."><div>Apple iPhone 6 Plus 16GB GSM Unlocked 4G LTE Smartphone (REFURB) $279.99</div></div>
+<a href="https://www.techbargains.com/deal/386909/amazon-gold-box-deal-of-the-day" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636343813828739150temptations.png&amp;width=200&amp;height=200" alt="Amazon Deal of the Day: 25% or more..."><div>Amazon Deal of the Day: 25% or more on select Temptations Cat Treats</div></div>
 </a>
 <hr>
 
-<a href="https://www.techbargains.com/deal/428780/american-express" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636131768360862466untitled-1.jpg&amp;width=200&amp;height=200" alt="Blue Cash Everyday® Card from ..."><div>Blue Cash Everyday® Card from American Express - Earn up to $300 Cash Back</div></div>
+<a href="https://www.techbargains.com/deal/387554/amazon-gold-box-deal-of-the-day" target="_blank"><div><img src="//images.techbargains.com/pages/image.aspx?url=/datastore/userdeals/636343810118529150anime.png&amp;width=200&amp;height=200" alt="Amazon Deal of the Day: Up to 48% o..."><div>Amazon Deal of the Day: Up to 48% off Anime Movies</div></div>
 </a>
 <hr>
 
@@ -386,7 +447,7 @@ jQuery(document).ready(function() {
 				<li><a href="http://feeds2.feedburner.com/Techwarelabs">RSS Feed</a> |</li>
 				<li><a href="https://www.techwarelabs.com/wp-login.php">Log in</a></li>
 				<li> | <a href="https://www.techwarelabs.com/wp-login.php?action=register">Register</a></li>			</ul>
-			<p class="copyright">Copyright 2016 TechwareLabs</p>
+			<p class="copyright">Copyright 2017 TechwareLabs</p>
 			<!-- <div class="extra"></div> -->
 			<!-- <div class="decor decor-1"></div> -->
 			<!-- <div class="decor decor-2"></div> -->
@@ -394,22 +455,23 @@ jQuery(document).ready(function() {
 		</div>
 		<!-- #footer -->
 	</div>
-<!-- ngg_resource_manager_marker --><script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/comment-reply.min.js?ver=70ab4a334b281a56b0faedf54eaf9b3e"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Decaa"></script>
+<!-- ngg_resource_manager_marker --><script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/comment-reply.min.js?ver=f8833c5b453405c23c421ea18e79ac7f"></script>
+<script type="text/javascript" src="http://www.techwarelabs.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201726"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Junaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.techwarelabs.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=70ab4a334b281a56b0faedf54eaf9b3e"></script>
-<script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/wp-embed.min.js?ver=70ab4a334b281a56b0faedf54eaf9b3e"></script>
+<script type="text/javascript" src="http://www.techwarelabs.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=f8833c5b453405c23c421ea18e79ac7f"></script>
+<script type="text/javascript" src="http://www.techwarelabs.com/wp-includes/js/wp-embed.min.js?ver=f8833c5b453405c23c421ea18e79ac7f"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var sharing_js_options = {"lang":"en","counts":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.techwarelabs.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.techwarelabs.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.0"></script>
 <script type="text/javascript">
 var windowOpen;
 			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
@@ -421,16 +483,16 @@ var windowOpen;
 				return false;
 			});
 </script>
-<!-- Powered by WPtouch: 4.3.8 -->	<div style="display:none">
+<!-- Powered by WPtouch: 4.3.18 -->	<div style="display:none">
 	</div>
 
 	<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"http:\/\/www.techwarelabs.com\/privacy-policy\/":41};
 	</script>
-<script type="text/javascript" src="http://stats.wp.com/e-201650.js" async="" defer=""></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201726.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'7678246',post:'41',tz:'-5',srv:'www.techwarelabs.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'7678246',post:'41',tz:'-4',srv:'www.techwarelabs.com'} ]);
 	_stq.push([ 'clickTrackerInit', '7678246', '41' ]);
 </script>
 <!-- Start Quantcast tag -->
@@ -471,4 +533,9 @@ if (typeof(COMSCORE) != "undefined")
 </div>
 
 
-</body></html>
+
+<!-- Dynamic page generated in 0.337 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-06-30 09:11:19 -->
+
+<!-- Compression = gzip -->
+<!-- super cache --></body></html>
