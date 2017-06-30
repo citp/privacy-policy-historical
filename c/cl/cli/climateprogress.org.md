@@ -1,22 +1,69 @@
-> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319044152id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# CAPAF Privacy Policy | Center for American Progress Action Fund
+# Medium Privacy Policy – Medium Policy – Medium
 
-June, 2011
+**Effective Date: March 7, 2016**
 
-**Privacy Policy Simply Stated**
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-The Center for American Progress Action Fund believes in transparency, and we want you to know how we use online information collected from you and what choices you have. We have a detailed [Privacy Policy](http://cdn.americanprogress.org/wp-content/uploads/aboutus/CAPAF-Privacy-Policy-2011.pdf) for you to review here. We know that reading detailed privacy policies takes time, so we are providing a series of short statements below about our online privacy practices with links to the corresponding full-length sections of our Privacy Policy.
+#### General information
 
-  * **Information We Collect Automatically**  – We collect some information automatically when you visit our websites. This is non-personally identifiable information and we generally only use it for administrative purposes. We may sometimes use automatically collected data in conjunction with other data we have about you, including personally identifiable information you have voluntarily provided us, to help facilitate our advocacy and fundraising efforts.
-  * **Cookies and Clear GIFs**  – Cookies and clear GIFs are technologies that allow websites to track certain usage information and “remember” users when they return to a website. This section describes these technologies and how we use them.
-  * **Email Newsletters and Other Lists**  – If you wish to receive some or all of our newsletters, you may provide us with your email address.
-  * **Our Blogs**  – If you wish to leave comments about posts on our blogs, we may first require you to register and provide personally identifiable information or we may require you to have a Facebook account through which to leave comments and posts in order to help prevent spam and other abuse.
-  * **Online Donations**  – Certain personally identifiable information is required to process online donations. We are also happy to accept fully anonymous donations by US Mail.
-  * **Social Networking**  – Social networking can be a powerful tool, but it is important to educate yourself about the privacy practices of each social network in which you participate.
-  * **Other Interactive Services**  – We may provide other interactive services as well. If you ever have a question not answered by this Policy, please feel free to  **[contact us](mailto:progress@americanprogressaction.org?subject=feedback)**.
-  * **Special Note Regarding Interactive Services**  – Any communications you submit or post to a blog, message board, social networking site or other interactive feature may be viewable by other participants or users of the service. Therefore, you should understand that you have no expectation of privacy or confidentiality in the content you submit to such interactive features, whether or not it contains personally identifiable information about you.
-  * **Sharing Personal Information with Third Parties**  – We do not share, sell or rent your personal information with unaffiliated third parties except as we explain in the privacy policy. We may share personal information with affiliates, service providers and certain limited information, such as name, organizational information and email address, with panelists and third parties if you attend one of our events.
-  * **Security**  – Maintaining the security of information about our constituents is a priority for us.
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
+#### What we may collect
 
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
+
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
+
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
+
+#### Email from Medium
+
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
+
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
+
+#### Disclosure of your information
+
+As a rule, we don’t share your personal information outside the company.
+
+We won’t sell your personal information.
+
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
+
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
+
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
+
+#### Cookies
+
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
+
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
+
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
+
+#### Data Storage
+
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
+
+####  **Modifying your personal information or deleting your  account**
+
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
+
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+
+If you delete your account, your account and content may be unrecoverable.
+
+#### Data security
+
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
+
+#### Changes to this Policy
+
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+
+#### Questions
+
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
