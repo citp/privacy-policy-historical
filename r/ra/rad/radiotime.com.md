@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043126id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630162535id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # TuneIn Radio Privacy
 
 ## Privacy Policy
 
-Last Updated Date: **November 15, 2016**
+Last Updated: **June 9, 2017**
 
 This Privacy Policy is incorporated by this reference into the TuneIn, Inc. End User License Agreement and Terms of Service located at <http://tunein.com/policies/> (“EULA”). The terms “ ** _TuneIn_** ,” “ ** _we_** ,” and “ ** _us_** ” include TuneIn, Inc. and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA.
 
@@ -14,7 +14,7 @@ This Privacy Policy explains how TuneIn may collect, use, and disclose informati
 
 **HOW TUNEIN COLLECTS YOUR INFORMATION** ** **
 
-**Account Registration and Profile Creation.**  If you register to use the Service, then you must provide us with certain information, such as your name and email address, in order to create an account and user profile. You may also optionally add to your profile certain demographic information, such as your country, zip code, time zone, birth year, and gender, as well as your photo. If you are a broadcaster, we ask you for information about your station and broadcast(s) when you register on our Services, including your name, email address, phone number, website, content streaming URL, as well as background information on the station and broadcast(s).
+**Account Registration and Profile Creation.**  If you register to use the Service, then you must provide us with your name, date of birth and email address, in order to create an account and user profile. You may also optionally add to your profile certain demographic information, such as your country, zip code, time zone, and gender, as well as your photo. If you are a broadcaster, we ask you for information about your station and broadcast(s) when you register on our Services, including your name, email address, phone number, website, content streaming URL, as well as background information on the station and broadcast(s). 
 
 **Social Sign-On.**  We collect information from social media services when you use your credentials for these services to log into the Service. For example, when you log in with your Facebook credentials, we collect the information you have authorized Facebook to share with us, such as your name, email address, gender, date of birth, and profile picture. We may also obtain other non-public information with your permission.
 
@@ -24,7 +24,7 @@ This Privacy Policy explains how TuneIn may collect, use, and disclose informati
 
 **Information from Third Parties.**  We may collect information about you from third parties, such as other users or our marketing partners. For example, we may receive information about you when another user allows us to upload your contact information to the Service. We may combine this information with the other information we collect about you.
 
-**Using the Service.**  When you use the Service, we collect information about your activities, such as the stations, artists or channels that you listen to, the User profiles that you view, your searches for friends or stations and your other actions and interactions with other Users or content on the Service, the stations, content and people that you follow ( “ ** _Follow Lists_** ”), your echoes, any Content that you Post on the Service, and any other information resulting from your use of the Service that is publicly accessible by other Users ( “ ** _Public Information_** ”).
+**Using the Service.**  When you use the Service, we collect information about your activities, such as the stations, artists or channels that you listen to, the User profiles that you view, your searches for friends or stations and your other actions and interactions with other Users or content on the Service, the stations, content and people that you follow ( “ ** _Follow Lists_** ”), your comments, any Content that you Post on the Service, and any other information resulting from your use of the Service that is publicly accessible by other Users ( “ ** _Public Information_** ”).
 
 **Your Contacts.**  If you give us permission to import to the Service the contacts from any email account associated with your account, then we will collect information about your contacts. We also collect your contacts if you share information or Content with them from the Service or invite them to use the Service.
 
