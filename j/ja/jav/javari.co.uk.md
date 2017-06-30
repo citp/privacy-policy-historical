@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231201731id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183131id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 8 April 2015. 
+Last Updated: 30 September, 2016.
 
-To view changes to the Privacy Notice please [click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201809190). 
+To view changes to the Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202025290). 
 
 Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. **By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
-  * Controllers of Personal Information. 
+  * Controllers of Personal Information
   * What Personal Information About Customers Does Amazon.co.uk Gather?
   * What About Cookies?
   * Does Amazon.co.uk Share the Information it Receives?
@@ -17,16 +17,18 @@ Amazon.co.uk knows that you care how information about you is used and shared an
   * What Information Can I Access?
   * What Choices Do I Have?
   * Are Children Allowed to Use Amazon.co.uk?
-  * Notices and Revisions. 
-  * Examples of Information Collected. 
+  * Notices and Revisions
+  * Examples of Information Collected
 
 
 
 ##  Controllers of Personal Information
 
-Any personal information provided to or gathered by Amazon UK Service is controlled by Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon UK Services Ltd of 60 Holborn Viaduct, London, England, EC1A 2FD UK acts as data processor on behalf of the data controllers. 
+Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon UK Services Ltd of 60 Holborn Viaduct, London, England, EC1A 2FD UK acts as data processor on behalf of the data controllers. 
 
-Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the [U.S. Department of Commerce's Safe Harbour](https://www.export.gov/safeharbor) website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to [safeharbor@amazon.com](mailto:safeharbor@amazon.com). 
+## EU-US Privacy Shield
+
+Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
 
 ## What Personal Information About Customers Does Amazon.co.uk Gather?
 
@@ -36,7 +38,7 @@ Here are the types of information we gather:
 
   * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. 
   * **Automatic Information:** we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses Amazon.co.uk or advertisements and other content served by or on behalf of Amazon.co.uk on other websites. Click here to see examples of the information we receive. 
-  * **Mobile:** When you download or use [apps created by Amazon](https://www.amazon.co.uk/gp/feature.html?ie=UTF8&docId=1000501923) or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, click here. 
+  * **Mobile:** When you download or use apps created by Amazon or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, Click here. 
   * **E-mail Communications:** to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [ Customer Communication Preferences](https://www.amazon.co.uk/gp/gss/ccp). 
   * **Information From Other Sources:** we might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
@@ -66,7 +68,7 @@ Whenever we transfer personal information to countries outside of the European E
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. For more information on how to sign off [click here](https://web.archive.org/gp/help/customer/display.html?nodeId=1093784). 
+  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. For more information on how to sign off [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201945460). 
 
 
 
@@ -80,9 +82,9 @@ Amazon.co.uk gives you access to a broad range of information about your account
 
 ## What Choices Do I Have?
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as [ Your Profile](https://web.archive.org/gp/help/customer/display.html?nodeId=200039420), [ Wish Lists](https://web.archive.org/gp/help/customer/display.html?nodeId=748390), [ Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=201468010) and [ Amazon Prime](https://web.archive.org/gp/help/customer/display.html?nodeId=200182130). 
-  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the previous version for our records. 
-  * If you don't want to receive e-mail or other mail from us, please adjust your [ Customer Communication Preferences](https://www.amazon.co.uk/gp/gss/ccp). (If you do not want to receive [ Conditions of Use & Sale](https://web.archive.org/gp/help/customer/display.html?nodeId=1040616) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) 
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as [ Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929740), [ Wish Lists](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201936660), [ Customer Reviews](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929880) and [ Amazon Prime](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201910250). 
+  * You can add or update certain information on pages such as those referenced in the [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html?nodeId=502584) section. When you update information, we usually keep a copy of the previous version for our records. 
+  * If you don't want to receive e-mail or other mail from us, please adjust your [ Customer Communication Preferences](https://www.amazon.co.uk/gp/gss/ccp). (If you do not want to receive [ Conditions of Use & Sale](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909000) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) 
   * If you don't want us to use personal information that we gather to allow third parties to personalise advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.co.uk/gp/advertising/oo). 
   * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.co.uk's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Amazon.co.uk products and services that require you to Sign in. 
 
@@ -96,15 +98,15 @@ Amazon.co.uk doesn't sell products for purchase by children. We sell children's 
 
 If you have any concern about privacy at Amazon.co.uk, please [contact us](https://www.amazon.co.uk/gp/help/contact-us/general-questions.html) with a thorough description and we will try to resolve the issue for you. 
 
-Our business changes constantly and our Privacy Notice and the [ Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html?nodeId=1040616) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+Our business changes constantly and our Privacy Notice and the [ Conditions of Use & Sale](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909000) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 ## Related Practices & Information
 
-  * [ Conditions of Use and Sale](https://web.archive.org/gp/help/customer/display.html?nodeId=1040616)
+  * [ Conditions of Use and Sale](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909000)
   * [Discussion Boards](https://www.amazon.co.uk/gp/forum/content/db-guidelines.html/)
-  * [Help Desk](https://web.archive.org/gp/help/customer/display.html?nodeId=471044)
+  * [Help Desk](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=508510)
   * [Most Recent Purchases](https://www.amazon.co.uk/gp/css/order-history)
-  * [Your Profile and Community Guidelines](https://web.archive.org/gp/help/customer/display.html?nodeId=200039740)
+  * [Your Profile and Community Guidelines](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929730)
 
 
 
@@ -112,7 +114,7 @@ Our business changes constantly and our Privacy Notice and the [ Conditions of U
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in [Your Account](https://www.amazon.co.uk/youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or your [Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile [ Wish Lists](https://web.archive.org/gp/help/customer/display.html?nodeId=748390) or other gift registries; participate in Discussion Boards or other community features; provide and rate [ Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=201468010); specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in [ 1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=201459800) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in your [ Your Profile](https://web.archive.org/gp/help/customer/display.html?nodeId=200039420); and financial information. 
+You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in [Your Account](https://www.amazon.co.uk/youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or your [Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929740); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile [ Wish Lists](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201936660) or other gift registries; participate in Discussion Boards or other community features; provide and rate [ Customer Reviews](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929880); specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in [1-Click](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201889370) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201929740); and financial information. 
 
 **Automatic Information**
 
@@ -120,7 +122,7 @@ Examples of the information we collect and analyse include: the Internet protoco
 
 **Mobile**
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [ click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201311040). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201311040). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
 
 **Information From Other Sources**
 
@@ -133,3 +135,25 @@ We may from time to time offer joint or co-branded products and services.
 **Information You Can Access**
 
 Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalised advertising preferences, address book and 1-Click settings); payment settings (including credit-card information and gift voucher, gift card and cheque balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries) Seller accounts and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders and personal profile). 
+
+## EU-US Privacy Shield
+
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+
+If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+
+As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
+
+You can review our Privacy Shield registration [here](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+## Amazon Group Companies
+
+As of September 30, 2016, the following entities are included in Amazon.com, Inc.'s Privacy Shield Certification:
+
+Amazon.com, Inc.
+
+Amazon Media Group LLC
+
+Amazon Web Services, Inc.
+
+Audible, Inc.
