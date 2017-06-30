@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125330id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215322id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
@@ -8,7 +8,7 @@
 
  
 
-**Updated: October 12th, 2016**
+**Updated: January 1, 2017**
 
 Kijiji’s website is a licensee of the TRUSTe Web Privacy Program.  In order to view our relationship with TRUSTe, please visit the validation page by clicking on the TRUSTe seal below. 
 
@@ -30,11 +30,11 @@ Table of contents
 
 **1.  General **
 
-This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the www.kijiji.ca website ("Kijiji" or "Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Marktplaats B.V. is the data controller. 
+This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the www.kijiji.ca website ("Kijiji" or "Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Kijiji Canada Ltd. is the data controller. 
 
 **Scope and consent:** By using Kijiji and related Services, you give explicit consent to Kijiji for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use. 
 
-Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of October 12th, 2016. 
+Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of January 1, 2017. 
 
 Kijiji is part of eBay Inc. and is therefore bound to the global privacy standards of eBay Inc. (Binding Corporate Rules). More information on how we handle your personal information and privacy can be found in the eBay Binding Corporate Rules that you can access through the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
 
@@ -81,7 +81,7 @@ If you provide us access to personal information stored on third party websites,
 **Transfer of your personal information to third parties:** We may disclose your personal information to third parties in accordance with this Privacy Policy and applicable legislation and regulations. As further described under Section 4, we will not disclose your personal information to third parties for their marketing purposes without your explicit consent. We may share your personal information with: 
 
   * _companies of the eBay Group_ to provide joint content and services (such as registration and customer support), to prevent, detect and investigate possible illegal activities, violations of our policy, fraud and/or data security breaches, and to support decision making on products, websites, applications, services, tools and communication. The eBay Group companies will only use this information to send you marketing messages when you yourself have requested their services, and they will use your personal information in accordance with their respective privacy policy. 
-  *  _service providers_ with whom we have entered into an agreement to help us provide our Services on the website, such as financial service providers, marketing agencies and technical support. In such cases, the personal information shall remain under the control of Marktplaats B.V. 
+  *  _service providers_ with whom we have entered into an agreement to help us provide our Services on the website, such as financial service providers, marketing agencies and technical support. In such cases, the personal information shall remain under the control of Kijiji Canada Ltd. 
   *  _certain third parties_ (such as intellectual property rights holders, supervisory authorities, tax authorities, police and other regulatory authorities) if we are required to do so by law, or in accordance with our Privacy Policy. We may share your personal information: 
 
 
@@ -104,6 +104,8 @@ Without limitation to the foregoing, we shall moreover - in our efforts to respe
 
 In case you visit our Website from a shared computer or a computer in an internet café, we strongly recommend that you log off after each session. If you do not want the shared computer to remember you and/or your credentials, you will need to remove cookies and/or the history of your website visits. 
 
+Your data controller may transfer data to other members of our corporate family as described in this Privacy Policy who may process and keep your personal information on servers in the European Union, United States and our data centers in other parts of the world.
+
 **4.  Marketing Purposes **
 
 You agree that we may use the information collected by us to send you offers, whether personalised or not, or to contact you by telephone regarding products or Services offered by Kijiji or companies of the eBay Group. 
@@ -120,9 +122,9 @@ When you use our Services, we and our service providers may place cookies (data 
 
 **7.  Accessing, Reviewing and Changing Your Personal Information **
 
-We cannot modify your personal information or account information. You can modify your own information by logging into your Kijiji account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request to us [here](https://web.archive.org/helpdesk/email-us/). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact [Customer Support](https://web.archive.org/helpdesk/email-us/) to access your personal information stored by us that is not directly accessible on Marktplaats, unless Marktplaats is not required to provide access under the Dutch Data Protection Act. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with the Dutch Data Protection Act. If you have any questions, please contact us with the subject line ‘Request Privacy Policy’: 
+We cannot modify your personal information or account information. You can modify your own information by logging into your Kijiji account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request to us [here](https://web.archive.org/helpdesk/email-us/). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact [Customer Support](https://web.archive.org/helpdesk/email-us/) to access your personal information stored by us that is not directly accessible on Kijiji, unless we are not required to provide access under applicable law. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with applicable law. If you have any questions, please contact us with the subject line ‘Request Privacy Policy’: 
 
-- by writing to Marktplaats BV, Attention: Kijiji Canada Customer Support, Wibautstraat 224, 1097 DN Amsterdam, the Netherlands. 
+- by writing to Kijiji Canada Ltd. Attention: Kijiji Canada Customer Support, 500 King St. W., Suite 200, Toronto, Ontario M5V 1L9.
 
 **8.  Protection and retention of your personal information **
 
