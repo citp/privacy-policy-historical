@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetclarity.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122083531id_/http%3A//www.sweetclarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetclarity.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630170457id_/http%3A//www.sweetclarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweet Clarity
 
