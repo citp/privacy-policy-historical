@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231184614id_/http%3A//www.sharethis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethis.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193050id_/https%3A//www.sharethis.com/privacy) for the most accurate reproduction.*
 
 # ShareThis - Privacy Notice
 
 ShareThis takes privacy seriously.  This Privacy Notice governs the main privacy principles and details we apply to the data we collect through the ShareThis social sharing tools.
 
 To access our Website Privacy Notice, which governs our corporate website only, please scroll down to the Website Privacy Notice Paragraph or click here. To access information for Publishers, please [click here](https://web.archive.org/publisher/).
+
+We are unable to process your opt-out request. If your cookies are disabled, please enable them and try again.
 
 ## About ShareThis Sharing Tools
 
@@ -26,7 +28,7 @@ You can browse the ShareThis corporate website (ShareThis.com) without providing
 
 ## Data Sharing or Disclosure
 
-We share non-personally identifiable usage data, including audience segments, with advertisers, publishers (website owners), and other data partners (all, our customers) for interest-based advertising, analytics and data modeling.
+We share non-personally identifiable usage data, including audience segments, with advertisers, publishers (websites with our ShareThis icon), and other data partners (all, our customers) for interest-based advertising, analytics and data modeling.
 
 ## Data Security and Retention
 
@@ -52,4 +54,4 @@ Palo Alto, CA 94304-1227
 
 Please note we may update or change this privacy notice.  If we revise our privacy notice, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  If we make material changes, we will notify you by means of a notice on this site prior to the change becoming effective.
 
-**Effective Date:  08-22-2016**
+**Effective Date:  08-22-2016, updated April 7, 2017**
