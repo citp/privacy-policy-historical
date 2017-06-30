@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616191358id_/http%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223158id_/http%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team Android
 
@@ -18,11 +18,11 @@ Like many other web sites, Team Android makes use of log files. The information 
 
 This site itself, does not use any cookies to store information. Third party service providers however may store information on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
 
-## \- DISQUS Comments
+## – DISQUS Comments
 
 Team Android uses Disqus Comments system to collect and manage comments on the blog. Disqus, as a third party service provider uses cookies to maintain your Disqus profile. You may easily opt out of the process by not posting a comment on the site.
 
-## \- DoubleClick DART Cookie
+## – DoubleClick DART Cookie
 
   * Google, as a third party vendor, uses cookies to serve ads on TeamAndroid.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to TeamAndroid.com and other sites on the Internet.
