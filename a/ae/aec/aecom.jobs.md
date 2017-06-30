@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the aecom.jobs privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128090139id_/http%3A//www.aecom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aecom.jobs privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630095034id_/http%3A//www.aecom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – AECOM
+# Privacy Policy
 
-Effective Date October 6, 2016
+Effective Date February 9, 2017
 
-**We have updated our Privacy Policy to include instructions on opting out of cookie tracking for our users.   We have not made any material changes to how we treat data collected through the use of this site.**
+**We have updated our Privacy Policy to   include a link to AECOM’s Data Privacy policy for data received through AECOM’s normal course of business. We have not made any material changes to how we treat data collected through the use of this site.**
 
-AECOM and its family of companies (“AECOM,” “we,” or “us”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices.  This Privacy Policy applies when you visit or use a website or other online service (collectively, the “Services”) that links or refers to it.
+AECOM and its family of companies (“AECOM,” “we,” or “us”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you visit or use a website or other online service (collectively, the “Services”) that links or refers to it.
+
+For AECOM’s Data Privacy Policy for data received in the normal course of business, please click [here](http://www.aecom.com/global-privacy-statement/).
 
 ## Information We Collect
 
