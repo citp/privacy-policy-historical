@@ -1,170 +1,170 @@
-> *The following text is extracted and transformed from the mary-mary.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060747id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mary-mary.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230706id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Privacy Policy | Sony Music
+# Data Policy
 
-This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-Sony Music has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. Please note that TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+###  What kinds of information do we collect? 
 
-We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-* * *
+Things you do and information you provide.
 
-Collection and Use of Personal Information
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
-Social Networks/Online Communities
+Things others do and information they provide.
 
-Transactions
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
-Information Sharing
+Your networks and connections.
 
-Choice/Opt-Out
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-Tracking Technologies
+Information about payments.
 
-Security
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-Updating Your Personal Information
+Device information.
 
-Consent to Processing
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-Additional Information
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-Changes to This Policy
 
-Your California Privacy Rights
 
-Questions About This Privacy Policy
+Information from websites and apps that use our Services.
 
-* * *
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
 
-**Collection and Use of Personal Information**
+Information from third-party partners.
 
-We may collect the following personal information from you:
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
 
-  * Contact information such as name, email address, street address, and phone number
-  * Billing information such as credit card number and billing address
-  * Demographic information such as age, gender, interests, country and zip code
-  * Unique identifiers such as user name and password
-  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
-  * Location information such as your actual or approximate location
+Facebook companies.
 
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
 
+###  How do we use this information? 
 
-We or one of our trusted partners may use this information to:
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
 
-  * Send you requested updates and newsletters about an artist, type of music or related special offers
-  * Send you requested product or service information
-  * Send a one-time email or e-card to your friends upon your request when you provide their email address
-  * Fulfill your order
-  * Send you an order confirmation
-  * Respond to customer service requests, questions and concerns
-  * Administer your account
-  * Process information submitted with a job application
-  * Send you marketing communications
-  * Administer promotions and sweepstakes you enter and notify you of the results
-  * Improve our marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your location and/or interests
-  * To provide location services such as “tagging” and “check-in”
+Provide, improve and develop Services.
 
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
 
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
 
-To help protect you and others, we monitor use of the Sites, and we use the information we collect, including personal information, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sites; ensure compliance with the applicable terms of service and this privacy policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Sony Music, its partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the Sites. If you do not consent to these conditions, you must discontinue your use of the Sites.
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
 
-We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
 
-**Social Networks/Online Communities**
+Communicate with you.
 
-We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](http://hub.sonymusic.com/about/feedback.php). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-**Transactions**
+Show and measure ads and services.
 
-You may purchase artists’ music or merchandise from some of our Site(s).  This Privacy Policy applies to any personal information you provide in connection with any such purchases.  In some instances, you may be directed to a third party site to initiate your transaction.  These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information.  You should refer to those policies for any privacy-related concerns regarding your purchase with them.
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://l.facebook.com/l.php?u=ATP1VH48pfrJIVo6jHJ8A0JxGLOAWq7RFgfA8_7swE9nWIqFM6IxJhWFSIVVcC2hrUYl0JjpF76Wk_JMXQZY0g&h=ATNqDb3K_OJb-XzKULUgYm9GHLtOtHXrb3l8pPm62PhmrGoONj2Fn2eT23MBdcKdWSFKf90paVIpAdrajhFnpi-KHprIhuMh37g9SW97lVJFhti6hfuY6KmRYfzcVKmhDoEMyQ&s=1) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
-**Information Sharing**
+Promote safety and security.
 
-We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising.  These companies are authorized to use your personal information only as necessary to provide these services.
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
 
-We may also share your personal information:
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/policies/cookies/) to learn more. 
 
-  * With Sony Music affiliates and representatives of our current recording artists
-  * With affiliated Sony Group companies (i.e. any company in which Sony Corporation of America owns, directly or indirectly, 50% or more of its outstanding shares and any company with the name “SONY” as part of its trade name)
-  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
-  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
-  * As required by law, such as to comply with a subpoena or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
-  * In connection with a corporate change including a merger, acquisition or sale of assets
-  * To any other third party with your prior consent to do so
+###  How is this information shared? 
 
+Sharing On Our Services
 
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
 
-**Choice/Opt-Out**
+People you share and communicate with.
 
-You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
 
-If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with “STOP.” You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
 
-If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
 
-**Tracking Technologies**
+People that see content others share about you.
 
-We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
 
-We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information.  This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+Apps, websites and third-party integrations on or using our Services.
 
-We and some of our third party partners use Flash cookies to store some of your preferences or personal information.  For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
 
-In some of our email messages, we use “click-through URLs” or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications.  This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
 
-**Security**
+Sharing within Facebook companies.
 
-The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information.  We encourage you to read that privacy statement before providing your information.
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
+New owner.
 
-**Updating Your Personal Information**
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
 
-Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
+Sharing With Third-Party Partners and Customers
 
-To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
 
-If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](http://hub.sonymusic.com/about/feedback.php).
+Here are the types of third parties we can share information with about you: 
 
-**Consent to Processing**
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
 
-Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
 
-**Additional Information**
+Please review your [advertising preferences](https://web.archive.org/help/562973647153813/) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
 
-Widgets – Our Site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, “liking” or sharing content, etc.), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
+Vendors, service providers and other partners.
 
-Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
 
-Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) immediately and this information will be removed.
+###  How can I manage or delete information about me? 
 
-For more information on how to protect your children online:
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
 
-**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
 
-**Changes To This Policy**
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
 
-By using our Site(s), you agree to the terms of this Privacy Policy.  We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective.  Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
+###  How do we respond to legal requests or prevent harm? 
 
-**Your California Privacy Rights**
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
 
-If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](http://hub.sonymusic.com/about/feedback.php). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
+###  How our global services operate 
 
-**Questions About This Privacy Policy**
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries. 
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMcwJ5ShW3s3JXNPsFtmoRUI0xGN9YOMyVifJGloEwFRUjPRrK_fPUWGQ8hBT4PwSDwch3axKWxHmugRVP72hmvib3ixNCO72Ljce73AX7iuPXvHLA-tosl2cWun-4_Xl8L&s=1). 
 
-Sony Music Entertainment 550 Madison Avenue, Room 2316
+###  How will we notify you of changes to this policy? 
 
-New York, NY 10022
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
 
-Or you can [click here](http://sonymusiccom.sme.devel.i.smehost.net/about/feedback.php) to submit feedback online.
+###  How to contact Facebook with questions 
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications.
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: September 29, 2016 
