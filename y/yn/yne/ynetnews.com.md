@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626143403id_/http%3A//www.ynetnews.com/home/1%2C7340%2CL-3126%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230226id_/http%3A//www.ynetnews.com/articles/0%2C7340%2CL-3048313%2C00.html) for the most accurate reproduction.*
 
-# Privacy Policy - Israel Homepage, Ynetnews
+# Ynetnews Homepage - Privacy Policy
 
 Yedioth Internet respects the privacy of users of the Internet sites, which it manages and operates, including Ynet and Ynetnews (these sites shall be hereinafter referred to, for convenience, as “Ynet Sites” or the “Sites”). This statement explains the accepted privacy policy for the Sites. It gives an overview, inter alia, of the way in which Yedioth Internet uses information provided thereto by the users of the Sites or collected thereby during the use of the Sites.
 
