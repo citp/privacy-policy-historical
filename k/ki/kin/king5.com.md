@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231231543id_/http%3A//www.king5.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223207id_/http%3A//www.king5.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Notice / Your California Privacy Rights | KING5.com
 
