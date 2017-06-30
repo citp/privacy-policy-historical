@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060434id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630131546id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy | Quantcast
 
@@ -130,7 +130,7 @@ We contractually require our Quantcast Partners to ensure that their sites and a
 
 The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 795 Folsom Street, San Francisco, CA 94107. Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.
 
-The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at 10-12 Hogan Place, Grand Canal St, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
+The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at Beaux Lane House, Lower Mercer Street, 1st Floor, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
 
 ### Our Memberships and Affiliations
 
@@ -157,7 +157,7 @@ Email: [privacy@quantcast.com](mailto:privacy@quantcast.com)
 Persons outside of the United States, please contact:
 
 Quantcast International Limited  
-10-12 Hogan Place,  
-Grand Canal Street,  
+Beaux Lane House  
+Lower Mercer Street, 1st Floor  
 Dublin 2, Ireland  
 Email: [privacy.qil@quantcast.com](mailto:privacy.qil@quantcast.com)
