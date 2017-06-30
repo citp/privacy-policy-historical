@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128204850id_/http%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201719id_/http%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mysterious Universe
-
-## Privacy Policy
 
 It’s important to Mysterious Universe to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
