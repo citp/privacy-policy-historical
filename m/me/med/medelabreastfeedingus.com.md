@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126014336id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630142802id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medela
 
@@ -9,13 +9,13 @@
 
 
 
-Medela, Inc. has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to adhering to federal and state privacy laws and industry guidelines in order to protect your privacy.  This Privacy Policy discloses our information gathering and dissemination practices for the site available at [www.Medela.com](http://www.medela.com/) and any related services or applications owned by Medela, Inc. (this “Site”).  This Privacy Policy applies only to this Site, not to any other web sites that may be accessible from here.  Please note that when you access any external links from this Site, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
+Medela LLC has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to adhering to federal and state privacy laws and industry guidelines in order to protect your privacy.  This Privacy Policy discloses our information gathering and dissemination practices for the site available at [www.Medela.com](http://www.medela.com/) and any related services or applications owned by Medela LLC (this “Site”).  This Privacy Policy applies only to this Site, not to any other web sites that may be accessible from here.  Please note that when you access any external links from this Site, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
 **By clicking the “I Agree” button or by otherwise accessing any material on this Site or using any of the services provided, you agree to the terms of this Privacy Policy.  When you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy.  If you do not agree, please do not use or access this Site or our services.**
 
 **Please remember that this Privacy Policy applies only to information collected by our Site.   We are not responsible for the privacy of any information you reveal or post in any public forum (e.g., message board, blog, personal page, etc.) or through any public feature available on our Site, or for the privacy practices of websites that are operated or owned by third parties.  **
 
-By visiting this Site, you accept that your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions).  If you have any concern about a privacy issue, please contact us as directed in this Privacy Policy.  Medela, Inc. reserves the right to update this Privacy Policy.
+By visiting this Site, you accept that your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions).  If you have any concern about a privacy issue, please contact us as directed in this Privacy Policy.  Medela LLC reserves the right to update this Privacy Policy.
 
 **What Personal Information Do We Gather From Those Who Visit Our Site?**
 
@@ -27,20 +27,20 @@ We collect and store any information you enter on our Site, or provide to us in 
 
 Information is collected from visitors to the Site in the following areas:
 
-  * **Registration Forms  
-****** If you choose to register for the Site, or for specific events, contests and newsletters on various areas of the Site, we will generally ask you to provide both personal and demographic information, such as contact information and preferences regarding the event or material for which you desire to register, most of which is required to complete the registration.  We will inform you which information is optional.  You may visit our Site without registering, but you may not be able to access certain areas or services.
-  * **Order Forms  
-**Some areas of the Site may allow you to order products or services, whether or not for a fee.  In connection with these transactions, we collect data necessary to complete the transaction and that is furnished by you.  This may include contact information, date of birth, email address, telephone number and your credit card number.  We may also collect information about gift recipients so that we can fulfill a gift purchase.
-  * **Surveys  
-****** At times, you may be asked to complete survey questions that appear on the Site.
+  * **Registration Forms**  
+If you choose to register for the Site, or for specific events, contests and newsletters on various areas of the Site, we will generally ask you to provide both personal and demographic information, such as contact information and preferences regarding the event or material for which you desire to register, most of which is required to complete the registration.  We will inform you which information is optional.  You may visit our Site without registering, but you may not be able to access certain areas or services.
+  * **Order Forms**  
+Some areas of the Site may allow you to order products or services, whether or not for a fee.  In connection with these transactions, we collect data necessary to complete the transaction and that is furnished by you.  This may include contact information, date of birth, email address, telephone number and your credit card number.  We may also collect information about gift recipients so that we can fulfill a gift purchase.
+  * **Surveys**  
+At times, you may be asked to complete survey questions that appear on the Site.
   * **Employment Applications**  
-You may submit information related to job opportunities with Medela, Inc.
+You may submit information related to job opportunities with Medela LLC.
   * **Discussion Forums**  
 We may make chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
   * **Wish Lists**  
 We may allow you to create Wish Lists of Medela products that can be shared with family and friends by email. To send those emails, we will collect the email addresses that you give us in order to send the Wish List information to your friends and family.  ****
-  * **Email  
-**On several screens of our Site, you also have an opportunity to communicate with us by email. You may also choose to provide your email address to receive communications from us or third parties.
+  * **Email**  
+On several screens of our Site, you also have an opportunity to communicate with us by email. You may also choose to provide your email address to receive communications from us or third parties.
   * **Information We Automatically Collect**  
 When you browse and navigate through our Site, certain information may be passively collected (that is, gathered without you actively providing the information) using various technologies and means. Like most web site operators, we track IP addresses (the Internet address of your computer), the web pages visited and the time of visits, and other clickstream data.  The only other type of information automatically provided to us is the type of computer, operating system and browser you are using.  This information is provided by your browser, which we use to improve the performance of our Site. ****  
 We may also place small data files, called “cookies”, in the browser file of your computer’s hard drive.  These cookies automatically identify your browser to our server whenever you interact with the Site.  We use the cookies to record Site statistics.  Most browsers automatically accept the cookies, but you usually can change your browser setting to prevent the acceptance of cookies.  Certain web pages may not function properly if you choose not to accept cookies.  
@@ -112,8 +112,7 @@ You have some choices in the way that we use and share information as we:
   * Do research
   * Comply with the law
   * Address workers’ compensation, law enforcement, and other government requests
-  * Respond to lawsuits and legal actions **  
-**
+  * Respond to lawsuits and legal actions
 
 
 
@@ -123,52 +122,52 @@ You have some choices in the way that we use and share information as we:
 
 **Get a copy of health and claims records**
 
-·         You can ask to see or get a copy of your health and claims records and other health information we have about you. Ask us how to do this. 
+{C}·         You can ask to see or get a copy of your health and claims records and other health information we have about you. Ask us how to do this. 
 
-·         We will provide a copy or a summary of your health and claims records, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
+{C}·         We will provide a copy or a summary of your health and claims records, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
 
 **Ask us to correct health and claims records**
 
-·         You can ask us to correct your health and claims records if you think they are incorrect or incomplete. Ask us how to do this.
+{C}·         You can ask us to correct your health and claims records if you think they are incorrect or incomplete. Ask us how to do this.
 
-·         We may say “no” to your request, but we’ll tell you why in writing within 60 days.
+{C}·         We may say “no” to your request, but we’ll tell you why in writing within 60 days.
 
 **Request confidential communications**
 
-·         You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address. 
+{C}·         You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address. 
 
-·         We will consider all reasonable requests, and must say “yes” if you tell us you would be in danger if we do not.
+{C}·         We will consider all reasonable requests, and must say “yes” if you tell us you would be in danger if we do not.
 
 **Ask us to limit what we use or share**
 
-·         You can ask us not to use or share certain health information for treatment, payment, or our operations. 
+{C}·         You can ask us not to use or share certain health information for treatment, payment, or our operations. 
 
-·         We are not required to agree to your request, and we may say “no” if it would affect your care.
+{C}·         We are not required to agree to your request, and we may say “no” if it would affect your care.
 
 **Get a list of those with whom we’ve shared information**
 
-·         You can ask for a list (accounting) of the times we’ve shared your health information for six years prior to the date you ask, who we shared it with, and why.
+{C}·         You can ask for a list (accounting) of the times we’ve shared your health information for six years prior to the date you ask, who we shared it with, and why.
 
-·         We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make).  We’ll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
+{C}·         We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make).  We’ll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
 
 **Get a copy of this privacy notice**
 
-·         You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly. **  
-**** **
+{C}·         {C}{C}You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly.  
+** **
 
 **Choose someone to act for you**
 
-·         If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.
+{C}·         If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.
 
-·         We will make sure the person has this authority and can act for you before we take any action.
+{C}·         We will make sure the person has this authority and can act for you before we take any action.
 
 **File a complaint if you feel your rights are violated**
 
-·         You can complain if you feel we have violated your rights by contacting us using the information at the end of this Privacy Policy.
+{C}·         You can complain if you feel we have violated your rights by contacting us using the information at the end of this Privacy Policy.
 
-·         You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)
+{C}·         {C}{C}You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)
 
-·         We will not retaliate against you for filing a complaint.
+{C}·         We will not retaliate against you for filing a complaint.
 
 **More About Your Choices**
 
@@ -176,15 +175,15 @@ You have some choices in the way that we use and share information as we:
 
 In these cases, you have both the right and choice to tell us to:
 
-·         Share information with your family, close friends, or others involved in payment for your care
+{C}·         Share information with your family, close friends, or others involved in payment for your care
 
 _If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest.  We may also share your information when needed to lessen a serious and imminent threat to health or safety._
 
 In these cases we _never_ share your information unless you give us written permission:
 
-·         Marketing purposes
+{C}·         Marketing purposes
 
-·         Sale of your information
+{C}·         Sale of your information
 
 **More About Our Uses and Disclosures**
 
@@ -194,7 +193,7 @@ We typically use or share your health information in the following ways:
 
 **Run our organization**
 
-·         We can use and disclose your information to run our organization and contact you when necessary. 
+{C}·         We can use and disclose your information to run our organization and contact you when necessary. 
 
 _Example: We use health information about you to develop better services for you._
 
@@ -241,7 +240,7 @@ We can change the terms of this notice, and the changes will apply to all inform
 
 **Links to other sites**
 
-We may create links to other web sites that we think may be of interest to you. These links are provided solely as a convenience to users and should not be construed as an affiliation with such sites.  We do not endorse or review any of the content, items or services on any other web sites including any website we link to, or any website that may link to our website, and our Privacy Policy applies only to your use of our Site.  You access and use such other sites, including the content, items and services on those sites, solely at your own risk.  These linked sites may collect personally identifiable information from you. Medela, Inc. has not reviewed, has no control over and is not responsible for these other sites, their content (including any references to or statements regarding Medela or its products), collection of information or their privacy policies.  We have not reviewed the privacy policies of any web sites we link to our Site, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.  If you would like information on any other party’s privacy policy, you should contact that party directly.  Medela, Inc. makes no representations or warranties with respect to the content, ownership or legality of any such linked site.  You acknowledge and agree that Medela, Inc. has no responsibility or liability for the availability of such external sites, or for the content, advertising, products or other materials available through such sites. 
+We may create links to other web sites that we think may be of interest to you. These links are provided solely as a convenience to users and should not be construed as an affiliation with such sites.  We do not endorse or review any of the content, items or services on any other web sites including any website we link to, or any website that may link to our website, and our Privacy Policy applies only to your use of our Site.  You access and use such other sites, including the content, items and services on those sites, solely at your own risk.  These linked sites may collect personally identifiable information from you. Medela LLC has not reviewed, has no control over and is not responsible for these other sites, their content (including any references to or statements regarding Medela or its products), collection of information or their privacy policies.  We have not reviewed the privacy policies of any web sites we link to our Site, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.  If you would like information on any other party’s privacy policy, you should contact that party directly.  Medela LLC makes no representations or warranties with respect to the content, ownership or legality of any such linked site.  You acknowledge and agree that Medela LLC has no responsibility or liability for the availability of such external sites, or for the content, advertising, products or other materials available through such sites. 
 
 **Social Media sites**
 
@@ -249,21 +248,21 @@ Our Site may contain links to third party social media sites, such as Facebook, 
 
 **Security**
 
-We have put in place physical, electronic, and managerial procedures to attempt to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.  However, please remember that no transmission of data over the Internet or any wireless network can be guaranteed to be 100% secure.  As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us or from us, and you do so at your own risk.  When you place an order or access your personal information, we offer the use of a secure server.  Once we receive your transmission, we use our best efforts to ensure its security on our systems.  Medela, Inc., however, will have no liability for disclosure of information obtained due to errors in transmissions or the unauthorized intervention of third parties.  The safety and security of your information also depends on you.  If you have access to password-protected features, never share your password with anyone else, notify us promptly if you believe your password security has been breached, and remember to log off of this Site before you leave your computer.  Any personally identifiable information or sensitive data that you disclose through any discussion boards or other public online forums hosted on this Site, may be collected and used by others.  We recommend caution when giving out personal information to others in these public online forums.  When you provide information on these forums, you do so at your own risk.  The information you share may be viewed by any other user of this Site.
+We have put in place physical, electronic, and managerial procedures to attempt to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.  However, please remember that no transmission of data over the Internet or any wireless network can be guaranteed to be 100% secure.  As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us or from us, and you do so at your own risk.  When you place an order or access your personal information, we offer the use of a secure server.  Once we receive your transmission, we use our best efforts to ensure its security on our systems.  Medela LLC, however, will have no liability for disclosure of information obtained due to errors in transmissions or the unauthorized intervention of third parties.  The safety and security of your information also depends on you.  If you have access to password-protected features, never share your password with anyone else, notify us promptly if you believe your password security has been breached, and remember to log off of this Site before you leave your computer.  Any personally identifiable information or sensitive data that you disclose through any discussion boards or other public online forums hosted on this Site, may be collected and used by others.  We recommend caution when giving out personal information to others in these public online forums.  When you provide information on these forums, you do so at your own risk.  The information you share may be viewed by any other user of this Site.
 
-**Changes in Medela, Inc.’s Privacy Policy**
+**Changes in Medela LLC's Privacy Policy**
 
 You should review this Privacy Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use this Site.  Remember, by using our Site, you consent to our collection and the use of your personal information as described in this Privacy Policy.  If we change our privacy procedures, we will post these changes on our Site.  You have the opportunity to review our Privacy Policy each time you use the Site so that you are aware of any modifications made to these policies.  Your continued use of the Site (following posting of the revised Privacy Policy) means that you accept and agree to the terms of the revised Privacy Policy. 
 
 **Choice/Opt Out**
 
-Our Site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.  If you have submitted personally identifiable information through the Site, or if someone else has submitted your Personally Identifiable Information through the Site, and you would like to have that information deleted from our marketing databases, please contact us via email.  We will then use reasonable efforts to remove your personally identifiable information from our files.  You also may contact us to request the Personally Identifiable Information that Medela, Inc. has collected about you through the Site.  Medela, Inc. will use commercially reasonable efforts to supply you with this information and correct any factual inaccuracies in this information.  You have the following options for reviewing or removing your information from our database to no longer receive communication from us.  If you request your account information be deleted from our database, we may maintain information about individual sales transactions for recordkeeping and servicing.
+Our Site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.  If you have submitted personally identifiable information through the Site, or if someone else has submitted your Personally Identifiable Information through the Site, and you would like to have that information deleted from our marketing databases, please contact us via email.  We will then use reasonable efforts to remove your personally identifiable information from our files.  You also may contact us to request the Personally Identifiable Information that Medela LLC has collected about you through the Site.  Medela LLC will use commercially reasonable efforts to supply you with this information and correct any factual inaccuracies in this information.  You have the following options for reviewing or removing your information from our database to no longer receive communication from us.  If you request your account information be deleted from our database, we may maintain information about individual sales transactions for recordkeeping and servicing.
 
 1.     You can send an email from our [Privacy Email Submission Form](https://www.medelabreastfeedingus.com/privacy-policy-email).
 
 2.     You can send mail to the following postal address:
 
-_Medela, Inc.  
+_Medela LLC  
 Attn: Privacy Policy  
 1101 Corporate Dr.  
 McHenry, IL 60050_
@@ -274,7 +273,7 @@ Please note that due to email production schedules, you may receive an email mes
 
 This Site is not intended for children under the age of 13.  We will not knowingly collect personally identifiable information from site visitors in this age group.  We encourage parents to talk to their children about their use of the Internet and the information they disclose online.  If a child has provided us with Personally Identifiable Information, a parent or guardian of that child may contact us via email at the above email address if they would like this information deleted from our records.  We will use reasonable efforts to delete the child's information from our databases.
 
-**  
-****Questions About Our Privacy Policy**
+  
+**Questions About Our Privacy Policy**
 
 If you have questions about our Site and our Privacy Policy or [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions), please feel free to contact us by filling out our [Privacy Email Submission Form](https://www.medelabreastfeedingus.com/privacy-policy-email).  The revised Privacy Policy will be posted on this Site If the Privacy Policy changes.  Please check back periodically, and especially before you provide any Personally Identifiable Information.  Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law.
