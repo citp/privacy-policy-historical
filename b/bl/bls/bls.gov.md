@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051136id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150754id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement : U.S. Bureau of Labor Statistics
 
@@ -8,7 +8,7 @@ The BLS does not collect personally identifying information about you when you v
 
 ### If you respond to an online request for personal information
 
-Generally, the information requested by the BLS will be used to respond to your inquiry or to provide you with better service. When BLS requests this information, the reasons for collecting it and the intended use of the information are explained in a customized "Privacy Notice." This Privacy Notice will appear on the webpage collecting the information or be accessible through a link displayed immediately preceding the information request. 
+Generally, the information requested by the BLS will be used to respond to your inquiry or to provide you with better service. When BLS requests this information, the reasons for collecting it and the intended use of the information are explained in a customized "Privacy Notice." This Privacy Notice will appear on the webpage collecting the information or be accessible through a link displayed immediately preceding the information request.
 
 ### When you visit the BLS website, we collect and store the following information
 
@@ -41,14 +41,14 @@ The BLS uses an automated spam filtering system on all email messages entering t
 
 The BLS employs "cookies" to provide better service to our customers. We do not use cookies to collect any personally identifying information from users or to track user activities beyond our website. This means that when you visit a page on bls.gov, the web browser on your computer may download and save a small file from bls.gov so that our website can recognize your specific browser when you use bls.gov in the future.
 
-Cookies fall into two categories, based on the length of time they remain active: 
+Cookies fall into two categories, based on the length of time they remain active:
 
   * Session cookies last only as long as a web browser is open. Once the browser is closed, the data files on your computer are deleted.
   * Persistent cookies last beyond a single session of browsing. These cookies allow a website to recognize a computer or user for a defined amount of time.
 
 
 
-The BLS website uses the following web measurement and customization technologies, as directed by the Office of Management and Budget's Guidance for Online Use of Web Measurement and Customization Technologies ([OMB M-10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)): 
+The BLS website uses the following web measurement and customization technologies, as directed by the Office of Management and Budget's Guidance for Online Use of Web Measurement and Customization Technologies ([OMB M-10-22](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)):
 
   * Session cookies are used for technical purposes, such as remembering your time series selections from one page to another while using the BLS data query tools. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
   * Session cookies are used to track the number of pages you have viewed before showing you a customer satisfaction survey. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
