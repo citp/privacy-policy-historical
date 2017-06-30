@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226233534id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134701id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
 
 # Ohio.gov | Policies | Privacy Notice
 
 ### Revised April 2016
 
-The Ohio Internet Portal, www.Ohio.gov, is a service provided by the Ohio Department of Administrative Services (DAS) Office of Information Technology. We recognize the importance of privacy to our website visitors. This privacy notice applies only to www.Ohio.gov. Any Ohio.gov website with an additional agency or other name immediately to the left of Ohio.gov is maintained by another Ohio government agency and is governed by the policies of that agency. For example, [www.jfs.ohio.gov](http://www.jfs.ohio.gov/) has its own [privacy statement](http://jfs.ohio.gov/ocomm_root/privacy.stm).
+The Ohio Internet Portal, www.Ohio.gov, is a service provided by the Ohio Department of Administrative Services (DAS) Office of Information Technology. We recognize the importance of privacy to our website visitors. This Privacy Notice & Policies applies only to www.Ohio.gov. Any Ohio.gov website with an additional agency or other name immediately to the left of Ohio.gov is maintained by another Ohio government agency and is governed by the policies of that agency. For example, [www.jfs.ohio.gov](http://www.jfs.ohio.gov/) has its own [privacy statement](http://jfs.ohio.gov/ocomm_root/privacy.stm).
 
 Visitors to www.Ohio.gov should be aware of the following information:
 
