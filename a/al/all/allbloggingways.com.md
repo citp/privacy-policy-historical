@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbloggingways.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117174340id_/http%3A//www.allbloggingways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbloggingways.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630112752id_/http%3A//www.allbloggingways.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Blogging ways
 
@@ -33,5 +33,3 @@ If you wish to disable cookies you may do so through your web browser options. I
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from ABW. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
 If you require any more information or have any questions about our privacy policy please feel free to contact us by Contact us form.
-
-_Last Updated: 14 July, 2013_
