@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015233id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630025325id_/http%3A//www.care2.com/help/general/privacy.html) for the most accurate reproduction.*
 
 # Care2 / ThePetitionSite.com Privacy Policy
 
-Last Updated: 08/31/2016
+Last Updated: 2017-01-06
 
 Care2.com ("Care2") takes seriously the issue of safeguarding your privacy online. This privacy policy applies to the two websites owned and operated by Care2: Care2.com and ThePetitionSite.com. This privacy policy describes how Care2 collects and uses the personal information you provide on both websites.
 
 Residents of the EU can see the [Care2 EU-US Privacy Shield policy](https://web.archive.org/help/general/privacy-shield.html).
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=999f836e-3781-492e-8eb7-20ef5fcc57cf "TRUSTe Privacy Certification")
-
-Care2.com has received the TRUSTe Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with [the TRUSTe program](http://www.truste.com/privacy-program-requirements/). The TRUSTe program does not cover information that may be collected through software downloaded from the site. The TRUSTe program covers only information that is collected through the Care2.com and ThePetitionSite.com websites. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.
 
 When visiting a website displaying the TRUSTe Trustmark, you will be notified of what personally identifiable information of yours is collected:
 
@@ -23,7 +21,9 @@ When visiting a website displaying the TRUSTe Trustmark, you will be notified of
 
 
 
-Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](http://www.care2.com/help/support). If Care2 has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please [click here to contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
+Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](http://www.care2.com/help/support). 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Privacy Questions
 
@@ -127,11 +127,11 @@ Users should always be aware that any personally identifiable information submit
 
 ### Will Care2 disclose any of my personal information?
 
-Care2 will share your personal information with third parties only in the ways that are described in this privacy policy. Care2 will only disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, such as to comply with a subpoena, or similar legal process, or to protect the rights or property of Care2, or as necessary to provide personalized Care2 member services. If Care2 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Care2 may also disclose your personal information, including name and contact information in some limited circumstances such as when you specifically opt to receive a 3rd party newsletter. We may also provide information to trusted partners who work on behalf of or with Care2 under confidentiality agreements. These companies may use your personal information to communicate with you about offers from Care2 and our marketing partners. However, these companies do not have any independent right to share this information or use for any other purposes other than to provide these services to us. If you do not want us to share your personal information with these companies, contact us through our [Help Request Form](http://www.care2.com/help/support). Under confidentiality agreements, Care2 may also match user information with third-party data. Also, Care2 does disclose aggregated user statistics (for example, _X% of our users are female_ ) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+Care2 will share your personal information with third parties only in the ways that are described in this privacy policy. In certain situations, Care2 may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Care2 will only disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, such as to comply with a subpoena, or similar legal process, or to protect the rights or property of Care2, or as necessary to provide personalized Care2 member services. If Care2 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Care2 may also disclose your personal information, including name and contact information in some limited circumstances such as when you specifically opt to receive a 3rd party newsletter. We may also provide information to trusted partners who work on behalf of or with Care2 under confidentiality agreements. These companies may use your personal information to communicate with you about offers from Care2 and our marketing partners. However, these companies do not have any independent right to share this information or use for any other purposes other than to provide these services to us. If you do not want us to share your personal information with these companies, contact us through our [Help Request Form](http://www.care2.com/help/support). Under confidentiality agreements, Care2 may also match user information with third-party data. Also, Care2 does disclose aggregated user statistics (for example, _X% of our users are female_ ) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
 ### How do I change or delete my personal information?
 
-To make changes to your name, password, address, subscriptions and other account information, simply [visit the My Settings page](http://www.care2.com/accounts/index.html). Select the appropriate function(s) there to make your desired change(s). For other changes, or to request deletion of your information, please contact us using our [Help Request Form](http://www.care2.com/help/support). We will respond to your request within a reasonable time.
+Upon request, Care2 will provide you with information about whether we hold any of your personal information. To make changes to your name, password, address, subscriptions and other account information, simply [visit the My Settings page](http://www.care2.com/accounts/index.html). Select the appropriate function(s) there to make your desired change(s). For other changes, or to request deletion of your information, please contact us using our [Help Request Form](http://www.care2.com/help/support). We will respond to your request within a reasonable time.
 
 ### Will Care2 use my information for direct e-mailings?
 
@@ -145,20 +145,14 @@ Regardless of the above, Care2 may send occasional emailed messages, such as cri
 
 Care2 also offers optional mailings from our partner nonprofit organizations and from commercial entities. If you elect to receive any of these newsletters, some personal information, including your name and email address, will be sent to the respective nonprofit or commercial entity delivering the newsletter. In these cases, Care2 would no longer be able to track and control the user information. The user would be able to contact the newsletter publishers in order to control subscription preferences.
 
-### Does Care2 use cookies and other Tracking Technologies?
+### Does Care2 use Tracking Technologies?
 
 Yes, cookies and other tracking technologies are used on Care2 in several ways.
 
   1. As is true of most web sites, Care2.com gathers certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information collected about site visitors.
-  2. We use cookies to be reminded of whom you are and to access your account information (stored on our computers) to deliver a better and more personalized service to you. Users can control the use of cookies at the individual browser level. If you elect to disable cookies on web browser, you may be unable to use certain Care2 site features that require membership, such as changing your subscriptions, notifications, and other preferences.
-  3. Technologies such as cookies, beacons, tags and scripts are used by Care2 and our advertising partners, affiliates, and analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-  4. We use "local storage" in users' web browsers to store user preferences and to personalize the user's site visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use local storage and/or LSO (Local Shared Objects) and/or "Flash cookies" to store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html).
+  2. Care2 and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 
-
-Various browsers may offer their own management tools for removing HTML5 "local storage" data. For more information on this topic, you could do a web search for "remove local storage data."
-
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/).
 
 ### Does Care2 sell e-mail addresses to advertisers?
 
@@ -180,7 +174,7 @@ Although we maintain strict policies and procedures to safeguard our servers and
 
 ### What is Care2's data retention policy?
 
-Our data retention policy varies depending on the business and system needs, but remains in harmony with the other policies stated here. Our business systems and databases are securely stored and archived for disaster recovery purposes.
+We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
 
 ### What else should I know about my privacy?
 
