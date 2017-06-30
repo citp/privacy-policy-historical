@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043243id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231024id_/http%3A//mashable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Untitled Document
+[](https://privacy.truste.com/privacy-seal/validation?rid=c388a752-6e34-40cb-b9ba-5d6a30659cf6)
 
-[](https://privacy.truste.com/privacy-seal/Mashable/validation?rid=beb4150d-8017-48b5-ab23-9d0bc81d7981 "TRUSTe European Safe Harbor certification")
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=12bc8a80-e62f-40c8-a668-9e710bf17c33 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=eb569be1-e6e6-40d5-a927-c4036426642c)
 
 **Mashable Privacy Policy**
 
-This Privacy Policy was last updated on September 28, 2016.
+This Privacy Policy was last updated on June 26, 2017.
 
-We take your privacy very seriously and are committed to being transparent with how we use your information. This website ([www.mashable.com](http://www.mashable.com/)), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (<http://mashable.com/terms/>) and Cookies Policy (<http://mashable.com/cookie-policy>).
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website ([www.mashable.com](http://www.mashable.com/)), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use (<http://mashable.com/terms/>), Cookies Policy (<http://mashable.com/cookie-policy>) and the Copyright Policy (<http://mashable.com/copyright-policy>).
 
 **Our Privacy Policy explains:**
 
@@ -27,21 +25,7 @@ We take your privacy very seriously and are committed to being transparent with 
 
 By using our website, mobile application and services, you consent to our collection and use of your personal data described in this Privacy Policy. If you have any questions about this Privacy Policy or would like to know more about what information we collect and store, please contact us at: [privacy@mashable.com](mailto:privacy@mashable.com).
 
-_For users located in the EU and the US:_ Mashable complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Mashable has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mashable's certification, please visit http://www.export.gov/safeharbor/
-
-Mashable participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mashable is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list). 
-
-Mashable is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mashable complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Mashable is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Mashable may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
-
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) , you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-_For users located in APEC participating economies:_
-
-Company’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System.
+Mashable’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
 
 **Information we collect**
 
@@ -76,7 +60,7 @@ We use cookies to remember users' settings (e.g. geographic location) and for au
 The use of cookies on our website is governed by our [Cookie Policy](http://mashable.com/cookie-policy).
 
 **Behavioral Targeting/Re-Targeting**  
-We and our service providers may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our site, to limit the number of times you see the same ad on our site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
+We and our service providers, marketing partners, and affiliates may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our site, to limit the number of times you see the same ad on our site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
 
 Please visit the links below to opt-out of cookies from over 50+ major third party behavioral advertising providers:
 
@@ -157,7 +141,7 @@ These companies are authorized to use your personal information _only as necessa
 Please note that third party recipients of your personal information may be located in United States, United Kingdom and Australia.
 
 **Frames**  
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to [www.mashable.com](http://mashable.com/)
+Some of our pages utilize framing techniques to serve content from our partners while preserving the look and feel of our site. Please be aware that you may be providing your personal information to these third parties and not to [www.mashable.com](http://mashable.com/)
 
 **Comments Section / Forum**  
 Our website offers publicly accessible comments section or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our comments section or community forum, contact us at_[privacy@mashable.com](mailto:privacy@mashable.com).  
