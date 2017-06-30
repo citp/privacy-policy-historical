@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229115953id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630092402id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science | AAAS
 
@@ -56,11 +56,15 @@ We do not disclose to third parties your personal information, combined personal
 
 1\. We may disclose such information to third parties if you consent to such disclosure. For example we may use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third party.
 
-2\. We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+2\. We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments (see below for further details), and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
 
 3\. We may disclose such information if legally required to do so, if requested to do so by a governmental entity, or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of AAAS; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
 4\. We may disclose and transfer such information to a third party who acquires all or a substantial portion of the _Science_ business, whether such acquisition is by way of merger, consolidation, or purchase of all or a substantial portion of our assets. In addition, in the event any one or all of the _Science_ Websites become the subject of a bankruptcy proceeding, whether voluntary or involuntary, the AAAS or its trustee in bankruptcy may sell, license, or otherwise dispose of such information in a transaction approved by the bankruptcy court. The AAAS may also share aggregated anonymous information about visitors to _Science_  Websites with its clients, partners, and other third parties so that they may understand the kinds of visitors to the _Science_  Websites and how those visitors use the site.
+
+**Payment Processing**
+
+We may utilize third party payment services to enable you to purchase certain products or services from the _Science_ Websites, for example, when you purchase back issues of _Science_ through our authorized provider.  In such cases you will be directed to a third party service provider's website operated by that provider in order to make the purchase.  Any information that you provide to such provider will be subject to the applicable service provider's privacy policy, and not this Privacy Policy.  We are not responsible for and have no control over the privacy policies or practices of third party service providers.  Use of third party service providers to purchase products or services offered on the _Science_ Websites is solely at your risk.
 
 ### Resumes
 
@@ -85,6 +89,10 @@ We use "cookies" to help personalize and maximize your online experience. A cook
 You may have the ability to accept or decline all cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. It is possible to sign in to any of the _Science_  Websites without accepting cookies. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience at the _Science_ Websites.
 
 We may use AdWords Remarketing, a Remarketing and Behavioral Targeting service provided by Google. We may also use Google and Adobe analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website. You may opt out of the cookie tracking [here](http://www.google.com/policies/technologies/ads/), where you can also find additional information about Google’s advertising Privacy Guidelines, Policies, and Restrictions.
+
+We may also use a Google-provided tool called "ReCaptcha" which, on some form submissions, is intended to tell humans from robots in order to prevent spam and abuse of those forms. The ReCaptcha tool may, in its algorithm, make use of cookies as well as other information like Internet Protocol address, date, time, language, screen size and resolution, and mouse movements while on the page.
+
+The ReCaptcha tool is subject to the same terms of use and privacy policy as Google Analytics. Google also offers more information on how Google uses data on websites using Google technologies.
 
 ### Use Of Web Beacons
 
