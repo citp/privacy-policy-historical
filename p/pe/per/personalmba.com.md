@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429194323id_/http%3A//worldlywisdomventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630060410id_/http%3A//worldlywisdomventures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Worldly Wisdom Ventures LLC
 
 * * *
 
-**Last updated:** April 18, 2016
-
-Worldly Wisdom Ventures LLC (“us”, “we”, or “our”) operates the http://worldlywisdomventures.com website (the “Service”).
+**Last updated:** January 16, 2017
 
 ## Services
 
 The following websites (“Services”) are owned and operated by Worldly Wisdom Ventures LLC:
 
   * [joshkaufman.net](https://joshkaufman.net/)
-  * [personalmba.com](https://personalmba.com/) and [book.personalmba.com](http://book.personalmba.com/)
+  * [personalmba.com](https://personalmba.com/), [book.personalmba.com](http://book.personalmba.com/), and [course.personalmba.com](http://course.personalmba.com/)
   * [first20hours.com](http://first20hours.com/)
   * [personalstartup.com](http://personalstartup.com/)
   * [boringadvice.net](http://boringadvice.net/)
@@ -88,12 +86,6 @@ Perfect Audience remarketing service is provided by NowSpots Inc.
 You can opt-out of Perfect Audience remarketing by visiting these pages: Platform Opt-out (http://pixel.prfct.co/coo) and Partner Opt-out (http://ib.adnxs.com/optout).
 
 For more information on the privacy practices of Perfect Audience, please visit the Perfect Audience Privacy Policy & Opt-out web page: https://www.perfectaudience.com/privacy/index.html
-
-## Do Not Track Disclosure
-
-We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
-
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
 ## Service Providers
 
