@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flightradar24.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043856id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightradar24.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232059id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Flightradar24.com - Live flight tracker!
 
 ## Privacy policy and cookies
 
-The Website and the Apps are provided by Flightradar24 AB (hereinafter "Flilghtradar24", “we”, “us”, or “our”), registration no. 556895-1213, having its registered address at Brunnsgatan 13, 111 38 Stockholm, Sweden. Your privacy is important to us. Under the Swedish Personal Data Act (1998:2004), which implements the EU Directive 95/46/EC, we will be liable for the processing of personal data where we decide the purposes and the means of the processing. Personal data is information which is directly or indirectly referable to a natural living person, e.g. name and address but also possibly location data or IP addresses. We may collect the information set out below, which includes your personal data.
+The Website and the Apps are provided by Flightradar24 AB (hereinafter "Flightradar24", "we", "us", or "our"), registration no. 556895-1213, having its registered address at Brunnsgatan 13, 111 38 Stockholm, Sweden. Your privacy is important to us. Under the Swedish Personal Data Act (1998:2004), which implements the EU Directive 95/46/EC, we will be liable for the processing of personal data where we decide the purposes and the means of the processing. Personal data is information which is directly or indirectly referable to a natural living person, e.g. name and address but also possibly location data or IP addresses. We may collect the information set out below, which includes your personal data.
 
 This document contains a policy statement regarding the collection, use and processing of personal data, with whom we may share such data and your rights in relation to personal data. It further contains our cookie policy.
 
@@ -28,7 +28,7 @@ We will process the information set out above for the following purposes:
 
 ### Consent
 
-By clicking the “I accept” button in the account set up, or similar, you agree (i) to the processing of personal data as set out in this Privacy Policy, and (ii) to receive direct marketing from us or third parties, e.g. by email or otherwise. You have the right to refuse your personal data being used for direct marketing and you may at any time recall your prior consent. Please note however, that if you are using any of our services which are subject to this Privacy Policy, you may not be able to continue using certain service if you have recalled your consent to the processing of personal data. Where you have registered for a Service, certain personal data will be processed for the fulfilment of such agreement with you and you acknowledge that the processing of such personal data is regulated in said agreement.
+By clicking the "I accept" button in the account set up, or similar, you agree (i) to the processing of personal data as set out in this Privacy Policy, and (ii) to receive direct marketing from us or third parties, e.g. by email or otherwise. You have the right to refuse your personal data being used for direct marketing and you may at any time recall your prior consent. Please note however, that if you are using any of our services which are subject to this Privacy Policy, you may not be able to continue using certain service if you have recalled your consent to the processing of personal data. Where you have registered for a Service, certain personal data will be processed for the fulfilment of such agreement with you and you acknowledge that the processing of such personal data is regulated in said agreement.
 
 ### Disclosure of personal data
 
@@ -40,7 +40,7 @@ You, being the person whose personal data is being processed, are entitled by la
 
 ### Cookies
 
-A cookie is a very small file or piece of data sent from a website and stored in the memory of a user's web browser, mobile phone, or other device while the user is browsing a website. A cookie can help the website provider to recognize your device the next time you visit that website, provide you with access to certain functions on the website and/or register your surf patterns. When you visit the Site, it may leave a Cookie in the memory of your web browser. Most major commercial Internet sites use them and they make your Internet-surfing more useful and less time-consuming for you because they store information that may be reused each time you visit the site, such as passwords and your preferences, including information you have chosen to share with the site. Cookies cannot access and read the files on your hard drive and cannot be used as a virus. The purpose of using Cookies is to provide information and products that are more meaningful to you without asking you the same questions every time you visit the Site. You may get Cookies from our advertisers, and it should be noted that we cannot pre-screen Cookies which come directly to you from other computers. There are other technologies such as pixel tags, web bugs, web storage and other similar files and technologies that may carry the same functions as cookies. In this Privacy Policy, we use the term “Cookies” for cookies and all such similar technologies.
+A cookie is a very small file or piece of data sent from a website and stored in the memory of a user's web browser, mobile phone, or other device while the user is browsing a website. A cookie can help the website provider to recognize your device the next time you visit that website, provide you with access to certain functions on the website and/or register your surf patterns. When you visit the Site, it may leave a Cookie in the memory of your web browser. Most major commercial Internet sites use them and they make your Internet-surfing more useful and less time-consuming for you because they store information that may be reused each time you visit the site, such as passwords and your preferences, including information you have chosen to share with the site. Cookies cannot access and read the files on your hard drive and cannot be used as a virus. The purpose of using Cookies is to provide information and products that are more meaningful to you without asking you the same questions every time you visit the Site. You may get Cookies from our advertisers, and it should be noted that we cannot pre-screen Cookies which come directly to you from other computers. There are other technologies such as pixel tags, web bugs, web storage and other similar files and technologies that may carry the same functions as cookies. In this Privacy Policy, we use the term "Cookies" for cookies and all such similar technologies.
 
 We hope you will want the better service that Cookies allow, but if you prefer, you can set your browser to refuse Cookies or to inform you every time a website requests permission to store a Cookie. Previously stored Cookies can also be deleted via the web browser. However, if you do that, some parts of this site and other sites may not work as well.
 
@@ -60,7 +60,7 @@ More information about the use of Cookies and how to block them can be found on 
 
 ### Social Plug-ins
 
-When you encounter an implemented social plug-in (e.g. “like” button) from a third party, such as Facebook, Twitter or Google, while using our Service, your browser or App, as applicable, will establish a direct link to that third party (“Social Plug-in”) and will then transmit the following data to the Social Plug-in directly:
+When you encounter an implemented social plug-in (e.g. "like" button) from a third party, such as Facebook, Twitter or Google, while using our Service, your browser or App, as applicable, will establish a direct link to that third party ("Social Plug-in") and will then transmit the following data to the Social Plug-in directly:
 
   1. date and time of your visit;
   2. the Internet address/URL of the site that you are currently visiting;
@@ -78,4 +78,4 @@ However, it is of course possible to prevent the placing of cookies by settings 
 
 ### Notice of changes
 
-If we make changes to this Privacy Policy we will notify you by publication on [Privacy Policy](https://web.archive.org/privacy-policy). If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances and, where required under applicable law, ask for your consent.
+If we make changes to this Privacy Policy we will notify you by publication on Privacy Policy. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances and, where required under applicable law, ask for your consent.
