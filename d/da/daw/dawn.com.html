@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dawn.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231190308id_/http%3A//www.dawn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dawn.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630230803id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   
@@ -9,33 +9,33 @@
     <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
     <title>Privacy - DAWN.COM - DAWN.COM</title> 
      <meta property="fb:app_id" content="1383068068604634"> 
-     <meta property="fb:pages" content="86398345441">   
+     <meta property="fb:pages" content="86398345441">  
+     <link rel="dns-prefetch" href="//i.dawn.com">
+     <link rel="dns-prefetch" href="//ajax.googleapis.com">
+     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">  
      <meta property="og:image" content="http://www.dawn.com/_img/social-default.jpg">
      <meta name="twitter:image" content="http://www.dawn.com/_img/social-default.jpg">
+     <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+         {"@context":"http:\/\/schema.org","@type":"organization","logo":"https:\/\/www.dawn.com\/_img\/logo.png","name":"DAWN.COM","url":"https:\/\/www.dawn.com","sameAs":["https:\/\/www.facebook.com\/dawndotcom\/","https:\/\/twitter.com\/dawn_com","https:\/\/www.instagram.com\/dawn_dot_com\/",""],"potentialAction":{"@type":"SearchAction","target":"https:\/\/www.dawn.com\/search?cx=partner-pub-8258178831251847:5337004877&ie=UTF-8&q={search_term_string}","query-input":"required name=search_term_string"}}
+     </script>
   
   
-    <link rel="stylesheet" href="/_css/all.20161231214405.css" media="all">
+    <link rel="stylesheet" href="/_css/all.20170629172209.css" media="all">
     
 <!-- - - - - - - adsense:header start - - - - - - -->
-<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
-(function() {
-  var gads = document.createElement('script');
-  gads.async = true;
-  gads.type = 'text/javascript';
-  var useSSL = 'https:' == document.location.protocol;
-  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-  var node = document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(gads, node);
-})();
 
 googleAdsSlots = [];
 googletag.cmd.push(function() {
       
-    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-TOP', [728, 90], 'div-gpt-ad-1455520357400-0').addService(googletag.pubads()));
-    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728, 90], 'div-gpt-ad-1455520357400-1').addService(googletag.pubads()));
-    googleAdsSlots.push(googletag.defineSlot('/1029551/D_N_Hm_BB', [300, 250], 'div-gpt-ad-1381496974053-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-DESKTOP-TOP', [[728,90],[970,90]], 'div-gpt-ad-1497509390303-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728,90], 'div-gpt-ad-1455520357400-1').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300,250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [300,600], 'div-gpt-ad-1455520357400-8').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-MOBILE-TOP', [[728,90],[320,50]], 'div-gpt-ad-1497509390303-1').addService(googletag.pubads()));
 
   googletag.pubads().set("document_language", "en");
   
@@ -59,11 +59,10 @@ window.onload = function() {
       var width = parseInt($(div).css('width'));
       var height = parseInt($(div).css('height'));
       var margin = parseInt($(div).css('margin'));
-      var visibility = $(div).css('display');
+      var display = $(div).css('display');
       var parent = $(div).parent();
 
-      if (height <= 1 && width <= 1 && margin == -1) return false;
-      if (visibility == 'none') return false;
+      if (display == 'none') return false;
 
       if (parent.is('body')) {
         return true;
@@ -83,11 +82,59 @@ window.onload = function() {
         resetCorrelator = false;
       }
     }
+
+    // http://stackoverflow.com/a/30935893
+    // https://developers.google.com/doubleclick-gpt/reference#googletag.events.SlotRenderEndedEvent
+    // it is required as sometimes rendered ad is empty but rad adds width and height on the div
+    // which doesn't allow the ad to collapse in this case
+    googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+      var $renderedSlot = $('#' + e.slot.getSlotElementId());
+      if(e.isEmpty) {
+        $renderedSlot.parents('.ad').attr("style", "display: none !important");
+      } else {
+        // https://github.com/aleemb/dawn.com/issues/836
+        // multi dimension ads rad init, as we don't know which ad is rendered so
+        // we get the dimensions of rendered ad and then configure it with rad
+        var width = 0;
+        var height = 0;
+        var isMultidimensionalAd = $renderedSlot.parents('.ad').find('.rad--multi').length > 0;
+        var isPriorityAd = $renderedSlot.parents('.ad').hasClass('ad--priority');
+        if(e.size.length) {
+          width = e.size[0];
+          height = e.size[1];
+        }
+        if (isMultidimensionalAd) {
+          if (width && height) {
+            $renderedSlot.css({width: width+'px', height: height+'px'});
+            $renderedSlot.closest('.js-ad').css({maxWidth: width+'px', maxHeight: height+'px'});
+            $renderedSlot.rad({allowBiggerSizing:'true'});
+          }
+        }
+        if (isPriorityAd) {
+          if (width && height) {
+            var onMouseOut  =  "javascript:this.style.overflow='hidden';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.height(height);";
+            var onMouseOver =  "javascript:this.style.overflow='visible';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.contents().height();" // weird, adding this fixes Firefox expanding issue
+                   +"setTimeout(function(){__adi.height(__adi.contents().height() || height);}, 10);";
+            $renderedSlot.parents('.js-ad').attr('onMouseOver', onMouseOver);
+            $renderedSlot.parents('.js-ad').attr('onMouseOut', onMouseOut);
+          }
+        }
+      }
+    });
   });
 }
 </script>
 <!-- - - - - end:refresh slots - - - - -->
-              <!-- - - - - start:google - - - - -->
+  
+<!-- - - - - start:onesignal link - - - - -->
+<link rel="manifest" href="/manifest.json">
+<!-- - - - - end:onesignal link - - - - -->
+
+            <!-- - - - - start:google - - - - -->
             <script type="text/javascript">
             (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -111,93 +158,58 @@ window.onload = function() {
 
 <body class="">
 
-<header class="soft--bottom">
+<header class="pb-2">
   
-<!-- - - adsense: start - - -->
-<div class="ad  soft-half  ad--top-leaderboard" aria-hidden="true">
-  
-  <div style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden">
-    <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1455520357400-0" class="ad__wrapper__slot" style="width:728px;height:90px">
-        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-0'); });</script>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- - - adsense: end - - -->
-
-  <div class="container  ltr">
-  <div class="soft-half--sides  push-half--bottom  visuallyhidden--palm">
-    <ul class="nav  nav--network  text--center">
-                <li class="nav__item  nav__item--www.dawnnews.tv        "><a class="" href="http://www.dawnnews.tv/watch-live">LIVE TV</a></li>
-                <li class="nav__item  nav__item--www.dawnnews.tv        "><a class="" href="http://www.dawnnews.tv">DAWNNEWS URDU</a></li>
-                <li class="nav__item  nav__item--images.dawn.com        "><a class="" href="http://images.dawn.com">Images</a></li>
-                <li class="nav__item  nav__item--herald.dawn.com        "><a class="" href="http://herald.dawn.com">Herald</a></li>
-                <li class="nav__item  nav__item--aurora.dawn.com        "><a class="" href="http://aurora.dawn.com">Aurora</a></li>
-                <li class="nav__item  nav__item--cityfm89.com        "><a target="_blank" class="" href="http://cityfm89.com">CityFM89</a></li>
-                <li class="nav__item  nav__item--educationexpo.dawn.com        "><a target="_blank" class="" href="http://educationexpo.dawn.com">Events</a></li>
-                <li class="nav__item  nav__item--www.dawn.com        "><a class="" href="http://www.dawn.com/events/supplements">Supplements</a></li>
-                <li class="nav__item  nav__item--careers.dawn.com        "><a target="_blank" class="" href="http://careers.dawn.com">Careers</a></li>
+<div class="container-fluid">
+  <div class="px-2  mb-2  d-none  d-sm-block">
+    <ul class="nav  nav--network  text-center  size-two">
+                <li class="nav__item  nav__item--epaper  text--400      "><a class="" href="http://epaper.dawn.com">EPAPER</a></li>
+                <li class="nav__item  nav__item--live-tv  text--400      "><a class="" href="http://www.dawnnews.tv/watch-live">LIVE TV</a></li>
+                <li class="nav__item  nav__item--dawnnews-urdu  text--400      "><a class="" href="http://www.dawnnews.tv">DAWNNEWS URDU</a></li>
+                <li class="nav__item  nav__item--images  text--400      "><a class="" href="http://images.dawn.com">Images</a></li>
+                <li class="nav__item  nav__item--herald  text--400      "><a class="" href="http://herald.dawn.com">Herald</a></li>
+                <li class="nav__item  nav__item--aurora  text--400      "><a class="" href="http://aurora.dawn.com">Aurora</a></li>
+                <li class="nav__item  nav__item--cityfm89  text--400      "><a target="_blank" class="" href="http://cityfm89.com">CityFM89</a></li>
+                <li class="nav__item  nav__item--events  text--400      "><a target="_blank" class="" href="http://educationexpo.dawn.com">Events</a></li>
+                <li class="nav__item  nav__item--supplements  text--400      "><a class="" href="http://www.dawn.com/events/supplements">Supplements</a></li>
+                <li class="nav__item  nav__item--classifieds  text--400      "><a target="_blank" class="" href="http://classifieds.dawn.com/">Classifieds</a></li>
+                <li class="nav__item  nav__item--obituaries  text--400      "><a target="_blank" class="" href="http://obituary.dawn.com">Obituaries</a></li>
           </ul>
   </div>
-</div> <!-- .container --><div class="push-half--sides">
-  <div class="container">
+</div> <!-- .container-fluid -->
+<div class="mx-2">
+  <div class="container-fluid">
 
-    <div class="grid  grid--full">
-      <div class="grid__item  one-quarter">
-        <div class="mast__earmark  mast__earmark--left  visuallyhidden--palm">
-          
-<!-- - - adsense: start - - -->
-<div class="ad  " aria-hidden="true">
-  
-  <div style="max-width:180px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden">
-    <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1471431436354-0" class="ad__wrapper__slot" style="width:180px;height:90px">
-        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471431436354-0'); });</script>
+    <div class="row  no-gutters">
+      <div class="col-3">
+      </div>
+
+      <div class="col-sm-6  col-12">
+        <div class="mast  text-center  mx-2">
+                      <a href="/" class="">
+                <h1 class="text-hide  logo  mx-auto  my-4">
+                    DAWN.COM
+                </h1>      
+            </a>        </div>
+      </div>
+
+      <div class="col-3">
       </div>
     </div>
+
   </div>
 </div>
-<!-- - - adsense: end - - -->
-        </div>
-      </div>
 
-      <div class="grid__item  one-half  palm--one-whole">
-        <div class="mast  push-half--sides">
-          <a href="/"><h1 class="hide-text  mast__logo">Dawn News</h1></a>
-        </div>
-      </div>
-
-      <div class="grid__item  one-quarter">
-        <div class="mast__earmark  mast__earmark--right  visuallyhidden--palm">
-          
-<!-- - - adsense: start - - -->
-<div class="ad  " aria-hidden="true">
-  
-  <div style="max-width:180px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden">
-    <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1471431436354-1" class="ad__wrapper__slot" style="width:180px;height:90px">
-        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471431436354-1'); });</script>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- - - adsense: end - - -->
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div><div class="adblocker-overlay" style="display: none;"></div>
+<div class="adblocker-overlay" style="display: none;"></div>
 <div class="adblocker-modal" style="display: none;">
-  <h1 class="adblocker-modal__heading"><img src="/_img/logo-white.png" width="150" alt="Dawn Logo"></h1>
+  <h1 class="adblocker-modal__heading"><img src="/_img/logo--white.png" width="150" alt="Dawn Logo"></h1>
   <div class="adblocker-modal__content">
     <img src="//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png" alt="Alert Sign" width="20"> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
     <a href="//www.dawn.com/news/1262907/adblock-instructions">turn off Adblock</a> on Dawn.com.
   </div>
   <button class="adblocker-modal__button"></button>
 </div>
-<div class="one-whole  text--center  adblock-alert">
+<div class="col-12  text-center  adblock-alert">
   <img src="//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png" alt="Alert Sign" width="20"> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
   <a href="//www.dawn.com/news/1262907/adblock-instructions">turn off Adblock</a> on Dawn.com.
 </div>
@@ -254,7 +266,7 @@ window.onload = function() {
   text-transform: uppercase;
   display: block;
 }
-</style><div class="one-whole  text--center  ie-alert">
+</style><div class="col-12  text-center  ie-alert">
   <p><img src="//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png" alt="Alert Sign" width="20"> Dear reader, please upgrade to the latest version of IE to have a better reading experience</p>.
 </div>
 <style>
@@ -271,280 +283,253 @@ window.onload = function() {
 .lte8 .ie-alert {
 	display: block;
 }
-</style><div class="container  headroom">
-  <div class="push-half--sides">
-    <div class="border--ends  one-whole  float--left">
-      <div class="one-whole" style="position: relative; float: inherit">
-        <div class="menu">
-          <img class="menu__logo  menu__logo--white" src="/_img/logo-white.png" alt="Dawn Logo">
-          <img class="menu__logo  menu__logo--black" src="/_img/logo.png" alt="Dawn Logo">
-          <ul class="nav  nav--primary  nav--responsive">
-                <li class="nav__item  nav__item--home  theme      "><a class="" href="/">Home</a></li>
-                <li class="nav__item  nav__item--latest-news  theme      "><a class="" href="/latest-news">Latest</a></li>
-                <li class="nav__item  nav__item--popular  theme      "><a class="" href="/popular">Popular</a></li>
-                <li class="nav__item  nav__item--pakistan  theme      "><a class="" href="/pakistan">Pakistan</a></li>
-                <li class="nav__item  nav__item--epaper.dawn.com  theme      "><a class="" href="http://epaper.dawn.com">Today's Paper</a></li>
-                <li class="nav__item  nav__item--opinion  theme      "><a class="" href="/opinion">Opinion</a></li>
-                <li class="nav__item  nav__item--world  theme      "><a class="" href="/world">World</a></li>
-                <li class="nav__item  nav__item--sport  theme      "><a class="" href="/sport">Sport</a></li>
-                <li class="nav__item  nav__item--business  theme      "><a class="" href="/business">Business</a></li>
-                <li class="nav__item  nav__item--magazine  theme      "><a class="" href="/magazine">Magazine</a></li>
-                <li class="nav__item  nav__item--entertainment  theme      "><a class="" href="/entertainment">Culture</a></li>
-                <li class="nav__item  nav__item--blogs  theme      "><a class="" href="/blogs">Blogs</a></li>
-                <li class="nav__item  nav__item--tech  theme      "><a class="" href="/tech">Tech</a></li>
-                <li class="nav__item  nav__item--multimedia  theme      "><a class="" href="/multimedia">Multimedia</a></li>
-                <li class="nav__item  nav__item--newspaper  theme      "><a class="" href="/newspaper">Archive</a></li>
-                <li class="nav__item  nav__item--in-depth  theme      "><a class="" href="/in-depth">In Depth</a></li>
+</style><div class="container-fluid  headroom">
+  <div class="px-2  border--ends  col-12  float-left">
+    
+<div class="menu  float-left">
+  <ul class="nav  nav--primary  nav--responsive  ">
+                <li class="nav__item  nav__item--home  theme        "><a class="" href="/">Home</a></li>
+                <li class="nav__item  nav__item--latest-news  theme        "><a class="" href="/latest-news">Latest</a></li>
+                <li class="nav__item  nav__item--popular  theme        "><a class="" href="/popular">Popular</a></li>
+                <li class="nav__item  nav__item--pakistan  theme        "><a class="" href="/pakistan">Pakistan</a></li>
+                <li class="nav__item  nav__item--today-s-paper  theme        "><a class="" href="http://epaper.dawn.com">Today's Paper</a></li>
+                <li class="nav__item  nav__item--opinion  theme        "><a class="" href="/opinion">Opinion</a></li>
+                <li class="nav__item  nav__item--world  theme        "><a class="" href="/world">World</a></li>
+                <li class="nav__item  nav__item--sport  theme        "><a class="" href="/sport">Sport</a></li>
+                <li class="nav__item  nav__item--business  theme        "><a class="" href="/business">Business</a></li>
+                <li class="nav__item  nav__item--magazines  theme        "><a class="" href="/magazines">Magazines</a></li>
+                <li class="nav__item  nav__item--entertainment  theme        "><a class="" href="/entertainment">Culture</a></li>
+                <li class="nav__item  nav__item--blogs  theme        "><a class="" href="/blogs">Blogs</a></li>
+                <li class="nav__item  nav__item--tech  theme        "><a class="" href="/tech">Tech</a></li>
+                <li class="nav__item  nav__item--multimedia  theme        "><a class="" href="/multimedia">Multimedia</a></li>
+                <li class="nav__item  nav__item--newspaper  theme        "><a class="" href="/newspaper">Archive</a></li>
+                <li class="nav__item  nav__item--in-depth  theme        "><a class="" href="/in-depth">In Depth</a></li>
           </ul>
-        </div>
-        <ul class="nav  nav--aside  visuallyhidden--palm">
-          <li class="nav__item  one-whole  text--right">
-            <button class="js-search  search">
-              <img src="/_img/search.png" alt="Search Icon" width="15" title="Dawn Search"><span>SEARCH</span>
-            </button>
-          </li>
-        </ul>
-      </div>
+</div>
+<ul class="nav  nav--aside  d-none  d-sm-block  float-left">
+  <li class="nav__item  col-12  text-right">
+    <button class="js-search  search  bald  size-two">
+      <img src="/_img/search.png" alt="Search Icon" width="15" title="Dawn Search"><span class="d-none  d-xl-inline-block">SEARCH</span>
+    </button>
+  </li>
+</ul>
 
-      
-<div class="search-box">
+
+<div class="search-box  text-center  ">
   <form action="/search">
     <input type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877">
     <input type="hidden" name="cof" value="FORID:10">
     <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" class="search  theme  " value="" placeholder="Search" name="q">
+    <input type="text" class="search  col-9  p-1  theme  " value="" placeholder="Search" name="q">
   </form>
-</div>    </div>
+</div>  </div>
+</div></header>
+<div class="container-fluid  px-1  d-none  d-sm-block">
+
+<!-- - - adsense: start - - -->
+<div class="ad  pb-2  border--bottom  mb-4  ad--priority" aria-hidden="true">
+  
+  <div class="js-ad  clearfix" style="text-align:center;margin:0 auto;overflow:hidden;">
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id="div-gpt-ad-1497509390303-0" class="ad__wrapper__slot">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1497509390303-0'); });</script>
+      </div>
+    </div>
   </div>
-</div> <!-- .container -->
-</header><div class="container  cf  soft--top  ">
+</div>
+<!-- - - adsense: end - - -->
+</div>
+<div class="container-fluid  px-1  d-block  d-sm-none">
+
+<!-- - - adsense: start - - -->
+<div class="ad  pb-2  border--bottom  mb-2" aria-hidden="true">
+  
+  <div class="js-ad  clearfix" style="text-align:center;margin:0 auto;overflow:hidden;">
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id="div-gpt-ad-1497509390303-1" class="ad__wrapper__slot">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1497509390303-1'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div><div class="container-fluid  clearfix  pt-4">
   <div class="content">
-    <main class="soft-half--sides  soft-half--bottom">
-      <div class="container  cf    page">
-  <div class="grid  grid--full">
-    <div class="grid__item   eight-tenths  palm--one-whole">
-      <div class="grid  grid--full">
-  <div class="grid__item  one-whole">
-    <h1>DAWN PRIVACY POLICY</h1>
-    <hr>
-    <h3>Privacy policy</h3>
-
-    <p>This is the main privacy policy for dawn.com and Dawn Media Group publications online, and for certain
-    services provided through the websites by Dawn Media Group</p>
-
-    <p>At Dawn.com we collect different types of information about our users for four main reasons:</p>
-
-    <ul>
-      <li>To provide personalised services unique to individual users.</li>
-      <li>To help us to monitor and improve the services we offer</li>
-      <li>To sell advertising space on the site. This helps us to keep the site free of charge.</li>
-      <li>With user consent, to market services to individuals' users.</li>
-    </ul>
-
-    <p>There may be additional privacy policies that apply to certain services on dawn.com</p>
-
-    <p>Please read these at the time you register or subscribe for these services on these sites.</p>
-
-    <p>Please follow the links below for further information.</p>
-
-    <h3>Our principles</h3>
-
-    <ul>
-      <li>We do our utmost to protect user privacy through the appropriate use of the security technology.
-         <p>This means:  - we ensure that we have appropriate physical and technological security measures to protect
-         your information - we ensure that when we outsource any processes that the service provider has appropriate
-         security measures.</p>
-      </li>
-
-      <li>We will respect your privacy. You should receive marketing emails only from DMG and, if you choose, from
-         carefully chosen third parties.
-         <p>It will be made clear to you where you have these choices; for example, tick boxes will let you
-         decide whether you wish to receive marketing.</p>
-
-         <p>We may, however, email you occasionally with information or queries about your registration, your subscription
-         account or postings, for example, with reminders, warnings or copyright requests.</p>
-      </li>
-
-      <li>We will collect and use individual user details only where we have legitimate business reasons and
-        are legally entitled to do so.
-      </li>
-
-      <li>We will be transparent in our dealings with you as to what information about you we will collect
-                  and how we will use your information.
-      </li>
-
-      <li>We will use personal data only for the purpose(s) for which they were originally collected and we
-                  will ensure personal data are securely disposed of.
-      </li>
-
-      <li>Our site is accessible via the Internet. This means that, wherever you choose to post your data on
-                  the site, they can be accessed from anywhere around the world.
-      </li>
-    </ul>
-
-    <h2>How we use your information</h2>
-
-    <h3>What information do we collect?</h3>
-
-    <p>We collect information on our users through registration and use of the website, through cookies, where you
-              choose to disclose data in postings, and when you enter sales promotions and competitions
-              ("sales promotions").</p>
-
-    <p>Certain services that we provide may involve the collection by us of additional information, such as your
-              geographic location from time to time, to enable the service to be provided as designed. In particular,
-              this may apply to certain Apps that you download, or which we provide.
-    </p>
-
-    <h3>Registration</h3>
-
-    <p>The minimum information we need to register a user is an email address and a password. We will ask further
-      questions for different services, including sales promotions. Unless stated, all registration questions are
-      compulsory.</p>
-
-    <p>We may also ask some further, voluntary questions during registration for certain services
-      (for example, Classifieds, or Registration for Events) so we can gain a clearer understanding of our users.
-      This also enables us to personalise services for our users.</p>
-
-    <h3>Logging in using social networking credentials</h3>
-
-    <p>If you login to dawn.com using a Facebook login as a means of authentication you grant permission to Facebook
-      to share your user details. This will include your name, email address, date of birth and location which will
-      then be used to form a Dawn USER, and you may use your picture from Facebook as part of your profile.
-      Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose
-      to share according to your Facebook account settings. If you remove the Dawn app from your Facebook settings,
-      our access to this additional information will cease.</p>
-
-    <p>If you login to dawn.com using a twitter login as a means of authentication we receive your avatar and
-    twitter username.</p>
-
-    <h3>Use of children's data</h3>
-
-    <p>Except for Young World, dawn.com does not knowingly collect or store any personal information about children
-    under the age of 16.</p>
-
-    <p>Young World online is a service for children, which requires parental consent to join, no personal
-    information on children is displayed on the site, and all contributions are moderated prior to being
-    published.</p>
-
-    <h3>Who we share data with</h3>
-
-    <p>We will not share your personal information with others for marketing purposes unless you have given us your
-        permission. With your permission we will share your information only with carefully chosen third parties.</p>
-
-    <p>DMG may make available third party services; anyinformation, which is collected by DMG when you access a
-      third party service, is processed under this Privacy Policy. Information collected by third party operators
-      themselves is governed by their own privacy policies.</p>
-
-    <p>Please note that we reserve the right to access and disclose personal data to comply with applicable laws and
-      lawful government requests, to operate our systems properly and to protect both our users and ourselves.</p>
-
-    <p>Any third parties who access your data in the course of providing services on our behalf are subject to
-      strict contractual restrictions to ensure that your data is protected, and in compliance with applicable
-      data protection/privacy legislation. We may also independently audit these service providers to ensure that
-      they meet our standards. We may use service providers to help us run these site or services available on the
-      sites, some of which may be based outside of Pakistan.</p>
-
-    <p>Some DMG webpages use plugins from third party platforms (such as the 'Facebook Recommend' function). These third
-      arty providers may collect information about your visit to DMG websites on these pages. If you browse these pages
-      whilst still also logged in to your account on the third party platform, information collected by the third party
-      may be connected to your account on the third party platform. For more information on how these third parties use
-      information, please read their privacy policies.</p>
+    <main class="pb-2">
+      <div class="container-fluid  px-sm-2  px-0  clearfix">
+  <div class="row  no-gutters">
+    <div class=" col-sm-10  col-12">
+      
+    <!-- box/title title -->
+    <h2 data-layout="story" data-id="1342353" class="story__title      size-eleven  "><a href="https://www.dawn.com/news/1342353/dawn-privacy-policy" class="story__link">DAWN PRIVACY POLICY</a></h2>
 
 
+    <!-- box/content -->
+    <div class="story__content      size-four  "><div style="display: none"><ul class="story__toc" style="display: none">
+<li>
+<a href="#toc_0">Privacy policy</a>
+</li>
+<li>
+<a href="#toc_1">Our principles</a>
+</li>
+</ul>
 
-    <h3>Use of Cookies</h3>
-
-    <p>We use cookies for a number of reasons:</p>
-
-    <ul>
-      <li>
-        For statistical purposes to track how many individual unique users we have and how often they visit
-        our websites. We collect data listing which of our pages are most frequently visited and by which types
-        of users and from which countries.
-      </li>
-
-      <li>
-        We use third parties to collect anonymous user information, sometimes through cookies and web beacons.
-        Click here to learn more about how we use a third party service to collect and use information on
-        dawn.com
-      </li>
-
-      <li>
-        DMG and third party advertisers will generate statistical cookies to track advertising impressions
-         and conversions.
-      </li>
-
-      <li>
-        Placing cookies on your computer means we can serve you adverts that you might be more interested in,
-        and allows us to control the number of times you see them and measure how effective the ad campaign has
-        been. This helps us to keep the site free of charge.
-      </li>
-
-      <li>
-        Flash cookies may be used to store user preferences for media player functionality and without them
-        some video content may not render correctly.  You can turn cookies off but if you do this you may not be
-        able to use all services on our websites and you might see more pop-ups and other intrusive advertising,
-        as we won't be able to limit what you see using cookies. You will, however, still be able to view
-                 editorial content.
-      </li>
-    </ul>
-
-    <p>For more information about cookies and managing them, including how to turn them off, please visit our
-              page on Cookies.</p>
-
-    <p>By using the sites you are agreeing to the use of cookies as described.</p>
-
-    <h3>About our advertising</h3>
-
-    We use targeted advertising, which allows us to deliver visitors to our website directed to your interests.
-
-    As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.
-
-    This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink.
-
-    We do not share behavioral data with other websites.
-
-    Please visit http://www.dawn.com/privacypolicyoptout to opt you.
-
-    <h3>Other Advertising</h3>
-
-    <p>dawn.com will contain contextual affiliate links from which we may earn revenue. Advertisers or affiliates
-    never influence our articles, nor are they written for the purpose of promoting a product, except when clearly
-    branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.</p>
-
-    <h3>Legal information and how to contact us</h3>
-
-    <p>For the purposes of data protection please contact legal@dawn.com</p>
-
-    <p>If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding DMG
-    use of personal data please contact the Data Protection Manager at the above address.</p>
-
-    <h3>Changes to the privacy policy</h3>
-
-    <p>Should we elect to change our privacy policy we will post the changes here. Where the changes are significant,
-    we may also choose to email all our registered users with the new details. Where required by law, will we
-    obtain your consent to make these changes.</p>
-  </div>
-</div>    </div>
+<li>
+<a href="#toc_2">How we use your information</a>
+<ul>
+<li>
+<a href="#toc_3">What information do we collect?</a>
+</li>
+<li>
+<a href="#toc_4">Registration</a>
+</li>
+<li>
+<a href="#toc_5">Logging in using social networking credentials</a>
+</li>
+<li>
+<a href="#toc_6">Use of children's data</a>
+</li>
+<li>
+<a href="#toc_7">Who we share data with</a>
+</li>
+<li>
+<a href="#toc_8">Use of Cookies</a>
+</li>
+<li>
+<a href="#toc_9">About our advertising</a>
+</li>
+<li>
+<a href="#toc_10">Other Advertising</a>
+</li>
+<li>
+<a href="#toc_11">Legal information and how to contact us</a>
+</li>
+<li>
+<a href="#toc_12">Changes to the privacy policy</a>
+</li>
+</ul>
+</li></div><hr>
+<h3 id="toc_0">Privacy policy</h3>
+<p class="">This is the main privacy policy for dawn.com and Dawn Media Group publications online, and for certain
+services provided through the websites by Dawn Media Group</p><p class="">At Dawn.com we collect different types of information about our users for four main reasons:</p><ul>
+<li>To provide personalised services unique to individual users.</li>
+<li>To help us to monitor and improve the services we offer.</li>
+<li>To sell advertising space on the site. This helps us to keep the site free of charge.</li>
+<li>With user consent, to market services to individuals' users.</li>
+</ul>
+<p class="">There may be additional privacy policies that apply to certain services on dawn.com</p><p class="">Please read these at the time you register or subscribe for these services on these sites.</p><p class="">Please follow the links below for further information.</p><h3 id="toc_1">Our principles</h3>
+<ul>
+<li><p class="">We do our utmost to protect user privacy through the appropriate use of the security technology.
+This means:  - we ensure that we have appropriate physical and technological security measures to protect
+your information - we ensure that when we outsource any processes that the service provider has appropriate
+security measures.</p></li>
+<li><p class="">We will respect your privacy. You should receive marketing emails only from DMG and, if you choose, from
+carefully chosen third parties.</p></li>
+<li><p class="">It will be made clear to you where you have these choices; for example, tick boxes will let you
+decide whether you wish to receive marketing.</p></li>
+<li><p class="">We may, however, email you occasionally with information or queries about your registration, your subscription
+account or postings, for example, with reminders, warnings or copyright requests.</p></li>
+<li><p class="">We will collect and use individual user details only where we have legitimate business reasons and
+are legally entitled to do so.</p></li>
+<li><p class="">We will be transparent in our dealings with you as to what information about you we will collect
+      and how we will use your information.</p></li>
+<li><p class="">We will use personal data only for the purpose(s) for which they were originally collected and we
+      will ensure personal data are securely disposed of.</p></li>
+<li><p class="">Our site is accessible via the Internet. This means that, wherever you choose to post your data on
+      the site, they can be accessed from anywhere around the world.</p></li>
+</ul>
+<h2 id="toc_2">How we use your information</h2>
+<h3 id="toc_3">What information do we collect?</h3>
+<p class="">We collect information on our users through registration and use of the website, through cookies, where you
+      choose to disclose data in postings, and when you enter sales promotions and competitions
+      ("sales promotions").</p><p class="">Certain services that we provide may involve the collection by us of additional information, such as your
+      geographic location from time to time, to enable the service to be provided as designed. In particular,
+      this may apply to certain Apps that you download, or which we provide.</p><h3 id="toc_4">Registration</h3>
+<p class="">The minimum information we need to register a user is an email address and a password. We will ask further
+questions for different services, including sales promotions. Unless stated, all registration questions are
+compulsory.</p><p class="">We may also ask some further, voluntary questions during registration for certain services
+(for example, Classifieds, or Registration for Events) so we can gain a clearer understanding of our users.
+This also enables us to personalise services for our users.</p><h3 id="toc_5">Logging in using social networking credentials</h3>
+<p class="">If you login to dawn.com using a Facebook login as a means of authentication you grant permission to Facebook
+to share your user details. This will include your name, email address, date of birth and location which will
+then be used to form a Dawn USER, and you may use your picture from Facebook as part of your profile.
+Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose
+to share according to your Facebook account settings. If you remove the Dawn app from your Facebook settings,
+our access to this additional information will cease.</p><p class="">If you login to dawn.com using a twitter login as a means of authentication we receive your avatar and
+twitter username.</p><h3 id="toc_6">Use of children's data</h3>
+<p class="">Except for Young World, dawn.com does not knowingly collect or store any personal information about children
+under the age of 16.</p><p class="">Young World online is a service for children, which requires parental consent to join, no personal
+information on children is displayed on the site, and all contributions are moderated prior to being
+published.</p><h3 id="toc_7">Who we share data with</h3>
+<p class="">We will not share your personal information with others for marketing purposes unless you have given us your
+permission. With your permission we will share your information only with carefully chosen third parties.</p><p class="">DMG may make available third party services; anyinformation, which is collected by DMG when you access a
+third party service, is processed under this Privacy Policy. Information collected by third party operators
+themselves is governed by their own privacy policies.</p><p class="">Please note that we reserve the right to access and disclose personal data to comply with applicable laws and
+lawful government requests, to operate our systems properly and to protect both our users and ourselves.</p><p class="">Any third parties who access your data in the course of providing services on our behalf are subject to
+strict contractual restrictions to ensure that your data is protected, and in compliance with applicable
+data protection/privacy legislation. We may also independently audit these service providers to ensure that
+they meet our standards. We may use service providers to help us run these site or services available on the
+sites, some of which may be based outside of Pakistan.</p><p class="">Some DMG webpages use plugins from third party platforms (such as the 'Facebook Recommend' function). These third
+arty providers may collect information about your visit to DMG websites on these pages. If you browse these pages
+whilst still also logged in to your account on the third party platform, information collected by the third party
+may be connected to your account on the third party platform. For more information on how these third parties use
+information, please read their privacy policies.</p><h3 id="toc_8">Use of Cookies</h3>
+<p class="">We use cookies for a number of reasons:</p><ul>
+<li><p class="">For statistical purposes to track how many individual unique users we have and how often they visit
+our websites. We collect data listing which of our pages are most frequently visited and by which types
+of users and from which countries.</p></li>
+<li><p class="">We use third parties to collect anonymous user information, sometimes through cookies and web beacons.
+Click here to learn more about how we use a third party service to collect and use information on
+dawn.com</p></li>
+<li><p class="">DMG and third party advertisers will generate statistical cookies to track advertising impressions
+and conversions.</p></li>
+<li><p class="">Placing cookies on your computer means we can serve you adverts that you might be more interested in,
+and allows us to control the number of times you see them and measure how effective the ad campaign has
+been. This helps us to keep the site free of charge.</p></li>
+<li><p class="">Flash cookies may be used to store user preferences for media player functionality and without them
+some video content may not render correctly.  You can turn cookies off but if you do this you may not be
+able to use all services on our websites and you might see more pop-ups and other intrusive advertising,
+as we won't be able to limit what you see using cookies. You will, however, still be able to view
+     editorial content.</p></li>
+</ul>
+<p class="">For more information about cookies and managing them, including how to turn them off, please visit our
+      page on Cookies.</p><p class="">By using the sites you are agreeing to the use of cookies as described.</p><h3 id="toc_9">About our advertising</h3>
+<p class="">We use targeted advertising, which allows us to deliver visitors to our website directed to your interests.</p><p class="">As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.</p><p class="">This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink.</p><p class="">We do not share behavioral data with other websites.</p><p class="">Please visit http://www.dawn.com/privacypolicyoptout to opt you.</p><h3 id="toc_10">Other Advertising</h3>
+<p class="">dawn.com will contain contextual affiliate links from which we may earn revenue. Advertisers or affiliates
+never influence our articles, nor are they written for the purpose of promoting a product, except when clearly
+branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.</p><h3 id="toc_11">Legal information and how to contact us</h3>
+<p class="">For the purposes of data protection please contact legal@dawn.com</p><p class="">If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding DMG
+use of personal data please contact the Data Protection Manager at the above address.</p><h3 id="toc_12">Changes to the privacy policy</h3>
+<p class="">Should we elect to change our privacy policy we will post the changes here. Where the changes are significant,
+we may also choose to email all our registered users with the new details. Where required by law, will we
+obtain your consent to make these changes.</p>
+    </div>
+<style type="text/css">
+.story__content > p:first-of-type {
+    font-weight: 400;
+}
+.story__link--external {
+    background-image: none;
+    text-decoration: none !important;
+}
+</style>    </div>
   </div>
 </div>    </main>
-    <aside class="soft--bottom">
-  <div class="grid">
-    <div class="grid__item  one-whole">
-    
-<!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title: DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP - - - - - - -->
+    <aside class="pb-4">
+
+<!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title: Desk Mrec Top - - - - - - -->
 <section class="widget  theme  widget-adsense  " data-type="adsense" data-id="1220">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>DAWN_MREC_DESKTOP_300x250_TOP - /1029551/DAWN-MREC-DESKTOP-300x250-TOP</span></h2>
-<div class="widget__container__body">
+<h2 class="widget__container__title  "><span>Desk Mrec Top</span></h2>
+<div class="widget__container__body  ">
 
 <!-- - - adsense: start - - -->
 <div class="ad  " aria-hidden="true">
   
-  <div style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden">
+  <div class="js-ad  clearfix" style="text-align:center;margin:0 auto;overflow:hidden;max-width:300px;max-height:250px">
     <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1381496974053-0" class="ad__wrapper__slot" style="width:300px;height:250px">
-        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1381496974053-0'); });</script>
+      <div id="div-gpt-ad-1455520357400-3" class="ad__wrapper__slot" style="width:300px;height:250px">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
       </div>
     </div>
   </div>
@@ -555,58 +540,36 @@ window.onload = function() {
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
-<!-- - - - - - - widget:start id: 163 -  type: popularauthors -  object_id:  -  title: Top Authors - - - - - - -->
-<section class="widget  theme  widget-popularauthors  " data-type="popularauthors" data-id="163">
+<!-- - - - - - - widget:start id: 1391 -  type: linkedimage -  object_id:  -  title: The Dawn of Pakistan: Journey to 1947 - - - - - - -->
+<section class="widget  theme  widget-linkedimage  " data-type="linkedimage" data-id="1391">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Top Authors</span></h2>
-<div class="widget__container__body">
-<ol class="tagcloud">
-  <li title="91218 Views" style="clear:both;line-height: 22px;">
-            <span style="font-size: 174%;"><a style="color: rgb(-87, -87, -87); display: inline;" href="/authors/153/anwar-iqbal">Anwar Iqbal</a></span>
-        </li><li title="49669 Views" style="clear:both;line-height: 22px;">
-            <span style="font-size: 122%;"><a style="color: rgb(69, 69, 69); display: inline;" href="/authors/6236/emaar-pakistan-partner">Emaar Pakistan Partner</a></span>
-        </li><li title="48785 Views" style="clear:both;line-height: 22px;">
-            <span style="font-size: 121%;"><a style="color: rgb(72, 72, 72); display: inline;" href="/authors/174/baqir-sajjad-syed">Baqir Sajjad Syed</a></span>
-        </li><li title="36134 Views" style="clear:both;line-height: 22px;">
-            <span style="font-size: 105%;"><a style="color: rgb(120, 120, 120); display: inline;" href="/authors/1200/imtiaz-ali">Imtiaz Ali</a></span>
-        </li><li title="36134 Views" style="clear:both;line-height: 22px;">
-            <span style="font-size: 105%;"><a style="color: rgb(120, 120, 120); display: inline;" href="/authors/6042/imtiaz-mugheri">Imtiaz Mugheri</a></span>
-        </li></ol>
-<p class="size-one  text--right  caps  days">Over last 3 days</p></div>
+<h2 class="widget__container__title  "><span>The Dawn of Pakistan: Journey to 1947</span></h2>
+<div class="widget__container__body  ">
+
+<a href="https://www.dawn.com/news/1338270/the-dawn-of-pakistan"><img class="col-12" src="//i.dawn.com/widgets/upload-image-594de7eb895c6.png" alt="The Dawn of Pakistan: Journey to 1947"></a>
+</div>
 </div>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
-<!-- - - - - - - widget:start id: 148 -  type: opedwriters -  object_id:  -  title: Oped Writers - - - - - - -->
-<section class="widget  theme  widget-opedwriters  " data-type="opedwriters" data-id="148">
+<!-- - - - - - - widget:start id: 163 -  type: popularauthors -  object_id:  -  title: Top Authors - - - - - - -->
+<section class="widget  theme  widget-popularauthors  " data-type="popularauthors" data-id="163">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Oped Writers</span></h2>
-<div class="widget__container__body">
-<div class="grid  grid--full">
-  <div class="grid__item   one-half">
-    <div class="push-half--ends  caps  size-two  widget__container__body__subtitle">POPULAR OPED WRITERS</div>
-  </div>
-  <div class="grid__item   one-half">
-    <div class="push-half--ends  caps  size-one  widget__container__body__days  text--right">Over Last 3 Days</div>
-  </div>
-</div>
-<ul class="push-half--top  oped-list">
-  <li class="push-half--bottom  soft-half--bottom">
-              <span title="11543 Views">1. <a href="/authors/6305/ateeb-gul">Ateeb Gul</a></span>
-              <span class="oped__story"><a href="http://www.dawn.com/news/1305249/islams-golden-age">Islam’s ‘golden age’</a></span>
-          </li><li class="push-half--bottom  soft-half--bottom">
-              <span title="10212 Views">2. <a href="/authors/966/zahid-hussain">Zahid Hussain</a></span>
-              <span class="oped__story"><a href="http://www.dawn.com/news/1304837/zardaris-new-gimmick">Zardari’s new gimmick</a></span>
-          </li><li class="push-half--bottom  soft-half--bottom">
-              <span title="7671 Views">3. <a href="/authors/1411/owen-bennett-jones">Owen Bennett-Jones</a></span>
-              <span class="oped__story"><a href="http://www.dawn.com/news/1305016/things-to-come">Things to come</a></span>
-          </li><li class="push-half--bottom  soft-half--bottom">
-              <span title="6465 Views">4. <a href="/authors/322/mahir-ali">Mahir Ali</a></span>
-              <span class="oped__story"><a href="http://www.dawn.com/news/1304840/bibi-goes-ballistic">Bibi goes ballistic</a></span>
-          </li><li class="push-half--bottom  soft-half--bottom">
-              <span title="4844 Views">5. <a href="/authors/410/rafia-zakaria">Rafia Zakaria</a></span>
-              <span class="oped__story"><a href="http://www.dawn.com/news/1304838/the-wrong-man">The wrong man</a></span>
-          </li></ul></div>
+<h2 class="widget__container__title  "><span>Top Authors</span></h2>
+<div class="widget__container__body  ">
+<ol class="ml-4  mt-2  tagcloud">
+  <li title="154053 Views" style="clear:both;line-height: 22px;">
+            <span style="font-size: 223%;"><a style="color: rgb(-234, -234, -234); display: inline;" href="/authors/5982/naveed-siddiqui">Naveed Siddiqui</a></span>
+        </li><li title="68761 Views" style="clear:both;line-height: 22px;">
+            <span style="font-size: 133%;"><a style="color: rgb(36, 36, 36); display: inline;" href="/authors/3215/shakeel-qarar">Shakeel Qarar</a></span>
+        </li><li title="61339 Views" style="clear:both;line-height: 22px;">
+            <span style="font-size: 125%;"><a style="color: rgb(60, 60, 60); display: inline;" href="/authors/934/tariq-naqash">Tariq Naqash</a></span>
+        </li><li title="28703 Views" style="clear:both;line-height: 22px;">
+            <span style="font-size: 90%;"><a style="color: rgb(165, 165, 165); display: inline;" href="/authors/5725/nisha-pinjani">Nisha Pinjani</a></span>
+        </li><li title="20178 Views" style="clear:both;line-height: 22px;">
+            <span style="font-size: 81%;"><a style="color: rgb(192, 192, 192); display: inline;" href="/authors/3801/mohammad-imran">Mohammad Imran</a></span>
+        </li></ol>
+<p class="size-one  text-right  caps  days">Over last 3 days</p></div>
 </div>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
@@ -614,31 +577,21 @@ window.onload = function() {
 <!-- - - - - - - widget:start id: 86 -  type: cartoon -  object_id:  -  title: Today's Toon - - - - - - -->
 <section class="widget  theme  widget-cartoon  " data-type="cartoon" data-id="86">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Today's Toon</span></h2>
-<div class="widget__container__body">
+<h2 class="widget__container__title  "><span>Today's Toon</span></h2>
+<div class="widget__container__body  ">
 
 
-<div class="slideshow    portable--one-whole  slideshow--main  " data-slick="{
-                                        &quot;dots&quot;: true,
-                                        &quot;dotsClass&quot;: &quot;slideshow__pager&quot;,
-                                        &quot;asNavFor&quot;: null,
-                                        &quot;cssEase&quot;: &quot;ease&quot;,
-                                        &quot;speed&quot;: 200,
-                                        &quot;autoplaySpeed&quot;: 4000,
-                                        &quot;slidesToScroll&quot;: 1,
-                                        &quot;slidesToShow&quot;: 1,
-                                        &quot;responsive&quot;: [{&quot;breakpoint&quot;: 480, &quot;settings&quot;:{&quot;slidesToShow&quot;:1, &quot;slidesToScroll&quot;:1}},{&quot;breakpoint&quot;: 720, &quot;settings&quot;:{&quot;slidesToShow&quot;:1, &quot;slidesToScroll&quot;:1}}],
-                                        &quot;fade&quot;: false
-                                    }">
+<div class="slideshow      slideshow--main  " data-slick="{&quot;dots&quot;:true,&quot;dotsClass&quot;:&quot;slideshow__pager&quot;,&quot;asNavFor&quot;:null,&quot;cssEase&quot;:&quot;ease&quot;,&quot;speed&quot;:250,&quot;autoplaySpeed&quot;:4000,&quot;slidesToScroll&quot;:1,&quot;slidesToShow&quot;:1,&quot;fade&quot;:false,&quot;autoplay&quot;:true,&quot;infinite&quot;:true,&quot;responsive&quot;: [{&quot;breakpoint&quot;: 720,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}},{&quot;breakpoint&quot;: 480,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}}]}">
 <div class="slideshow__slide  slideshow__slide--first    slideshow__slide--horizontal" style="">
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1305347" data-layout="slideshow">
+<article class="box  story    " data-id="1342326" data-layout="slideshow">
 
     <!-- box/image -->
-    <figure class="media          media--stretch  one-whole  palm--one-whole      ">
-        <div class="media__item          "><a title="" href="http://www.dawn.com/news/1305347/cartoon-30-december-2016"><img src="//i.dawn.com/thumbnail/2016/12/5865d6a5bda63.jpg" alt="Cartoon: 30 December, 2016"></a></div>        
+    <figure class="media          media--stretch  col-12        px-0  ">
+        <div class="media__item          "><a title="" href="https://www.dawn.com/news/1342326/cartoon-30-june-2017"><img src="https://i.dawn.com/thumbnail/2017/06/5955af97299de.jpg" alt="Cartoon: 30 June, 2017"></a></div>        
     </figure>
+    <div class="clearfix"></div>
 </article>
 <!-- - - - /article - - - -->
 
@@ -650,19 +603,19 @@ window.onload = function() {
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
-<!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600 - - - - - - -->
+<!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: Filmstrip - - - - - - -->
 <section class="widget  theme  widget-adsense  " data-type="adsense" data-id="1219">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>DAWN-FLIMSTRIP_300x600 - /1029551/DAWN-FLIMSTRIP-300x600</span></h2>
-<div class="widget__container__body">
+<h2 class="widget__container__title  "><span>Filmstrip</span></h2>
+<div class="widget__container__body  ">
 
 <!-- - - adsense: start - - -->
 <div class="ad  " aria-hidden="true">
   
-  <div style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden">
+  <div class="js-ad  clearfix" style="text-align:center;margin:0 auto;overflow:hidden;max-width:300px;max-height:600px">
     <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1381496974053-0" class="ad__wrapper__slot" style="width:300px;height:250px">
-        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1381496974053-0'); });</script>
+      <div id="div-gpt-ad-1455520357400-8" class="ad__wrapper__slot" style="width:300px;height:600px">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-8'); });</script>
       </div>
     </div>
   </div>
@@ -676,373 +629,808 @@ window.onload = function() {
 <!-- - - - - - - widget:start id: 1192 -  type: newspapermagazines -  object_id:  -  title: Newspaper - - - - - - -->
 <section class="widget  theme  widget-newspapermagazines  " data-type="newspapermagazines" data-id="1192">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Newspaper</span></h2>
-<div class="widget__container__body">
-<div class="accordion  push--ends" role="tablist" aria-live="polite">
+<h2 class="widget__container__title  "><span>Newspaper</span></h2>
+<div class="widget__container__body  ">
+<div class="accordion  mt-1" role="tablist" aria-live="polite">
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Front Page</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Front Page</span>
     <div class="accordion__content" id="panel0">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305475/dossier-on-indian-interference-finalised">Dossier on Indian interference finalised</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305474/policemens-pleas-for-sc-verdict-review-dismissed">Policemen’s pleas for SC verdict review dismissed</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305473/pti-to-field-candidates-against-zardari-bilawal-in-by-polls">PTI to field candidates against Zardari, Bilawal in by-polls</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305472/nisar-decries-social-media-campaign-against-judiciary-army">Nisar decries social media campaign against judiciary, army</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/front-page">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342276" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342276" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342276/nabs-first-chief-appears-before-jit" class="story__link">NAB’s first chief appears before JIT</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342275" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342275" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342275/top-census-official-says-provisional-results-by-next-month" class="story__link">Top census official says provisional results by next month</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342274" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342274" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342274/12-perish-as-cable-car-plunges-into-ravine-near-murree" class="story__link">12 perish as cable car plunges into ravine near Murree</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342273" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342273" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342273/parachinar-families-spurn-pms-compensation-offer" class="story__link">Parachinar families spurn PM’s compensation offer</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342272" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342272" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342272/rain-flooding-wreak-havoc-in-karachi" class="story__link">Rain, flooding wreak havoc in Karachi</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/front-page" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Back Page</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Back Page</span>
     <div class="accordion__content" id="panel1">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305471/china-to-build-4000mw-power-line-from-lahore-to-matiari">China to build 4,000MW power line from Lahore to Matiari</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305470/indian-cash-overhaul-deadline-passes">Indian cash overhaul deadline passes</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305469/suicide-attack-foiled-in-rahim-yar-khan-two-ctd-men-injured">Suicide attack foiled in Rahim Yar Khan; two CTD men injured</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305468/pakistani-man-wrongly-arrested-for-berlin-attack-fears-for-family">Pakistani man wrongly arrested for Berlin attack fears for family</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305467/us-wants-amicable-solution-to-water-row">US wants amicable solution to water row</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/back-page">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342270" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342270" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342270/footprints-wounds-of-the-soul" class="story__link">Footprints: WOUNDS OF THE SOUL</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342269" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342269" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342269/xi-in-hong-kong-to-mark-20-years-since-its-return-to-china" class="story__link">Xi in Hong Kong to mark 20 years since its return to China</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342268" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342268" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342268/fia-arrests-reporter-in-quetta-over-social-media-comments" class="story__link">FIA arrests reporter in Quetta over social media comments</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342267" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342267" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342267/saudi-official-denies-former-crown-prince-confined-to-palace" class="story__link">Saudi official denies former crown prince confined to palace</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342266" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342266" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342266/dasti-accuses-police-of-setting-rats-and-scorpions-on-him-in-jail" class="story__link">Dasti accuses police of ‘setting rats and scorpions on him’ in jail</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/back-page" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">National</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">National</span>
     <div class="accordion__content" id="panel2">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305487/us-sanctions-seven-pakistani-entities">US sanctions seven Pakistani entities</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305486/poverty-outdated-customs-conspire-to-trap-underage-girls-in-bride-swaps">Poverty, outdated customs conspire to trap underage girls in bride swaps</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305485/rabbani-suggests-formation-of-accountability-commission">Rabbani suggests formation of accountability commission</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305484/process-for-nsg-membership-politicised-pakistan">Process for NSG membership politicised: Pakistan</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305483/china-blocks-indias-move-to-blacklist-azhar">China blocks India’s move to blacklist Azhar</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/national">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342286" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342286" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342286/time-for-sharif-to-face-accountability-says-zardari" class="story__link">Time for Sharif to face accountability, says Zardari</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342285" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342285" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342285/awan-sends-resignation-to-senate-chairman" class="story__link">Awan sends resignation to Senate chairman</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342284" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342284" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342284/pakistan-cautions-against-expansion-of-n-capabilities" class="story__link">Pakistan cautions against expansion of N-capabilities</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342283" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342283" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342283/police-get-seven-day-remand-of-achakzai" class="story__link">Police get seven-day remand of Achakzai</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342282" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342282" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342282/tourist-killed-in-kaghan-mudslide" class="story__link">Tourist killed in Kaghan mudslide</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/national" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Karachi</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Karachi</span>
     <div class="accordion__content" id="panel3">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305434/mqm-pakistan-stages-first-big-show-at-nishtar-park">MQM-Pakistan stages first big show at Nishtar Park</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305433/go-slow-ends-at-port">‘Go-slow’ ends at port</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305432/missing-sailors-families-stage-protest">‘Missing’ sailors’ families stage protest</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305431/ctd-fears-branchless-banking-may-be-misused-by-criminal-militant-groups">CTD fears branchless banking may be misused by criminal, militant groups</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305430/chinese-firms-to-invest-over-2bn-in-sindh-in-different-fields">Chinese firms to invest over $2bn in Sindh in different fields</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/karachi">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342172" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342172" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342172/rain-lashes-city-for-a-second-day-as-people-brave-power-outages-flooding" class="story__link">Rain lashes city for a second day as people brave power outages, flooding</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342171" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342171" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342171/two-boys-drown-in-under-construction-underpass-pond" class="story__link">Two boys drown in under-construction underpass ‘pond’</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342170" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342170" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342170/more-attacks-feared-as-battle-hardened-militants-come-back-from-syria" class="story__link">More attacks feared as ‘battle-hardened’ militants come back from Syria</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342169" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342169" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342169/banker-jailed-for-life-in-fraud-case" class="story__link">Banker jailed for life in fraud case</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342168" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342168" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342168/conversing-with-the-city" class="story__link">Conversing with the city</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/karachi" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Lahore</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Lahore</span>
     <div class="accordion__content" id="panel4">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305543/cabinet-approves-civil-administration-ord">Cabinet approves civil administration ord</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305542/lhc-sets-aside-tax-notice-to-tareens-sugar-mill">LHC sets aside tax notice to Tareen’s sugar mill</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305541/fog-again-disrupts-rail-air-traffic">Fog again disrupts rail, air traffic</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305540/culture-policy-consultation-seeks-revival-of-basant">Culture policy consultation seeks revival of Basant</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305539/local-councils-to-get-rs391bn-in-current-fiscal-year">Local councils to get Rs391bn in current fiscal year</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/lahore">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342308" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342308" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342308/ahmadpur-sharqia-tanker-fire-six-nhmp-officials-suspended-death-toll-continues-to-soar" class="story__link">Ahmadpur Sharqia tanker fire: Six NH&amp;MP officials suspended: death toll continues to soar</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342307" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342307" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342307/three-killed-10-injured-in-van-cylinder-blast" class="story__link">Three killed, 10 injured in van cylinder blast</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342306" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342306" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342306/five-of-family-die-on-road" class="story__link">Five of family die on road</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342305" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342305" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342305/shujaat-sees-pml-n-defections-before-sc-verdict" class="story__link">Shujaat sees PML-N defections before SC verdict</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342304" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342304" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342304/pti-tables-resolutions-on-tanker-tragedy" class="story__link">PTI tables resolutions on tanker tragedy</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/lahore" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Islamabad</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Islamabad</span>
     <div class="accordion__content" id="panel5">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305504/month-old-baby-dies-in-adiala-jail">Month old baby dies in Adiala jail</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305503/study-finds-telecom-firms-privacy-data-protection-policies-inadequate">Study finds telecom firms’ privacy, data protection policies inadequate</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305502/passengers-protest-delay-in-flights">Passengers protest delay in flights</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305501/ihc-launches-probe-into-alleged-torture-of-child-maid-by-judge">IHC launches probe into alleged torture of child maid by judge</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305500/ict-seeks-control-of-weekly-bazaars-from-mci">ICT seeks control of weekly bazaars from MCI</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/islamabad">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342265" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342265" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342265/six-killed-in-bagh-road-accident" class="story__link">Six killed in Bagh road accident</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342264" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342264" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342264/11-deported-from-greece" class="story__link">11 deported from Greece</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342263" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342263" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342263/probe-begins-into-regularisation-of-well-connected-daily-wagers" class="story__link">Probe begins into regularisation of ‘well-connected’ daily wagers</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342262" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342262" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342262/black-day-today-in-solidarity-with-parachinar-victims" class="story__link">‘Black Day’ today in solidarity with Parachinar victims</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342261" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342261" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342261/ihc-takes-up-plea-against-appointment-of-secp-chief-today" class="story__link">IHC takes up plea against appointment of SECP chief today</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/islamabad" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Peshawar</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Peshawar</span>
     <div class="accordion__content" id="panel6">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305519/sino-pak-panel-okays-three-projects-for-kp">Sino-Pak panel okays three projects for KP</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305518/justice-yahya-becomes-youngest-phc-cj">Justice Yahya becomes youngest PHC CJ</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305517/five-of-a-family-killed-on-road">Five of a family killed on road</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305516/power-breakdown-in-mohmand-protested">Power breakdown in Mohmand protested</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305515/corps-commander-visits-south-waziristan">Corps commander visits South Waziristan</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/peshawar">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342325" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342325" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342325/marriyum-says-jit-probe-to-clear-pm-in-panama-case" class="story__link">Marriyum says JIT probe to clear PM in Panama case</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342324" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342324" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342324/many-stranded-as-kkh-bisham-road-blocked" class="story__link">Many stranded as KKH, Bisham road blocked</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342323" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342323" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342323/phc-adjourns-hearing-into-mashal-case-transfer-plea" class="story__link">PHC adjourns hearing into Mashal case transfer plea</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342322" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342322" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342322/foreign-currency-seized-at-airport" class="story__link">Foreign currency seized at airport</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342321" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342321" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342321/administrative-anomalies-at-mardan-university-to-be-probed" class="story__link">Administrative anomalies at Mardan university to be probed</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/peshawar" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Business</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Business</span>
     <div class="accordion__content" id="panel7">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305423/higher-deficit-low-revenue-challenge-economic-growth-sbp">Higher deficit, low revenue challenge economic growth: SBP</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305422/kp-gas-projects-to-be-financed-through-rs55bn-surcharge">KP gas projects to be financed through Rs5.5bn surcharge</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305421/pakistan-steel-mills-financial-woes-continue">Pakistan Steel Mills financial woes continue</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305419/stocks-bullish-in-year-end-session">Stocks bullish in year-end session</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305420/psx-provided-46pc-return-in-2016">PSX provided 46pc return in 2016</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/business">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342230" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342230" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342230/stocks-led-higher-by-oil-and-banks" class="story__link">Stocks led higher by oil and banks</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342229" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342229" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342229/consumer-market-growing-rapidly" class="story__link">‘Consumer market growing rapidly’</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342228" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342228" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342228/17-pro-poor-sectors-prioritised-to-eliminate-poverty" class="story__link">17 pro-poor sectors prioritised to eliminate poverty</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342227" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342227" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342227/fertiliser-makers-for-swift-execution-of-subsidy-scheme" class="story__link">Fertiliser makers for swift execution of subsidy scheme</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342226" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342226" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342226/reserves-jump-by-1bn" class="story__link">Reserves jump by $1bn</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Sport</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Sport</span>
     <div class="accordion__content" id="panel8">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305409/pcb-to-sue-bcci-for-not-honouring-mous-on-series">PCB to sue BCCI for not honouring MoUs on series</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305408/starc-inspired-aussies-floor-gutless-pakistan-to-bag-series">Starc-inspired Aussies floor gutless Pakistan to bag series</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305407/dejected-misbah-ponders-test-future">Dejected Misbah ponders Test future</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305406/surprise-win-can-give-rebuilding-australia-belief-smith">Surprise win can give rebuilding Australia belief: Smith</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305405/agar-okeefe-called-for-scg-test">Agar, O’Keefe called for SCG Test</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/sport">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342191" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342191" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342191/australian-cricket-braces-for-turmoil-in-pay-fiasco" class="story__link">Australian cricket braces for turmoil in pay fiasco</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342190" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342190" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342190/ball-injury-adds-to-england-bowling-worries" class="story__link">Ball injury adds to England bowling worries</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342189" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342189" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342189/root-can-draw-on-team-mates-experience-bairstow" class="story__link">Root can draw on team-mates’ experience: Bairstow</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342188" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342188" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342188/sri-lanka-seek-redemption-against-zimbabwe" class="story__link">Sri Lanka seek redemption against Zimbabwe</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342187" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342187" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342187/sri-lanka-has-shown-willingness-to-send-cricket-team-to-pakistan" class="story__link">‘Sri Lanka has shown willingness to send cricket team to Pakistan’</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sport" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Editorial</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Editorial</span>
     <div class="accordion__content" id="panel9">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305441/provincial-cpec-projects">Provincial CPEC projects</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305440/police-and-power">Police and power</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305439/unsafe-high-rises">Unsafe high-rises </a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305258/afghan-peace">Afghan peace</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305257/politicising-power">Politicising power</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/editorial">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342237" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342237" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342237/ihk-questionable-us-action" class="story__link">IHK: questionable US action</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342236" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342236" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342236/parachinar-protest" class="story__link">Parachinar protest</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342235" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342235" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342235/transgender-rights" class="story__link">Transgender rights</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342042" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342042" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342042/pakistan-us-ties" class="story__link">Pakistan-US ties</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342041" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342041" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342041/power-sector-appraisal" class="story__link">Power sector appraisal</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/editorial" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Column</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Column</span>
     <div class="accordion__content" id="panel10">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305438/core-and-periphery">Core and periphery</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305437/return-of-a-political-deal-maker">Return of a political deal-maker</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305436/election-funds">Election funds</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305435/who-pays-the-bills">Who pays the bills?</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305255/politics-of-urban-water">Politics of urban water</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/column">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342234" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342234" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342234/an-educational-chasm" class="story__link">An educational chasm</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342233" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342233" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342233/when-the-toughs-get-going" class="story__link">When the toughs get going</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342232" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342232" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342232/showing-gratitude" class="story__link">Showing gratitude</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342231" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342231" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342231/the-bourgeois-trap" class="story__link">The bourgeois trap</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342039" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342039" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342039/sports-and-sportsmanship" class="story__link">Sports and sportsmanship</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/column" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">International</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">International</span>
     <div class="accordion__content" id="panel11">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305465/myanmar-to-take-back-citizens-from-bangladesh">Myanmar to take back citizens from Bangladesh</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305464/south-korea-allows-comfort-women-statue">South Korea allows ‘comfort women’ statue</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305463/syria-truce-begins-but-clashes-erupt-near-damascus">Syria truce begins, but clashes erupt near Damascus</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305462/post-mortem-on-george-michael-inconclusive">Post-mortem on George Michael ‘inconclusive’</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1305461/romania-gets-new-pm-ending-political-turmoil">Romania gets new PM, ending political turmoil</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/international">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342209" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342209" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342209/modi-condemns-violence-in-name-of-cow-worship" class="story__link">Modi condemns violence in name of cow worship</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342208" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342208" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342208/oxford-english-dictionary-has-a-new-last-word" class="story__link">Oxford English Dictionary has a new last word</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342207" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342207" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342207/iraq-declares-end-of-caliphate-after-capture-of-mosul-mosque" class="story__link">Iraq declares end of caliphate after capture of Mosul mosque</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342206" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342206" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342206/retired-judge-to-lead-inquiry-into-london-tower-fire" class="story__link">Retired judge to lead inquiry into London tower fire</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1342205" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1342205" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1342205/saudi-arabia-releases-iranian-fishermen-held-for-over-a-year" class="story__link">Saudi Arabia releases Iranian fishermen held for over a year</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/international" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Sunday Magazine</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Sunday Magazine</span>
     <div class="accordion__content" id="panel12">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304036/smokers-corner-dressing-jinnah">Smokers’ Corner: Dressing Jinnah</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304035/earthly-matters-capitalism-versus-the-climate">Earthly Matters: Capitalism versus the climate</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304034/infashion-fashion-forward-for-2017">InFashion: Fashion forward for 2017</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304033/spotlight-fade-out-hope-to-fade-in">Spotlight: Fade out, hope to fade in</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1302497/smokers-corner-the-dressing-down">Smokers’ Corner: The dressing down</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/sunday-magazine">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1329822" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1329822" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1329822/smokers-corner-curbing-the-mullah" class="story__link">Smokers' corner: Curbing the mullah</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1330106" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1330106" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1330106/fade-from-red-the-diamond-of-lahore-has-dulled" class="story__link">FADE FROM RED: THE DIAMOND OF LAHORE HAS DULLED</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1330100" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1330100" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1330100/canvas-the-reclusive-artist" class="story__link">CANVAS: THE RECLUSIVE ARTIST</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1328744" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1328744" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1328744/mob-mentality-how-many-hands-is-mashals-blood-on" class="story__link">Mob mentality: How many hands is Mashal's blood on?</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1328402" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1328402" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1328402/smokers-corner-the-hordes-banquet" class="story__link">SMOKERS' CORNER: THE HORDE'S BANQUET</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sunday-magazine" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Books &amp; Authors</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Books &amp; Authors</span>
     <div class="accordion__content" id="panel13">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304243/year-in-review-a-critical-appraisal">Year in review: a critical appraisal</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304242/fraudulent-fame">Fraudulent fame</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304246/books-in-brief">Books in brief</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304241/into-the-labyrinth">Into the labyrinth</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304240/poetically-inclined">Poetically inclined</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/books-authors">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341525" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341525" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341525/non-fiction-the-old-bolsheviks-of-the-new-russia" class="story__link">NON-FICTION: THE OLD BOLSHEVIKS OF THE NEW RUSSIA</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341524" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341524" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341524/column-the-pari-within-the-glass" class="story__link">COLUMN: THE PARI WITHIN THE GLASS</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341523" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341523" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341523/non-fiction-how-we-became-friends" class="story__link">NON-FICTION: HOW WE BECAME FRIENDS</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341521" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341521" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341521/news-the-horse-wins-big" class="story__link">NEWS: THE HORSE WINS BIG</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341520" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341520" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341520/books-in-brief" class="story__link">BOOKS IN BRIEF</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/books-authors" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Business &amp; Finance</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Business &amp; Finance</span>
     <div class="accordion__content" id="panel14">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304449/nfc-resource-distribution-dilemma">NFC: resource distribution dilemma</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304448/psx-gets-a-wider-reach">PSX gets a wider reach</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304447/cpec-trade-prospects">CPEC: trade prospects</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304446/rupee-report-euro-gains-against-rupee">Rupee report: Euro gains against rupee</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1304445/mobile-internet-banking-culture-taking-root">Mobile, internet banking culture taking root</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/business-finance">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341893" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341893" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341893/choice-for-top-taxman" class="story__link">Choice for top taxman</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341892" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341892" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341892/the-expanding-eid-economy" class="story__link">The expanding Eid economy</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341891" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341891" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341891/psx-separating-ownership-and-management" class="story__link">PSX: separating ownership and management</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341890" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341890" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341890/bank-deposits-decrease" class="story__link">Bank deposits decrease</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341889" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341889" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341889/rupee-weak-against-dollar" class="story__link">Rupee weak against dollar</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business-finance" class="">Read More</a></span>
+    </div>
   </div>
     <div class="accordion__item" role="tab">
-    <h2 class="accordion__item__title  caps  size-three">Young World</h2>
+    
+    <span class="tag  size-three  caps  accordion__item__title  col-12    p-2">Young World</span>
     <div class="accordion__content" id="panel15">
       <div class="accordion__content__item">
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1125759/independence-day-the-real-spirit-of-freedom">Independence Day: The real spirit of freedom</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1125755/invented-by-pakistanis">Invented by Pakistanis</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1125756/mailbox">Mailbox</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1125757/independence-day-the-real-spirit-of-freedom">Independence Day: The real spirit of freedom</a>
-        </p>
-              <p class="soft-half--ends  size-three">
-          <a href="http://www.dawn.com/news/1125760/art-corner">Art corner</a>
-        </p>
-            </div>
-            <a class="accordion__item__readmore  text--right  size-one  caps" href="http://www.dawn.com/newspaper/young-world">Read More</a>
-          </div>
+      
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341321" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341321" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341321/jazz-up-your-eid" class="story__link">Jazz up your Eid</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341320" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341320" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341320/mailbox" class="story__link">Mailbox</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341319" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341319" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341319/a-life-worthwhile" class="story__link">A life worthwhile</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341318" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341318" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341318/sunnah-for-children" class="story__link">Sunnah for Children</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+<!-- - - - article - - - -->
+<article class="box  story    " data-id="1341317" data-layout="story">
+    <!-- box/title normal-xxsmall-py:2 -->
+    <h2 data-layout="story" data-id="1341317" class="story__title    size-three  text--400      py-2"><a href="http://www.dawn.com/news/1341317/fringed-flower-vase" class="story__link">Fringed flower vase</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+      </div>
+      
+    <span class="tag    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/young-world" class="">Read More</a></span>
+    </div>
   </div>
   </div></div>
 </div>
@@ -1052,10 +1440,10 @@ window.onload = function() {
 <!-- - - - - - - widget:start id: 402 -  type: linkedimage -  object_id:  -  title: Special Report - - - - - - -->
 <section class="widget  theme  widget-linkedimage  " data-type="linkedimage" data-id="402">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Special Report</span></h2>
-<div class="widget__container__body">
+<h2 class="widget__container__title  "><span>Special Report</span></h2>
+<div class="widget__container__body  ">
 
-<a href="https://drive.google.com/file/d/0B-u4Hs0jaO2Ubm9wdEhhdzJJRE0/view?ts=586649b2"><img class="one-whole" src="//i.dawn.com/widgets/upload-image-313ac34bdce3ff1767bea42d0a987409.jpg" alt="Special Report"></a>
+<a href="https://drive.google.com/file/d/0B-u4Hs0jaO2UTUxMamxaLV9MeUE/view"><img class="col-12" src="//i.dawn.com/widgets/upload-image-59193e1b7c7aa.jpg" alt="Special Report"></a>
 </div>
 </div>
 </section>
@@ -1064,25 +1452,25 @@ window.onload = function() {
 <!-- - - - - - - widget:start id: 415 -  type: linkedimage -  object_id:  -  title: Member - - - - - - -->
 <section class="widget  theme  widget-linkedimage  " data-type="linkedimage" data-id="415">
 <div class="widget__container  ">
-<h2 class="widget__container__title"><span>Member</span></h2>
-<div class="widget__container__body">
+<h2 class="widget__container__title  "><span>Member</span></h2>
+<div class="widget__container__body  ">
 
-<a href="http://www.asianews.network/"><img class="one-whole" src="//i.dawn.com/widgets/upload-image-04102efc1713110b3a24b16f10769bcf.png" alt="Member"></a>
+<a href="http://www.asianews.network/"><img class="col-12" src="//i.dawn.com/widgets/upload-image-04102efc1713110b3a24b16f10769bcf.png" alt="Member"></a>
 </div>
 </div>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
-    </div>
-  </div>
 </aside>  </div>
 </div>
 <footer>
-	<div class="soft-half--top  soft-half--sides  push-half--bottom  cf">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.min.js" crossorigin="anonymous"></script>
+
+	<div class="pt-2  px-2  mb-2  clearfix">
 		
 <!-- - - adsense: start - - -->
 <div class="ad  " aria-hidden="true">
   
-  <div style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden">
+  <div class="js-ad  clearfix" style="text-align:center;margin:0 auto;overflow:hidden;max-width:728px;max-height:90px">
     <div class="radWrapper  ad__wrapper">
       <div id="div-gpt-ad-1455520357400-1" class="ad__wrapper__slot" style="width:728px;height:90px">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-1'); });</script>
@@ -1093,71 +1481,71 @@ window.onload = function() {
 <!-- - - adsense: end - - -->
 	</div>
 
-	    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="/_js/all.20161226173605.js"></script>
-<div class="soft-half  push-half--sides">
-  <div class="container  container--footer">
-    <div class="push-half--top">
-      <div class="soft--top">
-        <div class="grid  grid--full">
-          <div class="grid__item  two-tenths  portable--one-whole">
+	    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" defer=""></script>
+    <script src="/_js/all.20170627140219.js" defer=""></script>
+<div class="px-2">
+  <div class="container-fluid  container--footer  border--top  border--thick  border--black">
+    <div class="mt-2">
+      <div class="pt-4">
+        <div class="row  no-gutters">
+          <div class="col-lg-2  col-12">
             <ul class="nav">
-              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--black" src="/_img/logo.20170101000555.png"></li>
-              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--white" src="/_img/logo-white.20170101000555.png"></li>
-              <li class="nav__item  one-whole  push-half--top"><p>Copyright © 2017</p></li>
-              <li class="nav__item  one-whole"><p class="visuallyhidden"> Compunode.com Pvt. Ltd. (<a href="http://www.compunode.com/">www.compunode.com</a>).Designed for <a href="http://www.dawn.com">Dawn</a>.</p></li>
-                  <li class="nav__item  one-whole"><p>Scribe Publishing Platform</p></li>
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--black" src="/_img/logo.png"></li>
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--white  d-none" src="/_img/logo--white.png"></li>
+              <li class="nav__item  d-block  text-left  mt-2"><p>Copyright © 2017</p></li>
+              <li class="nav__item  text-left"><p class="d-none"> Compunode.com Pvt. Ltd. (<a class="px-0 px-sm-1  text--400" href="http://www.compunode.com/">www.compunode.com</a>).Designed for <a class="px-0 px-sm-1  text--400" href="http://www.dawn.com">Dawn</a>.</p></li>
+              <li class="nav__item  d-block  text-left"><p>Scribe Publishing Platform</p></li>
             </ul>
           </div>
 
-          <div class="grid__item  eight-tenths  portable--one-whole">
-            <div class="grid  grid--full">
-              <div class="grid__item  one-fifth  palm--one-whole">
-                <ul class="nav  nav--dawn-sitemap">
-                  <li class="nav__item  one-whole"><a href="/contact">Contact Us</a></li>
-                  <li class="nav__item  one-whole"><a href="https://www.facebook.com/dawndotcom">Facebook</a></li>
-                  <li class="nav__item  one-whole"><a href="https://twitter.com/dawn_com">Twitter</a></li>
-                  <li class="nav__item  one-whole"><a href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
-                  <li class="nav__item  one-whole"><a href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
+          <div class="col-lg-10  col-12">
+            <div class="row  no-gutters">
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contact">Contact Us</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://www.facebook.com/dawndotcom">Facebook</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://twitter.com/dawn_com">Twitter</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
                 </ul>
               </div>
 
-              <div class="grid__item  one-fifth  palm--one-whole">
-                <ul class="nav  nav--dawn-sitemap">
-                  <li class="nav__item  one-whole"><a href="/newsletters">Newsletters</a></li>
-                  <li class="nav__item  one-whole"><a href="/prayers-timings">Prayer Timings</a></li>
-                  <li class="nav__item  one-whole"><a href="/stocks">Stock Forex and Gold</a></li>
-                  <li class="nav__item  one-whole"><a href="/weather">Weather</a></li>
-                  <li class="nav__item  one-whole"><a href="/social-media-guidelines">Social Media Guidelines</a></li>
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/newsletters">Newsletters</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/prayers-timings">Prayer Timings</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/stocks">Stock Forex and Gold</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/weather">Weather</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/social-media-guidelines">Social Media Guidelines</a></li>
                 </ul>
               </div>
 
-              <div class="grid__item  one-fifth  palm--one-whole">
-                <ul class="nav  nav--dawn-sitemap">
-                  <li class="nav__item  one-whole"><a href="/code-of-ethics">Code of Ethics</a></li>
-                  <li class="nav__item  one-whole"><a href="/terms">Terms of Use</a></li>
-                  <li class="nav__item  one-whole"><a href="/privacy">Privacy</a></li>
-                  <li class="nav__item  one-whole"><a href="/reproduction-copyrights">Reproduction Copyrights</a></li>
-                  <li class="nav__item  one-whole"><a href="/contribution-guidelines">Contribution Guidelines</a></li>
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/code-of-ethics">Code of Ethics</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/terms">Terms of Use</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/privacy">Privacy</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/reproduction-copyrights">Reproduction Copyrights</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contribution-guidelines">Contribution Guidelines</a></li>
                 </ul>
               </div>
 
-              <div class="grid__item  one-fifth  palm--one-whole">
-                <ul class="nav  nav--dawn-sitemap">
-                  <li class="nav__item  one-whole"><a href="/advertise-dawn">Advertise in Dawn</a></li>
-                  <li class="nav__item  one-whole"><a href="http://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
-                  <li class="nav__item  one-whole" style="visibility:hidden"><a href="/news/793000/full-width-template">Place Classifieds Ad</a></li>
-                  <!-- <li class="nav__item  one-whole"><a href="http://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/advertise-dawn">Advertise in Dawn</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://obituary.dawn.com">Obituaries</a></li>
+                  <!-- <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
                 </ul>
               </div>
 
-              <div class="grid__item  one-fifth  palm--one-whole">
-                <ul class="nav  nav--dawn-sitemap">
-                  <li class="nav__item  one-whole"><a href="http://www.dawn.com">Dawn.com</a></li>
-                  <li class="nav__item  one-whole"><a href="http://dawnnews.tv/">Dawnnews.tv</a></li>
-                  <li class="nav__item  one-whole"><a href="http://cityfm89.com">Cityfm 89</a></li>
-                  <li class="nav__item  one-whole"><a href="http://herald.dawn.com">HERALD</a></li>
-                  <li class="nav__item  one-whole"><a href="http://aurora.dawn.com">Aurora</a></li>
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://www.dawn.com">Dawn.com</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://dawnnews.tv/">Dawnnews.tv</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://cityfm89.com">Cityfm 89</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://herald.dawn.com">HERALD</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://aurora.dawn.com">Aurora</a></li>
                 </ul>
               </div>
             </div>
@@ -1191,7 +1579,7 @@ window.onload = function() {
 
     (function(){
       function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
+        window._sf_endpt = (new Date()).getTime();
         var e = document.createElement('script');
         e.setAttribute('language', 'javascript');
         e.setAttribute('type', 'text/javascript');
@@ -1207,12 +1595,174 @@ window.onload = function() {
             <!-- - - - - start:ga-events - - - - -->
             <script type="text/javascript">
             
-    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://drive.google.com/file/d/0B-u4Hs0jaO2Ubm9wdEhhdzJJRE0/view?ts=586649b2');});
+    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://www.dawn.com/news/1338270/the-dawn-of-pakistan');});
+    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://drive.google.com/file/d/0B-u4Hs0jaO2UTUxMamxaLV9MeUE/view');});
     if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','http://www.asianews.network/');});
             </script>
             <!-- - - - - end:ga-events - - - - -->
+
+            <!-- - - - - start:onesignal - - - - -->
+            <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+            <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+                appId: "da41085a-a849-47c0-96e7-4b956b56f35e",
+                /* Set to true to automatically prompt visitors */
+                autoRegister: true,
+
+                // https://documentation.onesignal.com/docs/customize-permission-messages-1
+                notifyButton: {
+                    text: {
+                        'tip.state.unsubscribed': 'Subscribe to notifications',
+                        'tip.state.subscribed': "You're subscribed to notifications",
+                        'tip.state.blocked': "You've blocked notifications",
+                        'message.prenotify': 'Click to subscribe to notifications',
+                        'message.action.subscribed': "Thanks for subscribing!",
+                        'message.action.resubscribed': "You're subscribed to notifications",
+                        'message.action.unsubscribed': "You won't receive notifications again",
+                        'dialog.main.title': 'Manage Site Notifications',
+                        'dialog.main.button.subscribe': 'SUBSCRIBE',
+                        'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+                        'dialog.blocked.title': 'Unblock Notifications',
+                        'dialog.blocked.message': "Follow these instructions to allow notifications:"
+                    },
+                    /* Set to false to hide */
+                    enable: false
+                },
+
+                prenotify: true,
+                persistNotification: false,
+                showCredit: false,
+                // Your other init options here
+                promptOptions: {
+                    /* Change bold title, limited to 30 characters */
+                    siteName: "Dawn.Com",
+                    /* Subtitle, limited to 90 characters */
+                    actionMessage: "We'd like to show you notifications for the latest news and updates.",
+                    /* Example notification title */
+                    exampleNotificationTitle: 'Subscribe for news updates',
+                    /* Example notification message */
+                    exampleNotificationMessage: "",
+                    /* Text below example notification, limited to 50 characters */
+                    exampleNotificationCaption: 'You can unsubscribe anytime',
+                    /* Accept button text, limited to 15 characters */
+                    acceptButtonText: "ALLOW",
+                    /* Cancel button text, limited to 15 characters */
+                    cancelButtonText: "NO THANKS"
+                }
+            }]);
+            // OneSignal.setSubscription(true);
+            OneSignal.push(function() {
+                // forcefully popup for notification subscription
+                // OneSignal.registerForPushNotifications();
+                // for debugging
+                // OneSignal.log.setLevel('trace');
+                /*OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                    if (isEnabled) {
+                      console.log("Push notifications are enabled!");
+                    }
+                    else {
+                      console.log("Push notifications are not enabled yet.");
+                    }
+                });*/
+            });
+            </script>
+            <!-- - - - - end:onesignal - - - - -->	<script>
+		function adBlockerPresent() {
+			console.log('this is adBlockerPresent()');
+			if (window.matchMedia('(max-device-width: 750px)').matches) return;
+			if ($('body').is('.hero')) return;
+
+			adblockAlert();
+			$(window).scroll(function() {
+				adblockAlert();
+			});
+			$(window).resize(function() {
+				adblockAlert();
+			});
+		}
+		function adBlockerAbsent() {
+			// hide all ad blocker mesages in case of false positive
+			$('.adblocker-overlay').hide();
+			$('.adblocker-modal').hide();
+			$('.adblock-alert').hide();
+			console.log('this is adBlockerAbsent()');
+		}
+		
+		function adblockAlert() {
+			var dismissDelay = 3;
+
+			var $modal = $('.adblocker-modal');
+			var $headroom = $('.headroom');
+			var $sticky = $('.adblock-alert');
+			var $modalOverlay = $('.adblocker-overlay')
+			var $modalButton = $('.adblocker-modal__button').attr('disabled', 'disabled');
+
+			$modalButton.on('click', function() {
+				$modalOverlay.css('display', 'none');
+				$modal.css('display', 'none');
+				Cookies.set('adblock-popup', true, {expires: 0.25});
+			});
+
+			$sticky.css('display', 'block').css('position', 'fixed');
+
+			// maintain position of adblocker warning on top and headroom displaced below it
+			if (window.scrollY === 0) {
+				$headroom.css('margin-top', 0);
+			} else {
+				$headroom.css('margin-top', $sticky.outerHeight() + 'px');
+			}
+
+			// don't show modal if cookie hasn't expired yet
+			if (Cookies.get('adblock-popup')) return;
+
+			// modal is already visible, don't re-render it
+			if ($modal.is(':visible')) return;
+
+			$modalButton.html(dismissDelay)
+
+			// show countdown on button
+			var interval = setInterval(function() {
+				if (dismissDelay == 0) {
+					clearInterval(interval);
+					$modalButton.html('Continue').removeAttr('disabled');
+				} else {
+					$modalButton.html(dismissDelay);
+				}
+				dismissDelay--;
+			}, 1000);
+
+			$modalOverlay.css('display', 'block');
+			$modal.css('display', 'block');
+		}
+
+		if(typeof blockAdBlock === 'undefined') {
+			console.log('ad blocker is not defined');
+			$('.headroom .border--ends').attr("style", "border-top-color: #dcdcdc !important");
+			adBlockerPresent();
+		} else {
+			blockAdBlock.setOption({
+				checkOnLoad: false,
+				debug: true
+			});
+			blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+		}
+		
+		function checkAgain() {
+			// setTimeout 300ms for the recheck is visible when you click on the button
+			setTimeout(function() {
+				if(typeof blockAdBlock === 'undefined') {
+					adBlockerPresent();
+				} else {
+					blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+					blockAdBlock.check();
+				}
+			}, 300);
+		}
+	</script>
+
 </footer>
-<!--2017-01-01 00:05:55-->
+<!--2017-07-01 04:08:04-->
 
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
