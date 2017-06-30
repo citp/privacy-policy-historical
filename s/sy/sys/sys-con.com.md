@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sys-con.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222140921id_/http%3A//www.sys-con.com/general/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sys-con.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630204003id_/http%3A//www.sys-con.com/general/terms.htm) for the most accurate reproduction.*
 
 # Privacy Information | SYS-CON MEDIA
 
