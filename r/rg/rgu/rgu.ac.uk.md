@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042206id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630145209id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Robert Gordon University (RGU) Aberdeen Scotland
 
@@ -45,14 +45,14 @@ As a user of the Robert Gordon University website you consent to the collection 
 
 By writing to:
 
-Data Protection Officer   
-Records Management   
+Ian Croft   
+Policy Officer   
 Robert Gordon University   
-Schoolhill   
-Aberdeen   
-AB10 1FR
+Garthdee Annexe   
+Garthdee Road   
+AB10 7QB
 
-Email: [k.fraser@rgu.ac.uk](mailto:k.fraser@rgu.ac.uk "Email Keith Fraser")
+Email: [i.f.croft@rgu.ac.uk](mailto:i.f.croft@rgu.ac.uk "i.f.croft@rgu.ac.uk")
 
 **Security**
 
@@ -66,4 +66,73 @@ Opt-out / Changing your status: At any time you can withdraw permission for the 
 
 ## Cookies
 
+We use a technology nicknamed "Cookies" on our website. Cookies make your visit to our website easier and improve the quality of the visitor experience. 
+
+**What is a cookie?**
+
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at:
+
+[www.allaboutcookies.org](https://web.archive.org/link/all-about-cookies "All about cookies \(opens in new window\)")
+
+[www.youronlinechoices.eu](https://web.archive.org/D8CC9230-A677-11E1-AB44000D609CAA9F "Your online choices \(opens in new window\)")
+
+For a video about cookies visit:
+
+[Google cookie video](https://web.archive.org/link/google-cookie-video)
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the International Chamber of Commerce UK Cookie guide. A list of all the cookies used on this website by category is set out below.
+
+#### Category 1: strictly necessary cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, assisting navigation and adjusting the colours of the pages.. Without these cookies services you have asked for, like online payment cannot be provided.
+
+#### Category 2: performance cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
+
+**Robert Gordon University uses Google Analytics. Find out more about[Google Analytics in Google's Privacy policy ](https://web.archive.org/link/google-privacy-policy "Google Privacy Policy \(opens in new window\)")and download the [opt out widget.](https://web.archive.org/link/google-analytics-opt-out-add-in "Google Analytics opt out \(opens in new window\)") **
+
+**By using our website you agree that we can place these types of cookies on your device.**
+
+#### Category 3: functionality cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
+
+**Robert Gordon University does not currently use this type of cookie on this website, however, be aware that third party staff blogs and websites linked from this website may use these and should advise users.**
+
+#### Category 4: targeting cookies or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
+
+**Robert Gordon University does not contain any advertisements on this website.** However **the University uses the AddThis button to enable content sharing**  As a consumer, you may have used these sharing tools, or installed an [AddThis browser extension](https://web.archive.org/link/addthis-browser-extension "Add This browser extension \(opens in new window\)"). You  should read the AddThis full [Privacy Policy](https://web.archive.org/link/addthis-privacy-policy "AddThis Privacy Policy \(opens in new window\)") and [Terms of Service](https://web.archive.org/link/addthis-terms-of-service "AddThis terms of service \(opens in new window\)"). 
+
+We audit our site for the presence of cookies. 
+
+A report on our cookie audit is available from [webproject@rgu.ac.uk](mailto:webproject@rgu.ac.uk "Email web project")
+
 ## Opting out of cookies
+
+**More information is available from**[www.allaboutcookies.org](https://web.archive.org/link/all-about-cookies "All about cookies \(opens in new window\)")
+
+You may opt out of cookies by going to your browser settings.
+
+If you are using  **Internet Explorer (IE) 8.0+:**
+
+  * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
+  * Click on 'Privacy' Tab on top
+  * Click on 'Sites' a new window should open called 'Per Site Privacy Actions'
+  * Type in the URL of the site you wish to allow or block cookie in th 'Address of website' box
+
+
+
+**To delete existing cookies:**
+
+  * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
+  * Click on 'Privacy' Tab on top
+  * Click on 'Sites' a new window should open called 'Per Site Privacy Actions'
+  * Under the "Managed websites' box should be a list of all the websites you have visited.
+  * To remove all cookies simply click on the "Remove all" button.
+
+
+
+For details on how to do this for other browsers visit  [http://www.allaboutcookies.org/manage-cookies/](https://web.archive.org/link/all-about-cookies-managing-cookies-info "All about cookies - Managing cookies \(opens in new window\)")
