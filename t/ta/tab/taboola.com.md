@@ -1,54 +1,96 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140113id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630194731id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World's Largest Discovery Platform | Taboola
 
-_Effective Date:_ April 4, 2016
+_Effective Date:_ June 16, 2017
 
-Taboola, Inc., together with its affiliates (“Taboola”, “we”, “us”, or “our”), recognizes the importance of privacy. In this privacy policy ("Privacy Policy") we describe how we collect, use, and disclose information that we obtain through our websites, such as [www.taboola.com](http://www.taboola.com/) and [Taboola.fr](http://taboola.fr/) or any other Taboola website displaying this Privacy Policy (collectively, the “Sites”), as well as our content-discovery platforms, widgets, analytics tools and other technical applications we may provide either through our Sites or through third-party websites (collectively, the “Services”). 
+If you would like to go directly to Taboola’s opt-out status options, please click here.
+
+**Privacy Self-Regulation:**
+
+Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the  **Digital Advertising Alliance**  (DAA), the  **Digital Advertising Alliance Canada**  (DAAC), and the  **European Interactive Digital Advertising Alliance**  (EDAA). Taboola also adheres to the  **Interactive Advertising Bureau’s**  (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the  **IAB Europe**  OBA Framework. Taboola is also a proud member in good standing of the  **Network Advertising Initiative**  (NAI), an association dedicated to responsible data collection and its use for digital advertising, and we adhere to the NAI Code of Conduct for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers/), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/); and to manage all NAI member sites’ settings, [click here](http://optout.networkadvertising.org/#/).
+
+[](https://www.networkadvertising.org/) [](http://youradchoices.com/)    [](https://www.aboutads.info/)      [](http://www.edaa.eu/)      [](http://youradchoices.ca/)   [](https://www.iab.com/)
+
+**Privacy Policy**
+
+Taboola, Inc., together with its affiliates (“Taboola”, “we”, “us”, or “our”), recognizes the importance of privacy. In this privacy policy ("Privacy Policy") we describe how we collect, use, and disclose information that we obtain through our website, [www.taboola.com](http://www.taboola.com/) or any other Taboola website displaying this Privacy Policy (collectively, the “Sites”), as well as our content-discovery platforms, widgets, analytics tools, and other technical applications that we may provide either through our Sites or through third-party websites (collectively, the “Services”).
 
 By visiting the Sites, using or interacting with any of our Services, you expressly consent that any information that we collect from or about you through our Sites or Services, including Personal Information, anonymous information, and aggregate information (collectively, “Information”), will be handled as described in this Privacy Policy.
 
-The use we make of the Information, including Personal Information, collected through the Sites and Services may vary depending on whether you are (i) a Taboola customer ("Customer"), i.e., a publisher, advertiser or other content provider with whom we have a contractual relationship; (ii) a visitor of our Customers' websites interacting with our Services ("User"); or (iii) or a visitor of our own Taboola Sites ("Site Visitor"), which may include Customers as well as prospective customers. Therefore, we have distinguished the relevant information that relates to each of these target categories into three different sections below. Information that is relevant to all of these three categories is set forth in section 4 of this Privacy Policy.
+The use we make of the Information, including Personal Information, collected through the Sites and Services may vary depending on whether you are (i) a Taboola customer ("Customer"), i.e., a publisher, advertiser, or other content provider with whom we have a contractual relationship; (ii) a visitor of our Customers' websites who interacts with our Services ("User"); or (iii) or a visitor of our own Taboola Sites ("Site Visitor"), which may include Customers as well as prospective customers. Therefore, we have distinguished the relevant information that relates to each of these target categories into three different sections below. Information that is relevant to all of these three categories is set forth in Section 4 of this Privacy Policy.
 
 We define “Personal Information” to mean personally identifiable information about an individual, such as a name, address, email address, phone number, or other identifier that permits direct or indirect identification of a specific individual, or as otherwise defined by applicable privacy and data security laws.
 
-Your use of our Sites or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](http://www.taboola.com/terms-of-use-04162015), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Use](http://www.taboola.com/terms-of-use-04162015) are incorporated by reference into this Privacy Policy. For more information about how we use cookies on the Sites and when providing our Services, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy).
+Your use of our Sites or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](http://www.taboola.com/terms-of-use-04162015), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Use](http://www.taboola.com/terms-of-use-04162015) are incorporated by reference into this Privacy Policy. For more information about how we use cookies on the Sites and when providing our Services, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy).
 
 **Quick Reference**
 
-**1.Customers**
+**1.** **Customers**
 
-**2.Users**
+**   1.1 Information We Collect from Customers**
 
-**3.Site Visitors**
+**   1.2 How We Use Customer Information**
 
-**4.General provisions applicable to Customers, Users and Site Visitors**
+**   1.3 How We Disclose Customer Information**
 
-**      4.1 How we use your Information**
+**   1.4 Customer Choices**
 
-**      4.2 Disclosing your Information**
+**2.** **Users**
 
-**      4.3 Cookies and other tracking mechanisms**
+**   2.1 Information We Collect from Users**
 
-**      4.4 Third-party links**
+**   2.2 How We Use User Information**
 
-**      4.5 Security**
+**   2.3 How We Disclose User Information**
 
-**      4.6 Notice to non-US Customers, Users or Site Visitors**
+**   2.4 Interest-Based Advertising**
 
-**      4.7 Contact us**
+**   2.5 Data Retention**
 
-**      4.8 Changes to this Privacy Policy**
+**   2.6 User Choices and Opting Out**
+
+**   2.7 Children**
+
+**3.** **Site Visitors**
+
+**   3.1 Information We Collect from Site Visitors**
+
+**   3.2 How We Use Site Visitor Information**
+
+**   3.3 How We Disclose Site Visitor Information**
+
+**   3.4 Third-Party Online Advertising**
+
+**   3.5 Site Visitor Choices**
+
+**4.** **General Provisions Applicable to Customers, Users, and Site Visitors**
+
+**   4.1 How We Use Your Information**
+
+**   4.2 Disclosing Your Information**
+
+**   4.3 Cookies and Other Tracking Mechanisms**
+
+**  4.4 Third-Party Links**
+
+**   4.5 Security**
+
+**5.** **Notice to Non-US Customers, Users, or Site Visitors**
+
+**6.** **Contact Us**
+
+**7.** **Changes to This Privacy Policy**
 
 **1\. Customers**
 
-**Information we collect from Customers**
+**1.1 Information We** **Collect from Customers**
 
 We collect Customer Information directly from our Customers. For example, we will collect Customers’ user name and password, as well as contact details if a Customer creates an account on any of our Sites. When a Customer sends us an email asking a question, or signs up to our email newsletters, we will collect the Information that the Customer submits to us. We will also collect other Information that Customers choose to provide to us, such as the contents of a message that a Customer submits through our Sites.
 
 When a Customer uses our Backstage platform, we collect Information such as the Customer's name, email address, telephone number, payment card information, billing information, and any other Information the Customer may choose to provide to us on the platform.
 
-**How we use Customer Information**
+**1.2** **How** **We Use** **Customer Information**
 
 We use Customer Information for the following purposes:
 
@@ -62,89 +104,119 @@ We use Customer Information for the following purposes:
 
 
 
-**How we disclose Customer Information**
+**1.3** **How** **We Disclose** **Customer Information**
 
 We may disclose Customer Information as follows:
 
-  * Taboola affiliates ** _._** We may disclose Customer Information to any current or future affiliates, parent companies, or subsidiaries.
+  * **_Taboola affiliates._** We may disclose Customer Information to any current or future affiliates, parent companies, or subsidiaries.
 
 
-  * Taboola service providers ** _._** We may disclose Customer Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, fraud detection) on our behalf.
+  * **_Taboola service providers._** We may disclose Customer Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, fraud detection) on our behalf.
 
 
-  * Customers ** _._** We may disclose Customer Information to other Customers. For example, we may provide publishers with information about what advertisers may appear on their network or advertisers with information about which publishers they have appeared on. This information is not provided in a form in which it can reasonably be identified as personal information.
+  * **_Customers._** We may disclose Customer Information to other Customers. For example, we may provide publishers with information about what advertisers may appear on their network or advertisers with information about which publishers they have appeared on.
 
 
 
-**Customer choices**
+**1.4** **Customer** **C** **hoices**
 
-Customers may verify, correct, or update the Personal Information they have provided to us by updating the Personal Information in their account, by emailing their dedicated account manager or by emailing us at [support@taboola.com](mailto:support@taboola.com). Customers may also request the deactivation of their account by emailing us at [support@taboola.com](mailto:support@taboola.com).  
+Customers may verify, correct, or update the Personal Information they have provided to us by updating the Personal Information in their account, by emailing their dedicated account manager or by emailing us at [support@taboola.com](mailto:support@taboola.com). Customers may also request the deactivation of their account by emailing us at [support@taboola.com](mailto:support@taboola.com).
 
 We may send periodic promotional or informational emails to Customers. Customers may at any moment opt out of such communications by following the opt-out instructions contained in the email. Please note that it may take up to ten (10) business days for us to process opt-out requests. If Customers opt out of receiving emails about recommendations or other information we think may interest them, we may still send them emails about their account or any Services they have requested or received from us. If a Customer is an EU resident, we will only send the Customer periodic promotional or informational emails provided the Customer is a Customer (i.e., not a prospect), has provided the email address of a legal person to receive our promotional communications, or if the Customer has opted in to receive such communications from us.
 
-**2\. Users** **Information we collect from Users** We collect User Information automatically through a User’s use of or interaction with our Services. We automatically collect Information through a User’s use of our Services through cookies and other technologies, like most other web-based services. This Information may include, without limitation, information about a User’s operating system, the webpages accessed by Users within our Customers’ websites, the link that led a User to a Customers' website, the dates and times a User accesses a Customers' website, event information (e.g., system crashes), and general location information (e.g., city and state). We also collect User IP addresses; however we do not collect this in full, as we partially mask the collected IP address.
+**2\. Users**
 
-For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy).
+**2.1** **Information** **We Collect** **from Users**
 
-**How we use User Information**
+We collect User Information automatically through a User’s use of or interaction with our Services. We automatically collect Information through a User’s use of our Services through cookies and other technologies, like most other web-based services. This Information may include, without limitation, information about a User’s operating system, IP address, the webpages accessed by Users within our Customers’ websites, the link that led a User to a Customers' website, the dates and times a User accesses a Customers' website, event information (e.g., system crashes), and general location information (e.g., city and state).
+
+For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy).
+
+**2.2** **How** **We Use** **User Information**
 
 We use User Information for the following purposes:
 
   * **_Providing our Service._** To provide our Services to Users and our Customers.
 
 
-  * **_Tailoring content._** To tailor the content and information that we may send or display to Users; to retarget content to Users through our Services and elsewhere; and to otherwise personalize your experiences while using our Services. For more information about how we tailor our content see information below about our Interest Based Advertising.
+  * **_Tailoring content._** To tailor the content and information that we may send or display to Users; to retarget content to Users through our Services and elsewhere; and to otherwise personalize your experiences while using our Services. For more information about how we tailor our content see information below about our [Interest Based Advertising](https://www.taboola.com/privacy-policy#interest).
+  * **_Tailoring content across multiple devices._** To improve a unique User’s experience across multiple browsers and devices (such as smartphones, tablets, or other viewing devices) by providing better targeted ad campaigns to that User. For instance, we may usually recognize a User on a web browser, and may want to provide similar content through mobile apps, as well. To do this, we identify unique Users across devices, or we may sync cookies and identifiers with our service providers or Customers that do this, to help our Customers enhance their own data and data segments, or help them obtain or provide customer insights to other marketers.
 
 
 
-**How we disclose User Information**
+**2.3** **How** **We Disclose** **User Information**
 
 We may disclose User Information as follows:
 
-  * **Taboola affiliates _._** We may disclose User Information to any current or future affiliates, parent companies, or subsidiaries. 
+  * **_Taboola affiliates._** We may disclose User Information to any current or future affiliates, parent companies, or subsidiaries.
 
 
-  * **Taboola service providers _._** We may disclose User Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, or fraud detection) on our behalf.
+  * **_Taboola service providers._** We may disclose User Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, or fraud detection) on our behalf.
 
 
   * **_Unaffiliated third parties._** We may disclose User Information to other unaffiliated third parties, such as our Customers.
 
 
-  * **Customers _._** We may disclose User Information to Customers. For example, we may provide publishers with information about the viewing and click-through patterns of postings of the content they publish and may provide advertisers with information to inform them about conversion rates for analytics purposes. This information is not provided in a form in which it can reasonably be identified as personal information.
+  * **_Customers._** We may disclose User Information to Customers. For example, we may provide publishers with information about the viewing and click-through patterns of postings of the content they publish and may provide advertisers with information to inform them about conversion rates for analytics purposes.
 
 
 
-**Interest-based advertising**
+**2.4** **Interest-** **Based Advertising**
 
-Through our Services, including our Services on Customer Websites, we may provide advertisements to you based on your recent browsing behavior.  For example, if you visit and browse on Website A, on a subsequent online visit to Website B, you may see content personalized by your browsing history on Website A.  In order to target advertisements to you for products and services in which you might be interested, we may use cookies, JavaScript, web beacons (including clear GIFs), HTML5 local storage and other technologies.  For more information about how we use these technologies, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy). We may also use third parties such as network advertisers, which are third parties that display advertisements based on your visits to websites you have visited to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may also use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one.
+Through our Services, including our Services on Customer Websites, we may provide advertisements to you based on your recent browsing behavior across different Customer Websites, browsers, or devices. For example, if you visit and browse on Website A on a first online visit, on a subsequent online visit to Website B, you may see content personalized based on your browsing history on Website A. For example, if a user visits a clothing retail site, she might see clothing-related ads on another site. In order to target advertisements to you for products and services in which you might be interested, we may use cookies, JavaScript, web beacons (including clear GIFs), HTML5 local storage and other technologies. For more information about how we use these technologies, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy). We may also use third parties such as network advertisers, which are third parties that display advertisements based on your visits to websites you have visited to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may also use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one.
 
-**User choices**
+If you have questions about our collection and use of data for interest-based advertising purposes, please contact us at: [support@taboola.com](mailto:support@taboola.com).
 
-Taboola supports initiatives of greater transparency and control for users. Taboola adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising, a program run by the Digital Advertising Alliance and the Digital Advertising Alliance Canada, with the goal of providing Internet users transparency and control. 
+**2.5.** **User** **Choices and Opting Out**
 
-If you do not want to receive interest-based ads displayed by Taboola, you can disable the display of such ads by clicking on the opt-out button below.  
+Taboola supports initiatives of greater transparency and control for users, and offers the following options for controlling the interest-based content and ads you receive.
 
-Opting out only means that we will no longer deliver targeted content or ads to you, but it does not mean you will no longer see our Services. You may continue to see our Services on our Customers’ websites with content or ads chosen based on the particular website that you are viewing (i.e. contextually based ads).  Note that if your browsers are configured to reject cookies, your opt-out may not be effective, since we identify your choice to opt-out based on a cookie we deliver to you. So you will need to confirm that your browser is configured properly in order for the opt-out to be effective.
+If you do not want to receive interest-based ads displayed by Taboola, you can disable the display of such ads by clicking on the opt-out button below.
 
-Users in the United States and Canada may also opt out of many third-party ad networks (see our [Interest-Based Advertising](https://www.taboola.com/privacy-policy#interest) section above). For example, Users may go to the Digital Advertising Alliance (“DAA”) consumer choice page at <http://www.aboutads.info/choices>, or the Digital Advertising Alliance of Canada (“DAAC”) consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices), for information about opting out of interest-based advertising and their choices regarding having information used by companies listed on the DAA and DAAC consumer choice pages. Opting out from one or more companies listed on the DAA or DAAC consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising through our Services or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA or DAAC consumer choice pages, your opt out may not be effective. Additional information is available on the DAA’s website at  [www.aboutads.info](http://www.aboutads.info/) and on the DAAC’s website at [www.youradchoices.ca](http://www.youradchoices.ca/).
+  * **Not Opted Out** : Taboola will serve you personalized recommendation based on your history.
+  * **Opted Out** : You have opted out of tracking, Taboola will no longer serve you with personalized content recommendations based on your internet use history.
 
-**Children**
+
+
+Opting out will not prevent you from seeing our content or ads, but ads you see will likely be less relevant because they won’t be tailored to your interests. You may continue to see our Services on our Customers’ websites with content or ads chosen based on the particular website that you are viewing (i.e. contextually based ads). Note that if your browsers are configured to reject cookies, your opt-out may not be effective, since we identify your choice to opt-out based on a cookie we deliver to you. So you will need to confirm that your browser is configured properly in order for the opt-out to be effective. In addition, because our tracking mechanisms operate at the device and browser level, to fully opt-out across devices, you will need to do so on each device and browser individually.
+
+Taboola is a member of the Network Advertising Initiative (NAI) and adheres to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement/code). Taboola also adheres to the Self-Regulatory Principles for Online Behavioral Advertising, a program, run by the Digital Advertising Alliance (“DAA”), the Digital Advertising Alliance Canada (“DAAC”) and the European Interactive Digital Advertising Alliance (“EDAA”).
+
+  * **_You can also opt-out of receiving targeted ads served by us or other advertising companies._**
+    * You may use the [NAI opt out tool](http://www.networkadvertising.org/choices), which will allow you to opt out of seeing targeted ads from us and from other NAI-approved member companies.
+    * Users in the United States, Canada, and Europe may go to the DAA consumer choice page at <http://www.aboutads.info/choices>, or the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices), or the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/), for information about opting out of interest-based advertising and their choices regarding having information used by companies listed on the DAA, DAAC, or EDAA, consumer choice pages. Opting out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising through our Services or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective. Additional information is available on the DAA’s website at [www.aboutads.info](http://www.aboutads.info/), on the DAAC’s website at [www.youradchoices.ca](http://www.youradchoices.ca/), and on the EDAA’s website at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+
+  * **_You may also opt out of receiving targeted ads from other third-party ad networks._** You may use the DAA opt out tool (hyperlink this), which will allow you to opt out of seeing targeted ads from us and from other companies that adhere with the DAA principles.
+
+
+
+**2.6 Data Retention**
+
+We retain identifiable data, which is directly collected for purposes of serving ads, for eighteen (18) months from the User’s last interaction with our Services, after which time we de-identify the data by removing unique identifiers or aggregating the data.
+
+We retain aggregated data, which can not identify an individual or device and is used for purposes of reporting and analysis, for as long as commercially necessary. We keep opt-out information for longer than this period so that we can continue to honor opt-out requests.
+
+**2.7** **Children**
 
 We do not knowingly collect any data or target an advertisement on a website directed towards on a website directed to children under the age of thirteen (13). If you are the parent or guardian of a child under the age of thirteen (13) and have a concern regarding the Information we collect, please contact us at [support@taboola.com](mailto:support@taboola.com).
 
 **3\. Site Visitors**
 
-**Information we collect from Site Visitors**
+**3.1** **Information** **We Collect** **from Site Visitors**
 
 We collect Site Visitor Information directly from you or from third parties who collect Site Visitor Information automatically through your use of our Sites. We may combine all of the Information we collect from various sources.
 
-·       _Information we collect directly from you_. We may collect Site Visitor Information directly from you. For example, when you send us an email asking a question, or submit a form on our Sites to receive marketing materials or email newsletters, we will collect the Information that you submit to us. We will also collect any other Information that you choose to provide to us, such as the contents of a message that you submit through our Sites.
+  * **_Information we collect directly from you_** **.** We may collect Site Visitor Information directly from you. For example, when you send us an email asking a question, or submit a form on our Sites to receive marketing materials or email newsletters, we will collect the Information that you submit to us. We will also collect any other Information that you choose to provide to us, such as the contents of a message that you submit through our Sites.
 
-·       _Information we collect from third parties_. We may collect Site Visitor Information about you from third parties that collect information automatically through your use of the Site, such as web analytics companies. Such information may include, without limitation, information about your operating system, settings and system configurations, device model, device ID and other unique device identifiers, mobile related information, the webpages you access within our Sites, the website that led you to our Sites, the website to which you go after leaving our Sites, the dates and times you access our Sites, event information (e.g., system crashes) and web log data. These third parties may also collect your IP address however we do not collect these IP addresses.
 
-For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy).
+  * **_Information we collect from third parties_** **.** We may collect Site Visitor Information about you from third parties that collect information automatically through your use of the Site, such as web analytics companies. Such information may include, without limitation, information about your operating system, IP address, settings and system configurations, device model, device ID and other unique device identifiers, mobile related information, the webpages you access within our Sites, the website that led you to our Sites, the website to which you go after leaving our Sites, the dates and times you access our Sites, event information (e.g., system crashes) and web log data.
 
-**How we use Site Visitor Information**
+
+
+For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy).
+
+**3.2** **How** **We Use** **Site Visitor Information**
 
 We use your Site Visitor Information for the following purposes:
 
@@ -164,28 +236,28 @@ We use your Site Visitor Information for the following purposes:
 
 
 
-**How we disclose Site Visitor Information**
+**3.3** **How** **We Disclose** **Site Visitor Information**
 
 We may disclose Site Visitor Information as follows:
 
-  * Taboola affiliates ** _._** We may disclose Site Visitor Information to any current or future affiliates, parent companies, or subsidiaries.
+  * **_Taboola affiliates._** We may disclose Site Visitor Information to any current or future affiliates, parent companies, or subsidiaries.
 
 
-  * Taboola service providers ** _._** We may disclose Site Visitor Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, fraud detection) on our behalf.
+  * **_Taboola service providers._** We may disclose Site Visitor Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, fraud detection) on our behalf.
 
 
 
-**Third-party Online Advertising**
+**3.4** **Third-** **P** **arty Online Advertising**
 
-We may use third parties who collect Information about Site Visitors through their own cookies, web beacons, and other technologies regarding your online activities, either on our Sites and/or other websites across the Internet, in an effort to understand your interests and deliver you advertisements that are tailored to your interests.  These third parties include advertisers and ad networks that may collect information about when you view or interact with one of their advertisements and may collect information regarding your activities on our Sites and your online activities over time and across different Websites. Like most advertisers, we place advertisements where we think they will be most relevant to the recipient. One way we do so is by allowing the advertising networks with whom we work to place their own cookies when an individual visits our Sites. This enables the network advertising company to recognize individuals who have previously visited our Sites. When the individual visits a third-party website on which that network advertising company has purchased ad space, the advertising company can then recognize the individual's interest in Taboola and deliver one of our advertisements. To learn more about third parties who collect Site Visitor Information, please review our [Cookie Policy](https://web.archive.org/cookie-policy). 
+We may use third parties who collect Information about Site Visitors through their own cookies, web beacons, and other technologies regarding your online activities, either on our Sites and/or other websites across the Internet, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These third parties include advertisers and ad networks that may collect information about when you view or interact with one of their advertisements and may collect information regarding your activities on our Sites and your online activities over time and across different Websites. Like most advertisers, we place advertisements where we think they will be most relevant to the recipient. One way we do so is by allowing the advertising networks with whom we work to place their own cookies when an individual visits our Sites. This enables the network advertising company to recognize individuals who have previously visited our Sites. When the individual visits a third-party website on which that network advertising company has purchased ad space, the advertising company can then recognize the individual's interest in Taboola and deliver one of our advertisements. To learn more about third parties who collect Site Visitor Information, please review our [Cookie Policy](https://www.taboola.com/cookie-policy).
 
-**Site Visitor Choices**
+**3.5** **Site Visitor Choices**
 
-Site Visitors in the United States may opt out of the third-party ad networks and advertisers that collect information on the Sites in order to serve tailored ads. For example, Site Visitors may go to the Digital Advertising Alliance (“DAA”) consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices), or the Digital Advertising Alliance of Canada (“DAAC”) consumer choice page at [www.youradchoices.ca](http://www.youradchoices.ca/), for information about opting out and their choices regarding having information used by companies listed on the DAA and DAAC consumer choice pages. Opting out from one or more companies listed on the DAA or DAAC consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising from them. Also, if your browsers are configured to reject cookies when you visit the DAA or DAAC consumer choice page, your opt out may not be effective. Additional information is available on the DAA’s website at [www.aboutads.info](http://www.aboutads.info/) and on the DAAC’s website at [www.youradchoices.ca](http://www.youradchoices.ca/). Taboola is committed to complying with the Self-Regulatory Program for Interest Based Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA Consumer opt out page](http://www.networkadvertising.org/choices/) and the [DAAC Consumer opt out page](http://youradchoices.ca/choices).
+Site Visitors in the United States may opt out of the third-party ad networks and advertisers that collect information on the Sites in order to serve tailored ads. For example, Site Visitors may go to the Digital Advertising Alliance (“DAA”) consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices), or the Digital Advertising Alliance of Canada (“DAAC”) consumer choice page at [www.youradchoices.ca](http://www.youradchoices.ca/), or the European Interactive Digital Advertising Alliance (“EDAA”) consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/), for information about opting out and their choices regarding having information used by companies listed on the DAA and DAAC consumer choice pages. Opting out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising from them. Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC, or EDAA consumer choice page, your opt out may not be effective. Additional information is available on the DAA’s website at [www.aboutads.info](http://www.aboutads.info/), on the DAAC’s website at [www.youradchoices.ca](http://www.youradchoices.ca/), and on the EDAA’s website at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Taboola is committed to complying with the Self-Regulatory Program for Interest Based Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA Consumer opt out page](http://www.networkadvertising.org/choices/) and the [DAAC Consumer opt out page](http://youradchoices.ca/choices).
 
 **4\. General provisions applicable to Customers, Users and Site Visitors**
 
-**4.1 How we use your Information**
+**4.1** **How** **We Use Your** **Information**
 
 The Information we collect from Customers, Users and Site Visitors are used for the purposes as respectively set forth in the sections above, as well as for the following purposes:
 
@@ -199,13 +271,13 @@ The Information we collect from Customers, Users and Site Visitors are used for 
 
 
 
-**4.2 Disclosing your Information**
+**4.2** **Disclosing** **Y** **our Information**
 
 When we disclose your Information with third parties, we require such recipients to agree to only use the Information we share with them in accordance with this Privacy Policy and for no other purpose than those determined by us in line with this Privacy Policy.
 
 In addition to the disclosures detailed above, we may also disclose Information for the following purposes:
 
-  * Business transfers ** _._** We reserve the right to disclose and/or transfer Information to another entity if we are acquired by or merged with another company, if we sell or transfer a business unit or assets to another company, as part of a bankruptcy proceeding, or as part of any other similar business transfer.
+  * **_Business transfers._** We reserve the right to disclose and/or transfer Information to another entity if we are acquired by or merged with another company, if we sell or transfer a business unit or assets to another company, as part of a bankruptcy proceeding, or as part of any other similar business transfer.
 
 
   * **_Legal compliance._** We may disclose Information in order to comply with the law, regulation, a judicial proceeding, subpoena, court order, or other legal process.
@@ -214,44 +286,44 @@ In addition to the disclosures detailed above, we may also disclose Information 
   * **_Protecting rights and interests._** We may disclose Information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Use](http://www.taboola.com/terms-of-use-04162015) or this Privacy Policy, or as evidence in litigation in which we are involved.
 
 
-  * Aggregate and de-identified Information ** _._** We may disclose aggregate or de-identified information about users for marketing, advertising, research, or other purposes.
+  * **_Aggregate and de-identified Information._** We may disclose to our Advertisers and other third parties aggregated or de-identified information about users for marketing, advertising, research, or other purposes.
 
 
 
-**4.3 Cookies and other tracking mechanisms**
+**4.3** **Cookies and** **Other Tracking Mechanisms**
 
-For more information about how we use cookies and other tracking mechanisms on the Sites and when providing our Services, please refer to our Cookie Policy. You may disable certain tracking as discussed in our [Cookie Policy](https://web.archive.org/cookie-policy) (e.g., by disabling cookies).
+For more information about how we use cookies and other tracking mechanisms on the Sites and when providing our Services, please refer to our Cookie Policy. You may disable certain tracking as discussed in our [Cookie Policy](https://www.taboola.com/cookie-policy) (e.g., by disabling cookies).
 
-**4.4 Third-party links**
+**4.4** **Third-** **Party Links**
 
 Our Sites and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Privacy Policy but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information security nor privacy practices of such third-party websites.
 
 For example, our Sites include features from third-party social networking platforms, such as the Facebook “Like” button. These features may collect certain information, such as your IP address or the page you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing such features. As another example, our Services link to Customer websites, which are also not governed by this Privacy Policy but by the applicable Customers’ privacy policy.
 
-**4.5 Security**
+**4.5** **Security**
 
 We value the security of your Information, including but not limited to the Personal Information collected via the Sites or Services. We have taken steps to help protect the Information we collect about you from loss, misuse, unauthorized access, disclosure, alteration, destruction and any other form of unauthorized processing. Please be aware, however, that no data security measures can guarantee 100% security.
 
-**4.6 Notice for non-US Customers, Users or Site Visitors**
+**5.** **Notice for Non-US Customers, Users, or Site Visitors**
 
 We may transfer your Information outside the country in which it is collected (e.g., to the United States), including to a country that may not offer the same level of protection for Personal Information as the country in which you reside. Rest assured however, because we at Taboola have arranged all contractual safeguards to ensure your Information is processed in a way that offers an adequate level of protection when it is shared between or among Taboola affiliates, subsidiaries and/or parent companies.
 
 By providing Information, including Personal Information, under this Privacy Policy, you expressly consent to the use of such Information in accordance with this Privacy Policy and to the transfer of your Information to another country (including e.g., the United States).
 
-**4.7 Contact us**
+**6.** **Contact** **Us**
 
 If you have questions about the privacy aspects of our Sites or Services, please contact us at:
 
 Taboola, Inc.  
-28 West 23rd St.  
-5th fl.  
-New York, NY 10010  
+1115 Broadway  
+7th Floor  
+New York, New York 10010  
 Tel: 212.206.7663  
-Email: [support@taboola.com](mailto:support@taboola.com).
+Email: [support@taboola.com](mailto:support@taboola.com)
 
-The names and contact details of our affiliates which may process your Personal Information in their capacity as data controllers, can be found here: [www.taboola.com/contact](http://www.taboola.com/contact).  
+The names and contact details of our affiliates which may process your Personal Information in their capacity as data controllers, can be found here: [www.taboola.com/contact](http://www.taboola.com/contact).
 
-**4.8 Changes to this Privacy Policy**
+**7.** **Changes to** **T** **his Privacy Policy**
 
 This Privacy Policy is current as of the Effective Date set forth above.
 
