@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104173417id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponconnector.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630034732id_/http%3A//www.couponconnector.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Coupon Connector
 
-This web site is owned by **LS Media**. Find further information at LSmedia.com
+This web site is owned by **LS Media LLC**. Find further information at LSmedia.com
 
 Our postal address is:
 
 **LS Media  
-\- 304 Main Ave. # 108  
+\- 304 Main Ave. #108  
 Norwalk, CT 06851** Email: [info@lsmedia.com](mailto:info@lsmedia.com)  
 Phone: 1.203.807.4437  
 Fax: 1.877.442.1029 
