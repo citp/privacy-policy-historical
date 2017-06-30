@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093319id_/http%3A//www.bankofengland.co.uk/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630093007id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Bank of England
 
