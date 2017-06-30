@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikaribox.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616111101id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikaribox.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630091003id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.LightInTheBox.com
 
