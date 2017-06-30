@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201031127id_/http%3A//www.amember.com/p/main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630160146id_/http%3A//www.amember.com/p/main/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | aMember
 
@@ -7,6 +7,15 @@
 CGI-Central respects and is committed to protecting your privacy. We have, therefore, established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit CGI-Central’s web pages without telling us who you are or revealing any Personal Information about yourself. 
+
+**This website uses Google AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the [CLIENT NAME] website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.  
+
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 CGI-Central strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, CGI-Central intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
@@ -17,6 +26,12 @@ Every computer connected to the Internet is given a domain name and/or a set of 
 CGI-Central may offer access to services that require registration. In that event, your registration and/or contact information may be used to send notification to you of CGI-Central products and/or services by e-mail. We maintain a strict “No-Spam” policy that means that we do not sell, rent, or otherwise give your e-mail address to a third party, without your consent or as permitted by this Privacy Policy. 
 
 When you use co-branded services or those provided by a third party within CGI-Central, your Personal Information may be passed to that third party provider. Its use of your Personal Information is subject to their applicable privacy policies. 
+
+### We are using Google Remarketing
+
+We use Google Analytics’ 3rd-party audience data such as age, gender, and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, edit or opt-out your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>.
 
 ### Information We Do Not Collect
 
@@ -51,11 +66,3 @@ All information obtained from the customer will be used for the sole purpose of 
 By using CGI-Central website, you consent to the collection and use of information by CGI-Central as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 Please email any questions about Privacy Policy to: [support@cgi-central.net](mailto:support@cgi-central.net)
-
-### Hear what **others** have to say
-
-**I have been using the aMember platform for over six years** to host my Macintosh Training membership site. The software is very fast, and full of features. From getting subscribers signed up to creating email auto-responders, customizing form options and protecting all kinds of content, these guys do it well. I love aMember not only for it's features but for the support they have provided over the years. Alex and his team are constantly improving and updating the application. The interface they created is easy to navigate, allowing me to make changes to my offers and programs quickly.
-
-**aMember is one of the most important tools** we use at MyThemeShop to manage almost everything. Having 370K plus users comes with its challenges and aMember has been able to handle the users, the transactions, the downloads, the security – flawlessly. On top of that, aMember support is professional and quick. Having aMember and their support is like having a dedicated team of professionals to help you every step of the way. It integrates with WordPress, and if it works for us, it can work for anyone offering any digital products to any number of users. We can't recommend aMember enough.
-
-[More Testimonials…](https://web.archive.org/forum/forums/testimonials.20/)
