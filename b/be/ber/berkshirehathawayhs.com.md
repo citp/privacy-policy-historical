@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143201id_/http%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701013619id_/http%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkshire Hathaway HomeServices
 
