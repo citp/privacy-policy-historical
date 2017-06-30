@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109035647id_/http%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovypost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212422id_/https%3A//www.groovypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ As a groovyReader or subscriber to my newsletter, you can expect the following i
 
   1. If you sign up for my newsletter, your email address will only be used by my site, groovyPost. If you cancel your free subscription, I will delete your email address immediately from my newsletter system.
   2. I will **never** sell, trade, transfer or give away any information you provide me. **Period. No exceptions!**
-  3. I will **never** ask for or collect purposely any [personal identifiable information](http://en.wikipedia.org/wiki/Personally_identifiable_information "PII Data") for any reason. In the odd event it’s been collected or left on my site, please [contact me](http://www.groovypost.com/contact/) and I will purge it from the site in a groovy flash.
+  3. I will **never** ask for or collect purposely any [personal identifiable information](http://en.wikipedia.org/wiki/Personally_identifiable_information "PII Data") for any reason. In the odd event it’s been collected or left on my site, please [contact me](https://www.groovypost.com/contact/) and I will purge it from the site in a groovy flash.
 
 
 
