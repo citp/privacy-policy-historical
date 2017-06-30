@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404032018id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630043638id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
 
-# claz.org: Privacy Policy
+# Privacy Policy
 
-## 1\. User Information
+### 1\. User Information
 
 claz.org maintains a database of user information. This information is used only by claz.org to send automated email alerts and announcements. None of the information in users database is ever provided to any third-party, other than reasons specified in the [Terms of Use](http://claz.org/terms.html) document 
 
-## 2\. Usage Data
+### 2\. Usage Data
 
 All web servers have the ability to automatically collect certain information that a web browser provides. This collection ability is commonly referred to as a usage log or a traffic log.
 
 claz.org web site collects detail information such as IP address, domain name, browser, date, time and page accessed. claz.org also monitors all unsuccessful access attempts to our servers. We reserve the right to disable any account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgement, is attempting to bypass our security. 
 
-## 3\. Cookies and Web Beacons
+### 3\. Cookies and Web Beacons
 
 claz.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. claz.org has no controls over 3rd-party sites which the user may be visiting by clicking on links on claz.org. These sites may track your IP address and/or save cookies on your computer. claz.org has no control over or access to this data.
 
