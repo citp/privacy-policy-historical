@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129112438id_/http%3A//decor8blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222917id_/http%3A//decor8blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - decor8
 
