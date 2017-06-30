@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215111005id_/http%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feralinteractive.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630120543id_/https%3A//www.feralinteractive.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Feral Interactive
 
