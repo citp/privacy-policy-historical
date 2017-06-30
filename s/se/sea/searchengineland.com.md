@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125854id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183206id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
@@ -75,6 +75,34 @@ We’ll post changes to this policy on this page. Questions about this policy sh
 
 [ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
 
+[
+
+### Attend Our Conferences
+
+](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
+
+[](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
+
+October 24-26, 2017: [SMX East](http://marketinglandevents.com/smx/east/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
+
+×
+
+###  [Attend SMX - Click Here](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=standunit&utm_campaign=smx-video)
+
+[Learn More About Our SMX Events](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+button)
+
+[](http://www.martechconf.com/?utm_source=sel&utm_medium=textlink&utm_campaign=martech+home&utm_content=standunit+logo)
+
+Gain new strategies and insights at the intersection of marketing, technology, and management. Our next conference will be held:
+
+October 2-4, 2017: [MarTech Boston](http://martechconf.com/boston/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+bos+2017&utm_content=standunit)
+
+×
+
+###  [Attend MarTech - Click Here](http://martechconf.com/?utm_source=sel&utm_medium=standunit&utm_campaign=martech-video)
+
+[Learn More About Our MarTech Events](http://martechconf.com/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+home&utm_content=standunit+text)
+
 ### The Periodic Table of Seo Success
 
-[](http://searchengineland.com/seotable/)
+[](http://searchengineland.com/seotable/download-periodic-table-of-seo)
