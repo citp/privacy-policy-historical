@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the conversantmedia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060357id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversantmedia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630025540id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversant
 
-Last Modified: September 30, 2016
+Last Modified: April 4, 2017
 
  **INTRODUCTION:**
 
 Welcome to the Conversant Privacy Policy  **(“Privacy Policy”)**. By visiting our Privacy Policy, you’ve taken the first step in educating yourself about advertising businesses such as ours that contribute to the Internet’s ability to remain largely an ecosystem of free content, as well as to provide a better user experience for consumers.
 
-At Conversant, LLC, or any of its subsidiaries or affiliates, including Commission Junction, LLC, a Conversant Company ( **“Conversant,” “we,” “us,” or “our”** ), we provide online advertising services. To do this, we follow information usage practices based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Conversant creates results for advertisers and publishers in revolutionary ways without compromising individual privacy.
+At Conversant LLC, or any of its subsidiaries, including Commission Junction LLC, a Conversant Company ( **“Conversant,” “we,” “us,” or “our”** ), we provide online advertising services. To do this, we follow information usage practices based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, Conversant creates results for advertisers and publishers in revolutionary ways without compromising individual privacy.
 
 If you have questions or concerns regarding this statement, email us at [privacy@conversantmedia.com](mailto:privacy@conversantmedia.com).
 
-By visiting any Conversant website, mobile website, or mobile application, or any website of one of its subsidiaries or affiliates  **(** **collectively,** **“Site” or “Sites”)**  or sharing any information with us, you agree to be bound by this Privacy Policy.
+By visiting any Conversant website or mobile application, or any website or mobile application of one of its subsidiaries or affiliates  **(** **collectively,** **“Site” or “Sites”)**  or sharing any information with us, you agree to be bound by this Privacy Policy.
 
 To start, it is important for you to know two definitions that are key to understanding our programs and privacy practices:
 
@@ -38,8 +38,6 @@ Self-Regulation & Voluntary Compliance
 
 Your Choices
 
-Safe Harbor
-
 Use of the Conversant Sites as a Visitor or Client
 
 Contact Us
@@ -48,7 +46,7 @@ Your Representations
 
 Modifications to this Privacy Policy
 
- **SHORT FORM  PRIVACY POLICY**
+ **SHORT FORM  P** **RIVACY POLICY**
 
 We have included a table summarizing our practices solely for your convenience and reference purposes. This table is not an exhaustive description of our privacy practices and should not be construed to define, limit, and/or describe the scope or extent of this Privacy Policy. As a result, we urge you to read the entire Privacy Policy:
 
@@ -76,13 +74,13 @@ Sharing Your Information
 
 | 
 
-We may share your information with third party service providers with whom we have contracted, Conversant and its subsidiaries and affiliates, third party marketing partners, business partners and our clients and publishers, and as expressly provided for herein.  
+We may share your information with third party service providers with whom we have contracted, our subsidiaries and affiliates, third party marketing partners, business partners and our clients and publishers, and as expressly provided for herein.  
   
 Your Choices
 
 | 
 
-You may regulate the collection and use of Non-PII via the opt-out options provided herein or by uninstalling or electing not to install an app.  
+You may regulate the collection and use of Non-PII via the opt-out options provided herein or by uninstalling or electing not to install a web browser or mobile application.  
   
 Security
 
@@ -94,7 +92,7 @@ Retention
 
 | 
 
-We retain Non-PII for no more that eighteen (18) months for advertising purposes. Aggregate Non-PII data for reporting may be retained for a longer period.  
+We retain Non-PII we collect or receive online for no more than eighteen (18) months for advertising purposes. Aggregate Non-PII data for reporting and analytics may be retained for a longer period.  
   
 Changes
 
@@ -114,17 +112,17 @@ Top
 
 This Privacy Policy is primarily intended to provide a description of the ways in which we collect and use information to deliver advertising across the Internet. For more on how we handle information collected from clients and publishers or visitors to our Sites, please see “Use of the Conversant Sites as a Visitor or Client” below.
 
-This Site is not intended for use by those who are not legal residents of the United States. Neither the Sites, nor our online activities services for our clients, are directed toward or intended for children. We do not collect PII from any person of whom we have actual knowledge is under the age of 13. By using our website or the website of any of our publishers in our networks or submitting information to us, you consent to Conversant’s use and sharing of the information collected or submitted as described in this Privacy Policy.
+This Site is not intended for use by those who are not legal residents of the United States. Neither the Sites, nor our online activities or services for our clients, are directed toward or intended for children. We do not collect PII from any person of whom we have actual knowledge is under the age of 13. By using our website, the website of any of our publishers in our networks or submitting information to us, you consent to our use and sharing of the information collected or submitted as described in this Privacy Policy.
 
-Please be aware that in addition to our Sites, the websites of our clients and publishers, applications on which we place advertisements, and any third party websites linked to one of our sites, may also collect information from you for various purposes, including, but not limited to, providing advertisements about goods and services likely to be of greater interest to you. Such information collected by such websites and their affiliated or third party partners may include Non-PII through the use of cookies and other technologies. It may also include any PII you may choose to provide in registering and transacting with such website. Although we choose our business partners and clients carefully, Conversant is not responsible for the privacy practices of websites operated by such third parties. You should check the applicable privacy policies of such websites you visit to determine how they handle any information they collect from you.
+Please be aware that in addition to our Sites, the websites of our clients and publishers, applications on which we place advertisements and any third party websites linked to one of our Sites, may also collect information from you for various purposes, including, but not limited to, providing advertisements about goods and services likely to be of greater interest to you. Such information collected by such websites and mobile applications and their affiliated or third party partners may include Non-PII through the use of cookies and other technologies. It may also include any PII you choose to provide in registering and transacting with such websites and mobile applications. Although we choose our business partners and clients carefully, Conversant is not responsible for the privacy practices of websites and mobile applications operated by such third parties. You should check the applicable privacy policies of such websites and mobile applications you visit to determine how they handle any information they collect from you.
 
 Top
 
  **WHAT  CONVERSANT DOES**
 
-While you may only visit certain websites, there are other companies working behind the scenes to help provide you with a great digital experience. These third party companies provide vital services such as analytics, advertising, and fraud prevention to retailers, publishers, and other organizations. These services enable them to, among other things, provide the advertising that keeps your favorite blogs free, your favorite stores in business, and your advertising experience more relevant.
+While you may only visit certain websites and mobile applications, there are other companies working behind the scenes to help provide you with a great digital experience. These third party companies provide vital services such as analytics, advertising and fraud prevention for retailers, publishers, and other organizations. These services enable these third party companies to, among other things, provide the advertising that keeps your favorite blogs free, your favorite stores in business, and your advertising experience more relevant.
 
-We help companies provide advertising digital, both in browsers and mobile applications, and we do it in a variety of ways, from banner ads to coupon codes. To make some of these things possible, we need to have information available to provide smarter decision making. Technologies such as cookies and advertiser IDs enable companies like ours to provide more relevant advertising while keeping your identity anonymous.
+We help companies provide digital advertising, both in browsers and mobile applications, and we do it in a variety of ways, from banner ads to coupon codes. To make some of these things possible, we need to utilize information to provide smarter decision making. Technologies such as cookies and mobile device IDs enable companies like ours to provide more relevant advertising while keeping your identity anonymous to Conversant.
 
 In addition to our advertising services, we also utilize our technology to provide life-saving messages during tornadoes and AMBER Alerts, geotargeted to individuals in affected areas. To learn more about these internationally-recognized programs established by Conversant through an organization called the Federation for Internet Alerts, click [here](http://www.internetalerts.org/).
 
@@ -132,11 +130,11 @@ Top
 
  **PRIVACY BY DESIGN**
 
-Our philosophy on privacy at Conversant follows the framework of Privacy by Design. We integrate privacy in strategy, product development, and more. We set the tone for privacy protection early and often, proactively working to keep PII out of our systems, and building technologies that are effective without the use of PII. We can protect consumer privacy AND provide relevant advertising, which benefits everyone involved, especially advertisers, consumers, and small business websites. ** ** Ensuring the protection of privacy throughout the entire lifecycle of the data is of the utmost importance and Conversant is careful to protect privacy as data is collected, used, and destroyed responsibly.
+Our philosophy on privacy follows the framework of Privacy by Design. We integrate privacy in strategy, product development, and more. We set the tone for privacy protection early and often, proactively working to keep PII out of Conversant’s systems, and building technologies that are effective without the use of PII. We can protect consumer privacy AND provide relevant advertising, which benefits everyone involved, especially advertisers, consumers, and small business websites and mobile applications. ** ** Ensuring the protection of privacy throughout the entire lifecycle of the data is of the utmost importance, and we are careful to protect privacy as data is collected, used, and destroyed responsibly.
 
 We constantly strive to maintain unparalleled visibility with consumers. We provide transparency and choice through our website, encourage the same practice throughout the Internet, and utilize AdChoices on each banner advertisement tailored to consumers’ interests.
 
-Conversant has developed a strong privacy foundation and has a company culture aimed at the prevention of the receipt and use of PII. We respect consumer privacy, and give consumers the ability to opt out of receiving interest-based advertising  **(“IBA”)**.
+Conversant has developed a strong privacy foundation and has a company culture aimed at the prevention of the receipt and use of PII. We respect consumer privacy and give consumers the ability to opt out of interest-based advertising  **(“IBA”)**.
 
 Top
 
@@ -144,11 +142,13 @@ Top
 
  **Information Collected  by Conversant**
 
-Conversant only collects Non-PII from you (unless PII is provided by you voluntarily), and may collect this in a variety of ways. We may use technologies such as cookies, log files, pixel tags or other similar technologies to collect Non-PII about the browser or device you are using, including browsing activity, online transactions, and IP addresses. We may also receive Non-PII from third parties. Some clients contribute PII such as your name, address, email address, and associated transactional information directly to a third party with whom Conversant has a contractual relationship. This third party removes the PII data point and provides Conversant only the Non-PII for our use in providing advertising to you. All Non-PII received and collected by Conversant from the various sources may be combined and used to provide you advertising, and for other purposes as determined by Conversant.
+Conversant only collects Non-PII from you (unless PII is provided by you voluntarily), and may collect this in a variety of ways. We may use technologies such as cookies, log files, pixel tags or other similar technologies to collect Non-PII about the browser or device you are using, including browsing activity, online transactions, and IP addresses. We may also receive Non-PII from third parties. Some clients contribute PII such as your name, address, email address, and associated transactional information directly to a third party with whom Conversant has a contractual relationship. This third party removes the PII data points and provides Conversant only the Non-PII for our use in providing advertising to you. All Non-PII received and collected by Conversant from the various sources may be combined and used to provide you advertising, and for other purposes as determined by Conversant.
 
 We may also conduct surveys by serving interactive ads that ask you to provide information such as your gender and age range, which information may be associated with a device ID or a cookie ID. If you decide to respond, your demographic information will also be associated with a device ID or cookie ID and used only for the purposes described in this Privacy Policy.
 
-“Cookies” are files that are stored on your web-enabled client (such as your web browser or mobile device) and are used to improve your experience when seeing web and mobile advertisements and ensure that when you click on an ad, you are sent to the correct click-through destination. We may use cookies to estimate the total reach of an advertising campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. There are many misconceptions about cookies. Cookies cannot erase your hard drive, install programs, or collect PII from your browser or device.
+“Cookies” are files that are stored on your web-enabled device and are used to improve your experience when seeing web and mobile advertisements. We may use cookies to estimate the total reach of an advertising campaign, as well as frequency of display, and to serve advertisements which are relevant to you. This allows advertisers to determine with greater accuracy the composition of the audience they reach and attempt to reach an audience that is interested in their products or services. There are many misconceptions about cookies. Cookies cannot erase your hard drive, install programs, or collect PII from your browser or device.
+
+“Device IDs” are unique identifiers associated with your mobile device to be used for advertising. These identifiers are assigned by your mobile device operating system, such as Apple’s iOS and Google’s Play Services for Android, and do not reveal your identity. Device IDs can be reset in your mobile device settings. 
 
 “Log files” track actions occurring on Sites and collect data including, as an example, your IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamp, click data and types of advertisements viewed.
 
@@ -156,17 +156,19 @@ We may also conduct surveys by serving interactive ads that ask you to provide i
 
 “Location Data” recognizes a consumer’s location while they are on their device which is utilized by Conversant to deliver advertisements. As with all data Conversant collects, this is limited to non-precise as defined by the Network Advertising Initiative’s current definition of imprecise location data unless the consumer has opted in to allow their precise location to be used for IBA.
 
-The Non-PII collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match ads, mobile application and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of Conversant’s services. Conversant may also act as delivery agent when its products and services are used directly by client to facilitate advertisements and other communications.
+The Non-PII collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match ads, mobile application and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of Conversant’s services. Conversant may also act as a delivery agent when its products and services are used directly by a client to facilitate advertisements and other communications.
 
-Conversant supports the NAI Code of Conduct’s obligations around the collection and use of health information.  This health-related information, when collected and/or used for relevant advertising, is non-sensitive and consumers may exercise choice through an opt-out basis.  The NAI also permits Conversant to collect and use sensitive health information when the user provides explicit opt-in consent in the United States.  For a list of health segments used by Conversant, [click here](http://www.conversantmedia.com/legal/conversant-media-health-segments).
+Conversant supports the NAI Code of Conduct’s obligations around the collection and use of health information for interest-based advertising.  This health-related information, when collected and/or used for relevant advertising, is non-sensitive and consumers may exercise choice through an opt-out basis.  The NAI also permits Conversant to collect and use sensitive health information when the user provides explicit opt-in consent in the United States.  For a list of health segments used by Conversant, [click here](http://www.conversantmedia.com/legal/conversant-media-health-segments).
 
 When a consumer responds to or views an Internet advertisement served by Conversant (such as through third-party websites or email solicitations) or visits a Conversant site, we may assign an anonymous, unique identifier to the end user's Internet browser or device, often via a cookie. One function of these technologies is to provide Conversant with information for the purpose of paying third-parties affiliate commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's website. If the Internet user re-visits the advertiser's site directly, Conversant is able to continue to track the user's activities (excluding PII) on the advertiser's site and credit the third-party website that referred the user.
 
-We also may use Internet browsing, cross-mobile application browsing and online purchase data associated with a user, on a Non-PII level, across multiple devices to develop a predictive statistical user profile of the end user's needs and interests for the purpose of sending them relevant advertisements. This is called cross-device IBA.
+We also may use Internet browsing, cross-mobile application browsing and online purchase data associated with a user, on a Non-PII level, across multiple devices to develop a predictive statistical user profile of the end user's needs and interests for the purpose of sending them relevant advertisements on multiple browsers and devices. This is called cross-device IBA.
+
+To opt out of Conversant IBA, please follow the opt-out instructions below in the “Your Choices” and “Mobile Device Choices” sections of our Privacy Policy. Upon opt-out, we will no longer collect behavioral data on your browser and will also no longer send behavioral data to other browsers or devices associated with you. However, data that was collected on your browser or device prior to you opting out may still impact the advertisements you see on other browsers and devices associated with you. To opt out of interest-based advertising on all browsers and devices, you will need to follow the instructions below for each browser and device.
 
  **Information Sharing by  Conversant**
 
-Conversant will only share your information for limited purposes such as those provided in this Privacy Policy. This may include sharing information (1) to enable third party service providers to assist or facilitate in the services we provide to our clients; (2) to comply with applicable laws and regulations or to respond to a subpoena, search warrant or other lawful request for information received by us, whether or not a response is required by applicable law; (3) to enforce our terms of use and other agreements or to protect our rights ; (4) to protect the safety of members of the public and users of the service; (5) with other Conversant entities and clients for marketing purposes; (6) with vendors, administrative service providers, technology providers, and carefully selected partners for services including, but not limited to, data validation, enhancement, information verification and suppression services; or (7) for any other purpose for which you provide consent. None of this information will include PII except as provided herein. While Conversant strongly encourages clients and partners to adopt responsible approaches to online marketing, Conversant is not responsible for the information practices of such clients and partners. With respect to IBA, Conversant and other third parties may use Non-PII collected or shared with respect to your visits to websites with whom we have relationships for various purposes, including, but not limited to, providing advertisements about goods and services likely to be of greater interest to you.
+Conversant will only share your information for limited purposes such as those provided in this Privacy Policy. This may include sharing information (1) to enable third party service providers to assist or facilitate in the services we provide to our clients; (2) to comply with applicable laws and regulations or to respond to a subpoena, search warrant or other lawful request for information received by us, whether or not a response is required by applicable law; (3) to enforce our terms of use and other agreements or to protect our rights ; (4) to protect the safety of members of the public and users of the service; (5) with Conversant affiliates and clients for marketing purposes; (6) with vendors, administrative service providers, technology providers, and carefully selected partners for services including, but not limited to, data validation, enhancement, information verification and suppression services; or (7) for any other purpose for which you provide consent. None of this information will include PII except as provided herein. While Conversant strongly encourages clients and partners to adopt responsible approaches to online marketing, Conversant is not responsible for the information practices of such clients and partners. With respect to IBA, Conversant and other third parties may use Non-PII collected or shared with respect to your visits to websites with whom we have relationships for various purposes, including, but not limited to, providing advertisements about goods and services likely to be of greater interest to you.
 
 In the event that Conversant is acquired by or merged with a third party, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your information is treated, transferred, or used.
 
@@ -198,7 +200,7 @@ Top
 
  **SELF-REGULATION & VOLUNTARY COMPLIANCE**
 
-Our industry has a rigorous voluntary self-regulatory regime, and we are active members of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/)(NAI), [Interactive Advertising Bureau](http://www.iab.net/) (IAB), [Digital Advertising Alliance](http://www.aboutads.info/) (DAA) and [Digital Advertising Alliance of Canada](http://youradchoices.ca/) (DAAC) who promulgate codes of conduct to which their members must adhere. These codes impose requirements on participating companies such as transparency and choice around the use of data for IBA, and require regular audits of member privacy practices.
+Our industry has a rigorous voluntary self-regulatory regime, and we are active members of industry groups such as the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI), [Interactive Advertising Bureau](http://www.iab.net/) (IAB), [Digital Advertising Alliance](http://www.aboutads.info/) (DAA) and [Digital Advertising Alliance of Canada](http://youradchoices.ca/) (DAAC) who promulgate codes of conduct to which their members must adhere. These codes impose requirements on participating companies such as transparency and choice around the use of data for IBA, and require regular audits of member privacy practices.
 
 Conversant is an active member of these and other groups, and where Conversant engages in activities regulated by these programs, we comply with the [NAI Codes of Conduct](http://www.networkadvertising.org/sites/default/files/NAI_Code15encr.pdf). We also support the [DAA Self-Regulatory Principles](http://www.aboutads.info/principles) and the [DAAC Self-Regulatory Principles](http://youradchoices.ca/the-principles/).
 
@@ -206,7 +208,7 @@ Top
 
  **YOUR** **  CHOICES**
 
-We hope that after reading through this Privacy Policy that you feel comfortable we are collecting and using data responsibly, and that the cumulative benefits of our work are valuable to the Internet as a whole and your individual browsing experience. As part of our commitment to consumer privacy, we give consumers the ability to opt out of receiving IBA provided by Conversant. If you would like to opt out of receiving this advertising, please [click here](http://optout.conversantmedia.com/) to learn more and opt out.
+We hope that after reading through this Privacy Policy that you feel comfortable we are collecting and using data responsibly, and that the cumulative benefits of our work are valuable to the Internet as a whole and your individual browsing experience. As part of our commitment to consumer privacy, we give consumers the ability to opt out of IBA provided by Conversant. If you would like to opt out of IBA, please [click here](http://optout.conversantmedia.com/) to learn more and opt out.
 
 You will need to make this selection on each browser or device on which you do not want to receive IBA from Conversant. If you or your privacy software deletes the opt-out cookies from your computer, you will need to repeat the process.
 
@@ -216,21 +218,9 @@ Conversant may place ads on websites that are part of the Google Display Network
 
  **Mobile Device Choices**
 
-For mobile websites, you can delete our cookie via the browser settings. 
+For mobile websites, you can follow the opt-out instructions provided above. 
 
 To learn how to opt out receiving relevant advertisements on mobile applications, please visit this page: <http://www.networkadvertising.org/mobile-choices>
-
-Top
-
- **U.S.-Swiss Safe Harbor and dispute resolution**
-
-Conversant complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. When using this Site or registering with Conversant on its Site, you agree that the personal information collected in Switzerland may be transferred across international borders to complete your request.
-
-Conversant LLC, certifies on an annual basis that it adheres to the U.S.-Swiss Safe Harbor Framework of notice, choice, onward transfer, security, data integrity, access and enforcement. Please see the U.S. Department of Commerce’s website at <https://safeharbor.export.gov/swisslist.aspx> for details regarding our compliance and to learn more about the U.S.-Swiss Safe Harbor Framework.
-
-In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles, Conversant commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Conversant at the email below.
-
-Conversant has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Conversant, please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 Top
 
@@ -238,11 +228,11 @@ Top
 
 You can browse the Conversant Sites without providing any PII. You may choose to provide PII to us voluntarily if you interact with our Site in certain ways, such as applying for employment with Conversant, responding to an advertisement for Conversant, or using one of our contact forms. This information is used only for the reasons it was collected, such as responding to your communication, and is not shared with third parties other than to fulfill the purpose for which it was collected.
 
-Conversant may also collect Non-PII, through the use of technologies such as cookies, including IP address, browser type, operating system, domain name, language preference, access dates and times, referring website addresses, online transactions and browsing and search activity. We may use this Non-PII for purposes including enhancement of our services; marketing; IBA, and to more effectively match website content to your interests. We may share your information with our third party service providers, Conversant and its subsidiaries and affiliates, third party marketing partners, our clients and publishers, and as expressly provided for herein.
+Conversant may also collect Non-PII, through the use of technologies such as cookies, including IP address, browser type, operating system, domain name, language preference, access dates and times, referring website addresses, online transactions and browsing and search activity. We may use this Non-PII for purposes including enhancement of our services, marketing, IBA, and to more effectively match website content to your interests. We may share your information with our third party service providers, Conversant and its subsidiaries and affiliates, third party marketing partners, our clients and publishers, and as expressly provided for herein.
 
 We also use cookies to simplify login and to facilitate secure navigation through the password protected areas of the Site. Visitors who choose to reject all cookies may have difficulty navigating the password protected areas of the Site depending on the nature of their connection (dynamic IP, proxy server, etc.).
 
-We may also partner with third parties who collect information on our Sites, and we may maintain links to other websites on our Sites. This Privacy Policy does not apply to the privacy practices of other websites or of third parties who collect information on our Sites. We would encourage you to visit the applicable policies of those third parties, or visit [www.AboutAds.info](http://www.aboutads.info/) to learn more about interest-based advertising and to see your opt-out choices from other participating companies that may be collecting and using data on Conversant’s website.
+We may also partner with third parties who collect information on our Sites, and we may maintain links to other websites on our Sites. This Privacy Policy does not apply to the privacy practices of other websites or of third parties who collect information on our Sites. We would encourage you to visit the applicable policies of those third parties, or visit [www.AboutAds.info](http://www.aboutads.info/) to learn more about interest-based advertising and to see your opt-out choices from other participating companies that may be collecting and using data on Conversant’s websites.
 
  **For Clients  and Publishers**
 
@@ -262,7 +252,7 @@ We record the IP address of new clients and publishers at sign-up. This can assi
 
  **Our Communications:**
 
-We send all new clients and publishers a welcoming email to verify password and user name, and may communicate with you about program or other information at the contact information you provide.
+We send all new clients and publishers a welcoming email to verify password and user name, and may communicate with you about program or other information at the contact information you provide. We me also email individuals that have provided us with their contact info so that we can communicate information about Conversant’s services. You can request to opt out of these emails by filling out this [form](http://www.conversantmedia.com/feedback?t=g).
 
  **Site and Service Updates:**
 
