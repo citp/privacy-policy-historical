@@ -1,66 +1,38 @@
-> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531094721id_/http%3A//www.payworldindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125113id_/http%3A//www.payworldindia.com/privacy-policy) for the most accurate reproduction.*
 
-# PayWorld :: Privacy Policy
+# Payworldindia - Privacy-policy
 
-www.payworldindia.com website is the property owned and operated by the “Sugal and Damani Utility Services Pvt. Ltd” 
+This privacy notice tells you what to expect when Payworldindia.com collects personal information. It applies to information we collect about visitors to our website (i.e. who wish to find out more about Payworldindia.com products and services)
 
-**Security and Protection of your Personal Details**
+Payworldindia.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We at pay world are committed to maintain the security and privacy of all your personal information obtained by you on our website. We take significant precautions to protect your Personally Identifiable Information both online and offline. Maintaining a high degree of confidentiality and privacy and secure transmission of data is of utmost important for us. You can view your Credit card security card guarantee back up system by clicking the link provided at the bottom of each page on our site. Our system is configured with the data encrypting technology and firewall system. The data that you enter in our website is protected by 128-bit Secure Socket Layer (SSL) which ensures the safe transmission of data.We also have a digital Certificate from “thawte”,Inc,a top maker of hardware and software used to protect and manage computer network access, certifying the secure nature of our site. 
+Payworldindia.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 2016.
 
-All our servers at pay world storing the customer’s information are kept in a secure environment and are accessed by only limited number of authorized employees of our company. 
+#### Visitors to our website
 
-**Information Collected from You**
+When someone visits www.payworldindia.com we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website (www.payworldindia.com). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
-We collect the customers information such as your name, address, telephone numbers, e-mail addresses and other information that can identify you as a specific individual ("Personally Identifiable Information"). 
+#### Complaints or queries
 
-**We collect Personally Identifiable Information when you:**
+Payworldindia.com tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures. Any correspondence should be sent to the address below.
 
-• Become authorized to use our site through a Site Partner  
-• Purchase a product or service  
-• Request further information regarding a product or service  
-• Disconnect a service  
-• Contact us
+#### What do we collect and what do we do with your personal information ?
 
-**Purchase Information** **  
-**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We collect you credit card information for the billing of your services and products that you wish to purchase, which includes your card number, card type, card Holder name, address and expiration date.
+  * Internal record keeping
+  * Your personal data is collected when you complete and submit the enquiry form, when you contact us by e-mail or when you speak to us over the telephone.
+  * In particular, B2B International may collect and hold details of your name, address, email address, telephone number, (including mobile number), fax number, any information that you provide about areas of interest to you, information that you provide in response to any B2B International marketing campaigns, and any other personal information disclosed by you.
+  * We may also use the information to improve our products and services.
 
-**Requests for Further Information Regarding Products and Services**
 
-In case you require additional information and have any query regarding product and services, we collect your personal information to contact you and respond to your query. 
 
-**Our Service Providers**
+Any information you provide to us will be treated with care and respect. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it.
 
-Pay world offers an application service provider (ASP) to the computer-based services to customers over a network. The most important sense of this business is that of providing access to a particular application program using a standard protocol such as HTTP. In addition, the issues of upgrading have been eliminated from the end-firm by placing the onus on the ASP to maintain up-to-date services, 24 x 7 technical support, physical and electronic security and in-built support for business continuity and flexible working.
+#### Transferring information 
 
-Pay world Clients for ASP services include businesses, government organizations, and membership organizations.
+You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal information is kept confidential and secure.
 
-**Cookies**
+#### Changes to this privacy notice
 
-We do not track or collect information about your visits to other Internet sites. Certain technical information is automatically collected about your computer each time you request a page during a visit to this site. This information may include your IP address, operating system and Web browser software (e.g., Netscape Navigator or Internet Explorer). We assign you a "cookie" (i.e., a tiny packet of identifying information passed between your browser and a Web site) each time you visit this site. You do not provide this information? It is collected automatically as a means for supporting your visit to this site. This cookie does not contain any Personally Identifiable Information. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt you before accepting a cookie. Please be aware that by refusing to accept a cookie you will not be able to make optimal use of this site. Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. 
-
-**Use of Your Personally Identifiable Information**
-
-Personally Identifiable Information collected on this site may be used to:
-
-• Facilitate your orders for services and products  
-• Send notifications  
-• Promote our service and other available services and products  
-• Respond to your questions or suggestions  
-• Improve the quality of our site  
-• Sharing Your Personally Identifiable Information
-
-**Responses to Your Questions or Suggestions**
-
-We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with using or accessing this site.
-
-**Note:** We do not sell, share or rent your Personally Identifiable Information to others in ways different from what is disclosed in this statement.
-
-**Notifications of Changes**
-
-We reserve the right to modify or amend this Privacy and Security Statement at any time and for any reason with out prior notice.
-
-  
-
+We keep our privacy notice under regular review. This privacy notice was last updated in May 2016.
