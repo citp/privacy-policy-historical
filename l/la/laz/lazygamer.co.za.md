@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazygamer.co.za privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219131118id_/http%3A//www.lazygamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygamer.co.za privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630154907id_/http%3A//www.criticalhit.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lazygamer.net
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -37,10 +37,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.lazygamer.net/terms-of-use>
-
 **Your Consent**
 
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
@@ -53,11 +49,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.lazygamer.net  
+Criticalhit.net  
 5 Njala Street  
 Sundowner, Gauteng 2188  
 South Africa  
-geoff@lazygamer.net  
-076 953 2148
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+
+geoff@criticalhit.net
