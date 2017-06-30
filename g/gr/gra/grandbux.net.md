@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grandbux.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506164651id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandbux.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152344id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Grandbux - One Step Ahead
 
 **PRIVACY POLICY**
 
-1\. INTRODUCTION. Grandteam LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of [www.grandbux.net](http://www.grandbux.net/) (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+1\. INTRODUCTION. Grandteam LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of [www.grandbux.net](https://web.archive.org/web/20170630152344id_/https%3A//) (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 2\. INFORMATION COLLECTION PRACTICES
 
