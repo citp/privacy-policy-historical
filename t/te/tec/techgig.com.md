@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213022501id_/http%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054536id_/https%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TechGig.com
+# Technology and India's Largest Tech Community | Coding Contest | TechGig
 
 Times Business Solutions (A Division of Times Internet Limited) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- www.timesjobs.com, www.magicbricks.com, www.simplymarry.com, www.ads2book.com, www.peerpower.com and www.yolist.com. 
 
