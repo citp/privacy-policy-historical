@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smash.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121165227id_/http%3A//www.smash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smash.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630023711id_/http%3A//www.smash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smash.com
+# Privacy Policy
 
 Hello to those people who have elected to click the ‘Privacy Policy’ link and have a look at what we have to say about protecting the rights of the individual (you) and all those here at Smash.com INC (“Smash,” “Smash.com,”” “we,” or “us”).
 
