@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231132831id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203738id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 Written in accordance with the provisions of Law 677/2001, regarding individual protection about collecting and free circulation of personal data.
 
