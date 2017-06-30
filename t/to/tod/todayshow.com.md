@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the todayshow.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231151155id_/http%3A//www.nbcuni.com/privacy/full-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshow.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630074749id_/http%3A//www.nbcuni.com/privacy/full-privacy-policy) for the most accurate reproduction.*
 
 # Full Privacy Policy | NBCUniversal
 
 ## Full Privacy Policy
 
-Last Updated: 19 October 2016
+Last Updated: 6 June 2016
 
 This Privacy Policy describes the privacy practices of NBCUniversal Media LLC including our affiliate companies (“NBCUniversal”, “we”, “our” or “us”).  You can find information about NBCUniversal, including our affiliates, [here](https://web.archive.org/contact-us).
 
