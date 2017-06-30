@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canondriver.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232803id_/http%3A//www.canondriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canondriver.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630120838id_/http%3A//www.canondriver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Download
 
