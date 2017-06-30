@@ -1,37 +1,8 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204215id_/https%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630033626id_/https%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Planned Parenthood
+# Privacy Policy | Planned Parenthood
 
-#### [Planned Parenthood](https://web.archive.org/)
-
-  * [ Learn ](https://web.archive.org/learn "Learn")
-  * [ Get Care ](https://web.archive.org/get-care "Get Care")
-    * [Find a Health Center](https://web.archive.org/health-center)
-    * [Get Birth Control Online](https://web.archive.org/get-care/birth-control-online)
-    * [Get UTI Treatment Online](https://web.archive.org/get-care/get-uti-treatment)
-    * [Online STD Testing](https://web.archive.org/get-care/online-std-testing)
-  * [ Get Involved ](https://web.archive.org/get-involved "Get Involved")
-    * [Share Your Story](https://web.archive.org/get-involved/share-your-story)
-    * [Donate](https://secure.ppaction.org/site/Donation2?df_id=12913&12913.donation=form1)
-    * [Take Action](http://www.plannedparenthoodaction.org/)
-    * [Jobs & Volunteering](https://web.archive.org/get-involved/jobs-volunteering)
-    * [Join Us on Facebook](http://www.facebook.com/PlannedParenthood)
-    * [Sign up for E-mail Alerts](https://secure.ppaction.org/site/SSurvey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1823)
-  * [ About Us ](https://web.archive.org/about-us "/about-us")
-    * [Who We Are](https://web.archive.org/about-us/who-we-are)
-    * [Our Leadership](https://web.archive.org/about-us/our-leadership)
-    * [Local & State Offices](https://web.archive.org/about-us/local-state-offices)
-    * [Planned Parenthood Global](https://web.archive.org/about-us/planned-parenthood-global)
-    * [Jobs & Volunteering](https://web.archive.org/about-us/jobs-volunteering)
-    * [Newsroom](https://web.archive.org/about-us/newsroom)
-    * [Advisory Boards & Initiatives](https://web.archive.org/about-us/advisory-boards-initiatives)
-    * [Annual Report](https://web.archive.org/about-us/annual-report)
-    * [About This Site](https://web.archive.org/about-us/about-this-site)
-    * [Contact Us](https://web.archive.org/about-us/contact-us)
-
-
-
-Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](https://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](http://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
+Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](https://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](https://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
 
 Important note: This Privacy Policy does not apply to information you may share with Planned Parenthood in connection with your receipt of healthcare services online or via in-person visits at facilities operated by Planned Parenthood Affiliates. Such information is protected by state and federal law.
 
