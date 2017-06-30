@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208191720id_/http%3A//www.sorel.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630053329id_/http%3A//www.sorel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## SOREL Privacy Policy
+## SOREL PRIVACY POLICY
 
-Last Updated: January 21, 2014
+Last Updated: May 3, 2017
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies and divisions, including SOREL, Mountain Hardwear, and Montrail ("SOREL" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by SOREL from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -18,7 +18,7 @@ Cookies. We may automatically collect information using "cookies." Cookies are s
 
 Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs," are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. If you do not wish for us to track emails we send you, some email services may allow you to adjust your display to turn off HTML or images which may disable tracking, or you may unsubscribe from our marketing emails as described below.
 
-While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
+While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism
 
 ### THIRD PARTY COOKIES AND ADS
 
@@ -38,7 +38,7 @@ We use personal information we collect for purposes described in this Policy or 
   * operate and improve our Sites and services;
   * process and deliver contest entries and rewards;
   * manage and administer our community features and member programs and services;
-  * respond to your comments and questions and provide customer service;
+  * respond to your comments and questions and provide customer service:
   * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service.
 
 
@@ -52,10 +52,8 @@ Certain sections of our Sites are designed as open and public community areas fo
 We do not otherwise share your personal information with third parties except as follows:
 
   * in an aggregated or anonymized form that does not directly identify you;
-  * with your consent, for example, when you agree to our sharing your information with other third parties for their
-own marketing purposes subject to their separate privacy policies; 
-  * with third party vendors, consultants and other service providers who are working on our behalf and need access
-to your information to carry out their work for us; 
+  * with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
   * to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of SOREL our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and
   * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
@@ -76,7 +74,7 @@ You may opt out of receiving promotional emails from SOREL by following the inst
 
 
 
-SOREL complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SOREL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SOREL’s certification, please visit <http://www.export.gov/safeharbor/>
+This website is operated by Columbia Sportswear Company, a company which is headquartered in the United States of America. To provide you with this website and the goods and services you order, your data may be transferred to Columbia Sportswear Company, its group companies, and it services providers, who may be located in countries (including the USA) other than your country of residence. These countries may have data protection laws that are different than the laws in your country of residence, but Columbia Sportswear Company will protect your personal information in accordance with this privacy policy at all times.
 
 ### Changes to this Policy
 
