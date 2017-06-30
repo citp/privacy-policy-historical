@@ -1,126 +1,70 @@
-> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208170500id_/http%3A//www.oxfam.org.uk/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630220834id_/http%3A//www.oxfam.org.uk/privacy-and-security) for the most accurate reproduction.*
 
-# Website privacy and security | Oxfam GB
+# How we use your personal details | Oxfam GB
 
-**1\. Introduction and General Terms**
+At Oxfam, we rely on the generosity and support of private individuals like you to carry out our vital work to tackle poverty. That is why we want to be completely transparent about why we need the personal details we request when you support us and how we will use them.
 
-Oxfam, and the people we seek to help, are dependent on the generosity of our supporters as well as the goodwill and trust of the public.  We are therefore committed to protecting any personal information we obtain about you, whether you are just visiting our website or are a financial supporter, shopper, volunteer or campaigner.  This Privacy Policy sets out how we obtain, use and protect any personal information you provide to us, whether online, via phone, text, email, in letters or in other correspondence.  
+[Oxfam's full Privacy Policy](https://web.archive.org/privacy-and-security/full-privacy-policy)
 
+### When we will get in touch
 
-This privacy policy explains the following:
+The first time you give us personal details - for example, when you sign up to receive email updates, support our "Tag Your Bag" scheme, sign a petition, register for an event or make a donation - you may receive follow up information from us directly relevant to this activity, including how your support is helping.
 
-  * what information Oxfam may collect about you; 
-  * how Oxfam will use information we collect about you; 
-  * when Oxfam may use your details to contact you; 
-  * whether Oxfam will disclose your details to anyone else; 
-  * your choices regarding the personal information you provide to us; the use of cookies on the Oxfam website and how you can exercise your choices in relation to those cookies.
+If you have provided us with consent to use your details for marketing purposes, then we may also contact you about our projects and fundraising activities and other ways to support us.
 
-  
+You, our supporters, really are the life-blood of Oxfam. Our aim is to communicate with you in a way that makes you want to stay involved with us for as long as possible, as you see the value and impact of your support.
 
+### We will not share your data
 
-Oxfam is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998.
+Please be assured that we will not, under any circumstances, share your data with anyone for marketing purposes and you will not receive offers from other companies or organisations as a result of giving your details to us.
 
-The Oxfam website contains hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including policies on their use of cookies, and we urge you to review them. They will govern the use of personal information you submit or which is collected by cookies whilst visiting these websites. We cannot accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. 
+We may need to share limited information with our service providers who help us to prepare and send you our communications or process your donations and other responses. However, we will not allow these organisations to use your data for their own purposes and will take care to ensure that they keep your data secure.
 
-**2\. Who we are**
+### Changing your communication choices
 
-Oxfam is a registered charity (charity number 202918) and a company limited by guarantee (company number 612172).  Oxfam is also registered in Scotland (SC039042).  Oxfam's registered address is Oxfam House, John Smith Drive, Cowley, Oxford, OX4 2JY.  
+If at any time you wish to change how we communicate with you, or update the information we hold, please do get in touch.
 
-Oxfam is an affiliate member of Oxfam International.  Oxfam International brings together fifteen Oxfams from around the world who seek to work collaboratively with a common mission of overcoming poverty.  Overseas we are known as Oxfam GB to distinguish ourselves from our sister organisations from other countries. This Privacy Policy relates to information which is obtained by Oxfam GB. Oxfam GB is referred to as Oxfam throughout this document.
-
-**3\. What information will Oxfam collect about me?**
-
-When you contact Oxfam to make a donation, purchase an item online, support our "Tag your Bag" scheme or sign up to any of Oxfam's activities or online content, such as newsletters, competitions, or message boards, or you telephone, email, write to or text Oxfam, or engage with Oxfam via social media channels, we may receive and retain personal information about you. This can consist of information such as your name, email address, postal address, telephone or mobile number, bank account details to process donations and whether or not you are a tax payer so that we can claim gift aid.
-
-By submitting your details, you enable Oxfam (and where applicable any sub-contractors we may use) to raise funds and to provide you with the goods, services, information, activities or online content you select.
-
-We do not usually collect "sensitive personal data" about our supporters, e.g. health status, unless there is a clear reason for doing so - such as participation in a marathon or similar fundraising event or where we need this to ensure that we provide appropriate facilities or support to enable you to participate in an event.  Clear notices will be provided on applications for such events so that it is clear what information we need and why we need it.
-
-If you are simply browsing our website as an anonymous visitor, Oxfam may still collect certain information from you, such as your IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). 
-
-Oxfam also uses cookies.  Cookies are small text files on your device.  They are made by your web browser when you visit a website. Every time you go back to that website, your browser will send the cookie file back to the website's server.  They improve your experience of using a website, for example, by remembering your preference settings and by measuring your use of a website to ensure that it meets your needs.  See Section 10 below for more detail on how we use cookies and how you can control your cookie preferences.
-
-**4\. How will Oxfam use the information you collect about me?**
-
-Oxfam will use your personal information for a number of purposes including the following:
-
-  * in relation to any correspondence you have entered into with us whether by letter, email, text, social media, message board or any other means;
-  * for "service administration purposes", which means that Oxfam may contact you for reasons related to donations you have made or the activity or online content you have signed up for;
-  * for internal record keeping;
-  * to fulfil sales contracts you have entered into with Oxfam;
-  * to contact you about any content you provide;
-  * to invite you to participate in surveys or research about Oxfam or our work (participation is always voluntary);
-  * for marketing purposes where you have specifically agreed to this (see below);
-  * to provide you with information about our activities or online content you have agreed to receive;
-  * to personalise the way Oxfam content is presented to you; 
-  * to use IP addresses to identify the location of users, to block disruptive use, to establish the number of visits from different countries;
-  * to analyse and improve the activities and content offered by the Oxfam website to provide you with the most user-friendly navigation experience. We may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes. 
+  * Write to us: Supporter Relations, Oxfam House, John Smith Drive, Cowley, Oxford, OX4 2JY.
+  * Email us: [changes@oxfam.org.uk](mailto:changes@oxfam.org.uk)
+  * Call us (Mon-Fri 0900-1700): 0300 200 1300
 
 
 
-**  
-5\. Will I be contacted for marketing purposes?**
+You can opt out of SMS communications by texting NOINFO to 70066. (This is charged at your standard text rate)
 
-Oxfam will only contact you for marketing purposes by email or other electronic means if you have agreed to be contacted for these purposes or where you have made a donation by text and have not opted out from receiving further information.  Where you have provided your postal address we may send you direct mail about our work unless you have told us that you do not wish to receive such information.  
+You can opt out of our emails by clicking on the unsubscribe link at the bottom of our messages.
 
-If you wish to contact us either to obtain information about our work or to stop us sending you such information please email us at changes@oxfam.org.uk, call 0300 200 1300 (Mon-Fri 9am-5pm) or write to Supporter Relations, Oxfam GB, Oxfam House, John Smith Drive, Oxford, OX4 2JY with the details. You may also opt out of marketing emails at any time by clicking the unsubscribe link in any marketing email from Oxfam.
+### What details we ask for and why
 
-**6\. Will Oxfam share my personal information with anyone else?**
+There are minimum levels of information we need to obtain for different purposes - such as donating money or signing up to Gift Aid. We always ask for your name and title so we know how to talk to you. We need to be able to confirm any transactions you make on the Oxfam GB website by sending you an email, which is why this field is mandatory on all our web forms. We will separately seek your permission to use this for our wider marketing communications.
 
-We will only use your information within Oxfam for the purposes for which it was obtained, unless you have explicitly agreed that we may share your information with another organisation. Sometimes Oxfam contracts third parties to process your information on our behalf.  We require these third parties to comply strictly with our instructions and data protection laws.
+We ask for your house number and postcode so that we hold a valid postal address for you. We need this information for the following reasons:
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies for tax purposes or law enforcement agencies for the prevention and detection of crime, subject to such bodies providing us with a relevant request in writing). 
-
-**7\. Offensive or inappropriate content placed on the Oxfam website**
-
-If you post or send offensive, inappropriate or objectionable content to or anywhere on the Oxfam website or otherwise engage in any disruptive behaviour on any Oxfam service, we may use your personal information to stop such behaviour.
-
-Where Oxfam reasonably believes that you are or may be in breach of any of the laws of England and Wales (or the law of Scotland if you live there) (e.g. because content you have posted may be defamatory), we may use your personal information to inform relevant third parties such as your employer, internet provider or law enforcement agencies about the content and your behaviour.
-
-**8\. How long will Oxfam keep my personal information?**
-
-We will hold your personal information on our systems for as long as is necessary for the relevant activity, eg we will keep a record of donations for at least seven years.  If you request us not to send you marketing information we will keep a record of your contact details and appropriate information to enable us to comply with your request not to be contacted by us.
-
-Where you contribute material to us, e.g. user generated content or in response to a particular campaign we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted unless otherwise stated at the point of generation.
-
-**9.  What is Oxfam's policy on allowing me to update, correct, or delete my personal information?**
-
-The accuracy of your information is important to us. We are working on ways to make it easier for you to review and correct the information that Oxfam maintains about you. In the meantime, if you change email address or any of the other information we hold is inaccurate or out of date, you can let us know:
-
-  * [through our website](http://www.oxfam.org.uk/what-we-do/about-us/contact-us) or 
-  * email us at [changes@oxfam.org.uk](mailto:changes@oxfam.org.uk), or write to Supporter Relations, Oxfam GB, Oxfam House, John Smith Drive, Oxford, OX4 2JY with the details.
+  * To set up Direct Debits and one-off card payments
+  * To claim Gift Aid
+  * To deliver items to you (items you have purchased or event materials for example)
+  * If you have agreed to receive post from us, we will use your postcode and address to send you relevant information.
 
 
 
-Under the Data Protection Act you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. (We charge £10 for information requests and require you to prove your identity with two pieces of approved identification). 
+In order to ensure that the data we hold about you is accurate and up to date, we may occasionally use information sources that are in the public domain to verify your details, such as address and telephone number. Sometimes we may use third parties to supplement the information that we hold as we only want to send you information which we believe you will be interested in.
 
-Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, Legal Team, Oxfam House, John Smith Drive, Cowley, Oxford, OX4 2JY.
+We may also use your email address and phone number to match to your account on Facebook or other social media sites in order to show you Oxfam content while you are using these services. We will only do this where you have opted in to marketing emails or phone calls/SMS and using a secure technique known as 'hashing' The matching only works where you have previously disclosed your email address and phone/SMS to the social media site. No data is retained by the third party. We may also use your email address and phone/SMS to link to Facebook or other social media sites in order to identify other users of these sites whom we believe would be interested in Oxfam, and we may then show them Oxfam content.
 
-**10\. Cookies Policy - Information Oxfam collects from your computer or mobile device**
+There are two ways to stop this use of your data, you can either [update your preferences](http://www.oxfam.org.uk/your-contact-preferences) at Oxfam by opting out of the relevant channel of communication, or you can do this via the social media site:
 
-a. What is a cookie?
-
-Cookies are small text files on your device.  They are made by your web-browser when you visit a website.  Every time you go back to that website, your browser will send the cookie file back to the website's server.  Cookies are useful because they allow a website to recognise a user's device.  You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [https://www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
-
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience.
-
-They can also help to ensure that adverts you see online are more relevant to you and your interests.
-
-  
+  * Facebook: <https://www.facebook.com/help/568137493302217>
+  * LinkedIn: <https://www.linkedin.com/help/linkedin/answer/62931>
+  * Twitter: <https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html>
 
 
-b. Why does Oxfam use cookies?
 
-Like many websites, Oxfam uses cookies in order to provide you with a more personalised web service.
+Updating your preferences with Oxfam will not guarantee that you never see Oxfam content, since the social media site may also select you based on other criteria and without your data having been shared by Oxfam.
 
-Cookies help us identify which bits of our website people are using, and help us do work on those sections of the website to improve the user experience.  We also use cookies to help show content on our site which is relevant to you and your interests, for example if on a previous visit you went to our pages about emergencies, festivals or events, we might find this out from your cookie and show you other information on our website related to emergencies, festivals or events on subsequent visits.
+### Cookies
 
-Information supplied in cookies also allows us to measure the effectiveness of online marketing campaigns for Oxfam. This enables us to ensure any money we spend on digital marketing gives us a good return on investment.
+Oxfam also uses cookies. Cookies are small text files on your device. They are made by your web browser when you visit a website. Every time you go back to that website, your browser will send the cookie file back to the website's server. They improve your experience of using a website, for example, by remembering your preference settings and by measuring your use of a website to ensure that it meets your needs. See our Cookie Policy for more detail on how we use cookies and how you can control your cookie preferences.
 
-c.  Further information on Oxfam cookies and how to control your cookie preferences
+Please read our [Privacy Policy](https://web.archive.org/privacy-and-security/full-privacy-policy) for full details on how we handle your data.
 
-A list of the main cookies that we use and what each is used for, together with ways to control your cookie preferences can be found in our [cookie policy](https://web.archive.org/cookie-policy).
-
-**11\. Changes to Oxfam's Privacy Policy**
-
-This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to Oxfam. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use the Oxfam website to submit personal information to Oxfam.  If material changes are made to the Privacy Policy we will notify you by placing a prominent notice on the website.
+Thank you for supporting Oxfam.
