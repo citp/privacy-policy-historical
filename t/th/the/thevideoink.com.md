@@ -1,140 +1,69 @@
-> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811202817id_/http%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# Privacy Policy - VideoInk
+# Medium Privacy Policy – Medium Policy – Medium
 
-**VideoInk**[ **Privacy  Policy**](http://gigaom.com/privacy-policy/ "Permalink to Privacy Policy") ****
+**Effective Date: March 7, 2016**
 
-Effective April 1, 2013
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-As used in this Privacy Policy, “Services” refers to the VideoInk.com website and any other websites, mobile sites, applications, and other properties or services owned or operated by VideoInk, Inc. (“VideoInk”).
+#### General information
 
-By visiting our website, viewing our content or research, attending or viewing any of our events or programs and/or otherwise using any of the Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
-**What Does This Privacy Policy Cover?**
+#### What we may collect
 
-This Privacy Policy is part of VideoInk’s Terms of Service and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by VideoInk, including information obtained when you access or log in to the Services, and/or register for content or events provided through the Services.
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 
-This Privacy Policy does not apply to the practices of companies that VideoInk does not own or control, or to individuals whom VideoInk does not employ or manage, including any of the third parties to which VideoInk may disclose user information as set forth in this Privacy Policy.
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
 
-**What Types of User Information Does VideoInk Obtain?**
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
 
-VideoInk may obtain the following types of information from you or concerning your computer or device (collectively, “Information”), which may include information that can be used to identify you as specified below (such Information, “Personally Identifiable Information”):
+#### Email from Medium
 
-  * Name
-  * Email Address
-  * Mailing Address
-  * Telephone Number(s)
-  * Credit Card Information
-  * Blog or Website URL
-  * Social Networking Handle or Username
-  * Photo
-  * Demographic Information (e.g., age, gender, interests, and preferences)
-  * Professional Title
-  * Company
-  * Industry
-  * Activities or Content Viewed on VideoInk
-  * Information Collected Automatically (detailed below)
-  * Information Received from Third Parties (detailed below)
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
 
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
+#### Disclosure of your information
 
-In certain cases, we may request that you provide some of the Information identified above in order to obtain specific products or services (such as registering for a VideoInk event or logging in to download a research report from VideoInk). If you choose not to provide the Information we request, you may still use VideoInk, but you may be unable to access certain features or services.
+As a rule, we don’t share your personal information outside the company.
 
-When you register to receive any products or services from VideoInk or provide information to VideoInk in any other manner, you agree to provide only true, accurate, current and complete information.
+We won’t sell your personal information.
 
-**_Information Collected Automatically_**
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
 
-VideoInk may automatically receive and log certain types of information when you visit or interact with our Services, including:
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
 
-  * Browser Information
-  * Operating System Information
-  * Mobile Device Information (e.g., device identifier, mobile operating system, etc.)
-  * IP Address
-  * Internet Service Provider
-  * Content Viewed
-  * Geographic Location
-  * Connection Speed
-  * Time of Visit
-  * Referring Site, Application, or Service
-  * Registration Time
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
 
+#### Cookies
 
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
-**_Information Received From Third Parties_**
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
 
-**_Events and Webinars:_** **  **If you register for events or webinars provided by VideoInk, we may receive Information about you from the service providers that host or process registration for these programs or that provide other services to support these programs (such as technical support), which may include certain Personally Identifying Information identified above.
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
-**_Third Party Websites/Social Networking Sites:_** ****  If you choose to use any third party website or service that is integrated with VideoInk, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)—or if you use any VideoInk application provided through any Third Party Website—we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
+#### Data Storage
 
-  * Name
-  * Nickname or Username
-  * Photo or Graphic Avatar
-  * Unique Third Party Website Identifier (e.g., Facebook User ID)
-  * Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
-  * Likes and Interests
-  * Contacts/Friends/Associations
-  * Any Information That Is Publicly Available on Third Party Websites
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
 
+####  **Modifying your personal information or deleting your  account**
 
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
 
-For example, VideoInk may offer the ability to use certain Third Party Websites to facilitate your registration on VideoInk. We may also use information about your profile and connections on Third Party Websites to allow you to share or connect with your friends and contacts on VideoInk or to personalize your experience. In addition, VideoInk may offer “plug ins” and “widgets” from various Third Party Websites to allow you to share VideoInk content off of our service, as discussed below under “Disclosure of Information to Third Parties.
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-Your decision to use, or share with, a Third Party Website when accessing or using VideoInk products and services is completely voluntary. VideoInk is not responsible for compliance with the policies or practices of any Third Party Website. You should ensure that you are comfortable with the information such Third Party Websites may make available to VideoInk by reviewing those Websites’ privacy policies and service terms, and by modifying your privacy settings and preferences on those Websites.
+If you delete your account, your account and content may be unrecoverable.
 
-Any information we receive from Third Party Websites will be governed by this Privacy Policy.
+#### Data security
 
-**How Do We Use This Information?**
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
 
-We use the Information we obtain from or concerning you or your computer or device to provide the Services, fulfill your requests, improve the Services, personalize and tailor your experience on our website, operate our business, and understand how users are engaging with our Services.
+#### Changes to this Policy
 
-In addition, we may use Information from or concerning you or your computer or device to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers. For example, we may periodically send promotional materials or notifications related to our products and services to the email address associated with your account.
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
 
-**Our Use of Cookies**
+#### Questions
 
-VideoInk may place “cookies” on your computer or device that may contain anonymous Information that is associated with you. Cookies are small text files a website uses to recognize users, and are typically placed on your hard disk by a web server. Cookies contain information that can later be read by a web server in the domain (here, VideoInk) that issued the cookie to you or that, in some cases, can be read by a third party domain.
-
-Our cookies may record Information about your use of VideoInk so that we can provide a continuous and more personalized experience for you, including for one or more of the following purposes: to help identify visitors; assess usage patterns; identify preferences; control the display of ads; diagnose problems with our servers; gather demographic information; analyze trends and usage patterns; conduct research; deliver editorial content; record registration and personalized information; and otherwise administer the Services.
-
-If you do not wish to have VideoInk place and use cookies on your computer, you should set your browser preferences to refuse cookies before accessing the Services. VideoInk is not responsible for any failure by you or your browser to accurately implement or communicate your browser preferences or settings. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the Services that depend on cookies.
-
-**Disclosure of Information to Third Parties**
-
-VideoInk may disclose Information (including Personally Identifying Information) from or concerning you or your computer or device to third parties in the circumstances described below. By visiting, accessing, attending or using the Services, you consent to the disclosure of your Information to certain categories of third parties in the manner described below. This Privacy Policy does not apply to the policies or practices of any of these third parties.
-
-**_Service Providers:   _**VideoInk relies on third party vendors and service providers to provide support and assistance for its products, services and events (“Service Providers”), and we may disclose your Information (including Personally Identifying Information) to these Service Providers to the extent necessary to support our products, services or events, or as otherwise set forth below and subject to their agreement not to disclose it to others. Such Service Providers may include third party payment processors who process financial payments for certain Services on our behalf; third parties that process registration for VideoInk webinars, events and programs (and companies that sponsor or underwrite portions of such webinars, events and programs); **__**
-
-**_Third Party Websites:   _**VideoInk may offer the ability to share VideoInk content on Third Party Websites, including social networking and blogging services. When you elect to share content and information with others on Third Party Websites, VideoInk may transmit your Information to such Third Party Websites. Your decision to share information in this manner is completely voluntary. **__**
-
-**_Advertisers and Analytics Services:   _**VideoInk uses third party advertisers, including ad networks, to provide advertising on its websites. In addition, VideoInk uses third party analytics products to obtain information about how users are using and interacting with the Services. These third parties may receive Information (including Personally Identifying Information) from VideoInk as discussed in greater detail under “Security and Protection of Personally Identifying Information” below. ** __**
-
-**_Law Enforcement/Legal Process:   _**We may disclose your Information (including Personally Identifying Information) when we believe in good faith that disclosure is necessary to comply with any law, regulation or legal request; enforce, apply, or investigate breaches of our Terms of Service and other agreements; respond to public requests; or protect the rights, property, user experience or safety of VideoInk, our employees, our users, or others. This can include exchanging information with other companies and organizations for fraud protection and credit risk reduction. ** __**
-
-**_Comments and Public Posts:   _**If you post comments or other Information to the Services, that Information can be viewed, collected and used by others, including other users, search engines, advertisers, third party applications developers, and anyone with access to the Services. VideoInk has no control over the use, collection or disclosure of any Information that you post publicly to the Services. ** __**
-
-**_Change of Control:   _**If VideoInk, or substantially all of its assets, is acquired by another company or party, user Information will be one of the assets transferred or acquired by the purchaser. **__**
-
-**_Third-Party Advertisers:   _**VideoInk may allow third party advertising serving companies, including ad networks (“Advertisers”), to display advertisements or provide other advertising services on the Services. These third party Advertisers may use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record demographic and other Information about you, including your activities on or off the Services. **__**
-
-Advertisers may use the information collected to display advertisements that are tailored to your interests or background and/or associate such information with your subsequent visits, purchases or other activities on other websites. Advertisers may also share this information with their clients or other third parties.
-
-**_Analytics Providers:   _**In addition, VideoInk may use third party analytics providers and products to obtain, compile and analyze Information (that may include Personally Identifying Information) about how users are using and interacting with the Services. VideoInk may provide Information (including Personally Identifying Information) to these analytics providers for the purpose of obtaining such analytics. These analytics providers may use tracking techniques other than HTTP cookies to recognize your computer or device and/or to collect or compile this information. **_VideoInk assumes no responsibility for the technologies, tools or practices of its Advertisers or analytics providers_** _._
-
-_**Disclosures for Google Services Used By VideoInk:**_
-
-_**Google Analytics:  **_Please see a list of Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
-
-_**Google Analytics for Display Advertising**_ : Using the [Ads Settings](https://www.google.com/settings/ads), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
-
-_**Google  DoubleClick Campaign Manager Integration**:_  VideoInk and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to users’ visits to the VideoInk site.
-
-**Security and Protection of Personally Identifying Information**
-
-We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your Personally Identifying Information (other than Personally Identifying Information that you have elected to disclose to others). However, no security system is impenetrable. It may be possible for third parties to intercept or access information you provide to the Services. VideoInk cannot guarantee the security of your Personally Identifying Information, nor can we guarantee that information you supply will not be intercepted while being transmitted to the Services. It is important for you to protect against unauthorized access to your password(s) and computer or device, and to log off when using any shared computer.
-
-**Email or Text Message Communications**
-
-We may contact you by e-mail, text message or other equivalent electronic communications if you register for events, webinars or other content or otherwise access the Services.
-
-**Changes to the Privacy Policy**
-
-VideoInk retains the discretion to amend or modify this Privacy Policy from time to time. If we make material changes to this Privacy Policy we will notify you by placing a special notice on our website.
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
