@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playlivenewz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030232id_/http%3A//www.playlivenewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playlivenewz.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232535id_/http%3A//www.playlivenewz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
