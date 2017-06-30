@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiatimes.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629021521id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatimes.in privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231356id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Indiatimes.com
+# Trending stories on Indian Lifestyle, Culture, Relationships, Food, Travel, Entertainment, News & New Technology News - Indiatimes.com
 
 This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by Times Internet Limited and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the "Company"), which operates various websites and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the "Services"). This privacy policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
 
