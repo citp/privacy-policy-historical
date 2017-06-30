@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323000906id_/http%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222957id_/https%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Devs-Lab
 
 Your privacy is important to Devs-Lab. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.  
 Please take a moment to familiarize yourself with our privacy practices and  
-[let us know](http://devs-lab.com/contact-us) if you have any questions. We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to a Author.
+[let us know](https://devs-lab.com/contact-us) if you have any questions. We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to a Author.
 
 ### Collection and Use of Personal Information :
 
@@ -57,7 +57,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense :
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [Google Adsense Privacy Policy](http://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [Google Adsense Privacy Policy](https://www.google.com/policies/technologies/ads/)
 
 ### Changes to this privacy policy :
 
@@ -71,4 +71,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions or concerns about Devs-Lab’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at [support@devs-lab.com](mailto:support@devs-lab.com).
 
-This document was last updated on 9th Feb, 2016
+This document was last updated on 5th May, 2017
