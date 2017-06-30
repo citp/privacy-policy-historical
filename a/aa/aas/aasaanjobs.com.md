@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aasaanjobs.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818114432id_/https%3A//www.aasaanjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aasaanjobs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630154704id_/https%3A//www.aasaanjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aasaanjobs
 
@@ -82,3 +82,5 @@ We do not collect sensitive personal data or information of users like password 
 ## Update And Remove Information/Account
 
 You may have access to, review, correct, update, change, or delete your account profile information or resume at any time. Simply log into your account, go to your profile, and make the necessary changes. Before providing you with a copy of your personal information or correcting, updating or deleting such information, We reserve the right to verify and authenticate your identity and the personal information to which you have requested access. Access to or correction, updating or deletion of your personal information may be denied or limited by Us if it would violate another person’s rights and/or as otherwise permitted by applicable law. 
+
+[]()
