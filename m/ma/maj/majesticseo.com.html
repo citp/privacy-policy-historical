@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2016-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161116004250id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630203806id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -21,7 +21,7 @@
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
 	
-	<link rel="stylesheet" type="text/css" href="/static/production/css/6914d2.majestic.seo.min.cache.css">
+	<link rel="stylesheet" type="text/css" href="/static/production/css/077187.majestic.seo.min.cache.css">
 	
 	<!--[if lt IE 9]>	
 		<link rel="stylesheet" type="text/css" href="/static/css/ie/ie.css">
@@ -37,7 +37,10 @@
 	
 	
 	<!-- css changes for the bigger header and grey bar -->
-	
+		<style type="text/css">
+		
+		
+		</style>
 
 	
 
@@ -87,6 +90,12 @@
 		
 	
 
+    </head><body class="en us-g"><div class="force-hide" id="html-dataload" data-monitoring-event-triggered="" data-user="" data-dont-show-notifications="" data-solo-class="" data-user-status="G" data-ux-group="a" data-current-path="/support/privacy-policy"></div>
+
+    <div class="force-hide" id="html-translations" data-translation1="Add to bucket"></div>
+
+    <div class="force-hide" id="service-config" data-default-link-action="" data-is-link-action-tab=""></div>
+
     
 	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.12.4.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
@@ -107,17 +116,16 @@
         <script src="/static/scripts/d3/d3-function.js?20160525"></script>
 	<!--[endif]-->
 
-	<script type="text/javascript" src="/static/production/js/477dc6.majestic.seo.min.cache.js"></script>
+	<script type="text/javascript" src="/static/production/js/143210.majestic.seo.min.cache.js"></script>
 	
 	<!--[if IE]>
 		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
 	<![endif]-->
 	
 	<script type="text/javascript">
-        window.config = {
-            defaultLinkAction: "",
-		    isLinkActionTab:  false 
-        };
+		var htmlDataload = $('#html-dataload').data();
+		var htmlTranslations = $('#html-translations').data();
+		window.config = $('#service-config').data();
 
 		var awardsNotificationText = {};
 		var backlinksDownloadText = {};
@@ -129,12 +137,9 @@
 			
 			$.fn.userNotifications({
 				
-				uxGroup: 'b',
-				currentPath: '/support/privacy-policy',
-				currentPathEncoded: '/support/privacy-policy'
+				uxGroup: htmlDataload.uxGroup,
+				currentPath: htmlDataload.currentPath
 			});
-			
-			
 			
 			
 			
@@ -161,7 +166,7 @@
 			$('.addToBucketButton').majBucketButton(bucketText);
 			
 			$('.addToBucketPopoverButton').majBucketButton($.extend({}, bucketText, {
-				addHoverText:"Add to bucket",
+				addHoverText: htmlTranslations.translation1,
 				updateStatusFunction: updatePopoverBucketStatus											// The function to use when updating the notification popover
 			}));
 		}
@@ -286,13 +291,14 @@ function updateAllowanceCharts(verified)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-66791310-1', 'auto');
-  ga('set', 'dimension1', 'b');
+  ga('set', 'dimension1', 'a');
+  ga('set', 'dimension2', 'G');
   ga('send', 'pageview');
 
 </script>
 	
 	
-</head>
+
 
 <!--[if lte IE 8 ]>
 <body class="en us-g ie8">
@@ -303,7 +309,7 @@ function updateAllowanceCharts(verified)
 <![endif]-->
 
 <!--[if !IE]> -->
-<body class="en us-g">
+
 <!-- <![endif]-->
 
     <div id="bucketTextTranslations" class="hide" data-add-hover-text="Add to your bucket" data-added-hover-text="Added to your bucket" data-added-notification-text="Added to bucket" data-already-added-notification-text="Item already in bucket" data-removed-notification-text="Removed from bucket" data-bucket-full-notification-text="Bucket is full" data-ajax-error-notification-text="Error adding to bucket"></div>
@@ -321,10 +327,15 @@ function updateAllowanceCharts(verified)
 	<div id="container" style="z-index:1">
 	
 		<div id="header">
+			
 
 <!-- BEGIN site/header -->
 <!-- put this here so we dont have to make a new css file each time a new lang is added -->
 <style>
+div.contentPanelWhite {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
 
 
 </style>
@@ -349,9 +360,9 @@ function updateAllowanceCharts(verified)
 	
 
 		var arrow = $("#login_arrow_image");
-	
+
 		<!-- login dropdown -->
-		$(".signin").click(function(e) {          
+		$(".signin").click(function(e) {
 			e.preventDefault();
 			$("div#signin_menu").toggle();
 			$(".signin").toggleClass("menu-open");
@@ -364,7 +375,7 @@ function updateAllowanceCharts(verified)
 				$("#search_text").focus();
 			}
 		});
-		
+
 		
 
 		$("div#signin_menu").mouseup(function() {
@@ -378,49 +389,49 @@ function updateAllowanceCharts(verified)
 				}
 				$("div#signin_menu").hide();
 			}
-		});	
+		});
 		<!-- to close css dropdown menus in ipads -->
 		if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
-			$("#container").click(function() {		
+			$("#container").click(function() {
 				$('body').focus();
 			});
 		}
 		// mobile main menu
 		$("<div class='mob-sub-menu'><span class='mobile-nav sub-sections' aria-haspopup='true' style='display:none;'>SECTIONS</a></span></div>").insertBefore("ul.dd_menu:not(.sub-horz-menu)");
-		
+
 		$("<div class='mob-sub-menu mob-sub-horz-menu'><span class='mobile-nav sub-sections' aria-haspopup='true' style='display:none;'>SUBSECTIONS</a></span></div>").insertBefore("ul.sub-horz-menu");
-		
-		$("#mobile-nav").click(function() {   
-			$("#mob-account-menu ul.horzMenu").hide();	
-			var text = $(this).text();		
-			$(this).text(text == "MENU" ? "CLOSE" : "MENU").toggleClass('close');		
-			$("#header #menu_list ul.horzMenu").slideToggle();	
+
+		$("#mobile-nav").click(function() {
+			$("#mob-account-menu ul.horzMenu").hide();
+			var text = $(this).text();
+			$(this).text(text == "MENU" ? "CLOSE" : "MENU").toggleClass('close');
+			$("#header #menu_list ul.horzMenu").slideToggle();
 			if($(".mobile-nav.sub-sections").hasClass("close"))
 			{
-				$(".mobile-nav.sub-sections").click();	
+				$(".mobile-nav.sub-sections").click();
 			}
 		});
 		// mobile accounts menu
-		$("#mob-user-icon").click(function() { 
+		$("#mob-user-icon").click(function() {
 			
 				window.location.href = "/account/login";
 			
 		});
 		// mobile sub section menu
-		$(".mobile-nav.sub-sections").click(function() {   	
-			$(this).parent().next("ul.dd_menu").slideToggle();	
+		$(".mobile-nav.sub-sections").click(function() {
+			$(this).parent().next("ul.dd_menu").slideToggle();
 			var text = $(this).text();
-			
+
 			var buttonDefaultText = "SECTIONS";
-				
+
 			if($(this).parent().hasClass("mob-sub-horz-menu"))
 			{
 				var buttonDefaultText = "SUBSECTIONS";
 			}
-			
-			$(this).text(text == buttonDefaultText ? "CLOSE" : buttonDefaultText).toggleClass('close');		
+
+			$(this).text(text == buttonDefaultText ? "CLOSE" : buttonDefaultText).toggleClass('close');
 		});
-		
+
 		// handling hover menus for switch between mobile & desktop
 		$(window).resize(function()
 		{
@@ -438,39 +449,39 @@ function updateAllowanceCharts(verified)
 				$(menuLinks).siblings("ul, div ul").show();
 			}
 		});
-		
+
 		if($(window).width() <= 640)
 		{
 			makeMobMenuTogglable();
 		}
-		
+
 		$(".account-dd .dd-content").css("left", -($(".account-dd .dd-content").outerWidth() - $(".account-dd .head").outerWidth()));
-		$("#lang .dd-content").css("left", -($("#lang .dd-content").outerWidth() - $("#lang .head").outerWidth()));
+		$("#lang .dd-content").css("left", -($("#lang .dd-content").outerWidth() - $("#lang .head").outerWidth() - 5));
 
 		$('.logout_header_link').click(trigger_logout);
-	});	
-	
+	});
+
 	// changing hover dropdown menus to clickable slidey ones for mobile
 	function makeMobMenuTogglable()
 	{
 		var menuLinks = "#header ul.horzMenu li.dd-link a.head, #header ul.horzMenu li.dd-link ul.dd-content li a.dd-sub-head, ul.dd_menu li.dd a.dd_head";
-		
+
 		$(menuLinks)
 			.not('.toggle-set')
-			.on("click", function() 
+			.on("click", function()
 			{
-				$(this).toggleClass('up');	
-				$(this).siblings("ul, div ul").slideToggle();		
+				$(this).toggleClass('up');
+				$(this).siblings("ul, div ul").slideToggle();
 			})
 			.addClass('toggle-set');
-	}	
-	
+	}
+
 	var tagsToReplace = {
 		'&': '&amp;',
 		'<': '&lt;',
 		'>': '&gt;'
-	};	
-	
+	};
+
 	function trigger_logout()
 	{
 		/* Recent Searches */
@@ -514,10 +525,10 @@ function updateAllowanceCharts(verified)
 <span id="mobile-nav" class="mobile-nav main" aria-haspopup="true" style="display:none;">MENU</span>
 <span id="mob-user-icon" class="mobile-nav account" aria-haspopup="true" style="display:none;"></span>
 
-<div id="mob-account-menu" class="mob-dd-menu mob" style="display:none;">		  
-	<ul class="horzMenu">		
+<div id="mob-account-menu" class="mob-dd-menu mob" style="display:none;">
+	<ul class="horzMenu">
 		<li class="account "><a href="/account">Dashboard</a></li>
-		
+
 		<li class="dd-link">
 			<a class="head" aria-haspopup="true">My Details<span class="left-arrow"></span></a>
 			<ul class="dd-content">
@@ -526,7 +537,7 @@ function updateAllowanceCharts(verified)
 				<li><a href="/account/majestic-profile">Majestic Profile</a></li>
 			</ul>
 		</li>
-		
+
 		<li class="dd-link">
 			<a class="head" aria-haspopup="true">Awards<span class="left-arrow"></span><img style="background-image:none" height="16" width="16" src="/static/images/icons/trophy-trans-bg.png"></a>
 			<ul class="dd-content">
@@ -534,97 +545,123 @@ function updateAllowanceCharts(verified)
 				<li><a href="/business">Leaderboard</a></li>
 			</ul>
 		</li>
-			
-		<li class="reports"><a href="/reports">My Reports<img class="reports" height="16" width="16" src="/static/images/backgrounds/1px.png"></a></li>		
+
+		<li class="reports"><a href="/reports">My Reports<img class="reports" height="16" width="16" src="/static/images/backgrounds/1px.png"></a></li>
 		<li class="messages"><a href="/account/messages">Messages<img class="messages" height="16" width="16" src="/static/images/backgrounds/1px.png"></a></li>
 		<li><a href="/reports/downloads">Downloads<img class="downloads" height="16" width="15" src="/static/images/backgrounds/1px.png"></a></li>
 
 
 		<li class="bucket"><a href="/bucket">Bucket<img class="bucket" height="16" width="16" src="/static/images/backgrounds/1px.png"></a></li>
-		
+
 		
 
 		
-		
+
 		<li class="settings"><a href="/account/settings/general">Settings</a></li>
 		<li class="logout"><a class="logout_header_link" href="javascript:void(0)">Logout</a></li>
 	</ul>
 </div>
 <div id="menu_list" class="mob-dd-menu">
 	<ul class="horzMenu">
-	
-		
-		<li class="dd-link">					
-			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>							  
+		<li class="dd-link">
+			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>
 			<ul class="dd-content">
-				<li><a href="/support/tools">Overview</a></li>
-				<li><a href="/reports">My Reports</a></li>				
-				<li><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer</a></li>
-				<li><a href="/reports/search-explorer">Search Explorer™</a></li>
-				<li class="dd-sub" aria-haspopup="true">
-					<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Compare&nbsp;<span class="right-arrow"></span></a>	
-					<ul>
-						<li><a href="/reports/comparator?q1=example.com&amp;IndexDataSource=F">Summary</a></li>
-						<li><a href="/reports/compare-domain-backlink-history?q1=example.com&amp;IndexDataSource=F">Backlink History</a></li>
-						<li><a href="/reports/compare-topics?q1=example.com&amp;IndexDataSource=F">Topics</a></li>
-						<li><a href="/reports/cliquehunter">Clique Hunter</a></li>
-						<li><a href="/stats/majestic-million">Majestic Million</a></li>
-					</ul>
-				</li>	
-				<li class="dd-sub" aria-haspopup="true">
-					<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Link Map Tools&nbsp;<span class="right-arrow"></span></a>	
-					<ul>
-						<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
-						<li><a href="/reports/keyword-checker">Keyword Checker</a></li>
-						<li><a href="/reports/neighbourhood-checker">Neighbourhood Checker</a></li>
-						<li><a href="/reports/link-profile-fight">Link Profile Fight</a></li>
-						<li><a href="/reports/url-submitter">URL Submitter</a></li>
-					</ul>
-				</li>
-				<li><a href="/webmaster-tools">Webmaster Tools</a></li>
-				<li class="desk"><a href="/majestic-widgets/plugins">Majestic Plugins</a></li>
 				
-				<li class="dd-sub" aria-haspopup="true">
-						<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Workflows&nbsp;<span class="right-arrow"></span></a>
-					<ul style="border-bottom-left-radius: 0;">
-						<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
-						<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
-						<li><a href="/support/tools/for-developers">Developers</a></li>
-						<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
-					</ul>
-				</li>
+					<li><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer Preview</a></li>
+					<li><a href="/stats/majestic-million">Majestic Million</a></li>
+					<li><a href="/majestic-widgets/plugins">Majestic Plugins</a></li>
+					<li><a href="/account#my-campaigns-tab">Campaigns</a></li>
+					<li><a href="/webmaster-tools">Verified Domains</a></li>
+
+					<li class="header">Lite<span class="upgrade-link"><a href="/plans-pricing?recommended=MAJESTIC_LITE_2016">Upgrade »</a></span></li>
+					<li class="locked "><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer</a></li>
+					<li class="locked "><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
+					<li class="locked"><a href="/reports/url-submitter">URL Submitter</a></li>
+					<li class="locked "><a href="/account/applications/openapps">OpenApps</a></li>
+
+					
+					<li class="header">Pro<span class="upgrade-link"><a href="/plans-pricing">Upgrade »</a></span></li>
+					
+					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History<sup>NEW!</sup></a></li>
+				
+					<li class="locked"><a href="/business/">Business Profile</a></li>
+					
+					<li class="dd-sub locked" aria-haspopup="true">
+						<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Compare Domains<span class="right-arrow"></span></a>
+						<ul>
+							<li class="locked"><a href="/reports/comparator?q1=example.com&amp;IndexDataSource=F">Summary</a></li>
+							<li class="locked"><a href="/reports/compare-domain-backlink-history?q1=example.com&amp;IndexDataSource=F">Backlink History</a></li>
+							
+					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History<sup>NEW!</sup></a></li>
+				
+							<li class="locked"><a href="/reports/compare-topics?q1=example.com&amp;IndexDataSource=F">Topics</a></li>
+							<li class="locked"><a href="/reports/cliquehunter">Clique Hunter</a></li>
+						</ul>
+					</li>
+				
+					<li class="locked"><a href="/reports">Custom Reports</a></li>
+					<li class="locked"><a href="/reports/keyword-checker">Keyword Checker</a></li>
+					<li class="locked"><a href="/reports/neighbourhood-checker">Neighbourhood Checker</a></li>
+					
+					<li class="dd-sub locked" aria-haspopup="true">
+						<a class="dd-sub-head" href="Javascript:;" style="cursor: default;">Toybox<span class="right-arrow"></span></a>
+						<ul>
+							<li class="locked"><a href="/toybox/search-alpha">Search Explorer Alpha</a></li>
+							<li><a href="/toybox/link-profile-fight">Link Profile Fight</a></li>
+							<li><a href="/toybox/labs">Majestic Labs</a></li>
+						</ul>
+					</li>
+				
+				
+					
+					<li class="header">API<span class="upgrade-link"><a href="/plans-pricing?recommended=MAJESTIC_API_2016">Upgrade »</a></span></li>
+					<li class="locked"><a href="/account/api" disabled="">API Keys</a></li>
+				
+				
+
+				
+
+				
+
+				
+
+				
+				
 			</ul>
 		</li>
 
-		<li class="dd-link separator">					
+		<li class="dd-link separator support">
 			<a class="head" aria-haspopup="true" href="JavaScript:;">Support<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>
 			<ul class="dd-content">
 				
-					<li><a href="https://blog.majestic.com/">Blog</a></li>
-							
-				<li><a href="/support">Overview</a></li>
+				
+
+				<li><a href="https://blog.majestic.com/">Blog <img class="no-sprite ext-link-icon" src="/static/images/icons/external-link-blue.png" title="External Link"></a></li>
+
+				<li class=""><a href="/business">Business Pages</a></li>
+
+				<li class="separate "><a href="/support">Overview</a></li>
 				<li><a href="/support/faq">FAQs</a></li>
+				<li><a href="/support/style-guide">Style Guide</a></li>
+				<li><a href="/support/tools">Tools</a></li>
+
+				<li class="separate"><a href="http://developer-support.majestic.com/api/">API Reference Guide <img class="no-sprite ext-link-icon" src="/static/images/icons/external-link-blue.png" title="External Link"></a></li>
+				<li><a href="/support/awards">Awards</a></li>
+				<li><a href="/support/forums">Forums</a></li>
 				<li><a href="/support/glossary">Glossary</a></li>
 				<li class="dd-sub" aria-haspopup="true">
-					<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Training&nbsp;<span class="right-arrow"></span></a>	
+					<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Training&nbsp;<span class="right-arrow"></span></a>
 					<ul>
-						<li><a href="http://blog.majestic.com/how-to-videos/">How To Videos</a></li>
-						<li><a href="http://info.majestic.com/majestic_training">Other Training Options</a></li>
+						<li><a href="http://blog.majestic.com/how-to-videos/">How To Videos <img class="no-sprite ext-link-icon" src="/static/images/icons/external-link-blue.png" title="External Link"></a></li>
+						<li><a href="http://info.majestic.com/majestic_training">Other Training Options <img class="no-sprite ext-link-icon" src="/static/images/icons/external-link-blue.png" title="External Link"></a></li>
 					</ul>
 				</li>
-				<li><a href="/support/forums">Forums</a></li>
-				
-				<li class="separate"><a href="/business">Business Pages</a></li>
-				<li><a href="/support/awards">Awards</a></li>
-				<li><a href="/support/tools">Tools</a></li>
-				<li><a href="http://developer-support.majestic.com/api/">API Reference Guide</a></li>	
-				
-				
-				<li class="separate"><a href="/support/contact-us">Contact Us</a></li>
+
+				<li class="separate "><a href="/support/contact-us">Contact Us</a></li>
 				<li><a href="/support/about">About Us</a></li>
 				<li><a href="/support/terms">Terms &amp; Conditions</a></li>
 				<li class="selected"><a href="/support/privacy-policy">Privacy Policy</a></li>
-				
+
 				
 			</ul>
 		</li>
@@ -633,7 +670,7 @@ function updateAllowanceCharts(verified)
 		<li class="separator"><a href="/plans-pricing" style="color: #FFCC00">Plans &amp; Pricing</a></li>
 		
 		
-			<li class="separator"><a href="/account/register">Sign Up</a></li>
+			<!-- <li class="separator"><a href="/account/register">Sign Up</a></li> -->
 
 			
 				<noscript>
@@ -642,17 +679,17 @@ function updateAllowanceCharts(verified)
 				</noscript>
 
 				<li class="login separator">
-					<div id="topnav" class="topnav"> 
-						<a id="login_header_dropdown" href="https://majestic.com/account/login" class="signin">Login<img id="login_arrow_image" class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>  
+					<div id="topnav" class="topnav">
+						<a id="login_header_dropdown" href="https://majestic.com/account/login" class="signin">Login<img id="login_arrow_image" class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>
 					</div>
 					<div id="signin_menu">
 						<form method="post" id="signin" action="https://majestic.com/account/login">
 							<input type="hidden" name="redirect" value="/support/privacy-policy"><label for="username">Email Address</label>
 							<input name="EmailAddress" value="" title="Email Address" type="email">
-							
+
 							<label for="password">Password</label>
 							<input name="Password" value="" title="password" type="password">
-							
+
 							<p class="remember">
 								<span>
 									<input id="signin_submit" value="Login" type="submit">
@@ -670,62 +707,65 @@ function updateAllowanceCharts(verified)
 			
 		
 
-		<li id="lang" class="dd-link separator">
-			<a class="head" aria-haspopup="true" href="JavaScript:;"><img class="en" height="17" width="17" src="/static/images/backgrounds/1px.png">&nbsp;<img class="toggle_arrow" style="margin-left: 3px;" height="16" width="16" src="/static/images/backgrounds/1px.png"></a><!-- Keep &nbsp and position absolute, needed because of issues with IE and opera  -->
+		<li id="lang" class="lang-dd dd-link separator simplified-menu">
+			<a class="head flex rounded" aria-haspopup="true" href="JavaScript:;">
+				<img class="lang-icon en" height="24" width="24" src="/static/images/backgrounds/1px.png">
+				<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png">
+			</a>
 			<ul class="dd-content langs">
 
 				
-				<li class="lang en"><a href="https://majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang en"><a href="https://majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					English
 					
 				</a></li>
 				
-				<li class="lang de"><a href="https://de.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang de"><a href="https://de.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Deutsch
 					
 				</a></li>
 				
-				<li class="lang es"><a href="https://es.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang es"><a href="https://es.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Español
 					
 				</a></li>
 				
-				<li class="lang fr"><a href="https://fr.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang fr"><a href="https://fr.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Français
 					
 				</a></li>
 				
-				<li class="lang it"><a href="https://it.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang it"><a href="https://it.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Italiano
 					
 				</a></li>
 				
-				<li class="lang ja"><a href="https://ja.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang ja"><a href="https://ja.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					日本語
 					
 				</a></li>
 				
-				<li class="lang nl"><a href="https://nl.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang nl"><a href="https://nl.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Nederlands
 					
 				</a></li>
 				
-				<li class="lang pl"><a href="https://pl.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang pl"><a href="https://pl.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Polski
 					
 				</a></li>
 				
-				<li class="lang pt"><a href="https://pt.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang pt"><a href="https://pt.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Português
 					
 				</a></li>
 				
-				<li class="lang ru"><a href="https://ru.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang ru"><a href="https://ru.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					Pусский
 					
 				</a></li>
 				
-				<li class="lang zh"><a href="https://zh.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+				<li class="lang zh"><a href="https://zh.majestic.com/support/privacy-policy"><img height="24" width="24" src="/static/images/backgrounds/1px.png">
 					中文
 					
 				</a></li>
@@ -733,10 +773,19 @@ function updateAllowanceCharts(verified)
 			</ul>
 		</li>
 	</ul>
+	
+	
+	<ul class="horzMenu">
+		<li class="nav-btn"><a href="/account/register">Sign Up for FREE</a></li>
+	</ul>
+
+
 </div>
 <div class="clearb"></div>
 </div>
-<!-- END site/header --></div>
+<!-- END site/header -->
+
+		</div>
 
 		<div id="content_container_holder">
 			
@@ -758,12 +807,12 @@ function updateAllowanceCharts(verified)
 
 
 <!--[if lte IE 8]>
-
-<div class="browser-warning">
-	<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="/static/images/banners/upgrade-ie.jpg" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
+<div class="warning-message horz-margin float-container" style="padding: 5px 10px;">
+	<img class="floatl" src="/static/images/icons/alert-circle-red.png" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+	<p class="floatl" style="margin: 7px 10px;"><b>Warning: Unsupported Browser!</b> You need to <a href="https://support.microsoft.com/en-gb/help/17621/internet-explorer-downloads" target="_blank">upgrade</a> your browser to be able to use our site.</p>
 </div>
-
 <![endif]--> 
+
 
 <div id="content_container" class="support-section">
 	<div>
@@ -948,8 +997,19 @@ function updateAllowanceCharts(verified)
 	</div>
 	
 	<div class="footer-container">
+	
+        
+        <div class="footer-sub-panel" style="background: rgba(255,255,255,0.3) none repeat scroll 0 0 !important;">
+            <div class="footer-sub-panel-content">
+                <div class="mob-single-panel mob-margin text-center">
+					
+					<p>Could we improve this page for you? <b><a href="/support/contact-us?Topic=feedback&amp;subject=Feedback%20for%20page%20&quot;/support/privacy-policy&quot;" style="color: #fff;">Please tell us</a></b></p>
+                </div>
+            </div>
+        </div>
+        
 	<div class="footer-sub-panel">
-		<div class="footer-sub-panel-content">	
+		<div class="footer-sub-panel-content">
 			<div class="mob-single-panel mob-margin index-panel">
 				
 
@@ -959,21 +1019,21 @@ function updateAllowanceCharts(verified)
         <h3>Fresh Index</h3>
 		<div class="vert-pad-10">
 			<span>Unique URLs crawled</span>
-			<span class="floatr">242,248,474,970</span>
+			<span class="floatr">375,919,846,862</span>
 		</div>
 		<div>
 			<span>Unique URLs found</span>
-			<span class="floatr">661,821,562,902</span>
+			<span class="floatr">917,808,207,446</span>
 		</div>
 		<div class="vert-pad-10">
 			<span>Date range</span>
-			<span class="floatr">13 Aug 2016 to 15 Nov 2016</span>
+			<span class="floatr">27 Mar 2017 to 30 Jun 2017</span>
 		</div>
 		<div>
 			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
 			<span class="floatr">
 				
-						44 minutes ago
+						2 minutes ago
 					
 			</span>
 		</div>
@@ -982,25 +1042,26 @@ function updateAllowanceCharts(verified)
         <h3>Historic Index</h3>
 		<div class="vert-pad-10">
 			<span>Unique URLs crawled</span>
-			<span class="floatr">872,026,950,005</span>
+			<span class="floatr">1,247,848,737,382</span>
 		</div>
 		<div>
 			<span>Unique URLs found</span>
-			<span class="floatr"> 4,576,034,190,323</span>
+			<span class="floatr"> 6,220,005,180,023</span>
 		</div>
 		<div class="vert-pad-10">
 			<span>Date range</span>
-			<span class="floatr">25 Feb 2011 to 26 Sep 2016</span>
+			<span class="floatr">28 Sep 2011 to 28 Apr 2017</span>
 		</div>
 		<div>
 			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
-			<span class="floatr"> 25 Oct 2016</span>
+			<span class="floatr"> 03 Jun 2017</span>
 		</div>
     </div>
 </div>
 			</div>
 		</div>
 	</div>
+	
 	<div class="footer">
 		<div class="find-us footer-column">
 			<h5>Social</h5>
@@ -1017,7 +1078,7 @@ function updateAllowanceCharts(verified)
 		<li class="forums"><a href="http://blog.majestic.com" title="Blog" target="_blank">Blog</a>  <img src="/static/images/icons/external-link.png" title="External Link"></li>
 			</ul>
 		</div>
-			
+
 		<div class="company footer-column">
 			<h5>Company</h5>
 			<ul>
@@ -1028,7 +1089,7 @@ function updateAllowanceCharts(verified)
 				<li><a href="/support/contact-us">Contact Us</a></li>
 		<li><a href="https://blog.majestic.com/careers-at-majestic/" target="_blank">Careers</a>  <img src="/static/images/icons/external-link.png" title="External Link"></li>
 			</ul>
-		</div>	
+		</div>
 
 		<div class="empty footer-column">
 			<h5>Tools</h5>
@@ -1036,10 +1097,10 @@ function updateAllowanceCharts(verified)
 				<li><a href="/reports/site-explorer?q=example.com">Site Explorer</a></li>
 				<li><a href="/reports/comparator?q1=example.com">Compare Domains</a></li>
 				<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
-				<li><a href="/reports/search-explorer?q=google">Search Explorer</a></li>
+				<li><a href="/toybox/search-alpha?q=google">Search Explorer</a></li>
 				<li><a href="http://developer-support.majestic.com/" target="_blank">Developer API</a> <img src="/static/images/icons/external-link.png" title="External Link "></li>
-			</ul>	
-		</div>	
+			</ul>
+		</div>
 
 		<div class="empty footer-column">
 			<h5>Majestic is for</h5>
@@ -1049,12 +1110,12 @@ function updateAllowanceCharts(verified)
 				<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
 				<li><a href="/support/tools/for-developers">Developers</a></li>
 				<li><a href="http://majesticanalytics.com" target="_blank">Enterprise</a> <img src="/static/images/icons/external-link.png" title="External Link"></li>
-			</ul>		
-		</div>	
+			</ul>
+		</div>
 
 		<div class="awards footer-column">
-			<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award-for-enterprise-innovation-2016-trans.png" title="The Queen's Award For Enterprise: Innovation, 2016"></a>
-		</div>	
+			<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award.png" title="Winners of The Queen's Award For Enterprise: Innovation 2016, and The Queen's Award For Enterprise: International Trade, 2017"></a>
+		</div>
 
 		<div class="up">
 			<a href="javascript:scrollToTop()">top ^</a>
@@ -1063,15 +1124,13 @@ function updateAllowanceCharts(verified)
 </div>
 
 
-
-
 	
 		<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   
 
-	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=b/usr=G"]);	
+	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=a/usr=G"]);	
   
 
 	_paq.push(['setCustomVariable',  1,"Subdomain", "en", "page"]); 
@@ -1098,75 +1157,5 @@ function updateAllowanceCharts(verified)
 	
 
 	
-	
-	<div id="feedbackForm">
-	<div id="innerFeedbackForm">
-		<div>
-			<div style="float:left; width:429px;">
-				<h3 style="text-align:center;">Feedback</h3>
-			</div>
-			<div style="float:right;">
-				<div id="feedbackCloseButton" onclick="feedbackFormToggle()"></div>
-			</div>
-		</div>
-		<br class="clearfloat">
-		<p style="padding:5px 20px 10px 25px;">
-			Do you have a suggestion that will improve this page? We would love to hear it.
-		</p>
-		<p id="feedbackError" style="display:none; margin-left:20px;">
-			<span id="feedbackErrorMessage" style="font-weight:bold; color:red">Please complete all required fields.</span>
-		</p>
-		<p id="sendEmailError" style="display:none; margin-left:20px;">
-			<span style="font-weight:bold; color:red">There was an error sending your message. Please try again.</span>
-		</p>
-		<p id="feedbackSuccess" style="display:none; margin-left:20px;">
-			<span id="feedbackSuccessMessage" style="font-weight:bold; color:green">Thank you for your feedback.</span>
-		</p>
-		
-		<div style="padding:8px 10px 10px 20px;">
-			<table style="margin-bottom:5px">
-				
-				<tbody><tr>
-					<td class="padded">Name:</td>
-				</tr>
-				<tr>
-					<td><input id="feedbackName" type="text" class="midTextBox" value=""></td>
-				</tr>
-				<tr>
-					<td class="padded">Email Address:</td>
-				</tr>
-				<tr>
-					<td><input id="feedbackEmailAddress" type="text" class="longTextBox" value=""></td>
-				</tr>
-				
-				<tr>
-					<td class="padded">Feedback:</td>
-				</tr>
-				<tr>
-					<td>							
-						<textarea id="feedback" class="marginsEqual" style="width:400px; margin-top:0px; resize:none;" rows="6" onblur="clearIfEmpty(this);"></textarea>
-					</td>
-				</tr>
-				<tr>
-					<td align="left">
-						<input name="submitted" type="hidden" value="1">
-						<div class="contentPanelTools" style="padding-top:3px;">
-							<input type="button" value="Send Feedback" onclick="sendFeedback(false, 'Please enter your query details here...', '/support/privacy-policy')">
-						</div>
-						<div style="margin-top:10px;">
-							No replies are given for feedback. For support, please click <a href="/support/contact-us">here</a>.
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-	</div>
-	<div style="float:right;">
-		<input id="feedbackButton" type="button" onclick="feedbackFormToggle()">
-	</div>
-</div>
-
-<div id="feedback-form-background" style="display: none;"></div>
-
 
 </body></html>
