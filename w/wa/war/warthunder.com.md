@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040226id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214301id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
 # War Thunder - Next-Gen MMO Combat Game for PC, Mac, Linux and PlayStation®4 | Play for free now! - Privacy Policy
 
@@ -14,7 +14,7 @@ If after reviewing this Privacy Policy you still have questions or privacy conce
 
 **Summary**
 
-This privacy statement was last updated on July 24, 2015. Gaijin Entertainment LLP (collectively, “Gaijin”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, crossout.ru,  crossout.net, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “Website”).
+This privacy statement was last updated on April 10, 2017 Gaijin Network Ltd. (address: Kyriakou Matsi, 10 Liliana Building, 2nd floor Office 203, PC 1082 Nicosia, Cyprus) (collectively, “Gaijin”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, store.gaijin.net, star-conflict.com, crossout.net and enlisted.net (collectively, “Website”).
 
 This Privacy Policy will inform you of the following: (1) the type of personally identifiable information we collect through our Website as well as our products and Services; (2) how your information is used; (3) with whom your information may be shared; (4) what choices are available to you regarding the collection, use, and distribution of your information; (5) the security procedures in place to protect your information; and  (6) how you can access and correct any inaccuracies in the information collected about you.
 
@@ -124,7 +124,9 @@ Web beacons are used in combination with cookies to help website operators under
 
 _**C.  PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS**_
 
-We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [legals@gaijinent.com.](mailto:legals@gaijinent.com)
+We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com)
+
+You may also send your questions about the processing of your personal data to Gaijin’s address - Kyriakou Matsi, 10 Liliana Building, 2nd floor Office 203, PC 1082 Nicosia, Cyprus.
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with.  We will investigate your inquiry or complaint promptly.
 
@@ -132,4 +134,4 @@ Please also note that in the event of merger or acquisition of Gaijin, your pers
 
 * * *
 
-_Copyright © 2016 Gaijin Entertainment LLP.   All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited._
+_Copyright © 2017 Gaijin Entertainment LLP. All rights reserved. This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties. Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates. All other product and service marks contained herein are the trademarks of their respective owners. Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited._
