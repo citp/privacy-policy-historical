@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flymna.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222053918id_/http%3A//www.flymna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flymna.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630201252id_/http%3A//www.flymna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myanmar National Airlines
 
