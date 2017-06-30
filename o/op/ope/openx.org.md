@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618054011id_/http%3A//openx.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190535id_/https%3A//www.openx.com/de_en/legal/privacy-policy) for the most accurate reproduction.*
 
-# OpenX Privacy Policy
-
-_**Effective Date:**_ February 7, 2016
+# Privacy Policy DE-EN | OpenX
 
 This Privacy Policy explains how OpenX Software Ltd. and its subsidiaries ( **“OpenX”** ) collect, use, and disclose information, and your choices for managing your information preferences.
 
-**What This Policy Covers**
+ **What This Policy Covers**
 
-This Privacy Policy describes OpenX’s data practices associated with our corporate website (www.openx.com) and OpenX services ( **“Services”** ), and the choices that OpenX provides in connection with our collection and use of your information. This Privacy Policy is intended for both website publisher customers ( **“Publishers”** ) and individual users of websites and apps. For Publishers, this Policy explains how OpenX may collect, use and disclose information associated with your company and with your company’s websites and apps that use OpenX Services. For individual website and app users, this Privacy Policy explains how OpenX may collect, use, and disclose information when you visit our website or when you use any website or app that uses OpenX Services.
+This Privacy Policy describes OpenX’s data practices associated with our corporate website ([www.openx.com](https://web.archive.org/de_en/)) and OpenX services ( **“Services”** ), and the choices that OpenX provides in connection with our collection and use of your information. This Privacy Policy is intended for both website publisher customers ( **“Publishers”** ) and individual users of websites and apps. For Publishers, this Policy explains how OpenX may collect, use and disclose information associated with your company and with your company’s websites and apps that use OpenX Services. For individual website and app users, this Privacy Policy explains how OpenX may collect, use, and disclose information when you visit our website or when you use any website or app that uses OpenX Services.
 
-OpenX Services include our Ad Exchange, a Web-based marketplace that enables publishers, advertisers, and ad networks to efficiently market, buy and sell digital and mobile advertising and ad inventory. OpenX also offers services, such as our Ad Server, through which we act as a service provider to enable our Publishers, advertisers, ad networks, and other clients to manage their advertising inventory and to collect and use data to provide advertising on their digital and mobile properties and across the Internet. In this case, Publishers may use our services to process data, which they collect or source. Publishers and other clients may also have their own policies that govern how they collect, use, and share data. These policies may differ from OpenX’s policies described in this Privacy Policy. Please consult the privacy policies of the websites you visit and apps you use to become familiar with their privacy __practices and to learn about any choices that these companies may offer with respect to their information practices.
+OpenX Services include our Ad Exchange, a Web-based marketplace that enables publishers, advertisers, and ad networks to efficiently market, buy and sell digital and mobile advertising and ad inventory. OpenX also offers services, such as our Ad Server, through which we act as a service provider to enable our Publishers, advertisers, ad networks, and other clients to manage their advertising inventory and to collect and use data to provide advertising on their digital and mobile properties and across the Internet. In this case, Publishers may use our services to process data, which they collect or source. Publishers and other clients may also have their own policies that govern how they collect, use, and share data. These policies may differ from OpenX’s policies described in this Privacy Policy. Please consult the privacy policies of the websites you visit and apps you use to __become familiar with their privacy  practices and to learn about any choices that these companies may offer with respect to their information practices.
 
 Finally, the OpenX website may contain links to websites or content operated and maintained by third parties, over which we have no control. We encourage you to review the privacy policy of a third-party website before disclosing any information to the website.
 
-**Information Collection and Use**
+ **Information Collection and Use**
 
 OpenX collects contact information through our website when you choose to provide it, such as your name, username, or email address. For example, you may be asked to provide us with contact information when you register with the OpenX website and when you purchase the Services. The decision to provide this information is optional; however, if you elect not to register or provide such information, you may not be able to access certain content, features, or services available on or through the OpenX website. In order to make payments owed to Publishers, OpenX may also request additional information from Publishers such as other contact information and billing account information.
 
@@ -31,6 +29,7 @@ We may also collect additional information through our website and Services, suc
   * Interest segments (i.e. inferred information on the behavior or likely interests associated with a device)
   * Retargeting data (i.e. data revealing previous interest in a product or website)
   * Information about the possible relationships among different browsers and devices
+  * Information about your activities on our website and Services
 
 
 
@@ -38,27 +37,28 @@ With respect to data collected via the OpenX Ad Exchange, we may combine informa
 
 OpenX does not engage in activities that require parental notice or consent under the Children’s Online Privacy Protection Act (COPPA). If you believe that OpenX has inadvertently collected information from a child under 13 that is subject to parental notice and consent under COPPA, please contact OpenX using the contact information below to request deletion of the information.
 
-**_Cookies and Web Beacons._** We use cookies (a small file containing a string of characters that uniquely identifies your Web browser), Web beacons (an electronic file placed within a Web site that monitors usage), pixels, etags, and similar technologies to operate and improve our website and Services, including for interest-based advertising as described below. Some of our Service Providers (defined below) may also use such technologies in connection with the services they perform on our behalf.
+ ** _Cookies and Other Similar Technologies._**  We use cookies (a small file containing a string of characters that uniquely identifies your Web browser), Web beacons (an electronic file placed within a Web site that monitors usage), pixels, etags, and similar technologies to operate and improve our website and Services, including for interest-based advertising as described below. Some of our Service Providers (defined below) may also use such technologies in connection with the services they perform on our behalf.
 
 We use the following categories of cookies for our website and Services:
 
-  * **Strictly Necessary Cookies**
+  *  **Strictly Necessary Cookies**
 
 
 
 These cookies are essential in order to enable you to navigate our website and use its features. Without these cookies, Services you have asked for such as remembering your login details cannot be provided.
 
-  * **Performance Cookies**
+  *  **Performance Cookies**
 
 
 
 These cookies collect anonymous information on how people use our website. For example, we use these cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve, such as navigation and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
 
-  * **Functionality Cookies**
+  *  **Functionality Cookies**
 
 
 
-These cookies remember choices you make such as the country from which you visit our website, language and search parameters such as size, color or product line. These cookies can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and relevant. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. ** **
+These cookies remember choices you make such as the country from which you visit our website, language and search parameters such as size, color or product line. These cookies can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and relevant. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites. **  
+**
 
   * **Targeting Cookies or Advertising Cookies**
 
@@ -70,7 +70,7 @@ Publishers, advertisers and third-party ad networks that participate in the Open
 
 Your browser may offer tools to enable or disable cookies by modifying the settings in your browser. However, please note that certain features of the OpenX website may not work if you delete or disable cookies. Moreover, if you delete cookies after previously opting out of OpenX’s Ad Exchange practices, you may need to renew your opt-out choice. To read about your choices with regard to OpenX’s use of cookies in our services, please see below.
 
-**Information Sharing**
+ **Information Sharing**
 
 We will disclose contact and billing information to third parties only as described in this Privacy Policy:
 
@@ -82,41 +82,53 @@ We will disclose contact and billing information to third parties only as descri
 
 
 
-We may also share and disclose other information that we collect, including aggregate information, as we consider necessary to develop and provide our Services, including in the ways described above. The information that we share in this way would not, in the United States, be considered to personally identify an __individual.
+We may also share and disclose other information that we collect, including aggregate information, as we consider necessary to develop and provide our Services, including in the ways described above. The information that we share in this way would not, in the United States, be considered to personally identify an individual.
 
-**_Public Forums._** OpenX may offer online resources that facilitate communications among the OpenX client community and others. Whenever you voluntarily post information to any public forum offered by OpenX, such information along with your user name can be accessed by other users of the forum, including members of the public if the forum is open to the public.
+OpenX may also be required to disclose information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-**Interest-Based Advertising and Opting Out**
+ ** _Public Forums.  _**OpenX may offer online resources that facilitate communications among the OpenX client community and others. Whenever you voluntarily post information to any public forum offered by OpenX, such information along with your user name can be accessed by other users of the forum, including members of the public if the forum is open to the public.
+
+ **Interest-Based Advertising and Opting Out**
 
 OpenX adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles in the US and to the European Digital Advertising Alliance (EDAA) Principles in the EU and the IAB Europe OBA Framework.
 
 As discussed above, the OpenX Ad Exchange uses cookies, Web beacons, pixels, etags, and similar technologies to give Publishers the possibility to offer, and Ad Exchange advertisers the ability to show, targeted ads on the device on which you are viewing this policy or a different device. These ads are more likely to be relevant to you because they are based on inferences drawn from location data, web viewing data collected across non-affiliated sites over time, and/or application use data collected across non-affiliated apps over time. This is called “interest-based advertising.” In addition, certain third parties may collect data on the OpenX website and combine this data with information collected from other websites over time for purposes that include interest-based advertising.
 
-**_Opting Out from a Browser that Permits Cookies:_** If you would like to learn more about this type of advertising, or would prefer to opt out of website interest-based advertising enabled by OpenX’s Ad Exchange, US residents may visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) to opt out of this form of advertising by companies participating in the DAA self-regulatory program and European Union residents may opt-out of this form of advertising by companies participating in the EDAA at [www.youronlinechoices.com](http://www.youronlinechoices.com/). Note that if your browser does not accept third-party cookies, you may not be able make choices via these tools. Refer to the ‘Opting Out from a Browser that Blocks Cookies’ section to learn more.
+ ** _Opting Out for Cookie-Based Services:  _**If you would like to learn more about this type of advertising, or would prefer to opt out of website interest-based advertising enabled by OpenX’s Ad Exchange, European Union residents may opt-out of this form of advertising by companies participating in the EDAA at [www.youronlinechoices.com](http://www.youronlinechoices.com/) and all other users may visit [www.aboutads.info/choices](http://www.aboutads.info/choices) to opt out of this form of advertising by companies participating in the DAA self-regulatory program. **Please note** that in order for your opt-out choice to be effective using this tool, you must ensure that your browser is set to accept third-party cookies such as the OpenX opt-out cookie. Some browsers block third-party cookies by default, and you may need to change your browser settings to accept third-party cookies before opting out.
 
-**_Opting Out for Application Data:_** To opt out of OpenX’s collection and use of data for interest-based advertising on mobile apps, US residents may download the DAA’s AppChoices application from the Android or iOS app store on your mobile device.
+ ** _Opting Out for Certain Non-Cookie Services (in applicable countries):_** To help identify your browser and/or possible relationships between different browsers and devices, OpenX or our partners may use the local storage or cache in your browser. Using the browser cache or local storage helps OpenX or our partners deliver interest-based advertising to a browser without the use of third-party cookies. To opt out of OpenX’s use of local storage or the browser cache to provide its services, please (1) use any tools provided by your browser to clear local storage and the browser cache, and (2) turn on any “Do Not Track” header setting offered by your browser. As long as the two steps are completed and maintained on a browser, OpenX will not use local storage or the cache on that browser to identify and sync browsers and devices. If you also want to opt out of OpenX’s use of third-party cookies for interest-based advertising enabled by OpenX’s Ad Exchange, please see instructions above.
 
-**_Opting Out for Location Data:_** You may opt out of our collection and use of precise location data by using the location services controls in your mobile device’s settings.
+ ** _Opting Out for Mobile Application Data:  _**To opt out of OpenX’s collection, use, and transfer of data for interest-based advertising on mobile apps, you may download the DAA’s AppChoices application from the Android or iOS app store on your mobile device. Users outside the United States may not have access to this application; instead, you can use “Limit Ad Tracking” in your iOS settings or “Opt out of interest-based ads” in your Android settings to limit OpenX’s collection of data for interest-based advertising.
 
-**_Opting Out from a Browser that Blocks Cookies:_** Please note that in order for your opt-out choice to be effective, you must ensure that your browser is set to accept third-party cookies such as the OpenX opt-out cookie. Some browsers block third-party cookies by default, and you may need to change your browser settings to accept third-party cookies before opting out.
+ ** _Opting Out for Location Data:  _**You may opt out of our collection, use, and transfer of precise location data by using the location services controls in your mobile device’s settings.
 
-**_Effect of Opting Out:_** If you use a different device or browser, or erase cookies from your browser, you will need to renew your opt-out choice.
+ ** _Effect of Opting Out:  _**If you use a different device or browser, or erase cookies from your browser, you will need to renew your opt-out choice.
 
 If you opt out of OpenX’s practices, you may continue to receive interest-based advertising through other companies. Third-party advertisers and ad networks that participate in the OpenX Ad Exchange may also use their own cookies and other ad service technologies to display and track their ads. We do not control and are not responsible for such third-party advertisers’ and ad networks’ information practices or their use of cookies and other ad service technologies. To learn more about the practices of these companies, please read their privacy policies.
 
 Even if you opt-out, OpenX may continue to collect data for other purposes and you still will receive advertising from the OpenX Ad Exchange when you visit websites of a Publisher who uses our Services – but such advertising will not be targeted to you.
 
-**Reviewing and Updating Information**
+ **Reviewing and Updating Information**
 
-OpenX takes reasonable steps to ensure that information is accurate, complete, current, and reliable for its intended use. For contact or billing information submitted through our website, you may review, correct, update, or change your information, request that we delete your information, or remove your information from our direct marketing efforts, at any time by e-mailing us at [privacy@openx.com](mailto:privacy@openx.com).
+OpenX takes reasonable steps to ensure that information is accurate, complete, current, and reliable for its intended use. For contact or billing information submitted through our website, you may review, correct, update, or change your information, request that we deactivate your account, or remove your information from our direct marketing efforts, at any time by e-mailing us at [privacy@openx.com](mailto:privacy@openx.com).
 
-**International Information Transfers**
+For information on opting out of interest-based advertising enabled by OpenX’s Ad Exchange, click [here](https://web.archive.org/de_en/legal/interest-based-advertising/).
 
-Please be aware that the information we collect, including contact and billing information, may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store information in the United States and your consent to this Privacy Policy represents your agreement and understanding to this processing.
+ **International Information Transfers**
 
-**_For European Union (“EU”) and Swiss Residents._ **In order to provide for an adequate level of data protection OpenX complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union Member States and Switzerland. OpenX has self-certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, as described in this policy. To learn more about the Safe Harbor program and to view OpenX’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+Please be aware that the information we collect, including contact and billing information, may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store information in the United States and your consent to this Privacy Policy or use of OpenX Services represents your agreement to this processing.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, OpenX commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact OpenX at:
+ ** _For EEA_** ** _and Swiss Residents._** For EEA residents, OpenX complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from EEA member countries, as that term is defined in the Privacy Shield Framework. OpenX has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+OpenX is accountable for information that it receives under the Privacy Shield and subsequently transfers to a third party. OpenX transfers contact and billing information to third parties as described above in this Privacy Policy. Additionally, OpenX transfers other information which meets the definition of “personal data” in the Privacy Shield Framework to service providers and to OpenX’s customers such as publishers, ad networks, and ad agencies including for interest-based advertising as described above. In particular, OpenX is responsible under the Privacy Shield Principles if third-party controllers to whom it transfers information or third-party agents it engages to process this information on its behalf do so in a manner inconsistent with the Privacy Shield Principles.
+
+In cases of onward transfer to third parties of data of EEA individuals received pursuant to the EU-US Privacy Shield, OpenX is potentially responsible.
+
+For Swiss residents, OpenX also complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. OpenX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+Residents of the EEA and Switzerland have the right to access the personal information that OpenX maintains about you, as that term is defined in the Privacy Shield Framework, and you may be able to correct or amend that information if it is inaccurate or has been processed in violation of the Privacy Shield Principles, to the extent allowed by law. To exercise this right, please email [privacy@openx.com](mailto:privacy@openx.com). For information on opting out of interest-based advertising enabled by OpenX’s Ad Exchange, click [here](https://web.archive.org/de_en/legal/interest-based-advertising/).
+
+OpenX commits to resolve complaints about our collection or use of your personal information. Residents of the EEA or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact OpenX at:
 
 [privacy@openx.com](mailto:privacy@openx.com)
 
@@ -126,27 +138,33 @@ Attention: Legal Department
 Pasadena, CA 91101  
 USA
 
-OpenX has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenX, please visit the [BBB EU Safe Harbor Dispute Resolution Program website](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/?id=223699) for more information and to file a complaint.
+OpenX has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
-**Security**
+A binding arbitration option may also be made available to you in order to address Privacy Shield complaints not resolved by any other means.
+
+OpenX has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+OpenX is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+ **Security**
 
 Information that we collect is stored using procedures and practices reasonably designed to help protect information from unauthorized access, destruction, use, modification, or disclosure.
 
-**Policy Updates**
+ **Policy Updates**
 
 From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, in whole or in part, we will inform you by posting the revised Privacy Policy on the OpenX website. Those changes will go into effect on the effective date disclosed in the revised Privacy Policy.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions or concerns regarding this OpenX Privacy Policy, please contact us by e-mailing us at [privacy@openx.com](mailto:privacy@openx.com).
 
-**Additional Information for European Union Residents**
+ **Additional Information for European Union Residents**
 
 For European Union residents, the data controller in respect of your personal information is OpenX Ltd.
 
 As set out above, Publishers may use the Services to process data that they collect for their own purposes. In this respect we act as data processor for the Publisher, which may have its own Privacy Policy, which explains how it uses personal information.
 
-**For Information Collected or Used in Japan**
+ **For Information Collected or Used in Japan**
 
 OpenX Japan Kabushiki Kaisha (OpenX Japan) may share contact and billing information in the cases of information sharing set forth in “Information Sharing.” When OpenX Japan shares contact and billing information with our affiliates, the affiliates will use such information for the purposes set forth in this Privacy Policy, and OpenX Software Ltd. is responsible for management of shared information.
 
