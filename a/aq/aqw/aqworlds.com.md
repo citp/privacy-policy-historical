@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqworlds.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107190724id_/http%3A//www.aq.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqworlds.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222155id_/http%3A//www.aq.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
 
