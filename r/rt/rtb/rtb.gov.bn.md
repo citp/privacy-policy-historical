@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtb.gov.bn privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103202034id_/http%3A//www.rtb.gov.bn/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtb.gov.bn privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223818id_/http%3A//www.rtb.gov.bn/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
