@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127220940id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232621id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GEOARM Security
 
-Respecting Your Private Information,
+We Respect Your Private Information!
 
-  
+Your privacy is very important to us. GEOARM prides itself in our commitment to the security of your data and the process by which we handle your personal information.
 
-
-Your privacy is very important to us. GEOARM prides itself in our commitment to the security of your data and the process by which we handle your personal information. This site has measures in place to protect against loss, misuse, and alteration of the information under our control. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
+This site has measures in place to protect against loss, misuse, and alteration of the information under our control. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
 
@@ -31,5 +30,4 @@ West Palm Beach, FL 33401 **By Phone:**
 1-877-443-6276 **By Email:**  
 [customerservice@geoarm.com](mailto:customerservice@geoarm.com)
 
-  
-
+**Pay Less & Get More** **  = GEOARM®**
