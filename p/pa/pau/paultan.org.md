@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020108id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193043id_/https%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Paul Tan's Automotive News - Privacy Policy
 
@@ -179,3 +179,71 @@ You can also write to us at:
 >  F +603 7629 8839
 
 In the event of any conflict between the English and other language versions, the English version shall prevail. Paultan.org Automotive Network shall have the right to modify, update or amend the terms of this Notice at any time by placing the updated Notice on the Website. By continuing to communicate with Paultan.org Automotive Network or by continuing to use Paultan.org Automotive Network’s services following the modifications, updates or amendments to this Notice shall signify your acceptance of such modifications, updates or amendments.
+
+  
+
+
+Local Car Launches
+
+  * [](https://paultan.org/2017/06/20/maxus-g10-se-launched-in-malaysia-from-rm153k/ "Maxus G10 SE launched in Malaysia, from RM153k")
+
+## [Maxus G10 SE launched in Malaysia, from RM153k](https://paultan.org/2017/06/20/maxus-g10-se-launched-in-malaysia-from-rm153k/ "Permalink to Maxus G10 SE launched in Malaysia, from RM153k")
+
+20th June 2017
+
+  * [](https://paultan.org/2017/06/19/volvo-v40-t5-inscription-launched-in-malaysia/ "Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date")
+
+## [Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date](https://paultan.org/2017/06/19/volvo-v40-t5-inscription-launched-in-malaysia/ "Permalink to Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date")
+
+19th June 2017
+
+  * [](https://paultan.org/2017/06/16/ds-5-facelift-launched-in-malaysia/ "DS 5 facelift now available in Malaysia – RM198,888")
+
+## [DS 5 facelift now available in Malaysia – RM198,888](https://paultan.org/2017/06/16/ds-5-facelift-launched-in-malaysia/ "Permalink to DS 5 facelift now available in Malaysia – RM198,888")
+
+16th June 2017
+
+  * [](https://paultan.org/2017/06/09/2017-hyundai-elantra-ad-launched-in-malaysia-1-6-turbo-2-0-na-3-variants-from-rm116k/ "2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k")
+
+## [2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k](https://paultan.org/2017/06/09/2017-hyundai-elantra-ad-launched-in-malaysia-1-6-turbo-2-0-na-3-variants-from-rm116k/ "Permalink to 2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k")
+
+9th June 2017
+
+  * [](https://paultan.org/2017/06/08/2017-honda-jazz-hybrid-whats-sport-hybrid-i-dcd-and-how-different-is-it-from-integrated-motor-assist/ "2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?")
+
+## [2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?](https://paultan.org/2017/06/08/2017-honda-jazz-hybrid-whats-sport-hybrid-i-dcd-and-how-different-is-it-from-integrated-motor-assist/ "Permalink to 2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?")
+
+8th June 2017
+
+  * [](https://paultan.org/2017/06/06/2017-honda-jazz-facelift-launched-in-malaysia/ "2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800")
+
+## [2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800](https://paultan.org/2017/06/06/2017-honda-jazz-facelift-launched-in-malaysia/ "Permalink to 2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800")
+
+6th June 2017
+
+  * [](https://paultan.org/2017/06/05/2017-proton-iriz-officially-launched-in-malaysia/ "2017 Proton Iriz officially launched – RM44k to RM59k")
+
+## [2017 Proton Iriz officially launched – RM44k to RM59k](https://paultan.org/2017/06/05/2017-proton-iriz-officially-launched-in-malaysia/ "Permalink to 2017 Proton Iriz officially launched – RM44k to RM59k")
+
+5th June 2017
+
+  * [](https://paultan.org/2017/05/25/mercedes-amg-gla-45-4matic-facelift-introduced-in-malaysia-375-hp-and-475-nm-rm408888/ "Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888")
+
+## [Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888](https://paultan.org/2017/05/25/mercedes-amg-gla-45-4matic-facelift-introduced-in-malaysia-375-hp-and-475-nm-rm408888/ "Permalink to Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888")
+
+25th May 2017
+
+  * [](https://paultan.org/2017/05/25/x156-mercedes-benz-gla-facelift-launched-in-malaysia-gla200-for-rm240k-gla250-4matic-at-rm270k/ "X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k")
+
+## [X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k](https://paultan.org/2017/05/25/x156-mercedes-benz-gla-facelift-launched-in-malaysia-gla200-for-rm240k-gla250-4matic-at-rm270k/ "Permalink to X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k")
+
+25th May 2017
+
+  * [](https://paultan.org/2017/05/24/kia-optima-gt-launched-in-malaysia-242-hp-rm180k/ "Kia Optima GT launched in Malaysia – 242 hp, RM180k")
+
+## [Kia Optima GT launched in Malaysia – 242 hp, RM180k](https://paultan.org/2017/05/24/kia-optima-gt-launched-in-malaysia-242-hp-rm180k/ "Permalink to Kia Optima GT launched in Malaysia – 242 hp, RM180k")
+
+24th May 2017
+
+
+
