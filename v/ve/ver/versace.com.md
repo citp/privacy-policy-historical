@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123132227id_/http%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630202828id_/http%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Versace US
 
@@ -34,8 +34,9 @@ Data processing relating to the web services of this website takes place at:
 \- LLX Global Business Services UK Limited, a company incorporated under laws of United Kingdom with registered offices at 5 Fleet Place, London EC4M 7RD (United Kingdom) - which acts as Data Processor on behalf of the Company.   
 \- Diennea S.r.l., a company incorporated under the laws of Italy, with registered office in Viale G. Marconi 30/14 48018 Faenza (RA) (Italy) - which acts as Data Processor on behalf of the Company.   
 \- Porini Insight S.r.l.- company managed and controlled by Porini S.r.l, with legal headquarter in via Milano 37/C, 20064 Gorgonzola (MI), (Italy) - which acts as Data Processor on behalf of the Company.   
-\- ASM Italy S.r.l., a company incorporated under the laws of Italy, with registered office in via F. Filzi, 19 20124 Milano (Italy) - which acts as Data Processor on behalf of the Company.   
-\- Arvato eCommerce Beteiligungsgesellschaft mbH, a company incorporated under the laws of Germany with registered office in An der Autobahn, 33333 Gütersloh (Germany) - which acts as Data Processor on behalf of the Company. 
+\- SaleCyle Inc., a company incorporated under the laws of The State of Delaware, with registered office in The Commonwealth of Virginia - which acts as Data Processor on behalf of the Company.   
+\- Trade Global Inc., a company incorporated under the laws of the United States, with registered office in 5389 East Provident Drive Cincinnati, OH 45246 (USA) - which acts as Data Processor on behalf of the Company.   
+
 
 TYPES OF DATA PROCESSED 
 
