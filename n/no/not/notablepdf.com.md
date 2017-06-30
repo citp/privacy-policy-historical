@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105130947id_/https%3A//www.kamihq.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185744id_/https%3A//www.kamihq.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kami - Privacy
 
