@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071106id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630132223id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is of the utmost importance to us at Nerd Approved. This privacy po
 
 **Collection and Use of Personal Information:**
 
-We collect personal information like names, addresses and emails on a voluntary basis and only for functions that pertain to our content (i.e. post comments, contact forms, newsletters and contests).
+We collect personal information like names, addresses and emails on a voluntary basis and only for functions that pertain to our content (i.e. post comments, contact forms, newsletters and contests). 
 
 **Use By Children** : We do not knowingly collect personal information from children under the age of 13. Children should not submit any personal information to the website and we would delete any information we discover to be in violation of this Privacy Policy. 
 
@@ -24,7 +24,7 @@ The second newsletter is maintained by StackCommerce for the purposes of the [Ne
 
 **Cookies and Web Beacons:**
 
-Like most websites, Nerd Approved assigns cookies to our readers in an effort to manage preferences, ensure functionality and collect information on the access of our content.
+Like most websites, Nerd Approved assigns cookies to our readers in an effort to manage preferences, ensure functionality and collect information on the access of our content. 
 
 **Third Party Cookies:**
 
@@ -32,13 +32,10 @@ Nerd Approved currently utilizes the following providers for advertising and aff
 
   * [DFP Small Business](http://www.google.com/doubleclick/publishers/welcome/)
   * [Google Adsense](https://www.google.com/adsense)
-  * [Technorati Media Network](http://technoratimedia.com/)
-  * [ValueClick Media](http://www.valueclickmedia.com/)
   * [Federated Media](http://www.federatedmedia.net/)
   * [Skimlinks](https://skimlinks.com/)
   * [StackCommerce](https://stackcommerce.com/)
   * [Shareasale](https://www.shareasale.com/)
-  * [RadiumOne/Po.st](http://www.po.st/)
 
 
 
@@ -50,7 +47,7 @@ If you wish to disable cookies, you can do so through your browser options menu.
 
 **Traffic Reports** :
 
-Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/) to collect and analyze traffic statistics using information like IP addresses, browsers,  ISPs, date of access, time spent on the site, pages accessed and links clicked. This information is not shared with anyone and does not contain any data that personally identifies the visitor. 
+Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/) to collect and analyze traffic statistics using information like IP addresses, browsers, ISPs, date of access, time spent on the site, pages accessed and links clicked. This data includes basic demographic information that allows us to better understand our readers interests. This information is not shared with anyone and does not contain any data that personally identifies the visitor. 
 
 **Comments:**
 
@@ -58,7 +55,7 @@ Nerd Approved contains comments sections where readers can engage in a dialogue 
 
 We try and actively monitor comments as much as possible, but this is no easy task and objectionable content might pop up from time to time. If alerted to a particular situation we will assess it and delete the offending comment if it is warranted.
 
-**Contests**
+**Contests:**
 
 Nerd Approved might request personal information from readers to fulfill requirements for contests. This may include shipping information, email and phone numbers. This information is not shared with anyone except the company sponsoring the contest for the purposes of shipping (please refer to the sponsor’s privacy policy for information on how they handle this information). 
 
