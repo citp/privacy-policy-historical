@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230201558id_/http%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205839id_/http%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
 
 # Oneindia | Privacy Policy
 
