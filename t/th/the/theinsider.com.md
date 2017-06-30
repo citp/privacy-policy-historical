@@ -1,95 +1,69 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601204322id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_privacygl%26referer%3Dprivacygl.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# CBSi Privacy Policy
+# Medium Privacy Policy – Medium Policy – Medium
 
-|    
-Trust is a cornerstone of our mission at CBS Interactive. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Principles?template=template_privacygl&referer=privacygl.com&data=&cfs=default).
+**Effective Date: March 7, 2016**
 
-**Note:** The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Web Sites. By using any of the CBS Interactive Web Sites, you consent to the terms of the updated privacy policy. [Click here](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy-FAQ?template=template_privacygl&referer=privacygl.com&data=&cfs=default&data=&cfs=default) for more information about the updates.
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-  
-   
----  
-   
-|  **Scope of Privacy Policy**|  **Information Collected**  
----|---  
-CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default) (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective July 2, 2012, is guided by a core set of [Privacy Principles](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Principles?template=template_privacygl&referer=privacygl.com&data=&cfs=default) and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
+#### General information
 
-» [Read more](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default#Scope%20of%20Privacy%20Policy)
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
-|  We collect a variety of information about you, including:
+#### What we may collect
 
-• Information you provide directly to a CBS Interactive Web Site.
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
 
-• Information about your computer and browsing activities on the Web Sites, including through [cookies, web beacons, and other technologies](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Cookies-Web-Beacons-and-Other-Similar-Technologies?template=template_privacygl&referer=privacygl.com&data=&cfs=default).
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
 
-• Information about you from other sources where permitted by law.  
- 
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
 
-» [Read more](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default#Information%20Collected)  
-  
-**Use of Information**|  **Disclosure of Information**  
-We use the information we collect to:
+#### Email from Medium
 
-• Provide the services you request.
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
 
-• Tell you about offers we think you will value.
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
-• Customize the content and advertising you see.
+#### Disclosure of your information
 
-• Improve your experience on CBS Interactive Web Sites.
+As a rule, we don’t share your personal information outside the company.
 
-• As otherwise described to you at the point of collection or with your consent.
+We won’t sell your personal information.
 
-» [Read more](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default#Use%20of%20Information)
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
 
-|  We may share your information:
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
 
-• Where we have obtained your consent.
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
 
-• With our third-party service providers.
+#### Cookies
 
-• With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Web Site.
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
 
-• Within the family of [CBS Interactive Web Sites](http://www.cbsinteractive.com/brands/) and [other CBS businesses](http://www.cbscorporation.com/portfolio.php).
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
 
-• If a CBS Interactive Web Site is sold to another company.
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
 
-• To protect or defend the rights of CBS Interactive or our users.
+#### Data Storage
 
-• When required by law or public authorities.
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
 
-» [Read more](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default#Disclosure%20of%20Information)  
-  
-**Your Choices**|  **Other Information**  
-  
-• If you choose to share contact information with us, you will have the opportunity to update that information.  
- 
+####  **Modifying your personal information or deleting your  account**
 
-• You can stop the delivery of commercial email messages from a CBS Interactive Web Site or service by following the instructions in any such email you receive.  
- 
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
 
-• You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [third-party online advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Third-Party-Online-Advertising?template=template_privacygl&referer=privacygl.com&data=&cfs=default).  
- 
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-• You also may choose to opt out of our use of data that we collect about your visits to our business partners’ sites to customize advertising that we serve. To opt out, visit the [CBS Interactive Business Partner Advertising Opt-Out](http://optout.cbsinteractive.com/optout/setOptOut.php) page.
+If you delete your account, your account and content may be unrecoverable.
 
-  
+#### Data security
 
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
 
-» [Read more](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default#Your%20Choices)
+#### Changes to this Policy
 
-| 
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
 
-• CBS Interactive is committed to working with you to obtain a fair resolution of any privacy concern.  
- 
+#### Questions
 
-• We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.  
- 
-
-• For more information about our privacy practices, please review the full [CBS Interactive Privacy Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Privacy-Policy?template=template_privacygl&referer=privacygl.com&data=&cfs=default).  
-  
-**How to Contact Us**  
-If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](https://cbsi.secure.force.com/CBSi/submitcase?template=template_privacygl&referer=privacygl.com).  
-  
-
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
