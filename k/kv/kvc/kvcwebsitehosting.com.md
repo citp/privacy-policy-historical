@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kvcwebsitehosting.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509174549id_/http%3A//www.kvcwebhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvcwebsitehosting.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181130id_/https%3A//www.kvchosting.net/privacy-policy.html) for the most accurate reproduction.*
 
 # KVCHOSTING Privacy Policy
 
-KVCHosting.com, LLC is committed to protecting client data collected. KVCHosting respects client's privacy and use of KVCHosting services indicates agreement to KVCHosting privacy policy guidelines as defined:
+KVCHosting.net, LLC is committed to protecting client data collected. KVCHosting respects client's privacy and use of KVCHosting services indicates agreement to KVCHosting privacy policy guidelines as defined:
 
-KVCHosting will collect and record minimum required client information in order to provide competitive services. KVCHosting privacy policy states the kinds of processes that may occur in different circumstances when client data will be collected. Usage of KVCHosting.com grants the right to collect user information. 
+KVCHosting will collect and record minimum required client information in order to provide competitive services. KVCHosting privacy policy states the kinds of processes that may occur in different circumstances when client data will be collected. Usage of KVCHosting.net grants the right to collect user information. 
 
 KVCHosting may record any or all information given by client according to transaction type client enters, such as date of birth, name, address, phone numbers, fax numbers, email addresses, website use, and other personal information needed to process request. 
 
@@ -15,7 +15,7 @@ Client internet browsers have in-built mechanisms to store small files or cookie
 KVCHosting will not disclose any personal information received from client to third parties. KVCHosting may use such information to notify or inform client about developments and other KVCHosting services or offers. However, client or user will be given the option to remove self from such a mailing list or notification processes. KVCHosting will not disclose information collected on website to third parties without consent and acknowledgement from client/user. KVCHosting may provide general survey or data information to third parties but will withhold those that may identify individuals. 
 
 **U.S.-EU & U.S.-Swiss Safe Harbor Frameworks**  
-KVC Hosting complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. KVC Hosting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view KVC Hosting's certification, please visit <http://www.export.gov/safeharbor/>.
+KVC Hosting complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. KVC Hosting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view KVC Hosting's certification, please visit [//www.export.gov/safeharbor/](https://www.export.gov/safeharbor/).
 
 **DISCLOSURE TO LAW ENFORCEMENT**  
 KVCHosting reserves the right to disclose subscriber information to law enforcement agencies without consent or notifying subscriber if lawful request is made from such agencies. KVCHosting will cooperate fully with such law enforcement agencies. 
