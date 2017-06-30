@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202409id_/http%3A//www.citydeals.com/index.php/customer-service/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citydeals.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215909id_/http%3A//www.citydeals.com/index.php/customer-service/%23Privacy) for the most accurate reproduction.*
 
 # Customer Service
 
