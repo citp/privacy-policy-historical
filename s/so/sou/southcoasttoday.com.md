@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southcoasttoday.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229215432id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southcoasttoday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133609id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Gatehouse Media » Privacy Policy
+# Privacy Policy – Gatehouse Media
 
 This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).
 
@@ -74,15 +74,15 @@ GateHouse Media works with DataXu to target advertising based on non-personally 
 
 If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways:
 
- **E-mail us at:** [webmaster@gatehousemedia.com](mailto:webmaster@gatehousemedia.com)
+**E-mail us at:** [webmaster@gatehousemedia.com](mailto:webmaster@gatehousemedia.com)
 
- **Write to us at:**  
+**Write to us at:**  
 Webmaster  
 GateHouse Media, LLC  
 175 Sully’s Trail, 3rd Floor  
 Corporate Crossings Office Park  
 Pittsford, NY 14534
 
- **Call us at:** (585) 598-0030 and ask for the GateHouse webmaster
+**Call us at:** (585) 598-0030 and ask for the GateHouse webmaster
 
 Last revised November 2015
