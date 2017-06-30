@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103928id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630023949id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # | La Redoute
 
@@ -29,7 +29,7 @@ If we make changes to this Policy, we will notify you by updating this statement
 
 We guarantee to protect your privacy. We take great care to make sure you receive the best protection possible for your personal information and any financial details that you provide. The La Redoute website is a secure site, and any personal data we collect from you is safe from misuse. We abide by the Data Protection Act 1998 and we make sure that any personal information we hold is handled properly. This means that your information will be fairly and lawfully processed, that we will make sure that it is accurate, and that your information is not kept for longer than necessary. Your information will be kept secure and processed in line with your rights under the Data Protection Act 1998 and will not be transferred to countries without adequate protection.
 
-As is normal for any retailer or other organisation, we use reputable businesses from time to time to supply us with a range of services such as delivery of parcels and printing of materials and it may benecssary to share your information, e.g.  name/address details for parcel delivery, with those businesses. We will, of course, ensure that your information is secure and adequately protected and processed in line with the Data Protection Act 1998. 
+As is normal for any retailer or other organisation, we use reputable businesses from time to time to supply us with a range of services such as delivery of parcels and printing of materials and it may be necessary to share your information, e.g.  name/address details for parcel delivery, with those businesses. We will, of course, ensure that your information is secure and adequately protected and processed in line with the Data Protection Act 1998. 
 
 ##  Information we might need from you
 
@@ -55,7 +55,7 @@ If we perform a credit search, we will search the files of credit reference agen
 
   We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this.
 
-  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 033 0303 0199. Our lines are open from 8am-9pm, Monday to Friday and Saturday 8am to 5:30pm.
+  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 033 0303 0199. Our lines are open from 8am - 9pm, Monday to Friday and Saturday 9am - 4:30pm.
 
 _  
 Marketing_
@@ -65,7 +65,7 @@ We will send you our seasonal catalogue whilst you have an active account with u
   We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed “How to unsubscribe from marketing”.
 
   * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute or as other brands we operate from time to time.
-  * We may share your details with other members of La Redoute Group...
+  * We may share your details with other members of La Redoute Group.
   * We may share your details with our former sister companies, Vertbaudet and Daxon.
   * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so.
 
@@ -77,7 +77,7 @@ We will send you our seasonal catalogue whilst you have an active account with u
 
   **Marketing from La Redoute, our other brands or other La Redoute Group members**
 
-  Please write to us, telephone our Customer Care Team or email us with your name and customer number in the message box. Please state as follows:- 
+  Please write to us, telephone our Customer Care Team or email us with your name and customer number in the message box. Please state as follows: 
 
   * Name of brand from which you no longer wish to receive marketing contact (e.g. La Redoute) or that you no longer wish us to share information with our other brands or other Group members for marketing purposes.
   * Type of communication you no longer wish to receive (e.g. mail, telephone, email).
@@ -90,7 +90,7 @@ You will also have the opportunity to unsubscribe via each marketing email sent 
 
   **Marketing from carefully selected third parties**
 
-  Please write to us, telephone our Customer Care Team or email us with “no third party marketing” as the subject heading and your name and customer reference number in the message box. Please state as follows:- 
+  Please write to us, telephone our Customer Care Team or email us with “no third party marketing” as the subject heading and your name and customer reference number in the message box. Please state as follows: 
 
   * That you no longer wish us to share information with third parties for marketing purposes.
   * Type of communication you no longer wish to receive (e.g. mail, telephone, email).
@@ -135,4 +135,4 @@ We are required by the Data Protection Act 1998 to follow strict security proced
 
         **Changes to our privacy policy**
 
-  We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on October 2015.
+  We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on January 2017.
