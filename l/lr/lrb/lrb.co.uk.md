@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227000808id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630162704id_/https%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy · LRB
 
@@ -10,7 +10,7 @@ If you have any questions about this privacy statement please address them to [r
 
 ## Scope
 
-This privacy statement refers to the _London Review of Books_ and the London Review Bookshop Website ([www.lrb.co.uk](http://www.lrb.co.uk/) – hereafter ‘ _LRB_ web site’) and does not necessarily reflect the use of data gathered on subscribers to the print edition of the _London Review of Books_ or those who have taken advantage of _London Review of Books_ advertising promotions unrelated to the _LRB_ Web site.
+This privacy statement refers to the _London Review of Books_ and the London Review Bookshop Website ([www.lrb.co.uk](https://web.archive.org/) – hereafter ‘ _LRB_ Website’) and does not necessarily reflect the use of data gathered on subscribers to the print edition of the _London Review of Books_ or those who have taken advantage of _London Review of Books_ advertising promotions unrelated to the _LRB_ Web site.
 
 This statement is subject to change at any time. The way we use any information will be subject to the privacy statement that is current when that information is gathered. Please check this page regularly to see any changes.
 
@@ -26,7 +26,7 @@ Most browsers have ‘preference’ settings which alert you when cookies are be
 
 We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the _LRB_ Website. Third-party marketing vendors may be hired by the _LRB_ to perform remarketing services. As a result, third-party vendors, including Google, may show _LRB_ ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to the _LRB_ ’s website.
 
-To opt out of customized Google Display Network ads [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCh1gvijSzZx4FCDDmvxyO8mg--FNzsJ9FePCZ1Eo1O4IZLK4Zr9rxlra5PbI2hpRsYTPex6eJxhkjScAQkjhrIqEuqqM7uosv39MRB23XmOSm4f7NCfNI2oKpiJD6Lw3Tigg57LthVKLdRPdaFsLtqhckW_rB3JDMS7Q5RT5WqQ08Rs7icRHPDWBtIjexnOD). To find out more about how Google uses any data it collects please visit <http://www.google.com/privacy_ads.html>.
+To opt out of customized Google Display Network ads [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCh1gvijSzZx4FCDDmvxyO8mg--FNzsJ9FePCZ1Eo1O4IZLK4Zr9rxlra5PbI2hpRsYTPex6eJxhkjScAQkjhrIqEuqqM7uosv39MRB23XmOSm4f7NCfNI2oKpiJD6Lw3Tigg57LthVKLdRPdaFsLtqhckW_rB3JDMS7Q5RT5WqQ08Rs7icRHPDWBtIjexnOD). To find out more about how Google uses any data it collects please visit [www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).
 
 Any information collected is used only for remarketing purposes and will not be used by them for any other purpose.
 
@@ -39,6 +39,10 @@ Your IP address is a numeric code which is assigned to your computer every time 
 When you use the _LRB_ Website to subscribe to the London Review of Books magazine or for a web subscription, to purchase goods and services, or to update your subscription data, we will need you to provide certain information which enables you to be identified as an individual (name, address, e-mail, credit card details, and so on). This information is necessary for us to process your order or update your details.
 
 To enable us to improve our products and services for your benefit we may, providing we have your permission, contact you to ask if you wish to participate in our customer research programme. This may include an invite to join website usability testing which helps us to find ways to improve our website. You will always have the option to ignore the request or to decline.
+
+Your email address will be added to the _London Review of Books_ email alert service, so that you can stay informed about new issues, events and offers. You may unsubscribe at any time by following the link at the bottom of each email.
+
+We would also like to keep you informed by post and telephone about our products and services.
 
 We may associate information referenced by cookies with personal information which you provide to us online. We will not disclose your personal information to third parties except in the following cases:
 
