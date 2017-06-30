@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105139id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630133038id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Forward.com
+# Privacy Policy – The Forward
 
 This privacy policy sets out how the Forward uses and protects any information that you may give the Forward when you use this website. The Forward may change this policy occasionally by updating this page. You are free to check this page from time to time to ensure that you are happy with any changes.
 
