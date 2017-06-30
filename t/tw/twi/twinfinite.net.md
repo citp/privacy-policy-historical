@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinfinite.net privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218001422id_/http%3A//twinfinite.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinfinite.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630084026id_/http%3A//twinfinite.net/privacy-policy) for the most accurate reproduction.*
 
 # Twinfinite's Privacy Policy
 
@@ -6,13 +6,13 @@ If you require any more information or have any questions about our privacy poli
 
 At [Twinfinite](http://twinfinite.net/), we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Twinfinite and how we use it.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, Twinfinite makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 Twinfinite uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on Twinfinite. Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to Twinfinite and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
@@ -24,18 +24,18 @@ These third-party ad servers or ad networks use technology in their respective a
 
 Twinfinite has no access to or control over these cookies that are used by third-party advertisers.
 
- **Third Party Privacy Policies**
+**Third Party Privacy Policies**
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Twinfinite’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
- **Online Privacy Policy Only**  
+**Online Privacy Policy Only**  
 This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
- **Consent**  
+**Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
- **Update**  
+**Update**  
 This Privacy Policy was last updated on: Tuesday, August 23rd, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
