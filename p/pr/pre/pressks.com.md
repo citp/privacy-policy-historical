@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011653id_/http%3A//pressks.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressks.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125229id_/http%3A//pressks.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Press News Release
 
@@ -14,7 +14,7 @@ Like many other Web sites,pressks.com makes use of log files. The information in
 
 **Cookies and Web Beacons**
 
-techspothub.blogspot.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+pressks.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**
 
