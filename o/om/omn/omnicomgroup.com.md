@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnicomgroup.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927090243id_/http%3A//www.omnicomgroup.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnicomgroup.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211930id_/http%3A//www.omnicomgroup.com/privacy-notice) for the most accurate reproduction.*
 
 # Online Privacy Notice | Omnicom Group
 
