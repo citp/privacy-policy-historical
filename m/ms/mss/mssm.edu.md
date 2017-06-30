@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssm.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121002351id_/http%3A//www.mountsinai.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssm.edu privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215709id_/http%3A//www.mountsinai.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mount Sinai - New York
 
