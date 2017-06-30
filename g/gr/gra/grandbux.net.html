@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the grandbux.net privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506164651id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grandbux.net privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630152344id_/https%3A//www.grandbux.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="theme-color" content="#6B0000">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Grandbux - One Step Ahead</title>
 <link href="./templates/ModernBlue/css/global.css" rel="stylesheet" type="text/css">
 <link rel="icon" href="./favicon.png" type="image/png">
 <link href="./templates/ModernBlue/33brushes-styles/css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="./templates/ModernBlue/33brushes-styles/css/bootstrap-custom.css" rel="stylesheet" type="text/css">
+<link href="./templates/ModernBlue/33brushes-styles/css/bootstrap-custom.css?051617" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Raleway:400,600" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+<link href="./css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="./js/jquery.min.js"></script>
 <script type="text/javascript" src="./js/jquery-ui-1.9.1.custom.min.js"></script>
 <link href="./templates/ModernBlue/css/evolutionscript/jquery-ui-1.9.2.custom.css" rel="stylesheet">
@@ -21,11 +23,58 @@
 <script type="text/javascript" src="./templates/ModernBlue/33brushes-styles/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="./templates/ModernBlue/33brushes-styles/js/bootstrap_custom.js"></script>
 <script>
-mydate = new Date("06 May 2016 09:46:51");
+var SrvTime = new Date("30 Jun 2017 08:23:44");
+var oldSec = -1;
+var cntdActive = true;
 
-
-	$(document).ready(function() {	
-		dateTimer();
+	function cl(v) {
+        return v > 9 ? v : "0" + v;
+    }
+	function nth(d){
+		if(d>3 && d<21) return 'th'; // thanks kennebec
+		switch (d % 10) {
+			case 1:  return "st";
+			case 2:  return "nd";
+			case 3:  return "rd";
+			default: return "th";
+		}
+	}
+    function parseDT(d) {
+		var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
+        return cl(d.getHours())+":"+cl(d.getMinutes())+":"+cl(d.getSeconds())+", "+d.getDate()+nth(d.getDate())+" "+mS[d.getMonth()]+".";
+    }
+    function parseT(d) {
+        return cl(d.getHours())+":"+cl(d.getMinutes())+":"+cl(d.getSeconds());
+    }
+	function parseCntdT(d) {
+        if ((d.getHours() == 0) && (d.getMinutes() == 0) && (d.getSeconds() == 0)) {
+            cntdActive=false;
+        }
+        if (cntdActive) {
+            return cl(23 - d.getHours()) + ":" + cl(59 - d.getMinutes()) + ":" + cl(59 - d.getSeconds());
+        }
+    }
+	function parseCntdT2(d) {
+        if ((d.getHours() == 0) && (d.getMinutes() == 0) && (d.getSeconds() == 0)) {
+            cntdActive=false;
+        }
+        if (cntdActive) {
+            return cl(23 - d.getHours()) + "h " + cl(59 - d.getMinutes()) + "m " + cl(59 - d.getSeconds()) + "s";
+        }
+    }
+	$(document).ready(function() {
+		setInterval(function () {
+            var Sec = new Date().getSeconds();
+            if (oldSec != Sec) {
+                oldSec = Sec;
+                $("#DTNow").html(parseDT(SrvTime));
+                $("#DTNow2").html(parseDT(SrvTime));
+                $("#TNow").html(parseT(SrvTime));
+				$("#CntdTNow").html(parseCntdT(SrvTime));
+				$("#CntdTNow2").html(parseCntdT2(SrvTime));
+                SrvTime=new Date(SrvTime.valueOf()+1000);
+            }
+        }, 100);
 	});
 	
 </script>
@@ -36,11 +85,12 @@ function changelang(lang){
 location.href='./?lang='+lang;
 }
 </script>
+<div>
+<canvas id="hdc" style="position: absolute;"></canvas>
 <div class="header-top">
 <div class="container">
 <ul class="nav nav-pills fl-l">
 <li><a href="index.php?view=register" class="register">Register</a></li>
- 
 <li><a href="index.php?view=login">Login</a></li>
 <li><a href="index.php?view=leaderboard">Leaderboard</a></li>
 </ul>
@@ -54,7 +104,7 @@ location.href='./?lang='+lang;
 </ul>
 </li>
 </ul>
-</div>  
+</div>
 </div>
 <div class="header">
 <div class="container">
@@ -72,8 +122,9 @@ location.href='./?lang='+lang;
 <a class="facebook" href="https://facebook.com/grandbux"></a>
 <a class="twitter" href="https://twitter.com/grandbux"></a>
 </div>
-</div>  
-</div>  
+</div>
+</div>
+</div>
 <div class="wrapper">
 <div class="main-content2" style="min-height: 400px;">
  
@@ -81,7 +132,7 @@ location.href='./?lang='+lang;
 <div class="site_title">Privacy Policy</div>
 <div class="site_content"> 
 <p><strong>PRIVACY POLICY</strong></p>
-<p>1. INTRODUCTION. Grandteam LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of <a href="http://www.grandbux.net/">www.grandbux.net</a> (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.</p>
+<p>1. INTRODUCTION. Grandteam LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of <a href="../">www.grandbux.net</a> (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.</p>
 <p>2. INFORMATION COLLECTION PRACTICES</p>
 <p>2.1. TYPES OF INFORMATION COLLECTED</p>
 <p>(a) TRAFFIC DATA COLLECTED. We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use “cookies” to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site.</p>
@@ -124,10 +175,11 @@ location.href='./?lang='+lang;
  
 </div>  
 <div class="home-bottom">
-<a class="bottom-logo1" href="https://www.paypal.com/"></a>
+<span class="bottom-logo1"></span>
  
 <div class="bottom-logo3">
-<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=F9y7yfo0XIKQIqL24CAIR8y93PzZ27ujdbW85N0Dsyzg6VYkh4hjPg"></script></span>
+ 
+<img src="https://seal.godaddy.com/images/3/en/siteseal_gd_3_h_l_m.gif" alt="SSL site seal">
 </div>
 <div class="bottom-logo4">
 <a target="_blank" href="http://www.dmca.com/Protection/Status.aspx?ID=d02f82ac-b20f-45c3-b2de-2daf97c955c3" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca_protected_12_120.png?ID=d02f82ac-b20f-45c3-b2de-2daf97c955c3" alt="DMCA.com Protection Status"></a>
@@ -140,7 +192,7 @@ location.href='./?lang='+lang;
 <div class="footer-container">
 <div class="footer">
 <div class="container">
-<div class="span6">Copyright © 2014 - 2016 Grandteam, LLC. All rights reserved.</div>
+<div class="span6">Copyright © 2014 - 2017 Grandteam, LLC. All rights reserved.</div>
 <div class="span5">
 <ul class="unstyled">
 <li><a href="index.php?view=payment_proof">Payments</a></li>
