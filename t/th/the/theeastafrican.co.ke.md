@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theeastafrican.co.ke privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231185549id_/http%3A//www.theeastafrican.co.ke/meta/2562-2548-36ij5f/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeastafrican.co.ke privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231603id_/http%3A//www.theeastafrican.co.ke/meta/2562-2548-36ij5f/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - Footer
+# Privacy Policy - The East African
 
 **What does Nation Media Group do with the information it gathers/tracks?**
 
