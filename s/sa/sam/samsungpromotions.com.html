@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samsungpromotions.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229101221id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungpromotions.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630171020id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,7 +10,7 @@
 <!-- SEO -->
 <link href="/us/css/common.css" rel="stylesheet" type="text/css">
 <link href="/us/css/etc.css" rel="stylesheet" type="text/css">
-<script src="//tags.tiqcdn.com/utag/samsung/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/us/scripts/jquery-1.3.2.js"></script>
+<script src="//tags.tiqcdn.com/utag/samsung/main/qa/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/us/scripts/jquery-1.3.2.js"></script>
 <script type="text/javascript" src="/us/scripts/jquery.hoverflow.js"></script>
 <script type="text/javascript" src="/us/scripts/effects.core.js"></script>
 <script type="text/javascript" src="/us/scripts/effects.blind.js"></script>
@@ -151,17 +151,8 @@ var omn_ss_loggedin = "not logged in";
 	window.utag_data = window.utag_data || {};
 	(function(a,b,c,d){
 		a='//tags.tiqcdn.com/utag/samsung/main/prod/utag.js';
-		var hostName = location.hostname;
-		if (hostName.indexOf('devus') != -1 || hostName.indexOf('devwww') != -1
-				|| hostName.indexOf('dev') != -1
-				|| hostName.indexOf('stgwww') != -1
-				|| hostName.indexOf('stgapp') != -1
-				|| hostName.indexOf('prod') != -1
-				|| hostName.indexOf('local') != -1) {
-			a='//tags.tiqcdn.com/utag/samsung/main/dev/utag.js';
-		} else if(hostName.indexOf('stgweb') != -1) {
-			a='//tags.tiqcdn.com/utag/samsung/main/qa/utag.js';
-		}
+		var host = location.hostname;
+		if (!(host.indexOf('www.samsung.com') != -1)) {a='//tags.tiqcdn.com/utag/samsung/main/qa/utag.js';}
 		b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
 		a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
 	})();
@@ -169,26 +160,39 @@ var omn_ss_loggedin = "not logged in";
 <noscript>
     <div class="no-script">Please Turn Javascript on</div>
 </noscript>
-<section class="gnb-b2c-shadow gnb-desktop-hidden gnb-tablet-hidden gnb-invisible"></section>
+<div class="s-skip-content">
+	<a href="#content" id="skipToContent">Skip to content</a>
+	<a href="#accHelp" id="skipToAccHelp">Skip to accessibility help</a>
+</div>
+<section class="gnb-b2c-shadow gnb-desktop-hidden gnb-invisible"></section>
 <nav class="gnb-b2c" role="navigation">
-	<section class="gnb-b2c-promo-wrapper gnb-active-promo-">
+	<!--<section class="gnb-b2c-promo-wrapper">
 	   <div class="gnb-b2c-promo">
-	     <div class="gnb-promo-close">×</div>
+	     <a href="javascript:;" class="gnb-promo-close">&times;</a>
 	     <div class="gnb-promo-left gnb-promo-side">
 	       <div class="gnb-promo-text">NOTE7 UPDATE:  WE ARE COMMITTED TO YOUR SAFETY AND ARE EXPANDING OUR RECALL. <a href="/us/note7recall">SEE DETAILS</a></div>
 		   <br>
-		   <div class="gnb-promo-text" style="margin-right: 20px;">IMPORTANT INFORMATION CONCERNING YOUR TOP LOAD WASHER. <a href="/us/tlw/">SEE DETAILS</a></div>
+		   <div class="gnb-promo-text" style="margin-right: 20px;">IMPORTANT INFORMATION CONCERNING YOUR TOP LOAD WASHER. <a href="http://pages.samsung.com/us/tlw/">SEE DETAILS</a></div>
 	     </div>
-	    <!-- <div class="gnb-promo-divider"></div>
+	    <div class="gnb-promo-divider"></div>
 	     <div class="gnb-promo-right gnb-promo-side">
 	       <span class="gnb-promo-text"></span>
-	     </div>-->
+	     </div>
 	   </div>
+	</section>//-->
+	<section class="epp-bar-wrap">
+		<div class="epp-bar">
+			<div class="epp-bar-logo"></div>
+			<div class="epp-bar-msg">
+				Welcome <div class="epp-bar-username">!</div> Please enjoy our special offers for you
+			</div>
+		</div>
 	</section>
-	<section class="gnb-b2c-mcont">
-		<div class="gnb-b2c-mnav">
+	<section class="gnb-b2c-mcont row-fluid">
+		<div class="gnb-b2c-mnav span10 col-lg-5">
 			<div class="gnb-desktop-hidden gnb-tablet-hidden gnb-b2c-mnav-mobile">
-				<a class="burger-container" href="#">
+				<a class="burger-container" href="#" text="Navigation Menu">
+					<div class="acc-link">Navigation Menu</div>
 					<span class="burger-line"></span>
 					<span class="burger-line"></span>
 					<span class="burger-line"></span>
@@ -209,22 +213,23 @@ var omn_ss_loggedin = "not logged in";
 				</li>
 			</ul>
 		</div>
-		<div class="gnb-b2c-logo">
-			<a href="/us/" data-link_cat="gnb" data-link_id="gnb_logo" data-link_meta="link_name:samsung logo" data-link_position="gnb>logo"><svg>
-					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#logo"></use>
-				</svg>
+		<div class="gnb-b2c-logo span4 col-lg-2">
+			<a href="/us/" data-test="test" data-link_cat="gnb" data-link_id="gnb_logo" data-link_meta="link_name:samsung logo" data-link_position="gnb>logo" text="Home Page">
+				<span class="acc-link">Samsung Logo</span>
+				<svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="23.9 37.5 32.1 4.9">
+				<path d="M 50.5 41.2 l -0.1 -3.5 h 1.1 v 4.5 h -1.6 l -1.1 -3.7 h -0.1 l 0.1 3.7 h -1.1 v -4.5 h 1.7 l 1 3.5 Z m -20.7 -3.1 l -0.6 4.1 H 28 l 0.8 -4.5 h 2.1 l 0.8 4.5 h -1.2 l -0.6 -4.1 Z m 5.4 3.1 l 0.5 -3.5 h 1.9 l 0.1 4.5 h -1.1 l -0.1 -4.1 l -0.7 4.1 h -1.2 l -0.8 -4.1 v 4.1 h -1.2 l 0.1 -4.5 h 1.9 l 0.6 3.5 Z M 26 41 v 0.3 c 0 0.2 -0.1 0.3 -0.5 0.3 c -0.3 0 -0.5 -0.2 -0.5 -0.4 v -0.5 h -1.2 v 0.3 c 0 1 0.8 1.3 1.7 1.3 c 0.8 0 1.5 -0.3 1.6 -1 v -0.8 c -0.2 -1 -1.9 -1.2 -2.1 -1.8 v -0.2 c 0 -0.1 0.1 -0.3 0.4 -0.3 s 0.4 0.2 0.4 0.4 v 0.3 h 1.1 v -0.3 c 0 -1 -0.9 -1.1 -1.5 -1.1 c -0.8 0 -1.5 0.3 -1.6 1 v 0.6 c 0.4 1 2 1.2 2.2 1.9 Z m 14.9 -0.1 v 0.3 c 0 0.1 -0.1 0.3 -0.4 0.3 c -0.3 0 -0.5 -0.2 -0.5 -0.4 v -0.4 h -1.2 v 0.3 c 0 1 0.8 1.3 1.7 1.3 c 0.8 0 1.5 -0.3 1.6 -1 v -0.8 c -0.2 -1 -1.9 -1.2 -2 -1.8 v -0.2 c 0 -0.2 0.1 -0.3 0.4 -0.3 c 0.3 0 0.4 0.2 0.4 0.4 v 0.3 H 42 v -0.3 c 0 -1 -0.9 -1.1 -1.5 -1.1 c -0.8 0 -1.5 0.3 -1.6 1 v 0.6 c 0.2 1 1.8 1.2 2 1.8 Z m 3.9 0.6 c 0.3 0 0.4 -0.2 0.4 -0.3 v -3.6 h 1.2 v 3.6 c -0.1 0.8 -0.8 1.1 -1.6 1.1 s -1.5 -0.3 -1.6 -1.1 v -3.6 h 1.2 v 3.6 c 0 0.1 0.1 0.3 0.4 0.3 Z m 9.5 0 c 0.3 0 0.5 -0.2 0.5 -0.3 v -0.9 h -0.5 v -0.7 H 56 v 1.5 c -0.1 0.8 -0.8 1.1 -1.6 1.1 s -1.5 -0.3 -1.6 -1.1 v -2.4 c 0.1 -0.9 0.8 -1.1 1.6 -1.1 s 1.5 0.3 1.6 1.1 v 0.5 h -1.2 v -0.5 c 0 -0.1 -0.1 -0.3 -0.5 -0.3 c -0.3 0 -0.4 0.2 -0.5 0.3 v 2.5 c 0.1 0.1 0.2 0.3 0.5 0.3 Z"></path><rect class="btn" fill="transparent" width="100%" height="100%"></rect></svg>
 			</a>
 		</div>
-		<div class="gnb-b2c-icons">
+		<div class="gnb-b2c-icons span10 col-lg-5">
 			<ul>
 				<li class="gnb-b2c-mnav-item gnb-mobile-hidden">
-					<a class="gnb-b2c-mnav-link gnb-showcarrot" href="/us/support" data-link_cat="gnb" data-link_id="gnb_nav_1_support" data-link_meta="link_name:support" data-link_position="gnb>top nav 1">Support</a>
+					<a class="gnb-b2c-mnav-link gnb-showcarrot" href="/us/support/" data-link_cat="gnb" data-link_id="gnb_nav_1_support" data-link_meta="link_name:support" data-link_position="gnb>top nav 1">Support</a>
 				</li>
 				<li class="gnb-b2c-mnav-item gnb-mobile-hidden">
 					<a class="gnb-b2c-mnav-link gnb-showcarrot" href="/us/business/" data-link_cat="gnb" data-link_id="gnb_nav_1_business" data-link_meta="link_name:business" data-link_position="gnb>top nav 1">Business</a>
 				</li>
 				<li class="gnb-b2c-mnav-item gnb-b2c-icons-login gnb-mobile-hidden">
-					<a class="gnb-b2c-mnav-link gnb-before-login gnb-showcarrot" href="/us/support/account" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
+					<a class="gnb-b2c-mnav-link gnb-before-login" href="/us/support/account/" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
 					<div class="gnb-after-login gnb-login-mark gnb-hidden">
 						<svg>
 							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#sign-in"></use>
@@ -232,22 +237,23 @@ var omn_ss_loggedin = "not logged in";
 						<span>
 							<img class="gnb-epp-logo" src="">
 						</span>
+						<span class="gnb-username"></span>
 					</div>
 				</li>
 				<li class="gnb-b2c-icons-item gnb-b2c-icons-search" role="search">
-					<a href="#" data-link_cat="gnb" data-link_id="gnb_search" data-link_meta="link_name:search icon" data-link_position="gnb">
-						<svg>
-							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#search"></use>
+					<a href="#" data-link_cat="gnb" data-link_id="gnb_search" data-link_meta="link_name:search icon" data-link_position="gnb" text="Open search box">
+						<svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.982 17.946">
+							<path d="M13.475 13.392A7.844 7.844 0 0 0 15.74 7.87a7.87 7.87 0 1 0-7.87 7.87c1.28 0 2.487-.313 3.556-.856l2.358 3.06h3.198l-3.507-4.552zm-5.605-.03a5.492 5.492 0 1 1 0-10.984 5.492 5.492 0 0 1 0 10.985z"></path><rect width="100%" height="100%" fill="transparent" class="btn"></rect>
 						</svg>
-						<span aria-hidden="true">Search</span>
+						<span class="acc-link">Search</span>
 					</a>
 				</li>
 				<li class="gnb-b2c-icons-item gnb-b2c-icons-cart">
-					<a href="#" data-link_cat="gnb cart" data-link_id="gnb_cart" data-link_meta="link_name:cart icon" data-link_position="gnb">
+					<a href="#" data-link_cat="gnb cart" data-link_id="gnb_cart" data-link_meta="link_name:cart icon" data-link_position="gnb" text="Go to shopping cart">
 						<svg>
 							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#cart"></use>
 						</svg>
-						<span aria-hidden="true">Shopping Cart</span>
+						<span class="acc-link">Shopping Cart</span>
 						<strong class="cart-basket"></strong>
 					</a>
 				</li>
@@ -258,49 +264,54 @@ var omn_ss_loggedin = "not logged in";
 		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden gnb-hidden" data-gnb-snav="Mobile">
 			<div class="gnb-b2c-padcont">
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/mobile" class="gnb-b2c-scol-title">
-						<h6>Mobile</h6>
-					</a>
+					<h6>Mobile</h6>
 					<ul>
 						<li>
-							<a href="/us/mobile/phones" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_phones" data-link_meta="link_name:phones" data-link_position="gnb>top nav 2>mobile">Phones</a>
+							<a href="/us/mobile/galaxy/" data-link_cat="gnb" data-link_id="gnb_nav_2_galaxy_products" data-link_meta="link_name:galaxy products" data-link_position="gnb>top nav 2>galaxy products">Galaxy Products</a>
 						</li>
 						<li>
-							<a href="/us/mobile/tablets" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>mobile">Tablets</a>
+							<a href="/us/mobile/phones/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_phones" data-link_meta="link_name:phones" data-link_position="gnb>top nav 2>mobile">Phones</a>
 						</li>
 						<li>
-							<a href="/us/mobile/wearables" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_wearables" data-link_meta="link_name:wearables" data-link_position="gnb>top nav 2>mobile">Wearables</a>
+							<a href="/us/mobile/tablets/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>mobile">Tablets</a>
 						</li>
 						<li>
-							<a href="/us/mobile/virtual-reality" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_virtual-reality" data-link_meta="link_name:virtual-reality" data-link_position="gnb>top nav 2>mobile">Virtual Reality</a>
+							<a href="/us/mobile/wearables/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_wearables" data-link_meta="link_name:wearables" data-link_position="gnb>top nav 2>mobile">Wearables</a>
 						</li>
 						<li>
-							<a href="/us/mobile/mobile-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_mobile-accessories" data-link_meta="link_name:mobile-accessories" data-link_position="gnb>top nav 2>mobile">Accessories</a>
+							<a href="/us/mobile/virtual-reality/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_virtual-reality" data-link_meta="link_name:virtual-reality" data-link_position="gnb>top nav 2>mobile">Virtual Reality</a>
+						</li>
+						<li>
+							<a href="/us/mobile/mobile-accessories/all-mobile-accessories/s/_/n-10+11+hv1rt/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_mobile-accessories" data-link_meta="link_name:mobile-accessories" data-link_position="gnb>top nav 2>mobile">Accessories</a>
+						</li>
+						<li>
+							<a href="/us/explore/easy-switching-new-galaxy-phone-to-phone-transfer/" data-link_cat="gnb" data-link_id="gnb_nav_2_switching_to_galaxy" data-link_meta="link_name:switching to galaxy" data-link_position="gnb>top nav 2>switching to galaxy">Switching to Galaxy</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/apps" class="gnb-b2c-scol-title">
-						<h6>Apps</h6>
-					</a>
+					<h6>Apps</h6>
 					<ul>
-						<li>
-							<a href="/us/samsung-pay" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-pay" data-link_meta="link_name:samsung-pay" data-link_position="gnb>top nav 2>apps">Samsung Pay</a>
+                                          	<li>
+							<a href="/us/explore/bixby/overview/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_bixby" data-link_meta="link_name:bixby" data-link_position="gnb>top nav 2>apps">Bixby</a>
+						</li>
+	                                        <li>
+							<a href="/us/smart-switch/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_smart-switch" data-link_meta="link_name:smart-switch" data-link_position="gnb>top nav 2>apps">Smart Switch</a>
 						</li>
 						<li>
-							<a href="/us/samsung-plus" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-plus" data-link_meta="link_name:samsung-plus" data-link_position="gnb>top nav 2>apps">Samsung +</a>
+							<a href="/us/samsung-pay/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-pay" data-link_meta="link_name:samsung-pay" data-link_position="gnb>top nav 2>apps">Samsung Pay</a>
 						</li>
 						<li>
-							<a href="/us/smart-switch" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_smart-switch" data-link_meta="link_name:smart-switch" data-link_position="gnb>top nav 2>apps">Smart Switch</a>
-						</li>
-                                                <li>
-							<a href="/us/explore/shop-samsung-app" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_app" data-link_meta="link_name:shop-samsung-app" data-link_position="gnb>top nav 2>apps">Shop Samsung App</a>
+							<a href="/us/samsung-health/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-health" data-link_meta="link_name:samsung-health" data-link_position="gnb>top nav 2>apps">Samsung Health</a>
 						</li>
 						<li>
-							<a href="/us/explore/samsung-kids" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-kids" data-link_meta="link_name:samsung-kids" data-link_position="gnb>top nav 2>apps">Samsung Kids</a>
+							<a href="/us/samsung-plus/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-plus" data-link_meta="link_name:samsung-plus" data-link_position="gnb>top nav 2>apps">Samsung +</a>
+						</li>					
+						<li>
+							<a href="/us/explore/shop-samsung-app/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_shop_samsung_app" data-link_meta="link_name:shop samsung app" data-link_position="gnb>top nav 2>shop samsung app">Shop Samsung App</a>
 						</li>
 						<li>
-							<a href="/us/apps/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_apps-for-every-screen" data-link_meta="link_name:apps-for-every-screen" data-link_position="gnb>top nav 2>apps">Apps for Every Screen</a>
+							<a href="/us/explore/samsung-kids/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-kids" data-link_meta="link_name:samsung-kids" data-link_position="gnb>top nav 2>apps">Samsung Kids</a>
 						</li>
 					</ul>
 				</div>
@@ -308,53 +319,51 @@ var omn_ss_loggedin = "not logged in";
 					<h6>Featured</h6>
 					<ul>
 						<li>
-							<a class="non-tran" href="/us/mobile/galaxy/" data-link_cat="gnb" data-link_id="gnb_nav_2_a_galaxy_of_possibility" data-link_meta="link_name:a_galaxy_of_possibility" data-link_position="gnb>top nav 2>featured">A Galaxy of Possibility</a>
+							<a class="non-tran" href="/us/explore/galaxy-s8/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_s8" data-link_meta="link_name:galaxy s8" data-link_position="gnb>top nav 2>galaxy s8">Galaxy S8</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/galaxy-note-7-features-and-specs" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy-note-7-features-and-specs" data-link_meta="link_name:galaxy-note-7-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Note7</a>
+							<a class="non-tran" href="/us/mobile/phones/unlocked-by-samsung/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_unlocked_by_samsung" data-link_meta="link_name:Unlocked by Samsung" data-link_position="gnb>top nav 2>unlocked by samsung">Unlocked by Samsung</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/galaxy-s7-features-and-specs" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy-s7-features-and-specs" data-link_meta="link_name:galaxy-s7-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy S7</a>
+							<a class="non-tran" href="/us/support/premium-care/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_premium_care" data-link_meta="link_name:premium care" data-link_position="gnb>top nav 2>premium care">Premium Care</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/easy-switching-new-galaxy-phone-to-phone-transfer/" data-link_cat="gnb" data-link_id="gnb_nav_2_switching_to_galaxy" data-link_meta="link_name:switching_to_galaxy" data-link_position="gnb>top nav 2>featured">Switching to Galaxy</a>
+							<a class="non-tran" href="/us/explore/tab-s3-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_tab_s3" data-link_meta="link_name:galaxy tab s3" data-link_position="gnb>top nav 2>galaxy tab s3">Galaxy Tab S3</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/experience/move" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_move" data-link_meta="link_name:move" data-link_position="gnb>top nav 2>featured">Move Collection</a>
+							<a class="non-tran" href="/us/explore/galaxy-s7/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_s7" data-link_meta="link_name:galaxy s7" data-link_position="gnb>top nav 2>galaxy s7">Galaxy S7</a>
 						</li>
 					</ul>
 					<h6 class="gnb-secondrow">Shop</h6>
 					<ul>
 						<li>
-							<a href="/us/shop/special-offers/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
+							<a href="/us/shop/all-deals/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>special offers">Special Offers</a>
 						</li>
 						<li>
-							<a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified-pre-owned" data-link_meta="link_name:certified-pre-owned" data-link_position="gnb>top nav 2>shop">Certified Pre Owned</a>
+							<a href="/us/education/welcome/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_student_discounts" data-link_meta="link_name:student discounts" data-link_position="gnb>top nav 2>student discounts">Student Discounts</a>
+						</li>
+						<li>
+							<a href="/us/shop/workplacediscount/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_employee_discounts" data-link_meta="link_name:employee discounts" data-link_position="gnb>top nav 2>employee discounts">Employee Discounts</a>
+						</li>
+						<li>
+							<a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified_refurbished" data-link_meta="link_name:certified refurbished" data-link_position="gnb>top nav 2>certified refurbished">Certified Refurbished</a>
+						</li>
+						<li>
+							<a href="/us/financing/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_financing" data-link_meta="link_name:samsung financing" data-link_position="gnb>top nav 2>samsung financing">Samsung Financing</a>
 						</li>
 					</ul>
 				</div>
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_black_friday"
-							data-link_meta="link_name:black_friday"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/BlackFriday_flyout.jpg" />
+				<div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
+					<a href="/us/explore/galaxy-s8/buy/" data-link_cat="gnb" data-link_id="gnb_nav_tmo_galaxy_s8_promotion" data-link_meta="link_name:tmo galaxy s8 promotion" data-link_position="gnb>top nav 2>promo">
+						<img data-src="//s7d2.scene7.com/is/image/SamsungUS/GNB_FLYOUT_MOBILE_SUMMER" class="lazyload">
 					</a>
-				</div> //-->
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_12_days_of_deals"
-							data-link_meta="link_name:12_days_of_deals"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/Post_Holiday_GNB_Flyout_120716_130pm.jpg" />
-					</a>
-				</div> //-->
+				</div>
 			</div>
 		</div>
-		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden gnb-hidden" data-gnb-snav="TV &amp; Audio">
+		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden" data-gnb-snav="TV &amp; Audio">
 			<div class="gnb-b2c-padcont">
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/televisions-home-theater" class="gnb-b2c-scol-title">
+					<a href="/us/televisions-home-theater/" class="gnb-b2c-scol-title" data-link_cat="gnb" data-link_id="gnb_televisions-home-theater" data-link_meta="link_name:gnb" data-link_position="gnb>televisions-home-theater">
 						<h6>TVs &amp; Home Theater</h6>
 					</a>
 					<ul>
@@ -370,7 +379,7 @@ var omn_ss_loggedin = "not logged in";
 					</ul>
 				</div>
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/audio" class="gnb-b2c-scol-title">
+					<a href="/us/audio/" class="gnb-b2c-scol-title">
 						<h6>Audio</h6>
 					</a>
 					<ul>
@@ -389,16 +398,19 @@ var omn_ss_loggedin = "not logged in";
 					<h6>Featured</h6>
 					<ul>
 						<li>
-							<a href="/us/experience/9series-tv/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_9series-tv" data-link_meta="link_name:9series-tv" data-link_position="gnb>top nav 2>featured">4K SUHD TVs</a>
+							<a href="/us/explore/qled-tv/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_qled-tvs" data-link_meta="link_name:qled-tvs" data-link_position="gnb>top nav 2>featured">QLED TVs with Quantum Dots</a>
 						</li>
 						<li>
-							<a href="/us/televisions-home-theater/tvs/all-tvs/s/serif_tv/_/n-10+11+hv1uh+troxi" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_serif-tv" data-link_meta="link_name:serif-tv" data-link_position="gnb>top nav 2>featured">Serif TV</a>
+							<a href="/us/explore/frame-tv/highlights/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_the-frame" data-link_meta="link_name:the-frame" data-link_position="gnb>top nav 2>featured">The Frame</a>
+						</li>
+                                                <li>
+							<a href="/us/televisions-home-theater/tvs/all-tvs/s/serif_tv/_/n-10+11+hv1uh+troxi/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_serif-tv" data-link_meta="link_name:serif-tv" data-link_position="gnb>top nav 2>featured">Serif TV</a>
 						</li>
 						<li>
-							<a href="/us/televisions-home-theater/home-theater/blu-ray-dvd-players/4k-ultra-hd-blu-ray-player-ubd-k8500-za/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_meta="link_name:4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_position="gnb>top nav 2>featured">4K Ultra HD Blu-ray Player</a>
+							<a href="/us/televisions-home-theater/home-theater/blu-ray-dvd-players/ubd-m9500-4k-ultra-hd-blu-ray-player-ubd-m9500-za/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_meta="link_name:4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_position="gnb>top nav 2>featured">4K Ultra HD Blu-ray Player</a>
 						</li>
 						<li>
-							<a href="/us/audio-soundbars/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_soundbars" data-link_meta="link_name:sounbars" data-link_position="gnb>top nav 2>featured">Soundbar with Dolby Atmos<sup>®</sup></a>
+							<a href="/us/explore/soundplus/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_soundbars" data-link_meta="link_name:sounbars" data-link_position="gnb>top nav 2>featured">Sound+ Soundbar</a>
 						</li>
 						<li>
 							<a href="/us/experience/move/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_move" data-link_meta="link_name:move" data-link_position="gnb>top nav 2>featured">Move Collection</a>
@@ -413,54 +425,66 @@ var omn_ss_loggedin = "not logged in";
 							<a href="/us/shop/special-offers/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
 						</li>
 						<li>
-							<a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified-refurbished" data-link_meta="link_name:certified-refurbished" data-link_position="gnb>top nav 2>shop">Certified Refurbished</a>
+							<a href="/us/education/welcome/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_student_discounts" data-link_meta="link_name:student discounts" data-link_position="gnb>top nav 2>student discounts">Student Discounts</a>
 						</li>
+						<li>
+							<a href="/us/shop/workplacediscount/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_employee_discounts" data-link_meta="link_name:employee discounts" data-link_position="gnb>top nav 2>employee discounts">Employee Discounts</a>
+						</li>
+						<li>
+							<a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified_refurbished" data-link_meta="link_name:certified refurbished" data-link_position="gnb>top nav 2>certified refurbished">Certified Refurbished</a>
+						</li>
+						<li>
+							<a href="/us/financing/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_financing" data-link_meta="link_name:samsung financing" data-link_position="gnb>top nav 2>samsung financing">Samsung Financing</a>
+						</li>
+						<!--<li>
+							<a href="/us/tv-trade-in/" data-link_cat="gnb"
+							data-link_id="gnb_nav_2_shop_samsung_tv-trade-in_program"
+							data-link_meta="link_name:samsung tv trade-in program"
+							data-link_position="gnb>top nav 2>tv trade-in program">Trade-In Program</a>
+						</li>//-->
 					</ul>
 				</div>
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_12_days_of_deals"
-							data-link_meta="link_name:12_days_of_deals"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/Post_Holiday_GNB_Flyout_120716_130pm.jpg" />
+				<div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
+					<a href="/us/explore/frame-tv/highlights/" data-link_cat="gnb" data-link_id="gnb_nav_2_frame-tv" data-link_meta="link_name:frame-tv" data-link_position="gnb>top nav 2>promo">
+						<img data-src="http://s7d2.scene7.com/is/image/SamsungUS/FrameTV_GNB-1" class="lazyload">
 					</a>
-				</div> //-->
+				</div>
 			</div>
 		</div>
-		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden gnb-hidden" data-gnb-snav="Computing">
+		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden" data-gnb-snav="Computing">
 			<div class="gnb-b2c-padcont">
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/computing">
+					<a href="/us/computing/" data-link_cat="gnb" data-link_id="gnb_computing" data-link_meta="link_name:gnb" data-link_position="gnb>computing">
 						<h6>Computing</h6>
 					</a>
 					<ul>
 						<li>
-							<a href="/us/computing/windows-laptops" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-laptops" data-link_meta="link_name:windows-laptops" data-link_position="gnb>top nav 2>computing">Windows Laptops</a>
+							<a href="/us/computing/windows-laptops/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-laptops" data-link_meta="link_name:windows-laptops" data-link_position="gnb>top nav 2>computing">Windows Laptops</a>
 						</li>
 						<li>
-							<a href="/us/computing/windows-desktops" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-desktops" data-link_meta="link_name:windows-desktops" data-link_position="gnb>top nav 2>computing">Windows Desktops</a>
+							<a href="/us/computing/windows-desktops/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-desktops" data-link_meta="link_name:windows-desktops" data-link_position="gnb>top nav 2>computing">Windows Desktops</a>
 						</li>
 						<li>
-							<a href="/us/computing/chromebooks" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_chromebooks" data-link_meta="link_name:chromebooks" data-link_position="gnb>top nav 2>computing">Chromebooks</a>
+							<a href="/us/computing/chromebooks/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_chromebooks" data-link_meta="link_name:chromebooks" data-link_position="gnb>top nav 2>computing">Chromebooks</a>
 						</li>
 						<li>
-							<a href="/us/computing/tablets" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>computing">Tablets</a>
+							<a href="/us/computing/tablets/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>computing">Tablets</a>
 						</li>
 						<li>
-							<a href="/us/computing/printers" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_printers" data-link_meta="link_name:printers" data-link_position="gnb>top nav 2>computing">Printers</a>
+							<a href="/us/computing/printers/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_printers" data-link_meta="link_name:printers" data-link_position="gnb>top nav 2>computing">Printers</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
 					<ul class="gnb-noheader">
 						<li>
-							<a href="/us/computing/monitors" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_monitors" data-link_meta="link_name:monitors" data-link_position="gnb>top nav 2>computing">Monitors</a>
+							<a href="/us/computing/monitors/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_monitors" data-link_meta="link_name:monitors" data-link_position="gnb>top nav 2>computing">Monitors</a>
 						</li>
 						<li>
-							<a href="/us/computing/memory-storage" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_memory-storage" data-link_meta="link_name:memory-storage" data-link_position="gnb>top nav 2>computing">Memory &amp; Storage</a>
+							<a href="/us/computing/memory-storage/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_memory-storage" data-link_meta="link_name:memory-storage" data-link_position="gnb>top nav 2>computing">Memory &amp; Storage</a>
 						</li>
 						<li>
-							<a href="/us/computing/computing-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_computing-accessories" data-link_meta="link_name:computing-accessories" data-link_position="gnb>top nav 2>computing">Accessories</a>
+							<a href="/us/computing/computing-accessories/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_computing-accessories" data-link_meta="link_name:computing-accessories" data-link_position="gnb>top nav 2>computing">Accessories</a>
 						</li>
 					</ul>
 				</div>
@@ -468,13 +492,16 @@ var omn_ss_loggedin = "not logged in";
 					<h6>Featured</h6>
 					<ul>
 						<li>
-							<a href="/us/explore/notebook-9-laptop/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_notebook-9-laptop" data-link_meta="link_name:notebook-9-laptop" data-link_position="gnb>top nav 2>featured">Notebook 9</a>
+							<a href="/us/computing/windows-laptops/15-18/notebook-odyssey-15-6--np800g5m-x01us/" data-link_cat="gnb" data-link_id="gnb_nav_2_notebook-odyssey" data-link_meta="link_name:notebook-odyssey" data-link_position="gnb>top nav 2>featured">Notebook Odyssey</a>
 						</li>
 						<li>
-							<a href="/us/explore/tab-pro-s-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-pro-s-features-and-specs" data-link_meta="link_name:tab-pro-s-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy TabPro S</a>
+							<a href="/us/explore/galaxy-book/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_book" data-link_meta="link_name:galaxy-book" data-link_position="gnb>top nav 2>featured">Galaxy Book</a>
 						</li>
 						<li>
-							<a href="/us/explore/tab-s2-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-s2-features-and-specs" data-link_meta="link_name:tab-s2-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Tab S2</a>
+							<a href="/us/explore/tab-s3-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-s3-features-and-specs" data-link_meta="link_name:tab-s3-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Tab S3</a>
+						</li>
+						<li>
+							<a href="/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_chromebook_plus" data-link_meta="link_name:chromebook-plus" data-link_position="gnb>top nav 2>featured">Chromebook Plus</a>
 						</li>
 					</ul>
 					<h6 class="gnb-secondrow">Shop</h6>
@@ -483,75 +510,85 @@ var omn_ss_loggedin = "not logged in";
 							<a href="/us/shop/special-offers/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
 						</li>
 						<li>
-							<a href="/us/mobile/tablets/all-tablets/s/certified_refurbished/_/n-10+11+hv1rq+troxm" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified-refurbished" data-link_meta="link_name:certified-refurbished" data-link_position="gnb>top nav 2>shop">Certified Refurbished</a>
+							<a href="/us/education/welcome/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_student_discounts" data-link_meta="link_name:student discounts" data-link_position="gnb>top nav 2>student discounts">Student Discounts</a>
+						</li>
+						<li>
+							<a href="/us/shop/workplacediscount/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_employee_discounts" data-link_meta="link_name:employee discounts" data-link_position="gnb>top nav 2>employee discounts">Employee Discounts</a>
+						</li>
+						<li>
+							<a href="/us/mobile/tablets/all-tablets/s/certified_refurbished/_/n-10+11+hv1rq+troxm" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified refurbished" data-link_meta="link_name:certified refurbished" data-link_position="gnb>top nav 2>certified refurbished">Certified Refurbished</a>
+						</li>
+						<li>
+							<a href="/us/financing/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_financing" data-link_meta="link_name:samsung financing" data-link_position="gnb>top nav 2>samsung financing">Samsung Financing</a>
 						</li>
 					</ul>
 				</div>
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_12_days_of_deals"
-							data-link_meta="link_name:12_days_of_deals"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/Post_Holiday_GNB_Flyout_120716_130pm.jpg" />
+				<div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
+					<a href="/us/explore/gaming" data-link_cat="gnb" data-link_id="gnb_nav_2_gaming" data-link_meta="link_name:gaming" data-link_position="gnb>top nav 2>promo">
+						<img data-src="//s7d2.scene7.com/is/image/SamsungUS/GNB_COMPUTING_FLYOUT" class="lazyload">
 					</a>
-				</div> //-->
+				</div>
 			</div>
 		</div>
 		<div class="gnb-b2c-scont gnb-b2c-snav gnb-mobile-hidden gnb-hidden" data-gnb-snav="Home Appliances">
 			<div class="gnb-b2c-padcont">
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/home-appliances" class="gnb-b2c-scol-title">
+					<a href="/us/home-appliances/" class="gnb-b2c-scol-title" data-link_cat="gnb" data-link_id="gnb_home-appliances" data-link_meta="link_name:gnb" data-link_position="gnb>home-appliances">
 						<h6>Home Appliances</h6>
 					</a>
 					<ul>
 						<li>
-							<a href="/us/home-appliances/refrigerators" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_refrigerators" data-link_meta="link_name:refrigerators" data-link_position="gnb>top nav 2>home-appliances">Refrigerators</a>
+							<a href="/us/home-appliances/refrigerators/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_refrigerators" data-link_meta="link_name:refrigerators" data-link_position="gnb>top nav 2>home-appliances">Refrigerators</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/ranges" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_ranges" data-link_meta="link_name:ranges" data-link_position="gnb>top nav 2>home-appliances">Ranges</a>
+							<a href="/us/home-appliances/ranges/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_ranges" data-link_meta="link_name:ranges" data-link_position="gnb>top nav 2>home-appliances">Ranges</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/wall-ovens" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_wall_ovens" data-link_meta="link_name:wall-ovens" data-link_position="gnb>top nav 2>home-appliances">Wall Ovens</a>
+							<a class="non-tran" href="/us/home-appliances/wall-ovens/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_wall_ovens" data-link_meta="link_name:wall-ovens" data-link_position="gnb>top nav 2>home-appliances">Wall Ovens</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/cooktops-and-hoods" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_cooktops_and_hoods" data-link_meta="link_name:cooktops-and-hoods" data-link_position="gnb>top nav 2>cooktops-and-hoods">Cooktops &amp; Hoods</a>
+							<a class="non-tran" href="/us/home-appliances/cooktops-and-hoods/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_cooktops_and_hoods" data-link_meta="link_name:cooktops-and-hoods" data-link_position="gnb>top nav 2>cooktops-and-hoods">Cooktops &amp; Hoods</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/microwaves" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_microwaves" data-link_meta="link_name:microwaves" data-link_position="gnb>top nav 2>home-appliances">Microwaves</a>
+							<a href="/us/home-appliances/microwaves/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_microwaves" data-link_meta="link_name:microwaves" data-link_position="gnb>top nav 2>home-appliances">Microwaves</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/dishwashers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dishwashers" data-link_meta="link_name:dishwashers" data-link_position="gnb>top nav 2>home-appliances">Dishwashers</a>
+							<a href="/us/home-appliances/dishwashers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dishwashers" data-link_meta="link_name:dishwashers" data-link_position="gnb>top nav 2>home-appliances">Dishwashers</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/washers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_washers" data-link_meta="link_name:washers" data-link_position="gnb>top nav 2>home-appliances">Washers</a>
+							<a href="/us/home-appliances/washers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_washers" data-link_meta="link_name:washers" data-link_position="gnb>top nav 2>home-appliances">Washers</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/dryers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dryers" data-link_meta="link_name:dryers" data-link_position="gnb>top nav 2>home-appliances">Dryers</a>
+							<a href="/us/home-appliances/dryers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dryers" data-link_meta="link_name:dryers" data-link_position="gnb>top nav 2>home-appliances">Dryers</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/vacuums" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_vacuums" data-link_meta="link_name:vacuums" data-link_position="gnb>top nav 2>home-appliances">Vacuums</a>
+							<a href="/us/home-appliances/vacuums/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_vacuums" data-link_meta="link_name:vacuums" data-link_position="gnb>top nav 2>home-appliances">Vacuums</a>
 						</li>
 						<li>
-							<a href="/us/home-appliances/home-appliances-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_home-appliances-accessories" data-link_meta="link_name:home-appliances-accessories" data-link_position="gnb>top nav 2>home-appliances">Accessories</a>
+							<a href="/us/home-appliances/home-appliances-accessories/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_home-appliances-accessories" data-link_meta="link_name:home-appliances-accessories" data-link_position="gnb>top nav 2>home-appliances">Accessories</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-b2c-scol gnb-b2c-scol-5">
-					<a href="/us/smart-home" class="gnb-b2c-scol-title">
+					<a href="/us/smart-home/" class="gnb-b2c-scol-title">
 						<h6>Smart Home</h6>
 					</a>
 					<ul>
 						<li>
-							<a href="/us/smart-home/smartthings" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_smartthings" data-link_meta="link_name:smartthings" data-link_position="gnb>top nav 2>smart-home">Samsung SmartThings</a>
+							<a href="/us/smart-home/smartthings/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_smartthings" data-link_meta="link_name:smartthings" data-link_position="gnb>top nav 2>smart-home">Samsung SmartThings</a>
 						</li>
 						<li>
-							<a href="/us/smart-home/security/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_security" data-link_meta="link_name:security" data-link_position="gnb>top nav 2>smart-home">Security</a>
+							<a href="/us/smart-home/security/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_security" data-link_meta="link_name:security" data-link_position="gnb>top nav 2>smart-home">Security &amp; Monitoring</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-b2c-scol gnb-b2c-scol-5 gnb-b2c-scol-shared gnb-featuredcol">
 					<h6>Featured</h6>
 					<ul>
+						<li>
+							<a href="/us/explore/flex-wash/meet/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_flex_wash+flex_dry" data-link_meta="link_name:flex-wash+flex-dry" data-link_position="gnb>top nav 2>featured">FlexWash<sup>TM</sup> + FlexDry<sup>TM</sup>
+							</a>
+						</li>
 						<li>
 							<a href="/us/explore/family-hub-refrigerator/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_nfamily-hub-refrigerator" data-link_meta="link_name:family-hub-refrigerator" data-link_position="gnb>top nav 2>featured">Family Hub<sup>TM</sup> Refrigerator
 							</a>
@@ -568,37 +605,38 @@ var omn_ss_loggedin = "not logged in";
 						</li>
 					</ul>
 					<h6 class="gnb-secondrow">Shop</h6>
-					<ul>    
-                                                 <li>
+					<ul>
+						<li>
 							<a href="/us/homeappliances/rebate-center/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_rebates" data-link_meta="link_name:rebates" data-link_position="gnb>top nav 2>shop">Rebates</a>
 						</li>
 						<li>
 							<a href="/us/shop/all-deals/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
 						</li>
 						<li>
-							<a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified-refurbished" data-link_meta="link_name:certified-refurbished" data-link_position="gnb>top nav 2>shop">Certified Refurbished</a>
+							<a href="/us/education/welcome/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_student_discounts" data-link_meta="link_name:student discounts" data-link_position="gnb>top nav 2>student discounts">Student Discounts</a>
 						</li>
+						<li>
+							<a href="/us/shop/workplacediscount/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_employee_discounts" data-link_meta="link_name:employee discounts" data-link_position="gnb>top nav 2>employee discounts">Employee Discounts</a>
+						</li>
+						<li>
+							<a href="/us/home-appliances/vacuums/all-vacuums/s/certified_refurbished/_/n-10+11+hv207+troxn/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified_refurbished" data-link_meta="link_name:certified refurbished" data-link_position="gnb>top nav 2>certified refurbished">Certified Refurbished</a>
+						</li>
+						<!-- <li>
+							<a href="/us/financing/" data-link_cat="gnb"
+							data-link_id="gnb_nav_2_shop_samsung_financing"
+							data-link_meta="link_name:samsung financing"
+							data-link_position="gnb>top nav 2>samsung financing">Samsung Financing</a>
+						</li>//-->
 					</ul>
 				</div>
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_black_friday"
-							data-link_meta="link_name:black_friday"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/BlackFriday_flyout.jpg" />
+				<div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
+					<a href="/us/explore/family-hub-refrigerator/connected-hub/" data-link_cat="gnb" data-link_id="gnb_nav_2_connected-hub/" data-link_meta="link_name:connected-hub/" data-link_position="gnb>top nav 2>promo">
+						<img src="http://s7d2.scene7.com/is/image/SamsungUS/Family%20Hub_GNB%20Flyout">
 					</a>
-				</div> //-->
-				<!-- <div class="gnb-b2c-scol gnb-b2c-scol-3 gnb-imgpromo">
-					<a href="/us/shop/all-deals/" data-link_cat="gnb"
-							data-link_id="gnb_nav_2_12_days_of_deals"
-							data-link_meta="link_name:12_days_of_deals"
-							data-link_position="gnb>top nav 2>promo">
-						<img src="//www.samsung.com/us/resources/navigation/assets/images/Post_Holiday_GNB_Flyout_120716_130pm.jpg" />
-					</a>
-				</div> //-->
+				</div>
 			</div>
 		</div>
-		<div class="gnb-b2c-mobile gnb-desktop-hidden gnb-tablet-hidden gnb-hidden">
+		<div class="gnb-b2c-mobile gnb-tablet-hidden gnb-desktop-hidden">
 			<div class="gnb-b2c-mobile-lvl gnb-b2c-mobile-lvl-active">
 				<ul>
 					<li>
@@ -619,13 +657,13 @@ var omn_ss_loggedin = "not logged in";
 				</ul>
 				<ul>
 					<li>
-						<a href="/us/support" class="gnb-b2c-support" data-link_cat="gnb" data-link_id="gnb_nav_1_support" data-link_meta="link_name:support" data-link_position="gnb>top nav 1">Support</a>
+						<a href="/us/support/" class="gnb-b2c-support" data-link_cat="gnb" data-link_id="gnb_nav_1_support" data-link_meta="link_name:support" data-link_position="gnb>top nav 1">Support</a>
 					</li>
 					<li>
 						<a href="/us/business/" class="gnb-b2c-business" data-link_cat="gnb" data-link_id="gnb_nav_1_business" data-link_meta="link_name:business" data-link_position="gnb>top nav 1">Business</a>
 					</li>
 					<li>
-						<a href="/us/support/account" class="gnb-before-login gnb-b2c-mobile-sign-in userName" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
+						<a href="/us/support/account/" id="gnb-login-mobile" class="gnb-before-login gnb-b2c-mobile-sign-in userName" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
 						<div class="gnb-after-login gnb-mobile-after-login gnb-mobile-has-arrow gnb-login-mark gnb-hidden" data-gnb-snav-id="">
 							<svg>
 								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#sign-in"></use>
@@ -636,89 +674,91 @@ var omn_ss_loggedin = "not logged in";
 							<span class="gnb-username"></span>
 						</div>
 					</li>
-					<li>
-						<a href="javascript:void(0);" onclick="OOo.oo_feedback.show()" id="oo-feedback-mobile" data-link_cat="gnb" data-link_id="gnb_nav_1_site_feedback" data-link_meta="link_name:site feedback" data-link_position="gnb>top nav 1">Site Feedback</a>
-					</li>
 				</ul>
 			</div>
 			<div class="gnb-b2c-mobile-lvl">
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="Mobile">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Close navigation menu"><span class="acc-link">Close navigation menu</span></a>
 						</li>
 					</ul>
 					<ul>
+						<li>Mobile</li>
 						<li>
-							<a href="/us/mobile" data-gnb-non="">Mobile</a>
+							<a class="non-tran" href="/us/mobile/galaxy/" data-link_cat="gnb" data-link_id="gnb_nav_2_galaxy_products" data-link_meta="link_name:galaxy products" data-link_position="gnb>top nav 2>galaxy products">Galaxy Products</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/phones" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_phones" data-link_meta="link_name:phones" data-link_position="gnb>top nav 2>mobile">Phones</a>
+							<a class="non-tran" href="/us/mobile/phones/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_phones" data-link_meta="link_name:phones" data-link_position="gnb>top nav 2>mobile">Phones</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/tablets" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>mobile">Tablets</a>
+							<a class="non-tran" href="/us/mobile/tablets/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>mobile">Tablets</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/wearables" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_wearables" data-link_meta="link_name:wearables" data-link_position="gnb>top nav 2>mobile">Wearables</a>
+							<a class="non-tran" href="/us/mobile/wearables/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_wearables" data-link_meta="link_name:wearables" data-link_position="gnb>top nav 2>mobile">Wearables</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/virtual-reality" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_virtual-reality" data-link_meta="link_name:virtual-reality" data-link_position="gnb>top nav 2>mobile">Virtual Reality</a>
+							<a class="non-tran" href="/us/mobile/virtual-reality/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_virtual-reality" data-link_meta="link_name:virtual-reality" data-link_position="gnb>top nav 2>mobile">Virtual Reality</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/mobile-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_mobile-accessories" data-link_meta="link_name:mobile-accessories" data-link_position="gnb>top nav 2>mobile">Accessories</a>
+							<a class="non-tran" href="/us/mobile/mobile-accessories/all-mobile-accessories/s/_/n-10+11+hv1rt/" data-link_cat="gnb" data-link_id="gnb_nav_2_mobile_mobile-accessories" data-link_meta="link_name:mobile-accessories" data-link_position="gnb>top nav 2>mobile">Accessories</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/explore/easy-switching-new-galaxy-phone-to-phone-transfer/" data-link_cat="gnb" data-link_id="gnb_nav_2_switching_to_galaxy" data-link_meta="link_name:switching to galaxy" data-link_position="gnb>top nav 2>switching to galaxy">Switching to Galaxy</a>
 						</li>
 					</ul>
 					<ul>
+						<li>Apps</li>
 						<li>
-							<a href="/us/apps" data-gnb-non="">Apps</a>
+							<a class="non-tran" href="/us/explore/bixby/overview/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_bixby" data-link_meta="link_name:bixby" data-link_position="gnb>top nav 2>apps">Bixby</a>
 						</li>
-						<li>
-							<a class="non-tran" href="/us/samsung-pay" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-pay" data-link_meta="link_name:samsung-pay" data-link_position="gnb>top nav 2>apps">Samsung Pay</a>
-						</li>
-						<li>
-							<a class="non-tran" href="/us/samsung-plus" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-plus" data-link_meta="link_name:samsung-plus" data-link_position="gnb>top nav 2>apps">Samsung +</a>
-						</li>
-						<li>
-							<a class="non-tran" href="/us/smart-switch" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_smart-switch" data-link_meta="link_name:smart-switch" data-link_position="gnb>top nav 2>apps">Smart Switch</a>
+	                                        <li>
+							<a class="non-tran" href="/us/smart-switch/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_smart-switch" data-link_meta="link_name:smart-switch" data-link_position="gnb>top nav 2>apps">Smart Switch</a>
 						</li>
                                                  <li>
-							<a class="non-tran" href="/us/explore/shop-samsung-app" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_app" data-link_meta="link_name:shop-samsung-app" data-link_position="gnb>top nav 2>apps">Shop Samsung App</a>
+							<a class="non-tran" href="/us/samsung-pay/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-pay" data-link_meta="link_name:samsung-pay" data-link_position="gnb>top nav 2>apps">Samsung Pay</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/samsung-health/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-health" data-link_meta="link_name:samsung-health" data-link_position="gnb>top nav 2>apps">Samsung Health</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/samsung-plus/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-plus" data-link_meta="link_name:samsung-plus" data-link_position="gnb>top nav 2>apps">Samsung +</a>
+						</li>					
+						<li>
+							<a class="non-tran" href="/us/explore/shop-samsung-app/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_shop_samsung_app" data-link_meta="link_name:shop samsung app" data-link_position="gnb>top nav 2>shop samsung app">Shop Samsung App</a>
 						</li>
 						<li>
 							<a class="non-tran" href="/us/explore/samsung-kids/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_samsung-kids" data-link_meta="link_name:samsung-kids" data-link_position="gnb>top nav 2>apps">Samsung Kids</a>
-						</li>
-						<li>
-							<a class="non-tran" href="/us/apps/" data-link_cat="gnb" data-link_id="gnb_nav_2_apps_apps-for-every-screen" data-link_meta="link_name:apps-for-every-screen" data-link_position="gnb>top nav 2>apps">Apps for Every Screen</a>
 						</li>
 					</ul>
 					<ul>
 						<li>Featured</li>
 						<li>
-							<a class="non-tran" href="/us/mobile/galaxy/" data-link_cat="gnb" data-link_id="gnb_nav_2_a_galaxy_of_possibility" data-link_meta="link_name:a_galaxy_of_possibility" data-link_position="gnb>top nav 2>featured">A Galaxy of Possibility</a>
+							<a class="non-tran" href="/us/explore/galaxy-s8/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_s8" data-link_meta="link_name:galaxy s8" data-link_position="gnb>top nav 2>galaxy s8">Galaxy S8</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/galaxy-note-7-features-and-specs" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy-note-7-features-and-specs" data-link_meta="link_name:galaxy-note-7-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Note7</a>
+							<a class="non-tran" href="/us/mobile/phones/unlocked-by-samsung/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_unlocked_by_samsung" data-link_meta="link_name:Unlocked by Samsung" data-link_position="gnb>top nav 2>unlocked by samsung">Unlocked by Samsung</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/galaxy-s7-features-and-specs" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy-s7-features-and-specs" data-link_meta="link_name:galaxy-s7-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy S7</a>
+							<a class="non-tran" href="/us/support/premium-care/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_premium_care" data-link_meta="link_name:premium care" data-link_position="gnb>top nav 2>premium care">Premium Care</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/easy-switching-new-galaxy-phone-to-phone-transfer/" data-link_cat="gnb" data-link_id="gnb_nav_2_switching_to_galaxy" data-link_meta="link_name:switching_to_galaxy" data-link_position="gnb>top nav 2>featured">Switching to Galaxy</a>
+							<a class="non-tran" href="/us/explore/tab-s3-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_tab_s3" data-link_meta="link_name:galaxy tab s3" data-link_position="gnb>top nav 2>galaxy tab s3">Galaxy Tab S3</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/experience/move" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_move" data-link_meta="link_name:move" data-link_position="gnb>top nav 2>featured">Move Collection</a>
+							<a class="non-tran" href="/us/explore/galaxy-s7/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_s7" data-link_meta="link_name:galaxy s7" data-link_position="gnb>top nav 2>galaxy s7">Galaxy S7</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="TV &amp; Audio">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
 						<li>
-							<a href="/us/televisions-home-theater" data-gnb-non="">TV &amp; Home Theater</a>
+							<a href="/us/televisions-home-theater/" data-gnb-non="" data-link_cat="gnb" data-link_id="gnb_televisions-home-theater" data-link_meta="link_name:gnb" data-link_position="gnb>televisions-home-theater">TV &amp; Home Theater</a>
 						</li>
 						<li>
 							<a class="non-tran" href="/us/televisions-home-theater/tvs/" data-link_cat="gnb" data-link_id="gnb_nav_2_televisions-home-theater_tvs" data-link_meta="link_name:tvs" data-link_position="gnb>top nav 2>televisions-home-theater">TVs</a>
@@ -733,7 +773,7 @@ var omn_ss_loggedin = "not logged in";
 					</ul>
 					<ul>
 						<li>
-							<a href="/us/audio" data-gnb-non="">Audio</a>
+							<a href="/us/audio/" data-gnb-non="" data-link_cat="gnb" data-link_id="gnb_audio" data-link_meta="link_name:gnb" data-link_position="gnb>audio">Audio</a>
 						</li>
 						<li>
 							<a class="non-tran" href="/us/audio/headphones/" data-link_cat="gnb" data-link_id="gnb_nav_2_audio_headphones" data-link_meta="link_name:headphones" data-link_position="gnb>top nav 2>audio">Headphones</a>
@@ -748,13 +788,19 @@ var omn_ss_loggedin = "not logged in";
 					<ul>
 						<li>FEATURED</li>
 						<li>
-							<a class="non-tran" href="/us/experience/9series-tv/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_9series-tv" data-link_meta="link_name:9series-tv" data-link_position="gnb>top nav 2>featured">4K SUHD TVs</a>
+							<a class="non-tran" href="/us/explore/qled-tv/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_qled-tvs" data-link_meta="link_name:qled-tvs" data-link_position="gnb>top nav 2>featured">QLED TVs with Quantum Dots</a>
+						</li>
+                                                <li>
+							<a class="non-tran" href="/us/explore/frame-tv/highlights/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_the-frame" data-link_meta="link_name:the-frame" data-link_position="gnb>top nav 2>featured">The Frame</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/televisions-home-theater/home-theater/blu-ray-dvd-players/4k-ultra-hd-blu-ray-player-ubd-k8500-za/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_meta="link_name:4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_position="gnb>top nav 2>featured">4K Ultra HD Blu-ray Player</a>
+							<a class="non-tran" href="/us/televisions-home-theater/tvs/all-tvs/s/serif_tv/_/n-10+11+hv1uh+troxi/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_serif-tv" data-link_meta="link_name:serif-tv" data-link_position="gnb>top nav 2>featured">Serif TV</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/audio-soundbars/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_soundbars" data-link_meta="link_name:sounbars" data-link_position="gnb>top nav 2>featured">Soundbar with Dolby Atmos<sup>®</sup></a>
+							<a class="non-tran" href="/us/televisions-home-theater/home-theater/blu-ray-dvd-players/ubd-m9500-4k-ultra-hd-blu-ray-player-ubd-m9500-za/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_meta="link_name:4k-ultra-hd-blu-ray-player-ubd-k8500-za" data-link_position="gnb>top nav 2>featured">4K Ultra HD Blu-ray Player</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/explore/soundplus/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_soundbars" data-link_meta="link_name:sounbars" data-link_position="gnb>top nav 2>featured">Sound+ Soundbar</a>
 						</li>
 						<li>
 							<a class="non-tran" href="/us/experience/move/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_move" data-link_meta="link_name:move" data-link_position="gnb>top nav 2>featured">Move Collection</a>
@@ -767,105 +813,112 @@ var omn_ss_loggedin = "not logged in";
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="Computing">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
 						<li>
-							<a href="/us/computing" data-gnb-non="">Computing</a>
+							<a href="/us/computing/" data-gnb-non="" data-link_cat="gnb" data-link_id="gnb_computing" data-link_meta="link_name:gnb" data-link_position="gnb>computing">Computing</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/windows-laptops" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-laptops" data-link_meta="link_name:windows-laptops" data-link_position="gnb>top nav 2>computing">Windows Laptops</a>
+							<a class="non-tran" href="/us/computing/windows-laptops/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-laptops" data-link_meta="link_name:windows-laptops" data-link_position="gnb>top nav 2>computing">Windows Laptops</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/windows-desktops" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-desktops" data-link_meta="link_name:windows-desktops" data-link_position="gnb>top nav 2>computing">Windows Desktops</a>
+							<a class="non-tran" href="/us/computing/windows-desktops/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_windows-desktops" data-link_meta="link_name:windows-desktops" data-link_position="gnb>top nav 2>computing">Windows Desktops</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/chromebooks" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_chromebooks" data-link_meta="link_name:chromebooks" data-link_position="gnb>top nav 2>computing">Chromebooks</a>
+							<a class="non-tran" href="/us/computing/chromebooks/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_chromebooks" data-link_meta="link_name:chromebooks" data-link_position="gnb>top nav 2>computing">Chromebooks</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/tablets" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>computing">Tablets</a>
+							<a class="non-tran" href="/us/computing/tablets/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_tablets" data-link_meta="link_name:tablets" data-link_position="gnb>top nav 2>computing">Tablets</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/printers" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_printers" data-link_meta="link_name:printers" data-link_position="gnb>top nav 2>computing">Printers</a>
+							<a class="non-tran" href="/us/computing/printers/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_printers" data-link_meta="link_name:printers" data-link_position="gnb>top nav 2>computing">Printers</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/monitors" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_monitors" data-link_meta="link_name:monitors" data-link_position="gnb>top nav 2>computing">Monitors</a>
+							<a class="non-tran" href="/us/computing/monitors/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_monitors" data-link_meta="link_name:monitors" data-link_position="gnb>top nav 2>computing">Monitors</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/memory-storage" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_memory-storage" data-link_meta="link_name:memory-storage" data-link_position="gnb>top nav 2>computing">Memory &amp; Storage</a>
+							<a class="non-tran" href="/us/computing/memory-storage/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_memory-storage" data-link_meta="link_name:memory-storage" data-link_position="gnb>top nav 2>computing">Memory &amp; Storage</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/computing/computing-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_computing-accessories" data-link_meta="link_name:computing-accessories" data-link_position="gnb>top nav 2>computing">Accessories</a>
+							<a class="non-tran" href="/us/computing/computing-accessories/" data-link_cat="gnb" data-link_id="gnb_nav_2_computing_computing-accessories" data-link_meta="link_name:computing-accessories" data-link_position="gnb>top nav 2>computing">Accessories</a>
 						</li>
 					</ul>
 					<ul>
 						<li>FEATURED</li>
 						<li>
-							<a class="non-tran" href="/us/explore/notebook-9-laptop/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_notebook-9-laptop" data-link_meta="link_name:notebook-9-laptop" data-link_position="gnb>top nav 2>featured">Notebook 9</a>
+							<a class="non-tran" href="/us/computing/windows-laptops/15-18/notebook-odyssey-15-6--np800g5m-x01us/" data-link_cat="gnb" data-link_id="gnb_nav_2_notebook-odyssey" data-link_meta="link_name:notebook-odyssey" data-link_position="gnb>top nav 2>featured">Notebook Odyssey</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/tab-pro-s-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-pro-s-features-and-specs" data-link_meta="link_name:tab-pro-s-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy TabPro S</a>
+							<a class="non-tran" href="/us/explore/galaxy-book/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_galaxy_book" data-link_meta="link_name:galaxy-book" data-link_position="gnb>top nav 2>featured">Galaxy Book</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/explore/tab-s2-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-s2-features-and-specs" data-link_meta="link_name:tab-s2-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Tab S2</a>
+							<a class="non-tran" href="/us/explore/tab-s3-features-and-specs/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_tab-s3-features-and-specs" data-link_meta="link_name:tab-s3-features-and-specs" data-link_position="gnb>top nav 2>featured">Galaxy Tab S3</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_chromebook_plus" data-link_meta="link_name:chromebook-plus" data-link_position="gnb>top nav 2>featured">Chromebook Plus</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="Home Appliances">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
 						<li>
-							<a href="/us/home-appliances" data-gnb-non="">Home Appliances</a>
+							<a href="/us/home-appliances/" data-gnb-non="" data-link_cat="gnb" data-link_id="gnb_home-appliances" data-link_meta="link_name:gnb" data-link_position="gnb>home-appliances">Home Appliances</a>
 						</li>
 						<li>
 							<a class="non-tran" href="/us/home-appliances/refrigerators" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_refrigerators" data-link_meta="link_name:refrigerators" data-link_position="gnb>top nav 2>home-appliances">Refrigerators</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/ranges" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_ranges" data-link_meta="link_name:ranges" data-link_position="gnb>top nav 2>home-appliances">Ranges</a>
+							<a class="non-tran" href="/us/home-appliances/ranges/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_ranges" data-link_meta="link_name:ranges" data-link_position="gnb>top nav 2>home-appliances">Ranges</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/wall-ovens" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_wall_ovens" data-link_meta="link_name:wall-ovens" data-link_position="gnb>top nav 2>home-appliances">Wall Ovens</a>
+							<a class="non-tran" href="/us/home-appliances/wall-ovens/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_wall_ovens" data-link_meta="link_name:wall-ovens" data-link_position="gnb>top nav 2>home-appliances">Wall Ovens</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/cooktops-and-hoods" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_cooktops_and_hoods" data-link_meta="link_name:cooktops-and-hoods" data-link_position="gnb>top nav 2>cooktops-and-hoods">Cooktops &amp; Hoods</a>
+							<a class="non-tran" href="/us/home-appliances/cooktops-and-hoods/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_cooktops_and_hoods" data-link_meta="link_name:cooktops-and-hoods" data-link_position="gnb>top nav 2>cooktops-and-hoods">Cooktops &amp; Hoods</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/microwaves" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_microwaves" data-link_meta="link_name:microwaves" data-link_position="gnb>top nav 2>home-appliances">Microwaves</a>
+							<a class="non-tran" href="/us/home-appliances/microwaves/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_microwaves" data-link_meta="link_name:microwaves" data-link_position="gnb>top nav 2>home-appliances">Microwaves</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/dishwashers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dishwashers" data-link_meta="link_name:dishwashers" data-link_position="gnb>top nav 2>home-appliances">Dishwashers</a>
+							<a class="non-tran" href="/us/home-appliances/dishwashers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dishwashers" data-link_meta="link_name:dishwashers" data-link_position="gnb>top nav 2>home-appliances">Dishwashers</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/washers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_washers" data-link_meta="link_name:washers" data-link_position="gnb>top nav 2>home-appliances">Washers</a>
+							<a class="non-tran" href="/us/home-appliances/washers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_washers" data-link_meta="link_name:washers" data-link_position="gnb>top nav 2>home-appliances">Washers</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/dryers" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dryers" data-link_meta="link_name:dryers" data-link_position="gnb>top nav 2>home-appliances">Dryers</a>
+							<a class="non-tran" href="/us/home-appliances/dryers/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_dryers" data-link_meta="link_name:dryers" data-link_position="gnb>top nav 2>home-appliances">Dryers</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/vacuums" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_vacuums" data-link_meta="link_name:vacuums" data-link_position="gnb>top nav 2>home-appliances">Vacuums</a>
+							<a class="non-tran" href="/us/home-appliances/vacuums/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_vacuums" data-link_meta="link_name:vacuums" data-link_position="gnb>top nav 2>home-appliances">Vacuums</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/home-appliances/home-appliances-accessories" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_home-appliances-accessories" data-link_meta="link_name:home-appliances-accessories" data-link_position="gnb>top nav 2>home-appliances">Accessories</a>
+							<a class="non-tran" href="/us/home-appliances/home-appliances-accessories/" data-link_cat="gnb" data-link_id="gnb_nav_2_home-appliances_home-appliances-accessories" data-link_meta="link_name:home-appliances-accessories" data-link_position="gnb>top nav 2>home-appliances">Accessories</a>
 						</li>
 					</ul>
 					<ul>
 						<li>
-							<a href="/us/smart-home" data-gnb-non="">Smart Home</a>
+							<a href="/us/smart-home/" data-gnb-non="" data-link_cat="gnb" data-link_id="gnb_smart-home" data-link_meta="link_name:gnb" data-link_position="gnb>smart-home">Smart Home</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/smart-home/smartthings" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_smartthings" data-link_meta="link_name:smartthings" data-link_position="gnb>top nav 2>smart-home">Samsung SmartThings</a>
+							<a class="non-tran" href="/us/smart-home/smartthings/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_smartthings" data-link_meta="link_name:smartthings" data-link_position="gnb>top nav 2>smart-home">Samsung SmartThings</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/smart-home/security/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_security" data-link_meta="link_name:security" data-link_position="gnb>top nav 2>security">Security</a>
+							<a class="non-tran" href="/us/smart-home/security/" data-link_cat="gnb" data-link_id="gnb_nav_2_smart-home_security" data-link_meta="link_name:security" data-link_position="gnb>top nav 2>security">Security &amp; Monitoring</a>
 						</li>
 					</ul>
 					<ul>
 						<li>FEATURED</li>
+						<li>
+							<a class="non-tran" href="/us/explore/flex-wash/meet/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_flex_wash+flex_dry" data-link_meta="link_name:flex-wash+flex-dry" data-link_position="gnb>top nav 2>featured">FlexWash<sup>TM</sup> + FlexDry<sup>TM</sup>
+							</a>
+						</li>
 						<li>
 							<a class="non-tran" href="/us/explore/family-hub-refrigerator/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_nfamily-hub-refrigerator" data-link_meta="link_name:family-hub-refrigerator" data-link_position="gnb>top nav 2>featured">Family Hub<sup>TM</sup>
 								Refrigerator
@@ -878,7 +931,7 @@ var omn_ss_loggedin = "not logged in";
 						<li>
 							<a class="non-tran" href="/us/explore/activewash-washer/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_activewash-washer" data-link_meta="link_name:activewash-washer" data-link_position="gnb>top nav 2>featured">activewash<sup>TM</sup> Washer</a>
 						</li>
-                                                <li>
+						<li>
 							<a class="non-tran" href="http://www.samsung.com/us/showcase/built-in-appliances/" data-link_cat="gnb" data-link_id="gnb_nav_2_featured_built-in_appliances" data-link_meta="link_name:built-in_appliances" data-link_position="gnb>top nav 2>featured">Built-in Appliances</a>
 						</li>
 					</ul>
@@ -886,26 +939,41 @@ var omn_ss_loggedin = "not logged in";
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="Shop">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
-						<li>Shop</li>   
-                                                <li>
+						<li>Shop</li>
+						<li>
 							<a class="non-tran" href="/us/explore/shop-samsung-app/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_app" data-link_meta="link_name:shop-samsung-app" data-link_position="gnb>top nav 2>shop">Shop Samsung App</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/shop/special-offers" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
+							<a class="non-tran" href="/us/shop/special-offers/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_special-offers" data-link_meta="link_name:special-offers" data-link_position="gnb>top nav 2>shop">Special Offers</a>
 						</li>
 						<li>
-							<a class="non-tran" href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified-refurbished" data-link_meta="link_name:certified-refurbished" data-link_position="gnb>top nav 2>shop">Certified Refurbished</a>
+							<a class="non-tran" href="/us/education/welcome/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_student_discounts" data-link_meta="link_name:student discounts" data-link_position="gnb>top nav 2>student discounts">Student Discounts</a>
 						</li>
+						<li>
+							<a class="non-tran" href="/us/shop/workplacediscount/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_employee_discounts" data-link_meta="link_name:employee discounts" data-link_position="gnb>top nav 2>employee discounts">Employee Discounts</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_certified_refurbished" data-link_meta="link_name:certified refurbished" data-link_position="gnb>top nav 2>certified refurbished">Certified Refurbished</a>
+						</li>
+						<li>
+							<a class="non-tran" href="/us/financing/" data-link_cat="gnb" data-link_id="gnb_nav_2_shop_samsung_financing" data-link_meta="link_name:samsung financing" data-link_position="gnb>top nav 2>samsung financing">Samsung Financing</a>
+						</li>
+						<!--<li>
+							<a class="non-tran" href="/us/tv-trade-in/" data-link_cat="gnb"
+							data-link_id="gnb_nav_2_shop_samsung_tv-trade-in_program"
+							data-link_meta="link_name:samsung tv trade-in program"
+							data-link_position="gnb>top nav 2>tv trade-in program">Trade-In Program</a>
+						</li>//-->
 					</ul>
 				</div>
-				<div class="gnb-hidden gnb-menu" data-gnb-snav="Epp Sign In">
+				<div class="gnb-hidden gnb-menu gnb-user-loggedin" data-gnb-snav="Epp Sign In">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
@@ -932,17 +1000,17 @@ var omn_ss_loggedin = "not logged in";
 							<a class="non-tran" href="/us/support/account/">My Account</a>
 						</li>
 						<li>
-							<a class="non-tran" href="/us/account/wishlist">Wishlist</a>
+							<a class="non-tran" href="/us/account/wishlist/">Wishlist</a>
 						</li>
 						<li>
-							<a class="non-tran logoutSMG" href="http://sso-us.samsung.com/sso/logout">Log Out</a>
+							<a class="non-tran logoutSMG" href="https://sso-us.samsung.com/sso/logout">Log Out</a>
 						</li>
 					</ul>
 				</div>
 				<div class="gnb-hidden gnb-menu" data-gnb-snav="Sign In">
 					<ul>
 						<li>
-							<a class="gnb-b2c-mobile-back" href="#">&nbsp;</a>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
 						</li>
 					</ul>
 					<ul>
@@ -963,8 +1031,24 @@ var omn_ss_loggedin = "not logged in";
 							<a class="non-tran" href="/us/support/account/">My Account</a>
 						</li>
 						<li>
-							<a class="non-tran logoutSMG" href="http://sso-us.samsung.com/sso/logout">Log Out</a>
+							<a class="non-tran" href="/us/account/wishlist/">Wishlist</a>
 						</li>
+						<li>
+							<a class="non-tran logoutSMG" href="https://sso-us.samsung.com/sso/logout/">Log Out</a>
+						</li>
+					</ul>
+				</div>
+				<div class="gnb-hidden gnb-tracking" data-gnb-snav="Tracking">
+					<ul>
+						<li>
+							<a class="gnb-b2c-mobile-back" href="#" text="Go back one level"><span class="acc-link">Go back one level</span></a>
+						</li>
+					</ul>
+					<ul class="gnb-track-order">
+						<li>
+							<a class="non-tran" id="gnb-login" href="/us/support/account/" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
+						</li>
+						<li><a class="non-tran" href="/us/support/account/order/#/order-lookup/" data-link_cat="gnb" data-link_id="gnb_nav_1_track_order" data-link_meta="link_name:track order" data-link_position="gnb>top nav 1">Track Order</a></li>
 					</ul>
 				</div>
 			</div>
@@ -986,13 +1070,13 @@ var omn_ss_loggedin = "not logged in";
 				</span>
 			</div>
 			<div class="gnb-checkout">
-				<a class="gnb-checkout-link" href="/us/shop/special-offers" data-link_cat="mini cart click" data-link_id="minicart_check_out" data-link_meta="link_name: check out" data-link_position="minicart">Go to Shop</a>
+				<a class="gnb-checkout-link" href="/us/shop/special-offers/" data-link_cat="mini cart click" data-link_id="minicart_check_out" data-link_meta="link_name: check out" data-link_position="minicart">Go to Shop</a>
 			</div>
 		</div>
 	</section>
 	<section class="gnb-b2c-user gnb-invisible" data-gnb-logged-in="false">
 		<div class="gnb-b2c-user-container">
-			<ul>
+			<ul class="gnb-user-loggedin">
 				<li>
 					<div class="one-line gnb-login-mark">
 						<span class="gnb-username"></span>
@@ -1005,34 +1089,41 @@ var omn_ss_loggedin = "not logged in";
 					</div>
 				</li>
 				<li class="loggedGroup">
-					<a href="/us/support/account/order/">Orders</a>
+					<a class="non-tran" href="/us/support/account/order/">Orders</a>
 				</li>
 				<li class="loggedGroup">
-					<a href="/us/support/account/">My Account</a>
+					<a class="non-tran" href="/us/support/account/">My Account</a>
 				</li>
 				<li class="loggedGroup">
-					<a class="non-tran" href="/us/account/wishlist">Wishlist</a>
-				</li> 
-				<li class="loggedGroup">
-					<a class="logoutSMG" href="http://sso-us.samsung.com/sso/logout">Log Out</a>
+					<a class="non-tran" href="/us/account/wishlist/">Wishlist</a>
 				</li>
+				<li class="loggedGroup">
+					<a class="logoutSMG" href="https://sso-us.samsung.com/sso/logout/">Log Out</a>
+				</li>
+			</ul>
+			<ul class="gnb-tracking">
+				<li>
+					<a class="non-tran" id="gnb-login" href="/us/support/account/" data-link_cat="gnb" data-link_id="gnb_nav_1_account" data-link_meta="link_name:account" data-link_position="gnb>top nav 1">Log In / Sign Up</a>
+				</li>
+				<li><a class="non-tran" href="/us/support/account/order/#/order-lookup/">Track Order</a></li>
 			</ul>
 		</div>
 	</section>
 	<section class="gnb-b2c-searchbox">
 		<span class="arrow"></span>
-		<section class="gnb-b2c-searchoverlay gnb-mobile-invisible">
+		<section class="gnb-b2c-searchoverlay">
 			<div class="gnb-b2c-search" role="search">
 				<form action="/us/search/searchMain" id="desktop_search_form" class="search-form">
 					<input type="hidden" name="Dy" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
 					<input type="hidden" name="Nty" value="1" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
+					<label for="headerSearch" class="blind">Input Search Keyword</label>
 					<input id="headerSearch" name="Ntt" type="text" value="" placeholder="Search" autocapitalize="off" size="100%" autocorrect="off" autocomplete="off" data-link_cat="Predictive Search" data-link_id="Predictive_search_impression" data-link_meta="link_name: Impression" data-link_position="Predictive Search">
 					<button class="gnb-hidden" disabled="">Search</button>
 					<a href="#" class="gnb-b2c-btn-close">
 						<svg>
 							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us/resources/navigation/assets/images/sprite.symbol.svg#x"></use>
 						</svg>
-						<span aria-hidden="true">close menu</span>
+						<span class="acc-link">close menu</span>
 					</a>
 				</form>
 			</div>
@@ -1042,6 +1133,360 @@ var omn_ss_loggedin = "not logged in";
 		</section>
 	</section>
 </nav>
+<section class="gnb-b2c-login-section">
+	<div class="gnb-login-container">
+		<div class="gnb-login-container__group-image">
+			<p class="gnb-login-container__group-image__first">Get the Galaxy you love.</p>
+			<p class="gnb-login-container__group-image__second">Now yours with Samsung financing.</p>
+		</div>
+		<div class="gnb-login-content sign-in-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h4 class="gnb-login-inner__left__title">Login to your Samsung account</h4>
+					<p class="gnb-login-inner__left__subtitle">or create your <a title="Create Samsung account" href="#" tabindex="5" class="create-account" data-link_cat="create samsung account" data-link_id="login_create_samsung_account" data-link_meta="link_name:create samsung account" data-link_position="login modal">Samsung account</a></p>
+					<p class="gnb-login-inner__left__link"><a title="Create Samsung account" class="create-account" href=""></a></p>
+				</div>
+				<div class="gnb-login-inner__right">
+					<div class="server-side-error">asdsad</div>
+					<div class="gnb-login-inner__right__form">
+						<form class="sign-in-input" id="sign-in-form">
+							<div class="login-input-group gnb-login-inner__right__form__email">
+								<input class="login-input-box " type="text" name="email" placeholder="" tabindex="1">
+								<label for="email" class="login-input-label">Email Address</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__form__password">
+								<input class="login-input-box" type="password" name="password" placeholder="" tabindex="2">
+								<label for="password" class="login-input-label">Password</label>
+								<span class="login-input-right-icon icon-new-show-pwd icon-new-show-pwd-dims"></span>
+							</div>
+							<button class="cta-button login-blue-btn gnb-login-inner__right__form__signin" tabindex="4" data-link_cat="login my account" data-link_id="login_login_submit" data-link_meta="link_name:login submit" data-link_position="login modal">Log in</button>
+						</form>
+					</div>
+					<div class="gnb-login-inner__right__errormessage">
+						<span class="gnb-login-inner__right__errormessage__email"> </span>
+						<span class="gnb-login-inner__right__errormessage__password"> </span>
+					</div>
+					<div class="gnb-login-inner__right__second">
+						<label class="login-checkbox-label gnb-login-inner__right__second__remember">
+							<input type="checkbox" class="login-checkbox" tabindex="3">
+							<span class="login-checkbox-indicator"></span>
+							<span class="type-p2 login-checkbox-description ">Remember my email</span>
+						</label>
+						<div class="gnb-login-inner__right__second__forgot-container">
+							<a title="Forgot your password?" href="#" tabindex="6" class="gnb-login-inner__right__second__forgot forgot-pwd" data-link_cat="forgot password" data-link_id="login_forgot_password" data-link_meta="link_name:forgot password" data-link_position="login modal">Forgot your password?</a>
+						</div>
+					</div>
+					<div class="gnb-login-inner__right__third">
+						<p class="gnb-login-inner__right__third__description">Sign in with your existing social media account</p>
+						<div class="gnb-login-inner__right__third__icons-group">
+							<a title="Sign in with Facebook" href="javascript:;" tabindex="7" data-social="facebook" class="icon-new-facebook icon-new-facebook-dims" data-link_cat="social login" data-link_id="login_social_login_facebook" data-link_meta="link_name:facebook" data-link_position="login modal>social login"></a>
+							<a title="Sign in with Google Plus" href="javascript:;" tabindex="7" data-social="googleplus" class="icon-new-google-plus icon-new-google-plus-dims" data-link_cat="social login" data-link_id="login_social_login_google" data-link_meta="link_name:google" data-link_position="login modal>social login"></a>
+							<a title="Sign in with LinkedIn" href="javascript:;" tabindex="7" data-social="linkedin" class="icon-new-linkedin icon-new-linkedin-dims" data-link_cat="social login" data-link_id="login_social_login_linkedin" data-link_meta="link_name:linkedin" data-link_position="login modal>social login"></a>
+							<a title="Sign in with Windows" href="javascript:;" tabindex="7" data-social="live_id" class="icon-new-windows icon-new-windows-dims" data-link_cat="social login" data-link_id="login_social_login_liveid" data-link_meta="link_name:liveid" data-link_position="login modal>social login"></a>
+							<a title="Sign in with Yahoo" href="javascript:;" tabindex="7" data-social="yahoo" class="icon-new-yahoo icon-new-yahoo-dims" data-link_cat="social login" data-link_id="login_social_login_yahoo" data-link_meta="link_name:yahoo" data-link_position="login modal>social login"></a>
+							<a title="Sign in with Twitter" href="javascript:;" tabindex="7" data-social="twitter" class="icon-new-twitter icon-new-twitter-dims" data-link_cat="social login" data-link_id="login_social_login_twitter" data-link_meta="link_name:twitter" data-link_position="login modal>social login"></a>
+							<a title="Sign in with social account" href="javascript:;" tabindex="7" class="gnb-login-inner__right__third__icons-group__span hide" id="toggle-social">Use a different account</a>
+						</div>
+						<p href="#" class="gnb-login-inner__right__signup-form__row__dealer-create--login">If you are a mobile dealer creating an account for the first time, <a title="Create dealer account" href="/us/support/business/account/" data-link_cat="mobile dealer" data-link_id="link_account_modal_mobile_dealer" data-link_meta="link_name:mobile dealer" data-link_position="link account modal">click here</a>.</p>
+					</div>
+					<div class="gnb-login-inner__right__button-mobile">
+						<button class="cta-button login-blue-btn gnb-login-inner__right__button-mobile__signin" form="sign-in-form">Sign in</button>
+						<p class="gnb-login-inner__right__signup-form__row__condition">By submitting this form you agree to our <a title="Term and conditions" href="#" onclick="event.preventDefault; window.open('http://support-us.samsung.com/mysamsung/v2/popup/terms.html','TermsandConditions','width=625, height=700, scrollbars=1')">Terms &amp; Conditions</a>.</p>
+					</div>
+				</div>
+				<a title="Close login" tabindex="8" href="javascript:;" class="icon-x gnb-login-inner__close" data-link_cat="close" data-link_id="login_close" data-link_meta="link_name:close" data-link_position="login modal"></a>
+			</div>
+		</div>
+		<div class="gnb-login-content forgot-pwd-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h4 class="gnb-login-inner__left__title">Did you forget your password?</h4>
+					<p class="gnb-login-inner__left__subtitle">Enter your email address and validation code to reset your password</p>
+				</div>
+				<div class="gnb-login-inner__right">
+					<div class="gnb-login-inner__right__form">
+						<div class="server-side-error">asdsad</div>
+						<form class="forgot-pwd-input">
+							<div class="gnb-login-inner__right__form__code--read">
+								<img src="">
+								<div class="gnb-login-inner__right__refresh-code">
+									<a title="Refresh code" href="javascript:;" tabindex="2" class="refresh-code" data-link_cat="refresh code" data-link_id="forgot_password_modal_refresh_code" data-link_meta="link_name:refersh code" data-link_position="forgot password modal">Refresh Code</a>
+								</div>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__form__code">
+								<input tabindex="1" class="login-input-box" type="text" name="forgot_code" placeholder="">
+								<label for="forgot_code" class="login-input-label">Enter Code</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__form__email--code">
+								<input tabindex="1" class="login-input-box" type="text" name="forgot_email" placeholder="">
+								<label for="forgot_email" class="login-input-label">Email Address</label>
+							</div>
+							<button tabindex="1" class="cta-button login-blue-btn gnb-login-inner__right__form__signin--reset" data-link_cat="reset password" data-link_id="forgot_password_modal_reset_password" data-link_meta="link_name:reset password" data-link_position="forgot password modal">reset password</button>
+						</form>
+					</div>
+				</div>
+				<a title="Close forgot password" tabindex="3" href="javascript:;" class="icon-x gnb-login-inner__close" data-link_cat="close" data-link_id="forgot_password_modal_close" data-link_meta="link_name:close" data-link_position="forgot password modal"></a>
+			</div>
+		</div>
+		<div class="gnb-login-content forgot-pwd-success-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h4 class="gnb-login-inner__left__title">Your new password has been sent</h4>
+					<p class="gnb-login-inner__left__subtitle">Check your email to validate your new password and access your account.</p>
+				</div>
+				<div class="gnb-login-inner__left__close">
+					<button class="cta-button login-blue-btn gnb-login-inner__left__close__btn">close</button>
+				</div>
+				<a title="Close email sent" class="icon-x gnb-login-inner__close" data-link_cat="close" data-link_id="password_sent_modal_close" data-link_meta="link_name:close" data-link_position="password sent modal"></a>
+			</div>
+		</div>
+		<div class="gnb-login-content sign-up-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h3 class="gnb-login-inner__left__title--signup">Your account for everything Samsung.</h3>
+					<p class="gnb-login-inner__left__subtitle">Sign up for a Samsung account to gain access to exclusive offers, world-class customer support, and apps like Samsung+ and Samsung Pay.</p>
+				</div>
+				<div class="gnb-login-inner__right">
+					<div class="gnb-login-inner__right__signup-section">
+						<h4 class="gnb-login-inner__right__signup-section__title">Create your Samsung account</h4>
+						<p class="gnb-login-inner__right__signup-section__description">Please create your Samsung account. Already have a Samsung account? <a href="#" title="Sign in" tabindex="3" class="sign-in-here" data-link_cat="sign in here" data-link_id="create_samsung_account_modal_sign_in" data-link_meta="link_name:sign in here" data-link_position="create samsung account modal">Sign in here</a>.</p>
+					</div>
+					<div class="gnb-login-inner__right__third">
+						<p class="gnb-login-inner__right__third__description">Sign in with your existing social media account</p>
+						<div class="gnb-login-inner__right__third__icons-group">
+							<a title="Sign in with Facebook" href="javascript:;" tabindex="4" data-social="facebook" class="icon-new-facebook icon-new-facebook-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_facebook" data-link_meta="link_name:facebook" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with Google Plus" href="javascript:;" tabindex="4" data-social="googleplus" class="icon-new-google-plus icon-new-google-plus-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_google" data-link_meta="link_name:google" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with LinkedIn" href="javascript:;" tabindex="4" data-social="linkedin" class="icon-new-linkedin icon-new-linkedin-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_linkedin" data-link_meta="link_name:linkedin" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with Windows" href="javascript:;" tabindex="4" data-social="live_id" class="icon-new-windows icon-new-windows-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_liveid" data-link_meta="link_name:liveid" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with Yahoo" href="javascript:;" tabindex="4" data-social="yahoo" class="icon-new-yahoo icon-new-yahoo-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_yahoo" data-link_meta="link_name:yahoo" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with Twitter" href="javascript:;" tabindex="4" data-social="twitter" class="icon-new-twitter icon-new-twitter-dims" data-link_cat="social login" data-link_id="create_samsung_account_modal_social_login_twitter" data-link_meta="link_name:twitter" data-link_position="create samsung modal>social login"></a>
+							<a title="Sign in with social account" href="javascript:;" tabindex="4" class="gnb-login-inner__right__third__icons-group__span hide" id="toggle-social">Use a different account</a>
+						</div>
+					</div>
+					<div class="gnb-login-inner__right__signup-form">
+						<div class="server-side-error">asdsad</div>
+						<form class="sign-up-input" autocorrect="off" autocomplete="off">
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input tabindex="1" class="login-input-box" type="text" name="firstname" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="firstname" class="login-input-label">First Name</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input tabindex="1" class="login-input-box" type="text" name="lastname" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="lastname" class="login-input-label">Last Name</label>
+							</div>
+						</div>
+
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input tabindex="1" class="login-input-box" type="text" name="email" placeholder="" id="sign-up-email" autocorrect="off" autocomplete="off">
+								<label for="email" class="login-input-label">Email Address</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input tabindex="1" class="login-input-box" type="text" name="confemail" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="confemail" class="login-input-label">Confirm Email Address</label>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row mobile-oppsite">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="tel" name="zip" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="zip" class="login-input-label">Zip Code</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="tel" name="dob" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="dob" class="login-input-label">Date of Birth</label>
+								<span class="login-input-right-icon icon-new-tooltip icon-new-tooltip-dims icon-dob-tooltip"></span>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right third mobile-oppsite">
+								<p>Your date of birth is used to verify your identity if you lose your E-mail or password.</p>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row mobile-oppsite">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="password" name="password" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="password" class="login-input-label">Password</label>
+								<span class="login-input-right-icon icon-new-show-pwd icon-new-show-pwd-dims"></span>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="tel" name="telephone" placeholder="" autocorrect="off" autocomplete="off">
+								<label for="telephone" class="login-input-label">Phone Number</label>
+							</div>
+						</div>
+						<label class="login-checkbox-label gnb-login-inner__right__signup-form__checkbox">
+							<input tabindex="1" type="checkbox" class="login-checkbox" name="OPTIN">
+							<span class="login-checkbox-indicator"></span>
+							<span class="type-p2 login-checkbox-description ">Please send me information and special offers on innovative Samsung products.</span>
+						</label>
+						<div class="gnb-login-inner__right__signup-form__row__last">
+							<button tabindex="2" class="cta-button login-blue-btn gnb-login-inner__right__signup-form__row__create" data-link_cat="create your account" data-link_id="create_samsung_account_modal_create_samsung_account" data-link_meta="link_name:create your account" data-link_position="create samsung modal">create your account</button>
+							<p class="gnb-login-inner__right__signup-form__row__condition">By submitting this form you agree to our <a title="Term and conditions" tabindex="1" href="#" onclick="event.preventDefault; window.open('http://support-us.samsung.com/mysamsung/v2/popup/terms.html','TermsandConditions','width=625, height=700, scrollbars=1')" data-link_cat="terms and conditions" data-link_id="create_samsung_account_modal_terms_and_conditions" data-link_meta="link_name:terms and conditions" data-link_position="create samsung modal">Terms &amp; Conditions</a>.</p>
+							<p href="#" class="gnb-login-inner__right__signup-form__row__dealer-create--login">If you are a mobile dealer creating an account for the first time, <a title="Create dealer account" href="/us/support/business/account/" data-link_cat="mobile dealer" data-link_id="link_account_modal_mobile_dealer" data-link_meta="link_name:mobile dealer" data-link_position="link account modal">click here</a>.</p>
+						</div>
+						</form>
+					</div>
+				</div>
+				<a title="close login" href="javascript:;" tabindex="5" class="icon-x gnb-login-inner__close"></a>
+			</div>
+		</div>
+		<div class="gnb-login-content link-account-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h3 class="gnb-login-inner__left__title--signup">You're almost there</h3>
+					<p class="gnb-login-inner__left__subtitle">We notice that you already have a Samsung account. Enter your password below so we can link it to your <span id="sign-up-account"> Facebook</span> account. That way, whenever you log in you can access all your registered products.
+					</p>
+				</div>
+				<div class="gnb-login-inner__right">
+					<div class="gnb-login-inner__right__signup-form">
+						<form class="link-account-input">
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input class="login-input-box" type="text" name="firstname" placeholder="">
+								<label for="firstname" class="login-input-label">*First Name</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input class="login-input-box" type="text" name="lastname" placeholder="">
+								<label for="lastname" class="login-input-label">*Last Name</label>
+							</div>
+						</div>
+
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input class="login-input-box" type="text" name="email" placeholder="">
+								<label for="email" class="login-input-label">*Email Address</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input class="login-input-box" type="text" name="telephone" placeholder="">
+								<label for="telephone" class="login-input-label">Phone Number</label>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input class="login-input-box" type="password" name="password" placeholder="">
+								<label for="password" class="login-input-label">*Current Samsung Password</label>
+								<span class="login-input-right-icon icon-new-show-pwd icon-new-show-pwd-dims"></span>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input class="login-input-box" type="text" name="zip" placeholder="">
+								<label for="zip" class="login-input-label">*Zip Code</label>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row--link-account">
+							<a title="Forgot your password?" href="#" class="gnb-login-inner__right__second__forgot--link-account forgot-pwd" data-link_cat="forgot password" data-link_id="link_account_modal_forgot_password" data-link_meta="link_name:forgot password" data-link_position="link account modal">Forgot your password?</a>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="gnb-login-inner__right__signup-form__row__link-btn">
+								<button class="cta-button login-blue-btn gnb-login-inner__right__signup-form__row__create" data-link_cat="link your account" data-link_id="link_account_modal_link_your_account" data-link_meta="link_name:link your account" data-link_position="link account modal">link your account</button>
+							</div>
+							<p class="gnb-login-inner__right__signup-form__row__condition">By submitting this form you agree to our <a href="#" title="Terms and conditions" tabindex="1" onclick="event.preventDefault; window.open('http://support-us.samsung.com/mysamsung/v2/popup/terms.html','TermsandConditions','width=625, height=700, scrollbars=1')" data-link_cat="terms and conditions" data-link_id="link_account_modal_termsn" data-link_meta="link_name:terms and conditions" data-link_position="link account modal">Terms &amp; Conditions</a>.</p>
+						</div>
+						</form>
+						<div class="gnb-login-inner__right__signup-form__row__last">
+							<p href="#" class="gnb-login-inner__right__signup-form__row__dealer-create">If you are a mobile dealer creating an account for the first time, <a title="Create dealer account" href="/us/support/business/account/" data-link_cat="mobile dealer" data-link_id="link_account_modal_mobile_dealer" data-link_meta="link_name:mobile dealer" data-link_position="link account modal">click here</a> 	.</p>
+						</div>
+					</div>
+				</div>
+				<a title="Close login" class="icon-x gnb-login-inner__close" data-link_cat="close" data-link_id="link_account_model_close" data-link_meta="link_name:close" data-link_position="link account modal"></a>
+			</div>
+		</div>
+		<div class="gnb-login-content link-create-account-phase">
+			<div class="gnb-login-inner">
+				<div class="gnb-login-inner__left">
+					<h3 class="gnb-login-inner__left__title--signup">Your account for everything Samsung.</h3>
+					<p class="gnb-login-inner__left__subtitle">Sign up for a Samsung account to gain access to exclusive offers, world-class customer support, and apps like Samsung+ and Samsung Pay.</p>
+				</div>
+				<div class="gnb-login-inner__right">
+					<div class="gnb-login-inner__right__signup-section">
+						<h4 class="gnb-login-inner__right__signup-section__title">Set up your Samsung account</h4>
+						<p class="gnb-login-inner__right__signup-section__description">Emily. Thank you for using Google+ to create your Samsung Account. <a href="#" title="Sign in" tabindex="3" class="sign-in-here" data-link_cat="sign in here" data-link_id="create_samsung_account_modal_sign_in" data-link_meta="link_name:sign in here" data-link_position="create samsung account modal">Sign in here</a></p>
+					</div>
+					<div class="gnb-login-inner__right__third">
+						<p class="gnb-login-inner__right__third__description">Please verify your account information</p>
+						<div class="gnb-login-inner__right__third__icons-group">
+							<a title="Verify Facebook" href="javascript:;" tabindex="4" class="icon-new-facebook icon-new-facebook-dims"></a>
+							<a title="Verify Google Plus" href="javascript:;" tabindex="4" class="icon-new-google-plus icon-new-google-plus-dims"></a>
+							<a title="Verify LinkedIn" href="javascript:;" tabindex="4" class="icon-new-linkedin icon-new-linkedin-dims"></a>
+							<a title="Verify Windows" href="javascript:;" tabindex="4" class="icon-new-windows icon-new-windows-dims"></a>
+							<a title="Verify Yahoo" href="javascript:;" tabindex="4" class="icon-new-yahoo icon-new-yahoo-dims"></a>
+							<a title="Verify Twitter" href="javascript:;" tabindex="4" class="icon-new-twitter icon-new-twitter-dims"></a>
+						</div>
+					</div>
+					<div class="gnb-login-inner__right__signup-form">
+						<div class="server-side-error">asdsad</div>
+						<form class="link-create-account-input">
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input tabindex="1" class="login-input-box" type="text" name="firstname" placeholder="">
+								<label for="firstname" class="login-input-label">First Name</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input tabindex="1" class="login-input-box" type="text" name="lastname" placeholder="">
+								<label for="lastname" class="login-input-label">Last Name</label>
+							</div>
+						</div>
+
+						<div class="gnb-login-inner__right__signup-form__row">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input">
+								<input tabindex="1" class="login-input-box" type="text" name="email" placeholder="" id="link-create-account-email">
+								<label for="email" class="login-input-label">Email Address</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right">
+								<input tabindex="1" class="login-input-box" type="text" name="confemail" placeholder="">
+								<label for="confemail" class="login-input-label">Confirm Email Address</label>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row mobile-oppsite">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="text" name="zip" placeholder="">
+								<label for="zip" class="login-input-label">Zip Code</label>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="text" name="dob" placeholder="">
+								<label for="dob" class="login-input-label">Date of Birth</label>
+								<span class="login-input-right-icon icon-new-tooltip icon-new-tooltip-dims icon-dob-tooltip"></span>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right third mobile-oppsite">
+								<p>Your date of birth is used to verify your identity if you lose your E-mail or password.</p>
+							</div>
+						</div>
+						<div class="gnb-login-inner__right__signup-form__row mobile-oppsite">
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="password" name="password" placeholder="">
+								<label for="password" class="login-input-label">Password</label>
+								<span class="login-input-right-icon icon-new-show-pwd icon-new-show-pwd-dims"></span>
+							</div>
+							<div class="login-input-group gnb-login-inner__right__signup-form__row__input--right mobile-oppsite">
+								<input tabindex="1" class="login-input-box" type="text" name="telephone" placeholder="">
+								<label for="telephone" class="login-input-label">Phone Number</label>
+							</div>
+						</div>
+						<label class="login-checkbox-label gnb-login-inner__right__signup-form__checkbox">
+							<input tabindex="1" type="checkbox" class="login-checkbox" name="OPTIN">
+							<span class="login-checkbox-indicator"></span>
+							<span class="type-p2 login-checkbox-description ">Please send me information and special offers on innovative Samsung products.</span>
+						</label>
+						<div class="gnb-login-inner__right__signup-form__row__last">
+							<button tabindex="2" class="cta-button login-blue-btn gnb-login-inner__right__signup-form__row__create">create your account</button>
+							<p class="gnb-login-inner__right__signup-form__row__condition">By submitting this form you agree to our <a title="Terms and conditions" tabindex="1" href="#" onclick="event.preventDefault; window.open('http://support-us.samsung.com/mysamsung/v2/popup/terms.html','TermsandConditions','width=625, height=700, scrollbars=1')">Terms &amp; Conditions</a>.</p>
+						</div>
+						</form>
+					</div>
+				</div>
+				<a title="Close login" href="javascript:;" tabindex="5" class="icon-x gnb-login-inner__close"></a>
+			</div>
+		</div>
+		<div class="spinnerHolder">
+			<div class="spinner">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+				<div class="bounce4"></div>
+			</div>
+		</div>
+	</div>
+	<div class="gnb-login-background">
+	</div>
+</section>
+<div id="content"></div>
 <div class="breadcrumbs">
     <div class="container-fluid">
         <div class="row-fluid">
@@ -1122,6 +1567,7 @@ var omn_ss_loggedin = "not logged in";
         };
     </{{script}}>
 </script>
+
 
 
 
@@ -1444,10 +1890,10 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <a href="/us/shop/accessories" data-link_id="footer_shop_accessories" data-link_cat="shop_accessories" data-link_position="footer-nav" data-link_meta="link_name:shop accessories">Shop Accessories</a>
               </div>
               <div class="hidden-phone">
-                <a href="https://shop.us.samsung.com/store?Action=DisplayPage&amp;Locale=en_US&amp;SiteID=samsung&amp;id=ThreePgCheckoutShoppingCartPage" data-link_id="footer_cart" data-link_cat="cart click" data-link_position="footer-nav" data-link_meta="link_name:view cart"><i class="icons-cart-gray"></i>Shopping Cart</a>
+                <a href="/us/checkout/#/cart-info/" data-link_id="footer_cart" data-link_cat="cart click" data-link_position="footer-nav" data-link_meta="link_name:view cart"><i class="icons-cart-gray"></i>Shopping Cart</a>
               </div>
               <div class="refurbished hidden-phone">
-                <a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" data-link_id="footer_shop_refurbished" data-link_cat="shop click" data-link_position="footer-nav" data-link_meta="link_name:shop certified refurbished" target="_blank">Shop Refurbished</a>
+                <a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/" data-link_id="footer_shop_refurbished" data-link_cat="shop click" data-link_position="footer-nav" data-link_meta="link_name:shop certified refurbished" target="_blank" title="Shop Refurbished: Opens in new window">Shop Refurbished</a>
               </div>
             </div>
             <div class="row-fluid footer-store-products">
@@ -1455,47 +1901,49 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <h6>Shop Samsung <i class="chevron-down"></i></h6>
                 <ul>
                   <li><a href="/us/">Shop All Products</a></li>
-                  <li><a href="/us/shop/accessories">Shop All Accessories</a></li>
-                  <li><a href="/us/shop/special-offers">Special Offers Online</a></li>
-                  <li><a href="http://shop.us.samsung.com/store/samsung/home/en_US/ThemeID.38225500" target="_blank">Certified Refurbished Products</a></li>
+                  <li><a href="/us/shop/accessories/">Shop All Accessories</a></li>
+                  <li><a href="/us/shop/special-offers/">Special Offers Online</a></li>
+                  <li><a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/" target="_blank" title="Certified Refurbished Products: Opens in new window">Certified Refurbished Products</a></li>
                 </ul>
                 <h6>Cell Phones <i class="chevron-down"></i></h6>
                 <ul>
+				  <li><a href="/us/explore/galaxy-s8/">Galaxy S8</a></li>
                   <li><a href="/us/mobile/phones/galaxy-s/">Galaxy S Phones</a></li>
                   <li><a href="/us/mobile/phones/galaxy-note/">Galaxy Note Phones</a></li>
                   <li><a href="/us/mobile/phones/">Cell Phones</a></li>
-                  <li><a href="/us/mobile/phones/all-phones/?filter=prepaid/s/_/n-10+11+hv1rp">Prepaid/No Contract</a></li>
+                  <li><a href="/us/mobile/phones/all-phones/?filter=prepaid/s/_/n-10+11+hv1rp/">Prepaid/No Contract</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/at_t/_/n-10+11+hv1rp+tro8w/">AT&amp;T Cell Phones</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/verizon/_/n-10+11+hv1rp+tro8z/">Verizon Wireless Cell Phones</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/sprint/_/n-10+11+hv1rp+tro8x/">Sprint Cell Phones</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/t_mobile/_/n-10+11+hv1rp+tro8y/">T-Mobile Cell Phones</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/u_s_cellular/_/n-10+11+hv1rp+tro90/">U.S. Cellular Cell Phones</a></li>
                   <li><a href="/us/mobile/phones/all-phones/s/other_carriers/_/n-10+11+hv1rp+tro92/">More Carriers</a></li>
-                  <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.70010500/ThemeID.38225500">Certified Pre-Owned Phones</a></li>
-                  <li><a href="/us/mobile/phones/all-phones/s/_/n-10+11+hv1rp">See All Cell Phones</a></li>
+                  <li><a href="/us/mobile/phones/all-phones/s/certified_pre_owned/_/n-10+11+hv1rp+troxl/">Certified Pre-Owned Phones</a></li>
+                  <li><a href="/us/mobile/phones/all-phones/s/_/n-10+11+hv1rp/">See All Cell Phones</a></li>
                 </ul>
                 <h6>TVs <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/televisions-home-theater/tvs/4k-suhd-tvs/s/_/n-10+11+hv1uh+zq202">4K SUHD TVs</a></li>
-                  <li><a href="/us/televisions-home-theater/tvs/4k-uhd-tvs/s/_/n-10+11+hv1uh+zq203">4K UHD TVs</a></li>
-                  <li><a href="/us/televisions-home-theater/tvs/hd-tvs/s/_/n-10+11+hv1uh+zq205">LED TVs</a></li>
-                  <li><a href="/us/televisions/">See All TVs</a></li>
+				  <li><a href="/us/televisions-home-theater/tvs/qled-tvs/s/qled_tvs/_/n-10+11+hv1uh+zq2jh/">QLED TVs</a></li>
+                  <li><a href="/us/televisions-home-theater/tvs/4k-suhd-tvs/s/_/n-10+11+hv1uh+zq202/">4K SUHD TVs</a></li>
+                  <li><a href="/us/televisions-home-theater/tvs/4k-uhd-tvs/s/_/n-10+11+hv1uh+zq203/">4K UHD TVs</a></li>
+                  <li><a href="/us/televisions-home-theater/tvs/hd-tvs/s/_/n-10+11+hv1uh+zq205/">LED TVs</a></li>
+                  <li><a href="/us/televisions-home-theater/tvs/all-tvs/s/_/n-10+11+hv1uh/">See All TVs</a></li>
                 </ul>
               </div>
               <div class="span6">
                 <h6>Tablets <i class="chevron-down"></i></h6>
                 <ul>
                   <li><a href="/us/mobile/tablets/">Galaxy Tabs</a></li>
-                  <li><a href="/us/mobile/phones/galaxy-note/s/_/n-10+11+hv1rp+zq1xb">Galaxy Notes</a></li>
+                  <li><a href="/us/mobile/phones/galaxy-note/s/_/n-10+11+hv1rp+zq1xb/">Galaxy Notes</a></li>
                   <li><a href="/us/mobile/tablets/all-tablets/s/_/n-10+11+hv1rq/">Wi-Fi Tablets</a></li>
                   <li><a href="/us/mobile/tablets/all-tablets/s/_/n-10+11+hv1rq/">4G / LTE Tablets</a></li>
-                  <li><a href="http://shop.us.samsung.com/store/samsung/list/CategoryID.67795500/ThemeID.38225500">Refurbished Tablets</a></li>
+                  <li><a href="/us/mobile/tablets/all-other-tablets/s/certified_refurbished/_/n-10+11+hv1rq+troxm/">Refurbished Tablets</a></li>
                   <li><a href="/us/mobile/tablets/all-tablets/s/_/n-10+11+hv1rq/">See All Galaxy Tablets</a></li>
                 </ul>
                 <h6>Wearable Tech <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/mobile/wearables/smartwatches/s/_/n-10+11+hv1rr+zq1xt">Smartwatches</a></li>
-                  <li><a href="/us/mobile/virtual-reality/gear-vr/s/_/n-10+11+hv1rs+zq1y0">Virtual Reality Headsets</a></li>
+                  <li><a href="/us/mobile/wearables/smartwatches/s/_/n-10+11+hv1rr+zq1xt/">Smartwatches</a></li>
+                  <li><a href="/us/mobile/virtual-reality/gear-vr/s/_/n-10+11+hv1rs+zq1y0/">Virtual Reality Headsets</a></li>
                   <li><a href="/us/mobile/wearables/">See All Gear</a></li>
                 </ul>
 
@@ -1503,8 +1951,8 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <ul>
                   <li><a href="/us/audio/wireless-speakers/">Wireless Multiroom Audio</a></li>
                   <li><a href="/us/televisions-home-theater/home-theater/all-home-theater/s/sound_bars/_/n-10+11+hv1ui+zq20c/">Soundbars</a></li>
-                  <li><a href="/us/audio/stereo-shelf-systems/stereo-shelf-systems/s/_/n-10+11+hv25n+zq2bi">Giga Sound Systems</a></li>
-                  <li><a href="/us/televisions-home-theater/home-theater/home-theater-systems/s/_/n-10+11+hv1ui+zq20e">Home Theater Systems</a></li>
+                  <li><a href="/us/audio/stereo-shelf-systems/stereo-shelf-systems/s/_/n-10+11+hv25n+zq2bi/">Giga Sound Systems</a></li>
+                  <li><a href="/us/televisions-home-theater/home-theater/home-theater-systems/s/_/n-10+11+hv1ui+zq20e/">Home Theater Systems</a></li>
                   <li><a href="/us/televisions-home-theater/home-theater/all-home-theater/s/blu_ray_dvd_players/_/n-10+11+hv1ui+zq20b/">Blu-ray Players</a></li>
                   <li><a href="/us/televisions-home-theater/home-theater/all-home-theater/s/blu_ray_dvd_players/_/n-10+11+hv1ui+zq20b/">DVD Players</a></li>
                   <li><a href="/us/televisions-home-theater/home-theater/">See All Home Audio Products</a></li>
@@ -1517,10 +1965,10 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                   <li><a href="/us/computing/windows-laptops/">Windows Laptops</a></li>
                   <li><a href="/us/computing/windows-desktops/">Windows Desktops</a></li>
                   <li><a href="/us/computing/chromebooks/">Chrome Devices</a></li>
-                  <li><a href="/us/computer/all-in-one-pcs">All-In-One PCs</a></li>
+                  <li><a href="/us/computer/all-in-one-pcs/">All-In-One PCs</a></li>
                   <li><a href="/us/computing/monitors/">Monitors</a></li>
                   <li><a href="/us/computing/printers/">Printers</a></li>
-                  <li><a href="/us/computer/pcs/all-products">See All PCs</a></li>
+                  <li><a href="/us/computer/pcs/all-products/">See All PCs</a></li>
                 </ul>
                 <h6>Memory &amp; Storage <i class="chevron-down"></i></h6>
                 <ul>
@@ -1532,36 +1980,36 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 </ul>
                 <h6>Home Appliances <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/home-appliances/washers">Washers</a></li>
-                  <li><a href="/us/home-appliances/dryers">Dryers</a></li>
-                  <li><a href="/us/home-appliances/refrigerators">Refrigerators</a></li>
-                  <li><a href="/us/home-appliances/microwaves">Microwaves</a></li>
-                  <li><a href="/us/home-appliances/dishwashers">Dishwashers</a></li>
-                  <li><a href="/us/home-appliances/ranges">Ranges</a></li>
-                  <li><a href="/us/home-appliances/wall-ovens">Wall Ovens</a></li>
-                  <li><a href="/us/home-appliances/cooktops-and-hoods">Cooktops &amp; Hoods</a></li>
-                  <li><a href="/us/home-appliances/vacuums">Vacuums</a></li>
-                </ul>                
+                  <li><a href="/us/home-appliances/washers/">Washers</a></li>
+                  <li><a href="/us/home-appliances/dryers/">Dryers</a></li>
+                  <li><a href="/us/home-appliances/refrigerators/">Refrigerators</a></li>
+                  <li><a href="/us/home-appliances/microwaves/">Microwaves</a></li>
+                  <li><a href="/us/home-appliances/dishwashers/">Dishwashers</a></li>
+                  <li><a href="/us/home-appliances/ranges/">Ranges</a></li>
+                  <li><a href="/us/home-appliances/wall-ovens/">Wall Ovens</a></li>
+                  <li><a href="/us/home-appliances/cooktops-and-hoods/">Cooktops &amp; Hoods</a></li>
+                  <li><a href="/us/home-appliances/vacuums/">Vacuums</a></li>
+                </ul>
               </div>
               <div class="span6">
                 <h6>Smart Home <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/smart-home/smartthings/kits/s/_/n-10+11+hv1x9+zq22u">Kits</a></li>
-                  <li><a href="/us/smart-home/smartthings/hubs/s/_/n-10+11+hv1x9+zq22v">Hubs</a></li>
-                  <li><a href="/us/smart-home/smartthings/sensors/s/_/n-10+11+hv1x9+zq22w">Sensors</a></li>
-                  <li><a href="/us/smart-home/smartthings/outlets/s/_/n-10+11+hv1x9+zq22x">Outlets</a></li>
-                  <li><a href="/us/smart-home/smartthings/all-smartthings/s/_/n-10+11+hv1x9">See All Smart Home Products</a></li>
+                  <li><a href="/us/smart-home/smartthings/kits/s/_/n-10+11+hv1x9+zq22u/">Kits</a></li>
+                  <li><a href="/us/smart-home/smartthings/hubs/s/_/n-10+11+hv1x9+zq22v/">Hubs</a></li>
+                  <li><a href="/us/smart-home/smartthings/sensors/s/_/n-10+11+hv1x9+zq22w/">Sensors</a></li>
+                  <li><a href="/us/smart-home/smartthings/outlets/s/_/n-10+11+hv1x9+zq22x/">Outlets</a></li>
+                  <li><a href="/us/smart-home/smartthings/all-smartthings/s/_/n-10+11+hv1x9/">See All Smart Home Products</a></li>
                 </ul>
 
                 <h6>Security &amp; Monitoring <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/smart-home/home-monitoring/cameras/s/_/n-10+11+hv1xa+zq231">IP Cameras</a></li>
-                  <li><a href="/us/smart-home/home-monitoring/security-systems/s/_/n-10+11+hv1xa+zq232">Security Systems</a></li>
-                  <li><a href="/us/smart-home/home-monitoring/baby-monitors/s/_/n-10+11+hv1xa+zq233">Baby Monitors</a></li>
+                  <li><a href="/us/smart-home/home-monitoring/cameras/s/_/n-10+11+hv1xa+zq231/">IP Cameras</a></li>
+                  <li><a href="/us/smart-home/home-monitoring/security-systems/s/_/n-10+11+hv1xa+zq232/">Security Systems</a></li>
+                  <li><a href="/us/smart-home/home-monitoring/baby-monitors/s/_/n-10+11+hv1xa+zq233/">Baby Monitors</a></li>
                 </ul>
                 <h6 class="last">Help With Your Order <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="http://shop.us.samsung.com/store/samsung/en_US/DisplayCustomerServiceOrderSearchPage/" target="_blank">Track Your Order</a></li>
+                  <li><a href="/us/support/account/order/#/order-lookup/">Track Your Order</a></li>
                   <li><a href="/us/support/customer-shopping-faqs/">Store FAQs</a></li>
                   <li><a href="/us/support/customer-shopping-faqs/#questionID32">Return Your Order</a></li>
                   <li><a href="/us/support/customer-shopping-faqs/#questionID9">Cancel Your Order</a></li>
@@ -1569,16 +2017,16 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 </ul>
                 <h6>Accessories <i class="chevron-down"></i></h6>
                 <ul>
-                  <li><a href="/us/televisions-home-theater/television-home-theater-accessories/televisions/s/_/n-10+11+hv1uj+zq20i">TV Accessories</a></li>
-                  <li><a href="/us/mobile/mobile-accessories/phones/s/_/n-10+11+hv1rt+zq1y4">Cell Phone Accessories</a></li>
-                  <li><a href="/us/mobile/mobile-accessories/tablets/s/_/n-10+11+hv1rt+zq1y5">Tablet Accessories</a></li>
-                  <li><a href="/us/computing/computing-accessories/printers/s/_/n-10+11+hv22z+zq29w">Printer Accessories</a></li>
-                  <li><a href="/us/computing/computing-accessories/computers/s/_/n-10+11+hv22z+zq29u">PC Accessories</a></li>
+                  <li><a href="/us/televisions-home-theater/television-home-theater-accessories/televisions/s/_/n-10+11+hv1uj+zq20i/">TV Accessories</a></li>
+                  <li><a href="/us/mobile/mobile-accessories/phones/s/_/n-10+11+hv1rt+zq1y4/">Cell Phone Accessories</a></li>
+                  <li><a href="/us/mobile/mobile-accessories/tablets/s/_/n-10+11+hv1rt+zq1y5/">Tablet Accessories</a></li>
+                  <li><a href="/us/computing/computing-accessories/printers/s/_/n-10+11+hv22z+zq29w/">Printer Accessories</a></li>
+                  <li><a href="/us/computing/computing-accessories/computers/s/_/n-10+11+hv22z+zq29u/">PC Accessories</a></li>
                   <li><a href="/us/">Digital Camera Accessories</a></li>
-                  <li><a href="/us/home-appliances/home-appliances-accessories/refrigerators/s/_/n-10+11+hv208+zq273">Refrigerator Accessories</a></li>
-                  <li><a href="/us/home-appliances/home-appliances-accessories/washers-dryers/s/_/n-10+11+hv208+zq274">Washer &amp; Dryer Accessories</a></li>
-                  <li><a href="/us/smart-home/home-monitoring/all-home-monitoring/s/_/n-10+11+hv1xa">Security System Accessories</a></li>
-                  <li><a href="/us/home-appliances/home-appliances-accessories/vacuums/s/_/n-10+11+hv208+zq276">Vacuum Accessories</a></li>
+                  <li><a href="/us/home-appliances/home-appliances-accessories/refrigerators/s/_/n-10+11+hv208+zq273/">Refrigerator Accessories</a></li>
+                  <li><a href="/us/home-appliances/home-appliances-accessories/washers-dryers/s/_/n-10+11+hv208+zq274/">Washer &amp; Dryer Accessories</a></li>
+                  <li><a href="/us/smart-home/home-monitoring/all-home-monitoring/s/_/n-10+11+hv1xa/">Security System Accessories</a></li>
+                  <li><a href="/us/home-appliances/home-appliances-accessories/vacuums/s/_/n-10+11+hv208+zq276/">Vacuum Accessories</a></li>
                 </ul>
               </div>
             </div>
@@ -1597,8 +2045,8 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <li><a href="/us/computing/">A New Era of Computing</a></li>
                 <li><a href="/us/">Share Life as it Happens</a></li>
                 <li><a href="/us/showcase/samsung-chef-collection/">Indulge Your Inner Gourmet</a></li>
-                <li><a href="http://techlife.samsung.com/" tagret="_blank">Tech Life: Ideas &amp; Inspiration</a></li>
-                <li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/" tagret="_blank">Building a Smarter Future</a></li>
+                <li><a href="http://techlife.samsung.com/" target="_blank" title="Tech Life: Opens in new window">Tech Life: Ideas &amp; Inspiration</a></li>
+                <li><a href="/us/showcase/environmental-responsibility-through-eco-innovations/" target="_blank" title="Building a Smarter Future: Opens in new window">Building a Smarter Future</a></li>
               </ul>
             </div>
             <div class="column">
@@ -1621,10 +2069,12 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <li><a href="/us/support/account/">Samsung Account</a></li>
                 <li><a href="/us/support/get-started/">Set Up Your New Device</a></li>
                 <li><a href="/us/experience/skills-workshop/">Samsung Skills Workshop</a></li>
-                <li><a class="registerDevice" href="/us/support/account/">Register Your Device</a></li>
-                <li><a href="/us/support/downloads">Manuals &amp; Downloads</a></li>
+                <li><a class="registerDevice" href="/us/support/register/">Register Your Device</a></li>
+                <li><a href="/us/support/downloads/">Manuals &amp; Downloads</a></li>
                 <li><a href="/us/support/contact-customer-services/">Help With Your Order</a></li>
-                <li><a href="/us/support/contact">Contact Support</a></li>
+                <li><a href="/us/support/contact/">Contact Support</a></li>
+				<li><a href="/us/note7recall/">Galaxy Note7 Recall</a></li>
+				<li><a href="https://pages.samsung.com/us/tlw/">Top Load Washer Recall</a></li>
               </ul>
             </div>
             <div class="column">
@@ -1635,9 +2085,9 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
                 <li><a href="/us/aboutsamsung/sustainability/sustainablemanagement/">Sustainability</a></li>
                 <li><a href="/us/news/">News</a></li>
                 <li><a href="/us/samsunghopeforchildren/">Hope for Children</a></li>
-                <li><a href="/us/aboutsamsung/ir/newsMain.do">Investor Relations</a></li>
+                <li><a href="/us/aboutsamsung/ir/newsMain.do" class="irNotice">Investor Relations</a></li>
                 <li><a href="/us/aboutsamsung/citizenship/usactivities/environmentalinitiatives/recyclingdirect/">Product Recycling</a></li>
-                <li><a href="/us/accessibility/">Accessibility Help</a></li>
+                <li><a id="accHelp" href="/us/accessibility/">Accessibility Help</a></li>
               </ul>
             </div>
           </div>
@@ -1647,21 +2097,22 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
             <!--D-->
             <div class="footer-search">
               <form action="/us/search/searchMain" method="get" class="search-form">
-                                <input type="hidden" name="Dy" value="1">
-                  <input type="hidden" name="Nty" value="1">
-                                <input class="search" type="text" name="Ntt" placeholder="Search" autocapitalize="off" autocorrect="off">
-                                <button class="icons-search-gray"></button>
-                            </form>
+                <label for="footerSearch" class="acc-link">Search</label>
+                <input type="hidden" name="Dy" value="1">
+                <input type="hidden" name="Nty" value="1">
+                <input id="footerSearch" class="search" type="text" name="Ntt" placeholder="Search" autocapitalize="off" autocorrect="off">
+                <button class="icons-search-gray"><span class="blind">Search Layer</span></button>
+              </form>
             </div>
             <div class="social-links">
               <span>Follow Us</span>
               <ul class="no-style">
-                <li><a target="_blank" data-link_id="footer_facebook" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:facebook" href="https://www.facebook.com/SamsungUS"><i class="social-media facebook">Facebook</i></a></li>
-                <li><a target="_blank" data-link_id="footer_twitter" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:twitter" href="https://twitter.com/SamsungUS"><i class="social-media twitter">Twitter</i></a></li>
-                <li><a target="_blank" data-link_id="footer_google" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:google" href="https://plus.google.com/+SamsungUSA/posts"><i class="social-media google">Google+</i></a></li>
-                <li><a target="_blank" data-link_id="footer_instagram" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:instagram" href="http://instagram.com/samsungusa#"><i class="social-media instagram">Instagram</i></a></li>
-                <li><a target="_blank" data-link_id="footer_youtube" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:youtube" href="http://www.youtube.com/user/samsungusatube"><i class="social-media youtube">You Tube</i></a></li>
-                <li><a target="_blank" data-link_id="footer_email" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:email" href="http://www.samsung.com/us/sign-up.us"><i class="social-media email">Email</i></a></li>
+                <li><a target="_blank" title="Facebook: Open in a new window" data-link_id="footer_facebook" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:facebook" href="https://www.facebook.com/SamsungUS"><i class="social-media facebook">Facebook</i></a></li>
+                <li><a target="_blank" title="Twitter: Open in a new window" data-link_id="footer_twitter" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:twitter" href="https://twitter.com/SamsungUS"><i class="social-media twitter">Twitter</i></a></li>
+                <li><a target="_blank" title="Google Plus: Open in a new window" data-link_id="footer_google" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:google" href="https://plus.google.com/+SamsungUSA/posts"><i class="social-media google">Google+</i></a></li>
+                <li><a target="_blank" title="Instagram: Open in a new window" data-link_id="footer_instagram" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:instagram" href="http://instagram.com/samsungusa#"><i class="social-media instagram">Instagram</i></a></li>
+                <li><a target="_blank" title="Youtube: Open in a new window" data-link_id="footer_youtube" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:youtube" href="http://www.youtube.com/user/samsungusatube"><i class="social-media youtube">You Tube</i></a></li>
+                <li><a target="_blank" title="E-mail: Open in a new window" data-link_id="footer_email" data-link_cat="social follow" data-link_position="footer-nav" data-link_meta="link_name:social media follow|social_click_type:email" href="http://www.samsung.com/us/sign-up.us"><i class="social-media email">Email</i></a></li>
               </ul>
             </div>
           </div>
@@ -1688,7 +2139,7 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
       <div class="span10">
         <div class="copyright">
           <p>
-            Copyright © 1995-2016 SAMSUNG All Rights reserved.
+            Copyright © 1995-2017 SAMSUNG All Rights reserved.
           </p>
         </div>
       </div>
@@ -1710,15 +2161,18 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 					<form id="overlay-signUp" novalidate="">
 						<div>
 							<div class="span-sm-4 span-lg-6 sg-overlay-input">
-								<input class="sg-overlay-input-field" type="text" name="firstname" validatetype="text" isoptional="false" placeholder="First Name" required="">
+								<input id="firstname_submission" class="sg-overlay-input-field" type="text" name="firstname" validatetype="text" isoptional="false" placeholder="First Name" required="">
+								<label for="firstname_submission" class="sg-overlay-input-field">Firstname</label>
 								<!-- <span class="sg-overlay-errormessage">error message</span> -->
-							</div>						
+							</div>
 							<div class="span-sm-4 span-lg-6 sg-overlay-input">
-								<input class="sg-overlay-input-field" type="text" name="lastname" validatetype="text" isoptional="false" placeholder="Last Name" required="">
+								<input id="lastname_submission" class="sg-overlay-input-field" type="text" name="lastname" validatetype="text" isoptional="false" placeholder="Last Name" required="">
+								<label for="lastname_submission" class="sg-overlay-input-field">Lastname</label>
 								<!-- <span class="sg-overlay-errormessage">error message</span> -->
-							</div>						
+							</div>
 							<div class="span-sm-4 span-lg-12 sg-overlay-input">
-								<input class="sg-overlay-input-field" type="text" name="email" validatetype="email" isoptional="false" placeholder="Email" required="">
+								<input id="email_submission" class="sg-overlay-input-field" type="text" name="email" validatetype="email" isoptional="false" placeholder="Email" required="">
+								<label for="email_submission" class="sg-overlay-input-field">Email</label>
 								<!-- <span class="sg-overlay-errormessage">error message</span> -->
 							</div>
 						</div>
@@ -1728,8 +2182,8 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 									<button class="sg-overlay-button" type="submit">SUBMIT</button>
 								</div>
 						</div>
-						<div style="clear: both"></div>						
-					</form>	
+						<div style="clear: both"></div>
+					</form>
 					<div class="span-sm-4 span-lg-12">
 						<p class="sg-overlay-disclaimer">*Exclusion apply. Order must be a minimumm of $100 or more. Offer valid only for new Samsung.com customers. Must sign up for emails by 11/12/16. Promo code must be used by 11/19.</p>
 					</div>
@@ -1746,7 +2200,7 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 				<div class="sg-overlay-error" style="display: none;">
 					<h4>Something went wrong. Please try again.</h4>
 				</div>
-			</div>	
+			</div>
 		</div>
 		</div>
 	</section>
@@ -1756,7 +2210,7 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 		<div class="sapp-box">
 			<div class="sapp-close">×</div>
 			<div class="sapp-logo">
-				<img src="/us/images/mobileApp/ShopSamsung_icon_100x100.png">
+				<img data-src="//s7d2.scene7.com/is/image/SamsungUS/ShopSamsung_icon_144" class="lazyload">
 			</div>
 			<div class="sapp-title">
 			Make shopping even easier.
@@ -1780,14 +2234,14 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 	<div class="spop-wrap">
 		<div class="spop-content">
 			<div class="spop-logo">
-				<img src="/us/images/mobileApp/ShopSamsung_icon_100x100.png">
+				<img data-src="//s7d2.scene7.com/is/image/SamsungUS/ShopSamsung_icon_144" class="lazyload">
 			</div>
 			<div class="spop-textBox">
 				<div class="spop-title">The Shop Samsung app</div>
-				<div class="spop-body">Fast checkout. Easy support. Free standard shipping.</div>
+				<div class="spop-body">Free standard shipping, exclusive offers and financing options.</div>
 			</div>
 			<div class="spop-cta">
-				<a href="https://play.google.com/store/apps/details?id=com.samsung.ecomm&amp;referrer=utm_source%3DGNB_Extender%26utm_medium%3DGet_CTA%26utm_campaign%3DSamsung_Web_AppDownloadReferral%26cid%3Dnmc-brd-brd-1130-10000106" data-link_cat="mobile shop app extender" data-link_id="mobile_shop_app_extender_get_app" data-link_meta="link_name:get app" data-link_position="mobile shop app">GET</a>
+				<a href="https://k7wz8.app.goo.gl/MGYrDAwmPaqqqby53" data-link_cat="mobile shop app extender" data-link_id="mobile_shop_app_extender_get_app" data-link_meta="link_name:get app" data-link_position="mobile shop app">GET</a>
 			</div>
 		</div>
 	</div>
@@ -1797,34 +2251,158 @@ Email: through the “<a href="http://www.samsung.com/us/support/contact">Contac
 	<div class="spop-wrap">
 		<div class="spop-content">
 			<div class="spop-logo">
-				<img src="/us/images/mobileApp/ShopSamsung_icon_100x100.png">
+				<img data-src="//s7d2.scene7.com/is/image/SamsungUS/ShopSamsung_icon_144" class="lazyload">
 			</div>
 			<div class="spop-textBox">
 				<div class="spop-title">The Shop Samsung app</div>
-				<div class="spop-body">Fast checkout. Easy support. Free standard shipping.</div>
+				<div class="spop-body">Free standard shipping, exclusive offers and financing options.</div>
 			</div>
 			<div class="spop-cta">
-				<a href="https://play.google.com/store/apps/details?id=com.samsung.ecomm&amp;referrer=utm_source%3DPop_Under_CH%26utm_medium%3DGet_CTA%26utm_campaign%3DSamsung_Web_AppDownloadReferral%26cid%3Dnmc-brd-brd-1130-10000107" data-link_cat="mobile shop app extender" data-link_id="mobile_shop_app_extender_get_app" data-link_meta="link_name:get app" data-link_position="mobile shop app">GET</a>
+				<a href="https://k7wz8.app.goo.gl/MGYrDAwmPaqqqby53" data-link_cat="mobile shop app extender" data-link_id="mobile_shop_app_extender_get_app" data-link_meta="link_name:get app" data-link_position="mobile shop app">GET</a>
 			</div>
 		</div>
 	</div>
 </section>
+<section id="ir_overlay">
+	<div class="irWrap">
+		<div class="irClose cancel">×</div>
+		<div class="irContent">
+			<h3>You Are About To Be Redirected To Investor Relations Information for U.S.</h3>
+			Thank you for visiting Samsung U.S. Investor Relations. You will be redirected via a new browser window to the Samsung Global website for U.S. investor relations information.
+			<div class="button-group">
+				<div class="cancel">CANCEL</div><a class="cta-button continue" href="/us/aboutsamsung/ir/newsMain.do" target="_blank ">CONTINUE</a>
+			</div>
+		</div>
+	</div>
+</section>
+<style>
+#ir_overlay{
+	display: none;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.75);
+	z-index: 10000;
+}
+#ir_overlay .irWrap{
+	display: block;
+	margin:0 auto;
+	max-width: 800px;
+	position: relative;
+	background-color: #fff;
+	top: 15%;
+}
+#ir_overlay .irWrap .irContent{
+	font-size: 1em;
+	line-height: 1.4em;
+	padding: 50px;
+}
+#ir_overlay .irWrap .cancel{
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+	color: #1428a0;
+	margin: 0 20px 0 0;
+}
+#ir_overlay .irWrap .irContent h3{
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 1.2em;
+	margin-bottom: 20px;
+}
+#ir_overlay .irWrap .irClose{
+	position: absolute;
+	top: 10px;
+	right: 0;
+	font-size: 2em;
+	cursor: pointer;
+}
+#ir_overlay .button-group{
+	display: block;
+	text-align: right;
+	margin: 20px;
+}
+#ir_overlay .cta-button{
+    color: #fff !important;color: #363636;
+    display: block;
+    position: relative;
+    padding: 20px 38px 20px 40px;
+    margin: 20px 0 0 0;
+    overflow: hidden;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 1.7px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0 0, 0 100%;
+    background-size: 100% 100%, 100% 100%;
+    border: 1px solid;
+    -webkit-border-radius: 40px;
+    border-radius: 40px;
+    outline: 0;
+    background-color: #1428a0;
+    vertical-align: middle;
+    border: none;
+    -webkit-transition: .2s ease-in;
+    -o-transition: .2s ease-in;
+    transition: .2s ease-in;
+    background-clip: border-box;
+    z-index: 1;
+}
+#ir_overlay .cta-button:hover{
+	background-color: #0b175c;
+}
+#ir_overlay .irWrap .continue{
+	display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 20px;
+    text-decoration: none;
+}
+#ir_overlay a[target]:after{
+    background-image: url(/us/images/icon/newwindow-white.svg);
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    width: 11px;
+    height: 11px;
+    margin-left: 5px;
+    background-size: 11px 11px;
+    content: '';
+}
+@media screen and (max-width: 768px){
+	#ir_overlay .irWrap .irContent{
+		padding: 50px 30px;
+	}
+	#ir_overlay .button-group {
+		margin: 20px 0;
+		text-align: center;
+	}
+}
+</style>
 <script>
 var poptag=false;
 function spopOpen(){
 	spopSlide=function(){
-		if(window.scrollY>107){
-		   $("#spop-overlay.active").slideDown();
-		   //tagOnce();
-		}else{
-			$("#spop-overlay.active").slideUp();
-		}
+		$("#spop-overlay.active").slideDown();
+		//if(window.scrollY>107){
+		//   $("#spop-overlay.active").slideDown();
+		//   //tagOnce();
+		//}else{
+		//	$("#spop-overlay.active").slideUp();
+		//}
 	}
-	$(window).bind("scroll",spopSlide);
-	$(".spop-close").click(function(){
-		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app extender',link_id:'mobile_shop_app_extender_close',link_meta:'link_name:close',link_position:'mobile shop app'});},500);
+	spopSlide();
+	//$(window).bind("scroll",spopSlide);
+	$("#spop-overlay .spop-close").click(function(){
+		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app extender',link_id:'mobile _shop_sapp_popunder_close',link_meta:'link_name:close',link_position:'mobile shop app popunder'});},500);
 		$("#spop-overlay.active").slideUp();
-		$(window).unbind("scroll",spopSlide);
+		//$(window).unbind("scroll",spopSlide);
 	});
 }
 function spopOpen2(){
@@ -1836,18 +2414,19 @@ function spopOpen2(){
 			$("#spop-overlay2.active").slideUp();
 		}
 	}
-	$(window).bind("scroll",spopSlide);
-	$(".spop-close").click(function(){
-		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app extender',link_id:'mobile_shop_app_extender_close',link_meta:'link_name:close',link_position:'mobile shop app'});},500);
+	spopSlide();
+	//$(window).bind("scroll",spopSlide);
+	$("#spop-overlay2 .spop-close").click(function(){
+		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app extender',link_id:'mobile _shop_sapp_popunder_close',link_meta:'link_name:close',link_position:'mobile shop app popunder'});},500);
 		$("#spop-overlay2.active").slideUp();
-		$(window).unbind("scroll",spopSlide);
+		//$(window).unbind("scroll",spopSlide);
 	});
 }
 function sappOpen(){
 	//setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app interecept', link_id: 'mobile_shop_app_intercept_impression', link_meta:'link_name:intercept impression', link_position:'mobile shop app'});},500);
 	$("#sapp-overlay").addClass('load');
 	$(".sapp-close").click(function(){
-		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app interecept', link_id: 'mobile_shop_app_intercept_close', link_meta:'link_name:close', link_position:'mobile shop app'});},500);
+		setTimeout(function(){if(typeof utag!="undefined") utag.link({link_cat:'mobile shop app interecept', link_id: 'mobile _shop_sapp_overlay_close', link_meta:'link_name:close', link_position:'mobile shop app overlay'});},500);
 		$("#sapp-overlay").removeClass('load');
 	});
 }
@@ -1866,13 +2445,39 @@ function tagOnce(){
 	},500);
 	}
 }
-</script>
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_style.js"></script>
-<!-- MAIN OL ENGINE -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script>
-<!-- FEEDBACK CONFIGURATION -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script>
 
+var p=location.search,t='',ct=0;
+if(p!=''){
+	if(p.indexOf('?redir=')>-1){
+		t=p.substr(p.indexOf('?redir=')+7);
+	}else if(p.indexOf('&redir=')>-1){
+		t=p.substr(p.indexOf('&redir=')+7);
+	}
+	if(t!=''){
+		var checkRedir=setInterval(function(){
+			if(typeof utag!="undefined"){
+				utag.link({search_category:"internal search", search_term:t, search_location:"internal search", search_type:"redirect"});
+				clearInterval(checkRedir);
+			}else{
+				if(ct>=20){
+					clearInterval(checkRedir);
+				}else{
+					ct++;
+				}
+			}
+		},500);
+	}
+}
+$(function(){
+	$(".irNotice").click(function(e){
+		e.preventDefault();
+		$("#ir_overlay").fadeIn();
+	});
+	$(".cancel, .cta-button.continue").click(function(){
+		$("#ir_overlay").fadeOut();
+	});
+});
+</script>
 <script src="/us/consumer/js/vendor.js"></script>
 <script type="text/javascript" src="/us/consumer/js/rum.js"></script>
 
@@ -1885,15 +2490,9 @@ function tagOnce(){
 <script type="text/javascript" src="/us/consumer/js/sso.js"></script>
 <script type="text/javascript" src="/us/consumer/js/smg/global/digital-river.js"></script>
 <script src="/us/consumer/js/gnb.js"></script>
+<script src="/us/consumer/js/checkout/v2/ecomCart.js"></script>
 <script type="text/javascript" src="/us/consumer/js/main.js"></script>
 <script type="text/javascript" src="/us/consumer/js/static/breadcrumbs.js"></script>
-
-<!-- MAIN OL ENGINE -->
-<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script> -->
-<!-- FEEDBACK CONFIGURATION -->
-<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script> -->
-<!-- <noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript> -->
-<!-- END: OnlineOpinion v5.9.0 -->
 
 <!-- BEGIN ADD TO CART EXTENDER -->
 <div class="add-to-cart-modal-container" style="display:none;">
@@ -1962,15 +2561,9 @@ function tagOnce(){
 <script type="text/javascript" src="/us/consumer/js/sso.js"></script>
 <script type="text/javascript" src="/us/consumer/js/smg/global/digital-river.js"></script>
 <script src="/us/consumer/js/gnb.js"></script>
+<script src="/us/consumer/js/checkout/v2/ecomCart.js"></script>
     <script type="text/javascript" src="/us/consumer/js/main.js"></script>
 <script type="text/javascript" src="/us/consumer/js/static/breadcrumbs.js"></script>
-
-<!-- MAIN OL ENGINE -->
-<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_engine.min.js"></script> -->
-<!-- FEEDBACK CONFIGURATION -->
-<!-- <script language="javascript" type="text/javascript" charset="windows-1252" src="/us/onlineopinionV5/oo_conf_waypoint.js"></script> -->
-<!-- <noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript> -->
-<!-- END: OnlineOpinion v5.9.0 -->
 
 <!-- BEGIN ADD TO CART EXTENDER -->
 <div class="add-to-cart-modal-container" style="display:none;">
@@ -2028,4 +2621,4 @@ function tagOnce(){
 
 
 
-<div id="oo_tab" class="oo_tab_right" tabindex="0"><div><a></a></div><div class="screen_reader">Activate to launch comment card</div><span></span></div></body></html>
+</body></html>
