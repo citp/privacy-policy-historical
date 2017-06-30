@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardquery.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230225816id_/https%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardquery.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630151555id_/https%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
 
 # SWREG: Privacy
 
