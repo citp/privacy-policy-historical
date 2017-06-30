@@ -1,116 +1,170 @@
-> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623210318id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230706id_/https%3A//www.facebook.com/privacy/explanation) for the most accurate reproduction.*
 
-# Bauer Media Group - Privacy Policy
+# Data Policy
 
-**The Bauer Media Group consists of:**
+We give you the power to share as part of our mission to make the world more open and connected. This policy describes what information we collect and how it is used and shared. You can find additional tools and information at [Privacy Basics](https://web.archive.org/about/basics). 
 
-Bauer Consumer Media Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01176085, VAT no. 918 5617 01. 
+As you review our policy, keep in mind that it applies to all Facebook brands, products and services that do not have a separate privacy policy or that link to this policy, which we call the [“Facebook Services” or “Services.”](https://web.archive.org/help/1561485474074139)
 
-**And**
+###  What kinds of information do we collect? 
 
-Bauer Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01394141, VAT no. 918 5617 01. 
+Depending on which Services you use, we collect different kinds of information from or about you. 
 
-**And**
+Things you do and information you provide.
 
-Absolute Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
+We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities. 
 
-**Please click on the following links or scroll down to see the details of our Privacy Policy:**
+Things others do and information they provide.
 
-* ### Our Data Promise to you
+We also collect content and information that other people provide when they use our Services, including information about you, such as when they share a photo of you, send a message to you, or upload, sync or import your contact information. 
 
-The Bauer Media Group is absolutely committed to respecting and protecting your data whilst it is in our care. We collect your personal information because it helps us to understand your needs and guides the way in which we interact and communicate with you about our products and services now and in the future. We have strict policies and procedures in place to protect your data when you send it to us, when we process it in order to provide you with the services you have requested or, where you have given us your permission to do so, to send you information that we think you'll find interesting, and thereafter when we store your data on our secure servers. 
+Your networks and connections.
 
-We are notified with the Information Commissioner's Office, the regulator of the Data Protection Act 1998 and abide by its requirements. 
+We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device. 
 
-* ### What personal data do we collect?
+Information about payments.
 
-The Bauer Media Group collects both Personal Data and Anonymous Data when you send us information or when you visit one of our websites. When we talk about Personal Data we mean any information that can identify you as an individual, such as your name and postal address. Anonymous Data doesn't identify you as a person but it might be used in aggregate, for instance when you participate in a survey. 
+If you use our Services for purchases or financial transactions (like when you buy something on Facebook, make a purchase in a game, or make a donation), we collect information about the purchase or transaction. This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details. 
 
-* ### How do we keep it secure?
+Device information.
 
-Our servers are protected using HTTP and SSL technology, so whilst your data is in our care we know it's as secure as it can be. Our staff are trained in data security, and our staff policies and procedures help our staff to understand what is required of them under their obligations to us, and also their responsibilities under the Data Protection Act 1998 and other privacy legislation. 
+We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
 
-When we ask another organisation to provide a service for us, we ensure that they have appropriate security measures in place. If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be transferred with the correct protection in place, as stated UK law. 
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-The internet is not a totally secure medium and you acknowledge and agree that Bauer Media Group shall not be responsible for unauthorised use, distribution, damage or destruction of personal data, except to the extent that we are required to accept such responsibility under the Data Protection Act 1998. 
 
-* ### How do we collect and use your Personal Data?
 
-We collect your details when you register on one of our websites, or respond to one of our promotions. We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises. 
+Information from websites and apps that use our Services.
 
-If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from ourselves or from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services. 
+We collect information when you visit or use third-party websites and apps that use our Services (like when they offer our Like button or Facebook Log In or use our measurement and advertising services). This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us. 
 
-We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
+Information from third-party partners.
 
-Our iPad, Android and other "apps" may collect user data, which we use to learn about our readers and improve our apps. 
+We receive information about you and your activities on and off Facebook from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them. 
 
-To understand how our "apps" are used we may use the service of Flurry Analytics or Google Analytics to provide us with anonymous statistical information about your use of our app(s). 
+Facebook companies.
 
-You may opt-out of reporting by Flurry Analytics by following the instructions on their site <http://www.flurry.com/user-opt-out.html>
+We receive information about you from companies that are owned or operated by Facebook, in accordance with their terms and policies. [Learn more](https://web.archive.org/help/111814505650678) about these companies and their privacy policies. 
 
-As part of our Google Analytics tracking we have implemented the following features: Remarketing, Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising by visiting here <https://tools.google.com/dlpage/gaoptout/>
+###  How do we use this information? 
 
-We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. 
+We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
 
-* ### Do we share that data with any other companies?
+Provide, improve and develop Services.
 
-Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, run our SMS services, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the EEA or outside the EEA, where we require an EU approved model contract to be signed. 
+We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
 
-However, you expressly consent to the sharing of your Personal Data with those suppliers with whom we contract in order to provide services to you, otherwise we may not be able to provide the level of service that we know you'll require. 
+We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest that your friend tag you in a picture by comparing your friend's pictures to information we've put together from your profile pictures and the other photos in which you've been tagged. If this feature is enabled for you, you can control whether we suggest that another user tag you in a photo using the “Timeline and Tagging” settings. 
 
-If you send in a comment, we may post it on our site or use it as a testimonial without mentioning your full name or publishing any information that would identify you. Furthermore in some circumstances we may display some of your information such as your username and age. Others may be able to see your personal data if you post any information on bulletin boards or forums and may be used to send you unsolicited communications over which we have no control. 
+When we have location information, we use it to tailor our Services for you and others, like helping you to check-in and find local events or offers in your area or tell your friends that you are nearby. 
 
-Please take care when using social networking sites to which we may invite you to join that you do not disclose anything that you might later wish to retract. 
+We conduct surveys and [research](https://research.facebook.com/), test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities. 
 
-There are certain times when we may be legally required to disclose your data in good faith where it is required by law or to respond to subpoenas or warrants served on us, or where we have a requirement to protect or defend the rights of The Bauer Media Group or any users of our servers. We will always ensure that those requesting the information have the legal right to do so. 
+Communicate with you.
 
-If another company should acquire any of our companies or our assets, including our database, that company will have the right of possession to the Personal Data collected by us and will assume the rights and obligations formerly attributable to us and will use the data in line with the terms under which you submitted it or as described in this Privacy Policy. 
+We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us. 
 
-* ### The information we may collect from you about others
+Show and measure ads and services.
 
-Sometimes we may offer you the chance to invite a family member or a friend to enjoy a particular service. In such circumstances we will collect both your personal details and those of your friend or family member. We will ask your consent to mention your name when we contact the person or persons you have recommended and we will only use this information once and not save it in our database, unless they have entered a competition, for example, when the information will be stored purely for that purpose. If they decide to take up any of our invitations then their data will be treated exactly the same as your own, using the terms under which the data was collected and the information as described in this Privacy Policy. 
+We use the [information we have](https://web.archive.org/about/privacy/update#what-kinds-of-information-do-we-collect) to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services. [Learn more](https://l.facebook.com/l.php?u=ATP1VH48pfrJIVo6jHJ8A0JxGLOAWq7RFgfA8_7swE9nWIqFM6IxJhWFSIVVcC2hrUYl0JjpF76Wk_JMXQZY0g&h=ATNqDb3K_OJb-XzKULUgYm9GHLtOtHXrb3l8pPm62PhmrGoONj2Fn2eT23MBdcKdWSFKf90paVIpAdrajhFnpi-KHprIhuMh37g9SW97lVJFhti6hfuY6KmRYfzcVKmhDoEMyQ&s=1) about advertising on our Services and how you can [control](https://web.archive.org/ads/settings) how information about you is used to personalize the ads you see. 
 
-* ### Leaving our website and moving on to third party websites
+Promote safety and security.
 
-When you click on advertisements or links on any of our sites, you will leave that site and go to a third party site, which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, have no control over and our Privacy Policy does not apply to these companies, sites or content and if such third party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements, which accompany any registration and their Privacy Policies before you submit your personal information. 
+We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account. For more information about promoting safety on Facebook, visit the [Facebook Security Help Center](https://web.archive.org/help/379220725465972). 
 
-* ### Cookies and how we use them
+We use cookies and similar technologies to provide and support our Services and each of the uses outlined and described in this section of our policy. Read our [Cookie Policy](https://web.archive.org/policies/cookies/) to learn more. 
 
-"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+###  How is this information shared? 
 
-For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](http://static.bauercdn.com/cookiePolicy/policy.html). 
+Sharing On Our Services
 
-* ### How you can gain access to the personal data we collect about you
+People use our Services to connect and share with others. We make this possible by sharing your information in the following ways: 
 
-Under the Data Protection Act 1998, you have the right to see what information we hold about you and you may ask us to make any changes that you consider necessary to make the information accurate. If you want to apply to see the data we hold about you, please write to: 
+People you share and communicate with.
 
-The Data Protection Officer  
-Bauer Media Group  
-Media House  
-Lynchwood  
-Peterborough  
-PE2 6EA 
+When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post on Facebook, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use Messenger, you also choose the people you send photos to or message. 
 
-We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data, and we reserve the right to charge the statutory fee of £10 to provide this information. 
+[Public information](https://web.archive.org/help/203805466323736) is any information you share with a public audience, as well as information in your [Public Profile](https://web.archive.org/help/203805466323736), or content you share on a Facebook Page or another public forum. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV. 
 
-* If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Bauer Media Group. This will include your name, email address, date of birth and location which will then be used to form a Bauer Media Group identity. This will also allow Bauer Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. If you remove the Bauer Media Group app from your Facebook and or Google settings, we will no longer have access to this information. 
+In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post or like their content on Facebook, that person decides the audience who can see your comment or like. If their audience is public, your comment will also be public. 
 
-* ### Marketing to Children
+People that see content others share about you.
 
-We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
+Other people may use our Services to share content about you with the audience they choose. For example, people may share a photo of you, mention or tag you at a location in a post, or share information about you that you shared with them. If you have concerns with someone’s post, social reporting is a way for people to quickly and easily ask for help from someone they trust. [Learn More](https://web.archive.org/notes/facebook-safety/details-on-social-reporting/196124227075034). 
 
-* ### Using our websites from outside the UK
+Apps, websites and third-party integrations on or using our Services.
 
-Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
+When you use third-party apps, websites or other services that use, or are integrated with, our Services, they may receive information about what you post or share. For example, when you play a game with your Facebook friends or use the Facebook Comment or Share button on a website, the game developer or website may get information about your activities in the game or receive a comment or link that you share from their website on Facebook. In addition, when you download or use such third-party services, they can access your [Public Profile](https://web.archive.org/help/203805466323736), which includes your [username or user ID](https://web.archive.org/help/211813265517027), your age range and country/language, your list of friends, as well as any information that you share with them. Information collected by these apps, websites or integrated services is subject to their own terms and policies. 
 
-* ### Questions regarding this Privacy Policy
+[Learn more](https://web.archive.org/settings?tab=applications) about how you can control the information about you that you or others share with these apps and websites. 
 
-If you have comments or questions related to this Privacy Policy please email [datapromise@bauermedia.co.uk](mailto:datapromise@bauermedia.co.uk) and we will respond as promptly and as fully as we can. 
+Sharing within Facebook companies.
 
-* ### Changes to this Privacy Policy
+We share information we have about you within the family of companies that are part of Facebook. [Learn more](https://web.archive.org/help/111814505650678) about our companies. 
 
-This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our despatch of a communication to you will, in any event, constitute notification. 
+New owner.
 
-Any changes will be effective immediately. 
+If the ownership or control of all or part of our Services or their assets changes, we may transfer your information to the new owner. 
 
-This Privacy Policy was last revised in March 2016. 
+Sharing With Third-Party Partners and Customers
+
+We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world. 
+
+Here are the types of third parties we can share information with about you: 
+
+Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
+
+We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you. For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers, but only after the advertiser has agreed to abide by our [advertiser guidelines](https://web.archive.org/ad_guidelines.php). 
+
+Please review your [advertising preferences](https://web.archive.org/help/562973647153813/) to understand why you’re seeing a particular ad on Facebook. You can adjust your ad preferences if you want to control and manage your ad experience on Facebook. 
+
+Vendors, service providers and other partners.
+
+We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them. 
+
+###  How can I manage or delete information about me? 
+
+You can manage the content and information you share when you use Facebook through the [Activity Log tool](https://web.archive.org/help/437430672945092). You can also download information associated with your Facebook account through our [Download Your Information tool](https://web.archive.org/help/302796099745838). 
+
+We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services. 
+
+You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates. If you do not want to delete your account, but want to temporarily stop using Facebook, you may deactivate your account instead. To learn more about deactivating or deleting your account, click [here](https://web.archive.org/help/125338004213029). Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account. 
+
+###  How do we respond to legal requests or prevent harm? 
+
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases made with Facebook, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms. 
+
+###  How our global services operate 
+
+Facebook may share information internally within our family of companies or with third parties for purposes described in this policy. Information collected within the European Economic Area (“EEA”) may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. We utilize standard contract clauses approved by the European Commission, adopt other means under European Union law, and obtain your consent to legitimize data transfers from the EEA to the United States and other countries. 
+
+You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMcwJ5ShW3s3JXNPsFtmoRUI0xGN9YOMyVifJGloEwFRUjPRrK_fPUWGQ8hBT4PwSDwch3axKWxHmugRVP72hmvib3ixNCO72Ljce73AX7iuPXvHLA-tosl2cWun-4_Xl8L&s=1). 
+
+###  How will we notify you of changes to this policy? 
+
+We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services. 
+
+###  How to contact Facebook with questions 
+
+To learn more about how privacy works on Facebook, please check out [Privacy Basics](https://web.archive.org/about/basics). If you have questions about this policy, here’s how you can reach us: 
+
+If you live in the US or Canada… 
+
+Please contact Facebook, Inc. [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook, Inc.  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+If you live anywhere else… 
+
+The data controller responsible for your information is Facebook Ireland Ltd., which you can contact [online](https://web.archive.org/help/contact/173545232710000) or by mail at: 
+
+Facebook Ireland Ltd.  
+4 Grand Canal Square  
+Grand Canal Harbour  
+Dublin 2 Ireland 
+
+Date of Last Revision: September 29, 2016 
