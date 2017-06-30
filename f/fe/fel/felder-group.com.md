@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the felder-group.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630100656id_/http%3A//www.felder-group.com/fg-en/privacy-statement.html) for the most accurate reproduction.*
+
+# FELDER GROUP woodworking machines from Format Sliding Table Saws to Dust Extractors
+
+It is not necessary to enter any personal data in order to view the contents of our Internet site. In all cases where there is a possibility to enter personal or business data such as e-mail addresses, name and postal address, the entry of such information occurs expressly on a voluntary basis. Using and/or paying for the offered services and goods is allowed – as far as this is technically possible and reasonable and as far as this is permitted by law – even without entering personal data or by giving anonymous data or a pseudonym.
+
+We use your e-mail address to send you information about our own products and services. We will neither give your address to third parties nor send you advertising from third parties. At the end of each of our Newsletters we offer you the opportunity to cancel your subscription. Clicks onto the hyperlinks embedded in our e-mails or our Internet site are recorded anonymously, thereby ensuring that it is not possible to make any connections with personal user profiles.
+
+Use of Your Data  
+We use your personal data so that we are able to create more personalized bulletins, products and services. Besides the e-mail address, any additional personal details (not obligatory) you give us shall serve the sole purpose of helping us to address you correctly and personally. You may, of course, enter an alternate e-mail address and fictitious names.
+
+Transferring Data  
+We are obliged to ensure that your personal data remains confidential; we shall not sell or trade your personal data to/with third parties or otherwise infringe upon your personal rights. We shall neither rent our address lists to third parties nor send advertising from third parties to you.
+
+Consent  
+By entering your personal data, you grant us permission to save and use the data in compliance with current data protections laws. The data is personal and hence shall not be made accessible to third parties. You may at any time revoke the permission you granted us to save and use the data by asking us to delete your personal details. In the event that you request that we discontinue sending e-mails to the address you provided to us, we shall be obliged to deactivate this address.
+
+User Interaction  
+Our Internet server automatically registers any attempts to access the Web pages stored thereon. The information thus collected is anonymous and shall remain anonymous also when saved. It is not possible to connect this data with you as a person or your individual behaviour. For the distribution of our Newsletter we use a counter mechanism that stores the user’s interaction with it anonymously. More specifically, the system registers the hyperlinks the user clicks on, but in no way associates the clicks with the individual. We construct anonymous profiles of the usage of our Web pages and our Newsletter for the sole purpose of improving and optimizing our Web pages. Under no circumstances do we record the individual behaviour of the users.
+
+Social Plugins  
+This website makes use of social plug-in extensions of the social networking website Facebook.com. When opening one of our pages containing such a plug-in your browser creates a direct link to the Facebook servers. The content of this extension is been directly transmitted from Facebook to your browser which embeds it into the website. Through embedding of these plug-ins Facebook receives information that a specific page of our internet presence has been opened. If you are logged into Facebook it will attach the online visit to your Facebook account. All information according to interactive use of the plug-ins, e.g. if you click on the "I like it" button or make a comment, will be forwarded directly to Facebook by your browser where it will be stored. Please refer to Facebook privacy policy in reference to purpose and scope of data collection, processing and use of data through Facebook as well as your rights and privacy control options. If you do not wish Facebook to access your data through your website visit, please make sure to log out of your Facebook account before accessing our website.
