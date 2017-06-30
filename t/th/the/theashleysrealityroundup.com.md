@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205213954id_/http%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630220349id_/http%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Ashley's Reality Roundup
 
@@ -47,4 +47,4 @@ The Ashley’s Reality Roundup
 
 This document was last updated on June 20, 2011
 
-Privacy policy created by [http://www.generateprivacypolicy.com](http://www.generateprivacypolicy.com/)
+Privacy policy created by [privacypolicies.com](http://privacypolicies.com/)
