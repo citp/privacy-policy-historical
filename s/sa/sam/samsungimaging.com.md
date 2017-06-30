@@ -1,258 +1,379 @@
-> *The following text is extracted and transformed from the samsungimaging.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508064353id_/http%3A//www.samsungimaging.com/support/rules.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungimaging.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630171020id_/https%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - SamsungImaging | Samsung camera
+# About SAMSUNG - SAMSUNG
 
-**SAMSUNG ELECTRONICS CO., LTD. – WEBSITE PRIVACY POLICY**
+  
 
-This website is operated in UK by Samsung Electronics Co., LTD., whose principal place of business is at 416, Maetan-3dong, Yeongtong-gu, Suwon, Republic of Korea. This Privacy Policy applies to information about you which is collected and used by Samsung Electronics or by any other companies under the Samsung brand (“Samsung Group Companies”). A full list of Samsung Group Companies is available upon request.  
-This policy sets out how we use and protect any information about you that you give to us through your use of this website. If you have any questions or comments in relation to this policy, please contact webmaster@samsungimaging.com before using this website. This policy was last updated on 30th March 2010.  
-We may change this policy from time to time by updating this page. You are advised to check it from time to time in order to ensure that you are aware of any changes any that they are acceptable to you.  
-**[What information do we collect about you?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy01#privacy01)**  
-**[What do we do with your information?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy02#privacy02)**  
-**[How do we collect that information?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy03#privacy03)**  
-**[What about anonymous information?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy04#privacy04)**  
-**[What about information relating to children?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy05#privacy05)**  
-**[Who do we disclose your information to?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy06#privacy06)**  
-**[Direct marketing and your preferences](http://www.samsungmobile.co.uk/gr/privacy.do#privacy07#privacy07)**  
-**[How to get copies of or amend the information about you that we have collected](http://www.samsungmobile.co.uk/gr/privacy.do#privacy08#privacy08)**  
-**[What do we do to keep your information secure?](http://www.samsungmobile.co.uk/gr/privacy.do#privacy09#privacy09)**  
-**[Linking](http://www.samsungmobile.co.uk/gr/privacy.do#privacy10#privacy10)**  
-**[Cookies and web beacons](http://www.samsungmobile.co.uk/gr/privacy.do#privacy11#privacy11)**  
-**What information do we collect about you?**
 
-In general, you can use this website without giving us any information. However, on certain pages we will request information about you. We would only be able to provide you with our products and services (such as our uploading photos / videos, submitting contents including texts, viewing certain contents) through this website if we have certain information about you.
+#### PRIVACY POLICY & CHOICES – UPDATE: We have updated our privacy policy as of February 10, 2015 to make it more clear and readable.   
+Please take a few minutes to review it.
 
-The information that we collect is as set out on the relevant pages of this website and may include:
+## SAMSUNG PRIVACY POLICY HIGHLIGHTS
 
-• your name and contact information, including postal and email address, and telephone number(s);   
-• your birthday and gender, your personal or professional interests, and demographics  
-• your purchased Samsung and non-Samsung product information
+  
 
-Some of the information that we collect will be ‘Personal Data.’ This means data related to you and which identifies you. Unless otherwise indicated, we will not collect ‘Sensitive Personal Data’ from you. This includes information about your race, political opinions, health, religious and other beliefs or sexual orientation.
 
-In this policy we use the terms ‘Personal Data’ and ‘information about you’ interchangeably.
+## Scope
 
-**What do we do with your information?**
+This Privacy Policy applies to any Samsung device, website or online application that refers to or links to the Privacy Policy (collectively, our “Services”). The Privacy Policy applies regardless of whether you use a computer, mobile phone, tablet, TV, or other device to access our Services. Learn More
 
-We may use information about you for any of the following purposes:
+## Information We Collect
 
-• to register you on our website and to administer our website services (including processing any searches or requests for information about us, our products or services);   
-• for assessment and analysis of our market, customers, products and services (including asking you for your opinions on our products and services and carrying out customer surveys);   
-• to enable us to monitor, review and improve the products and services which we offer;   
-• for internal record keeping;   
-• (subject to the direct marketing section below) for marketing purposes;   
-• to enable us to fulfill our obligations under any contract with you (including any sale to you of our products or services) and as part of our customer care procedures related to any such contract;   
-• to conduct free prize draws, prize competitions, or promotions; and   
-• to consider employing you if you have provided information pursuant to an application for a job in our company or a Samsung Group Company.   
-All of the above apply equally to the use of information about you for such purposes by a Samsung Group Company.
+We collect various types of information in connection with the Services, including:
 
-**How do we collect that information?**
+  * Information you provide directly to us;
+  * Information we collect about your use of our Services; and
+  * Information we obtain from third-party sources.
 
-We collect information about you using various methods including:  
-• when you submit it through this website; and 
 
-• when you telephone us or correspond with us by means other than through this website. 
 
-We may combine information that we collect about you through this website with information that you provide to us by other means, or that is provided to us by third parties. We may store that information together in a combined database or in separate databases.
+We may also seek your consent to collect information not described in the Privacy Policy. Learn More
 
-We will not retain information about you for longer than is necessary for the purpose for which it was intended, or as required under any contract or by law.
+## Use and Sharing of Information 
 
-We will not collect an excessive amount of information from you nor information that is not relevant to the purposes for it was collected.
+We use the information we collect (and may combine it with other information about you) to, among other things:
 
-**What about anonymous information?**
+  * Provide the Services you request;
+  * Understand the way you use the Services so that we can improve your experience; and
+  * Provide customized content and advertising.
 
-We may automatically collect technical information from which you cannot be identified when you connect to this website. An example is the domain name of another website from which you linked to this website. We collect this information to help us with identifying this website user’s browsing preferences. The information is used for internal purposes only so that we can carry out research on your demographics, behaviour and interests. Anonymous or generic information from which you cannot be personally identified is not Personal Data and is therefore outside the scope of this policy.
 
-**What about information relating to children?**
 
-We encourage all parents and guardians to instruct their children in the safe and responsible use of their Personal Data whilst using the internet. We will not (through our website or otherwise) intentionally collect information which relates to or which originates from a child unless we have the consent of the child’s parent or guardian. If we become aware that a user of our website is a child who is using this website without the consent of his parent or guardian we will use reasonable endeavours to delete as soon as possible any information submitted by that child and to ensure that such information is not transferred to anyone else nor used by us (for direct marketing or otherwise). Please tell us as soon as you become aware that a child has submitted information about himself through our website without the consent of his parent or guardian. You can contact us in the ways outlined at the beginning of this policy.
+We also use the information we collect in ways described to you at the point of collection, or otherwise with your consent.
 
-**Who do we disclose your information to?**
+We may share your information with: 
 
-We will not disclose to any third parties Personal Data which relates to you without your consent, except:
+  * Affiliates—the Samsung family of companies.
+  * Business partners—trusted companies that may provide information about products and services you might like.
+  * Service providers—companies that provide services for or on behalf of Samsung.
+  * Law enforcement—when we are required to do so or to protect Samsung and its users.
 
-• to a Samsung Group Company;   
-• where it is necessary to enable any of our staff, employees, agents, contractors, suppliers or commercial partners to provide a service to us or to perform a function on our behalf (including fulfilling orders for products or services purchased through this website; processing debit or credit card payments related to the same; providing marketing assistance, market research or customer services; and administering any accounts, supplying products or services that we provide to you now or in the future, or any free prize draws, prize competitions or promotions);   
-• where we consider disclosure of your information to other businesses, financial organisations or law enforcement agencies to be necessary or desirable with a view to the prevention or detection of fraud;   
-• to our professional advisers;   
-• to the purchaser or potential purchaser of our business;   
-• where it is necessary in order to pursue our legitimate interests; or   
-• if we are required to or are permitted to by law. 
 
-Any disclosure of your Personal Data by us to a carefully selected third party or to any third party on the above list, we will comply with data protection law by ensuring that there are contractual provisions in place to ensure that the third party:
 
-• does not use your Personal Data for any purpose other than purposes that we specify and in accordance with the purposes outlined in this policy, and   
-• has appropriate security provisions in place in order to guard against unauthorised or unlawful processing of your Personal Data and against accidental loss or destruction of, or damage to, your Personal Data. 
+Learn More
 
-If we disclose your Personal Data to a Samsung Group Company or a third party which is outside the European Economic Area, we will not do so until we have taken steps to ensure that your Personal Data will be afforded the same level of protection as that required from us by data protection law.
+## Additional Information About Specific Services
 
-We will take all reasonable precautions to ensure that our staff and employees who have access to information about you have received adequate training to ensure that they process that information only in accordance with this policy and with our obligations under data protection law. We may take disciplinary action against our staff and employees in the event of non-compliance, should we consider this to be appropriate.
+  
 
-**Direct marketing and your preferences**
 
-**1\. Direct marketing**
+  * AdHub
+  * SmartTV
+  * When appropriate, we may also provide just-in-time notices prior to collection of certain data.
 
-We may use information about you which we hold in order to provide you with information about products, promotions, special offers and other information which relates to our products or services or which we believe may be of interest to you.
 
-We may send you such information by:
 
-• email;   
-• telephone (including automated calls which means a call which delivers a pre-recorded message with marketing content to your telephone);   
-• SMS text message and/or any other form of electronic messages (including MMS, picture messages, video messages; instant messages and next generation messages);   
-• post;   
-• fax;   
-• smartphone applications; social networking websites; Web 2.0; any mobile telephone media content not referred to elsewhere in this list or   
-• any other method which becomes relevant from time to time. 
+## How to Contact Us
 
-**2\. Your direct marketing preferences**
+  
 
-When you provide us with information about yourself, you will usually be given the option to let us know that you do not want that information to be used for direct marketing purposes whether by ourselves or by any third party (including our commercial partners). We will only use that information for the purpose of direct marketing in accordance with your preferences or where we are otherwise permitted to do so by law. Where your consent is required, we will usually ask for it by asking to you tick an “opt-in” box on the pages of this website where we ask for information about you. The “opt-in” box may or may not be split between different classes of information or different means of marketing.
 
-By ‘preferences’ we mean whether or not you have “opted in” and as such whether we can or cannot send direct marketing to you.
+Email: through the “Contact Us” section of [Samsung.com](https://web.archive.org/us/support/contact)
 
-You can change your mind about your preferences (as defined above) in respect of direct marketing by contacting us by email at webmaster@samsungimaging.com. You can do this at any time. In addition, if you receive direct marketing from us by email or by SMS message, you will be reminded in the email or SMS message that you are able to request a change to your preferences by yourself. If you do change your mind about your preferences, we would not remove your Personal Data from our data base(s) but we would note your changed preferences as soon as reasonably possible.
+Samsung Electronics America, Inc.   
+85 Challenger Road  
+Ridgefield Park, NJ 07660 
 
-**How to get copies of or amend the information about you that we have collected**
+* * *
 
-Under data protection law you have the right to request details of Personal Data which we hold about you. We will comply with your request promptly and by no later than 40 days from receipt of any such request. If you would like to make any such request please write to us at webmaster@samsungimaging.com.
+Samsung Electronics Co. Ltd. and our affiliates [ (“Samsung,” “we,” “us,” “our”) know how important privacy is to our customers, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy provides an overview of our information practices. The Privacy Policy applies to Samsung devices, websites or online applications that refer to or link to the Privacy Policy (collectively, our “Services”). 
 
-**What do we do to keep your information secure?**
+While this Privacy Policy applies to all our Services, we also have provided certain specific privacy supplements that contain additional information about our practices in connection with particular Services. These supplements apply to your use of the Services they cover. Additional consent will be obtained for certain data processing activities. 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access, use, alteration, destruction or disclosure we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect through this website. This has been done with a view to preventing unauthorised or unlawful processing of you Personal Data and accidental loss or destruction of, or damage to, you Personal Data. Whilst we have done all of this, we cannot guarantee that your information is secure.
+Please note that the Privacy Policy applies to your usage of Samsung devices (which are among the Services covered by this Privacy Policy, along with our websites and online applications). It also applies regardless of whether you use a computer, mobile phone, tablet, TV, or other device to access our Services. It is important that you read the Privacy Policy carefully because anytime you use our Services, you consent to the practices we describe in the Privacy Policy and the supplements. If you do not agree to the practices described in the Privacy Policy, you should not use our Services. 
 
-We protect the security of your information by:
+It also is important that you check back often for updates to the Privacy Policy. If we update the Privacy Policy we will let you know about changes we consider to be material by placing a note on relevant Services. By accessing or using our Services after we have placed such a notice, you consent to the new practice(s) identified in the update. The most current version of the Privacy Policy will always be available on Samsung.com [[www.samsung.com/us/common/privacy.html](http://www.samsung.com/us/common/privacy.html)]. You can check the “effective date” posted at the top to see when the Privacy Policy was last updated. 
 
-• using encryption where appropriate;   
-• using password protection where appropriate; and   
-• limiting access to your information (for example, only our staff or employees who need access to it for the purposes described above will have access to it). 
+## Samsung Privacy Policy
 
-Please help us to keep your information secure by not using an obvious login name or password, by changing your password regularly and ensuring that you do not divulge your password to any other person.
+## 1\. WHAT INFORMATION DO WE COLLECT ABOUT YOU?
 
-**Linking**
+  
 
-This website may link to other websites which are outside our control, and other websites outside our control may link to this website. Whilst we try to ensure that we link only to websites which share our privacy and security standards, once you have left this website we cannot be responsible for the protection and privacy of any information which you provide on other websites. You should exercise caution and review the privacy statement applicable to the website in question.
 
-**Cookies and web beacons**
+## Information you provide directly
 
-We use cookies for certain areas of our website. Cookies are files that store information on your hard drive or browser. They enable this website to recognise that you have visited it before. Cookies help us to understand which sections of this website are the most popular because they allow us to see which pages visitors are accessing and how much time they are spending on them. By studying these we are better able to adapt this website to suit your demands and provide you with a more customised user experience. For example, cookies allow us to ensure that the information displayed on your next visit to this website will match up with your user preferences.
+Some Services enable you to give us information directly. For example: 
 
-You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For example, on Microsoft Internet Explorer, you can disable or delete cookies by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. Please note however that this website is designed to work using cookies and any disabling of them may affect your usage of this website and prevent you from taking full advantage of it.
+  * A number of our Services enable users to create accounts or profiles. In connection with these Services, we may ask you to provide certain information about yourself to set up the account or profile. For example, you can submit certain information about yourself, such as your name and email address, when you create a Samsung Account.
+  * If you order a product or paid service from us, we may ask for your name, contact information, shipping and billing address(es), and credit card information in order to process your order.
+  * Some of our Services enable you to communicate with other people. Those communications will be transmitted through and stored on our systems. 
 
-This website and the communications generated from using and/or registering on this website, such as promotional emails, may contain electronic images known as "web beacons". Web beacons generally work in conjunction with cookies, and we may use them with cookies to (for example):
 
-• count the number of visitors to this website;   
-• see whether you have acted on an email or clicked on a link, for example where this is a condition of entering a competition;   
-• find out how successful a specific marketing campaign or a competition has been;   
-• establish interest levels for particular items or aspects of this website or particular products and services available on this website;   
-• assess whether advertisements or competitions result in sales; or   
-• understand how popular a product or service is, and how interest levels vary between particular Samsung products and services. 
 
-**SAMSUNG BADA SERVER PRIVACY POLICY**
+## Information about your use of the Services
 
-Last updated 1 June 2009
+In addition to the information you provide, we may collect information about your use of our Services through software on your device and other means. For example, we may collect:
 
-This Samsung BADA Server(“BADA Server”) is operated by or on behalf of Samsung Electronics Co., Ltd, whose principal place of business is at 416 Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, 443-742 Korea. This policy applies to information about you which is collected by us, by any company within the Samsung Electronics group of companies, or by any other company under the Samsung brand (“Samsung Group Companies”). A full list of Samsung Group Companies is available upon request.
+  * **Device information** —such as your hardware model, IMEI number and other unique device identifiers, MAC address, IP address, operating system version, and settings of the device you use to access the Services. 
+  * **Log information** —such as the time and duration of your use of the Service, search query terms you enter through the Services, and any information stored in cookies that we have set on your device. 
+  * **Location information** —such as your device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services. 
+  * **Voice information** —such as recordings of your voice that we make (and may store on our servers) when you use voice commands to control a Service. (Note that we work with a third-party service provider that provides speech-to-text conversion services on our behalf. This provider may receive and store certain voice commands.)
+  * **Other information** —about your use of the Services, such as the apps you use, the websites you visit, and how you interact with content offered through a Service. 
 
-This policy sets out how we use and protect any information about you that you give to us through your use of the BADA Server. If you have any questions or comments in relation to this policy, please contact [SDIC] services department at webmaster@samsungimaging.com before using the BADA Server.
 
-We may change this policy from time to time by updating this page. You are advised to check it from time to time in order to ensure that you are aware of any changes and that they are acceptable to you.
 
-What information do we collect about you?
+## Information from third-party sources
 
-In general, you can view parts of the BADA Server by giving us any information. On certain pages we will request information about you, for example, the registration pages. We will only be able to provide you with our BADA Server environment if you have completed and submitted the information required for the registration process and this is accepted by us in accordance with our BADA Server terms and conditions.
+We may receive information about you from publicly and commercially available sources (as permitted by law), which we may combine with other information we receive from or about you. We also may receive information about you from third-party social networking services when you choose to connect with those services. 
 
-Some of the information that we collect will be ‘Personal Data.’ This means data related to you and which identifies you. In this policy, we use the terms ‘Personal Data’ and ‘information about you’ interchangeably.
+## Other Information We Collect
 
-What do we do with your information?
+  
 
-We may use information about you for any of the following purposes:
 
-• to register you on our BADA Server, to administer our BADA Server services (including processing any searches or requests for information about our products or services), and to allow you to use those services (e.g. blogs, open forums and discussion pages);
+We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. 
 
-• for assessment and analysis of our market, customers, products and services (including asking you for your opinions on our products and services and carrying out customer surveys);
+You can choose not to provide us with certain types of information (e.g., information we request during Samsung Account registration), but doing so may affect your ability to use some Services. 
 
-• to enable us to monitor, review and improve the products and services which we offer;
+## How do we use your information?
 
-• for internal record keeping;
+We may use information we collect for the following purposes:
 
-• [(subject to the direct marketing section below)] for marketing purposes;
+  * to register you or your device for a Service;
+  * to provide a Service or feature you request; 
+  * to provide customized content and make recommendations based on your past activities on our Services;
+  * for advertising, such as providing customized advertisements and sponsored content (including through our advertising service, AdHub, whose practices you can learn more about here) and sending you promotional communications; 
+  * for assessment and analysis of our market, customers, products, and services (including asking you for your opinions on our products and services and carrying out customer surveys);
+  * to understand the way people use our Services so that we can improve them and develop new products and services;
+  * to provide maintenance services for your device; 
+  * to conduct free prize drawings, prize competitions or promotions, as permitted by law; and 
+  * otherwise with your consent. 
 
-• to conduct free prize draws, prize competitions, or promotions; and
 
-• to consider employing you if you have provided information pursuant to an application for a position with us.
 
-All of the above apply equally to the use of information about you for such purposes by a Samsung Group Company.
+We may combine information we collect from you and use it for purposes consistent with this Privacy Policy. We may request your additional consent with respect to such combination. After you have consented to such information combination, you will be given the opportunity to disable such combination either through the settings menus of certain applicable devices or by visiting here[<https://account.samsung.com/membership/service/dataCombination.do>]. 
 
-How do we collect the information?
+## To whom do we disclose your information?
 
-We collect information about you using various methods, including:
+We will not disclose your information to third parties for their own independent marketing or business purposes without your consent. However, we may disclose your information to the following entities:
 
-• when you submit it through the BADA Server; and
+  * **Affiliates.** Your information may be shared among Samsung affiliates.
+  * **Business Partners.** We also may share your information with trusted business partners, including wireless carriers. These entities may use your information to provide you with services you request (e.g., video content provided by Netflix through SmartTV), make predictions about your interests and may provide you with promotional materials, advertisements and other materials. 
+  * **Service providers.** We also may disclose your information to companies that provide services for or on behalf of us, such as companies that help us with billing or that send emails on our behalf. These entities are limited in their ability to use your information for purposes other than providing services for us. 
+  * **Other Parties When Required by Law or as Necessary to Protect Our Services.** There may be instances when we disclose your information to other parties: 
+    * to comply with the law or respond to compulsory legal process (such as a search warrant or other court order); 
+    * to verify or enforce compliance with the policies governing our Services; and
+    * to protect the rights, property, or safety of Samsung, or any of our respective affiliates, business partners, or customers.
+  * **Other Parties in Connection With Corporate Transactions.** We may disclose your information to a third party as part of a merger or transfer, or in the event of a bankruptcy.
+  * **Other Parties With Your Consent or At Your Direction.** In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you consent to or request such sharing. 
 
-• when you telephone or email us, or correspond with us by means other than through this BADA Server.
 
-We may combine information that we collect about you through this BADA Server with information that you provide to us by other means, or that is provided to us by third parties. We may store that information together in a combined database or in separate databases.
 
-We will not retain information about you for longer than is necessary for the purpose for which it was intended, or as required under any contract or by law (and we will usually delete data once a user tells us that that he/she will no longer be using this service). We will not collect an excessive amount of information from you nor information that is not relevant to the purposes for it was collected.
+## Your Choices
 
-What about anonymous information?
+We offer a variety of choices about how we use your information. You can make choices about whether to receive promotional communications from us by following the unsubscribe instructions included in the communication. In addition, you can also generally make choices in your settings , or by visiting relevant webpages as listed below;
 
-We may automatically collect technical information from which you cannot be identified when you connect to this BADA Server. An example is the domain name of another Server from which you linked to this BADA Server. We collect this information to help us with identifying users’ browsing preferences. The information is used for internal purposes only so that we can carry out research on your demographics, behaviour and interests. Anonymous or generic information from which you cannot be personally identified is not Personal Data and is therefore outside the scope of this policy.
+  * with respect to targeted advertising that may interest you, for example by [AdHub](https://account.samsung.com/membership/etc/setPersonalOption.do?openPage=adsCombination); and 
+  * with respect to choice for the combination of your information across services and devices for the purposes set out in the [Privacy Policy.](https://account.samsung.com/membership/service/dataCombination.do)
 
-To whom do we disclose your information?
 
-We will not disclose to any third parties Personal Data which relates to you without your consent, except:
 
-• to a Samsung Group Company;
+And you may be able to make choices in specific Services or when we give you a just-in-time notice. 
 
-• where it is necessary to enable any of our staff, employees, agents, contractors, suppliers or commercial partners to provide a service to us or to perform a function on your behalf (including providing marketing assistance, market research or customer services; and administering your membership, supplying products or services that we provide to you now or in the future, or any free prize draws, prize competitions or promotions);
+## What do we do to keep your information secure?
 
-• to our professional advisers;
+We have put in place reasonable physical and technical measures to safeguard the information we collect in connection with the Services. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system or wireless connection is completely secure. 
 
-• to the purchaser or potential purchaser of our rights and obligations relating to this BADA Server; or
+## Your California Privacy Rights
 
-• where it is necessary in order to pursue our legitimate interests or if we are required to or are permitted to do so by law.
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of personally identifiable information to third parties for their direct marketing purposes in the preceding calendar year (e.g., requests made in 2013 will receive information about 2012 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to [NAPrivacy@sea.samsung.com](mailto:NAPrivacy@sea.samsung.com). We may need additional information to process your request. 
 
-You acknowledge that any information that you submit into any environment that is visible to others (e.g. blogs, forums and discussion pages) will result in such information being published in like manner. You should take common sense precautions about the information you provide in such environments and acknowledge that your information will be published in such a way for others to see.
+## Third-Party Links and Products on Our Services
 
-For any disclosure of your Personal Data by us to a carefully selected third party or to any third party on the above list, we will comply with data protection law by ensuring that there are arrangements in place to ensure that the third party does not use your Personal Data for any purpose other than purposes that we specify and in accordance with the purposes outlined in this policy, and keep it secure.
+  
 
-If we disclose your Personal Data to a Samsung Group Company or a third party which is outside the area where is governed by data protection law, we will not do so until we have taken steps to ensure that your Personal Data will be afforded the same level of protection as that required from us by data protection law. We will take all reasonable precautions to ensure that our staff and employees who have access to information about you have received adequate training to ensure that they process that information only in accordance with this policy and with our obligations under data protection law. We may take disciplinary action against our staff and employees in the event of non-compliance, should we consider this to be appropriate.
 
-Direct Marketing: [Samsung BADA Server Mailing Service]
+Our Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use. 
 
-We may use information about you which we hold in order to provide you with information about products, promotions, and other such information which we believe may be of interest to you if you select to receive such information by email and/or post when you complete the registration process.
+We also may make available to you certain products or services (e.g., apps available through Samsung Apps) developed by third parties. Samsung is not responsible for these third-party products or services.
 
-You can change your mind about your preferences in respect of direct marketing by using the unsubscribe information on every such mailing or by updating your user profile. You can do this at any time. If you do so, we would not remove your Personal Data from our database(s) but we would note your changed preferences as soon as reasonably possible.
+## Third Parties that Provide Content, Advertising or Functionality on Our Services
 
-Accessing your information
+Some of the content, advertising, and functionality on our Services may be provided by third parties that are not affiliated with us. For example: 
 
-Under certain data protection laws you may have the right to request details of Personal Data which we hold about you. If we are permitted by law, we may charge you a small fee. If you would like to make any such request, please write to our Data Protection Compliance Officer by webmaster@samsungimaging.com
+  * We enable you to watch video content provided by companies such as Netflix through SmartTV; 
+  * Third parties develop apps that we make available through the Samsung App Store;
+  * Certain third parties may serve advertising or keep track of which advertisements users see, how often they see those advertisements, and what users do in response to them; and
+  * We enable you to share certain materials on the Services with others through social networking services such as Facebook, Twitter, Google +, and LinkedIn. 
 
-Please help us to ensure that the information about you that we hold is accurate and up to date. If you think that any information we have about you is incorrect or incomplete, please write to our Data Protection Compliance Officer in the manner set out above. We will correct or update any information about you as soon as reasonably possible.
 
-What do we do to keep your information secure?
 
-We are committed to ensuring that your information is secure. In order to do so, we have put in place reasonable procedures to safeguard and secure the information we collect through the BADA Server. This has been done with a view to preventing unauthorised or unlawful processing of your Personal Data and accidental loss or destruction of, or damage to, your Personal Data. Whilst we have done all of this, we cannot guarantee that your information is secure when submitted or otherwise communicated through insecure means.
+These third-parties may collect or receive certain information about your use of the Services, including through the use of cookies, beacons, and similar technologies, and this information may be collected over time and combined with information collected across different websites and online services. Some of these companies participate in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising. Please visit the websites operated by the Network Advertising Initiative [[http://networkadvertising.org](http://networkadvertising.org/)] and Digital Advertising Alliance [<http://www.daa.sg/>] to learn more. 
 
-We protect the security of your information by:
+If you connect with a social networking service, we may receive and store authentication information from that service to enable you to log in, as well as other information that you allow us to receive when you connect with these services.
 
-• using encryption where appropriate;
+Also, please note that if you choose to connect with a social networking service on a device used by people in addition to you, those other users may be able to see information stored or displayed in connection with your account on the social networking service(s) with which you connect. 
 
-• using password protection where appropriate; and
+## Children
 
-• imiting access to your information (for example, only our staff or employees who need access to it for the purposes described above will have access to it).
+We do not knowingly collect any personal information from children under the age of thirteen (13) without parental consent, unless permitted by law. If we learn that a child under the age of thirteen (13) has provided us with personal information, we will delete it in accordance with applicable law.
 
-You must also take appropriate steps to keep your information secure by not using an obvious login name or password, by changing your password regularly, and ensuring that you do not divulge your password to any other person.
+## Cookies, Beacons and Similar Technologies 
 
-Linking
+We, as well as certain third parties that provide content, advertising, or other functionality on our Services, may use cookies, beacons, and other technologies in certain areas of our Services. 
 
-This BADA Server may link to other servers which are outside our control. Whilst we try to ensure that we link only to servers that share our privacy and security standards, once you have left this BADA Server we cannot be responsible for the protection and privacy of any information which you provide on other servers. You should exercise caution, and review the privacy statement applicable to the server in question.
+Cookies
 
-Cookies and web beacons
+Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognize you across different websites, services, devices, and/or browsing sessions. Cookies serve many useful purposes. For example: 
 
-We use cookies for certain areas of our BADA Server. Cookies are files that store information on your hard drive or browser. They enable this BADA Server to recognise that you have visited it before. Cookies help us to understand which sections of this BADA Server are the most popular because they allow us to see which services visitors are accessing and how much time they are spending on them. By studying these we are better able to adapt this BADA Server to suit your demands and provide you with a more customised user experience. For example, cookies allow us to ensure that the information displayed on your next visit to this BADA Server will match up with your user preferences.
+  * Cookies can remember your sign-in credentials so you don’t have to enter those credentials each time you log on to a service. 
+  * Cookies help us and third parties understand which parts of our Services are the most popular because they help us to see which pages and features visitors are accessing and how much time they are spending on the pages. By studying this kind of information, we are better able to adapt the Services and provide you with a better experience. 
+  * Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
+  * Cookies help us and third parties provide you with relevant content and advertising by collecting information about your use of our Services and other websites and apps. 
 
-You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For example, on Microsoft Internet Explorer, you can disable or delete cookies by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. Please note, however, that this BADA Server is designed to work using cookies and any disabling of them may affect your usage of this BADA Server and prevent you from taking full advantage of it. We do not exchange cookies with any third party servers or external data suppliers, except with third parties working with us to provide services to you.
 
-This BADA Server and the communications generated from using and/or registering on this BADA Server, such as promotional emails, may contain electronic images known as "web beacons". Web beacons generally work in conjunction with cookies, and we may use them in the same way we use cookies (see above).
+
+When you use a web browser to access the Services, you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. The operating system of your device may contain additional controls for cookies.
+
+Please note, however, that some Services may be designed to work using cookies and that disabling cookies may affect your ability to use those Services, or certain parts of them. 
+
+Other Local Storage
+
+We, along with certain third parties, may use other kinds of local storage technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Flash cookies, please click [here.](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
+
+Beacons
+
+We, along with certain third parties, also may use technologies called beacons (or “pixels”) that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and certain third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you.
+
+ **By accessing and using our Services, you consent to the storage of cookies, other local storage technologies, beacons and other information on your devices. You also consent to the access of such cookies, local storage technologies, beacons and information by us and by the third parties mentioned above.**
+
+## Do Not Track Signals and Similar Mechanisms
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. Samsung currently does not take action in response to these signals, but, if and when a standard is established and accepted, we may reassess how to respond to these signals.
+
+## Further information
+
+  
+
+
+If you have any specific questions, please contact us at:
+
+Samsung Electronics America  
+85 Challenger Rd  
+Ridgefield Park, NJ 07660
+
+Email: through the “[Contact Us](http://www.samsung.com/us/support/contact)” section of Samsung.com.
+
+## Key Terms
+
+**[Provide customized content and make recommendations]:** We may use information we collect to provide you with customized content and make recommendations that are based in part on your past activities on our Services. For example, Samsung Hub provides you with recommendations about video, music, applications and third-party content that we think will interest you. Your SmartTV provides recommendations about video content you might like. Please visit the settings menu on your device or service for information about privacy choices you may have available to you in connection with these services. 
+
+**[Improve them and develop new products and services]:** We may use information we collect to understand the way you use the products and services we offer so that we can improve them and develop new products and services. For example, we may use this information to make better-informed decisions about the design of our devices and the selection of Samsung and third-party content that is accessible through our devices and services.
+
+**[Affiliates]:** The term ‘affiliates’ refers to companies related to Samsung Electronics Co. Ltd. by common ownership or control. Our affiliates include companies with the Samsung Electronics name, such as Samsung Electronics (UK) Limited. Affiliates may also include other companies related by common ownership or control, such as Samsung Information Systems America.
+
+## Samsung Global Privacy Policy--AdHub Supplement
+
+  
+
+
+Samsung’s AdHub service enables advertisers to reach Samsung users across various Samsung and third-party platforms, including the web, mobile devices, tablets, and TVs. Among other things, AdHub enables advertisers to send you advertisements that are customized based on information Samsung receives about you, your device, and your online activities.
+
+We collect, use, share and store the information we receive through AdHub in the ways we describe in the Samsung Privacy Policy. The Privacy Policy applies to AdHub, but this Supplement provides additional details about AdHub’s privacy practices [and explains your choices with respect to those practices]. 
+
+## Information AdHub Collects
+
+  
+
+
+Device Information
+
+When you use a Samsung service that includes ads provided by AdHub, AdHub receives certain information about your device. This information may include the device’s hardware model, IMEI number and other unique device identifiers, MAC address, IP address, operating system version, and settings.
+
+In addition, the first time you visit a service that displays ads by AdHub, Ad Hub will assign your device a random ID number, which will be sent back to AdHub each time your device gets a new ad from AdHub. This allows AdHub to recognize your device across different websites or applications and serve you ads that are relevant to your needs and interests.
+
+AdHub may collect some of this information using cookies, beacons and similar technologies. Please see the Samsung Privacy Policy for more information about how these work and how you can control their use.
+
+Ad Information.
+
+When AdHub displays an ad to you, AdHub logs the fact that your device received that ad, as well as the webpage or other place where you viewed it.
+
+## Information Shared with Third-Party Partners
+
+AdHub may share information about the number of users who see particular ads (or ad campaigns) with our third-party partners. This information is shared in aggregate form only, meaning that no device information is shared with the advertiser. 
+
+## Information Collected By Other Companies
+
+Third-party advertisers may use web beacons in their ads in order to collect information about users who view their ads, including through cookies, beacons and similar technologies. Samsung does not control the data collection and use practices of these companies. Some of these companies participate in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising. Please visit the websites operated by the Network Advertising Initiative [[http://networkadvertising.org](http://networkadvertising.org/)] and Digital Advertising Alliance [<http://www.daa.sg/>] to learn more. 
+
+## Your Choices
+
+You can opt out of receiving targeted advertising from AdHub here [<https://account.samsung.com/membership/etc/setPersonalOption.do?openPage=adsCombination>]. Please note that if you opt out, you will continue to see ads, but they may be less relevant to you because they will not be based on your interests. 
+
+## Samsung Privacy Policy--SmartTV Supplement
+
+Samsung makes available Internet-connected televisions and Blu-Ray players and other similar technologies that connect to your television set (collectively, the “SmartTV services” or “SmartTV”). Samsung’s SmartTV services offer features that may enhance video content, customized TV, movie, and other content recommendations, connections to social networking services, and the ability to control and interact with your SmartTV with gestures and voice commands. We collect, use, share, and store information through your SmartTV in the ways described in the Samsung Privacy Policy. This Supplement provides additional details about the privacy practices of some SmartTV features. 
+
+## Recommendations and Customized Content
+
+  
+
+
+The SmartTV is designed to enable you to easily find and access video programming and other content. For example, you may access information about live television programs distributed to you by your cable or satellite operator and on-demand video content offerings distributed by third-party content providers through searchable guides displayed on your SmartTV.
+
+In the case of live television programs, we determine what content is available to you based in part on your zip code. In addition, the SmartTV helps make the searchable guides and other SmartTV content more relevant to you by highlighting programming and content that is likely to interest you, such as episodes of programs that you may have missed and new programs, applications and other content that we believe you will find of interest. We base these recommendations on:
+
+  * Information about content that you have watched, purchased, downloaded, or streamed through Samsung applications on your SmartTV or other devices; 
+  * Information about applications you have accessed through the SmartTV panels; 
+  * Information about your clicks on the “Like,” “Dislike,” “Watch Now,” and other buttons on your SmartTV; 
+  * The query terms you enter into SmartTV search features, including when you search for particular video content; and 
+  * Other SmartTV usage and device information, including, but not limited to, IP address, information stored in cookies and similar technologies, information that identifies your hardware or software configuration, browser information, and the page(s) you request. 
+
+
+
+In addition, if you enable the collection of information about video streams viewed on your SmartTV, we may collect that information and additional information about the network, channels, and programs that you view through the SmartTV. We will use such information to improve the recommendations that we deliver to you on the SmartTV.
+
+Please visit the “settings” menu of your SmartTV for choices that may be available to you if you do not wish to continue to receive personalized recommendations on your SmartTV. If you disable personalized recommendations, then the information and content displayed on your SmartTV may not be as relevant to you. Samsung may still collect information about your usage of the SmartTV for the purposes described in this Samsung Privacy Policy.
+
+## SyncPlus and Interactive Marketing
+
+**By enabling SyncPlus or other marketing features, you may make the content and advertising that you receive on your SmartTV and other devices when you are watching SmartTV more interactive. TV programming providers or advertisers can enhance video programs by providing interactive content, such as in-program trivia, show insights, games, and promotions, on your SmartTV or other devices. Similarly, advertisers can enhance their ads by enabling users to take immediate action (e.g., downloading a coupon or app) in response to an ad.
+
+To make these kinds of enhancements available, we provide video or audio snippets of the program you’re watching to third-party providers that use this information in order to return content or advertising “synched” to what you’re watching. These providers may receive information about your device (e.g., its IP address and device identifiers) and your interactions with the content and advertising they provide. You may disable these interactive marketing features at any time by visiting the “settings” menu. The choices you make with respect to interactive marketing features will not affect whether you receive other types of ads and marketing on your SmartTV. 
+
+**
+
+## Voice Recognition
+
+  
+
+
+You can control your Smart TV, and use many of its features, with voice commands. 
+
+If you enable Voice Recognition, you can interact with your Smart TV using your voice. To provide you the Voice Recognition feature, some interactive voice commands may be transmitted (along with information about your device, including device identifiers) to a third-party service provider (currently, Nuance Communications, Inc.) that converts your interactive voice commands to text and to the extent necessary to provide the Voice Recognition features to you. In addition, Samsung may collect and your device may capture voice commands and associated texts so that we can provide you with Voice Recognition features and evaluate and improve the features.  Samsung will collect your interactive voice commands only when you make a specific search request to the Smart TV by clicking the activation button either on the remote control or on your screen and speaking into the microphone on the remote control. 
+
+If you do not enable Voice Recognition, you will not be able to use interactive voice recognition features, although you may be able to control your TV using certain predefined voice commands. 
+
+You may disable Voice Recognition data collection at any time by visiting the “settings” menu. However, this may prevent you from using some of the Voice Recognition features. 
+
+## Gesture Controls and Facial Recognition
+
+  
+
+
+Your SmartTV is equipped with a camera that enables certain advanced features, including the ability to control and interact with your TV with gestures and to use facial recognition technology to authenticate your Samsung Account on your TV. The camera can be covered and disabled at any time, but be aware that these advanced services will not be available if the camera is disabled.
+
+ **Gesture Control.** To provide you with the ability to control your SmartTV through gestures, the camera mounted on the top of your SmartTV can recognize your movements. This enables you, for example, to move between panels and zoom in or zoom out. We record information about when and how users use gesture controls so that we can evaluate the performance of these controls and improve them. 
+
+**Facial Recognition.** The camera situated on the SmartTV also enables you to authenticate your Samsung Account or to log into certain services using facial recognition technology. You can use facial recognition instead of, or as a supplementary security measure in addition to, manually inputting your password. Once you complete the steps required to set up facial recognition, an image of your face is stored locally on your TV; it is not transmitted to Samsung. If you cancel your Samsung Account or no longer desire to use facial recognition, please visit the applicable settings menu to delete the stored image. While your image will be stored locally, Samsung may take note of the fact that you have set up the feature and collect information about when and how the feature is used so that we can evaluate the performance of this feature and improve it.
+
+## Fitness Services
+
+To provide you with personalized fitness recommendations, SmartTV services enable you to create a profile that contains certain basic information about yourself, including your height, weight and date of birth. You can delete such a profile at any time by following the directions in the service’s preferences [or settings] screen.
+
+## Kids Services
+
+SmartTV services may make available educational videos and other content appropriate for children, but we do not knowingly collect any personal information from children under the age of thirteen (13) without parental consent, unless permitted by law. If we learn that a child under the age of thirteen (13) has provided us with personal information, we will delete it in accordance with applicable law.
+
+## Third Parties
+
+Please note that when you watch a video or access applications or content provided by a third-party, that provider may collect or receive information about your SmartTV (e.g., its IP address and device identifiers), the requested transaction (e.g., your request to buy or rent the video), and your use of the application or service. Samsung is not responsible for these providers’ privacy or security practices. You should exercise caution and review the privacy statements applicable to the third-party websites and services you use.
+
+## Country-Specific Features
+
+Please note that one or more of the features described in this SmartTV Supplement may not be available to you depending on where you live. 
+
+* * *
+
+Last Updated February 10, 2015 
