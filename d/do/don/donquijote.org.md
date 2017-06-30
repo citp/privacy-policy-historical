@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the donquijote.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122070909id_/http%3A//www.donquijote.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donquijote.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225803id_/http%3A//www.donquijote.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | don Quijote
 
 Our most popular **Spanish courses**
 
-[Home](https://web.archive.org/en/spanish-courses.asp) » [Why don Quijote?](https://web.archive.org/en/why-study-spanish-with-don-quijote) » **Privacy Policy**
+[Home](https://web.archive.org/) » [Why don Quijote?](https://web.archive.org/en/why-study-spanish-with-don-quijote) » **Privacy Policy**
 
   * ### Learn Spanish
 
