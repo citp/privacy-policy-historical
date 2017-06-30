@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourselfrv.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122144918id_/http%3A//www.doityourselfrv.com/about-us/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourselfrv.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630024410id_/http%3A//www.doityourselfrv.com/about-us/disclosure) for the most accurate reproduction.*
 
 # Privacy Policy | RV Mods - RV Guides - RV Tips | DoItYourselfRV
 
@@ -21,7 +21,7 @@ Like millions of other website owners, we use [Google Analytics](http://www.goog
 
 The tracking information allows us to better understand the kind of people who visit DoItYourselfRV.com and what content they’re reading. This allows us to make better decisions about design and writing. We can figure out what people like and try to build on that. Occasionally, we will compile aggregate statistics about the number of visitors this site receives and browsers being used. No personally identifying data is included in this type of reporting. Alternatively you can opt out of [Google’s advertising tracking cookie](http://www.google.com/privacy_ads.html) or use their browser plugin to opt out of all [Google Analytics tracking.](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-### **Log Files**
+###  **Log Files**
 
 Like many other websites, we use log files to help learn about when, from where, and how often traffic flows to this site. The information in the log files include:
 
