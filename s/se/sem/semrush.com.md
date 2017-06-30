@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the semrush.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021530id_/https%3A//www.semrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semrush.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232408id_/https%3A//www.semrush.com/privacy-policy) for the most accurate reproduction.*
 
-# SEMrush.com -> Privacy Policy
+# SEMrush.com -> Privacy Policy | SEMrush Русский
 
 SEMrush   
 PRIVACY POLICY
