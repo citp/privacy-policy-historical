@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012223847id_/https%3A//breakbeat.co.uk/privacy-policy-cookie-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakbeat.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630115427id_/https%3A//breakbeat.co.uk/privacy-policy-cookie-information) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Information - Drum&BassArena
 
