@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004043id_/http%3A//www.derby.ac.uk/styleassets/footerlinks/privacyandcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630171115id_/http%3A//www.derby.ac.uk/styleassets/footerlinks/privacyandcookies) for the most accurate reproduction.*
 
 # Privacy and cookies - Footer Links - University of Derby
 
