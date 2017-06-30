@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191932id_/http%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231401id_/http%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Science Monitor - CSMonitor.com
 
-The Christian Science Monitor (“Monitor”) is a globally-focused news organization headquartered in Boston, Massachusetts, USA and operated by The Christian Science Publishing Society, an activity of The First Church of Christ, Scientist. The Monitor publishes a print weekly magazine and tablet edition, as well as this daily news website and related mobile applications. In addition, the Monitor sponsors various events, such as the Monitor Breakfast series in Washington, D.C.
+Last updated: May 23, 2017
 
-This Privacy Policy (“Policy”) applies only to the information the Monitor collects through its websites, mobile applications, subscriptions and all other interactive services that involve the transmission of data (“the Services”) operated by the Monitor (“we,” or “us”) regardless of how you access the Services, unless such website, mobile application, or other interactive service has a separate Privacy Policy specific to such website, application, or interactive service. This Policy describes:
+The Christian Science Monitor (“Monitor”) is a globally-focused news organization headquartered in Boston, Massachusetts, USA and operated by The Christian Science Publishing Society, an activity of The First Church of Christ, Scientist. The Monitor publishes a daily digital edition, a print weekly magazine and tablet edition, as well as this daily news website and related mobile applications. In addition, the Monitor sponsors various events, such as the Monitor Breakfast series in Washington, D.C.
+
+This Privacy Policy (“Policy”) applies to the information the Monitor collects through its websites, mobile applications, subscriptions and all other interactive services that involve the transmission of data (“the Services”) operated by the Monitor (“we,” or “us”) regardless of how you access the Services, unless such website, mobile application, or other interactive service has a separate Privacy Policy specific to such website, application, or interactive service. This Policy describes:
 
   * The information we collect and how we collect it;
     * Cookies and other site technologies
@@ -43,8 +45,6 @@ We may collect information about you during your use of the Services, including 
 
 
 We may collect and store your user ID associated with a SNS account that you use to sign in to your Monitor account or connect or use with the Services. When you sign in to your Monitor account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize the Monitor to collect, store, and use in accordance with this Privacy Policy any and all information available to the Monitor through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process.
-
-We may also combine information that we collect from you with information we obtain about you from third parties and information derived from any other subscription, product, or service we or our affiliates provide.
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via SNSs, on message boards, chat areas or in advertising or notices or reader comments you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
 
@@ -91,6 +91,8 @@ The Services are supported by advertising revenue. We will send you commercial e
 
 We may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
+Regardless of anything else in this Privacy Policy to the contrary, we may also combine information, including personal information, that we collect from you during your use of the Services with information obtained from your other interactions with us (The Christian Science Publishing Society and our affiliate The First Church of Christ, Scientist) and our service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this combined information, and share it with our affiliates or service providers, in order to personalize the content and advertising that you see on the Services or our other sites.
+
 ##  Information sharing and disclosure.
 
 We will make your information available to other companies, websites, applications or people in the circumstances described below:
@@ -101,7 +103,7 @@ We will make your information available to other companies, websites, applicatio
   * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
   * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
   * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service for the Services you accessed, and/or to protect our rights and property.
-  * If you provide us with your postal address when subscribing to the print edition we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter addressed to The Christian Science Monitor, P.O. Box 98, Boston, MA 02117-0098, or please e-mail us, requesting that we remove your postal address from these lists. 
+  * If you provide us with your postal address when subscribing to the print edition we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter addressed to The Christian Science Monitor, P.O. Box 98, Boston, MA 02117-0098, or please e-mail us, requesting that we remove your postal address from these lists.
 
 
 
