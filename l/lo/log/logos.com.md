@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731220119id_/https%3A//www.logos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630180438id_/https%3A//www.logos.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Logos Bible Software
 
@@ -10,7 +10,7 @@ Our offices are at 1313 Commercial St., Bellingham, Washington, 98225, USA.
 
 #### Visiting
 
-We record standard information on site visitors, including IP addresses, times and dates, referring/exit pages, operating systems, clickstreams, web browser brands and versions, pages visited, demographic data, and user-interface languages. Our sites set cookies in order to identify repeat visitors. This is statistical data about our visitors and does not personally identify any individual.
+We record standard information on site visitors, including IP addresses, times and dates, referring/exit pages, operating systems, clickstreams, web browser brands and versions, pages visited, demographic data, and user-interface languages. Our sites set cookies in order to identify repeat visitors. We collect data that can be attributed to you as an individual and we use this information to provide you with an improved and more personalized experience.
 
 #### Registration
 
