@@ -1,98 +1,111 @@
-> *The following text is extracted and transformed from the webflow.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331183919id_/https%3A//webflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webflow.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234358id_/https%3A//webflow.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Webflow
+# Privacy Policy (Update)
 
-### What This Privacy Policy Covers
+### 2\. How do we collect, use, and share your Personal Information and other information?
 
-This policy covers how Webflow, Inc., a Delaware corporation ("Webflow," "we," "us," or "our") treats personal information that it collects and receives on www.Webflow.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with question or concerns.
+#### a. Information you provide to us
 
-### Information We Gather
+When you register for the Service, we may ask for Personal Information such as your name, email address, or credit card or other billing information. You may also provide at your own discretion certain related information like your personal website name, social media websites, a list of your skills, the date you started using the Service and a description of you. Additionally, as users employ the Sites to create websites, the software continuously saves changes made by users with the server and will document items such as when users are working and saving changes, when a user last opened the designer, when sites are published, or when a user performs certain tasks.
 
-Webflow collects personal information when you register with us, use Webflow products or services or post content on a Webflow web site or blog. This information is limited to your email address, and any information you post on your site. Your password is stored securely using a salted, variable work factor, one-way hash function.
+We may also retain the contents of any messages you send to us or through the Service, and we may collect information you provide in user content that you post or upload to the Service (“User Content”).
 
-Webflow automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. We also collect other use information as part of our analytics services, in order to improve the service. However, we do not link such information to any personally identifiable information you submit while on our site. Webflow may collect billing information if you sign up for a paid service, which may include your name, address, telephone number, credit card details, and other information that is necessary in order to process the transaction. Under no circumstance do we store any of your sensitive billing details. Webflow uses information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
+Webflow may use Personal Information provided to operate, improve upon, and personalize the Service, for billing identification and authentication, to contact and communicate with you about the Service and your use of the Service, to support use of the Service, to send marketing materials (subject to your opt-out option), for research purposes, and to generally improve the content and functionality of the Service. We may also combine your Personal Information with third-party analytics information to build a broader profile of our individual users so that we can serve you better and provide custom, personalized content and information. Additionally, we may use the Personal Information we collect for identification and authentication and fraud prevention, to analyze Site usage and improve the Service, for internal market research, troubleshooting problems, to enforce our Terms of Service, and as otherwise set forth in this Policy. Note that we will never email you to ask for your account information; if you receive such an email, please forward it to [contact@webflow.com](mailto:contact@webflow.com).
 
-### Google Analytics
+If you would like more information about our policy, please review our [Terms of Service](https://web.archive.org/terms).
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+We use financial information solely as authorized by you in accordance with the Service. While Webflow does not store your credit card information and will use commercially reasonable efforts to ensure the security of all credit card and all other Personal Information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold Webflow harmless for any damages that may result therefrom.
 
-### Billing information
+#### b. Information we may receive from and share with third parties
 
-Should you sign up for a Webflow pro account or register a domain through us, we require your billing information in order to process the transaction. We will retain the last 4 digits of your credit card number and credit card type, so that you may identify that card used in the future. We do not store any other billing information, as this information is discarded after your transaction has been processed.
+We may now or in the future receive Personal Information about you from third parties. For example, if you access our Site or Service through a third-party connection or log-in or connect an application to Webflow, that third party you connected with may pass certain information about your use of its service to Webflow. This information could include, but is not limited to, the user ID associated with your account, an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that third-party service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Service.
 
-If your subscription is auto-renewing, a recurring subscription will be created at our payment gateway, Stripe.com. Stripe.com will store your billing information on their secure payment gateway for as long as necessary to carry out the terms of your subscription. Should you cancel your subscription, your billing information will be immediately removed by Stripe.com
+Webflow may also share Personal Information with its third party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other service we use to operate the Service and maintain a high-quality user experience. We do not permit our service providers to use the Personal Information we share for their marketing purposes.
 
-All transactions are processed over an industry standard SSL/TLS connection, with a minimum of 128-bit encryption.
+#### c. Analytics information
 
-### IP Address
+We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser as part of a web page request, including the web pages you visit, your browser add-ons, and other information that assists us in improving the Service. We may collect and use this analytics information together with your Personal Information to build a broader profile of our individual users so that we can serve you better.
 
-Webflow occasionally obtains IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
+The Site primarily uses the following analytical tools, for which we include relevant privacy information and opt-out options:
 
-  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * Estimate the total number of users visiting Webflow's web sites from specific geographical regions.
-  * Help determine which users have access privileges to certain content, services or resources that we offer. Monitor and prevent fraud and abuse.
+##### Google Analytics and Google Adwords
 
-
-
-### Cookies
-
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-
-If you reject all cookies, you may not be able to use Webflow services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.
-
-You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. Webflow uses its own cookies for a number of purposes, including to:
-
-  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. Keep track of preferences you specify while you are using the Webflow Sites, Products and Services.
-  * Estimate and report our total audience size and traffic.
-  * Conduct research to improve the content and services provided on the Webflow Sites, Products and Services.
+Google’s ability to use and share information collected by Google Analytics is restricted by the [Google Analytics Terms of Service](https://web.archive.org/web/20161129190620/http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://web.archive.org/web/20161129190620/http://www.google.com/policies/privacy/). You may also [learn more about how Google collects and processes data](https://web.archive.org/web/20161129190620/http://www.google.com/policies/privacy/partners/) specifically in connection with Google Analytics. You may prevent your data from being used by Google Analytics by downloading and installing the [Google Analytics Opt-out Browser Add-on](https://web.archive.org/web/20161129190620/https://tools.google.com/dlpage/gaoptout/).  
 
 
+##### Mixpanel
 
-### Information Relating to Children
+Mixpanel’s use of information collected through Mixpanel is set forth in the “[Privacy Policy](https://web.archive.org/web/20161129190620/https://mixpanel.com/terms/)” section of its Terms of Use. You may [opt out of Mixpanel’s automatic retention](https://web.archive.org/web/20161129190620/https://mixpanel.com/optout/).
 
-Individuals under the age of 13 are prohibited from creating or using accounts through Webflow.com.
+##### Hotjar
 
-### Information Use, Sharing and Disclosure
+Hotjar’s use of information collected through Hotjar is set forth in its [Privacy Policy](https://web.archive.org/web/20161129190620/https://www.hotjar.com/privacy), which includes instructions for opt-out.
 
-Webflow does not share personal information we learn about you from your use of the Webflow web sites, products and services with others except as described in this policy.
+##### Facebook Remarketing Service 
 
-We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.
+Facebook’s use of information collected is set forth in its [Privacy Policy](https://web.archive.org/web/20161129190620/https://www.facebook.com/privacy/explanation). You may [opt out from Facebook’s interest-based ads](https://web.archive.org/web/20161129190620/https://www.facebook.com/about/ads/#568137493302217).  
 
-Webflow may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Webflow products and services, or to do something that you have asked us to do. We use other third parties such as a credit card processing company to bill you for goods and services. These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-From time to time, Webflow or a partner may sponsor a promotion, sweepstake or contest on Webflow. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. This information will be used strictly for the purpose of notifying and arranging delivery of promotional items to the person selected.
+##### Segment
 
-When you register for Webflow, we collect user-submitted account information such as username and email address to identify users and send notifications related to the use of the service. When you post content on a Webflow web site or blog, you have the ability to post content which may include personally identifiable information about yourself.
+Segment’s use of information collected is set forth in its [Privacy Policy](https://web.archive.org/web/20161129190620/https://segment.com/docs/legal/privacy/), which includes instructions for opt-out.
 
-If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+##### Chartbeat
 
-### Changes to this Privacy Policy
+Chartbeat’s use of information collected is set forth in its [Privacy Policy](https://web.archive.org/web/20161129190620/https://chartbeat.com/privacy), which includes instructions for opt-out.
 
-Webflow may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Webflow account or by placing a prominent notice on our site prior to the change becoming effective.
+##### Perfect Audience
 
-### Confidentiality and Security
+Perfect Audience's remarketing service is provided by NowSpots Inc. For more information on the privacy practices of Perfect Audience, please visit the [Perfect Audience Privacy Policy & Opt-out web page](https://web.archive.org/web/20161129190620/https://www.perfectaudience.com/privacy/index.html).  You can opt out of Perfect Audience remarketing by visiting their [Platform Opt-out](https://web.archive.org/web/20161129190620/http://pixel.prfct.co/coo) and [Partner Opt-out](https://web.archive.org/web/20161129190620/http://ib.adnxs.com/optout) pages (note: the Partner Opt-out link will immediately opt you out, without requiring confirmation!).
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
+#### d. Log files
 
-We use physical, electronic, and procedural safeguards to protect personal information about you. Your account information is password-protected. Additionally, your account's password is stored using a salted, variable work factor, one-way hash algorithm.
+Webflow gathers certain information automatically and stores it in log files. This information includes internet protocol addresses as well as browser, internet service provider, referring/exit pages, search terms, operating system, date/time stamp, and click stream data. Occasionally, we may connect Personal Information to information gathered in our log files, as necessary to improve the Service for individual customers. Otherwise, we generally use this information as we would any Usage Data, to analyze trends, administer and maintain the Service, or track usage of various features within the Service.
 
-In certain areas, Webflow uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+#### e. Cookies
 
-If Webflow learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Webflow or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@webflow.com](mailto:support@webflow.com).
+A cookie is a small software file stored temporarily or placed on your computer’s hard drive. The main purpose of cookie is to allow a web server to identify a user’s computer and web browser, and tailor web pages and/or login information to user’s preferences. Cookies help us promptly display the information needed to use the capabilities on the Service and other information which we consider to be of interest to visitors to the Sites and users of the Service. By gathering and remembering information about website preferences through cookies, we can provide a better web and marketing experience. Cookies don’t give us access to users’ computers, and the information we collect through cookies doesn’t include Personal Information.
 
-### Changing your Preferences and Personal Information
+We utilize session cookies, which allow us to uniquely identify your browser while you are logged in and to process your online transactions. Session cookies disappear from your computer when the web browser is closed or computer is turned off. We also utilize persistent cookies to make it easier to log into and use the Service. Persistent cookies remain on computers after the web browser is closed or the computer is turned off.
 
-You can edit your account information with Webflow at any time. You can delete your applicable account by visiting the applicable account deletion page; we will retain your information for as long as your account is active or as needed to provide you services, however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
+Many jurisdictions require or recommend that website operators inform users as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies. If you require more specific information as to the nature of the cookies utilized in the Service for purposes of fulfilling these obligations, please contact us by email at [contact@webflow.com.](mailto:contact@webflow.com.)
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete such information by making the change on our user home page, or by emailing our Customer Support at [support@webflow.com](mailto:support@webflow.com).
+#### f. Clear GIFs/web beacons information
 
-### Contacting Webflow
+When you use the Service, we may employ clear GIFs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service.
 
-If you have a privacy concern regarding Webflow, or this policy, please send us an email or write to:
+#### g. Device identifiers
 
-[legal@webflow.com](mailto:legal@webflow.com)  
-Webflow, Inc.  
-650 Castro St #120-234  
-Mountain View, CA 94041
+When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor, and/or remotely store one or more “device identifiers,” such as a unique device identifier (“UDID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Webflow. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
-Last updated on August 12th, 2013.
+#### h. Application integration
+
+In order to facilitate the exchange of data between third-party SaaS applications, we may need to store certain information (“App Credentials”) that helps us access these third-party SaaS application accounts on your behalf. We store your App Credentials in an encrypted form.
+
+When we access these third-party applications on your behalf, the third-party application provides us with access to certain data. We will use, store, and disclose this data in accordance with this Policy.
+
+You should note that Webflow shall have no liability or responsibility for the privacy practices or other actions of any third-party applications for which you provide us with App Credentials.
+
+#### i. Other information sharing
+
+In addition to the purposes described above, we disclose Personal Information to respond to subpoenas, court orders and law enforcement or governmental requests or investigations, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our Terms of Service, or as otherwise required by law.
+
+We use or may use information such as cookies, log files, device identifiers, and clear GIFs information to:
+
+(a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site
+
+(b) provide custom, personalized content and information
+
+(c) to provide and monitor the effectiveness of our Service
+
+(d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns
+
+(e) diagnose or fix technology problems
+
+(f) help you efficiently access your information after you sign in
+
+(g) to provide advertising to your browser or device, and
+
+(h) automatically update the Webflow application on your mobile devices.
+
+We may share information, including Personal Information, with any member of the Webflow team, which includes any entity that controls, is controlled by, or under common control with Webflow.
