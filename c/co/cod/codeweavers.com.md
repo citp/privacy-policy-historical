@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the codeweavers.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112194259id_/https%3A//www.codeweavers.com/support/wiki/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeweavers.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630115740id_/https%3A//www.codeweavers.com/support/wiki/website/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CrossOver Support | CodeWeavers
+# Website Privacy Policy | CrossOver Support | CodeWeavers
 
   1. [__Home](https://web.archive.org/support/wiki/)
   2. [CodeWeavers Website Help](https://web.archive.org/support/wiki/website)
-  3. [Privacy Policy](https://web.archive.org/support/wiki/website/privacy)
+  3. [Website Privacy Policy](https://web.archive.org/support/wiki/website/privacy)
 
 
 
@@ -17,10 +17,11 @@
   * We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.  
 
 
-  
 
 
-Last modified on _2015-07-15 11:19:38_ by _[Jeremy Newman](https://web.archive.org/profile/?id=2)_
+CrossOver for Android requests permission to use your device's built-in microphone. CrossOver itself does not use the microphone in any fashion. CrossOver passes access to the microphone through to Windows applications which you install and which need access to this hardware. Neither CodeWeavers nor CrossOver make use of any audio data from your microphone. For the privacy policies of the Windows applications you chose to install, please refer to the vendors which provide those applications. 
+
+Last modified on _2017-05-04 10:52:01_ by _[Jeremy Newman](https://web.archive.org/profile/?id=2)_
 
 __Are you sure you want to delete this page?  
 Note: Any nested pages that are under this one will be moved up one level. Any attachments tied to this page will be deleted.
@@ -41,4 +42,4 @@ One or more of the parent pages specified in new path do not exist!
 
 __Please Wait...
 
-eyJjYXJ0IjowLCJ0enMiOi02LCJjZG4iOiJodHRwczpcL1wvbWVkaWEuY29kZXdlYXZlcnMuY29tXC9wdWJcL2Nyb3Nzb3Zlclwvd2Vic2l0ZSIsImNkbnRzIjoxNDc4MjAwNzE1fQ==
+eyJjYXJ0IjowLCJ0enMiOi01LCJjZG4iOiJodHRwczpcL1wvbWVkaWEuY29kZXdlYXZlcnMuY29tXC9wdWJcL2Nyb3Nzb3Zlclwvd2Vic2l0ZSIsImNkbnRzIjoxNDk4MDc4MTgyfQ==
