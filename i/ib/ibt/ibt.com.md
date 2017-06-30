@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibt.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184704id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibt.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235020id_/http%3A//www.ibtimes.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -197,7 +197,6 @@ In compliance with the US-EU Safe Harbor and U.S. Swiss Safe Harbor Privacy Prin
 General Counsel  
 IBT Media Inc  
 7 Hanover Square, 5th Floor  
-New York, NY 10004  
-E-mail: i.maytal[at]ibtimes.com
+New York, NY 10004
 
 We are further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
