@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deposits.org privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028110215id_/http%3A//www.deposits.org/articles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deposits.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630163043id_/https%3A//www.deposits.org/articles/privacypolicy.html) for the most accurate reproduction.*
 
 # Deposits.org Privacy Policy
 
