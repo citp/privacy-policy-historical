@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231013634id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630134734id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -77,7 +77,7 @@ OpenText reviews all reports of security vulnerabilities affecting OpenText prod
 
 If you are an OpenText customer or partner, please contact [Customer Support](https://web.archive.org/support) with details of the vulnerability.
 
-If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [otst@opentext.com](mailto:otst@opentext.com).
+If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [OpenText Security Team](mailto:otstATopentextDOTcom).
 
 Please click [here](https://web.archive.org/who-we-are/copyright-information/security-acknowledgements) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
 
@@ -89,4 +89,4 @@ Open Text Corporation, Waterloo, Canada
 
 ### Questions
 
-Contact [itsecuritycompliance@opentext.com](mailto:itsecuritycompliance@opentext.com)
+Contact [itsecuritycompliance@opentext.com](mailto:itsecuritycompliance__AT__opentext__DOT__com)
