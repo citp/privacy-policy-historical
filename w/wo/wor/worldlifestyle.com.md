@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031031id_/http%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630065846id_/http%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WorldLifestyle
 
