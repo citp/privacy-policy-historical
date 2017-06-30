@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124344id_/https%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234941id_/https%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -197,3 +197,5 @@ Attention: Legal Department
 Austin, Texas 78701
 
 Please allow 30 days for a response.
+
+airplanealertapp-downloadarrow-downarrow-expandarrow-leftarrow-right-alternatearrow-rightarrow-upattractionbadgeballoonsbarcodebellbookbuildingcalendarcameracarcartcash-backchairchat-dotschatcheck-circlecheckboxclosecomputercreatecruiseemptybadgeenvelope-open-outlineenvelope-openenvelopefacebookfingerflowerfoodgeargift-cardgiftgridguitarhealthheart-outlinehearthome-gardeninfojewellifetime-cashbacklipsticklocationlockmapmedalminus-circlemoneynewsomnichannelpacifierpaperclippawphoneplayplugplusprintprofilepromotedquestion-markrebatermn-rsearchshirtshoeslidersstar-outlinestarstopwatchstoretag-addtagthumbs-downthumbs-uptoytrophyuserwatchx
