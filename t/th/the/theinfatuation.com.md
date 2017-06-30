@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinfatuation.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801084837id_/https%3A//theinfatuation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfatuation.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203150id_/https%3A//www.theinfatuation.com/privacy-policy) for the most accurate reproduction.*
 
-# The Infatuation
+# Chicago Restaurant Reviews - The Infatuation
 
 Privacy Policy
 
