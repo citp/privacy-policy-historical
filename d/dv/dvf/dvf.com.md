@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004836id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630075346id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
-Last Updated: January 1, 2016
+Last Updated: May 16, 2017
 
 This privacy policy ("Privacy Policy") is intended to inform you about how DVF Studio, LLC, a Delaware limited liability company located at 440 West 14th Street, New York, NY 10014. ("DvF", "we", "our", or "us"), collects and uses the information collected through our website located at [www.dvf.com](http://www.dvf.com/) (the "Website") and within our stores.
 
@@ -48,7 +48,8 @@ The above list provides an example of the PII that we collect. If you do not wan
 • Internet Protocol (IP) address – Your IP address is a number that lets computers attached to the Internet know where to send you data – such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Website to the interests of our users and to measure traffic within our Website.  
 • Cookie – A “cookie” is a small text file that may be used to collect information about your activity on the Website. For example, when someone visits a page within the Website, a cookie is placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the Website previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Website.   
 • Beacons (also known as “clear gifs,” “web bugs” or “pixel tags”) – “Web Beacons” are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Website and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages.   
-• Demographic Information – “Demographic Information” may be your gender, age, zip code and interests, which you voluntarily provide to us on the Website. 
+• Demographic Information – “Demographic Information” may be your gender, age, zip code and interests, which you voluntarily provide to us on the Website.   
+• Google Analytics — To help facilitate the delivery of relevant content, we use Google Analytics and have implemented all Google Advertising Features, including Remarketing, Impression Reporting, and Demographics, and Interest Reporting. Google Analytics uses cookies to report on user interactions on our and others’ websites. We use the data collected for optimizing marketing, refining advertising and/or programming strategies, and generally making advertising more effective. Google provides a complete privacy policy and instructions on opting out of Google Analytics here: <http://www.google.com/intl/en/analytics/privacyoverview.html>
 
 We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Website meets your needs. Please note that we also consider aggregated information, which is not personally identifiable, to be Non-PII. The above list provides an example of the Non-PII that is collected via the Website. 
 
@@ -137,7 +138,9 @@ DvF takes steps consistent with commercially reasonable industry standards to se
 
 ### Does DvF Use Third Party Advertisers? 
 
-We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Website. Please be advised that such advertising companies may gather information about your visit to the Website or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.dvf.com/contactus/). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES. 
+We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Website. Please be advised that such advertising companies may gather information about your visit to the Website or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered.
+
+Depending on the particular advertising services they provide, these third party advertising companies may employ first party cookies or third-party cookies. Unlike third-party cookies, first-party cookies are hosted on DvF’s servers. If you would like more information about this practice and to know your choices please [click here](http://www.dvf.com/contactus/) and/or download the Google Analytics opt-out tool at <https://tools.google.com/dlpage/gaoptout/>. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES. 
 
   
 
@@ -158,7 +161,7 @@ The Website is intended for general use of persons who have reached the age of c
 
 ### Do we have Mechanisms in Place to Permit Access, Removal, and Complaints Regarding Information That We Collect? 
 
-You may access and update your PII by logging into your account on the Website or by contacting DvF. If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](http://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](http://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
+You may access and update your PII by logging into your account on the Website or by contacting DvF. If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [clientservices@dvf.com ](http://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [clientservices@dvf.com](http://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
 
   
 
@@ -181,7 +184,7 @@ California Civil Code Section 1798.83 permits our Visitors who are California re
 
 If you would like to contact DvF regarding your PII or any of the content in this Privacy Policy, please reach out to us using the following information: 
 
-By email: [cseshop@dvf.com](http://www.dvf.com/contactus/)   
+By email: [clientservices@dvf.com](http://www.dvf.com/contactus/)   
 By mail:   
 DVF Studio, LLC   
 Attn: Customer service for DVF.COM   
