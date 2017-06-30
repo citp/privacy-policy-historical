@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815044830id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085744id_/https%3A//www.lsn.com/help/privacy/%3Fref%3Dft) for the most accurate reproduction.*
 
-# Local Sales Network - Privacy Policy - Go LSN!
+# Privacy Policy
+
+  * [__Help Center](https://web.archive.org/help/)
+  * Privacy Policy
+
+
 
 ## Local Sales Network Privacy Policy Statement
 
-Local Sales Network is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the LSN Classifieds. This policy may change from time to time so please check back periodically. 
+Local Sales Network is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the LSN Classifieds. This policy may change from time to time so please check back periodically.
 
-This policy will let you know: 
+This policy will let you know:
 
   1. What personally identifiable information is collected from you
   2. What cookies are and how they are used
@@ -24,108 +29,110 @@ This policy will let you know:
 
 * * *
 
-**What personally identifiable information is collected from you**
+ **What personally identifiable information is collected from you**
 
-The LSN Classifieds collects information in several ways from different parts of our web site. 
+The LSN Classifieds collects information in several ways from different parts of our web site.
 
-We may ask you for personal information at certain times, including (but not limited to) when you place ads or take advantage of the other features of the LSN Classifieds. If you contact us, we may keep a record of that correspondence. Every page within the LSN Classifieds includes a link to this Privacy Policy. 
-
-Back to Top
-
-* * *
-
-**What cookies are and how they are used**
-
-As part of offering and providing customizable and personalized services, the LSN Classifieds may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Certain features of the LSN Classifieds require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
-
-Generally, we use cookies for the following purposes: 
-
-Advertising networks that serve ads onto the LSN Classifieds may use their own cookies. 
-
-The LSN Classifieds may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
+We may ask you for personal information at certain times, including (but not limited to) when you place ads or take advantage of the other features of the LSN Classifieds. If you contact us, we may keep a record of that correspondence. Every page within the LSN Classifieds includes a link to this Privacy Policy.
 
 Back to Top
 
 * * *
 
-**How your information is used**
+ **What cookies are and how they are used**
 
-The primary goal of the LSN Classifieds in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the classifieds. 
+As part of offering and providing customizable and personalized services, the LSN Classifieds may use [cookies](http://www.zdwebopedia.com/cookie.htm)to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Certain features of the LSN Classifieds require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.)
 
-Back to Top
+Generally, we use cookies for the following purposes:
 
-* * *
+Advertising networks that serve ads onto the LSN Classifieds may use their own cookies.
 
-**Who is collecting your information**
-
-When you are asked for personal information on the LSN Classifieds, you are sharing that information with the LSN Classifieds alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the LSN Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. 
+The LSN Classifieds may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers.
 
 Back to Top
 
 * * *
 
-**With whom your information may be shared**
+ **How your information is used**
 
-As a general rule, Local Sales Network will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. 
-
-Local Sales Network may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the Local Sales Network or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the Local Sales Network, other users of the Local Sales Network, or anyone else that could be harmed by such activities. Local Sales Network may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+The primary goal of the LSN Classifieds in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the classifieds.
 
 Back to Top
 
 * * *
 
-**3rd Party Advertising**
+ **Who is collecting your information**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-Back to Top
-
-* * *
-
-**What choices are available to you regarding collection, use, and distribution of your information**
-
-If you choose not to provide personal information, you can still use some areas of the LSN Classifieds, but you will not be able to access areas or use features that require you to submit personal information, such as posting ads. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the LSN Classifieds that require registration in order to participate. You can still use most of the features of the LSN Classifieds even if you do not accept cookies. 
-
-The Local Sales Network does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
+When you are asked for personal information on the LSN Classifieds, you are sharing that information with the LSN Classifieds alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the LSN Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise.
 
 Back to Top
 
 * * *
 
-**How you can access, update or delete your information**
+ **With whom your information may be shared**
 
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your ads at any time by clicking on the appropriate link or graphic provided by the system. 
+As a general rule, Local Sales Network will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared.
 
-Back to Top
-
-* * *
-
-**The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
-
-Other than the administrator of the LSN Classifieds or other authorized personnel of the Local Sales Network, you are the only person who has access to your personal information. Your ads are password-protected to prevent unauthorized access. 
-
-We recommend that you do not divulge your password to anyone. Local Sales Network will never ask you for your password in an unsolicited phone call or in an unsolicited email. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Local Sales Network cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+Local Sales Network may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the Local Sales Network or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the Local Sales Network, other users of the Local Sales Network, or anyone else that could be harmed by such activities. Local Sales Network may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
 
 Back to Top
 
 * * *
 
-**How Local Sales Network protects children's privacy**
+ **3rd Party Advertising**
 
-Local Sales Network is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. Local Sales Network does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, Local Sales Network will not send any direct email offers to users who indicate they are under the age of 13. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Back to Top
 
 * * *
 
-**What else you should know about your online privacy**
+ **What choices are available to you regarding collection, use, and distribution of your information**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in ads that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+If you choose not to provide personal information, you can still use some areas of the LSN Classifieds, but you will not be able to access areas or use features that require you to submit personal information, such as posting ads.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the LSN Classifieds that require registration in order to participate. You can still use most of the features of the LSN Classifieds even if you do not accept cookies.
+
+The Local Sales Network does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
 
 Back to Top
+
+* * *
+
+ **How you can access, update or delete your information**
+
+We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your ads at any time by clicking on the appropriate link or graphic provided by the system.
+
+Back to Top
+
+* * *
+
+ **The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
+
+Other than the administrator of the LSN Classifieds or other authorized personnel of the Local Sales Network, you are the only person who has access to your personal information. Your ads are password-protected to prevent unauthorized access.
+
+We recommend that you do not divulge your password to anyone. Local Sales Network will never ask you for your password in an unsolicited phone call or in an unsolicited email.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Local Sales Network cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+Back to Top
+
+* * *
+
+ **How Local Sales Network protects children's privacy**
+
+Local Sales Network is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. Local Sales Network does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, Local Sales Network will not send any direct email offers to users who indicate they are under the age of 13.
+
+Back to Top
+
+* * *
+
+ **What else you should know about your online privacy**
+
+Please keep in mind that whenever you voluntarily disclose personal information online - for example in ads that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+
+Back to Top
+
+[ **next:** Cookie Policy __](https://web.archive.org/help/article/217470067/cookie-policy)
