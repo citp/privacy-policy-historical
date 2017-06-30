@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indulgd.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011081718id_/http%3A//indulgd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indulgd.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235559id_/http%3A//indulgd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Indulgd
 
 Please read this Privacy & Cookie Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy & Cookie Policy and indicates your agreement to abide by the terms herein.
 
