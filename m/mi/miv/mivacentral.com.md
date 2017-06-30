@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416013717id_/http%3A//www.miva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231922id_/http%3A//www.miva.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Miva, Inc
 
-This privacy statement describes how Miva collects and uses the personal information you provide on our Web site, [www.miva.com](http://www.miva.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Miva collects and uses the personal information you provide on our Web site, [www.miva.com](https://www.miva.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collections and Use
 
