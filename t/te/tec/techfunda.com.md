@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfunda.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206065306id_/http%3A//techfunda.com/Home/Page/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfunda.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214754id_/http%3A//techfunda.com/Home/Page/1) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Funda
 
