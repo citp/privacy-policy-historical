@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123090852id_/https%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222024id_/http%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Blood Donation
 
@@ -27,6 +27,8 @@ We will use this information:
 We may compare details with central NHS records or those of other data processors to stay in touch.  We are committed to protecting the confidentiality of our donors and to meeting our responsibilities under the Data Protection Act 1998
 
 We automatically track certain information about all our website users based on what you do on the site. We use this information to analyse our users' demographics, interests, and behaviour on the site to understand and serve you better . This information we capture for this purpose does not identify any user.
+
+We may contact you from time to time to inform you about developments in our services, to let you know how we have used the blood that you give and to encourage you to continue to do so.
 
 ## Right of access
 
