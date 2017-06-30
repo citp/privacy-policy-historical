@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222357id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyexpress.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231524id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Express
+# Privacy Policy | Express.co.uk
 
 The Northern & Shell network of companies (including Northern & Shell plc and Express Newspapers) comprises a number of publications including the Daily Express, Daily Star, Daily Star Sunday, Sunday Express, new!, Star and OK! This is the privacy policy for Northern & Shell publications and for certain services provided through our websites and mobile applications (“our sites”) by Northern & Shell (“N&S”). 
 
