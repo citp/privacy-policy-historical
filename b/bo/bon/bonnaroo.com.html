@@ -1,190 +1,2963 @@
-<!--The following is the downloaded HTML source of the bonnaroo.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325084127id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonnaroo.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630152431id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" dir="ltr"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="rs_xZszM6tcXsywwRrwA" async="" src="https://analytics.reachsocket.com/rs.js?aud=xZszM6tcXsywwRrwA&amp;dmn=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160325084127id_%2Fhttp%253A%2F%2Fwww.bonnaroo.com%2Fprivacy&amp;crt=1580383496151"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="http://cdn.bonnaroo.com/sites/default/files/googleanalytics/analytics.js?o4l22i"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAGWVFTGwEFUVBaDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="http://cdn.bonnaroo.com/sites/all/themes/bonnaroo2016/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="dns-prefetch" href="//cdn.bonnaroo.com">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-		<title>Privacy Policy | Bonnaroo 2016</title>  
-		<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_WGXoLru9b8lGow4RnpNT-Yhh6piM-4ffLqfigrF5M0o.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_IuueBUykT2M3BB61IYU18OU2Idans_wFGEJcMNE_Yns.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_SQCyJrYT4QOizJ7syV83zuwn-PtuUGYhOBtVitOU7AU.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_N-6iqgxOplLcVdYRwxU6370kIzUD0nVr1TiWSL7iKHg.css" media="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en"><head>
+    <title>Live Nation Concerts | Privacy Policy</title>
 
-<!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_Di88ikavguoS45_fFqIyVY-jQRR4xR0QkcHI0Tsw5SA.css" media="all" />
+
+<meta name="description" content="Browse Live Nation's privacy policy terms and conditions.">
+
+    <meta name="keywords" content="privacy policy, privacy, terms and conditions, customer information usage, live nation, livenation, livenation.com, concerts.livenation.com.">
+
+<meta name="rating" content="general">
+<meta name="copyright" content="2017, Live Nation Concerts">
+<meta name="expires" content="never">
+<meta name="distribution" content="global">
+<meta name="robots" content="noindex">
+<meta name="robots" content="NOODP"><link rel="icon" href="http://s1.ticketm.net/ln/en-us/img/static/favicon-ln.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://s1.ticketm.net/ln/en-us/img/static/favicon-ln.ico" type="image/x-icon">
+
+
+                                    
+
+
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4QMLG"></script><script type="text/javascript">
+    window.js_cookie_domain = "concerts.livenation.com";
+    var disableResaleBaAutoExpand = 0;
+    var disableVFS = 0;
+    var rebranding_mvp = false;
+    var rebranding = false;
+
+    var secure_server_migration = { 
+        configuration: {"browse":0,"search":0,"global":0,"venueartist":0,"section":0,"event":0,"artist":0,"resale":0,"venue":0,"home":0,"exchange":0},
+        replaceProtocol : function (url, page){
+            return (this.configuration[page]) ? url.replace('http:','https:'): url;
+        }
+    };
+
+</script>        <!-- Begin Monetate ExpressTag Sync v8.1 Place at start of document head. DO NOT ALTER. -->
+        <script type="text/javascript"> var monetateT = new Date().getTime();</script>
+        <script type="text/javascript" src="//se.monetate.net/js/2/a-a1627c0e/p/ticketmaster.com/entry.js"></script>
+        <!-- End Monetate tag. -->
+        <script type="text/javascript">window.monetateQ = window.monetateQ || [];</script>
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/tmjs.js"></script>
+
+
+
+
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/prototype.js"></script>
+
+
+
+
+
+  <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jquery/1.6.1/jquery.min.js"></script>
+  <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
+  <script src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jquery/plugins/jquery.xml2json.min.js"></script>
+
+<script src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jquery/plugins/jquery.scrollto.min.js"></script>
+<script src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jqueryui/plugins/jquery.tm.priceslider.js"></script>
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jquery/plugins/jquery.bgiframe-2.1.2.js"></script>
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/jqueryui/plugins/tm.js"></script>
+
+
+
+
+
+
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/writeCapture/element.write.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/libs/writeCapture/writeCapture.js"></script>
+
+	<script type="text/javascript">
+    var price_section_match = false;
+    var vip_update = false;
+    var suppress_service_fee_resale = false;
+      	</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	jQuery.noConflict();
+		
+	
+	
+	jQuery(document).ready(function($) {
+	
+    		
+	
+		
+        
+
+        
+	});
+//]]>
+</script>
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/TmPopup.js"></script>
+
+<script type="text/javascript">
+var tm_omn_account="tm-LN-USprod,tm-combinedUSprod";
+var isReviews = "";
+var omn_domain_owner = "LN_US:";
+var tm_omni_temp = $H();
+var modules_avail_per_page = $A();
+var market_id = GetCookie('MARKET_ID') ? GetCookie('MARKET_ID') : '32';
+tm_omni_temp.set('is_s_doPlugins_fired', false);
+tm_omni_temp.set('omnVID','');
+tm_omni_temp.set('omnAID','');
+tm_omni_temp.set('omnEID','');
+tm_omni_temp.set('omnMID','LN_US: ' + market_id);
+
+
+var omniCustomClick = Class.create({
+  initialize: function(initialData) {
+    this.data = Object.extend({}, initialData);
+  },
+
+  handleClick: function(event) {
+    $H(this.data).each(function(d){
+        tm_omn[d.key] = d.value;
+      });
+       switch(newPage){
+         case true:
+                 tm_omn.t();
+                 tm_omn.getPreviousValue(tm_omn.pageName,'gpv','');
+         break;
+         case false:
+           tm_omn.tl(true,'o',clickLink);
+         break;
+      }
+        if(tm_omni_temp.get('location_path')){
+           if(newWindow == true){
+               window.open(tm_omni_temp.get('location_path'),'_blank');
+           }else{
+               self.location.replace(tm_omni_temp.get('location_path'));
+           }
+            tm_omni_temp.unset('location_path');
+            return false;
+        }
+        return true;
+  },
+  module_link: function(clickmod,inclusiveLink,tracking_vars, disable_eVar13){
+         this.data = Object.extend({},{
+                    linkTrackVars: 'events,eVar13,prop14,eVar14',
+                  linkTrackEvents: 'event13',
+                           events: 'event13',
+                           prop14: 'LN_US: ' + clickmod,
+                           eVar14: 'LN_US: ' + clickmod,
+                           eVar13: 'LN_US: ' + clickmod
+                  },
+                 clickLink = clickmod,
+                   newPage = false
+                  );
+      if (disable_eVar13) {
+        this.data.linkTrackVars  = 'events,prop14,eVar14';
+        delete this.data['eVar13'];
+      }
+      if(inclusiveLink){
+         this.data.prop14 = "";
+         this.data.linkTrackVars = this.data.linkTrackVars.gsub(/,prop14,eVar14/,"");
+       }
+
+      tracking_vars = tracking_vars || {};
+      for ( var tv in tracking_vars ) {
+          this.data[tv] = tracking_vars[tv];
+          this.data.linkTrackVars += ',' + tv;
+      }
+
+      this.handleClick();
+     },
+    navigation_link2: function( clicklink, options ){
+        options = Object.extend( {
+            np: false,
+            newWin: false,
+            tracking_vars: {}
+        }, options );
+
+        this.data = Object.extend({},{
+            linkTrackVars: 'prop14,eVar14',
+            linkTrackEvents: 'event27',
+            prop14: 'LN_US: ' + clicklink,
+            eVar14: 'LN_US: ' + clicklink
+        },
+            clickLink = clicklink,
+            newPage = options.np,
+            newWindow  = options.newWin
+        );
+
+        for ( var tv in options.tracking_vars ) {
+            this.data[tv] = options.tracking_vars[tv];
+            this.data.linkTrackVars += ',' + tv;
+        }
+
+        tm_omni_temp.set('location_path',options.nav_url);
+        this.handleClick();
+    },
+  navigation_link: function(clicklink,np,nav_url,newWin){
+         if(!np){np= false;}
+         if(newWin != false){newWin = true;}
+         this.data = Object.extend({},{
+                   linkTrackVars: 'prop14,eVar14',
+                   linkTrackEvents: 'event27',
+                          prop14: 'LN_US: ' + clicklink,
+                          eVar14: 'LN_US: ' + clicklink
+                  },
+                 clickLink = clicklink,
+                   newPage = np,
+                newWindow  = newWin
+                  );
+      tm_omni_temp.set('location_path',nav_url);
+      this.handleClick();
+     },
+ trackomni_favoriteshare: function(lTV,lTE,clicklink){
+         count = 0;
+         $A(lTV).each(function(d){
+            tm_omn[d] = (d=='products' ? ';' : '' ) + lTE[count];
+            count++
+         });
+         this.data = Object.extend({},{
+                   linkTrackVars: 'prop14,eVar14,' + lTV.join(','),
+                 linkTrackEvents: lTE.join(','),
+                          prop14: 'LN_US: ' + clicklink,
+                          eVar14: 'LN_US: ' + clicklink
+                  },
+                 clickLink = clicklink,
+                   newPage = false
+                  );
+
+        if(!tm_omni_temp.get('shareclickSet')){
+           this.handleClick();
+           tm_omni_temp.set('shareclickSet','1');
+           setTimeout("tm_omni_temp.unset('shareclickSet')",1500);
+         }
+
+ },
+    track_page_load: function(tracking_vars){
+        tracking_vars = tracking_vars || {};
+        for ( var tv in tracking_vars ) {
+            tm_omn[tv] =  'LN_US: ' + tracking_vars[tv];
+            tm_omn.linkTrackVars += ',' + tv;
+        }
+        tm_omn.t();
+    }
+});
+var omniTracking = new omniCustomClick();
+
+
+TMDebug = {
+    gen_tlog: function() {
+        return function(){};
+    }
+};
+</script>
+<!-- TM_CUSTOM_SCRIPT -->
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/builder.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/effects.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/dragdrop.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/controls.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/slider.js"></script>
+    <script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/carousel.js"></script>
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/prototype/tm/popup.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/global.js"></script>
+<script type="text/javascript">
+    createNamespace('TM.MetricsCollection');
+    TM.MetricsCollection.timings = {
+                  facade: function(){},
+       initializeMetrics: function(){}
+    }
+</script>
+
+
+<script type="text/javascript">
+var promise_memberData_dataLoaded = undefined;
+
+var _MEMBER_DATA = undefined;</script>
+
+<script type="text/javascript">
+var promise_wallpaperAdvertisement_checked = undefined;
+var resolve_wallpaperAdvertisementSettled = undefined;
+var get_wallpaperAdvertisementSettled = undefined;
+
+(function () {
+    var deferred_wallpaperAdvertisement_checked = jQuery.Deferred();
+    promise_wallpaperAdvertisement_checked = deferred_wallpaperAdvertisement_checked.promise();
+
+    var _wallpaperAdvertisementSettled = undefined;
+
+    get_wallpaperAdvertisementSettled = function () {
+        return _wallpaperAdvertisementSettled;
+    };
+
+    resolve_wallpaperAdvertisementSettled = function (value) {
+        if (typeof value !== 'undefined' && typeof _wallpaperAdvertisementSettled === 'undefined') {
+            _wallpaperAdvertisementSettled = value;
+            deferred_wallpaperAdvertisement_checked.resolve(_wallpaperAdvertisementSettled);
+            return value;
+        } else {
+            return undefined;
+        }
+    };
+})();
+
+jQuery( function () {
+    resolve_wallpaperAdvertisementSettled(false);
+} );
+</script>
+
+
+
+
+<script type="text/javascript">
+
+;(function( $, window, document, undefined ) {
+createNamespace('TM.Tracking.satellite');
+
+TM.Tracking.satellite = function(){
+  var taggingData = {"pageLevelData":{"pageType":"Help: Privacy Policy","language":"en-us","searchStatus":"","channel":"Help ","suggestTerm":"","domain":"lu","searchTerm":"","pageDetail":"LN_US: Help: Privacy Policy"},"venueData":{"country":"","zip":"","city":"","vid":"","stateRegion":"","name":0},"mergedData":{"changeset":"0","loaded":{},"dataset":{}},"purchaseData":{"ticketQuantity":"","insurance":"","taxTotal":"","upsellTotal":"","deliveryTotal":"","orderTotal":"","ticketTotal":"","feesTotal":"","orderID":"","products":""},"eventData":{"time":"","date":"","name":"Privacy Policy","type":"","eid":""},"callbacks":{},"artistData":{"aid":"","majorCategory":{"name":"","id":""},"primaryName":"Privacy Policy","minorCateogry":{"name":"","id":""},"organization":"LN"},"sessionData":{"marketID":({'object':1}[typeof tm_omni_temp]) ? tm_omni_temp.get('omnMID') : '',"sid":GetCookie('SID') ? GetCookie('SID') : '',"mid":GetCookie('MID') ? GetCookie('MID') : '',"bid":GetCookie('BID') ? GetCookie('BID') : '',"promotionID":"","brand":"none","promoterID":""}};
+  return {
+    data : taggingData
+  }
+}();window.digitalData = {"page":{"pageInfo":{"onsiteSearchTerm":"","ticketInsuranceOffered":"","hostSystem":"","pageType":"Help: Privacy Policy","onsiteSearchSuggestTerm":"","eCalOmnitureStep":"","hasUpsellPage":"","promotionID":"","geoRegion":"lu","promoterID":"","onsiteSearchStatus":"","pageID":"LN_US: Help: Privacy Policy","pageNameDetailed":"","domain":"","sysEnv":"desktop","marketID":"","referringURL":document.referrer,"eCalLoginStep":"","language":"en-us","ticketInsuranceOptionChoosen":"","destinationURL":document.location.href,"pageName":"LN_US: Help: Privacy Policy","pageChannel":"Help ","ticketInsurancePurchased":"","systemError":"","edpType":""},"category":{"primaryCategory":"","primaryCategoryID":"","subCategory1":"","subCategory2":"","subCategory1ID":"","organization":"LN"},"attributes":{"secondaryArtistName":[],"venueID":"","errors":{"others":"","billing":""},"artistName":"Privacy Policy","eventTime":"","eventOnsaleDateTime":"0","brand":"none","eventResaleEligible":0,"modulesAvailable":"","state":"","artistID":"","city":"","secondaryArtistID":"","eventOnsaleTime":"0","country":"","eventID":"","inventoryType":"","eventOnsaleDate":"","zip":"","eventName":0,"venueName":0,"eventDate":""}},"version":".1","user":[],"pageInstanceID":"LN_US: Help: Privacy Policy","event":[]};
+
+})(jQuery, window, document );
+</script>
+
+<script type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/base64.js"></script>
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/unicode.js"></script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+    new CookieTree( '_E' ).remove( 'flags' );
+
+
+
+    TMCookie.remove( 'CART', { domain: js_cookie_domain } );
+    TMCookie.remove( 'CART_SAVE_FAIL', { domain: js_cookie_domain } );
+    TMCookie.remove( 'NTF', { domain: js_cookie_domain } );
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+    var extraWT = new Array();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+// <!--
+// This code below extracts the contents of the
+// location.search and conveniently seperates
+// the name and value into a usable form.
+// Don't alter this code.
+//  -->
+function replace(str, from, to) {
+    var i = str.indexOf(from);
+    if (!from || !str || i == -1) return str;
+    var newstr = str.substring(0, i) + to;
+    if (i+from.length < str.length)
+        newstr += replace(str.substring(
+        i+from.length,str.length),from,to);
+    return newstr;
+}
+function getQry(nm)
+{
+    if (!location.search) return '';
+    var i, j, qry;
+    qry = location.search.substring(1);
+    i = qry.indexOf(nm)+nm.length+1;
+    if (i == nm.length) return '';
+    j = qry.indexOf('&',i);
+    if (j+1) qry = qry.substring(i,j);
+    else     qry = qry.substring(i);
+    return unescape(replace(qry, '+', ' '));
+}
+
+function substitute(str, from, to) {
+    var i = str.indexOf(from);
+    if (!from || !str || i == -1) return str;
+    var newstr = str.substring(0, i);
+    if (i+from.length < str.length)
+        newstr += replace(str.substring(
+        i+from.length,str.length),from);
+    return newstr;
+
+}
+function convert(nm)
+{
+    if (!location.search) return '';
+    var i, j, qry;
+    qry = location.search.substring(1);
+    i = qry.indexOf(nm)+nm.length+1;
+    if (i == nm.length) return '';
+    j = qry.indexOf('&',i);
+    if (j+1) qry = qry.substring(i,j);
+    else     qry = qry.substring(i);
+    return unescape(substitute(qry, '+'));
+}
+
+
+function gener_seatven(x,y){
+var newx;
+var cssval=aolcsscheck();
+  if (getQry('style') || cssval) {
+    newVal=(cssval) ? cssval : getQry('style');
+    newx = x + "?style=" +  newVal;
+  }
+  else {
+    newx = x;
+  }
+     windowabandon = window.open(newx,y,'width=800,height=600,toolbar=0,location=0,directories=0,status=0,scrollbars=1,menubar=0,resizable=1');
+}
+function aolcsscheck(){
+  var aolcss = new Array ('aolboxoffice','aolsvcboxoffice','aolsvcsportsbox','aolsvcmusicbox','africanaboxoffice','nsboxoffice');
+  for(y=0;y < aolcss.length;y++){
+      if(document.URL.indexOf('brand='+aolcss[y])!=-1){return aolcss[y];}
+      }
+  return false;
+}
+
+function grabUrl() {
+   var ticketPath = "http://s1.ticketm.net/ln/en-us/img/sys/exchange/"
+   TMObject(mName).SetVariable("serverUrl", ticketPath);
+
+   var tmPath = "http://concerts.livenation.com/"
+   TMObject(mName).SetVariable("tmUrl", tmPath);
+
+}
+
+function starRatingDisplay(rating) {
+    var star_rating = (rating - parseInt(rating)).toFixed(1);    var offset;
+    switch (star_rating) {
+        case "0.1":       
+             if(parseInt(rating) == 0 || parseInt(rating) == 1){
+                 offset = 0;
+             }  
+             else{
+                 offset = 1 - parseInt(rating); 
+             }      
+             break
+        case "0.2": case "0.3":
+             offset = 7;           
+             break
+        case "0.4": case "0.5": case "0.6":
+             offset = 8;       
+             break
+        case "0.7": case "0.8":
+             offset = 9;
+             break
+        case "0.9":
+             if(parseInt(rating) == 0 ){
+                 offset = 15;
+             }
+             else if(parseInt(rating) == 4 ){
+                 offset = 14;
+             }    
+             else{
+                 offset = 15 - parseInt(rating);
+             }                  
+             break
+        default: 
+             if(parseInt(rating) == 1 ){
+                 offset = 0;
+             }
+             else if(parseInt(rating) == 5 ){
+                 offset = -1;
+             }         
+             else{
+                 offset = 1 - parseInt(rating);
+             }
+             break
+     }
+    var final_display_percent = ( parseInt(rating) * 15 +  offset ) + "px";
+    return final_display_percent;
+ }
+
+//////////////////////////////////////////////////////////////////////////
+// Change Location JS for Top Nav and Browse Box
+//////////////////////////////////////////////////////////////////////////
+    var reg_ex = new RegExp("&eacute;","g");
+    var replaceItem = '\u00E9';
+
+var location_text = 'Enter City or Zip Code';
+location_text = location_text.replace(reg_ex,replaceItem);
+
+var page_context_uri = "vIu7MknYxhr8qcS9dY2RBamjBagNEJrihedjC-2mF-pq1e4hfILFu1eCZEAm10Rj9k4S4k178FMDAA_FuJuFFP3zEfpEMSdVU_tyxJVINcxI";
+
+
+            var tree = new CookieTree( '_E' );
+            tree.remove( 'did' );
+            tree.remove( 'mode' );
+            tree.remove( 'pp' );
+            tree.remove( 'pw' );
+            tree.remove( 'cdv' );
+            tree.remove( 'wad' );
+            tree.remove( 'sl' );
+            tree.remove( 'landing' );                tree.remove( 'ttid' );
+                tree.remove( 'ot' );
+//]]>
+</script>
+
+
+    <script type="text/javascript">
+//////////////////////////////////////////////////////////////////////////
+// Search Suggest JS for Search Box
+//////////////////////////////////////////////////////////////////////////
+var global = new Hash();
+var search_suggest = null;global.set('cancel_hide', 0);
+global.set('opens_in_a_new_window', 'opens in a new window'); // for shoppinglist and all of the situation that need to use the string 'opens in a new window'.
+var KEY = {
+            UP: 38,
+            DOWN: 40,
+            ESC: 27,
+            ENTER: 13
+    };
+
+Ajax.Request.prototype.abort = function() {
+    this.transport.onreadystatechange = Prototype.emptyFunction;
+    this.transport.abort();
+    Ajax.activeRequestCount--;
+};
+
+String.prototype.decodeSuggestItem=function() {
+    return this.replace(/\&amp\;/g, '\&').replace(/\&gt\;/g, '\>').replace(/\&lt\;/g, '\<').replace(/\&quot\;/g, '\'').replace(/\&\#39\;/g, '\'');
+};
+
+String.prototype.encodeSearchTerm=function(){
+    return this.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/\"/g,"&#34;").replace(/\'/g,"&#39;");
+};
+
+var SearchSuggest = Class.create({
+    initialize: function(mode) {
+        this.mode = mode !== undefined && mode === SearchSuggest.MODES.DIRECT ? SearchSuggest.MODES.DIRECT : SearchSuggest.MODES.STANDARD;
+        this.index = 0;
+        this.keyword = '';
+        this.event = null;
+        this.length = 0;
+        this.elements = null;
+        this.hitMesssage = false;
+        this.matchCount = 0;
+        this.shownHits = 0;
+        this.history = false;
+        this.newLocation="";
+        this.reset();
+        var categories = $$("#search-suggest-categories li");
+        for( var i=0; i < categories.length; i++ ) {
+            var li = categories[i];
+            Event.observe(li, 'mouseover', function () {
+                global.set('cancel_hide', 1);
+            });
+            Event.observe(li, 'mouseout', function(e) {
+                global.set('cancel_hide', 0);
+            });
+        }
+    },
+    _getSuggestCmp: function () {
+        return $("search-suggest") || $("searchSuggest");
+    },
+    reset: function () {
+        this.index = -1;
+        this.elements = null;
+        this._getSuggestCmp().hide();
+
+        $("searchSuggest-result").update('');        var search_id = $('search_id');
+        search_id.name = "";
+        search_id.value = "";
+    },
+    showHistory: function () {
+        var suggest_header = $('suggest-header');
+        suggest_header.innerHTML = "Recent Searches";
+        suggest_header.show();
+        this.history = true;
+
+        this.hideHitMessage();
+        this.showCategories();
+        this._getSuggestCmp().show();
+    },
+    showCategories : function(){
+        $('suggest-categories-header').show();
+        $('search-suggest-categories').show();
+
+        jQuery("#search-suggest-categories li").removeClass("selected");
+        this.elements = jQuery(this.elements).add("#search-suggest-categories li");
+        this.length = this.elements.length;
+    },
+    hideCategories : function(){
+        this.history = false;
+        $('suggest-categories-header').hide();
+        $('search-suggest-categories').hide();
+    },
+    showEmptyHistory: function () {
+        this.history = true;
+        $('suggest-header').hide();
+        this.reset();
+        this.hideHitMessage();
+        this.showCategories();
+        this._getSuggestCmp().show();
+    },
+    showSuggestionsResults: function () {
+        var suggest_header = $('suggest-header');            suggest_header.innerHTML = "Top Suggestions";
+            suggest_header.show();        this.hideCategories();
+        this.hideHitMessage();
+        this._getSuggestCmp().show();
+    },
+    _suggestionEventText: function(upcomingEvents) {
+        return upcomingEvents == 1 ?
+            " event" :
+            " events";
+    },
+    _buildCircleImage: function(src,circle) {
+        var canvas = jQuery('<canvas/>');
+        if(circle){
+            canvas.addClass('circle');
+        }
+        canvas = canvas[0];
+        canvas.height = 45;
+        canvas.width = 45;
+
+        var context = canvas.getContext('2d');
+        var imageObj = new Image();
+        imageObj.onload = function() {
+            if(imageObj.width > canvas.width){
+                var imgWidth = imageObj.width;
+                var imgHeight = imageObj.height;
+                var imgOffset = Math.abs(imgWidth - imgHeight)/2;
+                if(imgWidth > imgHeight){
+                    context.drawImage(imageObj, imgOffset, 0, imgWidth - imgOffset*2, imgHeight, 0, 0, canvas.width, canvas.height);
+                }else{
+                    context.drawImage(imageObj, 0, imgOffset, imgWidth, imgHeight - imgOffset*2, 0, 0, canvas.width, canvas.height);
+                }
+            }else{
+                context.drawImage(imageObj, (canvas.width - imageObj.width)/2, (canvas.width - imageObj.width)/2,imageObj.width,imageObj.width);
+            }
+        };
+        imageObj.src = src;
+        return canvas;
+    },
+    buildSuggestionItem: function (params) {
+        var item=(typeof params.item=="undefined"?"":params.item);
+        var type=(typeof params.type=="undefined"?"":params.type);
+        var from=(typeof params.from=="undefined"?"":params.from);
+        var pos =(typeof params.pos=="undefined" ? 0:params.pos);
+        var link_href, link_target;
+        var _parent = this;
+        var omnitrack="";
+
+        var li = new Element('li', {
+             "class": "bucket-item",
+             "itemName": (type != "event_exact_match") ? item.name : item.eventName
+        });
+
+        Event.observe(li, 'mouseover', function () {
+            global.set('cancel_hide', 1);
+        });
+        Event.observe(li, 'mouseout', function(e) {
+            global.set('cancel_hide', 0);
+        });
+
+        var a = jQuery('<a/>');
+        var itemWrapperDiv = jQuery('<div/>', {class: 'bucket-item-wrapper'});
+        var itemImageDiv = jQuery('<div/>', {class: 'bucket-item-image'});
+        var itemTextDiv = jQuery('<div/>', {class: 'bucket-item-text'});
+
+        itemWrapperDiv.append(itemImageDiv,itemTextDiv);
+        a.append(itemWrapperDiv);
+        var txtReg=new RegExp($("org_input").value,"gi");
+
+        if(typeof item.name !== "undefined"){
+            var nameSpan = jQuery('<span/>',{ class: 'name', html: item.name.replace(txtReg, '<strong>$&</strong>')});
+            itemTextDiv.append(nameSpan);
+        }
+        var span = jQuery('<span/>', { class: 'suggest-cat' });
+
+        switch (type) {
+            case "event_exact_match":
+                omnitrack="SUGG_EDP";
+                itemTextDiv.append(jQuery('<span/>', {
+                   class:"bucket-item-highlighted",
+                   text: (item.tba)? "Date TBA" : item.date
+                }));
+                if(from=="venue"){
+	               itemTextDiv.append(jQuery('<span/>', {html: item.eventName.replace(txtReg, '<strong>$&</strong>') , class: 'name-venue'}));
+	               itemTextDiv.append(jQuery('<span/>', {html:item.majorGenre+" - "+item.minorGenre, class: 'suggest-cat'}));
+                }else{
+	                itemTextDiv.append(jQuery('<span/>', {html: item.venueName.replace(txtReg, '<strong>$&</strong>'), class: 'name-venue'}));
+	                itemTextDiv.append(jQuery('<span/>', {html: item.eventName.replace(txtReg, '<strong>$&</strong>'), class: 'suggest-cat'}));
+	            }
+                if( item.systemURL !== null){
+                     itemTextDiv.append(jQuery('<span/>', {class: 'suggest-cat', html: _parent.getPartnerLocation(item)}));
+                }
+                var event_url_data = _parent.buildEventURL(item);
+                link_href = event_url_data.href;
+                link_target = event_url_data.target;
+                break;
+            case "event":
+                omnitrack="SUGG_EDP";
+                jQuery(li).addClass("bucket-item-event");
+
+                span.append(jQuery('<span/>', {
+                    class: 'bucket-item-highlighted',
+                    html: (item.tba)? "Date TBA" : item.date
+                }));
+                span.append(jQuery('<span/>', {html:item.venueName.replace(txtReg, '<strong>$&</strong>')}));
+                if( item.systemURL !== null){
+                     span.append(jQuery('<span/>', {class: 'suggest-cat', html: _parent.getPartnerLocation(item)}));
+                }
+                var event_url_data = _parent.buildEventURL(item);
+                link_href = event_url_data.href;
+                link_target = event_url_data.target;
+                break;
+            case "attraction":
+                 omnitrack="SUGG_ADP";
+                li.setAttribute('searchId',item.id);
+                li.setAttribute('searchType',"aid");
+                var srcImage;
+                if (item.image == null) {
+                    switch (item.majorGenreId[0]) {
+                        case 10001 :
+                            srcImage = 'http://s1.ticketm.net/ln/en-us/img/sys/search/music.png';
+                            break;
+                        case 10002:
+                            srcImage = 'http://s1.ticketm.net/ln/en-us/img/sys/search/arts.png';
+                            break;
+                        case 10003:
+                            srcImage = 'http://s1.ticketm.net/ln/en-us/img/sys/search/family.png';
+                            break;
+                        case 10004:
+                            srcImage = 'http://s1.ticketm.net/ln/en-us/img/sys/search/sports.png';
+                            break;
+                    }
+                }else{
+                    srcImage = 'http://s1.ticketm.net/ln/en-us'+item.image;
+                }
+                itemImageDiv.append(_parent._buildCircleImage(srcImage,(item.image == null)?false:true));
+                span.html(item.minorGenreName[0] + ' - ' + item.upcomingEvents + _parent._suggestionEventText(item.upcomingEvents));
+                link_href = "http://www.livenation.com" + '/artist/' + item.id;
+                break;
+            case "venue":
+                 omnitrack="SUGG_VDP";
+                li.setAttribute('searchId',item.id);
+                li.setAttribute('searchType',"vid");
+                var srcImage;
+                if (item.image == null) {
+                    srcImage = 'http://s1.ticketm.net/ln/en-us/img/sys/search/venue.png';
+                } else {
+                    srcImage = 'http://s1.ticketm.net/ln/en-us'+item.image;
+                }
+                itemImageDiv.append(_parent._buildCircleImage(srcImage,(item.image == null)?false:true));
+                span.html (item.venueCityState + ' - ' + item.upcomingEvents + _parent._suggestionEventText(item.upcomingEvents));
+                link_href = "http://www.livenation.com" + '/venue/' + item.id;
+                break;
+        }
+
+        if (link_href) {
+            link_href = _parent.encodedURL(link_href);
+            li.setAttribute('data-directURL', link_href);
+            a.attr('href', link_href);
+            if (link_target) a.attr('target', link_target);
+            a.click(function () {
+                if (a.attr('target')) a.attr('href', ga_decorate(a.attr('href')));
+                omniTracking.navigation_link2(omnitrack, {
+                    tracking_vars: {
+                        eVar7: '' + jQuery('#search_input').val() + ' > ' + item.name + ' (' + omnitrack + ')'
+                    }
+                });            });
+        }
+        li.appendChild(a[0]);
+        itemTextDiv.append(span);
+        return li;
+    },
+    buildNewTable: function(data){
+        this.reset();
+        var suggestion = $("searchSuggest") || $("search-suggest") || $("searchSuggest");
+
+        var _parent = this;
+        if(data.events.length > 0 && data.exactmatches == 0) {
+            var event_title = new Element('div', {
+                "class": "search-suggestions-bucket-title"
+            });
+            event_title.innerHTML = "Upcoming Events Near You";
+            suggestion.appendChild(event_title);
+            var events_bucket = new Element('ul', {
+                "class":"absolute-no-bullet select-list-theme search-suggestions-bucket",
+                "id":"events_bucket"
+            });
+            for( var i = 0; i < data.events.length; i++ ) {
+                events_bucket.appendChild(_parent.buildSuggestionItem({"item":data.events[i],"type":"event","pos": i + 1}));
+            }
+             if(data.eventsFound && data.eventsFound >= data.events.length && data.events.length==3 ) {
+                events_bucket.appendChild(_parent.getLiSeeMoreItemsFounds({'labelSeeMoreEvents':'See More Events', 'match':false, 'omnitrack':'event'}));
+            }
+            suggestion.appendChild(events_bucket);
+        }
+        if(data.attractions.length > 0) {
+            var attraction_title = new Element('div', {
+                "class": "search-suggestions-bucket-title bordered"
+            });
+            attraction_title.innerHTML = "Performers";
+            suggestion.appendChild(attraction_title);
+            var attractions_bucket = new Element('ul', {
+                "class":"absolute-no-bullet select-list-theme search-suggestions-bucket",
+                "id":"attractions_bucket"
+            });
+
+            for( var i = 0; i < data.attractions.length; i++ ) {
+                var attraction = data.attractions[i];
+                attractions_bucket.appendChild(_parent.buildSuggestionItem({"item":attraction,"type":"attraction","pos": i+ 1}));
+
+                for(var j = 0; j < attraction.events.length; j ++){
+                    attractions_bucket.appendChild(_parent.buildSuggestionItem({"item":attraction.events[j],"type":"event_exact_match","from":"attraction","pos": j + 1}));
+                }
+
+                if(attraction.upcomingEvents >= attraction.events.length && attraction.events.length == 3) {
+                    attractions_bucket.appendChild(
+                        _parent.getLiSeeMoreItemsFounds({'labelSeeMoreEvents':'See More Events', 'match':true, 'type':'attraction', 'item':attraction, 'omnitrack':'attraction'})
+                    );
+                }
+            }
+            if(data.attractionsFound && data.attractionsFound > data.attractions.length) {
+                var li=_parent.getLiSeeMoreItemsFounds({'labelSeeMoreEvents':'See More Performers', 'match':false, 'omnitrack':'attraction'});
+                attractions_bucket.appendChild(li);
+            }
+            suggestion.appendChild(attractions_bucket);
+        }
+        if(data.venues.length > 0) {
+            var venues_title = new Element('div', {
+                "class": "search-suggestions-bucket-title bordered"
+            });
+            venues_title.innerHTML = "Venues";
+            suggestion.appendChild(venues_title);
+            var venues_bucket = new Element('ul', {
+                "class":"absolute-no-bullet select-list-theme search-suggestions-bucket",
+                "id":"venues_bucket"
+            });
+            for( var i = 0; i < data.venues.length; i++ ) {
+              var venue = data.venues[i];
+              venues_bucket.appendChild(_parent.buildSuggestionItem({"item":venue,"type":"venue","pos":i+1}));
+
+              for(var j = 0; j < venue.events.length; j ++){
+                  venues_bucket.appendChild(_parent.buildSuggestionItem({"item":venue.events[j],"type":"event_exact_match","from":"venue","pos": j + 1}));
+              }
+
+              if(venue.upcomingEvents >= venue.events.length && venue.events.length == 3) {
+                  venues_bucket.appendChild(
+                      _parent.getLiSeeMoreItemsFounds( {'labelSeeMoreEvents':'See More Events', 'match':true, 'type':'venue', 'item':venue, 'omnitrack':'venue'} )
+                  );
+              }
+            }
+            if(data.venuesFound && data.venuesFound > data.venues.length) {
+                venues_bucket.appendChild(_parent.getLiSeeMoreItemsFounds({'labelSeeMoreEvents':'See More Venues', 'match':false, 'omnitrack':'venue'}));
+            }
+            suggestion.appendChild(venues_bucket);
+        }
+        this.elements = jQuery('.bucket-item');
+        this.length = this.elements.length;
+        this.showSuggestionsResults();
+    },
+
+    buildEventURL: function(event){
+
+        var event_url, target;
+
+        if( event.PostProcessedData && event.PostProcessedData.system_url ) {
+            var current_domain = 'lu';
+            var valid_partner = false;
+            if (event.purchase_domain) {
+                valid_partner = true;
+            } else {
+                var url = event.systemURL.toLowerCase();
+                if (url) {
+                    var queue;
+                    if (current_domain == 'au') {
+                        queue = ['ticketing.ticketmaster.com.au'];
+                    } else if (current_domain == 'us' || current_domain == 'ca') {
+                        queue = ['ticketweb'];
+                    } else {
+                        queue = tm_omni_temp.get(current_domain + '_h');
+                    }
+                    if (queue) {
+                        for (i = 0 ; i < queue.length ; i++) {
+                            if (url.indexOf(queue[i]) !== -1) {
+                                valid_partner = true;
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+            var pr_postpend = "&eventid=" + event.id + "&artistid=" + event.AttractionId.first();
+
+            if (valid_partner) {
+               pr_postpend += "&crosssite=LN_US:" + event.AttractionId.first() + ":" + event.venueId;
+            }
+            event_url = 'http://concerts.livenation.com/partner_redirect?v=' + encodeURIComponent( event.PostProcessedData.system_url ) + pr_postpend;
+            target = '_blank';
+        }
+        else {
+            event_url = 'http://concerts.livenation.com/' + event.SEOName + '/event/' + event.id + '?artistid=' + event.AttractionId.first();
+            target = '';
+        }        if (event.id.indexOf('ticketweb-') !== -1) {
+            var ccpEdpHost = 'concerts1.livenation.com';
+            var newUrl = ccpEdpHost + '/event/'+ event.id;
+            //Use this element to parse the url and get the original protocol
+            var parser = document.createElement('a');
+            parser.href = event_url;
+            event_url = parser.protocol + '//' + newUrl;
+            target = '';
+        }        return {href: event_url, target: target} ;
+    },
+
+    getPartnerLocation : function (event) {
+        var disp_hop_text = '';
+        var org_hash = {
+            'other' : {
+                 org_id : 14,
+                hop_txt : 'on Partner Site'
+            },12 : {
+                 org_id : 11,
+                hop_txt : 'on Live Nation'
+            },1 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },2 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },3 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },4 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },5 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },6 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },7 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },8 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },9 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },10 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            },11 : {
+                 org_id : 12,
+                hop_txt : 'on Ticketmaster'
+            }        };
+        if (event.systemURL) {
+            var is_resalePartner = check_resalePartnerURL( event.systemURL );
+            if(event.PurchaseDomain){
+                if (is_resalePartner) {
+                    disp_hop_text = 'Resale Tickets on Partner Site';
+                }else{
+                    disp_hop_text = org_hash[ event.PurchaseDomain ].hop_txt;
+                }
+            }else {
+                if (is_resalePartner) {
+                    disp_hop_text = 'Resale Tickets on Partner Site';
+                }else{
+                    if (event.PostProcessedData.PollingLinkStatus == '1'){
+                        disp_hop_text = event.PostProcessedData.PollingLinkText;
+                    }else {
+                        disp_hop_text = org_hash[ 'other' ].hop_txt;
+                    }
+                }
+            }
+        }
+        if (event.PostProcessedData && event.PostProcessedData.PollingLinkStatus == '2'){
+            disp_hop_text = "";
+        }
+        return disp_hop_text;
+    },
+
+    encodedURL: function(link_href){
+        var parsed_uri,parsed_query;
+        parsed_uri = __GLOBALS.util.parseURI(link_href);
+        if (parsed_uri) {
+            parsed_query = __GLOBALS.util.parseAndDecodeURIQuery(parsed_uri.query);
+            if (!parsed_query) {
+                parsed_query = {};
+            }
+            parsed_query.tm_link = "tm_header_search";
+            parsed_uri.query = __GLOBALS.util.encodeAndBuildURIQuery(parsed_query);
+            link_href = __GLOBALS.util.buildURI(parsed_uri);
+        }
+        return link_href;
+    },
+    /*
+    * {labelSeeMoreEvents, match, type, item, omnitrack}
+    */
+    getLiSeeMoreItemsFounds: function (params) {
+
+         var labelSeeMoreEvents=params.labelSeeMoreEvents;
+         var match=params.match;
+         var type=params.type;
+         var item=params.item;
+         var omnitrack=params.omnitrack;
+         var _parent = this;
+         var li = jQuery('<li/>', {class: "bucket-item", itemName: _parent.keyword});
+
+         Event.observe(li[0], 'mouseover', function () {
+             global.set('cancel_hide', 1);
+         });
+         Event.observe(li[0], 'mouseout', function (e) {
+             global.set('cancel_hide', 0);
+         });
+
+         var a = jQuery('<a/>', { class: "bucket-item-highlighted"});
+         var itemWrapperDiv = jQuery('<div/>', {class: 'bucket-item-wrapper'});
+         var itemImageDiv = jQuery('<div/>', {class: 'bucket-item-image'});
+         var itemTextDiv = jQuery('<div/>', {class: 'bucket-item-text'});
+         itemWrapperDiv.append(itemImageDiv, itemTextDiv);
+         a.append(itemWrapperDiv);
+
+         var nameSpan = jQuery('<span/>', {html: labelSeeMoreEvents});
+         var link_href;
+         itemTextDiv.append(nameSpan);
+         var omnitrackTag="";
+          switch (omnitrack) {
+              case "attraction" :
+                  omnitrackTag = "SUGG_MORE_PERFORMERS";
+                  break;
+               case "event" :
+                  omnitrackTag = "SUGG_MORE_EVENTS";
+                  break;
+              case "venue" :
+                  omnitrackTag = "SUGG_MORE_VENUES";
+                  break;
+            }
+          if(omnitrackTag!=""){
+              a.click(function(){
+                omniTracking.navigation_link2(omnitrackTag, {
+                   tracking_vars: {
+                      eVar7: ''+ jQuery('#search_input').val()+' ('+omnitrackTag+')'
+                      }
+                  });              });
+            }
+         li.append(a);
+         if (!match) {
+            itemTextDiv.addClass('more-items');
+            Event.observe(li[0], 'click', function (e) {
+                _parent.updateHiddenId(this);
+                e.stop();
+                $('search_form').submit();
+            });
+         }else{
+            switch (type) {
+                case "attraction" :
+                    link_href = "http://www.livenation.com" + '/artist/' + item.id;
+                    break;
+                case "venue" :
+                    link_href = "http://www.livenation.com" + '/venue/' + item.id;
+                    break;
+            }
+            link_href = _parent.encodedURL(link_href);
+            li.attr('data-directURL', link_href);
+            a.attr('href',link_href);
+         }
+         return li[0];
+     },
+
+    buildTable: function(data) {
+        this.reset();
+        var suggest_ul = $("searchSuggest-result");
+        var _parent = this;
+        var link_href;
+        var parsed_uri,
+            parsed_query;
+        var dataItem;
+        for( var i=0; i < 10 && i < data.length; i++ ) {
+            dataItem = data[i];
+            var search_type = dataItem.VenueId ? "vid" : "aid";
+            var search_id = dataItem.AttractionId ? dataItem.AttractionId[0] : dataItem.VenueId;
+            var item_name = dataItem.Autocomplete;
+            var li = new Element('li', {
+                "li_index": i,
+                "searchType": search_type,
+                "searchId": search_id,
+                "itemName": item_name
+            });
+            Event.observe(li, 'mouseover', function () {
+                global.set('cancel_hide', 1);
+                _parent.updateTable(this);
+            });
+            Event.observe(li, 'mouseout', function(e) {
+                global.set('cancel_hide', 0);
+                this.className = "";
+            });
+            Event.observe(li, 'click', function(e) {
+                var query = jQuery('#search_input').val();
+                _parent.updateHiddenId(this);                if ( _parent.mode === SearchSuggest.MODES.STANDARD ) {
+                  e.stop();
+                  $('search_form').submit();
+                }
+            });
+
+            var event_count = dataItem.UpcomingEvents + " events";
+            var follow_span = new Element('span', {"class":"suggest-cat"});
+            if ( dataItem.VenueId ) {
+                var venue_follow_str = dataItem.CityState;
+                    venue_follow_str = venue_follow_str + " - " + event_count;                follow_span.innerHTML = "(" + venue_follow_str + ")";
+            }
+            else if (dataItem.AttractionId){
+
+                var major_cate = dataItem.MainMajorGenre;
+                var minor_cate = dataItem.MainMinorGenre;
+                var major_id = dataItem.MajorGenreId[0];
+                var arr_str = new Array();
+                var tmp_str;
+                //control Search Suggest display by combination of Domian & Major Cat
+                switch (major_id) {
+                    //music
+                    case 10001 :
+                        arr_str.push(major_cate);
+                        arr_str.push(minor_cate);
+                        arr_str.push(event_count);                        break;
+                    //art&theater
+                    case 10002 :
+                        arr_str.push(major_cate);
+                        arr_str.push(minor_cate);
+                        arr_str.push(event_count);                        break;
+                    //family
+                    case 10003 :
+                        arr_str.push(major_cate);
+                        arr_str.push(minor_cate);
+                        arr_str.push(event_count);                        break;
+                    //sports
+                    case 10004 :
+                        arr_str.push(major_cate);
+                        arr_str.push(minor_cate);
+                        arr_str.push(event_count);                        break;
+                    default :
+                        break;
+                }
+
+                if ( arr_str.length > 0) {
+                    tmp_str = arr_str.join(" - ");
+                    follow_span.innerHTML = "(" + tmp_str + ")";
+                }
+            }
+            var a = new Element('a');
+            a.innerHTML = dataItem.AutocompleteHighlight;
+            if (this.mode === SearchSuggest.MODES.DIRECT) {
+                link_href = undefined;
+                if (dataItem.VenueId) {
+                    link_href = "http://www.livenation.com" + '/venue/' + dataItem.VenueId;
+                } else if (dataItem.AttractionId && dataItem.AttractionId) {
+                    link_href = "http://www.livenation.com" + '/artist/' + dataItem.AttractionId;
+                }
+                if (link_href) {
+                    link_href = _parent.encodedURL(link_href);
+                    li.setAttribute('data-directURL', link_href);
+                    a.href = link_href;
+                }
+            }
+            a.appendChild(follow_span);
+            li.appendChild(a);
+            suggest_ul.insert(li);
+        }
+        var suggest = $("search-suggest") || $("searchSuggest");
+        Event.observe(suggest, 'mouseout', function(e) {
+            this.index = -1;
+        });
+        this.elements = $$("#searchSuggest-result li");
+        this.length = this.elements.length;
+        this.showSuggestionsResults();
+    },
+    getData: function() {
+        var _parent = this;
+        var time;
+        var opt = {
+            method: "get",
+            onCreate : function(){
+                time = new Date().getTime()
+            },
+            onSuccess: function(t) {
+                var data;
+                if(t.responseText)
+                    data = t.responseText.evalJSON(true);
+                _parent._getSuggestCmp().hide();                if (data.response && data.response.docs.length > 0) {
+                    _parent.shownHits = data.response.docs.length;
+                    _parent.matchCount = data.response.numFound;
+                    _parent.buildTable(data.response.docs);
+                }            },
+            onFailure: function() {
+                alert("An error occurred, please try again later.");
+            }
+        };
+        var prev_ajax = global.get('myajax');
+        if ( prev_ajax ) {
+            prev_ajax.abort();
+        }
+        var requestURL = 'http://concerts.livenation.com/json/search/suggest?q=' + encodeURIComponent(this.keyword) ;
+
+        if( typeof search_suggest_a_b !== "undefined" ){
+            requestURL += '&nsse=' + search_suggest_a_b;
+        }
+
+        if (typeof search_suggest_by_market_a_b !== "undefined") {
+            requestURL += '&nssmid=' + search_suggest_by_market_a_b;
+        }
+
+        if(_parent.useDisco()){
+            requestURL += '&ud=y';
+        }
+
+        var curr_ajax = new Ajax.Request(requestURL, opt);
+        global.set('myajax', curr_ajax);
+    },
+    updateTable: function(li) {
+        if ( this.index >= 0 ) {
+            this.elements[this.index].className = "";
+        }
+        li.className = "selected";
+        this.index = li.getAttribute('li_index');
+    },
+    updateHiddenId: function(li) {
+        var search_type = li.getAttribute('searchType');
+        var search_id = li.getAttribute('searchId');
+        var item_name = li.getAttribute('itemName');
+        $("search_input").value = item_name.decodeSuggestItem();
+        if(search_id) {
+            var search_id_element = $('search_id');
+            search_id_element.name = search_type;
+            search_id_element.value = search_id;
+        }
+    },
+    autoComplete: function (keyword) {
+        this.keyword = keyword;
+        this.getData();
+    },
+    showSearchHistory: function(){
+        var _parent = this;
+        var searches;
+        try{
+            searches = JSON.parse(decodeURIComponent(TMCookie.get('TM_SEARCH_HISTORY')));
+        }catch(e){
+            searches = [];
+        }
+        var link_href;
+        var parsed_uri,parsed_query;
+        if (searches && searches.constructor === Array && searches.length > 0) {
+            this.reset();
+            var suggest_ul = $("searchSuggest-result");
+            var dataItem;
+            for (var i = 0; i < searches.length; i++) {
+                dataItem = searches[i];
+                var item_name = dataItem.search.replace(/\+/g," ");
+                var li = new Element('li', {
+                    "li_index": i,
+                    "itemName": item_name,
+                    "class": "recent"
+                });
+                var a = new Element('a');
+                a.innerHTML = item_name;
+
+                Event.observe(li, 'mouseover', function () {
+                    global.set('cancel_hide', 1);
+                });
+                Event.observe(li, 'mouseout', function(e) {
+                    global.set('cancel_hide', 0);
+                });
+
+                Event.observe(li, 'click', function (e) {
+                     omniTracking.navigation_link2('SUGG_HIST',{
+                      tracking_vars: {
+                         eVar7:  item_name + ' (SUGG_HIST)'
+                      }
+                    });
+                    _parent.updateHiddenId(this);
+                    if (_parent.mode === SearchSuggest.MODES.STANDARD) {
+                        e.stop();
+                        $("org_input").value = item_name;
+                        $('search_form').submit();
+                    }
+                });
+
+                if (this.mode === SearchSuggest.MODES.DIRECT) {
+
+                    link_href = "http://www.livenation.com" + '/search?q='+dataItem.search;
+                    parsed_uri = __GLOBALS.util.parseURI(link_href);
+                    if (parsed_uri) {
+                        parsed_query = __GLOBALS.util.parseAndDecodeURIQuery(parsed_uri.query);
+                        if (!parsed_query) {
+                            parsed_query = {};
+                        }
+                        parsed_query.tm_link = "tm_header_search";
+                        parsed_uri.query = __GLOBALS.util.encodeAndBuildURIQuery(parsed_query);
+                        link_href = __GLOBALS.util.buildURI(parsed_uri);
+                    }
+                    li.setAttribute('data-directURL', link_href);
+                    a.href = link_href;
+                }
+                li.appendChild(a);
+                suggest_ul.insert(li);
+            }
+            this.elements = $$("#searchSuggest-result li");
+            this.length = this.elements.length;
+            this.showHistory();
+        } else {
+            this.showEmptyHistory();
+        }
+    },
+    prev: function() {
+        if ( this.elements ) {
+            if ( this.index > 0 ) {
+                this.elements[this.index].className = "";
+                this.index--;
+                this.elements[this.index].className = "selected";
+                this.updateHiddenId(this.elements[this.index]);
+            }
+            else {
+                this.index = -1;
+                initHiddenParam();
+                this.elements[0].className = "";
+                $("search_input").value = $("org_input").value;
+            }
+        }
+    },
+    next: function() {
+        if ( this.elements ) {
+            if ( this.index >= 0 ) {
+                this.elements[this.index].className = "";
+            }
+            this.index = (++this.index) % this.length;
+            this.elements[this.index].className = "selected";
+            this.updateHiddenId(this.elements[this.index]);
+        }
+    },
+    currentElement: function () {
+        return this.elements && this.elements[this.index] ? this.elements[this.index] : null;
+    },
+
+    /*new search suggestions functions*/
+    pressEnter: function(event) {
+        if(this.elements != null && ((jQuery(this.elements[this.index]).attr('data-directURL') != ""
+                && typeof jQuery(this.elements[this.index]).attr('data-directURL') != "undefined")
+                ||
+            jQuery(this.elements[this.index]).is("#search-suggest-categories li"))
+        ){
+			jQuery("a", this.elements[this.index]).get(0).click();
+        }else{
+			jQuery("#search_form").submit();
+		}
+    },
+    prev_new: function() {
+        if (this.elements) {
+            if (this.index > 0) {
+                jQuery(this.elements[this.index]).removeClass("selected");
+                this.index--;
+                jQuery(this.elements[this.index]).addClass("selected");
+                if (jQuery(this.elements[this.index]).is("#search-suggest-categories li")) {
+                    $("search_input").value = "";
+                }
+                else {
+                    this.updateHiddenId(this.elements[this.index]);
+                }
+            }
+            else {
+                this.index = -1;
+                initHiddenParam();
+                jQuery(this.elements[0]).removeClass("selected");
+                $("search_input").value = $("org_input").value;
+            }
+        }
+    },
+    next_new: function() {
+        if (this.elements) {
+            if (this.index >= 0) {
+                jQuery(this.elements[this.index]).removeClass("selected");
+            }
+            this.index = (++this.index) % this.length;
+            jQuery(this.elements[this.index]).addClass("selected");
+            if (jQuery(this.elements[this.index]).is("#search-suggest-categories li")) {
+                $("search_input").value = "";
+            }
+            else {
+                this.updateHiddenId(this.elements[this.index]);
+            }
+        }
+    },
+    showHitMessage: function () {
+        this.hitMesssage = true;
+        $('suggest-tip-message').show();
+        $('suggest-header').hide();
+        this.hideCategories();
+        this.reset();
+        this._getSuggestCmp().show();
+    },
+    hideHitMessage : function () {
+        this.hitMesssage = false;
+        $('suggest-tip-message').hide();
+    },    useDisco : function(){
+        try {
+            var query_params = $H(window.location.search.toQueryParams());
+            if( query_params.get('ud') === 'y'){
+                return true;
+            }
+        }
+        catch (e) {}
+        return false;
+    }
+});
+
+SearchSuggest.MODES = {
+    STANDARD: "standardMode",
+    DIRECT: "directMode"
+};
+
+SearchSuggest.DISPLAY = {
+    NONE: 0,
+    LEGACY: 1,
+    NEW: 2
+};
+
+function showSearchHistory(event) {
+    var keyword = $("search_input").value;
+    if(keyword.length == 0){              searchHistory.delay("0.1");    }
+}
+function showNewSuggestions() {
+    var event = arguments[0] || event;
+    var search_input = $("search_input");
+    var keyword = search_input.value;
+    var suggestion = $("searchSuggest") || $("search-suggest") || $("searchSuggest");
+
+    if (keyword.length == 0 && ( search_suggest.hitMesssage || suggestion.style.display === 'none')) {
+        $("org_input").value = keyword;
+        searchHistory.delay("0.1");
+    }
+    else if(keyword.length > 0 && keyword.length < 3) {
+        $("org_input").value = keyword;
+
+        if (!processKey(event) && !search_suggest.hitMesssage) {
+            suggestion.hide();
+            searchHitMessage.delay("0.1")
+        }
+        var exist_ajax = global.get('myajax');
+        if (exist_ajax) {
+            exist_ajax.abort();
+        }
+
+    } else {
+        if (!processKey(event)) {
+            $("org_input").value = keyword;
+            sendRequest.delay("0.1", keyword);
+        }
+    }
+}
+
+function processKey(event) {
+    switch (event.keyCode) {
+        case KEY.UP:
+            search_suggest.prev_new();
+            return true;
+        case KEY.DOWN:
+            search_suggest.next_new();
+            return true;
+        case KEY.ESC:
+            search_suggest.reset();
+            search_input.value = $("org_input").value;
+            return true;
+        case KEY.ENTER:
+            search_suggest.pressEnter(event);
+            return true;
+    }
+
+    return false;
+}
+
+function showSuggestions() {
+    var event = arguments[0] || event;
+    var keyword = $("search_input").value;
+    var suggestion = $("searchSuggest") || $("search-suggest") || $("searchSuggest");
+    if(keyword.length < 3){
+        $("org_input").value = keyword;
+        var exist_ajax = global.get('myajax');
+        if ( exist_ajax ) {
+            exist_ajax.abort();
+        }
+    }
+    if(keyword.length == 0){
+        suggestion.hide();
+        search_suggest.hideHitMessage();
+    }
+    else if(keyword.length > 0 && keyword.length < 3) {
+        if(!search_suggest.hitMesssage) {
+            suggestion.hide();
+            searchHitMessage.delay("0.1")
+        }
+        if (event.keyCode  == KEY.ENTER) {
+            search_suggest.pressEnter(event);
+        }
+    }
+    else {
+        switch (event.keyCode) {
+                case KEY.UP:
+                    search_suggest.prev();
+                    break;
+                case KEY.DOWN:
+                    search_suggest.next();
+                    break;
+                case KEY.ESC:
+                    search_suggest.reset();
+                    $("search_input").value = $("org_input").value;
+                    break;
+                case KEY.ENTER:
+                    break;
+                default:
+                    $("org_input").value = keyword;
+                    sendRequest.delay("0.1", keyword);
+                    break;
+        }
+    }
+}
+</script>
+
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/search_suggest_fns.js"></script>
+
+
+<script type="text/javascript">
+createNamespace('TM.Ads');
+TM.Ads.iframeAssets = TM.Ads.iframeAssets || [];
+</script>
+
+<script type="text/javascript">
+if (typeof TM != "undefined" && TM.config) {
+    TM.config.media_server = "http://s1.ticketm.net/ln/en-us";
+    TM.config.page_type = "static";
+    TM.config.current_domain = "lu";
+}
+</script>
+
+<script type="text/javascript" language="javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/date_fix.js"></script>
+
+<script type="text/javascript">
+  var optical_test_preferences = null;
+  var is_optical_test_preferences_active = true;
+  var is_cbp_active = false;
+  var lock_concurrent_bba_search_enable = false;
+</script>
+
+
+<script type="text/javascript">
+var check_resalePartnerURL;
+(function () {
+    var resale_disclaimer_config = { partners: null };
+    check_resalePartnerURL = function (url) {
+        if ( !resale_disclaimer_config.partners || !url || typeof url !== 'string' ) {
+            return false;
+        }
+        var result = __GLOBALS.util.parseURI(url);
+        if (!result || !result.host) {
+            return false;
+        }
+        var result_host_lowercase = result.host.replace(/\s*$/, '').toLowerCase();
+        var i,
+            key,
+            values;
+        for (key in resale_disclaimer_config.partners) {
+            values = resale_disclaimer_config.partners[key].hosts;
+            if (!values) {
+                continue;
+            }
+            for (i = 0 ; i < values.length ; i++) {
+                if (values[i].toLowerCase() === result_host_lowercase) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    };
+})();
+
+function ga_decorate(url){
+    var gobj = window[window.GoogleAnalyticsObject];
+    if (gobj) {
+        var tracker = gobj.getAll()[0];
+        if (tracker) {
+            var linker = new window.gaplugins.Linker(tracker);
+            if (linker) {
+                url = linker.decorate (url);
+            }
+        }
+    }
+    return url;
+}
+
+</script>
+
+<link href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/default.css" rel="stylesheet" type="text/css">
+<link href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/carousel.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/lte_ie7_exceptions.css" /><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/lte_ie8_exceptions.css" /><![endif]-->
+<!--[if IE ]><link rel="stylesheet" type="text/css" href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/ie_exceptions.css" /><![endif]-->
+    <link href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/facebook-plugin.css" rel="stylesheet" type="text/css">
+
+
+
+
+    
+   
+
+    
+
+    
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+    <link href="http://s1.ticketm.net/en-us/css/0089b88c134a11ab186e26213e3609d5/current_look/ln/langoverlay_en-us.css" rel="stylesheet" type="text/css">
+
+
+
+<!--[if IE]>
+<style>
+.ie_has_layout {
+    height: 0;
+    he\ight: auto;
+    zoom: 1;
+}
+#cat-browse .widget-frame,
+#seeEvents .widget-frame { margin-top: 0; }
+</style>
 <![endif]-->
 
-<!--[if gte IE 9]><!-->
-<link type="text/css" rel="stylesheet" href="http://cdn.bonnaroo.com/sites/default/files/cdn/css/http/css_nNkwO1Gg5d977-ERKFTZhHyKZbjZZ272Ywb4VnDwwd8.css" media="all">
-<!--<![endif]-->
-		<meta property="og:description" content="80,000 Happy Campers. 700 Acres of Tennessee Nature. 150 Epic Performances. 10+ Stages of Music. Dozens of Comedians. Four of the Best Days Ever.">
-		<meta property="og:image" content="http://www.bonnaroo.com/sites/default/files/content-files/images/broo-fb.jpg?123">
-		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	</head>
-	<body class="html not-front not-logged-in page-node page-node- page-node-302 node-type-basic-page context-privacy">
-		<div id="fb-root"></div>
-				<div id="page-wrapper"><div id="page"> <header id="section-header" class="section section-header"><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix"><div class="branding-bg"></div><div id="zone-branding" class="zone zone-branding clearfix container-24"><div class="grid-24 region region-branding" id="region-branding"><a class="connect-button" href="#connect-modal">Connect <br><span class="second-row">With Us</span><span class="arrows">&gt;&gt;</span></a><h1 class="logo"><a href="/" title="2015 Bonnaroo Music Festival">2015 Bonnaroo Music Festival</a></h1><div class="region-inner region-branding-inner"><div class="block block-block block-49 block-block-49 odd block-without-title" id="block-block-49"><style type="text/css">
-<!--
-.zone-illustration-wrapper.zone-wrapper {
-left: 0;
-width: 100%;
-position: relative;
-overflow: hidden;
-}.zone-wavy-wrapper {
-left: 0;
-width: 100%;
-}.zone-darkillustration-wrapper.zone-wrapper {
-overflow: hidden;
-left: 0;
-width: 100%;
-}</style><p><a class="page-burst" href="/tickets">TICKETS ON<br>SALE NOW!</a></p></div><div class="block block-delta-blocks block-branding block-delta-blocks-branding even block-without-title" id="block-delta-blocks-branding"> <hgroup class="site-name-slogan element-invisible"><h2 class="site-name element-invisible">Bonnaroo 2016</h2></hgroup></div></div></div></div></div><div id="zone-navigation-wrapper" class="zone-wrapper zone-navigation-wrapper clearfix"><div id="zone-navigation" class="zone zone-navigation clearfix container-24"><div class="grid-24 region region-main-navigation" id="region-main-navigation"><div class="region-inner region-main-navigation-inner"><div class="block block-menu-block block-1 block-menu-block-1 odd block-without-title" id="block-menu-block-1"><div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1"><ul class="menu"><li class="first expanded menu-mlid-549"><a href="/tickets" id="tickets-li" class="tickets">Tickets + Accommodations</a><ul class="menu"><li class="first leaf has-children menu-mlid-581"><a href="/tickets" title="Tickets &amp; Accommodations">Tickets</a></li><li class="leaf has-children menu-mlid-579"><a href="/on-site-accommodations">On-Site Accommodations</a></li><li class="last leaf has-children menu-mlid-580"><a href="/hotels-shuttles">Hotels + Shuttles</a></li></ul></li><li class="expanded menu-mlid-550"><a href="http://lineup.bonnaroo.com">Lineup</a><ul class="menu"><li class="first leaf menu-mlid-2134"><a href="http://lineup.bonnaroo.com/">2016 Lineup</a></li><li class="leaf menu-mlid-2383"><a href="http://lineup.bonnaroo.com/?sort=day" id="By-Day Lineup" name="By-Day Lineup">By-Day Lineup</a></li><li class="last leaf menu-mlid-720"><a href="http://lineup.bonnaroo.com/past/2015">Past Lineups</a></li></ul></li><li class="expanded menu-mlid-418"><a href="/activities">Activities</a><ul class="menu"><li class="first leaf menu-mlid-2139"><a href="/activities/christmas-barn">Christmas Barn</a></li><li class="leaf menu-mlid-582"><a href="/activities/arts-entertainment">Arts + Entertainment</a></li><li class="leaf menu-mlid-584"><a href="/activities/connect">Connect</a></li><li class="leaf menu-mlid-586"><a href="/activities/eat-drink">Eat + Drink</a></li><li class="leaf menu-mlid-585"><a href="/activities/environment-health-wellness">Save the Planet</a></li><li class="leaf menu-mlid-587"><a href="/activities/goods-gifts">Goods + Gifts</a></li><li class="last leaf menu-mlid-583"><a href="/activities/work-it-out">Work It Out</a></li></ul></li><li class="expanded menu-mlid-419"><a href="/festival-info">Festival Info</a><ul class="menu"><li class="first leaf menu-mlid-603"><a href="/festival-info#the-code">The Code + Terms</a></li><li class="leaf menu-mlid-589"><a href="/festival-info/safety">Health + Safety</a></li><li class="leaf menu-mlid-590"><a href="/on-site-accommodations#camping-info">Camping</a></li><li class="leaf menu-mlid-591"><a href="/festival-info/travel">Travel</a></li><li class="leaf menu-mlid-592"><a href="/festival-info/entry">Entry</a></li><li class="leaf menu-mlid-593"><a href="/festival-info/facilities">Facilities</a></li><li class="leaf menu-mlid-594"><a href="/festival-info/accessibility">Accessibility</a></li><li class="last leaf menu-mlid-2142"><a href="/census">Bonnaroo Census</a></li></ul></li><li class="expanded menu-mlid-1903"><a href="/media">Gallery</a></li><li class="expanded menu-mlid-421"><a href="/get-involved">Get Involved</a><ul class="menu"><li class="first leaf menu-mlid-596"><a href="/get-involved#bonnaroo-works-fund">Bonnaroo Works Fund</a></li><li class="leaf menu-mlid-597"><a href="/get-involved/sustainability">Sustainability</a></li><li class="leaf menu-mlid-598"><a href="/get-involved/contests">Contests</a></li><li class="leaf menu-mlid-2421"><a href="http://bonnaroo.ambassador.getstreetteam.com/ambassador/landing" name="Become an Ambassador">Become an Ambassador</a></li><li class="leaf menu-mlid-600"><a href="/get-involved/partners">Partners + Non-Profits</a></li><li class="leaf menu-mlid-599"><a href="/get-involved/volunteers">Volunteers</a></li><li class="last leaf menu-mlid-601"><a href="/get-involved/vendors">Vendors</a></li></ul></li><li class="expanded menu-mlid-551"><a href="/news">News</a><ul class="menu"><li class="first leaf menu-mlid-713"><a href="/news/good-stuff">Good Stuff</a></li><li class="last leaf menu-mlid-714"><a href="/news/festival-news">Festival News</a></li></ul></li><li class="last leaf menu-mlid-658"><a href="/tickets#search-modal" title="Search" id="search-button" class="search-button">\</a></li></ul></div></div><div class="block block-menu-block secondary-navigation block-3 block-menu-block-3 even block-without-title" id="block-menu-block-3"></div></div></div></div></div></header><div id="zone-pinkdrip-wrapper" class="zone-wrapper zone-pinkdrip-wrapper clearfix"><div class="bg-fade"><div class="bg-fade-2"><div id="zone-pinkdrip" class="zone zone-pinkdrip clearfix container-24"><div class="grid-24 region region-main-content" id="region-main-content"><div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main"> <article class="node node-basic-page node-published node-not-promoted node-not-sticky author-codypetruk odd clearfix" id="node-basic-page-302"><div class="content-holder"><div class="content clearfix"><div class="grid-24 prefix-3 suffix-3"><div class="white-pattern-bg" style="margin-top:20px;"><h1 style="color:#000;">PRIVACY POLICY</h1><p>This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo.com and personal data associated with the purchase of a ticket or RFID wristband. This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.</p><p><strong>Notification of Changes to This Policy.</strong></p><p>Bonnaroo is continually improving and adding new functionality and features to its websites and improving and adding to our existing products, services, and programs. Because of these ongoing changes, changes in the law, and the changing nature of technology, Bonnaroo’s data practices will change from time to time. If and when our data practices change, Bonnaroo will post the changes on our websites to notify you of the changes. We encourage you to check this page frequently. This policy was last updated on April 28, 2011.</p><p><strong>Personal Data Collected Through bonnaroo.com.</strong></p><p>Other than cookies, as described below, the only personal data Bonnaroo currently collects through its websites is the information you voluntarily give us when you use our sites. For example, you may use this site to contact Bonnaroo with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through bonnaroo.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information about our festival, you are not providing us with any personal information. We offer the search features as a service to you. Bonnaroo does not collect or retain any identifying information about you when you use the search features.</p><p><strong>Personal Data Collected Through RFID Wristband Purchase</strong></p><p>When purchasing tickets to Bonnaroo, the purchaser is required to provide us with the information necessary to process their ticket order: name, address, credit card number, and other information required by Musictoday, the official ticket company for Bonnaroo.&nbsp;<a href="http://bonnarootickets.tix.musictoday.com/Policy.aspx?type=2" target="_blank">You can view Musictoday's privacy policy here.</a></p><p>Once you receive your wristbands, each individual in your party will be required to register that wristband on line as theirs and theirs alone.</p><p><strong>Use of Personal Data Collected Through bonnaroo.com.</strong></p><p>Bonnaroo uses the personal data information you provide to answer your question or resolve your problem. Bonnaroo and our affiliates also use this information to help us improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services. Bonnaroo and our affiliates may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “unsubscribe’ from receiving future communications.</p><p>Similarly, we may provide “subscription” e-mail services, either directly or through affiliates, which enable you to receive current news and updates about the Bonnaroo Music &amp; Arts Festival. For all such services, we will provide an opportunity to “unsubscribe” from, or cancel, the subscription. <a href="http://www.bonnaroo.com/terms-of-use" target="_blank">Please see the Terms and Conditions page for more information about our use of the communications we receive through the Bonnaroo website.</a></p><p><strong>Registration of RFID Wristbands and Use of Personal Data Collected Through RFID Wristband Purchase and Registration</strong></p><p>When a ticket order is placed with us, we collect certain data during the order process. In addition, when the individual RFID wristbands issued in lieu of tickets are registered, we collect certain data about the person registering the RFID wristband. By registering your RFID wristband with us, your RFID wristband will be associated with you, as opposed to your ticket order, which may have included more than one ticket. In addition, registering your RFID wristband gives you the opportunity to receive communications about the festival from us.</p><p>Bonnaroo may use the personal data information you provide when you purchase tickets and, additionally, the information you provide when you register your RFID wristband, to contact you with information about your order or the festival. Bonnaroo and our affiliates also use this information to help us improve the content and functionality of our festival operations, to better understand our customers and markets, and to improve our products and services. Further, Bonnaroo and our affiliates may use the information we collect during the ticket ordering and RFID wristband registration to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each email communication we send you will contain instructions permitting you to unsubscribe from receiving future email communications.</p><p>Additionally, we may use the anonymous data provided by RFID technology for internal purposes, such as data analysis, to continually improve the operation of the festival. This data might include, but is not limited to, how many visitors enter the festival site, the date and time of their visit, the number of times they entered and exited, and which entrances and exits they came through. Your RFID wristband will allow the limited set of employees at the festival who have access to our ticketing systems in order to provide ticketing and RFID wristband related customer service to scan the RFID wristband and retrieve information we collect during the ticket ordering and RFID wristband registration processes. Our employees scanning RFID wristbands at the gates will not have access to our ticketing system, your ticket order information or your RFID registration information. When you scan your RFID wristband at one of our gate scanners, that process provides us information about your entry into the festival or the applicable part of the festival where the scanner is located. .</p><p><strong>Anonymous Data Collected bonnaroo.com.</strong></p><p>In addition to the information you provide when you use our websites, Bonnaroo uses technology to collect anonymous information about the use of our websites. For example, we use technology to track how many visitors access our websites, the date and time of their visit, the length of their stay, and which pages they viewed. We also use technology to determine which web browsers our visitors use and the address from which they accessed our sites (for example, if they connected to a Bonnaroo website by clicking on one of our banner ads).</p><p>This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our sites. Bonnaroo and our affiliates use this anonymous data and share it with third parties to improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services.</p><p><strong>Cookies.</strong></p><p>A cookie is a small piece of information that is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer and they cannot be used to discover the identity of a user. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not and whether you are required to accept the cookie to view certain content. Bonnaroo may use cookies to “persist” a user session that is, to maintain connection with a user as he or she moves through an application or series of web pages. The purpose of cookies in this context is to remember user inputs. For example, a “shopping cart” application records purchases up until the user reaches checkout. Personalization features also use cookies to identify groups of users and deliver appropriate content and services.</p><p><strong>Disclosure of Your Personal Data.</strong></p><p>Bonnaroo may share some or all of the personal data collected through this website with our affiliates, who use this data in accordance with this Privacy Policy. Both Bonnaroo and our affiliates may share personal data collected through its websites with third-party vendors who act for or on behalf of Bonnaroo or our affiliates (for example, companies that provide support services to us, including data processing services, or that help us market our products and services). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which Bonnaroo or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, or in the event of a corporate sale, merger, reorganization, dissolution, or similar event.</p><p>While no method of data transmission is guaranteed against unlawful third party interception or other misuse, Bonnaroo uses commercially reasonable efforts to ensure protection of your data including industry-standard encryption and offline security methods at our physical facilities. Bonnaroo employees and contractors may have access to personal data. Such access will be limited to a need-to-know basis.</p><p><strong>Public Forums.</strong></p><p>This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p><p><strong>Children.</strong></p><p>Bonnaroo does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to Bonnaroo, please contact us, and we will try to delete that information from our databases.</p><p><strong>Link to Other Sites.</strong></p><p>This privacy policy applies only to Bonnaroo’s website. Bonnaroo and our affiliates operate other websites for different purposes and in different countries where different laws may apply. If you visit a Bonnaroo website, please take a moment to review the privacy policy posted on that site to learn what personal data may be collected through that site and how it is processed.</p><p>Bonnaroo’s websites contain hyperlinks to websites that are not operated by Bonnaroo or one of our affiliates. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. Bonnaroo does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.</p><p><strong>Governing Law.</strong></p><p>This privacy policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.</p><p><strong>Questions About Our Privacy Policy.</strong></p><p>If you have any questions about this privacy policy or concerns about the way Bonnaroo processes your personal data, please contact us at <a href="mailto:privacy@bonnaroo.com">privacy@bonnaroo.com</a>.</p></div></div><div class="spacer-220">&nbsp;</div></div></div><div class="clearfix"> <nav class="links node-links clearfix"></nav></div></article></div></div></div></div></div><div class="separator"></div></div> <footer id="section-footer" class="section section-footer"><div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix"><div class="grad"></div><div class="left"></div><div class="right"></div><div class="clouds"><div class="footer-social-links"><div class="container-24"><div class="contact-links grid-24"> <a href="https://bonnaroo.tumblr.com" target="_blank" class="tumblr-footer"></a> <a href="https://www.facebook.com/bonnaroo" target="_blank" class="fb-footer"></a> <a href="https://twitter.com/bonnaroo" target="_blank" class="twitter-footer"></a> <a href="http://instagram.com/bonnaroo" target="_blank" class="ig-footer"></a> <a href="https://www.youtube.com/bonnaroo365" target="_blank" class="yt-footer"></a> <a href="http://open.spotify.com/user/127594937" target="_blank" class="spotify-footer"></a></div></div></div></div><div class="footer-content-container"><div class="container-24"><div class="contact-links grid-24"> <a class="button grid-6 push-6" href="/contact-us">Contact Us</a> <a class="button grid-6 push-6 bottom-connect" href="#connect-modal">Connect</a></div></div><div class="clearfix"></div><div class="middle"><div id="zone-footer" class="zone zone-footer clearfix container-24"><div class="grid-24 region region-footer" id="region-footer"><div class="block block-menu-block block-2 block-menu-block-2 odd block-without-title" id="block-menu-block-2"><div class="menu-block-wrapper menu-block-2 menu-name-menu-footer-menu parent-mlid-0 menu-level-1"><ul class="menu"><li class="first expanded menu-mlid-577"><a href="/tickets">Tickets + Accommodations</a><ul class="menu"><li class="first leaf menu-mlid-605"><a href="/tickets" title="">Tickets</a></li><li class="leaf menu-mlid-606"><a href="/on-site-accommodations" title="">On-Site Accommodations</a></li><li class="last leaf menu-mlid-607"><a href="/hotels-shuttles">Hotels + Shuttles</a></li></ul></li><li class="expanded menu-mlid-636 expanded"><a href="http://lineup.bonnaroo.com/">Lineup</a><ul class="menu"><li class="first leaf menu-mlid-2420"><a href="http://lineup.bonnaroo.com/">2016 Lineup</a></li><li class="last leaf menu-mlid-719"><a href="http://lineup.bonnaroo.com/past/2015">Past Lineups</a></li></ul></li><li class="expanded menu-mlid-608"><a href="/activities">Activities</a><ul class="menu"><li class="first leaf menu-mlid-2412"><a href="/activities/christmas-barn">Christmas Barn</a></li><li class="leaf menu-mlid-609"><a href="/activities/arts-entertainment">Arts + Entertainment</a></li><li class="leaf menu-mlid-611"><a href="/activities/connect">Connect</a></li><li class="leaf menu-mlid-613"><a href="/activities/eat-drink">Eat + Drink</a></li><li class="leaf menu-mlid-612"><a href="/activities/environment-health-wellness">Save the Planet</a></li><li class="leaf menu-mlid-614"><a href="/activities/goods-gifts">Goods + Gifts</a></li><li class="leaf menu-mlid-610"><a href="/activities/work-it-out">Work It Out</a></li><li class="last leaf menu-mlid-2414"><a href="/census">Census</a></li></ul></li><li class="expanded menu-mlid-615"><a href="/festival-info">Festival Info</a><ul class="menu"><li class="first leaf menu-mlid-616"><a href="/festival-info" title="">The Code</a></li><li class="leaf menu-mlid-618"><a href="/festival-info/safety">Health + Safety</a></li><li class="leaf menu-mlid-619"><a href="/camping" title="">Camping</a></li><li class="leaf menu-mlid-620"><a href="/festival-info/travel" title="">Travel</a></li><li class="leaf menu-mlid-621"><a href="/festival-info/entry" title="">Entry</a></li><li class="leaf menu-mlid-622"><a href="/festival-info/facilities" title="">Facilities</a></li><li class="leaf menu-mlid-623"><a href="/festival-info/accessibility" title="">Accessibility</a></li><li class="last leaf menu-mlid-2419"><a href="/press">Press</a></li></ul></li><li class="expanded menu-mlid-624"><a href="/get-involved">Get Involved</a><ul class="menu"><li class="first leaf menu-mlid-625"><a href="/get-involved">Bonnaroo Works Fund</a></li><li class="leaf menu-mlid-626"><a href="/get-involved/sustainability" title="">Sustainability</a></li><li class="leaf menu-mlid-627"><a href="/get-involved/contests" title="">Contests</a></li><li class="leaf menu-mlid-628"><a href="/get-involved/volunteers" title="">Volunteers</a></li><li class="leaf menu-mlid-629"><a href="/get-involved/partners">Partners + Non-Profits</a></li><li class="last leaf menu-mlid-630"><a href="/get-involved/vendors">Vendors</a></li></ul></li><li class="expanded menu-mlid-633"><a href="/news">News</a><ul class="menu"><li class="first leaf menu-mlid-1908"><a href="/news/good-stuff">Good Stuff</a></li><li class="last leaf menu-mlid-1909"><a href="/news/festival-news">Festival News</a></li></ul></li><li class="last expanded menu-mlid-1904"><a href="/media">Gallery</a></li></ul></div></div></div></div><ul class="sponsor"><li><a href="/privacy" alt="privacy policy">privacy policy</a></li><li><a href="/terms-of-use" alt="Terms of Service">Terms</a></li><li><a href="/contact-us" alt="contact us">Contact Us</a></li><li><a href="http://www.superflypresents.com" target="_blank" class="superfly"></a></li><li><a href="http://acentertainment.com/" target="_blank" class="acentertainment"></a></li></ul></div></div></div><div id="zone-modal-wrapper" class="zone-wrapper zone-modal-wrapper clearfix"><div id="zone-modal" class="zone zone-modal clearfix container-24"><div class="search-modal anim-modal mfp-hide" id="search-modal" tabindex="-1"><div class="grid-24 region region-search" id="region-search"><div class="region-inner region-search-inner"> <section class="block block-search block-form block-search-form odd" id="block-search-form"><h2 class="block-title">Search</h2><form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-textfield form-item-search-block-form"> <label class="element-invisible" for="edit-search-block-form--2">Search </label> <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-0NQNJDsH6rc_Op7EQeLUaL2YpeMFulaHsAPdmPwN5x0"><input type="hidden" name="form_id" value="search_block_form"></div></div></form></section></div></div></div><div class="connect-modal anim-modal mfp-hide" id="connect-modal" tabindex="-1"><div class="social-links"><h2>STAY CONNECTED</h2><div class="items"> <a href="https://bonnaroo.tumblr.com" target="_blank" class="roo-connect"></a> <a href="https://www.facebook.com/bonnaroo" target="_blank" class="fb-connect"></a> <a href="https://twitter.com/bonnaroo" target="_blank" class="twitter-connect"></a> <a href="http://instagram.com/bonnaroo" target="_blank" class="ig-connect"></a> <a href="https://www.youtube.com/bonnaroo365" target="_blank" class="yt-connect"></a> <a href="http://open.spotify.com/user/127594937" target="_blank" class="spotify-connect"></a></div><h2>GET UPDATES</h2></div><div class="blue-style-bg"></div><div class="form-item-container"><div class="grid-24 region region-connect" id="region-connect"><div class="region-inner region-connect-inner"><div class="block block-block block-92 block-block-92 odd block-without-title" id="block-block-92">
-<style type="text/css">
-#mc_embed_signup{
-background: #00A633;
-font-size: 1.6rem;
-font-family: "quosm-b","Arial Narrow","Helvetica Nue",Futura,Arial,Helvetica,sans-serif;
-width:100%;}
-#mc-embedded-subscribe-form {
-background-color: #00A633;
-margin: 0px 0px 0px 20px;}#mce-EMAIL {
-display: inline-block;
-width: 60%;
-}#mc-embedded-subscribe {
-display: inline-block;
-margin-left: 4px;
-width: 30%;
+
+
+<script type="text/javascript">
+var _satellite = {
+  "override": {
+    "host": {
+      "http": "assets.adobedtm.com",
+      "https": "assets.adobedtm.com"
+    }
+  }
+};
+</script>
+<script src="//assets.adobedtm.com/bbc5bbf56a4c9cda1271b6b9cb3e94744124c05b/satelliteLib-df472949e8a036d72570b7a081d946474e1d4d29.js"></script>
+
+
+
+<script type="text/javascript">
+    if (writeCapture) {
+        writeCapture.autoAsync();
+    }
+</script>
+    <!-- Google Tag Manager script -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K4QMLG');</script>
+    <!-- End Google Tag Manager script --></head>
+<body id="body" class="">
+
+    <!-- Google Tag Manager noscript -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4QMLG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager noscript -->
+<noscript>
+    <div style="baCkground-color:#FFF3D2; border-bottom:1px solid #E4D199; margin-bottom:15px; padding:10px;" align="center">
+    You must set your browser to <a href="http://concerts.livenation.com/h/cookies.html">accept cookies</a> and to <a href="http://concerts.livenation.com/h/javascript.html">enable Javascript</a> in order to access certain functions of this site, including the purchase of tickets.
+    </div>
+</noscript>
+
+<!-- NFB NOTE: Add order phone number -->
+<div class="hideContent">To order tickets by phone, please call Ticketmaster National Sales at 1-800-745-3000. </div><div class="lightbox-shade"></div>
+
+<!-- START LIVENATION HEADER -->
+        <!-- LEADERBOARD AD -->
+        <div class="leaderboard">        </div>
+        <!-- END LEADERBOARD -->
+    <!-- HEADER -->
+        <script language="javascript">
+            <!--
+                var my_market = "United States & Canada";
+                var location_box_market_name = GetCookie("MARKET_NAME");
+            //-->
+        </script>
+        <div id="site-header" role="banner" class="">
+            <div class="frame">    <div class="logo">
+        <a href="http://www.livenation.com/section?tm_link=tm_logo" id="site-logo" title="Live Nation - One Nation Under Music - Concert Tickets and Tour Dates">
+            <img class="ln-logo size-2017 logoTop" src="http://s1.ticketm.net/ln/en-us/img/sys/ln-logo-2017.png" alt="Live Nation">
+        </a>
+    </div>
+    <ul class="header-links" role="navigation">
+        <li><a class="nfbSkipLink" href="#contentWrap"><span>Skip to main content</span> </a> </li>
+        <li><a href="https://concerts.livenation.com/member?tm_link=tm_ql_1" class="withBar" rel="nofollow">My Live Nation Tickets</a> </li>
+        <li><a class="noTextDecoration" href="http://lntv.com"><img src="http://s1.ticketm.net/ln/en-us/img/sys/lntv-wordmark-color@1x.png" alt="Live Nation TV"></a></li>
+        <li><a href="http://concerts.livenation.com/h/help.html?tm_link=tm_ql_3">Help</a></li>
+    </ul>
+    <div class="welcomeText">
+        <span id="shopCart" style="display:none"><a href="https://concerts.livenation.com/mycart?tm_link=tm_header_mycart" class="cart-button"><span class="start-cap"><strong>My Cart</strong><span class="cart-basket-total test2"></span></span><span class="end-cap"></span></a></span>
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+{
+    var count = GetCookie("MYCART_COUNT") || 0;
+    if ( count >= 0 ) {        $$('.cart-basket-total')[0].innerHTML = [ 
+            ' (<span class="cart_total_items">', count, '</span>',
+            '<span class="hideContent"> items in your cart</span>)'
+        ].join('');    }
+    else {        $$('.cart-basket-total')[0].innerHTML = '';
+    }
+    if ($('shopCart')){
+        $('shopCart').show();
+    }
 }
-</style><div id="mc_embed_signup"><form action="//bonnaroo.us12.list-manage.com/subscribe/post?u=d04dd26cc69771493fb438748&amp;id=d7cca212db" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="" novalidate=""><div id="mc_embed_signup_scroll"><div class="mc-field-group"> <input type="email" placeholder="Email Address" value="" name="EMAIL" class="required email" id="mce-EMAIL"> <input type="submit" value="SUBMIT" name="subscribe" id="mc-embedded-subscribe" class="button"></div><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d04dd26cc69771493fb438748_d7cca212db" tabindex="-1" value=""></div><div class="clear"></div></div></form></div></div></div></div></div></div></div></div></footer><div class="tabs"></div></div></div>				<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/all/libraries/modernizr/modernizr.js?o4l22i"></script>
-<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/all/libraries/respondjs/respond.min.js?o4l22i"></script>
-<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
-<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://cdn.bonnaroo.com/sites/default/files/googleanalytics/analytics.js?o4l22i","ga");ga("create", "UA-47417601-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
-//--><!]]>
+//]]>
 </script>
-<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/default/files/js/js_vYH5Iuf9Z6WnfYq6UP6H7wJp0tVsQpjhEKk6xXdzu0c.js"></script>
-<script type="text/javascript" src="http://cdn.bonnaroo.com/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+        <span id="welcome_module" class="welcome-text">
+<script language="JavaScript">
+var member_name = GetCookie("MNAME");
+var cookie_id = GetCookie("MID");
+function welcomeMe() {
+    if( member_name ) {
+        member_name = member_name.stripScripts().stripTags().escapeHTML();
+    }
+    
+    if ( cookie_id == null || cookie_id.length == 0 ) {
+        $('welcome_module').update('Welcome.&nbsp;&nbsp;<a href="https://concerts.livenation.com/member?tm_link=tm_header_signin">Sign In</a>');
+    }
+    else {
+        if (window.decodeURI != null) {
+            if (member_name.length > 0) {
+                member_name = ' ' + member_name;
+            }
+        }
+        $('welcome_module').update('Welcome <strong>' + member_name + '.</strong>&nbsp;&nbsp;<a href="https://concerts.livenation.com/member/logout/?tm_link=tm_header_signout">Sign Out</a>');
+    }
+}
+welcomeMe();
+</script>        </span>
+    </div>	    	</div>
+        </div>   
+    <!-- end of HEADER -->
+
+
+<a name="nfb_skipNav" id="nfb_skipNav" class="nfbSkipNav" tabindex="-1"></a>
+<div id="contentWrap">
+  <div class="frame">
+    <div id="sidePlacement-wrapper">
+       <div class="inline_block" id="sidePlacement" style="display:none;"></div>
+    </div>
+    <div id="mainContent" role="main">
+
+
+
+
+<link rel="stylesheet" href="http://media.ticketmaster.com/ln/en-us/img/static/h/help/help.css">
+<script type="text/javascript" src="http://media.ticketmaster.com/en-us/img/static/h/help/ln-help-nav.js"></script>
+<style>
+.help-content h2 ~ h2 { margin: 3em 0 1em }
+</style>
+
+<div class="help-article">
+  <h1 class="help-header">Live Nation Entertainment Privacy Policy - Your Privacy Rights</h1>
+  
+  <div class="help-content">
+    <p class="txtRt">Effective July 20, 2012 (last updated March 13, 2017)</p>
+    <h2>This Privacy Policy applies to the sites and apps where it appears.</h2>
+    <p>This Policy describes how we treat personal information we collect both online and offline.  This includes on our websites and in our apps. It also includes at our box offices or in phone or email interactions you have with us.  If you live in Canada, please read our <a href="http://www.ticketmaster.ca/h/privacy.html" target="_blank" role="link" title="opens in a new window">Canadian Privacy Policy</a>.</p>
+    
+    <h2>We collect information from and about you.</h2>
+    <p><strong>Contact information.</strong> For example, we might collect your name and street address.  We might also collect your phone number or email.</p>
+    <p><strong>Payment and billing information.</strong> For example, we collect your credit card number and zip code when you buy a ticket.</p>
+    <p><strong>Information you post.</strong> For example, we collect information you post in a public space on our website.  We also collect information you post on a third-party social media site.</p>
+    <p><strong>Demographic information.</strong> We may collect information like your age range, race, or gender.  We may collect information about events you like or products you buy.  We might collect this as part of a survey, for example.</p>
+    <p><strong>Other information.</strong> If you use our website, we may collect information about the browser you're using.  We might look at what site you came from, or what site you visit when you leave us.  We may collect information about your location including your precise location.  We may collect this using technology such as GPS and Wi-Fi.  If you use our mobile app, we may also access your device's location in the background.  We may collect your device's unique identifier.  We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running.  We might look at how often you use the app and where you downloaded it.</p>
+    
+    <h2>We collect information in different ways.</h2>
+    <p><strong>We collect information directly from you.</strong> For example, if you register for a promotion or buy tickets.  We also collect information if you post a comment on our websites or ask us a question.</p>
+    <p><strong>We collect information from you passively.</strong> We use tracking tools like browser cookies and web beacons.  To learn more about these tools and to control them, please click <a href="http://concerts.livenation.com/h/ad-choices.html">here</a>.  We also collect information from our mobile apps.</p>
+    <p><strong>We get information about you from third parties.</strong> For example, if you use an integrated social media feature on our websites or mobile applications.  The third-party social media site will give us certain information about you.  This could include your name and email address.  Your activities on our sites and apps may be posted to the social media platforms.</p>
+    
+    <h2>We use information as disclosed and described here.</h2>
+    <p><strong>We use information to respond to your requests or questions.</strong> For example, we might use your information to confirm your registration for an event or contest.   You may give us your friend's information, for example via our referral service to tell a friend about our website or to purchase a gift card.  We will only use your friend's information to provide services you requested.  Your friend may contact us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a> to ask us to delete their information.</p>
+    <p><strong>We use information to improve our products and services.</strong> We might use your information to customize your experience with us.  This could include displaying content based upon your preferences.</p>
+
+	
+    <p><strong>We use information to look at site trends and customer interests.</strong> We may use your information to make our website and products better.  We may combine information we get from you with information about you we get from third parties.</p>
+	
+    <p><strong>We use information for security purposes.</strong> We may use information to protect our company, our customers, or our websites.</p>
+	
+    <p><strong>We use information for marketing purposes.</strong> For example, we might send you information about special promotions or offers.  We might also tell you about new features or products.  These might be our own offers or products, or third-party offers or products we think you might find interesting.  Or, for example, if you buy tickets from us we'll enroll you in our newsletter.  To learn about your choices for these communications, read the <a href="#certainchoices">choices section</a> below.</p>
+	
+    <p><strong>We may also use push notifications on our mobile apps.</strong> We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.</p>
+	
+    <p><strong>We use information to send you transactional communications.</strong> For example, we might send you emails about your account or a ticket purchase.  We might also contact you about this policy or our website terms.</p>
+	
+    <p><strong>We use information as otherwise permitted by law or as we may notify you.</strong></p>
+	<p>We keep personal information as long as it is necessary or relevant for our business.  We also keep information to resolve disputes, enforce our agreements and otherwise required by law.</p>
+    
+    <h2>We may share information with third parties.</h2>
+    <p><strong>We will share information within the Live Nation family of companies.</strong> This may include Ticketmaster and Live Nation-owned or operated venues, for example.</p>
+    <p><strong>We will share information with third parties who perform services on our behalf.</strong> For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases.  Some vendors may be located outside of the United States.</p>
+    <p><strong>We will share information with our business partners.</strong> This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.</p>
+    <p><strong>We may share information if we think we have to in order to comply with the law or to protect ourselves.</strong> For example, we will share information to respond to a court order or subpoena.  We may also share it if a government agency or investigatory body requests.  Or, we might also share information when we are investigating potential fraud.  This might include fraud we think has happened during a sweepstakes or promotion.</p>
+    <p><strong>We may share information with any successor to all or part of our business.</strong> For example, if part of our business is sold we may give our customer list as part of that transaction.</p>
+    <p><strong>We may share your information for reasons not described in this policy.</strong> We will tell you before we do this.</p>
+    
+    <h2>You have certain choices about how we use your information.</h2>
+    <p><strong>You can opt out of receiving our marketing emails.</strong> To stop receiving our promotional emails, click <a href="http://promo.livenation.com/wemissyoualready/" target="_blank" role="link" title="opens in a new window">here</a> or follow the instructions in any promotional message you get from us.  Your device settings should provide you with instructions on how to turn off push notifications.   It may take about ten days to process your request.  Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages.  For example, we may still contact you about your orders.</p>
+    <p><strong>You can modify information you have given us.</strong> To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.</p>
+    <p><strong>You can control cookies and tracking tools.</strong> To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click <a href="http://concerts.livenation.com/h/ad-choices.html">here</a>.</p>
+    <p><strong>You can control tools on your mobile devices.</strong> For example, you can turn off the GPS locator or push notifications on your phone.  Each push notification has an "unsubscribe" link.</p>
+    
+    <h2>Your California Privacy Rights.</h2>
+    <p>If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.  You can make a request one time each year.</p>
+    <p>To exercise your rights, you can <a href="mailto:privacy@livenation.com">email us</a> or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.</p>
+    
+    <h2>These sites and apps are not intended for children.</h2>
+    <p>Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13.  If you are a parent or legal guardian and think your child under 13 has given us information, you can email us <a href="mailto:privacy@livenation.com">here</a>.  You can also write to us at the address listed at the end of this policy.  Please mark your inquiries "COPPA Information Request."</p>
+    <p>Parents, you can also learn more about how to protect your children's privacy online <a href="http://www.business.ftc.gov/privacy-and-security/children's-privacy" target="_blank" role="link" title="opens in a new window">here</a>.</p>
+    
+    <h2>We use standard security measures.</h2>
+    <p>We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.</p>
+	
+	<div><a href="//privacy.truste.com/privacy-seal/validation?rid=6ded18c3-447e-4032-94e2-2a8daaee2887" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=6ded18c3-447e-4032-94e2-2a8daaee2887" alt="TRUSTe"></a></div>
+	
+	<p>Click on the Truste seal to view our current certification status.</p>
+    
+     
+    <h2>We store information both in and outside of the United States.</h2>
+    <p>If you live outside of the United States, you understand and agree that we may transfer your information to the United States.  This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.</p>
+
+    
+    <h2>We may link to third party sites or services we don't control.</h2>
+    <p>If you click on one of those links, you will be taken to websites we do not control.  This policy does not apply to the privacy practices of those websites.  Read the privacy policy of other websites carefully.  We are not responsible for these third party sites.  Our site may also serve third-party content that contains their own cookies or tracking technologies.  To learn more, click <a href="http://concerts.livenation.com/h/ad-choices.html" target="_blank" role="link" title="opens in a new window">here</a>.  We do not control the use of those technologies.</p>
+    
+    <h2>Feel free to contact us if you have more questions.</h2>
+    <p>If you have any questions about this Policy or other privacy concerns, you can email us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>. Please do not include your credit card number or other sensitive information in your email.  You can also write us at:</p>
+    <p>Live Nation Entertainment, Inc.<br>
+      9348 Civic Center Drive<br>
+      Beverly Hills, CA 90210<br>
+      Attention: Privacy Officer, Legal</p>
+    <p>If you are not satisfied with our response, you can contact our third party dispute resolution provider <a href="https://feedback-form.truste.com/watchdog/request" target="_blank" role="link" title="opens in a new window">here</a>.</p>
+    
+    <h2>What we will do if there is an update to this policy.</h2>
+    <p>From time to time we may change our privacy practices.  We will notify you of any material changes to this policy as required by law.  We will also post an updated copy on our website.  Please check our site periodically for updates.</p>
+    
+    <p>© 2017 Live Nation Entertainment, Inc. All rights reserved.</p>
+  </div>
+  <!-- end help-content -->
+</div>
+<!-- END help-article --> 
+
+<div class="help-nav" role="navigation"><script>createLeftNav();</script></div> 
+
 <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bonnaroo2016","theme_token":"DXfIICqRVRZr9okt-6oRzBbThc_OcwR6ja9ST-_ZN9U","js":{"sites\/all\/libraries\/modernizr\/modernizr.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.magnific.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.slicknav.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.ee.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.slick.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.unveil.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.easing.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.pagescroll.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.doubletap.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/jquery.scrolltofixed.min.js":1,"sites\/all\/themes\/bonnaroo2016\/assets\/js\/scripts.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/bonnaroo2016\/css\/global.css":1,"ie::normal::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default.css":1,"ie::normal::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"narrow::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default.css":1,"narrow::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-24.css":1,"normal::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default.css":1,"normal::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"wide::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default.css":1,"wide::sites\/all\/themes\/bonnaroo2016\/css\/bonnaroo2016-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-24.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/privacy":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
-//--><!]]>
+window.onload = function() {
+    if (TM.Ads && typeof TM.Ads.iframeAssets != "undefined" && TM.Ads.iframeAssets.length > 0){
+       jQuery.each(TM.Ads.iframeAssets, function(i,k){
+           if( jQuery( k.name ).length > 0 && k.src ){
+              if ((this.name) == "#edp_leaderboard"){
+                  this.src = appendTransID(this.src, true);
+              }
+              ( function(o){
+                   setTimeout( function() { 
+                       jQuery( o.name ).attr("src", o.src ) 
+                   } , 200 );
+               }(k) )
+           }
+       })
+    }
+}
+
+</script>            <div class="clear"></div>
+        </div><!-- end mainContent -->
+                <div id="bottomPlacement" class="top-selling" style="display:none;"></div>
+    </div><!-- end frame -->    
+</div><!-- end contentWrap -->
+<!-- END CONTENT/START FOOTER -->   <div id="site-footer" role="contentinfo" class="">
+	<div class="frame">
+  <ul class="footer-links" role="navigation">
+    <li><a href="http://lntv.com/news/?tm_link=tm_i_blog">Blog</a></li>
+    <li><a href="http://concerts.livenation.com/careers?tm_link=tm_i_careers" target="_blank">Careers</a></li>
+    <li><a href="http://concerts.livenation.com/h/terms.html?tm_link=tm_i_terms" rel="nofollow">Terms of Use</a></li>
+    <li><a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_pp" rel="nofollow">Privacy Policy</a></li>
+    <li><a href="http://concerts.livenation.com/h/ad-choices.html?tm_link=tm_i_adchoices" rel="nofollow">AdChoices</a></li>
+    <li><a href="http://investors.livenationentertainment.com">Investor Relations</a></li>
+    <li><a href="http://concerts.livenation.com/h/help.html?tm_link=tm_i_help">Help/FAQ</a></li>
+  </ul>
+		<ul class="footer-links floatRight mgRt10">
+      		<li><a href="https://www.facebook.com/livenation" role="link" title="opens in a new window" target="_blank"><img src="http://s1.ticketm.net/ln/en-us/img/sys/facebook-icon_22x20.png" alt="Facebook"></a></li>
+      		<li><a href="https://www.twitter.com/livenation" role="link" title="opens in a new window" target="_blank"><img src="http://s1.ticketm.net/ln/en-us/img/sys/twitter-icon_22x20.png" alt="Twitter"></a></li>
+            <li><a href="http://instagram.com/livenation" role="link" target="_blank" title="LiveNation Instagram photos"><img alt="LiveNation Instagram photos" src="http://s1.ticketm.net/ln/en-us/img/sys/instagram-icon_18x18.png"><span class="hideContent">External website. Opens in a new window</span></a></li>
+      		<li><a href="http://www.pinterest.com/livenation" role="link" title="opens in a new window" target="_blank"><img src="http://s1.ticketm.net/ln/en-us/img/sys/pinterest-icon_22x20.png" alt="Pinterest"></a></li>
+    	</ul>      <p class="site-disclaimer-heading mgLft10 txtLft">
+        <span class="pull-left">BY CONTINUING PAST THIS PAGE, YOU AGREE TO OUR <a href="http://concerts.livenation.com/h/terms.html?tm_link=tm_i_terms" rel="nofollow">TERMS OF USE</a>.</span>
+        <span class="pull-right  hide "><a href="http://concerts.livenation.com/h/help.html?tm_link=tm_i_help" target="_blank">Live Nation Help</a></span>
+        <span class="clear"></span>
+    </p>    <p class="site-disclaimer mgLft10 txtLft"><a href="http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy" rel="nofollow" target="_blank">Privacy Policy</a> | © 2006 - 2017 Live Nation Worldwide, Inc. All rights reserved.<br>  This product uses the Instagram API but is not endorsed or certified by Instagram.</p>        <ul id="secureLogos" class="mgLft10 txtLft">
+            <li><a rel="nofollow" target="cybertrust" href="http://secure.omniroot.com/en/find/sealct.cfm?cn=concerts.livenation.com" class="vcs"><span class="hideContent">Verizon CyberTrust Security - Secured Site</span></a></li>
+        </ul>	</div>
+</div><!-- end footer -->
+<script type="text/javascript" src="http://s1.ticketm.net/en-us/js/0089b88c134a11ab186e26213e3609d5/omniture_tracker.js"></script>
+<script type="text/javascript"> 
+var omni_recognized;
+var cookie_id = GetCookie("MID");
+if ( cookie_id == null || cookie_id.length == 0 ) {
+    omni_recognized = "unrecognized";
+}
+else {
+    omni_recognized = "recognized";
+}
+
+tm_omn.campaign = calcCampaign();
+tm_omn.pageName = "LN_US: Help: Privacy Policy"; /* Page Name */
+
+
+tm_omn.products = tm_omni_temp.get('omnEID') != '' ? ';' + tm_omni_temp.get('omnEID') : '';
+    
+        
+    
+
+
+tm_omn.events="";
+tm_omn.event74 = "";
+tm_omn.event75 = "";
+tm_omn.channel = "LN_US: Help "; /* Page Type */
+tm_omn.server = "";  /*  Server */
+tm_omn.pageType = ""; /*  Pages Not Found */
+tm_omn.prop1 = "LN_US: Help ";  /* Sub Page Type  */
+tm_omn.prop2 = "LN_US: Help ";  /* Level 1 */
+tm_omn.prop3 = "LN_US: Help ";  /* Level 2 */
+tm_omn.prop4 = "";  /* Previous Page Name      */
+tm_omn.prop5 = "";  /* Internal Search Term    */
+tm_omn.prop6 = "";  /* Total # of Search Results Returned */
+tm_omn.prop7 = "";  /* Search Refinements      */
+
+/* Ticket Insurance Selection: Primary | Resale */
+tm_omn.prop8 = "";  /* Ticket Insurance        */
+tm_omn.prop9 = "national_" + omni_recognized;  /* Navigation State        */
+tm_omn.prop10 = "";  /* Flash Version   */
+tm_omn.prop11 = "";  /* Set Location Value      */
+
+/* Ticket Insurance Is Offered: Primary (static/dynamic) | Resale */  tm_omn.prop12 = tm_omni_temp.get('prop12') ? tm_omni_temp.get('prop12') : '';  /* Modules Available       */
+tm_omn.prop13 = GetCookie('MID') ? "Recognized" : "Unrecognized";  /* Logged in status        */
+tm_omn.prop14 = new $H( location.search.toQueryParams() ).get('tm_link'); /* Navigation Link */
+tm_omn.prop15 = "en-us";  /* Language        */
+tm_omn.prop16 = "LN_US: Help: Privacy Policy";  /* Page Name - Detailed  */
+tm_omn.prop17 = "LN_US";  /* which domain  */ 
+
+/* These props are for Google reCaptcha, Solve Captcha and for Resale listings*/tm_omn.prop18 = "";
+tm_omn.prop19 = "";
+tm_omn.prop21 = "";
+
+tm_omn.prop27 = GetCookie("BID") ? GetCookie("BID") : "";
+tm_omn.prop28 = GetCookie("SID") ? GetCookie("SID") : "";
+tm_omn.prop33 = "D=g";
+tm_omn.prop44 = "";
+tm_omn.prop46 = "";
+tm_omn.prop65 = "";
+tm_omn.eVar2 = "";  /* Level 1 */
+tm_omn.eVar3 = "";  /* Level 2 */   
+tm_omn.eVar7 = ""; /* Internal Search Term    */
+tm_omn.eVar8 = tm_omni_temp.get('omnMID');  /* Entry Market    */
+tm_omn.eVar9 = tm_omn.prop9;
+tm_omn.eVar10 = tm_omni_temp.get('omnMID');  /* Merchandising Market    */  tm_omn.eVar12 = "";  /* Modules Available       */tm_omn.eVar13 = "";  /* Module clicked  */
+tm_omn.eVar14 = "";  /* Navigation Link */
+tm_omn.eVar15 = calc15();  /* Merchandising Link      */
+tm_omn.eVar16 = tm_omni_temp.get('omnVID');  /* Venue ID */
+tm_omn.eVar17 = tm_omni_temp.get('omnAID');  /* Artist ID  */
+tm_omn.eVar18 = "";  /* Day of Week     */
+tm_omn.eVar19 = "";  /* Time of Day     */
+tm_omn.eVar20 = "";  /* Payment Methods */
+tm_omn.eVar21 = "none";  /* Brand   */
+tm_omn.eVar22 = "en-us";  /* Language */ 
+tm_omn.eVar23 = "";  /* EDP Type        */
+tm_omn.eVar24 = "";  /* Checkout Type   */
+tm_omn.eVar25 = "";  /* Promotion ID    */
+tm_omn.eVar26 = "";  /* Visit Number    */
+tm_omn.eVar27 = "";  /* Visit Referral Domain   */
+tm_omn.eVar28 = "";  /* Original Referral Domain        */
+tm_omn.eVar29 = "";  /* Entry Page Name */
+tm_omn.eVar31 = "";  /* Delivery Methods */       
+tm_omn.eVar32 = "";  /* BV rating       */
+tm_omn.eVar33 = "";  /* Ticket Type     */
+tm_omn.eVar34 = "";  /* Inventory Request Type */ 
+tm_omn.eVar35 = "";  /* NTF Distribution        */
+tm_omn.eVar36 = "";  /* Resale Posting ID or Order ID (same as Purchase ID) */
+tm_omn.eVar37 = GetCookie("MID") ? GetCookie("MID") : "";  /* CustomerID      */
+tm_omn.eVar38 = "LN_US";
+tm_omn.eVar40 = "";
+tm_omn.eVar43 = calc43();
+if ( Discrete.id ) {
+    tm_omn.eVar49 = Discrete.id;
+}
+
+
+tm_omn.eVar50 = GetCookie("MID_MD5") ? GetCookie("MID_MD5") : "";  /* CustomerID MD5     */
+tm_omn.eVar52 = calc52();
+tm_omn.eVar53 = tm_omn.prop27;
+tm_omn.eVar54 = tm_omn.prop28;
+tm_omn.eVar59 = "D=g";tm_omn.pageType = "";
+tm_omn.purchaseID  = "";  /* Purchase ID     */
+tm_omn.state = "";  /* User Billing State */     
+tm_omn.zip = "";  /* User Billing ZIP       */ 
+tm_omn.currencyCode = "";  /* Currency Code */  
+
+if(tm_omn.prop14){
+   tm_omn.prop14 = "LN_US: " + tm_omn.prop14;
+   }
+if(tm_omni_temp.get('recentViewCarousel')){
+  if(tm_omn.prop12){
+     tm_omn.prop12 = tm_omn.prop12 + "," + tm_omni_temp.get('recentViewCarousel');
+   }else{
+     tm_omn.prop12 = tm_omni_temp.get('recentViewCarousel');
+    }
+}
+
+
+     if(!location.href.include('html.ng/site')){
+         tm_omn.t()
+     }
+function initshare(){
+    new PeriodicalExecuter(function(pe) {
+         if( $('at_hover') ) {
+            var shareDivs = $$('div[onclick*=addthis_sendto]');
+                shareDivs = shareDivs.uniq();
+             shareDivs.each( function(d){
+                var attr =  d.readAttribute('onclick');
+                  if(!attr.include('more')){
+                    d.observe('click',function(){
+                       omniTracking.trackomni_favoriteshare([],[],'Share Event',d);
+                       attr;
+                     });
+                  }
+               });
+         pe.stop();
+         }
+     }, 1);
+
+}
+function wt_stringscrape(passedValue, entryOutcome ){
+var stringedData;
+ try{
+    passedValue = passedValue.stripScripts().stripTags().escapeHTML();
+    passedValue = passedValue.empty() ? "null" : passedValue;
+    passedValue = unescape(passedValue);
+
+    if(entryOutcome){
+       tm_omn.prop11 = "Success: " + passedValue;
+     }else{
+       tm_omn.prop11 = "Error: " + passedValue;
+          }
+
+            //if prop14 has value scode populates event. override it.
+                tm_omn.prop14 = "";
+            var changeLocationClick = new omniCustomClick({
+                    linkTrackVars: 'prop11',
+                     prop11: tm_omn.prop11
+                  },
+                 clickLink = 'Change Location',
+                   newPage = false
+                );
+            changeLocationClick.handleClick(changeLocationClick)
+    }catch(err){
+          
+    }
+}
+
+            function omniTrack( tag ) {
+                tm_omni_temp.set('override_prop4', tm_omn.pageName);
+                tm_omni_temp.set('pagetype','search') ;
+                new PeriodicalExecuter(function(pe) {
+                    if(tm_omni_temp.get('filterComplete') || tag.include('Pagination') || tag.include('other_matches')) {
+                       if(tm_omni_temp.get('search_results_total') == tm_omni_temp.get('totalDocs_pageload')){
+                             if(tag.include('_Pagination')){
+                                 $w('pageName prop16').each( function(cl){
+                                    tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,"") + ": Pagination";
+                                 });
+                              }else{
+                                   if(tag.include('_filter')){
+                                       $w('pageName prop16').each( function(cl){
+                                           tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,'');
+                                           tm_omn[cl] = tm_omn[cl] + ": Filter";
+                                        });
+                                   }else{
+                                       $w('pageName prop16').each( function(cl){
+                                           tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,'');
+                                        });
+                                   }
+                              }
+                        }else{
+                             var filt_pag = "";
+                             $w('pageName prop16').each( function(cl){
+                                tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,"");
+                                  if(tag.include('_Pagination')){
+                                    filt_pag = ": Pagination";
+                                  }
+                                tm_omn[cl] = tm_omn[cl] + ": Filter" + filt_pag;
+                             });
+                        }                      
+                             $w('prop14 prop7 eVar14').each( function(cs){
+                                tm_omn[cs] = "LN_US: " + tag;
+                             });
+                            tm_omn.prop5 = "";
+                            tm_omn.eVar7 = "";
+                            tm_omn.prop4 = tm_omni_temp.get('override_prop4');
+                            tm_omn.t();
+                            pe.stop();
+                            tm_omni_temp.set('firstFilter', '1')
+                            tm_omni_temp.unset('filterComplete');
+                      }
+                   }, .25);
+                 }
+
+
+function calcCampaign(queryParams) {
+  if(typeof queryParams === 'object' && queryParams !== null) {
+		var q_p = queryParams;
+	} 
+	else {
+		var q_p = location.search.toQueryParams();
+    }
+
+    if( q_p.SREF || q_p.fb_ref ) {
+        var campaignsDoNotCut = [
+            "P_HomePageModule_main",
+            "P_MusicPageModule_main",
+            "P_FamilyPageModule_main",
+            "P_ArtsPageModule_main",
+            "P_SportsPageModule_main",
+            "P_SpecialsPageModule_main",
+            "P_ArtistPageModule_main",
+            "P_PurchasePageModule_main",
+            "P_EventPageModule_main",
+            "P_VenuePageModule_main"
+        ];
+        var doNotCutCampaign = Boolean(q_p.SREF && campaignsDoNotCut.indexOf(q_p.SREF) != -1);
+        if(!doNotCutCampaign) {
+            for(key in q_p) {
+                q_p[key] = q_p[key].split("_")[0];
+            }
+        }
+
+        var map = {
+            "FBShare"                 : "SLfbk-001",
+            "FBShareBuy"              : "SLfbk-002",
+            "FBLike"                  : "SLfbk-003",
+            "FBLikeURL"               : "SLfbk-004",
+            "FBUnknown"               : "SLfbk-005",
+            "FBKSharePurchISMnfss"    : "SLfbk-013",
+            "FBKShareBuyPurchISMnfss" : "SLfbk-014",
+            "FBKSharePurchISMftss"    : "SLfbk-015",
+            "FBKShareBuyPurchISMftss" : "SLfbk-016",
+            "FBKSharePurchISMftns"    : "SLfbk-017",
+            "FBKShareBuyPurchISMftns" : "SLfbk-018",
+            "FBKSharePurchISMnfns"    : "SLfbk-019",
+            "FBKShareBuyPurchISMnfns" : "SLfbk-020",
+            "FBKShareEdpISMnfss"      : "SLfbk-021",
+            "FBKShareBuyEdpISMnfss"   : "SLfbk-022",
+            "FBKShareEdpISMftss"      : "SLfbk-023",
+            "FBKShareBuyEdpISMftss"   : "SLfbk-024",
+            "FBKShareEdpISMftns"      : "SLfbk-025",
+            "FBKShareBuyEdpISMftns"   : "SLfbk-026",
+            "FBKShareEdpISMnfns"      : "SLfbk-027",
+            "FBKShareBuyEdpISMnfns"   : "SLfbk-028",
+            "FBKShareEdpSTagISMss"    : "SLfbk-029",
+            "FBKShareBuyEdpSTagISMss" : "SLfbk-030",
+            "FBKShareEdpSTagISMns"    : "SLfbk-031",
+            "FBKShareBuyEdpSTagISMns" : "SLfbk-032",
+            "FBKShareEdpFTagISMss"    : "SLfbk-033",
+            "FBKShareBuyEdpFTagISMss" : "SLfbk-034",
+            "FBKShareEdpFTagISMns"    : "SLfbk-035",
+            "FBKShareBuyEdpFTagISMns" : "SLfbk-036",
+            "FBKInviteTagNotify"      : "SLfbk-037",
+            "FBKInviteEDP"            : "SLfbk-038",
+            "FBKInviteHome"           : "SLfbk-039",
+            "FBKInviteMusic"          : "SLfbk-040",
+            "FBKInviteSports"         : "SLfbk-041",
+            "FBKInviteFamily"         : "SLfbk-042",
+            "FBKInviteArts"           : "SLfbk-043",
+            "FBKInviteMisc"           : "SLfbk-044",
+            "FBKInviteArtist"         : "SLfbk-045",
+            "FBKInviteConfirmation"   : "SLfbk-046",
+            "FBKLikeArtist"           : "SLfbk-047",
+            "FBKLikeEvent"            : "SLfbk-048",
+            "FBKLikeVenue"            : "SLfbk-049",
+            "FBKLikeURLArtist"        : "SLfbk-050",
+            "FBKLikeURLVenue"         : "SLfbk-051",
+            "FBKLikeURLEvent"         : "SLfbk-052",
+            "FBKShareArtist"          : "SLfbk-053",
+            "FBKShareBuyArtist"       : "SLfbk-054",
+            "FBKShareConfirmation"    : "SLfbk-055",
+            "FBKShareBuyConfirmation" : "SLfbk-056",
+            "TWArtist"                : "SLfbk-060",
+            "TWVenue"                 : "SLfbk-061",
+            "TWEvent"                 : "SLfbk-062",
+            "TWConfirmation"          : "SLfbk-063",
+            "FBKShare"                : "SLfbk-007",
+            "FBKShareBuy"             : "SLfbk-008",
+            "FBKLike"                 : "SLfbk-009",
+            "FBKLikeURL"              : "SLfbk-010",
+            "FBKInvite"               : "SLfbk-005",
+            "FBKLikeArtist"           : "SLfbk-047",
+            "FBKLikeEvent"            : "SLfbk-048",
+            "FBKLikeVenue"            : "SLfbk-049",
+            "FBiFBShare"              : "SLfbk-011",
+            "FBiFBShareBuy"           : "SLfbk-012",
+            "FBKInviteEspeciales"     : "SLfbk-044",
+            "TWArtistKeyword"         : "SLfbk-064",
+            "TWVenueKeyword"          : "SLfbk-065",
+            "TWEventKeyword"          : "SLfbk-066",
+            "TWConfirmationKeyword"   : "SLfbk-067",
+            "FBLikeArtistTMm"         : "SLfbk-068",
+            "FBLikeURLArtistTMm"      : "SLfbk-069",
+            "FBKLikeEventTMm"         : "SLfbk-070",
+            "FBKLikeURLEventTMm"      : "SLfbk-071",
+            "FBLikeArtist8BTMef"      : "SLfbk-072",
+            "FBLikeURLArtist8BTMef"   : "SLfbk-073",
+            "FBLikeArtist8BTMpe"      : "SLfbk-074",
+            "FBLikeURLArtist8BTMpe"   : "SLfbk-075",
+            "FBLikeArtist8BTM"        : "SLfbk-076",
+            "FBLikeURLArtist8BTM"     : "SLfbk-077",
+            "FBKLikeEvent8BTM"        : "SLfbk-078",
+            "FBKLikeURLEvent8BTM"     : "SLfbk-079",
+            "FBKLikeEvent8BTMef"      : "SLfbk-080",
+            "FBKLikeURLEvent8BTMef"   : "SLfbk-081",
+            "FBKShareRSVP8BTMef"      : "SLfbk-082",
+            "FBKShareBuyRSVP8BTMef"   : "SLfbk-083",
+            "FBKShareRSVP8BTMedp"     : "SLfbk-084",
+            "FBKShareBuyRSVP8BTMedp"  : "SLfbk-085",
+            "FBKShareRSVP8BTMedp2"    : "SLfbk-086",
+            "FBKShareBuyRSVP8BTMedp2" : "SLfbk-087",
+            "FBKShareRSVP8BTMcp"      : "SLfbk-088",
+            "FBKShareBuyRSVP8BTMcp"   : "SLfbk-089",
+            "FBKShareRSVP8BTMc"       : "SLfbk-090",
+            "FBKShareBuyRSVP8BTMc"    : "SLfbk-091",
+            "FBKShareWANT8BTMedp"     : "SLfbk-092",
+            "FBKShareBuyWANT8BTMedp"  : "SLfbk-093",
+            "FBKShareJUST8BTMc"       : "SLfbk-094",
+            "FBKShareBuyJUST8BTMc"    : "SLfbk-095",
+            "TWVenueArtist"           : "SLfbk-110",
+            "FBKLikeVenueArtist"      : "SLfbk-109"
+        };
+        if( map[q_p.SREF] || map[q_p.fb_ref] ) {
+            return map[q_p.SREF] || map[q_p.fb_ref];
+        }
+        else {
+            return q_p.SREF || q_p.fb_ref;
+        }
+    }
+}
+
+function calc43() {
+    var q_p = location.search.toQueryParams();
+    if( q_p.SFBState ) {
+        switch( q_p.SFBState ) {
+            case "Connected" :
+                return 'Connected';
+            break;
+            case "Not-Connected" :
+                return 'Not Connected';
+            break;
+            case "Unknown" :
+                return 'Unknown';
+            break;
+        }
+    }
+}
+
+function calc52() {
+    var c_v = GetCookie("GEO_OMN");
+    if ( c_v == null || c_v.length == 0 ) {
+        return 'Geotargeting Not Enabled';
+    }
+    else {
+        switch( c_v ) {
+          case "ba":
+            return 'No Call Made Browse Area Cookie';
+          case "ua":
+            return 'No Call Made User Area Cookie';
+          case "in":
+            return 'In Area';
+          case "out":
+            return 'Out of Area';
+          case "unk":
+            return 'Unidentifiable';
+          case "aol":
+            return 'AOL';
+          case "corp":
+            return 'Corporation';
+          case "anon":
+            return 'Anonymous';
+          case "sat":
+            return 'Satellite';
+          case "seo":
+            return 'SEO Crawler';
+          default:
+            return 'Geotargeting No Data';
+        }
+    }
+}
+
+function calc15() {
+    var q_p = location.search.toQueryParams();
+    if( q_p.tm_link ) {
+      var queryParams = $H( location.search.toQueryParams() );
+      var isFromHappeningSoon = queryParams.get('hsoon');
+
+      if(isFromHappeningSoon) {
+        return "LN_US: " + queryParams.get('tm_link');
+      }
+        return validateTmLink( $H( location.search.toQueryParams() ).get('tm_link') );
+    }
+    else if(q_p.mch_link){
+        return retrieveMchLnk( $H( location.search.toQueryParams() ).get('mch_link') );
+    }
+    else if( q_p.SREF ) {
+        var to_return = 'LN_US: ' + 'FBConn_click_';
+        var set_events = false;
+        if( q_p.SREF.include("P_HomePageModule_main") ) {
+            to_return += 'home1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_MusicPageModule_main") ) {
+            to_return += 'music1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_FamilyPageModule_main") ) {
+            to_return += 'family1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_ArtsPageModule_main") ) {
+            to_return += 'arts1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_SportsPageModule_main") ) {
+            to_return += 'sports1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_SpecialsPageModule_main") ) {
+            to_return += 'specials1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_ArtistPageModule_main") ) {
+            to_return += 'artist1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_PurchasePageModule_main") ) {
+            to_return += 'purchase1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_EventPageModule_main") ) {
+            to_return += 'event1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_VenuePageModule_main") ) {
+            to_return += 'venue1';
+            set_events = true;
+        }
+        if( set_events ) {
+            tm_omn.linkTrackVars = 'events,eVar15';
+            tm_omn.linkTrackEvents = 'event14';
+            tm_omn.events = 'event14';
+            return to_return;
+        }
+    }
+}
+
+function retrieveMchLnk(mchLinkVal){
+          tm_omn.linkTrackVars = 'events,eVar15';
+          tm_omn.linkTrackEvents = 'event14';
+          tm_omn.events=tm_omn.apl(tm_omn.events,'event14',',',2);
+          mchLinkVal = 'LN_US: ' + mchLinkVal;
+          return mchLinkVal;
+          tm_omn.eVar15 = tm_omn.getValOnce(tm_omn.eVar15,'s_evar15',0);
+}
+
+function validateTmLink(val){
+// added tm_artist_rc and tm_artist_rv as a fix for artist page recommendation bug
+// this should either be remove or replace artist_rc and artist_rv after we confirm
+// artist should have prefix or not
+var arrLinkTest = [
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)_(ts|c|d|event|g|h|j|k|lv|n|artist)(\d+)$/i,
+                     /^(artist_rc_)(\w+)$/i,
+                     /^(artist_rv_)(\w+)$/i,
+                     /^(tm_artist_rc_)(\w+)$/i,
+                     /^(tm_artist_rv_)(\w+)$/i,
+                     /^(edp_artist_)(\w+)$/i,
+                     /^(mytm_recommend_image|mytm_recommend_name)(\d+)$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros|artist|conf|mytm|search|browse|venue|conf|mycart)(_rc_)(findtix|image|name|moredates|rating|venue)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros|artist|conf|mytm|search|browse|venue|conf|mycart)(_rv(\d|\d_viewed\d)?_?)((findtix|image|name|moredates|rating|venue|search|browse)(\d+)?)?$/i,
+                     /^(\w*)(_rv_|_rc_|_recommend_)(rating|viewed)\d+/i,
+                     /^(tm_)(home|browse|section|search|artist|venue|mytm)(_rv_)(\w*)/i,
+                     /(_rv_)(image|name)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(\w*)_(r|f)(\d+)$/i,
+                     /^(mytm_favEvent_local\w*)|(mycart_favEvent_local\w*)|(mytm_favEvent_else_Name)$/i,
+                     /^(tm_homeA_popular)(\d+)$/i,
+                     /^(tm_\w*)(_b_1000)(\d+_\d+)$/i
+                            ]
+
+   for(i=0;i<arrLinkTest.length; i++){
+       if(arrLinkTest[i].test(val)){
+          tm_omn.linkTrackVars = 'events,eVar15';
+          tm_omn.linkTrackEvents = 'event14';
+          tm_omn.events=tm_omn.apl(tm_omn.events,'event14',',',2);
+          val = 'LN_US: ' + val;
+          return val;
+          tm_omn.eVar15 = 'LN_US: ' + tm_omn.getValOnce(tm_omn.eVar15,'s_evar15',0);
+          break;
+        }
+   }
+}
+
+function dcsMultiTrack(){
+try{
+  var dcs_to_omni = $A(arguments).last();
+      omniTracking.navigation_link(dcs_to_omni, false);
+   }catch(err){}
+}
+
+
+function sell_flow_confirmation() {}
+
+
 </script>
-		<div style="display:none">
-			<!-- Facebook JS SDK -->  
-			<script type="text/javascript">
-				window.fbAsyncInit = function() {
-		        FB.init({
-		          appId      : '733054900051438',
-		          	cookie: true, 
-		          	status: true, 
-		          	xfbml: true, 
-		          	oauth: true
-		        });
-		      };
-		      (function(d, s, id){
-		         var js, fjs = d.getElementsByTagName(s)[0];
-		         if (d.getElementById(id)) {return;}
-		         js = d.createElement(s); js.id = id;
-		         js.src = "//connect.facebook.net/en_US/all.js";
-		         fjs.parentNode.insertBefore(js, fjs);
-		       }(document, 'script', 'facebook-jssdk'));
-			</script>
-			
-			<!-- Twitter Widget JS --> 
-			<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-			
-			<!-- Facebook Tracking Pixel --> 
-			<script type="text/javascript">(function(){
-			  window._fbds = window._fbds || {};
-			  _fbds.pixelId = 598487216867521;
-			  var fbds = document.createElement('script');
-			  fbds.async = true;
-			  fbds.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//connect.facebook.net/en_US/fbds.js';
-			  var s = document.getElementsByTagName('script')[0];
-			  s.parentNode.insertBefore(fbds, s);
-			})();
-			window._fbq = window._fbq || [];
-			window._fbq.push(["track", "PixelInitialized", {}]);
-			</script>
-			<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=598487216867521&amp;ev=NoScript" /></noscript>
-			
-			<!-- Google Code for Homepage Conversion Page -->
-			<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-			<script type="text/javascript">
-			/* <![CDATA[ */
-			var google_conversion_id = 1040579092;
-			var google_conversion_label = "nfdCCOjGzgEQlPSX8AM";
-			var google_custom_params = window.google_tag_params;
-			var google_remarketing_only = true;
-			/* ]]> */
-			</script>
-			
-			<!-- start rs_analytics -->
-			<script type="text/javascript">
-			var _rs={};_rs.audId='xZszM6tcXsywwRrwA';
-			_rs.dmn=encodeURIComponent(window.location.href);
-			(function(d,s,id){
-			  var rsp=d.createElement(s);var ref=d.getElementsByTagName(s)[0];
-			  if(d.getElementById(id)){return;}rsp.id=id;rsp.async=true;
-			  rsp.src='//analytics.reachsocket.com/rs.js';
-			  rsp.src+='?aud='+_rs.audId+'&dmn='+_rs.dmn;
-			  rsp.src+= '&crt=' + new Date().getTime();
-			  ref.parentNode.insertBefore(rsp, ref);})(document,'script','rs_xZszM6tcXsywwRrwA');
-			</script>
-			<!-- end rs_analytics -->
-		
-			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-			<noscript>
-				<div style="display:inline;">
-					<img height="1" width="1" style="border-style:none;" alt="" 
-						src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1040579092/?value=0&label=nfdCCOjGzgEQlPSX8AM&guid=ON&script=0"/>
-				</div>
-			</noscript>
-		
-			<!-- Facebook Pixel Code -->
-			<script>
-			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-			document,'script','//connect.facebook.net/en_US/fbevents.js');
-			
-			fbq('init', '141703919519512');
-			fbq('track', 'Purchase', {value: '0.00', currency: 'USD'});;
-			</script>
-			<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=141703919519512&ev=PageView&noscript=1"/></noscript>
-			<!-- End Facebook Pixel -->
-			
-			<!-- Google Remarketing -->
-			<script type="text/javascript">
-				/* <![CDATA[ */
-				var google_conversion_id = 931884876;
-				var google_custom_params = window.google_tag_params;
-				var google_remarketing_only = true;
-				/* ]]> */
-			</script>
-			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-			<noscript>
-				<div style="display:inline;">
-				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/931884876/?value=0&amp;guid=ON&amp;script=0"/>
-				</div>
-			</noscript>
-			<!-- End Google Remarketing -->
-			
-			<!-- Twitter Tracking -->
-			<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-			<script type="text/javascript">twttr.conversion.trackPid('nu6dy', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-			<noscript>
-			<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nu6dy&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-			<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nu6dy&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-			</noscript>
-			<!-- End Twitter Tracking -->
-			
-		</div>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f3821a41bd","applicationID":"2551885","transactionName":"ZAFWbREHXEQEB0dZVl1LYUsKSVtZAQFLHklbFA==","queueTime":0,"applicationTime":45,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">
+function getExitPopOmnitureVars() {
+     var suffix = " ScoreBig Pop Up";
+     var tmn_omn=window.tmn_omn;
+     return {
+             "pageName": omn_domain_owner + suffix,
+             "channel": omn_domain_owner + suffix,
+             "prop1": omn_domain_owner + suffix,
+             "prop2": omn_domain_owner + suffix,
+             "prop3": omn_domain_owner + suffix,
+             "prop4": tm_omn.prop4,
+             "prop9": tm_omn.prop9,
+             "prop10": tm_omn.prop10,
+             "prop13": tm_omn.prop13,
+             "prop15": tm_omn.prop15,
+             "prop16": omn_domain_owner + suffix,
+             "prop17": tm_omn.prop17,
+             "prop18": tm_omn.prop18,
+             "prop19": tm_omn.prop19,
+             "prop20": tm_omn.prop20,
+             "prop21": tm_omn.prop21,
+
+             "eVar8": tm_omn.eVar8,
+             "eVar9": tm_omn.eVar9,
+             "eVar10": tm_omn.eVar10,
+             "eVar16": tm_omn.eVar16,
+             "eVar17": tm_omn.eVar17,
+             "eVar18": tm_omn.eVar18,
+             "eVar19": tm_omn.eVar19,
+             "eVar22": tm_omn.eVar22,
+             "eVar26": tm_omn.eVar26,
+             "eVar39": tm_omn.eVar39
+     };
+}
+
+</script>
+<script type="text/javascript">
+var browseLinks = (function() {
+    var _self = {
+        defaultLinkType: 'seo',
+        excludedKeys: ['category', 'root', 'dma', 'dma_id'],
+        sortKeys: false,
+        sortKeysArr: ['category', 'root', 'dma', 'dma_id', 'area', 'rdc_select', 'rds_smonth', 'rdc_sday', 'rdc_syear', 'rdc_emonth', 'rdc_eday', 'rcd_eyear', 'telval', 'type']
+    };
+    _self.genres = {
+        "10001" : {
+            "root_name" : "Music",
+            "cat_10001" : "All Music",
+            "Music" : 10001,
+            "All Music" : 10001,
+                "Alternative Rock" : 60,
+                "cat_60" : "Alternative Rock",            
+                "Cabaret" : 764,
+                "cat_764" : "Cabaret",            
+                "Classical" : 203,
+                "cat_203" : "Classical",            
+                "Comedy" : 51,
+                "cat_51" : "Comedy",            
+                "Country and Folk" : 2,
+                "cat_2" : "Country and Folk",            
+                "Dance/Electronic" : 201,
+                "cat_201" : "Dance/Electronic",            
+                "Festivals" : 766,
+                "cat_766" : "Festivals",            
+                "Hard Rock/Metal" : 200,
+                "cat_200" : "Hard Rock/Metal",            
+                "Jazz and Blues" : 4,
+                "cat_4" : "Jazz and Blues",            
+                "Latin" : 40,
+                "cat_40" : "Latin",            
+                "Miscellaneous" : 107,
+                "cat_107" : "Miscellaneous",            
+                "New Age and Spiritual" : 50,
+                "cat_50" : "New Age and Spiritual",            
+                "R&B/Urban Soul" : 202,
+                "cat_202" : "R&B/Urban Soul",            
+                "Rap and Hip-Hop" : 3,
+                "cat_3" : "Rap and Hip-Hop",            
+                "Rock and Pop" : 1,
+                "cat_1" : "Rock and Pop",            
+                "World Music" : 5,
+                "cat_5" : "World Music",            
+                "More Concerts" : 52,
+                "cat_52" : "More Concerts"            
+        },    
+        "10004" : {
+            "root_name" : "Sports",
+            "cat_10004" : "All Sports",
+            "Sports" : 10004,
+            "All Sports" : 10004,
+                "Baseball" : 10,
+                "cat_10" : "Baseball",            
+                "Basketball" : 7,
+                "cat_7" : "Basketball",            
+                "Boxing" : 33,
+                "cat_33" : "Boxing",            
+                "Bull Riding" : 61,
+                "cat_61" : "Bull Riding",            
+                "Competitions" : 206,
+                "cat_206" : "Competitions",            
+                "Curling" : 34,
+                "cat_34" : "Curling",            
+                "Field Sports" : 205,
+                "cat_205" : "Field Sports",            
+                "Football" : 8,
+                "cat_8" : "Football",            
+                "Golf" : 30,
+                "cat_30" : "Golf",            
+                "Handball" : 765,
+                "cat_765" : "Handball",            
+                "Hockey" : 9,
+                "cat_9" : "Hockey",            
+                "Lacrosse" : 35,
+                "cat_35" : "Lacrosse",            
+                "Mixed Martial Arts" : 830,
+                "cat_830" : "Mixed Martial Arts",            
+                "Motorsports" : 25,
+                "cat_25" : "Motorsports",            
+                "Rodeo" : 28,
+                "cat_28" : "Rodeo",            
+                "Skating" : 36,
+                "cat_36" : "Skating",            
+                "Soccer" : 11,
+                "cat_11" : "Soccer",            
+                "Tennis" : 31,
+                "cat_31" : "Tennis",            
+                "Volleyball" : 204,
+                "cat_204" : "Volleyball",            
+                "Wrestling" : 27,
+                "cat_27" : "Wrestling",            
+                "More Sports" : 102,
+                "cat_102" : "More Sports"            
+        },    
+        "10002" : {
+            "root_name" : "Arts & Theater",
+            "cat_10002" : "All Arts & Theater",
+            "Arts & Theater" : 10002,
+            "All Arts & Theater" : 10002,
+                "Broadway" : 16,
+                "cat_16" : "Broadway",            
+                "Off-Broadway" : 17,
+                "cat_17" : "Off-Broadway",            
+                "Ballet and Dance" : 12,
+                "cat_12" : "Ballet and Dance",            
+                "Classical" : 203,
+                "cat_203" : "Classical",            
+                "Comedy" : 51,
+                "cat_51" : "Comedy",            
+                "Museums and Exhibits" : 14,
+                "cat_14" : "Museums and Exhibits",            
+                "Musicals" : 207,
+                "cat_207" : "Musicals",            
+                "Opera" : 13,
+                "cat_13" : "Opera",            
+                "Plays" : 32,
+                "cat_32" : "Plays",            
+                "More Arts and Theater" : 53,
+                "cat_53" : "More Arts and Theater"            
+        },    
+        "10003" : {
+            "root_name" : "Family",
+            "cat_10003" : "All Family",
+            "Family" : 10003,
+            "All Family" : 10003,
+                "Children's Music and Theater" : 23,
+                "cat_23" : "Children's Music and Theater",            
+                "Circus" : 29,
+                "cat_29" : "Circus",            
+                "Fairs and Festivals" : 54,
+                "cat_54" : "Fairs and Festivals",            
+                "Family Attractions" : 19,
+                "cat_19" : "Family Attractions",            
+                "Ice Shows" : 22,
+                "cat_22" : "Ice Shows",            
+                "Magic Shows" : 209,
+                "cat_209" : "Magic Shows",            
+                "More Family" : 55,
+                "cat_55" : "More Family"            
+        },    
+        "10005" : {
+            "root_name" : "Miscellaneous",
+            "cat_10005" : "All Miscellaneous",
+            "Miscellaneous" : 10005,
+            "All Miscellaneous" : 10005,
+                "Audio Tours" : 240,
+                "cat_240" : "Audio Tours",            
+                "Camping" : 211,
+                "cat_211" : "Camping",            
+                "Casino" : 57,
+                "cat_57" : "Casino",            
+                "Concession Vouchers" : 239,
+                "cat_239" : "Concession Vouchers",            
+                "Cruise and Sightseeing" : 106,
+                "cat_106" : "Cruise and Sightseeing",            
+                "Dinner Package" : 238,
+                "cat_238" : "Dinner Package",            
+                "Donations" : 109,
+                "cat_109" : "Donations",            
+                "Expo/Convention" : 105,
+                "cat_105" : "Expo/Convention",            
+                "Gift Certificates" : 56,
+                "cat_56" : "Gift Certificates",            
+                "Hotel Reservations" : 210,
+                "cat_210" : "Hotel Reservations",            
+                "Lecture/Seminar" : 104,
+                "cat_104" : "Lecture/Seminar",            
+                "Merchandise" : 108,
+                "cat_108" : "Merchandise",            
+                "Merchandise Vouchers" : 242,
+                "cat_242" : "Merchandise Vouchers",            
+                "Movies" : 59,
+                "cat_59" : "Movies",            
+                "Parking" : 103,
+                "cat_103" : "Parking",            
+                "Restaurants" : 58,
+                "cat_58" : "Restaurants",            
+                "More Miscellaneous" : 0,
+                "cat_0" : "More Miscellaneous"            
+        }    
+    };
+
+    return {
+        /**
+         * @param int dma
+         * @return string
+         * @todo redevelop
+         */
+        getDmaZoneName: function (dma) {
+            return "United States & Canada";
+        },
+
+        /**
+         * @param int root
+         * @param int category
+         * @return string
+         */
+        getCategoryIdByName: function (root, name) {
+            if (typeof _self.genres[root] == 'undefined') {
+                return 0;
+            }
+
+            return _self.genres[root][name] || 0;
+        },
+
+        /**
+         * @param int root
+         * @param int category
+         * @return string
+         */
+        getCategoryName: function (root, category) {
+            if (typeof _self.genres[root] == 'undefined') {
+                return '';
+            }
+
+            return _self.genres[root]['cat_' + category] || '';
+        },
+
+        /**
+         * @param int root
+         * @return string
+         */
+        getRootName: function (root) {
+            return _self.genres[root] ? _self.genres[root]['root_name'] : '';
+        },
+
+        /**
+         * Return urlified string
+         *
+         * @param string str
+         * @return string suffix
+         */
+        transformUrlString: function (str, suffix) {
+            var result = str.toLowerCase().replace(/^\s+|\s+$/g, '').replace(/&+/g, '-and-').replace(/\W+/g, '-');
+
+            return result.length ? result + suffix : '';
+        },
+
+        /**
+         * Compose seo link
+         *
+         * @param object obj
+         * @param string linkType
+         *
+         * @return string
+         */
+        composeUrl: function (obj, linkType) {
+            var result = '/browse', query;
+            
+            linkType = linkType || _self.defaultLinkType;
+            
+            obj.root = obj.root || 0;
+            obj.rootName = obj.rootName || this.getRootName(obj.root);
+            
+            obj.category = obj.category || (obj.categoryName ? this.getCategoryIdByName(obj.root, obj.categoryName) : obj.root);
+            obj.categoryName = obj.categoryName || this.getCategoryName(obj.root, obj.category);
+            
+            obj.dma = obj.dma || 0;
+            obj.dmaName = obj.dmaName || this.getDmaZoneName(obj.dma);
+
+            obj.queryParams = obj.queryParams || this.getQueryParams();
+            
+            if (linkType == 'seo') {
+                if (obj.category) {
+                    result += '/' + this.transformUrlString(obj.categoryName, '-') + 'catid-' + obj.category;
+                }
+
+                if (obj.root) {
+                    result += '/' + this.transformUrlString(obj.rootName, '-') + 'rid-' + obj.root;
+                
+                    if (obj.dma) {
+                        result += '/' + this.transformUrlString(obj.dmaName, '-') + 'dma-' + obj.dma;
+                    }
+                }
+            } else {
+                if (obj.category) {
+                    obj.queryParams['category'] = obj.category;
+                }
+                
+                if (obj.root) {
+                    obj.queryParams['root'] = obj.root;
+                }
+
+                if (obj.dma) {
+                    obj.queryParams['dma'] = obj.dma;
+                }
+            }
+
+            query = $H(this.sortParameters(this.paramFilter(obj.queryParams, obj.excludeKeys || []))).toQueryString();
+            return result + (query.length ? '?' + query : '');
+        },
+
+        /**
+         * Compose URL and redirect to browse page
+         *
+         * @param object obj
+         * @param string linkType
+         */
+        updateLocation: function (obj, linkType) {
+            document.location = this.composeUrl(obj, linkType);
+            return false;
+        },
+
+        /**
+         * Sort query parameters
+         *
+         * @param object obj
+         * @param array keys
+         *
+         * @return object
+         */
+        sortParameters: function (obj, keys) {
+            var resultObj = {}, i = 0, l = 0;
+            keys = keys || _self.sortKeysArr;
+            l = keys.length;
+
+            if (!_self.sortKeys || !l) {
+                return obj;
+            }
+
+            for (; i < l; i++) {
+                if (obj.hasOwnProperty(keys[i])) {
+                    resultObj[keys[i]] = obj[keys[i]];
+                }
+            }
+
+            return resultObj;
+        },
+
+        /**
+         * Return current location path
+         * Work only with /browse page
+         *
+         * @return object
+         */
+        getPathParams: function () {
+            var path = location.pathname, result = {}, tmp;
+
+            if (!/^\/browse/.test(path)) {
+                return result;
+            }
+
+            tmp = path.match(/\/[\w-]*rid-([0-9]+)/);
+            if (tmp && tmp.length) {
+                result['root'] = tmp[1];
+            }
+
+            tmp = path.match(/\/[\w-]*catid-([0-9]+)/);
+            if (tmp && tmp.length) {
+                result['category'] = tmp[1];
+            }
+
+            tmp = path.match(/\/[\w-]*dma-([0-9]+)/);
+            if (tmp && tmp.length) {
+                result['dma'] = tmp[1];
+            }
+
+            return result;
+        },
+
+        /**
+         * Return current query parameters
+         *
+         * @return object
+         */
+        getQueryParams: function () {
+            return location.search ? document.URL.toQueryParams() : {};
+        },
+
+        /**
+         * Clear query parameters
+         *
+         * @param object obj
+         * @param array excludeKeys
+         *
+         * @return object
+         */
+        paramFilter: function (obj, excludeKeys) {
+            var i;
+
+            if (!excludeKeys || !excludeKeys.length) {
+                excludeKeys = _self.excludedKeys;
+            }
+
+            i = excludeKeys.length;
+            while (i--) {
+                if (obj.hasOwnProperty(excludeKeys[i])) {
+                    delete obj[excludeKeys[i]];
+                }
+            }
+
+            return obj;
+        }
+    };
+})();
+
+/**
+ * Transform form data to query params
+ *
+ * @param HTMLFormElement form
+ * @return null redirect
+ */
+function submitBrowseForm(form) {
+    var formData = jQuery(form).serializeArray(), object = {queryParams: {}};
+
+    // Something Goes Wrong
+    if (!formData || !formData.length) {
+        return false;
+    }
+
+    formData.each(function (i) {
+        if (i.name == 'category' || i.name == 'root' || i.name == 'dma') {
+            object[i.name] = i.value;
+        } else {
+            object['queryParams'][i.name] = i.value;
+        }
+    });
+
+    return browseLinks.updateLocation(object);
+}
+</script>
+
+    <script type="text/javascript">
+    //<![CDATA[
+        var _comscore = _comscore || [];
+        var comScoreKW = "";
+        if(typeof _comscore !== "undefined") {
+            if(comScoreKW && comScoreKW.length > 0) {
+                 _comscore.push({ c1: "2", c2: "3005317", options: {url_append: "comscorekw=" + comScoreKW}});
+            } else {
+                 _comscore.push({ c1: "2", c2: "3005317"});
+            }
+        }
+        new OnWindowLoad( function() {
+            (function() {
+                  var s = document.createElement("script"), 
+                      el = document.getElementsByTagName("script")[0];
+                      s.async = true;
+                      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                      el.parentNode.insertBefore(s, el);
+            })();
+        }, { load_last: true } );
+    //]]>
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005317&cv=2.2&cj=1" id="comScore_img" alt="" />
+    </noscript>
+	<script type="text/javascript">	
+		 if(typeof _satellite !== "undefined" && typeof _satellite.pageBottom === "function"){
+		 	 _satellite.pageBottom(); 
+		 }
+	 </script>
+
+
+
+
+
+
 
 </body></html>
