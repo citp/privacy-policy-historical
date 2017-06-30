@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121253id_/https%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630182022id_/https%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MakeMyTrip.com
 
