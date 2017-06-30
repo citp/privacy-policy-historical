@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231230841id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nytimes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234937id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
-_Last Updated on June 10, 2015_
+_Last Updated on May 18, 2017_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) website, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store  - Rare and Newsworthy Items"), [Times Journeys](http://www.nytimes.com/times-journeys/) and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) website, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store - Rare and Newsworthy Items"), [Times Journeys](http://www.nytimes.com/times-journeys/) and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
-The New York Times Replica Edition, maintained by NewspaperDirect, is governed by its own [Privacy Policy](http://nytimes.newspaperdirect.com/epaper/helpandsupport.aspx?subpage=PrivacyPolicy "The New York Times - Replica Edition").
-
-The New York Times advertising portal, for advertisers of The Times, also maintains a separate [Privacy Policy](http://www.nytadvertising.com/was/ATWWeb/public/screens/pages/privacyPolicy.jsp "Advertising in The New York Times -- privacy policy").
+The New York Times Replica Edition, maintained by PressReader, is governed by its own [Privacy Policy](https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy "The New York Times - Replica Edition").
 
 The NYT Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
 
@@ -30,14 +28,12 @@ This Privacy Policy covers:
 
 * * *
 
-  
-**TRUSTe** : The New York Times has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
 [](https://privacy.truste.com/privacy-seal/The-New-York-Times/validation?rid=25fa1555-4d9b-45be-958a-bd0c8e49c2bb "TRUSTe online privacy certification")
 
-The TRUSTe program covers only information that is collected through the NYTimes.com website. The TRUSTe program does not cover information that may be collected through software downloaded from this site.
+  
+**TRUSTe** : If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+The TRUSTe program covers only information that is collected through the NYTimes.com website. The TRUSTe program does not cover the mobile application or information that may be collected through software downloaded from this site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 * * *
 
@@ -52,7 +48,7 @@ _**Personal Information That You Give Us Or Ask a Third Party to Share with Us**
 
 Registration for the NYT Services may require that you supply certain personal information, including a unique email address and demographic information (ZIP code, age, sex, household income, job industry and job title) to register.
 
-You may register or enhance your profile by linking your Facebook or Google accounts on NYTimes.com. By doing this, you are asking them to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can unlink your social media accounts or control what they share from their privacy controls.
+You may register or enhance your profile by linking your Facebook or Google accounts on NYTimes.com. By doing this, you are asking them to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. 
 
 Social media registration features may collect your IP address, the page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site.
 
@@ -62,11 +58,11 @@ You can disassociate your NYTimes.com registration from third-party accounts any
 
 To enable payment and donations via the NYT Services, we collect and store name, address, telephone number, email address, credit card information and other billing information. This information will only be shared with third parties who help to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
 
-**User Generated Content and Public Activities (Including Comments, Reader Reviews and TimesPeople)**
+**User Generated Content and Public Activities (Including Comments and Reader Reviews)**
 
 We offer you opportunities to engage in public activities on NYTimes.com and other NYT Services. "Public activities" are any actions you take on NYTimes.com that are designed to be visible to other users, including comments, recommendations, reader reviews, ratings or any other items that you submit. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by The New York Times for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personal information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions. For more information, see the [Comments FAQ](http://www.nytimes.com/content/help/site/usercontent/usercontent.html) and read the Forums, Discussions and User Generated Content section of the [Terms of Service](http://www.nytimes.com/ref/membercenter/help/agree.html#discussions).
 
-Public activities may be included in our RSS feeds, APIs and other distribution formats. As a result, your public activities may appear on other websites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not The New York Times. Please see our [Comments FAQ](http://www.nytimes.com/content/help/site/usercontent/usercontent.html) for additional information.
+Public activities may be included in our RSS feeds, APIs and other distribution formats. As a result, your public activities may appear on other websites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not The New York Times. [Please see our Comments FAQ](http://www.nytimes.com/content/help/site/usercontent/usercontent.html) for additional information.
 
 When you share or recommend links to content on a third-party platform (such as Facebook, Google+ and Twitter), that action and any information you share will be covered by their privacy policy.
 
@@ -78,7 +74,7 @@ The New York Times collects personal information from you when you participate i
 
 The New York Times may collect personal information from you in connection with voluntary surveys conducted via the NYT Services. Data may be collected through the NYT Services, on the phone or through the mail. The information you provide may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
-Members of our Reader Panels agree to participate in surveys, polls or discussions about their readership of The New York Times, their household/personal characteristics and their purchase behavior. Our panels are currently administered by [Vision Critical](http://www.visioncritical.com/) and [Beta Research](http://www.nybeta.com/).
+Members of our Reader Panels agree to participate in surveys, polls or discussions about their readership of The New York Times, their household/personal characteristics and their purchase behavior. Our panels are currently administered by [Beta Research](http://www.nybeta.com/).
 
 **Conferences and Live Events  
 **
@@ -93,9 +89,17 @@ We use various Internet technologies to manage the NYT Services and track use of
 
 **Device Information.** We may collect non-personal information about the computer, mobile device or other device you use to access the NYT Services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use the NYT Services. You will not be able to access certain areas of our websites, including NYTimes.com, if your computer does not accept cookies from us. We do not respond to browser-based "do not track" signals. For more detailed information about our use of cookies and local storage, and how to manage them, see [Frequently Asked Questions About Cookies and Similar Technologies](http://www.nytimes.com/content/help/site/cookies/cookies.html) in our Help section.
+**Cookies, Beacons, Local Storage and Other Similar Technologies.** We use "cookies," Web beacons, tags and scripts, and other similar technologies including local storage objects such as HTML5. These technologies allow us to manage access to and use of the Services, recognize you and provide personalization, and help us understand how people use the NYT Services. You will not be able to access certain areas of our websites, including NYTimes.com, if your computer does not accept cookies from us. We do not respond to browser-based "do not track" signals. For more detailed information about our use of cookies and local storage, and how to manage them, see [Frequently Asked Questions About Cookies and Similar Technologies in our Help section.](http://www.nytimes.com/content/help/site/cookies/cookies.html)
 
 We may transmit non-personally identifiable website usage information to third parties in order to show you advertising for The New York Times when you visit other sites. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please [click here](http://www.google.com/privacy/ads/).
+
+**Local Storage Objects**
+
+We may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:
+
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
 
 **Analytics, Log Files and Reading History**
 
@@ -175,7 +179,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 ### **WHAT IS OUR EMAIL POLICY?**
 
-**The New York Times complies with the federal CAN-SPAM Act of 2003.** We will not send you marketing messages if you have opted out. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each email, or (2) you can opt-out here. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [feedback@nytimes.com](mailto:feedback@nytimes.com).
+**The New York Times complies with the federal CAN-SPAM Act of 2003.** We will not send you marketing messages if you have opted out. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each email, or (2) you can opt-out here. We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission. If you feel you have received an email from us in error, please contact [privacy@nytimes.com](mailto:privacy@nytimes.com).
 
 **Email Newsletters.** The New York Times offers several email newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. To manage your newsletter preferences, please [click here](http://www.nytimes.com/mem/email.html).
 
@@ -187,11 +191,13 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 ### **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
-**The New York Times Home Delivery Web Account.** You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for [Update Account](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome). Should you require assistance, please call our toll free number, 1-800-NYTIMES.
+**The New York Times Home Delivery Web Account.** You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for [Update Account](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome). Should you require assistance, please call our toll free number, 1-800-NYTIMES. We will respond to inquiries regarding deletion of data within a reasonable timeframe.
 
-**Manage Your NYTimes.com Account in the My Account Area.** You may review and update your NYTimes.com membership or account information and access your transaction history in the My Account area.
+**Manage Your NYTimes.com Account in the My Account Area.** You may review and update your NYTimes.com membership or account information and access your transaction history in the My Account area. We will respond to inquiries regarding deletion of data within a reasonable timeframe.
 
 **Manage Your New York Times Events Account.** Events include TimesTalks, Great Read in the Park, Arts and Leisure Weekend, Sunday with The Magazine and The New York Times Travel Show. To subscribe or unsubscribe from The New York Times Events email newsletter, please visit [www.nytimes.com/events](http://nytimes.com/events). Enter your email address in the field provided, select "unsubscribe" and click "submit."
+
+**Data Retention.** We will retain your information for at least as long as your account is active, as needed to provide you services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. As a matter of course, we will delete personally identifiable information associated with accounts that have been inactive for at least 15 years. 
 
 ### **HOW DO I OPT-OUT?**
 
@@ -202,6 +208,10 @@ If you experience difficulty with the unsubscribe process, feel free to contact 
 **Mail or Telephone Promotions**
 
 If, at any time, you prefer not to receive mail or telephone solicitations originated by The New York Times Home Delivery Department, or if you prefer that we do not share this information with third parties for marketing purposes, please email us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out) or write to us at Customer Care, P.O. Box 8041, Davenport, IA 52808-8041. Please include your account number and phone number in the body of your email or letter, and put "Opt-out" in the subject line.
+
+**Use of Third Party Personal Information**
+
+If you choose to use "email this article" or give a Gift subscription, we require the recipient’s name and email address. We will automatically send them a one-time email about the service. The New York Times does not store this information.
 
 ### **IS MY INFORMATION PROTECTED?**
 
@@ -216,11 +226,15 @@ We may access, preserve and disclose personal information if we are required to 
 
 **Children's Guidelines**
 
-**COPPA Compliance.** Except for The Learning Network (see below), The New York Times does not knowingly collect or store any personal information about children under the age of 13.
+**COPPA Compliance.**  The New York Times does not knowingly collect or store any personal information about children under the age of 13.
 
-**The Learning Network.** The Learning Network is a blog for parents, teachers and students that is freely available outside of the New York Times digital subscription service, and does not require registration. Students 13 and older are invited to post comments with their first names only on any open posts in the blog in accordance with New York Times Commenting practice. Though an email address must be provided in order to post a comment, it is not shared or sold to third parties, and does not appear publicly on the blog. To review or remove the optional email address (personal information collected), please use [this form](http://www.nytimes.com/learning/general/feedback/index.html) to contact the Learning Network.
+**The Learning Network.** The Learning Network is a site for teachers, students and parents that features daily free content for students outside of the New York Times digital subscription service. It does not require registration. Students 13 and older are invited to post comments on any open posts on the site in accordance with New York Times Commenting practice. Though an email address must be provided in order to post a comment, it is not shared or sold to third parties, and does not appear publicly on the blog. To review or remove the optional email address (personal information collected), please use [this form](http://www.nytimes.com/learning/general/feedback/index.html) to contact the Learning Network.
 
 For any questions concerning The Learning Network, please contact Katherine Schulten, NYTimes.com, 620 Eighth Avenue, 2nd floor, New York, NY 10018. Telephone: (212) 556-8391.
+
+**﻿International Transfers.  **The New York Times is headquartered in the United States. The information you submit to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country so that we may provide you the Services.
+
+U.S. law and the laws of other countries where we may store and process your information may offer different levels of protection for information than may be available in your country. By using the Services, you consent to the collection, international transfer, storage, and processing of your information.
 
 **Your California Privacy Rights**
 
@@ -228,4 +242,4 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 **Changes to This Policy**
 
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via email.
+We evaluate this privacy policy periodically in light of changing business practices, technology and legal requirements. As a result, it is updated from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use or share your personal information, you will be notified via email and/or prominent notice within the Services at least 30 days prior to the changes taking effect.
