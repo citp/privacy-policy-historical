@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215002956id_/http%3A//fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085133id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy - FNWL
-
-  
-
 
 Your privacy is very important to us. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.
 
