@@ -1,151 +1,1185 @@
-<!--The following is the downloaded HTML source of the laerdal.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203181333id_/http%3A//www.laerdal.com/document.asp%3FdocID%3D1564379) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laerdal.com privacy policy that was archived on 2017-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630154942id_/http%3A//www.laerdal.com/support/customer-service/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><title>Welcome to Laerdal Medical</title>
-<style type="text/css">
-	BODY { background : White; margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12px; Color: Black;}
-	A { color : #3D5085; }
-	A.exp { Color : Black; }
-	A.white { color : White; }
-	A.blue { color : #3D5085; }
-	.para { padding-left: 10px; margin-bottom: 10px; position: relative; display : none; }
-	INPUT { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12px; }
-	TD { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12px; }
-	TD.tabSelLinx { background-color : #CCCCCC ; font-size : 12px; }
-	.peach { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12px; background-color : #FFE5CC;}
-	.white { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9px;}
-	.whiteNS { color: White; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px;}
-	.blue { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9px; background-color : #8B89BA;}
-	.grey { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9px;  background-color : #CCCCCC;}
-	.greyNS { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px;  background-color : #CCCCCC;}
-	.red { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 9px;  background-color : #CC0033;}
-	.imageBorder {	border: 0px solid #AAAAAA; }
-	.imageText { font-style : italic; font-size : 10px; text-align : left; }
-	.imageGroupHorizontal { border: 0px solid #AAAAAA; text-indent : 4px; }
-	.itemIdText { font-size : 10px; }
-	.mainText { font-size : 12px; }
-	.pageStatement { color : Black; text-align : right; font-size : 14px; font-weight : Bold;}
-	.positionText { margin-left : 40px; font-size: 14px; font-weight : bold; color : Blue; height: 30px; }
-	.searchTitle { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 12px; font-weight : bold;}
-	.smallFont { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 10px; }
-	.inputForms { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 10px; background-color : White; width : 200px; }
-	.nsTab { font-family: Verdana; font-size: 12px; }
-	.title { font-size: 24px; font-weight : bold; }</style>
-<script language="JavaScript" type="text/javascript">
-var strBaseHref='http://www.laerdal.com/';
-function t(strPage, nodeID) { self.location.href='http://www.laerdal.com/'+strPage+'?nodeID='+nodeID; }
-function chkKey(k,s1,s2) { if (k==13) s(s1,s2); }
-function s(strPage, strArg) {
-	if (strArg=="txtNr") {
-		self.location.href='http://www.laerdal.com/'+strPage+'?txtNr='+document.forms[0].elements[0].value;
-	} else {
-		self.location.href='http://www.laerdal.com/'+strPage+'?txtSearchText='+document.forms[0].elements[1].value;
-}	}
-function a(strCaller) {
-	if (strCaller=='quickpick') {
-		var i=document.forms[0].selQuickPick.options.selectedIndex;
-		var s=document.forms[0].selQuickPick.options[i].value;
-		if (i>0 && s!='') {
-			if (s.indexOf('window.open')>-1) {
-				eval(s);
-			} else {
-				self.location.href=strBaseHref+s;
-			}
-		}
-	}
-}
-function d(id) {
-	var current; var vista; var o;
-	if (document.layers) {
-		current = (document.layers[id].display == 'none') ? 'block' : 'none';
-		document.layers[id].display = current;
-	} else if (document.all) {
-		current = (document.all[id].style.display == 'none') ? 'block' : 'none';
-		document.all[id].style.display = current;
-	} else if (document.getElementById) {
-		vista = (document.getElementById(nr).style.display == 'none') ? 'block' : 'none';
-		document.getElementById(nr).style.display = vista;
-	}
-}
-var winRef;
-function p(docID) {
-	//printer friendly version...
- 	if (!docID) return;
-	window.open(strBaseHref+'printPreview.asp?pw=1&docid='+docID, "printPreview",'width=750,height=650,menubar=1,toolbar=1,scrollbars=1,resizable=1');
-}
-function pOld(docID) {
-	//printer friendly version...
- 	if (!docID) return;
-	if (!winRef) winRef = window.open("", "Print",'width=750,height=650,menubar=1,toolbar=1,scrollbars=1,resizable=1');
-	else if (winRef.close) winRef = window.open("", "Print",'width=750,height=650,menubar=1,toolbar=1,scrollbars=1,resizable=1');
-	winRef.location.href = strBaseHref+'printPreview.asp?pw=1&docid='+docID;
-	winRef.focus();
-}
-function a2c(item) {
-	//add to cart...
-	var q=eval('document.frmSellables.txtQty'+item+'.value');
-	if (q!='') { window.location.href='http://www.laerdal.com/document.asp?txtAddId='+item+'&txtAddQty='+q+'&'+document.frmSellables.extra.value; }
-}
-function a2c3(item) {
-	//add cme to cart...
-	var q=eval('document.frmCME.txtQty'+item+'.value');
-	if (q!='') { window.location.href='http://www.laerdal.com/document.asp?txtAddId='+item+'&txtAddQty='+q+'&'+document.frmCME.elements[0].value; }
-}
-function a2c2(item) {
-	//add to cart from Accessories
-	var q=(eval('document.frmCons.txtQty'+item+'.value'));
-	if (q!='') { window.location.href='http://www.laerdal.com/document.asp?txtAddId='+item+'&txtAddQty='+q+'&'+document.frmCons.elements[0].value; }
-}
-function selLanVer(nodeID) {
-	//select lan version
-	var q=(eval('document.frmCons.sel'+nodeID+'.value'));
-	if (q!='') { window.location.href='http://www.laerdal.com/document.asp?selNodeID='+nodeID+'&selItemNo='+q+'&'+document.frmCons.elements[0].value; }
-}
-</script>
-</head><body marginheight="0" marginwidth="0">
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="142" align="center" valign="top" rowspan="2"><a href="/" target="_top"><img src="images/static/logo-default.png" vspace="0" hspace="0" width="141" height="65" border="0"></a></td>
-<td width="18" height="20" style="height : 20px;" align="right" valign="top"><img src="images/static/curve.gif" width="18" height="20" vspace="0" hspace="0" border="0"></td>
-<td style="color : White; background-color : #3D5085;" align="center"><span style="color : White; background-color : #3D5085;"><table width="100%" border="0">	<tbody><tr><td align="center" style="color : White;"><a class="white" href="document.asp?docID=1573567" alt="U.S. Customer Support ( not the worldwide list)" title="U.S. Customer Support ( not the worldwide list)">Customer Support</a> | <a class="white" href="javascript:void(window.open('preview.asp?docID=1564405','','toolbar=0,status=0,menubar=0,scrollbars=1,resizable=1,width=600,height=400'))" alt="U.S. Distributors" title="U.S. Distributors">Distributors</a> | <a class="white" href="javascript:void(window.open('preview.asp?docID=3681415','','toolbar=0,status=0,menubar=0,scrollbars=1,resizable=1,width=600,height=400'))" alt="U.S. Links" title="U.S. Links">Links</a> | <a class="white" href="document.asp?docID=1112671" alt="Laerdal Foundation" title="Laerdal Foundation">Laerdal Foundation</a> | <a class="white" href="document.asp?docID=1117121" alt="Learn about the Laerdal Story" title="Learn about the Laerdal Story">Our History</a> | <a class="white" href="CustomerInfo.asp" alt="My account" title="My account">My account</a> | <a class="white" href="document.asp?docID=4589717" alt="" title="">Product index</a> | <a class="white" href="cart.asp" alt="Quick Order" title="Quick Order">Quick Order</a> | <a class="white" href="customerregistration.asp" alt="Register now" title="Register now">Register now</a> </td><td width="1%" nowrap=""><font color="White"><a class="white" href="logon.asp">Logon</a></font></td><td width="100" nowrap="" valign="bottom"><a href="logon.asp"><img src="images/static/btnLogon.gif" alt="Logon" title="Logon" width="22" height="23" border="0" vspace="0" hspace="0"></a><a href="./"><img src="images/static/btnHouse.gif" width="24" height="23" border="0" vspace="0" hspace="0"></a><a href="document.asp?docid=1003890"><img src="images/static/btnLetter.gif" width="22" height="23" vspace="0" hspace="0" border="0"></a>	</td></tr></tbody></table></span></td></tr>
-<tr><td width="18"><img src="images/static/transparent.gif" width="2" height="2"></td><td class="pageStatement" nowrap="" background="images/static/bg_blue2white_gradient.gif">&nbsp;&nbsp;</td></tr><tr><td colspan="2" valign="top"><table width="100%" border="0" style="border-color: #AAAAAA; border-width: 1; border-style: solid; background-color: #CCCCCC;" cellpadding="1" cellspacing="0"><tbody><tr><td><form method="post" action="search.asp" onsubmit="return false;"><input onkeydown="chkKey(self.event.keyCode, 'search.asp','txtNr');" type="text" name="txtNr" style="background-color : White; width : 133px;" value="Part # Search"><a href="javascript:s('search.asp','txtNr');"><img border="0" height="18" width="20" hspace="1" vspace="0" src="images/static/cmdGo.gif"></a><br><input onkeydown="chkKey(self.event.keyCode, 'search.asp','txtSearchText');" type="text" name="txtSearchText" style="background-color : White;width : 133px;" value="Full Text Search"><a href="javascript:s('search.asp','txtSearchText');"><img border="0" height="18" width="20" hspace="1" vspace="1" src="images/static/cmdGo.gif"></a><br><img src="images/static/transparent.gif" width="156" border="0" height="1"><br><select name="selQuickPick" style="background-color : White; width : 155px; font-size : 10px" onchange="a('quickpick');"><option>Go to product</option><option value="document.asp?nodeID=1024190">Baby Airin</option><option value="document.asp?nodeID=1024164">Baby Anne</option><option value="document.asp?nodeID=1024197">Baby Arti</option><option value="document.asp?nodeID=1027744">Baby Hippy</option><option value="document.asp?nodeID=1024198">Baby Ivy</option><option value="document.asp?nodeID=1024199">Baby Umbi</option><option value="document.asp?nodeID=1024125">Choking Charlie</option><option value="document.asp?nodeID=1027947">Crash Kelly</option><option value="document.asp?nodeID=1027945">Extri Kelly</option><option value="document.asp?docID=3964419">Fixateur de sonde Thomas®</option><option value="document.asp?nodeID=1024186">HeartSim® 200</option><option value="document.asp?nodeID=1024202">Laerdal Airman</option><option value="document.asp?nodeID=1024227">Laerdal Face Shield</option><option value="document.asp?nodeID=1024189">Laerdal Infant Intubation Model</option><option value="document.asp?nodeID=1024212">Laerdal Pocket Mask</option><option value="document.asp?nodeID=1024201">Laerdal SimMan</option><option value="document.asp?nodeID=1024156">Little Anne</option><option value="document.asp?nodeID=1024145">Little Junior</option><option value="document.asp?nodeID=1027953">Pneumothorax Trainer</option><option value="document.asp?nodeID=1024122">Resusci Anne</option><option value="document.asp?nodeID=1024139">Resusci Baby</option><option value="document.asp?nodeID=1024127">Resusci Junior</option><option value="document.asp?nodeID=1038586">Trachlight®</option><option value="document.asp?nodeID=1027943">Tuff Kelly</option><option value="document.asp?nodeID=1027941">Ultimate Hurt</option></select></form></td></tr></tbody></table>
-</td><td valign="top" align="center"><!-- strServerName: www.laerdal.com --><table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%"><tbody><tr height="15"><td style="background-color: White;"><img src="images/static/transparent.gif" width="2" height="4"></td><td><img src="images/static/transparent.gif" width="4" height="4"></td><td width="7" align="right"><img id="i0" src="images/static/tabSel.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" style="background-color : #CCCCCC; color: 3D5085; font-size : 11px;">&nbsp;<a style="color : #3D5085;" href="javascript:t('document.asp', 1780586);">Shop!</a>&nbsp;</td><td width="7"><img src="images/static/tabSelRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i1" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t1" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('document.asp', 1279536);">AHA / ECC Materials</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i2" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t2" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('document.asp', 1024119);">Training</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i3" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t3" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('document.asp', 1024204);">Therapeutic Products</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i4" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t4" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('document.asp', 1024244);">Parts</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i0" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t0" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('news.asp', 20);">Read More About</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i1" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t1" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('topic.asp', 30);">Topics</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="7" align="right"><img id="i2" src="images/static/tab.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td nowrap="" id="t2" style="background-color : #3D5085; color: White; font-size : 11px;">&nbsp;<a style="color : White;" href="javascript:t('faq.asp', 10);">FAQs</a>&nbsp;</td><td width="7"><img src="images/static/tabRight.gif" width="7" height="15" hspace="0" vspace="0" border="0"></td><td width="90%">&nbsp;</td></tr><tr height="4"><td rowspan="3" style="background-color : White;" valign="top"><img src="images/static/transparent.gif" width="2" height="4" hspace="0" vspace="0" border="0"></td>
-<td rowspan="3" style="background-color : #CCCCCC; font-size : 10px;" valign="top"><img src="images/static/tabSelCorner.gif" width="4" height="4" hspace="0" vspace="0" border="0"></td>
-<td style="background-color : #CCCCCC; font-size : 10px;" colspan="26"><img src="images/static/transparent.gif" width="4" height="4"></td></tr>
-<tr><td style="background-color : #CCCCCC; font-size : 10px;" rowspan="2"><img src="images/static/transparent.gif" width="4" height="53" hspace="0" vspace="0" border="0"></td><td class="tabSelLinx" align="center" colspan="25"><a style="color : #3D5085;" href="document.asp?nodeID=4579202">HeartCode ACLS Anywhere™</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1782516">AHA / ECC Materials</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1843998">CPR</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1844000">CPR-D</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1844002">Rescue/First Aid</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1844004">Patient Simulators</a> - <a style="color : #3D5085;" href="document.asp?nodeID=3795817">ALS Manikins</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1844008">Trauma</a> - <a style="color : #3D5085;" href="document.asp?nodeID=3795834">ALS Task Trainers</a> - <a style="color : #3D5085;" href="document.asp?nodeID=3383354">Patient Care</a> - <a style="color : #3D5085;" href="document.asp?nodeID=3391383">Charts</a> - <a style="color : #3D5085;" href="document.asp?nodeID=3399383">Anatomical Models</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1782520">Create-a-Lab</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1880527">Ventilation</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1880529">Suction</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1880531">Spinal Immobilization</a> - <a style="color : #3D5085;" href="document.asp?nodeID=1843992">HeartCode™ Interactive Learning System</a> </td></tr><tr><td style="background-color : #CCCCCC; font-size : 10px;" colspan="25"><img src="images/static/transparent.gif" width="4" height="4"></td></tr></tbody></table></td></tr></tbody></table>
-<table width="100%" bgcolor="White" cellpadding="1" cellspacing="4" border="0"><tbody><tr><td width="261" valign="top" background="images/static/width260x2wLine_.gif"><span class="smallFont"><table width="250" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td height="1" width="10"><img src="images/static/transparent.gif" height="1" width="10"></td>
-<td height="1" width="15"><img src="images/static/transparent.gif" height="1" width="15"></td>
-<td height="1" width="117"><img src="images/static/transparent.gif" height="1" width="117"></td>
-<td height="1" width="15"><img src="images/static/transparent.gif" height="1" width="15"></td>
-<td height="1" width="99%"><img src="images/static/transparent.gif" height="1" width="15"></td></tr>
-<tr><td height="21" width="10" background="images/static/tabGreyLineUnder.gif"><img src="images/static/transparent.gif" height="21" width="10"></td>
-	<td height="21" width="15"><img src="images/static/tabGreyCurveLeft.gif" width="15" height="21"></td>
-	<td nowrap="" height="21" background="images/static/tabGreyLineOver.gif" class="tab" align="center"><b style="font-size : 9.5px ;">Shopping Cart Details</b></td>
-	<td height="21" width="15"><img src="images/static/tabGreyCurveRight.gif" width="15" height="21"></td>
-	<td width="99%" background="images/static/tabGreyLineUnder.gif"></td>
-</tr></tbody></table>	<!-- Cart -->		<table border="0" width="250" cellspacing="0">			<tbody><tr><form method="post" action="http://www.laerdal.com/document.asp?docID=1564379"></form>				<td colspan="4" align="right"></td>				</tr>			<tr>				<td nowrap="" style="background-color: #3D5085; Color: White; font-size: 9.5px;"><b>Item#</b></td>				<td nowrap="" style="background-color: #3D5085; Color: White; font-size: 9.5px;"><b>&nbsp;</b></td>				<td nowrap="" style="background-color: #3D5085; Color: White; font-size: 9.5px;"><b>Qty</b></td>				<td nowrap="" style="background-color: #3D5085; Color: White; font-size: 9.5px;" align="center"><b>Price</b></td>			</tr>						<tr><td colspan="4" align="right" style="font-size: 9px;"><b>Order Sum: $0.00</b></td></tr><tr><td colspan="4"><input type="button" name="cmdCartDetails" onclick="self.location.href='http://www.laerdal.com/cart.asp'" value="Cart Details" style="width:70px; font-size: 9.5px;"></td></tr>			</tbody></table><img src="images/static/transparent.gif" width="100" height="5" border="0"></span></td>
-<td width="3" background="images/static/cccccc.gif"><img src="images/static/transparent.gif" width="2" height="2" border="0" align="top"></td><td valign="top" background="images/static/transparent.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td height="1" width="35"><img src="images/static/transparent.gif" height="1" width="35"></td>
-<td height="1" width="15"><img src="images/static/transparent.gif" height="1" width="15"></td>
-<td height="1" width="117"><img src="images/static/transparent.gif" height="1" width="117"></td>
-<td height="1" width="15"><img src="images/static/transparent.gif" height="1" width="15"></td>
-<td height="1" width="99%"><img src="images/static/transparent.gif" height="1" width="15"></td>
-<td height="1" width="16"><img src="images/static/transparent.gif" height="1" width="16"></td></tr>
-<tr><td height="21" width="35" background="images/static/tabGreyLineUnder.gif"><img src="images/static/transparent.gif" height="21" width="35"></td>
-	 <td height="21" width="15"><img src="images/static/tabGreyCurveLeft.gif" width="15" height="21"></td>
-	 <td nowrap="" height="21" background="images/static/tabGreyLineOver.gif" class="tab" align="center"><b style="font-size : 14 ;">&nbsp;Privacy Statement</b></td>
-	 <td height="21" width="15"><img src="images/static/tabGreyCurveRight.gif" width="15" height="21"></td>
-	 <td width="99%" colspan="2" background="images/static/tabGreyLineUnder.gif"></td>
-</tr><tr><td colspan="6" align="right"><a href="javascript:;" onmouseover="window.status='Print preview'; return false;" onmouseout="window.status=''; return false;" onclick="p(1564379); return false;"><img src="images/static/printer.gif" width="16" height="14" vspace="1" border="0"></a></td></tr></tbody></table><br><!--?xml version="1.0" encoding="UTF-16"?--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%"><div class="maintext"><p><b>LAERDAL MEDICAL CORPORATION USA E-COMMERCE PRIVACY NOTICE</b></p>
-<p><b><i>Information Collection and Use</i></b><br>Laerdal Medical Corporation, Wappingers Falls, New York 12590 (Laerdal) has established its Internet Website and E-Commerce capabilities to facilitate easy access to information about products and services, and to simplify order placement and follow-up.</p>
-<p>Information that you willingly provide to Laerdal is collected and stored for the specific purposes outlined below. As the sole owner of information collected on this site, Laerdal takes responsibility for its management quite seriously. All information is protected against unauthorized access.</p>
-<p><b><i>Note: Laerdal Medical Corporation will not sell, share, rent or otherwise provide this information to others, nor will Laerdal retain or use the information in ways or for reasons that differ from those set forth below.</i></b></p>
-<p>&nbsp;</p>
-<p><b>Registration:</b><br>In order to use the online ordering facility, you must first complete the registration process. The contact information you provide, e.g., name and e-mail address, will be used to inform you about goods and services for which you have expressed interest.</p>
-<p>&nbsp;</p>
-<p><b>Ordering:</b><br>To place an online order, you provide the same contact and financial information as is required for orders placed by other means, i.e., mail, phone or facsimile (fax). Such information, e.g., name and shipping address, and credit card number and expiration date, is collected, retained and used for the following purposes:</p>
-<p>Filling, shipping and billing your orders for merchandise or services Advising you of fulfillment delays or difficulties in processing your order Communicating important product alerts or safety notifications to you</p>
-<p><b>Promotional Offerings:</b></p>
-<p>From time to time Laerdal may email you information regarding a product or special promotion.&nbsp; You may remove yourself from future emails simply by replaying to the email and requesting to be removed.</p>
-<p><b>Updates and Inquiries:</b><br>If you feel that Laerdal is not abiding by its posted privacy policy, or you wish to update address or contact information that is presently on file, please contact Customer Support at customerservice@Laerdal.com. Your contact will be acknowledged by Customer Support within 48 hours. </p>
-<p>Thank you for your consideration and support.</p></div><p></p></td></tr></tbody></table><form name="frmSellables"><input type="hidden" name="extra" value="docID=1564379"></form></td></tr></tbody></table><br><table width="100%"><tbody><tr><td align="center" class="grey"><a class="exp" href="document.asp?docID=1117416" alt="" title="">Copyrights, Trademarks and Disclaimers</a> | <a class="exp" href="javascript:void(window.open('http://www.no.cgey.com',''))" alt="Developed by Cap Gemini Ernst &amp; Young" title="Developed by Cap Gemini Ernst &amp; Young">Developed by Cap Gemini Ernst &amp; Young</a> | <a class="exp" href="javascript:void(window.open('http://www.microsoft.com/windows/ie/default.htm',''))" alt="" title="">This site is optimized for Internet Explorer 4.0 and higher</a> | <a class="exp" href="document.asp?docID=1564379" alt="Privacy Statement" title="Privacy Statement">Privacy Statement</a> </td></tr></tbody></table><br>&nbsp;</body></html>
+    <title>Privacy Policy | Laerdal Medical</title>
+    <meta name="description">
+
+    <link rel="canonical" href="http://www.laerdal.com/support/customer-service/privacy-policy/">
+
+            <link href="http://www.laerdal.com/support/customer-service/privacy-policy/" hreflang="en" rel="alternate">
+            <link href="http://www.laerdal.com/br/support/customer-service/privacy-policy/" hreflang="pt-BR" rel="alternate">
+            <link href="http://www.laerdal.com/us/support/customer-service/privacy-policy/" hreflang="en-US" rel="alternate">
+            <link href="http://www.laerdal.com/ca/support/customer-service/privacy-policy-canada/" hreflang="en-CA" rel="alternate">
+            <link href="http://www.laerdal.com/kr/support/customer-service/privacy-policy/" hreflang="ko-KR" rel="alternate">
+            <link href="http://www.laerdal.com/de/support/customer-service/privacy-policy/" hreflang="de-DE" rel="alternate">
+            <link href="http://www.laerdal.com/es/support/customer-service/privacy-policy/" hreflang="es-ES" rel="alternate">
+            <link href="http://www.laerdal.com/fr/support/service-client/privacy-policy/" hreflang="fr-FR" rel="alternate">
+            <link href="http://www.laerdal.com/jp/support/customer-service/privacy-policy/" hreflang="ja-JP" rel="alternate">
+
+    
+
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.laerdal.com/support/customer-service/privacy-policy/">
+            <meta property="og:image" content="https://cdn0.laerdal.com/cdn-490713/globalassets/laerdal-logo_en_process.jpg?w=1200&amp;h=630">
+            <meta name="twitter:image" content="https://cdn0.laerdal.com/cdn-490713/globalassets/laerdal-logo_en_process.jpg?w=300&amp;h=300">
+    <meta property="og:site_name" content="Laerdal Medical">
+    <meta property="og:description">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@laerdalmedical">
+    <meta name="twitter:title" content="Privacy Policy">
+    <meta name="twitter:description">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
+    <meta name="theme-color" content="#C92027">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/icon">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900italic,900&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+    <!--[if (gt IE 9)|!(IE)]><!-->
+		<link href="https://cdn0.laerdal.com/assets/10270/css/screen.css" rel="stylesheet">
+    <!--<![endif]-->
+    <!--[if IE 9 ]>
+		<link href="https://cdn0.laerdal.com/assets/10270/css/screen-ie9.css" rel="stylesheet" />
+    <![endif]-->
+	<!--[if IE 8 ]>
+		<script src="https://cdn0.laerdal.com/assets/10270/js/es5-shim.min.js"></script>
+		<script src="https://cdn0.laerdal.com/assets/10270/js/es5-sham.min.js"></script>
+		<link href="https://cdn0.laerdal.com/assets/10270/css/screen-ie8.css" rel="stylesheet" />
+		<script>
+		    window.isIE8 = true;
+		</script>
+	<![endif]-->
+    
+    <link href="https://cdn0.laerdal.com/assets/10270/css/print.css" rel="stylesheet" media="print">
+
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NGXGQ6"></script><script src="https://cdn0.laerdal.com/assets/10270/js/modernizr-custom.js"></script>
+
+    <script type="text/javascript" src="https://cdn0.laerdal.com/assets/10270/js/jquery.min.js"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        dataLayer.push({
+            'event': 'dataLayer-initialised',
+            'country': 'en',
+            'internal-traffic': 'false',
+            'newSite': 'true'
+        });
+    </script>
+
+
+
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Laerdal Medical",
+        "url": "http://www.laerdal.com/"
+        ,"sameAs": ["https://en.wikipedia.org/wiki/Laerdal","https://www.linkedin.com/company/laerdal-medical","https://www.youtube.com/user/LaerdalMedical","https://www.facebook.com/LaerdalMedical/","https://twitter.com/laerdalmedical"]
+        }
+    </script>
+
+    <!--[if gt IE 8]><!-->
+    
+    <!--<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGXGQ6');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+
+
+<body data-require="./src/views/page-view" id="top" class="body standardpage">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGXGQ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+
+
+
+
+
+
+
+
+
+<header class="c-header">
+
+    <a href="#content" class="c-header__skip-to-content sr-only">Skip to content</a>
+
+    <div class="c-header__wrap">
+
+        <div class="c-header__grid-constraint">
+            <div class="c-header__grid">
+                <div class="c-header__grid-item">
+
+                    <a href="/" class="e-site-logo">
+                        <span class="sr-only">Laerdal Medical</span>
+                    </a>
+
+                    <a href="/system/sitemap/" class="e-nav-primary__button" data-nav-button="">
+                        <span class="e-nav-primary__menu-icon">
+                            <span class="sr-only">Open navigation</span>
+                        </span>
+                    </a>
+
+                    
+
+<nav class="e-nav-primary" data-require="./src/views/primary-nav-view">
+
+    <div class="e-nav-primary__wrap" data-primary-nav-wrap="">
+
+        <ul class="e-nav-primary__list e-nav-primary__list--primary" data-primary-nav-list="">
+            
+            <li class="e-nav-primary__item e-nav-primary__item--home is--current" data-primary-nav-item="" data-primary-nav-root="" data-nav-level="0">
+                <a href="/" class="e-nav-primary__link" data-primary-nav-trigger="">
+                    <span class="e-nav-primary__link-text">Home</span>
+                </a>
+            </li>
+
+
+
+
+<li class="e-nav-primary__item e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="1">
+
+        <span class="e-nav-primary__link" data-primary-nav-trigger="">
+            <span class="e-nav-primary__link-text">Learn</span>
+        </span>
+
+        <div class="e-nav-primary__panel" data-primary-nav-tray="" data-primary-nav-panel="">
+            <div class="e-nav-primary__grid-constraint">
+                <ul class="e-nav-primary__list e-nav-primary__list--secondary">
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/the-chain-of-survival/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Strengthen the Chain of Survival">
+
+Strengthen the Chain of Survival</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/community-lifesavers/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Community CPR saves lives">
+
+Community CPR saves lives</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/low-dose-high-frequency/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Training for improvement">
+
+Training for improvement</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/circle-of-learning/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : A systematic approach to learning">
+
+A systematic approach to learning</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/self-directed-learning/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Learn in your own way">
+
+Learn in your own way</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/peer-to-peer-learning/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Students teaching students">
+
+Students teaching students</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/in-situ-training/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : In-Situ Simulation">
+
+In-Situ Simulation</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/optimizing-your-investment/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Optimizing your investment">
+
+Optimizing your investment</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/events/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : Events &amp; Conferences">
+
+Events &amp; Conferences</a>
+    
+
+    
+
+
+
+
+</div>
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/learn/sun/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Learn : SUN: Simulation User Network">
+
+SUN: Simulation User Network</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                </ul>
+            </div>
+        </div>
+</li>
+
+
+
+
+<li class="e-nav-primary__item e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="1">
+
+        <span class="e-nav-primary__link" data-primary-nav-trigger="">
+            <span class="e-nav-primary__link-text">Services &amp; Programs</span>
+        </span>
+
+        <div class="e-nav-primary__panel" data-primary-nav-tray="" data-primary-nav-panel="">
+            <div class="e-nav-primary__grid-constraint">
+                <ul class="e-nav-primary__list e-nav-primary__list--secondary">
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/services-and-programs/educational-services/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Services &amp; Programs : Educational Services">
+
+Educational Services</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/services-and-programs/technical-services/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Services &amp; Programs : Technical Services">
+
+Technical Services</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/services-and-programs/resuscitation-quality-improvement/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Services &amp; Programs : Resuscitation Quality Improvement">
+
+Resuscitation Quality Improvement</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/services-and-programs/nestled/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Services &amp; Programs : NESTLED">
+
+NESTLED</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                </ul>
+            </div>
+        </div>
+</li>
+
+
+
+
+<li class="e-nav-primary__item e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="1">
+
+        <span class="e-nav-primary__link" data-primary-nav-trigger="">
+            <span class="e-nav-primary__link-text">Support</span>
+        </span>
+
+        <div class="e-nav-primary__panel" data-primary-nav-tray="" data-primary-nav-panel="">
+            <div class="e-nav-primary__grid-constraint">
+                <ul class="e-nav-primary__list e-nav-primary__list--secondary">
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item  e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/support/customer-service/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Customer Services">
+
+Customer Services</a>
+    
+
+    
+
+
+    <ul class="e-nav-primary__list e-nav-primary__list--tertiary" data-primary-nav-tray="">
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/support/customer-service/contact-us/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Customer Services : Contact Us">Contact Us</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/support/customer-service/terms-of-use/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Customer Services : Terms of Use">Terms of Use</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/support/ordering-shipping/laerdal-global-warranty/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Customer Services : Laerdal Global Warranty">Laerdal Global Warranty</a>
+            </li>
+    </ul>
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="http://www.laerdal.com/downloads" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Product Downloads">
+
+Product Downloads</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item " data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/support/catalog/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Support : Product Catalogue">
+
+Product Catalogue</a>
+    
+
+    
+
+
+
+
+</div>        </li>
+
+                    
+                </ul>
+            </div>
+        </div>
+</li>
+
+
+
+
+<li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="1">
+
+        <a href="/about-us/" class="e-nav-primary__link" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="About Us">
+            <span class="e-nav-primary__link-text">About Us</span>
+        </a>
+
+</li>
+
+
+
+
+<li class="e-nav-primary__item e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="1">
+
+        <span class="e-nav-primary__link" data-primary-nav-trigger="">
+            <span class="e-nav-primary__link-text">Products</span>
+        </span>
+
+        <div class="e-nav-primary__panel" data-primary-nav-tray="" data-primary-nav-panel="">
+            <div class="e-nav-primary__grid-constraint">
+                <ul class="e-nav-primary__list e-nav-primary__list--secondary">
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item  e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/products/simulation-training/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training">
+
+Simulation &amp; Training</a>
+    
+
+    
+
+
+    <ul class="e-nav-primary__list e-nav-primary__list--tertiary" data-primary-nav-tray="">
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/simulation-training/resuscitation-training/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training : Resuscitation Training">Resuscitation Training</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/simulation-training/emergency-care-trauma/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training : Emergency Care &amp; Trauma">Emergency Care &amp; Trauma</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/simulation-training/nursing/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training : Nursing &amp; Patient Care">Nursing &amp; Patient Care</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/simulation-training/obstetrics-paediatrics/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training : Obstetrics &amp; Paediatrics">Obstetrics &amp; Paediatrics</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/simulation-training/manage-assess-debrief/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Simulation &amp; Training : Manage, Assess, Debrief">Manage, Assess, Debrief</a>
+            </li>
+    </ul>
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item  e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/products/skills-proficiency/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency">
+
+Skills Proficiency</a>
+    
+
+    
+
+
+    <ul class="e-nav-primary__list e-nav-primary__list--tertiary" data-primary-nav-tray="">
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/skills-proficiency/airway-management-trainers/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency : Airway Management Trainers">Airway Management Trainers</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/skills-proficiency/defibrillation-cardiology/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency : Defibrillation &amp; Cardiology">Defibrillation &amp; Cardiology</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/skills-proficiency/neonatal-skill-trainers/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency : Neonatal Skill Trainers">Neonatal Skill Trainers</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/skills-proficiency/venous-arterial-access/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency : Venous &amp; Arterial Access">Venous &amp; Arterial Access</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/skills-proficiency/ultrasound/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Skills Proficiency : Ultrasound">Ultrasound</a>
+            </li>
+    </ul>
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item  e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/products/courses-learning/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Courses &amp; Learning">
+
+Courses &amp; Learning</a>
+    
+
+    
+
+
+    <ul class="e-nav-primary__list e-nav-primary__list--tertiary" data-primary-nav-tray="">
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/services-and-programs/educational-services/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Courses &amp; Learning : Educational Services">Educational Services</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="http://www.laerdal.com/us/AHA" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Courses &amp; Learning : AHA Learning Materials">AHA Learning Materials</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="http://www.laerdal.com/doc/235/Neonatal-Resuscitation-Program-NRP" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Courses &amp; Learning : Neonatal Resuscitation Training">Neonatal Resuscitation Training</a>
+            </li>
+    </ul>
+
+
+</div>        </li>
+
+                            <li class="e-nav-primary__col">
+
+
+
+<div class="e-nav-primary__item  e-nav-primary__item--has-children" data-primary-nav-item="" data-nav-level="2">
+
+    <a class="e-nav-primary__link e-nav-primary__link--arrow " href="/products/medical-devices/" data-primary-nav-trigger="" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Medical Devices">
+
+Medical Devices</a>
+    
+
+    
+
+
+    <ul class="e-nav-primary__list e-nav-primary__list--tertiary" data-primary-nav-tray="">
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/medical-devices/airway-management/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Medical Devices : Airway Management">Airway Management</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/medical-devices/immobilisation/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Medical Devices : Immobilisation">Immobilisation</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/medical-devices/defibrillation/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Medical Devices : Defibrillation">Defibrillation</a>
+            </li>
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="3">
+                <a class="e-nav-primary__link" href="/products/medical-devices/cprmeter-2/" data-gtm="" data-gtm-event="header-nav" data-gtm-category="Header Navigation" data-gtm-label="Products : Medical Devices : CPRmeter 2">CPRmeter 2</a>
+            </li>
+    </ul>
+
+
+</div>        </li>
+
+                </ul>
+            </div>
+        </div>
+</li>
+
+
+            
+            <li class="e-nav-primary__item" data-primary-nav-item="" data-nav-level="1">
+				<a href="https://www.laerdal.com/Logon.aspx" class="e-nav-primary__link e-nav-primary__link--my-account">My account</a>
+			</li>
+
+        </ul>
+    </div>
+
+</nav>
+
+                    <nav class="e-header-tools" data-require="./src/views/cart-login-status-view" data-url="/Services/User.ashx">
+                        <ul class="e-header-tools__list">
+                            <li class="e-header-tools__item" data-require="./src/views/search-view">
+                                <a class="e-header-tools__link e-header-tools__link--search" href="http://www.laerdal.com/Search.aspx" title="Search" data-search-button="">
+                                    <span class="sr-only">Search</span>
+                                </a>
+                                <div class="e-header-search mfp-hide" data-search-panel="" data-search-config-live-domain="" data-search-config-endpoint-url="/services/search.ashx" data-search-config-results-url="/search.aspx" data-search-config-default-image-url="" data-search-config-close-text="Close" data-search-config-countrycode="">
+                                    <div class="e-header-search__controls grid">
+                                        <div class="grid__item e-header-search__label-box">
+                                            <label class="e-header-search__label" for="header-search-input">Search</label>
+                                        </div>
+                                        <div class="e-header-search__search-box grid__item one-whole medium--three-quarters large--four-fifths">
+                                            <input class="e-header-search__input" type="text" id="header-search-input" data-search-input="">
+                                            <span class="e-header-search__fake-placeholder">
+                                                <span class="e-header-search__fake-placeholder-text">Enter product name or number</span>
+                                            </span>
+                                            <button class="e-header-search__clear" data-search-clear="">
+                                                <span class="e-header-search__clear-text">Clear</span>
+                                            </button>
+                                        </div>
+                                        <div class="grid__item one-whole medium--one-quarter large--one-fifth">
+                                            <a href="#" class="e-button e-button--anchor e-button--ctablue e-button--arrow e-header-search__submit" data-search-submit="">
+                                                <span class="e-button__text">Search</span>
+                                            </a>
+                                        </div>
+                                        <div class="e-header-search__results grid__item one-whole" data-search-results=""></div>
+                                    </div>
+                                    <div class="e-header-search__loading-overlay" data-search-loading-overlay="">
+                                        <img src="/assets/img/placeholder-images/spinner.png" alt="" class="e-header-search__spinner" data-search-loading-spinner="">
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="e-header-tools__item e-header-tools__item--myaccount">
+                                <a class="e-header-tools__link e-header-tools__link--myaccount" href="https://www.laerdal.com/Logon.aspx" data-login="">
+                                    <span class="sr-only">My account</span>
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </nav>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+    <main class="main" id="content">
+
+
+
+
+<div class="c-sticky-nav" data-require="./src/views/sticky-nav-view">
+    <div class="grid-constraint">
+        <div class="grid grid--full">
+            <div class="c-breadcrumbs-wrapper grid__item one-whole large--one-third">
+
+
+<nav class="c-breadcrumbs" data-require="./src/views/breadcrumb-view">
+        <a href="#top" class="c-breadcrumbs__expand" data-breadcrumb-expand="" data-gtm="" data-gtm-event="breadcrumb-nav" data-gtm-category="Breadcrumb Navigation" data-gtm-label="Expand Breadcrumb Nav">
+            <span class="sr-only">Expand</span>
+            <ul class="c-breadcrumbs__collapsed-list" data-breadcrumb-collapsed-list=""></ul>
+        </a>
+    <ul class="c-breadcrumbs__list" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+            <li class="c-breadcrumbs__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" data-breadcrumb-list-item="">
+                    <a itemprop="item" href="/" title="Home" data-gtm="" data-gtm-event="breadcrumb-nav" data-gtm-category="Breadcrumb Navigation" data-gtm-label="Home">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+            </li>
+            <li class="c-breadcrumbs__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" data-breadcrumb-list-item="">
+                    <a itemprop="item" href="/support/" title="Support" data-gtm="" data-gtm-event="breadcrumb-nav" data-gtm-category="Breadcrumb Navigation" data-gtm-label="Support">
+                        <span itemprop="name">Support</span>
+                    </a>
+                    <meta itemprop="position" content="2">
+            </li>
+            <li class="c-breadcrumbs__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" data-breadcrumb-list-item="">
+                    <a itemprop="item" href="/support/customer-service/" title="Customer Service" data-gtm="" data-gtm-event="breadcrumb-nav" data-gtm-category="Breadcrumb Navigation" data-gtm-label="Customer Service">
+                        <span itemprop="name">Customer Service</span>
+                    </a>
+                    <meta itemprop="position" content="3">
+            </li>
+            <li class="c-breadcrumbs__list-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" data-breadcrumb-list-item="">
+                    <span itemprop="item">
+                        <span itemprop="name" title="Privacy Policy">Privacy Policy</span>
+                    </span>
+                    <meta itemprop="position" content="4">
+            </li>
+    </ul>
+</nav>            </div>
+            <div class="e-main-nav-wrapper grid__item one-whole large--two-thirds">
+
+
+<nav class="c-page-section-nav" data-require="./src/views/page-section-nav-view">
+    <div class="c-page-section-nav__container" data-page-section-nav-container="">
+        <span class="c-page-section-nav__title" data-accordion-toggle="">Sections:</span>
+        <ul class="c-page-section-nav__list" data-page-section-nav-link-list="" data-accordion-content="">
+        </ul>
+        <div class="c-page-section-nav__underline" data-nav-underline-bar=""></div>
+    </div>
+</nav>                
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+
+    <h1 class="sr-only">Privacy Policy</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-area b-vst--xlarge"><div class="block simpleeditorialblock">
+
+<section class="c-editorial">
+
+        <div class="grid-constraint">
+
+
+    <div class="grid grid--center">
+            <div class="grid__item  medium--three-quarters">
+                <div class="grid">
+                    <div class="grid__item">
+                        <h2 class="c-editorial__heading">
+                            Privacy Policy
+                        </h2>
+                    </div>
+                </div>
+            </div>
+
+        <div class="c-editorial__body c-editorial__body--left grid__item  medium--three-quarters">
+
+                <div class="e-richtext">
+                    <h3>Information Collection and Use</h3>
+<p>Laerdal Medical AS, Tanke Svilandsgate, Stavanger, Norway 4002 has established its Internet Website and E-Commerce capabilities to facilitate easy access to information about products and services, and to simplify order placement and follow-up.</p>
+<p>Information that you willingly provide to Laerdal is collected and stored for the specific purposes outlined below. As the sole owner of the&nbsp;information collected on this site, Laerdal takes responsibility for its management quite seriously. All information is protected against unauthorized access.</p>
+<p>Note: Laerdal Medical AS will not sell, share, rent or otherwise provide this information to others, nor will Laerdal retain or use the information in ways or for reasons that differ from those set forth below.</p>
+<h3>Registration</h3>
+<p>In order to use the online ordering facility, you must first complete the registration process. The contact information you provide, e.g., name and e-mail address, will be used to inform you about goods and services for which you have expressed interest.</p>
+<h3>Ordering</h3>
+<p>To place an online order, you provide the same contact and financial information as is required for orders placed by other means, i.e., mail, phone or facsimile (fax). Such information, e.g., name and shipping address, and credit card number and expiration date, is collected, retained and used for the following purposes:</p>
+<ul>
+<li>Shipping and billing your orders for merchandise or services</li>
+<li>Advising you of fulfillment delays or difficulties in processing your order</li>
+<li>Communicating important product alerts or safety notifications to you</li>
+<li>Filing</li>
+</ul>
+<h3>Promotional Offerings</h3>
+<p>From time to time Laerdal may email you information regarding a product or special promotion. You may remove yourself from future emails simply by replying to the email and typing "unsubscribe" in the subject line. Requests to be unsubscribed can also be sent by clicking here.</p>
+<h3>Updates and Inquiries</h3>
+<p>If you feel that Laerdal is not abiding by its posted privacy policy, please contact us at any time. If you wish to update address or contact information that is presently on file, you may make changes at any time, but please note that all billing address changes are required in writing.</p>
+<p>Thank you for your consideration and support.</p>
+                </div>
+        </div>
+    </div>
+        </div>
+</section>
+</div></div>
+
+    </main>
+
+
+
+<footer class="c-footer" data-require="./src/views/footer-view">
+    
+
+
+<div class="e-country-selector" data-country-selector-panel="">
+    <div class="e-country-selector__wrap">
+        <div class="grid">
+            <section class="grid__item one-whole large--one-quarter">
+                <button class="e-country-selector__close" data-country-selector-close="">
+                    <span class="e-country-selector__close-copy">Close</span>
+                </button>
+                <h3 class="e-country-selector__heading">Country &amp; language selector</h3>
+            </section>
+            <section class="grid__item one-half medium--one-third large--one-quarter">
+                <h4 class="e-country-selector__list-heading">Americas</h4>
+                <ul class="e-country-selector__list">
+                    <li class="e-country-selector__item">
+                        <a href="/la/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="América Latina (Español)">América Latina (Español)</a>
+                    </li>
+                    <li class="e-country-selector__item">
+                        <a href="/br/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Brasil">Brasil</a>
+                    </li>
+                    <li class="e-country-selector__item">
+                        <a href="/ca/support/customer-service/privacy-policy-canada/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Canada">Canada</a>
+                    </li>
+                    <li class="e-country-selector__item">
+                        <a href="/us/support/customer-service/privacy-policy/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="USA">USA</a>
+                    </li>
+                </ul>
+                <h4 class="e-country-selector__list-heading">Asia / Pacific</h4>
+                <ul class="e-country-selector__list e-country-selector__list--no-margin">
+                        <li class="e-country-selector__item">
+                            <a href="/au/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Australia">Australia</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/cn/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="China - 简体中文">China - 简体中文</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/hk/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Hong Kong">Hong Kong</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/jp/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Japan - 日本">Japan - 日本</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/kr/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Korea - 한국어">Korea - 한국어</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/my/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Malaysia">Malaysia</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/nz/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="New Zealand">New Zealand</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/sg/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Singapore (English)">Singapore (English)</a>
+                        </li>
+                </ul>
+            </section>
+            <section class="grid__item one-half medium--one-third large--one-quarter">
+                <h4 class="e-country-selector__list-heading">Europe</h4>
+                <ul class="e-country-selector__list e-country-selector__list--no-margin">
+                        <li class="e-country-selector__item">
+                            <a href="/be-nl/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="België (Nederlands)">België (Nederlands)</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/be-fr/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Belgique (Français)">Belgique (Français)</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/dk/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Danmark">Danmark</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/de/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Deutschland">Deutschland</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/es/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="España">España</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/fr/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="France">France</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/it/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Italia">Italia</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/nl/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Nederland">Nederland</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/no/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Norge">Norge</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/at/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Österreich">Österreich</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="http://www.lmp.pl/index.php/strona-glowna.html" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Polska">Polska</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/ch/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Schweiz">Schweiz</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/fi/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Suomi">Suomi</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/se/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="Sverige">Sverige</a>
+                        </li>
+                        <li class="e-country-selector__item">
+                            <a href="/gb/" class="e-country-selector__link" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="United Kingdom">United Kingdom</a>
+                        </li>
+                </ul>
+            </section>
+            <section class="grid__item one-whole medium--one-third large--one-quarter">
+                <h4 class="e-country-selector__list-heading e-country-selector__others">Location not listed?</h4>
+
+                <ul class="e-country-selector__list e-country-selector__list--no-margin">
+                </ul>
+
+                
+    <ul class="e-country-selector__list e-country-selector__list--no-margin">
+            <li class="e-country-selector__item">
+                <a class="e-country-selector__link" href="/" data-gtm="" data-gtm-event="country-selector" data-gtm-category="Country/Language Selector" data-gtm-label="International (English)">International (English)</a>
+            </li>
+    </ul>
+
+            </section>
+        </div>
+    </div>
+</div>
+    <div class="c-footer__wrap">
+        <section class="c-footer__primary c-footer__primary--no-flow-content">
+            <aside class="c-footer__locality" data-country-selector-trigger="">
+                <button class="c-footer__toggle-country-selector">
+                    <span class="c-footer__country">Country: International</span> <span class="c-footer__language">Language: EN</span>
+                </button>
+            </aside>
+            <aside class="c-footer__back-to-top">
+                <a href="#top" class="e-back-to-top" title="Back to top" data-back-to-top="" data-require="./src/views/scroll-to-top-view" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Back to Top">
+                    Top
+                </a>
+            </aside>
+            <nav class="c-footer__nav">
+                <ul class="c-footer__nav-list grid">
+
+
+
+
+<li class="c-footer__nav-item grid__item one-whole large--one-quarter">
+    <div class="e-link-list">
+            <h2 class="e-link-list__heading">
+                <a class="e-link-list__heading-link" href="/products/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Products">Products</a>
+				<span data-toggle-heading="" data-index="0"></span>
+            </h2>
+
+
+	<ul class="e-link-list__list has--children" data-link-list="" data-toggle-item-0="" data-opening="false">
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/products/simulation-training/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Products : Simulation &amp; Training">Simulation &amp; Training</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/products/skills-proficiency/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Products : Skills Proficiency">Skills Proficiency</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/products/courses-learning/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Products : Courses &amp; Learning">Courses &amp; Learning</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/products/medical-devices/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Products : Medical Devices">Medical Devices</a>
+			</li>
+	</ul>
+    </div>
+</li>
+
+<li class="c-footer__nav-item grid__item one-whole large--one-quarter">
+    <div class="e-link-list">
+            <h2 class="e-link-list__heading">
+                <a class="e-link-list__heading-link" href="/services-and-programs/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Services &amp; Programs">Services &amp; Programs</a>
+				<span data-toggle-heading="" data-index="1"></span>
+            </h2>
+
+
+	<ul class="e-link-list__list has--children" data-link-list="" data-toggle-item-1="" data-opening="false">
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/services-and-programs/educational-services/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Services &amp; Programs : Educational Services">Educational Services</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/services-and-programs/technical-services/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Services &amp; Programs : Technical Services">Technical Services</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/services-and-programs/resuscitation-quality-improvement/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Services &amp; Programs : Resuscitation Quality Improvement">Resuscitation Quality Improvement</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/services-and-programs/nestled/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Services &amp; Programs : NESTLED">NESTLED</a>
+			</li>
+	</ul>
+    </div>
+</li>
+
+<li class="c-footer__nav-item grid__item one-whole large--one-quarter">
+    <div class="e-link-list">
+            <h2 class="e-link-list__heading">
+                <a class="e-link-list__heading-link" href="/learn/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Learn">Learn</a>
+				<span data-toggle-heading="" data-index="2"></span>
+            </h2>
+
+
+	<ul class="e-link-list__list has--children" data-link-list="" data-toggle-item-2="" data-opening="false">
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/learn/events/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Learn : Events">Events</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/learn/sun/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Learn : SUN">SUN</a>
+			</li>
+	</ul>
+    </div>
+</li>
+
+<li class="c-footer__nav-item grid__item one-whole large--one-quarter">
+    <div class="e-link-list">
+            <h2 class="e-link-list__heading">
+                <a class="e-link-list__heading-link" href="/support/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Support">Support</a>
+				<span data-toggle-heading="" data-index="3"></span>
+            </h2>
+
+
+	<ul class="e-link-list__list has--children" data-link-list="" data-toggle-item-3="" data-opening="false">
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/support/customer-service/contact-us/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Support : Contact Us">Contact Us</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/support/customer-service/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Support : Customer Service">Customer Service</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/support/catalog/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Support : Product Catalogue">Product Catalogue</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="http://www.laerdal.com/downloads" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="Support : Product Downloads">Product Downloads</a>
+			</li>
+	</ul>
+    </div>
+</li>
+
+<li class="c-footer__nav-item grid__item one-whole large--one-quarter">
+    <div class="e-link-list">
+            <h2 class="e-link-list__heading">
+                <a class="e-link-list__heading-link" href="/about-us/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="About Us">About Us</a>
+				<span data-toggle-heading="" data-index="4"></span>
+            </h2>
+
+
+	<ul class="e-link-list__list has--children" data-link-list="" data-toggle-item-4="" data-opening="false">
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="https://cdn0.laerdal.com/cdn-494dae/globalassets/documents/our-company/saving-more-lives-the-vision-for-2020" target="_blank" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="About Us : Saving more lives - The vision for 2020 (PDF)">Saving more lives - The vision for 2020 (PDF)</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/about-us/laerdal-report-on-sustainability/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="About Us : Laerdal Report on Sustainability">Laerdal Report on Sustainability</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="http://www.laerdal.com/doc/768/Vacant-Positions" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="About Us : Job Opportunities">Job Opportunities</a>
+			</li>
+			<li class="e-link-list__item">
+                <a class="e-link-list__link" href="/about-us/our-partners/" data-gtm="" data-gtm-event="footer-nav" data-gtm-category="Footer Navigation" data-gtm-label="About Us : Our Partners">Our Partners</a>
+			</li>
+	</ul>
+    </div>
+</li>                </ul>
+            </nav>
+        </section>
+        <section class="c-footer__secondary">
+            <nav class="c-footer__social">
+                <ul class="c-footer__social-list">
+                        <li class="c-footer__social-item">
+                            <a class="c-footer__social-link c-footer__social-link--facebook" href="https://www.facebook.com/LaerdalMedical/">
+                                <span class="sr-only">Facebook</span>
+                            </a>
+                        </li>
+
+                        <li class="c-footer__social-item">
+                            <a class="c-footer__social-link c-footer__social-link--twitter" href="https://twitter.com/laerdalmedical">
+                                <span class="sr-only">Twitter</span>
+                            </a>
+                        </li>
+
+                        <li class="c-footer__social-item">
+                            <a class="c-footer__social-link c-footer__social-link--youtube" href="https://www.youtube.com/user/LaerdalMedical">
+                                <span class="sr-only">YouTube</span>
+                            </a>
+                        </li>
+
+
+                        <li class="c-footer__social-item">
+                            <a class="c-footer__social-link c-footer__social-link--flickr" href="https://www.flickr.com/photos/laerdalmedical/">
+                                <span class="sr-only">Flickr</span>
+                            </a>
+                        </li>
+
+
+                        <li class="c-footer__social-item">
+                            <a class="c-footer__social-link c-footer__social-link--pinterest" href="https://uk.pinterest.com/laerdalmedical/">
+                                <span class="sr-only">Pinterest</span>
+                            </a>
+                        </li>
+
+                </ul>
+            </nav>
+    <nav class="c-footer__utility-nav">
+        <ul class="c-footer__utility-nav-list">
+                <li class="c-footer__utility-nav-item">
+                    <a class="c-footer__utility-nav-link" href="/support/customer-service/privacy-policy/">Privacy Policy</a>
+                </li>
+                <li class="c-footer__utility-nav-item">
+                    <a class="c-footer__utility-nav-link" href="/support/customer-service/terms-of-use/">Terms of Use</a>
+                </li>
+                <li class="c-footer__utility-nav-item">
+                    <a class="c-footer__utility-nav-link" href="/system/sitemap/">Sitemap</a>
+                </li>
+                <li class="c-footer__utility-nav-item">
+                    <a class="c-footer__utility-nav-link" href="/about-us/whistleblower-channel/">Whistleblower Channel</a>
+                </li>
+        </ul>
+    </nav>
+
+                <aside class="c-footer__copyright">
+                    Copyright © 2017 Laerdal Medical. All Rights Reserved.
+                </aside>
+        </section>
+    </div>
+</footer>
+
+
+    <script src="https://cdn0.laerdal.com/assets/10270/js/entry.js"></script>
+
+    <!--[if gt IE 8]><!-->
+    
+    <!--<![endif]-->
+
+    
+    
+
+
+
+</body></html>
