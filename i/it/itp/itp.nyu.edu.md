@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.nyu.edu privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110132957id_/https%3A//www.nyu.edu/footer/copyright-and-fair-use/digital-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.nyu.edu privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630073612id_/https%3A//www.nyu.edu/footer/copyright-and-fair-use/digital-privacy-statement.html) for the most accurate reproduction.*
 
 # Digital Privacy Statement
 
