@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvs.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050132id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215927id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
-Effective Date: August 3, 2016
+Effective Date: June 13, 2017
 
 This Privacy Policy describes how CVS Pharmacy, Inc. ("CVS," "we" or "us") may collect information about you through your interactions with us in our stores, or on our websites and mobile applications (collectively, the "Services"). By using the Services, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287.
 
@@ -172,6 +172,8 @@ You may stop the receipt of push notifications through your mobile device settin
 You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under "Contact Us". For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+If you are a minor, you may remove or request removal of any content or information you post on our site. To request removal of content or information you have posted to our site, please [Contact Us](https://web.archive.org/help/help_contact_us.jsp). Removal or requests for removal of content or information that has been posted to our website does not ensure complete or comprehensive removal.
 
   
 
