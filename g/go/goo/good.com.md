@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201033411id_/http%3A//us.blackberry.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630074313id_/http%3A//us.blackberry.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - United States
 
@@ -238,7 +238,6 @@ Generally, you may withdraw at any time your consent for BlackBerry to process y
 
   * Change your browser settings to refuse Cookies or to indicate when a Cookie is being sent.
   * Remove or block browser Cookies using the settings in your browser, but that may impact your ability to use certain BlackBerry Offerings as they may not work well or at all with Cookies disabled.
-  * Opt-out directly from certain **_performance_** Cookies at <http://metrics.blackberry.com/optout.html>.
 
 
 
@@ -246,7 +245,7 @@ Generally, you may withdraw at any time your consent for BlackBerry to process y
 
 BlackBerry will occasionally update this Privacy Policy so that it remains relevant and current with changing technologies, applicable laws, our evolving business practices and the needs of our users. BlackBerry encourages you to periodically review this Privacy Policy to stay informed of how BlackBerry manages your personal information. If any changes are made to this Privacy Policy, BlackBerry will revise the "Last Updated" date that is indicated on the Privacy Policy.
 
-If material changes are made that impact you, we will notify users by placing a prominent notice at [www.blackberry.com/legal](https://web.archive.org/legal.html). Depending on the circumstances, we may also decide to send users a notice electronically. If you continue to use your BlackBerry Offerings after notice of the change has been given, you will be deemed to have accepted such changes.
+If material changes are made that impact you, we will notify users by placing a prominent notice at www.blackberry.com/legal. Depending on the circumstances, we may also decide to send users a notice electronically. If you continue to use your BlackBerry Offerings after notice of the change has been given, you will be deemed to have accepted such changes.
 
 Last Updated 2014-09
 
