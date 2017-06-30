@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121252id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630185515id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - InstaMed
 
-InstaMed Communications, LLC, and its respective divisions, subsidiaries and affiliates (“InstaMed”) recognizes the importance of protecting your privacy. This Privacy Statement (“Statement”) discloses our information-gathering and dissemination practices for this website at [www.instamed.com](http://www.instamed.com/) (“Website”).
+InstaMed Communications, LLC, and its respective divisions, subsidiaries and affiliates (“InstaMed“) recognizes the importance of protecting your privacy. This Privacy Statement (“Statement“) discloses our information-gathering and dissemination practices for this website at [www.instamed.com](https://web.archive.org/) (“Website“).
 
-By using this Website, you agree to be bound by the terms and conditions of this Statement and the Terms of Use: [http://www.instamed.com/terms-of-use](https://web.archive.org/terms-of-use). You may also be subject to another privacy statement or other terms and conditions that are posted on InstaMed’s website specific to a particular InstaMed program or service (“Other Agreement”). Based upon your specific relationship(s) with InstaMed, we may collect, use or disclose Personal Information (defined below) in ways described in more detail in one or more Other Agreements. To the extent the Other Agreement includes additional terms that are not covered by or are inconsistent with this Statement, the terms and conditions of the Other Agreement will supersede this Statement.
+By using this Website, you agree to be bound by the terms and conditions of this Statement and the Terms of Use: [http://www.instamed.com/terms-of-use](https://web.archive.org/terms-of-use). You may also be subject to another privacy statement or other terms and conditions that are posted on InstaMed’s website specific to a particular InstaMed program or service (“Other Agreement“). Based upon your specific relationship(s) with InstaMed, we may collect, use or disclose Personal Information (defined below) in ways described in more detail in one or more Other Agreements. To the extent the Other Agreement includes additional terms that are not covered by or are inconsistent with this Statement, the terms and conditions of the Other Agreement will supersede this Statement.
 
 Within this Statement you will find covered matters related to the following:
 
@@ -51,7 +51,7 @@ c. Cookies
 
 As with many other sites, the Website may use “cookies” or other technologies to help us deliver content specific to your interests, to process your inquiries or requests, and/or to analyze your visiting patterns. Cookies, by themselves, will not be used by InstaMed to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit the Website. If you want to disable the use of cookies or remove them at any time from your computer, you can disable or delete them using your browser (consult your browser’s “help” menu to learn how to delete cookies), however you must enable cookies to access certain information on the Website. Note that in limited instances, such as when you create an online account, or request one of our other services, cookies may contain and be associated with the Personal Information we collect.
 
-We may also collect data by using “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “pixel tags”) that allow us to know when you visit the Website. Through pixel tags, we obtain non-personal information or aggregate information (i.e., your IP address, the areas of this website you visit, your operating system, your browser version and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
+We may also collect data by using “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “pixel tags“) that allow us to know when you visit the Website. Through pixel tags, we obtain non-personal information or aggregate information (i.e., your IP address, the areas of this website you visit, your operating system, your browser version and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
 
 **3\. Third-Party Advertisers**
 
@@ -135,7 +135,7 @@ THERE WILL BE NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE BROUGHT, HEARD, OR ARB
 
 **See also:**
 
-  * [Site Terms of Use](http://www.instamed.com/terms-of-use)
+  * [Site Terms of Use](https://web.archive.org/terms-of-use)
 
 
 
