@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231202711id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183629id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy-Israel News | Haaretz Daily Newspaper
 
@@ -87,6 +87,10 @@ Certain services on the Company’s websites, such as “Zirat Hakniyot” [the 
 _**Third party advertisements**_
 
 Certain advertisements on the Company’s websites are in fact operated from the computers of the advertising companies and/or by someone on their behalf. We wish to inform you that for the purpose of the advertisements’ management, these companies place cookies on your computer and embed web beacons on the advertisements or the website’s pages. The information collected does not identify you but seeks to adapt the advertisements displayed to you to the subjects that interest you. The use that these companies make of the cookies and web beacons are subject to their privacy policy and not to that of the Company’s websites. 
+
+We would like to inform you that, to the best of our knowledge, browsing the site while you are logged in to your Google Account will allow Google to cross information about your browsing through other devices ("Cross-device controls"), such as browsing from a desktop computer and a mobile phone, but in a way that does not identify you personally. To cancel the above option in "Google Account" setting click here: 
+
+[ https://www.google.com/settings/u/0/ads/authenticated ](https://www.google.com/settings/u/0/ads/authenticated)
 
 _**Collection of information for statistical purposes**_
 
