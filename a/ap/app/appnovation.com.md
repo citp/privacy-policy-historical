@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109200816id_/https%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152133id_/https%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Appnovation Technologies Inc.
+# Privacy Policy | Appnovation
 
 **Appnovation Technologies, Inc.**  
 [www.appnovation.com](http://www.appnovation.com/)  
- **Privacy Policy**
+**Privacy Policy**
 
 THIS PRIVACY POLICY RELATES TO INFORMATION COLLECTED ON APPNOVATION WEBSITES ACCESSED THROUGH THE URL [APPNOVATION.COM](http://www.appnovation.com/) (collectively, the “Site”).
 
