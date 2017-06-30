@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the women24.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042231id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the women24.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630155827id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Media24.com
-
-_Version 1.0 | Published on 2015-10-13_
 
 This is the main privacy policy for Media24 Proprietary Limited and it applies to all our Platforms. When we talk about our “Platforms” we refer to all our websites, mobile sites, mobile apps, emails or any other technology or services you may use to interact with us.
 
 We strive to provide you with a dynamic, interactive experience on all our Platforms. It is our aim to keep you informed and entertained by presenting you with the latest and most relevant news and content. One of the ways we do this is by analysing information we collect and receive from you in order to determine what you might be interested in. This helps us develop more engaging content and provide advertising that is more suited to you and more effective for advertisers, which enables us to keep most of our services free.
 
 This privacy policy describes how we handle the information we collect and receive from you. By using our Platforms you are agreeing to the provisions of this privacy policy.
+
+You must be older than 13 years old to use our Platforms. If you are below 18 years old, you must get permission from your parent or guardian before you use our Platforms or give us your personal information.
 
 ### INFORMATION WE COLLECT AND RECEIVE
 
@@ -122,5 +122,3 @@ We may update this privacy policy from time to time. Any changes we may make to 
 ### CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@media24.com.
-
-Click [here](http://www.media24.com/wp-content/uploads/2015/09/150907-Media24-Privacy-Policy-.pdf) to download the complete policy.
