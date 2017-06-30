@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226132808id_/http%3A//community.eveonline.com/support/policies/eve-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630090826id_/http%3A//community.eveonline.com/support/policies/eve-privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - EVE Community
 
 CCP hf. (“CCP”, “we,” “our,” “us”) recognises that you care how information about you is collected and used.  CCP has created this privacy policy to inform you of our practices regarding collection, use, and sharing of information.  Please read the following carefully to understand our views and practices regarding your personal data and how it will be treated.
 
-The practices described in this privacy policy apply to information gathered through our websites, [www.eveonline.com](http://www.eveonline.com/), [www.dust514.com](http://www.dust514.com/), [www.ccpgames.com](http://www.ccpgames.com/) and our online games EVE Online® and DUST 514® (collectively, “Site”) and do not necessarily reflect our practices with respect to information gathered through off-line means.  Use of a Site is also subject to any applicable Terms of Service for a given Site and to our personal information gathering and dissemination practices and policies described below.  This privacy policy forms part of our Terms of Service.  For the purpose of any applicable data protection and privacy legislation, our data controller is CCP hf. of Grandagarður 8, 101 Reykjavik Iceland, who may be reached at: _privacy@ccpgames.com_.
+The practices described in this privacy policy apply to information gathered through our websites, [eveonline.com](http://www.eveonline.com/), [dust514.com](http://www.dust514.com/), [gunjack.com](http://www.gunjack.com/), [gunjack2.com](http://gunjack2.com/), [evevalkyrie.com](http://www.evevalkyrie.com/), [ccpgames.com](https://www.ccpgames.com/) and our games EVE Online®, Gunjack™, Gunjack 2: End of Shift™ and EVE: Valkyrie™ (collectively, "Site") and do not necessarily reflect our practices with respect to information gathered through off-line means. Use of a Site is also subject to any applicable Terms of Service for a given Site and to our personal information gathering and dissemination practices and policies described below. This privacy policy forms part of our Terms of Service. For the purpose of any applicable data protection and privacy legislation, our data controller is CCP hf. of Grandagarður 8, 101 Reykjavik Iceland, who may be reached at: [privacy@ccpgames.com](mailto:privacy@ccpgames.com).
 
 This privacy policy will be published in English, but may be translated into additional languages for convenience of the reader.  If this privacy policy is published in any language other than English, the English language version will be the governing agreement and shall control interpretation of all matters discussed below.
 
@@ -225,4 +225,4 @@ If CCP experiences a “change in control” (defined below), then we may amend 
 
 If you have any questions about this privacy policy or the personal information practices of our Site, please contact us at _privacy@ccpgames.com_.
 
-**Effective Date: 31 October 2013**
+**Effective Date: 6 January 2017**
