@@ -1,145 +1,399 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110175312id_/https%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054033id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Center
 
-(Last Updated 6/24/2015)
+## Customer Data Privacy Notice
 
-This privacy statement provides important information about the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](https://www.aleks.com/) (the "ALEKS Website"). If you are under 18 years of age, please be sure to read this privacy statement with a parent or guardian and ask questions about anything you don’t understand.
+* * *
 
-**I** **mportant Note:** **The privacy practices described below** **apply to all ALEKS use except for ALEKS use through a K-12 school. (The privacy practices discussed below do not apply to use of ALEKS through K-12 schools.) To see ALEKS privacy practices  that apply to use of ALEKS through a K-12 school, please click [here](https://www.aleks.com/privacy_statement_k12)** **.**
+### Introduction
 
-ALEKS is the sole owner of the information collected on the ALEKS Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ALEKS collects information from our users at several different points on our website, including information about the knowledge of users of our services in order to provide instructional services suitable to their needs.
+Please note that this notice applies to individuals who visit our commercial web sites or otherwise interact with us as customers or potential employees via our web sites, social media, or at events.
 
-**This Privacy Statement covers the following:**
+Our commercial web sites, such as mheducation.com, are not intended for use by minors below the age of 13. Privacy information for users of our digital learning systems, including those under the age of 13, can be found by following the appropriate links to the left (Educators, Students, and Parents).
 
-  1. What personally identifiable information is collected through the ALEKS Website. 
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ALEKS' control.
-  7. How you can correct any inaccuracies in the information.
-  8. Our special policies pertaining to children.
+McGraw-Hill Education is a global organization. We follow all privacy laws and regulations that are applicable to our company and our services in the areas where we do business. You agree that by accessing our web sites or otherwise providing your personal information to McGraw-Hill Education, you accept this notice. It is your responsibility to fully read through this notice. If you do not agree to this notice, you may not access our web sites or otherwise provide your personal information to McGraw-Hill Education.
 
+### Privacy Notice
 
+  
+**_What is Personally Identifiable Information (PII)?_**
 
-If you have any questions of any kind or feel that we are not abiding by our posted privacy policy, you should contact our Director of Customer Support at: [http://support.aleks.com/contact](https://www.aleks.com/support/form/contact?subject=Question%20about%20privacy%20statement).
+Personally Identifiable Information, or PII, is information that can identify you, or when combined with other information can be used to identify you. Depending on the service or transaction, the PII that MHE collects on customers may contain the following categories:
 
-**Registration**
+  1. First name, last name, and/or initials
+  2. Personal contact information and/or contact information at your place of business such as email address, phone numbers, or postal address
+  3. Education and professional details such as school(s) or courses attended
+  4. Payment card industry data such as credit card number, billing address
 
-In order to use the ALEKS Website, a user must first complete the registration form. During registration a user is required to provide contact information (such as name, mailing address and email address), and choose the educational grade level and topic on which the user wishes instruction. With this information, we will assign a login name and password for use each time the user returns to our site.
 
-**Billing Information**
 
-We request information from the user or the parent or guardian of the user on our billing information form for the services offered on the ALEKS Website. Here a user must provide contact information (name and billing address) and financial information (credit card number and expiration date). This information is used for billing purposes. If we have trouble processing the billing information, this contact information is used to get in touch with such user, parent, or guardian.
+* * *
 
-Website Operator
+**_What PII do we collect and how do we use it?_**
 
-The ALEKS Website is operated by [ALEKS Corporation](https://www.aleks.com/) 15460 Laguna Canyon Road; Irvine, California 92618; phone: 714.245.7191; e-mail: contact us at [http://support.aleks.com](https://www.aleks.com/support/form/contact?subject=Website%20operator).
+**_We collect PII, such as contact information, education details, or payment information, in order to provide you with the product and/or service requested._**
 
-**Plug-ins and Cookies:**
+We, or our service providers on our behalf, may collect PII and other information if you access and/or submit PII on one of our web sites or interact with us at an event. You are not required to provide PII, however in order to use certain services, we must collect PII in order for that service to function properly or to provide you with additional information. In general, we collect PII if it is necessary to provide, maintain, and improve the requested service, such as McGraw-Hill Education web sites or process transactions, such as information requests or purchases. It is your responsibility to ensure the integrity of the data you provide to us. You may contact customer service to update your PII.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. A plug-in is software which the user downloads and is installed into the user's web browser that enables certain web software to operate. Cookies enable us to protect confidential data, and track and target the interests of our users to enhance the experience on the ALEKS Website. We may also use cookies to track your actions on commercial pages of our website. This information may be used by third-party vendors, including Google, to show you ads about our products or services when you visit other sites across the Internet. If you wish to opt out of the use of data collected on our site to send you targeted advertising during your visits to other websites, go to:
+We limit the use, collection, and disclosure of your PII to deliver the service or information requested by you. We do not collect, use, or disclose PII that is not reasonably related to the purposes described within this notice. Your information may be combined in an aggregate and de-identified manner in order to maintain and/or improve our services.
 
-  * [Google Ads Settings](http://www.google.com/settings/ads)
-  * [Third-Party Cookie Usage](http://www.networkadvertising.org/choices/)
+Depending on the service or transaction, the PII we collect may include information from the following categories:
 
+  1. Name, initials or white page information
+    1. On our consumer web sites, we generally only collect your name, initials or contact information when you create an account or purchase a product on our online store. We may also collect your email address. We may also collect this information if you connect with us via your social media account as an existing or potential customer, or if you are interested in a career at McGraw-Hill Education.
+  2. Education & and professional information
+    1. If you are interested in a career with us, we may collect additional education and professional information online, primarily in the form of an online form or resume. We use this information to evaluate candidates, conduct interviews and initiate the hiring process.
+  3. Payment card industry data such as credit card number, billing address, etc.
+    1. If you make an online purchase from us, in addition to your name, we may need to collect additional payment information, which includes billing and shipping addresses and credit card data in order to process your transaction.
 
 
-In order to use the ALEKS Website, a user must accept the installation of one or more ALEKS plug-ins into the user's browser. Cookies and the ALEKS plug-in are not linked to any personally identifiable information.
 
-**Log Files**
+* * *
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. Log files are are linked to personally identifiable information for purposes of (i) tracking and fixing software "bugs" and (ii) as and to the extent required by applicable law.
+**_What other information do we collect?_**
 
-**Sharing:**
+**_We may also collect computer metadata and content to provide, improve, and maintain our products and services._**
 
-**Personally Identifiable Information:** ALEKS does **not** disclose or share personally identifiable information with third parties except for purposes of credit card processing as described below.
+When you visit and make transactions on our web sites, we collect information without you having to enter it through the use of cookies, web beacons or other tracking mechanisms. This includes information about your experience such as your IP address, operating systems, pages viewed, and time spent. Information may also be collected automatically from you through the use of third party cookies, web beacons, and tracking mechanisms. This information is used to enable the functions of the site, as well as customize, maintain, and improve our web sites. You may disable cookies via your browser or third party mechanisms. However, some features of our services may not functional properly without them. Third party cookies which may be used include:
 
-**Credit Card Processing:** We use an outside credit card processing company to bill users and parents or guardians of child users for our services. ALEKS Corporation does not retain, share, store or use personally identifiable information for any secondary purposes.
+  * AddThis
+  * Adobe Test & Target
+  * DoubleClick
+  * Eloqua
+  * Google: Various including AdWord Conversion, Analytics, Tag Manager, etc.
+  * LivePerson
+  * Marketo
+  * Omniture
 
-**Third Party Partners:** In the future, it is possible that ALEKS will provide additional services, or will partner with another party to provide specific services to the users of the ALEKS Website. In that event, such parties will not be allowed to use personally identifiable information except for the purpose of providing these services. In addition, we will not disclose or share personally identifiable information pertaining to a child under the age of 13 until we have obtained verifiable parental consent to do so.
 
-**Non-Personally Identifiable Information:** ALEKS reserves the right to disclose to third parties **non** personally identifiable information about our users and their use of the ALEKS Website and related services. For example, ALEKS may disclose aggregate data about the overall patterns or demographics of the users of the ALEKS Website to third parties.
 
-**Links**
+If you access our web sites from the European Union, you will be presented with an additional notification regarding cookies and will be provided with an opportunity to approve the use of cookies.
 
-This web site contains links to other sites. Please be aware that ALEKS is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the ALEKS Website.
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions for your specific browser.
 
-**Transmission Errors or Unauthorized Acts**
+If you wish to opt out of the use of data collected on our site to send you targeted advertising during your visits to other websites, go to http://www.aboutads.info/choices or http://youronlinechoices.eu/..
 
-Although ALEKS will use reasonable efforts to safeguard the confidentiality of personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. ALEKS will not be liable for disclosures of personally identifiable information due to errors in transmission or unauthorized acts of third parties.
+* * *
 
-**Required by Law**
+**_Do we use your PII to market to you?_**
 
-ALEKS may be required by law to release information regarding our users to law enforcement officials or to use the information internally to permit the investigation of credit card fraud, illegal use of the Internet, violation of our terms of service or other cases of misconduct on the ALEKS Website. We reserve the right to disclose personally identifiable information under such circumstances, or when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or other legal process. 
+**_We may market to you as a customer, depending on your location, however you always have the option to change your marketing preferences._**
 
-**Change of Ownership**
+Depending on your location, we may use your PII to provide you with materials that we believe are of interest. In some locations, such as the European Union, we will only market to you if you request such materials. In all instances, you may choose to change these preferences at any time by contacting our [customer service](http://www.mheducation.com/contact.html) or by sending an email to [McGraw-Hill Education's local privacy official](http://www.mheducation.com/privacy/customer-privacy-contacts.html). McGraw-Hill Education will not share your PII with third parties for marketing purposes unless the organization is acting on our behalf and is contractually bound to only use your PII for those purposes. Please note, whatever preferences you select for marketing, you may still receive some transactional emails related to the services or products you purchase or use.
 
-In the event that there is a change of ownership or sale of assets of ALEKS, whatever information that we have collected from the ALEKS Website may be transferred to a new owner. ALEKS will use all reasonable efforts to ensure that the new owners of the information follow the same privacy practices that are described in this Privacy Statement.
+* * *
 
-**Updates,  Student Reports and Other Communications from ALEKS**
+**_When do we share your PII with third parties?_**
 
-We will notify you of new ALEKS features and updates via email, unless you remove the checkmark next to the text requesting such notification which appears under our request for your email address in our Account Creation forms. We also send periodic student reports of children’s' progress via email, unless you remove the checkmark next to the text requesting such reports which appears under our existing student account or new student registration information in our Account Creation forms. In order to continue to receive student reports while subscribing to our services, you must provide us with your new email address each time you change it.  
+**_In general, we only share your PII in order to provide, maintain, or improve our products or services, or respond to legal requests._**
 
-**Surveys & Contests**
+  1. Co-branded/Other Web Sites and Features – We may share your PII with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to the PII that is reasonably necessary to deliver the Service, and we will require that such third parties follow the same privacy and security practices as McGraw-Hill Education.
+  2. Business Transfer – In the event of a sale, merger or acquisition, we may transfer your PII to a separate entity. This entity will be responsible for ensuring that your PII is used only for authorized purposes and by authorized persons in a manner consistent with the choices customers and prospects have made under this notice, and that security, integrity and privacy of the information is maintained.
+  3. Agents/Service providers – Sometimes we hire other companies to perform certain business-related functions for us. In certain instances, we provide these companies with access to your PII in order for them to perform their functions. However, we limit that access to only information required to perform their specific function, and we contractually require that these organizations follow the same privacy and security requirements.
+  4. Contests and Promotions – If you participate in a contest or promotion with McGraw-Hill Education, we may use your information to provide, maintain, or improve our services, as well as, where permitted, contact you regarding materials in which you may be interested.
+  5. Affiliates – McGraw-Hill Education is a global corporation that consists of multiple organizations. In some instances, we may share your PII between organizations within McGraw-Hill Education to provide, maintain, and improve our products and services.
+  6. Law Enforcement – In the event that McGraw-Hill Education receives a legal demand for customer data from a law enforcement agency that request will only be honored if:
+    1. The request complies with all laws and clearly establishes the legal need for disclosure.
+    2. The request is related to a specific investigation and specific user accounts are implicated in that investigation.
+    3. Whenever legally permissible, users shall receive notice that their information is being requested.
+  7. Non-Personally Identifiable Information - MHE reserves the right to disclose to third parties non-personally identifiable information about our users and their use of the MHE websites and related services. For example, MHE may disclose aggregate data about the overall patterns or demographics of the users of the MHE websites to third parties.
 
-From time-to-time it is possible that our site will request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-**Tell-A-Friend**
 
-If a user elects to use any referral service we may provide for informing a friend about our site, we ask them for the friend's name and email address. ALEKS will automatically send the friend a one-time email inviting them to visit the site. ALEKS stores this information for the sole purpose of sending this one-time email. The friend may request the removal of this information from their database by clicking on the removal link at the bottom of the invitation.
+* * *
 
-**Security**
+**_What privacy controls and choices do we offer you?_**
 
-As part of the registration process, users are assigned a login name as described above (see "Registration" above) and an anonymous password. ALEKS will use the login name and password to identify the user on all subsequent visits to the ALEKS Website. It is the user's responsibility to keep his or her password confidential.
+**_You may review and correct your PII by contacting customer service._**
 
-ALEKS takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+  1. Reviewing & correcting your information – We strive to ensure that information we have about you is accurate and current. If you want to review the PII you have provided to us, or believe that the information we have about you is inaccurate, you should contact our [customer service](http://www.mheducation.com/contact.html) to review or update your PII.
+  2. Choice – With limited exceptions, you may choose to change how we use your PII at any time by contacting [customer service](http://www.mheducation.com/contact.html). However, if the PII is required to provide you with the service or process a transaction, you may not be able to opt-out without canceling the transaction or service.
 
-When our registration/order form asks users to enter financially sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer ("SSL") protocol. To use this protection technology, you need to have an SSL-capable browser, such as Netscape Navigator 4.5 or higher or Microsoft Internet Explorer 4.5 or higher. While on a secure page, such as our billing information form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the financially sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can contact us at [http://support.aleks.com/security](https://www.aleks.com/support/form/security?subject=Security).
+* * *
 
-**Special Offers**
+**_How do we protect your PII?_**
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, or special offers. We may send our customers a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+**_Our IT security team has established industry standard security measures to protect your PII from unauthorized access and use._**
 
-**Site and Service Updates**
+MHE takes every precaution to protect your information. When you submit personal information via the website, your information is protected both online and off-line. MHE utilizes reasonable security measures to protect your PII from unauthorized access and use.
 
-**We  send site and service related announcements to users on occasion when the information contained in such announcements is important.  For instance, if our service were to be temporarily suspended for maintenance, we might send such an email.  You may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.**
+* * *
 
-**Correction/Updating Personal Information**
+**_Can you delete your PII?_**
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
+**_You may request, via[customer service](http://www.mheducation.com/contact.html), that we delete your PII, however it may limit your abilities to use our products or services._**
 
-**Choice/Opt-out**
+At your request, in some instances, we may delete or de-identify your information. However, you should be aware that doing this may limit your use of our services. For example, if you request the deletion of your account within an ecommerce portal, you may be required to re-enter this information should you wish to make another purchase.
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our billing information form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their e-mail address off of our lists.
+* * *
 
-Users who do not wish to receive certain communications, such as newsletters or promotional materials from ALEKS or our partners may opt-out of receiving these communications by clicking on the opt-out link on the bottom of e-mail communications, or by notifying us in regard to other communications at [http://support.aleks.com](https://www.aleks.com/support/form/?support_issue=other&other_subject=opt%20out).
+**_When do we store, transfer or process PII internationally?_**
 
-In the event that in the future we offer services that require outside parties, users of our site will be notified when their information is being collected by any outside parties. We would do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+**_McGraw-Hill Education is a global organization based in the U.S. Depending on your location, and the product or service; your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail._**
 
-**Special Policies  Regarding Children **_(Please note: as stated above, these policies do **not** apply to K-12 Students using ALEKS through their school.)_
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. To comply, we have implemented model clauses within the organization to provide a legal mechanism for transferring data to the U.S.
 
-We encourage parents and guardians to spend time online with their children, and to monitor, and participate with, their children in using the ALEKS Website. We encourage parents to monitor their children's online use, and to help protect their privacy by instructing them never to provide personally-identifying information on any website without parental permission.
+Any questions or complaints regarding this notice or the collection, use, disclosure, or transfer of PII covered by this notice should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com).
 
-**Children: Please do not give your full name, email address, home address, telephone number or any other personally-identifying information that would enable someone to contact you either online or offline, without first asking your parent or guardian for permission.**
+## Educator Data Privacy Notice
 
-No personally-identifying information should be provided to the ALEKS Website by children without the consent of their parent or guardian.
+* * *
 
-We will not knowingly collect online contact information from a child under age 13 without prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity. Where prior verifiable parental consent is not obtained, online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes.
+### Introduction
 
-Children under 13 years old may use ALEKS only if the child's parent or guardian has paid for such use with such parent or guardian's credit card; such payment is verifiable parental consent. Children under 13 years old are not permitted to use ALEKS without the parent or guardian's credit card payment unless the child's parent or guardian has provided another form of legally acceptable verifiable parental consent. 
+We are happy to provide this information, however your educational institution will have full details and is ultimately responsible for the privacy of your personal information. Should you have any detailed questions or concerns about the privacy practices in place for your information, please contact the appropriate representative at your institution.
 
-We will not distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent. We will not give the ability to children under 13 to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent, and will make best efforts to prohibit a child from posting any such information. We will not entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.
+McGraw-Hill Education is a global organization. We follow all privacy laws and regulations in the areas where we do business. Revisions to these privacy practices will be posted at this location; however, we will also notify your educational institution directly should there be material changes.
 
-**Notification of Changes**
+As an educator, you may also be a customer. Please be sure to review our Customer Privacy Notice regarding our privacy practices for customer PII. The below privacy information applies to educators who use our digital learning systems.
 
-ALEKS reserves the right to change this Privacy Statement, or any other ALEKS policy or practice, at any time. Any changes or updates to this Privacy Statement will be effective upon posting to the ALEKS Website. Although we may change or update this Privacy Statement at any time, ALEKS will provide notice of any material changes to this Privacy Statement by posting a notice on the home page of the ALEKS Website. For your information, the date of the last update to this Privacy Statement is listed at the top of this page. We have also provided a print button below so that you can keep a copy of this Privacy Statement for your records.
+### Privacy Practices
 
-**Contact Us**
+  
+**_What is Personally Identifiable Information (PII)?_**
 
-Privacy and security are important to us all. We welcome your feedback and thoughts on privacy and security. If you have any questions, or feel that we are not abiding by this Privacy Statement, please contact us by e-mailing our Director of Customer Support at [http://support.aleks.com/contact](https://www.aleks.com/support/form/contact?subject=Question%20about%20privacy%20statement).
+**_Personally Identifiable Information, or PII, is information that can identify you, or when combined with other information can be used to identify you._**
+
+Depending on the service or transaction, the PII that MHE collects on educators may contain the following categories of information:
+
+  1. Name and initials
+  2. Personal contact information and/or contact information at your place of business such as email address, phone numbers, or postal address
+  3. Education and professional details such as school(s) or courses attended
+
+
+
+* * *
+
+**_What PII do we collect and how do we use it?_**
+
+**_We collect PII, such as contact information and education details, in order to provide you with the product and/or service requested._** We limit the use, collection, and disclosure of your PII to the minimum necessary to deliver the digital learning system and provide customer service. We do not collect, use, or disclose PII that is not reasonably related to a legitimate business purpose necessary to serve you. Your information may be combined in an aggregate and de-identified manner in order to maintain and/or improve our digital learning systems, or provide customer service.
+
+Depending on the product, the PII we collect may include information from the following categories:
+
+  1. Name, initials, and personal or business related contact information
+    1. For our digital learning systems, we generally only collect your name/initials and contact information when you create an account. However, we may collect additional PII, or confirm existing PII if you contact customer service with an issue or question. Please note that in some instances, we receive PII from third parties who provide single-sign on functions via Learning Management Systems or related tools. Please contact your educational institution for further details.
+  2. Education & professional information 
+    1. For some digital learning systems, we may collect PII related to your position as an educator. This includes the state, district, name of school, courses, etc. This PII is used to provide you with access and use of the digital learning system, as well as maintain and improve our digital learning systems.
+
+
+
+* * *
+
+**_What other information do we collect?_**
+
+**_We may also collect computer metadata and content to provide, improve, and maintain our products and services._**
+
+When you use our digital learning systems, we collect information without you having to enter it through the use of cookies, web beacons or other tracking mechanisms. This includes information about your experience such as your IP address, operating systems, pages viewed, and time spent. This information is also used to enable the functions of the digital learning system, as well as customize, maintain, and improve our digital learning systems. You may disable cookies via your browser or third party mechanisms. However, some features of our digital learning systems may not functional properly without them. Third party cookies that may be used include:
+
+  * Disqus
+  * Google Analytics
+  * Marketo
+  * Pingdom
+  * Webtrends
+
+
+
+Please note, if applicable, we may combine information that you enter into our digital learning systems with PII that we may maintain on you as a customer. We combine this PII to provide you with better customer service and to tailor marketing to areas that are more appropriate for you. As noted in our Customer Privacy Notice, you are always able to opt-out of receiving these communications.
+
+If you access our web sites from the European Union, you will be presented with an additional notification regarding cookies and will be provided with an opportunity to approve the use of cookies.
+
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser.
+
+* * *
+
+**_When do we share your PII with third parties?_**
+
+**_In general, we only share your PII in order to provide, maintain, or improve our products or services, or respond to legal requests._**
+
+  1. Co-branded/Other Web Sites and Features – We may share your PII with third-party business partners for the purpose of providing the digital learning system to you. Those business partners will be given limited access to PII that is reasonably necessary to deliver the digital learning system, and we will require that such third parties follow the same privacy and security standards.
+  2. Business Transfer – In the event of a sale, merger or acquisition, we may transfer your PII to a separate entity. We will use commercially reasonable efforts to help ensure that your PII is used only for authorized purposes and by authorized persons in a manner consistent with the choices customers and prospects have made under this notice, and that security, integrity and privacy of your PII is maintained.
+  3. Agents/Service providers – Sometimes we hire other companies to perform certain business-related functions for us. In certain instances, we provide these companies with access to your PII in order for them to perform their functions. However, we limit that access to only information required to perform their specific function. We also require these companies to follow these same privacy and security standards.
+  4. Contests and Promotions - If you participate in a contest or promotion with McGraw-Hill Education, we may use your information to provide, maintain, or improve our services, as well as, where permitted, contact you regarding materials in which you may be interested.
+  5. Affiliates – McGraw-Hill Education is a global corporation that consists of multiple organizations. In some instances, we may share your PII between organizations within McGraw-Hill Education to provide, maintain, and improve our products and services.
+  6. Customers – As we are a service provider to your school, we may share your data with approved individuals at your school, such as administrators
+  7. Law Enforcement – In the event that McGraw-Hill Education receives a legal demand for PII from a law enforcement agency, the request will only be honored if:
+    1. The request complies with all laws and clearly establishes the legal need for disclosure.
+    2. The request is related to a specific investigation and specific user accounts are implicated in that investigation.
+    3. Whenever legally permissible, users shall receive notice that their information is being requested.
+  8. Non-Personally Identifiable Information - MHE reserves the right to disclose to third parties non personally identifiable information about our users and their use of the MHE website and related services. For example, MHE may disclose aggregate data about the overall patterns or demographics of the users of the MHE websites to third parties.
+
+
+
+* * *
+
+**_What privacy controls and choices do we offer you?_**
+
+**_Please reach out to the appropriate contact at your school if you want to review your account information, or believe that the PII we have about you is inaccurate._**
+
+  1. Reviewing & correcting your information – We strive to ensure that the PII we have about you is accurate and current. However, since McGraw-Hill Education is a service provider to your school, please contact the appropriate contact at your school if you want to review your account information, or believe that the PII we have about you is inaccurate.
+  2. Consent – As noted above, your educational institution is ultimately responsible for the privacy of your PII. MHE obtains consent from your institution to collect, process, and store your PII. If you have any questions regarding the collection and use of your PII, please contact the appropriate individual at your educational institution
+
+
+
+* * *
+
+**_How do we protect your PII?_**
+
+**_Our IT security team has established industry standard security measures to protect your PII from unauthorized access and use._**
+
+MHE takes every precaution to protect your information. When you submit personal information via the website, your information is protected both online and off-line. MHE utilizes reasonable security measures to protect your PII from unauthorized access and use.
+
+* * *
+
+**_Can you delete your PII?_**
+
+**_You may request that we delete your PII through your school, however you should be aware this may limit your ability to use our products or services._**
+
+At the request of your educational institution, in some instances, we may delete or de-identify your PII. However, you should be aware that doing this may limit your use of our products. For example, if we receive a request to delete your account within a digital learning system, you may no longer be able to log into that digital learning system.
+
+* * *
+
+**_When do we store, transfer or process PII internationally?_**
+
+**_McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail._**
+
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. To comply, we have implemented model clauses within the organization to provide a legal mechanism for transferring data to the U.S.
+
+Any questions or complaints regarding this notice or the collection, use, disclosure, or transfer of Personal Data covered by this notice should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com).
+
+## Parent Data Privacy Notice
+
+* * *
+
+### Introduction
+
+Protecting privacy and maintaining the trust of our customers, their students, and parents has always been a key priority for us. To enhance learning, we need access to data, measurement, insight and other feedback that inform us about students' knowledge and skill levels and learning development.
+
+Our goal is to use data in the course of current learning activities to provide adaptive pathways of learning; not drive commerce.
+
+We want to communicate with parents and schools about the educational benefit of using technology to create a personalized learning path based on past performance, and the need to use student information for educational purposes.
+
+We want to build trust about the way we use personally identifiable student data for educational purposes.
+
+And our commitment to privacy and innovation goes beyond compliance, its part of our culture:
+
+  * We have implemented policies and procedures around these issues to support schools and institutions in their COPPA and FERPA compliance efforts.
+  * In 2013, we appointed one of the education industry's first Chief Privacy Officers.
+  * We've taken a leadership role with Future of Privacy Forum (FPF) and the Software and Information Industry Association (SIIA) in setting the agenda for self-regulatory goals for student privacy in the industry.
+  * We have an internal Privacy Council comprised of senior leaders throughout our company insuring best practices across our business.
+  * We do not support business models that create tolls and taxes on interoperability.
+  * We conduct regular scans of all of our applications to prevent and detect any possible security breaches. We recognize that no system is 100% secure, but do everything we can to prevent and mitigate any impact of adverse events.
+
+
+
+By increasing awareness and transparency, we hope to better understand the concerns and learn how to talk with each other about privacy, security, and confidentiality.
+
+Educational institutions are ultimately responsible for providing a full understanding of the privacy practices around how their students' personally identifiable information is collected, shared, and used. To obtain more detailed information about how data is collected, used, and shared by an educational institution, please contact the appropriate individual at that institution. For further details on our privacy practices around student data, please review the student privacy notice in the Privacy Center.
+
+* * *
+
+If you have purchased an MHE product for your child, please also review the Customer Privacy Notice for information on how we handle your personal information. If you have created an account in the product for yourself, please also review the Educator Privacy Notice. The Student Privacy Notice will detail practices around how we collect and use your child’s information.
+
+## Student Data Privacy Notice
+
+* * *
+
+### Introduction
+
+As a global leader in providing digital learning systems for educators and students, McGraw-Hill Education is deeply committed to protecting the privacy of customers and their students. Whether you are using Connect, ConnectEd, Engrade or any of our other solutions, we collect personal information that we use to provide, maintain and improve the solution. We are providing the below information so that you can understand how we protect and use your information. If you are under 18, we suggest that you review this information with your parents.
+
+This information applies to all students who use our digital learning system. Educational institutions are best able to provide you with a full understanding of their privacy practices and more information on how their students' PII is collected, shared, and used. To obtain more detailed information about how PII is collected, used, and shared by or on behalf of an educational institution, please contact the appropriate individual at that institution.
+
+Should the below information change, we will update it here, but more importantly, we will notify your school in writing and obtain their consent before implementing any new practices that affect your privacy beyond what is described.
+
+* * *
+
+**_What is personally identifiable information (PII)?_**
+
+**_Personally Identifiable Information, or PII, is information that can identify you, or when combined with other information can be used to identify you._**
+
+Personally identifiable information, or PII, is information that can be used to identify you, such as your name, address, or ID numbers. PII also includes information that can be combined to identify you, such as your date of birth and birthplace. Any information that is combined with PII is also considered PII as long as it is linked to PII. For example, we couldn't identify you based on your grade level, however grade level is PII as long as it is connected to you.
+
+* * *
+
+**_What PII do we collect and how do we use it?_**
+
+**_We collect PII, such as contact information and education details, in order to provide you with the product and/or service requested._**
+
+We only collect the information we require to provide, maintain and improve the digital learning solution you use. When you register, or are registered within one of our digital learning solutions, we typically only collect your name, school, instructor, class, and login information. However, once you begin using one of our solutions, we collect your input to questions, technical specifications, and other information about how you use the solution. As mentioned above, we use this information to provide you with the solution, as well as maintain and improve the solution.
+
+* * *
+
+**_What other information do we collect?_**
+
+**_We may also collect computer metadata and content to provide, improve, and maintain our products and services._**
+
+When you use our digital learning systems, we collect information without you having to enter it through the use of cookies, web beacons or other tracking mechanisms. This includes information about your experience such as your IP address, operating systems, pages viewed, and time spent. This information is also used to enable the functions of the digital learning system, as well as customize, maintain, and improve our digital learning systems. You may disable cookies via your browser or third party mechanisms. However, some features of our digital learning systems may not function properly without them. Third party cookies that may be used include Google Analytics and Webtrends.
+
+If you access our web sites from the European Union, you will be presented with an additional notification regarding cookies and will be provided with an opportunity to approve the use of cookies.
+
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser.
+
+* * *
+
+**_Do we use your PII to market to you?_**
+
+**_We will not sell your PII or market to you using PII from our digital learning systems._**
+
+We will not sell your PII to other organizations, nor will we send you advertisements using the information we collect while you use the solution. In addition, we will not share this information with any third party unless they are assisting us with providing, maintaining or improving the solution. If we do share your information, we only share it with those organizations that can commit to the same levels of privacy and security that we do.
+
+* * *
+
+**_When do we share your PII with third parties?_**
+
+**_In general, we only share your PII in order to provide, maintain, or improve our products or services, or respond to legal requests._**
+
+  1. Co-branded/Other Web Sites and Features – We may share your PII with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to the PII that is reasonably necessary to deliver the Service, and we will require that such third parties follow the same privacy and security practices as McGraw-Hill Education.
+  2. Business Transfer – In the event of a sale, merger or acquisition, we may transfer your PII to a separate entity. This entity will be responsible for ensuring that your PII is used only for authorized purposes and by authorized persons in a manner consistent with the choices customers and prospects have made under this notice, and that security, integrity and privacy of the information is maintained.
+  3. Agents/Service providers – Sometimes we hire other companies to perform certain business-related functions for us. In certain instances, we provide these companies with access to your PII in order for them to perform their functions. However, we limit that access to only information required to perform their specific function, and we contractually require that these organizations follow the same privacy and security requirements.
+  4. Affiliates – McGraw-Hill Education is a global corporation that consists of multiple organizations. In some instances, we may share your PII between organizations within McGraw-Hill Education to provide, maintain, and improve our products and services.
+  5. Customers – As we are a service provider to your school, we may share your date with approved individuals at your school, such as administrators or educators
+  6. Law Enforcement – In the event that McGraw-Hill Education receives a legal demand for customer data from a law enforcement agency that requests will only be honored if:
+    1. The request complies with all laws and clearly establishes the legal need for disclosure.
+    2. The request is related to a specific investigation and specific user accounts are implicated in that investigation.
+    3. Whenever legally permissible, users shall receive notice that their information is being requested.
+  7. Non-Personally Identifiable Information: MHE reserves the right to disclose to third parties non-personally identifiable information about our users and their use of the MHE website and related services. For example, MHE may disclose aggregate data about the overall patterns or demographics of the users of the MHE websites to third parties.
+
+
+
+* * *
+
+**_What privacy controls and choices do we offer you?_**
+
+**_Please reach out to the appropriate contact at your school if you want to review your account information, or believe that the PII we have about you is inaccurate._**
+
+  1. Reviewing & correcting your information – We strive to ensure that the PII we have about you is accurate and current. However, since McGraw-Hill Education is a service provider to your school, please contact the appropriate contact at your school if you want to review your account information, or believe that the PII we have about you is inaccurate.
+  2. Consent – As noted above, your educational institution is ultimately responsible for the privacy of your PII. MHE obtains consent from your institution to collect, process, and store your PII. If you have any questions regarding the collection and use of your PII, please contact the appropriate individual at your educational institution.
+
+
+
+* * *
+
+**_How do we protect your PII?_**
+
+**_Our IT security team has established industry standard security measures to protect your PII from unauthorized access and use._**
+
+MHE takes every precaution to protect your information. When you submit personal information via the website, your information is protected both online and off-line. MHE utilizes reasonable security measures to protect your PII from unauthorized access and use.
+
+* * *
+
+**_Can you delete your PII?_**
+
+**_You may request that we delete your PII through your school; however you should be aware this may limit your ability to use our products or services._**
+
+Since your school has hired us to manage this information for them, we ask that you or your parent make any request to delete your information directly to your school. Please know that if we do receive a request to delete your information, you may no longer be able to access or use the digital learning solution. In addition, we follow internal policies regarding the retention of PII. In general, PII is deleted after a period of inactivity. For further details on the retention practices on a particular product or service, please email privacy@mheducation.com
+
+* * *
+
+**_When do we store, transfer or process PII internationally?_**
+
+**_McGraw-Hill Education is a global organization based in the U.S. Depending on your location, we may transfer and store your PII for processing in the U.S._**
+
+McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail.
+
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. To comply, we have implemented model clauses within the organization to provide a legal mechanism for transferring data to the U.S.
+
+Any questions or complaints regarding this notice or the collection, use, disclosure, or transfer of Personal Data covered by this notice should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com).
