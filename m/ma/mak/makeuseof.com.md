@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231122107id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183006id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
@@ -10,7 +10,7 @@ Other Internet sites or services that may be accessible through MakeUseOf.com ha
 
 For newsletter management and distribution, MakeUseOf uses services offered by Amazon and [Feedburner](http://feedburner.google.com/). While these are established companies that are known to be reliable when it comes to keeping their servers secure, we can’t be held responsible/liable for any breaches or customer data loss that may occur at those companies.
 
-MakeUseOf.com will **never** ask for credit card details and request that you do not enter them on any of the forms on MakeUseOf.com. 
+MakeUseOf.com will **never** ask for credit card details and request that you do not enter them on any of the forms on MakeUseOf.com.
 
 MakeUseOf.com is not responsible for the content from external sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
@@ -22,7 +22,7 @@ Also keep in mind that third party ads served on MakeUseOf.com (e.g. Google Adse
 
 Our Facebook application will gather specific public information about you: whether you’ve liked our Facebook page and your location. We use the gathered information to display the relevant offers to you through our application. Your information is never shared or stored in any way.
 
-Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.” For more information about our use of affiliate links, please read our [Affiliate Disclosure](http://www.makeuseof.com/affiliate-disclaimer/).
+Disclosure of Material Connection: Some of the links on MakeUseOf.com are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.” For more information about our use of affiliate links, please read our [Affiliate Disclosure](https://www.makeuseof.com/affiliate-disclaimer/).
 
 Advertising in emails: We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp.
 
