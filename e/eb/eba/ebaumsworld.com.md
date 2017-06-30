@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622004421id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630195455id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Funny Pictures | eBaum's World | eBaum's World
 
