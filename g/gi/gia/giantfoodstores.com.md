@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126180838id_/http%3A//giantfoodstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630073118id_/https%3A//giantfoodstores.com/privacy) for the most accurate reproduction.*
 
 # Home - privacy policy - GIANT Food Stores
 
