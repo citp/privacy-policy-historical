@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229145406id_/https%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150459id_/http%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Men's Journal: Men's Style, Travel, Fitness and Gear
+# Privacy Policy - Men's Journal
 
 _Effective Date:_ March 19, 2015 
 
@@ -61,6 +61,8 @@ If you send someone else a communication from the MJ Application, such as sendin
 **(d) Information We Collect from Third Parties**
 
 We may acquire information from other trusted sources to update or supplement the information that you provided or we collected automatically, such as information to validate or update your address or other demographic information and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes. We may also acquire information from other sources about your visits over time and across other third party web sites, in order to serve more targeted advertising to you on the MJ Application. 
+
+**2\. How We Use and Share the Information Collected**
 
 **(a) Provide, Manage and Improve our Services**
 
@@ -172,7 +174,8 @@ If you have a question or issue relating to your Men's Journal magazine subscrip
 
 If you have any questions or concerns about any aspect of this policy, please contact our privacy policy coordinator at the address set forth below. 
 
+  
 Privacy Coordinator  
 Men's Journal  
 1290 Avenue of the Americas  
-New York, NY 10104 
+New York, NY 10104
