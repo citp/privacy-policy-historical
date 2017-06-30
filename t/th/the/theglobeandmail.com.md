@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231193329id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630101854id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
 This privacy policy was last amended January 2015.
 
-This is the main privacy policy for [theglobeandmail.com](http://www.globeandmail.com/) and [globeadvisor.com](http://www.globeadvisor.com/) and for certain services provided through these and other websites and applications of The Globe and Mail Inc. (“The Globe”). There may be other policies that apply to certain services that we provide, or we may link to third parties who may have their own policies. Please read these when you register or subscribe for these services, or visit a third party website or application. 
+This is the main privacy policy for [theglobeandmail.com](https://web.archive.org/) and [globeadvisor.com](http://www.globeadvisor.com/) and for certain services provided through these and other websites and applications of The Globe and Mail Inc. (“The Globe”). There may be other policies that apply to certain services that we provide, or we may link to third parties who may have their own policies. Please read these when you register or subscribe for these services, or visit a third party website or application. 
 
 The Globe is always working to offer new products and services to users and may from time to time need to update this Privacy Policy. If there is any material change, The Globe will notify users through messaging on the applicable websites and applications for a reasonable period of time. Please read this privacy policy carefully and check back periodically for updates. 
 
@@ -32,8 +32,8 @@ The following sets out what you need to know about our personal handling practic
 
 ### Uses you can explicitly consent to:
 
-  * You may opt-in to receive additional services such specialized daily email newsletters or marketing communications from our advertisers based on your areas of interest. Go to the [Customer Preference Centre](http://www.theglobeandmail.com/community/) to take advantage of these services from The Globe. Your email address is not shared with our advertisers.
-  * You [may opt-in to receive stock alerts](https://secure.globeadvisor.com/gahelp/portfolios/help_alerts_funds_setup.html) from The Globe by visiting [globeadvisor.com](http://www.globeadvisor.com/) or [globeandmail.com](http://www.theglobeandmail.com/) and setting up a personalized portfolio.
+  * You may opt-in to receive additional services such specialized daily email newsletters or marketing communications from our advertisers based on your areas of interest. Go to the [Customer Preference Centre](https://web.archive.org/community/) to take advantage of these services from The Globe. Your email address is not shared with our advertisers.
+  * You [may opt-in to receive stock alerts](https://secure.globeadvisor.com/gahelp/portfolios/help_alerts_funds_setup.html) from The Globe by visiting [globeadvisor.com](http://www.globeadvisor.com/) or [globeandmail.com](https://web.archive.org/) and setting up a personalized portfolio.
   * We are currently updating our Customer Preference Centre to include editing capabilities for supplemental information. In the meantime, please send email to [privacy@globeandmail.com](mailto:optout@globeandmail.com) with your request.
 
 
@@ -50,7 +50,7 @@ The following sets out what you need to know about our personal handling practic
 
   * If at any time you would like to unsubscribe from marketing and/or service email communications from The Globe please email [privacy@globeandmail.com](mailto:optout@globeandmail.com) with your request. You may also click the unsubscribe link provided in the footer of all non-essential communication from The Globe. You must call Customer Service to provide an alternate method of contacting you should you wish to unsubscribe from certain email services we consider essential to your service such as billing notices, delivery notices, or password reset requests.
   * If you wish to make a change to your supplementary information or remove your consent regarding The Globe’s use of your supplementary information, please send email to [privacy@globeandmail.com](mailto:optout@globeandmail.com) and include Supplementary Information in the subject line or call Customer Service at [1-800-387-5400](tel:+1-800-387-5400). 
-  * You may manage your editorial newsletters by e-mailing privacy@globeandmail.com with your request; or if you are a registered user or subscriber, manage your advertiser marketing offer consents and see what is available to you from The Globe in the [Customer Preference Centre](http://www.theglobeandmail.com/community/).
+  * You may manage your editorial newsletters by e-mailing privacy@globeandmail.com with your request; or if you are a registered user or subscriber, manage your advertiser marketing offer consents and see what is available to you from The Globe in the [Customer Preference Centre](https://web.archive.org/community/).
   * You can opt-out of online behavioural advertising where applicable by clicking the AdChoices icon in the top-right corner of ads appearing on our websites. 
   * You can also limit the collection of your information by disabling cookies. However, because The Globe website and the AdChoices program both rely on cookies to enable core functionality, disabling cookies is not recommended. If you choose to do so, some of The Globe’s services may not work properly and your AdChoices opt-out may not be registered.
   * You may update your account information by logging in to theglobeandmail.com, clicking your username at the top right corner of the webpage and then following the “[Edit Profile](https://sec.theglobeandmail.com/edit-account/)” link. 
@@ -65,7 +65,7 @@ We encourage you to contact us with any questions or concerns you have about you
 Globe and Mail Privacy Officer  
 Executive Office  
 The Globe and Mail  
-351 King St. East, Suite 1600  
+351 King Street East, Suite 1600  
 Toronto, ON  
 M5A 0N1 
 
@@ -189,17 +189,18 @@ The user should understand that while The Globe does not require a user to use c
 
 ## 6\. Previous versions of privacy policies
 
-  * [From March 13, 2012](http://www.theglobeandmail.com/help/privacy-policy-2012/)
+  * [From March 13, 2012](https://web.archive.org/help/privacy-policy-2012/)
 
 
 
 ## 7\. The Globe and Mail websites and applications
 
-  * [www.theglobeandmail.com](http://www.theglobeandmail.com/)
+  * [www.theglobeandmail.com](https://web.archive.org/)
   * [www.globelink.ca](http://www.globelink.ca/)
   * [www.globerecognition.net](http://www.globerecognition.net/)
   * [www.globeadvisor.com](http://www.globeadvisor.com/)
   * [gold.globeinvestor.com](http://gold.globeinvestor.com/)
+  * [www.globeandmailcentre.com](http://www.globeandmailcentre.com/)
   * Globe eBooks
   * Globe News App
   * Globe Android Edition Tablet App
@@ -207,7 +208,6 @@ The user should understand that while The Globe does not require a user to use c
   * Globe Style Advisor App
 
 
-  *[St.]: Street
   *[ON]: Ontario
   *[OBA]: online behavioral advertising
   *[IDs]: identifications
