@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030004423id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630204123id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Herald.ie
 
@@ -8,7 +8,7 @@
 
 This Privacy and Cookie Policy applies to the operations of this website operated by Independent Newspapers (Ireland) Limited through Independent Digital.
 
- **Data Protection: What information do we collect?**
+**Data Protection: What information do we collect?**
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content to help improve your online experience.
 
@@ -24,7 +24,7 @@ We collect certain kinds of information about our users for these reasons:
 
 • to provide you with details of products, services, contests, competitions or promotions being provided or run by Independent Digital or any of its associated companies or any third party that we may select and which we may think would be of interest to you, in line with your request to receive this information.
 
- **What are Cookies**
+**What are Cookies**
 
 Cookies are small pieces of information, stored in simple text files, placed on your computer by a website. Cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the website can ‘remember’ you on your return visit.
 
@@ -32,7 +32,7 @@ Generally speaking, cookies do not contain personal information from which you c
 
 Statistical and analytical information from cookies provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page in the site at which they exited. This information helps us monitor traffic on our website so that we can manage the site's capacity and efficiency. It also helps us to understand which parts of this site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the site.
 
- **How we use Cookies**
+**How we use Cookies**
 
 We collect information on our users through registration and the use of the website, through cookies, where you choose to disclose data in postings, and when you enter sales promotion and competitions.
 
@@ -48,21 +48,21 @@ We use cookies for a number of reasons:
 
 By using the sites you are agreeing to the use of cookies as described.
 
- **Cookies we use**
+**Cookies we use**
 
 There are two types of cookie you may encounter when using this site;
 
- **FIRST PARTY COOKIES** : these are our own cookies, controlled by us and used to provide information about usage of our site.
+**FIRST PARTY COOKIES** : these are our own cookies, controlled by us and used to provide information about usage of our site.
 
 The following is a listing of the main cookies used on our site together with brief details of the information they store and for what purpose;
 
- **Site performance cookies** : This type of cookie remembers your preferences/settings for tools found on an Independent Newspapers (Ireland) Limited site.
+**Site performance cookies** : This type of cookie remembers your preferences/settings for tools found on an Independent Newspapers (Ireland) Limited site.
 
- **Analytics cookies** : Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to an Independent Newspapers (Ireland) Limited site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
+**Analytics cookies** : Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to an Independent Newspapers (Ireland) Limited site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
 
- **Registration cookies** : When you register with an Independent Newspapers (Ireland) Limited site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on an Independent Newspapers (Ireland) Limited site.
+**Registration cookies** : When you register with an Independent Newspapers (Ireland) Limited site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on an Independent Newspapers (Ireland) Limited site.
 
- **THIRD PARTY COOKIES** : these are cookies found in other companies’ internet tools which we are using to enhance our site, for example Facebook or Twitter, have their own cookies, which are controlled by them.
+**THIRD PARTY COOKIES** : these are cookies found in other companies’ internet tools which we are using to enhance our site, for example Facebook or Twitter, have their own cookies, which are controlled by them.
 
 A lot of the advertisements you see on this site are generated by third parties. Some of these third parties use their own anonymous cookies to track how many people have seen a particular ad, or to track how many people have seen it more than once. Visitors should be aware that Independent Newspapers (Ireland) Limited is unable to control the use of cookies or the resulting information by other third parties such as advertisers or parties hosting data. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.
 
@@ -104,7 +104,7 @@ You can also visit the trade body representing these advertising bodies for more
 
 <http://www.networkadvertising.org/optout_nonppii.asp>
 
- **Turning off Cookies**
+**Turning off Cookies**
 
 Most browsers allow you to turn off cookies. If you want to know how to do this please look up the help menu on your browser. However, switching off cookies may restrict your use of the website and/or affect the way in which the website operates. Also, if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
 
@@ -122,25 +122,25 @@ All modern browsers allow you to change your cookie settings. These settings wil
 
 If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to<http://www.youronlinechoices.com/ie/>
 
- **Links to other websites**
+**Links to other websites**
 
 This website may provide links to third-party web sites for your convenience and information. If you access those links, you will leave this web site. Independent Newspapers (Ireland) Limited is not responsible for the content of external internet sites. We encourage you to review the privacy statement of any company before submitting your personal information.
 
- **Stored Information**
+**Stored Information**
 
 You may request at any time a copy of the personal information held about you and request its correction or deletion. To obtain a copy of this information, please send an email to data.protection@independent-digital.com
 
 Upon receipt of your request and within 40 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients.
 
- **Changes to this Statement**
+**Changes to this Statement**
 
 If there are updates to the details of this Privacy and Cookie Policy, we will post those changes and update the revision date at the top of this document, so you will always know what information we collect online, how we use it, and what choices you have.
 
- **Data Protection in Ireland**
+**Data Protection in Ireland**
 
 More information on data privacy rights is available directly from the website of the Irish Data Protection commissioner http://www.dataprotection.ie
 
- **Contacting Us**
+**Contacting Us**
 
 If you have any questions about this Privacy Statement or you wish to make a complaint, please feel free to contact us through our [data.protection@independent-digital.com](mailto:data.protection@independent-digital.com) email or write to us at:
 
