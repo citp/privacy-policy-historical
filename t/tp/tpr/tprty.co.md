@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the tprty.co privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622094624id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tprty.co privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125412id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadiumOne
 
-**Last updated: June 8, 2016**
+**Last updated:** June 27, 2017
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=733e54ee-8f15-47f2-9e45-96aa59b29de9 "TRUSTe Privacy Certification")
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=78617631-42f6-4e78-ab6a-ded524023ed0 "TRUSTe Privacy Certification")
 
-RadiumOne is a digital advertising company. We value the privacy of consumers (“ **Users** ”, “ **you** ”, “ **your** ”) who visit our websites at [http://radiumone.com](https://radiumone.com/) or [http://radiumone.co.uk](http://radiumone.co.uk/) (the “ **Sites** ”) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform”** ). In this Privacy Policy we use the terms “ **RadiumOne** ”, “ **our** ”, “ **us** ”, and “ **we** ” to refer to RadiumOne, Inc.; RadiumOne UK Ltd.; and our affiliates.
+RadiumOne is a digital advertising company. We value the privacy of consumers (“ **Users** ”, “ **you** ”, “ **your** ”) who visit our websites at [https://radiumone.com](https://radiumone.com/), [https://po.st](https://po.st/), or [http://radiumone.co.uk](http://radiumone.co.uk/) (the “ **Sites** ”) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform”** ). In this Privacy Policy we use the terms “ **RadiumOne** ”, “ **our** ”, “ **us** ”, and “ **we** ” to refer to R1Demand, LLC; RadiumOne UK Ltd.; and our affiliates.
 
-The RadiumOne technology (the “ **Technology** ”) gathers User information from the Platform to optimize the delivery of digital advertising to Users. The purpose of this Privacy Policy is to explain what information we gather, how we use it, what we do to protect it, and your choices regarding how we gather and use information about you.
+The RadiumOne technology (the “ **Technology** ”) gathers User information from the Platform to optimize the delivery of digital advertising to Users. We use the information that we collect about you in connection to our advertising services to tailor advertising to you more effectively and for statistical reporting and analytics purposes, as further explained in the section _“How We Use and Disclose Information”_ below.  When we provide our advertising services under a contract with one of our clients for running campaigns on their behalf, we use the information that we collect about you for the purpose of providing the service for which the client has engaged us.
 
-RadiumOne has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe seal viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification applies to the privacy practices governed by this Privacy Policy, which is accessible from [http://radiumone.com](https://radiumone.com/) and [http://radiumone.co.uk](http://radiumone.co.uk/). If you have questions or concerns regarding our Privacy Policy or practices, please see the “ _Contact Us_ ” section below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+The purpose of this Privacy Policy is to explain what information we gather, how we use it, what we do to protect it, and your choices regarding how we gather and use information about you.
+
+If you have questions or concerns regarding our Privacy Policy or practices, please see the “ _Contact Us_ ” section below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **About Our Advertising Services**
 
@@ -24,11 +26,11 @@ Targeted Advertising is based on data that does not personally identify you and 
 
 The information we collect falls into two categories – **Browser-Based Data** and **Mobile App-Based Data**.
 
-For information about opting out from the collection of Browser-Based Data and Mobile App-Based Data, please visit our Opt Out page by clicking [here](https://radiumone.com/opt/).
+For information about opting out from the collection of Browser-Based Data and Mobile App-Based Data, please visit our Opt Out page by clicking [here](https://web.archive.org/opt/).
 
 _Browser-Based Data_
 
-  * Cookies. Many websites use cookies to improve the User experience, and we use cookies in connection with our Technology. When you visit our Site or another website or page that displays one of our targeted ads or contains our pixel tags (also called clear gifs or web beacons), we may send one or more cookies (small text files containing a string of alphanumeric characters) to your browser. Cookies enable us to store a non-personally identifiable RadiumOne User browser ID that is used for matching certain non-personally identifiable information that we collect via the browser. For more information about the types of cookies that we use, the purposes for which we use them and how you can opt out, click [here](https://radiumone.com/use-of-cookies/).
+  * Cookies. Many websites use cookies to improve the User experience, and we use cookies in connection with our Technology. When you visit our Site or another website or page that displays one of our targeted ads or contains our pixel tags (also called clear gifs or web beacons), we may send one or more cookies (small text files containing a string of alphanumeric characters) to your browser. Cookies enable us to store a non-personally identifiable RadiumOne User browser ID that is used for matching certain non-personally identifiable information that we collect via the browser. For more information about the types of cookies that we use, the purposes for which we use them and how you can opt out, click [here](https://web.archive.org/use-of-cookies/).
 
 
   * Ad Serving and Web Navigation Information. We may collect non-personally identifiable browser-based information regarding how you use the Platform and how you interact with the ads that the Platform displays (together, “ **Ad Serving and Web Navigation Information** ”). This Ad Serving and Web Navigation Information may include the following: (i) technographic data related to the browser, operating system, and device, such as the name and version of your browser, (ii) connection data (such as the device’s current IP address), (iii) the current website visited, (iv) the website visited before the current website, (v) search terms, (vi) the date and time of the website visit. (vii) whether the User has clicked on the ad of a RadiumOne advertiser, visited this advertiser’s website, or undertaken a transaction with this advertiser.
@@ -65,6 +67,8 @@ _Other Sources of Information_
 
 
 
+In providing our advertising services, RadiumOne collects information for and on behalf of its Clients and, to the extent that it processes personal information, RadiumOne has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service.  Transfers to subsequent third parties are covered by the service agreements with our Clients.  If you wish to access, correct, amend, or delete inaccurate personal information you should direct your query to RadiumOne’s Client (the data controller). If you address such requests to us, we will respond within a reasonable timeframe.
+
 **How We Use and Disclose Information**
 
   * In General. RadiumOne uses the information collected by the Technology to tailor advertising to you more effectively. The aim is to show you ads in which you are more likely to be interested. We do this by comparing the information in a non-personally identifiable User profile against our selection of ad campaigns and choosing the most relevant ad for you. Data used in your User profile may range from your (i) interests, (ii) similarities to other Users, (iii) general demographic information, and (iv) general geographic location. This data is collected from your devices as described above in “ _What Information We Collect.”_
@@ -77,9 +81,9 @@ _Other Sources of Information_
 
 
 
-**Service Providers**
+**Disclosure of Information to Third Parties**
 
-Authorized service providers provide us with hosting, Internet connectivity, and other services. To the extent it is necessary for these service providers to fulfill their obligations to us, these service providers may have access to non-personally identifiable User information. However, we contractually require these service providers to safeguard User information and generally limit their use of User information to the purpose for which it was shared.
+We may share information, including personally identifiable information collected via our Site, with trusted third parties that provide services for RadiumOne such as hosting and Internet connectivity. We may also share non-personally identifiable information with business partners in order to enhance our products and services. These third parties are prohibited from using the information we provide for purposes other than performing the services we prescribe. If you do not want us to share your information with these third parties, please contact us at [privacy@radiumone.com](mailto:privacy@radiumone.com).
 
 **Opting-Out**
 
@@ -87,10 +91,10 @@ _Browser-Based Data Collection_
 
 You can opt out from receiving RadiumOne Targeted Advertising based on data collected via your browser by doing one of the following:
 
-  * Visiting our Opt Out page by clicking [here](https://radiumone.com/opt/). Please note that if you disable all cookies via your browser settings (see below), change the browser on the device from which you opted out of RadiumOne Targeted Advertising, or use a different device, you will need to opt out again from receiving cookies.
+  * Visiting our Opt Out page by clicking [here](https://web.archive.org/opt/). Please note that if you disable all cookies via your browser settings (see below), change the browser on the device from which you opted out of RadiumOne Targeted Advertising, or use a different device, you will need to opt out again from receiving cookies.
 
 
-  * Visiting opt outs of standards bodies. RadiumOne is a member of the Network Advertising Initiative (“ **NAI”** ), the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** ”), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), the Internet Advertising Bureau (“ **IAB”** ), and JICWEBS DTSG and adheres to each organization’s principles (the NAI Code of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, and the JICWEBS DTSG Good Practice Principles, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.networkadvertising.org/choices/); (b) the DAA’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (c) the DAAC’s opt-out tool, which can be found [here](http://youradchoices.ca/choices/); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
+  * Visiting opt outs of standards bodies. RadiumOne is a member of the Network Advertising Initiative (“ **NAI”** ), the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** ”), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), the Internet Advertising Bureau (“ **IAB”** ), and JICWEBS DTSG and adheres to each organization’s principles (the NAI Codes of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, and the JICWEBS DTSG Good Practice Principles, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.networkadvertising.org/choices/); (b) the DAA’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (c) the DAAC’s opt-out tool, which can be found [here](http://youradchoices.ca/choices/); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
 
 
 
@@ -116,13 +120,15 @@ _iOS 7 or higher –  _Choose  **Settings > Privacy > Advertising**
 
 _iOS 6 –  _Choose  **Settings > General > About > Advertising**
 
+Please click [here](http://www.networkadvertising.org/mobile-choices) for an even more comprehensive and up-to-date description of how to opt out from your particular device.
+
 When you opt out, we will stop (a) collecting information about your interests via your mobile applications and (b) serving you Targeted Ads based on the data collected via your mobile applications.
 
 Please note that opting out of either Browser-Based or Mobile Application-Based Data Collection does not mean you will not see ads online from RadiumOne or other digital advertising companies, but only that RadiumOne will not tailor ads based on your interests.
 
 **Data Retention**
 
-RadiumOne maintains all server log data and stored data for a period of up to 24 months to comply with audits, court order or law enforcement inquiries. After 24 months, all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions, clicks, and conversions) used for financial reporting purposes. If we hold personal information about you as described in the “ _RadiumOne Site Privacy Practices_ ” section below, we will only keep it for as long as it is necessary for the purposes of (a) collecting and processing it and (b) complying with our legal obligations, resolving disputes, and enforcing our agreements. 
+RadiumOne uses Browser-Based Data and Mobile App-Based Data for Targeted Advertising for no more than 13 months. We maintain ad server log data and stored data for a period of up to 18 months in order to comply with audits, court order or law enforcement inquiries. After 18 months, all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions, clicks, and conversions) used for financial reporting purposes. If we hold personal information about you as described in the “ _RadiumOne Site Privacy Practices_ ” section below, we will only keep it for as long as it is necessary for the purposes of (a) collecting and processing it and (b) complying with our legal obligations, resolving disputes, and enforcing our agreements.
 
 **Security**
 
@@ -140,7 +146,7 @@ RadiumOne’s websites, products, and services are neither developed for, nor di
 
 _Personal Information_
 
-The Site is generally intended for use by businesses, advertisers, and potential partners interested in learning more about RadiumOne. 
+The Site is generally intended for use by businesses, advertisers, and potential partners interested in learning more about RadiumOne.
 
 You may provide to RadiumOne the following personal information:
 
@@ -163,11 +169,11 @@ We do not use your personal information for any other purpose other than respond
 
 If your personal information changes, or if you no longer desire our service, you may correct, update or delete it by contacting us at privacy@radiumone.com. We will respond to your request within a reasonable timeframe.
 
-If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe instructions located at the bottom of each communication. 
+If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe instructions located at the bottom of each communication.
 
 _Tracking Technologies_
 
-We use the following tracking technologies to optimize the Site for visitors and monitor your use of the Site. 
+We use the following tracking technologies to optimize the Site for visitors and monitor your use of the Site.
 
 _Performance and functionality cookies_.  
 Description: These cookies are used to enhance the performance and functionality of our website but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.  
@@ -179,15 +185,32 @@ Who serves them: Google (www.google.com), Leadlander (www.leadlander.com), Marke
 
 **Disclosure by Legal Necessity**
 
-RadiumOne may disclose your personal information if: (i) required by law or in the good-faith belief that such action is necessary to comply with applicable laws; (ii) we believe, in good faith, that such action is appropriate or necessary to take precautions against liability; or (iii) such action is necessary to protect our, our Users’ or third parties’ rights. In such circumstances we may disclose your personal information to law enforcement agencies, regulatory organizations, courts or other public authorities.
+RadiumOne may disclose your personal information if: (i) required by law, lawful request by public authorities (including to meet national security or law enforcement requirements), or in the good-faith belief that such action is necessary to comply with applicable laws; (ii) we believe, in good faith, that such action is appropriate or necessary to take precautions against liability; or (iii) such action is necessary to protect our, our Users’ or third parties’ rights. In such circumstances we may disclose your personal information to public authorities, law enforcement agencies, regulatory organizations, courts or other public authorities.
 
 **Data Transfer**
 
-The Site is hosted in the United States of America. If you choose to use the Site from other regions of the world, then please note that if you provide to us personal information when using the Site, you are transferring your personal information outside of those regions to the United States, and by providing your personal information on the Site, you consent to that transfer. We will protect personal information in all such transfers as described in this Privacy Policy. If you are located in the European Union, we will take reasonable steps to comply with applicable legal requirements to ensure an adequate level of protection of personal information that we transfer to countries outside of the European Union. ** **
+The Site is hosted in the United States of America. If you choose to use the Site from other regions of the world, then please note that if you provide to us personal information when using the Site, you are transferring your personal information outside of those regions to the United States. We may also transfer to the United States of America, Singapore and Australia information collected in connection with our advertising services. We will protect personal information in all such transfers as described in this Privacy Policy. If you are located in the European Union, we will take reasonable steps to comply with applicable legal requirements to ensure an adequate level of protection of personal information that we transfer to countries outside of the European Union. ** **
+
+**EU-U.S. Privacy Shield**
+
+When we process any personal information originating from the European Union (EU) in the USA, RadiumOne, Inc.  participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries.  RadiumOne has certified that for all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, it will adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access, and Recourse, Enforcement and Liability.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+RadiumOne is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf, such as a service provider. Under the Privacy Shield, RadiumOne will remain liable if its third-party service providers process your personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Framework, RadiumOne is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+Residents of the EU who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
+
+  1. You can contact RadiumOne directly using the details in the “Contact Us” section below. We will respond to your complaint within 45 days of receipt.
+  2. We have further committed to refer unresolved privacy complaints under the Privacy Shield via TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please contact TRUSTe (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+  3. Further, your complaint can be made or referred to the U.S. Department of Commerce or the Federal Trade Commission for further investigation.
+  4. For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration. To find out more about the Privacy Shield’s binding arbitration scheme, please see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
+
 
 **Users from the European Economic Area (“EEA”) and Australia**
 
-If you are based in a country in the EEA or Australia, and we hold personal information about you, the controller of your personal information is RadiumOne UK Ltd, a company incorporated in England and Wales (company no: 07474165) whose registered office is located at 1 Heathcock Court, London WC2R 0NT, United Kingdom.
+If you are based in a country in the EEA or Australia, and we hold personal information about you as a data controller, the controller of your personal information is RadiumOne UK Ltd, a company incorporated in England and Wales (company no: 07474165) whose registered office is located at 20 Garrick Street, Covent Garden, London, WC2E 9BT, United Kingdom.
 
 **Links to Other Websites**
 
@@ -213,16 +236,17 @@ If you want to write to us regarding your privacy rights or have any questions, 
 **If you are based in the United States or a country outside Europe:**
 
 _Privacy Officer  
-__RadiumOne, Inc.  
-__55 Second St.  
-__18th Floor  
-__San Francisco, CA 94105  
-__USA_
+R1Demand, LLC  
+601 Montgomery St.  
+16th Floor  
+San Francisco, CA 94111  
+USA_
 
 **If you are based in Europe or Australia:**
 
 _Privacy Officer  
-__RadiumOne, UK Ltd.  
-__1 Heathcock Court  
-__London WC2R 0NT  
-__UK_
+RadiumOne UK Ltd.  
+20 Garrick Street  
+Covent Garden  
+London, WC2E 9BT  
+UK_
