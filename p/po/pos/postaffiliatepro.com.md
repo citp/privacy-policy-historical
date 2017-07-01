@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221142048id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701070600id_/https%3A//www.postaffiliatepro.com/privacy-policy-post-affiliate-pro) for the most accurate reproduction.*
 
 # Privacy Policy | Post Affiliate Pro
 
