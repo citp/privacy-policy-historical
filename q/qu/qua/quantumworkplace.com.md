@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumworkplace.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629052254id_/https%3A//www.quantumworkplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumworkplace.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701222325id_/https%3A//www.quantumworkplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quantum Workplace
 
