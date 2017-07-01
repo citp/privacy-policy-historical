@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the growingbolder.com privacy policy that was archived on 2017-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170204174054id_/https%3A//www.growingbolder.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the growingbolder.com privacy policy that was archived on 2017-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170701215807id_/https%3A//www.growingbolder.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy - Growing Bolder</title><meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- This site is optimized with the Yoast SEO plugin v4.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.growingbolder.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -24,14 +24,14 @@
 
 <link rel="dns-prefetch" href="//s7.addthis.com">
 <link rel="dns-prefetch" href="//cdn.symbolset.com">
-<link rel="dns-prefetch" href="//a.optnmnstr.com">
+<link rel="dns-prefetch" href="//a.optnmstr.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Growing Bolder » Feed" href="https://www.growingbolder.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Growing Bolder » Comments Feed" href="https://www.growingbolder.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Growing Bolder » Privacy Policy Comments Feed" href="https://www.growingbolder.com/privacy-policy/feed/">
-		<script async="" src="https://www.growingbolder.com/?gdbc-client=3.1.3-1580492432546"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580492700000/1563098.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.growingbolder.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.2","twemoji":"https:\/\/www.growingbolder.com\/wp-includes\/js\/twemoji.js?ver=4.7.2"}};
+		<script async="" src="https://www.growingbolder.com/?gdbc-client=3.1.7-1580492434085"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580492700000/1563098.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.growingbolder.com\/wp-includes\/js\/wp-emoji.js?ver=4.8","twemoji":"https:\/\/www.growingbolder.com\/wp-includes\/js\/twemoji.js?ver=4.8"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -53,7 +53,7 @@
 	 */
 	function browserSupportsEmoji( type ) {
 		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, technologist, technologist2;
+			flag, flag2, emoji41, emoji42;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -73,55 +73,61 @@
 		switch ( type ) {
 			case 'flag':
 				/*
-				 * This works because the image will be one of three things:
-				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
-				 * - The United Nations flag
-				 *
-				 * The first two will encode to small images (1-2KB data URLs), the third will encode
-				 * to a larger image (4-5KB data URL).
-				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				if ( canvas.toDataURL().length < 3000 ) {
-					return false;
-				}
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				/*
-				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
-				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
-				 * Unicode support is up to date.
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
 				 *
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 * the browser doesn't render it correctly ([U] + [N]).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
 				flag = canvas.toDataURL();
 
 				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				// Add a zero width space between the characters, to force rendering as characters.
+				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				if ( flag !== flag2 ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				// Cleanup from previous test.
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
 				flag2 = canvas.toDataURL();
 
 				return flag !== flag2;
 			case 'emoji4':
 				/*
-				 * Emoji 4 has the best technologists. So does WordPress!
+				 * Emoji 5 has faries of all genders.
 				 *
-				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
-				 * then compare it to how it would look if the browser doesn't render it correctly
-				 * (woman technologist: medium skin tone + personal computer).
+				 * To test for support, try to render a new emoji (fairy, male), then compares
+				 * it to how it would look if the browser doesn't render it correctly
+				 * (fairy + male sign).
 				 */
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
-				technologist = canvas.toDataURL();
+				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
+				emoji41 = canvas.toDataURL();
 
 				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
-				technologist2 = canvas.toDataURL();
+				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
+				emoji42 = canvas.toDataURL();
 
-				return technologist !== technologist2;
+				return emoji41 !== emoji42;
 		}
 
 		return false;
@@ -187,7 +193,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="https://www.growingbolder.com/wp-includes/js/twemoji.js?ver=4.7.2" type="text/javascript" defer=""></script><script src="https://www.growingbolder.com/wp-includes/js/wp-emoji.js?ver=4.7.2" type="text/javascript" defer=""></script>
+		</script><script src="https://www.growingbolder.com/wp-includes/js/twemoji.js?ver=4.8" type="text/javascript" defer=""></script><script src="https://www.growingbolder.com/wp-includes/js/wp-emoji.js?ver=4.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -202,42 +208,42 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="really-simple-issue-tracker-widget-style-css" href="https://www.growingbolder.com/wp-content/plugins/really-simple-issue-tracker/widgets/css/widget-issue-list.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="growing-bolder-genesis-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/style.css?ver=1.0.191" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.growingbolder.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.14" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.14" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.14" type="text/css" media="all">
-<link rel="stylesheet" id="google-font-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700&amp;ver=1.0.191" type="text/css" media="all">
-<link rel="stylesheet" id="google-font-fjalla-css" href="//fonts.googleapis.com/css?family=Fjalla+One&amp;ver=1.0.191" type="text/css" media="all">
-<link rel="stylesheet" id="google-font-source-sans-pro-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C300%2C400%2C600%2C700%2C300italic%2C400italic%2C700italic&amp;ver=1.0.191" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://www.growingbolder.com/wp-includes/css/dashicons.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="gb-dashicons-style-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis?ver=1.0.191" type="text/css" media="all">
-<link rel="stylesheet" id="ss-icon-social-css" href="//cdn.symbolset.com/8f942dea8b84fca9befe3a3a0d0f8205b8c8e99e/symbolset.css?ver=1.0.191" type="text/css" media="all">
+<link rel="stylesheet" id="really-simple-issue-tracker-widget-style-css" href="https://www.growingbolder.com/wp-content/plugins/really-simple-issue-tracker/widgets/css/widget-issue-list.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="growing-bolder-genesis-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/style.css?ver=1.0.192" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.growingbolder.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.1.0" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700&amp;ver=1.0.192" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-fjalla-css" href="//fonts.googleapis.com/css?family=Fjalla+One&amp;ver=1.0.192" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-source-sans-pro-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C300%2C400%2C600%2C700%2C300italic%2C400italic%2C700italic&amp;ver=1.0.192" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.growingbolder.com/wp-includes/css/dashicons.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="gb-dashicons-style-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis?ver=1.0.192" type="text/css" media="all">
+<link rel="stylesheet" id="ss-icon-social-css" href="//cdn.symbolset.com/8f942dea8b84fca9befe3a3a0d0f8205b8c8e99e/symbolset.css?ver=1.0.192" type="text/css" media="all">
 <link rel="stylesheet" id="sidr-css-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/jquery.sidr.gb.bare.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="rrssb-css-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/rrssb.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-css-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/bootstrap.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="rrssb-css-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/rrssb.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/bootstrap.css?ver=4.8" type="text/css" media="all">
 <link rel="stylesheet" id="bn-fix-style-css" href="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/css/bn-fix.css?ver=1.0.0" type="text/css" media="all">
 <script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ajax_object = {"ajax_url":"https:\/\/www.growingbolder.com\/wp-admin\/admin-ajax.php","nonce":"2b92bd44ad"};
+var ajax_object = {"ajax_url":"https:\/\/www.growingbolder.com\/wp-admin\/admin-ajax.php","nonce":"7c1334bd84"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/bn-front-page/js/bn-front-page.js?ver=1"></script>
-<script type="text/javascript" src="https://www.growingbolder.com/static/mplayer/jwplayer.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://www.growingbolder.com/static/mplayer/jwplayer.js?ver=4.8"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=1.0.0#pubid=ra-53c7ec05141bcd0f"></script>
 <script type="text/javascript" src="//www.growingbolder.com/popup/static/streaming/js/jquery.breakfreeplayer.js?ver=1.0.18"></script>
 <!--[if lt IE 9]>
 <script type='text/javascript' src='https://www.growingbolder.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
 <![endif]-->
-<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.6.1"></script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="//a.optnmstr.com/app/js/api.min.js?ver=1.2.0"></script>
 <link rel="https://api.w.org/" href="https://www.growingbolder.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.growingbolder.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.growingbolder.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.7.2">
-<meta name="generator" content="WooCommerce 2.6.14">
+<meta name="generator" content="WordPress 4.8">
+<meta name="generator" content="WooCommerce 3.1.0">
 <link rel="shortlink" href="https://www.growingbolder.com/?p=3000062">
 <link rel="alternate" type="application/json+oembed" href="https://www.growingbolder.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.growingbolder.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.growingbolder.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.growingbolder.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -271,8 +277,9 @@ var scpt = document.getElementsByTagName('script')[0];
 scpt.parentNode.insertBefore(elem, scpt);
 })();
 </script>
-<!-- End Quantcast Tag , part 1--><style type="text/css">.site-title a { background: url(https://growingbolder.com/wp-content/uploads/2014/10/cropped-logo.png) no-repeat !important; }</style>
-
+<!-- End Quantcast Tag , part 1--><style type="text/css">.site-title a { background: url(https://www.growingbolder.com/wp-content/uploads/2017/03/growing-bolder-rebranding-aging.jpg) no-repeat !important; }</style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
 <style type="text/css">
 
 /*
@@ -398,8 +405,8 @@ body .pp-ssb-widget a.pp-ssb-btn:hover {
 body.custom-background { background-color: #ffffff; }
 </style>
 </head>
-<body class="page-template-default page page-id-3000062 custom-background custom-header header-image content-sidebar" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://www.growingbolder.com/">Growing Bolder</a></p><p class="site-description" itemprop="description">It's Not About Age. It's About Attitude</p></div><div class="widget-area header-widget-area"><a id="primary-nav-link" href="#primary-nav">Menu <i class="dashicons dashicons-menu"></i></a><section id="search-4" class="widget widget_search"><div class="widget-wrap"><form method="get" class="search-form" action="https://www.growingbolder.com/" role="search"><input type="search" name="s" placeholder="Search by topic…"><button type="submit" value="Search"></button></form></div></section>
-<section id="nav_menu-7" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-secondary-menu" class="menu genesis-nav-menu"><li id="menu-item-3000049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000049"><a href="https://www.growingbolder.com/about-us/" itemprop="url"><span itemprop="name">About</span></a></li>
+<body class="page-template-default page page-id-3000062 custom-background custom-header header-image content-sidebar" itemscope="" itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://www.growingbolder.com/">Growing Bolder</a></p><p class="site-description" itemprop="description">It's Not About Age. It's About Attitude</p></div><div class="widget-area header-widget-area"><a id="primary-nav-link" href="#primary-nav">Menu <i class="dashicons dashicons-menu"></i></a><section id="search-4" class="widget widget_search"><div class="widget-wrap"><form method="get" class="search-form" action="https://www.growingbolder.com/" role="search"><input type="search" name="s" placeholder="Search by topic…"><button type="submit" value="Search"></button></form></div></section>
+<section id="nav_menu-7" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-secondary-menu" class="menu genesis-nav-menu"><li id="menu-item-3000049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000049"><a href="https://www.growingbolder.com/about-us/" itemprop="url"><span itemprop="name">About</span></a></li>
 <li id="menu-item-3001292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001292"><a href="https://www.growingbolder.com/growing-bolder-rebranding-aging-3029740/" itemprop="url"><span itemprop="name">What We Do</span></a></li>
 <li id="menu-item-3021853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3021853"><a href="https://www.growingbolder.com/press/" itemprop="url"><span itemprop="name">Press</span></a></li>
 <li id="menu-item-3026791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3026791"><a href="https://www.growingbolder.com/mediasales/" itemprop="url"><span itemprop="name">Media Sales</span></a></li>
@@ -465,8 +472,7 @@ body.custom-background { background-color: #ffffff; }
 			</li>
 								</span>
 
-	</ul></div></nav><div id="site-attention-top"><div><section id="widget_sp_image-46" class="widget widget_sp_image"><div class="widget-wrap"><a href="http://www.growingbolderawards.com" id="" target="_blank" class="widget_sp_image-image-link" title="" rel=""><img width="533" height="64" alt="" class="attachment-full" style="max-width: 100%;" src="https://www.growingbolder.com/wp-content/uploads/2016/09/2016-gb-awards-attention.png"></a></div></section>
-</div></div><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content"><article class="post-3000062 page type-page status-publish entry gs-1 gs-odd gs-featured-content-entry" itemscope="" itemtype="http://schema.org/CreativeWork"><div class="entry-content" itemprop="text"><h3><span style="font-weight: bold; color: #000000;">We Want Your Trust</span></h3>
+	</ul></div></nav><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content"><article class="post-3000062 page type-page status-publish entry gs-1 gs-odd gs-featured-content-entry" itemscope="" itemtype="https://schema.org/CreativeWork"><div class="entry-content" itemprop="text"><h3><span style="font-weight: bold; color: #000000;">We Want Your Trust</span></h3>
 <p><span style="color: #000000;">Our relationship with you is built on trust. We want you to feel safe and enjoy your experience with Growing Bolder, which includes our network of websites, television, radio, magazines, books, newsletters, motion pictures, and all other related services, digital or otherwise. Although you do not have to provide us with any information to visit our website, you will not be able to fully utilize all of the services on our website if you choose not to provide certain information. Growing Bolder continually strives to ensure the privacy and accuracy of your confidential information.</span></p>
 <h3><span style="font-weight: bold; color: #000000;">Information Collection and Use by Growing Bolder</span></h3>
 <p><span style="color: #000000;">Aggregate information on website usage is recorded, and information volunteered by site users including all data submitted is collected and stored. This includes the use of specific services on the Website and/or Service(s) such as performing keyword searches, registering for events, or requesting additional information. We also collect and retain your email address and any other information you provide, when you communicate with us via email.&nbsp;</span><br style="color: #000000;"><br style="color: #000000;"><span style="color: #000000;">We use this information for several purposes, such as to understand more about our audience’s interests, to communicate with you and to give you a better experience when visiting the Growing Bolder Network by personalizing tools, content, services and email messages. Growing Bolder also uses this information to build new services and develop offers that are more relevant and valuable to you.</span><br style="color: #000000;"><br style="color: #000000;"><span style="color: #000000;">The information collected by Growing Bolder is used to create aggregated portraits of the Growing Bolder audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand whom the Growing Bolder audience is.</span></p>
@@ -502,7 +508,7 @@ body.custom-background { background-color: #ffffff; }
 <p><span style="color: #000000;">From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify you and other users by posting a notice on our Website for 30 days.</span></p>
 <h3><span style="font-weight: bold; color: #000000;">Contacting Growing Bolder</span></h3>
 <p><span style="color: #000000;">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please contact us at: support@GrowingBolder.com</span> <span style="color: #000000;">Last updated: April 29, 2014</span><br style="color: #000000;"><span style="color: #000000;">Copyright 2013-2014, Bolder Broadcasting, Inc. All rights reserved.</span></p>
-</div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar"><section id="widget_openxwpwidget-5" class="widget widget_openxwpwidget"><div class="widget-wrap"><div align="center">
+</div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="https://schema.org/WPSideBar"><section id="widget_openxwpwidget-5" class="widget widget_openxwpwidget"><div class="widget-wrap"><div align="center">
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://openx.boldernet.net/www/delivery//ajs.php':'http://openx.boldernet.net/www/delivery//ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -517,11 +523,11 @@ document.write('&amp;block=1');
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.boldernet.net/www/delivery//ajs.php?zoneid=143&amp;cb=19961806034&amp;block=1&amp;loc=https%3A//web.archive.org/web/20170204174054id_/https%3A//www.growingbolder.com/privacy-policy/"></script><noscript><a href='http://openx.boldernet.net/www/delivery//ck.php?n=cb336f&amp;cb=338587368e6e345b42df2fbdbb4441a3' target='_blank'><img src='http://openx.boldernet.net/www/delivery//avw.php?zoneid=143&amp;cb=338587368e6e345b42df2fbdbb4441a3&amp;block=1&amp;n=cb336f' border='0' alt='' /></a></noscript></div></div></section>
+//]]>--></script><script type="text/javascript" src="https://openx.boldernet.net/www/delivery//ajs.php?zoneid=143&amp;cb=72121263015&amp;block=1&amp;loc=https%3A//web.archive.org/web/20170701215807id_/https%3A//www.growingbolder.com/privacy-policy/"></script><noscript><a href='http://openx.boldernet.net/www/delivery//ck.php?n=31acc9&amp;cb=349b0ecf391623f034bbc0e1581ceac1' target='_blank'><img src='http://openx.boldernet.net/www/delivery//avw.php?zoneid=143&amp;cb=349b0ecf391623f034bbc0e1581ceac1&amp;block=1&amp;n=31acc9' border='0' alt='' /></a></noscript></div></div></section>
 <section id="text-6" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow Us</h4>
 			<div class="textwidget"><div class="gb-follow-us"><div class="addthis_horizontal_follow_toolbox"></div></div></div>
 		</div></section>
-<section id="optin-monster-api-5" class="widget optin-monster-api"><div class="widget-wrap"><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-kbhxttzkryppbd2g-holder"></div><script>var kbhxttzkryppbd2g,kbhxttzkryppbd2g_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){kbhxttzkryppbd2g_poll(function(){if(window['om_loaded']){if(!kbhxttzkryppbd2g){kbhxttzkryppbd2g=new OptinMonsterApp();return kbhxttzkryppbd2g.init({u:"14657.288214",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;kbhxttzkryppbd2g=new OptinMonsterApp();kbhxttzkryppbd2g.init({u:"14657.288214",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --></div></section>
+<section id="optin-monster-api-5" class="widget optin-monster-api"><div class="widget-wrap"><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: GB Sidebar Variation --><div id="om-kbhxttzkryppbd2g-holder"></div><script>var kbhxttzkryppbd2g,kbhxttzkryppbd2g_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){kbhxttzkryppbd2g_poll(function(){if(window['om_loaded']){if(!kbhxttzkryppbd2g){kbhxttzkryppbd2g=new OptinMonsterApp();return kbhxttzkryppbd2g.init({"u":"14657.288214","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;kbhxttzkryppbd2g=new OptinMonsterApp();kbhxttzkryppbd2g.init({"u":"14657.288214","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --></div></section>
 </aside></div></div></div><div class="footer-featured"><div class="wrap"><div class="widget-area"><section id="widget_openxwpwidget-7" class="widget widget_openxwpwidget"><div class="widget-wrap"><div align="center">
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://openx.boldernet.net/www/delivery//ajs.php':'http://openx.boldernet.net/www/delivery//ajs.php');
@@ -537,8 +543,8 @@ document.write('&amp;block=1');
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.boldernet.net/www/delivery//ajs.php?zoneid=147&amp;cb=96993561509&amp;block=1&amp;loc=https%3A//web.archive.org/web/20170204174054id_/https%3A//www.growingbolder.com/privacy-policy/"></script><noscript><a href='http://openx.boldernet.net/www/delivery//ck.php?n=24f39b&amp;cb=d7636f3c310a843fb54377feeae3bef9' target='_blank'><img src='http://openx.boldernet.net/www/delivery//avw.php?zoneid=147&amp;cb=d7636f3c310a843fb54377feeae3bef9&amp;block=1&amp;n=24f39b' border='0' alt='' /></a></noscript></div></div></section>
-</div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-3000803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000803 secondary-menu"><a href="https://www.growingbolder.com/about-us/" itemprop="url">About Us</a></li>
+//]]>--></script><script type="text/javascript" src="https://openx.boldernet.net/www/delivery//ajs.php?zoneid=147&amp;cb=39725189863&amp;block=1&amp;loc=https%3A//web.archive.org/web/20170701215807id_/https%3A//www.growingbolder.com/privacy-policy/"></script><noscript><a href='http://openx.boldernet.net/www/delivery//ck.php?n=f9a8f8&amp;cb=b2ba7da6ad6fd25a2b12289137845716' target='_blank'><img src='http://openx.boldernet.net/www/delivery//avw.php?zoneid=147&amp;cb=b2ba7da6ad6fd25a2b12289137845716&amp;block=1&amp;n=f9a8f8' border='0' alt='' /></a></noscript></div></div></section>
+</div></div></div><div class="footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-3000803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000803 secondary-menu"><a href="https://www.growingbolder.com/about-us/" itemprop="url">About Us</a></li>
 <li id="menu-item-3029751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3029751 secondary-menu"><a href="https://www.growingbolder.com/growing-bolder-rebranding-aging-3029740/" itemprop="url">What We Do</a></li>
 <li id="menu-item-3026790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3026790 secondary-menu"><a href="https://www.growingbolder.com/mediasales/" itemprop="url">Media Sales</a></li>
 <li id="menu-item-3000805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000805 secondary-menu"><a href="https://www.growingbolder.com/contact-us/" itemprop="url">Contact Us</a></li>
@@ -546,7 +552,7 @@ document.write('&amp;block=1');
 <li id="menu-item-3000807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3000807 secondary-menu"><a href="https://www.growingbolder.com/terms-of-use/" itemprop="url">Terms of Service</a></li>
 <li id="menu-item-3000808" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3000062 current_page_item menu-item-3000808 secondary-menu"><a href="https://www.growingbolder.com/privacy-policy/" itemprop="url">Privacy Policy</a></li>
 </ul></div></div></section>
-</div><div class="footer-widgets-2 widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-3000811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3000811 secondary-menu"><a href="https://www.growingbolder.com/growing-bolder-tv/" itemprop="url">TV</a>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-3000811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3000811 secondary-menu"><a href="https://www.growingbolder.com/growing-bolder-tv/" itemprop="url">TV</a>
 <ul class="sub-menu">
 	<li id="menu-item-3000817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3000817 secondary-menu"><a href="https://www.growingbolder.com/growing-bolder-tv/" itemprop="url">Daily Show</a></li>
 	<li id="menu-item-3000812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3000812 secondary-menu"><a href="https://www.growingbolder.com/surviving-and-thriving/" itemprop="url">Surviving &amp; Thriving</a></li>
@@ -567,7 +573,7 @@ document.write('&amp;block=1');
 </ul>
 </li>
 </ul></div></div></section>
-</div><div class="footer-widgets-3 widget-area"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-3021892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3021892 secondary-menu"><a href="https://www.growingbolder.com/video/" itemprop="url">Video</a>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-3021892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3021892 secondary-menu"><a href="https://www.growingbolder.com/video/" itemprop="url">Video</a>
 <ul class="sub-menu">
 	<li id="menu-item-3021893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3021893 secondary-menu"><a href="https://www.growingbolder.com/growingbolderwith/" itemprop="url">Growing Bolder With…</a></li>
 </ul>
@@ -591,7 +597,7 @@ document.write('&amp;block=1');
 </ul>
 </li>
 </ul></div></div></section>
-</div><div class="footer-widgets-4 widget-area"><section id="nav_menu-6" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-4-container"><ul id="menu-footer-menu-4" class="menu"><li id="menu-item-3032150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3032150 secondary-menu"><a href="https://www.growingbolder.com/team-growing-bolder/" itemprop="url">Team Growing Bolder   <span class="new">new!</span></a>
+</div><div class="widget-area footer-widgets-4 footer-widget-area"><section id="nav_menu-6" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-4-container"><ul id="menu-footer-menu-4" class="menu"><li id="menu-item-3032150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3032150 secondary-menu"><a href="https://www.growingbolder.com/team-growing-bolder/" itemprop="url">Team Growing Bolder   <span class="new">new!</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-3032151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3032151 secondary-menu"><a href="https://www.growingbolder.com/training-tips/" itemprop="url">Training Tips</a></li>
 	<li id="menu-item-3032153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3032153 secondary-menu"><a href="https://www.growingbolder.com/team-growing-bolder-track-shack-podcast/" itemprop="url">Team GB Podcast</a></li>
@@ -609,7 +615,7 @@ document.write('&amp;block=1');
 </ul>
 </li>
 </ul></div></div></section>
-</div><div class="footer-widgets-5 widget-area"><section id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><div class="widget-wrap"><h4 class="widget-title widgettitle">Newsletter</h4>
+</div><div class="widget-area footer-widgets-5 footer-widget-area"><section id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><div class="widget-wrap"><h4 class="widget-title widgettitle">Newsletter</h4>
 <script type="text/javascript">(function() {
 	if (!window.mc4wp) {
 		window.mc4wp = {
@@ -625,10 +631,10 @@ document.write('&amp;block=1');
 		}
 	}
 })();
-</script><!-- MailChimp for WordPress v4.0.12 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3030038" method="post" data-id="3030038" data-name="Default sign-up form"><div class="mc4wp-form-fields"><label>Sign up to receive email updates and to hear what's new with us!</label>
+</script><!-- MailChimp for WordPress v4.1.5 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3030038" method="post" data-id="3030038" data-name="Default sign-up form"><div class="mc4wp-form-fields"><label>Sign up to receive email updates and to hear what's new with us!</label>
 <input type="email" name="EMAIL" placeholder="Your email address" required="required">
-<input type="submit" value="Sign Me Up!"><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1486230054"><input type="hidden" name="_mc4wp_form_id" value="3030038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div></section>
-</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="one-half first" id="footer-left"><p><a href="http://growingbolder.com"><img src="https://www.growingbolder.com/wp-content/uploads/2014/06/gb-footer-icon.png" alt="gb-footer-icon" width="94" height="91" class="alignnone size-full wp-image-3000838"></a></p>
+<input type="submit" value="Sign Me Up!"><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1498946288"><input type="hidden" name="_mc4wp_form_id" value="3030038"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div></section>
+</div></div></div><footer class="site-footer" itemscope="" itemtype="https://schema.org/WPFooter"><div class="wrap"><div class="one-half first" id="footer-left"><p><a href="http://growingbolder.com"><img src="https://www.growingbolder.com/wp-content/uploads/2014/06/gb-footer-icon.png" alt="gb-footer-icon" width="94" height="91" class="alignnone size-full wp-image-3000838"></a></p>
 </div><div class="one-half" id="footer-right"><p>© 2006 - 2017  Bolder Broadcasting, Inc. All Rights Reserved.</p>
 </div></div></footer></div><script type="text/javascript">_qevents.push({qacct:"p-feOyepSqw_WiQ"});</script>
 	<noscript>
@@ -721,36 +727,35 @@ if( testInput.type !== 'date') {
 
 })();</script>	    <script type="text/javascript">var kbhxttzkryppbd2g_shortcode = true;</script>
 	    <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
-			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://www.growingbolder.com/?gdbc-client=3.1.3-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://www.growingbolder.com/?gdbc-client=3.1.7-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
 </script><script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.js?ver=1.0"></script>
-<script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.growingbolder.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.growingbolder.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.growingbolder.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=3.1.0"></script>
 <script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70"></script>
+<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js?ver=2.1.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.6.14"></script>
-<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=3.1.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_4c3d66326b2b8cd6b25b269da4928917"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.6.14"></script>
-<script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/comment-reply.js?ver=4.7.2"></script>
+<script type="text/javascript" src="//www.growingbolder.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=3.1.0"></script>
+<script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/comment-reply.js?ver=4.8"></script>
 <script type="text/javascript" src="//cdn.symbolset.com/8f942dea8b84fca9befe3a3a0d0f8205b8c8e99e/symbolset.js?ver=1.0.0"></script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/js/jquery.fitvids.js?ver=1.0.0"></script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/js/fitvids.js?ver=1.0.0"></script>
@@ -760,16 +765,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/js/rrssb.min.js?ver=1.0.0"></script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/js/bootstrap.min.js?ver=1.0.0"></script>
 <script type="text/javascript" src="https://www.growingbolder.com/wp-content/themes/gbgenesis/lib/js/bn-footer.js?ver=1.0.19"></script>
-<script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/wp-embed.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://www.growingbolder.com/wp-includes/js/wp-embed.js?ver=4.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mc4wp_forms_config = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.js?ver=4.0.12"></script>
+<script type="text/javascript" src="https://www.growingbolder.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.js?ver=4.1.5"></script>
 <!--[if lte IE 9]>
-<script type='text/javascript' src='https://www.growingbolder.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.12'></script>
+<script type='text/javascript' src='https://www.growingbolder.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.5'></script>
 <![endif]-->
-	    <script type="text/javascript">var omapi_localized = { ajax: 'https://www.growingbolder.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: 'e44de96b7b' };</script>
+	    <script type="text/javascript">var omapi_localized = { ajax: 'https://www.growingbolder.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '82bf207d21' };</script>
 	    
 </body></html>
