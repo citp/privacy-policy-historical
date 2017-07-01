@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybet9ja.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701083340id_/https%3A//web.bet9ja.com/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybet9ja.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701203323id_/https%3A//web.bet9ja.com/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
 
 # Bet9ja Nigeria Sport Betting,Premier League Odds,Casino,Bet
 
@@ -34,9 +34,9 @@ However, these establishments are only entitled to use such information for lega
 
 We may also enter into partnerships with data processors and companies which provide security, age verification and identification verification services (including, without limitation, financial institutions, age verification, and credit reference agencies) in order to improve the efficiency and security of the Site and/or to comply with relevant regulations.
 
-These companies may have access to your personal data and may keep record in order that they can process necessary information data and maintain the security of the Site.
+These companies may have access to your personal data and may keep record in order that they can process necessary information data and maintain the security [of ](https://web.bet9ja.com/TPAutologin.aspx?Destinazione=messaging)the Site.
 
-The companies that we choose to carry out these functions have strict policies regarding privacy of personal data, although we accept no responsibility for the privacy policies of those companies.
+The companies that we choose to carry [out](https://web.bet9ja.com/TPAutologin.aspx?Destinazione=contact_us) these functions have strict policies regarding privacy of personal data, although we accept no responsibility for the privacy policies of those companies.
 
 We will not disclose the amount of your winnings or losses to any person or third party other than to you unless we are required by law to disclose such information to competent authorities or for legal purposes.
 
@@ -87,7 +87,7 @@ Remember that your personal data is sensitive and it’s important to stop and t
 
 It may become necessary, at any time, for us to make modifications to the Site or to the Terms and Conditions or Privacy Policy governing its services.
 
-The purpose of such modifications may be to further simplify user processes or to further reinforce security measures in order to upgrade to future technological innovations.
+The purpose of such modifications may be to further simplify user processes or to further reinforce [security](https://web.bet9ja.com/TPAutologin.aspx?Destinazione=TotemBet9ja) measures in order to upgrade to future technological innovations.
 
 In such cases, customers previously registered on our Site will keep their user name no modifications will be required on their part.
 
