@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unicreditgroup.eu privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231134017id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unicreditgroup.eu privacy policy that was archived on 2017-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170701041726id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -119,7 +119,7 @@ CQURLInfo = {
     "extension": 'html',
     "suffix": null,
     "systemId": 'c215a30d-0629-4add-919d-6366f56b9595',
-    "runModes": 'publish'
+    "runModes": 'ita,prod-pub,prod,produzione,publish'
 };</script>
 <link rel="stylesheet" href="/etc/designs/unicreditgroupn/clientlibs/general.css" type="text/css">
 
@@ -132,7 +132,7 @@ CQURLInfo = {
     "extension": 'html',
     "suffix": null,
     "systemId": 'c215a30d-0629-4add-919d-6366f56b9595',
-    "runModes": 'publish'
+    "runModes": 'ita,prod-pub,prod,produzione,publish'
 };</script>
 <link rel="stylesheet" href="/etc/designs/unicreditgroupn/clientlibs/forms.css" type="text/css">
 
@@ -213,7 +213,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		
 		
 		var componentPath = 'unicreditgroupn/components/page/homepage/static/topbar';
-		if(componentPath.startsWith('/apps/')){
+		if(componentPath.substring(0, 6) === '/apps/'){
 		    componentPath = componentPath.substring(6,componentPath.length);
 		}
 		var hrefPath = $(obj).attr('href');
@@ -231,7 +231,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		if(hamburgerMenuClosed){
 			hamburgerMenuClosed = false;
 			var componentPath = 'unicreditgroupn/components/page/homepage/static/topbar';
-			if(componentPath.startsWith('/apps/')){
+			if(componentPath.substring(0, 6) === '/apps/'){
 			    componentPath = componentPath.substring(6,componentPath.length);
 			}
 	    	CQ_Analytics.record({event: 'menuOpen', values: { menuName: 'hamburger'}, options: { obj: obj, defaultLinkType: 'o' }, componentPath: componentPath});
@@ -447,7 +447,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 											
 											<li><a class="12" href="/en/governance/corporate-transactions.html?topmenu=INT-TM_GOV13_en035" data-section="governance" data-link="12">Corporate transactions</a></li>
 											
-											<li><a class="13" href="/en/governance/capital-strengthening.html?topmenu=INT-TM_GOV14_en036" data-section="governance" data-link="13">Capital Strengthening</a></li>
+											<li><a class="13" href="/en/governance/capital-strengthening.html?topmenu=INT-TM_GOV14_en036" data-section="governance" data-link="13">Capital Increase</a></li>
 											
 						</ul>
 					</div>
@@ -523,9 +523,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 											
 											<li><a class="4" href="/en/press-media/magazine-and-publications.html?topmenu=INT-TM_PRE05_en074" data-section="pressmedia" data-link="4">Magazine &amp; Publications</a></li>
 											
-											<li><a class="5" href="/en/press-media/press-kit.html?topmenu=INT-TM_PRE06_en075" data-section="pressmedia" data-link="5">Press Kit</a></li>
-											
-											<li><a class="6" href="/en/press-media/contacts.html?topmenu=INT-TM_PRE07_en076" data-section="pressmedia" data-link="6">Contacts</a></li>
+											<li><a class="5" href="/en/press-media/contacts.html?topmenu=INT-TM_PRE07_en076" data-section="pressmedia" data-link="5">Contacts</a></li>
 											
 						</ul>
 					</div>
@@ -610,7 +608,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 											
 											<li><a class="1" href="/en/uefa/uefa-champions-league.html?topmenu=INT-TM_UEF02_en105" data-section="uefa" data-link="1">UEFA Champions League</a></li>
 											
-											<li><a class="2" href="/en/uefa/uefa-europa-league.html" data-section="uefa" data-link="2">UEFA Europa League</a></li>
+											<li><a class="2" href="/en/uefa/uefa-europa-league.html?topmenu=INT-TM_UEF03_en106" data-section="uefa" data-link="2">UEFA Europa League</a></li>
 											
 						</ul>
 					</div>
@@ -776,28 +774,28 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <script type="text/javascript">
 	function shareTwitterAction(pageName){
     	var componentPath = '/apps/unicreditgroupn/components/content/analytics-social';
-	    if(componentPath.startsWith('/apps/')){
+        if(componentPath.substring(0, 6) === '/apps/'){
 	        componentPath = componentPath.substring(6,componentPath.length);
 	    }
         CQ_Analytics.record({event: 'socialEvent', values: { shareInteraction: 'twitter:'+pageName }, componentPath: componentPath});
     }
     function shareFacebookAction(pageName){
     	var componentPath = '/apps/unicreditgroupn/components/content/analytics-social';
-	    if(componentPath.startsWith('/apps/')){
+        if(componentPath.substring(0, 6) === '/apps/'){
 	        componentPath = componentPath.substring(6,componentPath.length);
 	    }
         CQ_Analytics.record({event: 'socialEvent', values: { shareInteraction: 'facebook:'+pageName }, componentPath: componentPath});
     }
     function shareLinkedInAction(pageName){
     	var componentPath = '/apps/unicreditgroupn/components/content/analytics-social';
-	    if(componentPath.startsWith('/apps/')){
+        if(componentPath.substring(0, 6) === '/apps/'){
 	        componentPath = componentPath.substring(6,componentPath.length);
 	    }
         CQ_Analytics.record({event: 'socialEvent', values: { shareInteraction: 'linkedin:'+pageName }, componentPath: componentPath});
     }
     function shareGooglePlusAction(pageName){
     	var componentPath = '/apps/unicreditgroupn/components/content/analytics-social';
-	    if(componentPath.startsWith('/apps/')){
+        if(componentPath.substring(0, 6) === '/apps/'){
 	        componentPath = componentPath.substring(6,componentPath.length);
 	    }
         CQ_Analytics.record({event: 'socialEvent', values: { shareInteraction: 'gplus:'+pageName }, componentPath: componentPath});
@@ -1227,7 +1225,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		</div>
 		<div class="footer-row copyright" itemscope="" itemtype="http://schema.org/Organization">
 			
-			© 2016 <span itemprop="name">UniCredit S.p.A.</span>
+			© 2017 <span itemprop="name">UniCredit S.p.A.</span>
 			<span class="hidden-xs"> - </span>
 			
 			<span class="toWrap">P.Iva <span itemprop="vatID">00348170101</span> Tutti i diritti riservati</span>
@@ -1268,18 +1266,16 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 			<div class="sitecatalyst cloudservice">
 
 
-      <!-- includeClientLib sitecatalyst -->
-      
-      <script type="text/javascript" src="/etc/designs/unicreditgroupn/clientlibs/sitecatalyst/sitecatalyst.js"></script>
-
-        
-	   
-      <!-- includeClientLib sitecatalyst end -->
 
       <!-- include sitecatalyst.js -->
       
       <script type="text/javascript" src="/content/unicreditgroup-eu/_jcr_content/analytics.sitecatalyst.js"></script>
       <!-- include sitecatalyst.js end -->
+
+      <!-- includeClientLib sitecatalyst -->
+        
+	   
+      <!-- includeClientLib sitecatalyst end -->
 
       <!-- includeClientLib sitecatalyst.plugins -->
       <script type="text/javascript" src="/etc/designs/unicreditgroupn/clientlibs/sitecatalyst/plugins.js"></script>
@@ -1325,15 +1321,15 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
       					
       					mapping.push({scVar:"prop53",cqVar:"eventdata.responsiveLayout",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
+      					mapping.push({scVar:"server",cqVar:"eventdata.server",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
+      					
       					mapping.push({scVar:"hier1",cqVar:"eventdata.hier1",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"channel",cqVar:"eventdata.channel",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
-      					mapping.push({scVar:"server",cqVar:"eventdata.server",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
+      					mapping.push({scVar:"prop56",cqVar:"eventdata.breadcrumb",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"hier2",cqVar:"eventdata.hier2",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
-      					
-      					mapping.push({scVar:"prop56",cqVar:"eventdata.breadcrumb",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"prop6",cqVar:"eventdata.language",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
@@ -1412,7 +1408,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
       	});
       </script>
 
-<noscript><img src="https://sucmetrics.unicredit.it/b/ss/unicreditgroup-eu-it/1/H.27.5--NS/1482983078328?cdp=2&amp;ns=unicreditgroup&amp;pageName=ucg%3Ainfo%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="https://sucmetrics.unicredit.it/b/ss/unicreditgroup-eu-it/1/H.27.5--NS/1498818658307?cdp=2&amp;ns=unicreditgroup&amp;pageName=ucg%3Ainfo%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 
 
 
