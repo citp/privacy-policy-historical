@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422041923id_/https%3A//www.flvc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701111010id_/https%3A//www.floridashines.org/privacy) for the most accurate reproduction.*
 
 # FloridaShines | Colleges & Careers in Florida
 
