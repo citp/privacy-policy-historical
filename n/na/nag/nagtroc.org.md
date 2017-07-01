@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagtroc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092433id_/http%3A//www.gtrlife.com/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagtroc.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701203318id_/http%3A//www.gtrlife.com/forums/privacypolicy) for the most accurate reproduction.*
 
 # Your Privacy Rights - Privacy Policy - GT-R Life
 
