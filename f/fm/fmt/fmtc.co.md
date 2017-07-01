@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmtc.co privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221015232id_/http%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtc.co privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701054306id_/https%3A//www.fmtc.co/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FMTC Affiliate Datafeed and Tools
 
