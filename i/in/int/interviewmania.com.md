@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interviewmania.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130002id_/http%3A//interviewmania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interviewmania.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701074410id_/https%3A//interviewmania.com/privacy) for the most accurate reproduction.*
 
 # Interview Questions and Answers - Interview Mania
 
