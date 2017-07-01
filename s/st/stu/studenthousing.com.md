@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studenthousing.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509020108id_/https%3A//www.americancampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studenthousing.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701052524id_/https%3A//www.americancampus.com/privacy-policy) for the most accurate reproduction.*
 
 # Student Housing & Student Apartments - Privacy Policy - American Campus Communities
 
