@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropo.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406093031id_/https%3A//www.tropo.com/terms-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropo.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701193819id_/https%3A//www.tropo.com/terms-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Tropo | Tropo - Cloud API for Voice and Messaging
 
@@ -7,10 +7,6 @@
 The terms “you,” “your,” and “yours” refer to the customer using our websites, www.voxeolabs.com, www.phono.com and [www.tropo.com](http://www.tropo.com/), all owned and operated by Tropo LLC, and specifically exclude users of third-party applications developed using Tropo LLC services. The terms “Company,” “we,” “us,” and “our” refer to Tropo LLC (Tropo). This Privacy Policy is governed by our Terms of Service. By using this website, you consent to the data practices described in this statement.
 
 This Privacy Policy does not apply to users of third-party applications developed using Tropo services.  The collection, use, storage and disclosure of information collected from users of each third-party application is governed by the policies of the third party that created it.  Tropo is not responsible for the practices of third parties, including third-party developers. With respect to user information and otherwise, Tropo will not be liable to you for any harm that arises out of or in any way relates to the acts or failures to act of any third party.
-
-**Safe Harbor Privacy Principles**
-
-Tropo, Inc. complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Tropo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tropo, Inc.’s certification, please visit <http://www.export.gov/safeharbor>.
 
 **Personal Information Collection and Use**
 
