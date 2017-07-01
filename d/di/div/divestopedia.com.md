@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226175139id_/https%3A//www.divestopedia.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702014208id_/https%3A//www.divestopedia.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Divestopedia.com
 
@@ -36,7 +36,7 @@ In addition, you are expressly consenting to Divestopedia.com that the use of ce
 
 ## Newsletters and Alerts
 
-If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [contacting us](https://web.archive.org/about/contact). We also offer an opportunity to opt-out of certain communications on your Edit Profile page. 
+If you wish to subscribe to our newsletter(s) or alert system, we will use your name and email address to send the newsletter or alert to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, alerts and promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by [contacting us](https://web.archive.org/about/contact). We also offer an opportunity to opt-out of certain communications on your _Edit Profile_ page 
 
 ## Use of Personal Information Posted on Forums
 
@@ -95,9 +95,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If you have questions or suggestions, please complete the form on our [Contact Us](https://web.archive.org/about/contact) page or write us at: 
 
 Janalta Interactive Inc. o/a Divestopedia.com  
-Suite 100, 4207 - 98 Street NW  
-Edmonton, Alberta Canada T6E 5R7  
-Last updated Friday, February 24, 2017  
+Suite 101, 1289 - 91 Street SW  
+Edmonton, Alberta Canada T6X 1H1  
+Last updated Wednesday, June 28, 2017  
 
 
   
