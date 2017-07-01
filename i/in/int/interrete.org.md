@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interrete.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229222136id_/http%3A//interrete.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrete.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701141439id_/http%3A//interrete.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interrete
 
