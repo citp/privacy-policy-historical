@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradle.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622071837id_/https%3A//gradle.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradle.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702001103id_/https%3A//gradle.org/privacy) for the most accurate reproduction.*
 
 # Gradle | Privacy Policy
 
@@ -59,7 +59,7 @@ Gradle Inc. has the discretion to update this privacy policy at any time. When w
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://gradle.com/contact-us) at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact) at:
 
 Gradle, Inc.   
 325 9th St. San Francisco, CA 94301   
