@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resurva.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610205546id_/https%3A//resurva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resurva.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701212031id_/https%3A//resurva.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Resurva
 
