@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coreos.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111164127id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coreos.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701022345id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoreOS
 
