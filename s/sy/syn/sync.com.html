@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sync.com privacy policy that was archived on 2016-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160503102210id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sync.com privacy policy that was archived on 2017-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170701193456id_/https%3A//sync.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Policy | Sync</title>
@@ -276,6 +276,7 @@ window.SYNC = {
                     <ul class="footer-nav">
                     <li><a href="/about/">About Us <i class="farrow visible-xs-block fa fa-chevron-right fa-lg pull-right"></i></a></li>
                     <li><a href="/careers/">Careers <i class="farrow visible-xs-block fa fa-chevron-right fa-lg pull-right"></i></a></li>
+                    <li><a href="https://www.sync.com/help/does-sync-have-an-affiliate-commission-or-rewards-program/">Resellers <i class="farrow visible-xs-block fa fa-chevron-right fa-lg pull-right"></i></a></li>
                     <li><a href="https://www.sync.com/blog/">Blog <i class="farrow visible-xs-block fa fa-chevron-right fa-lg pull-right"></i></a></li>
                     <li><a href="/press-kit/">Press <i class="farrow visible-xs-block fa fa-chevron-right fa-lg pull-right"></i></a></li>
                     </ul>
@@ -341,7 +342,7 @@ window.SYNC = {
                 <div class="col-sm-12 text-center">
                     <span class="tiny">
                     
-                    © 2016 Sync.com Inc. <br class="visible-xs-block"> <a href="/privacy/">Privacy Policy</a> · <a href="/terms/">Terms of Service</a>
+                    © 2017 Sync.com Inc. <br class="visible-xs-block"> <a href="/privacy/">Privacy Policy</a> · <a href="/terms/">Terms of Service</a>
                     </span>
                 </div>
             </div>
@@ -360,7 +361,7 @@ window.SYNC = {
         <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin-top:2px;"><i class="fa fa-lg fa-times"></i></button>
         <h4 class="modal-title" id="myModalLabel">
           <!-- <img src="/images/sync-logo-notext.png" width="42" height="39"> -->
-            Sign up for Sync <span class="signupplan"></span>
+            Sign up for <span class="signupplan"></span>
         </h4>
       </div>
 
@@ -371,13 +372,82 @@ window.SYNC = {
             <a href="/install/">get the app to sign up</a>.
         </div>
 
-        <div style="margin-bottom:10px;">
-            <span class="signup-err-msg">Enter your email address and password:</span> &nbsp;
+        <div style="">
+            <span class="signup-err-msg"></span>
         </div>
 
         <form class="signup-form" accept-charset="UTF-8" method="post" action="" style="margin:0px;padding:0px;">
             
+                
+        <div id="signup_selections">
+        <div class="row">
+                <div class="col-xs-8">
+                
+                <p class="help-block black">Select storage space:</p>
+                
+                <select class="form-control input-lg" name="signup_storage_space" id="signup_storage_space">
+                    <option id="selectoption500" value="20">500 GB ($49 per user, per year)</option>
+                    <option id="selectoption1000" value="1102">1 TB ($60 per user, per year)</option>
+                    <option value="41">2 TB ($96 per user, per year)</option>
+                </select>
+                
+                
+                </div>
+            
+                <div id="signup_num_users_dropdown" class="col-xs-4">
+                <p class="help-block black">Number of users:</p>
+                  
+                <select class="form-control input-lg" name="signup_num_users" id="signup_num_users">
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    
+                    
+                    
+                </select>
+            
+                </div>
+        
+            
+        </div>
+        
+        </div>
+        <div id="signup_total_values" style="margin-top:12px; font-size:14px;"></div>
+        <hr>
+        
+        
+            
+            
+            
             <div class="form-group"><!--[if lt IE 10]>Email<![endif]-->
+                <p class="help-block black">Enter your <strong><span id="signup_admin_txt"></span></strong>email address and password:</p>
+                
                 <label class="field-label notshown" for="signup_user">Email</label>
                 <input type="text" name="username" id="signup_user" class="form-control signup-input-user input-lg" size="30" maxlength="255" placeholder="Email">
             </div>
@@ -391,14 +461,35 @@ window.SYNC = {
                 <label class="sr-only" for="signup_pass_again">Confirm Password</label>
                 <input type="password" name="password_again" id="signup_pass_again" class="form-control input-lg signup_pass_again" size="30" maxlength="255" placeholder="Confirm Password">
             </div>
-                        
-            <div class="form-group"><!--[if lt IE 10]>Password<![endif]-->
+            <!--
+            <div class="form-group">
                 <p class="help-block black">Optional:</p>
                 <label class="field-label notshown" for="signup-input-pass-hint">Password</label>
-                <input autocapitalize="off" type="text" name="password-hint" id="signup_pass_hint" class="form-control input-lg signup-input-pass-hint" size="30" maxlength="255" placeholder="Password Hint">
+                <input autocapitalize="off" type="text" name="password-hint" id="signup_pass_hint" class="form-control input-lg signup-input-pass-hint" size="30" maxlength="255" placeholder="Password Hint" />
                 <p class="help-block" style="font-weight:300;font-style:normal;line-height:20px;margin-top:15px;">A password hint is a word or phrase that can help you remember your password. You can define a password hint now, or anytime after signing up.</p>
             </div>
+            -->
             
+           
+            <hr>
+            
+            <div class="form-group">
+                <div class="checkbox">
+                <p class="help-block black">Set password option (reset <span id="passwordrecoverystatus">disabled</span>):</p>
+                <label>
+                <input name="signup_pass_reset_toggle" id="signup_pass_reset_toggle" value="1" type="checkbox"> 
+                <input type="hidden" name="signup_pass_reset" id="signup_pass_reset" class="signup-input-pass-reset" value="0">
+                
+                
+               
+                <font style="display: inline-block; font-weight:300;font-style:normal;line-height:20px;">Enable email-based password reset. <a target="_blank" href="https://www.sync.com/help/how-do-i-enable-password-recovery/">Learn more</a>.</font>
+                </label>
+                </div>
+            </div>
+
+            
+            <input type="hidden" value="0" class="signup_pass_reset" name="signup_pass_reset" id="signup_pass_reset">
+
             <hr>
             
             <div class="form-group">
@@ -428,6 +519,7 @@ window.SYNC = {
     </div>
   </div>
 </div>
+
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/css/bootstrap-3.3.5/js/bootstrap.min.js"></script>
