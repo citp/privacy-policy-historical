@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218095509id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701102212id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Facing History and Ourselves
 
