@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205071759id_/https%3A//www.pumpitupparty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701101934id_/https%3A//www.pumpitupparty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pump It Up
 
@@ -36,7 +36,8 @@ You may find that it is possible to "hot-link" from other web sites to this, the
 **Contact Us**  
 If you have any questions regarding our privacy practices, you can telephone or write to us at Pump It Up. Our contact information is:
 
-PIU Holdings, LLC  
-1860 W. University Dr., Suite 108  
-Tempe, AZ 85281  
+FB Holdings, LLC  
+17767 N. Perimeter Drive  
+Suite B117  
+Scottsdale, AZ 85255  
 Phone: 480-371-1200
