@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jkrowling.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416234552id_/https%3A//www.jkrowling.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jkrowling.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701061721id_/https%3A//www.jkrowling.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - J.K. Rowling
 
