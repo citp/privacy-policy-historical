@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpokerclaims.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021211922id_/http%3A//www.fulltiltpokerclaims.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpokerclaims.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701084629id_/http%3A//www.fulltiltpokerclaims.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
