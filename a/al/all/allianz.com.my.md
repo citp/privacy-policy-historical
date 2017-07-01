@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181155id_/https%3A//www.allianz.com.my/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.my privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701041824id_/https%3A//www.allianz.com.my/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -63,7 +63,7 @@ The laws of Malaysia provide for measures to enforce your privacy rights. In add
 
 In case you have any further questions about your data privacy at Allianz, please do not hesitate to contact us by using any one of the following options:
 
-[> Inquiry Form](https://web.archive.org/web/20170606181155id_/https%3A//www.allianz.com.my/talk-to-us)
+[> Inquiry Form](https://web.archive.org/web/20170701041824id_/https%3A//www.allianz.com.my/talk-to-us)
 
 [> customer.service@allianz.com.my](mailto:customer.service@allianz.com.my)
 
