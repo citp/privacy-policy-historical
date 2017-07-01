@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpavan.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102214611id_/http%3A//www.techpavan.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpavan.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701030057id_/http%3A//www.techpavan.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechPavan.com
 
