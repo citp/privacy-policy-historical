@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526000143id_/http%3A//www.plu.edu/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701094933id_/https%3A//www.plu.edu/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | About PLU | Pacific Lutheran University
 
