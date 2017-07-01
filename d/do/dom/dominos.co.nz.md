@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172746id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701055046id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Domino's Pizza - Privacy And Policy
 
