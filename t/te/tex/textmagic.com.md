@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the textmagic.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301094032id_/https%3A//www.textmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmagic.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701021314id_/https%3A//www.textmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Text Messaging Platform - TextMagic
 
-## TEXTMAGIC DATA PROTECTION AND PRIVACY POLICY
+TextMagic Limited (“ **Textmagic** ” or “ **We** ”) is committed to protecting and respecting your privacy and personal data. This Policy describes TextMagic’s data practices.
 
-TextMagic Limited (“ **Textmagic** “) or “ **we** ” is committed to protecting and respecting your privacy and personal data. This Policy describes TextMagic’s data practices.
+We will only use personal information we collect in accordance with the laws of England and Wales including the Data Protection Act 1998 (“ **Act** ”) and the Privacy and Electronic Communications (EC Directive) Regulations 2003. We will therefore aim to ensure that all employees, contractors, agents suppliers or consultants of TextMagic who have access to any personal data held by or on behalf of TextMagic, are fully aware of and abide by their legal duties and responsibilities.
 
-We will only use personal information we collect in accordance with the laws of England and Wales including the Data Protection Act 1998 (“ **Act** “) and the Privacy and Electronic Communications (EC Directive) Regulations 2003. We will therefore aim to ensure that all employees, contractors, agents suppliers or consultants of TextMagic who have access to any personal data held by or on behalf of TextMagic, are fully aware of and abide by their legal duties and responsibilities.
-
-Please read the following carefully to understand our practices regarding personal data that we collect from you, or that you provide to us, in connection with your use of our website at www.textmagic.com (“ **Site** “) and the services provided by TextMagic (“ **Services** “) . By using the Site you are accepting and consenting to the use of your data as described in this policy.
+Please read the following carefully to understand our practices regarding personal data that we collect from you, or that you provide to us, in connection with your use of our website at www.textmagic.com (“ **Site** ”) and the services provided by TextMagic (“ **Services** ”). By using the Site you are accepting and consenting to the use of your data as described in this policy.
 
   1. #### Changes to this Data Protection and Privacy Policy
 
@@ -50,7 +48,7 @@ Like many other web services, we use a standard technology called “cookies.”
     2. We may use or share your data where it is necessary to complete a transaction, to operate or improve the Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest. By requesting us to provide the Services to you, you consent to us using such personal data as may be necessary to do so, including the use of mobile phone numbers provided by you to facilitate sending and receiving of text messages, and you warrant that you are authorised to share such personal data with us.
     3. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the the form on which we collect your data. 
 
-Information we collect about you: We will use this information:
+Information we collect about you:
 
       1. To administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
       2. To improve our Site to ensure that content is presented in the most effective manner for you and for your computer.
