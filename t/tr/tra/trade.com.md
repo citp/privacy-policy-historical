@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204013844id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701232806id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TRADE.com
 
-##  Privacy Policy
+##  Privacy Policy 
 
 Leadcapital Markets Ltd, and its related entities hereafter “the Company”, is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the company as explained below. 
 
@@ -45,3 +45,153 @@ The Company uses cookies to secure clients’ trading activities and to enhance 
 **Privacy Policy Updates**
 
 The Company may update this Privacy Policy from time to time. In the event that the Company materially changes this Policy including how it collects, processes or uses clients’ personal information, the revised Privacy Policy will be uploaded in the Company’s website. In this respect, the clients hereby agree to accept posting of a revised Privacy Policy electronically on the website as the actual notice of the Company to its clients. Any dispute over the Company’s Privacy Policy is subject to this notice and the Client Agreement. The Company encourages its clients to periodically review this Privacy Policy so that they are always aware of what information the Company collects, how it uses it and to whom it may disclose it, in accordance with the provisions of this Policy. 
+
+##  Data Protection Policy 
+
+**1\. Introduction**
+
+**_Lead Capital Markets_** needs to collect and use certain types of information about the Individuals or Service Users who come into contact with, in order to carry on the work. This personal information must be collected and dealt appropriately, whether is collected on paper, stored in a computer database, or recorded on other material and there are safeguards to ensure this are under the Data Protection Law 138 (I) 2001. 
+
+With this policy we ensure that the company behaves in a fair and moral manner concerning the gathering, storing and handling of data. This process will be carried out with transparency and respect towards the rights of individuals who entrust it with their information. 
+
+This policy applies to all parties (employees, job candidates, customers, suppliers etc.) who provide any amount of information to the company. The policy will be followed by all employees of the company and its subsidiaries as well as contractors, consultants, partners and any other external entity. Generally, it refers to anyone who is in close collaboration with the company or acts on its behalf and may need occasional access to data. 
+
+**2\. Data Controller**
+
+**_Lead Capital Markets_** is the Data Controller under the Law, which means that it determines what purposes personal information held, will be used for. It is also responsible for notifying the Information Commissioner of the data it holds or is likely to hold, and the general purposes that this data will be used for. 
+
+**3\. Disclosure**
+
+**_Lead Capital Markets_** may share data with other agencies such as the local authority, funding bodies and other voluntary agencies. 
+
+The Individual/Service User will be made aware in most circumstances how and with whom their information will be shared.  There are circumstances where the law allows disclosing data (including sensitive data) without the data subject’s consent Article 6(2) of the Law. 
+
+These are: 
+
+  1. Carrying out a legal duty or as authorised by the Secretary of State 
+  2. Protecting vital interests of an Individual/Service User or other person 
+  3. The Individual/Service User has already made the information public 
+  4. Conducting any legal proceedings, obtaining legal advice or defending any legal rights 
+  5. Monitoring for equal opportunities purposes – i.e. race, disability or religion 
+  6. Providing a confidential service where the Individual/Service User’s consent cannot be obtained or where it is reasonable to proceed without consent: e.g. where we would wish to avoid forcing stressed or ill Individuals/Service Users to provide consent signatures. 
+
+
+
+**_Lead Capital Markets_** regards the lawful and correct treatment of personal information is very important to successful working to maintain the confidence of those with whom we deal. 
+
+**_Lead Capital Markets_** intends to ensure that personal information is treated lawfully and correctly. 
+
+To this end, **_Lead Capital Markets_** will adhere to the Principles of Data Protection, as detailed in the Data Protection Law 138 (I) 2001. 
+
+Specifically, the Principles require that personal information: 
+
+  1. Shall be processed fairly and lawfully and, in particular, shall not be processed unless specific conditions are met, 
+  2. Shall be obtained only for one or more of the purposes specified in the Law, and shall not be processed in any manner incompatible with that purpose or those purposes, 
+  3. Shall be adequate, relevant and not excessive in relation to those purpose(s) 
+  4. Shall be accurate and, where necessary, kept up to date, 
+  5. Shall not be kept for longer than is necessary 
+  6. Shall be processed in accordance with the rights of data subjects under the Law, 
+  7. Shall be kept secure by the Data Controller who takes appropriate technical and other measures to prevent unauthorized or unlawful processing or accidental loss or destruction of, or damage to, personal information, 
+  8. Shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of Individuals/Service Users in relation to the processing of personal information. 
+
+
+
+**_Lead Capital Markets_** will, through appropriate management and strict application of criteria and controls: 
+
+  * Observe fully conditions regarding the fair collection and use of information 
+  * Meet its legal obligations to specify the purposes for which information is used 
+  * Collect and process appropriate information, and only to the extent that it is needed to fulfill its operational needs or to comply with any legal requirements 
+  * Ensure the quality of information used 
+  * Ensure that the rights of people about whom information is held, can be fully exercised under the Law. These include: 
+
+
+  * The right to be informed that processing is being undertaken, 
+  * The right of access to one’s personal information 
+  * The right to prevent processing in certain circumstances and 
+  * The right to correct, rectify, block or erase information which is regarded as wrong information) 
+  * Take appropriate technical and organizational security measures to safeguard personal information 
+  * Ensure that personal information is not transferred abroad without suitable safeguards 
+  * Treat people justly and fairly whatever their age, religion, disability, gender, sexual orientation or ethnicity when dealing with requests for information 
+  * Set out clear procedures for responding to requests for information 
+
+
+
+**4\. Data collection**
+
+Informed consent is when: 
+
+  * An Individual/Service User clearly understands why their information is needed, who it will be shared with, the possible consequences of them agreeing or refusing the proposed use of the data 
+  * And then gives their consent. 
+
+
+
+**_Lead Capital Markets_** will ensure that data is collected within the boundaries defined in this policy. This applies to data that is collected in person, or by completing a form. 
+
+When collecting data, **_Lead Capital Markets_** will ensure that the Individual/Service User: 
+
+  1. Clearly understands why the information is needed 
+  2. Understands what it will be used for and what the consequences are should the Individual/Service User decide not to give consent to processing 
+  3. As far as reasonably possible, grants explicit consent, either written or verbal for data to be processed 
+  4. Is, as far as reasonably practicable, competent enough to give consent and has given so freely without any duress 
+  5. Has received sufficient information on why their data is needed and how it will be used 
+
+
+
+**5\. Data Storage**
+
+Information and records relating to service users will be stored securely and will only be accessible to authorised staff and volunteers. Information will be stored for only as long as it is needed or required statute and will be disposed of appropriately. 
+
+It is **_Lead Capital Markets_** responsibility to ensure all personal and company data is non-recoverable from any computer system previously used within the organisation, which has been passed on/sold to a third party. 
+
+**6\. Data access and accuracy**
+
+All Individuals/Service Users have the right to access the information **_Lead Capital Markets_** holds about them. **_Lead Capital Markets_** will also take reasonable steps ensure that this information is kept up to date by asking data subjects whether there have been any changes. 
+
+In addition, **_Lead Capital Markets_** will ensure that: 
+
+  * It has a Data Protection Officer with specific responsibility for ensuring compliance with Data Protection 
+  * Everyone processing personal information understands that they are contractually responsible for following good data protection practice 
+  * Everyone processing personal information is appropriately trained to do so 
+  * Everyone processing personal information is appropriately supervised 
+  * Anybody wanting to make enquiries about handling personal information knows what to do 
+  * It deals promptly and courteously with any enquiries about handling personal information 
+  * It describes clearly how it handles personal information 
+  * It will regularly review and audit the ways it hold, manage and use personal information 
+  * It regularly assesses and evaluates its methods and performance in relation to handling personal information 
+  * All staff are aware that a breach of the rules and procedures identified in this policy may lead to disciplinary action being taken against them 
+
+
+
+This policy will be updated as necessary to reflect best practice in data management, security and control and to ensure compliance with any changes or amendments made to the Data Protection Law 138 (I) 2001. 
+
+**Glossary of Terms**
+
+**Data Controller** – The person who (either alone or with others) decides what personal information the Company will hold and how it will be held or used. 
+
+**Data Protection Law 138 (I) 2001** – The Cyprus legislation that provides a framework for responsible behaviour by those using personal information. 
+
+**Data Protection Officer** – The person(s) responsible for ensuring that the Company follows its data protection policy and complies with the Data Protection Law 138 (I) 2001. 
+
+**Individual/Service User** – The person whose personal information is being held or processed by the Company for example: a client, an employee, or supporter. 
+
+**Explicit consent** – is a freely given, specific and informed agreement by an Individual/Service User in the processing of personal information about her/him. Explicit consent is needed for processing sensitive data. 
+
+**Notification** – Notifying the Information Commissioner about the data processing activities of the Company, as certain activities may be exempt from notification. 
+
+**Information Commissioner** – The Cyprus Information Commissioner responsible for implementing and overseeing the Data Protection Law 138 (I) 2001. 
+
+**Processing** – means collecting, amending, handling, storing or disclosing personal information. 
+
+**Personal Information** – Information about living individuals that enables them to be identified – e.g. name and address. It does not apply to information about organisations, companies and agencies but applies to named persons, such as individual volunteers or employees within (GROUP). 
+
+**Sensitive data** – refers to data about: 
+
+  * Racial or ethnic origin 
+  * Political affiliations 
+  * Religion or similar beliefs 
+  * Trade union membership 
+  * Physical or mental health 
+  * Sexuality 
+  * Criminal record or proceedings 
+
+
