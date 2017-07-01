@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the neuroleadership.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316160639id_/http%3A//www.neuroleadership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuroleadership.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701220644id_/https%3A//neuroleadership.com/privacy) for the most accurate reproduction.*
 
 # Privacy - NeuroLeadership Institute
 
 ## Information Collected and Used
 
-NeuroLeadership Institute will not divulge personal information including your name and e-mail address to any third party without your express permission.  
-Personal Information
+NeuroLeadership Institute will not divulge personal information including your name and e-mail address to any third party without your express permission.
+
+## Personal Information
 
 NeuroLeadership Institute will not provide our advertisers or anyone else outside of NeuroLeadership Group with any information specific to you collected from the website unless we have your consent. The only website employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
 
@@ -19,10 +20,12 @@ To the extent that that any data protection, privacy or similar laws (“Data Pr
 
 ## Communications from Us
 
-From time to time, we may send you information with announcements and updates about NeuroLeadership Institute. You may elect to opt-out of ongoing email communication from us, such as newsletters, subscriptions, program information, promotional materials, survey inquiries, etc. by using a simple “opt-out” procedure. You can opt-out by clicking the link at the bottom of the email you received or by replying with the word “unsubscribe” in the subject line.  
-Correcting / Updating Personal Information
+From time to time, we may send you information with announcements and updates about NeuroLeadership Institute. You may elect to opt-out of ongoing email communication from us, such as newsletters, subscriptions, program information, promotional materials, survey inquiries, etc. by using a simple “opt-out” procedure. You can opt-out by clicking the link at the bottom of the email you received or by replying with the word “unsubscribe” in the subject line.
 
-If your personal information changes, you may update your personal information at any time by sending an email to [support@neuroleadership.com](mailto:support@neuroleadership.com).  
+## Correcting / Updating Personal Information
+
+If your personal information changes, you may update your personal information at any time by sending an email to [support@neuroleadership.com](mailto:support@neuroleadership.com).
+
 You may also delete your personal profile data from our database by sending an email to [support@neuroleadership.com](mailto:support@neuroleadership.com).
 
 ## Policy Changes and Acceptance
