@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ultimatedemon.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031003242id_/http%3A//ultimatedemon.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedemon.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701231803id_/http%3A//ultimatedemon.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## UltimateDemon is no longer available for sale and will cease operation after 31st October 2017.
 
 ## HOW WE PROTECT YOUR PRIVACY
 
