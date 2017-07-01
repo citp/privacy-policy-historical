@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokingblondes.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417200510id_/http%3A//www.pokingblondes.com/%3Fread%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokingblondes.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701025635id_/http%3A//www.pokingblondes.com/%3Fread%3Dprivacy) for the most accurate reproduction.*
 
 # Hot Blondes | Poking Blondes
 
