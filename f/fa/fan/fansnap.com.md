@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128170741id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701210138id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
