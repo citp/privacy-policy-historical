@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obdresource.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607050303id_/http%3A//www.obdresource.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obdresource.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701051541id_/http%3A//www.obdresource.com/privacy-policy.html) for the most accurate reproduction.*
 
 # OBDResource Online Store
 
