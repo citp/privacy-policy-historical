@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420111455id_/https%3A//insurancenewsnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701050750id_/https%3A//insurancenewsnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InsuranceNewsNet
 
 [](https://privacy.truste.com/privacy-seal/InsuranceNewsNet-com/validation?rid=d0ba865f-ab16-4b4b-90bb-beaf02f79acf "TRUSTe online privacy certification")
 
-InsuranceNewsNet.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  This privacy prolicy covers the site ([www.insurancenewsnet.com](http://insurancenewsnet.com/)).
+This privacy prolicy covers the site ([www.insurancenewsnet.com](http://insurancenewsnet.com/)).
 
-If you have questions or concerns regarding this policy, you should first contact Customer Service by calling 717-441-9357 by email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: InsuranceNewsNet.com, 3500 Market Street, Ste 202 Camp Hill, PA 17011. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this policy, you should first contact Customer Service by calling 717-441-9357 by email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: InsuranceNewsNet.com, 275 Grandview Avenue, Ste 100 Camp Hill, PA 17011.
 
 ## Uses of Information
 
@@ -100,8 +100,8 @@ If you no longer wish to receive our newsletter and promotional communications, 
 ### Postal Mail
 
 InsuranceNewsNet.com  
-3500 Market Street, Ste 202  
-Camp Hill, PA 17011s
+275 Grandview Avenue, Suite 100  
+Camp Hill, PA 17011
 
 ### Log Files
 
@@ -145,10 +145,10 @@ This privacy policy applies only to information collected by this Web site.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page:
 
-[https://www.insurancenewsnet.com/subscription_update.aspx](http://insurancenewsnet.com/subscription_update.aspx) or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail:
+[Subscription Update Page](http://insurancenewsnet.com/subscription_update.aspx) or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail:
 
 InsuranceNewsNet.com  
-3500 Market Street, Ste 202  
+275 Grandview Avenue, Suite 100  
 Camp Hill, PA 17011
 
 ### Security
@@ -173,9 +173,8 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-InsuranceNewsNet.com, Inc.
-
-3500 Market Street, Ste 202  
+InsuranceNewsNet.com, Inc.  
+275 Grandview Avenue, Suite 100  
 Camp Hill, PA 17011  
 717-441-9357
 
