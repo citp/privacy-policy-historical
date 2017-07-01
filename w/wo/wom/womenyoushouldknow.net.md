@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623193058id_/http%3A//www.womenyoushouldknow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701173755id_/http%3A//womenyoushouldknow.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Women You Should Know®
 
