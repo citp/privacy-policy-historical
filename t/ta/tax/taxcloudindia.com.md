@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415112924id_/https%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701195302id_/https%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
