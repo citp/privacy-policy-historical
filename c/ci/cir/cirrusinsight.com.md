@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611230613id_/https%3A//www.cirrusinsight.com/trust) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701225307id_/https%3A//www.cirrusinsight.com/trust) for the most accurate reproduction.*
 
 # Trust, Privacy & Security - Cirrus Insight
 
@@ -171,6 +171,11 @@ Please note:
 ### Our Continuing Commitment
 
 We are continuously improving Cirrus Insight to take advantage of new technologies as well as new capabilities of the Salesforce, Google, and Microsoft platforms.   Material changes to this trust and privacy page will be highlighted.  Customers can check this page any time for the latest version.  This page was last updated with a link to the EU-U.S. Privacy Shield Framework on November 14, 2016.
+
+### Anti-spam compliance
+
+We comply with the CAN-SPAM Act of 2003 in our marketing and advertising practices.  
+
 
 ### Privacy Shield Policy
 
