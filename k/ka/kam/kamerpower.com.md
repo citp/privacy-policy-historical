@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kamerpower.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114035703id_/https%3A//kamerpower.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamerpower.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701163501id_/https%3A//kamerpower.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | Kamerpower
+# Privacy Policies | Kamerpower™
 
 ### **KAMERPOW** **ER’s** **PRIVACY** **PO** **LICY**
 
