@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowblackbook.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503164458id_/http%3A//wowblackbook.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowblackbook.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701021551id_/http%3A//wowblackbook.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
