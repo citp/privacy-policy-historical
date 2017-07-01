@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425234100id_/https%3A//www.mheducation.com/privacy/customer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701232126id_/https%3A//www.mheducation.com/privacy/customer-privacy-policy.html) for the most accurate reproduction.*
 
 # Customer Privacy Policy
 
