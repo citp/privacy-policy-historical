@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcgdietinfo.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404081222id_/http%3A//hcgdietinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgdietinfo.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701111237id_/http%3A//hcgdietinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HCG Diet Info
 
