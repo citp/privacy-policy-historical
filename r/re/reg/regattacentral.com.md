@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625060347id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701200013id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # RegattaCentral - Staff
 
