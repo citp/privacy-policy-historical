@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195024id_/https%3A//mpex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701180802id_/https%3A//mpex.com/privacy-policy) for the most accurate reproduction.*
 
 # Midwest Photo Privacy Policy
 
-[](https://web.archive.org/web/20170606195024id_/https://mpex.com/privacy-policy/terms-and-conditions)
+[](https://web.archive.org/web/20170701180802id_/https://mpex.com/privacy-policy/terms-and-conditions)
 
 * * *
 
