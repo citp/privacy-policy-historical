@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205180754id_/https%3A//discoverorg.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701221152id_/https%3A//discoverorg.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DiscoverOrg
+# Privacy Policy
 
 At DiscoverOrg, LLC (“DiscoverOrg”) we are committed to ensuring our customers understand our privacy practices. We hope that you will read and understand this policy. DiscoverOrg reserves the right to amend this statement at any time. We encourage our users and visitors to regularly review this Privacy Policy for any such changes. Your continued use of this web site and our services (including our proprietary database of information) after we have posted changes to the Privacy Policy constitutes your agreement to the amended terms of this Privacy Policy.
 
