@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228163334id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701142121id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information | Thomas Cook
 
