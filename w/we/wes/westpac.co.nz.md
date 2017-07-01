@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619121423id_/http%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701070112id_/https%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
 
 # Westpac NZ - Legal Information
 
