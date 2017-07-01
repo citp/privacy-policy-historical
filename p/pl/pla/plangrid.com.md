@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plangrid.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611095635id_/http%3A//www.plangrid.com/PlanGrid-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plangrid.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701130044id_/https%3A//www.plangrid.com/PlanGrid-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
