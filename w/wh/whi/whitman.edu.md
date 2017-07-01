@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317073932id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701073007id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Whitman College
 
