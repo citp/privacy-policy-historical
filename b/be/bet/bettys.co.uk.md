@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettys.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012153103id_/https%3A//www.bettys.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettys.co.uk privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701031153id_/https%3A//www.bettys.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
