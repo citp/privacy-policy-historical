@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208194632id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnvest.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701035449id_/https%3A//www.learnvest.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnVest
 
 ## Your Privacy Rights
 
 LearnVest respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy applies to LearnVest.com owned and operated by LearnVest (collectively, “We”, “Us” or “Our”). This Privacy Policy is intended to describe for you, as an individual who is a user of LearnVest.com or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
-
-The TRUSTe program only covers information that is collected through this website, [https://www.learnvest.com](https://www.learnvest.com/), and information that may be collected through our mobile website and Mobile Application (App). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Information we collect about you
 
@@ -137,7 +135,7 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 **Privacy Department**  
 [legal@learnvest.com](mailto:legal@learnvest.com)  
 LearnVest, Inc.  
-113 University Place, 5th floor  
+41 East 11th Street, 2nd Floor  
 New York, NY 10003
 
 ## Linked Financial Information
