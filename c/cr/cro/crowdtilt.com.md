@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtilt.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531155300id_/https%3A//policies.tilt.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtilt.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701221104id_/https%3A//policies.tilt.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Tilt Privacy Policy
 
@@ -49,7 +49,7 @@ We collect personal information about you so that we can provide secure, smooth,
   * Customize, measure, and improve our Services.
   * Resolve disputes, troubleshoot problems, and collect fees.
   * Prevent, detect, and investigate potentially prohibited or illegal activities.
-  * Enforce the [Tilt Terms](http://policies.tilt.com/global/terms-of-use.html), [Processor Terms](https://web.archive.org/web/20170531155300id_/https%3A//policies.tilt.com/us/policies.tilt.com/global/processor-terms), [Community Guidelines](http://policies.tilt.com/community-guidelines.html), [Organizer Guidelines](http://policies.tilt.com/organizer-guidelines.html), [Contributor Guidelines](http://policies.tilt.com/contributor-guidelines.html), [Acceptable Use Policy](http://policies.tilt.com/us/acceptable-use-policy), and our other policies.
+  * Enforce the [Tilt Terms](http://policies.tilt.com/global/terms-of-use.html), [Processor Terms](https://web.archive.org/web/20170701221104id_/https%3A//policies.tilt.com/us/policies.tilt.com/global/processor-terms), [Community Guidelines](http://policies.tilt.com/community-guidelines.html), [Organizer Guidelines](http://policies.tilt.com/organizer-guidelines.html), [Contributor Guidelines](http://policies.tilt.com/contributor-guidelines.html), [Acceptable Use Policy](http://policies.tilt.com/us/acceptable-use-policy), and our other policies.
   * Deliver targeted marketing, service update notices, promotional offers, marketing and Transaction updates, based on your communication preferences (email, phone, text, etc.).
   * Enable you to invite your friends to try the Services via various means (such as text message, email and otherwise), if you’d like. 
   * So Tilt and Payees can send you things in the mail like promotional materials, rewards, or purchases.
