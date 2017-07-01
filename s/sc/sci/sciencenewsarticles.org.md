@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108021613id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701183703id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Science News Articles
+# Privacy Policy
 
 ### Your Privacy
 
@@ -34,4 +34,8 @@ The contents of this statement may be altered at any time, at our discretion.
 
 ### Contact Information
 
-If you have any questions regarding the privacy policy of **Science News Articles** then you can email us at wwday3[at]gmail.com. You can also use the Contact link at the top of the website.
+If you have any questions regarding the privacy policy of **Science News Articles** then you can email us at 
+
+__wwday3@gmail.com__
+
+. You can also use the Contact link at the top of the website.
