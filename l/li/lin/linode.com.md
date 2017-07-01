@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linode.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318175657id_/https%3A//www.linode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linode.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701041253id_/https%3A//www.linode.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Linode
 
@@ -35,19 +35,11 @@ Customers bear sole responsibility for maintaining the security of virtual priva
 
 Customers shall have the right to opt out of any use of their personal information which is inconsistent with or beyond the scope of the purposes for which it was initially collected. In the event that, at Linode's discretion, service cannot be continued without customer acceptance of such modifications to the ways in which personal information is collected and/or used, customers who wish to opt out of such collection or use of their personal information will be notified and offered a pro-rated refund of any positive balance on their account with Linode. 
 
-  8. Safe Harbor 
-
-Linode complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Linode has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Linode's certification, please visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) web site. 
-
-Linode, LLC has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Linode, LLC, please visit the [BBB EU Safe Harbor Dispute Resolution Program](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
-
-  9. Enforcement 
+  8. Enforcement 
 
 Please direct compliance inquiries to [privacy@linode.com](mailto:privacy@linode.com). Third parties which may be contacted with compliance inquiries included the following: 
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor Dispute Resolution Program  
-[Online Contact Form](http://www.bbb.org/us/european-dispute-resolution/consumer/) U.S. Department of Commerce  
+U.S. Department of Commerce  
 U.S.-EU Safe Harbor Framework  
 1401 Constitution Avenue, N.W.  
 Room 2003  
@@ -56,9 +48,9 @@ Federal Trade Commission
 Consumer Response Center  
 600 Pennsylvania Avenue, NW  
 Washington, DC 20580 
-  10. Changes 
+  9. Changes 
 
-Amendments to this privacy policy may be made at any time and you should check back frequently for any changes. Linode will never make changes to this policy that result in less protection of your personal information without sending notice. This policy was last updated on July 24, 2013. 
+Amendments to this privacy policy may be made at any time and you should check back frequently for any changes. Linode will never make changes to this policy that result in less protection of your personal information without sending notice. This policy was last updated on May 2nd, 2017. 
 
 
 
