@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530112822id_/https%3A//www.hrblock.ca/legal/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702010046id_/https%3A//www.hrblock.ca/legal/terms-conditions/privacy) for the most accurate reproduction.*
 
 # Privacy - H&R Block
 
