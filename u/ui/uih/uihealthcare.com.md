@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129071849id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701204244id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
 
 # Privacy Notice in English | University of Iowa Hospitals and Clinics
 
@@ -160,6 +160,6 @@ Office for Civil Rights
 200 Independence Avenue, S.W.  
 Washington, D.C. 20201  
 [877-696-6775](tel:1-877-696-6775)  
-[www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)
+[www.hhs.gov/ocr/privacy/hipaa/complaints/](https://www.hhs.gov/hipaa/filing-a-complaint/what-to-expect/index.html)
 
 This notice is in effect February 19, 2015.
