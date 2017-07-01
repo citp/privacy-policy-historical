@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordcounter.net privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107012457id_/https%3A//wordcounter.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordcounter.net privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701082851id_/https%3A//wordcounter.net/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Word Counter Blog
+# Privacy Policy – Word Counter Blog
 
 This privacy policy discloses the privacy practices for WordCounter.net This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
