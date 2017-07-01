@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629072936id_/http%3A//www.reliablesite.net/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701202532id_/https%3A//www.reliablesite.net/policies/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ReliableSite.Net LLC
 
-**Privacy Policy for ReliableSite.Net LLC**
+Privacy Policy for ReliableSite.Net LLC
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sales@reliablesite.net.
 
@@ -38,3 +38,6 @@ We restrict access to personal information to ReliableSite.Net LLC employees, co
 **Changes to this Privacy Policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). 
+
+[Acceptable Usage Policy](https://web.archive.org/web/20170701202532id_/https%3A//www.reliablesite.net/policies/aup.aspx)   
+[Terms of Service](https://web.archive.org/web/20170701202532id_/https%3A//www.reliablesite.net/policies/tos.aspx)
