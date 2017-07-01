@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the continuum.io privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316073924id_/https%3A//www.continuum.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continuum.io privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701040416id_/https%3A//www.continuum.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Continuum
 
