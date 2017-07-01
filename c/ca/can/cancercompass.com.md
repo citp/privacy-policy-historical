@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercompass.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130082539id_/https%3A//cancercompass.com/common/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercompass.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702015359id_/https%3A//cancercompass.com/common/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
