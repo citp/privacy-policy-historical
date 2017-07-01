@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018095351id_/https%3A//www.compasscard.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702002030id_/https%3A//www.compasscard.ca/Privacy) for the most accurate reproduction.*
 
 # Compass - Privacy Policy
 
@@ -74,6 +74,8 @@ Anonymous and aggregated travel data (i.e., amassed data stripped of personal in
 TransLink may use other service providers to help us serve your Compass needs. To do this, we would only share your personal information with providers whose services are related to delivery and operation of the Compass program, and who meet our strict privacy and security requirements. All our service providers sign confidentiality, privacy and security agreements to protect your personal information.
 
 We may share aggregated travel information, if requested, with municipalities and other government agencies.
+
+_NOTE: TransLink is legally obligated to share your information with law enforcement when disclosure is required or authorized by law and in accordance with FOIPPA requirements._
 
 ## Storing your personal information
 
