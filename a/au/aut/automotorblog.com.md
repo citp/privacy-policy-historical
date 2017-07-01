@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotorblog.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416165326id_/http%3A//www.automotorblog.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotorblog.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701144822id_/http%3A//www.automotorblog.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Automotorblog.com
 
