@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocc.edu privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215174238id_/https%3A//www.cocc.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocc.edu privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702104506id_/https%3A//www.cocc.edu/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Central Oregon Community College - Bend Oregon
 
