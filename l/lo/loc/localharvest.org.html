@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localharvest.org privacy policy that was archived on 2016-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160202184304id_/http%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localharvest.org privacy policy that was archived on 2017-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170702110535id_/https%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.-->
 
 <html id="homegroup" class=" js  boxsizing"><head>
     
@@ -8,9 +8,10 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no, shrink-to-fit=no">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
-    
+
     <!-- START pure.io styles -->
-        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+        <!--link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css"-->
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.6.0/pure-min.css">
         <!--[if lte IE 8]>
             <link rel="stylesheet" href="/css/pureio/grid-old-ie.css">
         <![endif]-->
@@ -19,7 +20,7 @@
         <!--<![endif]-->
         <link rel="stylesheet" type="text/css" href="/css/pureio/grid.css">
     <!-- END pure.io styles -->
-    <link rel="stylesheet" type="text/css" href="/css/lh_main.css?18060B9E97A8759E5ED1EAFDD9AFBEFD">
+    <link rel="stylesheet" type="text/css" href="/css/lh_main.css?174BA8F0C67ADC98C23D4CEEF924A222">
     <link rel="stylesheet" type="text/css" href="/css/g.css">
     <link rel="stylesheet" type="text/css" href="/css/john.css">
     <!-- responsive queries -->
@@ -110,7 +111,7 @@
             $(".remodal-wrapper").css("width",width);
             $(".remodal-wrapper").css("height",height);
         });
-            
+
         $(window).on('resize', function(){
             waitForFinalEvent(function(){
                 $("#header").css("width",$("#header").parent().css("width"));
@@ -124,7 +125,7 @@
                 $(".remodal-wrapper").css("height",height);
             }, 500, "headerResize");
         });
-        
+
         var waitForFinalEvent = (function () {
             var timers = {};
             return function (callback, ms, uniqueId) {
@@ -148,30 +149,72 @@
   <body>
   <div id="container">
     <div id="header" style="width: 1140px;">
-          
+
           <div id="logo">
             <a href="/" title="Local Harvest - Real Food, Real Farmers, Real Community"></a>
+            
             <span id="slogan">Real Food, Real Farmers, Real Community℠</span>
+            
           </div>
-          
+
         <div id="headercontent"><!-- leave logo out for now -->
           
-          
+
           <div class="loginblock">
             
     
             <span id="loggedout">
-              <span class="signupbtn"><a href="https://www.localharvest.org/accounts/create.jsp" rel="nofollow">Sign Up</a></span>
-              <span id="login" class="login"><a href="https://www.localharvest.org/accounts/" rel="nofollow">Log In</a></span>
+              <span class="signupbtn"><a href="/accounts/create.jsp" rel="nofollow">Sign Up</a></span>
+              <span id="login" class="login"><a href="/accounts/" rel="nofollow">Log In</a></span>
             </span>
             
     
-            <span class="carttext"><a href="/store/basket.jsp" rel="nofollow"><i class="icon icon-cart"></i> Cart
-    
+            <span class="carttext">
+                <a id="cartlink" rel="nofollow" style="margin-left:10px;" href="/store/basket.jsp"><i class="icon icon-cart"></i>
+    <span class="basketcount" id="cartcount" style="display:none">0</span>
               </a>
             </span>
           </div>
-          
+<script>
+    var lhCartCount = 0;
+    // load CWlite cart pointer
+    $.ajax({
+        url: "//csa.localharvest.org/ajax/cartcount.jsp",
+        xhrFields: {
+            withCredentials: true
+        }
+    }).done(function( data ) {
+        var array = data.trim().split(',')
+        var cwCartCount = parseInt(array[0]);
+        var cwId = array[1];
+        if (cwCartCount > 0) {
+            if (lhCartCount == 0) {
+                $("#cartlink").attr("href", "http://csa.localharvest.org/M" + cwId + "/store/basket.jsp");
+                $("#cartcount").show();
+            }
+            $("#cartcount").text(lhCartCount + cwCartCount);
+            if ($("#csacartcontents").length ) { // on basket page
+                if (lhCartCount == 0) {
+                    window.location = 'http://csa.localharvest.org/M' + cwId + '/store/basket.jsp';
+                }
+                $.ajax({
+                    url: "//csa.localharvest.org/ajax/cartcontents.jsp",
+                    xhrFields: {
+                        withCredentials: true
+                    }
+                }).done(function( data ) {
+                    var cartBody = data.trim();
+                    $("#csacartcontents").html(cartBody);
+                    $("#csabuy").click(function() {
+                        window.location = 'http://csa.localharvest.org/M' + cwId + '/store/basket.jsp';
+                    });
+                });
+            }
+        }
+     });
+</script>
+
+
               
               <div id="search">
                 <form id="search-form" name="search-form" method="get" action="/getmap.jsp">
@@ -180,30 +223,30 @@
                         <span id="searchbar-category">All</span>
                         <span class="downcaret">▼</span>
                       </span>
-                      
+
                       
                       <label class="searchwhat" style="">What:</label>
                       <input class="searchtextinput searchwhat" id="search-text" type="text" name="nm" placeholder="Farms, CSAs, Products..." maxlength="120" style="width: 826px;">
-                    
+
                       
                       <label class="searchwhere" id="searchlabel">Near:</label>
                       <input class="searchtextinput searchwhere" id="search-near" type="text" name="zip" maxlength="120" placeholder="City or Zip Code" value="San Francisco, CA">
-                      
+
                       
                       <select name="deptId" id="deptdropdown" class="deptdropdown">
                         <option value="0">Entire Catalog
                         </option><option value="76">Bakery</option><option value="43">Bulbs &amp; Tubers</option><option value="17">Chocolate &amp; Desserts</option><option value="14">Coffee &amp; Teas</option><option value="34">CSA</option><option value="23">Dairy &amp; Eggs</option><option value="21">Farm Crafts</option><option value="35">Farm/Garden</option><option value="62">Flowers</option><option value="16">Fruits</option><option value="2">Fruits &amp; Nuts</option><option value="13">Gift Baskets</option><option value="24">Grocery &amp; Produce</option><option value="25">Herbs &amp; Health</option><option value="1">Honey</option><option value="73">Livestock</option><option value="11">Meats</option><option value="20">Pet Needs</option><option value="42">Plants</option><option value="3">Preserves</option><option value="18">Seeds</option><option value="29">Soaps &amp; Body Care</option><option value="26">Specialty, Books &amp; O</option><option value="41">Supplies</option><option value="4">Syrups</option><option value="7">Wool &amp; Fibers</option><option value="31">Wreaths
                       </option></select>
-                    
+
                       
                       <input type="submit" id="omnisearchbutton" class="button-search" name="omnisearchbutton" value="&nbsp;" onclick="document.forms['search-form'].submit();">
                       <span class="searchglasswrap" onclick="document.forms['search-form'].submit();"><span class="searchglass" name="omnisearchbutton"></span></span>
-                  
+
                   
                   <input type="hidden" id="ty" name="ty" value="-1" style="">
                 </form>
                 <div class="clear"></div>
-              
+
                 
                 <div id="navmenupalette" class="shadow">
                   <div class="upcaret">▲</div>
@@ -241,8 +284,8 @@
                   </div>
                 </div>
               </div>
-          
-          
+
+
         <!-- main navigation -->
         <div id="nav">
           <ul class="nav">
@@ -256,7 +299,7 @@
             
             <li id="nav-photos"><a href="/album.jsp">Photos</a></li>
           </ul>
-          
+
           <select name="dropdownnav" class="dropdownnav" onchange="location = this.options[this.selectedIndex].value;">
                 <option value="#">Menu</option>
                 <option value="/">Home</option>
@@ -274,59 +317,51 @@
         <div>
             <a href="#" id="toggle" class="custom-toggle" onclick="toggle_visibility('headercontent');"><s class="bar"></s><s class="bar"></s><s class="bar"></s></a>
         </div>
+
+
     </div><!-- end header -->
-    
+
     <div class="headershadow"></div>
+
     
-    
-    <div id="contentwrapper">     
+    <div id="contentwrapper">
       
       <div id="leftcontentwrapper">
         
 
 
 
-        
-        <div class="leaderboardarea">
-          <div id="div-gpt-ad-1411421866207-0" style="width:728px;max-width:100%;">
-            <script type="text/javascript">
-              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1411421866207-0'); });
-            </script>
-          </div>
-        </div>
-        
 
-  
         
         <div class="leftsidebar">
           
           <div id="sidebar_inseason" class="widget">
           	<h4>In Season</h4>
-          	<a class="inseason" href="http://www.localharvest.org/store/herbs-health.jsp">
-          		<h4>Medicinal Herbs</h4>
-              <img src="http://5c3ae8def513233997a7-e87978aaae5cf97349d88697fd53e4c9.r77.cf1.rackcdn.com/22960_180x180.jpg" alt="Medicinal Herbs">
+          	<a class="inseason" href="http://www.localharvest.org/store/lavender.jsp">
+          		<h4>Lavender Harvest</h4>
+              <img src="http://www.localharvest.org/images/cat/prod_15598_8722_l.jpg" alt="Lavender Harvest">
           	</a>
           </div>
 
-          
+
           
 
           <div class="widget">
           	<h4>Food &amp; Farm Events</h4>
           	<table class="lhcalendar">
 <tbody><tr><td align="left">
-<a href="/events.jsp?y=2016&amp;m=1"><span class="calendarnav">«</span></a>
-</td><td align="center">Feb-2016</td>
+<a href="/events.jsp?y=2017&amp;m=6"><span class="calendarnav">«</span></a>
+</td><td align="center">Jul-2017</td>
 <td align="right">
-<a href="/events.jsp?y=2016&amp;m=3"><span class="calendarnav">»</span></a></td>
+<a href="/events.jsp?y=2017&amp;m=8"><span class="calendarnav">»</span></a></td>
 </tr><tr><td colspan="3">
-<table class="lhcaldays"><tbody><tr><td class="cal_inactive">31</td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=1" class="calday">1</a></td><td class="cal_today"><a href="/events.jsp?y=2016&amp;m=2&amp;d=2" class="calday">2</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=3" class="calday">3</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=4" class="calday">4</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=5" class="calday">5</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=6" class="calday">6</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=7" class="calday">7</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=8" class="calday">8</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=9" class="calday">9</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=10" class="calday">10</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=11" class="calday">11</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=12" class="calday">12</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=13" class="calday">13</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=14" class="calday">14</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=15" class="calday">15</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=16" class="calday">16</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=17" class="calday">17</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=18" class="calday">18</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=19" class="calday">19</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=20" class="calday">20</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=21" class="calday">21</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=22" class="calday">22</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=23" class="calday">23</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=24" class="calday">24</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=25" class="calday">25</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=26" class="calday">26</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=27" class="calday">27</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=28" class="calday">28</a></td><td class="cal_active"><a href="/events.jsp?y=2016&amp;m=2&amp;d=29" class="calday">29</a></td><td class="cal_inactive">1</td><td class="cal_inactive">2</td><td class="cal_inactive">3</td><td class="cal_inactive">4</td><td class="cal_inactive">5</td></tr></tbody></table>
+<table class="lhcaldays"><tbody><tr><td class="cal_inactive">25</td><td class="cal_inactive">26</td><td class="cal_inactive">27</td><td class="cal_inactive">28</td><td class="cal_inactive">29</td><td class="cal_inactive">30</td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=1" class="calday">1</a></td></tr><tr><td class="cal_today"><a href="/events.jsp?y=2017&amp;m=7&amp;d=2" class="calday">2</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=3" class="calday">3</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=4" class="calday">4</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=5" class="calday">5</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=6" class="calday">6</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=7" class="calday">7</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=8" class="calday">8</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=9" class="calday">9</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=10" class="calday">10</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=11" class="calday">11</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=12" class="calday">12</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=13" class="calday">13</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=14" class="calday">14</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=15" class="calday">15</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=16" class="calday">16</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=17" class="calday">17</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=18" class="calday">18</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=19" class="calday">19</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=20" class="calday">20</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=21" class="calday">21</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=22" class="calday">22</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=23" class="calday">23</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=24" class="calday">24</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=25" class="calday">25</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=26" class="calday">26</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=27" class="calday">27</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=28" class="calday">28</a></td><td class="cal_active"><a href="/events.jsp?y=2017&amp;m=7&amp;d=29" class="calday">29</a></td></tr></tbody></table>
 </td></tr>
 </tbody></table>
           </div>
 
 
-          
+
 
           
           <div class="widget">
@@ -342,10 +377,9 @@
             </div>
           </div>
 
- 
           
           
-          
+
           
           <div id="sidebar_connect" class="widget">
             <h4>Connect</h4>
@@ -401,24 +435,26 @@
             </div>
           </li>
           <li>
+            <h3 style="padding-bottom:3px;text-align:center;">New from LH: CSA Manager</h3>
+            <iframe src="https://player.vimeo.com/video/194717924?badge=0&amp;byline=0&amp;portrait=0&amp;title=0" width="300" height="170" frameborder="0" style="border:1px solid #aaa;" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+          </li>
+          <li>
+            <h3 style="padding-bottom:3px;text-align:center;">Contribute to LocalHarvest</h3>
+            <div class="panel" style="background-image: url(/img/lhbag_264x132.jpg);padding:5px;">
+              <h3 style="text-align:right;color:#fff;text-shadow: 2px 2px #000;">100% Organic</h3>
+              <h3 style="text-align:right;color:#fff;text-shadow: 2px 2px #000;">Made in USA</h3>
+              <h3 style="text-align:right;color:#fff;text-shadow: 2px 2px #000;">Market Tote</h3>
+              <span class="button button-yellow" style="float:right;"><a href="/contribute.jsp">Buy Now &gt;</a></span>
+              <br>
+            </div>
+          </li>
+          <li>
 
-<style>
-.latest-deals h1, .latest-deals h2, .latest-deals h3, .latest-deals h4, .latest-deals h5 {
-    color:#FFFFFF;
-}
-.latest-deals h1 {
-    font-size:30px;
-}
-.latest-deals h3 {
-    font-weight:normal;
-}
-</style>
-
-<div class="panel panel-red latest-deals" style="max-width:280px;text-align:center;">
-<h3 style="padding-bottom:5px;">Shop Our Latest Deals</h3>
-<h1>SAVE UP TO 15%</h1>
-<h5 style="padding-bottom:5px;">in the LocalHarvest Store</h5>
-<span class="button button-yellow"><a href="/store/coupons.jsp">See All Deals &gt;</a></span>
+<div class="panel latest-deals">
+    <h3 style="padding-bottom:5px;">Shop Our Latest Deals</h3>
+    <h1>SAVE UP TO 15%</h1>
+    <h5 style="padding-bottom:5px;">in the LocalHarvest Store</h5>
+    <span class="button button-yellow"><a href="/store/coupons.jsp">See All Deals &gt;</a></span>
 </div>
 
 </li>
@@ -427,9 +463,9 @@
 
 <h2>This Week's Best Sellers</h2>
 <div id="bestsellers">
-    <div class="featuredproduct" onclick="window.location=&quot;florida-honeybells-C12244&quot;">  <div class="pure-g">  <div class="puregrid-unit-1 puregrid-unit-md-2-3">  <div class="featured-product-inner featuredProdText">    <a href="/florida-honeybells-C12244"><b><big>Florida Honeybells</big></b></a><br>    <nobr>(From $29.99)</nobr>    <br>FREE SHIPPING Honeybells!  Yes, it's true!  Juicy Indian River Honeybells from The Orange Shop!  Avai...    </div>  </div>  <div class="puregrid-unit-1 puregrid-unit-md-1-3">  <a href="/florida-honeybells-C12244"><img class="pure-img" src="http://5c3ae8def513233997a7-e87978aaae5cf97349d88697fd53e4c9.r77.cf1.rackcdn.com/35871_180x180.jpg"></a>  </div>  <div class="puregrid-unit-1" style="margin-top:10px;">    <a class="button button-orange" href="/florida-honeybells-C12244">BUY</a>  </div>  </div><div class="clear"></div></div>
+    <div class="featuredproduct" onclick="window.location=&quot;green-walnuts-C19993&quot;">  <div class="pure-g">  <div class="puregrid-unit-1 puregrid-unit-md-2-3">  <div class="featured-product-inner featuredProdText">    <a href="/green-walnuts-C19993"><b><big>Green Walnuts</big></b></a><br>    <nobr>(From $24.00)</nobr>    <br>Green Walnuts for your spirits or tinctures ~ order now for June~July shipment!    </div>  </div>  <div class="puregrid-unit-1 puregrid-unit-md-1-3">  <a href="/green-walnuts-C19993"><img class="pure-img" src="http://5c3ae8def513233997a7-e87978aaae5cf97349d88697fd53e4c9.r77.cf1.rackcdn.com/37588_180x180.jpg"></a>  </div>  <div class="puregrid-unit-1" style="margin-top:10px;">    <a class="button button-orange" href="/green-walnuts-C19993">BUY</a>  </div>  </div><div class="clear"></div></div>
 
-    <div class="featuredproduct" onclick="window.location=&quot;beck-grove-blood-oranges-now-available-C1343&quot;">  <div class="pure-g">  <div class="puregrid-unit-1 puregrid-unit-md-2-3">  <div class="featured-product-inner featuredProdText">    <a href="/beck-grove-blood-oranges-now-available-C1343"><b><big>Beck Grove - Blood Oranges - NOW AVAILABLE!</big></b></a><br>    <nobr>(From $20.00)</nobr>    <br>Beck Grove Blood Oranges: Certified...    </div>  </div>  <div class="puregrid-unit-1 puregrid-unit-md-1-3">  <a href="/beck-grove-blood-oranges-now-available-C1343"><img class="pure-img" src="http://5c3ae8def513233997a7-e87978aaae5cf97349d88697fd53e4c9.r77.cf1.rackcdn.com/45887_180x180.jpg"></a>  </div>  <div class="puregrid-unit-1" style="margin-top:10px;">    <a class="button button-orange" href="/beck-grove-blood-oranges-now-available-C1343">BUY</a>  </div>  </div><div class="clear"></div></div>
+    <div class="featuredproduct" onclick="window.location=&quot;hass-avocados-C23382&quot;">  <div class="pure-g">  <div class="puregrid-unit-1 puregrid-unit-md-2-3">  <div class="featured-product-inner featuredProdText">    <a href="/hass-avocados-C23382"><b><big>Hass Avocados</big></b></a><br>    <nobr>($44.99)</nobr>    <br>Hass avocados feature a smooth, rich, creamy and nutty taste, making it the most popular avocado in Calif...    </div>  </div>  <div class="puregrid-unit-1 puregrid-unit-md-1-3">  <a href="/hass-avocados-C23382"><img class="pure-img" src="http://5c3ae8def513233997a7-e87978aaae5cf97349d88697fd53e4c9.r77.cf1.rackcdn.com/0aa2d1e2-ac9f-4e77-ba38-bd2e1539f84c_180x180.jpg"></a>  </div>  <div class="puregrid-unit-1" style="margin-top:10px;">    <a class="button button-orange" href="/hass-avocados-C23382">BUY</a>  </div>  </div><div class="clear"></div></div>
 
 </div>
 <br>
@@ -454,15 +490,17 @@
       <div class="puregrid-unit-1 puregrid-unit-md-1-4" style="float:left;"> <!-- prev .footer-fourth-width -->
         <ul>
           <li><h2>Quick Links</h2></li>
-          <li><a href="">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><a href="/locations/">Local Food Near You</a></li>
           <li><a href="/events.jsp">Events Calendar</a></li>
           <li><a href="http://www.csaware.com">CSAware</a></li>
+          <li><a href="http://csa.localharvest.org">CSA Manager</a></li>
         </ul>
       </div>
       <div class="puregrid-unit-1 puregrid-unit-md-1-4" style="float:left;">
         <ul>
           <li><h2>Support</h2></li>
+          <li><a href="https://help.localharvest.org">Help / Knowledge Base</a></li>
           <li><a href="/contact.jsp?rurl=%2Fprivacy.jsp" rel="nofollow">Contact Us</a></li>
           <li><a href="/about.jsp">About Us</a></li>
           <li><a href="/privacy.jsp" rel="nofollow">Privacy</a></li>
@@ -475,9 +513,8 @@
           <li><h2>Connect With Us</h2></li>
           <li><a href="/newsletter/">Newsletter</a></li>
           <li><a href="/blog/all/">Blogs</a></li>
-          <li><a href="/forum/">Forum</a></li>
           <li><a href="/album.jsp">Farm Photos</a></li>
-          <li><a href="http://www.facebook.com/LocalHarvest" rel="nofollow">Facebook</a></li>
+          <li><a href="https://www.facebook.com/LocalHarvest" rel="nofollow">Facebook</a></li>
           <li><a href="http://twitter.com/localharvestorg" rel="nofollow">Twitter</a></li>
         </ul>
       </div>
@@ -528,7 +565,7 @@
           <li><a href="/washington-dc">Washington, DC</a></li>
           <li><a href="/locations">More Cities</a></li>
         </ul>
-        
+
         <select name="locations" class="locations" onchange="location = this.options[this.selectedIndex].value;">
             <option value="#">Locations</option>
             <option value="/atlanta-ga">Atlanta</option>
@@ -564,11 +601,11 @@
         <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
       </div>
 
-    
+
     </div>
-    
+
     <div class="footer-two">
-      <span class="footleft"><p>Copyright © 1999-2015 LocalHarvest, Inc.</p></span>
+      <span class="footleft"><p>Copyright © 1999-2016 LocalHarvest, Inc.</p></span>
       <span class="footright">
         <ul class="footer-links">
           <li><a href="/privacy.jsp" rel="nofollow">Privacy Policy</a></li>
@@ -576,7 +613,7 @@
         </ul>
       </span>
     </div>
-  
+
   </div>
 
   
