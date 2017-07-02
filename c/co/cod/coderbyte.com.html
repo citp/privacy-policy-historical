@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2017-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170218104751id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2017-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170702105915id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 
 <title> Coderbyte </title>  
@@ -55,8 +55,6 @@ $(document).ready(function() {
 
     // course dropdown hover action
     $(".navCourseHover").hover(function() {
-        //$('.courseDropDown').show();
-        //$('.navCourseHover').addClass('hovered');
         $('.navDropDown').mouseleave();
         dropped = true;
     });
@@ -66,9 +64,11 @@ $(document).ready(function() {
         dropped = true;
     });
     $('.courseDropDown').mouseleave(function() {
-        //$('.courseDropDown').hide();
-        //$('.navCourseHover').removeClass('hovered');
         dropped = false;
+    });
+    $(".profHover").hover(function() {
+        $('.navDropDown').mouseleave();
+        dropped = true;
     });
 
     // hide dropdowns if hovering somewhere else on page
@@ -78,12 +78,6 @@ $(document).ready(function() {
             $('.navDropDown').mouseleave();
             dropped = false;
         }
-    });
-
-    // project link hover -> hide menus
-    $('.navProjHover').hover(function() {
-        $('.courseDropDown').mouseleave();
-        $('.navDropDown').mouseleave();
     });
     
 });
@@ -101,19 +95,20 @@ $(document).ready(function() {
 	        
 	<div id="header_right"> 
 	    <ul id="nav">
-			<li><a class="navChalHover" href="http://coderbyte.com/challenges">Practice <span>⌄</span></a></li>
-			<li><a class="navMockHover" href="http://coderbyte.com/mock-interview">Mock Interview <span>New</span></a></li>
-			<li><a class="navCourseHover" href="http://coderbyte.com/courses/?s=courses#all">Courses <span style="display:none;">⌄</span></a></li>
-			<li><a href="https://coderbyte.com/CodingArea/Profile/">Profile</a></li>
+			<li><a class="navCourseHover" href="http://coderbyte.com/challenges">Challenges</a></li>
+			<li><a class="navChalHover" href="http://coderbyte.com/courses/?s=courses#all">Learn <span>⌄</span></a></li>
+			<li><a class="profHover" href="https://coderbyte.com/CodingArea/Profile/">Profile</a></li>
+			<li><a class="navMockHover" href="https://coderbyte.com/member">Premium Membership</a></li>
+			<!--<li><a class="navMockHover" href="http://coderbyte.com/contact-group">For Companies &amp; Schools</a></li>-->
+			<!--<li><a class="navMockHover videoSessions" href="http://coderbyte.com/video-sessions">Video Sessions <span>New</span></a></li>-->
 	    </ul>
 	    <ul class="courseDropDown">
 			<a href="https://coderbyte.com/courses/?s=courses#all"><li><div class="dropIcon"></div>Courses</li></a>
 			<a href="https://coderbyte.com/courses/?s=all#all"><li><div class="dropIcon"></div>Tutorials</li></a>
 		</ul>
 		<ul class="navDropDown">
-			<a href="https://coderbyte.com/challenges"><li><div class="dropIcon"></div>Challenges</li></a>
+			<a href="https://coderbyte.com/courses/?s=courses#all"><li><div class="dropIcon"></div>Courses</li></a>
 			<a href="https://coderbyte.com/challenges?a=true"><li><div class="dropIcon"></div>Tutorials</li></a>
-			<!--<a href="https://coderbyte.com/projects"><li><div class="dropIcon"></div>Projects</li></a>-->
 			<a href="https://coderbyte.com/questions/"><li><div class="dropIcon"></div>Discussion</li></a>
 			<a href="https://coderbyte.com/rankings/"><li><div class="dropIcon"></div>Rankings</li></a>
 		</ul>
