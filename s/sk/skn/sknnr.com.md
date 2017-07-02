@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sknnr.com privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727161135id_/http%3A//www.sknnr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sknnr.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702153746id_/http%3A//sknnr.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - sknnr.com
 
