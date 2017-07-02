@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pavitraa.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100613id_/http%3A//pavitraa.in/AboutUs/OurPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pavitraa.in privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702142325id_/https%3A//www.pavitraa.in/AboutUs/OurPolicies) for the most accurate reproduction.*
 
 # Privacy Policy
 
