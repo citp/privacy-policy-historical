@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218104751id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702105915id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.*
 
 # Coderbyte
 
