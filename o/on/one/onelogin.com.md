@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203110155id_/https%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702142706id_/https%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - OneLogin
 
-_**Last modified September 6,  2016**_
+_**Last modified May 18,  2017**_
 
 OneLogin, Inc. (“OneLogin”, “We”, “Us”, or “Our”) is committed to protecting the privacy of your personal information while using our Web site ([www.onelogin.com](https://www.onelogin.com/)) and when using our on-demand support platform, tools and services offered on the Web site (the “Service”). OneLogin has established this Privacy Policy Statement to assist you to understand how we collect and use personally identifiable information if and when you use our Web site as a “Visitor” or provide information to us in connection with your use of the Service as a “Subscriber”. By using our Web site you are agreeing to the collection and use of personal information in the manner described in this Privacy Policy Statement. By registering for our Service, you are agreeing to the collection and use of personal information in the manner described in this Privacy Policy Statement and the OneLogin [Terms of Service](https://www.onelogin.com/terms/).
 
-## Does OneLogin participate in the US-Swiss Safe Harbor and EU-US Privacy Shield Framework?
+## Does OneLogin participate in the EU-US Privacy Shield and Swiss-US Privacy Shield Framework?
 
-OneLogin complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. OneLogin has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view OneLogin’s certification, please visit <http://www.export.gov/safeharbor>. 
+OneLogin participates in and has certified its compliance with both the EU-U.S. Privacy Shield Framework and the Swiss-US Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in accordance to the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, respectively, and the Frameworks’ applicable Principles. To learn more about the Privacy Shield program, and view our certifications, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
 
-OneLogin participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
+OneLogin is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-We are responsible for the processing of personal data OneLogin receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, OneLogin is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, OneLogin is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -41,7 +39,7 @@ Under certain conditions, more fully described on the Privacy Shield website, <h
 
 ## How does OneLogin use my information?
 
-OneLogin may use the collected personal information and other information OneLogin collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact you about your use of the Service, research purposes, and to generally improve the content and functionality of the Web site and the Service. OneLogin will also use the collected personal information to send you periodic newsletters.
+OneLogin may use the collected personal information and other information OneLogin collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact you about your use of the Service, research purposes, and to generally improve the content, functionality, and security of the Web site and the Service. OneLogin will also use the collected personal information to send you periodic newsletters.
 
 ## How can I access and update my information?
 
@@ -107,6 +105,6 @@ OneLogin may update this policy from time to time. You can review the most curre
 If you have any questions regarding this Privacy Policy you may contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com) or via postal mail at:
 
 OneLogin, Inc.  
-150 Spear Street  
-Suite 1400  
-San Francisco, CA 94105 
+100 California Street  
+Suite 900  
+San Francisco, CA 94111 
