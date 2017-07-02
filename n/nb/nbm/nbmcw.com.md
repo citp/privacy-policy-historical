@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbmcw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173340id_/http%3A//www.nbmcw.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbmcw.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702205911id_/https%3A//nbmcw.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
