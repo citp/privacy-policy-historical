@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnsportsnet.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607115937id_/http%3A//www.citynet.net/page.cfm%3Fmypage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnsportsnet.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703000012id_/http%3A//www.citynet.net/page.cfm%3Fmypage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Citynet - Citynet's Privacy Policy - Voice, Data, Internet Provider.
 
