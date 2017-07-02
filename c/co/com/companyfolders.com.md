@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609190821id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702055039id_/https%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompanyFolders.com
 
