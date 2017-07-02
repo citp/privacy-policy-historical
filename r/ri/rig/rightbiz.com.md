@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115072624id_/http%3A//rightbiz.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702020029id_/http%3A//www.rightbiz.com/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
