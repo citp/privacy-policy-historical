@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgtow.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517063311id_/https%3A//www.mgtow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgtow.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702114019id_/https%3A//www.mgtow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MGTOW
 
@@ -27,7 +27,7 @@ Google’s use of the DoubleClick cookie enables it and its partners to serve ad
 
 ## Extra note
 
-On 2015.10.22 we began insisting on strong passwords for everyone. Every member must be able to reset their own passwords at any time – without assistance. If you have not already done so since 2015.10.22, please [reset your password right here](https://web.archive.org/wp-login.php?action=lostpassword). You will not be able to log in until you have done this. Perhaps you also changed your email since you joined, in which case, we should be notified and we will be happy to make the change. Please [contact us](https://web.archive.org/contact/) if you have any difficulty.
+On 2015.10.22 we began insisting on strong pa~~words for everyone. Every member must be able to reset their own pa~~words at any time – without a~~istance. If you have not already done so since 2015.10.22, please [reset your pa~~word right here](https://web.archive.org/wp-login.php?action=lostpa~~word). You will not be able to log in until you have done this. Perhaps you also changed your email since you joined, in which case, we should be notified and we will be happy to make the change. Please [contact us](https://web.archive.org/contact/) if you have any difficulty.
 
 Thank You.  
 **MGTOW.COM | Men Going Their Own Way**
