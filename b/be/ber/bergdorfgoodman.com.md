@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607114914id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702084851id_/http%3A//www.bergdorfgoodman.com/assistance/assistance.jsp%3FitemId%3Dcat403606%26icid%3Dfoot_secur_priv%23security-info) for the most accurate reproduction.*
 
 # Security & Privacy at Bergdorf Goodman
 
