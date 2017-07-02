@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626190411id_/https%3A//www.khronos.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702070918id_/https%3A//www.khronos.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ The Site uses "cookies" to enhance the User experience. Similar to most websites
 
 ## How Khronos uses collected information
 
-Khronos may collect and use Users personal information for the following purposes:
+Khronos may collect and use User's personal information for the following purposes:
 
   * _To improve customer service:_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _To personalize user experience:_ Khronos may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -46,7 +46,7 @@ Sensitive and private data exchange between the Site and Users happen over a SSL
 
 ## Sharing your personal information
 
-Khronos does not sell, trade, or rent Users personal identification information to others. Khronos may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. Khronos may use third party service providers to help operate our business and Site or administer activities, such as sending out newsletters or surveys. Khronos may share the User information with these third parties for those limited purposes provided that the User has given permission to do so.
+Khronos does not sell, trade, or rent User's personal identification information to others. Khronos may share generic aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, trusted affiliates and advertisers for the purposes outlined above. Khronos may use third party service providers to help operate our business and Site or administer activities, such as sending out newsletters or surveys. Khronos may share the User information with these third parties for those limited purposes provided that the User has given permission to do so.
 
 ## Third party websites
 
@@ -54,7 +54,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ## Children
 
-The site does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If it is discovered that any information from a child under 13 is in violation of this policy, the information will be removed immediately. If you believe this site has any information from or about anyone under 13, please contact us.
+The site does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If it is discovered that any information from a child under 13 is in violation of this policy, the information will be removed immediately. If you believe this site has any information from or about anyone under 13, please contact us.
 
 ## Changes to this privacy policy
 
