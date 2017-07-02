@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectaccount.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021064351id_/https%3A//www.selectaccount.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectaccount.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702144828id_/https%3A//www.selectaccount.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SelectAccount
 
@@ -47,8 +47,6 @@ At SelectAccount, your protected health information is handled in a number of di
 **Correctional institutions.  **If you are an inmate, we may disclose your protected health information to your correctional facility to help provide you health care or to provide safety to you or others.
 
 **Workers’ compensation.** We may disclose your protected health information as required by workers’ compensation laws.
-
-**Your employer.** If your coverage is through your employer, we may disclose information to your employer to review group claims data or to conduct an audit. All information that could be used to identify specific participants is removed unless such identification is necessary.
 
 **Your Authorization.** Any uses and disclosures not described in this notice, including the use and disclosure of protected health information for marketing purposes, and the sale of any protected health information, will require your written authorization except where permitted by law. Keep in mind that you may cancel your authorization in writing at any time.
 
