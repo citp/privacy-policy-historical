@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxtim.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806185241id_/https%3A//www.taxtim.com/za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxtim.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702215821id_/https%3A//www.taxtim.com/za/privacy) for the most accurate reproduction.*
 
-# Privacy policy | TaxTim
+# Privacy policy | TaxTim SA
 
 ## Protecting Your Privacy
 
