@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124055645id_/https%3A//www.cashnetusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703001645id_/https%3A//www.cashnetusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CashNetUSA
 
@@ -25,7 +25,7 @@ Questions and How Contact Us
 
 **Scope; Third Party Websites.** This Privacy Policy applies only to information we collect at and through the Website. Our Website also contains links to third party sites that are not owned or controlled by CNU. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that collects personal information. 
 
-**Other Privacy Policies.** For information about how we collect, use and share your financial information, please refer to our [Financial Privacy Notice](https://d2f3ycjcd6q7w6.cloudfront.net/uploads/CNU-Online-Holdings-GLBA_Privacy-Policy.pdf)
+**Other Privacy Policies.** For information about how we collect, use and share your financial information, please refer to our [Financial Privacy Notice](https://dfvufwcqv7kiy.cloudfront.net/uploads/CNU-Online-Holdings-GLBA_Privacy-Policy.pdf)
 
 **Terms of Use**. Please note that your use of our Website is also subject to our [Terms of Use](https://web.archive.org/terms-of-use.html). 
 
