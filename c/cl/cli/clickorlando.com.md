@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickorlando.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608164342id_/http%3A//www.clickorlando.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickorlando.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702060740id_/https%3A//www.clickorlando.com/station/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
