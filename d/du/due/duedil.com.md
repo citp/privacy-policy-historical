@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417011400id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702175353id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DueDil
 
