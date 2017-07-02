@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8bob.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030854id_/http%3A//8bob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8bob.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702134957id_/http%3A//8bob.com/privacy) for the most accurate reproduction.*
 
 # ★ 8BOB.com - Privacy Policy | 8BOB.com
 
