@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symmetricstrength.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031222354id_/https%3A//symmetricstrength.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symmetricstrength.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702192049id_/https%3A//symmetricstrength.com/privacy_policy) for the most accurate reproduction.*
 
 # Symmetric Strength - Privacy Policy
 
