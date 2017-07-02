@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the znetlive.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203105542id_/https%3A//www.znetlive.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the znetlive.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702163636id_/https%3A//www.znetlive.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZNetLive
 
-## PRIVACY POLICY
+## Privacy Policy
 
 This privacy statement describes how ZNET Technologies Private Limited collects and uses the personal information you provide on our website: [ZNetLive.com.](https://www.znetlive.com/) It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -81,7 +81,7 @@ We display personal testimonials of satisfied customer on our site in addition t
 
 ## Correcting, Deleting And Updating Your Personal Information 
 
-To ensure the accuracy of your information, you may change/update personal information by logging to your account or by contacting us directly at [billing@znetlive.com. ](mailto:legal@znetlive.com) You may change/update your contact information except email ID and country. To change email ID, you are required to follow the process and provide necessary information as sought, by contacting our billing/support staff or by raising ticket from registered email ID only mentioning purpose. We don’t permit the client to change country. However, it is only possible when you are shifting your business location to different country and for that, you need to share all required details sought by us. 
+To ensure the accuracy of your information, you may change/update personal information by logging to your account or by contacting us directly at [billing@znetlive.com. ](mailto:legal@znetlive.com) You may change/update your contact information except email ID and country. To change email ID, you are required to follow the process and provide necessary information as sought, by contacting our billing/support staff or by raising ticket from registered email ID only mentioning purpose. We don't permit the client to change country. However, it is only possible when you are shifting your business location to different country and for that, you need to share all required details sought by us. 
 
 ## Data Retention
 
