@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220195828id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703005604id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy Policy - Flocabulary
 
