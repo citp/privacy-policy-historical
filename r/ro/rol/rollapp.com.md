@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606194205id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702135558id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
 
 # rollApp - Run Desktop Applications Online - Privacy Policy
 
