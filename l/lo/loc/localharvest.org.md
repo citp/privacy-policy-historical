@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localharvest.org privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202184304id_/http%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localharvest.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702110535id_/https%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - LocalHarvest
 
