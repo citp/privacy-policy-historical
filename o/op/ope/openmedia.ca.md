@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027221708id_/https%3A//openmedia.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702040048id_/https%3A//openmedia.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenMedia
 
@@ -10,7 +10,7 @@ OpenMedia is strongly committed to protecting your privacy online. As an organiz
 
 ### Your Personal Information
 
-OpenMedia will send you updates by e-mail. If at any time you would like to unsubscribe from our email list, you may do so by[ clicking here](http://openmedia.ca/email/unsubscribe). You may also do so by replying to an email, or sending a message to [contact@openmedia.org](mailto:contact@openmedia.org) with the subject heading "UNSUBSCRIBE".
+OpenMedia will send you updates by e-mail. If at any time you would like to unsubscribe from our email list, you may do so by[ clicking here](http://action.openmedia.ca/p/salsa/supporter/unsubscribe/public/index.sjs). You may also do so by replying to an email, or sending a message to [contact@openmedia.org](mailto:contact@openmedia.org) with the subject heading "UNSUBSCRIBE".
 
 We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following groups:
 
@@ -23,7 +23,7 @@ We do not share the information you’ve given us with unaffiliated groups witho
 
 In addition, with your explicit permission, we pass along certain of your information to the following groups (as is standard practice):
 
-  * Canadian policy-makers, communications companies, news publications and other targets when you choose to use our email tool to send them messages.
+  * Policy-makers, communications companies, news publications and other targets when you choose to use our email tool to send them messages.
 
 
 
@@ -46,11 +46,11 @@ With one of the largest online communities around the world (800,000+ people!), 
 
 
 
-If you’d like to unsubscribe, you can do so [here](http://action.openmedia.ca/p/salsa/supporter/unsubscribe/public/index.sjs?unsubscribe_page_KEY=503), or email [contact@openmedia.org](mailto:contact@openmedia.ca).
+If you’d like to unsubscribe, you can do so [here](http://action.openmedia.ca/p/salsa/supporter/unsubscribe/public/index.sjs), or email [contact@openmedia.org](mailto:contact@openmedia.ca).
 
 ### Petitions and Email Campaigns
 
-For petitions and email campaigns in which you've participated, we treat your name, location, and comments as public information—for example, we may provide compilations of petitions, with your comments, to Canadian policy makers and other targets, or to the press. We will not make your street address publicly available, but we may transmit it to the designated target as part of a petition. This is a standard industry practice in such situations. In no such case will we disclose your email address or phone number, without your permission. OpenMedia is not responsible for the use of your email address by campaign targets.
+For petitions and email campaigns in which you've participated, we treat your name, location, and comments as public information—for example, we may provide compilations of petitions, with your comments, to policy makers and other targets, or to the press. We will not make your street address publicly available, but we may transmit it to the designated target as part of a petition. This is a standard industry practice in such situations. In no such case will we disclose your email address or phone number, without your permission. OpenMedia is not responsible for the use of your email address by campaign targets.
 
 Coalition Partners
 
@@ -58,7 +58,7 @@ Sometimes, on a campaign by campaign basis, a coalition partner will be granted 
 
 ### Sending Emails Via OpenMedia
 
-In certain cases, we enable you to send individual e-mails to Canadian policy makers through our website. These messages are sent in your name, with your e-mail address as the return address and your full name and contact information is provided as part of the submission. These messages will only be sent out under your name as you approve them on an individual basis using our email tool. You are solely responsible for the specific message(s) you send using our email tool. OpenMedia takes no responsibility for the content of use of your email address by campaign targets.
+In certain cases, we enable you to send individual e-mails to policy makers through our website. These messages are sent in your name, with your e-mail address as the return address and your full name and contact information is provided as part of the submission. These messages will only be sent out under your name as you approve them on an individual basis using our email tool. You are solely responsible for the specific message(s) you send using our email tool. OpenMedia takes no responsibility for the content of use of your email address by campaign targets.
 
 ### Financial Donations
 
