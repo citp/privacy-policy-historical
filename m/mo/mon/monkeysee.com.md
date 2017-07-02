@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131133id_/http%3A//monkeysee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702054305id_/http%3A//monkeysee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – How to Videos on MonkeySee – Free Instructional Videos
+# Privacy Policy – Monkeysee Videos
 
 Last Updated: September 19, 2007
 
