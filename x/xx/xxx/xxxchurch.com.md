@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180800id_/https%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702160715id_/https%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
 
 # Privacy Policy And Rights Of Use - XXXchurch.com
 
