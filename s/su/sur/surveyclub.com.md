@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913163242id_/http%3A//www.surveyclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702231704id_/https%3A//www.surveyclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Survey Club
 
-SurveyClub.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information while on our Web site [www.surveyclub.com](http://www.surveyclub.com/) ("The site", "we", "us").
+SurveyClub.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information while on our Web site [www.surveyclub.com](https://www.surveyclub.com/) ("The site", "we", "us").
 
 ## IP Addresses
 
