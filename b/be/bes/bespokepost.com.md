@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914234158id_/https%3A//www.bespokepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bespokepost.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702173027id_/https%3A//www.bespokepost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bespoke Post
-
-Your Credit Card was declined. Please [add a new credit card](https://web.archive.org/account/credit_cards/new) or we cannot ship you further boxes. 
 
 This Privacy Policy describes the policies and procedures of nabfly, Inc, doing business as Bespoke Post ("we", "our" or "us") on the collection, use and disclosure of your information on bespokepost.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your "Account"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. The Services are not available to individuals under 18 years of age.
 
