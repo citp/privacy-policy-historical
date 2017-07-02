@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063811id_/http%3A//prod.preview.jaguars.clubs.nfl.com/assets/PDFs/JacksonvilleJaguarsPrivacyPolicy011316%2520v2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguars.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702175204id_/http%3A//prod.preview.jaguars.clubs.nfl.com/assets/PDFs/JacksonvilleJaguarsPrivacyPolicy011316%2520v2.pdf) for the most accurate reproduction.*
 
 # 1. Information Collection 7.
 
