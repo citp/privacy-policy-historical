@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewitcher.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610233510id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewitcher.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702211119id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
 # 
 
