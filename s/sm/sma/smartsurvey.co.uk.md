@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201024934id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702182616id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartSurvey
 
@@ -104,6 +104,10 @@ The information that we collect from you is stored in the UK/EU and will not lea
 All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website you are responsible for keeping this password confidential and must not share it with anyone. 
 
 We follow generally accepted industry standards to protect the personally identifiable information and data submitted to us, both during transmission and once we receive it.  No method of transmission over the internet, or method of electronic storage, is 100% secure, however.  Therefore, while we will do our best to protect your personal information, we cannot guarantee its absolute security, and any transmission of data to our website is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+Our website is embedded with a code which allows us to use Mouseflow. Mouseflow allows us to collect information about your browser (including type, version, screen size, etc.), your IP address, language, time zone, and other data used to analyse customer behaviour (including recordings of mouse movements, clicks, scroll events and keystrokes). All the data collected is then sent to Mouseflow allowing us to analyse this data and ultimately improve our offerings to our users. No personal data is sent to Mouseflow or any other party and keystrokes from password fields and fields marked as “sensitive” are never recorded or sent over the network.
+
+If you would like to opt out of Mouseflow, please go on the following link and follow the instructions: <https://mouseflow.com/opt-out/>
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
