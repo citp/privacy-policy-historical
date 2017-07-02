@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630102758id_/https%3A//www.lottoland.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoland.com.au privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703015658id_/https%3A//www.lottoland.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lottoland Australia - Lottoland.com.au
 
