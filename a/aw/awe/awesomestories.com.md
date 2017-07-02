@@ -1,0 +1,92 @@
+> *The following text is extracted and transformed from the awesomestories.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702200019id_/http%3A//media.awesomestories.com/media/user/bf55c43b7c338b73263342b9cd1e9ac0.pdf) for the most accurate reproduction.*
+
+# AWESOME STORIES PRIVACY POLICY
+
+                       AWESOME	  STORIES	  PRIVACY	  POLICY	                                       security	  measures	  to	  maintain	  the	  safety	  of	  your	  Personal	  
+                                                                                                       Information.	  
+The	  Privacy	  Statement	  applies	  to	  the	  collection,	  storage,	  use	  
+and	  dissemination	  by	  Awesome	  Stories	  of	  your	  personal	                           We	  restrict	  physical	  access	  to	  our	  offices	  and	  offer	  the	  use	  of	  a	  
+information.	                                                                                         secure	  server.	  All	  supplied	  sensitive	  credit	  information	  is	  
+                                                                                                       transmitted	  via	  Secure	  Socket	  Layer	  (SSL)	  technology	  and	  
+Access	  to	  www.awesomestories.com	  (Site)	  is	  conditional	  on	  
+                                                                                                       stored	  by	  encrypted	  Authorize.NET.	  Your	  credit	  information	  can	  
+your	  acceptance	  of	  the	  terms	  of	  this	  Privacy	  Statement.	  This	  
+                                                                                                       only	  be	  accessed	  by	  those	  authorized	  with	  special	  access	  rights	  
+Privacy	  Policy	  forms	  part	  of	  the	  Terms	  of	  Use	  and	  by	  using	  the	  
+                                                                                                       to	  our	  systems	  who	  are	  required	  to	  keep	  the	  information	  
+Site,	  you	  agree	  to	  comply	  with	  these	  terms.	  This	  Privacy	  Policy	  
+                                                                                                       confidential.	  Unfortunately,	  no	  data	  transmission	  over	  the	  
+applies	  only	  to	  information	  collected	  through	  our	  Site	  and	  not	  
+                                                                                                       Internet	  can	  be	  guaranteed	  to	  be	  totally	  secure.	  
+to	  information	  collected	  offline.	  
+                                                                                                       Do	  we	  disclose	  any	  information	  to	  outside	  parties?	  
+At	  Awesome	  Stories,	  we	  treat	  your	  privacy,	  and	  any	  Personal	  
+                                                                                                       We	  do	  not	  sell,	  trade,	  or	  otherwise	  transfer	  your	  Personal	  
+Information	  (as	  defined	  in	  the	  Privacy	  Act	  that	  you	  give	  to	  us,	  
+                                                                                                       Information	  to	  third	  parties.	  This	  does	  not	  include	  trusted	  third	  
+with	  the	  utmost	  care	  and	  respect.	  The	  following	  Privacy	  Policy	  
+                                                                                                       parties	  who	  assist	  us	  in	  operating	  our	  website,	  conducting	  our	  
+explains	  the	  information	  we	  collect	  and	  what	  we	  use	  it	  for.	  
+                                                                                                       business,	  or	  servicing	  you.	  We	  may	  also	  release	  your	  Personal	  
+As	  we	  value	  your	  privacy,	  we	  take	  the	  necessary	  precautions	  to	         Information	  when	  we	  believe	  release	  is	  appropriate	  to	  comply	  
+comply	  with	  the	  Privacy	  Act.	                                                             with	  the	  law,	  enforce	  our	  Terms	  of	  Use,	  or	  protect	  ours	  or	  
+                                                                                                       others	  rights,	  property,	  or	  safety.	  However,	  non-­‐personal	  
+What	  information	  do	  we	  collect?	  
+                                                                                                       visitor	  information	  may	  be	  provided	  to	  other	  parties	  for	  
+We	  collect	  information	  from	  you	  when	  you	  register	  on	  our	  site,	  
+                                                                                                       marketing,	  advertising,	  or	  other	  uses.	  When	  you	  provide	  
+subscribe	  to	  our	  newsletter	  or	  upload	  photos.	  When	  ordering	  
+                                                                                                       Personal	  Information	  and	  request	  it	  to	  be	  published	  on	  the	  Site,	  
+or	  registering	  on	  our	  site,	  you	  may	  be	  asked	  to	  enter	  your	  
+                                                                                                       you	  consent	  for	  us	  to	  make	  your	  Personal	  Information	  public.	  
+name,	  e-­‐mail	  address,	  date	  of	  birth,	  mailing	  address	  or	  phone	  
+number.	                                                                                              Do	  we	  use	  cookies?	  
+                                                                                                       Cookies	  are	  small	  files	  that	  a	  site	  or	  its	  service	  provider	  
+We	  may	  collect	  and	  use	  non-­‐personal	  information	  such	  as	  the	  
+                                                                                                       transfers	  to	  your	  computers	  hard	  drive	  through	  your	  Web	  
+identity	  of	  your	  Internet	  browser,	  the	  type	  of	  operating	  system	  
+                                                                                                       browser	  (if	  you	  allow).	  Cookies	  enable	  the	  sites	  or	  service	  
+you	  use,	  your	  IP	  address	  and	  the	  domain	  name	  of	  your	  Internet	  
+                                                                                                       provider's	  systems	  to	  recognize	  your	  browser	  to	  capture	  and	  
+service	  provider	  to	  optimise	  our	  goods	  and	  services	  to	  you.	  
+                                                                                                       remember	  certain	  information.	  
+What	  do	  we	  use	  your	  information	  for?	  
+                                                                                                       We	  use	  cookies	  to	  understand	  and	  save	  your	  preferences	  for	  
+We	  use	  your	  Personal	  Information	  to	  provide	  you	  with	  
+                                                                                                       future	  visits	  and	  compile	  data	  about	  site	  traffic	  and	  site	  
+information,	  process	  your	  orders	  and	  for	  any	  related	  or	  
+                                                                                                       interaction	  so	  that	  we	  can	  offer	  better	  site	  experiences	  and	  
+ancillary	  purposes,	  including,	  without	  limitation:	  
+                                                                                                       tools	  in	  the	  future.	  We	  may	  contract	  with	  third-­‐party	  service	  
+(a)	  to	  process	  transactions;	                                                                providers	  to	  assist	  us	  in	  better	  understanding	  our	  site	  visitors.	  
+                                                                                                       These	  service	  providers	  are	  not	  permitted	  to	  use	  the	  
+(b)	  to	  personalize	  your	  experience;	  
+                                                                                                       information	  collected	  on	  our	  behalf	  except	  to	  help	  us	  conduct	  
+(c)	  to	  improve	  our	  website	  offerings	  based	  on	  the	  information	             and	  improve	  the	  customer	  experience.	  
+and	  feedback	  we	  receive	  from	  you;	  
+                                                                                                       If	  you	  prefer,	  you	  can	  choose	  to	  have	  your	  computer	  warn	  you	  
+(d)	  to	  improve	  customer	  service	  by	  responding	  to	  your	                        each	  time	  a	  cookie	  is	  being	  sent,	  or	  you	  can	  choose	  to	  turn	  off	  
+customer	  service	  requests	  and	  support	  needs;	                                          all	  cookies	  via	  your	  browser	  settings.	  Like	  most	  websites,	  if	  you	  
+                                                                                                       turn	  your	  cookies	  off,	  some	  of	  our	  services	  may	  not	  function	  
+(e)	  to	  enable	  us	  to	  comply	  with	  any	  regulatory	  reporting	  and	  
+                                                                                                       properly.	  
+legal	  obligations;	  and	  
+                                                                                                       Do	  we	  use	  any	  third	  party	  links?	  
+(f)	  to	  enable	  us	  to	  transfer	  the	  same	  to	  any	  successors	  and/or	  
+                                                                                                       Occasionally,	  at	  our	  discretion,	  we	  may	  include	  or	  offer	  third	  
+assigns	  of	  our	  business.	  
+                                                                                                       party	  products	  or	  services	  on	  our	  website.	  These	  third	  party	  
+We	  may	  engage	  third	  party	  service	  providers	  to	  assist	  with	                sites	  have	  separate	  and	  independent	  privacy	  policies.	  We	  
+delivery,	  security,	  professional	  advisory,	  banking,	  payment	                           therefore	  have	  no	  responsibility	  or	  liability	  for	  the	  content	  and	  
+processing	  or	  technology	  services.	  These	  parties	  may	  be	                         activities	  of	  these	  linked	  sites.	  Nonetheless,	  we	  seek	  to	  protect	  
+required	  to	  handle	  your	  Personal	  Information	  and	  if	  they	  do,	              the	  integrity	  of	  our	  site	  and	  welcome	  any	  feedback	  about	  these	  
+they	  must	  safeguard	  this	  information	  and	  only	  use	  it	  for	  the	           sites.	  
+purposes	  it	  was	  supplied,	  although	  we	  are	  not	  responsible	  for	  
+                                                                                                       Changes	  to	  Privacy	  Policy	  
+ensuring	  this.	  
+                                                                                                       If	  Awesome	  Stories	  decides	  to	  change	  our	  Privacy	  Policy,	  we	  
+How	  do	  we	  protect	  your	  information?	                                                   will	  post	  those	  changes	  on	  this	  page,	  and	  update	  the	  Privacy	  
+We	  will	  keep	  all	  Personal	  Information	  we	  receive	  from	  you	                 Policy	  modification	  date	  below.	  
+confidential.	  We	  implement	  a	  variety	  of	  physical	  and	  electronic	  
+                                                                                                       AwesomeStories	  Internet	  Productions	  LLC,	  July	  	  2015.
+	  
