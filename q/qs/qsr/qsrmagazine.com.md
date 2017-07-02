@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183054id_/https%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrmagazine.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702152109id_/https%3A//www.qsrmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - QSR magazine
 
