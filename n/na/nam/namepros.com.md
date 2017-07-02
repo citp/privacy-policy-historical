@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603064434id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702025226id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
 
 # Terms and Policies - NamePros
 
-[ ](https://www.name.com/names?utm_source=namepros&utm_medium=banner&utm_campaign=highDUM_2017.Q2.05)
+[ ](http://register.payoneer.com/online-escrow-for-domain-names/?utm_source=Namepros&utm_medium=cpc&utm_campaign=Namepros-domain-names-banner)
 
 Legal terms for use of NamePros
 
