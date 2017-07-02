@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129040148id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702073845id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
