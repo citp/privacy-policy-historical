@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410010200id_/http%3A//www.turners.co.nz/Company/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turners.co.nz privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702061517id_/https%3A//www.turners.co.nz/Company/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turners
 
