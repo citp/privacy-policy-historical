@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the surveyclub.com privacy policy that was archived on 2016-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160913163242id_/http%3A//www.surveyclub.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surveyclub.com privacy policy that was archived on 2017-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170702231704id_/https%3A//www.surveyclub.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -22,6 +22,13 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/custom.css" rel="stylesheet">
+		
+		<!-- Recaptcha Badge -->
+		<style>
+		input + div {
+			display:none;
+		}	
+		</style>
     
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -35,21 +42,27 @@
 			window.jQuery || document.write('<script src="/js/vendor/jquery-1.9.1.min.js"><\/script>');
 		//]]></script><script src="/js/vendor/jquery-1.9.1.min.js"></script>
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-		
+		<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>		
+		<script type="text/javascript">
+		function onSubmit(token) {
+			document.getElementById("frmLogin").submit();
+		}
+		</script>
+
 	</head>
 
 	<body>
 		<div class="header-top">
 			<div class="container">
 				<div class="row">
-				    <div class="col-sm-4 logo_container"><a href="http://www.surveyclub.com"><img class="logo" src="/images/surveyclub_logo.png" alt=""></a></div>
+				    <div class="col-sm-4 logo_container"><a href="https://www.surveyclub.com"><img class="logo" src="/images/surveyclub_logo.png" alt=""></a></div>
 				    <div class="col-sm-3"></div>
 				    <div class="col-sm-5 header_login noleftpad norightpad">
 					    <div class="login_toggle collapsed mobile_only" data-toggle="collapse" data-target="#login_collapse" aria-expanded="false" aria-controls="login_collapse">
 			            	LOGIN <i class="fa fa-caret-down"></i>
 						</div>
 					    <div id="login_collapse" class="collapse navbar-collapse">
-						    <form name="frmLogin" id="frmLogin" method="post" action="http://www.surveyclub.com/login">
+						    <form name="frmLogin" id="frmLogin" method="post" action="https://www.surveyclub.com/login">
 							    <div class="login_top col-xs-3">
 									<span class="header_login_title">LOGIN</span>
 							    </div>
@@ -66,11 +79,11 @@
 					            <div class="col-sm-6 login_inputs">
 						            <i class="fa fa-lock"></i>
 												<input name="txtPassword" type="password" id="txtPassword" tabindex="2" placeholder="Password" class="form-input pass">
-									<button type="submit" class="btn orange_call login_submit" onclick="return fnLogin()"><i class="fa fa-caret-right"></i><span class="mobile_only">LOGIN</span></button>
+<button type="button" class="btn orange_call login_submit g-recaptcha" data-sitekey="6LcKxxwUAAAAABtscXX2z8-C_-uQQYHelHHyVk5Y" data-badge="inline" data-callback="onSubmit"><i class="fa fa-caret-right"></i><span class="mobile_only">LOGIN</span></button>
 					            </div>
 					        </form>
 					        <div class="col-xs-12">
-					        	<a class="forgot_password" href="http://www.surveyclub.com/password-reminder">forgot password?</a>
+					        	<a class="forgot_password" href="https://www.surveyclub.com/password-reminder">forgot password?</a>
 					        </div> <!-- END .col-xs-12 -->
 					    </div> <!-- END .collapse -->
 				    </div>
@@ -92,10 +105,10 @@
 		        </div> <!-- END .navbar-header -->
 		        <div id="navbar" class="collapse navbar-collapse">
 		        	<ul class="nav navbar-nav">
-		           	<li class="active"><a href="http://www.surveyclub.com">Home</a></li>
+		           	<li class="active"><a href="https://www.surveyclub.com">Home</a></li>
 								
-								<li><a href="http://www.surveyclub.com/available-studies">Available Studies</a></li>
-								<li><a href="http://www.surveyclub.com/how-surveyclub-works">How Survey Club Works</a></li>
+								<li><a href="https://www.surveyclub.com/available-studies">Available Studies</a></li>
+								<li><a href="https://www.surveyclub.com/how-surveyclub-works">How Survey Club Works</a></li>
 						<li><a href="http://www.surveyclub.com/create-account">Become a Member</a></li>		          	</ul>
 		        </div><!--/.nav-collapse -->
 	      	</div> <!-- END .container -->
@@ -109,7 +122,7 @@
 		<div class="col-sm-12 internal_main">
 			<h1 class="square">Survey Club Privacy Policy</h1>
 
-					<p>SurveyClub.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information while on our Web site <a href="http://www.surveyclub.com">www.surveyclub.com</a> ("The site", "we", "us").</p>
+					<p>SurveyClub.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information while on our Web site <a href="https://www.surveyclub.com">www.surveyclub.com</a> ("The site", "we", "us").</p>
 
 					<h2>IP Addresses</h2>
 
@@ -284,13 +297,13 @@ while(x=eval(x));
 			    <div class="col-sm-4">
 				    <h3>More from Survey Club:</h3>
 				    <ul class="nobotmargin">
-						<li><a href="http://www.surveyclub.com/about-us">About Us</a></li>
-						<li><a href="http://www.surveyclub.com/contact-us">Contact Us</a></li>
-						<li><a href="http://www.surveyclub.com/anti-spam">Anti-SPAM Policy</a></li>
-						<li><a href="http://www.surveyclub.com/disclaimer">Disclaimer</a></li>
-						<li><a href="http://www.surveyclub.com/frequently-asked-questions">FAQs</a></li>
-						<li><a href="http://www.surveyclub.com/terms-and-conditions">Terms and Conditions</a></li>
-						<li><a href="http://www.surveyclub.com/privacy-policy">Privacy Policy</a></li>
+						<li><a href="https://www.surveyclub.com/about-us">About Us</a></li>
+						<li><a href="https://www.surveyclub.com/contact-us">Contact Us</a></li>
+						<li><a href="https://www.surveyclub.com/anti-spam">Anti-SPAM Policy</a></li>
+						<li><a href="https://www.surveyclub.com/disclaimer">Disclaimer</a></li>
+						<li><a href="https://www.surveyclub.com/frequently-asked-questions">FAQs</a></li>
+						<li><a href="https://www.surveyclub.com/terms-and-conditions">Terms and Conditions</a></li>
+						<li><a href="https://www.surveyclub.com/privacy-policy">Privacy Policy</a></li>
 					</ul>
 			    </div> <!-- END .col-sm-4 -->
 			    <div class="col-sm-4 footer_right_blue noleftpad norightpad">
@@ -307,7 +320,7 @@ while(x=eval(x));
 			    <div class="clearfix"></div>
 			</div> <!-- END .footer_top_container -->
 			<div class="footer_bot_container">
-				<div class="copyright">© Copyright 2016. SurveyClub.com, LLC. All Rights Reserved.</div> <!-- END .copyright -->
+				<div class="copyright">© Copyright 2017. SurveyClub.com, LLC. All Rights Reserved.</div> <!-- END .copyright -->
 			</div> <!-- END .footer_bot_container -->
 	    </div> <!-- END .container -->
     </footer>
