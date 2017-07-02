@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715022638id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triphobo.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702232233id_/https%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: TripHobo
 
@@ -6,7 +6,7 @@ Protecting your privacy is very important to us, thus we have developed this Pri
 
 This Privacy Policy applies to all of the services and websites offered by JoGuru Inc or its subsidiaries or affiliated companies.
 
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.triphobo.com/content/contactus) through our website or write to us at – (mention address & email ID) 
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://www.triphobo.com/content/contactus) through our website or write to us at – (mention address & email ID) 
 
 ### Collection of information
 
