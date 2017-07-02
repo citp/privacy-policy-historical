@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.pk privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120171958id_/https%3A//www.web.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.pk privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702085932id_/https%3A//www.web.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web.PK
 
