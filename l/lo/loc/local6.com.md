@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608164342id_/https%3A//www.clickorlando.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702060740id_/https%3A//www.clickorlando.com/station/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ ClickOrlando (the "Site"), on which this Privacy Policy is posted, is operated b
 
  **You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "What are my opt-out rights?" section below.**
 
- **What information do we collect?**
+**What information do we collect?**
 
 We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.
 
