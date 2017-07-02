@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226064857id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702193546id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eDrugSearch
 
@@ -120,7 +120,7 @@ Here is our physical mailing address:
 Boerne, Texas 78006  
 (210) 789-2973
 
-**Community  Rules and Regulations**
+ **Community  Rules and Regulations**
 
 To participate in the eDrugSearch.com community, we ask that you follow these requirements:
 
