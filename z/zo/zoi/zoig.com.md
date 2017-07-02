@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoig.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027221248id_/http%3A//www.zoig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoig.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702124216id_/https%3A//www.zoig.com/privacy) for the most accurate reproduction.*
 
 # ZOIG.COM - Privacy policy
 
@@ -54,8 +54,8 @@ ZOIG.COM has security measures in place to protect and prevent the loss, misuse,
 
 ZOIG.COM Members have the following choices to modify or delete their information from our database:
 
-* [Contact us](http://www.zoig.com/contact);
+* [Contact us](https://www.zoig.com/contact);
 
-* [Log in](http://www.zoig.com/login) with your password and modify/delete your profile;
+* [Log in](https://www.zoig.com/login) with your password and modify/delete your profile;
 
 Effective on: (Jan 10, 2007)
