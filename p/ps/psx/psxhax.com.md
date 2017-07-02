@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604044154id_/http%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702103300id_/https%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSXHAX - PSXHACKS
+
+To remove ALL ads: [**_Register_**](https://www.psxhax.com/register/) to join **PSXHAX.COM** , [**_Log in_**](https://www.psxhax.com/login/) and [**_Confirm_**](https://www.psxhax.com/account-confirmation/resend) your account. 
 
 **» Privacy Policy**
 
@@ -61,6 +63,6 @@ PSXHAX.COM may amend this policy from time to time without prior warning. Please
 
 If you have questions or suggestions you can contact us via the link below: 
 
-[**http://www.psxhax.com/misc/contact**](http://www.psxhax.com/misc/contact)
+[**https://www.psxhax.com/misc/contact**](https://www.psxhax.com/misc/contact)
 
-[ ](http://www.psxhax.com/)
+[ ](https://www.psxhax.com/)
