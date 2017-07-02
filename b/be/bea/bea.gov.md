@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192034id_/https%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702052234id_/https%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
@@ -40,11 +40,12 @@ The BEA e-mail system is password-protected. Similarly, access to information su
 
 ## Your rights
 
-You have rights under the Privacy Act and the Freedom of Information Act. The Legal Information Institute at Cornell Law School provides the full text of these provisions from the U.S. Code:
+You have rights under the Privacy Act and the Freedom of Information Act. The Department of Commerce provides the full text of these provisions from the U.S. Code:
 
-  * [Privacy Act](https://web.archive.org/exit_site.asp?link=http://www4.law.cornell.edu/uscode/5/552a.html)
-  * [Freedom of Information Act](https://web.archive.org/exit_site.asp?link=http://www4.law.cornell.edu/uscode/5/552.html)
+  * [Privacy Act](http://www.osec.doc.gov/opog/PrivacyAct/default.html)
+  * [Freedom of Information Act](http://www.osec.doc.gov/omo/FOIA/FOIAWEBSITE.htm)
+  * Have questions or comments about the Commerce Office of Privacy and Open Government programs? Please send questions or comments to [CPO@doc.gov](mailto:CPO@doc.gov)
 
 
 
-Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
+Questions concerning our privacy policy may be addressed to [privacy@bea.gov](mailto:privacy@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [privacy@bea.gov](mailto:privacy@bea.gov). 
