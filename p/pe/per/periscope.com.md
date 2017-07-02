@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the periscope.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142718id_/http%3A//www.periscope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the periscope.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702165238id_/https%3A//periscope.com/privacy-policy) for the most accurate reproduction.*
 
 # PERISCOPE / Privacy Policy
 
