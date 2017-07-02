@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303101331id_/https%3A//www.brewersassociation.org/brewers-association/accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702194305id_/https%3A//www.brewersassociation.org/brewers-association/accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brewers Association
 
