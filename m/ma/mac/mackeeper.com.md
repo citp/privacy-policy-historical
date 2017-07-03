@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126170738id_/https%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703122725id_/https%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MacKeeper™
 
@@ -107,6 +107,14 @@ Collected information is used for:
 
 
 In case if you want to delete your Kromtech account please contact our Customer Support.
+
+#### "Camera Tracker" and "Microphone Tracker"
+
+The Camera and Microphone Tracker features are designed to detect the usage of camera and microphone (both built-in and external) by other applications on your device. These features will help you detect unauthorized intrusion into your private life by unknown applications.
+
+After you activate these features, they will notify you if some application starts using your camera and/or microphone. You can allow your camera and microphone to be always used by applications that you believe are safe, so no notifications will be shown next time for these apps.
+
+MacKeeper does not track and/or save any audio or video recordings, but it indicates the moment when the camera and/or microphone becomes activated by any application that is installed on your device.
 
 #### “Anti-Theft Service”
 
