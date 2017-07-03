@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysearchtab.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603020234id_/http%3A//support.ysearchtab.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysearchtab.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703160901id_/http%3A//support.ysearchtab.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
