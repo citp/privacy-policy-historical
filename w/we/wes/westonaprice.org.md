@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107204747id_/http%3A//www.westonaprice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westonaprice.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703195840id_/https%3A//www.westonaprice.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Weston A Price
+# Privacy Policy - The Weston A. Price Foundation
 
 Your right to privacy is important. The Weston A. Price Foundation believes that the personal information you choose to furnish online should only be used to help us provide you with the highest quality products, information, services, and support. With the exception (for membership applications) of supplying your name and address to your local chapter leader so that he or she may contact you by mail, we will not share this information with any other party.
 
@@ -10,4 +10,4 @@ Your right to privacy is important. The Weston A. Price Foundation believes that
 
 **For futher information:** Please [contact us](http://www.westonaprice.org/contact-us/ "Contact Us") if you have any questions or concerns about the privacy of your information.
 
-© 2015 The Weston A. Price Foundation for Wise Traditions in Food, Farming, and the Healing Arts.
+## Reader Interactions
