@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the themesjunction.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206230855id_/http%3A//www.themesjunction.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesjunction.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703062126id_/http%3A//www.themesjunction.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+  
+
 
 Your confidentiality is imperative for us. We have a set of principles; according to which we work. Certainly, you hold the right to ascertain if we are truthful in our claim. Below are the details: 
 
@@ -33,48 +34,3 @@ We reveal potentially personally-identifying and personally-identifying informat
 **Privacy Policy Changes**
 
 Though most modifications are likely to be trivial, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to regularly check this page for any changes to our Privacy Policy.
-
-## Terms & Conditions
-
-Please read the terms of use so that you may stay away from facing any nuisance later on. If you do not consent to these terms, please discontinue use of this site. By using this site, you connote your Assent and Agreement to these Terms of Use. If you do not agree to these Terms of Use, kindly do not use the site. 
-
-  * Any of existing products and services at Themes Junction is irretrievable and can’t be refunded.
-  
-
-  * The offered themes at Themes Junction can be used at your own risk. They are offered “as they are” and we are not accountable for them. You must verify they work and if something goes wrong with them, it’s your own fault.
-  
-
-  * Themes Junction is not answerable for the content, material, privacy practices or terms of any other site (s) using our Free or Paid WP Themes.
-  
-
-  * It is not permitted to reallocate or resell Themes Junction’s themes .You aren’t allowed to offer them on a website, CD or other medium. 
-  
-
-  * As regards the use of Themes Junction’s products, free themes, content and services, the site is not responsible for anything.
-  
-
-  * You are not allowed to claim exclusive or intellectual ownership to any of available free themes.
-  
-
-  * You can amend the free WP themes but it is permitted to resell them after modification except this modified version is significantly dissimilar from the actual one.
-  
-
-  * It is allowable to use them on an unspecified number of domain names.
-  
-
-  * It is also permitted to use these themes for your clients’ website and projects. There is no curb for the number of projects. 
-
-
-
-**Limitations on Use of Materials:**
-
-Materials in this website are copyrighted and all rights are reserved. All of the trademarks on this site are trademarks of Themes Junction or of other owners used with their permission. Database Ownership, License, and Use Themes Junction warrants, and you accept, that Themes Junction is the owner of the copyright of the Databases of Links to articles and resources available from time to time through Themes Junction. Themes Junction and its donors keep all rights and no intellectual property rights are conferred by this accord. 
-
-Themes Junction awards you a non-exclusive, non-transferable license to use database(s) available to you subject to these Terms and Conditions. The database(s) may be used only for viewing information or for extracting information for   
-your own individual use or the internal purposes of your home or business, provided that is not the selling or broking of information on no occasion cause or allow to be published, printed, downloaded, transmitted, distributed, reengineered, or reproduced in any shape any part of the databases whether for resale, republishing, redistribution, viewing, or otherwise. 
-
-**Legal responsibility:**   
-The materials in this site are provided "as is" and without warranties of any kind either Express or Implied. Themes Junction disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and suitability for a particular purpose. You and not Themes Junction assume the entire cost of all necessary servicing, repair or correction. 
-
-**Other Legal Matters:**   
-These Terms of Use will apply to every access to Themes Junction. We reserve the right to issue reconsideration to these Terms of Use by publishing a revised version of this deed on this site. That report will then apply to all use by you following the date of publication. Each access of information from Themes Junction will be a separate, discrete contract based on the then existing terms. 
