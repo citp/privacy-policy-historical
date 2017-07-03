@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trsretire.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630073451id_/https%3A//www.transamerica.com/individual/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trsretire.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703124952id_/https%3A//www.transamerica.com/individual/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Transamerica
 
