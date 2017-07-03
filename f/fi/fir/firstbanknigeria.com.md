@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912061852id_/http%3A//www.firstbanknigeria.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703091734id_/https%3A//www.firstbanknigeria.com/privacy-statement) for the most accurate reproduction.*
 
-# First Bank of Nigeria Ltd. » Privacy Statement
-
-You are here: [Home](https://firstbanknigeria.com/) [](https://firstbanknigeria.com/) » Privacy Statement 
+# Privacy Statements and Policy. | FirstBank Nigeria
 
 ## What this Privacy Policy Covers:
 
-This Privacy Policy covers First Bank of Nigeria Plc's treatment of personally identifiable information that you submit through First Bank of Nigeria Plc web site, and the use of First Bank of Nigeria Plc's on-line/website services and contents (which on-line/website services and contents are hereinafter jointly called "the Service"). This policy does not apply to the practices of companies or subsidiaries that are affiliated to First Bank of Nigeria Plc. All subsidiaries have separate Privacy Policies.
+This Privacy Policy covers First Bank of Nigeria Plc’s treatment of personally identifiable information that you submit through First Bank of Nigeria Plc web site, and the use of First Bank of Nigeria Plc’s on-line/website services and contents (which on-line/website services and contents are hereinafter jointly called “the Service”). This policy does not apply to the practices of companies or subsidiaries that are affiliated to First Bank of Nigeria Plc. All subsidiaries have separate Privacy Policies.
 
 ## Privacy Policy:
 
@@ -27,7 +25,7 @@ First Bank of Nigeria Plc will not sell or rent your personally identifiable inf
 
 The customers shall not disclose to any other person, in any manner whatsoever, any information relating to First Bank of Nigeria Plc or its Affiliates of a confidential nature obtained in the course of availing the services through the website. Failure to comply with this obligation shall be deemed a serious breach of the terms herein and shall entitle First Bank of Nigeria Plc or its Affiliates to terminate the services, without prejudice to any damages, to which the Bank otherwise may be entitled.
 
-First Bank of Nigeria Plc will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the customers. First Bank of Nigeria Plc may use and share the information provided by the customers with its Affiliates for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the customers regarding any problem with, or the expiration of, such services. In this regard, it may be necessary to disclose the customer's information to the Affiliates of First Bank of Nigeria Plc who will be required to agree to use the information obtained from First Bank of Nigeria Plc only for these purposes.
+First Bank of Nigeria Plc will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the customers. First Bank of Nigeria Plc may use and share the information provided by the customers with its Affiliates for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the customers regarding any problem with, or the expiration of, such services. In this regard, it may be necessary to disclose the customer’s information to the Affiliates of First Bank of Nigeria Plc who will be required to agree to use the information obtained from First Bank of Nigeria Plc only for these purposes.
 
 ### **Changes to this Privacy Policy**
 
@@ -35,4 +33,4 @@ First Bank of Nigeria Plc may amend this policy from time to time. If we make an
 
 ## Questions or Suggestions
 
-If you have questions or suggestions complete the [Contact Form](https://firstbanknigeria.com/contact-us/contact-form/).
+If you have questions or suggestions complete the [Contact Form](https://www.firstbanknigeria.com/contact-us/contact-form/).
