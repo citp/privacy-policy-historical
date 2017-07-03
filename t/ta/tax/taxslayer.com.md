@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316000041id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703170505id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
@@ -64,7 +64,7 @@ User name, user ID, email address, operating system, connection, browser.
 _We may also collect, from you, the following personal information about your contacts:_
 
 Tell A Friend / TaxPerks   
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at http://www.taxslayer.com/optout.aspx to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at https://www.taxslayer.com/optout.aspx to request that we remove this information from our database. 
 
 When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. 
 
@@ -72,7 +72,7 @@ If you believe that one of your contacts has provided us with your personal info
 
 **Newsletters**
 
-We will use your name and email address to send newsletters to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please visit <http://www.taxslayer.com/optout.aspx> to opt out. 
+We will use your name and email address to send newsletters to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please visit <https://www.taxslayer.com/optout.aspx> to opt out. 
 
 **Sharing Information**
 
