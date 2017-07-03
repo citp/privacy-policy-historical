@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191133id_/https%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703165407id_/https%3A//www.fepblue.org/en/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy-Blue Cross and Blue Shield's Federal Employee Program
 
