@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522094122id_/http%3A//www.timothyoulton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703165517id_/https%3A//www.timothyoulton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Timothy Oulton
 
 **Website Privacy and Cookie Policy  **
 
-Halo Creative & Design Limited, together with its subsidiaries and affiliates (“ **Halo** ”) and our brands, which include but are not limited to Timothy Oulton and Michael Yeung (“ **We** ”), value our customers and we are committed to protecting and respecting your privacy.  The purpose of this privacy and cookie policy (together with our [terms and conditions of use](http://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions")) is to inform you what personal data we may collect from you, or that is provided to us, how we use such information, and the choices you have regarding our use of, and your ability to review and correct the information.
+Halo Creative & Design Limited, together with its subsidiaries and affiliates (“ **Halo** ”) and our brands, which include but are not limited to Timothy Oulton and Michael Yeung (“ **We** ”), value our customers and we are committed to protecting and respecting your privacy.  The purpose of this privacy and cookie policy (together with our [terms and conditions of use](https://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions")) is to inform you what personal data we may collect from you, or that is provided to us, how we use such information, and the choices you have regarding our use of, and your ability to review and correct the information.
 
 Halo is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.
 
-**Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting[www.timothyoulton.com](http://www.timothyoulton.com/) you are accepting and consenting to the practices described in this policy.**
+**Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting[www.timothyoulton.com](https://www.timothyoulton.com/) you are accepting and consenting to the practices described in this policy.**
 
 For the purposes of the Data Protection Act 1998 of the United Kingdom (the “Act”) or the Personal Data (Privacy) Ordinance of Hong Kong (the “Ordinance”) (both, as amended from time to time) our data controller can be contacted on [emailmarketing@timothyoulton.com](mailto:emailmarketing@timothyoulton.com).
 
@@ -18,7 +18,7 @@ Additionally, if you would like to correct your personal data or just access it 
 
 We may collect the following information:
 
-  * **Information you give us** : You may give us information about you by filling in forms on our site [www.timothyoulton.com](http://www.timothyoulton.com/) (our “site”) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when, among other things, you register to use our site, subscribe to our service, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, or such other activities which may occur from time to time via our site and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+  * **Information you give us** : You may give us information about you by filling in forms on our site [www.timothyoulton.com](https://www.timothyoulton.com/) (our “site”) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when, among other things, you register to use our site, subscribe to our service, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, or such other activities which may occur from time to time via our site and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
 
 
   * **Information we collect about you** : With regard to each of your visits to our site we may automatically collect the following information:
@@ -39,7 +39,7 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We may share your personal information with companies within the Halo group for administrative and/or marketing purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](http://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions") and other agreements; or to protect the rights, property, or safety of Halo or any of its group companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+We may share your personal information with companies within the Halo group for administrative and/or marketing purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](https://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions") and other agreements; or to protect the rights, property, or safety of Halo or any of its group companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
