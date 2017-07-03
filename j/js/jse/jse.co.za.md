@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jse.co.za privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401085229id_/https%3A//www.jse.co.za/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jse.co.za privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703085431id_/https%3A//www.jse.co.za/website-policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Website Policies - JSE
 
 ## Privacy Policy
 
