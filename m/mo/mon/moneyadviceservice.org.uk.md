@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107194913id_/https%3A//www.moneyadviceservice.org.uk/en/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703122849id_/https%3A//www.moneyadviceservice.org.uk/en/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Money Advice Service
 
