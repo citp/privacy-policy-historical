@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221133001id_/http%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703162640id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | J.W. Pepper Sheet Music
 
