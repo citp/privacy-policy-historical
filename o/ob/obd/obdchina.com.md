@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318073635id_/http%3A//www.obdchina.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703234432id_/http%3A//www.obdchina.com/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy_policy : OBD China, The auto OBD tools discount
 
-**obddiscount.com** take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users submit on our website. We take your privacy seriously and we want you to feel comfortable using our services.
+**obdchina.com** take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users submit on our website. We take your privacy seriously and we want you to feel comfortable using our services.
 
 **ABOUT US**
 
@@ -14,7 +14,7 @@ Our major product manufacturers include:Launch X431, Autoboss,Autel,Xtool,LISHI,
 
 Our products are sold to hundreds thousands of resellers and end-users in more than 200 countries and regions.
 
-In order to provide you with the best products, efficient and quality customer services, and timely updates,we record a variety of information from your visit in our site. Thank you for accessing the website of obddiscount.com (The"Site").We respect your privacy and protect your personal information. To know more, please read our Privacy Notice.
+In order to provide you with the best products, efficient and quality customer services, and timely updates,we record a variety of information from your visit in our site. Thank you for accessing the website of obdchina.com (The"Site").We respect your privacy and protect your personal information. To know more, please read our Privacy Notice.
 
 **OBDDiscount.COM PRIVACY POLICY**
 
@@ -22,7 +22,7 @@ To better protect your privacy, we provide the notice below explaining our onlin
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
-This Privacy Notice only applies to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-obddiscount.com website to which this site links or that links to this Site.
+This Privacy Notice only applies to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-obdchina.com website to which this site links or that links to this Site.
 
 **Information Collection And Use**
 
@@ -80,11 +80,11 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to OBDDISCOUNT’s Customer Support department at sales@obddiscount.com. Please do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to OBDDISCOUNT’s Customer Support department at sales@obdchina.com. Please do not email your credit card number or other sensitive information.
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
-As you might expect from obddiscount.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+As you might expect from obdchina.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -92,6 +92,6 @@ This privacy policy is subject to change. If we make any substantive changes in 
 
 **CHOICE AND OPT-OUT**
 
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at sales@obddiscount.com
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at sales@obdchina.com
 
 All right reserved by OBDDISCOUNT website!
