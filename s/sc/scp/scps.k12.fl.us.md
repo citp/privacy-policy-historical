@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004443id_/http%3A//www.scps.k12.fl.us/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703233520id_/https%3A//www.scps.k12.fl.us/legal/privacy-policy.stml) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Seminole County Public Schools
 
 Thank you for visiting the Seminole County Public Schools Website. Your privacy is very important to us. We collect no personal information about you when you visit our website unless you specifically choose to make such information available to us. 
 
@@ -10,4 +10,4 @@ In addition, we gather information regarding the volume and timing of access to 
 
 If you choose to share personal information with us - by sending us a message or filling out an electronic form with personal information - we will use the information only for the purposes you authorized. 
 
-If you have other questions about our privacy policies, please feel free to email us at [webmaster@scps.k12.fl.us.](mailto:webmaster@scps.k12.fl.us)
+If you have other questions about our privacy policies, please feel free to email us at [webmaster@scps.k12.fl.us](mailto:webmaster@scps.k12.fl.us). 
