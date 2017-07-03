@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132935id_/http%3A//neuvoo.ca/legal/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704013249id_/http%3A//neuvoo.ca/legal/%3Flang%3Den) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
@@ -59,3 +59,30 @@ We continuously test our system for potential breaches. We have dedicated resour
 ##  2\. Links 
 
 As a search engine, most clicks will forward users to the source website. We do our best to remove sources containing malware, excessive advertising, phishing strategies, or any other method potentially harming our users or degrading their job search experience. If you run into a link that contains any of these qualities, please send an email to "contact@neuvoo.com". We will investigate and take action swiftly. 
+
+Our policies are in place to help ensure a positive experience for all parties involved in our Publisher and API programs. All publishers are required to adhere to the following terms. If you, as a publisher, fail to comply with any of these terms without permission from NEUVOO, we reserve the right to suspend and close your account and cancel any scheduled payments immediately without further notice or official notification. Once your account is disabled, you may not be eligible for further participation in our publisher program.
+
+Because our policies are subject to change at any time, please check the current page for update. It is your responsibility to keep up to date with, and adhere to, the policies listed here. Exceptions to these policies are permitted only with authorization from NEUVOO.
+
+## What does a publisher do?
+
+Publishers are third-party entities from whom NEUVOO buys traffic, as part of our traffic acquisition strategy. They publish our content on their website and send their visitors to our pages in exchange for a click-based rate which may vary depending on numerous factors, including the publisher’s country or exposure.
+
+Our relationship with publishers is primary a partnership, meaning all parties involved shall benefit from it. Publishers must guarantee that they will bring quality traffic to our website, meaning all users browsing their websites must show genuine interest when clicking on our links and, hence, must agree to being redirected on our website and browse our content. Any publisher that does not follow this guideline may be exposed to severe consequences, such as account cancellation or disabling.
+
+##  Invalid and misleading traffic: what is it and how do we prevent it? 
+
+NEUVOO treats policy violations and invalid traffic very seriously in order to protect job seekers, publishers, and advertisers. We pay close attention to traffic behavior by analyzing all clicks to determine whether they fit a pattern of use that might artificially drive up an advertiser’s costs or a publisher’s earnings. 
+
+More specifically, we sample part of the traffic to measure what we call “Intent of Apply” (IOA) which corresponds to the percentage of people who show genuine interest in applying on a given job. This is the most accurate indicator of users’ IOA as it requires them to fill out a quick form, showing they are interested in applying for the job they are reading about. The industry average is 10%, meaning for every 100 visitors, 10 are usually willing to fill the form in order to access the employer’s website. If a publisher’s IOA rate goes under a certain percentage, it triggers a quality assurance (QA) process, where we look for any invalid or misleading traffic sources, such as: 
+
+  * Adult content websites; 
+  * Malicious websites; 
+  * Malware websites; 
+  * Pop-under traffic; 
+  * Iframed traffic; and 
+  * Bulk unrelated traffic. 
+
+
+
+If the majority of your traffic comes from any of the aforementioned channels we will consider it as invalid, as it does not bring quality traffic to our website and interferes with our site navigation. Please be advised that we will consider this as a violation of our agreement and will proceed to suspend or close your account without further notice. We will also cancel any scheduled payment and reimburse all other parties impacted by your traffic, if any. 
