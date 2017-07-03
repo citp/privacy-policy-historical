@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130202002id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703090756id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # QuickQuid - Privacy Policy
 
@@ -252,11 +252,11 @@ If you have any concern about privacy or have any questions or comments, please 
 
 QuickQuid 
 
-483 Green Lanes 
+PO Box 74347 
 
 London 
 
-N13 4BS 
+EC1P 1YZ 
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website. 
 
