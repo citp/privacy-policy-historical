@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designhotels.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129153414id_/https%3A//www.designhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designhotels.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703062210id_/https%3A//www.designhotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Design Hotels™
 
