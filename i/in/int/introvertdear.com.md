@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the introvertdear.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033650id_/https%3A//introvertdear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the introvertdear.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703152007id_/https%3A//introvertdear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Affiliate Disclosures - Introvert, Dear
 
