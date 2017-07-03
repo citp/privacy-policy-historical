@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baetest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010410id_/http%3A//baetest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baetest.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703070602id_/http%3A//baetest.com/privacy.php) for the most accurate reproduction.*
 
 # TheLiveApps - Fun Apps for Facebook
 
