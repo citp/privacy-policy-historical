@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoofcard.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615083440id_/https%3A//www.spoofcard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoofcard.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703234601id_/https%3A//www.spoofcard.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | SpoofCard
 
