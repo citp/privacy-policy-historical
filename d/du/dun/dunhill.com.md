@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630033551id_/https%3A//www.dunhill.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703053223id_/https%3A//www.dunhill.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
