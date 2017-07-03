@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615174511id_/https%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703111202id_/https%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Childrensalon
 
