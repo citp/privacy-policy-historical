@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lift.do privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513230524id_/https%3A//www.coach.me/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lift.do privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703133947id_/https%3A//www.coach.me/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
