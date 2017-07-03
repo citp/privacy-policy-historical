@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201230836id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704010549id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
 # BiggerPockets Privacy Policy
 
@@ -91,8 +91,12 @@ Please note that the Website Opt Out and Mobile App Opt Out are device specific.
 \- to improve our products and services;  
 \- to improve our marketing and promotional efforts;  
 \- to keep the Site free by selling advertisements;  
-\- for security, credit or fraud prevention purposes; and  
-\- for any other purpose identified in an applicable Privacy Notice, click-through agreement or other agreement between you and us. 
+\- for security, credit or fraud prevention purposes;   
+\- for any other purpose identified in an applicable Privacy Notice, click-through agreement or other agreement between you and us.   
+\- to contact you about our own and third parties' goods and services that may be of interest to you or that you may have requested information about;   
+\- in any other way we may describe when you provide the information;   
+\- to fulfill any other purpose for which you provide it; and   
+\- for any other purpose with your consent. 
 
 ### How We Share Your Information
 
