@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraforeclosures.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427174739id_/http%3A//www.ultraforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraforeclosures.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703183255id_/http%3A//www.ultraforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ultra Foreclosure: Contact Us to find out more about Foreclosure Listings in your area
 
