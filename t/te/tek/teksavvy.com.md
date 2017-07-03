@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404181707id_/https%3A//teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704001041id_/https%3A//teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
 
 # TekSavvy - Privacy Policy
 
