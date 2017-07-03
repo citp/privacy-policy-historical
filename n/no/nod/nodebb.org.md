@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodebb.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130230248id_/https%3A//nodebb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodebb.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703194113id_/https%3A//nodebb.org/privacy) for the most accurate reproduction.*
 
 # NodeBB Forum Software | A better community platform for the modern web
 
