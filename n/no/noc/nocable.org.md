@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nocable.org privacy policy that was archived on 2016-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160218010106id_/http%3A//nocable.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocable.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703040539id_/https%3A//nocable.org/privacy) for the most accurate reproduction.*
 
 # NoCable.org Privacy Policy
 
