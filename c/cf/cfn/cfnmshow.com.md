@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnmshow.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031110208id_/http%3A//www.cfnmshow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnmshow.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703184426id_/http%3A//cfnmshow.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
