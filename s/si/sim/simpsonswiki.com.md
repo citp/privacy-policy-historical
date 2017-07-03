@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422101547id_/https%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704015733id_/https%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikisimpsons:Privacy policy - Wikisimpsons, the Simpsons Wiki
 
