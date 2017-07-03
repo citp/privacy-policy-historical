@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331070811id_/http%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703044910id_/https%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
 
-# Grant Cardone TV Privacy Policy - Grant Cardone TV
+# Privacy Policy – Grant Cardone TV
 
-### Privacy Policy
+Privacy Policy
 
 *All digital products are non-refundable.
 
 GCTV, the website and mobile service of Cardone Productions, Inc. (“GCTV,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
-### 1\. HOW WE COLLECT AND USE INFORMATION
+1\. HOW WE COLLECT AND USE INFORMATION
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
 
@@ -36,7 +36,7 @@ Commercial and marketing communications: We use the information we collect or re
 
 Use of certain service type information we collect about you: We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the GCTV application on your mobile devices.
 
-### 2\. SHARING OF YOUR INFORMATION
+2\. SHARING OF YOUR INFORMATION
 
 We will not rent or sell your information to third parties outside GCTV and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
 
@@ -56,7 +56,7 @@ Please note that an advertiser may ask GCTV to show an ad to a certain audience 
 
 The GCTV Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
 
-### 3\. HOW WE STORE AND PROTECT YOUR INFORMATION
+3\. HOW WE STORE AND PROTECT YOUR INFORMATION
 
 Storage and Processing: Your information collected through the Service may be stored and processed in the United States or any other country in which GCTV or its subsidiaries, affiliates or service providers maintain facilities. GCTV may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which GCTV or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
@@ -64,7 +64,7 @@ Keeping your information safe: GCTV cares about the security of your information
 
 Compromise of information: In the event that any information under our control is compromised as a result of a breach of security, GCTV will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
+4\. YOUR CHOICES ABOUT YOUR INFORMATION
 
 You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at info@grantcardonetv.com.
 
@@ -72,20 +72,23 @@ Opting out of collection of your information for Tracking / Advertising: Please 
 
 How long we keep your User Content: Following termination or deactivation of your User account, GCTV may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
-### 5\. CHILDREN’S PRIVACY
+5\. CHILDREN’S PRIVACY
 
 GCTV does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at info@grantcardonetv.com.
 
-### 6\. LINKS TO OTHER WEB SITES AND SERVICES
+6\. LINKS TO OTHER WEB SITES AND SERVICES
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and we do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to your User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-### 7\. HOW TO CONTACT US
+7\. HOW TO CONTACT US
 
 If you have any questions about this Privacy Policy or the Service, please contact us at info@grantcardonetv.com.
 
-### 8\. CHANGES TO OUR PRIVACY POLICY
+8\. CHANGES TO OUR PRIVACY POLICY
 
 GCTV may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
 This Privacy Policy was last modified on Apr 13, 2015.
+
+Grant Cardone TV: https://grantcardonetv.com/privacy/#ixzz4hvke2XF1  
+Follow us: @grantcardonetv on Twitter
