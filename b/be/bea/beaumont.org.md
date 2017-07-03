@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beaumont.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019063455id_/http%3A//www.beaumont.org/patients-families/patients-rights-privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.org privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703052901id_/https%3A//www.beaumont.org/patients-families/patients-rights-privacy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Beaumont Health
+# Beaumont Health | Privacy Policy
 
 Beaumont Health, the corporate parent to William Beaumont Hospital, Botsford General Hospital and Oakwood Healthcare, Inc., is committed to your right to privacy.  For this reason, we have established website policies to protect the privacy of our website visitors. Any and all information collected on this website will be kept strictly confidential and will not be sold, reused, rented, loaned, traded, leased or otherwise disclosed without prior consent.  
 
