@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175517id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703184306id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | BCcampus
 
