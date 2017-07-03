@@ -1,40 +1,82 @@
-<!--The following is the downloaded HTML source of the jwpepper.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221133001id_/http%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jwpepper.com privacy policy that was archived on 2017-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170703162640id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy | J.W. Pepper Sheet Music</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 
 <link rel="shortcut icon" href="/images/favicon.ico">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1321.js?438988" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+<!--new version-->
+<script type="text/javascript" async="" src="//emails.jwpepper.com/js/frs-next.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1321.js?438988" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/js/jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
+<script src="/js/jquery-ui-1.11.4.custom/external/jquery/jquery-migrate-1.3.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
-<script type="text/javascript" src="/js/default.js"></script>
+<script type="text/javascript" src="/js/default.js?v=1.6"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo.js"></script>
 <script type="text/javascript" src="/js/fsmenu_commented.js"></script>
-<script type="text/javascript" src="//use.typekit.net/stu7gqt.js"></script>
+<script type="text/javascript" src="https://use.typekit.net/stu7gqt.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script> 
-
 <script type="text/javascript">
 var OK = "0";
 var INVALID_EMAIL = "10";
 var INVALID_PASSWORD = "20";
 var NEW_REGISTRATION = "30";
+var isTest = false;
+console.log("VALUE OF isTest = " + isTest);
 $(
 	function () {
 
 		loadLogin();
 
+	//for facets on all departmental pages
+ $(".facet-heading").toggle(function(){  
+			$(this).parent().children(".facet-hide.shown").slideDown("slow");
+       		$(this).parent().children(".show").hide("slow");
+          	}, function () {
+				$(this).parent().children(".facet-hide").slideUp("slow");
+          		$(this).parent().children().children(".facet-hide").slideUp("slow");
+				$(this).parent(".facet-hide").slideUp("slow");
+				$(this).parent().children(".less").hide("slow");
+				$(this).parent().children(".more").hide("slow");
+				$(this).parent().children().children(".less").hide("slow");
+				$(this).parent().children(".more").hide("slow"); 		
+       	});
+			
+
+     	$(".show-filters").click(function(){
+     		$(".dep-facets").toggle();
+			$("#facets").toggle();
+     	});
+     	$(".more").click(
+     			function(){
+     				$(this).siblings("div.hidden").each(
+     						function(){
+     							$(this).parent().children(".facet-hide.hidden").css("display","block"),
+     							$(this).siblings(".less").css("display","block")
+     							$(this).siblings(".more").hide()
+ 					})
+ 					
+     			});
+     	$(".less").click(
+				function(){
+     				$(this).siblings("div.hidden").each(
+   							function(){
+     							$(this).parent().children(".facet-hide.hidden").css("display","none"),
+     							$(this).siblings(".more").css("display","block")
+     							$(this).siblings(".less").hide()
+     						})			
+     			});	
 	}
 );
 </script>
 
 
 
-
 <style type="text/css" media="all">
 	@import "/css/default.css";
-	@import "/css/jquery-ui-1.8.21.custom.css";
-	@import "/css/global.css";
+	@import "/js/jquery-ui-1.11.4.custom/jquery-ui.css";
+	@import "/css/global.css?v=1.9";
 </style>
 <!--[if IE]><link rel="stylesheet" href="/css/ie.css?v=1.1" type="text/css" media="screen" /><![endif]-->
 
@@ -43,14 +85,55 @@ $(
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-841531-1', 'auto');
-  ga('send', 'pageview');
-
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+  ga('create', isTest?'UA-86128530-1':'UA-841531-1', 'auto');
+  ga('require', 'ec');
+ 
 </script>
-				
 
+ <!-- salesfusion code -->
+<script type="text/javascript">
+__sf_config = {
+customer_id: 96897,
+host: 'emails.jwpepper.com',
+ip_privacy: 0,
+subsite: '28232e4d-e3f5-4d00-bb81-b3f8caf2ec2a',
+
+__img_path: "/web-next.gif?"
+};
+
+(function() {
+var s = function() {
+var e, t;
+var n = 10;
+var r = 0;
+e = document.createElement("script");
+e.type = "text/javascript";
+e.async = true;
+e.src = "//" + __sf_config.host + "/js/frs-next.js";
+t = document.getElementsByTagName("script")[0];
+t.parentNode.insertBefore(e, t);
+var i = function() {
+if (r < n) {
+r++;
+if (typeof frt !== "undefined") {
+frt(__sf_config);
+} else {
+setTimeout(function() { i(); }, 500);
+}
+}
+};
+i();
+};
+if (window.attachEvent) {
+window.attachEvent("onload", s);
+} else {
+window.addEventListener("load", s, false);
+}
+})();
+</script>
+<!-- /salesfusion code --> 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="ROBOTS" content="ALL">
@@ -60,21 +143,21 @@ $(
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <meta content="Delivering music since 1876. JW Pepper is your sheet music store for band, orchestra and choral music, piano sheet music, worship songs, songbooks and more. Download and buy printable sheet music online at JW Pepper." name="Description">
 <meta name="abstract" content="Nations largest printed music distributor specializing in music performance materials for schools, churches, community musical organizations and home music enjoyment">  
-
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <style type="text/css" media="all">
 	@import "/css/services.css";
 	@import "/css/responsive.css";
 </style>
-
 </head>
-<body>
+<body style="">
 
 
 
 
 
 <div class="mobile-head-include">
+
+
 
 <script>
 $(document).ready(function() {
@@ -84,8 +167,165 @@ $('#mobile-menu').click(function() {
   $('.m-drop-down').toggle('slow');
 });
 </script>
+<style>
+  .unMatchPart {
+	  font-weight:600;
+  }
+ .ui-menu .ui-menu-item a {
+    text-overflow: ellipsis!important;
+    overflow: hidden!important;
+}
+
+@media only screen and (max-width: 650px) {
+					.universal-banner {
+						width:100%;
+						height:auto;
+						padding:10px 0 15px !important;
+						background:#013042;
+						float:left;
+						margin-top:0px !important;
+						margin-bottom:10px;
+						text-align:center;
+					}
+					.universal-banner p.rbcp {
+						font-size:20px;
+						color:#fff;
+						margin:0 auto;
+						width:90%;
+						max-width:1120px;
+						font-family: "ltc-bodoni-175";
+						font-weight:100;
+						letter-spacing:1px;
+						whitespace:nowrap;
+						text-align:center;
+						float:none;
+						margin-bottom:0px;
+						line-height:22px;
+					}
+					span.heavyrbc {
+						font-weight:800;
+						font-style:italic;
+						font-family:open-sans-n6,open-sans;
+					}
+					.universal-banner a.rbca {						
+						color:#fff;
+						background:transparent;
+						border-radius:0px;
+						text-decoration:none;
+						position: relative;
+						margin-top:12px;
+						float:none;
+						white-space:nowrap;
+						font-size:14px;
+						font-weight:400;
+						font-family:open-sans-n6,open-sans;
+						padding:2px 10px;
+						letter-spacing:0px;
+						width:90%;
+						max-width:300px;
+						text-align:center;
+						margin:0px auto;
+						border:1px solid #fff;
+					}
+					.universal-banner a.rbca:hover {
+						text-decoration:none;
+						background:#fff;
+						-webkit-transition: background 0.2s linear;
+					    -moz-transition: background 0.2s linear;
+					    -ms-transition: background 0.2s linear;
+					    -o-transition: background 0.2s linear;
+					    transition: background 0.2s linear;
+					    cursor:pointer;
+					    color: #013042;
+					}
+					.universal-banner span.rbcnote {
+						width:100%;
+						margin-bottom:20px;
+						line-height:16px;
+					}
+					
+					.universal-banner span.rbca {						
+						color:#fff;
+						background:transparent;
+						border-radius:0px;
+						text-decoration:none;
+						position: relative;
+						margin-top:-8px;
+						float:none;
+						font-size:14px;
+						font-weight:400;
+						font-family:open-sans-n6,open-sans;
+						padding:2px 10px;
+						letter-spacing:0px;
+						border:1px solid #fff;
+					}
+					.universal-banner span.rbca:hover {
+						text-decoration:none;
+						background:#fff;
+						-webkit-transition: background 0.2s linear;
+					    -moz-transition: background 0.2s linear;
+					    -ms-transition: background 0.2s linear;
+					    -o-transition: background 0.2s linear;
+					    transition: background 0.2s linear;
+					    cursor:pointer;
+					    color: #013042;
+					}
+					.universal-banner .rbcoverlay {
+						background:#013042;
+						background:url('https://d2fizz4npx5v6x.cloudfront.net//images/rbcoverlayonepix.png') repeat;
+						position:absolute;
+						width:100%;						
+						text-align:center;
+						padding:20px 0;	
+						z-index:50000000;	
+						top:0;			
+						display:none;
+					}
+					.universal-banner .rbcoverlay p a {
+						color:#fff;
+						text-decoration:underline;
+					}
+					.universal-banner .rbcoverlay p a:hover {
+						text-decoration:none;
+					}
+					.universal-banner .overlaytopline {
+						font-size:35px;
+						font-family: "ltc-bodoni-175";
+					}
+					.universal-banner .rbcoverlay p, .rbcul {
+						color:#fff;
+						text-align:left;
+						width:90%;
+						max-width:1120px;
+						font-size:20px;
+						margin:30px auto;
+						
+						
+					}
+					.rbcul > li {
+						margin-left:30px;
+						padding:0px 0 20px;
+					}
+					.rbcoverlayclose {
+						position:absolute;
+						top:10px;
+						right:10px;
+						width:40px;
+						height:40px;
+					}
+					.RBCmusicBold {
+						font-family: 'Open Sans', sans-serif;
+						font-weight:800;
+						
+					}
+			
+		}
+
+					
+
+</style>
 <div class="m-phonestore-cont"> 
-          <a href="/sheet-music/services-stores.jsp">Stores</a> <a href="tel:18003456296">1-800-345-6296</a>
+          <a href="/sheet-music/services-stores.jsp">Stores</a> <a href="tel:18003456296" onclick="ga('send','event', 'Call Tracking', 'Click-to-Call');">1-800-345-6296</a>
 </div><!--m-phonestore-cont-->
 <div class="m-header-container">
   <div class="m-header">
@@ -93,15 +333,21 @@ $('#mobile-menu').click(function() {
     <div class="m-head-center">
       <div class="branding"> <span class="logo"><strong></strong><a href="/sheet-music/welcome.jsp" title="" class="logo"><img src="/images/mobile-logo.png" alt=""></a></span> </div>
     </div>
-    <div class="m-head-right"><img class="m-btns" id="mobile-settings" src="/images/m-account.png"><img class="m-btns" id="search-btn" src="/images/m-search.png"><a href="/sheet-music/orderbasket"><img class="m-btns" id="cart-btn" src="/images/m-cart.png">
+    <div class="m-head-right">
+    
+    	<img class="m-btns" id="mobile-mylibrary" src="https://d2fizz4npx5v6x.cloudfront.net//images/ml_successfullyadded.png">
+    	<img class="m-btns" id="mobile-settings" src="/images/m-account.png">
+    	<img class="m-btns" id="search-btn" src="/images/m-search.png">
+    		<a href="/sheet-music/orderbasket">
+    			<img class="m-btns" id="cart-btn" src="/images/m-cart.png">
     
     
     </a></div>
    </div><!--m-header-->
 </div><!---m-header-container-->
-        <div class="m-nav-container m-drop-down">
+        <div class="m-nav-container m-drop-down" style="display: none;">
               <ul>
-                  <li><a href="/sheet-music/church-music.jsp">Worship Music</a></li>
+                  <li><a href="/sheet-music/church-music.jsp">Sacred Music</a></li>
                   <li><a href="/sheet-music/school-choir-music.jsp">Choral </a></li>
                   <li><a href="/sheet-music/concert-band-music.jsp">Concert Band</a></li>
                   <li><a href="/sheet-music/marching-band-music.jsp">Marching Band</a></li>
@@ -119,33 +365,84 @@ $('#mobile-menu').click(function() {
                   <li><a href="/sheet-music/library.jsp">Library Editions</a></li>
                   <li><a href="/sheet-music/pro-audio.jsp">Pro Audio &amp; Software</a></li> 
                   <li><a href="/sheet-music/accessories.jsp">Accessories</a></li>
-                  <li><a href="/sheet-music/apparel.jsp">Apparel</a></li>
-                  <li><a href="/sheet-music/choral-master.jsp">Choral Master</a></li>
+                  <li><a href="/sheet-music/apparel.jsp">Apparel</a></li>                 
                   <li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
-                  <li><a href="/proclamation2015">Texas Proclamation 2015</a></li>
+                  <li><a href="/UIL">Texas UIL &amp; PML</a></li>
+                  <li><a href="/sheet-music/myScore.jsp">My Score Compositions</a></li>
               </ul> 
         </div><!-- /#nav -->
-        <div class="m-settings-container m-drop-down">
+        
+        <div class="m-mylibrary-container m-drop-down" style="display: none;">
+          <ul>           
+            <li><a href="/sheet-music/mylibrary.jsp" class="loginRequired">Go To MyLibrary</a> </li>
+            <li><a onclick="showWhatIsMyLibrary()" href="#">What is My Library? </a></li>
+           </ul>
+        </div><!--settings-->
+        
+        <div class="m-settings-container m-drop-down" style="display: none;">
           <ul>
             <li class="loginDiv"></li>
             <li><a href="/sheet-music/accounts/invsummary.jsp" class="loginRequired">Account Inquiry</a> </li>
             <li><a href="/sheet-music/accounts/vieworder1.jsp" class="loginRequired">Order Tracking</a></li>
             <li><a href="/sheet-music/order/suspended.jsp" class="loginRequired">Saved Carts</a></li>
+            <li><a class="loginRequired" href="/sheet-music/order/downloads.jsp"> My Downloads</a></li>
            </ul>
         </div><!--settings-->
-<div class="m-search-cont"> 
+<div class="m-search-cont m-drop-down" style="display: none;"> 
         
 <form id="search_mini_form" name="msearch" class="mobile-form-search" action="/sheet-music/search.jsp" method="get">
-
-            <input id="site-search" type="text" maxlength="100" size="20" name="keywords" value="" class="input-text" placeholder="search">
-
+            <input id="site-search" maxlength="100" size="20" name="keywords" value="" class="input-text ui-autocomplete-input" placeholder="search" autocomplete="off">
             <input type="image" src="/images/msearch-icon.png" class="searchbox_submit" onclick="notEmpty(document.getElementById('keywordsearch'), 'Please Enter a Keyword to run this search')">
           <!-- /form-search -->
-        </form>
+</form>
  </div><!--m-search-cont-->
  
+ 	
+ 
 <script>
+$( ".rbcoverlayclose" ).click(function() {
+	$( ".rbcoverlay" ).fadeOut( "fast");
+});	
+$( ".rbca" ).click(function() {
+	$( ".rbcoverlay" ).fadeIn( "fast");
+});	
+
+
+
 $( "#mobile-menu" ).click(function() {
+	$(".m-drop-down").not(".m-nav-container").slideUp("fast");
+	$( ".m-nav-container" ).slideToggle( "slow", function() {		
+		$(this).addClass("selected");
+	});	 
+	$(".m-btns").removeClass( "selected" );
+});
+
+
+$( "#mobile-mylibrary" ).click(function() {
+	$(".m-drop-down").not(".m-mylibrary-container").slideUp("fast");
+	$( ".m-mylibrary-container" ).slideToggle( "slow", function() {		
+		$(this).addClass("selected");
+	});	 
+	$(".m-btns").removeClass( "selected" );
+});
+$( "#mobile-settings" ).click(function() {
+	$(".m-drop-down").not(".m-settings-container").slideUp("fast");
+	$( ".m-settings-container" ).slideToggle( "slow", function() {		
+		$(this).addClass("selected");
+	});	 
+	$(".m-btns").removeClass( "selected" );
+});
+$( "#search-btn" ).click(function() {
+	$(".m-drop-down").not(".m-search-cont").slideUp("fast");
+	$( ".m-search-cont" ).slideToggle( "slow", function() {		
+		$(this).addClass("selected");
+	});	 
+	$(".m-btns").removeClass( "selected" );
+});
+
+
+
+/* $( "#mobile-menu" ).click(function() {
 	$( ".m-settings-container" ).slideUp( "slow", function() {
 	// Animation complete.
 	});	 
@@ -154,9 +451,10 @@ $( "#mobile-menu" ).click(function() {
 	});
 	$(".m-btns").removeClass( "selected" );
 	$( this ).addClass( "selected" );
-});
+}); */
 
- $( "#mobile-settings" ).click(function() {
+
+/*  $( "#mobile-settings" ).click(function() {
 	$( ".m-nav-container" ).slideUp( "slow", function() {
 	// Animation complete.
 	});	 
@@ -175,7 +473,7 @@ $( "#mobile-menu" ).click(function() {
 	});	
 	$(".m-btns").removeClass( "selected" );
 	$( this ).addClass( "selected" );
- });
+ }); */
  $( "#m-login-btn" ).click(function() {
 	 $( ".m-settings-container" ).slideUp( "slow", function() {
 	 });
@@ -191,9 +489,51 @@ $( "#mobile-menu" ).click(function() {
 });
 </script>
 
-</div>
+ <script>
+$.widget( "custom.catcomplete", $.ui.autocomplete, {
+_create: function() {
+this._super();
+this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
+},
+_renderMenu: function( ul, items ) {
+var that = this,
+currentCategory = "Titles";
+var tc = 0;
+$.each( items, function( index, item ) {
+var searchField = $('#site-search').val().toLowerCase();
+var li, re, t;
+re = new RegExp(searchField) ;
+ t = item.label.replace(re,"<span style='font-weight:100;'>" + searchField + "</span>");
+if ( item.category == currentCategory ) {
+ $("ul").addClass("mobileAutoSearch");
+ if (tc < 9) {
+ li = that._renderItemData( ul, item );
+ li.attr( "aria-label", item.category + " : " + t ).html("<span class=\"unMatchPart\">"+t+"</span>").css("border-bottom", "1px solid #ECEADF");
+ tc++;
+ }	
+}
+});
+}
+});
+</script>
+<script>
+		$( "#site-search" ).catcomplete({
+			position: { my : "right top", at: "right bottom" },
+			delay: 300,
+			minLength: 2,
+			select: function( event, ui ) {
+					   $( "#search_mini_form" ).submit();	 
+				return false;
+				},
+ 			source: "autocomplete-solr.jsp?unique=" + 1499099200387	
+		});
+</script>
+</div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
+<div class="full-page-wrapper">
   <div class="header-wrapper">
     
+
+
 
 
 
@@ -218,7 +558,7 @@ $( "#mobile-menu" ).click(function() {
        	</ul>
     </div>
     	<ul>
-        	<li class="loginDiv"></li>
+        	<li class="loginDiv menu-select"></li>
             <li> | </li>
             <li class="menu-select"><a href="#">My Account</a>    
                 <ul class="headermenu menu-show" style="display:none;">
@@ -226,11 +566,22 @@ $( "#mobile-menu" ).click(function() {
                     <li><a href="/sheet-music/order/suspended.jsp" class="loginRequired">Saved Carts</a></li>
                     <li><a href="/sheet-music/accounts/vieworder1.jsp" class="loginRequired">Order Tracking</a></li>
                     <li><a href="/sheet-music/services-eclubs.jsp" class="myaccount-links">My eClubs</a></li>
-                    <li><a href="/sheet-music/downloads" class="loginRequired"> My Downloads</a></li>
+                    <li><a href="/sheet-music/order/downloads.jsp" class="loginRequired"> My Downloads</a></li>
                     <li><a href="/sheet-music/services-music-lists.jsp" class="myaccount-links">Music Lists</a></li>
                     <li><a class="invReprintLink myaccount-links" href="#">Invoice Reprints</a></li>
                     <li><a href="/sheet-music/services-bookkeeper.jsp" class="myaccount-links">Bookkeeper Services</a></li>
+                    <!-- <li class="mylibrary" style="display: none;"><a href="/sheet-music/mylibrary.jsp" class="myaccount-links loginRequired">My Library</a></li> -->
                 </ul><!-- /headermenu -->          
+            </li>
+            <li> | </li>
+            <li class="menu-select">
+            	<a class="topmllink" href="#">My Library</a>
+            		<ul class="headermenu menu-show" style="display:none;">
+            			<li><a href="/sheet-music/mylibrary.jsp" class="loginRequired">Go to My Library</a></li> 
+                    	<li> <a href="#" onclick="showWhatIsMyLibrary()">What is My Library? </a> </li>
+                    	               
+                    	               
+               		</ul><!-- /headermenu -->  
             </li>
             <li> | </li>
             <li id="cartSummaryDiv"></li>
@@ -238,7 +589,6 @@ $( "#mobile-menu" ).click(function() {
        	<a class="value-statment" href="/sheet-music/services-guarantee.jsp">
 The Pepper Guarantee. Return anytime for full credit.</a>
     </div>
- 	
 </div><!-- /liquid-row -->
 
 
@@ -246,10 +596,11 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 		
 	</div><!-- /services-wrapper -->
 
-
+	
     <div class="brand-search-wrapper">
 	    <div class="logo" style="display: block;">
-    		<a href="/sheet-music/welcome.jsp" style="cursor: pointer;"><img src="http://cdn.jwpepper.com/images/logo-2014.png" alt="JW Pepper Home Page" border="0"></a>
+    		<a href="/sheet-music/welcome.jsp" style="cursor: pointer;"><img src="https://d2fizz4npx5v6x.cloudfront.net//images/logo-2014.png" alt="JW Pepper Home Page" border="0"></a>
+		
 		</div><!-- /logo -->
 
 		      <div id="cat-nav-dk"><!--shop by department-->
@@ -259,7 +610,6 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 		      				<li><a href="/sheet-music/school-choir-music.jsp">School &amp; Community</a></li>
 		      				<li><a href="/sheet-music/church-music.jsp">Church</a></li>
 		      				<li><a href="/sheet-music/vocal-music.jsp">Vocal</a></li>
-                            <li><a href="/sheet-music/choral-master.jsp">Choral Master</a></li>
 		      			</ul>
 		      		</li>
 					<li class="menu-select">Band
@@ -271,7 +621,7 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 					</li>
 		      		<li class="no-hover"><a href="/sheet-music/orchestra-music.jsp">Orchestra</a></li>
 	      			<li class="no-hover"><a href="/sheet-music/classroom-music.jsp">Classroom</a></li>
-	      			<li class="no-hover"><a href="/sheet-music/church-music.jsp">Worship Music</a></li>
+	      			<li class="no-hover"><a href="/sheet-music/church-music.jsp">Sacred Music</a></li>
 	      			<li class="menu-select hide-800">Shop By Instrument
 	      				<ul class="menu-show inst-mi">
 	      					<li><a href="/sheet-music/piano-sheet-music.jsp">Piano</a></li>
@@ -300,7 +650,8 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 	      					<li><a href="/sheet-music/apparel.jsp">Apparel</a></li>
                             <li><a href="/sheet-music/library.jsp">Library Editions</a></li>
                             <li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
-                            <li><a href="/proclamation2015">Texas Proclamation 2015</a></li>
+                            <li><a href="/UIL">Texas UIL &amp; PML</a></li>
+                            <li><a href="/sheet-music/myScore.jsp">My Score Compositions</a></li>
 	      					
 	      				</ul>
 	      			</li>
@@ -311,15 +662,25 @@ The Pepper Guarantee. Return anytime for full credit.</a>
             
            
 			<div class="searchbar">
-			<img class="tab-search-show" style="display:none;" src="http://cdn.jwpepper.com/images/msearch-icon.png" alt="">
+			<img class="tab-search-show" style="display:none;" src="https://d2fizz4npx5v6x.cloudfront.net//images/msearch-icon.png" alt="">
     		<form id="HeaderSearch" action="/sheet-music/search.jsp" method="get">
-        		<input type="text" id="site-search" name="keywords" size="14" onfocus="this.value ='';" value=""> <input id="site-search-submit" type="submit" value="Search" onclick="notEmpty(document.getElementById('keywordsearch'), 'Please Enter a Keyword to run this search')">
+        		<input id="sitesearch" name="keywords" size="14" class="ui-autocomplete-input" autocomplete="off"> <input id="site-search-submit" type="submit" value="Search" onclick="notEmpty(document.getElementById('keywordsearch'), 'Please Enter a Keyword to run this search')">
 			</form>
 		</div><!-- /searchbar -->
         <!--<div class="borderline">&nbsp;</div>-->
 	</div><!-- /brand-search-wrapper -->
+	 
+	 		
 
 <script>
+
+	$( ".rbcoverlayclose" ).click(function() {
+		$( ".rbcoverlay" ).fadeOut( "fast");
+	});	
+	$( ".rbca" ).click(function() {
+		$( ".rbcoverlay" ).fadeIn( "fast");
+	});	
+
 
 if ($('body').width() > 950) {
     $('.menu-select').hover(
@@ -340,12 +701,184 @@ $('.menu-select').click(
 );
 	$('.tab-search-show').click(function(){
 		 $('#HeaderSearch').toggle();
+		 $('#sitesearch').toggle();
 	
 	});
 </script>
+<script>
+$( document ).ready(function() {
+$.widget( "custom.catcomplete", $.ui.autocomplete, {
+_create: function() {
+this._super();
+this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
+},
+_renderMenu: function( ul, items ) {
+var that = this,
+currentCategory = "DepartPage";
+var tc=0;
+$.each( items, function( index, item ) {
+var searchField = $('#sitesearch').val().toLowerCase();
+var li, re, t, n, labelCounter=0;
+re = new RegExp(searchField) ;
+var myExpStrg = searchField.split(" ");
+var labelArray = item.label.split(",");
+//console.log(labelArray);
+ t = item.label.replace(re,"<span style='font-weight:100;'>" + searchField + "</span>");
+if ( item.category != currentCategory ) {
+ul.append( "<li class='ui-autocomplete-category'></li>" ).addClass("desktopAutoSearch");
+currentCategory = item.category;
+}
+if ( item.category == "Titles" ) {
+	 if (tc < 10) {
+	 li = that._renderItemData( ul, item );
+	 li.attr( "aria-label", item.category + " : " + t ).html("<span class=\"unMatchPart\">"+t+"</span>");
+	 tc++;
+	 }
+}
+if ( item.category == "DepartFacet" ) {
+	var itemcount=item.count;
+	if (itemcount.indexOf("(0)") ===  -1 ) {	
+	li = that._renderItemData( ul, item );		 
+	li.attr( "aria-label", item.category + " : " + item.label ).html("<a href="+"/sheet-music/"+item.urlLink+"><b class=\"departFacet\">"+searchField+ "</b> in <span class=\"maroonC\">" +item.value + item.count+"</span></a>");
+	}
+}
+if ( item.category == "DepartPage" ) {
+	var i=0;
+	var duplinklabel="";
+			$.each(myExpStrg, function( k, v ){
+				var labelWord =labelArray[i].substring(0,3);
+				if((labelArray[i].indexOf(v) >-1) && (v != "" ) && (v.length > 2)){
+					 if (item.linklabel != duplinklabel) {
+						li = that._renderItemData( ul, item );
+						li.attr( "aria-label", item.category + " : " + item.linkLabel ).html("<a class=\"departPage\" href="+"/sheet-music/"+item.urlLink+">"+item.linkLabel+"</a>");
+					 } 
+				i++;
+				duplinklabel = item.linklabel;
+				}
+		});
+	
+}
+});
+}
+});
+});
+
+</script>
+<script>
+	$( document ).ready(function() {
+		$( "#sitesearch" ).catcomplete({
+			position: { my : "right top", at: "right bottom" },
+			delay: 300,
+			minLength: 3,
+			focus: function( event, ui ) {
+				if ( ui.item.category == "DepartPage" ) {
+					
+				} else if ( ui.item.category == "DepartFacet" ) {
+		
+				} else {
+					$( "#sitesearch" ).val(ui.item.value);
+				}
+				return false;
+				},
+			select: function( event, ui ) {
+				if ( ui.item.category == "DepartPage" ) {
+					doSearch(ui.item.urlLink);
+				} else if ( ui.item.category == "DepartFacet" ) {
+					doSearch(ui.item.urlLink);
+				} else {
+					$( "#sitesearch" ).val(ui.item.value);
+					$("#HeaderSearch").keydown(function(event) {
+    					if (event.keyCode == 13)
+        				$( "#HeaderSearch" ).submit();
+					});
+				}
+				return false;
+				},
+ 			source: "/sheet-music/autocomplete-solr.jsp?unique=" + 1499099200387	
+		});
+	});
+	function doSearch(term) {
+        window.location.href = term;
+    }
+	var overlayForMyLibrary = undefined;
+	function showWhatIsMyLibrary(gad2){		
+		if (gad2 === undefined){
+			ga('send','event','My Library','Promo Page view','My Library header link');
+		} else {			
+			ga('send','event','My Library','Promo Page view',gad2);
+		};
+		if (overlayForMyLibrary === undefined){
+		var overlay = document.createElement("div");
+		overlay.classList.add("myLibraryOverlay");
+		
+		
+		var closeButton = document.createElement("div");
+		closeButton.classList.add("closeOverLayWindowButton");
+		closeButton.onclick = function(){
+			closeMyLibraryWindow();
+			if (returnScroll != undefined){
+				$('body,html').animate({
+					scrollTop : returnScroll
+				}, 500);
+			}
+		};
+		var libraryWindow = document.createElement("iframe");
+		libraryWindow.classList.add("libWindow");
+		libraryWindow.setAttribute("src", "/sheet-music/mylibrary.jsp?testView=true");
+		libraryWindow.style.height = window.innerHeight - 30 + "px";
+libraryWindow.onload = function(){
+	if ( /Android|iPhone|iPod|IEMobile|Opera Mini/i.test(navigator.userAgent) ){
+		var height123 = Math.max(document.getElementById("prod").clientHeight, 0);
+		overlay.style.height = height123+"px";
+	}
+};
+		libraryWindow.src = "/sheet-music/mylibrary.jsp?testView=true";
+
+		overlay.appendChild(closeButton);
+		overlay.appendChild(libraryWindow);
+		
+		overlayForMyLibrary = overlay;
+		
+		
+		document.getElementsByTagName("BODY")[0].appendChild(overlayForMyLibrary);
+		}
+		scrolear('.full-page-wrapper');
+		$('input:focus').blur();
+		
+	}
+	function closeMyLibraryWindow(){
+		if (overlayForMyLibrary !== undefined){
+			while (overlayForMyLibrary.firstChild) {
+				overlayForMyLibrary.removeChild(overlayForMyLibrary.firstChild);
+			}
+			document.getElementsByTagName("BODY")[0].removeChild(overlayForMyLibrary);
+		}
+		overlayForMyLibrary = undefined;
+	}
+	
+	function httpGetAsync(theUrl, callback)
+	{
+	    var xmlHttp = new XMLHttpRequest();
+	    xmlHttp.onreadystatechange = function() { 
+	        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+	            callback(xmlHttp.response);
+	    };
+	    xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+	    xmlHttp.send(null);
+	}
+
+	function getLibraryExp(element, callback){
+		if(window.location.href.indexOf("mylibrary.jsp") ==-1){
+			httpGetAsync('/sheet-music/mylibrary.jsp?testView=true', function(response){
+				element.innerHTML=response;
+				callback();
+			});
+		}
+	}
+	</script>
 <style>				
-					.overlay {
-						background: url("http://cdn.jwpepper.com/images/overlay_bg2.png");
+					/* .overlay {
+						background: url("https://d2fizz4npx5v6x.cloudfront.net//images/overlay_bg2.png");
 						position:fixed;
 						width:100%;
 						z-index:100000;
@@ -353,7 +886,7 @@ $('.menu-select').click(
 						display:none;
 					}
 					.iepopupwindow {
-						background:#16d0ff url("http://cdn.jwpepper.com/images/ielogoimg.jpg") no-repeat;
+						background:#16d0ff url("https://d2fizz4npx5v6x.cloudfront.net//images/ielogoimg.jpg") no-repeat;
 						width:640px;
 						border-radius:15px;
 					 	padding:40px;
@@ -363,7 +896,7 @@ $('.menu-select').click(
 						left:50%;
 						top:200px;
 						margin-left:-360px;
-					}
+					} */
 					.iepopupwindow span.title {
 						color:#fff;
 						font-size:17px;
@@ -394,7 +927,154 @@ $('.menu-select').click(
 						-moz-box-shadow:    0px 0px 5px 0px rgba(0, 0, 0, 0.29);
 						box-shadow:         0px 0px 5px 0px rgba(0, 0, 0, 0.29);
 								}	
-				</style>
+					#sitesearch {
+						border: 1px solid #dedede;
+						color: #a09791;
+						cursor: text;
+						height: 28px;
+						width: 70%;
+					}
+					.facetFirst, .titleFirst, .borderBottom {
+						border-top:#999 thin dotted;
+					}
+					li b.departFacet {
+						color:#000;
+					}
+					li a.departPage, li a span.maroonC {
+						color:#933;
+					}
+					.ui-autocomplete-category {
+						padding: 6px 0;
+						border-bottom:1px solid #ECEADF;
+					}
+					ul.desktopAutoSearch{
+						width:30%;
+						line-height:1.7;
+						padding:6px 0;
+					}
+					
+					
+					
+					
+					
+					.universal-banner {
+						width:100%;
+						height:auto;
+						padding:10px 0;
+						background:#013042;
+						float:left;
+						margin-top:10px;
+					}
+					p.rbcp {
+						color: #fff;
+					    font-family: "ltc-bodoni-175";
+					    font-size: 40px;
+					    font-weight: 100;
+					    letter-spacing: 1px;
+					    margin: 0 auto;
+					    max-width: 1120px;
+					    width: 90%;
+					}
+					span.heavyrbc {
+						font-weight:800;
+						font-style:italic;
+						font-family:open-sans-n6,open-sans;
+					}
+					.rbcnote {
+						font-size:14px;
+						float:left;
+						font-style:italic;
+						color:#fff;
+					}
+					span.rbca {						
+						color:#fff;
+						background:transparent;
+						border-radius:0px;
+						text-decoration:none;
+						position: relative;
+						margin-top:-8px;
+						float:right;
+						font-size:14px;
+						font-weight:400;
+						font-family:open-sans-n6,open-sans;
+						padding:2px 10px;
+						letter-spacing:0px;
+						border:1px solid #fff;
+					}
+					span.rbca:hover {
+						text-decoration:none;
+						background:#fff;
+						-webkit-transition: background 0.2s linear;
+					    -moz-transition: background 0.2s linear;
+					    -ms-transition: background 0.2s linear;
+					    -o-transition: background 0.2s linear;
+					    transition: background 0.2s linear;
+					    cursor:pointer;
+					    color: #013042;
+					}
+					.rbcoverlay {
+						background:#013042;
+						background:url('/images/rbcoverlayonepix.png') repeat;
+						position:absolute;
+						width:100%;						
+						text-align:center;
+						padding:20px 0;	
+						z-index:50000000;	
+						top:0;			
+						display:none;
+					}
+					.rbcoverlay p a {
+						color:#fff;
+						text-decoration:underline;
+					}
+					.rbcoverlay p a:hover {
+						text-decoration:none;
+					}
+					.overlaytopline {
+						font-size:35px;
+						font-family: "ltc-bodoni-175";
+					}
+					.rbcoverlay p, .rbcul {
+						color:#fff;
+						text-align:left;
+						width:90%;
+						max-width:1120px;
+						font-size:20px;
+						margin:30px auto;
+						
+						
+					}
+					.rbcul > li {
+						margin-left:30px;
+						padding:0px 0 20px;
+					}
+					.rbcoverlayclose {
+						position:absolute;
+						top:10px;
+						right:10px;
+						width:28px;
+						height:28px;
+					}
+					.RBCmusicBold {
+						font-family: 'Open Sans', sans-serif;
+						font-weight:800;
+						
+					}
+					 
+					
+					
+					@media only screen and (max-width: 1070px) {
+						span.rbcnote {
+							width:75%;							
+						}
+						a.rbca {
+							margin-top:4px;
+						}
+					}
+					
+				
+					
+				  </style>
 				
 			<!--[if lte IE 9]>
 				<style>	
@@ -438,214 +1118,13 @@ $('.menu-select').click(
 				
 				<![endif]-->
 
-				<div class="overlay">
-							<div class="iepopupwindow">
-								<div class="xclosebox">
-									<img src="http://cdn.jwpepper.com/images/xclosebox.png" alt="close box">
-								</div>
-								<p><span class="title">Attention! The version of Internet Explorer you are using prevents you from accessing features on jwpepper.com. </span><br>
-								<span class="copy">Use the link below to update your version of Internet Explorer or visit our site using <a href="https://www.google.com/chrome/" target="_blank">Chrome</a> or <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>.</span>
-								</p>
-								<a href="http://windows.microsoft.com/en-us/internet-explorer/ie-11-worldwide-languages" target="_blank">
-									<div class="iecta">
-										<p>Download Internet Exlorer 11</p>
-									</div>
-								</a>
-							</div>
-				</div>
+				
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-   
-<style>
-.cuedin-banner {
-	background-color: #232c35;
-	color: white;
-	height: 63px;
-	overflow: hidden;
-	width: 100%;
-	position:relative;
-	display:none;
-	margin-bottom:-11px;
-}
-.cuedin-show{
-	display:block;
-}
-.cuedin-banner > div {
-	width:53%;
-	margin:0 auto;
-	max-width:950px;
-}
-.cuedin-banner > div img {
-	display: block;
-	float: left;
-	height: 46px;
-	padding: 10px 49px 15px 0;
-}
-.headlines {
-    float: left;
-    font-size: 1.1em;
-    list-style: none outside none;
-    margin-top: 16px;
-    width: 74%;
-    overflow: visible !important;
-}
-.headlines a {
-	color:white;
-	font-weight:600;
-	width:500px;
-	display:block;
-}
-.cuedin-x {
-	position:absolute;
-	right:11%;
-	top:10px;
-}
-@media handheld, only screen and (max-width: 1150px) { 	
-	
-.cuedin-banner > div {
-	width:60%;
-}
-}
-@media handheld, only screen and (max-width: 1000px) { 	
-	
-.cuedin-banner > div {
-	width:65%;
-}
-.cuedin-x {
-	right:9%;
-}
-
-}
-@media handheld, only screen and (max-width: 950px) { 	
-	
-.cuedin-banner > div {
-	width:70%;
-}
-.cuedin-x {
-	right:5%;
-}
-.headlines {
-    max-width:70%;
-}
-.headlines a {
-	width:450px;
-}
-}
-@media handheld, only screen and (max-width: 850px) { 	
-	
-.cuedin-banner > div {
-	width:80%;
-}
-.cuedin-x {
-	right:2%;
-}
-
-}
-@media handheld, only screen and (max-width: 750px) { 	
-	
-.cuedin-banner > div {
-	width:90%;
-}
-.headlines {
-    max-width:60%;
-	font-size:95%;
-}
-.headlines a {
-	width:400px;
-}
-}
-@media handheld, only screen and (max-width: 700px) { 	
-	
-.headlines a {
-	width:350px;
-}
-}
-</style>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="/js/responsiveslides.min.js"></script>
-<script type="text/javascript">
-$(function() {
-
-	$('.headlines').responsiveSlides({
-		 nav: false,
-		 timeout: 8000,
-		 pager:false,
-		 prevText:"",
-		 nextText:""
-		});
-
-    $(document).ready(function() {
-        // check cookie
-        var cuedinCookie = $.cookie("cuedinSession");
-		
-
-        if (cuedinCookie == null) {
-            $('#cuedin-banner').addClass( "cuedin-show" );
-                   
-        }
-
-    });
-	
-    $( ".cuedInLogo" ).click(function(){
-		
-		ga('send', 'event', 'success', 'Click', 'CuedInLogo');
-
-	});
-    $( ".cuedInArticle" ).click(function(){
-		
-		ga('send', 'event', 'success', 'Click', 'CuedInArticle');
-
-	});
-    $( ".cuedin-x" ).click(function(){
-		$(".cuedin-banner").slideUp("slow", function() {
-			
-		});
-		document.cookie = "cuedinSession=clicked; expires=0; path=/";
-		ga('send', 'event', 'success', 'Click', 'CuedInClose');
-		
-	});
-});
-</script>
-<div id="cuedin-banner" class="cuedin-banner">
-  <div><a href="http://www.cuedin.com" target="_new" class="cuedInLogo"><img src="/images/cuedinlogosmall.png" alt="Cued In Logo"></a>
-    <ul class="headlines">
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/911/Students-deliver-wish-list-to-sch" target="new_window" class="cuedInArticle">Students deliver wish list to school board. There?s one item on it | The Washington Post</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/910/Nat-King-Cole-Generation-Hope-rai" target="new_window" class="cuedInArticle">Nat King Cole Generation Hope raises money for music education | Palm Beach Daily News</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/909/Bellevue-teen-an-evangelist-for-c" target="new_window" class="cuedInArticle">Bellevue teen an evangelist for classical music | The Seattle Times</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/908/Music-Can-Alter-Your-Childs-Brain" target="new_window" class="cuedInArticle">Music Can Alter Your Child's Brain | Time</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/907/Students-active-engagement-in-mus" target="new_window" class="cuedInArticle">Students' active engagement in music classes leads to brain gains, study finds | 89.3 KPCC</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/906/After-years-with-no-arts-classes," target="new_window" class="cuedInArticle">After years with no arts classes, Compton elementary readies a holiday concert | 89.3 KPCC</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/905/Rock-and-Roll-Hall-of-Fame:-Meet-" target="new_window" class="cuedInArticle">Rock and Roll Hall of Fame: Meet the 2015 class | CNN.com</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/904/Music-Education-In-the-Spotlight-" target="new_window" class="cuedInArticle">Music Education In the Spotlight at 2015 NAMM Show | PRNewswire</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/903/Sydney-Opera-House-Locked-Down-Ov" target="new_window" class="cuedInArticle">Sydney Opera House Locked Down Over Suspicious Package | The Australian</a> </li>
-
-	    	<li> <a href="http://www.cuedin.com/index.php/post/901/John-LoFrumento-Announces-his-Ret" target="new_window" class="cuedInArticle">John LoFrumento Announces his Retirement from ASCAP | ASCAP.com</a> </li>
-
-    </ul>
-  </div>
-  <img class="cuedin-x" src="/images/cuedin-x.png" alt="close"> </div>
- 	
+				<div id="loading" style="display:none;">Woo Woo
+                	<div></div>
+                	<img src="/images/ajax-loader.gif">
+                </div>
+    <!--jsp:include page="cuedin-headlines.jsp"/-->
   </div>
   <!-- /header-wrapper -->
   
@@ -655,52 +1134,23 @@ $(function() {
       <div>
         <div class="services-left">
           <div class="services-nav">
-  <ul class="delivers">
-    <li> <b>Pepper Delivers</b></li>
-    <li><a href="/sheet-music/services-guarantee.jsp">The Pepper Guarantee</a></li>
-    <li><a href="/sheet-music/services-shipping.jsp">Same-Day Shipping</a></li>
-    <li><a href="/sheet-music/services-cares.jsp">Pepper Cares</a></li>
-    <li><a href="/sheet-music/services-approval.jsp">Music On Approval</a></li>
-    <li><a href="/sheet-music/services-eprint.jsp">ePrint</a></li>
-  </ul>
-  <ul class="selections">
-    <li><b>Selection Made Easy</b></li>
-    <li><a href="/sheet-music/services-editors-choice.jsp">Editors' Choice</a></li>
-    <li><a href="/sheet-music/services-basic-library.jsp">Basic Library</a></li>
-    <li><a href="/sheet-music/services-eclubs.jsp">eClubs</a></li>
-    <li><a href="/sheet-music/services-worship-planning.jsp">Worship Planning</a></li>
-    <li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
-    <li><a href="/sheet-music/services-music-lists.jsp">Music Lists</a></li>
-  </ul>
- 
-<ul class="cust-service">
-<li><b>Customer Service</b></li>
-
-<li><a href="/sheet-music/services-track-order.jsp">Track Your Order</a></li>
-<li><a href="/sheet-music/services-shipping-info.jsp">Shipping</a></li>
-<li><a href="/sheet-music/services-returns.jsp">Returns</a></li>
-<li><a href="/sheet-music/services-catalogs.jsp">Catalogs</a></li>
-<li><a href="/sheet-music/services-gift-cards.jsp">Gift Cards</a></li>
-<li><a href="/sheet-music/services-crescendo-rewards.jsp">Crescendo Rewards</a></li>
-<li><a href="/sheet-music/services-folder.jsp">Folder Imprinting</a></li>
-<li><a href="/sheet-music/services-bookkeeper.jsp">Bookkeeper Services</a></li>
-<li><a href="/sheet-music/services-tech-support.jsp">Technical Support</a></li>
-<li><a href="/sheet-music/services-contact.jsp">Contact Us</a></li>
-
-</ul>
-<ul class="our-company">
-<li><b>Our Company</b></li>
-
-<li><a href="/sheet-music/services-since1876.jsp">Since 1876</a></li>
-<li><a href="/sheet-music/services-press.jsp">Press Releases</a></li>
-<li><a href="/sheet-music/services-stores.jsp">Stores</a></li>
-</ul>
-
-<ul>
-<li><a href="/sheet-music/services-legal.jsp">Legal Policy</a></li>
-<li><a href="/sheet-music/services-privacy.jsp">Privacy</a></li>
-<li><a href="/sheet-music/sitemap_jwp.jsp">Site Map</a></li>
-</ul> 
+	<ul class="cust-service">
+		<li><b>Customer Service</b></li>
+		<li><a href="/sheet-music/services-track-order.jsp">Track Your Order</a></li>
+		<li><a href="/sheet-music/services-shipping-info.jsp">Shipping Information</a></li>
+		<li><a href="/sheet-music/services-returns.jsp">Returns</a></li>
+		<li><a href="/sheet-music/services-tech-support.jsp">Technical Support</a></li>
+		<li><a href="/sheet-music/services-contact.jsp">Contact Us</a></li>
+	</ul>
+	<ul class="selections">
+		<li><b>More Ways to Shop</b></li>
+		<li><a href="/sheet-music/services-folder.jsp">Folder Imprinting</a></li>
+		<li><a href="/sheet-music/services-worship-planning.jsp">Worship Planning</a></li>
+		<li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
+		<li><a href="/sheet-music/services-music-lists.jsp">Music Lists</a></li>
+		<li><a href="/sheet-music/services-catalogs.jsp">Catalogs</a></li>
+		<li><a href="/sheet-music/services-gift-cards.jsp">Gift Cards</a></li>
+	</ul>
 </div>
 
         </div>
@@ -708,7 +1158,7 @@ $(function() {
           <div class="lead-line"> <h1>Internet Privacy Policy</h1>
             <div>&nbsp;</div>
             	
-					<span class="c-r-sub"> <h2>J.W.Pepper<sup>®</sup> Privacy Statement</h2></span>
+					<h2 class="c-r-sub">J.W.Pepper<sup>®</sup> Privacy Statement</h2>
 				</div>
 					<p>
 					Welcome to the J.W.Pepper<sup>®</sup> website located at ("Site"), provided by J.W. Pepper &amp; Son<sup>®</sup>, Inc. ("Pepper"). This Privacy Statement addresses Pepper<sup>®</sup>'s practices regarding information collected from users of the Site, including users who register with the Site to obtain certain products and services (a "Member"), and only addresses information collected directly through or from the Site - does not address or govern any information gathering, use, or dissemination practices related to information collected from the user (sometimes referred to as a "visitor," "you" or "your") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. Pepper<sup>®</sup> can be contacted at <a href="mailto:satisfaction@jwpepper.com">satisfaction@jwpepper.com</a> or by telephone at (610) 648-0500. This Privacy Statement is incorporated into Pepper<sup>®</sup>'s Website Terms of Use by reference, as if set forth fully therein, which must be reviewed and accepted by you.
@@ -775,151 +1225,402 @@ $(function() {
         </div>
       </div>
     </div>
-  
   <!-- page-content -->
   <div class="footer-wrapper">
     
 
-<div class="footer-ads hide-650">
-	<div class="footer-ads-inner">
-		<div>
-			<img src="http://cdn.jwpepper.com/images/footer-logo1.png" alt=""><b>Be the first to know.</b><br>
-			Stay informed about new music
-			and events with our eClub newsletters.<br>
-			<a href="/sheet-music/services-eclubs.jsp">SIGN UP NOW &gt;</a>		
-		</div>
-		<div class="hide-950">		
-			<img src="http://cdn.jwpepper.com/images/footer-logo2.png" alt="">
-			Turn your musical ideas into printed 
-			editions and share them with the world. <br>
-			<a href="/myscore/">LEARN MORE &gt;</a>
-			
-		</div>
-		<div>
-			<img src="http://cdn.jwpepper.com/images/footer-logo3.png" alt=""><b>JW Pepper Digital Catalogs</b><br>
-			The ease of a book.  The power of 
-			the internet.<br>
-			<a href="/sheet-music/services-catalogs.jsp">BROWSE CATALOGS &gt;</a>
-			
-		</div>
-		<div>
-			<img src="http://cdn.jwpepper.com/images/footer-logo4.png" alt="">
-			Explore the best new music, all in 
-			one place, wherever you are.<br>
-			<a href="/sheet-music/services-editors-choice.jsp">GET STARTED &gt;</a>
-			
-		</div>
-	</div>
-    <div class="footer-need-help">
-<span>Need Help? We're Here. Call: 1.800.345.6296 &nbsp; | &nbsp; E-mail: <a href="mailto:satisfaction@jwpepper.com">satisfaction@jwpepper.com</a></span><br>
-Monday - Friday 8:00am - 8:30pm ET &nbsp; · &nbsp; Saturday 9:00am - 7:00pm ET
-</div>
-</div>
+	<footer class="firsthalf">
+	  	<a class="exp-both" href="/sheet-music/pepper-difference.jsp">
+		  	<p class="exp-full1"> 
+		  		<span class="exp-pep"> Experience the Pepper <span class="exp-ital">Difference</span></span> 
+		  	</p>
+		  	<p class="exp-full2"> 
+		  		<span class="exp-return">"satisfaction guaranteed or your money refunded"<span class="footer-nowrap">- James Welsh Pepper</span></span>
+		  	</p>
+	  	</a> 
 
-<div class="footer-bar">
-	<div><a href="/sheet-music/services-shipping.jsp"><span class="value-shipping hide-650">SAME-DAY SHIPPING  <span>|</span> ORDER BY 5 AND IT SHIPS TODAY.*</span></a>
-	<span class="social">
-		CONNECT WITH US <span>|</span>
-        <a href="https://www.facebook.com/jwpepper"><img src="http://cdn.jwpepper.com/images/footer-fb.png" border="0"></a>&nbsp;
-        <a href="https://twitter.com/jwpepper"><img src="http://cdn.jwpepper.com/images/footer-twitter.png" border="0"></a>&nbsp;
-        <a href="http://pinterest.com/jwpeppermusic/"><img src="http://cdn.jwpepper.com/images/footer-pintrest.png" border="0"></a>&nbsp;
-        <a href="http://www.youtube.com/user/jwpepper1876"><img src="http://cdn.jwpepper.com/images/footer-youtube.png" border="0"></a>&nbsp;
-       </span>
-	</div>
-</div>
-<div id="footer-background">
-<div class="footer-content">
-	<div>
-	<div class="footer-first-column">
-  		<div class="footer-col-heading">CUSTOMER SERVICE</div>
-  		<div class="footer-col-heading re-footer-heading">Customer Service</div>
-  		<div class="re-footer-col">
-        	<a class="loginRequired footerlink" href="/sheet-music/accounts/vieworder1.jsp">Track Your Order</a><br>
-            <a href="/sheet-music/services-shipping-info.jsp" class="footerlink">Shipping Info</a><br>
-            <a href="/sheet-music/services-returns.jsp" class="footerlink">Returns</a><br>
-            <a href="/sheet-music/services-bookkeeper.jsp" class="footerlink">Bookkeeper Services</a><br>
-            <a href="/sheet-music/services-tech-support.jsp" class="footerlink">Technical Support</a><br>
-            <a href="/sheet-music/services-contact.jsp" class="footerlink">Contact Us</a><br>
-            <a href="/sheet-music/services-cares.jsp" class="footerlink">Need Help? 1-800-345-6296</a><br>
-        </div>
-	</div><!-- /footer-first-column -->
-	<div class="footer-second-column">
-    	<div class="footer-col-heading">PEPPER DELIVERS</div>
-    	<div class="footer-col-heading re-footer-heading">Pepper Delivers</div>
-    	<div class="re-footer-col">
-			<a class="footerlink" href="/sheet-music/services-guarantee.jsp">The Pepper Guarantee</a><br>
-            <a class="footerlink" href="/sheet-music/services-shipping.jsp">Same Day Shipping</a><br>
-            <a class="footerlink" href="/sheet-music/services-cares.jsp">Pepper Cares</a><br>
-            <a class="footerlink" href="/sheet-music/services-approval.jsp">Music On Approval</a><br>
-            <a class="footerlink" href="/sheet-music/services-eprint.jsp">ePrint</a><br>
-            <a class="footerlink" href="/sheet-music/events">Events</a><br>
-          </div>
-	</div><!-- /footer-second-column --> 
-	<div class="footer-third-column">
-  		<div class="footer-col-heading">SELECTION MADE EASY</div>
-  		<div class="footer-col-heading re-footer-heading">Selection Made Easy</div>
-  		<div class="re-footer-col">
-			<a class="footerlink" href="/sheet-music/services-editors-choice.jsp">Editors' Choice</a><br>
-            <a class="footerlink" href="/sheet-music/services-basic-library.jsp">Basic Library</a><br>
-            <a class="footerlink" href="/sheet-music/services-eclubs.jsp">eClubs</a><br>
-            <a class="footerlink" href="/sheet-music/services-worship-planning.jsp">Worship Planning</a><br>
-            <a class="footerlink" href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a><br>
-            <a class="footerlink" href="/sheet-music/services-music-lists.jsp">Music Lists</a><br>
-         </div>
-  	</div><!-- /footer-third-column -->
+	  	<a href="#" class="footer-ad footer-ad1">
+	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net//images/footeremailicon1.png" alt="Email Newsletter">
+	  		<img class="footer-icon2" src="/images/mailJeff.svg" alt="Email Newsletter">
+	  		<p class="footer-ad-p">
+	  			<span class="footer-title">Email Newsletters</span><br>
+	  			<span class="footer-cta">Sign Up Today <span class="footer-ad1-right-double-angle">»</span></span>
+	  		</p> 
+	  	</a>
+
+	  	<a href="/sheet-music/pepper-difference.jsp#content5" class="footer-ad footer-ad2">
+	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net//images/footereditorsicon1.png" alt="Email Newsletter">
+	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net//images/footereditorsicon2.png" alt="Email Newsletter">
+	  		<p class="footer-ad-p">
+	  			<span class="footer-title">Editors' Choice</span><br>
+	  			<span class="footer-cta">Explore the Best New Music <span class="footer-ad1-right-double-angle">»</span></span>
+	  		</p>
+	  	</a>
+
+	  	<a href="/since1876" class="footer-ad footer-ad3">
+	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net//images/footerstoryicon1.png" alt="Email Newsletter">
+	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net//images/footerstoryicon2.png" alt="Email Newsletter">
+	  		<p class="footer-ad-p">
+	  			<span class="footer-title">Our Story</span><br>
+	  			<span class="footer-cta">Watch the Film <span class="footer-ad1-right-double-angle">»</span></span>
+	  		</p>
+	  	</a>
+
+	  	<a href="http://blogs.jwpepper.com" target="_blank" class="footer-ad footer-ad4">
+	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net//images/footercuedicon1.png" alt="Email Newsletter">
+	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net//images/footercuedicon2.png" alt="Email Newsletter">
+	  		<p class="footer-ad-p">
+	  			<span class="footer-title">Cued In</span><br>
+	  			<span class="footer-cta">The J.W. Pepper Blog <span class="footer-ad1-right-double-angle">»</span></span>
+	  		</p>
+	  	</a>
+	</footer>
+	<footer class="section-grey">
+		<div class="footer-five-all">
+	  		<div class="footer-five">
+		  		<p class="footer-category footer-category-desktop">Customer <br class="desktopview">Service</p>
+		  		<p class="footer-category footer-category-mobile">Customer Service</p>
+		  		<ul>
+		  			<li><a href="/sheet-music/accounts/vieworder1.jsp" class="loginRequired footerloginRequired">Track Your Order</a></li>
+		  			<li><a href="/sheet-music/services-shipping-info.jsp">Shipping Info</a></li>
+		  			<li><a href="/sheet-music/services-returns.jsp">Returns</a></li>
+		  			<li><a href="/sheet-music/services-tech-support.jsp">Technical Support</a></li>
+		  			<li><a href="/sheet-music/services-contact.jsp">Contact Us</a></li>
+		  		</ul>
+		  	</div>
+		  	<div class="footer-five">
+		  		<p class="footer-category footer-category-desktop">Selection <br class="desktopview"><span class="footer-nowrap">Made Easy</span></p>
+		  		<p class="footer-category footer-category-mobile">Selection Made Easy</p>
+		  		<ul>
+		  			<li><a href="/sheet-music/services-editors-choice.jsp">Editors' Choice</a></li>
+		  			<li><a href="/sheet-music/services-basic-library.jsp">Basic Library</a></li>
+		  			<li><a href="/sheet-music/services-worship-planning.jsp">Worship Planning</a></li>
+		  			<li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
+		  			<li><a href="/sheet-music/mylibrary.jsp">My Library</a></li>
+		  		</ul>
+		  	</div>
+		  	<div class="footer-five">
+		  		<p class="footer-category footer-category-desktop">More Ways <br class="desktopview"><span class="footer-nowrap">To Shop</span></p>
+		  		<p class="footer-category footer-category-mobile">More Ways To Shop</p>
+		  		<ul>
+		  			<li><a href="/sheet-music/services-folder.jsp">Folder Imprinting</a></li>
+		  			<li><a href="/sheet-music/pepnum.jsp">Order by Pepper #</a></li>
+		  			<li><a href="/sheet-music/services-catalogs.jsp">Catalogs</a></li>
+		  			<li><a href="/sheet-music/services-gift-cards.jsp">Gift Cards</a></li>
+		  		</ul>
+		  	</div>
+		  	<div class="footer-five">
+		  		<p class="footer-category footer-category-desktop">Our <br class="desktopview">Company</p>
+		  		<p class="footer-category footer-category-mobile">Our Company</p>
+		  		<ul>
+		  			<li><a href="/since1876">Since 1876</a></li>
+		  			<li><a href="/sheet-music/services-press.jsp">Press Releases</a></li>
+		  			<li><a href="http://blogs.jwpepper.com/" target="_blank">Our Blog</a></li>
+		  			<li><a href="/sheet-music/services-stores.jsp">Stores</a></li>
+		  		</ul>
+		  	</div>
+		  	<div class="footer-five last-footer-five">
+		  		<p class="footer-category footer-category-desktop">Our <br class="desktopview">Brands</p>
+		  		<p class="footer-category footer-category-mobile">Our Brands</p>
+		  		<ul>
+		  			<!-- <li><a href="http://www.pepperfundraising.com/easy-fundraiser/learnmore.jsp" target="_blank">Pepper Fundraising</a></li> -->
+		  			<li><a href="http://www.wjpublications.com/wj/" target="_blank">Wingert-Jones Publications</a></li>
+		  			<li><a href="/myscore">My Score</a></li>
+		  		</ul>
+		  	</div>
+
+		  	<div class="footer-contactus">
+		  		<ul>
+		  			
+		  			<li><a href="https://www.facebook.com/jwpepper" target="_blank"><img class="socialicons" src="https://d2fizz4npx5v6x.cloudfront.net//images/footersocial-facebook.png"></a></li>
+		  			<li><a href="https://twitter.com/jwpepper" target="_blank"><img class="socialicons" src="https://d2fizz4npx5v6x.cloudfront.net//images/footersocial-twitter.png"></a></li>
+		  			<li><a href="http://www.youtube.com/user/jwpepper1876" target="_blank"><img class="socialicons" src="https://d2fizz4npx5v6x.cloudfront.net//images/footersocial-youtube.png"></a></li>
+		  			<li><a href="http://pinterest.com/jwpeppermusic/" target="_blank"><img class="socialicons" src="https://d2fizz4npx5v6x.cloudfront.net//images/footersocial-pinterest.png"></a></li>
+		  		</ul>
+		  		<p class="footer-contactus-p">
+		  			<span class="footer-needhelp">Need Help? <span class="footer-nowrap">We're Here.</span></span><br>
+		  			<span class="footer-phone-email">
+		  				<span class="footer-nowrap">p: 1.800.345.6296</span><br>
+		  				<span class="footer-nowrap"><a class="footer-email-st" href="mailto:satisfaction@jwpepper.com">e: satisfaction@jwpepper.com</a></span><br>
+		  			</span>
+		  			<br><span class="footer-nomobile"><br></span>
+		  			<span class="footer-hours"><span class="footer-nowrap">Mon - Fri 8:00am - 8:30pm ET </span><br>
+		  			Sat 9:00am - 7:00pm ET</span>
+		  		</p>
+
+		  	</div>
+
+
+		  	<div class="identity">
+		  		<a href="/sheet-music/welcome.jsp">
+		  			<img class="footer-pepper-logo" src="https://d2fizz4npx5v6x.cloudfront.net//images/footer-pepper-logo.png">
+		  		</a>
+		  		<p class="footer-delivering"> <span class="footer-nomobile">|</span> Delivering Music Since 1876</p><br>	
+	  			<p class="footer-legal"><a href="/sheet-music/services-legal.jsp">Legal Notice</a> | <a href="/sheet-music/services-privacy.jsp">Privacy</a> | <a href="/sheet-music/sitemap_jwp.jsp">Site Map</a> <br>
+	  				Copyright©2016 J.W. Pepper &amp; Son®, Inc. <br class="brmobileonly">*All prices are subject to publisher revision
+	  			</p>
+		  		
+		  	</div>
+
+	  	</div>
+  	</footer>
+
+
+
+<div id="id-newsletter-overlay" class="newsletter-overlay">
+	<div class="newsletter-wrapper">
+		
+
+<script>
+var mcListID = "99c7545329";
+</script>
+<img class="close-newsletter-overlay" src="https://d2fizz4npx5v6x.cloudfront.net/images/closewhiteoverlay.png">
+
+ <div class="sf-wrapper">
+  	<img class="sf-logo" src="https://d2fizz4npx5v6x.cloudfront.net/images/Pepper_Logo_2016.svg">
+
+  	<p> 
+  		<span class="sf-title"> Orchestrate Your <span class="sf-italic">Inbox</span></span> <br>
+  		<span class="sf-subtitle"> What are your interests?  Fine-tune your email so you receive only what's important to you. </span>		
+  	</p>
+
+  	<img class="sf-icon" src="https://d2fizz4npx5v6x.cloudfront.net/images/footeremailicon2.png"> 
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	<div class="userinfo1">  <!-- INITIAL EMAIL REQUEST -->
+  		<form id="mc_signup_form" action="/sheet-music/mailchimp">
+  			<input type="text" id="email-signup" name="email-signup" placeholder="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'email'"><br>  					
+  			<input type="submit" value="Sign In or Sign Up">
+  		</form>	
+  		
+  		<p class="confirmationmessage" style="display: none;">Thank you! Please check your inbox.  We've sent an email with a link to update your preferences.</p>
+  		
   	</div>
-  	<div> 
-  	<div class="footer-fourth-column">
-    	<div class="footer-col-heading">MORE WAYS TO SHOP</div>
-    	<div class="footer-col-heading re-footer-heading">More Ways To Shop</div>
-    	<div class="re-footer-col">
-        	<a class="footerlink" href="/sheet-music/services-catalogs.jsp">Catalogs</a> <br>
-            <a class="footerlink" href="/sheet-music/services-gift-cards.jsp"> Gift  Cards</a><br>
-            <a class="footerlink" href="http://PianoAtPepper.com/">PianoAtPepper.com</a><br>
-        </div>     
-	</div><!-- /footer-fifth-column --> 
-    <div class="footer-fifth-column">
-  		<div class="footer-col-heading">ADDITIONAL SERVICES</div>
-  		<div class="footer-col-heading re-footer-heading">Additional Services</div>
-  		<div class="re-footer-col">
-			<a class="footerlink" href="/sheet-music/services-crescendo-rewards.jsp">Crescendo Rewards</a><br>
-            <a class="footerlink" href="/sheet-music/services-folder.jsp">Folder Imprinting</a><br>
-            <a class="footerlink" href="/sheet-music/fundraising/index.jsp">Pepper Fundraising</a><br>
-            <a class="footerlink" href="http://www.jwpepper.com/myscore">My Score</a><br>
-            <a class="footerlink loginRequired" href="/sheet-music/downloads"> My Downloads</a><br>
-            <a class="footerlink invReprintLink myaccount-links" href="#">Invoice Reprints</a><br>
-            <a class="footerlink myaccount-links" href="/sheet-music/services-bookkeeper.jsp">Bookkeeper Services</a><br>
-          </div>
-  	</div><!-- /footer-sixth-column -->
-    <div class="footer-sixth-column">
-  		<div class="footer-col-heading">ABOUT US</div>
-  		<div class="footer-col-heading re-footer-heading">About Us</div>
-  		<div class="re-footer-col">
-			<a class="footerlink" href="/sheet-music/services-since1876.jsp">Since 1876</a><br>
-            <a class="footerlink" href="/sheet-music/services-press.jsp">Press Releases</a><br>
-            <a class="footerlink" href="/sheet-music/services-legal.jsp">Legal Notice</a><br>
-            <a class="footerlink" href="/sheet-music/services-privacy.jsp">Privacy</a><br>
-            <a href="/sheet-music/sitemap_jwp.jsp" class="footerlink">Site Map</a><br>
-         </div>
-  	</div><!-- /footer-sixth-column --> 
-  	</div>
-</div>  
+  	
+  	
+  	<form id="mc-embedded-subscribe-form" class="mc-suscribe-form" action="https://jwpepper.us6.list-manage.com/subscribe/post?u=6bc16e59aaf594cd6d97e036b&amp;id=99c7545329"> 
+	  	<div class="contactinfo"> <!-- FIRST TIME SUBSCRIPTION --> 
+	  		<input type="text" class="" id="mce-FNAME" name="FNAME" placeholder="FIRST NAME" onfocus="this.placeholder = ''" onblur="this.placeholder = 'FIRST NAME'">
+	  		<input type="text" class="" id="mce-LNAME" name="LNAME" placeholder="LAST NAME" onfocus="this.placeholder = ''" onblur="this.placeholder = 'LAST NAMES'"> <br>
+	  		<input type="text" class="" id="mce-EMAIL" name="EMAIL" placeholder="EMAIL ADDRESS" onfocus="this.placeholder = ''" onblur="this.placeholder = 'EMAIL ADDRESS'">
+		  	<input type="text" class="" id="mce-ZIP" name="ZIP" placeholder="ZIP CODE" onfocus="this.placeholder = ''" onblur="this.placeholder = 'ZIP CODE'"><br>
+		  	
+		  	
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  	
 
-	<div style="clear: both;"></div>
-    
-<img class="pepper-footer-logo" src="http://cdn.jwpepper.com/images/pepper-footer-logo.png" alt="JW Pepper">
+  	<p class="sf-left disabledlable"> 
+  		<span class="sf-sectiononetitle"> Pepper Music eClubs </span> <br>
+  		<span class="sf-sectiononesubtitle"> Everything you need for the upcoming season and special recommendations from our editors!  Each club is sent monthly (unless otherwise noted).</span>		
+  	</p>
 
-	<div class="copyright">
-		Copyright ©
-		<script type="text/javascript">
-            var d = new Date();
-            document.write(d.getFullYear());
-        </script>2020
-        J.W. Pepper &amp; Son<sup>®</sup>, Inc. &nbsp;&nbsp;&nbsp;<span>All prices are subject to publisher revision.</span>
-	</div><!-- /copyright -->
-</div><!-- /footer-wrapper -->
-</div><!--end of footer-background-->
-<!-- SiteCatalyst code version: H.24.2. Copyright 1996-2012 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com --> 
+
+  	
+
+
+		<div class="category category2">
+  			<p class="category-title disabledlable">Choral</p>
+	  		<input type="checkbox" name="group[6573][134217728]" value="134217728" id="choral_elementary">
+	  		<label class="disabledlable" for="choral_elementary"> Elementary</label>
+	  		<input type="checkbox" name="group[6573][268435456]" value="268435456" id="choral_middle_school_junior_high">
+	  		<label class="disabledlable" for="choral_middle_school_junior_high"> Middle/Junior High</label>
+	  		<input type="checkbox" name="group[6573][16]" value="16" id="choral_high_school">
+	  		<label class="disabledlable" for="choral_high_school"> High School</label>
+	  		<input type="checkbox" name="group[6573][32]" value="32" id="choral_advanced_collegiate">
+	  		<label class="disabledlable" for="choral_advanced_collegiate"> Advanced/Collegiate</label>
+	  		<input type="checkbox" name="group[6573][536870912]" value="536870912" id="choral_mens_womens">
+	  		<label class="disabledlable" for="choral_mens_womens"> Men's &amp; Women's</label>
+	  		<input type="checkbox" name="group[6573][1073741824]" value="1073741824" id="choral_show_jazz">
+	  		<label class="disabledlable" for="choral_show_jazz"> Show &amp; Jazz</label>
+	  		<input type="checkbox" name="group[6573][2147483648]" value="2147483648" id="choral_a_cappella_pop">
+	  		<label class="disabledlable" for="choral_a_cappella_pop"> A Cappella Pop</label>
+	  		<input type="checkbox" name="group[6573][4294967296]" value="4294967296" id="choral_a_cappella_barbershop_sweet_adeline">
+	  		<label class="disabledlable" for="choral_a_cappella_barbershop_sweet_adeline"> A Cappella, Barbershop, Sweet Adeline</label>
+	  		<input type="checkbox" name="group[6573][16777216]" value="16777216" id="choral_community_choir">
+	  		<label class="disabledlable" for="choral_community_choir"> Community Choir</label>
+	  	</div>  
+	  	
+	  	<div class="category category2">
+	  		<p class="category-title disabledlable">Church</p>
+	  		<input type="checkbox" name="group[6581][1099511627776]" value="1099511627776" id="church_music_contemporary">
+	  		<label class="disabledlable" for="church_music_contemporary">Contemporary</label>
+	  		<input type="checkbox" name="group[6581][128]" value="128" id="church_music_traditional_and_blended">
+	  		<label class="disabledlable" for="church_music_traditional_and_blended">Traditional and Blended</label>
+	  		<input type="checkbox" name="group[6581][2199023255552]" value="2199023255552" id="church_music_liturgical_and_advanced">
+	  		<label class="disabledlable" for="church_music_liturgical_and_advanced">Liturgical and Advanced</label>
+	  		<input type="checkbox" name="group[6581][256]" value="256" id="church_music_childrens_choir">
+	  		<label class="disabledlable" for="church_music_childrens_choir">Children's Choir</label>
+	  		<input type="checkbox" name="group[6581][512]" value="512" id="church_music_piano">
+	  		<label class="disabledlable" for="church_music_piano">Piano</label>
+	  		<input type="checkbox" name="group[6581][4398046511104]" value="4398046511104" id="church_music_organ">
+	  		<label class="disabledlable" for="church_music_organ">Organ</label>
+	  		<input type="checkbox" name="group[6581][8796093022208]" value="8796093022208" id="church_music_instrumental">
+	  		<label class="disabledlable" for="church_music_instrumental">Instrumental</label>
+	  		<input type="checkbox" name="group[6581][1024]" value="1024" id="church_music_handbells">
+	  		<label class="disabledlable" for="church_music_handbells">Handbells</label>
+	  	</div>
+
+  		<div class="category category2">
+  			<p class="category-title disabledlable">Band</p>  			
+	  		<input type="checkbox" name="group[6565][1]" value="1" id="band_elementary">
+	  		<label class="disabledlable" for="band_elementary">Elementary</label>
+	  		<input type="checkbox" name="group[6565][2]" value="2" id="band_middle_school_junior_high">
+	  		<label class="disabledlable" for="band_middle_school_junior_high">Middle/Junior High</label>
+	  		<input type="checkbox" name="group[6565][4]" value="4" id="band_high_school">
+	  		<label class="disabledlable" for="band_high_school">High School</label>
+	  		<input type="checkbox" name="group[6565][33554432]" value="33554432" id="band_advanced">
+	  		<label class="disabledlable" for="band_advanced">Advanced</label>
+	  		<input type="checkbox" name="group[6565][549755813888]" value="549755813888" id="band_marching_band">
+	  		<label class="disabledlable" for="band_marching_band">Marching Band</label>
+	  		<input type="checkbox" name="group[6565][4194304]" value="4194304" id="band_community_band">
+	  		<label class="disabledlable" for="band_community_band">Community Band</label>	
+	  	</div>
+
+  		<div class="category category2">
+  			<p class="category-title disabledlable">Orchestra</p>
+	  		<input type="checkbox" name="group[6569][137438953472]" value="137438953472" id="orchestra_elementary">
+	  		<label class="disabledlable" for="orchestra_elementary">Elementary</label>
+	  		<input type="checkbox" name="group[6569][8]" value="8" id="orchestra_middle_school_junior_high">
+	  		<label class="disabledlable" for="orchestra_middle_school_junior_high">Middle/Junior High</label>
+	  		<input type="checkbox" name="group[6569][8388608]" value="8388608" id="orchestra_high_school">
+	  		<label class="disabledlable" for="orchestra_high_school">High School</label>
+	  		<input type="checkbox" name="group[6569][274877906944]" value="274877906944" id="orchestra_college_and_community">
+	  		<label class="disabledlable" for="orchestra_college_and_community">College and Community</label>
+	  	</div>
+	  	
+
+	  	<div class="category category2 category3">
+  			<p class="category-title disabledlable">General Music </p>
+	  		<input type="checkbox" name="group[6577][64]" value="64" id="general_music">
+	  		<label class="disabledlable" for="general_music">General Music</label>	
+	  	</div>	  	
+
+
+		<div class="category category3">
+  			<p class="category-title disabledlable">Vocal</p>
+	  		<input type="checkbox" name="group[6589][524288]" value="524288" id="vocal_sacred_repertoire">
+	  		<label class="disabledlable" for="vocal_sacred_repertoire">Sacred Repertoire</label>
+	  		<input type="checkbox" name="group[6589][1048576]" value="1048576" id="vocal_classical_repertoire">
+	  		<label class="disabledlable" for="vocal_classical_repertoire">Classical Repertoire</label>
+	  		<input type="checkbox" name="group[6589][131072]" value="131072" id="vocal_popular_and_jazz">
+	  		<label class="disabledlable" for="vocal_popular_and_jazz">Popular &amp; Jazz</label>
+	  		<input type="checkbox" name="group[6589][262144]" value="262144" id="vocal_broadway_and_movies">
+	  		<label class="disabledlable" for="vocal_broadway_and_movies">Broadway &amp; Movies</label>
+	  	</div>
+
+	  	<div class="category category2 category3  category4">
+  			<p class="category-title disabledlable">Instrumental</p>
+	  		<input type="checkbox" name="group[6585][2048]" value="2048" id="instrumental_woodwind">
+	  		<label class="disabledlable" for="instrumental_woodwind">Woodwind</label>
+	  		<input type="checkbox" name="group[6585][4096]" value="4096" id="instrumental_brass">
+	  		<label class="disabledlable" for="instrumental_brass">Brass</label>
+	  		<input type="checkbox" name="group[6585][16384]" value="16384" id="instrumental_strings">
+	  		<label class="disabledlable" for="instrumental_strings">Strings</label>
+	  		<input type="checkbox" name="group[6585][8192]" value="8192" id="instrumental_percussion">
+	  		<label class="disabledlable" for="instrumental_percussion">Percussion</label>
+	  		<input type="checkbox" name="group[6585][32768]" value="32768" id="instrumental_piano">
+	  		<label class="disabledlable" for="instrumental_piano">Piano</label>
+	  		<input type="checkbox" name="group[6585][65536]" value="65536" id="instrumental_guitar_and_fretted">
+	  		<label class="disabledlable" for="instrumental_guitar_and_fretted">Guitar &amp; Fretted</label>
+	  	</div>
+ 	
+		<div class="category category2 category3 category4">
+  			<p class="category-title disabledlable">Jazz</p>
+	  		<input type="checkbox" name="group[6809][8589934592]" value="8589934592" id="jazz_ensemble_elementary">
+	  		<label class="disabledlable" for="jazz_ensemble_elementary">Elementary</label>
+	  		<input type="checkbox" name="group[6809][17179869184]" value="17179869184" id="jazz_ensemble_middle_school_junior_high">
+	  		<label class="disabledlable" for="jazz_ensemble_middle_school_junior_high">Middle/Junior High</label>
+	  		<input type="checkbox" name="group[6809][34359738368]" value="34359738368" id="jazz_ensemble_high_school">
+	  		<label class="disabledlable" for="jazz_ensemble_high_school">High School</label>
+	  		<input type="checkbox" name="group[6809][68719476736]" value="68719476736" id="jazz_ensemble_advanced">
+	  		<label class="disabledlable" for="jazz_ensemble_advanced">Advanced</label>
+	  	</div>
+
+	  	<div class="category category3 category4">
+  			<p class="category-title disabledlable">Music Library </p>
+	  		<input type="checkbox" name="group[6593][2097152]" value="2097152" id="music_library">
+	  		<label class="disabledlable" for="music_library">Music Library</label>
+	  	</div>
+
+
+	  	
+
+
+	  
+
+
+		<hr class="sf-hr">	
+
+	  	<p class="sf-left disabledlable"> 
+	  		<span class="sf-sectiononetitle"> Cued In - The Pepper Blog</span> <br>
+	  		<span class="sf-sectiononesubtitle pushdown"> A weekly digest of insightful articles, helpful resources, and interviews with leading composers and arrangers</span><br>
+	  		<input type="checkbox" name="group[6813][17592186044416]" value="17592186044416" id="cued_in" checked="">
+	  		<label class="disabledlable" for="cued_in">Subscribe to Cued In</label>	
+	  	</p>
+
+
+	  	<hr class="sf-hr">
+
+	  	<!-- <p class="sf-left"> 
+	  		<span class="sf-sectiononetitle"> Pepper Live </span> <br/>
+	  		<span class="sf-sectiononesubtitle pushdown"> Exclusive invitations to events in your area designed for today's music teachers and directors</span>	<br/>
+	  		<input type="checkbox" name="pepper_live_eclub" value="pepper_live" id="pepper_live"><label class="disabledlable" for="pepper_live">Subscribe to Pepper Live</label>
+	  	</p> -->
+
+	  	
+		<input class="keepmeinf" type="submit" value="KEEP ME INFORMED">
+		<p class="confirmationmessage2">Thanks, you're almost done! Please check your inbox and click the link to complete your subscription.</p>
+		
+  	</form>
+
+
+<script type="text/javascript" src="/js/newsletter_subscriptions.js"></script>
+  </div>
+
+
+
+
+
+
+	</div>
+</div> 
+
+
+<!-- 2016 FOOTER REDESIGN -->
+  <script type="text/javascript">
+ 	$( ".footer-ad1" ).click(function() {
+	  	var height1 = $( document ).height(); 
+		$('.newsletter-overlay').css('height', height1 + 'px');
+		$( ".newsletter-overlay" ).fadeIn( "slow");
+	});
+	$( ".close-newsletter-overlay" ).click(function() {
+		$( ".newsletter-overlay" ).fadeOut( "fast");
+	}); 
+
+	$('#id-newsletter-overlay').click(function(e) {
+	    if (e.target.id === "id-newsletter-overlay"){
+	        $('#id-newsletter-overlay').fadeOut("fast");
+	    }
+	}); 
+	
+	$(".footer-ad").hover(function(){$(this).children(".footer-icon1").fadeTo("fast",1),$(this).children(".footer-icon2").fadeTo("fast",1e-4),$(this).addClass("footer-adhov")},function(){$(this).children(".footer-icon1").fadeTo("fast",1e-4),$(this).children(".footer-icon2").fadeTo("fast",1),$(this).removeClass("footer-adhov")}),$(".footer-category-mobile").toggle(function(a){$(this).parent(".footer-five").css("padding-bottom","20px"),$(this).css("padding-bottom","0px"),$(this).next("ul").children("li").css("display","block");var b=$(this).next("ul").outerHeight(),c=55+b;$(this).parent(".footer-five").animate({height:c},200),$(this).next("ul").children("li").fadeTo("slow",1),$(".footer-five").not($(this).parent(".footer-five")).css("padding-bottom","0px"),$(".footer-category-mobile").not(this).css("padding-bottom","20px"),$(".footer-five ul li").not($(this).next("ul").children("li")).fadeTo("fast",0),$(".footer-five").not($(this).parent(".footer-five")).animate({height:"55px"},200),$(".footer-five ul li").not($(this).next("ul").children("li")).css("display","none"),a.stopPropagation()},function(){$(this).parent(".footer-five").css("padding-bottom","0px"),$(this).css("padding-bottom","20px"),$(this).next("ul").children("li").fadeTo("fast",0),$(this).parent(".footer-five").animate({height:"55px"},200),$(this).next("ul").children("li").css("display","none")});
+  </script>
+<!-- 2016 FOOTER REDESIGN END -->
+
 		<script type="text/javascript">
 			$(".footer-first-column .re-footer-heading").click(function() {
 				$(".re-footer-col").hide("fast");
@@ -947,20 +1648,22 @@ Monday - Friday 8:00am - 8:30pm ET &nbsp; · &nbsp; Saturday 9:00am - 7:00pm ET
 			});
 		</script>
 
-<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script><img name="s_i_eremediadev" height="1" width="1" border="0" alt=""> 
-<!--code for jwp -->
-<script language="JavaScript" type="text/javascript" src="/js/pagecode.js"></script> 
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1321.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b);}, 1);
 </script>
+  <script>
+  var thispagename = document.getElementById("pagename").innerHTML;
+  ga('set', 'contentGroup1', thispagename); 
+  ga('send', 'pageview');
+  </script>
 
-  <!-- End SiteCatalyst code version: H.24.2. -->
-  
+
+  </div>
   <!-- /footer-wrapper --> 
-
+</div>
 <!-- full-page-wrapper -->
 
-</body></html>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
