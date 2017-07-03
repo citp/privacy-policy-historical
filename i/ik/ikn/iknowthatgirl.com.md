@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iknowthatgirl.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530064524id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Diktg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iknowthatgirl.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703194718id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Diktg) for the most accurate reproduction.*
 
 # Privacy Policy - IKnowThatGirl.com
 
