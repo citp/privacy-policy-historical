@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saanapay.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085916id_/http%3A//saanapay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saanapay.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703214031id_/http%3A//saanapay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SaanaPay™ - Fast, Secure, Reliable Payments
 
@@ -77,7 +77,7 @@ Regardless, we will not disclose your credit card number, ATM Card number or ban
 
 Federal and State laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing . Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows:
 
-If you do not want SaanaPay to share your personal information with any third party for marketing purposes, you may send an email to that effect to [support@saanapay.ng](https://web.archive.org/web/20170606085916id_/http%3A//saanapay.com/support@saanapay.ng) You can also control how we use your contact information to market our services to you in the notifications preferences.
+If you do not want SaanaPay to share your personal information with any third party for marketing purposes, you may send an email to that effect to [support@saanapay.ng](https://web.archive.org/web/20170703214031id_/http%3A//saanapay.com/support@saanapay.ng) You can also control how we use your contact information to market our services to you in the notifications preferences.
 
 #### **HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION**
 
