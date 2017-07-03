@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indexification.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152923id_/http%3A//indexification.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexification.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703191012id_/http%3A//www.indexification.com/privacy.php) for the most accurate reproduction.*
 
 # INDEXIFICATION - Privacy Policy
 
