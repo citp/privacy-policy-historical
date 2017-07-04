@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625180306id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704120214id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NBME
 
