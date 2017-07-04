@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620100353id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704200654id_/https%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,3 +33,16 @@ If at any time you wish to be removed from our mailing list, please click here t
 If you subscribe to Money Map Press, your name and e-mail address will be placed in a database. As with all other personal information, only employees of Money Map Press have access to this data. We do not give Money Map Press addresses to outside companies.
 
 Any e-mail you send to Money Map Press is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
+
+By subscribing to any Money Map Press email newsletter you may also receive occasional offers about products and services available to you from Money Map Press and our affiliates. You can unsubscribe from these offers at any time. For your convenience, you can manage your email subscriptions at any time by [clicking here](https://moneymappress.com/cs/web/unsub/preform.php?src=mmp).
+
+If you have any questions or concerns please contact our [Customer Service team](https://moneymappress.com/cs/customer-service-form2.php?src=mmp).
+
+Address:  
+Money Map Press, LLC  
+16 W. Madison St.  
+Baltimore, MD, 21201
+
+Toll-free 1.888.384.8339  
+International +1.443.353.4519  
+Fax 1.410.622.3050
