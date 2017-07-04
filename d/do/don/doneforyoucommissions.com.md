@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doneforyoucommissions.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504183224id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneforyoucommissions.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704211755id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Marketing Blog - By James Francis
 
