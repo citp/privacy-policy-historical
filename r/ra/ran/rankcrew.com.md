@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankcrew.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405033416id_/http%3A//rankcrew.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankcrew.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704044944id_/https%3A//www.rankcrew.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ We are not responsible for the privacy policies or practices of any third party.
 
 If you have any questions about this privacy policy or our treatment of your personal information, you can contact us at the support desk, which is at: 
 
-Support desk: [www.askjonleger.com/support/](http://askjonleger.com/support/)
+Support desk: [www.support.rankcrew.com](http://support.rankcrew.com/)
