@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627202253id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704210224id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Classic Rummy Privacy Policy
 
@@ -78,5 +78,3 @@ If You send Us an e-mail or give any feed back to ClassicRummy through the Websi
     7. ClassicRummy does not assume liability for any events beyond Our direct control or events arising from Force Majeure, such as acts of God, of governmental authorities, war, political unrest, civil disturbances or changes in applicable law. Despite Our best efforts to maintain Your privacy, due to the nature of the prevailing technology and software, We cannot guarantee, nor do We represent that there will be error free performance as regards the privacy of your Personal Information. We shall not be liable for any indirect, incidental, consequential, or punitive damages relating to the use or release of Personal Information.
 
 
-
-[](http://bit.ly/2p8wKZc) [](http://bit.ly/1SygM5F)
