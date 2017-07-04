@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230850id_/https%3A//www.sc.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704225835id_/https%3A//www.sc.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Website privacy statement - Standard Chartered Bank
 
