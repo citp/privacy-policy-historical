@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124113711id_/http%3A//www.voipsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704124804id_/https%3A//www.voipsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VoIP Supply
 
