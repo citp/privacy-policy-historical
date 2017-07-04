@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avhere.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123211517id_/http%3A//www.avhere.com/privacypolicy.php%3Fmenu%3Dnofootbanner) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avhere.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704052415id_/http%3A//www.avhere.com/privacypolicy.php%3Fmenu%3Dnofootbanner) for the most accurate reproduction.*
 
 # Privacy Policy - Sex Videos, Sex Tube, Erotic sex tube, Full free porn videos, Free porn movies, XXX videos, Porn videos :: AVHere.com
 
