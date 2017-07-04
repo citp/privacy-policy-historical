@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the zearn.org privacy policy that was archived on 2016-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223010911id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zearn.org privacy policy that was archived on 2017-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170704061028id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="new-landing-page zearn-2015-buttons"><!--<![endif]--><head>
-  <!-- apple ios stuff -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <link rel="apple-touch-icon" href="//webassets.zearn.org/app_assets/general/logos/touch_icons/touch-icon.png">
+  <meta name="format-detection" content="telephone=no">
   <meta name="p:domain_verify" content="67d61f3880a0630a78a09e07d6889420">
     <meta property="og:title" content="Zearn">
     <meta property="og:description" content="Zearn Math is a digital and downloadable personalized math program for elementary school students and teachers. Zearn Math is created by Zearn, a nonprofit education organization with the mission of providing universal access to a quality math education.">
@@ -17,15 +17,15 @@
 window.gon={};gon.global={"dent_mobile_test_mode":false,"internal_two_factor_required":true,"signup_info_required":true,"freeze_js_time_at_timecop_time":false};
 //]]>
 </script>
-  <link rel="stylesheet" media="all" href="https://d33atdio81inpg.cloudfront.net/assets/application-338586405a51a49e710e02565192896a3f16aec8d7535f985b7cf794f5140ed7.css" debug="false">
+  <link rel="stylesheet" media="all" href="https://d33atdio81inpg.cloudfront.net/assets/application-eb5126bf9576aefc4530cc378d5edcd1908b710b35f41e696c1c338f39f62690.css" debug="false">
 
   <script>
 //<![CDATA[
 window.dentTestMode = false;
 //]]>
 </script>
-  <script src="https://d33atdio81inpg.cloudfront.net/assets/includes-e98f75343d05268694dbe98506c5e003e8f7873e24109275f230ae3dce2dd2a5.js"></script>
-  <script src="https://d33atdio81inpg.cloudfront.net/assets/application-b1689dede604760d928d82aefa5a90c7e505c7fcddab38a9f1130133eb920181.js" debug="false"></script>
+  <script src="https://d33atdio81inpg.cloudfront.net/assets/includes-c1fd62deb13b58671222c68a1c20cdb40be7b6fb34369aa5db653e7e015d90ba.js"></script>
+  <script src="https://d33atdio81inpg.cloudfront.net/assets/application-f1127ebc36629c63e1f27f68e98c67b8e21abe9571ec66bcdd24907b1aece95d.js" debug="false"></script>
   
   <script type="text/javascript" src="//d1upvds2zd88dk.cloudfront.net/jwplayer-7.4.3/jwplayer.js"></script>
   <script>jwplayer.key="WXKr0anCnlPrRLcdiGdMZa9GHZc/qSl/TcOS7LKhf1Q=";</script>
@@ -64,7 +64,7 @@ window.dentTestMode = false;
 
     $(document).ajaxError(function (e, xhr, settings) {
       timeoutMessage = 'Your session expired, please sign in again to continue.'
-      invalidMessage = 'Invalid email or password.'
+      invalidMessage = 'Invalid username or password.'
       if (xhr.status === 401 && (xhr.responseText === timeoutMessage || xhr.responseText === invalidMessage || xhr.responseJSON.error === timeoutMessage || xhr.responseJSON.error === invalidMessage)) { // probable Devise timeout
         alert(timeoutMessage);
         location.reload(); // reload whole page so Devise will redirect to sign-in
@@ -76,7 +76,7 @@ window.dentTestMode = false;
   <title>Zearn</title>
   <meta name="description" content="">
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="8SkrOJ1vOWEc2ztwfDcWeEUCeN8x3JBzpWFZrpvwLjZs6q5V+1VCXa35pUP2LwdDKHzfpG2Lx0mN9XXVV2kxWw==">
+<meta name="csrf-token" content="vt1ABMb+Uu71Vv6/dozQosM78rJmTqnLXJpQuZt305TRtqNSq319eKh+WcRj8/ew50bkziOfAaRYK6MYNFeaow==">
   <link rel="shortcut icon" href="//webassets.zearn.org/assets/zearn_fav_new.png">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -97,9 +97,9 @@ window.dentTestMode = false;
     } else if (gon.is_student) {
       userType = 'student';
     } else if (gon.role == 'staff') {
-      if (gon.adminable_type == 'District') {
+      if (gon.admin_type == 'District') {
         userType = 'group_admin';
-      } else if (gon.adminable_type == 'School') {
+      } else if (gon.admin_type == 'School') {
         userType = 'school_admin';
       } else {
         userType = 'teacher';
@@ -133,10 +133,7 @@ window.dentTestMode = false;
   <div id="privacy-inner" class="inner">
     <div class="content">
       <h1>ZEARN PRIVACY POLICY</h1>
-      <p><em>
-        We've recently updated our Privacy Policy to help make it easier for you to understand our data collection and handling practices.  Please be assured that we have not changed our data handling practices.  We've simply changed the way we describe them in an attempt to improve our clarity and transparency.
-      </em></p>
-      <p style="text-align: right">Last Updated:  April 2016</p>
+      <p style="text-align: right">Last Updated:  March 2017</p>
       <br>
 
       <p>At Zearn, we are committed to protecting your privacy. This Privacy Policy explains the types of information we collect on our website, located at <a href="https://www.zearn.org">www.zearn.org</a>, through our Zearn Math and related programs (collectively, “Zearn”) and through our Impoppable app. It further explains how we will use, disclose, and protect your information.  By visiting Zearn, you agree to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use Zearn.</p>
@@ -149,11 +146,11 @@ window.dentTestMode = false;
       <p><u>Information You Provide:</u><br>
       When educators register for Zearn, we ask you to provide certain personal information, such as your first and last name, your role, the name of your school, district, city, state, email address, and a password. Teachers are also asked to provide their grade level.  </p>
       <p>In the alternative, you may register for Zearn by using a pre-existing Google account. Please be aware that Google has its own privacy policy, and we encourage you to read it. By registering with Zearn through your Google account, you agree to our collection and use of any personal information or other data we may receive from them in accordance with the terms of this Privacy Policy. </p>
-      <p>To sign up your students for Zearn, we may ask you to provide each student’s first and last name, and unique student identifier, as well as log-in information including username and password and non-personal information such as gender, current grade level, and date of birth. Zearn only collects information about students when it is provided by a school representative legally authorized to share the student’s information. Students under 13 may not register on their own.</p>
+      <p>To sign up your students for Zearn, we may ask you to provide each student’s first and last name, and unique student identifier, as well as log-in information including username and password and non-personal information such as current grade level. Zearn only collects information about students when it is provided by a school representative legally authorized to share the student’s information. Students under 13 may not register on their own.</p>
       <p>You may also choose to register your students on Zearn using a school authorized Google email account. By doing so, you confirm that you have obtained any necessary permissions from your school, district, and parents.</p>
       <p>Users may also provide feedback on Zearn or report a problem.</p>
       <p><u>Program Information:</u><br>
-      When your students use Zearn, we collect certain information, such as when a student starts and stops a lesson, which lessons a student chooses to do, the responses students provide to questions asked, and the timing of those responses.
+      When your students use Zearn, we collect certain information, such as which lessons a student is assigned, the responses students provide to questions asked, and the timing of those responses.
       </p>
       <p><u>Site Usage Information:</u><br>
       When using Zearn, our servers automatically collect certain site usage information associated with your computer. Site usage information is non-personal information that includes, but is not limited to, browser type, operating system, IP address, and the domain name from which you accessed Zearn. It may also include information such as the date and time you accessed Zearn, how much time you spent on Zearn, the pages you visit, and other “click-stream” data.  </p>
@@ -167,20 +164,18 @@ window.dentTestMode = false;
       <h2>2.	How We Use Your Information:</h2>
       <p><u>Information You Provide:</u><br>
       We may use the information that you provide when you register for Zearn to create your account. This allows you to log in, register a classroom within the product, and sign up your students.  </p>
-      <p>We may use your email address to send you information regarding your Zearn account. We may also use your email address to send you a newsletter if you choose to subscribe.</p>
+      <p>We may use your email address to send you information regarding your Zearn account. We may also use your email address to send you a newsletter and other communications; you may unsubscribe at any time.</p>
       <p>We use the student names solely to facilitate a teacher, school, or district’s identification of their students using Zearn. </p>
       <p>When users provide feedback or report a concern, we use their information to respond to their request or fix the issue. We do not email students directly at any time; any concerns reported by a student will be resolved through the adult who created the student’s account.</p>
-      <p>You always remain in control of the personal information you provide to us about you and your students. This means that you can review, revise, or delete your personal information or that of your students as described below.</p>
-      <p>Non-personal information, such as gender, grade level, date of birth, and other demographic information are used in aggregated, anonymized reporting to help us better understand how the program is used and to improve the program.  </p>
+      <p>You remain in control of the personal information you provide to us about yourself and your students. This means that you can review, revise, or delete your personal information or that of your students as described below.</p>
+      <p>Non-personal information, such as grade level, and other demographic information are used in aggregated, anonymized reporting to help us better understand how the program is used and to improve the program.  </p>
       <p><u>Program Information:</u><br>
       We use Program Use Information to (1) provide you with information regarding your students’ usage and performance on Zearn and  (2) to serve sequential and progressive lessons to your students.  </p>
       <p>In addition, we may use aggregated, anonymized Program Use Information to improve and demonstrate the efficacy of Zearn.</p>
       <p><u>Site Usage Information:</u><br>
       We use Site Usage Information to administer the site and program, monitor and diagnose problems with it, remember you when you return so that you don’t have to resubmit your information and so that we can maintain your progress, and to improve our program.</p>
-      <p>We do not combine the personal information that you provide at registration with Program or Site Usage information. </p>
       <p><u>App Usage Information:</u><br>
       We use App Usage Information to administer the app, to monitor and diagnose problems with it, remember you when you return so that we can maintain your progress, and to improve our products.</p>
-      <p>Although you may create a user name within the app, we do not collect that information on our servers and do not combine it with App Usage Information.</p>
 
       <br>
 
@@ -190,7 +185,7 @@ window.dentTestMode = false;
         </p><ul>
           <li>When we believe in good faith that disclosure of your information is necessary to protect our rights and those of others, to protect your safety or the safety of others, to investigate fraud or to respond to a government, judicial or other legal request or to comply with the law.</li>
           <li>In connection with an organizational change, such as a dissolution, provided that your information and that of your students will remain subject to the terms of this Privacy Policy.</li>
-          <li>We sometimes hire third parties to perform certain business-related functions for us. Examples include mailing information, maintaining databases, hosting services, and processing payments. When we employ another company to provide services to support Zearn, we provide them with the information that they need to perform their specific function. This may include your personal information, but will not include personal information from your students. Our third parties are legally obligated to keep your personal information confidential and use it only for our specific purpose.  </li>
+          <li>We sometimes hire third parties to perform certain business-related functions for us. Examples include mailing information, maintaining databases, hosting services, and processing payments. When we employ another company to provide services to support Zearn, we provide them with the information that they need to perform their specific function. Our third parties are legally obligated to keep your personal information confidential and use it only for our specific purpose.  </li>
         </ul>
       <p></p>
       <p>We may also share certain aggregated, de-identified information with third party providers to help us analyze the information.  Our third party providers are prohibited from further sharing or making additional use of the data.</p>
@@ -199,14 +194,14 @@ window.dentTestMode = false;
 
       <h2>4.	Your Access and Opt-Out Rights</h2>
       <p>You may review or change the information you have provided about yourself by logging into your account or by contacting us at <a href="mailto:support@zearn.org">support@zearn.org</a>. If you contact us, we will ask you to verify your identity before we provide you with information or make changes.  </p>
-      <p>If you are an educator who has provided us with personal information about your students, you may review, revise, or delete that information at any time by logging into your account and accessing your classroom portal.</p>
-      <p>You may also choose to opt in or opt out of email messages and newsletters from us.  To opt out, simply click on the “unsubscribe” button that appears on emails or contact us at <a href="mailto:support@zearn.org">support@zearn.org</a></p>
+      <p>If you are an educator who has provided us with personal information about your students, you may review or revise that information at any time by logging into your account and accessing your classroom portal.</p>
+      <p>You may also choose to opt out of email messages and newsletters from us.  To opt out, simply click on the “unsubscribe” button that appears on emails or contact us at <a href="mailto:support@zearn.org">support@zearn.org</a></p>
       <p>If you are a parent or legal guardian of a minor child, you may also have the right to access certain information about your child. To do so, we request that you contact your school or district, which may access your child’s information through their classroom portal.</p>
 
       <br>
 
       <h2>5.	Data Retention:</h2>
-      <p>You may inactivate your or your student(s)’ account at anytime through the product account dashboard. Following inactivation, we will retain inactive account data for a period of 6 months so that you may easily reactivate your account within that limited period and retain continuity of your classroom progress. However, you may request deletion of your account data earlier by contacting us at <a href="mailto:support@zearn.org">support@zearn.org</a>. During the 6 months that your account is inactive, we do not access your account data.</p>
+      <p>You may deactivate your student(s)’ account at anytime through the product account dashboard. Following deactivation, we will retain deactivated account data for a period of 6 months so that you may easily reactivate your account within that limited period and retain continuity of your classroom progress. However, you may request deletion of your account data earlier by contacting us at <a href="mailto:support@zearn.org">support@zearn.org</a>. During the 6 months that your account is inactive, we do not access your account data.</p>
       <p>We do retain aggregated, anonymized information for some of the purposes described above.  </p>
 
       <br>
@@ -227,9 +222,8 @@ window.dentTestMode = false;
       <p>
         If you have any questions about this Privacy Policy, please contact us:<br>
         Zearn, Inc.<br>
-        261 West 35th Street<br>
-        15th Floor<br>
-        New York, NY 10001<br>
+        PO Box 20<br>
+        New York, NY 10116<br>
         <a href="mailto:support@zearn.org">support@zearn.org</a>
       </p>
 
@@ -245,7 +239,7 @@ window.dentTestMode = false;
     <section class="links">
       <ul class="internal">
         <li>
-          <a target="_blank" href="http://help.zearn.org/">Help Center</a>
+          <a target="_blank" href="https://help.zearn.org/hc">Help Center</a>
         </li>
         <li>
           <a href="/about_us">About</a>
@@ -259,7 +253,7 @@ window.dentTestMode = false;
         <li>
           <a href="/termsofuse">
             <div>Terms of Use</div>
-            <div class="updated">(Updated December 2016)</div>
+            <div class="updated">(Updated June 2017)</div>
 </a>        </li>
         <li class="privacy-policy">
           <a href="/privacy">
@@ -273,7 +267,7 @@ window.dentTestMode = false;
   });
 </script>
 <div class="newsletter-subscriptions form ">
-  <form novalidate="novalidate" action="/privacy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="R5Bx9/SFDv8Bj4zCKTY8NdkMDpc7NZwzPr8mRn8gYBbaU/Sakr91w7CtEvGjLi0OtHKp7GdiywkWKwo9s7l/ew==">
+  <form novalidate="novalidate" action="/privacy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="qaL3wKVha47zSz65QN6skmEl522iRE9TB83lkHrCkHDGyRSWyOJEGK5jmcJVoYuARVjxEeeV5zwDfBYx1eLZRw==">
     <div class="caption">Sign up for updates and tips from the Zearn community!</div>
     <div class="error"></div>
     <input type="email" name="newsletter_email" id="newsletter_email" value="" placeholder="Email address">
@@ -290,18 +284,12 @@ window.dentTestMode = false;
           <a target="_blank" class="fa fa-twitter" href="https://twitter.com/zearned/"></a>
         </li>
         <li>
-          <a target="_blank" class="fa fa-pinterest-p" href="https://www.pinterest.com/zearned/"></a>
-        </li>
-        <li>
           <a target="_blank" class="fa fa-facebook-square" href="https://www.facebook.com/zearn/"></a>
-        </li>
-        <li>
-          <a target="_blank" class="fa fa-instagram" href="https://www.instagram.com/zearnmath/"></a>
         </li>
       </ul>
 
       <div class="copyright">
-        © 2016 Zearn
+        © 2017 Zearn
       </div>
     </section>
   </div>
