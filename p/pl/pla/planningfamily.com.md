@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401220950id_/https%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704104420id_/https%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Notice: We may gather and use information as follows:
 
 You can always choose not to provide certain information to us, however, you will not be able to take advantage of many of our offers and exciting site features. If you have previously provided certain information to us and you desire to remove such information from our databases, or if you do not wish for your information to be disclosed to third parties, you may contact us at [memberservices@EverydayFamily.com](mailto:memberservices@EverydayFamily.com) to remove such information. If you have requested that this information be sent to third parties for the fulfillment of offers or any other reason, you will have to contact the third party directly to remove or modify your information. We may provide your personal information to companies that provide services to help us with our business activities such as our email service. These companies are authorized to use your personal information  _only as necessary_  to provide these services to us.
 
-(b) Automatic Information / Login: To enable us to provide content that users need and desire, we collect aggregated site-visitation statistics using cookies. A Cookie is simply a small data file we place on your computer’s hard drive when you first visit the Web Site (“Cookie”). This file contains an encrypted unique number that helps us identify you when you return to the Web Site. Cookies are employed by thousands of web sites to enhance users’ web viewing experience. Cookies can neither damage user files nor can they read information from users’ hard drives. Allowing us to create a Cookie on your hard drive will not give us or any other site access to the rest of your computer’s hard drive, and only we will be able to read the Cookie that the Web Site creates. Certain features of EverydayFamily.com may not work without use of automatic information collection technologies. Information collected by these technologies cannot be used to identify you without additional identifiable information.
+(b) Automatic Information / Login: To enable us to provide content that users need and desire, we collect aggregated site-visitation statistics using cookies. A Cookie is simply a small data file we place on your computer's hard drive when you first visit the Web Site (“Cookie”). This file contains an encrypted unique number that helps us identify you when you return to the Web Site. Cookies are employed by thousands of web sites to enhance users' web viewing experience. Cookies can neither damage user files nor can they read information from users' hard drives. Allowing us to create a Cookie on your hard drive will not give us or any other site access to the rest of your computer's hard drive, and only we will be able to read the Cookie that the Web Site creates. Certain features of EverydayFamily.com may not work without use of automatic information collection technologies. Information collected by these technologies cannot be used to identify you without additional identifiable information.
 
 We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
 
@@ -36,9 +36,9 @@ Most web browsers automatically accept Cookies, but if you prefer, you can edit 
 
 (d) Social Networking: You can modify your privacy settings within your My Account screen on the site. By selecting the “Community Preferences” link you can select who can see your profile information and your public messages. If you would like to have an unauthorized profile removed, you can contact us at [memberservices@everydayfamily.com](mailto:memberservices@everydayfamily.com) and we will delete the profile from our records.
 
-(e) Behavioral Advertising: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+(e) Behavioral Advertising: We use third-party advertising companies to serve ads when you visit our Web site and to collect information from emails for advertising purposes. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp> or <http://www.aboutads.info/choices>.
 
-(f) Display Advertising: We utilize Google Analytics for Display Advertising, Google Display Network Impression Reporting, and Demographics and Interests reporting, including Remarketing to advertise online.  This allows third-party vendors, including Google, to show our ads on sites across the internet.  We use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together, to inform, optimize, and serve ads based on someones’s past visits to our website.  These cookies also report ad impressions, interactions with ad services and basic demographic information, such as age, gender and interests.  You can opt-out of Google Analytics for Display advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads).
+(f) Display Advertising: We utilize Google Analytics for Display Advertising, Google Display Network Impression Reporting, and Demographics and Interests reporting, including Remarketing to advertise online.  This allows third-party vendors, including Google, to show our ads on sites across the internet.  We use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together, to inform, optimize, and serve ads based on someones's past visits to our website.  These cookies also report ad impressions, interactions with ad services and basic demographic information, such as age, gender and interests.  You can opt-out of Google Analytics for Display advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads).
 
 **_How this Information is used_**
 
@@ -66,7 +66,7 @@ Please remember that if you post any information in areas of our Site that are g
 
 **_Access and Correction_**
 
-We provide you with the ability to ensure that your personal information is correct and current. You may contact us at [memberservices@everydayfamily.com](mailto:memberservices@everydayfamily.com) with any changes you would like to make to your personal information or if you would like to delete your personal information. For security purposes, we require user verification via user’s email address, first and last name, and zip code to update personal information. We will retain your information for as long as your account is active, as needed to provide you services, to comply with our legal obligations, resolve disputes and enforce our agreements.
+We provide you with the ability to ensure that your personal information is correct and current. You may contact us at [memberservices@everydayfamily.com](mailto:memberservices@everydayfamily.com) with any changes you would like to make to your personal information or if you would like to delete your personal information. For security purposes, we require user verification via user's email address, first and last name, and zip code to update personal information. We will retain your information for as long as your account is active, as needed to provide you services, to comply with our legal obligations, resolve disputes and enforce our agreements.
 
 **_Testimonials_**
 
@@ -74,7 +74,7 @@ With your consent we may post your testimonial along with your name. If you want
 
 **_Security_**
 
-We protect the security of your personal information. We take steps to protect your data from loss, misuse, alteration, destruction, or unauthorized access. While we use security technologies to secure users’ information, we cannot guarantee that any electronic communications is totally secure.
+We protect the security of your personal information. We take steps to protect your data from loss, misuse, alteration, destruction, or unauthorized access. While we use security technologies to secure users' information, we cannot guarantee that any electronic communications is totally secure.
 
 **_Information Retention_**
 
@@ -86,7 +86,7 @@ We may make message boards, comment walls, and other interactive forums availabl
 
 **_Children_**
 
-Users of the Web Site must be at least 13 years old. If a child has provided us with personal information, that child’s parent or guardian should contact us at [memberservices@everydayfamily.com](mailto:info@everydayfamily.com) to delete such information from our records.
+Users of the Web Site must be at least 13 years old. If a child has provided us with personal information, that child's parent or guardian should contact us at [memberservices@everydayfamily.com](mailto:info@everydayfamily.com) to delete such information from our records.
 
 **_Third Party Web Sites_**
 
@@ -120,7 +120,7 @@ Or call : 1-888-660-6631
 
 **_Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)_**
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
 Opting out of Direct Mail Marketing: If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth in this document or [click here](http://www.everydayfamily.com/contact/). If you write to us, please include your email address, name and mailing address in the body of your letter, and please include “Direct Mail Opt-Out” in the subject line.
 
