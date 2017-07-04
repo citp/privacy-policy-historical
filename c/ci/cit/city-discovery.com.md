@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616161922id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704163621id_/https%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,8 @@ If you have additional questions about the privacy of your information, please c
 
 Mailing Address:  
 City Discovery, Inc.  
-5648 Main St, Sylvania, OH 43560, USA  
-T: +1 866-988-8687 F: 419-243-0221 
+100 E. Pierce Road, Suite 100, Itasca, IL 60143, USA  
+
 
 Last Updated on: 10/04/06
 
