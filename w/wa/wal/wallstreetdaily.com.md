@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetdaily.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222180316id_/http%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetdaily.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704111917id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wall Street Daily | Wall Street Daily
 
