@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417042852id_/https%3A//www.spreedly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704062933id_/https%3A//www.spreedly.com/privacy) for the most accurate reproduction.*
 
 # Spreedly Privacy Policy
 
