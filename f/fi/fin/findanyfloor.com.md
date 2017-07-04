@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findanyfloor.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607171015id_/http%3A//www.findanyfloor.com/PrivacyPolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findanyfloor.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704072920id_/http%3A//www.findanyfloor.com/PrivacyPolicy.xhtml) for the most accurate reproduction.*
 
 # Welcome to FindAnyFloor.com
 
