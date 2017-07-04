@@ -1,262 +1,313 @@
-<!--The following is the downloaded HTML source of the zumvu.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626133038id_/http%3A//www.zumvu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zumvu.com privacy policy that was archived on 2017-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170704213959id_/https%3A//www.zumvu.com/info/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en" style=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy :: Zumvu</title>
-<meta name="DESCRIPTION" content="">
-<meta name="KEYWORDS" content="">
-<link rel="stylesheet" type="text/css" href="http://media.zumvu.com/css/zumvu-n.css">
-<link rel="stylesheet" type="text/css" href="http://media.zumvu.com/css/blog-drop.css">
-<link rel="shortcut icon" href="/favicon.ico">
-<!-- Don't remove -->
-<!--NewTop-->
-<script type="text/javascript" src="/js2/jquery.js"></script>
+
+<title>Privacy Policy - Zumvu</title>
+<meta name="description" content="Read our privacy policy for websites created with Zumvu. You can easily Create free website in a minute.">
+<meta name="keywords" content="privacy policy, tos, terms">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="/zv-css/style-front.css" rel="stylesheet" type="text/css">
+<!-- fonts -->
+<link rel="stylesheet" href="/zv-css/font-awesome/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="/zv-css/icon-font.css">
+<!-- end -->
+<script type="text/jscript" src="/zv-js/modernizr.js"></script>
+<script type="text/jscript" src="/zv-js/responsee.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function(){
-$(".account").click(function(){
-var X=$(this).attr('id');
-if(X==1){
-$(".submenu").hide();
-$(this).attr('id', '0');	
-}else{
-$(".submenu").show();
-$(this).attr('id', '1');
-}
-});
-//Mouseup textarea false
-$(".submenu").mouseup(function(){
-return false
-});
-$(".account").mouseup(function(){
-return false
-});
-//Textarea without editing.
-$(document).mouseup(function(){
-$(".submenu").hide();
-$(".account").attr('id', '');
-});
-});
-$(document).ready(function(){
-$(".message").click(function(){
-var X=$(this).attr('id');
-if(X==1){
-$(".submenu1").hide();
-$(this).attr('id', '0');	
-}else{
-$(".submenu1").show();
-$(this).attr('id', '1');
-}
-});
-//Mouseup textarea false
-$(".submenu1").mouseup(function(){
-return false
-});
-$(".message").mouseup(function(){
-return false
-});
-//Textarea without editing.
-$(document).mouseup(function(){
-$(".submenu1").hide();
-$(".message").attr('id', '');
-});
-});
-$(document).ready(function(){
-$(".request").click(function(){
-var X=$(this).attr('id');
-if(X==1){
-$(".submenu2").hide();
-$(this).attr('id', '0');	
-}else{
-$(".submenu2").show();
-$(this).attr('id', '1');
-}
-});
-//Mouseup textarea false
-$(".submenu2").mouseup(function(){
-return false
-});
-$(".request").mouseup(function(){
-return false
-});
-//Textarea without editing.
-$(document).mouseup(function(){
-$(".submenu2").hide();
-$(".request").attr('id', '');
-});
+$(document).ready(function() {
+     $('#clickme').click(function() {
+          $('#me').animate({
+               height: 'toggle'
+               }, 500
+          );
+     });
 });
 </script>
-<link type="text/css" href="http://media.zumvu.com/css/jquery.scrollbar.css" rel="stylesheet" media="all">
-<script type="text/javascript" src="/js2/jquery.scrollbar.min.js"></script>
+
 <script type="text/javascript">
-function initCustomScrollbar(){
-$('.scroll-standard').scrollbar();
-$('.scroll-simple').scrollbar({
-"type": "simple"
-});
-$('.external-scroll').scrollbar({
-"autoScrollSize": false,
-"scrollx": $('.external-scroll_x'),
-"scrolly": $('.external-scroll_y')
-});
+jQuery(window).scroll(function() {
+if (jQuery(this).scrollTop() > 700) {
+jQuery('#nav').addClass('fix');
+} else {
+jQuery('#nav').removeClass('fix');
 }
-function destroyCustomScrollbar(){
-$('.scroll-content').scrollbar('destroy');
-}
-$(document).ready(function(){
-initCustomScrollbar();
-$('.buttons').each(function(){
-$(this).find('input.default').attr('checked', true);
-}).find('input:radio').change(function(){
-$(this).closest('form').next().find('.resizable').css($(this).attr('name'), $(this).val());
 });
-});
+
 </script>
-<!--NewTop-->
-<!-- Don't remove -->
-<link rel="stylesheet" type="text/css" href="http://media.zumvu.com/css/notification.css">
-<script src="/js/myCustoms.js"></script>
-<!-- Don't remove -->
+
+<!-- Include Sidr bundled CSS theme -->
+<link type="text/css" rel="stylesheet" href="/zv-css/jquery.sidr.light.css">
+<!-- Include jQuery -->
+<script type="text/javascript" src="/zv-js/jquery.js"></script>
+<!-- Include the Sidr JS -->
+<script type="text/javascript" src="/zv-js/jquery.sidr.min.js"></script>
+
+
+<script type="text/javascript">
+		
+	function chng_pln(p){
+		document.getElementById('typ_val').value = p;
+		srch_thmes();
+	}
+	function chng_col(c){
+		document.getElementById('col_val').value = c;
+		srch_thmes();
+	}
+	function chng_srt(){
+		var e = document.getElementById("srtsv");
+		var f = e.options[e.selectedIndex].value;
+		document.getElementById('srt_val').value = f;
+		srch_thmes();
+	}
+	function srch_thmes(){
+		var ajaxRequest; 
+		var d = new Date();
+		var n = d.getTime();
+		var cat_val = document.getElementById('cat_val').value;
+		var typ_val = document.getElementById('typ_val').value;
+		var col_val = document.getElementById('col_val').value;
+		var srt_val = document.getElementById('srt_val').value;
+		var pg_val = document.getElementById('pg_val').value;
+		var pg_sid = document.getElementById('pg_sid').value;
+		
+		//alert("Category: "+cat_val+" plan: "+typ_val+" col: "+col_val+" srt: "+srt_val+" page: "+pg_val);
+		
+		try{ ajaxRequest = new XMLHttpRequest();} catch (e){try{ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
+			} catch (e) {try{ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (e){alert("Your browser broke!");return false;}}}
+		ajaxRequest.onreadystatechange = function(){
+			if(ajaxRequest.readyState == 4){
+				var ajaxDisplay = document.getElementById('adisp');
+				ajaxDisplay.innerHTML = ajaxRequest.responseText;
+			}
+		}
+		var queryString = "?cat_val="+cat_val+"&typ_val="+typ_val+"&col_val="+col_val+"&srt_val="+srt_val+"&pg_val="+pg_val+"&pg_sid="+pg_sid+"&tm="+n;
+		ajaxRequest.open("GET", "/zv-front/themes_inc.zvx" + queryString, true);
+		ajaxRequest.send(null);
+	}
+</script><script type="text/javascript" src="/zv-js/root-scrpt.js"></script>
+<style>
+.inner-page-container{padding:15px 20px 50px 20px; line-height:25px; display:block;}
+.inner-page-container strong{ display:block; padding:15px 0; font-size:21px; font-weight:300;}
+ol.page-ol{display:block; padding-left:35px; list-style:decimal;}
+ol.page-ul li{display:list-item;}
+</style>
 
 </head>
 <body>
-<div id="topout">
-<!--TOPsTART-->
-<div id="top">
-<div class="top">
 
-
-<div class="top1"><a href="http://r.zumvu.com" rel="nofollow"><div class="logo"></div></a></div>
-
-
-
-<!--Withoutlogin-->
-
-<div class="top2">&nbsp;</div>
-
-<!--Withoutlogin-->
-
-
-
-
-<!--SearchPart-->
-<!--SearchPart-->
-
-
-<div class="top6">
-<div class="ifeales2p"><input type="submit" name="submit" value="Sign up" class="logintab2" onclick="window.location.href = 'http://www.zumvu.com/';" rel="nofollow"></div>
-<div class="ifeales3p"><a href="http://www.zumvu.com/signin/" rel="nofollow">Login</a></div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Header Area Start -->
+<div id="nav">
+<div class="header-area">
+	<div class="wrap">
+		<header id="topnav">
+			<div id="navigation">
+		        <nav>
+					<ul>
+						<li><a href="/signup.zvx" class="signup-bnt">Sign Up</a></li>
+                        <li><a href="/login.zvx" class="login-bnt">Login</a></li>
+					</ul>
+		        </nav>
+		    </div>
+	        <a id="responsive-menu-button" href="#navbtn"></a>
+            
+	        <!--<a href="/login.zvx" class="login-bnt">Login</a>-->
+	        <span><a href="/"><img src="/imgs/logo-beta-1.png" alt=""></a></span>
+            
+	    </header>
+	</div>
 </div>
 </div>
-<!--TOPeND-->
-</div><div id="header"><div class="headerbgall"></div></div>
-<!--WRAP-->
-<div id="wrap">
+
+<script type="text/javascript">
+	$('#responsive-menu-button').sidr({
+	  name: 'navbtn',
+	  source: '#navigation'
+	});
+</script><div id="navbtn" class="sidr right"><div class="sidr-inner">
+		        <nav>
+					<ul>
+						<li><a href="/signup.zvx" class="sidr-class-signup-bnt">Sign Up</a></li>
+                        <li><a href="/login.zvx" class="sidr-class-login-bnt">Login</a></li>
+					</ul>
+		        </nav>
+		    </div></div><!-- Header Area End -->
+
+<div class="header-blank-space"></div>
+
+<!-- Banner Area -->
+<div class="banner-area">
+	<div>
+		<h2>PRIVACY POLICY</h2>
+		<p>KNOW THE PRIVACY POLICY ABOUT ZUMVU!!!</p>
+		<a href="">Get Started</a>
+	</div>
+</div>
+<!-- Banner Area End-->
+
+
 <div class="wrap">
+<div class="theme-detail-page">
+<ul class="pagepath">
+			<li><a href="/">Home</a></li>
+			<li>Privacy Policy</li>
+		</ul>
+<div class="content-head">
+			<h1>Privacy Policy</h1>
+		</div>
 
-
-<!--MIDpART-->
-<div id="left-afull">
-
-
-<!--BOX-->
-<div class="lbxheadc"><span class="thbtxh111">Privacy Policy</span></div>
-<div class="left-afull">
-
-
-<p>Lets begin with a note of thanks to you for using zumvu.com. As an user at zumvu.com you must know how the information that we collect from you is safe with us. This privacy policy is there to help you know what information we collect from you, what we do about it and how and why is it safe with us. In case you feel that something thats going in your mind is still not explained here , please feel free to get back to us at info@zumvu.com. We assure to get back to every mail personally asap.</p>
-
-
-
+<div class="inner-page-container">
+<b>Zumvu.com</b> respects the privacy of its users and is committed to protecting their personal information and using it properly. This policy defines how we
+may collect and use personal information as well as the rights and choices available to the users and visitors of our site regarding this information. We
+urge our users to read the policy carefully and make sure that you understand and agree with it before accessing any of our services.
+<strong>1. Your Consent (please read carefully)</strong>
 <p>
-<strong>What information we collect</strong><br>
-By signing an account at zumvu.com, you voluntarily give us few information like your name, date of birth, profile photos, email addresses etc. These personal informations is used for the sole purpose of serving you better. It can be used to notify you about the new features, to reply back to your posted queries and questions and for various other issues. We however assure you to not disclose your identity and personal information on any third party sites.
+This policy is a binding contract between Zumvu.com and you so please read it carefully. You may visit and/or use the services only if you fully
+agree to this Privacy Policy and by accessing any of the services, including the processing and collecting of your personal information as
+defined and explained below.
 </p>
-
-
-
 <p>
-<strong>Collecting The technical Data</strong><br>
-While you are using zumvu.com, the server on which it runs might collect your log data including few information which the browser sends when you browse a website. The technical team at zumvu.com uses cookies to improve the use of our site. This allows us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. This however is never used for storing your personal information such as your name or to retrieve information from your computer that was not originally sent in a cookie.
+<u>Please Note:</u> You are not obligated by law to provide us with any information. You hereby acknowledge, warrant and agree that any
+information you provide to us is with your own free consent and will, for the purposes and uses described therein.
 </p>
-
-
-
-
+<strong>2. Information We Collect</strong>
+<p>We collect two types of information regarding our visitors and users:</p>
+<ol class="page-ol">
+<li>
+<u>Un-identified and non-identifiable information</u>  This information may be made available to us or collected automatically via his/her
+use of the services. This Non-Personal Information mainly consists of technical and aggregated usage information, such as visitor's
+and user's browsing activity on the services, scrolls, non-identifying information regarding the visitor's or user's device, operating
+system, internet browser, screen resolution, language and keyboard settings, internet service provider, exit pages etc.
+</li>
+<li>
+<u>Personal Information</u>  This information collected by us may with reasonable efforts cause the identification of an individual, mainly consisting of
+his contact details (email address or phone number), billing details (name, physical billing address, payment method and transaction details), browsing or
+usage session details (IP address, geographical information and device unique identifier), third party accounts details (email or username for a connected 
+PayPal, Google or Facebook account), scanned identification documents provided to us (ID card, driver's license, passport or official company
+registration documents), correspondences (those made through or uploaded to our services) and any other personal information provided to us by visitors
+or users through the access to our services. For the avoidance of any doubt, any personal information that is connected or linked to being considered as
+personal information (in order to improve the services we offer) is deemed to be treated as personal by us as long as such linkage or connection exists.
+</li>
+</ol>
+<strong>3. User's of the User's information</strong>
+<p>You may collect, store and process certain non-personal and personal information of users-of- users on our user's behalf and at
+their direction (the users are able to import their email contacts from third party services like Gmail or collect and manage contacts
+via their user website which are then stored by Zumvu.com on the user's behalf).</p>
 <p>
-<strong>How is your information used at zumvu.com</strong><br>
-The information that we collect here at zumvu.com is used for the sole purpose of making us serve you better. The information provided by you is used to provide our products to you and indeed make them better. We suggest you blogs you might like. For example, if you’ve followed a blog that you’re interested as in tourism or quotes websites, we may suggest similar blogs to you.
-<br><br>
-The information collected is also used to notify you about the new features introduced in the site, send you updates, newsletters and other information of your interest.
+In such cases or situations, the users controlling and operating such user websites shall be considered as the controllers of such users-
+of-users information and are responsible for complying with all the rules and regulations that may apply to the collection and control
+of such information. We advise our users to publish and maintain clear and comprehensive privacy policies on their user websites in
+accordance with the applicable rules that all users-of- users carefully read those policies and make sure they agree to it.
 </p>
-
-
-
-
 <p>
-<strong>Third Party Advertising</strong><br>
-We use third-party advertising companies to serve ads when you visit our website. Some of the advertisements you see on our Site are delivered by third parties, such as ad networks, advertising agencies, advertisers etc. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies and other technologies in order to understand your interests and deliver to you advertisements that are tailored to your interests. Zumvu.com does not have an access or control over the information so collected.
+<u>For visitors, users and customers:</u> Zumvu.com has no direct relationship with the individual users-of- users whose personal
+information it processes. If you are a visitor, user or customer of any of our users and would like to mail any requests or queries
+regarding your personal information, please contact the user directly.
 </p>
-
-
+<strong>4. Confidentiality and Security:</strong>
+<p>Data transmissions over the internet are not 100% secure so we cannot guarantee the security of any information you transmit to
+us and you do so at your own risk. We make reasonable efforts to ensure security on our systems through physical, electronic and
+procedural safeguards to protect the personal information about you. Your account information is password-protected but this is
+not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of a firewall. However, if
+Zumvu.com learns about such occurrence we may notify you electronically so that you can take appropriate protective steps.
+</p>
+<strong>5. Age Restricted</strong>
 <p>
-<strong>Our policy for children</strong><br>
-<span class="red"><a href="http://zumvu.com">Zumvu.com</a></span> is not meant for children below 13 years of age. So in case you find out that your child has registered an account with us pls contact us and we will get back to you. 
+The service is not directed to persons under 18. We do not knowingly collect personally identifiable information from children
+under 13. In case a parent or guardian becomes aware of the fact his/her child has provided us with their personal information
+without their consent, he/she should immediately contact us at <a href="/info/contact-us">https://www.zumvu.com/contact</a>. Once the information is
+brought to our notice, we will delete such information from our files.
 </p>
-
+<strong>6. Access to Personal Information</strong>
 <p>
-<strong>Changes to ths policy</strong><br>
-From time to time, zumvu.com may choose to make amendments to this policy. We request users to log in here and keep themselves updated with the information. The right know how will always help us to serve you better. 
-<br><br>
-To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at <span class="red"><a href="mailto:info@zumvu.com">info@zumvu.com</a></span>
-<br><br>
-By registering an account at zumvu.com and using it, you accept to abide by this policy. 
+If you wish to access or request us to make corrections to the Personal Information that you have stored with us (either yours or
+your users-of users), or wish to request a list of what personal information pertaining to you we disclosed to third parties for
+direct marketing purposes, you can mail us at: <a href="/info/contact-us">https://www.zumvu.com/contact</a> and we will respond within a reasonable time frame.
 </p>
-
-
-
-
-
+<strong>7. Data Retention</strong>
+<p>
+We may retain your personal information as long as your user account is active or as needed by us to provide you with our
+services. We may continue to retain such information even after you deactivate your user account and cease to use any particular
+services, as necessary to comply with our legal obligations, resolve disputes regarding our users or their users-of users, prevent fraud and abuse, to enforce our agreements and protect our legitimate
+interests.
+</p>
+<strong>8. Links to Third Parties</strong>
+<p>
+Our site may contain links to other websites, online services or applications. The fact that we link to a third party service is not an endorsement,
+authorization or representation of our affiliation with that third party nor is it an endorsement of their privacy or information security policies. Online
+services and websites follow different rules and regulations regarding the use or disclosure of the personal information you provide to them. We do not
+exercise any control over their services and highly recommend that you read the privacy policies of the third parties you visit before submission of any
+personal data to them.</p>
+<strong>9. Cookies and Tracking</strong>
+<p>
+We use some monitoring and tracking technologies like cookies in order to maintain, provide and improve our services to facilitate our users and their
+users-of- users with a better experience. However, every time you visit a third party link or services, they may place cookies or use other tracking
+technologies through our services. Third party links have their own policies for collecting and storing information. These practices are not covered by our
+Privacy Policy and we do not have any control over them.</p>
+<strong>10. Social Media Features and Framed Pages</strong>
+<p>Our services include some social media features like Facebook Connect and Google Sign-In features. These social media features
+may collect information like IP address or which page you visit on our website. They may set a cookie to help them function properly
+and are hosted by either third party or directly on our services. Our services may enable you to provide your personal information to
+third parties directly. However, please note that if you choose to do so via such frames, then you are sharing it with those third
+parties and not us and such interactions are controlled by those third party policies and not us.</p>
+<strong>11. Facebook Login, Google+</strong>
+<p>
+You can log in to our service using sign-in services like Facebook Login, Google+ or an Open ID provider. These services will
+authenticate your identity and ask you to provide some personal information such as your name and email address in the sign up
+form. You should learn to control how your information is shared on your Google+ profile.
+</p>
+<strong>12. Law Enforcement, Legal Requests and Duties</strong>
+<p>
+<b>Zumvu.com</b> may disclose or allow others access to your personal information in regard to a legal request such as legal proceedings,
+search warrant and court order or in compliance with applicable laws if we feel that the law requires us to do so, with or without
+any prior notice to you.
+</p>
+<strong>13. Changes to this Privacy Note</strong>
+<p>
+<b>Zumvu.com</b> reserves the right to revise, modify or update this privacy policy as and when we feel the need to do so with or
+without any prior notice to you.
+</p>
+</div> 
+  
+</div> <!-- end wrap -->
 </div>
+
+
+<!-- Footer Area Start -->
+<footer id="footer">
+<div class="wrap">
+	<div class="footer-menu">
+    	<ul>
+        	<!--<li><a href="https://www.zumvu.com/explore/">Explore</a></li>-->
+            <li><a href="http://blog.zumvu.com/" target="_blank">Blog</a></li>
+            <li><a href="/info/about-us/">About</a></li>
+            <li><a href="/info/terms-of-service/">Terms</a></li>
+            <li><a href="/info/privacy-policy/">Privacy</a></li>
+            <li><a href="/info/contact-us/">Contact</a></li>
+        </ul>
+    </div>
+    <div class="footer-social">
+    	<ul>
+        	<li><a href="https://www.facebook.com/zumvu" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/zumvu" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.zumvu.com/digitalmarketing/" target="_blank"><img src="/imgs/zicon.png" alt=""></a></li>
+            <!--<li><a href="https://plus.google.com/+zumvu" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            <li><a href="http://www.pinterest.com/zumvu" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>-->
+        </ul>
+    </div>
 </div>
-<!--BOX-->
+<div class="clear"></div>    
+</footer>
+<!-- Footer Area End -->
 
 
 
-
-
-</div>
-</div>
-
-
-<!--WRAPeND-->
-<!-- Don't remove -->
-<!-- Don't remove -->
-<!--Bottom-->
-<div id="bottom-d">
-<div id="bottomout-d">
-<div class="bottom1d">Zumvu 2013. All Rights Reserved.</div>
-
-
-<div class="bottom2d"><a href="http://www.zumvu.com" title="Home">Home</a> | <a href="http://www.zumvu.com/about/">About</a> | <a href="http://www.zumvu.com/terms/">Terms</a> | <a href="http://www.zumvu.com/privacy/">Privacy</a> | <a href="http://www.zumvu.com/links/">Links</a> | <a href="http://www.zumvu.com/contact/">Contact</a></div>
-</div>
-</div>
-<!--Bottom-->
 </body></html>
