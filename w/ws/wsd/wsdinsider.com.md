@@ -1,54 +1,54 @@
-> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123015059id_/http%3A//wsdinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704111917id_/https%3A//www.wallstreetdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – WSD Insider
+# Privacy Policy | Wall Street Daily | Wall Street Daily
 
-_WSD Insider_ prides itself highly on respecting and protecting individual privacy and takes it very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _WSD Insider_ takes to ensure your privacy and security while giving you the best possible customer service as you use our website.
+We’re super sensitive about our privacy and assume you are too. So at _Wall Street Daily_ we take your individual privacy very seriously. We’re also aware of the threats to your security and privacy on the Internet.
 
-**Cookies**  
-Cookies are small files placed on your hard drive by an Internet server when you visit a website. Some cookies can be used to identify your computer each time you visit a site.  
-_  
-_ The _WSD Insider_ website only uses cookies to allow authentication for access to the Subscriber Only areas of our site.
+Please take a few moments to review the steps that _Wall Street Daily_ takes to ensure your privacy and security while delivering the best service possible.
 
-In other words, you can leave the site and come back without having to re-enter your username and password every time (within a set time period). We do not use cookies to track your browsing habits or collect any information about you.  
-**  
-Submitting Data**  
-At no time are you required to submit personal information to access any area of the _WSD Insider_ site, only your assigned username and password. Visitors to our other sites are asked to submit a log-on name and password to visit Subscriber Only sections of the sites. This is to ensure you can receive the services you are paying for.
+## Cookies
 
-**Ordering Online**  
+_WallStreetDaily.com_ sometimes uses cookies to store and track User information. Cookies enable _WallStreetDaily.com_ to personalize the viewing experience of a User on _WallStreetDaily.com_. When the User revisits _WallStreetDaily.com_ , _WallStreetDaily.com_ can recognize the User by the cookie and customize the User’s experience accordingly. For example, _WallStreetDaily.com_ uses cookies to recognize User access privileges, track Site usage and traffic patterns, add advertisements for goods or services of interest, and estimate _WallStreetDaily.com_ ’s audience size.
+
+Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one’s web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within _WallStreetDaily.com_ may not function properly if the web browser will not accept cookies.
+
+In addition, advertisers that serve ads onto _WallStreetDaily.com_ may also use their own cookies.
+
+## Submitting Data
+
+At no time are you required to submit personal information to access any area of the _Wall Street Daily_ site. Visitors to our other sites are asked to submit a log-on name and password to visit Subscriber Only sections of the sites. This is to ensure you can receive the services you are paying for.
+
+## Ordering Online
+
 Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer – an encryption protocol – and is kept in databases that cannot be accessed from outside our firewall.
 
 In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.
 
-We may use your name and address to send you information on other  _WSD Insider_ products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.
+_Wall Street Daily_ does not sell or rent your name to anyone. That means that only authorized employees of _Wall Street Daily_ ever have access to any information you submit. We may use your name and address to send you information on other _Wall Street Daily_ products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.
 
-If at any time you wish to be removed from our mailing list, please [click here](http://whitecapresearch.com/contact-us/) to contact our customer service department.
+If at any time you wish to be removed from our mailing list, please [click here](http://www.wallstreetdaily.com/customer-feedback/) to contact our customer service department.
 
-**Email**  
-If you subscribe to _WSD Insider_ , your name and email address will be placed in a database. As with all other personal information, only employees of _WSD Insider_ have access to this data. We do not give _WSD Insider_ addresses to outside companies.
+## E-mail
 
-Any email you send to _WSD Insider_ is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
+If you subscribe to _Wall Street Daily E-Letter_ , your name and e-mail address will be placed in a database. As with all other personal information, only employees of _Wall Street Daily_ have access to this data. We do not give _Wall Street Daily_ addresses to outside companies.
 
-**Unsolicited Email Messages**  
+Any e-mail you send to _Wall Street Daily_ is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
+
+## Unsolicited Email Messages
+
 Policy against advertising our website using unsolicited email messages
 
-We require that all e-mails promoting WSDinsider.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+We require that all e-mails promoting _Wall Street Daily_ or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: [ **CustomerService@WSDInsiderInfo.com**](mailto:CustomerService@WSDInsiderInfo.com?subject=). We will immediately investigate all allegations made related to unsolicited messages.
-
-Or write us at:
-
-WSD Insider  
-Attn: Member Services  
-105 West Monument Street  
-Baltimore, MD 21201
-
-**How to Unsubscribe From   _WSD Insider_**
-
-To unsubscribe from  _WSD Inisider emails_ , simply click the “Manage your Subscription” link located at the bottom of an email from WSD Inisder.
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please [click here](http://www.wallstreetdaily.com/customer-feedback/) to contact our abuse department. We will immediately investigate all allegations made related to unsolicited messages.
 
 Or write us at:
 
-WSD Insider  
+Wall Street Daily  
 Attn: Member Services  
-105 West Monument Street  
-Baltimore, MD 21201
+808 St Paul St  
+Baltimore, MD 21202
+
+## How to Unsubscribe From _Wall Street Daily_
+
+To unsubscribe from  _Wall Street Daily_ , simply click the “Manage your Subscription” link located at the bottom of every email sent from _Wall Street Daily_.
