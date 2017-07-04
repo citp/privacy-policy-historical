@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225201702id_/https%3A//www.tylenol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705005357id_/https%3A//www.tylenol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TYLENOL®
 
