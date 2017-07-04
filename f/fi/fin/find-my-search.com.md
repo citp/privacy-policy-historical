@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the find-my-search.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205012202id_/http%3A//find-my-search.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-my-search.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704113634id_/http%3A//find-my-search.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Details 
-     __ 04 November 2014 
 
 [find-my-search.com](http://find-my-search.com/) respect Google Adsense Privacy Policy : <https://www.google.com/adsense/localized-terms>
 
@@ -33,6 +30,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-### Please help Us To Keep This Website Free
+  
+
+
+### Please help Us Keep This Website Free
 
 Cookies help us deliver our services. By continuing to use our website you accept our use of cookies to make your visit to our site better and the possibility to share contents on social networks. [Learn more](http://en.wikipedia.org/wiki/HTTP_cookie "Learn more about cookies")
