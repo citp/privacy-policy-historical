@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802102253id_/http%3A//www.stevenspass.com/Stevens/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704051559id_/https%3A//www.stevenspass.com/site/footer/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Stevens Pass
+# Stevens Pass Washington Ski Resort - Privacy Policy
 
 Stevens Pass is committed to safeguarding your privacy online. We at Stevens Pass have posted this privacy statement to help you, the user, understand how your personal information will be treated.
 
@@ -12,9 +12,14 @@ Stevens Pass will not sell your personal information to any third party companie
 
 ##### Other Websites Not Covered
 
-Stevens Pass contains links to other web sites Strategic Partners. Stevens Pass does not control, and is not responsible for, the privacy practices or the content of these other websites. Please review their privacy policies for further information.
+Stevens Pass contains links to other websites Strategic Partners. Stevens Pass does not control, and is not responsible for, the privacy practices or the content of these other websites. Please review their privacy policies for further information.
 
-##### Contacting the Web Site
+##### Contacting the Website
 
-If you have any further questions about this policy or other practices of Stevens Pass, please contact [info@stevenpass.com](mailto:info@stevenpass.com).  
+If you have any further questions about this policy or other practices of Stevens Pass, please contact [info@stevenpass.com](mailto:info@stevenpass.com).
 
+Beginning of dialog window. 
+
+Bike Park season is upon us and we are now open for downhill mountain biking, disc golf, scenic rides and hiking.
+
+Beginning of dialog window.
