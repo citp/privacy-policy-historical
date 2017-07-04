@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorhunt.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324191615id_/http%3A//www.tutorhunt.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorhunt.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704041011id_/https%3A//www.tutorhunt.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Tutor Hunt Privacy Policy
 
@@ -41,10 +41,10 @@ All pages at Tutor Hunt contain familiar logo and menu system, if the site does 
 
 ## Email Addresses
 
-We take email privacy very seriously with users of our website. Any Email address the user supplies when signing up, are not, and will never be given or sold to 3rd parties for marketing purposes. This includes any personal information we may obtain from emails we receive. 
+We take email privacy very seriously with users of our website. Any Email address the user supplies when signing up, are not, and will never be given or sold to 3rd parties for marketing purposes. This includes any personal information we may obtain from emails we receive.
 
 ## Contacting Tutor Hunt
 
-If you have any concerns about this, or have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/contact.asp) and we'll be happy to answer any questions you have. If we update our policy we will update this page accordingly. 
+If you have any concerns about this, or have comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/contact.asp) and we'll be happy to answer any questions you have. If we update our policy we will update this page accordingly.
 
 ## Our Postal Address
