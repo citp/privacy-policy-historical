@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104000743id_/https%3A//scentsy.com/form/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704042225id_/https%3A//scentsy.com/form/privacy-policy) for the most accurate reproduction.*
 
 # Scentsy Corporation Privacy Policy Information | Scentsy.com
 
@@ -63,14 +63,6 @@ Additionally, Scentsy will only use PII for the purpose which it was intentional
 ##### Enforcement
 
 Scentsy takes a self-assessment approach to verify that we are within compliance of this policy. Scentsy employees are trained to adhere with this privacy policy and Scentsy administers discipline to those employees who do not comply.
-
-##### Safe Harbor
-
-In order to comply with EU data privacy directives, Scentsy applies the US-EU and US-Swiss Safe Harbor Framework developed by the US Department of Commerce pertaining to the collection, use, and retention of personal information from the European Union member countries. Scentsy complies with the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. For more information or questions concerning the Safe Harbor program please visit: <http://export.gov/safeharbor/index.asp>.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Scentsy commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Scentsy at the address provided in the questions section of this privacy policy.
-
-Scentsy has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Scentsy, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/council/eusafeharbor/about/> for more information and to file a complaint.
 
 ##### Changes to This Privacy Notice
 
