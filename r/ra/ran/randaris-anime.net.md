@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randaris-anime.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124433id_/https%3A//randaris-anime.net/pages/13/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randaris-anime.net privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704173722id_/https%3A//randaris-anime.net/pages/13/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Randaris-Anime
 
