@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flhosp.org privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015025117id_/https%3A//www.floridahospital.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flhosp.org privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704205909id_/https%3A//www.floridahospital.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida Hospital
 
