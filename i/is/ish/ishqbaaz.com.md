@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishqbaaz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072628id_/http%3A//ishqbaaz.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishqbaaz.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704041552id_/http%3A//ishqbaaz.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ishqbaaz
 
