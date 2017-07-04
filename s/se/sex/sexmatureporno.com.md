@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexmatureporno.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228155558id_/http%3A//sexmatureporno.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexmatureporno.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704155513id_/http%3A//sexmatureporno.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
