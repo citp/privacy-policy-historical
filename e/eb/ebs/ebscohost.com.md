@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429161340id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705014138id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
 
-# EBSCO Information Services
+# None
 
 EIS PRODUCTS AND SERVICES PRIVACY POLICY           EIS WEBSITE PRIVACY POLICY
 
