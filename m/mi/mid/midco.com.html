@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the midco.com privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603004853id_/https%3A//www.midco.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midco.com privacy policy that was archived on 2017-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170704175452id_/https%3A//www.midco.com/legal/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <!-- Meta, title, CSS, favicons, etc. -->
@@ -21,22 +21,22 @@
 
     
     
+    
     <!--styles for list items on support pages-->
     <style>
-
-#div-relatedDocuments ul {
-    list-style: none;
-    /*There's something weird going on with these specific bullets*/
-}
-#div-relatedDocuments ul > li {
-    list-style-type: none;
-    margin: 0;
-}
-#div-relatedDocuments ul > li::before {
-    list-style-type: none;
-}
+        #div-relatedDocuments ul {
+            list-style: none;
+            /*There's something weird going on with these specific bullets*/
+        }
+        #div-relatedDocuments ul > li {
+            list-style-type: none;
+            margin: 0;
+        }
+        #div-relatedDocuments ul > li::before {
+            list-style-type: none;
+        }
     </style>
-    
+
 <script src="https://www.youtube.com/player_api"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockout" src="/Scripts/knockout-2.3.0.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mapping" src="/Scripts/knockout.mapping-latest.js"></script></head>
 <body class=" l-body off-canvas-nav-left site-header-fixed" data-ng-app="midcoComm" style="">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P4N7HV"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
@@ -56,7 +56,7 @@
     ga('send', 'pageview');
 
 </script>
-    <!-- Google Tag Manager -->
+<!-- Google Tag Manager -->
     <noscript>
         <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P4N7HV"
                 height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -67,17 +67,21 @@
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-P4N7HV');</script>
-    <!-- End Google Tag Manager -->
+<!-- End Google Tag Manager -->
+<!-- TODO: Add KORTX code here-->
 <div class="l-off-canvas-helper">
+    <div class="outage-alert" data-ng-cloak="" data-ng-controller="outageController as oc" data-ng-init="oc.init('')" style="color: white; background-color: red; font-size:20px">
+        {{oc.data.outages.outageMessage}}
+    </div>
     <div class="l-off-canvas-container" data-ng-controller="siteController as site" data-ng-init="site.init()">
         <header class="l-site-header">
-<div class="l-site-header-elements">
-<div class="l-eyebrow clearfix">
-    <ul class="nav-type">
+    <div class="l-site-header-elements">
+        <div class="l-eyebrow clearfix">
+            <ul class="nav-type">
                 <li class="current"><a href="/">Residential</a></li>
-        <li><a href="https://business.midco.com">Business</a></li>
-    </ul>
-    <ul class="nav-offsite hidden-xs hidden-sm">
+                <li><a href="https://business.midco.com">Business</a></li>
+            </ul>
+            <ul class="nav-offsite hidden-xs hidden-sm">
                 <li class="">                <a href="https://www.midcosn.com/" target="_blank" class="text-uppercase">
                     Midco Sports Network
                 </a>
@@ -85,24 +89,40 @@
                     Midco.net
                 </a>
 </li>
-    </ul>
-    <div class="login-link hidden-md hidden-lg">
-        <a data-ng-show="!site.data.loading" href="{{site.data.loggedIn ? '/Logout/Default.aspx' : '/MyAccount/'}}"><span class="midcoglyph midcoglyph-user"></span> <span data-ng-bind="site.loggedIn ? 'Logout' : 'Login'"></span></a>
-    </div>
-</div>
-<div class="l-top-logo">
-    <a href="/">
-        <img class="img-top-logo" src="/content/images/logos/logo-small.png" alt="Midco">
-        <img class="img-top-logo-home-lg" src="/content/images/logos/logo.png" alt="Midco">
-    </a>
-</div>
-<div class="l-site-nav">
+            </ul>
+            <div class="login-link hidden-md hidden-lg" id="loginlinkToggle" data-ng-show="!site.data.loading">
+              
+                    <button class="site-nav-toggle-btn user-toggle-btn" id="userToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="midcoglyph midcoglyph-user"></span>
+                     <span data-ng-bind="site.data.loggedIn ? 'Logout' : 'Login'"></span>
+                    </button>
+
+                    <div class="dropdown-menu" aria-labelledby="userToggle">
+
+
+
+                        <a class="hidden-lg btn btn-default" href="{{site.data.loggedIn ? '/Logout/Default.aspx' : '/MyAccount/'}}" target="_self" data-ng-bind="site.data.loggedIn ? 'Log Out' : 'MY ACCOUNT'"></a>
+
+
+                        <a class="hidden-lg btn btn-default" href="http://webmail.midco.net">WEBMAIL</a>
+
+                    </div>
+
+
+               
+            </div>
+
+        </div>
+        <div class="l-top-logo">
+            <a href="/">
+                <img class="img-top-logo" src="/content/images/logos/logo-small.png" alt="Midco">
+                <img class="img-top-logo-home-lg" src="/content/images/logos/logo.png" alt="Midco">
+            </a>
+        </div>
+        <div class="l-site-nav">
             
 <ul class="flexnav with-js lg-screen" data-breakpoint="992">
-            <li class="">
-            <a href="/Shop/Default.aspx" target="_top">Shop</a>
-        </li>
-        <li class="item-with-ul ">
+            <li class="item-with-ul ">
             <a href="/services/">Services</a>
             <ul>
                         <li class="item-with-ul ">
@@ -124,7 +144,7 @@
             <a href="/services/internet/internet-speed-tips/">Internet Speed Tips</a>
         </li>
         <li class="">
-            <a href="/services/internet/speed-test/">Speed Test</a>
+            <a href="/speedtest" target="_blank">Speed Test</a>
         </li>
 
             </ul>
@@ -298,16 +318,10 @@
             <a href="/support/billing--online-account/frequently-asked-questions--help/">Frequently Asked Questions &amp; Help</a>
         </li>
         <li class="">
-            <a href="/support/billing--online-account/create-my-account-online-login/">Create "My Account" Online Login</a>
+            <a href="/support/billing--online-account/my-account/">My Account</a>
         </li>
         <li class="">
-            <a href="/support/billing--online-account/my-account-set-up/">My Account Set Up</a>
-        </li>
-        <li class="">
-            <a href="/support/billing--online-account/midco-my-account-app/">Midco My Account App</a>
-        </li>
-        <li class="">
-            <a href="/support/billing--online-account/online-payments--billing-statements/">Online Payments &amp; Billing Statements</a>
+            <a href="/support/billing--online-account/billing-and-payments/">Billing and Payments</a>
         </li>
         <li class="">
             <a href="/support/billing--online-account/taxes--fees/">Taxes &amp; Fees</a>
@@ -329,6 +343,9 @@
         </li>
         <li class="">
             <a href="/support/customer/service-impacting-events/">Service-Impacting Events</a>
+        </li>
+        <li class="">
+            <a href="/support/customer/sun-outages/">Sun Outages</a>
         </li>
 
             </ul>
@@ -357,8 +374,14 @@
         <li class="">
             <a href="/support/" target="_top">View All Topics</a>
         </li>
+        <li class="">
+            <a href="/support/quick-start-guides/">Quick Start Guides</a>
+        </li>
 
             </ul>
+        </li>
+        <li class="">
+            <a href="/Shop/Default.aspx" target="_top">Shop</a>
         </li>
         <li class="">
             <a href="/MyAccount">My Account</a>
@@ -379,88 +402,115 @@
     <li class="text-uppercase show-on-lg-screen"><a href="/careers/">Careers</a></li>
     <li class="text-uppercase show-on-lg-screen"><a href="/about/">About Midco</a></li>
 </ul>
-<div class="l-specialty-nav text-uppercase">
-    <!-- user links -->
-    <div class="l-user-dropdown dropdown dropdown-fade">
-        <button class="site-nav-toggle-btn user-toggle-btn" id="userToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <span class="midcoglyph midcoglyph-user pull-right"></span>
-        </button>
-        <div class="dropdown-menu" aria-labelledby="userToggle">
-            <a class="btn btn-default" href="/MyAccount/">Pay Bill</a>
-            <a class="btn btn-default" href="{{site.data.loggedIn ? '/Logout/Default.aspx' : '/MyAccount/'}}" target="_self" data-ng-bind="site.data.loggedIn ? 'Log Out' : 'Log In'"></a>
-        </div>
-    </div>
-    <!-- location form -->
-    <div class="l-location-dropdown dropdown dropdown-fade" data-ng-if="!site.data.loggedIn">
-        <!-- location toggle button for small and large screens -->
-        <button class="site-nav-toggle-btn location-toggle-btn" id="locationToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <span class="midcoglyph midcoglyph-map-marker"></span>
-            <span class="location-toggle-info pull-left" data-ng-bind="site.locationString()"><i class="fa fa-spin"></i></span>
-            <span class="midcoglyph midcoglyph-angle-down"></span>
-        </button>
-        <div class="location-form-menu dropdown-menu" aria-labelledby="locationToggle">
-            <div class="location-toggle-info visible-md-block visible-lg-block">
-                <span class="midcoglyph midcoglyph-map-marker"></span> <span data-ng-bind="site.locationString()"><i class="fa fa-spin"></i></span>
-            </div>
-            <form name="locationChangeForm" data-ng-submit="site.updateLocation(locationChangeForm, $event)" novalidate="">
-                <div class="row">
-                    <div class="col-loc-address col-xs-12 col-md-5">
-                        <input data-ng-class="{'has-errors': locationChangeForm.locationAddress.$invalid}" class="form-control" name="locationAddress" id="locationAddress" data-ng-model="site.data.location.addressLine" placeholder="Address" type="text">
+            <div class="l-specialty-nav text-uppercase">
+                <!-- user links -->
+                <div class="l-user-dropdown dropdown dropdown-fade">
+                    <button class="site-nav-toggle-btn user-toggle-btn" id="userToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="midcoglyph midcoglyph-user pull-right"></span>
+                    </button>
+
+                    <div class="dropdown-menu" aria-labelledby="userToggle">
+
+                        <a class="btn btn-default" href="/MyAccount/">Pay Bill</a>
+
+                     
+                        <a class="btn btn-default" href="{{site.data.loggedIn ? '/Logout/Default.aspx' : '/MyAccount/'}}" target="_self" data-ng-bind="site.data.loggedIn ? 'Log Out' : 'Log In'"></a>
+
+
+                        <a class="hidden-lg btn btn-default" href="http://webmail.midco.net">WEBMAIL</a>
+
                     </div>
-                    <div class="col-loc-suit col-xs-6 col-md-2">
-                        <input class="form-control" name="locationSuite" id="locationSuite" data-ng-model="site.data.location.suite" placeholder="Suite #" type="text">
-                    </div>
-                    <div class="col-loc-zip col-xs-6 col-md-2">
-                        <input data-ng-class="{'has-errors': locationChangeForm.locationZip.$invalid}" class="form-control" name="locationZip" id="locationZip" data-ng-model="site.data.location.zip" placeholder="Zip" type="text" data-ng-pattern="/[0-9]{5}/">
-                    </div>
-                    <div class="col-loc-button col-xs-12 col-md-3">
-                        <button data-ng-disabled="locationChangeForm.$invalid" data-ng-click="site.updateLocation(locationChangeForm, $event)" class="btn btn-default" type="submit">Change</button>
+
+                </div>
+                <div class="desktopView">
+                    <div class="l-login-dropdown dropdown dropdown-fade" data-ng-if="!site.data.loggedIn">
+                        <!-- location toggle button for small and large screens -->
+                        <button class="site-nav-toggle-btn  login-toggle-btn btn btn-default" id="loginToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span> LOG IN </span>
+                            <span class="midcoglyph midcoglyph-angle-down"></span>
+                        </button>
+                        <div class="login-form-menu dropdown-menu" aria-labelledby="loginToggle">
+                            <div class="login-toggle-info visible-md-block visible-lg-block">
+                                <a class="btn btn-default" href="{{site.data.loggedIn ? '/Logout/Default.aspx' : '/MyAccount/'}}" target="_self" data-ng-bind="site.data.loggedIn ? 'Log Out' : 'MY ACCOUNT'"></a>
+
+                                <a class="btn btn-default" href="http://webmail.midco.net">WEBMAIL</a>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-            </form>
+                
+
+                <!-- location form -->
+                <div class="l-location-dropdown dropdown dropdown-fade" data-ng-if="!site.data.loggedIn">
+                    <!-- location toggle button for small and large screens -->
+                    <button class="site-nav-toggle-btn location-toggle-btn" id="locationToggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="midcoglyph midcoglyph-map-marker"></span>
+                        <span class="location-toggle-info pull-left" data-ng-bind="site.locationString()"><i class="fa fa-spin"></i></span>
+                        <span class="midcoglyph midcoglyph-angle-down"></span>
+                    </button>
+                    <div class="location-form-menu dropdown-menu" aria-labelledby="locationToggle">
+                        <div class="location-toggle-info visible-md-block visible-lg-block">
+                            <span class="midcoglyph midcoglyph-map-marker"></span> <span data-ng-bind="site.locationString()"><i class="fa fa-spin"></i></span>
+                        </div>
+                        <form name="locationChangeForm" data-ng-submit="site.updateLocation(locationChangeForm, $event)" novalidate="">
+                            <div class="row">
+                                <div class="col-loc-address col-xs-12 col-md-5">
+                                    <input data-ng-class="{'has-errors': locationChangeForm.locationAddress.$invalid}" class="form-control" name="locationAddress" id="locationAddress" data-ng-model="site.data.location.addressLine" placeholder="Address" type="text">
+                                </div>
+                                <div class="col-loc-suit col-xs-6 col-md-2">
+                                    <input class="form-control" name="locationSuite" id="locationSuite" data-ng-model="site.data.location.suite" placeholder="Suite #" type="text">
+                                </div>
+                                <div class="col-loc-zip col-xs-6 col-md-2">
+                                    <input data-ng-class="{'has-errors': locationChangeForm.locationZip.$invalid}" class="form-control" name="locationZip" id="locationZip" data-ng-model="site.data.location.zip" placeholder="Zip" type="text" data-ng-pattern="/[0-9]{5}/">
+                                </div>
+                                <div class="col-loc-button col-xs-12 col-md-3">
+                                    <button data-ng-disabled="locationChangeForm.$invalid" data-ng-click="site.updateLocation(locationChangeForm, $event)" class="btn btn-default" type="submit">Change</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- utility links -->
+                <ul class="nav-offsite hidden-md hidden-lg">
+                    <li><a class="text-uppercase" href="#">Midco Sports Network</a></li>
+                    <li><a class="text-uppercase" href="#">Midco.net</a></li>
+                </ul>
+            </div>
         </div>
-    </div>
-    <!-- utility links -->
-    <ul class="nav-offsite hidden-md hidden-lg">
-        <li><a class="text-uppercase" href="#">Midco Sports Network</a></li>
-        <li><a class="text-uppercase" href="#">Midco.net</a></li>
-    </ul>
-</div>
-</div>
-<button class="map-marker-btn site-nav-toggle-btn location-toggle-btn hidden-md hidden-lg">
-    <span class="midcoglyph midcoglyph-map-marker"></span>
-</button>
-<!-- search dropdown -->
-<div class="l-search-form dropdown dropdown-fade">
-    <button id="seachToggle" class="site-nav-toggle-btn search-toggle-btn" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <span class="sr-only">Search Toggle</span>
-        <span class="midcoglyph midcoglyph-search"></span>
-    </button>
-    <div class="dropdown-menu" aria-labelledby="seachToggle">
-        <form>
-            <label for="siteSearch" class="sr-only">Search Site</label>
-            <input class="form-control" id="siteSearch" placeholder="Search" type="search" data-ng-model="site.data.siteQ" data-ng-keypress="site.search($event, site.data.siteQ)">
-            <button class="transparent" type="submit" data-ng-click="site.search($event, site.data.siteQ)">
-                <span class="sr-only">Search</span>
+        <button class="map-marker-btn site-nav-toggle-btn location-toggle-btn hidden-md hidden-lg">
+            <span class="midcoglyph midcoglyph-map-marker"></span>
+        </button>
+        <!-- search dropdown -->
+        <div class="l-search-form dropdown dropdown-fade">
+            <button id="seachToggle" class="site-nav-toggle-btn search-toggle-btn" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="sr-only">Search Toggle</span>
                 <span class="midcoglyph midcoglyph-search"></span>
             </button>
-        </form>
-    </div>
-</div>
-<!-- off canvas button -->
-<button class="hamburger-btn btn-off-canvas-toggle">
-    <span class="hamburger-surround">
+            <div class="dropdown-menu" aria-labelledby="seachToggle">
+                <form>
+                    <label for="siteSearch" class="sr-only">Search Site</label>
+                    <input class="form-control" id="siteSearch" placeholder="Search" type="search" data-ng-model="site.data.siteQ" data-ng-keypress="site.search($event, site.data.siteQ)">
+                    <button class="transparent" type="submit" data-ng-click="site.search($event, site.data.siteQ)">
+                        <span class="sr-only">Search</span>
+                        <span class="midcoglyph midcoglyph-search"></span>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <!-- off canvas button -->
+        <button class="hamburger-btn btn-off-canvas-toggle">
+            <span class="hamburger-surround">
                 <span class="hamburger-bun"></span>
                 <span class="hamburger-bun"></span>
                 <span class="hamburger-bun"></span>
             </span>
-</button>
-</div>
+        </button>
+    </div>
 </header>
         <div class="l-page-hero-surround">
             <div class="page-hero">
                 <div class="container">
-                    
                 </div>
             </div>
         </div>
@@ -624,10 +674,7 @@
         </div>
     <div class="well-footer-body">
                     <ul>
-                <li class="">                <a href="/contact/">
-                    Email Us
-                </a>
-</li><li class="">                <a href="/contact/live-chat/">
+                <li class="">                <a href="/contact/live-chat/">
                     Live Chat
                 </a>
 </li><li class="">                <a href="/contact/customer-experience-centers/">
@@ -681,7 +728,7 @@
 </li><li class="">                <a href="/support/cable-tv/tv-everywhere/">
                     TV Everywhere
                 </a>
-</li><li class="">                <a href="/support/billing--online-account/online-payments--billing-statements/">
+</li><li class="">                <a href="/support/billing--online-account/billing-and-payments/">
                     Online Payments
                 </a>
 </li><li class="">                <a href="/support/cable-tv/remote-control/">
@@ -786,6 +833,7 @@
                 <ul>
                     
                         <li><a href="/legal/privacy-statement/">Privacy Policy</a></li>
+                        <li><a href="https://publicfiles.fcc.gov/find/midcontinent-communications" target="_blank">FCC Public Files</a></li>
                         <li><a href="/legal/visitor-agreement/">Visitor Agreement</a></li>
                         <li><a href="/legal/">Legal</a></li>
                         <li><a href="/sitemap/">Site Map</a></li>
@@ -793,7 +841,7 @@
                 </ul>
             </div>
             <div class="col-md-4 l-copywright-footer">
-                © 2016 Midcontinent Communications - All Rights Reserved.
+                © 2017 Midcontinent Communications - All Rights Reserved.
             </div>
         </div>
     </div>
@@ -807,6 +855,7 @@
 <script src="/Scripts/lodash.min.js"></script>
 <script src="/Scripts/moment.min.js"></script>
 <script src="/Scripts/vendor/bootstrap/collapse.js"></script>
+<script src="/Scripts/vendor/bootstrap/affix.js"></script>
 <script src="/Scripts/amplify.core.min.js"></script>
 <script src="/Scripts/angular.js"></script>
 <script src="/Scripts/angular-sanitize.min.js"></script>
@@ -818,12 +867,16 @@
 <script src="/Scripts/vendor/bootstrap/modal.js"></script>
 <script src="/Scripts/vendor/bootstrap/transition.js"></script>
 <script src="/Scripts/vendor/hoverIntent/jquery.hoverIntent.minified.js"></script>
+<script src="/Scripts/vendor/flexnav/jquery.flexnav.min.js"></script>
 <script src="/Scripts/vendor/flexnav/jquery.flexnav-custom.js"></script>
 <script src="/Scripts/vendor/off-canvas-nav/off-canvas-nav.js"></script>
 <script src="/Scripts/vendor/owl-carousel/owl.carousel.min.js"></script>
 <script src="/Scripts/vendor/match-height/jquery.matchHeight-min.js"></script>
 <script src="/Scripts/angular-ui/ui-bootstrap-tpls.min.js"></script>
 <script src="/Scripts/app/modules/forms/mc-ngforms.js"></script>
+<script src="/Scripts/angular-file-upload-shim.js"></script>
+<script src="/Scripts/angular-file-upload.js"></script>
+<script src="/Scripts/angular-file-upload-all.js"></script>
 <script src="/Scripts/main.js"></script>
 <script src="/Scripts/app/app.js"></script>
 <script src="/Scripts/app/constants/apiConstants.js"></script>
@@ -864,5 +917,6 @@
 <script src="/Scripts/app/controllers/transfers/transferController.js"></script>
 <script src="/Scripts/app/controllers/transfers/transferModalController.js"></script>
 
+    
 
 </body></html>
