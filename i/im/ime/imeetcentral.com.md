@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imeetcentral.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018211016id_/https%3A//app.imeetcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeetcentral.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704221011id_/https%3A//app.imeetcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Collaboration Software
 
 ## Privacy
 
-Central Desktop Inc. ("iMeet Central") values your privacy. iMeet Central has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://app.imeetcentral.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. You should check this page occasionally to ensure you are statisfied with any changes. If you have questions or concerns regarding this Privacy Policy, you may contact us at [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com).
+Premiere Global Services, Inc. ("iMeet Central") values your privacy. iMeet Central has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://app.imeetcentral.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. You should check this page occasionally to ensure you are statisfied with any changes. If you have questions or concerns regarding this Privacy Policy, you may contact us at [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com).
 
 Information We Collect  
 iMeet Central collects personal information from customers who register with our services. When customers register with our services, we require a username, password, email address, first and last name, zip code, country and time zone location and billing information such as billing address and credit card number. We may also ask customers to provide additional personal information such as company name, title, education institution and other company and personal details that the customer may opt out of by not entering data when asked. We use the customer registration information to authenticate users and provide access to iMeet Central. We also use the email addresses used in the registration information to communicate with our users. From time to time, iMeet Central may contact you via email or phone to notify you of changes to its services, maintenance notifications, information about iMeet Central and promotional materials from iMeet Central. We may also send you offers on behalf of third-party partners. Users can opt out of promotional and offer emails at anytime. 
@@ -37,6 +37,6 @@ iMeet Central stores its servers in a highly secure server environment with 24 X
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but iMeet Central cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
 
 Further Questions  
-If you have further questions about our Privacy Policy, email us at [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com) or via mail at Central Desktop Inc., 87 N Raymond Ave, Floor 6, Pasadena, CA 91103 USA.
+If you have further questions about our Privacy Policy, email us at [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com) or via mail at Premiere Global Services, Inc., 87 N Raymond Ave, Floor 6, Pasadena, CA 91103 USA.
 
-Last Updated: September 29, 2016
+Last Updated: November 07, 2016
