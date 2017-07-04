@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234236id_/https%3A//uheaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704103640id_/https%3A//uheaa.org/privacy) for the most accurate reproduction.*
 
 # UHEAA - Privacy Policy
+
+* In observation of Independence Day, our contact center will be closed Tuesday, July 4, 2017. Our regular business hours will resume at 8:00 a.m. MDT on Wednesday, July 5, 2017. UHEAA.org will continue to be available to access your account information, your statement and to make payments. 
 
 ## Online Privacy Policy
 
@@ -93,29 +95,3 @@ If you have any questions, concerns, or if you desire additional information reg
 This Privacy Policy replaces all prior Online Privacy Policies issued by UHEAA. We reserve the right to modify our Privacy Policy at any time. We will notify you if we make changes to our Privacy Policy that significantly impact how we collect, use or protect your personal information through indications on this Privacy Policy. 
 
 UHEAA Privacy Policy was last updated on April 15, 2011. 
-
-## STOP! Two things you need to know:
-
-#### First...
-
-This payment portal is only for loan payments that are IN DEFAULT. If your loan(s) are in default, select 'CONTINUE'. Otherwise select 'CANCEL' now to go back to uheaa.org. 
-
-  * Please Note \- You must know your UHEAA account number to make an online payment.
-
-
-
-If your loans were recently transferred to UHEAA from ACS for servicing, please call (877) 336-7378.
-
-If you are unsure if you are in default, please contact one of our representatives at (877) 336-7398.
-
-#### Second...
-
-If you continue you will go to a website not under UHEAA's control. You will leave the uheaa.org web site and go to an external web site created and maintained by another organization. 
-
-The Utah Higher Education Assistance Authority (UHEAA) does not control or guarantee the security, accuracy, relevance, timeliness or completeness of this external web site and information. Please read the VeriFone Systems, Inc. - Legal & Privacy Policy located at [www.chargesmart.com](http://global.verifone.com/company/legal-privacy-policy) for more information.
-
-UHEAA also does not endorse any views expressed or products or services offered on this external web site.
-
-If you are uncomfortable continuing, you may select the 'CANCEL' button to return to uheaa.org. Otherwise, select 'CONTINUE' to make your payment.
-
-### THANK YOU!!
