@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.in privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603113022id_/https%3A//in.jora.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.in privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704050203id_/https%3A//in.jora.com/cms/privacy) for the most accurate reproduction.*
 
 # Privacy | Jora
 
