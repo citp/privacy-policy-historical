@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sale-fire.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018083821id_/http%3A//sale-fire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sale-fire.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704035436id_/http%3A//sale-fire.com/privacy-policy) for the most accurate reproduction.*
 
 # sale-fire.com
 
