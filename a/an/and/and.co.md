@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the and.co privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511081615id_/https%3A//www.and.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the and.co privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704031744id_/https%3A//www.and.co/privacy) for the most accurate reproduction.*
 
-# AND CO: Privacy Policy
+# Privacy Policy
 
 At AND CO, we take privacy very seriously. We encourage You to read this privacy policy (“Policy”) carefully. It will help You make informed decisions about sharing Your personal information with us. 
 
