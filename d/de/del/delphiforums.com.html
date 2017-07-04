@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the delphiforums.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606044333id_/http%3A//www.delphiforums.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delphiforums.com privacy policy that was archived on 2017-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170704071930id_/http%3A//delphiforums.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Delphi Forums Home</title>
@@ -20,9 +20,9 @@
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Delphi Forums">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<link rel="stylesheet" href="http://www.delphiforums.com/dir-css/936662/common.css?pttv=3&amp;skinRef=common&amp;theme=.1&amp;browserType=1&amp;lp=17" media="all" type="text/css">
-<link rel="stylesheet" href="http://www.delphiforums.com/dir-css/936662/site.css?pttv=3&amp;skinRef=site&amp;theme=.1&amp;browserType=1&amp;lp=17" media="all" type="text/css">
-<link rel="stylesheet" media="all" type="text/css" href="http://www.delphiforums.com/dir-css/936662/qs;msgSize=14;textsize=9;browserType=1;fpid=-1;pttv=3/Client.css?lp=17">
+<link rel="stylesheet" href="https://www.delphiforums.com/dir-css/936662/common.css?pttv=3&amp;skinRef=common&amp;theme=.1&amp;browserType=1&amp;lp=17" media="all" type="text/css">
+<link rel="stylesheet" href="https://www.delphiforums.com/dir-css/936662/site.css?pttv=3&amp;skinRef=site&amp;theme=.1&amp;browserType=1&amp;lp=17" media="all" type="text/css">
+<link rel="stylesheet" media="all" type="text/css" href="https://www.delphiforums.com/dir-css/936662/qs;msgSize=14;textsize=9;browserType=1;fpid=-1;pttv=3/Client.css?lp=17">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"><link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.1/css/toastr.min.css" rel="stylesheet">
 <link href="/i/bootstrap/jasny/jasny-bootstrap.min.css" rel="stylesheet">
 <script type="text/javascript">
@@ -41,7 +41,7 @@
           $.dfns.hostname = 'www.delphiforums.com';
           $.dfns.lgis = 'none';
           $.dfns.uid = '0';
-          $.dfns.myAvatar = 'http://www.delphiforums.com/dir-icon/0/6/default.icon';
+          $.dfns.myAvatar = 'https://www.delphiforums.com/dir-icon/0/6/default.icon';
           $.dfns.isTestDomain = false; 
           $.dfns.isLoggedIn = false;
           $.dfns.hasSoftCreds = false;
@@ -51,9 +51,7 @@
           
               $.dfns.loginWebtag = "dflogin";
             
-                $.dfns.requireLoginRedirect = true;
-              
-             $.dfns.fullLoginUrl = 'https://secure.delphiforums.com/n/login/login.aspx?webtag=dflogin&seamlesswebtag=http%3a%2f%2fwww.delphiforums.com%2fprivacy.htm';
+             $.dfns.fullLoginUrl = '/n/login/login.aspx?webtag=dflogin&seamlesswebtag=https%3a%2f%2fwww.delphiforums.com%2fprivacy.htm';
           
      
           /* Items for legacy ad and analytics scripts */
@@ -110,7 +108,7 @@
         
       
         $.dfns.statusPingInterval = $.dfns.isTestDomain ? 3000000 : 30000;
-        $.dfns.statusAPIUrl = 'http://www.delphiforums.com/dfpprofile000/api/v1/profiles/my/status?includeForumMsgCount=y&callback=?';
+        $.dfns.statusAPIUrl = 'https://www.delphiforums.com/dfpprofile000/api/v1/profiles/my/status?includeForumMsgCount=y&callback=?';
              
         $.dfns.requestStatus = function() {
           $.getJSON($.dfns.statusAPIUrl, $.dfns.gotUserStatusJson);
@@ -180,13 +178,13 @@
     
     $.dfns.live = {};
     
-         $.dfns.live.server = 'ws://events.talkcity.com/EventStream.ashx';
+         $.dfns.live.server = 'wss://events.talkcity.com/EventStream.ashx';
       
    
     $.dfns.live.public = true;
     $.dfns.live.myforums = false;
      
-    $.dfns.live.key = 'iDAE6NaQ';
+    $.dfns.live.key = 'TKdIf5Yo';
     $.dfns.live.socketAttempts = 1;
     $.dfns.live.getRetryInterval = function(attemptCnt) {
       var maxInterval = (Math.pow(2, attemptCnt) - 1) * 1000;
@@ -214,7 +212,7 @@
         if (eventSocketState === 0) {
           eventSocketState = 1;
           $.dfns.event_msg = '-';
-          var apiCmd = 'http://' + $.dfns.hostname + "/" + $.dfns.webtag + "/api/v1/chat/stream?sourceId=event";
+          var apiCmd = 'https://' + $.dfns.hostname + "/" + $.dfns.webtag + "/api/v1/chat/stream?sourceId=event";
           var pF = {};
           pF["esid"] = evt.data;
           $.dfns.live.key = evt.data;
@@ -322,18 +320,18 @@
 
           Orig url: /privacy.htm
 
-          This url: http://www.delphiforums.com/n/pfx/common.aspx?filename=%2fprivacy.htm&nav=sitepage&page=filestoredoc&webtag=delphihome
+          This url: https://www.delphiforums.com/n/pfx/common.aspx?filename=%2fprivacy.htm&nav=sitepage&page=filestoredoc&webtag=delphihome
 -->
 </head>
 <body class="df-pagebody df-common-sitepage">
 <div class="df-page">
 	<div id="df_brandstrip" class="row"><div class="col-xs-2 df-logo"><a class="df-logo" href="http://www.delphiforums.com" target="_top" title="Delphi Forums Home"></a></div><div class="col-xs-10 df-ctrls text-right"><div class="btn-group df-notifications df-loggedin"><button type="button" class="btn dropdown-toggle" data-toggle="dropdown" title="New forum messages and private messages to me"><span id="df_msgcount" title="New forum messages to me">0</span><span id="df_msgcountpm" title="New private messages to me">0</span><span class="caret"></span></button><ul class="dropdown-menu pull-right df-menu" role="menu"><li><a href="javascript:void(0)" data-action="inbox" onclick="$.dfns.menuItemClick($(this));">Inbox (Private Msgs)
               <span class="badge" id="df_msgcountpm_m">0</span></a></li><li><a href="javascript:void(0)" data-action="newmsgs" onclick="$.dfns.menuItemClick($(this));">Forum Msgs to Me
-              <span class="badge" id="df_msgcount_m">0</span></a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/cats.ptt">Browse Forums</a></li><li><a href="http://www.delphiforums.com/chat.ptt">View Chats</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/delphiforums/members.ptt">Browse Members</a></li><li><a href="http://www.delphiforums.com/delphiforums/blogs.ptt">Blogs</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/createforum.ptt">Create a Forum</a></li></ul></div><button type="button" class="btn btn-primary df-loggedout" onclick="$.dfns.requireLogin(function(){});">Log In</button><div class="btn-group df-mystuff"><button type="button" class="btn dropdown-toggle" data-toggle="dropdown" title="My Stuff (Profile, Preferences, Account)"><img src="http://www.delphiforums.com/dir-icon/0/6/default.icon" height="30" width="30" vspace="0" border="0" align="center" class="img-circle" data-userid="0" alt="All" title="All"><span class="caret"></span><span class="sr-only">Toggle Dropdown</span></button><ul class="dropdown-menu pull-right df-menu" role="menu"><li class="dropdown-header">All</li><li><a href="javascript:void(0)" data-action="avatar" onclick="$.dfns.menuItemClick($(this));">My Profile Photo</a></li><li><a target="_blank" href="">My Profile</a></li><li><a target="_blank" href="&amp;nav=preferences">My Preferences</a></li><li><a target="_blank" href="/myaccount">My Account</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/support.ptt">Help</a></li><li class="divider"></li><li class="df-loggedin"><a rel="nofollow" href="/dir-app/PTLogout.aspx?webtag=delphihome">Log Out</a></li><li class="df-loggedout"><a rel="nofollow" onclick="$.dfns.requireLogin(function(){});" class="df-login">Log in</a></li></ul></div><button id="df_mydelphi" class="btn df-icon" title="My Forums (Forums I'm following)"><i class="fa fa-star-o fa-2x"></i></button></div></div>
+              <span class="badge" id="df_msgcount_m">0</span></a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/cats.ptt">Browse Forums</a></li><li><a href="http://www.delphiforums.com/chat.ptt">View Chats</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/members.ptt">Browse Members</a></li><li><a href="http://www.delphiforums.com/blogs.ptt">Blogs</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/createforum.ptt">Create a Forum</a></li></ul></div><button type="button" class="btn btn-primary df-loggedout" onclick="$.dfns.requireLogin(function(){});">Log In</button><div class="btn-group df-mystuff"><button type="button" class="btn dropdown-toggle" data-toggle="dropdown" title="My Stuff (Profile, Preferences, Account)"><img src="https://www.delphiforums.com/dir-icon/0/6/default.icon" height="30" width="30" vspace="0" border="0" align="center" class="img-circle" data-userid="0" alt="All" title="All"><span class="caret"></span><span class="sr-only">Toggle Dropdown</span></button><ul class="dropdown-menu pull-right df-menu" role="menu"><li class="dropdown-header">All</li><li><a href="javascript:void(0)" data-action="avatar" onclick="$.dfns.menuItemClick($(this));">My Profile Photo</a></li><li><a target="_blank" href="">My Profile</a></li><li><a target="_blank" href="&amp;nav=preferences">My Preferences</a></li><li><a target="_blank" href="/myaccount">My Account</a></li><li class="divider"></li><li><a href="http://www.delphiforums.com/support.ptt">Help</a></li><li class="divider"></li><li class="df-loggedin"><a rel="nofollow" href="/dir-app/PTLogout.aspx?webtag=delphihome">Log Out</a></li><li class="df-loggedout"><a rel="nofollow" onclick="$.dfns.requireLogin(function(){});" class="df-login">Log in</a></li></ul></div><button id="df_mydelphi" class="btn df-icon" title="My Forums (Forums I'm following)"><i class="fa fa-star-o fa-2x"></i></button></div></div>
 <!--
 
     OrigURL: /privacy.htm 
-    ThisURL: http://www.delphiforums.com/n/pfx/common.aspx?filename=%2fprivacy.htm&nav=sitepage&page=filestoredoc&webtag=delphihome
+    ThisURL: https://www.delphiforums.com/n/pfx/common.aspx?filename=%2fprivacy.htm&nav=sitepage&page=filestoredoc&webtag=delphihome
 -->
 <div class="df-titlerow"></div><div class="container df-sitepage df-sitepage-0sb df-filestore-doc-page"><div class="row"><div class="col-xs-12"><!-- Privacy Policy.  As of 7/14/2012; formatting updated 8/5/2016 -->
 <h1>Privacy Policy</h1>
