@@ -1,44 +1,97 @@
-> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202084617id_/http%3A//www.5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704232715id_/https%3A//4xwebclass.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SamCart Webinar Thank You Page
 
-**Privacy Policy**
+Privacy Policy
 
-**5MinuteMarketing.com recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us.**   
-Verisign issues Digital ID certificates in accordance with its Certification Practices Statement (CPS). The stringent CPS requires that each request goes through specific verification and security processes, which in turn benefit our customers.
+What information do we collect?
 
-5MinuteMarketing.com has received the Verisign secure site seal. The seal assures customers that it is safe to do business with our Web site and should differentiate our site from those who do not display the seal. This seal also informs visitors that all of the data they exchange with 5MinuteMarketing.com is protected against interception.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-**Return Policy**   
-Any credit card charged more than once for any one order will be refunded the amount of the overcharge. After an order is printed, there are no refunds. All other refunds or inquires should be directed to the customer service department at (866) 236-5798 or [support@5minutemarketing.com.](mailto:support@5minutemarketing.com)
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**Password Protection**   
-At 5MinuteMarketing.com, your sensitive information is password protected for an added level of security. When you establish an account with 5MinuteMarketing.com, you choose a unique password for your account. You may change this password as often as you like by logging in to your account and editing the My Account section.
+Google, as a third party vendor, uses cookies to serve ads on your site.
 
-**Order Confirmation**   
-5MinuteMarketing.com sends an email notice to you confirming each order you place. If you receive an order confirmation that you did not place, please email us immediately at [support@5minutemarketing.com](mailto:support@5minutemarketing.com) or call us at (866) 236-5798.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-**Partner Sites Privacy Policies**   
-5MinuteMarketing.com may provide links or active banner ads to its partners and alternative Internet sites. These sites offer individual data and privacy policies independent of 5MinuteMarketing.com, and 5MinuteMarketing.com disclaims any responsibility or liability for their respective policies or actions.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Personal Information Collected by 5MinuteMarketing.com**   
-Over the course of serving our customers, 5MinuteMarketing.com acquires, stores and transmits customer communications and information that customers may regard as sensitive or private. Some of this information, such as the customers' telephone number, credit card information and home address, is provided to 5MinuteMarketing.com by its customers in order for us to provide services. Additional information such as service selections, account status and customer logs are created and maintained by 5MinuteMarketing.com in the routine course of providing service. 5MinuteMarketing.com may use cookies, which are small pieces of information that a Web site can store in a designated file on the users' computer for a variety of reasons.
+What do we use your information for?
 
-**Security of Your Data**   
-5MinuteMarketing.com will protect the confidentiality of its customers' sensitive information, account information and personal communications to the fullest extent possible, while being consistent with the law and any legitimate interests of 5MinuteMarketing.com, its employees, its partners and all customers of 5MinuteMarketing.com. In order to protect the loss, misuse and alteration of information that is collected from our customers, 5MinuteMarketing.com has put in place the appropriate electronic, physical and managerial procedures and policies.
+Any of the information we collect from you may be used in one of the following ways:
 
-**How We Use Our Customers' Information**   
-5MinuteMarketing.com may, from time to time, use customer information to provide its customers with system enhancement information or information regarding new or upgraded products. 
+To personalize your experience (your information helps us to better respond to your individual needs)
 
-5MinuteMarketing.com may also share customer information with preferred partners, for example, to provide customers with information about new products which might of value to the customer, or which might enable the customer to take advantage of preferred partner programs.
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Review or Modify Customer Information**   
-Customers may update or modify their personal information by sending an email to [support@5minutemarketing.com](mailto:support@5minutemarketing.com).
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Direct Mailings from 5MinuteMarketing.com**   
-Occasionally, 5MinuteMarketing.com will send its customers information regarding a variety of products and services that may be of value. Whenever we send this sort of information to you, it will always be accompanied by an opt out feature for such mailings. However, if you choose to opt out you will no longer receive any communications from us, including but not limited to, important account information.
+To process transactions (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested)
 
-You may also opt out by sending an email to [support@5minutemarketing.com](mailto:support@5minutemarketing.com).
+To administer a contest, promotion, survey or other site feature
 
-**Policies Subject to Change at Anytime**   
-5MinuteMarketing.com's procedures and policies for handling customer information have been designed with the understanding that Internet technologies are continuously changing. In this spirit, 5MinuteMarketing.com's policies and procedures are subject to change at anytime.
+Cancellation/Refund Policy
+
+To send periodic emails (the email address you provide for order processing, will only be used to send you information and updates pertaining to your order)
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email.
+
+We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
+
+By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
+
+How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+
+How Do I Opt-Out of Your Email List?
+
+To Opt-Out, all you need to do is click the "Unsubscribe" link at the bottom of any email you receive from us.
+
+You can also contact our Support Desk and request to be removed from our mailing list as well.
+
+Do we use cookies?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your Consent
+
+By using our site, you consent to our websites privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 09/01/2014.
+
+Contact Us
+
+If there are any questions regarding this privacy policy, you may contact us by emailing support@samcart.com.
