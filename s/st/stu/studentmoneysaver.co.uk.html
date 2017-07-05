@@ -1,0 +1,2360 @@
+<!--The following is the downloaded HTML source of the studentmoneysaver.co.uk privacy policy that was archived on 2017-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170705141224id_/https%3A//www.studentmoneysaver.co.uk/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head lang="en">
+
+	<meta charset="UTF-8">
+    <meta name="credits" content="/team/">
+
+	<base target="_top">
+	
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="https://cdn.studentmoneysaver.co.uk/assets/images/favicon.ico?v=v3.2.4">
+	<link rel="manifest" href="/mpu-manifest.json">
+
+	<title>Privacy Policy |  Student Money Saver</title>
+
+	
+	
+    <!-- Facebook Open Graph tags -->
+    <meta property="og:logo" content="https://cdn.studentmoneysaver.co.uk/assets/images/sms-logo.png" size="107x61">
+	<meta property="og:title" content="Privacy Policy">
+	        <meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.studentmoneysaver.co.uk/privacy-policy/">
+	<meta property="og:site_name" content="Student Money Saver">
+	<meta property="og:image" content="https://cdn.studentmoneysaver.co.uk/assets/images/logo_fb.jpg?v=v3.2.4">
+	<meta property="fb:app_id" content="1691694941055635">
+    <meta property="fb:pages" content="114363748622556">
+    <!-- Facebook Open Graph tags -->
+
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@everythinstudnt">
+        <meta name="twitter:title" content="Privacy Policy">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://cdn.studentmoneysaver.co.uk/assets/images/logo_fb.jpg?v=v3.2.4">
+    <!-- Twitter Card tags -->
+
+		
+<link rel="canonical" href="https://www.studentmoneysaver.co.uk/privacy-policy/">
+	<noscript><link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/styles-noscript.min.css?v=v3.2.4"/></noscript>
+
+	
+	
+<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://p.cpx.to/p/11951/px.js"></script><script type="text/javascript" src="//static.digidip.net/studentmoneysaver.js?loc=https://web.archive.org/web/20170705141224id_/https://www.studentmoneysaver.co.uk/privacy-policy/"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	if ( ! Date.now ) { Date.now = function() { return new Date().getTime(); } }
+	var UX_TIMING_START = Math.floor( Date.now() / 1000 );
+</script>
+
+<script>
+
+	/**
+	 * Should be in the head to prevent FOUT on subsequent page views.
+	 * http://crocodillon.com/blog/non-blocking-web-fonts-using-localstorage
+	 *
+	 * Make sure to edit md5 and path to your fonts json!
+	 */
+
+
+	(function(window, document) {
+
+		'use strict';
+
+		var isModernBrowser = (
+			'querySelector' in document &&
+			'localStorage' in window &&
+			'addEventListener' in window
+			),
+			md5     = '06a566b521a9e0a769463a823273fc7c', //woff2 md5, update on fonts change
+			woffmd5 = '60eec2a3b24374e0b4ab524f523e433e', //woff md5, update on fonts change
+			key = 'fonts',
+			cache;
+
+		var supportsWoff2 = (function( win ){
+			if( !( "FontFace" in win ) ) {
+				return false;
+			}
+
+			var f = new win.FontFace( "t", 'url( "data:application/font-woff2," ) format( "woff2" )', {} );
+			f.load().catch(function() {});
+
+			return f.status == 'loading';
+		})( window );
+
+		if ( !isModernBrowser ) {
+			return;  // Sorry, browser is too old!
+		}
+
+		if( ! supportsWoff2 ){
+			md5 = woffmd5;
+		}
+
+		function insertFont(value) {
+			var style = document.createElement('style');
+			style.innerHTML = value;
+			document.head.appendChild(style);
+		};
+
+		function insertLinkedCSS(value) {
+			var link = document.createElement('link');
+			link.rel  = 'stylesheet';
+			link.href = value;
+			document.head.appendChild(link);
+		};
+
+		var fontsFallbackCSSURL = 'https://cdn.studentmoneysaver.co.uk/assets/css/lazyfonts.min.css?v=v3.2.4';
+
+		// PRE-RENDER
+		try {
+			cache = window.localStorage.getItem(key);
+			if ( cache ) {
+				cache = JSON.parse(cache);
+				if (cache.md5 == md5) {
+					insertFont(cache.value);
+				} else {
+					// Busting cache when md5 doesn't match
+					window.localStorage.removeItem(key);
+					cache = null;
+					insertLinkedCSS(fontsFallbackCSSURL);
+				}
+			}
+		} catch(e) {
+			insertLinkedCSS(fontsFallbackCSSURL); return; // Most likely LocalStorage disabled, so hopeless...
+		}
+
+		// POST-RENDER
+		if ( !cache ) {
+
+			window.addEventListener('load', function() {
+				var request = new XMLHttpRequest(),
+					response,
+					fontsFileURL;
+
+				if( supportsWoff2 )
+					fontsFileURL = 'https://cdn.studentmoneysaver.co.uk/assets/fonts/fonts.json?v=v3.2.4';
+				else {
+					fontsFileURL = 'https://cdn.studentmoneysaver.co.uk/assets/fonts/fonts-woff.json?v=v3.2.4';
+				}
+
+				if ("withCredentials" in request) {
+					request.open('GET', fontsFileURL, true);
+				}
+				else {
+					if( typeof UX != 'undefined') UX.loadStyle(fontsFallbackCSSURL); return false; //Cross-Domain requests not supported...
+				}
+
+
+				request.onerror =  function(){
+					if( typeof UX != 'undefined') UX.loadStyle(fontsFallbackCSSURL); return false;
+				};
+
+				request.ontimeout =  function(){
+					if( typeof UX != 'undefined') UX.loadStyle(fontsFallbackCSSURL); return false;
+				};
+
+				request.onload = function() {
+					if (this.status == 200) {
+						try {
+							response = JSON.parse(this.response);
+							insertFont(response.value);
+							window.localStorage.setItem(key, this.response);
+						} catch(e) {
+							insertLinkedCSS(fontsFallbackCSSURL); // LocalStorage is probably full
+						}
+					}
+				};
+				request.send();
+			});
+		}
+
+	})(window, document);
+
+</script>
+    <link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/bootstrap.min.css?v=v3.2.4">
+    <link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/font-awesome.min.css?v=v3.2.4">
+    <link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/jquery-ui.min.css?v=v3.2.4">
+    <link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/animate.min.css?v=v3.2.4">
+
+	        <link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/styles.min.css?v=v3.2.4">
+		<noscript><link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/styles-noscript.min.css?v=v3.2.4"/></noscript>
+	
+			<link rel="stylesheet" media="all" href="https://cdn.studentmoneysaver.co.uk/assets/css/custom/1498831888.css?v=1498831888">
+	
+<script id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js"></script></head>
+<body class="not-js-ready loading page-privacy page-template-page">
+
+<div class="pace pace-inactive">
+	<div class="pace-progress" data-progress-text="0%" data-progress="0"><div class="pace-progress-inner"></div></div>
+</div>
+
+
+<div class="cookie-policy-bar hidden-screen-alt">
+	<div class="content">
+
+		<!-- cookie policy message -->
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="user-message">
+
+					We use cookies to ensure you get the best experience on our website.
+					<hr class="inline-separator">
+					<a href="#-accept-cookie-policy" onclick="acceptCookiePolicy();" class="btn btn-white" style="margin: 0px 10px">I'm okay with this</a>
+					<a href="https://www.studentmoneysaver.co.uk/cookie-policy/" class="btn btn-white">Find out more</a>
+				</div>
+			</div>
+		</div>
+		<!-- cookie policy message -->
+
+	</div>
+</div>
+
+<script>
+
+	function acceptCookiePolicy(){
+		$.cookie('sms_cookies_allow', 'yes', { expires: 750, path: '/' });
+		$('.cookie-policy-bar').slideUp(210);
+		$('body').removeClass('cookie-policy-bar-on');
+	}
+
+	function showCookiePolicyBar(){
+		$(document).ready(function(){
+			if( $.cookie('sms_cookies_allow') != 'yes' ) {
+				$('body').addClass('cookie-policy-bar-on');
+				$('.cookie-policy-bar').slideDown(250);
+				$('.cookie-policy-bar').removeClass('hidden-screen-alt');
+			}
+		});
+	}
+
+	if ( window.addEventListener )
+		window.addEventListener("load", showCookiePolicyBar, false);
+	else if ( window.attachEvent )
+		window.attachEvent("onload", showCookiePolicyBar);
+
+</script>
+
+<div class="wrapper slide-in-menu" role="wrap">
+	<div class="header header-wrapper noskimwords" id="smsHeaderAlt" role="header">
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-3 col-md-3 col-xs-12">
+					<form class="form form-inline form-search main-search-form" id="mobileMenuSearchFormOne" action="https://www.studentmoneysaver.co.uk/search/" method="get" data-ga-ev-value-capture="#mobileMenuSearchFormOne input.input-search">
+						<div class="input-group">
+							<input type="search" name="keywords" list="listAutocompleteBrands" class="form-control input-search input-lg" size="45" maxlength="255" placeholder="Search Student Money Saver" value="">
+                            <span class="input-group-addon input-icon">
+                                <button type="submit"><span class="glyphicon glyphicon-search"></span></button>
+                            </span>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+
+		<datalist id="listAutocompleteBrands">
+							<option value="ODEON">ODEON</option>
+							<option value="House of Fraser">House of Fraser</option>
+							<option value="NOW TV">NOW TV</option>
+							<option value="Swagbucks">Swagbucks</option>
+							<option value="Latest in Beauty">Latest in Beauty</option>
+							<option value="hungryhouse">hungryhouse</option>
+							<option value="Moss Bros">Moss Bros</option>
+							<option value="16-25 Railcard">16-25 Railcard</option>
+							<option value="River Island">River Island</option>
+							<option value="blinkbox">blinkbox</option>
+							<option value="O2">O2</option>
+							<option value="Office">Office</option>
+							<option value="Mango">Mango</option>
+							<option value="HQhair">HQhair</option>
+							<option value="Gap">Gap</option>
+							<option value="Amazon">Amazon</option>
+							<option value="Subway">Subway</option>
+							<option value="SMS Travel">SMS Travel</option>
+							<option value="NUS extra">NUS extra</option>
+							<option value="Ryman">Ryman</option>
+							<option value="USC">USC</option>
+							<option value="GoNutrition">GoNutrition</option>
+							<option value="Sports Direct">Sports Direct</option>
+							<option value="Free Prints">Free Prints</option>
+							<option value="Ed's Easy Diner">Ed's Easy Diner</option>
+							<option value="Protein Dynamix">Protein Dynamix</option>
+							<option value="Frankie &amp; Benny's">Frankie &amp; Benny's</option>
+							<option value="The Fragrance Shop">The Fragrance Shop</option>
+							<option value="Prezzo">Prezzo</option>
+							<option value="Feel Unique">Feel Unique</option>
+							<option value="Ryanair">Ryanair</option>
+							<option value="Gourmet Burger Kitchen">Gourmet Burger Kitchen</option>
+							<option value="Nike">Nike</option>
+							<option value="TGI Friday's">TGI Friday's</option>
+							<option value="Currys PC World">Currys PC World</option>
+							<option value="Prezzybox">Prezzybox</option>
+							<option value="Ray-Ban">Ray-Ban</option>
+							<option value="Chiquito">Chiquito</option>
+							<option value="Dell">Dell</option>
+							<option value="Footasylum">Footasylum</option>
+							<option value="Virgin Trains">Virgin Trains</option>
+							<option value="JUST EAT">JUST EAT</option>
+							<option value="Urban Outfitters">Urban Outfitters</option>
+							<option value="ASOS">ASOS</option>
+							<option value="Sky">Sky</option>
+							<option value="Topshop">Topshop</option>
+							<option value="Apple">Apple</option>
+							<option value="Endsleigh">Endsleigh</option>
+							<option value="Halfords">Halfords</option>
+							<option value="Morrisons">Morrisons</option>
+							<option value="Pizza Hut Delivery">Pizza Hut Delivery</option>
+							<option value="Mobile Phones Direct">Mobile Phones Direct</option>
+							<option value="Amazon">Amazon</option>
+							<option value="Boots">Boots</option>
+							<option value="H&amp;M">H&amp;M</option>
+							<option value="Coca Cola">Coca Cola</option>
+							<option value="Tesco">Tesco</option>
+							<option value="Lottoland">Lottoland</option>
+							<option value="Vans">Vans</option>
+							<option value="adidas">adidas</option>
+							<option value="Greggs">Greggs</option>
+							<option value="Ted Baker">Ted Baker</option>
+							<option value="Waterstones">Waterstones</option>
+							<option value="bareMinerals">bareMinerals</option>
+							<option value="Nisa">Nisa</option>
+							<option value="Google Play">Google Play</option>
+							<option value="Skyscanner">Skyscanner</option>
+							<option value="The Times">The Times</option>
+							<option value="Cineworld">Cineworld</option>
+							<option value="Argos">Argos</option>
+							<option value="L'Occitane">L'Occitane</option>
+							<option value="Clinique">Clinique</option>
+							<option value="The Body Shop">The Body Shop</option>
+							<option value="Aldi">Aldi</option>
+							<option value="Burger King">Burger King</option>
+							<option value="National Express">National Express</option>
+							<option value="Benefit">Benefit</option>
+							<option value="American Apparel">American Apparel</option>
+							<option value="giffgaff">giffgaff</option>
+							<option value="LookFantastic">LookFantastic</option>
+							<option value="Boohoo.com">Boohoo.com</option>
+							<option value="L'Oreal">L'Oreal</option>
+							<option value="Starbucks">Starbucks</option>
+							<option value="Zizzi">Zizzi</option>
+							<option value="Spotify">Spotify</option>
+							<option value="McDonald's">McDonald's</option>
+							<option value="easyJet">easyJet</option>
+							<option value="Superdry">Superdry</option>
+							<option value="Dorothy Perkins">Dorothy Perkins</option>
+							<option value="Caffe Nero">Caffe Nero</option>
+							<option value="Pizza Express">Pizza Express</option>
+							<option value="Ben &amp; Jerry's">Ben &amp; Jerry's</option>
+							<option value="Next">Next</option>
+							<option value="KFC">KFC</option>
+							<option value="Travel Republic">Travel Republic</option>
+							<option value="Quidco">Quidco</option>
+							<option value="Nivea">Nivea</option>
+							<option value="Lidl">Lidl</option>
+							<option value="Thorntons">Thorntons</option>
+							<option value="Thorpe Park">Thorpe Park</option>
+							<option value="Escada">Escada</option>
+							<option value="Papa John's">Papa John's</option>
+							<option value="Jack Wills">Jack Wills</option>
+							<option value="Garnier">Garnier</option>
+							<option value="Boots Opticians">Boots Opticians</option>
+							<option value="M&amp;S">M&amp;S</option>
+							<option value="Higgidy">Higgidy</option>
+							<option value="Red Bush Tea Company">Red Bush Tea Company</option>
+							<option value="Dior">Dior</option>
+							<option value="Strada">Strada</option>
+							<option value="Costa">Costa</option>
+							<option value="Co-op">Co-op</option>
+							<option value="Miss Selfridge">Miss Selfridge</option>
+							<option value="Bloom &amp; Wild">Bloom &amp; Wild</option>
+							<option value="Nando's">Nando's</option>
+							<option value="Domino's">Domino's</option>
+							<option value="Netflix">Netflix</option>
+							<option value="Debenhams">Debenhams</option>
+							<option value="Ralph Lauren">Ralph Lauren</option>
+							<option value="ALLSAINTS">ALLSAINTS</option>
+							<option value="Super Savvy Me">Super Savvy Me</option>
+							<option value="Forever 21">Forever 21</option>
+							<option value="Handmade Burger co.">Handmade Burger co.</option>
+							<option value="Yo! Sushi">Yo! Sushi</option>
+							<option value="Teleflorist">Teleflorist</option>
+							<option value="Chptr &amp; Vrse">Chptr &amp; Vrse</option>
+							<option value="The Savile Row Company">The Savile Row Company</option>
+							<option value="New Era">New Era</option>
+							<option value="Incase">Incase</option>
+							<option value="Red Letter Days">Red Letter Days</option>
+							<option value="Revolution">Revolution</option>
+							<option value="Pizza Hut">Pizza Hut</option>
+							<option value="Primark">Primark</option>
+							<option value="Euroventure">Euroventure</option>
+							<option value="The Protein Works">The Protein Works</option>
+							<option value="Groupon">Groupon</option>
+							<option value="Drinki App">Drinki App</option>
+							<option value="PayPal">PayPal</option>
+							<option value="StudentUniverse">StudentUniverse</option>
+							<option value="BHS">BHS</option>
+							<option value="Wilko">Wilko</option>
+							<option value="TeaMonger">TeaMonger</option>
+							<option value="Waitrose">Waitrose</option>
+							<option value="Matalan">Matalan</option>
+							<option value="National Rail">National Rail</option>
+							<option value="Zavvi">Zavvi</option>
+							<option value="Richer Sounds">Richer Sounds</option>
+							<option value="Crabtree &amp; Evelyn">Crabtree &amp; Evelyn</option>
+							<option value="Carphone Warehouse">Carphone Warehouse</option>
+							<option value="Graze Box">Graze Box</option>
+							<option value="SMS Magazines">SMS Magazines</option>
+							<option value="SMS Freebies">SMS Freebies</option>
+							<option value="SMS Food">SMS Food</option>
+							<option value="SMS Beauty">SMS Beauty</option>
+							<option value="Megabus">Megabus</option>
+							<option value="New Look">New Look</option>
+							<option value="Valued Opinions">Valued Opinions</option>
+							<option value="Cafe Rouge">Cafe Rouge</option>
+							<option value="BACARDÍ">BACARDÍ</option>
+							<option value="Dr Oetker">Dr Oetker</option>
+							<option value="Selfridges">Selfridges</option>
+							<option value="Vodafone">Vodafone</option>
+							<option value="Microsoft Office">Microsoft Office</option>
+							<option value="John Lewis">John Lewis</option>
+							<option value="Pitcher &amp; Piano">Pitcher &amp; Piano</option>
+							<option value="Jessops Photo">Jessops Photo</option>
+							<option value="StubHub">StubHub</option>
+							<option value="Stagecoach">Stagecoach</option>
+							<option value="Superdrug">Superdrug</option>
+							<option value="Maybelline">Maybelline</option>
+							<option value="PayasUgym">PayasUgym</option>
+							<option value="redspottedhanky .com">redspottedhanky .com</option>
+							<option value="Stansted Express">Stansted Express</option>
+							<option value="BlaBlaCar">BlaBlaCar</option>
+							<option value="Wuaki TV">Wuaki TV</option>
+							<option value="French Connection">French Connection</option>
+							<option value="Zara">Zara</option>
+							<option value="Missguided">Missguided</option>
+							<option value="Topman">Topman</option>
+							<option value="JD Sports">JD Sports</option>
+							<option value="TheTrainline.com">TheTrainline.com</option>
+							<option value="Virgin Media Broadband">Virgin Media Broadband</option>
+							<option value="Accessorize">Accessorize</option>
+							<option value="TARGETjobs">TARGETjobs</option>
+							<option value="F&amp;F">F&amp;F</option>
+							<option value="bespoke offers">bespoke offers</option>
+							<option value="STA Travel">STA Travel</option>
+							<option value="Student Film First">Student Film First</option>
+							<option value="DividaBill">DividaBill</option>
+							<option value="TopCashback">TopCashback</option>
+							<option value="Tanning Shop">Tanning Shop</option>
+							<option value="Action Against Hunger">Action Against Hunger</option>
+							<option value="Glide">Glide</option>
+							<option value="JustFab">JustFab</option>
+							<option value="MyMemory">MyMemory</option>
+							<option value="Countrywide Paintball">Countrywide Paintball</option>
+							<option value="Ocado">Ocado</option>
+							<option value="LOVESPACE">LOVESPACE</option>
+							<option value="Steam">Steam</option>
+							<option value="Bargain Booze">Bargain Booze</option>
+							<option value="Santander">Santander</option>
+							<option value="Iceland">Iceland</option>
+							<option value="Zeek">Zeek</option>
+							<option value="YouGov">YouGov</option>
+							<option value="Pepsi">Pepsi</option>
+							<option value="Walkabout">Walkabout</option>
+							<option value="Splyt">Splyt</option>
+							<option value="Tempur">Tempur</option>
+							<option value="e.l.f">e.l.f</option>
+							<option value="Vax">Vax</option>
+							<option value="Lebara">Lebara</option>
+							<option value="Abebooks">Abebooks</option>
+							<option value="Dr Martens">Dr Martens</option>
+							<option value="Las Iguanas">Las Iguanas</option>
+							<option value="TK Maxx">TK Maxx</option>
+							<option value="Toni and Guy">Toni and Guy</option>
+							<option value="Boux Avenue">Boux Avenue</option>
+							<option value="Monsoon">Monsoon</option>
+							<option value="Fat Face">Fat Face</option>
+							<option value="Very">Very</option>
+							<option value="Alton Towers">Alton Towers</option>
+							<option value="Rimmel">Rimmel</option>
+							<option value="Wagamama">Wagamama</option>
+							<option value="Etsy">Etsy</option>
+							<option value="Elle">Elle</option>
+							<option value="Specsavers">Specsavers</option>
+							<option value="Oasis">Oasis</option>
+							<option value="Happiour">Happiour</option>
+							<option value="Wired">Wired</option>
+							<option value="FairFX">FairFX</option>
+							<option value="SECRETSALES.com">SECRETSALES.com</option>
+							<option value="AllBeauty">AllBeauty</option>
+							<option value="Checkout Smart">Checkout Smart</option>
+							<option value="Three Mobile">Three Mobile</option>
+							<option value="Origin">Origin</option>
+							<option value="Nails inc">Nails inc</option>
+							<option value="Airbnb">Airbnb</option>
+							<option value="Inkly">Inkly</option>
+							<option value="Fitness First">Fitness First</option>
+							<option value="Vue">Vue</option>
+							<option value="Optical Express">Optical Express</option>
+							<option value="First">First</option>
+							<option value="The Wall Street Journal">The Wall Street Journal</option>
+							<option value="TransferWise">TransferWise</option>
+							<option value="nCrowd">nCrowd</option>
+							<option value="Kurt Geiger">Kurt Geiger</option>
+							<option value="iTunes">iTunes</option>
+							<option value="Chimichanga">Chimichanga</option>
+							<option value="ASK Italian">ASK Italian</option>
+							<option value="Ann Summers">Ann Summers</option>
+							<option value="Virgin Experience Days">Virgin Experience Days</option>
+							<option value="Contiki">Contiki</option>
+							<option value="Encore Tickets">Encore Tickets</option>
+							<option value="Readly">Readly</option>
+							<option value="One Utility Bill">One Utility Bill</option>
+							<option value="Nuffield Health">Nuffield Health</option>
+							<option value="Awaken Ibiza">Awaken Ibiza</option>
+							<option value="uSwitch">uSwitch</option>
+							<option value="BUNAC">BUNAC</option>
+							<option value="Poundland">Poundland</option>
+							<option value="Mobiles.co.uk">Mobiles.co.uk</option>
+							<option value="Rush Hair &amp; Beauty">Rush Hair &amp; Beauty</option>
+							<option value="The Economist">The Economist</option>
+							<option value="Hi-Life">Hi-Life</option>
+							<option value="ASDA">ASDA</option>
+							<option value="Charles Wilson">Charles Wilson</option>
+							<option value="Clintons">Clintons</option>
+							<option value="Shoeaholics">Shoeaholics</option>
+							<option value="EE">EE</option>
+							<option value="Joy">Joy</option>
+							<option value="B&amp;Q">B&amp;Q</option>
+							<option value="IKEA">IKEA</option>
+							<option value="MySupermarket">MySupermarket</option>
+							<option value="Warehouse">Warehouse</option>
+							<option value="Rate My Roof">Rate My Roof</option>
+							<option value="Mobilexpression">Mobilexpression</option>
+							<option value="Fashion Tales">Fashion Tales</option>
+							<option value="TicketWeb">TicketWeb</option>
+							<option value="miDrive">miDrive</option>
+							<option value="Milkround">Milkround</option>
+							<option value="MuscleFood">MuscleFood</option>
+							<option value="RefME">RefME</option>
+							<option value="Samsung">Samsung</option>
+							<option value="Glamorous">Glamorous</option>
+							<option value="Takeaway.com">Takeaway.com</option>
+							<option value="British Condoms">British Condoms</option>
+							<option value="Rakuten">Rakuten</option>
+							<option value="UNIQLO">UNIQLO</option>
+							<option value="Krispy Kreme">Krispy Kreme</option>
+							<option value="Oh My Love">Oh My Love</option>
+							<option value="BrandAlley">BrandAlley</option>
+							<option value="Baileys">Baileys</option>
+							<option value="Transform Your Images">Transform Your Images</option>
+							<option value="Audible">Audible</option>
+							<option value="Go Compare">Go Compare</option>
+							<option value="Puma">Puma</option>
+							<option value="Lipsy">Lipsy</option>
+							<option value="YourWord">YourWord</option>
+							<option value="Animal">Animal</option>
+							<option value="Trivago">Trivago</option>
+							<option value="Olympus Health">Olympus Health</option>
+							<option value="East Midlands Train">East Midlands Train</option>
+							<option value="Save Water Save Money">Save Water Save Money</option>
+							<option value="Pact Coffee">Pact Coffee</option>
+							<option value="Fragrance Direct">Fragrance Direct</option>
+							<option value="Xercise4Less">Xercise4Less</option>
+							<option value="Dove">Dove</option>
+							<option value="GfK Mystery Shopping">GfK Mystery Shopping</option>
+							<option value="Fatbrain">Fatbrain</option>
+							<option value="Blackwell Books">Blackwell Books</option>
+							<option value="Arriva">Arriva</option>
+							<option value="What's in my Handbag">What's in my Handbag</option>
+							<option value="Relish">Relish</option>
+							<option value="Rare London">Rare London</option>
+							<option value="People Tree">People Tree</option>
+							<option value="Bounce">Bounce</option>
+							<option value="Snapfish">Snapfish</option>
+							<option value="Flubit">Flubit</option>
+							<option value="Cover4Students">Cover4Students</option>
+							<option value="easybills">easybills</option>
+							<option value="East Coast Trains">East Coast Trains</option>
+							<option value="LoveTEFL">LoveTEFL</option>
+							<option value="London Midland">London Midland</option>
+							<option value="Eurostar">Eurostar</option>
+							<option value="WatchWarehouse">WatchWarehouse</option>
+							<option value="Simply Cook">Simply Cook</option>
+							<option value="The Week">The Week</option>
+							<option value="TalkTalk">TalkTalk</option>
+							<option value="Emaze">Emaze</option>
+							<option value="Ukash">Ukash</option>
+							<option value="La Redoute">La Redoute</option>
+							<option value="South West Trains">South West Trains</option>
+							<option value="The Idle Man">The Idle Man</option>
+							<option value="Cosmopolitan">Cosmopolitan</option>
+							<option value="Lastminute.com">Lastminute.com</option>
+							<option value="The Watch Hut">The Watch Hut</option>
+							<option value="Skype">Skype</option>
+							<option value="ICE Exchange">ICE Exchange</option>
+							<option value="Unineed">Unineed</option>
+							<option value="Origins">Origins</option>
+							<option value="Deezer">Deezer</option>
+							<option value="Musicalize">Musicalize</option>
+							<option value="Rubbersole">Rubbersole</option>
+							<option value="Wahanda">Wahanda</option>
+							<option value="La Tasca">La Tasca</option>
+							<option value="Mankind">Mankind</option>
+							<option value="Coverwise">Coverwise</option>
+							<option value="Protect Your Bubble">Protect Your Bubble</option>
+							<option value="Holiday Extras">Holiday Extras</option>
+							<option value="Wilkinson Sword">Wilkinson Sword</option>
+							<option value="Jet2holidays">Jet2holidays</option>
+							<option value="Danone">Danone</option>
+							<option value="SPAR">SPAR</option>
+							<option value="Bella Italia">Bella Italia</option>
+							<option value="Paco Rabanne">Paco Rabanne</option>
+							<option value="Kozel">Kozel</option>
+							<option value="GFK Media View">GFK Media View</option>
+							<option value="Ghost">Ghost</option>
+							<option value="Compare the Market">Compare the Market</option>
+							<option value="Kabbee">Kabbee</option>
+							<option value="Post Office Travel Money">Post Office Travel Money</option>
+							<option value="Blue Inc">Blue Inc</option>
+							<option value="iSubscribe">iSubscribe</option>
+							<option value="Tastecard">Tastecard</option>
+							<option value="Yazoo">Yazoo</option>
+							<option value="British Military Fitness">British Military Fitness</option>
+							<option value="Paperchase">Paperchase</option>
+							<option value="TM Lewin">TM Lewin</option>
+							<option value="LateRooms">LateRooms</option>
+							<option value="SelectSpecs">SelectSpecs</option>
+							<option value="Charles Tyrwhitt">Charles Tyrwhitt</option>
+							<option value="Dabs.com">Dabs.com</option>
+							<option value="Stylist Pick">Stylist Pick</option>
+							<option value="Converse">Converse</option>
+							<option value="Tesco Direct">Tesco Direct</option>
+							<option value="Young's">Young's</option>
+							<option value="Burton">Burton</option>
+							<option value="Amazon App Store">Amazon App Store</option>
+							<option value="Bras &amp; Honey">Bras &amp; Honey</option>
+							<option value="CPC">CPC</option>
+							<option value="AllSole">AllSole</option>
+							<option value="Universal Pictures">Universal Pictures</option>
+							<option value="Printic">Printic</option>
+							<option value="ebookers">ebookers</option>
+							<option value="Robinsons">Robinsons</option>
+							<option value="Kallo">Kallo</option>
+							<option value="Dorset Tea">Dorset Tea</option>
+							<option value="InStyle">InStyle</option>
+							<option value="The Physical Network">The Physical Network</option>
+							<option value="Manuka Doctor">Manuka Doctor</option>
+							<option value="Southeastern">Southeastern</option>
+							<option value="Ebuyer">Ebuyer</option>
+							<option value="The Opinion Panel">The Opinion Panel</option>
+							<option value="The Works">The Works</option>
+							<option value="Millie's Cookies">Millie's Cookies</option>
+							<option value="OMG Fashion">OMG Fashion</option>
+							<option value="Sanctuary">Sanctuary</option>
+							<option value="Uni Baggage">Uni Baggage</option>
+							<option value="Shopitize">Shopitize</option>
+							<option value="Post-It">Post-It</option>
+							<option value="Surfdome">Surfdome</option>
+							<option value="IWOOT">IWOOT</option>
+							<option value="Hotel Chocolat">Hotel Chocolat</option>
+							<option value="MyProtein">MyProtein</option>
+							<option value="Caring Everyday">Caring Everyday</option>
+							<option value="Tea India">Tea India</option>
+							<option value="Comme des Garcons">Comme des Garcons</option>
+							<option value="Meantime">Meantime</option>
+							<option value="Björn Borg">Björn Borg</option>
+							<option value="Viking">Viking</option>
+							<option value="Uber">Uber</option>
+							<option value="YPlan">YPlan</option>
+							<option value="ShaveKit">ShaveKit</option>
+							<option value="Britney Spears">Britney Spears</option>
+							<option value="OVIVO">OVIVO</option>
+							<option value="The Student Lotto">The Student Lotto</option>
+							<option value="Vladivar Vodka">Vladivar Vodka</option>
+							<option value="Toluna">Toluna</option>
+							<option value="Glamour">Glamour</option>
+							<option value="XBOX">XBOX</option>
+							<option value="Vita Coco">Vita Coco</option>
+							<option value="Vichy">Vichy</option>
+							<option value="Foyles">Foyles</option>
+							<option value="Special K">Special K</option>
+							<option value="Paramount">Paramount</option>
+							<option value="Lancome">Lancome</option>
+							<option value="PAUL">PAUL</option>
+							<option value="Burberry">Burberry</option>
+							<option value="Picturehouse Cinemas">Picturehouse Cinemas</option>
+							<option value="Giraffe">Giraffe</option>
+							<option value="My Survey">My Survey</option>
+							<option value="eBay">eBay</option>
+							<option value="LivingSocial">LivingSocial</option>
+							<option value="Travelodge">Travelodge</option>
+							<option value="Premier Inn">Premier Inn</option>
+							<option value="The Hut">The Hut</option>
+							<option value="The Book People">The Book People</option>
+							<option value="Schuh">Schuh</option>
+							<option value="Wowcher">Wowcher</option>
+							<option value="The People's Operator">The People's Operator</option>
+							<option value="VoucherCodes">VoucherCodes</option>
+							<option value="Qmee">Qmee</option>
+							<option value="Oyster">Oyster</option>
+							<option value="The Nielsen Company">The Nielsen Company</option>
+							<option value="lowcostholidays">lowcostholidays</option>
+							<option value="BITE">BITE</option>
+							<option value="Hungry Horse">Hungry Horse</option>
+							<option value="Easyprint">Easyprint</option>
+							<option value="Yates's">Yates's</option>
+							<option value="Sainsbury's">Sainsbury's</option>
+							<option value="Gucci">Gucci</option>
+							<option value="Lacoste">Lacoste</option>
+							<option value="Hugo Boss">Hugo Boss</option>
+							<option value="Hunter">Hunter</option>
+							<option value="Chiltern Railways">Chiltern Railways</option>
+							<option value="Southern Railway">Southern Railway</option>
+							<option value="Cross Country Trains">Cross Country Trains</option>
+							<option value="WH Smith">WH Smith</option>
+							<option value="GAME">GAME</option>
+							<option value="Victoria's Secret">Victoria's Secret</option>
+							<option value="Aveeno">Aveeno</option>
+							<option value="Wella">Wella</option>
+							<option value="Givenchy">Givenchy</option>
+							<option value="Royal Bank of Scotland">Royal Bank of Scotland</option>
+							<option value="Estee Lauder">Estee Lauder</option>
+							<option value="HURU">HURU</option>
+							<option value="Holland &amp; Barrett">Holland &amp; Barrett</option>
+							<option value="Bows Boutiques">Bows Boutiques</option>
+							<option value="Wheelies">Wheelies</option>
+							<option value="NatWest">NatWest</option>
+							<option value="foodme">foodme</option>
+							<option value="Rokit Vintage">Rokit Vintage</option>
+							<option value="MatchedBets">MatchedBets</option>
+							<option value="theEDUstore">theEDUstore</option>
+							<option value="Taco Bell">Taco Bell</option>
+							<option value="Metix">Metix</option>
+							<option value="Crepe Affaire">Crepe Affaire</option>
+							<option value="MoodChimp">MoodChimp</option>
+							<option value="Tiaz Boutique">Tiaz Boutique</option>
+							<option value="Bluebella">Bluebella</option>
+							<option value="MyLuckyPatch">MyLuckyPatch</option>
+							<option value="FORZA">FORZA</option>
+							<option value="Spaire">Spaire</option>
+							<option value="Ideal Flatmate">Ideal Flatmate</option>
+							<option value="Premier TEFL">Premier TEFL</option>
+							<option value="The Photography Show">The Photography Show</option>
+							<option value="Nimber">Nimber</option>
+							<option value="ZAFUL">ZAFUL</option>
+							<option value="Tortilla">Tortilla</option>
+							<option value="Boardinary">Boardinary</option>
+							<option value="Proporta">Proporta</option>
+							<option value="Club18-30">Club18-30</option>
+							<option value="Experian">Experian</option>
+							<option value="Yesbets">Yesbets</option>
+							<option value="Yogaia">Yogaia</option>
+							<option value="itsu">itsu</option>
+							<option value="Hobbycraft">Hobbycraft</option>
+							<option value="Urban Decay">Urban Decay</option>
+							<option value="20 Cogs">20 Cogs</option>
+							<option value="easyCoffee">easyCoffee</option>
+							<option value="Pinecone Research">Pinecone Research</option>
+							<option value="SMS Jobs">SMS Jobs</option>
+							<option value="go4uk">go4uk</option>
+							<option value="University of East London">University of East London</option>
+							<option value="Generator Hostels">Generator Hostels</option>
+							<option value="StudentTenant">StudentTenant</option>
+							<option value="Aukey">Aukey</option>
+							<option value="UGG">UGG</option>
+							<option value="The Perfume Shop">The Perfume Shop</option>
+							<option value="Pouch">Pouch</option>
+							<option value="The Edge of Seventeen">The Edge of Seventeen</option>
+							<option value="Hypit">Hypit</option>
+							<option value="Apple Music">Apple Music</option>
+							<option value="Microsoft">Microsoft</option>
+							<option value="Zalando">Zalando</option>
+							<option value="Deliveroo">Deliveroo</option>
+							<option value="H. Samuel">H. Samuel</option>
+							<option value="Pretty Little Thing">Pretty Little Thing</option>
+							<option value="Toby Carvery">Toby Carvery</option>
+							<option value="8Ball">8Ball</option>
+							<option value="Smashbox">Smashbox</option>
+							<option value="TARGETpostgrad">TARGETpostgrad</option>
+							<option value="Shopmium">Shopmium</option>
+							<option value="Great Western Railway">Great Western Railway</option>
+							<option value="Kiehl's">Kiehl's</option>
+							<option value="Be at One">Be at One</option>
+							<option value="Bio-Synergy">Bio-Synergy</option>
+							<option value="BoohooMAN">BoohooMAN</option>
+							<option value="OneADay">OneADay</option>
+							<option value="Rosegal">Rosegal</option>
+							<option value="GearBest">GearBest</option>
+							<option value="Onepiece">Onepiece</option>
+							<option value="Neutrogena">Neutrogena</option>
+							<option value="Barclays">Barclays</option>
+							<option value="Adobe">Adobe</option>
+							<option value="Makeup Revolution">Makeup Revolution</option>
+							<option value="Charlotte Tilbury">Charlotte Tilbury</option>
+							<option value="Campus Society">Campus Society</option>
+							<option value="MAC">MAC</option>
+							<option value="Kirsty’s">Kirsty’s</option>
+							<option value="Tommy Hilfiger">Tommy Hilfiger</option>
+							<option value="hayu">hayu</option>
+							<option value="Wraps">Wraps</option>
+							<option value="WhatsApp">WhatsApp</option>
+							<option value="Chanel">Chanel</option>
+							<option value="Diesel">Diesel</option>
+							<option value="All Bar One">All Bar One</option>
+							<option value="CaxtonFX">CaxtonFX</option>
+							<option value="SMS Gadget Insurance">SMS Gadget Insurance</option>
+							<option value="Applause Store">Applause Store</option>
+							<option value="Free the Fresher">Free the Fresher</option>
+							<option value="USA Summer Camp">USA Summer Camp</option>
+							<option value="DripApp">DripApp</option>
+							<option value="BillHub">BillHub</option>
+							<option value="Postboxed">Postboxed</option>
+							<option value="Starter Black Label">Starter Black Label</option>
+							<option value="RightCall">RightCall</option>
+							<option value="NASM">NASM</option>
+							<option value="Huddle">Huddle</option>
+							<option value="Hausie">Hausie</option>
+							<option value="IKRUSH">IKRUSH</option>
+							<option value="Stoke Travel">Stoke Travel</option>
+							<option value="Blue White and Grey">Blue White and Grey</option>
+							<option value="Secret Cinema">Secret Cinema</option>
+							<option value="SMS Fitness">SMS Fitness</option>
+							<option value="ClearScore">ClearScore</option>
+							<option value="Pink Pig">Pink Pig</option>
+							<option value="Broadband Choices">Broadband Choices</option>
+							<option value="Pure Gym">Pure Gym</option>
+							<option value="Into The Blue">Into The Blue</option>
+							<option value="Jane Norman">Jane Norman</option>
+							<option value="Adored">Adored</option>
+							<option value="GetGeared">GetGeared</option>
+							<option value="Approved Food">Approved Food</option>
+							<option value="London Theatre Direct">London Theatre Direct</option>
+							<option value="Pockit">Pockit</option>
+							<option value="EarlyBird">EarlyBird</option>
+							<option value="Life Style Sports">Life Style Sports</option>
+							<option value="Maverick &amp; Wolf">Maverick &amp; Wolf</option>
+							<option value="Apricot Clothing">Apricot Clothing</option>
+							<option value="EarnAway">EarnAway</option>
+							<option value="iD from Carphone Warehouse">iD from Carphone Warehouse</option>
+							<option value="Regis">Regis</option>
+							<option value="MindMover">MindMover</option>
+							<option value="Supercuts">Supercuts</option>
+							<option value="Fusion Students">Fusion Students</option>
+							<option value="OUIBUS">OUIBUS</option>
+							<option value="Bellfield Clothing">Bellfield Clothing</option>
+							<option value="Pizza Hut Restaurants">Pizza Hut Restaurants</option>
+							<option value="Lyle and Scott">Lyle and Scott</option>
+							<option value="London Beer Week">London Beer Week</option>
+							<option value="Doddle">Doddle</option>
+							<option value="Rustlers">Rustlers</option>
+							<option value="Yankee Candle">Yankee Candle</option>
+							<option value="Loveholidays">Loveholidays</option>
+							<option value="The Collective">The Collective</option>
+							<option value="Brandshop">Brandshop</option>
+							<option value="Planet X Bikes">Planet X Bikes</option>
+							<option value="Ultimate Outdoors">Ultimate Outdoors</option>
+							<option value="Millets">Millets</option>
+							<option value="SMS Competitions">SMS Competitions</option>
+							<option value="Mingle">Mingle</option>
+							<option value="Lottoplus">Lottoplus</option>
+							<option value="Max Factor">Max Factor</option>
+							<option value="Wonderush">Wonderush</option>
+							<option value="Camp Leaders">Camp Leaders</option>
+							<option value="Penguin Books">Penguin Books</option>
+							<option value="SMS home">SMS home</option>
+							<option value="GymFuel">GymFuel</option>
+							<option value="Up&amp;Go">Up&amp;Go</option>
+							<option value="Envirofone">Envirofone</option>
+							<option value="almanis">almanis</option>
+							<option value="Trendence Graduate">Trendence Graduate</option>
+							<option value="Table Table">Table Table</option>
+							<option value="Page Talent">Page Talent</option>
+							<option value="Kabuto Noodles">Kabuto Noodles</option>
+							<option value="Harvester">Harvester</option>
+							<option value="Real Gap Experience">Real Gap Experience</option>
+							<option value="Lil-lets">Lil-lets</option>
+							<option value="Byron">Byron</option>
+							<option value="Tawe">Tawe</option>
+							<option value="Eat First">Eat First</option>
+							<option value="Hallbookers">Hallbookers</option>
+							<option value="SRO Audiences">SRO Audiences</option>
+							<option value="Loot">Loot</option>
+							<option value="NoSweat">NoSweat</option>
+							<option value="RateMyPlacement">RateMyPlacement</option>
+							<option value="P&amp;O Ferries">P&amp;O Ferries</option>
+							<option value="The Gym">The Gym</option>
+							<option value="Everything £5">Everything £5</option>
+							<option value="HP">HP</option>
+							<option value="Fever">Fever</option>
+							<option value="Home Bargains">Home Bargains</option>
+							<option value="LIFE Mobile">LIFE Mobile</option>
+							<option value="B&amp;M Bargains">B&amp;M Bargains</option>
+							<option value="Ipsos i-Say">Ipsos i-Say</option>
+							<option value="Westin Gourmet">Westin Gourmet</option>
+							<option value="Scape Living">Scape Living</option>
+							<option value="Tengi">Tengi</option>
+							<option value="Hat Trick Productions">Hat Trick Productions</option>
+							<option value="Travel Talk">Travel Talk</option>
+							<option value="Opinion Outpost">Opinion Outpost</option>
+							<option value="All Boxed Up">All Boxed Up</option>
+							<option value="Habitat">Habitat</option>
+							<option value="PoundWorld">PoundWorld</option>
+							<option value="WeSwap">WeSwap</option>
+							<option value="InboxPounds">InboxPounds</option>
+							<option value="Girl Meets Dress">Girl Meets Dress</option>
+							<option value="Cloggs">Cloggs</option>
+							<option value="Free Postcode Lottery">Free Postcode Lottery</option>
+							<option value="Malibu">Malibu</option>
+							<option value="LA Muscle">LA Muscle</option>
+							<option value="PharmacyFirst">PharmacyFirst</option>
+							<option value="CD Keys">CD Keys</option>
+							<option value="Runtastic">Runtastic</option>
+							<option value="ArtsCow">ArtsCow</option>
+							<option value="Ticketmaster">Ticketmaster</option>
+							<option value="HMR">HMR</option>
+							<option value="BestSecret">BestSecret</option>
+					</datalist>
+
+		
+		
+		<!--- menu default --->
+        <div class="container slided-menu">
+
+            <ul class="nav nav-showing nav-main navbar-nav">
+
+	            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/">
+					            Latest				            </a>
+
+		                
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/top-20/">
+					            Top 20				            </a>
+
+		                
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-9" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">
+					            Freebies <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/birthday-freebies/">Birthday Freebies</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/how-to-get-free-skincare-and-makeup-samples/">Beauty Freebies</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/were-giving-away-free-cinema-tickets-find-out-how-to-get-yours/">Free Cinema Tickets</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/8-sneaky-ways-to-get-free-delivery-from-amazon/">Free Amazon Delivery</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-1" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/">
+					            Deals <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/discounts/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/fashion/">Fashion</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/beauty/">Beauty</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/entertainment/">Entertainment</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/uni-essentials/">Uni Essentials</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/tech/">Tech</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/health-fitness/">Health &amp; Fitness</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/blagged/">Blagged</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/amazon/">Amazon</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-2" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/food-drink/">
+					            Food <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/restaurants/">Restaurants</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/supermarkets/">Supermarkets</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/takeaway/">Takeaways</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/booze/">Booze</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-3" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/make-money/">
+					            Make Money <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/make-money/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/make-money/quick-ideas/">Quick ideas</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/make-money/#ultimateGuideWrap">100 Ways to Make Money</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-4" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/travel/">
+					            Travel <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/travel/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/trains/">Train</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/bus/">Bus &amp; Coach</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/car/">Driving &amp; Car</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/flights/">Flights</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/holidays-hotels/">Holidays &amp; Hotels</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/money-insurance/">Money &amp; Insurance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/gap-year/">Gap Year</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-5" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/bills-finance/">
+					            Finance/Bills <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/household-utilities/">Household Utilities</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/broadband/">Broadband</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/mobile-phones/">Mobile Phones</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/student-finance/">Student Finance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/student-bank-account-guide/">Student Bank Accounts</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/insurance/">Insurance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/iphone/">iPhone</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/friday-giveaway/" style="background-color:#175b47;color:#fff;">
+					            Free £25				            </a>
+
+		                
+		            </li>
+
+	            
+            </ul>
+
+	        <ul class="nav navbar-nav navbar-right nav-more more-link">
+		        <li class="nav-divider" style="margin: 0px;"></li>
+		        <li class="hidden-sm hidden-md hidden-lg">
+			        <a href="https://www.studentmoneysaver.co.uk/login/">Sign up </a>
+		        </li>
+		        <li class="hidden-sm hidden-md hidden-lg">
+			        <a href="https://www.studentmoneysaver.co.uk/get-in-touch/">Get in touch </a>
+		        </li>
+		        <li class="dropdown more more-alt">
+			        <a href="https://www.studentmoneysaver.co.uk/categories/">More ... </a>
+	            </li>
+	        </ul>
+
+        </div>
+        <!--- menu default --->
+
+	</div>
+</div>
+
+<div class="wrapper" role="wrap">
+
+    
+    <!-- header -->
+    <div class="header header-wrapper noskimwords" id="smsHeader" role="header">
+
+        <!-- topmost header -->
+        <div class="container top-header">
+            <div class="row">
+                <div class="col-lg-4 col-md-1 col-sm-2 col-xs-2">
+	                <div class="brand logo"><a title="student discounts" href="https://www.studentmoneysaver.co.uk/" target="_self">&nbsp;</a></div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-5 col-xs-7">
+                    <form class="form form-inline form-search main-search-form" id="headerSearchFormOne" action="https://www.studentmoneysaver.co.uk/search/" method="get" data-ga-ev-value-capture="#headerSearchFormOne input.input-search">
+                        <div class="input-group">
+                            <input type="search" name="keywords" class="form-control input-search input-lg" size="45" maxlength="255" placeholder="Search for a brand e.g. Amazon" value="">
+                            <span class="input-group-addon input-icon">
+                                <button type="submit"><span class="glyphicon glyphicon-search"></span></button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-2 hidden-xs social-buttons">
+
+                    <noscript>
+                        <a class="fb-like" href="https://www.facebook.com/everythingstudent" target="_blank"><i class="fa fa-facebook"></i> Like</a>
+                        <a class="twitter-follow" href="https://twitter.com/everythinstudnt" style="margin-top: 5px;" target="_blank"><i class="fa fa-twitter"></i> Follow</a>
+                    </noscript>
+
+                    <div class="fb-like if-script-on" data-href="https://www.facebook.com/everythingstudent" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+                    <div class="twitter-follow if-script-on" style="margin-top: 5px;">
+                        <a href="https://twitter.com/everythinstudnt" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-dnt="true">Follow @studentmoneysvr</a>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-3 col-xs-3">
+
+                    
+                        <div class="pull-left hidden-screen">
+                            <a href="#follow-modal" onclick="$('#followModalOne').modal('show');" class="btn btn-default btn-lg btn-blue btn-large x-hist-no-push" rel="nofollow">
+                                <i class="fa fa-share-alt"></i> Follow
+                            </a>
+                        </div>
+
+                        <div class="pull-right">
+
+                            <a href="https://www.studentmoneysaver.co.uk/get-in-touch/" class="btn btn-default btn-lg btn-blue btn-get-in-touch btn-large" title="Get in touch">
+                                <span class="icon"><i class="fa fa-envelope-o"></i></span> <span class="text">Get in touch</span>
+                            </a>
+
+                                                            <a href="https://www.studentmoneysaver.co.uk/login/?redir=privacy-policy%2F" onclick="$('.login-modal').first().modal('show');" class="btn btn-default btn-lg btn-orange btn-large x-hist-no-push" rel="nofollow" title="Sign up" data-anchor-replace="#-sign-up">
+                                    <span class="icon"><i class="fa fa-sign-in"></i></span> <span class="text">Sign up</span>
+                                </a>
+                                                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+        <!-- topmost header -->
+
+        <!-- mobile header --->
+        <div class="navbar navbar-default navbar-fixed-top mobile-menu" role="navigation">
+
+            <div class="container-fluid ">
+
+                <div class="navbar-header">
+
+                    <a href="#-open-menu" onclick="$('body').toggleClass('slide-in-menu-open');" class="pull-left btn-slide-menu x-hist-no-push">
+                        <i class="fa fa-bars"></i>
+                    </a>
+
+                    <a class="navbar-brand logo" href="https://www.studentmoneysaver.co.uk/">
+                        <img class="img" src="https://cdn.studentmoneysaver.co.uk/assets/images/transparent-pixel.gif?v=v3.2.4">
+                    </a>
+
+                                            <a href="https://www.studentmoneysaver.co.uk/login/?redir=privacy-policy%2F" onclick="$('#loginModalOne').modal('show');" class="pull-right btn btn-large btn-orange btn-signup x-hist-no-push" data-anchor-replace="#-sign-up">
+                            Sign up
+                        </a>
+                    
+                </div>
+
+            </div>
+
+        </div>
+        <!-- mobile header --->
+
+        
+<!--- menu fixed top --->
+<div class="navbar navbar-default navbar-fixed-top toggle-menu toggle-menu-hidden" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://www.studentmoneysaver.co.uk/">
+                <img class="img" src="https://cdn.studentmoneysaver.co.uk/assets/images/transparent-pixel.gif?v=v3.2.4">
+            </a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-menu navbar-left-menu">
+
+                
+                    <li class="">
+
+                        
+                            <a href="https://www.studentmoneysaver.co.uk/">Latest</a>
+
+                        
+                    </li>
+
+                
+                    <li class="">
+
+                        
+                            <a href="https://www.studentmoneysaver.co.uk/top-20/">Top 20</a>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-9" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">
+                                Freebies <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/article/birthday-freebies/">Birthday Freebies</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/article/how-to-get-free-skincare-and-makeup-samples/">Beauty Freebies</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/article/were-giving-away-free-cinema-tickets-find-out-how-to-get-yours/">Free Cinema Tickets</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/article/8-sneaky-ways-to-get-free-delivery-from-amazon/">Free Amazon Delivery</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-1" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/">
+                                Deals <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/discounts/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/fashion/">Fashion</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/beauty/">Beauty</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/entertainment/">Entertainment</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/uni-essentials/">Uni Essentials</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/tech/">Tech</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/health-fitness/">Health &amp; Fitness</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/discounts/blagged/">Blagged</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/amazon/">Amazon</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-2" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/food-drink/">
+                                Food <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/food-drink/restaurants/">Restaurants</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/food-drink/supermarkets/">Supermarkets</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/food-drink/takeaway/">Takeaways</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/food-drink/booze/">Booze</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-3" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/make-money/">
+                                Make Money <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/make-money/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/make-money/quick-ideas/">Quick ideas</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/make-money/#ultimateGuideWrap">100 Ways to Make Money</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-4" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/travel/">
+                                Travel <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/travel/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/trains/">Train</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/bus/">Bus &amp; Coach</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/car/">Driving &amp; Car</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/flights/">Flights</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/holidays-hotels/">Holidays &amp; Hotels</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/money-insurance/">Money &amp; Insurance</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/travel/gap-year/">Gap Year</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="dropdown">
+
+                        
+                            <a href="#dropdown-5" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/bills-finance/">
+                                Finance/Bills <span class="caret"></span>
+                            </a>
+
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/">All</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/household-utilities/">Household Utilities</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/broadband/">Broadband</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/mobile-phones/">Mobile Phones</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/student-finance/">Student Finance</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/article/student-bank-account-guide/">Student Bank Accounts</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/insurance/">Insurance</a></li>
+                                                                    <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/iphone/">iPhone</a></li>
+                                
+                            </ul>
+
+                        
+                    </li>
+
+                
+                    <li class="">
+
+                        
+                            <a href="https://www.studentmoneysaver.co.uk/friday-giveaway/" style="background-color:#175b47;color:#fff;">Free £25</a>
+
+                        
+                    </li>
+
+                
+            </ul>
+	        <ul class="nav navbar-nav navbar-right">
+
+                <li class="dropdown more more-alt hidden-xs hidden-lg">
+                    <a href="https://www.studentmoneysaver.co.uk/categories/">More ... </a>
+                </li>
+
+		        <li>
+                    			            <a href="#login-modal-open" class="navbar-sign-in x-hist-no-push" onclick="$('#loginModalOne').modal('show');">
+                            <i class="fa fa-user"></i> Sign up
+                        </a>
+		                            </li>
+	        </ul>
+        </div>
+    </div>
+</div>
+<!--- menu fixed top --->
+        
+		
+		<!--- menu default --->
+        <div class="container main-menu">
+
+            <ul class="nav nav-showing nav-main navbar-nav">
+
+	            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/">
+					            Latest				            </a>
+
+		                
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/top-20/">
+					            Top 20				            </a>
+
+		                
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-9" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">
+					            Freebies <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/discounts/free-stuff/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/birthday-freebies/">Birthday Freebies</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/how-to-get-free-skincare-and-makeup-samples/">Beauty Freebies</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/were-giving-away-free-cinema-tickets-find-out-how-to-get-yours/">Free Cinema Tickets</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/8-sneaky-ways-to-get-free-delivery-from-amazon/">Free Amazon Delivery</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-1" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/discounts/">
+					            Deals <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/discounts/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/fashion/">Fashion</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/beauty/">Beauty</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/entertainment/">Entertainment</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/uni-essentials/">Uni Essentials</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/tech/">Tech</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/health-fitness/">Health &amp; Fitness</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/discounts/blagged/">Blagged</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/amazon/">Amazon</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-2" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/food-drink/">
+					            Food <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/restaurants/">Restaurants</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/supermarkets/">Supermarkets</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/takeaway/">Takeaways</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/food-drink/booze/">Booze</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-3" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/make-money/">
+					            Make Money <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/make-money/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/make-money/quick-ideas/">Quick ideas</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/make-money/#ultimateGuideWrap">100 Ways to Make Money</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-4" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/travel/">
+					            Travel <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/travel/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/trains/">Train</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/bus/">Bus &amp; Coach</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/car/">Driving &amp; Car</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/flights/">Flights</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/holidays-hotels/">Holidays &amp; Hotels</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/money-insurance/">Money &amp; Insurance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/travel/gap-year/">Gap Year</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="dropdown">
+
+			            
+				            <a href="#dropdown-5" class="dropdown-toggle" data-toggle="dropdown" data-hover-url="https://www.studentmoneysaver.co.uk/bills-finance/">
+					            Finance/Bills <span class="caret"></span>
+				            </a>
+
+			                <ul class="dropdown-menu" role="menu">
+				                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/">All</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/household-utilities/">Household Utilities</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/broadband/">Broadband</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/mobile-phones/">Mobile Phones</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/student-finance/">Student Finance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/article/student-bank-account-guide/">Student Bank Accounts</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/insurance/">Insurance</a></li>
+				                					                <li><a href="https://www.studentmoneysaver.co.uk/bills-finance/iphone/">iPhone</a></li>
+				                
+			                 </ul>
+
+			            
+		            </li>
+
+	            
+		            
+			           				            <li class="menu-item-separator">&nbsp;</li>
+			            
+		            
+		            <li class="">
+
+			            
+				            <a href="https://www.studentmoneysaver.co.uk/friday-giveaway/" style="background-color:#175b47;color:#fff;">
+					            Free £25				            </a>
+
+		                
+		            </li>
+
+	            
+            </ul>
+
+	        <ul class="nav navbar-nav navbar-right nav-more more-link">
+		        <li class="nav-divider" style="margin: 0px;"></li>
+		        <li class="hidden-sm hidden-md hidden-lg">
+			        <a href="https://www.studentmoneysaver.co.uk/login/">Sign up </a>
+		        </li>
+		        <li class="hidden-sm hidden-md hidden-lg">
+			        <a href="https://www.studentmoneysaver.co.uk/get-in-touch/">Get in touch </a>
+		        </li>
+		        <li class="dropdown more more-alt">
+			        <a href="https://www.studentmoneysaver.co.uk/categories/">More ... </a>
+	            </li>
+	        </ul>
+
+        </div>
+        <!--- menu default --->
+
+    </div>
+    <!-- header -->
+
+    
+    <!-- main -->
+    <div class="main main-wrapper noskimwords" id="smsMainContent" role="main">
+
+        <div class="container content">
+
+            <div class="row">&nbsp;</div>
+
+            
+<!--- breadcrumbs --->
+<div class="row noskimwords">
+
+    <div class="col-lg-12">
+        <div class="breadcrumbs">
+            <ul class="list-unstyled">
+                <li>
+	                <a href="https://www.studentmoneysaver.co.uk/" title="Student Money Saver">
+		                <i class="fa fa-home"></i> Home
+	                </a>
+                </li>
+                                    <li class="item first"><a href="https://www.studentmoneysaver.co.uk/privacy-policy/">Privacy Policy</a></li>
+                            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+</div>
+<!--- breadcrumbs --->
+            <div class="row">&nbsp;</div>
+
+            <div class="row">
+
+                <!--- primary --->
+                <div class="col-lg-9 col-md-9 col-sm-12 page-content-wrap primary">
+
+                   
+<!-- page -->
+<div class="row noskimwords">
+    <div class="col-lg-12">
+        <div class="article-wrap list-wrap">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="article article-full article-columnist article-variation-default no-feature-img">
+
+                        <!-- page title -->
+                        <div class="article-title">
+                            <h3>Privacy Policy</h3>
+                        </div>
+                        <!-- page title -->
+
+                                                    <div class="separator"></div>
+                        
+                        <!-- page content -->
+                        <div class="article-content">
+
+                            <!-- page content -->
+
+
+<p>
+    Student Money Saver Ltd is committed to preserving the privacy of all visitors and users of
+    studentmoneysaver.com/studentmoneysaver.co.uk. Please read the following privacy policy to understand how we
+    use and protect the information that you provide to us. For the purpose of the Data Protection Act 1998 ("Act"),
+    the data controller is Student Money Saver Ltd of 9-10 Charterhouse Buildings, London, EC1M 7AN. By registering to
+    any service offered by studentmoneysaver.com/studentmoneysaver.co.uk, you consent to the collection, use and
+    transfer of your information under the terms of this policy.
+</p>
+
+<h3>Your details and third parties</h3>
+<p>Your details matter to us tremendously and we promise to take good care of them.</p>
+<p>When you sign up to our site, we collect your first name, surname, email address, date of birth, gender and details of your education. All of this information is stored in our secure database.</p>
+<p>We don't and won't sell your details to third parties or our partners. This means third parties will not be able to approach you directly – everything will come through us.</p>
+<p>It is possible in the future we may sell details of our demographic to companies. For instance, we might tell a Third Party that 30% of males aged 18-21 who signed up to our website looked at our comparison of broadband providers (this statistic is for illustrative purposes only). However, we would never include specifics about that 30%. We may sell data but we wouldn't sell details: your privacy matters and we respect that. Make sense?</p>
+
+<h3>Why do we collect your details?</h3>
+<p>We've got nothing to hide. Firstly, we want to send out a newsletter which signposts our guides and features. Secondly, we know it's important you receive the latest deals and discounts and taking your details means we can easily send the right offers your way. This service is free of charge.</p>
+<p>Some of our deals and offers require you to 'sign up' to Student Money Saver. This is because we occasionally enter into business contracts with companies, where we promise their offer will be redeemed by students only. In order for us to hold up our end of the deal, we have to ask visitors to sign up, proving they are a student.</p>
+
+<h3>Unsubscribe</h3>
+<p>If you're not happy with what you're receiving, please let us know why. We're a friendly bunch and we'd hate to see you leave.</p>
+<p>If you must go, there will be a link attached to all emails where you can choose to unsubscribe. You can also send an email to <a href="mailto:info@studentmoneysaver.co.uk" sl-processed="1">info@studentmoneysaver.co.uk</a> and we'll remove you from our database.</p>
+
+<h3>IP Addresses</h3>
+<p>Your IP address is automatically logged when you enter our website and we keep a record to keep our site and other users safe.</p>
+
+<h3>Cookies</h3>
+<p>Not the essential childhood companion to a mug of milk. The term 'cookie' refers to a small text file which, if you permit it, is stored on your hard drive. A cookie tracks which pages you visit on Student Money Saver and helps see what's popular and what you like. It's kind of like you picking up an internet hitch-hiker who sends us postcards from everywhere you drive through in our hometown, so we know your favourite spots. That way we can improve our content where it matters most. Additionally, the cookies on our site are functional and 'remember' your name for forms, until you clear history and delete cookies.</p>
+<p>Advertisers on our site also have their own cookies which mean they can target you more appropriately, according to your likes and interests.</p>
+<p>You can disable cookies on the site, though they do help the site be more functional.</p>
+<p>You can find out more about cookies at <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a></p>
+
+<h3>Third party advertisements</h3>
+<p>You will find adverts on our pages and throughout our website. However, we're not stupid with our adverts; you won't find an advert for a pension scheme anywhere. We try and only show adverts that we think will appeal to visitors of any particular page.</p>
+<p>We cannot be held responsible for the content of the adverts. Hosting them does not automatically indicate our endorsement of the product.</p>
+
+<h3>Children</h3>
+<p>Student Money Saver is a site aimed for over 16s and subsequently, under-16s cannot sign up for our updates or newsletter.</p>
+<p>If you are under 16, please go and get permission from your parent or legal guardian to use this website!</p>
+<p>Please note, some content may not be suitable for under-16s or under-18s.</p>
+
+<h3>Student Discount Plus App</h3>
+
+<p>
+    Student Discount Plus is Student Money Saver's mobile cashback app, which allows students to earn
+    bonus cashback on all of their spending at associated brands. As the app relies on knowing about your spending at
+    these brands, we use our partner's uber secure system to carry out this "transaction monitoring",
+    so we know how much cashback to give you.
+</p>
+
+<p>
+    By registering a payment card in connection with transaction monitoring, you authorise Student Money Saver
+    (via Sports Loyalty Card Limited (trading as Reward)) to share your payment card information with Visa,
+    MasterCard, Amex and other necessary payment service providers to confirm your enrolment. You authorise the
+    Payment Service Providers to monitor transactions on your registered card(s) to identify purchases in order
+    to determine whether you have qualified for an offer linked to your payment card, and for the Payment Service
+    Providers to share such transaction details with Reward and where applicable, the Publisher to enable your
+    card-linked offer(s) and target offers that may be of interest to you.
+</p>
+
+<p>
+    You may opt-out of transaction monitoring on the payment card(s) you have registered at any time by emailing
+    <a href="mailto:support@studentdiscountplus.com">support@studentdiscountplus.com</a> or
+    <a href="mailto:info@studentmoneysaver.co.uk">info@studentmoneysaver.co.uk</a> .
+</p>
+
+<h3>Updates to our privacy policy</h3>
+
+<p>
+    We may, from time to time, update our Privacy Policy and our terms and conditions. Please keep an eye on this page to
+    ensure you're happy with any changes that occur. We will do our best to keep you informed of what's happening.
+</p>
+<p>© Student Money Saver Ltd 2017. All rights reserved.</p>
+
+<!-- page content -->
+                        </div>
+                        <!-- page content -->
+
+                        
+                        <div class="clearfix"></div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        
+    </div>
+</div>
+<!-- page -->
+                </div>
+                <!--- primary --->
+
+                
+<!--- sidebar/aside --->
+<div class="col-lg-3 col-md-3 secondary">
+
+	<div class="sidebar">
+
+		
+<!--- featured deal widget --->
+<div class="widget widget-deal widget-featured-deal">
+    <div class="deal-wrap">
+        <div class="one-col deal exclusive">
+            <a href="https://www.studentmoneysaver.co.uk/metix/free-burts-bees-cleansing-oil/" title="Free Burts Bees Cleansing Oil" data-background="https://cdn.studentmoneysaver.co.uk/uploads/16384/Website-262x262.jpg" style="background-image: url('https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4');">
+                <span class="ribbon">&nbsp;</span>
+                <img class="img" src="https://cdn.studentmoneysaver.co.uk/assets/images/transparent-pixel.gif?v=v3.2.4" alt="Free Burts Bees Cleansing Oil">
+                <span class="brand">Metix</span>
+                <h4 class="main-title">
+                    Free Cleansing Oil                </h4>
+                <h5 class="subtitle">Free Cleansing Oil</h5>
+            </a>
+        </div>
+    </div>
+</div>
+<!--- featured deal widget --->
+
+
+<!--- featured deal widget --->
+<div class="widget widget-deal widget-featured-deal">
+    <div class="deal-wrap">
+        <div class="one-col deal default">
+            <a href="https://www.studentmoneysaver.co.uk/onepiece/up-to-30-off-summer-styles-at-onepiece/" title="Onepiece summer sale 30" data-background="https://cdn.studentmoneysaver.co.uk/uploads/16337/onepiece1-262x262.jpg" style="background-image: url('https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4');">
+                <span class="ribbon">&nbsp;</span>
+                <img class="img" src="https://cdn.studentmoneysaver.co.uk/assets/images/transparent-pixel.gif?v=v3.2.4" alt="Onepiece summer sale 30">
+                <span class="brand">Onepiece</span>
+                <h4 class="main-title">
+                    Up to 30% off Summer Styles at Onepiece                </h4>
+                <h5 class="subtitle">Up to 30% off Summer Styles at Onepiece</h5>
+            </a>
+        </div>
+    </div>
+</div>
+<!--- featured deal widget --->
+
+
+<!--- featured deal widget --->
+<div class="widget widget-deal widget-featured-deal">
+    <div class="deal-wrap">
+        <div class="one-col deal default">
+            <a href="https://www.studentmoneysaver.co.uk/aveeno/free-aveeno-moisturiser-sample/" title="Free Aveeno Moisturiser Sample" data-background="https://cdn.studentmoneysaver.co.uk/uploads/16335/aveeno-262x262.jpg" style="background-image: url('https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4');">
+                <span class="ribbon">&nbsp;</span>
+                <img class="img" src="https://cdn.studentmoneysaver.co.uk/assets/images/transparent-pixel.gif?v=v3.2.4" alt="Free Aveeno Moisturiser Sample">
+                <span class="brand">Aveeno</span>
+                <h4 class="main-title">
+                    Free Aveeno Moisturiser sample                </h4>
+                <h5 class="subtitle">Free Aveeno Moisturiser</h5>
+            </a>
+        </div>
+    </div>
+</div>
+<!--- featured deal widget --->
+
+
+		
+<!-- related articles widget -->
+<div class="widget widget-articles-list widget-related-articles" data-ux="null" data-encoding="base64">
+
+            <div class="widget-title">Blog</div>
+    
+    
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/the-ultimate-guide-to-scoring-freebies/" title="free samples trials">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/2066/freebies_thumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="free samples trials">
+        <h4 class="title">The Ultimate Guide to scoring Freebies</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/all-your-childhood-faves-are-coming-back/" title="Step brother sequel">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16403/thumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="Step brother sequel">
+        <h4 class="title">These childhood faves are coming back and you won' ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/amazon-has-caused-outrage-over-shockingly-offensive-advert/" title="amazon advert fail offensive">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16248/amazonthumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="amazon advert fail offensive">
+        <h4 class="title">Amazon has caused outrage over shockingly offensiv ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/greggs-have-just-released-a-diet-plan/" title="Greggs diet plan minimise me">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16338/thumbnail_greggs-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="Greggs diet plan minimise me">
+        <h4 class="title">Greggs have just released a diet plan and we're as ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/asda-and-bm-in-creepy-kids-clothes-fails/" title="Asda B&amp;M little mermaid fail">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16326/thumbnail-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="Asda B&amp;M little mermaid fail">
+        <h4 class="title">ASDA and B&amp;M in creepy kids' clothes fails</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/guys-airbnb-gets-cancelled-with-possibly-the-weirdest-text-ever/" title="airbnb text weird funny">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16396/texthumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="airbnb text weird funny">
+        <h4 class="title">Guy's airbnb gets cancelled with possibly the WEIR ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/this-womans-tinder-match-went-from-0-to-100-insanely-quickly-and-its-seriously-creepy/" title="Tinder creepy funny weird">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16394/tinderthumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="Tinder creepy funny weird">
+        <h4 class="title">This woman's tinder match went from 0 to 100 insan ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/you-can-be-on-this-season-of-love-island/" title="love island 2017">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16381/montana_love_island-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="love island 2017">
+        <h4 class="title">You can be on THIS season of Love Island</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/do-you-go-to-uni-in-one-of-the-worst-english-towns/" title="worst towns in england">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16373/10137940394_e1a6a7ea5d_k_%281%29-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="worst towns in england">
+        <h4 class="title">Do you go to uni in one of the worst English towns?</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+<div class="article">
+    <a href="https://www.studentmoneysaver.co.uk/article/twitter-is-losing-it-over-this-pompeii-man-preserved-in-a-hilariously-inappropriate-position/" title="Twitter pompeii hilarious fail">
+        <img class="featured-image thumbnail" data-src="https://cdn.studentmoneysaver.co.uk/uploads/16369/pompeii_thumb-108x108.jpg" src="https://cdn.studentmoneysaver.co.uk/assets/images/image-placeholder-square.png?v=v3.2.4" alt="Twitter pompeii hilarious fail">
+        <h4 class="title">Twitter is losing it over this Pompeii man preserv ...</h4>
+        <p class="excerpt"> <em>...</em></p>
+        <div class="clearfix"></div>
+    </a>
+</div>
+    <!--- content preloader --->
+<div class="col-lg-12 preloader-wrap">
+    <div class="preloader align-center"><img src="https://cdn.studentmoneysaver.co.uk/assets/images/deals-preloader.gif?v=v3.2.4"></div>
+</div>
+<!--- content preloader --->
+			<noscript>
+			<a href="https://www.studentmoneysaver.co.uk/blog/" class="btn btn-lg btn-white separator-btn btn-wide visible-screen btn-brand-show-more-deals">
+				See all <i class="fa fa-chevron-right"></i>
+			</a>
+		</noscript>
+	
+</div>
+<!--- related articles widget --->
+
+
+	</div>
+</div>
+<!--- sidebar/aside --->
+            </div>
+
+            <div class="row">&nbsp;</div>
+
+        </div>
+    </div>
+    <!-- main -->
+    
+    <!-- footer -->
+    <div class="footer footer-wrapper noskimwords" id="smsFooter" role="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9 col-sm-8 copy">
+
+                    <h2>The Boring Bit</h2>
+                    <p>You won't find the words "financial advisor" anywhere on our CV, because we're journalists.</p>
+                    <p>SMS wants to help you live the life you want on the budget you're stuck with but we aren't the Economic Bible, so please don't take our word as gospel as we can't accept any liability if our tips aren't right for you – everyone's different, after all.</p>
+                    <p>We read our links before posting them but we aren't responsible for their content.</p>
+
+                </div>
+
+                <div class="col-md-2 col-md-offset-1 col-sm-3 col-sm-offset-1 links">
+                    <h2>Top Links</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="https://www.studentmoneysaver.co.uk/team/"><span>Team</span></a></li>
+                        <li><a href="https://www.studentmoneysaver.co.uk/contact-us/"><span>Contact Us</span></a></li>
+                        <li><a href="http://smsadvertise.co.uk/" target="_blank"><span>Advertise</span></a></li>
+                        <li><a href="https://www.studentmoneysaver.co.uk/privacy-policy/"><span>Privacy Policy</span></a></li>
+                        <li><a class="twitter replace" href="https://twitter.com/everythinstudnt" target="_blank">Visit our twitter page</a></li>
+                        <li><a class="facebook replace" href="https://www.facebook.com/everythingstudent" target="_blank">Visit our facebook page</a></li>
+                        <li><a href="https://www.studentmoneysaver.co.uk/sitemap.xml/" target="_blank"><span>Sitemap</span></a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 copy">
+                    Copyright© Student Money Saver 2017                </div>
+
+            </div>
+
+            <div class="row">&nbsp;</div>
+
+        </div>
+    </div>
+    <!-- footer -->
+    <!-- ui navigation -->
+<div class="page-nav-bottom">
+    <a href="#smsHeader" title="Go to top"><i class="fa fa-chevron-up"></i></a>
+    <!-- <a href="#smsFooter" title="Go to bottom"><i class="fa fa-chevron-down"></i></a> -->
+</div>
+<!-- ui navigation -->
+</div>
+
+
+
+<!-- modal/login-modal -->
+<div class="modal fade login-modal" id="loginModalOne" tabindex="-1" role="dialog" aria-labelledby="loginModalOneLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="loginModalOneLabel">
+                    Quickly, we need to verify you're a student first.                </h4>
+                <p>Either login below if you've already verified yourself, or complete the 1 minute verification process:</p>            </div>
+
+                            <div class="modal-header mobile-signin-header">
+
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+
+                    <h4 class="modal-title" id="loginModalOneLabel">
+                        Verify your student account
+                    </h4>
+
+                    <hr>
+
+                    <div class="btn-group btn-group-justified btn-group-lg">
+                        <a href="https://www.studentmoneysaver.co.uk/login/#loginFormWrapperOne" class="btn btn-lg btn-blue x-hist-no-push">
+                            Sign in
+                        </a>
+                        <a href="https://www.studentmoneysaver.co.uk/login/#registrationFormWrapperOne" class="btn btn-lg btn-blue x-hist-no-push">
+                            Register
+                        </a>
+                    </div>
+                </div>
+            
+            <div class="modal-body primary-content-container">
+
+                
+<div class="row panels-wrapper">
+
+    
+
+<div id="loginFormWrapperOne" class="col-lg-6 col-md-6 col-sm-6 col-xs-12 animate" data-animate-class="col-lg-12">
+
+    <div class="panel panel-user-login animate" data-animate-class="panel-active">
+        <div class="panel-heading">
+            <h4>
+                <div class="pull-left auth-switch-link">
+                    <a href="https://www.studentmoneysaver.co.uk/login/#registrationFormWrapperOne" class="btn btn-white"><i class="fa fa-arrow-left"></i> register</a>
+                </div>
+                <i class="fa fa-users"></i> Already verified? login here
+            </h4>
+        </div>
+        <div class="panel-body">
+
+            
+<form class="form-horizontal" action="https://www.studentmoneysaver.co.uk/login/" method="post" target="_self">
+    <div class="form-group">
+        <label class="control-label col-lg-3" for="login_email">Email:</label>
+        <div class="col-lg-9">
+            <input type="email" name="login_email" id="login_email" placeholder="your email..." class="form-control input-lg " value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-lg-3" for="login_password">Password:</label>
+        <div class="col-lg-9">
+            <input type="password" name="login_password" id="login_password" placeholder="your password..." class="form-control input-lg " value="">
+        </div>
+    </div>
+
+    <!--
+    <div class="form-group">
+        <div class="checkbox col-lg-9 col-lg-offset-3">
+            <label><input type="checkbox" value="remember-me"> Remember me</label>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-lg-12 align-center">
+            <button type="submit" class="btn btn-lg btn-green">Login</button>
+        </div>
+    </div>
+
+    -->
+
+    <div class="form-group">
+        <div class="col-lg-12 align-center">
+
+            <p class="larger">
+                <i class="fa fa-info-circle"></i>
+                Use your existing S.M.S. username and password.
+            </p>
+
+            <button type="submit" style="padding: 0px; border: none; border-radius: 4px; box-shadow: 1px 1px 2px rgba(0, 0, 0, .3);">
+                <img src="https://cdn.studentmoneysaver.co.uk/assets/images/studentconnect-button-alt-lg.png?v=v3.2.4" class="img-responsive" style="height: 39px;">
+            </button>
+        </div>
+    </div>
+
+    <div class="form-group password-forgotten-link">
+        <div class="col-lg-12 align-center">
+            <div class="separator"></div>
+            <a href="https://www.studentmoneysaver.co.uk/login/resetpassword/" class="font-size-1p2 x-hist-no-push">forgot your password?</a>
+            <a href="https://www.studentmoneysaver.co.uk/login/verify/#registrationFormWrapperOne" class="font-size-1p2 hidden-md hidden-sm hidden-lg register-link x-hist-no-push">register new account</a>
+        </div>
+    </div>
+
+    <!-- extra inputs -->
+    <input type="hidden" name="redir" value="https://www.studentmoneysaver.co.uk/privacy-policy/">
+    <!-- extra inputs -->
+
+</form>
+        </div>
+        <div class="panel-footer">
+
+            <div class="align-left">
+                <a href="https://www.studentmoneysaver.co.uk/login/#registrationFormWrapperOne" class="btn btn-white x-hist-no-push"><i class="fa fa-arrow-left"></i> register</a>
+            </div>
+
+            <div class="align-right">
+                <a href="https://www.studentmoneysaver.co.uk/login/resetpassword/" class="btn btn-white x-hist-no-push">forgot your password? <i class="fa fa-arrow-right"></i> </a>
+            </div>
+            <div class="clearfix"></div>
+
+        </div>
+    </div>
+</div>
+
+<div id="registrationFormWrapperOne" class="col-lg-6 col-md-6 col-sm-6 col-xs-12 animate" data-animate-class="col-lg-12">
+
+    <div class="panel panel-user-register animate" data-animate-class="panel-active">
+        <div class="panel-heading">
+            <h4>
+                <div class="pull-left auth-switch-link">
+                    <a href="https://www.studentmoneysaver.co.uk/login/#loginFormWrapperOne" class="btn btn-white x-hist-no-push"><i class="fa fa-arrow-left"></i> login</a>
+                </div>
+                <i class="fa fa-user"></i> Register new student account
+            </h4>
+        </div>
+        <div class="panel-body">
+
+            <form class="form-horizontal" method="post" target="_self" style="margin-bottom: 20px; text-align: center;" action="/connect/submit.php?nocache=1">
+
+    <button type="submit" style="min-width: 250px; padding: 0px; border: none; border-radius: 4px; box-shadow: 1px 1px 2px rgba(0, 0, 0, .3);">
+        <img src="https://cdn.studentconnectapi.com/branding/buttons/studentconnect-button-blue-sm.png" class="img-responsive">
+    </button>
+
+    <hr>
+
+    <p class="larger" style="text-align: left">
+        StudentConnect, is our brand new student verification platform. <br>
+        You can sign up using your uni portal or your academic email ( ending in .ac.uk or .edu ).
+    </p>
+
+</form>
+        </div>
+        <div class="panel-footer">
+
+            <div class="align-left">
+                <a href="https://www.studentmoneysaver.co.uk/login/#loginFormWrapperOne" class="btn btn-white x-hist-no-push"><i class="fa fa-arrow-left"></i> login</a>
+            </div>
+
+            <div class="align-right">
+                <a href="https://www.studentmoneysaver.co.uk/login/resetpassword/" class="btn btn-white x-hist-no-push">forgot your password? <i class="fa fa-arrow-right"></i> </a>
+            </div>
+            <div class="clearfix"></div>
+
+        </div>
+    </div>
+</div>
+</div>
+            </div>
+
+            
+        </div>
+    </div>
+</div>
+<!-- modal/login-modal -->
+
+<!-- CI Flashmessages UI handler -->
+<script type="text/javascript">
+	flashMessagesQueue = [];
+</script>
+<!-- CI Flashmessages UI handler -->
+<!-- third party scripts -->
+
+<!-- Google Analytics JS -->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-34803484-1', 'auto');
+	ga('send', 'pageview');
+</script>
+<script src="https://cdn.studentmoneysaver.co.uk/assets/js/ga-events.min.js?v=v3.2.4" async=""></script>
+<!-- Google Analytics JS -->
+
+<!-- Google Sitelinks Search box -->
+<script type="application/ld+json">
+{  "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.studentmoneysaver.co.uk/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://www.studentmoneysaver.co.uk/search/?keywords={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>
+<!-- Google Sitelinks Search box -->
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Student Money Saver",
+  "url" : "http://www.studentmoneysaver.co.uk",
+  "sameAs" : [
+    "https://www.facebook.com/everythingstudent",
+    "https://twitter.com/everythinstudnt",
+    "https://plus.google.com/+StudentmoneysaverCoUk"
+  ]
+}
+</script>
+<!-- Google Social Profiles -->
+
+<!-- Facebook JS SDK -->
+<div id="fb-root"></div>
+<!-- Facebook JS SDK -->
+
+<!-- Facebook Conversion Code for Signups -->
+<!-- Facebook Conversion Code for Signups -->
+
+<!-- Facebook Conversion Code for Pixel 1 -->
+<script>(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', '1526077067643557']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript>
+	<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1526077067643557&amp;ev=PixelInitialized" />
+</noscript>
+<!-- Facebook Conversion Code for Pixel 1 -->
+
+<!-- Inspectlet -->
+<script type="text/javascript" id="inspectletjs">
+	window.__insp = window.__insp || [];
+	__insp.push(['wid', 631756922]);
+	(function() {
+		function ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+		document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+
+	})();
+</script>
+<!-- Inspectlet -->
+
+<!-- Digip.net Affiliate -->
+<script type="text/javascript">
+    (function(){
+        var loc = window.location.href;
+        var dd = document.createElement('script');
+        dd.type = 'text/javascript'; dd.src = '//static.digidip.net/studentmoneysaver.js?loc=' + loc;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(dd, s);
+    })();
+</script>
+<!-- Digip.net Affiliate -->
+
+<!-- OptinMonster -->
+<script>var om5756e2a199c95,om5756e2a199c95_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om5756e2a199c95_poll(function(){if(window['om_loaded']){if(!om5756e2a199c95){om5756e2a199c95=new OptinMonsterApp();return om5756e2a199c95.init({"s":"19620.5756e2a199c95","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om5756e2a199c95=new OptinMonsterApp();om5756e2a199c95.init({"s":"19620.5756e2a199c95","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script>
+<!-- OptinMonster -->
+
+<!-- Captify Pixel -->
+<script>
+    
+    
+    
+    (function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/11951/px.js');
+</script>
+<!-- Captify Pixel -->
+
+<!-- third party scripts -->
+<!-- javascript libraries  -->
+
+
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/modernizr.min.js?v=v3.2.4"></script>
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/jquery.min.js?v=v3.2.4"></script>
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/jquery-ui.min.js?v=v3.2.4"></script>
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/bootstrap.min.js?v=v3.2.4"></script>
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/imagesloaded.pkgd.min.js?v=v3.2.4"></script>
+
+	<script type="text/javascript" src="https://cdn.studentmoneysaver.co.uk/assets/js/combined.min.js?v=v3.2.4" defer=""></script>
+
+
+
+<script type="text/javascript">
+
+	//global of data from te cms
+	var UXDATA = {"version":"v3.2.4","base_url":"https:\/\/www.studentmoneysaver.co.uk\/","environment":"production","timestamp":1499263944,"ajax_navigation":true};
+
+	
+		brandNamesArray = ["ODEON","House of Fraser","NOW TV","Swagbucks","Latest in Beauty","hungryhouse","Moss Bros","16-25 Railcard","River Island","blinkbox","O2","Office","Mango","HQhair","Gap","Amazon","Subway","SMS Travel","NUS extra","Ryman","USC","GoNutrition","Sports Direct","Free Prints","Ed's Easy Diner","Protein Dynamix","Frankie & Benny's","The Fragrance Shop","Prezzo","Feel Unique","Ryanair","Gourmet Burger Kitchen","Nike","TGI Friday's","Currys PC World","Prezzybox","Ray-Ban","Chiquito","Dell","Footasylum","Virgin Trains","JUST EAT","Urban Outfitters","ASOS","Sky","Topshop","Apple","Endsleigh","Halfords","Morrisons","Pizza Hut Delivery","Mobile Phones Direct","Amazon","Boots","H&M","Coca Cola","Tesco","Lottoland","Vans","adidas","Greggs","Ted Baker","Waterstones","bareMinerals","Nisa","Google Play","Skyscanner","The Times","Cineworld","Argos","L'Occitane","Clinique","The Body Shop","Aldi","Burger King","National Express","Benefit","American Apparel","giffgaff","LookFantastic","Boohoo.com","L'Oreal","Starbucks","Zizzi","Spotify","McDonald's","easyJet","Superdry","Dorothy Perkins","Caffe Nero","Pizza Express","Ben & Jerry's","Next","KFC","Travel Republic","Quidco","Nivea","Lidl","Thorntons","Thorpe Park","Escada","Papa John's","Jack Wills","Garnier","Boots Opticians","M&S","Higgidy","Red Bush Tea Company","Dior","Strada","Costa","Co-op","Miss Selfridge","Bloom & Wild","Nando's","Domino's","Netflix","Debenhams","Ralph Lauren","ALLSAINTS","Super Savvy Me","Forever 21","Handmade Burger co.","Yo! Sushi","Teleflorist","Chptr & Vrse","The Savile Row Company","New Era","Incase","Red Letter Days","Revolution","Pizza Hut","Primark","Euroventure","The Protein Works","Groupon","Drinki App","PayPal","StudentUniverse","BHS","Wilko","TeaMonger","Waitrose","Matalan","National Rail","Zavvi","Richer Sounds","Crabtree & Evelyn","Carphone Warehouse","Graze Box","SMS Magazines","SMS Freebies","SMS Food","SMS Beauty","Megabus","New Look","Valued Opinions","Cafe Rouge","BACARD\u00cd","Dr Oetker","Selfridges","Vodafone","Microsoft Office","John Lewis","Pitcher & Piano","Jessops Photo","StubHub","Stagecoach","Superdrug","Maybelline","PayasUgym","redspottedhanky .com","Stansted Express","BlaBlaCar","Wuaki TV","French Connection","Zara","Missguided","Topman","JD Sports","TheTrainline.com","Virgin Media Broadband","Accessorize","TARGETjobs","F&F","bespoke offers","STA Travel","Student Film First","DividaBill","TopCashback","Tanning Shop","Action Against Hunger","Glide","JustFab","MyMemory","Countrywide Paintball","Ocado","LOVESPACE","Steam","Bargain Booze","Santander","Iceland","Zeek","YouGov","Pepsi","Walkabout","Splyt","Tempur","e.l.f","Vax","Lebara","Abebooks","Dr Martens","Las Iguanas","TK Maxx","Toni and Guy","Boux Avenue","Monsoon","Fat Face","Very","Alton Towers","Rimmel","Wagamama","Etsy","Elle","Specsavers","Oasis","Happiour","Wired","FairFX","SECRETSALES.com","AllBeauty","Checkout Smart","Three Mobile","Origin","Nails inc","Airbnb","Inkly","Fitness First","Vue","Optical Express","First","The Wall Street Journal","TransferWise","nCrowd","Kurt Geiger","iTunes","Chimichanga","ASK Italian","Ann Summers","Virgin Experience Days","Contiki","Encore Tickets","Readly","One Utility Bill","Nuffield Health","Awaken Ibiza","uSwitch","BUNAC","Poundland","Mobiles.co.uk","Rush Hair & Beauty","The Economist","Hi-Life","ASDA","Charles Wilson","Clintons","Shoeaholics","EE","Joy","B&Q","IKEA","MySupermarket","Warehouse","Rate My Roof","Mobilexpression","Fashion Tales","TicketWeb","miDrive","Milkround","MuscleFood","RefME","Samsung","Glamorous","Takeaway.com","British Condoms","Rakuten","UNIQLO","Krispy Kreme","Oh My Love","BrandAlley","Baileys","Transform Your Images","Audible","Go Compare","Puma","Lipsy","YourWord","Animal","Trivago","Olympus Health","East Midlands Train","Save Water Save Money","Pact Coffee","Fragrance Direct","Xercise4Less","Dove","GfK Mystery Shopping","Fatbrain","Blackwell Books","Arriva","What's in my Handbag","Relish","Rare London","People Tree","Bounce","Snapfish","Flubit","Cover4Students","easybills","East Coast Trains","LoveTEFL","London Midland","Eurostar","WatchWarehouse","Simply Cook","The Week","TalkTalk","Emaze","Ukash","La Redoute","South West Trains","The Idle Man","Cosmopolitan","Lastminute.com","The Watch Hut","Skype","ICE Exchange","Unineed","Origins","Deezer","Musicalize","Rubbersole","Wahanda","La Tasca","Mankind","Coverwise","Protect Your Bubble","Holiday Extras","Wilkinson Sword","Jet2holidays","Danone","SPAR","Bella Italia","Paco Rabanne","Kozel","GFK Media View","Ghost","Compare the Market","Kabbee","Post Office Travel Money","Blue Inc","iSubscribe","Tastecard","Yazoo","British Military Fitness","Paperchase","TM Lewin","LateRooms","SelectSpecs","Charles Tyrwhitt","Dabs.com","Stylist Pick","Converse","Tesco Direct","Young's","Burton","Amazon App Store","Bras & Honey","CPC","AllSole","Universal Pictures","Printic","ebookers","Robinsons","Kallo","Dorset Tea","InStyle","The Physical Network","Manuka Doctor","Southeastern","Ebuyer","The Opinion Panel","The Works","Millie's Cookies","OMG Fashion","Sanctuary","Uni Baggage","Shopitize","Post-It","Surfdome","IWOOT","Hotel Chocolat","MyProtein","Caring Everyday","Tea India","Comme des Garcons","Meantime","Bj\u00f6rn Borg","Viking","Uber","YPlan","ShaveKit","Britney Spears","OVIVO","The Student Lotto","Vladivar Vodka","Toluna","Glamour","XBOX","Vita Coco","Vichy","Foyles","Special K","Paramount","Lancome","PAUL","Burberry","Picturehouse Cinemas","Giraffe","My Survey","eBay","LivingSocial","Travelodge","Premier Inn","The Hut","The Book People","Schuh","Wowcher","The People's Operator","VoucherCodes","Qmee","Oyster","The Nielsen Company","lowcostholidays","BITE","Hungry Horse","Easyprint","Yates's","Sainsbury's","Gucci","Lacoste","Hugo Boss","Hunter","Chiltern Railways","Southern Railway","Cross Country Trains","WH Smith","GAME","Victoria's Secret","Aveeno","Wella","Givenchy","Royal Bank of Scotland","Estee Lauder","HURU","Holland & Barrett","Bows Boutiques","Wheelies","NatWest","foodme","Rokit Vintage","MatchedBets","theEDUstore","Taco Bell","Metix","Crepe Affaire","MoodChimp","Tiaz Boutique","Bluebella","MyLuckyPatch","FORZA","Spaire","Ideal Flatmate","Premier TEFL","The Photography Show","Nimber","ZAFUL","Tortilla","Boardinary","Proporta","Club18-30","Experian","Yesbets","Yogaia","itsu","Hobbycraft","Urban Decay","20 Cogs","easyCoffee","Pinecone Research","SMS Jobs","go4uk","University of East London","Generator Hostels","StudentTenant","Aukey","UGG","The Perfume Shop","Pouch","The Edge of Seventeen","Hypit","Apple Music","Microsoft","Zalando","Deliveroo","H. Samuel","Pretty Little Thing","Toby Carvery","8Ball","Smashbox","TARGETpostgrad","Shopmium","Great Western Railway","Kiehl's","Be at One","Bio-Synergy","BoohooMAN","OneADay","Rosegal","GearBest","Onepiece","Neutrogena","Barclays","Adobe","Makeup Revolution","Charlotte Tilbury","Campus Society","MAC","Kirsty\u2019s","Tommy Hilfiger","hayu","Wraps","WhatsApp","Chanel","Diesel","All Bar One","CaxtonFX","SMS Gadget Insurance","Applause Store","Free the Fresher","USA Summer Camp","DripApp","BillHub","Postboxed","Starter Black Label","RightCall","NASM","Huddle","Hausie","IKRUSH","Stoke Travel","Blue White and Grey","Secret Cinema","SMS Fitness","ClearScore","Pink Pig","Broadband Choices","Pure Gym","Into The Blue","Jane Norman","Adored","GetGeared","Approved Food","London Theatre Direct","Pockit","EarlyBird","Life Style Sports","Maverick & Wolf","Apricot Clothing","EarnAway","iD from Carphone Warehouse","Regis","MindMover","Supercuts","Fusion Students","OUIBUS","Bellfield Clothing","Pizza Hut Restaurants","Lyle and Scott","London Beer Week","Doddle","Rustlers","Yankee Candle","Loveholidays","The Collective","Brandshop","Planet X Bikes","Ultimate Outdoors","Millets","SMS Competitions","Mingle","Lottoplus","Max Factor","Wonderush","Camp Leaders","Penguin Books","SMS home","GymFuel","Up&Go","Envirofone","almanis","Trendence Graduate","Table Table","Page Talent","Kabuto Noodles","Harvester","Real Gap Experience","Lil-lets","Byron","Tawe","Eat First","Hallbookers","SRO Audiences","Loot","NoSweat","RateMyPlacement","P&O Ferries","The Gym","Everything \u00a35","HP","Fever","Home Bargains","LIFE Mobile","B&M Bargains","Ipsos i-Say","Westin Gourmet","Scape Living","Tengi","Hat Trick Productions","Travel Talk","Opinion Outpost","All Boxed Up","Habitat","PoundWorld","WeSwap","InboxPounds","Girl Meets Dress","Cloggs","Free Postcode Lottery","Malibu","LA Muscle","PharmacyFirst","CD Keys","Runtastic","ArtsCow","Ticketmaster","HMR","BestSecret"];
+
+	
+</script>
+
+<script type="text/javascript" defer="">
+
+	if( window.jQuery ) {
+
+		jQuery(document).ready(function(){
+
+			UX.pageLoadTickerStart();
+
+			//reset scroll position
+			$('html, body').scrollTop(0);
+
+			if( ! Modernizr.localstorage && Modernizr.fontface ) {
+				//Load custom fonts when we can't get/store them via localStorage
+				UX.loadStyle('https://cdn.studentmoneysaver.co.uk/assets/css/lazyfonts.min.css?v=v3.2.4');
+			}
+
+			if( ! Modernizr.csstransitions ){
+				$('.body .pace').addClass('fallback');
+			}
+
+			UX.init(UXDATA);
+
+		});
+	}else{
+		console.log("Error: missing Javascript dependency - jQuery");
+	}
+
+</script>
+
+<!--  javascript libraries -->
+
+
+<div class="pageloader">
+	<div class="logo-animated align-center text-center">
+		<img src="https://cdn.studentmoneysaver.co.uk/branding/sms-logo-2017-icon.png">
+	</div>
+</div>
+
+
+
+
+</body></html>
