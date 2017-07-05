@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705121048id_/http%3A//www.allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
 |   
 ---  
   
-| [**Show Your Offers**](http://www.theonlineadnetwork.com/affiliates/video1.php?rid=16104)  
-all over the world.  
-You might as well  
-get paid for it also| [ **Top 10 Blues**](http://pwcarrmusic.com/)  
-Get Your Free Song  
-download from Blues  
-artist Pat Carr| [ **Discover better**](http://andywhite.lumaxa.com/)  
-Lumaxa Business?  
-achieve it.   
-Its about you,| [ **AIOP**](http://www.allinoneprofits.com/gpj)  
-Join me,  
-See how big ,  
-WE ,CAN GROW !!!!!| [ **THE BEST TRAFFIC**](http://www.leasedadspace.com/?aid=johnweb63)  
-Banner Ads, Text  
-Ads, and Solo Ads  
-Earn Commissions  
+| [**Taking Off NOW!**](http://redrocketmailer.com/?rid=181)  
+Red Rocket Mailer  
+Multiple Mailings  
+With A Single Click| [ **THE LEGENDS NETWORK**](http://www.thelegendsnetwork.com/LN1590945)  
+TEAM TO WIN!  
+GROWING BUSINESS!  
+MAKE TONS OF MONEY!| [ **FREE Ads to 129,700**](http://www.allinoneprofits.com/agk)  
+Makemoney giving ads  
+Build Your List Easy  
+GRAB them Now| [ **Free Business Online**](http://womvegas.com/offers.php?id=31922)  
+Promote yourself and  
+your business  
+Get a Free website| [ **HotLink Cycler**](http://hotlinkcycler.com/)  
+A flow of 20 & 50  
+Payments, 95% Payout  
+No-Mail Saiflist  
 ---|---|---|---|---  
   
 
@@ -31,7 +31,7 @@ Allinoneprofits.com business, is committed to protecting your privacy.
 
 Our Privacy Policy is integral part and subject to our Terms. You can read our 
 
-[Terms and Conditions](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/terms.php) of use visiting the Terms page on our website at AllInOneProfits.com . By using or visiting our website, you agree to the terms and conditions of this Privacy policy and also you accept that we shall collect and use your personal information as described in this privacy policy. **WHAT INFORMATION WE COLLECT FROM YOU**
+[Terms and Conditions](https://web.archive.org/web/20170705121048id_/http%3A//www.allinoneprofits.com/terms.php) of use visiting the Terms page on our website at AllInOneProfits.com . By using or visiting our website, you agree to the terms and conditions of this Privacy policy and also you accept that we shall collect and use your personal information as described in this privacy policy. **WHAT INFORMATION WE COLLECT FROM YOU**
 
 When you subscribe to our website, in order to use our services and products, you could be asked to provide the following information: your real name, company name, email address, city, state, country, zip code, phone number. When you visit our website you automatically tell us certain information. This includes basic information such as your IP address, the date you visited, the website where you came from.  
 Our website automatically records this basic information about you. We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. If you withhold information or provide false information, we may restrict or deny your access to our services.
@@ -79,7 +79,7 @@ If you are a customer of one of our clients and would no longer like to be conta
 We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy as part and subject of our Terms and the agreements with our service providers.  
 If you want to unsubscribe from a list of one of our clients you have more options: Unsubscribe clicking the unsubscribe link we provide at the bottom of each email. You will be unsubscribed from that list. Send us a removal request by email using our 
 
-[Support Center](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/support) with your name and the email used by you to subscribe. **CHILDREN PRIVACY PROTECTION**
+[Support Center](https://web.archive.org/web/20170705121048id_/http%3A//www.allinoneprofits.com/support) with your name and the email used by you to subscribe. **CHILDREN PRIVACY PROTECTION**
 
 We do not provide services to children. If you are below the age of 18, you may visit our website only with the permission and active involvement of a parent or legal guardian. If you are under 18 years old, please do not provide us or other website visitors with any personal information
 
@@ -126,7 +126,7 @@ We reserve the right to disclose your personal information as required by law an
 This privacy Policy may change from time to time.If such changes will be made we will notifiy you by email and posting on our website too. If you disagree with the changes that have been made, please contact us.   
 If you have any questions or concerns about this Privacy Policy you may contact us by email using our 
 
-[Customer Support](https://web.archive.org/web/20170625004240id_/http%3A//allinoneprofits.com/support) .  
+[Customer Support](https://web.archive.org/web/20170705121048id_/http%3A//www.allinoneprofits.com/support) .  
 By mail:   
 Bd.Unirii 8B/16, 120197, Bz, RO  
 By Phone: +40373781700; +400748411722  
