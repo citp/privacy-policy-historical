@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbet.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708182628id_/https%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbet.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705115253id_/https%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.*
 
 # LSbet.com - Privacy Policy
 
@@ -10,3 +10,5 @@ At LSbet.com we use "cookies".A cookie is a small piece of information sent by t
 The communication between you and LSbet.com is secured employing a 256-bit Secure Socket Layer (SSL) technology encryption, therefore a maximum security is offered. All your personal information including your credit card details are encrypted so that these cannot be read while travelling through Internet.
 
 If our site contains any links to outside parties, LSbet.com is not responsible for the privacy practices or content of any subsequent site that doesn't belong to LSbet.com. These sites may collect information from you and use it according to their own privacy policy which can differ from ours.
+
+When you play casino slots developed by NetEnt, NetEnt’s privacy policy also applies. It can be found [here](https://web.archive.org/en-GB/g_admin/admin/%20https:/www.netent.com/en/netent-privacy-policy-eu/).
