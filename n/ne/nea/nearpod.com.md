@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504002825id_/https%3A//nearpod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706010333id_/https%3A//nearpod.com/privacy-policy) for the most accurate reproduction.*
 
 # Nearpod - Check how we use the information you share
 
@@ -12,7 +12,7 @@ Nearpod is a proud signatory of the [Student Privacy Pledge](https://studentpriv
 
 ## Privacy Shield Privacy Practices 
 
-Nearpod complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union to the United States. Nearpod has certified to the Department of Commerce that it adheres to these Privacy Shield Privacy Principles. To learn more about the Privacy Shield program, and to view Nearpod’s certification, visit [www.privacyshield.gov](https://web.archive.org/web/20170504002825id_/https%3A//nearpod.com/www.privacyshield.gov). With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Nearpod is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Nearpod and the Nearpod Materials comply with applicable law, including the Family Educational Rights and Privacy Act (FERPA) and Children's Online Privacy Protection Act (COPPA). 
+Nearpod complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union to the United States. Nearpod has certified to the Department of Commerce that it adheres to these Privacy Shield Privacy Principles. To learn more about the Privacy Shield program, and to view Nearpod’s certification, visit [www.privacyshield.gov](https://www.privacyshield.gov/participant?id=a2zt00000004E2oAAE). With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Nearpod is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Nearpod and the Nearpod Materials comply with applicable law, including the Family Educational Rights and Privacy Act (FERPA) and Children's Online Privacy Protection Act (COPPA). 
 
 ## What types of information do we collect?
 
