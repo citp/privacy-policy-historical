@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630102727id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705134857id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
