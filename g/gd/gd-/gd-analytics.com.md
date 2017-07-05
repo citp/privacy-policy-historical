@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gd-analytics.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020011243id_/http%3A//gd-analytics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gd-analytics.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705152338id_/https%3A//gd-analytics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
