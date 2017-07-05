@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srchmgre.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604184048id_/http%3A//support.srchmgre.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srchmgre.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705053902id_/http%3A//support.srchmgre.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
