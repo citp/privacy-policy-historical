@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730061303id_/https%3A//www.univariety.com/app/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univariety.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705202451id_/https%3A//www.univariety.com/app/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,4 +52,4 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 International Education Gateway Pte. Ltd. welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, International Education Gateway Pte. Ltd will employ all commercially reasonable efforts to address the same.
 
-International Education Gateway Pte Ltd © 2016 . All Rights Reserved . Univariety 
+International Education Gateway Pte Ltd © 2017 . All Rights Reserved . Univariety 
