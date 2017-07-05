@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextingforum.net privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322205531id_/http%3A//www.sextingforum.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextingforum.net privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705223229id_/https%3A//www.sextingforum.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sexting Forum
 
@@ -12,10 +12,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
-[](http://www.oktrk.com/t/path/lp.php?trvid=10009&trvx=94532c2c&c1=sextingforum.net&c2=sextingforum.net_728x90_bottom&c3=728x90&c4=sextingforum.net_728x90_bottom)
+[](http://poinary-haries.com/51e32d65-45da-48e1-8cce-4c953f455661)
 
   1.  
-  2. [Privacy Policy](http://www.sextingforum.net/privacypolicy/)
-  3. [Forum Rules](http://www.sextingforum.net/index.php?app=forums&module=extras&section=boardrules "Forum Rules") · 
+  2. [Privacy Policy](https://www.sextingforum.net/privacypolicy/)
+  3. [Forum Rules](https://www.sextingforum.net/index.php?app=forums&module=extras&section=boardrules "Forum Rules") · 
+  4. [Compliance](https://www.sextingforum.net/pages/compliance "2257 Compliance") · 
 
 
