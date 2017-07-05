@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223051id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705165606id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Zuora
 
