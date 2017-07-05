@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317150855id_/http%3A//www.roguewave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705180127id_/https%3A//www.roguewave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Wave
 
