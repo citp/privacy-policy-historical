@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpebble.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515013936id_/https%3A//www.pebble.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpebble.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705022758id_/https%3A//www.pebble.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Police | Pebble Smartwatch | Smartwatch for iPhone & Android
 
