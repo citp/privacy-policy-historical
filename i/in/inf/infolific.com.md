@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170222id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705101222id_/https%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infolific
 
