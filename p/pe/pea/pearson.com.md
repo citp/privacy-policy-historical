@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302190146id_/https%3A//www.pearson.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706001028id_/https%3A//www.pearson.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 ## Web browser cookies
 
-Our Site may use "cookies" to enhance Users' experience. A User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent, but this may result in some parts of the Site not functioning properly. For more information please see our [Cookie Policy](https://web.archive.org/cookies.html).
+Our Site may use "cookies" to enhance Users' experience. A User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent, but this may result in some parts of the Site not functioning properly. For more information please see our [Cookie Policy](https://web.archive.org/corporate/cookies.html).
 
 ## How we use collected information
 
