@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609162608id_/http%3A//fiftiesweb.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705194738id_/http%3A//fiftiesweb.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement| FiftiesWeb
 
