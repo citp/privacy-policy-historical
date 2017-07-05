@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowordpress.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628043932id_/http%3A//prowordpress.org/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowordpress.org privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705074304id_/http%3A//prowordpress.org/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free & Premium Wordpress Themes and Plugins Download Club | PROWORDPRESS
 
