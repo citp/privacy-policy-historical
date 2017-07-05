@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310153546id_/http%3A//www.ghanamma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705231508id_/https%3A//www.ghanamma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ghanamma.com
+# Privacy Policy - Ghanamma.com
 
 Ghanamma.com respects your privacy and we are committed to safeguarding your privacy while online on this site. The following discloses the information gathering and dissemination practices for this Web site.  
 Log Files
