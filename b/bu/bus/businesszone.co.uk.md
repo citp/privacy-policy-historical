@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003607id_/http%3A//www.businesszone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705094424id_/https%3A//www.businesszone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BusinessZone
 
 Sift Media Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.businesszone.co.uk/terms-and-conditions-of-use) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This policy (together with our [terms of use](https://www.businesszone.co.uk/terms-and-conditions-of-use) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any of our sites (as set out in our terms of use) you are accepting and consenting to the practices described in this policy.
 
