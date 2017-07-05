@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather-forecast.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610163144id_/http%3A//www.weather-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather-forecast.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705035745id_/https%3A//www.weather-forecast.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Weather-Forecast.com
 
