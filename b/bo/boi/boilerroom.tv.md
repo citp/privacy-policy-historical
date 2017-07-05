@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilerroom.tv privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621222707id_/https%3A//boilerroom.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerroom.tv privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706012123id_/https%3A//boilerroom.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BOILER ROOM
 
@@ -93,3 +93,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@boilerroom.tv](mailto:contact@boilerroom.tv)
+
+[ ](https://web.archive.org/)
