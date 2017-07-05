@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605231605id_/http%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705190753id_/https%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Descrier news and culture magazine
+# Privacy | Descrier News from the UK and around the world
 
 User privacy is of paramount importance to The Descrier. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding The Descrier’s commitment to protect the privacy of users and ensure the integrity of the Internet.
 
