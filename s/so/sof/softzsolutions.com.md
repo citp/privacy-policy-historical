@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322201511id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705045122id_/https%3A//www.softzsolutions.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Softz Solutions
-
-## Privacy Policy of Softz Solutions
+# Softz Gigs - Privacy Policy
 
 This Privacy Policy sets out how "Softz Solutions" use and protect any information that you give to the Company when you use this website.
 
@@ -14,7 +12,9 @@ This policy is effective from October 1, 2008.
 
 ### Personal information we may collect through the normal use of our website
 
-**We may collect the following information:**
+* * *
+
+#### We may collect the following information:
 
   * Name or job title
   * Contact information including telephone number, fax number, and email address
@@ -22,7 +22,9 @@ This policy is effective from October 1, 2008.
 
 
 
-### Where and why we gather information
+### Where and why we gather information 
+
+* * *
 
 The only area where "Softz Solutions" would purposely collect or view your data is via our website forms, for example our contact form on our contact page, or indirectly through website analytics. The following is what we do with this information:
 
@@ -35,9 +37,13 @@ The only area where "Softz Solutions" would purposely collect or view your data 
 
 ### Your Security
 
+* * *
+
 We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure, we have implemented and maintain suitable physical, managerial, and procedural actions to ensure the safety and security of the information we collect online.
 
 ### How Cookies can be Used
+
+* * *
 
 If your computer is set to accept Cookies, a cookie "file" will be placed on your hard drive when visiting a website. The Cookie then collects information as you use the website or the internet and uses the information it collects to tailor the web experience to you. An example of this may be the Cookie’s ability to "autocomplete" your name when typing it into a field on an internet form.
 
@@ -47,9 +53,13 @@ Most web browsers and applications automatically accept Cookies. You can turn Co
 
 ### Outbound Links
 
+* * *
+
 Any links pointing from any of our pages to other websites or pages are there as points of interest. Once you click a link, it takes you away from our page and we no longer remain responsible for your privacy or protection. This Privacy Policy is only binding while you are exclusively visiting our site. Although we use these outbound links to provide additional resources in good faith, we are not responsible for nor do we necessarily agree with the content you may find on these pages.
 
 ### Collection of Information Options
+
+* * *
 
 You can stop the collection of your information by this website by not filling out any of the forms on this website's pages. If you have already filled out a form and do not want "Softz Solutions" to use your information for any reason, including emails and promotions, you can simply email us at sandipkar[at]softzsolutions[dot]com.
 
