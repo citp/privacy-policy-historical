@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522001002id_/https%3A//www.knowlarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705071220id_/https%3A//www.knowlarity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Knowlarity
+# Privacy policy - Cloud Telephony, IVR services, Call Center, Virtual Number by Knowlarity
 
 This Privacy Policy identifies and describes the way Knowlarity Communications Private Limited (“Knowlarity”) uses and protects the information we collect about Customers and Users. All uses of Knowlarity’s products and services, as well as visits to our websites, are subject to this Privacy Policy. This Policy applies to all Customers and Users. The Customer who holds the account with Knowlarity is responsible for making sure all family members or other Users under the same account understand and agree to this Policy. Information that you provide to non-Knowlarity companies is not covered by this Policy and Knowlarity shall have no responsibility for protecting any such information divulged by Customer/User to a non-Knowlarity company.
 
