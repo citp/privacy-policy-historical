@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favordelivery.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515165919id_/https%3A//favordelivery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favordelivery.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705044348id_/https%3A//favordelivery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Favor Delivery - Favor Delivery
 
