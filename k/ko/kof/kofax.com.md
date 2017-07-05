@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kofax.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604133830id_/http%3A//www.kofax.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kofax.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705140756id_/https%3A//www.kofax.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Kofax
 
