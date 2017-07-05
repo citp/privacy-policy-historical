@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the gearlaunch.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927192349id_/http%3A//www.gearlaunch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearlaunch.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705050505id_/https%3A//www.gearlaunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — GearLaunch
 
-Effective date: August 17th, 2015
+## Effective date: August 17th, 2015
 
 We at GearLaunch.com know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.  **By using or accessing our services, including this site, in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-What does this Privacy Policy cover?
+## What does this Privacy Policy cover?
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using this site, but not to the practices of companies we don't own or control, or people that we don't manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with the services we provide, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you, to fulfill your requests for certain products and services, and to analyze how you use the services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
 We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at .
 
-Will We Ever change this Privacy Policy?
+## Will We Ever change this Privacy Policy?
 
 We're constantly trying to improve our services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the GearLaunch.com, by sending you an email, and/or by some other means. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the services, and you are still responsible for reading and understanding them. These changes will only apply to Personal Information we collect after we have posted the revised Privacy Policy. If you use the services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
 
-What Information Do We Collect?
+## What Information Do We Collect?
 
  _Information You Provide to Us:_
 
@@ -56,13 +56,13 @@ We may deliver a file to you through the services (known as a “web beacon”) 
 
  **Protection of Company and Others** : We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our Terms of Sale, located at GearLaunch.com and other agreements; or protect the rights, property, or safety of company, our employees, our users, or others.
 
-Is Personal Information about me secure?
+## Is Personal Information about me secure?
 
 Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
 We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-What Personal Information can I access?
+## What Personal Information can I access?
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
@@ -75,14 +75,14 @@ Through your account settings, you may access, and, in some cases, edit or delet
 
 The information you can view, update, and delete may change as the services change. If you have any questions about viewing or updating information we have on file about you, please contact us at support@gearlaunch.com.
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@gearlaunch.com.
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@gearlaunch.com.
 
-What choices do I have?
+## What choices do I have?
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
 You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records.
 
-What if I have questions about this policy?
+## What if I have questions about this policy?
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@gearlaunch.com, and we will try to resolve your concerns.
