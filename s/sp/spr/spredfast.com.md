@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216002310id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705115515id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spredfast
 
 **SPREDFAST, INC.  
 PRIVACY POLICY**
 
-_Last updated October 21, 2016_
+_Last updated May 1, 2017_
 
 Spredfast, Inc. and its wholly owned subsidiaries, Shoutlet, Inc. and Spredfast Limited (collectively, “ **Spredfast** ” or “ **we** ” or “ **us** ”) provide an open social marketing platform and related services, including software as a service (“ **SaaS** ”) applications, tools and platform, which help connect our Customers to the people they care about the most (collectively, “ **Spredfast Services** ”). 
 
@@ -16,6 +16,8 @@ This Privacy Policy (“ **Privacy Policy** ”) governs our privacy practices f
 Spredfast is committed to protecting the privacy of Visitors and Customers.  We collect information from Visitors and Customers for legitimate business purposes, primarily to operate our Websites and to provide, and improve, Spredfast Services. 
 
 We also process content on behalf of our Customers as their data processor.  This content consists of content published or generated through the Spredfast Services, such as content Customers collect from Facebook, Twitter or other social media networks.  It is our Customers, and not Spredfast, who control how such information and content is collected and used.  Spredfast processes (rather than controls) such content in accordance with instructions from Customers. 
+
+Unless otherwise agreed to in writing with a Visitor, we will process and store data in the United States.
 
 The Spredfast Services enable Customers to connect other accounts they may have on social media networks or apps, such as Facebook and Twitter.  This Privacy Policy does not govern the collection of content by other websites, apps, networks or otherwise which is not published or generated through the Spredfast Services, except to the extent that we act as a processor with respect to such content.  Our Customers are required to abide by the applicable policies and requirements of social media networks or any other websites or apps used in connection with the Spredfast Services.  
 
@@ -37,7 +39,7 @@ The specific types of information we receive from those who provide content thro
 
 **Cookie and web beacon Information.** We may store cookies on a Visitor’s or Customer’s computer or other Internet device. A cookie is a small amount of data that is sent from a web server and stored on a Visitor’s device.  We also occasionally use web beacons, which assist us (and our Customers) to determine, for example, whether an email has been read or forwarded to someone else.  We also collect and monitor aggregate data called “web log information” (such as a Visitor’s web browser, operating system, etc.) and use cookies and web beacons in connection with certain Spredfast Services (collectively, the “ **Aggregate and Statistical Data** ”). 
 
-**Google Analytics.**   Spredfast uses a specific cookie in order to facilitate the use of Google Analytics with respect to our Customers using Spredfast Services.  We may use Customers' Spredfast log in information together with Google Analytics to track and analyze the web pages Customers visit so that we can better understand and improve Spredfast Services.  With respect to Visitors of our websites, we also use Google Analytics features such as Google Analytics Demographics and Interest Reporting.  For more information about Google Analytics, please visit: [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
+**Google Analytics.**   Spredfast uses a specific cookie in order to facilitate the use of Google Analytics with respect to our Customers using Spredfast Services.  We may use Customers' Spredfast log in information together with Google Analytics to track and analyze the web pages Customers visit so that we can better understand and improve Spredfast Services.  With respect to Visitors of our websites, we also use additional Google Analytics features such as Google Analytics Demographics and Interest Reporting to enable us to analyze this data, which we use for legitimate business purposes.  For more information about Google Analytics as well as how Google uses cookies and data, please visit: [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
 
 **Information We Receive from Customers and Third Parties**
 
@@ -45,7 +47,7 @@ The specific types of information we receive from those who provide content thro
 
 **Customer websites and social media websites.** We do not own or operate our Customers’ websites or the social media or other websites used in connection with the Spredfast Services.  When a Customer provides or accesses information through one of our Spredfast Services, we may receive information from the Customer input, in response to, or by way of interaction with, content generated by Customers using Spredfast Services as well as from the Customer’s website or the relevant social media site, including information about actions that the third party takes and may include additional information about the third party that was published on or provided to the Customer website or social media site.
 
-**Information from other websites.** We may obtain information from partners and other websites concerning Visitors.  For example, we may ask or engage third parties to tell us additional information about Visitors, such as how they responded to our communications or promotions. 
+**Information from other websites.** We may obtain information from partners and other websites concerning Visitors.  For example, we may ask or engage third parties to tell us additional information about Visitors, such as how they responded to our communications or promotions. We analyze this data, which we use for legitimate business purposes.
 
 **2\. Quality, Use, Disclosure, Retention, and Disposal: How We Can Use and Share Information**
 
@@ -107,25 +109,27 @@ We have developed and implemented a security policy and program that includes ad
 
 **Contacting us with questions.**   Questions or concerns about this Privacy Policy or our related information practices should be directed to us by email to [legal@spredfast.com](mailto:legal@spredfast.com) with the subject line “Privacy Policy Question,” or by writing to us at Spredfast, Inc., attention: Melissa Frugé, Chief Legal Officer, #600, 200 W Cesar Chavez St, Austin, TX 78701 Please include your name, address and any other information necessary to respond to your question.
 
-**5\. EU Privacy Shield and Swiss Safe Harbor**
+**5\. US_EU Privacy Shield and US-Swiss Privacy Shield**
 
-Spredfast has certified to the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>.
+Spredfast has certified to the EU-US Privacy Shield and US-Swiss Privacy Shield Frameworks (the “Privacy Shields”) as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively.  We have certified that we adhere to the Privacy Shields Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this Privacy Policy and the Privacy Shields Principles, the Privacy Shields Principles shall govern.  To learn more about the Privacy Shields programs, please visit <https://www.privacyshield.gov/>.
 
-Additionally, we adhere to the Swiss Safe Harbor Program (<http://export.gov/safeharbor/>) (the “Safe Harbor”) and its principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal information (as defined below).  We will respond to requests to access or delete personal information within 30 days.  We will adhere to the requirements of the Safe Harbor with respect to sensitive information (as defined below).  As a condition to using the Spredfast Services, Customers are required to obtain all necessary individual consents in order to collect and use sensitive information.   
+We will adhere to the requirements of the Privacy Shields with respect to sensitive information (as defined below).  As a condition to using the Spredfast Services, Customers are required to obtain all necessary individual consents in order to collect and use sensitive information.   
 
-For purposes of this Safe Harbor disclosure, “personal information” means data that is (a) transferred from the European Union or Switzerland, as the case may be, to the United States; (b) recorded in any form; and (c) about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.  “Sensitive information” means personal information specifying medical or health conditions, personal sexuality, racial or ethnic origin, political opinions, religious, ideological, philosophical, or trade union-related beliefs, views or activities, trade union membership, information specifying the sex life of the individual, information on social security measures, or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings.  Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive. 
+We will offer Visitors the right to choose (opt out) if we ever going to (i) disclose Visitors’ personal information to a third party or (ii) use Vistors’ information that is materially different from the purpose(s) for which it was collected or subsequently authorized by the individuals, in each case, to the extent such disclosure or use differs from the disclosure or use cases described in this Privacy Policy.
+
+For purposes of this Privacy Shields disclosure, “personal information” means data that is (a) transferred from the European Union or Switzerland, as the case may be, to the United States; (b) recorded in any form; and (c) about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.  “Sensitive information” means personal information specifying medical or health conditions, personal sexuality, racial or ethnic origin, political opinions, religious, ideological, philosophical, or trade union-related beliefs, views or activities, trade union membership, information specifying the sex life of the individual, information on social security measures, or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings.  Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive. 
 
 **Monitoring and Enforcement**
 
 **Generally.**   We have a process in place to address inquiries, complaints, and disputes. Each inquiry or complaint is addressed and its resolution is documented and communicated to the individual initiating the inquiry, complaint, or dispute.  Instances of non-compliance with this Privacy Policy and its procedures are documented and reported to management. If needed, corrective actions are taken on a timely basis.
 
-Spredfast is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “FTC”).  In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Spredfast is potentially liable.
+Spredfast is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “ **FTC** ”).  In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shields, Spredfast is potentially liable.
 
 **Audit.**  An independent audit regarding our security controls for Personally Identifiable Information is conducted annually.  These audits are designed to help us maintain the effectiveness of our Privacy Policy, security practices, and corrective actions.
 
-**ICDR Online program: privacy complaints by** **European Union** **and Switzerland citizens.**     In compliance with the EU-US Privacy Shield and Safe Harbor, Spredfast commits to resolve complaints about privacy and our collection or use of personal information.  European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Policy should first send us an email to [legal@spredfast.com](mailto:legal@spredfast.com). 
+**ICDR Online program: privacy complaints by** **European Union** **and Switzerland citizens.**   In compliance with the Privacy Shields, Spredfast commits to resolve complaints about privacy and our collection or use of personal information.  European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Policy should first send us an email to [legal@spredfast.com](mailto:legal@spredfast.com). 
 
-Spredfast has further committed to refer unresolved privacy complaints under both the EU-US Privacy Shield Principles and Safe Harbor, to the International Centre for Dispute Resolution (the “ **ICDR** ”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.icdr.org](http://www.icdr.org/)   for more information and to file a complaint. 
+Spredfast has further committed to refer unresolved privacy complaints under the Privacy Shields Principles, to the International Centre for Dispute Resolution (the “ICDR”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.icdr.org](http://www.icdr.org/)  for more information and to file a complaint. 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
