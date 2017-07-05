@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pgs-soft.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823042639id_/http%3A//www.pgs-soft.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgs-soft.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705214350id_/https%3A//www.pgs-soft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | PGS Software
+# Privacy policy
+
+This site uses cookies to offer you a better browsing experience. Find out more on [Privacy Policy](https://web.archive.org/en/privacy-policy/#cookie-policy). 
 
 We do our best to protect your privacy and secure any personal data you share with us. Thus, we abide by the applicable laws. The following Privacy Policy is meant to help you understand the reasons we ask you for some personal data and the way we may use them while keeping the highest security standards.
 
