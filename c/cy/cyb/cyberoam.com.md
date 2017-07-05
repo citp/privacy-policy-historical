@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614155425id_/http%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705131501id_/https%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cyberoam Privacy Policy – Cyberoam
 
@@ -55,7 +55,7 @@ We (or our group companies, resellers and other selected third parties acting on
 **Email communications**  
 Emails offering software downloads or free product trials of our products will usually link to web pages on www.cyberoam.com, customer.cyberoam.com, download.cyberoam.com, csc.cyberoam.com, kb.cyberoam.com, play.google.com, itunes.apple.com, <http://sourceforge.net/projects/cyberoam-iview/>,[www.sophos.com](http://www.sophos.com/), or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to us at [support@cyberoam.com](mailto:support@cyberoam.com) so we can investigate.
 
-We have published best practice guidelines to help internet users learn how to avoid phishing emails at <http://www.cyberoam.com/phishing.html>.
+We have published best practice guidelines to help internet users learn how to avoid phishing emails at [http:phishing.html](http://phishing.html/).
 
 **With whom might we share your personal data?**  
 We have international sites and users all over the world. When you give us personal data, that data may be used, processed or stored anywhere in the world by any of our group companies. 
