@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodshotrecords.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129213638id_/https%3A//www.bloodshotrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodshotrecords.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705105030id_/https%3A//www.bloodshotrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloodshot Records
 
