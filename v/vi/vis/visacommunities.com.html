@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visacommunities.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612184955id_/http%3A//www.visacommunities.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visacommunities.com privacy policy that was archived on 2017-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170705183221id_/https%3A//www.visacommunities.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -12,7 +12,9 @@
 <link href="https://www.visacommunities.com/stylesheets/jquery-ui-1.9.2-themes/redmond/jquery-ui.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="https://www.visacommunities.com/stylesheets/all.min.css?v=1.0">
 <link href="https://www.visacommunities.com/stylesheets/extrastyles.css" rel="stylesheet" type="text/css">
-<link href="https://www.visacommunities.com/stylesheets/common.css" rel="stylesheet" type="text/css"> 
+<link href="https://www.visacommunities.com/stylesheets/common.css?v=1.2" rel="stylesheet" type="text/css"> 
+<link href="https://www.visacommunities.com/stylesheets/challenge.css" rel="stylesheet" type="text/css">
+
 
 <link rel="stylesheet" href="https://www.visacommunities.com/crop-photo/css/style.css">
 <link rel="stylesheet" href="https://www.visacommunities.com/crop-photo/css/jquery.Jcrop.min.css" type="text/css">
@@ -29,6 +31,12 @@
 <script>
 $(document).ready(function() {
 	
+	 $("#header_dialog").dialog({
+      autoOpen: false,
+      modal: true,
+	  width:550,
+	  position: 'top',
+    });
 	$('#query').typeahead({
 		onSelect: function(item) {
 			if(item.text!=''){
@@ -41,7 +49,7 @@ $(document).ready(function() {
 		}, 
 	
 	 ajax: { 
-                url: '/ajax.php?action=searchVc',
+                url: '/ajax.php?action=searchVc&time=213123123',
                 triggerLength: 3 
 				
               }
@@ -65,13 +73,15 @@ $(document).ready(function() {
 		$("#post_a_answer").show();
 		$(".signup_cntnr").show();
 		$(".search_bar").css({width:'220px'})
-		$(".srch").css({width:'590px'})
+		$(".srch").css({width:'471px'})
 		$(".srch_query").css({width:'auto'});
 		$("#header_cntnr").css({position:'absolute'});
 		
 	});
 	setTimeout(function() {$(".msg_dsply").slideUp();}, 5000);
 });
+
+
 function askAQuestion(e){
 	var sub_status=$(e).attr('data-question');
 	if(sub_status==''){
@@ -108,24 +118,202 @@ function askAQuestion(e){
 		});
 		var submitDt="submit";
 		var anonymously=($('#anonymously').is(':checked'))?1:0;
-		$.ajax({ 
-			type:"post",
-			url:'https://www.visacommunities.com/ajax.php',
-			data: {name: uniqueKeywords,title:askQ,submitDt:submitDt,anonymously:anonymously},
-			success:function(result){
-				var qdata= $.parseJSON(result);
-				if(qdata.status=='success'){
-					$('#formQuery').attr('action', "https://www.visacommunities.com/viewanswer/"+qdata.pretty_url+"/view");
-					$("input[name='search']").click();
+		var offens="offens";
+		
+		
+		var titd=$("#query").val();
+		var tmd=Trim(titd).replace(/[^a-z0-9 \s]/gi, ' ').replace(/[_\s]/g, ' ').replace(/\s{2,}/g, ' ');
+		var splitsd = tmd.split(' ');
+		var words="abbo,abo,abortion,abuse,addict,addicts,adult,alla,allah,alligatorbait,amateur,anal,analannie,analsex,angie,angry,anus,arab,arabs,areola,argie,aroused,arse,arsehole,ass,assassin,assassinate,assassination,assault,assbagger,assblaster,assclown,asscowboy,asses,assfuck,assfucker,asshat,asshole,assholes,asshore,assjockey,asskiss,asskisser,assklown,asslick,asslicker,asslover,assman,assmonkey,assmunch,assmuncher,asspacker,asspirate,asspuppies,assranger,asswhore,asswipe,athletesfoot,attack,babe,babies,backdoor,backdoorman,backseat,badfuck,balllicker,balls,ballsack,banging,baptist,barelylegal,barf,barface,barfface,bast,bastard,bazongas,bazooms,beaner,beast,beastality,beastial,beastiality,beatoff,beatoff,beatyourmeat,beaver,bestial,bestiality,bi,biatch,bible,bicurious,bigass,bigbastard,bigbutt,bigger,bisexual,bisexual,bitch,bitcher,bitches,bitchez,bitchin,bitching,bitchslap,bitchy,biteme,blackman,blackout,blacks,blind,blow,blowjob,boang,bogan,bohunk,bollick,bollock,bomb,bombers,bombing,bombs,bomd,bondage,boner,bong,boob,boobies,boobs,booby,boody,boom,boong,boonga,boonie,booty,bootycall,bountybar,bra,brea5t,breast,breastjob,breastlover,breastman,brothel,bugger,buggered,buggery,bullcrap,bulldike,bulldyke,bullshit,bumblefuck,bumfuck,bunga,bunghole,buried,burn,butchbabes,butchdike,butchdyke,butt,buttbang,buttbang,buttface,buttfuck,buttfuck,buttfucker,buttfucker,buttfuckers,buttfuckers,butthead,buttman,buttmunch,buttmuncher,buttpirate,buttplug,buttstain,byatch,cacker,cameljockey,cameltoe,cancer,carpetmuncher,carruth,catholic,catholics,cemetery,chav,cherrypopper,chickslick,chin,chinaman,chinamen,chink,chinky,choad,chode,christ,cigarette,cigs,clamdigger,clamdiver,clit,clitoris,clogwog,cocaine,cock,cockblock,cockblocker,cockcowboy,cockfight,cockhead,cockknob,cocklicker,cocklover,cocknob,cockqueen,cockrider,cocksman,cocksmith,cocksmoker,cocksucer,cocksuck,cocksucked,cocksucker,cocksucking,cocktail,coloured,commie,communist,condom,conservative,conspiracy,coolie,cooly,coon,coondog,copulate,cornhole,corruption,cra5h,crabs,crack,crackpipe,crackwhore,crackwhore,crap,crapola,crapper,crappy,crash,creamy,crime,crimes,criminal,criminals,crotch,crotchjockey,crotchmonkey,crotchrot,cum,cumbubble,cumfest,cumjockey,cumm,cummer,cumming,cumquat,cumqueen,cumshot,cunilingus,cunillingus,cunn,cunnilingus,cunntt,cunt,cunteyed,cuntfuck,cuntfucker,cuntlick,cuntlicker,cuntlicking,cuntsucker,cybersex,cyberslimer,dago,dahmer,dammit,damn,damnation,damnit,darkie,darky,datnigga,dead,deapthroat,death,deepthroat,defecate,dego,demon,deposit,desire,destroy,deth,devil,devilworshipper,dick,dickbrain,dickforbrains,dickhead,dickless,dicklick,dicklicker,dickman,dickwad,dickweed,diddle,die,died,dies,dike,dildo,dingleberry,dink,dipshit,dipstick,dirty,disease,diseases,disturbed,dive,dix,dixiedike,dixiedyke,doggiestyle,doggystyle,dong,doodoo,doodoo,doom,dope,dragqueen,dragqween,dripdick,drug,drunk,drunken,dumb,dumbass,dumbbitch,dumbfuck,dyefly,dyke,easyslut,eatballs,eatme,eatpussy,ecstacy,ejaculate,ejaculated,ejaculating,ejaculation,enema,enemy,erect,erection,ero,escort,ethiopian,ethnic,european,evl,excrement,execute,executed,execution,executioner,explosion,facefucker,faeces,fag,fagging,faggot,fagot,failed,failure,fairies,fairy,faith,fannyfucker,fart,farted,farting,farty,fastfuck,fat,fatah,fatass,fatfuck,fatfucker,fatso,fckcum,fear,feces,felatio,felch,felcher,felching,fellatio,feltch,feltcher,feltching,fetish,fight,filipina,filipino,fingerfood,fingerfuck,fingerfucked,fingerfucker,fingerfuckers,fingerfucking,fire,firing,fister,fistfuck,fistfucked,fistfucker,fistfucking,fisting,flange,flasher,flatulence,floo,flydie,flydye,fok,fondle,footaction,footfuck,footfucker,footlicker,footstar,fore,foreskin,forni,fornicate,foursome,fourtwenty,fraud,freakfuck,freakyfucker,freefuck,fu,fubar,fuc,fucck,fuck,fucka,fuckable,fuckbag,fuckbuddy,fucked,fuckedup,fucker,fuckers,fuckface,fuckfest,fuckfreak,fuckfriend,fuckhead,fuckher,fuckin,fuckina,fucking,fuckingbitch,fuckinnuts,fuckinright,fuckit,fuckknob,fuckme,fuckmehard,fuckmonkey,fuckoff,fuckpig,fucks,fucktard,fuckwhore,fuckyou,fudgepacker,fugly,fuk,fuks,funeral,funfuck,fungus,fuuck,gangbang,gangbanged,gangbanger,gangsta,gatorbait,gay,gaymuthafuckinwhore,gaysex,geez,geezer,geni,genital,german,getiton,gin,ginzo,gipp,girls,givehead,glazeddonut,gob,god,godammit,goddamit,goddammit,goddamn,goddamned,goddamnes,goddamnit,goddamnmuthafucker,goldenshower,gonorrehea,gonzagas,gook,gotohell,goy,goyim,greaseball,gringo,groe,gross,grostulation,gubba,gummer,gun,gyp,gypo,gypp,gyppie,gyppo,gyppy,hamas,handjob,hapa,harder,hardon,harem,headfuck,headlights,hebe,heeb,hell,henhouse,heroin,herpes,heterosexual,hijack,hijacker,hijacking,hillbillies,hindoo,hiscock,hitler,hitlerism,hitlerist,hiv,ho,hobo,hodgie,hoes,hole,holestuffer,homicide,homo,homobangers,homosexual,honger,honk,honkers,honkey,honky,hook,hooker,hookers,hooters,hore,hork,horn,horney,horniest,horny,horseshit,hosejob,hoser,hostage,hotdamn,hotpussy,hottotrot,hummer,husky,hussy,hustler,hymen,hymie,iblowu,idiot,ikey,illegal,incest,insest,intercourse,interracial,intheass,inthebuff,israel,israeli,israels,italiano,itch,jackass,jackoff,jackshit,jacktheripper,jade,jap,japanese,japcrap,jebus,jeez,jerkoff,jesus,jesuschrist,jew,jewish,jiga,jigaboo,jigg,jigga,jiggabo,jigger,jiggy,jihad,jijjiboo,jimfish,jism,jiz,jizim,jizjuice,jizm,jizz,jizzim,jizzum,joint,juggalo,jugs,junglebunny,kaffer,kaffir,kaffre,kafir,kanake,kid,kigger,kike,kill,killed,killer,killing,kills,kink,kinky,kissass,kkk,knife,knockers,kock,kondum,koon,kotex,krap,krappy,kraut,kum,kumbubble,kumbullbe,kummer,kumming,kumquat,kums,kunilingus,kunnilingus,kunt,ky,kyke,lactate,laid,lapdance,latin,lesbain,lesbayn,lesbian,lesbin,lesbo,lez,lezbe,lezbefriends,lezbo,lezz,lezzo,liberal,libido,licker,lickme,lies,limey,limpdick,limy,lingerie,liquor,livesex,loadedgun,lolita,looser,loser,lotion,lovebone,lovegoo,lovegun,lovejuice,lovemuscle,lovepistol,loverocket,lowlife,lsd,lubejob,lucifer,luckycammeltoe,lugan,lynch,macaca,mad,mafia,magicwand,mams,manhater,manpaste,marijuana,mastabate,mastabater,masterbate,masterblaster,mastrabator,masturbate,masturbating,mattressprincess,meatbeatter,meatrack,meth,mexican,mgger,mggor,mickeyfinn,mideast,milf,minority,mockey,mockie,mocky,mofo,moky,moles,molest,molestation,molester,molestor,moneyshot,mooncricket,mormon,moron,moslem,mosshead,mothafuck,mothafucka,mothafuckaz,mothafucked,mothafucker,mothafuckin,mothafucking,mothafuckings,motherfuck,motherfucked,motherfucker,motherfuckin,motherfucking,motherfuckings,motherlovebone,muff,muffdive,muffdiver,muffindiver,mufflikcer,mulatto,muncher,munt,murder,murderer,muslim,naked,narcotic,nasty,nastybitch,nastyho,nastyslut,nastywhore,nazi,necro,negro,negroes,negroid,negros,nig,niger,nigerian,nigerians,nigg,nigga,niggah,niggaracci,niggard,niggarded,niggarding,niggardliness,niggardlinesss,niggardly,niggards,niggards,niggaz,nigger,niggerhead,niggerhole,niggers,niggers,niggle,niggled,niggles,niggling,nigglings,niggor,niggur,niglet,nignog,nigr,nigra,nigre,nip,nipple,nipplering,nittit,nlgger,nlggor,nofuckingway,nook,nookey,nookie,noonan,nooner,nude,nudger,nuke,nutfucker,nymph,ontherag,oral,orga,orgasim,orgasm,orgies,orgy,osama,paki,palesimian,palestinian,pansies,pansy,panti,panties,payo,pearlnecklace,peck,pecker,peckerwood,pee,peehole,peepee,peepshow,peepshpw,pendy,penetration,peni5,penile,penis,penises,penthouse,perv,phonesex,phuk,phuked,phuking,phukked,phukking,phungky,phuq,pi55,picaninny,piccaninny,pickaninny,piker,pikey,piky,pimp,pimped,pimper,pimpjuic,pimpjuice,pimpsimp,pindick,piss,pissed,pisser,pisses,pisshead,pissin,pissing,pissoff,pistol,pixie,pixy,playboy,playgirl,pocha,pocho,pocketpool,pohm,polack,pom,pommie,pommy,poo,poon,poontang,poop,pooper,pooperscooper,pooping,poorwhitetrash,popimp,porchmonkey,porn,pornflick,pornking,porno,pornography,pornprincess,pot,poverty,premature,pric,prick,prickhead,primetime,propaganda,pros,prostitute,protestant,pu55i,pu55y,pube,pubic,pubiclice,pud,pudboy,pudd,puddboy,puke,puntang,purinapricness,puss,pussie,pussies,pussy,pussycat,pussyeater,pussyfucker,pussylicker,pussylips,pussylover,pussypounder,pusy,quashie,queef,queer,quickie,quim,ra8s,rabbi,racial,racist,radical,radicals,raghead,randy,rape,raped,raper,rapist,rearend,rearentry,rectum,redlight,redneck,reefer,reestie,refugee,reject,remains,rentafuck,republican,rere,retard,retarded,ribbed,rigger,rimjob,rimming,roach,robber,roundeye,rump,russki,russkie,sadis,sadom,samckdaddy,sandm,sandnigger,satan,scag,scallywag,scat,schlong,screw,screwyou,scrotum,scum,semen,seppo,servant,sex,sexed,sexfarm,sexhound,sexhouse,sexing,sexkitten,sexpot,sexslave,sextogo,sextoy,sextoys,sexual,sexually,sexwhore,sexy,sexymoma,sexyslim,shag,shaggin,shagging,shat,shav,shawtypimp,sheeney,shhit,shinola,shit,shitcan,shitdick,shite,shiteater,shited,shitface,shitfaced,shitfit,shitforbrains,shitfuck,shitfucker,shitfull,shithapens,shithappens,shithead,shithouse,shiting,shitlist,shitola,shitoutofluck,shits,shitstain,shitted,shitter,shitting,shitty,shoot,shooting,shortfuck,showtime,sick,sissy,sixsixsix,sixtynine,sixtyniner,skank,skankbitch,skankfuck,skankwhore,skanky,skankybitch,skankywhore,skinflute,skum,skumbag,slant,slanteye,slapper,slaughter,slav,slave,slavedriver,sleezebag,sleezeball,slideitin,slime,slimeball,slimebucket,slopehead,slopey,slopy,slut,sluts,slutt,slutting,slutty,slutwear,slutwhore,smack,smackthemonkey,smut,snatch,snatchpatch,snigger,sniggered,sniggering,sniggers,sniggers,sniper,snot,snowback,snownigger,sob,sodom,sodomise,sodomite,sodomize,sodomy,sonofabitch,sonofbitch,sooty,sos,soviet,spaghettibender,spaghettinigger,spank,spankthemonkey,sperm,spermacide,spermbag,spermhearder,spermherder,spic,spick,spig,spigotty,spik,spit,spitter,splittail,spooge,spreadeagle,spunk,spunky,squaw,stagg,stiffy,strapon,stringer,stripclub,stroke,stroking,stupid,stupidfuck,stupidfucker,suck,suckdick,sucker,suckme,suckmyass,suckmydick,suckmytit,suckoff,suicide,swallow,swallower,swalow,swastika,sweetness,syphilis,taboo,taff,tampon,tang,tantra,tarbaby,tard,teat,terror,terrorist,teste,testicle,testicles,thicklips,thirdeye,thirdleg,threesome,threeway,timbernigger,tinkle,tit,titbitnipply,titfuck,titfucker,titfuckin,titjob,titlicker,titlover,tits,tittie,titties,titty,tnt,toilet,tongethruster,tongue,tonguethrust,tonguetramp,tortur,torture,tosser,towelhead,trailertrash,tramp,trannie,tranny,transexual,transsexual,transvestite,triplex,trisexual,trojan,trots,tuckahoe,tunneloflove,turd,turnon,twat,twink,twinkie,twobitwhore,uck,unfuckable,upskirt,uptheass,upthebutt,urinary,urinate,urine,usama,uterus,vagina,vaginal,vatican,vibr,vibrater,vibrator,vietcong,violence,virgin,virginbreaker,vomit,vulva,wab,wank,wanker,wanking,waysted,weapon,weenie,weewee,welcher,welfare,wetb,wetback,wetspot,whacker,whash,whigger,whiskey,whiskeydick,whiskydick,whit,whitenigger,whites,whitetrash,whitey,whiz,whop,whore,whorefucker,whorehouse,wigger,willie,williewanker,willy,wn,wog,womens,wop,wtf,wuss,wuzzie,xtc,xxx,yankee,yellowman,zigabo,zipperhead";
+		var word_list=words.split(',');
+		var cont=new Array();
+		var contf=new Array();
+		var splid=new Array();
+		var splih=new Array();
+		var j=0;
+			var n=0;
+		for(m in splitsd){
+		if(inArray(splitsd[m],word_list)){
+			splid[n]=splitsd[m];
+			n++;
+			var of=1;
+			}
+		}
+		var tillend=splid.length;
+		
+		var lht=0;
+		for(s in splid){
+		if(!inArray(splid[s],splih)){
+			splih[lht]=splid[s];
+			lht++;
+			}
+		}
+		//alert(tillend);
+		 if(tillend>0){
+			 
+			// $("#header_dialog").html(qdata.msg);
+			 $("#header_dialog").html("Title  Contains offensive words  like \"<b>"+splih+"</b>\"  click on continue to review by the moderator else click on cancel to edit");
+			 $("#header_dialog").dialog({
+					  buttons : {
+						"Continue" : function() {
 					
-				}else{
+						$(this).dialog("close");
+						
+							$.ajax({ 
+							type:"post",
+							url:'https://www.visacommunities.com/ajax.php',
+							data: {name: uniqueKeywords,title:askQ,submitDt:submitDt,anonymously:anonymously,offencive:1},
+							success:function(result){
+								var qdata= $.parseJSON(result);
+								if(qdata.status=='success'){
+									$('#formQuery').attr('action', "https://www.visacommunities.com/viewanswer/"+qdata.pretty_url+"/view");
+									$("input[name='search']").click();
+									$("#lean_overlayaskq").hide()
+									
+								}else{
+									$("#errorMsg").html(qdata.msg);
+									$("#lean_overlayaskq").hide();						
+									updatingSt(e,'done');	
+								}
+									
+							}
+						});
+	
+						
+						return true;
+						},
+						"Cancel" : function() {
+							$("#submitconfirm").val(0);
+							$(this).dialog("close");
+							$("#lean_overlayaskq").hide();		
+							updatingSt(e,'done');	
+							return false;
+						}
+					  }
+					});
+					$("#header_dialog").dialog("open");
+					$("#lean_overlayaskq").show();
+					$('.ui-dialog-titlebar-close').hide();
+			 
+		 }
+		 else{
+			 
+			
+				$.ajax({ 
+					type:"post",
+					url:'https://www.visacommunities.com/ajax.php',
+					data: {name: uniqueKeywords,title:askQ,submitDt:submitDt,anonymously:anonymously,offencive:0},
+					success:function(result){
+						var qdata= $.parseJSON(result);
+						alert(qdata.status)
+						if(qdata.status=='success'){
+							$('#formQuery').attr('action', "https://www.visacommunities.com/viewanswer/"+qdata.pretty_url+"/view");
+							$("input[name='search']").click();
+							$("#lean_overlayaskq").hide()
+							
+						}else{
+							$("#errorMsg").html(qdata.msg);
+							$("#lean_overlayaskq").hide();						
+							updatingSt(e,'done');	
+						}
+							
+					}
+				});
+					
+		}
+		
+		/*$.ajax({ 
+			type:"post",
+			async: false,
+			url:'https://www.visacommunities.com/ajax.php',
+			data: {name: uniqueKeywords,title:askQ,offens:offens,anonymously:anonymously},
+			success:function(result){
+				
+				var qdata= $.parseJSON(result);
+			//alert(qdata.msg); return false;
+				if(qdata.status=='offens'){
+				
+					$("#header_dialog").html(qdata.msg);
+					$("#header_dialog").dialog({
+					  buttons : {
+						"Continue" : function() {
+						$("#submitconfirm").val(1);
+						$(this).dialog("close");
+						
+							$.ajax({ 
+							type:"post",
+							url:'https://www.visacommunities.com/ajax.php',
+							data: {name: uniqueKeywords,title:askQ,submitDt:submitDt,anonymously:anonymously},
+							success:function(result){
+								var qdata= $.parseJSON(result);
+								if(qdata.status=='success'){
+									$('#formQuery').attr('action', "https://www.visacommunities.com/viewanswer/"+qdata.pretty_url+"/view");
+									$("input[name='search']").click();
+									$("#lean_overlayaskq").hide()
+									
+								}else{
+									$("#errorMsg").html(qdata.msg);
+									$("#lean_overlayaskq").hide();						
+									updatingSt(e,'done');	
+								}
+									
+							}
+						});
+	
+						
+						return true;
+						},
+						"Cancel" : function() {
+							$("#submitconfirm").val(0);
+							$(this).dialog("close");
+							$("#lean_overlayaskq").hide();		
+							updatingSt(e,'done');	
+							return false;
+						}
+					  }
+					});
+					$("#header_dialog").dialog("open");
+					$("#lean_overlayaskq").show();
+					$('.ui-dialog-titlebar-close').hide();
+					
+				}
+				else if(qdata.status=='error'){
 					$("#errorMsg").html(qdata.msg);
+					$("#lean_overlayaskq").hide();						
 					updatingSt(e,'done');	
+				}
+				else{
+					if(qdata.status=='success'){
+						
+						$.ajax({ 
+							type:"post",
+							url:'https://www.visacommunities.com/ajax.php',
+							data: {name: uniqueKeywords,title:askQ,submitDt:submitDt,anonymously:anonymously},
+							success:function(result){
+								var qdata= $.parseJSON(result);
+								if(qdata.status=='success'){
+									$('#formQuery').attr('action', "https://www.visacommunities.com/viewanswer/"+qdata.pretty_url+"/view");
+									$("input[name='search']").click();
+									$("#lean_overlayaskq").hide()
+									
+								}else{
+									$("#errorMsg").html(qdata.msg);
+									$("#lean_overlayaskq").hide();						
+									updatingSt(e,'done');	
+								}
+									
+							}
+						});
+					}
+											
+					//updatingSt(e,'done');	
 				}
 					
 			}
-		});
+		});*/
 	
+		
+		
 		
 	    
 	}
@@ -219,7 +407,7 @@ border-top:#DCE1E8 1px solid;
 .typeahead > .dropdown-header > strong{
 color:#1968E2 !important;
 }
-
+#lean_overlayaskq { position: fixed; z-index:100; top: 0px; left: 0px; height:100%; width:100%; background: #000; display: none; }
 </style>
 </head>
 
@@ -595,6 +783,8 @@ color:#1968E2 !important;
                   Settlement                  </option>
                                     <option value="ticketing">
                   Ticketing                  </option>
+                                    <option value="h1b">
+                  H1B                  </option>
                                     <option value="general">General</option>
                 </select>
                 </span> </div>
@@ -653,6 +843,8 @@ color:#1968E2 !important;
                   Sweden                  </option>
                                     <option value="27">
                   Others                  </option>
+                                    <option value="49">
+                  Cyprus                  </option>
                                   </select>
                 </span> </div>
               <div class="clear"></div>
@@ -685,7 +877,7 @@ color:#1968E2 !important;
         <div class="ask_count"> <span>Threads Created Today</span> <span>: </span> <span class="red_txt">
           0          </span> </div>
         <div class="ask_count"> <span>Overall Threads</span> <span>: </span> <span class="red_txt">
-          2542          </span> </div>
+          3752          </span> </div>
       </div>
       
       <!--STEPS ENDS HERE--> 
@@ -725,7 +917,9 @@ color:#1968E2 !important;
 </div>
 </div>
 
-</div><style type="text/css">
+</div>
+<div id="lean_overlayaskq" style="display: none; opacity: 0.5;"></div>
+ <div id="header_dialog" title="Confirmation Required"> </div><style type="text/css">
 .inner_containerright{
 	float:none !important;
 }
@@ -1155,209 +1349,233 @@ color:#fff;
           <div class="advert">
             <div class="ad_first"><a href="https://www.visareporter.com/" target="_blank"><img src="https://www.visacommunities.com/images/ad_first.gif" alt="Partner add" title="Partner add" width="250" height="250" style="border:0;"></a></div>
           </div>
-          <div class="ad_small" style="padding:5px 14px;float:left;width:100%;"> <span><a href="https://www.visareporter.com/immigration-news" target="_blank"><img src="https://www.visacommunities.com/images/ad1.jpg" alt="Partner add" title="Partner add" width="125" height="125" style="border:1px solid #dcdcdc;"></a></span> <span><a href="https://www.visareporter.com/world" target="_blank"><img src="https://www.visacommunities.com/images/ad2.jpg" alt="Partner add" title="Partner add" width="125" height="125" style="border:1px solid #dcdcdc;"></a></span> </div>
+          <!--<div class="ad_small" style="padding:5px 14px;float:left;width:100%;"> <span><a href="https://www.visareporter.com/immigration-news" target="_blank"><img src="https://www.visacommunities.com/images/ad1.jpg" alt="Partner add" title="Partner add" width="125" height="125" style="border:1px solid #dcdcdc;" ></a></span> <span><a href="https://www.visareporter.com/world" target="_blank"><img src="https://www.visacommunities.com/images/ad2.jpg" alt="Partner add" title="Partner add" width="125" height="125" style="border:1px solid #dcdcdc;" ></a></span> </div>-->
         </div>
 <!--TREE MENU STARTS HERE-->
 			            <ul class="topnav" style="color:#000;">
                             <li class="tree"><a href="#" class="active3"><p class="work"></p>&nbsp;Work Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/work-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(50)</a>
+                                            <li><a href="https://www.visacommunities.com/work-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(122)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(61)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(153)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(14)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(17)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(53)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(151)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(22)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(66)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(17)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(24)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(30)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(53)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(20)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(33)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Norway"><p class="norway" title="norway"></p>&nbsp;Norway&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(14)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(15)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(6)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(8)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(10)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Spain"><p class="spain" title="spain"></p>&nbsp;Spain&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Brazil"><p class="brazil" title="brazil"></p>&nbsp;Brazil&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Spain"><p class="spain" title="spain"></p>&nbsp;Spain&nbsp;(3)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(4)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/work-visa/Japan"><p class="japan" title="japan"></p>&nbsp;Japan&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(6)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(8)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(2)</a>
-							
-                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(36)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/work-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(42)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="migrate"></p>&nbsp;Migrate Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/migrate-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(63)</a>
+                                            <li><a href="https://www.visacommunities.com/migrate-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(139)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(203)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(410)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(41)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(51)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(36)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(116)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(16)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(54)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(14)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(27)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(7)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(22)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(12)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(22)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(8)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(19)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(5)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(6)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(4)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(7)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(15)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(4)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(6)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Brazil"><p class="brazil" title="brazil"></p>&nbsp;Brazil&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Spain"><p class="spain" title="spain"></p>&nbsp;Spain&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Indonesia"><p class="indonesia" title="indonesia"></p>&nbsp;Indonesia&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Japan"><p class="japan" title="japan"></p>&nbsp;Japan&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(4)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(4)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Philippines"><p class="philippines" title="philippines"></p>&nbsp;Philippines&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(33)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(64)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/migrate-visa/Cyprus"><p class="cyprus" title="cyprus"></p>&nbsp;Cyprus&nbsp;(1)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="travel"></p>&nbsp;Travel Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/travel-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(28)</a>
+                                            <li><a href="https://www.visacommunities.com/travel-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(35)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(18)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(8)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(21)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(57)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(20)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(35)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(8)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(12)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(5)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(6)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Norway"><p class="norway" title="norway"></p>&nbsp;Norway&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(4)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(6)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(10)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(5)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(10)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(18)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(3)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Brazil"><p class="brazil" title="brazil"></p>&nbsp;Brazil&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Spain"><p class="spain" title="spain"></p>&nbsp;Spain&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Spain"><p class="spain" title="spain"></p>&nbsp;Spain&nbsp;(3)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(1)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Indonesia"><p class="indonesia" title="indonesia"></p>&nbsp;Indonesia&nbsp;(1)</a>
 							
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Japan"><p class="japan" title="japan"></p>&nbsp;Japan&nbsp;(3)</a>
+							
                                                 </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(4)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(13)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(19)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Philippines"><p class="philippines" title="philippines"></p>&nbsp;Philippines&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Philippines"><p class="philippines" title="philippines"></p>&nbsp;Philippines&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(26)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/travel-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(61)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="business"></p>&nbsp;Business Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/business-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(8)</a>
+                                            <li><a href="https://www.visacommunities.com/business-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(16)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(40)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(13)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(24)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(3)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(2)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/business-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(1)</a>
 							
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(2)</a>
+							
                                                 </li>                        <li><a href="https://www.visacommunities.com/business-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(3)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/business-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/business-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(9)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="student"></p>&nbsp;Student Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/student-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(23)</a>
+                                            <li><a href="https://www.visacommunities.com/student-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(60)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(26)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(51)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(10)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(38)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(115)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(23)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(47)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(4)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(5)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(18)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(5)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Norway"><p class="norway" title="norway"></p>&nbsp;Norway&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(11)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/student-visa/Sweden"><p class="sweden" title="sweden"></p>&nbsp;Sweden&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(3)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/student-visa/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(2)</a>
 							
@@ -1365,119 +1583,177 @@ color:#fff;
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/student-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(5)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(7)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(9)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/France"><p class="france" title="france"></p>&nbsp;France&nbsp;(14)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/student-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(2)</a>
 							
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Japan"><p class="japan" title="japan"></p>&nbsp;Japan&nbsp;(1)</a>
+							
                                                 </li>                        <li><a href="https://www.visacommunities.com/student-visa/Russia"><p class="russia" title="russia"></p>&nbsp;Russia&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(4)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(25)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/student-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(34)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="invest"></p>&nbsp;Invest Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/invest-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(4)</a>
+                                            <li><a href="https://www.visacommunities.com/invest-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(13)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(8)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(18)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(6)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(1)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(2)</a>
 							
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(1)</a>
+							
                                                 </li>                        <li><a href="https://www.visacommunities.com/invest-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(7)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Brazil"><p class="brazil" title="brazil"></p>&nbsp;Brazil&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(3)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/invest-visa/Cyprus"><p class="cyprus" title="cyprus"></p>&nbsp;Cyprus&nbsp;(1)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="other"></p>&nbsp;Other Visa</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/other-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(2)</a>
+                                            <li><a href="https://www.visacommunities.com/other-visa/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(5)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/other-visa/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(6)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(11)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(13)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(8)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(5)</a>
-							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(1)</a>
-							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(2)</a>
-							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(3)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(2)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/other-visa/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(2)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Netherlands"><p class="netherlands" title="netherlands"></p>&nbsp;Netherlands&nbsp;(6)</a>
-							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(1)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(2)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/other-visa/China"><p class="china" title="china"></p>&nbsp;China&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(8)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/other-visa/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(18)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="Passports"></p>&nbsp;Passports</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/passports/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(5)</a>
+                                            <li><a href="https://www.visacommunities.com/passports/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(6)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/India"><p class="india" title="india"></p>&nbsp;India&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/passports/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(22)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="Transit"></p>&nbsp;Transit</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/transit/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(2)</a>
+                                            <li><a href="https://www.visacommunities.com/transit/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(3)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/transit/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(6)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(6)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/Germany"><p class="germany" title="germany"></p>&nbsp;Germany&nbsp;(1)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/transit/New-Zealand"><p class="newzealand" title="newzealand"></p>&nbsp;New Zealand&nbsp;(1)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/transit/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(6)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/transit/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(4)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="exam"></p>&nbsp;Exam</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/exam/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(1)</a>
+                                            <li><a href="https://www.visacommunities.com/exam/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/exam/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(5)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/exam/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/exam/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/exam/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/exam/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(14)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="dependent"></p>&nbsp;Dependent</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/dependent/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(1)</a>
+                                            <li><a href="https://www.visacommunities.com/dependent/Australia"><p class="australia" title="australia"></p>&nbsp;Australia&nbsp;(10)</a>
 							
-                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(2)</a>
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(6)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Denmark"><p class="denmark" title="denmark"></p>&nbsp;Denmark&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/USA"><p class="usa" title="usa"></p>&nbsp;USA&nbsp;(32)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(9)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Hong-Kong"><p class="hongkong" title="hongkong"></p>&nbsp;Hong Kong&nbsp;(3)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Ireland"><p class="ireland" title="ireland"></p>&nbsp;Ireland&nbsp;(5)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/UAE-Dubai"><p class="uae" title="uae"></p>&nbsp;UAE Dubai&nbsp;(2)</a>
 							
                                                 </li>                        <li><a href="https://www.visacommunities.com/dependent/Switzerland"><p class="switzerland" title="switzerland"></p>&nbsp;Switzerland&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(1)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Singapore"><p class="singapore" title="singapore"></p>&nbsp;Singapore&nbsp;(2)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/dependent/Others"><p class="others" title="others"></p>&nbsp;Others&nbsp;(3)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="life"></p>&nbsp;Life</a>
                     <ul>
-                                            <li><a href="https://www.visacommunities.com/life/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(1)</a>
+                                            <li><a href="https://www.visacommunities.com/life/Canada"><p class="canada" title="canada"></p>&nbsp;Canada&nbsp;(4)</a>
+							
+                                                </li>                        <li><a href="https://www.visacommunities.com/life/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(2)</a>
 							
                                                 </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="settlement"></p>&nbsp;Settlement</a>
                     <ul>
-                                        </ul>
+                                            <li><a href="https://www.visacommunities.com/settlement/UK"><p class="uk" title="uk"></p>&nbsp;UK&nbsp;(1)</a>
+							
+                                                </li>                    </ul>
                 </li>
                             <li class="tree"><a href="#" class="active3"><p class="ticketing"></p>&nbsp;Ticketing</a>
                     <ul>
-                                        </ul>
+                                            <li><a href="https://www.visacommunities.com/ticketing/South-Africa"><p class="southafrica" title="southafrica"></p>&nbsp;South Africa&nbsp;(1)</a>
+							
+                                                </li>                    </ul>
                 </li>
                         </ul>
 <!--TREE MENU ENDS HERE-->  
@@ -1487,43 +1763,43 @@ color:#fff;
  <div class="medical_experts">
     
   <div class="expert-bg"> <h3>Featured Immigration Experts</h3></div>  <ul>
-            <li> <a href="https://www.visacommunities.com/userprofile/7649">
-                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Fothedforgreg</strong>
-
-        <p> </p>
-        </a>
-      </li>
-   
-            <li> <a href="https://www.visacommunities.com/userprofile/7642">
-                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Kaschkelevi</strong>
-
-        <p> </p>
-        </a>
-      </li>
-   
-            <li> <a href="https://www.visacommunities.com/userprofile/7634">
-                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Addalth</strong>
-
-        <p> Other Visa Specialist</p>
-        </a>
-      </li>
-   
-            <li> <a href="https://www.visacommunities.com/userprofile/7588">
-                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Teythad</strong>
-
-        <p> Other Visa Specialist</p>
-        </a>
-      </li>
-   
-            <li> <a href="https://www.visacommunities.com/userprofile/7575">
+            <li> <a href="https://www.visacommunities.com/userprofile/8242">
                  <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>GOLAM</strong>
+                           								<strong>Nimmers</strong>
 
-        <p> Work Visa Specialist</p>
+        <p> Other Visa Specialist</p>
+        </a>
+      </li>
+   
+            <li> <a href="https://www.visacommunities.com/userprofile/8141">
+                 <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Kalvinder</strong>
+
+        <p> Travel Guru</p>
+        </a>
+      </li>
+   
+            <li> <a href="https://www.visacommunities.com/userprofile/8045">
+                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Ocmahonamal</strong>
+
+        <p> Life Specialist</p>
+        </a>
+      </li>
+   
+            <li> <a href="https://www.visacommunities.com/userprofile/8044">
+                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Ecrazebarr</strong>
+
+        <p> Travel Guru</p>
+        </a>
+      </li>
+   
+            <li> <a href="https://www.visacommunities.com/userprofile/7991">
+                  <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Khosekwilf</strong>
+
+        <p> Student Visa Specialist</p>
         </a>
       </li>
    
@@ -1533,43 +1809,11 @@ color:#fff;
  <div class="medical_experts">
   <div class="expert-bg"><h3 class="most-helpful">Most Helpful Users This Week</h3></div>  <ul>
   	
-     <li> <a href="https://www.visacommunities.com/helpfulposts/7201">
-	           <img src="https://www.visacommunities.com/uploads/7201/Nancy-1296627687030402.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
-                      <strong> Gayatri </strong>
-            <p>
-			11&nbsp;helpful Posts
-            </p>
-   </a></li>
-    	
-     <li> <a href="https://www.visacommunities.com/helpfulposts/7199">
-	              <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                        <strong> Claire </strong>
-            <p>
-			9&nbsp;helpful Posts
-            </p>
-   </a></li>
-    	
-     <li> <a href="https://www.visacommunities.com/helpfulposts/7607">
-	              <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                        <strong> Pooja </strong>
-            <p>
-			4&nbsp;helpful Posts
-            </p>
-   </a></li>
-    	
-     <li> <a href="https://www.visacommunities.com/helpfulposts/7625">
-	            <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                        <strong> SUSHIL </strong>
+     <li> <a href="https://www.visacommunities.com/helpfulposts/9504">
+	           <img src="https://www.visacommunities.com/uploads/9504/Oceans Outsourcing-109676329736903775656.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
+                      <strong> Oceans Outsourcing </strong>
             <p>
 			3&nbsp;helpful Posts
-            </p>
-   </a></li>
-    	
-     <li> <a href="https://www.visacommunities.com/helpfulposts/722">
-	            <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                        <strong> Samuel </strong>
-            <p>
-			1&nbsp;helpful Posts
             </p>
    </a></li>
        
@@ -1584,45 +1828,45 @@ color:#fff;
  <div class="medical_experts">
     
   <div class="expert-bg"> <h3>Most Active Users</h3></div>  <ul>
-            <li> <a href="https://www.visacommunities.com/userprofile/7636">
-        	 <img src="https://www.visacommunities.com/uploads/7636/Rinush P Pillai-101977494762985665194.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
-	                 								<strong>Rinush P Pillai</strong>
+            <li> <a href="https://www.visacommunities.com/userprofile/9404">
+                 <img src="https://www.visacommunities.com/uploads/9404/Rahul Shinde-100091032797701202516.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
+                          								<strong>Rahul Shinde</strong>
 
         <p style="line-height:20px;"> 
 		Normal User</p>
         </a>
       </li>
    
-            <li> <a href="https://www.visacommunities.com/userprofile/4692">
-                 <img src="https://www.visacommunities.com/uploads/4692/sss.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
-                          								<strong>Sreelatha</strong>
-
-        <p style="line-height:20px;"> 
-		Normal User</p>
-        </a>
-      </li>
-   
-            <li> <a href="https://www.visacommunities.com/userprofile/7198">
+            <li> <a href="https://www.visacommunities.com/userprofile/9374">
                   <img src="https://www.visacommunities.com/images/female.png" alt="Forum Profile" title="Forum Profile " style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Suhaana</strong>
+                           								<strong>Sujatha</strong>
 
         <p style="line-height:20px;"> 
 		Normal User</p>
         </a>
       </li>
    
-            <li> <a href="https://www.visacommunities.com/userprofile/7526">
+            <li> <a href="https://www.visacommunities.com/userprofile/9448">
                  <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
-                           								<strong>Ranjith</strong>
+                           								<strong>Mike</strong>
 
         <p style="line-height:20px;"> 
 		Normal User</p>
         </a>
       </li>
    
-            <li> <a href="https://www.visacommunities.com/userprofile/7639">
-        	 <img src="https://www.visacommunities.com/uploads/7639/Ruchi-1308106505884308.jpg" alt="Forum Profile" title="Forum Profile" style="width: 38px;height:40px; background-size: contain;"> 
-	                 								<strong>Ruchi</strong>
+            <li> <a href="https://www.visacommunities.com/userprofile/9428">
+                 <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Syed </strong>
+
+        <p style="line-height:20px;"> 
+		Normal User</p>
+        </a>
+      </li>
+   
+            <li> <a href="https://www.visacommunities.com/userprofile/9038">
+                 <img src="https://www.visacommunities.com/images/male.png" alt="Forum Profile" title="Forum Profile" style="width: 40px;height:40px; background-size: contain;"> 
+                           								<strong>Nayan Bhatt</strong>
 
         <p style="line-height:20px;"> 
 		Normal User</p>
@@ -1661,19 +1905,19 @@ color:#fff;
           <!--FIRST-->
                   <div class="popular_cntnt">
             <div class="popular_img icon  invest_visa_icon" title="General"></div>
-            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/can-someone-guide-me-to-a-trusted-bonafide-and-certified-canada-immigration-consultant-in-bangalore/view">Can someone guide me to a trusted, bonafide and certified Canada immigration consultant in bangalore?</a></div>
-          </div>        <div class="popular_cntnt">
-            <div class="popular_img icon  immi_visa_icon" title="Migrate"></div>
-            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/benefits-of-australian-permanent-residence/view">Benefits of Australian Permanent Residence</a></div>
+            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/please-let-me-know-schengen-visa-process-and-visa-charges-with-required-document-for-denmark/view">Please let me know Schengen visa process and visa charges with required document for Denmark?</a></div>
           </div>        <div class="popular_cntnt">
             <div class="popular_img icon  invest_visa_icon" title="General"></div>
-            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/procedure-to-apply-healthcare-plan-in-british-columbia/view">Procedure to apply healthcare plan in British Columbia</a></div>
+            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/is-it-necessary-to-contact-an-agent-to-apply-to-the-express-entry-canada-or-can-i-do-it-by-my-self/view">Is it necessary to contact an agent to apply to the Express Entry Canada? Or can I do it by my self?</a></div>
           </div>        <div class="popular_cntnt">
-            <div class="popular_img icon  business_visa_icon" title="Business"></div>
-            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/procedure-to-open-new-business-in-quebec/view">Procedure to open new business in Quebec</a></div>
+            <div class="popular_img icon  wrk_visa_icon" title="Work"></div>
+            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/need-work-visa-for-canada/view">Need work visa for canada</a></div>
           </div>        <div class="popular_cntnt">
             <div class="popular_img icon  invest_visa_icon" title="General"></div>
-            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/penalty-for-visitors-who-reached-their-extension-of-residing/view">Penalty for visitors who reached their extension of residing</a></div>
+            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/visa-consultant-for-australia-in-nehru-place-delhi/view">Visa consultant for australia in nehru place delhi</a></div>
+          </div>        <div class="popular_cntnt">
+            <div class="popular_img icon  travel_visa_icon" title="Travel"></div>
+            <div class="popular_txt txt_roboto_12"><a href="https://www.visacommunities.com/viewanswer/real-passports-id-s-drivers-licenses-and-many-other-identity-documents-contact-us-on-susanlee201-gmail-com/view">Real passports, ID's, drivers licenses and many other identity documents. Contact us on susanlee201@gmail.com</a></div>
           </div>
         </div>
         
@@ -1699,6 +1943,13 @@ div.countrie-threads ul li{width:56px !important;}
 .modal-alert{
 	background:#fff;
 }
+
+.popup_list1{ }
+.popup_list1 ul{ margin:0px; padding:0px;  }
+.popup_list1 ul li{ display:inline-block; padding:0px 0px 0px 0px ;}
+.popup_list1 ul li a{ font-family:12px; font-weight:normal; line-height:25px; color:#333;  }
+.popup_list1 ul li a:hover{ color:#039; }
+
 .my_model p {
 	font-family: Tahoma, sans-serif;
 	font-size: 17px;
@@ -1822,6 +2073,40 @@ function removeanswerlater(threadid,userid){
 	  });
 	
 }
+function answerpass(threadid,userid,status){
+	var read="answerpass";
+	  $.ajax({ 
+                        type:"post",
+                        url:'https://www.visacommunities.com/ajax.php',
+                        data: {tid: threadid,uid:userid,action:read,status:status},
+                        success:function(result){
+							if(status==1){
+							$('#pass_'+threadid).hide();		
+							$('#ans_'+threadid).hide();	
+							$('#create_dt_'+threadid).hide();
+							$('#info_thread_'+threadid).html(result);
+							}else{
+								$('#ans_'+threadid).show();
+								$('#info_thread_'+threadid).html('');
+								$('#create_dt_'+threadid).show();
+							}	
+						}
+	  });
+	
+}
+function followThread(threadid,userid){
+	var read="followThread";
+	$('#follow_thread_'+threadid).html('Wait..');
+	  $.ajax({ 
+                        type:"post",
+                        url:'https://www.visacommunities.com/ajax.php',
+                        data: {tid: threadid,uid:userid,action:read,status:status},
+                        success:function(result){
+							$('#follow_thread_'+threadid).html(result);
+						}
+	  });
+	
+}
 function removefromfeed(threadid,userid){
 	var read="removefromfeed";
 	  $.ajax({ 
@@ -1887,6 +2172,7 @@ function resetr(){
 	 $('#Postst').leanModal();
     $('#showAlertno').leanModal();
 	$('#Alertv').leanModal();
+	$('#managetags').leanModal();
 		 $("#login_formfoot").validationEngine();
 			$(".blurValidate").each(function(){
 				$(this).validationEngine('attach');
@@ -2027,7 +2313,33 @@ function resetr(){
 	$("#product_exp").multipleSelect({
 		selectAll: false
 	});
+	$('#add_meta_tags_th').live("keypress", function(e) {
+        if (e.keyCode == 13) {
+			addNewmetatags(this);
+			// prevent the button click from happening
+        }
+	});
+	$("#create_topic").click(function(){
+		var e=$('#add_meta_tags_th');	
+		addNewmetatags(e);
+	});
 });
+function addNewmetatags(e){
+	var name_regex = /^[a-zA-Z0-9_.()@\/ ]+$/;
+	var key=$(e);
+	keyword=$(e).val();
+	thread_id=$('#mtag_thread_id').val();
+	if (!keyword.match(name_regex) || keyword.length == 0){
+		//alert("please use alphabets only");
+	}else{
+	$.post("https://www.visacommunities.com/ajax.php",{ "action":"addNewmetatags","id":thread_id,"tagname":keyword },
+				function(data){
+				manage_tags(thread_id,'no');
+				key.val('');
+				});
+	}
+	return false; 
+}
 		<!--for drop down-->
 		function restrictOffensive(field, rules, i, options){
 	var group = $(field).val().split(' ');
@@ -2164,6 +2476,33 @@ function resetr(){
 							  });
 							});
 			$("#Alertst").click();
+		}
+		function manage_tags(id,tri){
+			$('#mtag_thread_id').val(id);
+			$.post("https://www.visacommunities.com/ajax.php",{ "action":"editmetatags","id":id },
+						function(data){ 
+						$("#tag_list_data").html(data);
+						displaymetatags(id);
+						if(tri!='no')
+							$("#managetags").click();
+				$('#add_meta_tags_th').bootcomplete({
+					url: 'https://www.visacommunities.com/ajax_topic.php?action=searchVc',
+					minLength : 2
+				});						
+						});
+			
+		}
+		function displaymetatags(id){
+			$.post("https://www.visacommunities.com/ajax.php",{ "action":"displaymetatags","id":id },
+						function(data){ 
+						$("#thread_tags").html(data);
+						});	
+		}
+		function removetag(id,tagname){
+			$.post("https://www.visacommunities.com/ajax.php",{ "action":"removemetatags","id":id,"tagname":tagname },
+			function(data){ 
+				manage_tags(id,'no');
+			});
 		}
 				function edited_question(msg){
 			$.post("https://www.visacommunities.com/ajax.php",{ "action":"edited_question","id":msg },
@@ -2419,12 +2758,13 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
 		<li><p class="southafrica" title="South Africa"></p><a href="https://www.visacommunities.com/countrythreads/SouthAfrica">South Africa</a></li>	  
 		<li><p class="spain" title="Spain"></p><a href="https://www.visacommunities.com/countrythreads/Spain">Spain</a></li>	  
 		<li><p class="india" title="India"></p><a href="https://www.visacommunities.com/countrythreads/India">India</a></li>	  
-</ul><ul>		<li><p class="uk" title="UK"></p><a href="https://www.visacommunities.com/countrythreads/UK">UK</a></li>	  
+</ul><ul>		<li><p class="cyprus" title="Cyprus"></p><a href="https://www.visacommunities.com/countrythreads/CYP">Cyprus</a></li>	  
+		<li><p class="uk" title="UK"></p><a href="https://www.visacommunities.com/countrythreads/UK">UK</a></li>	  
 		<li><p class="ireland" title="Ireland"></p><a href="https://www.visacommunities.com/countrythreads/Ireland">Ireland</a></li>	  
 		<li><p class="netherlands" title="Netherlands"></p><a href="https://www.visacommunities.com/countrythreads/Netherlands">Netherlands</a></li>	  
 		<li><p class="china" title="China"></p><a href="https://www.visacommunities.com/countrythreads/China">China</a></li>	  
-		<li><p class="philippines" title="Philippines"></p><a href="https://www.visacommunities.com/countrythreads/Philippines">Philippines</a></li>	  
-</ul>              
+</ul><ul>		<li><p class="philippines" title="Philippines"></p><a href="https://www.visacommunities.com/countrythreads/Philippines">Philippines</a></li>	  
+              
 			  <!--<ul>
 				<li><p class="australia" title="Australia"></p><a  href="https://www.visacommunities.com/countrythreads/Australia">Australia</a></li>
 			     <li><p class="canada" title="Canada"></p><a href="https://www.visacommunities.com/countrythreads/Canada">Canada</a></li>
@@ -2465,7 +2805,7 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
 			  <ul>
                                <!-- <li><a  href="#loginmodalexp"  id="modaltriggerexp">Register as an expert</a></li>-->
                                                     </ul>
-			</div><p>&nbsp;</p>
+			</ul></div><p>&nbsp;</p>
 			<div align="center" style="font-size:15px;color:#555;line-height: 18px;"> Copyright © visacommunities.com     <a style="color:#275CA7;" href="https://www.visacommunities.com/terms-conditions">Terms &amp; Conditions</a>    <a href="https://www.visacommunities.com/privacy-policy" style="color:#275CA7;">Privacy Policy</a></div>
 		  </div>
 		</div> 
@@ -2776,6 +3116,7 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
           <p class="txt_label">Choose a Password <span class="star_red">*</span></p>
           <p> <input name="pwd" id="pwd2" type="password" class="blurValidate validate[required,minSize[8]] small_input" placeholder="Password">
             
+
           </p>
         </div>
         <div class="wdth_200 float_left mrgn_left5">
@@ -2840,6 +3181,7 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
                                   <option value="25">Spain</option>
                                   <option value="26">Sweden</option>
                                   <option value="27">Others</option>
+                                  <option value="49">Cyprus</option>
                                     </select>
            
           </p>
@@ -2855,13 +3197,14 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
                                   <option value="student-visa">Student Visa Specialist</option>
                                   <option value="invest-visa">Investor Visa specialist</option>
                                   <option value="other-visa">Other Visa Specialist</option>
-                                  <option value="passports"></option>
-                                  <option value="transit"></option>
-                                  <option value="exam"></option>
-                                  <option value="dependent"></option>
-                                  <option value="life"></option>
-                                  <option value="settlement"></option>
-                                  <option value="ticketing"></option>
+                                  <option value="passports">Passports Specialist</option>
+                                  <option value="transit">Transit Specialist</option>
+                                  <option value="exam">Exam Specialist</option>
+                                  <option value="dependent">Dependent Specialist</option>
+                                  <option value="life">Life Specialist</option>
+                                  <option value="settlement">Settlement Specialist</option>
+                                  <option value="ticketing">Ticketing Specialist</option>
+                                  <option value="h1b">H1B Specialist</option>
                                     </select>
          
           </p>
@@ -3052,6 +3395,9 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
           
 			<option value="27">Others</option>	
         
+          
+			<option value="49">Cyprus</option>	
+        
          		 </select>	</span>	
 		   </p>
 		      <p class="spam_msg">
@@ -3088,6 +3434,8 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
          	<option value="settlement">Settlement</option>
 
          	<option value="ticketing">Ticketing</option>
+
+         	<option value="h1b">H1B</option>
 
          		 </select>	
 		 			</span>
@@ -3128,6 +3476,21 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
 	<div id="alertst" class="modal-alertst" style="display:none;">
     <a href="#" id="aler_cls2" class="modal_close"></a>
 	</div>
+    <a id="managetags" style="display:none;" href="#manageTags"></a>
+	<div id="manageTags" class="modal-alert" style="display:none;">
+            <div class="mv_popup_header">
+            <h2>Edit Topics</h2>
+            <h4>Visa Communities is a question and answer site for Visa </h4>
+            </div>
+            <div class="mv_popup_styles " style="overflow-y: auto;" id="tag_list_data">
+            </div>
+           <input name="" type="text" class="inpt_mvpopup form-control" id="add_meta_tags_th" placeholder="Select Topic">
+            <div class="mv_popup_fotter">
+            <input type="hidden" value="" id="mtag_thread_id">
+            <input name="" type="button" value="Done" onclick=" $(&quot;#manageTags, #lean_overlay&quot;).hide();">
+            <input name="" type="button" value="Cancel" style=" background:#666;" onclick=" $(&quot;#manageTags, #lean_overlay&quot;).hide();">
+            </div>
+    </div>
     <!--  done by me to day   ------------------- -->
     <a id="showAlert" style="display:none;" href="#alert_box"> </a> 
 	<div id="alert_box" class="modal-alert">
@@ -3278,6 +3641,41 @@ $.post("https://www.visacommunities.com/ajax.php",{ "action":"postrep1","ansid":
 <!-- add new emails-->
 <!--<script type="text/javascript" src=" https://cdnjs.cloudflare.com/ajax/libs/json2/20130526/json2.min.js"></script>
 -->
+<!-- start of modal popup for 24 hours challenge-->
+   
+        
+       
+       
+<div id="boxes">
+    <div style="top: 199.5px; left: 551.5px; display: none;" id="dialog1" class="window"> 
+       <form method="post" name="challenge_popup" id="challenge_popup" "="">
+    	<div class="modal">
+            <div class="modal__intro">
+                <a href="#" id="cbt"><img src="https://www.visacommunities.com/images/colse1.png" width="29" height="27" style="float:right"></a>
+                <img src="https://www.visacommunities.com/images/search_12.png" width="57" height="58" style="display:block; margin-left:auto; margin-right:auto;">
+                <div class="modal__intro">
+                	<h2>Didn't find what you were <br>looking for?</h2>
+                </div>
+                <div class="modal__intro"><img src="https://www.visacommunities.com/images/take1.png" width="579" height="125"> </div>
+                <div class="modal__intro" style="margin-bottom:0px !important;">
+                    <div class="modal__intro_left">
+                    	<h4>If we fail to Provide an answer in 24hrs<br> we will give you a Coupon worth</h4>
+                    </div>
+                    <div class="modal__intro_right" style="margin-bottom:0px !important;"> <img src="https://www.visacommunities.com/images/offer_d.png" width="163" height="99" style="margin-right:20px;"></div>
+                </div>
+                <div class="modal__intro"><textarea name="question" id="question" cols="" rows="" style=" " placeholder="Question" class="modal__intro-input2 validate[required] blurValidate"></textarea> </div>
+                <div class="modal__intro"> 
+                	<div class="modal__intro_int1"><input name="email" id="email" type="text" placeholder="Email ID" class="validate[required,custom[email]] blurValidate"> </div>
+                	<div class="modal__intro_int2"><input name="" type="submit" value="GO"> </div>
+                </div>
+            </div>
+        </div>
+    </form></div>
+    <div style=" font-size: 32pt; color:white; display: none; opacity: 0.8; width:100% !important; height:100% !important;" id="mask"></div>
+    
+</div>        
+    
+<!-- end of modal popup for 24 hours challenge-->
 
 <script type="text/javascript">
 
@@ -3397,7 +3795,7 @@ $("#reset").click(function () {
 	}});
 
 function resendmails(){
-		var list1= ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,".split(",");
+		var list1= ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1".split(",");
         var existAlert=false;
 		var emailStr=''
 		
@@ -3956,7 +4354,39 @@ if(atLeastOneIsChecked<=0)
 			}
 		})
 }
-
+function needImproveQus(threadid,userid){
+		var read="needImproveQus";
+		$('#need_improve_thread_'+threadid).html('Wait..');
+		var status=$('#need_improve_thread_'+threadid).attr('lang')
+		  $.ajax({ 
+							type:"post",
+							url:'https://www.visacommunities.com/ajax.php',
+							data: {tid: threadid,uid:userid,action:read,status:status},
+							success:function(result){
+								$('#need_improve_thread_'+threadid).html(result);
+								$('#need_improve_thread_'+threadid).attr('lang',result)
+							}
+		  });
+	
+}
+function needImproveAns(threadid,ans_id,userid){
+		var read="needImproveAns";
+		$('#need_improve_thread_ans_'+threadid).html('Wait..');
+		var status=$('#need_improve_thread_ans_'+threadid).attr('lang')
+		  $.ajax({ 
+							type:"post",
+							url:'https://www.visacommunities.com/ajax.php',
+							data: {tid: threadid,ans_id:ans_id,uid:userid,action:read,status:status},
+							success:function(result){
+								$('#need_improve_thread_ans_'+threadid).html(result);
+								$('#need_improve_thread_ans_'+threadid).attr('lang',result)
+							}
+		  });
+	
+}
+function openimproveans(qid){
+	$('#ans_inner_content_'+qid).toggle();
+}
 </script>
 <script type="text/javascript" src="https://www.visacommunities.com/scripts/jquery.validationEngine-en.js"></script>
 <script type="text/javascript" src="https://www.visacommunities.com/scripts/jquery.validationEngine.js"></script>
@@ -4003,8 +4433,71 @@ $(document).ready(function(){
 		);
 	});
 });
+  $(document).one('mouseleave', function(e) {
+ //$(document).mouseleave(function () {
+	
+	/* var id = '#dialog';
+	
+	//Get the screen height and width
+	var maskHeight = $(document).height("100%");
+	var maskWidth = $(window).width("100%");
 
+	//Set heigth and width to mask to fill up the whole screen
+	$('#mask').css({'width':maskWidth,'height':maskHeight});
+	
+	//transition effect		
+	$('#mask').fadeIn(500);	
+	$('#mask').fadeTo("slow",0.9);	
 
+	//Get the window height and width
+	var winH = $(window).height();
+	var winW = $(window).width();
+		  
+	//Set the popup window to center
+	$(id).css('top',  winH/2-$(id).height()/2);
+	$(id).css('left', winW/2-$(id).width()/2);
+
+	//transition effect
+	$(id).fadeIn(2000); 	
+	
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		$('#mask').hide();
+		$('.window').hide();
+	});		
+	
+	//if mask is clicked
+	$('#mask').click(function () {
+		$(this).hide();
+		$('.window').hide();
+	});	
+	
+	$('#cbt').click(function () {
+		$('#dialog').hide();
+		$('#mask').hide();
+	});	
+           */
+ });
+ 
+ $(document).ready(function(){
+    
+	$('#challenge_popup').validationEngine('attach',{ promptPosition:'topLeft',
+			onValidationComplete: function(form, status){
+				if(status){
+					if(confirm('Are you sure you want to add new security?'))
+						return true;
+					else
+						return false;
+				}
+			}
+			
+			
+		});
+	
+});
 </script>
 
 
