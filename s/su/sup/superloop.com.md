@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309223654id_/https%3A//superloop.com/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705231218id_/https%3A//superloop.com/global-privacy-policy) for the most accurate reproduction.*
 
 # Superloop » Global Privacy Policy
 
@@ -81,6 +81,6 @@ All accesses to pages on our websites are “logged”. The logged information c
 
 #### How to access and correct your personal information
 
-Your personal information can be accessed by contacting us at privacy@staging.superloop.com. We take all reasonable steps to ensure that the personal information we hold about you is accurate, complete and up-to-date. You can access and correct most of your personal information by contacting us at privacy@staging.superloop.com if you wish to access or correct personal information that we hold about you.
+Your personal information can be accessed by contacting us at privacy@staging.superloop.com. We take all reasonable steps to ensure that the personal information we hold about you is accurate, complete and up-to-date. You can access and correct most of your personal information by contacting us at privacy@superloop.com if you wish to access or correct personal information that we hold about you.
 
 If you have an enquiry regarding privacy, or you wish to raise a complaint, you can contact the Privacy Officer by email at privacy@staging.superloop.com or by telephone on 07 3088 5999 (AU) or 9101 1433 (SG). Alternatively, you can write to the Privacy Officer – Superloop at the below address: Level 17, 333 Ann Street, Brisbane, 4001.
