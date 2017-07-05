@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701183200id_/https%3A//www.bnymellon.com/us/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705185148id_/https%3A//www.bnymellon.com/us/en/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | BNY Mellon
 
