@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bazaarcart.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522004541id_/http%3A//www.bazaarcart.com/pages/Privacy-Policy/pgid-1026502.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarcart.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705223840id_/https%3A//www.bazaarcart.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – BazaarCart
+
+## **PRIVACY POLICY**
 
 **We protect your privacy.**  
 Your privacy is important to BazaarCart. We want to make you feel comfortable and secure shopping in our store. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information. By shopping at BazaarCart.com, you are accepting the practices described in this Privacy Policy. Our privacy policy is simple: any information you give us stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. Your use of BazaarCart.com means that you accept the practices described in this Privacy and Security Policy as changed from time to time.
