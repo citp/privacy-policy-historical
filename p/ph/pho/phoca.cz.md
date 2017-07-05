@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512203155id_/http%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705103000id_/https%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy
 
