@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtream-codes.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404163905id_/http%3A//xtream-codes.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtream-codes.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705063419id_/https%3A//xtream-codes.com/policy.html) for the most accurate reproduction.*
 
 # Xtream Codes Privacy Policy
 
