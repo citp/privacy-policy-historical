@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053517id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706064559id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,6 +92,6 @@ Certain personal information in your Bag Borrow or Steal account is password-pro
 We want you to enjoy your use of our Sites. If you have any questions about this privacy policy or our practices, or believe that a violation of this policy may have occurred, please let us know by contacting us at customerservice@BagBorrowOrSteal.com.
 
 Updated February 6, 2012  
-©Copyright 2006-2015 Bag Borrow or Steal, Inc. All Rights Reserved  
+©Copyright 2006-2017 Bag Borrow or Steal, Inc. All Rights Reserved  
   
 ---|---
