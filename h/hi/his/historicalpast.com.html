@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the historicalpast.com privacy policy that was archived on 2017-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170604193218id_/http%3A//historicalpast.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the historicalpast.com privacy policy that was archived on 2017-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170706151428id_/http%3A//historicalpast.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,13 +10,15 @@
   <meta property="og:title" content="Privacy Policy">
   <meta property="og:type" content="article">
   <meta property="og:url" content="http://historicalpast.com/privacy-policy">
-  <meta property="fb:app_id" content="">
-  <meta property="og:image" content="">
+    <meta property="og:image" content="">
   <link rel="canonical" href="http://historicalpast.com/privacy-policy">
+
+  <link rel="alternate" type="application/rss+xml" title="Historical Past" href="/feed">
 
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
   <link href="http://cdn.historicalpast.com/assets/css/bs17/bootstrap_slick.min.css" rel="stylesheet">
+  <script src="http://cdn.historicalpast.com/assets/js/bs22/jq_bootstrap.min.js"></script>
 
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 <link href="http://cdn.historicalpast.com/assets/css/ionicons.min.css" rel="stylesheet" type="text/css">
@@ -432,18 +434,6 @@ body {margin-top:40px}
 #logo-footer { display:none}
   </style>
 
-  <script async="" src="//webstruckpixel-721044593.us-east-1.elb.amazonaws.com/track.js"></script><script type="text/javascript">
-  function getCookie(name)
-  { var value = new RegExp(name + "=([^;]+)").exec(document.cookie); return (value != null) ? unescape(value[1]) : ''; }
-
-  var boost_id = getCookie('utm_boost_id');
-  var content_id = getCookie('utm_content_id');
-  var widget_id = getCookie('utm_widget_id');
-  var targeting = getCookie('utm_targeting');
-  var sub_id = getCookie('utm_subid');
-  var campaign_id = getCookie('utm_campaign');
-  </script>
-
 </head>
 <body>
 <div id="fb-root"></div>
@@ -494,19 +484,18 @@ body {margin-top:40px}
 <ul class="nav navbar-nav bottom_menu"><li><a href="/about-us">About</a></li><li><a href="/terms-of-service">Terms of Service</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/dmca-policy">DMCA Notice</a></li><li><a href="mailto:support@historicalpast.com">Contact Us</a></li></ul>
 <div id="footer-widget-wrapper" align="center">
 
-<div id="logo-footer"><a href="/"><img src="http://cdn.historicalpast.com/images/1aecf54f41aeb6798988e11a7db68e9d.png" alt="Historical Past" class="img-responsive"></a></div><div id="copyright"><p>Copyright © 2016 Historical Past</p></div>
+<div id="logo-footer"><a href="/"><img src="http://cdn.historicalpast.com/images/1aecf54f41aeb6798988e11a7db68e9d.png" alt="Historical Past" class="img-responsive"></a></div><div id="copyright"><p>Copyright © 2017 Historical Past</p></div>
 </div>
 </footer>
 
 
 <a href="#" class="back-to-top">↑</a>
 
-<script src="http://cdn.historicalpast.com/assets/js/bs17/jq_bootstrap.min.js"></script>
 
 <script>
 var jita_tg_params = {};
-jita_tg_params['campaign'] = campaign_id;
-jita_tg_params['sub_id'] = sub_id;
+jita_tg_params['campaign'] = Cookies.get('utm_campaign') || '';
+jita_tg_params['sub_id'] = Cookies.get('utm_subid') || '';
 (function(d, s) {
   var rtk_load = '';
   $("[id^=RTK_]").each(function() {
@@ -514,7 +503,7 @@ jita_tg_params['sub_id'] = sub_id;
   });
   if(rtk_load != '') {
     var js, fjs = d.getElementsByTagName(s)[0]; js = d.createElement(s); js.async=1;
-    js.src = "//thor.rtk.io/ztoG/"+rtk_load+"/jita.js?dfp=1&ver=4.4.2";
+    js.src = "//thor.rtk.io/ztoG/"+rtk_load+"/jita.js?ver=4.4.2";
     fjs.parentNode.insertBefore(js, fjs);
   }
 }(document, 'script'));
@@ -588,11 +577,11 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-81909860-1', 'auto');
-ga('set', 'dimension1', boost_id);
-ga('set', 'dimension2', content_id);
-ga('set', 'dimension3', widget_id);
-ga('set', 'dimension4', targeting);
-ga('set', 'dimension5', sub_id);
+ga('set', 'dimension1', Cookies.get('utm_boost_id') || '');
+ga('set', 'dimension2', Cookies.get('utm_content_id') || '');
+ga('set', 'dimension3', Cookies.get('utm_widget_id') || '');
+ga('set', 'dimension4', Cookies.get('utm_targeting') || '');
+ga('set', 'dimension5', Cookies.get('utm_subid') || '');
 ga('send', 'pageview');
 
 (function(d, s, id) {
@@ -627,70 +616,9 @@ function sharePopup(url) {
 }
 </script>
 
-<script>
-(function(d, s) {
-  var js, fjs = d.getElementsByTagName(s)[0]; js = d.createElement(s); js.async=1;
-  js.src = "//webstruckpixel-721044593.us-east-1.elb.amazonaws.com/track.js"; fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script'));
-</script>
-<img src="//trc.taboola.com/taboolaaccount-robmorganoyahoocom/log/3/action?name=page_view&amp;item-url={encoded_page_url}" width="0" height="0">
 
-<script>
-/*function adBlockDetected() {
-ga('send', 'event', 'adBlockDetectedVisit', 'desktop');
-}
-if(typeof fuckAdBlock === 'undefined') {
-    adBlockDetected();
-} else {
-    fuckAdBlock.onDetected(adBlockDetected);
-}
-fuckAdBlock.setOption({
-    debug: false,
-    checkOnLoad: true,
-    resetOnEnd: false
-});*/
-</script>
 
-<script>
-var $scrollToTop = $('.back-to-top');
-toggleVisibility($scrollToTop);
 
-$scrollToTop.on('click', function (e) {
-    e.preventDefault();
-
-    var multipier = 200;
-    var durationRange = {
-        min: 200,
-        max: 1000
-    };
-
-    var winHeight = $(window).height();
-    var docHeight = $(document).height();
-    var proportion = Math.floor(docHeight / winHeight);
-    var duration = proportion * multipier;
-
-    if (duration < durationRange.min) duration = durationRange.min;
-    if (duration > durationRange.max) duration = durationRange.max;
-
-    $('html, body').animate({
-        scrollTop: 0
-    }, duration);
-});
-
-$(window).scroll(function() {
-    window.requestAnimationFrame(function () {
-        toggleVisibility($scrollToTop);
-    });
-});
-
-function toggleVisibility ($scrollToTop) {
-  if ($(window).scrollTop() > 240) {
-    $scrollToTop.addClass('back-to-top-on').removeClass('back-to-top-off');
-  } else {
-    $scrollToTop.addClass('back-to-top-off').removeClass('back-to-top-on');
-  }
-}
-</script>
 
 
 </body></html>
