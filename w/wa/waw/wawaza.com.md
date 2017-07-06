@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163554id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706204357id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # WAWAZA | Privacy Policy
 
