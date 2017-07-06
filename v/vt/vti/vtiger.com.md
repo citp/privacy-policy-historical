@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128190829id_/https%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706221309id_/https%3A//www.vtiger.com/policy-legal-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vtiger CRM
 
@@ -44,10 +44,10 @@ When you register for Vtiger CRM On Demand, or download and install our software
 ### **Stored Information**
 
   * **Your personal Information** such as your user name, password, email address will be used primarily for providing you access to the Vtiger CRM On Demand service. We will also use your name, and email address to communicate changes, events related to the Vtiger CRM On Demand service. We post user testimonials on our website. These testimonials may include names and other Personal Information and we acquire permission from our users prior to posting these on our website. Vtiger is not responsible for the personal Information users elect to post within their testimonials. Vtiger will promptly delete any information on the testimonial upon request.
-  * **3rd party Information:** While using the Vtiger CRM On Demand service, you will be entering details of your clients, such as Contacts and Accounts, uploading documents..etc. None of this information is used by Vtiger CRM On Demand service for any purpose other than fulfilling the functions requested by you.
+  * **3rd party Information:** While using the Vtiger CRM On Demand service, you will be entering details of your clients, such as Contacts and Accounts, uploading documents..etc. This information may be used in an anonymized fashion, privately and solely by Vtiger to improve our products and services, such as for the development and training of machine-learning based algorithms.
   * **Usage Details:** Your usage details such as time, frequency, duration, pattern of use, features used and the amount of storage used might be recorded by us and used to improve the Vtiger CRM On Demand service.
   * **Financial Information:** In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your financial information will not be stored by us except for the name, address of the cardholder, expiry date and the last four digits of the Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.
-  * **Visitor Details:** We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor's movements and to improve our website. We link this automatically-collected data to other information we collect about you.
+  * **Visitor Details:** We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor’s movements and to improve our website. We link this automatically-collected data to other information we collect about you.
 
 
 
@@ -64,7 +64,7 @@ We use temporary and permanent cookies to enhance your experience of our Vtiger 
 
 ### **Use of Web beacons**
 
-Web beacons are 1x1 clear images that are embedded onto a web page or an email to document traffic and for website analytics without collecting any Personal Information. To provide the service, we may from time to time employ the use of web beacons on the website and in emails.
+Web beacons are 1×1 clear images that are embedded onto a web page or an email to document traffic and for website analytics without collecting any Personal Information. To provide the service, we may from time to time employ the use of web beacons on the website and in emails.
 
 ### **3rd Party Analytics Services**
 
@@ -108,9 +108,9 @@ We provide users with access to their Personal Information. Users may correct, u
 
 We may need to provide access to your Personal Information and the contents of your user account to our employees and service providers for the purpose of investigating any suspected illegal activity or potential violation of the terms and conditions for use of Vtiger CRM On Demand Services. However, Vtiger will ensure that such access is in compliance with this Privacy Policy Statement and subject to appropriate confidentiality and security measures.
 
-### **Children's Privacy**
+### **Children’s Privacy**
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### **Enforcement of Privacy Policy**
 
@@ -128,7 +128,7 @@ Vtiger also supports third-party widgets on the website that allow users to shar
 
 ### **Terms and Conditions**
 
-Please refer to our latest [terms of service](https://www.vtiger.com/terms-of-service/) to learn about the disclaimers and limitations of liability governing the use of Vtiger.
+Please refer to our latest [terms of service](https://www.vtiger.com/policy-legal-center/terms-of-service/) to learn about the disclaimers and limitations of liability governing the use of Vtiger.
 
 ### **End of Privacy Policy**
 
