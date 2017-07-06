@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalcams.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502025432id_/http%3A//www.personalcams.com/2015/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcams.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706214455id_/http%3A//www.personalcams.com/2015/privacy.php) for the most accurate reproduction.*
 
 # Personalcams Customer Support
 
