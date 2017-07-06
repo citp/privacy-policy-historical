@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kde-look.org privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301005100id_/https%3A//store.kde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kde-look.org privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706025111id_/https%3A//store.kde.org/privacy) for the most accurate reproduction.*
 
 # store.kde.org
 
@@ -74,8 +74,6 @@ We will use the personal information you provide to:
 
 
 
-Maker never receive supporters' credit card information.
-
 ### Email
 
 We want to communicate with you only if you want to hear from us. We try to keep emails to a minimum and give you the ability to opt out when we can.
@@ -101,8 +99,6 @@ Most web browsers automatically accept cookies but, if you prefer, you can chang
 ### Voluntary Disclosure
 
 Any personal information or content that you voluntarily disclose in public areas of the Site becomes publicly available and can be collected and used by other users. You should exercise caution before disclosing your personal information through these public venues.
-
-Maker never receive supporters' credit card information.
 
 ### Wrap-up
 
