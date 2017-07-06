@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814195955id_/https%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktime.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706180139id_/https%3A//www.clicktime.com/policy/privacy) for the most accurate reproduction.*
 
 # Time & Expense Tracking Software | Privacy | ClickTime Web Timesheet
 
 ## ClickTime Web Timesheet is committed to your privacy
 
-The developers of ClickTime have created this privacy statement in order to demonstrate our firm commitment to the protection of your privacy. The following discloses our information gathering and dissemination practices. Clicktime.com adheres to the Safe Harbor principles developed by the United States and the European Union (EU), described in our [Safe Harbor Notice.](https://web.archive.org/policy/safe-harbor)
+The developers of ClickTime have created this privacy statement in order to demonstrate our firm commitment to the protection of your privacy. The following discloses our information gathering and dissemination practices.
 
 For the purpose of this Privacy Policy, "ClickTime" refers to Clicktime.com, Inc. and its authorized distributors and affiliates worldwide. This Privacy Policy addresses the two kinds of information that ClickTime handles: personal data created by customers accessing our public-facing sales and marketing site ("Marketing Usage") and personal data provided to ClickTime through the use of our software products by users ("Application Usage"). 
 
-## Registration
+## Free Trial, Registration & Content Downloads
 
-**Marketing Usage:** Our site's registration form requires you to give us contact information (like your name, email address, address, company name, etc.). We use your contact information from the registration form to: 
+**Marketing Usage:** Our site's registration and marketing forms require you to give us contact information (like your name, email address, address, company name, etc.). We use your contact information from the registration form to: 
 
   1. Send you information so that you may access demo accounts and set up a ClickTime account.
   2. Contact you when necessary, such as to notify you of an expired account or for customer service.
-  3. Create invoices for ClickTime usage.
+  3. Provide additional information about ClickTime's services, partners, promotions, and events, via email, postal mail, or phone.
+  4. Create invoices for ClickTime usage.
 
 
 
@@ -56,6 +57,18 @@ The data collected on traffic patterns and your behavior is aggregate informatio
 
 By using the ClickTime service, you grant ClickTime the right to list your "company" or "entity" name among on our customer list, which may appear in our marketing materials. Individuals will not be listed, nor will we will list any specific information about your account. You may request to be removed from this list at any time. In addition, we may ask for your permission to list your name and a statement about ClickTime among our customer testimonials. If you grant us this permission, your name and comment will appear among other customer testimonials. 
 
+## Privacy Shield - for EU Customers
+
+ClickTime complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. ClickTime has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, ClickTime commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact ClickTime at: [privacy@clicktime.com](mailto:privacy@clicktime.com). ClickTime has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+**U.S. Federal Trade Commission enforcement:** ClickTime's commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+**Inquiries and complaints:** If you believe ClickTime maintains your personal data in one of the services within the scope of our Privacy Shield certification, you may direct any inquiries or complaints concerning our Privacy Shield compliance to privacy@clicktime.com. ClickTime will respond within 45 days. If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS, which provides an independent third-party dispute resolution body based in the United States, [here](https://www.jamsadr.com/eu-us-privacy-shield). JAMS has committed to respond to complaints and to provide appropriate recourse at no cost to you. If neither ClickTime nor TRUSTe resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+
+**Third parties who may receive personal data:** ClickTime uses a limited number of third-party service providers to assist us in providing our services to customers. These third party providers offer customer support to our customers, perform database monitoring and other technical operations, assist with the transmission of data, and provide data storage services. These third parties may access, process, or store personal data in the course of providing their services. ClickTime maintains contracts with these third parties restricting their access, use and disclosure of personal data in compliance with our Privacy Shield obligations, and ClickTime may be liable if they fail to meet those obligations and we are responsible for the event giving rise to the damage.
+
 ## Correct/Update
 
 Contact [info@clicktime.com](mailto:%20info@clicktime.com) to change and modify any information you previously provided in the registration or on the sign-up page. 
@@ -66,4 +79,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 ## Amendments
 
-Any changes to this policy will be posted at this URL and will be effective when posted. Please check back periodically if you have any concerns about changes made to our Privacy Policy. _Revised: February 14, 2011_
+Any changes to this policy will be posted at this URL and will be effective when posted. Please check back periodically if you have any concerns about changes made to our Privacy Policy. _Revised: October 4, 2016_
