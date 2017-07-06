@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123222526id_/https%3A//www.giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706200113id_/https%3A//www.giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | giffgaff.com
 
@@ -95,7 +95,7 @@ x. Inform you of any products and Services offered by other companies that we th
 
 xi. Disclose your personal information or usage of our services to certain third parties. See Disclosure of Your Information;
 
-xii. Debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention;
+xii. Assessing credit risk, assessing the provision of loans, debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention;
 
 xiii. Aggregate information about you, your spending and your use of the Services with information about other users of the Services in order to identify trends ("Aggregated Data"). We may pass Aggregated Data to third parties, such as advertisers, content providers and business partners or prospective business partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.
 
