@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tokyo2020.jp privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204171444id_/https%3A//tokyo2020.jp/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyo2020.jp privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706210926id_/https%3A//tokyo2020.jp/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tokyo Organising Committee of the Olympic and Paralympic Games
 
-The Tokyo Organising Committee of the Olympic and Paralympic Games ("Tokyo 2020") will comply with the Act on the Protection of Personal Information (the "Personal Information Protection Act") and endeavor to protect personal information pursuant to this Policy. 
+The Tokyo Organising Committee of the Olympic and Paralympic Games ("Tokyo 2020") will comply with the Act on the Protection of Personal Information (the "Personal Information Protection Act") and endeavor to protect personal information pursuant to this Policy.
 
 ### 1\. Acquisition and use of personal information
 
@@ -33,7 +33,7 @@ The Tokyo Organising Committee of the Olympic and Paralympic Games
 
 ## Handling of Personal Information
 
-The Tokyo Organising Committee of the Olympic and Paralympic Games ("Tokyo 2020") hereby acknowledges the importance of protecting personal information, and will appropriately handle all personal information provided to Tokyo 2020 pursuant to the following provisions. 
+The Tokyo Organising Committee of the Olympic and Paralympic Games ("Tokyo 2020") hereby acknowledges the importance of protecting personal information, and will appropriately handle all personal information provided to Tokyo 2020 pursuant to the following provisions.
 
 ### 1\. Purposes of use of personal information
 
@@ -52,9 +52,9 @@ Tokyo 2020 may use personal information for the following purposes of use:
 
 
 
-### 2\. Provision of personal information to third parties, etc.
+### 2\. Provision of personal information to third parties, etc. 
 
-(1)Although Tokyo 2020 may provide personal information to the International Olympic Committee, the International Paralympic Committee, the Japanese Olympic Committee, the Japanese Paralympic Committee or the Tokyo Metropolitan Government after obtaining the consent of the person to whom the personal information pertains, Tokyo 2020 will not provide personal information to any third party without the consent of the person to whom the personal information pertains; provided, however, that personal information may be provided without the prior consent of such person in the following cases, to the extent it does not violate any relevant laws or regulations: 
+(1)Although Tokyo 2020 may provide personal information to the International Olympic Committee, the International Paralympic Committee, the Japanese Olympic Committee, the Japanese Paralympic Committee or the Tokyo Metropolitan Government after obtaining the consent of the person to whom the personal information pertains, Tokyo 2020 will not provide personal information to any third party without the consent of the person to whom the personal information pertains; provided, however, that personal information may be provided without the prior consent of such person in the following cases, to the extent it does not violate any relevant laws or regulations:
 
   1. (ⅰ)Cases based on laws and regulations;
   2. (ⅱ)Cases in which it is necessary for the protection of the life, body or property of an individual and when it is difficult to obtain the consent of the person to whom the personal information pertains;
@@ -66,7 +66,7 @@ Tokyo 2020 may use personal information for the following purposes of use:
 
 
 
-(2)There may be instances where Tokyo 2020 will store and manage various types of information including personal information on overseas servers for reasons for the preparation and operation of the Games. 
+(2)There may be instances where Tokyo 2020 will store and manage various types of information including personal information on overseas servers for reasons for the preparation and operation of the Games.
 
 ### 3\. Joint use of personal information
 
@@ -89,13 +89,13 @@ If you wish for the disclosure, notice of the purpose of use, correction, additi
 
 
 
-Please note that in cases in which a large sum of money is required to discontinue the use of, eliminate or discontinue the provision to a third party of the personal information (the "Discontinuance of Use, etc.") or in cases in which other Discontinuance of Use, etc. of personal information is difficult, and when necessary alternative measures to protect the rights and interests of the person to whom the personal information pertains, the Discontinuance of Use, etc. of personal information may not be complied with. 
+Please note that in cases in which a large sum of money is required to discontinue the use of, eliminate or discontinue the provision to a third party of the personal information (the "Discontinuance of Use, etc.") or in cases in which other Discontinuance of Use, etc. of personal information is difficult, and when necessary alternative measures to protect the rights and interests of the person to whom the personal information pertains, the Discontinuance of Use, etc. of personal information may not be complied with.
 
 ### 5\. Enquiries
 
 For enquiries regarding the use of personal information by Tokyo 2020, please contact the below enquiry desk:
 
-### Tokyo 2020 Enquiry Desk
+#### Tokyo 2020 Enquiry Desk
 
 Tel: 0570-09-2020 (Domestic calls only. Charges apply.)  
-Business hours: 9:00 a.m. – 5:00 p.m. weekdays, excluding weekends, public holidays and year-end and New Year holidays.
+Business hours: 9:00 a.m. – 5:00 p.m. weekdays, excluding weekends, public holidays and year-end and New Year holidays. 
