@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621160603id_/http%3A//www.arcteryx.com/Privacy.aspx%3Fcountry%3Dus%26language%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706183951id_/https%3A//arcteryx.com/Privacy.aspx%3Fcountry%3Dus%26language%3Den) for the most accurate reproduction.*
 
 # Privacy Policy / Arc'teryx
 
