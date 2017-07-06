@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317103305id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707002354id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-This Privacy Policy was last modified on 31st of March, 2015.
+This Privacy Policy was last modified on 22nd of June, 2017.
 
 Wired Software Ltd ("us", "we", or "our") operates [StreetCheck](https://web.archive.org/) (the "Site", "www.StreetCheck.co.uk"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. 
 
@@ -33,6 +33,10 @@ Our Site may contain links to other sites that are not operated by us. If you cl
 We may on occasion display affiliate links to other websites. Should you click on these links, and subsequently purchase the product (for instance a broadband package), StreetCheck will receive a payment from that website for referring you. We will only create these links where we believe that the product is truly one that our customers would want, and we use this money to run the website. 
 
 Wired Software Ltd has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services. 
+
+## Data Controller
+
+StreetCheck is a trading name of Wired Software Ltd, which is a data controller registered with the Information Commissioner's Office. The registration number is [ZA260603](https://ico.org.uk/ESDWebPages/Entry/ZA260603). 
 
 ## Changes To This Privacy Policy
 
