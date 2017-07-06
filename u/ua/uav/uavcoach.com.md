@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517091905id_/http%3A//uavcoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707004919id_/https%3A//uavcoach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UAV Coach
 
