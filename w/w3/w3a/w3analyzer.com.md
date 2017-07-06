@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3analyzer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043624id_/http%3A//w3analyzer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3analyzer.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706120319id_/http%3A//w3analyzer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - W3Analyzer
 
