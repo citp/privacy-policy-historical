@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121150200id_/https%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706083246id_/https%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
 
-# Privacy | The Prize Finder
+# Competitions at ThePrizeFinder - Thousands of prizes listed
 
 ThePrizeFinder.com is owned by Data Locator Group Ltd (DLG), a subsidiary of DM plc. Registered in England and Company No. 06742075. Registered Office: Green Heys, Walford Road, Ross on Wye, HR9 5DB.
 
@@ -66,7 +66,7 @@ We may disclose your personal information to third parties:
 
 ### Other DLG Brands & Clients
 
-The following brands collecting consumer data are also DLG's: [www.theprizefinder.com](http://www.theprizefinder.com/ "www.theprizefinder.com"), [www.Surveys.co.uk](http://www.surveys.co.uk/ "www.Surveys.co.uk"), Consumer Lifestyles, The Schools Register and A-Mail.
+The following brands collecting consumer data are also DLG's: [www.theprizefinder.com](http://www.theprizefinder.com/), [www.Surveys.co.uk](http://www.surveys.co.uk/), Consumer Lifestyles, The Schools Register and A-Mail.
 
 The following clients collecting consumer data are, PDV Ltd, DM Plc, Accolade Publishing Ltd, Royal National Institute of Blind People, AXA Sun Life Direct Limited, Promis Life is a trading name of Global Life Distribution (UK) Ltd, Boiler Plan UK Limited, Lotto By Text a trading name of Bitstacker Ltd, Help-Link UK Limited, Virgin Media Limited.
 
