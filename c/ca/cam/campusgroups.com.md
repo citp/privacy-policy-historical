@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519233205id_/http%3A//www.campusgroups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706151550id_/https%3A//www.campusgroups.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | CampusGroups
+# Privacy Statement - CampusGroups
 
 ## Privacy policy
 
@@ -72,7 +72,7 @@ It is possible that we may need to disclose personal information when required b
 
 ### Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your CampusGroups account, at any time by logging in to your account on the CampusGroups website and editing the information on your Profile page. You can also close your account through the CampusGroups website. If you close your CampusGroups account, we will remove your name and other personally identifiable information from our database. To request that we close your account and remove your information please send your request to [Customer Service](http://www.campusgroups.com/product/contact-us/). Please send your request using an email account that you have registered with CampusGroups under your name. You will receive a response to requests sent to [Customer Service](http://www.campusgroups.com/product/contact-us/)[](mailto:customer_service@CampusGroups.com) within three business days of our receiving it.
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your CampusGroups account, at any time by logging in to your account on the CampusGroups website and editing the information on your Profile page. You can also close your account through the CampusGroups website. If you close your CampusGroups account, we will remove your name and other personally identifiable information from our database. To request that we close your account and remove your information please send your request to [Customer Service](https://www.campusgroups.com/product/contact-us/). Please send your request using an email account that you have registered with CampusGroups under your name. You will receive a response to requests sent to [Customer Service](https://www.campusgroups.com/product/contact-us/)[](mailto:customer_service@CampusGroups.com) within three business days of our receiving it.
 
 ### Security
 
@@ -111,7 +111,7 @@ CampusGroups may update this privacy policy. In the event there are significant 
 ### Questions or Comments
 
 If you have questions or comments about this privacy policy,   
-please email us at [Customer Service](http://www.campusgroups.com/product/contact-us/) or contact us at:
+please email us at [Customer Service](https://www.campusgroups.com/product/contact-us/) or contact us at:
 
 Novalsys Inc  
 902 Broadway, 6th Floor  
