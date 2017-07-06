@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111204519id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706103527id_/https%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Free source code, tutorials and articles
 
@@ -10,7 +10,7 @@ Sourcecodester.com employs the services of Feedburner for the sourcecodester.com
 
 Feedburner and Sourcecodester.com agree not to sell or rent the email addresses of any Sourcecodester.com Newsletter subscriber to any third party.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.sourcecodester.com/contact).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.sourcecodester.com/contact).
 
 Public Forums
 
@@ -22,4 +22,4 @@ This site gives users the following options for removing their information from 
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact me by sending an email at the [contact](http://www.sourcecodester.com/contact) page.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact me by sending an email at the [contact](https://www.sourcecodester.com/contact) page.
