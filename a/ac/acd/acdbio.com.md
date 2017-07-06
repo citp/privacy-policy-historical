@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821023132id_/https%3A//acdbio.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdbio.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706161926id_/https%3A//acdbio.com/store/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
