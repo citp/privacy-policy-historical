@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150535id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpaws.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706222453id_/https%3A//www.allpaws.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllPaws
 
-Version Date: 2/27/2015
+Version Date: 3/17/2016
 
 Your privacy is important to us. This Privacy Policy sets forth how DCL Ventures, Inc., the owner and operator of the Allpaws.com website (hereinafter “Allpaws.com,” “we,” or “us”) will collect, use and share information in connection with your use of the Allpaws.com website and mobile application (the “Service”).
 
@@ -72,7 +72,7 @@ We may use the information you provide to us, and information we collect about y
 
 ## E. To Share With Our Business Partners 
 
-We may communicate to you information or special offers from other companies or organizations with whom we have a business relationship. In such cases, we do not provide your Personal Information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship. With your consent, we may share your Personal Information with other companies or organizations that are not part of AllPaws.com. These companies and organizations may use the information we share to provide special offers and opportunities to you. For example, if you choose to receive additional information about "pet insurance" on the sign-up confirmation page, we may share your information (including Personal Information) with a business partner who may send you offers for pet insurance. You will have the opportunity to unsubscribe from any subsequent e-mail offers by following the instructions on such e-mails. 
+We may send you information or special offers from other companies or organizations with whom we have a business relationship. In such cases, we do not provide your Personal Information to them and they will not know your identity unless you choose to transact with them, in which case their privacy policies will govern your relationship. With your consent, we may share your Personal Information (including information about your pet) with other companies or organizations that are not part of AllPaws.com. These companies and organizations may use the information we share to provide special offers and opportunities to you. For example, if you choose to receive additional information about "pet insurance" on the sign-up confirmation/welcome page, we may share your information (including Personal Information) with a business partner who may send you offers for pet insurance. In addition, we may share your information (including Personal Information and information about your pet) with our trusted partners to jointly provide you with special offers and information when you adopt a pet through our Service. You will have the opportunity to unsubscribe from any subsequent e-mail offers by following the instructions on such e-mails and you can change your sharing preferences on your account page. 
 
 ## F. Legal Matters; Safety
 
