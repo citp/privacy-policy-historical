@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellamey.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603043538id_/http%3A//www.ellamey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellamey.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706030425id_/http%3A//www.ellamey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellamey.Com Wallpapers
 
