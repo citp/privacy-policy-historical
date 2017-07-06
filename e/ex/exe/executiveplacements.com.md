@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211184759id_/http%3A//executiveplacements.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveplacements.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706051807id_/https%3A//executiveplacements.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Executive Placements - Privacy Policy
 
@@ -61,16 +61,16 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executiveplacements.com/disclaimer.php](https://web.archive.org/web/20161211184759id_/http%3A//executiveplacements.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executiveplacements.com/disclaimer.php](https://web.archive.org/web/20170706051807id_/https%3A//executiveplacements.com/disclaimer.php)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.executiveplacements.com/). Executiveplacements.com is owned by Locker Leisure Limited located at 923 Finchley Road, London, NW11 7PE.
+By using our site, you consent to our [websites privacy policy](https://www.executiveplacements.com/). Executiveplacements.com is owned by Locker Leisure Limited located at 923 Finchley Road, London, NW11 7PE.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-http://www.executiveplacements.com
+https://www.executiveplacements.com
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
