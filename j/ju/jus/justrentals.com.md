@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173537id_/http%3A//www.justrentals.com/information/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrentals.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706161445id_/https%3A//www.justproperty.com/en/information/policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement - JustRentals.com
+# Privacy Policy Statement | Justproperty.Com | JustProperty.com
 
-  * [__Home](https://web.archive.org/)
-  * [__UAE Rentals](https://web.archive.org/search/)
-  * [__Rental Index](https://web.archive.org/price-index/)
-  * [__Open House](https://web.archive.org/search/openhouse/?date=4)
-  * [__Know Your Agent](https://web.archive.org/agents/)
-  * [__Dubai Metro](https://web.archive.org/dubai-metro/)
-  * [__Buy Property](http://www.justproperty.com/)
+[](https://www.justproperty.com/)
 
+Alert 
 
+Map View 
 
-[](http://justrentals.com/)
+List View 
 
-Reset Search __More Options __
+Shortlist (0) 
 
-### Privacy Policy Statement
+__Clear
 
-**JRD Group JLT - Website Privacy Policy**
+__Advanced Search
 
-This Privacy Policy (the “ **Policy** ”) sets out the basis on which **JRD Group JLT** collects, uses and discloses personal information obtained from you when using [www.justrentals.com](http://www.justrentals.com/), [www.propspace.com](http://www.propspace.com/), [www.justproperty.com](http://www.justproperty.com/) and/or [www.jrdgroup.com](http://www.jrdgroup.com/) (the “ **Website(s)** ”).
+**JRD Group DMCC  \- Website Privacy Policy for all websites owned and operated by JRD Group DMCC. Updated: 15th August 2016**
 
-By visiting the Website(s) and/or by using any services provided via the Website(s) from the United Arab Emirates, you expressly agree to be bound by the terms of this Policy and you consent to our collection, use and disclosure of your information in accordance with the terms of this Policy. We may amend this Policy at any time without notice. If you do not agree to the Policy (including any amendments), then you should immediately cease using the Website.
+This Privacy Policy (the “ **Policy** ”) sets out the basis on which **JRD Group DMCC**  collects, uses and discloses personal information obtained from you when using [www.justrentals.com](http://www.justrentals.com/), [www.propspace.com](http://www.propspace.com/), [www.justproperty.com](http://www.justproperty.com/) and/or [www.jrdgroup.com](http://www.jrdgroup.com/) (the “ **Website(s)** ”).
+
+By visiting the Website(s) and/or by using any services provided via the Website(s), you expressly agree to be bound by the terms of this Policy and you consent to our collection, use and disclosure of your information in accordance with the terms of this Policy. We may amend this Policy at any time without notice. If you do not agree to the Policy (including any amendments), then you should immediately cease using the Website.
 
 **Your Information**
 
@@ -35,7 +33,7 @@ The type of information we collect from you is either personal to you, or is gen
 
 **Collecting and Using Information**
 
-Most of this Website can be used without giving us any information. However, certain services may involve collection of information from you. We use this information to provide you with a better service, and in particular to: keep internal records; improve our products, services and this Website; communicate with you if you have ordered or purchased products from us; contact you for market research purposes; and provide you with information about new products, promotions, special offers and other information.
+Most of this Website can be used without giving us any information. However, certain services may involve collection of information from you. We use this information to provide you with a better service, and in particular to: keep internal records; improve our products, services and the Websites; communicate with you if you have ordered or purchased products from us; contact you for market research purposes; and provide you with information about new products, promotions, special offers and other information.
 
 We use Personal Information for a range of business-related purposes, including: account registration (eg. your name, telephone number and email address); billing information, transaction and credit card information (should you make a purchase with us); and information regarding your interests, demographics, experiences and contact preferences in order to provide you with further correspondence about our products and services. If you contact us via the Website, or via email to the contacts set out on the Website, we may keep a record of that correspondence.
 
@@ -43,7 +41,7 @@ We use General Information to help us make the Website more useful to visitors (
 
 **Disclosure of Personal Information**
 
-You agree that we may share your Personal Information within the JRD Group of companies. We may provide your Personal Information in any manner to any third parties outside the JRD Group of Companies for marketing purposes; or if required to do so by law or any governing authority; or to protect our own legitimate interests.
+You agree that we may share your Personal Information within the JRD Group of companies. We may provide your Personal Information in any manner to any third parties outside the JRD Group of Companies for marketing or third party promotion purposes; or if required to do so by law or any governing authority; or to protect our own legitimate interests.
 
 **Security**
 
@@ -62,11 +60,3 @@ This Policy, as well as your access to the Website, is subject to and governed b
 If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly.
 
 [contact@jrdgroup.com](mailto:contact@jrdgroup.com)
-
-Create Account
-
-Create a free account to manage your properties and search results
-
-By clicking Create Account you confirm that you agree to JustRentals [terms of use](https://web.archive.org/information/terms/), our [privacy policy](https://web.archive.org/information/policy/) and approval to store [cookies](https://web.archive.org/information/policy/#cookies) on your computer.
-
-JustRentals.com is moving! We've joined forces with JustProperty.com to bring you the nation's largest collection of reliable sales and rentals listings. [Go to JustProperty.com](https://justproperty.com/)
