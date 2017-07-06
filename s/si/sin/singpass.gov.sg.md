@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singpass.gov.sg privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111180823id_/https%3A//www.singpass.gov.sg/singpass/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpass.gov.sg privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706144718id_/https%3A//www.singpass.gov.sg/singpass/common/privacy) for the most accurate reproduction.*
 
 # SingPass - Privacy Statement
 
