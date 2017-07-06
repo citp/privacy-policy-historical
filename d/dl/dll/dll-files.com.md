@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313095650id_/https%3A//www.dll-files.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706120141id_/https%3A//www.dll-files.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - DLL-files.com
 
@@ -29,10 +29,10 @@ We collect e-mail addresses whenever you purchase a service or product from us. 
 
 Additional information, such as physical address, telephone number etc. that is supplied during purchases or registrations on our site will only be used for internal purposes, in order to fulfill intended commitments (such as product delivery, support contact). It is collected by our Payment Services Provider but will not be distributed to other third parties.
 
-Other non-personally identifiable information may be collected in aggregate form through service interactions, such as using our DLL-Files Fixer software. This includes information such as which .DLL files are accessed from our servers and from where. Users are able to voluntarily supply this information along with the success rate of such installations. This information is used for statistical purposes in aggregate form, to evaluate the functionality of our service, and is not used in any way to identify individual users.
+Other non-personally identifiable information may be collected in aggregate form through service interactions, such as using our DLL-Files Fixer and DLL-Files.com Client software. This includes information such as which .DLL files are accessed from our servers and from where. Users are able to voluntarily supply this information along with the success rate of such installations. This information is used for statistical purposes in aggregate form, to evaluate the functionality of our service, and is not used in any way to identify individual users.
 
 We retain the right to update this Privacy notice at any time without prior notification. If our information practices change at some time in the future we will only use data collected from the time of the policy change forward for any new purposes.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected. If so, [contact us](https://dllfilescom.zendesk.com/) to let us know.
 
-As a company located in Sweden we are regulated under Swedish law and guidelines set by the EU. Complaints about our use of personal information and this policy can be made with the Swedish Data Inspection Board.
+As a company located in Sweden we are regulated under Swedish law and guidelines set by the EU. Complaints about our use of personal information and this policy can be made with the [Swedish Data Protection Authority.](http://www.datainspektionen.se/in-english/)
