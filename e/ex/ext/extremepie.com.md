@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316223232id_/https%3A//www.extremepie.com/en-UK/legal/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremepie.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706232033id_/https%3A//www.extremepie.com/en-UK/legal/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
