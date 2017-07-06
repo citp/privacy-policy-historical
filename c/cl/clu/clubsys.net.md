@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubsys.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606141945id_/http%3A//clubsys.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubsys.net privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706234436id_/https%3A//clubsys.net/privacy-policy) for the most accurate reproduction.*
 
 # Club Management Software | Membership | Sports Academy - ClubSys - Privacy Policy
 
