@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiterose.ac.uk privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914062247id_/http%3A//www.whiterose.ac.uk/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiterose.ac.uk privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706061008id_/https%3A//www.whiterose.ac.uk/your-privacy) for the most accurate reproduction.*
 
 # White Rose University Consortium – Welcome | Your Privacy
 
