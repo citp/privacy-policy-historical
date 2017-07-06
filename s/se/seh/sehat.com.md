@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sehat.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115092712id_/https%3A//www.sehat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sehat.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706164029id_/https%3A//www.sehat.com/privacy-policy) for the most accurate reproduction.*
 
 # Sehat|Privacy Policy
 
