@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulcraft.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173436id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulcraft.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706032044id_/https%3A//ukit.com/privacy) for the most accurate reproduction.*
 
 # uKit — Privacy policy
 
