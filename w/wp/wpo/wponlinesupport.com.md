@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wponlinesupport.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627185809id_/https%3A//www.wponlinesupport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wponlinesupport.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706194856id_/https%3A//www.wponlinesupport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Company | WordPress Online Support
 
