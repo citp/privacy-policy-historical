@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ulcraft.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606173436id_/https%3A//ukit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ulcraft.com privacy policy that was archived on 2017-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170706032044id_/https%3A//ukit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-is-logged-in="false" data-osappid="ef42d05e-74a5-4f76-a597-3068aa5e384c"><head>
 	<meta charset="utf-8">
@@ -45,6 +45,7 @@
 <link rel="alternate" hreflang="ru" href="https://ukit.com/ru/privacy">
 <link rel="alternate" hreflang="pt-BR" href="https://ukit.com/pt-BR/privacy">
 <link rel="alternate" hreflang="ro" href="https://ukit.com/ro/privacy">
+<link rel="alternate" hreflang="pl" href="https://ukit.com/pl/privacy">
 	
 	<meta http-equiv="imagetoolbar" content="no">
 	
@@ -57,7 +58,7 @@
 	
 	<link rel="stylesheet" href="/css/lib/bootstrap.css">
 	<link rel="stylesheet" href="/css/base.css">
-	<link rel="stylesheet" href="/css/mainpage.css?v=2017_06_01T19_09_44_03_00_2cbd08df589d49d7452fa4bf94b74c901bee43a3">
+	<link rel="stylesheet" href="/css/mainpage.css?v=2017_07_05T15_43_30_03_00_49b3884f62f14869fab859ba6c4d2f80d2a389fa">
 	
 	
 	
@@ -102,6 +103,9 @@
 				}
 			}
 		};
+		
+		w.analyticsHandler.getCookie = function getCookie(e){var o=document.cookie.match(RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0};
+		w.analyticsHandler.setCookie = function setCookie(e,o,t){t=t||{};var n=t.expires;if("number"==typeof n&&n){var i=new Date;i.setTime(i.getTime()+1e3*n),n=t.expires=i}n&&n.toUTCString&&(t.expires=n.toUTCString()),o=encodeURIComponent(o);var r=e+"="+o;for(var c in t){r+="; "+c;var a=t[c];a!==!0&&(r+="="+a)}document.cookie=r};
 	})(window);
 </script>
 
@@ -142,6 +146,10 @@
 				w.yaCounter27409619 = new Ya.Metrika(
 					{"id":27409619,"webvisor":true,"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"trackHash":true}
 				);
+
+				var userId = w.analyticsHandler.getCookie('analytics-uid');
+
+				w.yaCounter27409619.setUserID(userId);
 			} catch(e) {
 			}
 		});
@@ -286,7 +294,7 @@
 	</div>
 
 	<script>
-	window.VERSION            = '2017_06_01T19_09_44_03_00_2cbd08df589d49d7452fa4bf94b74c901bee43a3';
+	window.VERSION            = '2017_07_05T15_43_30_03_00_49b3884f62f14869fab859ba6c4d2f80d2a389fa';
 	window.isInviteModeOn     = false;
 	window.isInviteModeStrict = false;
 	window.supportEmail       = 'support-en|ukit.com';
@@ -337,6 +345,13 @@
 			<li class="lang ">
 				<a href="https://ukit.com/ro/privacy" data-lang="ro" class="js-lang">
 					<img src="/img/langs/ro.png" alt="">Română
+				</a>
+			</li>
+			
+			
+			<li class="lang ">
+				<a href="https://ukit.com/pl/privacy" data-lang="pl" class="js-lang">
+					<img src="/img/langs/pl.png" alt="">Polski
 				</a>
 			</li>
 			
@@ -406,11 +421,11 @@
 	<script src="/js/lib/requirejs.min.js"></script>
 
 
-	<script src="/js/requireConf.js?v=2017_06_01T19_09_44_03_00_2cbd08df589d49d7452fa4bf94b74c901bee43a3"></script>
+	<script src="/js/requireConf.js?v=2017_07_05T15_43_30_03_00_49b3884f62f14869fab859ba6c4d2f80d2a389fa"></script>
 	
 	
 	
-	<script src="/js/mainpage/main.build.js?v=2017_06_01T19_09_44_03_00_2cbd08df589d49d7452fa4bf94b74c901bee43a3" charset="utf-8"></script>
+	<script src="/js/mainpage/main.build.js?v=2017_07_05T15_43_30_03_00_49b3884f62f14869fab859ba6c4d2f80d2a389fa" charset="utf-8"></script>
 	
 	
 
