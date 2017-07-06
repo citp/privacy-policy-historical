@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besttechguru.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229140611id_/http%3A//besttechguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besttechguru.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706164739id_/https%3A//www.besttechguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Best Tech Guru
 
