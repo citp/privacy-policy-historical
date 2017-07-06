@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redstate.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129014617id_/http%3A//media.townhall.com/townhall/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redstate.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706212517id_/https%3A//media.townhall.com/townhall/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy v2 revised 1-31-15 FINAL.doc
 
