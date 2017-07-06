@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tibiawindbot.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330161307id_/https%3A//tibiawindbot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibiawindbot.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706095234id_/https%3A//tibiawindbot.com/privacy.html) for the most accurate reproduction.*
 
 # WindBot - Privacy Policy
 
