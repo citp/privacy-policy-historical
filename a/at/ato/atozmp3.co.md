@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atozmp3.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131308id_/http%3A//www.atozmp3.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozmp3.co privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706141810id_/http%3A//www.atozmp3.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AtoZmp3
 
