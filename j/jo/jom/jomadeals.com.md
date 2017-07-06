@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jomadeals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002554id_/http%3A//www.jomadeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomadeals.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706185542id_/http%3A//www.jomadeals.com/privacy-policy) for the most accurate reproduction.*
 
 # JomaDeals.com: Jomadeals.com privacy policy
 
