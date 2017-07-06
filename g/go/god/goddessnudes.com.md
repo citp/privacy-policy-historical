@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goddessnudes.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104854id_/http%3A//www.goddessnudes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goddessnudes.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707000543id_/https%3A//www.goddessnudes.com/privacy) for the most accurate reproduction.*
 
 # Goddess Nudes - Privacy
 
