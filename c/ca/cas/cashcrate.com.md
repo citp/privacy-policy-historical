@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221142331id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706224916id_/https%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
 
 # Make Money Online With Paid Surveys | Free Cash at CashCrate!
 
@@ -16,7 +16,7 @@ Please read this privacy policy to learn more about:
 
 ###### Information Collected by CashCrate
 
-To become a member of CashCrate, you must join and create an account on the CashCrate website. The only information that CashCrate collects is the information you provide through the CashCrate registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that CashCrate can enforce its one account per person policy and other provisions of our [Terms of Service](http://www.cashcrate.com/terms).
+To become a member of CashCrate, you must join and create an account on the CashCrate website. The only information that CashCrate collects is the information you provide through the CashCrate registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that CashCrate can enforce its one account per person policy and other provisions of our [Terms of Service](https://www.cashcrate.com/terms).
 
 Other information, that does not personally identify you as an individual, is collected by CashCrate from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by CashCrate. This information can be utilized by CashCrate in such manner as CashCrate, in its sole discretion, deems appropriate.
 
@@ -34,7 +34,7 @@ Any information you post on the CashCrate website or send through CashCrate’s 
 
 ###### Legal Disclaimer
 
-It is possible that CashCrate may need to disclose your personally identifiable information from time to time. Specifically, CashCrate may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if CashCrate has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated CashCrate’s [Terms of Service](http://www.cashcrate.com/terms), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to CashCrate, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend CashCrate’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
+It is possible that CashCrate may need to disclose your personally identifiable information from time to time. Specifically, CashCrate may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if CashCrate has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated CashCrate’s [Terms of Service](https://www.cashcrate.com/terms), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to CashCrate, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend CashCrate’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
 
 ###### Managing Your Information
 
@@ -46,6 +46,6 @@ Notice of all changes that materially affect ways in which your personally ident
 
 ###### Questions & Comments
 
-Unless stated otherwise, CashCrate’s current privacy policy applies to all information that CashCrate has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should [contact CashCrate](http://www.cashcrate.com/contact) prior to providing CashCrate any personally identifiable information.
+Unless stated otherwise, CashCrate’s current privacy policy applies to all information that CashCrate has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should [contact CashCrate](https://www.cashcrate.com/contact) prior to providing CashCrate any personally identifiable information.
 
 Last Updated: May 10th, 2010
