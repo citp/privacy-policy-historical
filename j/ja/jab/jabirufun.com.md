@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jabirufun.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522181442id_/http%3A//www.jabirufun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabirufun.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707010018id_/https%3A//www.jabirufun.com/privacy) for the most accurate reproduction.*
 
-# jabirufun
+# jabirufun.com - Privacy Policy
 
-## Privacy Policy
+#### Privacy Policy
 
 Sun Sound Corporation ("jabirufun") operates a variety of web sites ("Web Site" or "Site") including www.jabirufun.com and is committed to protecting the privacy of our Web Site users ("Users") and Sun Sound Corporation members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Sun Sound Corporation will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
@@ -25,53 +25,53 @@ Sun Sound Corporation defines personal information as information about an indiv
 
 
 
-### When Does Sun Sound Corporation Collect Personal Information?
+#### When Does Sun Sound Corporation Collect Personal Information?
 
 Sun Sound Corporation collects personal information from you when you voluntarily submit that information to Sun Sound Corporation, for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, Sun Sound Corporation collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
 
-### What Happens When I Register On The Web Site?
+#### What Happens When I Register On The Web Site?
 
 In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
 
-### What Happens When I Place An Order On The Web Site?
+#### What Happens When I Place An Order On The Web Site?
 
 Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card and expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
 
-### Does Sun Sound Corporation Use Cookie Technology?
+#### Does Sun Sound Corporation Use Cookie Technology?
 
 Sun Sound Corporation uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, Sun Sound Corporation uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. Sun Sound Corporation also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on.
 
-### What Other Mechanisms Does Sun Sound Corporation Use to Track User Behavior?
+#### What Other Mechanisms Does Sun Sound Corporation Use to Track User Behavior?
 
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies.
 
 Sun Sound Corporation and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Sun Sound Corporation is owned and used by Sun Sound Corporation. Sun Sound Corporation reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-### How Does Sun Sound Corporation Handle Information from Children?
+#### How Does Sun Sound Corporation Handle Information from Children?
 
 Please note that Sun Sound Corporation has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.jabirufun.com, selecting 'Contact Us'
 
-### How Does Sun Sound Corporation Use Personal Information?
+#### How Does Sun Sound Corporation Use Personal Information?
 
 Use of Personal Information is for our internal business purposes. Sun Sound Corporation uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, Sun Sound Corporation, its subsidiaries and affiliates may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used by Sun Sound Corporation, its subsidiaries or affiliates to develop and improve the products, benefits and services, Sun Sound Corporation, its subsidiaries, affiliates and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members.
 
 Where permitted or required by law, Sun Sound Corporation may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
 
-### When Will I Be Contacted by Sun Sound Corporation?
+#### When Will I Be Contacted by Sun Sound Corporation?
 
 You may receive products and communications associated with your transactions with Sun Sound Corporation, such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from Sun Sound Corporation related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by Sun Sound Corporation, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("direct marketing").
 
 You may periodically receive from Sun Sound Corporation, its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Sun Sound Corporation, its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Sun Sound Corporation?
 
-### How Can I Opt Out of Receiving Direct Marketing from Sun Sound Corporation?
+#### How Can I Opt Out of Receiving Direct Marketing from Sun Sound Corporation?
 
 By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Sun Sound Corporation is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
 
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Sun Sound Corporation are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
+E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Sun Sound Corporation are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action.
 
-### What Personal Information Does Sun Sound Corporation Give to Others?
+#### What Personal Information Does Sun Sound Corporation Give to Others?
 
 Transfer of Personal Information to Third Party Goods and Services Providers. Sun Sound Corporation employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
 
@@ -85,31 +85,31 @@ Disclosures Attendant to a Merger or Acquisition. If Sun Sound Corporation or it
 
 Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, Sun Sound Corporation may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Sun Sound Corporation will be visible to other users of the third party web site.
 
-### How does Sun Sound Corporation Protect Personal Information?
+#### How does Sun Sound Corporation Protect Personal Information?
 
-Sun Sound Corporation takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Sun Sound Corporation. For example, Sun Sound Corporation uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+Sun Sound Corporation takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Sun Sound Corporation. For example, Sun Sound Corporation uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
 
-### How Can I Access or Correct My Personal Information?
+#### How Can I Access or Correct My Personal Information?
 
 If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
 
-You can review and change certain account related information by visiting Sun Sound Corporation, submiting suitable identification and giving the Sun Sound Corporation your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+You can review and change certain account related information by visiting Sun Sound Corporation, submiting suitable identification and giving the Sun Sound Corporation your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
 
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area.
 
 Note that in most cases, Sun Sound Corporation will retain the previously entered data.
 
-### Legal Notices
+#### Legal Notices
 
 Video Privacy Protection Act of 1988. Sun Sound Corporation supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
 
 REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
 
-### Can Sun Sound Corporation Change This Privacy Policy?
+#### Can Sun Sound Corporation Change This Privacy Policy?
 
 Sun Sound Corporation reserves the right to change this Privacy Policy from time to time. If Sun Sound Corporation makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
 
-### How Do I Contact Sun Sound Corporation Regarding The Web Site And This Privacy Policy?
+#### How Do I Contact Sun Sound Corporation Regarding The Web Site And This Privacy Policy?
 
 If Users have any questions or suggestions regarding our privacy policy, please contact us at:
 
