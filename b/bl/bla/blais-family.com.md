@@ -1,73 +1,75 @@
-> *The following text is extracted and transformed from the blais-family.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404093548id_/http%3A//www.blais-family.com/Privacy%2520Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blais-family.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706155303id_/https%3A//meltmyscents.scentsy.us/form/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Scentsy Corporation Privacy Policy Information | Scentsy.com
 
-### Privacy Statement 
+##### Introduction
 
-This Privacy Policy governs the manner in which Blais-Family Directory collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.blais-family.com](http://www.blais-family.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Blais-Family Directory .
+Scentsy, Inc., a company incorporated under the laws of the State of Idaho, U.S.A., (referred to herein as “Scentsy,” “we,” “us” and “our”) understands the importance of privacy of individuals (referred to as “users” and “you”). Scentsy, Inc. also maintains websites for several affiliate companies and brands. This privacy notice outlines the personal information Scentsy may collect and how Scentsy will use and disclose that information. Scentsy is committed to protecting your personal information. We have adopted the following policies with regard to collection and distribution of information.
 
-**Personal identification information**
+##### Information Collection
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Scentsy may collect two different types of information, Personally Identifiable Information and Non-Personally Identifiable Information. “Personally Identifiable Information” (“PII”) is information that identifies you as an individual – for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. “Non-Personally Identifiable Information” (“Non-PII”) is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity.
 
-**Non-personal identification information**
+During the Independent Consultant enrollment process, or while purchasing product on Scentsy maintained websites, Scentsy may collect PII about you that may be considered sensitive.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Scentsy may also collect PII about you from, among other places: information you provide directly to us, information regarding the services that Scentsy currently provides or has previously provided to you, information Scentsy receives from our affiliated entities or third parties relating to the establishment of our relationship or the provision of services to you.
 
-**Web browser cookies**
+This information can be received in any manner, including in-person discussions, telephone conversations, and electronic or other written communications.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+##### Cookies
 
-**How we use collected information**
+We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-Blais-Family Directory may collect and use Users personal information for the following purposes:
+##### Information Use
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To share your information with third parties_  
-We may share or sell information with third parties for marketing or other purposes.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+Scentsy may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons.
 
-**How we protect your information**
+Without PII, Scentsy may be unable to provide you with the services you have requested.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+##### Disclosure of Information
 
-**Sharing your personal information**
+Scentsy does not sell or lease PII about you to others.
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Scentsy may share PII about you with others as permitted by contractual agreement or as required by law, such as our affiliates, third parties in connection with the provision of services to you, government entities and regulatory bodies, and those with whom you have requested us to share information.
 
-**Third party websites**
+Unless restricted by law, regulation, contract or professional standards, Scentsy may transfer PII about you outside of the United States to other countries for the purposes described in this privacy notice.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Scentsy will not share PII about you with an unaffiliated third party who is not performing services for us without first obtaining your permission, except if such sharing is otherwise permitted by this privacy notice.
 
-**Advertising**
+Scentsy will provide PII about you to the following types of third parties for the associated reasons:
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+  * **Carriers:** Scentsy will provide your name and address to companies which provide a delivery service between Scentsy and its customers as a means of delivering our products to you as quickly as possible.
+  * **Financial Institutions:** Scentsy will provide financial institutions with your payment information, name, address, and phone number in order to process any orders placed by you and complete payment of the transaction to Scentsy.
+  * **Logistics:** Scentsy will provide your name, address and phone number to those entities or people within our network of distribution in order to process and ship your orders with speed and accuracy.
 
-**Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-**Changes to this privacy policy**
+Scentsy requires third parties who perform services for us to agree to treat PII about you confidentially and securely. Prior to collection your PII, any such third parties are required to sign a service agreement, which includes the privacy policy outlined here. Note that this statement does not address the privacy practices or polices of our Independent Consultants. However, Scentsy Independent Consultants agree, as specified in our Policies and Procedures, to comply with all applicable privacy laws and regulations.
 
-Blais-Family Directory has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Notwithstanding any other provision of this notice or the Terms and Conditions of Use to the contrary, we reserve the right to disclose and use your PII if we believe that we are required to do so: (a) by law; (b) in response to legal process, for example, in response to a court order or a subpoena; (c) in response to a law enforcement agency’s request; (d) to enforce our other terms, conditions, or policies; (e) to protect our operations; (f) to protect the rights, privacy, safety or property of Scentsy, you or others; and/or (g) to permit us to pursue available remedies or limit the damages we may sustain. For example, we may to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
-**Your acceptance of these terms**
+Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.blais-family.com/guidelines-and-tos.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+##### Access
 
-**Contacting us**
+You may request access to the PII that Scentsy has about you. You may also request the correction, amendment or deletion of PII about you that is inaccurate. Scentsy will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Blais-Family Directory ](http://www.blais-family.com/)  
-[http://www.blais-family.com](http://www.blais-family.com/)  
-Admin@Blais-Family.com
+##### Information Security and Integrity
 
-This document was last updated on December 29, 2012
+Scentsy maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Scentsy and its affiliates offer that may be of interest or use to you.
+
+Additionally, Scentsy will only use PII for the purpose which it was intentionally collected. Scentsy will take reasonable measures to safeguard your information and ensure that is accurate, complete and current.
+
+##### Enforcement
+
+Scentsy takes a self-assessment approach to verify that we are within compliance of this policy. Scentsy employees are trained to adhere with this privacy policy and Scentsy administers discipline to those employees who do not comply.
+
+##### Changes to This Privacy Notice
+
+Scentsy reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law.
+
+##### Questions
+
+If you have any questions or concerns regarding this notice, please contact us either by email at [legal@scentsy.com](mailto:legal@scentsy.com), or by regular mail at Scentsy, Inc., Attn: Legal Department, 2701 E. Pine St., Meridian, ID 83642. Scentsy will investigate and try to resolve any disputes regarding the use or disclosure of PII according to the principles of this privacy policy.
+
+Please note that email communications are not necessarily secure. Accordingly you should not include credit card information or other sensitive information in your email correspondence to us.
