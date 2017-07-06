@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepodcasthost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180117id_/https%3A//www.thepodcasthost.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepodcasthost.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706180826id_/https%3A//www.thepodcasthost.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
