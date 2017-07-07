@@ -1,27 +1,45 @@
-> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927121417id_/https%3A//mp3ape.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707212452id_/https%3A//mp3apes.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-Your privacy is important to us. mp3ape.eu service is free for all to use, and prior registration is not needed for use of mp3ape.eu service.
+Last modified on 1 September 2015.
 
-mp3ape.eu will explicitly ask when it needs information that personally identifies you. All the personally identifiable information we collect are only gathered with your voluntary act. mp3ape.eu keeps all the personal information private and does not, and will not, share it with any third parties except under these circumstances.
+## Non-personal identification information
 
-  * When such action is necessary to conform to legal requirements or comply with legal process.
-  * When such action is necessary to protect and defend rights or property of mp3ape.eu.
-  * When such action is necessary to enforce mp3ape.eu terms of service.
+We may collect non-personal identification information about users whenever they interact with our site. Non-personal identification information may include the browser name, the type of device and technical information about users' means of connection to our site, such as the operating system and the Internet service providers' utilised and other similar information.
+
+## Web browser cookies
+
+Our site may use 'cookies' to enhance user experience. User's web browser places cookies on their storage device for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the site may not function properly.
+
+## How we use collected information
+
+mp3ape collects and uses users personal information for the following purposes:
+
+  * To personalise user experience We may use information in the aggregate to understand how our users as a group use the services and resources provided on our site.
+  * To improve our site we continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
 
 
 
-Currently, mp3ape.eu does not collect any personally identifiable information from the users who use mp3ape.eu services.
+## Sharing your personal information
 
-mp3ape.eu may use cookies to enhance your surfing experience, but cookies will not be used under any circumstances to personally identify you without your prior consent.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-## Third Party Advertising
+## Third party websites
 
-The ads appearing on this web site are delivered to you by [], our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For [more information](http://www.networkadvertising.org/managing/opt_out.asp) about [], cookies, and how to "opt-out".
+Users may find advertising or other content on our site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-## Third Party Cookies
+## Advertising
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognise a unique cookie on your browser.
+Ads appearing on our site may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your device each time they send you an online advertisement to compile non personal identification information about you or others who use your device. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-If you think mp3ape.eu has violated any of these privacy policies, [contact us](https://docs.google.com/forms/d/1PxluOQp2aePQxtMxIduJoldVSEoQ9M5tcd9BQeijXVk/viewform) immediately.
+## Compliance with Children's Online Privacy Protection Act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+## Changes to our Privacy Policy
+
+mp3ape has the discretion to update this privacy policy at any time. When we do, we will revise the last modified date of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms by using this site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
