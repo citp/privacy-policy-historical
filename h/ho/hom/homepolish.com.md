@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepolish.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523072247id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepolish.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707233912id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.*
 
 # Homepolish
 
