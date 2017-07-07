@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420051500id_/https%3A//www.prizelogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizelogic.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707043456id_/https%3A//prizelogic.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Prizelogic.com
 
@@ -12,7 +12,9 @@ In some instances, on behalf of our clients, PrizeLogic may collect PII (e.g., y
 **B. Personal information that is not PII.**  
 On behalf of our clients, PrizeLogic may also collect non-personally identifiable information (e.g., Internet Protocol (IP) addresses, “cookies,” and Internet tags and navigational data). “Cookies” are small pieces of information that are stored by your web browser software on your computer’s hard drive or temporarily in your computer’s memory. The use of cookies is now an industry standard, and you will find them on most major web sites. PrizeLogic may place and store Internet cookies on a user’s hard drive. The use of cookies provide benefits to you by saving user names, information that are supplied at registration, and other information that may make the use of our promotions easier. Although most web browsers are initially set up to accept cookies, if you prefer, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on a web site may not function properly if your web browser does not accept cookies.  
 **C. Mobile Devices**  
-PrizeLogic also operates mobile programs on behalf of its clients. We may receive information about your location, your mobile device or any PII submitted in the course of such programs.
+PrizeLogic also operates mobile programs on behalf of its clients. We may receive information about your location, your mobile device or any PII submitted in the course of such programs.  
+**D. PrizeLab Players**  
+PrizeLogic may also collect PII and non-personally identifiable information for its own purposes, including but not limited to, PrizeLogic’s PrizeLab sweepstakes. By entering a PrizeLogic sponsored promotion, entrant expressly consents to the Sponsor storing and using the information submitted with his/her entry for the purpose of administering the Sweepstakes and/or providing and personalizing the below noted communications and for other purposes which may include, but are not limited to, sharing your information with third parties. Information may be transferred and stored for these purposes in jurisdictions outside of Canada, including the United States. Sponsor uses the personally identifiable information collected in this Sweepstakes as sales leads and may contact the individual registrants by email, mail, phone, or other contact information provided when entering the Sweepstakes. By participating in the Sweepstakes, entrant hereby agrees to receive email and other notices from Sponsor, including marketing messages, surveys, special offers and notices about other promotions. Such notices may come from Sponsor itself or from Sponsor on behalf of companies with whom Sponsor has a business relationship. If you want to “opt-out” of being contacted by Sponsor after you have participated in one of its promotions, you may do so by sending an email to privacy@prizelogic.com. Please make sure to include the name of the Sweepstakes in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
   3. **Security, Sharing, Retention, and Storage of Personal Identifiable Information.  
 **Although “guaranteed security” does not exist either on or off the Internet, PrizeLogic endeavors to protect your personal information using physical, electronic, and procedural security measures. These measures include safeguards to protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. PrizeLogic makes commercially reasonable efforts to make the collection and security of such information consistent with its Privacy Policy and all applicable laws and regulations. PrizeLogic may share PII third parties for legitimate business purposes. PrizeLogic stores PII in a secure environment behind its “firewall.” PrizeLogic employees whose job responsibilities require them to use PII are permitted access to such data and are required to sign confidentiality agreements prohibiting unauthorized disclosure of PII. PrizeLogic’s information practices may change occasionally. If material changes to such practices are made, we will update this Privacy Policy on our website.
   4. **Special Note about Children  
@@ -22,19 +24,14 @@ PrizeLogic also operates mobile programs on behalf of its clients. We may receiv
   6. **Accuracy of Personally Identifiable Information.  
 **It is PrizeLogic’s goal to keep all PII that you provide to us accurate. Upon request to PrizeLogic as set forth in paragraph 7 below, an individual shall be informed of the existence, use, and disclosure of his or her personal information.
   7. **Contact PrizeLogic  
-**To ensure the accuracy of your information, if you wish to contact PrizeLogic to deactivate information (if PrizeLogic is holding on to your information as explained above), about privacy related issues, you may contact PrizeLogic at: 
-
-Information Security Director  
+**To ensure the accuracy of your information, if you wish to contact PrizeLogic to deactivate information (if PrizeLogic is holding on to your information as explained above), about privacy related issues, you may contact PrizeLogic at:Information Security Director  
 PrizeLogic, LLC  
 25200 Telegraph Rd, Suite 405  
 Southfield, MI 48033  
 Telephone : (480) 685-3573  
 or faxing or emailing the details of your request to:  
 Fax Number: (480) 270-3020  
-Email: privacy@prizelogic.com
-
-If you have general question regarding PrizeLogic’s Privacy Policy or any other privacy related issues, please call PrizeLogic at the following number: (480)685-3573. Or fax the details of your inquiry to: (480) 270-3020.
-
+Email: privacy@prizelogic.comIf you have general question regarding PrizeLogic’s Privacy Policy or any other privacy related issues, please call PrizeLogic at the following number: (480)685-3573. Or fax the details of your inquiry to: (480) 270-3020.
   8. **Material Changes to Policy  
 **PrizeLogic may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy.
   9. **Third Party Links  
@@ -42,4 +39,4 @@ If you have general question regarding PrizeLogic’s Privacy Policy or any othe
 
 
 
-_Updated: October  19, 2016_
+_Updated: May 02, 2017_
