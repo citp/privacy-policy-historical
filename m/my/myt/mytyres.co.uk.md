@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629195432id_/http%3A//mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707132127id_/https%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
@@ -119,7 +119,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20170629195432id_/http%3A//mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20170707132127id_/https%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
@@ -145,6 +145,6 @@ Examples for details, which we obtain from other sources, include updated detail
 
 Examples for information which you can easily access at Delticom: This includes information about past orders, personal details (including name, email address, password), Delticom newsletter, notification about special offers, including your order history and your consumer reports e.g. at http://www.tyretest.com/ or http://www.mytyres.co.uk.   
   
-© 1999-2017 by [ Delticom](http://www.delti.com/) / [mytyres.co.uk](https://www.mytyres.co.uk/) 29.06.2017 15:25   
+© 1999-2017 by [ Delticom](http://www.delti.com/) / [mytyres.co.uk](https://www.mytyres.co.uk/) 07.07.2017 12:25   
   
 ---
