@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223182903id_/https%3A//www.zerve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerve.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707053036id_/https%3A//zerve.com/privacy) for the most accurate reproduction.*
 
 # Zerve Privacy Policy
 
@@ -198,7 +198,7 @@ Due to our commitment to serving all of our users’ needs, and the business cha
 
 ## 11\. Notice
 
-Any notices sent to you pursuant to any provisions contained in this Zerve Privacy Policy shall be directed to the electronic mail address on file with Zerve at the time of the notice. Any notice sent by electronic mail shall be deemed received by you on the date sent from Zerve. Any notice to Zerve shall be sent both by electronic mail to privacy@zerve.com and by return receipt requested postal mail to Zerve, 333 Hudson Street, 6th Floor, New York, NY 10013, or such other mailing address as Zerve may provide hereafter. Any notice to Zerve shall be deemed received by Zerve on the date of actual receipt by Zerve.
+Any notices sent to you pursuant to any provisions contained in this Zerve Privacy Policy shall be directed to the electronic mail address on file with Zerve at the time of the notice. Any notice sent by electronic mail shall be deemed received by you on the date sent from Zerve. Any notice to Zerve shall be sent both by electronic mail to privacy@zerve.com and by return receipt requested postal mail to Zerve, 340 S Lemon Ave #3370, Walnut CA 91789, or such other mailing address as Zerve may provide hereafter. Any notice to Zerve shall be deemed received by Zerve on the date of actual receipt by Zerve.
 
 ## 12\. Additional Terms
 
