@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625002018id_/https%3A//www.tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707114539id_/https%3A//www.tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -35,7 +35,7 @@ When you use an online service in relation to your driver licence the department
 
 #### Registration
 
-When you use an online service in relation to your registration the department collects the information you provide under the provisions of the _Transport Operations (Road Use Management) Act 1995_ and the _Transport Operations (Marine Safety) Act 1994_. The department or its agents/contractors may use your information in its communications with you and may disclose some of this information to vehicle/vessel insurers, statutory entities, insolvency entities, lawyers, persons involved in vehicle or vessel accidents and incidents , vehicle/vessel manufacturers, third parties who are involved in or intend to commence legal proceedings, tolling entities, law enforcement agencies and interstate registering authorities. Your personal information will not be disclosed to any other third party without your consent, unless authorised or required to do so by law.
+When you use an online service in relation to your registration the department collects the information you provide under the provisions of the _Transport Operations (Road Use Management) Act 1995_ and the _Transport Operations (Marine Safety) Act 1994_. The department or its agents/contractors may use your information in its communications with you and may disclose some of this information to vehicle/vessel insurers, statutory entities, insolvency entities, lawyers, persons involved in vehicle or vessel accidents and incidents, vehicle/vessel manufacturers, third parties who are involved in or intend to commence legal proceedings, tolling entities, law enforcement agencies and interstate registering authorities. Your personal information will not be disclosed to any other third party without your consent, unless authorised or required to do so by law.
 
 #### Accreditations
 
@@ -97,9 +97,11 @@ The Transport and Main Roads website may use cookies to retain preferences durin
 
 ### Security
 
-This site does not provide facilities for securely transmitting information across the internet. We recognise that there can be risks with transmitting information across the internet.
+This site provides facilities for securely transmitting information across the internet using a current best practice Transport Layer Security implementation.
 
-This site contains links to non-Queensland Government websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of such web sites.
+Although the department makes every reasonable effort to ensure the safety and security of this Department of Transport and Main Roads website and the information you submit to and receive from this website, the department cannot guarantee aforementioned safety and security.
+
+  This site contains links to non-Queensland Government websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of such web sites.
 
 ### Privacy complaints
 
