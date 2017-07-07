@@ -1,19 +1,18 @@
-<!--The following is the downloaded HTML source of the nginx.com privacy policy that was archived on 2017-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170218211741id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nginx.com privacy policy that was archived on 2017-07-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170707021121id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBXGM3"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYOWFBUGwEGUlVUAwYE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-
+<!--<link rel="dns-prefetch" href="//fast.wistia.com">
+<link rel="dns-prefetch" href="//distillery.wistia.com">
+<link rel="dns-prefetch" href="//embed-0.wistia.com">
+<link rel="dns-prefetch" href="//pipedream.wistia.com"> -->
 <link rel="dns-prefetch" href="//munchkin.marketo.net">
 <link rel="dns-prefetch" href="//990-fxf-735.mktoresp.com">
 <link rel="dns-prefetch" href="//fast.fonts.net">
-<link rel="dns-prefetch" href="//fast.wistia.com">
-<link rel="dns-prefetch" href="//distillery.wistia.com">
-<link rel="dns-prefetch" href="//embed-0.wistia.com">
-<link rel="dns-prefetch" href="//pipedream.wistia.com">
-<link rel="icon" type="image/png" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx-favicon.png">
+<link rel="icon" type="image/png" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx-favicon.png">
 
 
 
@@ -29,7 +28,7 @@
 <script type="text/javascript">	var NginxGlobalVars = {"ajax_url":"https:\/\/www.nginx.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.nginx.com","wp_json_url":"https:\/\/www.nginx.com\/wp-json"}; </script>
  <title>NGINX Inc. Privacy Policy - How Information is Used</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Read the NGINX privacy policy to learn what information is gathered, how the information is used, if the information is shared, and if data is secure">
 <meta name="robots" content="noodp">
 <link rel="canonical" href="https://www.nginx.com/privacy-policy/">
@@ -41,38 +40,37 @@
 <meta property="og:url" content="https://www.nginx.com/privacy-policy/">
 <meta property="og:site_name" content="NGINX">
 <meta property="article:publisher" content="https://www.facebook.com/nginxinc">
-<meta property="fb:admins" content="1530428147">
-<meta property="og:image" content="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png">
+<meta property="og:image" content="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Read the NGINX privacy policy to learn what information is gathered, how the information is used, if the information is shared, and if data is secure">
 <meta name="twitter:title" content="NGINX Inc. Privacy Policy - How Information is Used">
 <meta name="twitter:site" content="@nginx">
-<meta name="twitter:image" content="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png">
+<meta name="twitter:image" content="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png">
 <meta name="twitter:creator" content="@pnommensen">
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//www.nginx.com">
-<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
-<link rel="dns-prefetch" href="//cdn.wp.nginx.com">
+<link rel="dns-prefetch" href="//cdn-1.wp.nginx.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="NGINX » Feed" href="https://www.nginx.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="NGINX » Comments Feed" href="https://www.nginx.com/comments/feed/">
-<link rel="stylesheet" id="columns-css" href="https://cdn.wp.nginx.com/wp-content/plugins/columns/columns.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8" type="text/css" media="all">
-<link rel="stylesheet" id="pswp-css-css" href="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="pswp-skin-css" href="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/pswp/default-skin/default-skin.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="slick-css-css" href="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="slick-theme-css" href="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick-theme.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="wooswipe-css-css" href="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/wooswipe.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="jq-scroll-style-css" href="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css?ver=4.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="selectric-style-css" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/selectric/selectric.css?ver=1480377874" type="text/css" media="all">
-<link rel="stylesheet" id="nginx-theme-style-css" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/style.compiled/nginx-theme.css?ver=1484244976" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css-css" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/magnific-popup.css?ver=1478391954" type="text/css" media="all">
-<link rel="stylesheet" id="owl-carousel-css-css" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/assets/owl.carousel.css?ver=1478392166" type="text/css" media="all">
-<link rel="stylesheet" id="rrssb-css-css" href="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/css/rrssb.css?ver=1478392090" type="text/css" media="all">
-<link rel="stylesheet" id="select2-css-css" href="//cdn.jsdelivr.net/select2/4.0.0/css/select2.min.css?ver=201506070" type="text/css" media="all">
+<link rel="stylesheet" id="columns-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/columns/columns.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="pswp-css-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="pswp-skin-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/pswp/default-skin/default-skin.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="slick-theme-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick-theme.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wooswipe-css-css" href="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/wooswipe.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="jq-scroll-style-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/jsdelivr/jquery.mCustomScrollbar.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="selectric-style-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/selectric/selectric.css?ver=1480377874" type="text/css" media="all">
+<link rel="stylesheet" id="nginx-theme-style-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/style.compiled/nginx-theme.css?ver=1498766924" type="text/css" media="all">
+<link rel="stylesheet" id="nginx-site-header-style-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/site-header/nginx-site-header.css?ver=1496698909" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/magnific-popup.css?ver=1478391954" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/assets/owl.carousel.css?ver=1478392166" type="text/css" media="all">
+<link rel="stylesheet" id="rrssb-css-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/css/rrssb.css?ver=1478392090" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css-css" href="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/jsdelivr/select2.min.css?ver=1487886922" type="text/css" media="all">
 <script type="text/template" id="tmpl-variation-template">
 	<div class="woocommerce-variation-description">
 		{{{ data.variation.variation_description }}}
@@ -81,758 +79,23 @@
 	<div class="woocommerce-variation-price">
 		{{{ data.variation.price_html }}}
 	</div>
-
-	<div class="woocommerce-variation-availability">
+		<div class="woocommerce-variation-availability">
 		{{{ data.variation.availability_html }}}
 	</div>
-</script>
+	</script>
 <script type="text/template" id="tmpl-unavailable-variation-template">
 	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/jsdelivr/jquery.mCustomScrollbar.concat.min.js?ver=4.7.5"></script>
 <link rel="https://api.w.org/" href="https://www.nginx.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nginx.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.wp.nginx.com/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn-1.wp.nginx.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="https://www.nginx.com/?p=919">
 <link rel="alternate" type="application/json+oembed" href="https://www.nginx.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nginx.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.nginx.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nginx.com%2Fprivacy-policy%2F&amp;format=xml">
 <link rel="https://github.com/WP-API/WP-API" href="https://www.nginx.com/wp-json">
-            <style>
-                
-            </style>
-            <script type="text/javascript">
-            jQuery( function($) {
-                
-                function setCookie( cname, cvalue, exdays )
-                {
-                    var d = new Date();
-                    d.setTime( d.getTime() + ( exdays * 24 * 60 * 60 * 1000 ) );
-                    var expires = "expires="+ d.toUTCString();
-                    document.cookie = cname + "=" + cvalue + ";expires=" + expires + ';domain=nginx.com;path=/';
-                }
-                
-                function getCookie( cname )
-                {
-                    var name = cname + "=";
-                    var ca = document.cookie.split( ';' );
-                    for( var i = 0; i < ca.length; i++ )
-                    {
-                        var c = ca[i];
-                        while ( c.charAt( 0 ) == ' ' )
-                        {
-                            c = c.substring( 1 );
-                        }
-                        if ( c.indexOf( name ) == 0 )
-                        {
-                            return c.substring( name.length,c.length );
-                        }
-                    }
-                    return "";
-                }
-                
-                function checkCookie( cname )
-                {
-                    var c = getCookie( cname );
-                    if ( c != "" )
-                    {
-                        return true;
-                    }
-                    
-                    return false;
-                }
-                
-                function heroBannerRedirect( e )
-                {
-                    e.preventDefault();
-                    //alert(123);
-                }
-                
-                function footerBannerRedirect()
-                {
-                    
-                }
-                
-                var Banners = {
-                    
-                    heroBanners : [
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-                            special_case: "1",
-                            special_html: "<div id=\"nativeapp-banner\" class=\"custom-banner gt-nativeapp-banner\">\r\n    <div class=\"nativeapp-banner-wrapper\">\r\n        <div class=\"nativeapp-banner-wrapper-inner\">\r\n            <div class=\"r8-wrapper\">\r\n                <div class=\"r8-content\">       \r\n                    <div class=\"content-left\">\r\n                         <img class=\"r8-img r9_logo\" src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/Gartner2016_Homepage_hero5_660x437@2x.png\" alt=\"\">\r\n                    <\/div>\r\n                    <div class=\"content-right\">\r\n                         <h1 id=\"r10_hero_heading\">What's the best software tool for scaling your application?<\/h1>\r\n                         <h2 id=\"r10_hero_sub_heading\">Get the answer in the 2016 Gartner Magic Quadrant for ADCs and Critical Capabilities<\/h2>\r\n                         <a class=\"r8-btn-explore new-r9-btn-explode\" id=\"hero_banner_cta_btn\" href=\"#\" data-href=\"https:\/\/www.nginx.com\/resources\/library\/gartner-magic-quadrant-2016-for-adc\/\">Download Now<\/a>\r\n                         <img style=\"position: relative; top: 25px; margin-bottom: 20px;\" src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/Gartner_logo_reg_decisionA_99x23.png\" alt=\"\">\r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n            <div class=\"disclaimer\">GARTNER is a registered trademark and service mark of Gartner, Inc. and\/or its affiliates in the U.S. and internationally, and is used herein with permission. All rights reserved.<\/div>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
-							campaign: "Hardware Replace",
-							slug: "gartner-2016-banner"
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-                            special_case: "1",
-                            special_html: "<div class=\"target-hero-banner replace_hw\">\r\n            <div class=\"target-banner-wrapper\">\r\n                <div class=\"target-anim\">\r\n                \t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/replace-hwlba.gif\" alt=\"\">\r\n                <\/div>\r\n                <div class=\"target-text-wrapper\">\r\n                    <div class=\"target-text\">\r\n                        <div class=\"target-text-inner\">\r\n                        \t<div class=\"target-logo\">\r\n                        \t\t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/logo-plus.png\" alt=\"\">\r\n                        \t<\/div>\r\n                            <div class=\"target-title\"><\/div>\r\n                            <p class=\"target-description\"><\/p>\r\n    \r\n                            <div class=\"target-button\">\r\n                                <div class=\"nginx-theme-action-link-wrapper for-default has-icon\">\r\n                                    <a class=\"nginx-theme-action-link for-default\" href=\"#\" data-href=\"http:\/\/www.nginx.com\/solutions\/adc\/\" id=\"hero_banner_cta_btn\">LEARN MORE<\/a>\r\n                                    <div class=\"icon icon-arrow-disc\" style=\"cursor: pointer;\"><\/div>\r\n                                <\/div>\r\n                            <\/div>  \r\n                        <\/div>           \r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n        <\/div>",
-							campaign: "",
-							slug: "replace-hw-banner"
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-                            special_case: "1",
-                            special_html: "<div class=\"target-hero-banner cloud_hero\">\r\n            <div class=\"target-banner-wrapper\">\r\n                <div class=\"target-anim\">\r\n                \t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/cloud-b.gif\" alt=\"\">\r\n                <\/div>\r\n                <div class=\"target-text-wrapper\">\r\n                    <div class=\"target-text\">\r\n                        <div class=\"target-text-inner\">\r\n                        \t<div class=\"target-logo\">\r\n                        \t\t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/logo-plus.png\" alt=\"\">\r\n                        \t<\/div>\r\n                            <div class=\"target-title\"><\/div>\r\n                            <p class=\"target-description\"><\/p>\r\n    \r\n                            <div class=\"target-button\">\r\n                                <div class=\"nginx-theme-action-link-wrapper for-default has-icon\">\r\n                                    <a class=\"nginx-theme-action-link for-default\" href=\"#\" data-href=\"http:\/\/www.nginx.com\/solutions\/cloud\/\" id=\"hero_banner_cta_btn\">LEARN MORE<\/a>\r\n                                    <div class=\"icon icon-arrow-disc\" style=\"cursor: pointer;\"><\/div>\r\n                                <\/div>\r\n                            <\/div>  \r\n                        <\/div>           \r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>",
-							campaign: "",
-							slug: "cloud-banner"
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-                            special_case: "1",
-                            special_html: "<div class=\"target-hero-banner microservices_hero\">\r\n            <div class=\"target-banner-wrapper\">\r\n                <div class=\"target-anim\">\r\n                \t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/microservices.gif\" alt=\"\">\r\n                <\/div>\r\n                <div class=\"target-text-wrapper\">\r\n                    <div class=\"target-text\">\r\n                        <div class=\"target-text-inner\">\r\n                        \t<div class=\"target-logo\">\r\n                        \t\t<img src=\"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/logo-plus.png\" alt=\"\">\r\n                        \t<\/div>\r\n                            <div class=\"target-title\">New app architectures need new delivery tools<\/div>\r\n                            <p class=\"target-description\">Connect, secure, and scale microservices with NGINX Plus<\/p>\r\n    \r\n                            <div class=\"target-button\">\r\n                                <div class=\"nginx-theme-action-link-wrapper for-default has-icon\">\r\n                                    <a class=\"nginx-theme-action-link for-default\" href=\"#\" data-href=\"http:\/\/www.nginx.com\/solutions\/microservices\/\" id=\"hero_banner_cta_btn\">LEARN MORE<\/a>\r\n                                    <div class=\"icon icon-arrow-disc\" style=\"cursor: pointer;\"><\/div>\r\n                                <\/div>\r\n                            <\/div>  \r\n                        <\/div>           \r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n        <\/div>",
-							campaign: "",
-							slug: "microservices-banner"
-                        },
-                                            ],
-                    
-                    footerBanners : [
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-							campaign: "Hardware Replace",
-							slug: "gartner-2016-banner"							
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-							campaign: "",
-							slug: "replace-hw-banner"							
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-							campaign: "",
-							slug: "cloud-banner"							
-                        },
-                                                {
-                            title: "",
-                            subtitle: "",
-                            button_url: "",
-                            button_text: "Download now",
-                            bg_image_url: "",
-                            bg_ipad_url: "",
-							campaign: "",
-							slug: "microservices-banner"							
-                        },
-                                            ]
-                    
-                };
-                
-                //console.log( Banners );
-                
-                var heroCookieState = 0,
-                    footerCookieState = 0,
-                    heroCookie = 'NGXHeroBannerCookie',
-                    footerCookie = 'NGXFooterCookie';
-                    
-                if( checkCookie( heroCookie ) )
-                {
-                    heroCookieState = getCookie( heroCookie );
-                    if( heroCookieState >= 3 ) heroCookieState = 3;
-                }
-                /*var visits = getCookie( '_nx_visits' );
-                if( visits < 3 )
-                {
-                    heroCookieState = 0;
-                }*/
-                
-                                
-                if( checkCookie( footerCookie ) )
-                {
-                    footerCookieState = getCookie( footerCookie );
-                    if( footerCookieState >= 3 ) footerCookieState = 3;
-                }
-                //footerCookieState = 0;
-                
-                // Setting hero banner
-                
-                
-                //alert(heroCookieState);
-                if( heroCookieState == 0 )
-                {
-                        $( '.vdo_hero' ).show();
-                }
-                else
-                {
-                        $( '.non_vdo_hero' ).show();
-                                                if( Banners.heroBanners[heroCookieState].special_case == 1 )
-                        {
-                            $( '.hero-banner-item' ).html( Banners.heroBanners[heroCookieState].special_html );
-                        }
-                        else
-                        {
-                            $( '.hero-banner-item .dockernet-title' ).html( Banners.heroBanners[heroCookieState].title );
-                            $( '.hero-banner-item .dockernet-description' ).html( Banners.heroBanners[heroCookieState].subtitle );
-                            
-                            var preHeroLink = Banners.heroBanners[heroCookieState].button_url;
-                            var path = preHeroLink.split( '/' );
-                            var count = path.length;
-                            var campaign = "";
-                                if( typeof Banners.heroBanners[heroCookieState].campaign != "undefined" )
-                                {
-                                        campaign = encodeURIComponent( Banners.heroBanners[heroCookieState].campaign );
-                                }
-                                var slug = "";
-                                if( typeof Banners.heroBanners[heroCookieState].slug != "undefined" )
-                                {
-                                        slug = Banners.heroBanners[heroCookieState].slug;
-                                }					
-                                                
-                                var heroLink = preHeroLink + '?utm_source=' + path[count-2] + '&utm_medium=hero&utm_content='+slug+'&utm_campaign='+campaign;
-                            
-                            $( '.hero-banner-item #hero_banner_cta_btn' ).html( Banners.heroBanners[heroCookieState].button_text )
-                                                                            .attr( 'href', heroLink );
-                            $( '.hero-banner-item .dockernet-banner-wrapper' ).css( {
-                                backgroundImage: 'url(' + Banners.heroBanners[heroCookieState].bg_image_url + ')'
-                            } );
-                            $( '.hero-banner-item .dockernet-ipad' ).css( {
-                                backgroundImage: 'url(' + Banners.heroBanners[heroCookieState].bg_ipad_url + ')'
-                            } );
-                        }
-                }
-                
-                var heroBanner = new ConductricsJS(
-                        'owner_ZGRnZVkXv',
-                        'api-tfNXgjsgBfTGvJJawzTsClFw'
-                );
-                
-                applyTargetedHeroConductrics( heroBanner );
-                
-                $( '.hero-banner-item' ).css({
-                    visibility: 'visible',
-                    opacity: 0
-                });
-                
-                setTimeout( function() {
-                    $( '.hero-banner-item' ).animate({
-                        opacity: 1
-                    }, 500);
-                }, 1000 );
-                
-                $( '.hero-banner-item #hero_banner_cta_btn, .hero-banner-item .dockernet-ipad, #learn-more-about-nginx-plus, .target-button a' ).click( function( e ) {
-                    e.preventDefault();
-                    
-                    if( $(this).closest('.non_vdo_hero').length )
-                    {
-                        heroBanner.goal(
-                                'targeted-banner',
-                                { goal: 'CTA-click' },
-                                function( res ){}
-                        );
-                    }
-                    
-                    var href = $( this ).attr( 'href' );
-                    if( href == '#' )
-                    {
-                        href = $( this ).data( 'href' );
-                    }
-					var btnLink =  href ;
-					var bannerName = $("#hero_banner_title").text();
-                    $( document ).trigger( 'hero-banner-cta-btn-click', [ btnLink, bannerName ] );
-                    $.post(
-                        'https://www.nginx.com/wp-admin/admin-ajax.php',
-                        {
-                            action: 'update_ngx_banner_settings_reset'
-                        },
-                        function( response )
-                        {
-                            if( checkCookie( heroCookie ) )
-                            {
-                                var cvalue = getCookie( heroCookie );
-                            }
-                            else
-                            {
-                                var cvalue = 0;
-                            }
-                            cvalue++;
-                            
-                            setCookie( heroCookie, cvalue, 30 );
-                            window.location.href = href;
-                        }
-                    );
-                    
-                    return false;
-                } );
-                
-                                
-                                /**
-                 *
-                 *
-                // Setting for footer banner
-                $( '.blog_footer_cta .dockernet-cta-text-title' ).html( Banners.footerBanners[footerCookieState].title );
-                $( '.blog_footer_cta .dockernet-cta-text-title-inner' ).html( Banners.footerBanners[footerCookieState].subtitle );
-                $( '.blog_footer_cta #hero_banner_cta_btn' ).html( Banners.footerBanners[footerCookieState].button_text )
-                                                                .attr( 'href', Banners.footerBanners[footerCookieState].button_url );
-                $( '.blog_footer_cta .dockernet-blog-cta' ).css( {
-                    backgroundImage: 'url(' + Banners.footerBanners[footerCookieState].bg_image_url + ')'
-                } );
-                $( '.blog_footer_cta .dockernet-cta-cover img' ).attr( 'src', Banners.footerBanners[footerCookieState].bg_ipad_url );
-                
-                $( '.blog_footer_cta' ).css({
-                    visibility: 'visible',
-                    opacity: 0
-                });
-                
-                setTimeout( function() {
-                    $( '.blog_footer_cta' ).animate({
-                        opacity: 1
-                    }, 500);
-                }, 2000 );
-                
-                $( '.blog_footer_cta .dockernet-cta-cover img, .blog_footer_cta #blog_footer_cta, .blog_footer_cta #hero_banner_cta_btn' ).click( function( e ) {
-                    e.preventDefault();
-                    
-                    if( checkCookie( footerCookie ) )
-                    {
-                        var cvalue = getCookie( footerCookie );
-                    }
-                    else
-                    {
-                        var cvalue = 0;
-                    }
-                    cvalue++;
-                    
-                    setCookie( footerCookie, cvalue, 30 );
-                    window.location.href = $( '.blog_footer_cta #hero_banner_cta_btn' ).attr( 'href' );
-                    
-                    return false;
-                } );
-                */
-                                
-            } );
-            </script>
-            
-            <script type="text/javascript">
-                function applyTargetedHeroConductrics( heroBanner )
-                {
-                        var $ = jQuery;
-                        
-                        var target = '';
-                        if( $( '.cloud_hero' ).is( ':visible' ) ) target = 'cloud_hero';
-                        if( $( '.replace_hw' ).is( ':visible' ) ) target = 'replace_hw';
-                        if( target == '' ) return;
-                        
-                        var heroData = {
-                                cloud_hero: {
-                                        version_1: {
-                                                title: 'Ensure a smooth transition to the cloud',
-                                                desc: 'NGINX Plus is cloud-native application delivery that runs everywhere'
-                                        },
-                                        version_2: {
-                                                title: 'Public. Private. Hybrid.',
-                                                desc: 'NGINX Plus accelerates and secures apps on any cloud'
-                                        }
-                                },
-                                replace_hw: {
-                                        version_1: {
-                                                title: 'Hardware appliances don\'t scale',
-                                                desc: 'Software does'
-                                        },
-                                        version_2: {
-                                                title: 'Get software, unlock flexibility & scale',
-                                                desc: 'Replace your costly, outdated hardware load balancers'
-                                        }
-                                }
-                        };
-                        
-                        heroBanner.decision(
-                                'targeted-banner',
-                                {},
-                                function( res )
-                                {
-                                        if( null == res ) return;       
-                                        var data = res[target].code;
-                                        
-                                        $( '.target-title' ).text( heroData[target][data].title );
-                                        $( '.target-description' ).text( heroData[target][data].desc );
-                                }
-                        );
-                        
-                        
-                        
-                }
-            </script>
-            
-                        <style>
-            .r8-btn-explore {
-    display: inline-block;
-    font-weight: 400;
-    text-align: left;
-    color: #000 !important;
-    text-decoration: none;
-    padding: 17px 35px;
-    background-color: #F0A828;
-    border-radius: 3px;
-    color: #000;
-    font-size: 16px;
-    line-height: 1.2;
-    position: relative;
-    text-transform: uppercase;
-    transition: background-color 0.35s ease;
-    margin-top: 50px;
-}
 
-
-/* GARTNER */
-.custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner {
-    max-width: 1120px;
-    margin-left: auto;
-    margin-right: auto;
-    min-height: 650px;
-}
-.custom-banner.gt-nativeapp-banner .r8-wrapper {
-    color: #fff;
-    text-align: center;
-    padding: 70px 0 90px 0;
-    width: 100%;
-}
-@media screen and (min-width: 800px) {
-.custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner{
-    display: block;
-}
-}
-
-.disclaimer{
-    font-size: 11px;
-    text-align: center;
-    color: #999;
-    font-style: italic;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper{
-    overflow: hidden;
-}
-
-.content-left{
-    width: 50%;
-    float: left;
-}
-
-.content-right {
-  float: left;
-  padding-left: 40px;
-  padding-top: 10px;
-  width: 50%;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-content h1 {
-  font-size: 44px;
-  font-weight: lighter;
-  line-height: 1.2;
-  margin-bottom: 20px;
-  margin-top: 0;
-  text-align: left;
-}
-
-.r8-content h2 {
-  color: #009639;
-  font-size: 22px;
-  margin: 20px 0;
-  max-width: 450px;
-  text-align: left;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-img {
-  border-right: 2px solid #fff;
-  padding-right: 80px;
-  width: 90%;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-btn-explore {
-  float: left;
-  margin-top: 15px;
-}
-
-
-@media only screen and (max-width: 979px) {
-.content-left, .content-right {
-  float: none;
-  padding: 0 50px;
-  width: 100%;
-}
-
-.custom-banner.gt-nativeapp-banner {
-  min-height: 870px;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-img {
-  border-bottom: 2px solid #fff;
-  border-right: medium none;
-  margin-bottom: 0;
-  padding-bottom: 40px;
-  padding-right: 0;
-  width: 100%;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-content h1 {
-  font-size: 30px;
-  line-height: 40px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.r8-content h2 {
-  font-size: 22px;
-  text-align: center;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-btn-explore {
-  float: none;
-}
-
-.athp-section .custom-banner.gt-nativeapp-banner,
-.athp-section .custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper,
-.athp-section .custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner{
-    min-height: auto !important;
-    height: auto !important;
-}
-
-.custom-banner.gt-nativeapp-banner .r8-wrapper {
-  padding: 50px 0 20px !important;
-}
-
-.disclaimer{
-    margin-top: 20px;
-}
-}
-/* END OF GARTNER */
-
-
-
-
-
-
-/* R10 */
-.content-left{
-    width: 50%;
-    float: left;
-}
-
-.content-right {
-  float: left;
-  padding-left: 40px;
-  padding-top: 10px;
-  width: 50%;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-content h1 {
-  font-size: 44px;
-  font-weight: lighter;
-  line-height: 1.2;
-  margin-bottom: 20px;
-  margin-top: 0;
-  text-align: left;
-}
-
-.r8-content h2 {
-  color: #009639;
-  font-size: 22px;
-  margin: 20px 0;
-  max-width: 450px;
-  text-align: left;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-img {
-  border-right: 2px solid #fff;
-  padding-right: 80px;
-  width: 90%;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-btn-explore {
-  float: left;
-  margin-top: 15px;
-}
-
-
-@media only screen and (max-width: 979px) {
-.content-left, .content-right {
-  float: none;
-  padding: 0 50px;
-  width: 100%;
-}
-
-.custom-banner.r8-nativeapp-banner {
-  min-height: 870px;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-img {
-  border-bottom: 2px solid #fff;
-  border-right: medium none;
-  margin-bottom: 0;
-  padding-bottom: 40px;
-  padding-right: 0;
-  width: 140px;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-content h1 {
-  font-size: 30px;
-  line-height: 40px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.r8-content h2 {
-  font-size: 22px;
-  text-align: center;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-btn-explore {
-  float: none;
-}
-
-.athp-section .custom-banner.r8-nativeapp-banner,
-.athp-section .custom-banner.r8-nativeapp-banner .nativeapp-banner-wrapper,
-.athp-section .custom-banner.r8-nativeapp-banner .nativeapp-banner-wrapper-inner{
-    min-height: auto !important;
-    height: auto !important;
-}
-
-.custom-banner.r8-nativeapp-banner .r8-wrapper {
-  padding: 50px 0 20px !important;
-}
-}
-/* END OF R10 */
-
-/* AMPLIFY BANNER */
-
-.amplify_beta_heading, .amplify_beta_cta{ display:none; }
-
-.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ line-height:50px; padding-bottom:15px; }
-
- @media screen and (min-width: 800px) {
-	.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ line-height:75px; padding-bottom:30px; }
-
- }
-
-@media screen and (max-width: 800px) {
-	.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ 
-		line-height:40px; padding-bottom:10px; 
-		font-size: 35px;
-		text-align:center;
-	}
-
-.amplify-beta {
-  display: block;
-  float: none !important;
-  width: 100% !important;
-}
-
-.amplify-beta > img {
-  display: block !important;
-  margin: 0 auto !important;
-  max-width: 150px !important;
-  padding-top: 50px !important;
-  width: 80% !important;
-}
-
-.custom-banner.microservices-ebook-banner .microservices-text-wrapper .microservices-title {
-  font-size: 20px !important;
-}
-
-.nginx-theme-action-link-wrapper {
-  font-size: 14px!important;
-}
-
-.nginx-amplify-logo > img {
-  margin: 40px 0 20px !important;
-  max-width: 300px !important;
-  width: 100% !important;
-}
-
-
-}
-
-@media screen and (max-width: 400px) {
-    .custom-banner.microservices-ebook-banner, .custom-banner.microservices-ebook-banner .microservices-banner-wrapper, .hero-banner-item{
-            height: 550px !important;
-            min-height: auto !important;
-            overflow: hidden !important;
-        }
-        
-        .hero-banner-item{
-            margin-bottom: 30px;
-        }
-}
-
-@media only screen and (max-width: 979px) {
-	/*This codes is to hide nginxconf geo based banner from frist screen of mobile view.*/
-	.geo-header-banner.hide_from_first_screen{
-		z-index:-1000;
-	}	
-
-}
-
-.amplify-beta {
-  float: left;
-  width: 48.7106%;
-}
-
-.amplify-beta > img {
-  display: block;
-  margin: 0 100px 0 auto;
-  max-width: 300px;
-  width: 80%;
-}
-
-.custom-banner.microservices-ebook-banner .microservices-text-wrapper .microservices-title {
-  font-size: 36px;
-  line-height: 1.4 !important;
-}
-
-.nginx-amplify-logo > img {
-  margin: 60px 0 30px;
-  max-width: 400px;
-  width: 100%;
-}
-
-.custom-banner.microservices-ebook-banner .microservices-text-wrapper {
-  display: block !important;
-  padding-top: 20px;
-}            
-            @media screen and (max-width: 400px) {
-                .custom-banner.microservices-ebook-banner, .custom-banner.microservices-ebook-banner .microservices-banner-wrapper, .hero-banner-item {
-                    height: auto !important;
-                    min-height: auto !important;
-                    overflow: hidden !important;
-                }
-            }
-            </style>
-            
 
 
 
@@ -889,17 +152,29 @@
   width: calc(100% - 20px);
 }
 
-.contact-us-inner {
-  height: 95vh !important;
-  overflow-y: scroll;
-}
-
 .nx_universal_marketo_form select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
   background: transparent;
 }
+.nx_universal_marketo_form .group-label {
+  clear: both;
+  margin: 10px 0;
+  padding-top: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+    .nx_universal_marketo_form label {
+      margin: 4px 0;
+    }
+    .nx_universal_marketo_form label {
+      margin: 4px 0;
+    }
+ }
+
+/*End Universal Marketo Form CSS*/
+
 
 label, .label, .group-label, input, textarea, select {
   color: #989898;
@@ -978,11 +253,7 @@ input.pull-left {
   width: 49%;
 }
 
-.nx_universal_marketo_form .group-label {
-  clear: both;
-  margin: 10px 0;
-  padding-top: 20px;
-}
+
 
 .select-wrapper{
 	position: relative;
@@ -1000,44 +271,6 @@ input.pull-left {
 }
 .input-wrapper {
   clear: both;
-}
-
-
-@media only screen and (max-width: 767px) {
-
-.regpg-main-section-inner .regpg-main-description {
-  display: block;
-  float: none;
-  margin: 0 auto;
-  width: 100%;
-}
-
-.regpg-main-section-inner .regpg-main-form {
-  display: block;
-  float: none;
-  margin: 0 auto;
-  width: 100%;
-}	
-
-.pull-left, .pull-right, .column.pull-left, .column.pull-right {
-  float: none;
-  margin: 5px 0 !important;
-  width: 100% !important;
-}
-
-.input-wrapper .select-wrapper {
-  max-width: 70px;
-}
-
-
-.select-wrapper::after, .input-wrapper .select-wrapper::after {
-  top: 8px;
-}
-
-.nx_universal_marketo_form label {
-  margin: 4px 0;
-}
-
 }
 
 /*print css */
@@ -1062,7 +295,79 @@ input.pull-left {
     display: none!important;
   }
   #habla_window_div *{ display: none !important; } 
-  
+  /*For Product page */
+  .prodspage-lead-section .prodspage-lead-solutions-list-wrapper {
+    float: none;
+    width: 100%;
+  }
+  .prodspage-lead-solutions-list-wrapper li.prodspage-lead-solution-item{ 
+    position: static;
+    display: block;
+    width: 100%;
+    clear: left;
+  }
+  .prodspage-lead-solutions-list-wrapper li.prodspage-lead-solution-item .prodspage-lead-solution-image{
+    display: none;
+  }
+  .prodspage-third-section .prodspage-third-section-inner{padding-bottom:0}
+  .prodspage-third-section .prodspage-third-section-content{height:auto}
+  .prodspage-third-section .prodspage-third-expand-button-wrapper{display:none} 
+  .prodspage-third-section .prodspage-third-collapse-button-wrapper{ display: none;}
+  .nxmtrx-section .nxmtrx-cell{ 
+    float: none!important; 
+    display: inline-block!important;
+  }
+  .nxmtrx-section .nxmtrx-cell.nxmtrx-col-1, .nxmtrx-section .nxmtrx-cell.nxmtrx-col-2 , .nxmtrx-section .nxmtrx-cell.nxmtrx-col-3,.nxmtrx-section .nxmtrx-cell.nxmtrx-col-4{
+    float: none!important; 
+    display: inline-block!important;
+    border-right:0px solid #ff0000;
+  }
+  .nxmtrx-section .nxmtrx-cell.nxmtrx-col-1{width: 4%!important;}
+  .nxmtrx-section .nxmtrx-cell.nxmtrx-col-2{ width: 48%!important;}
+  .nxmtrx-section .nxmtrx-cell.nxmtrx-col-3{ width: 23%!important;}
+  .nxmtrx-section .nxmtrx-cell.nxmtrx-col-4{ width: 23%!important;}
+  .nxmtrx .nxmtrx-yes{ display: none; }
+  .nxmtrx img.nxmtrx-yes-img{ display: block!important; }
+}/*---end @media only print ---*/  
+
+
+@media only screen and (max-width: 480px) {
+  .footer-menu .sub-menu {
+      margin-bottom:20px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+  .regpg-main-section-inner .regpg-main-description {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .regpg-main-section-inner .regpg-main-form {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+  } 
+
+  .pull-left, .pull-right, .column.pull-left, .column.pull-right {
+    float: none;
+    margin: 5px 0 !important;
+    width: 100% !important;
+  }
+
+  .input-wrapper .select-wrapper {
+    max-width: 70px;
+  }
+
+
+  .select-wrapper::after, .input-wrapper .select-wrapper::after {
+    top: 8px;
+  }
+
 }
 
 </style>
@@ -1074,51 +379,47 @@ input.pull-left {
 
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
  <!-- a hidden div with site logo for print only -->
-  <div id="site_logo_print_only"><img src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png" alt="NGINX.COM"></div>
+  <div id="site_logo_print_only"><img src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png" alt="NGINX.COM"></div>
+<!-- NGINX SITE HEADER START -->
+<header id="masthead" class="site-header" role="banner" itemscope="" itemtype="http://schema.org/Organization">
+	<!-- sticky-menu show-sticky-menu-->
+	<div class="site-header-inner">
 
-	<header id="masthead" class="site-header" role="banner" itemscope="" itemtype="http://schema.org/Organization">
-	
-		<div class="site-header-inner">
+		<div class="site-branding-wrapper">
+			<div class="site-branding">
+				<div class="site-title" itemprop="name"><a href="https://www.nginx.com/" rel="home"><img src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png" alt="Web Server Load Balancing with NGINX Plus"></a></div>
+			</div><!-- /.site-branding -->
+		</div><!-- /.site-branding-wrapper -->
 
-			<div class="site-branding-wrapper">
-				<div class="site-branding">
-					<div class="site-title" itemprop="name"><a href="https://www.nginx.com/" rel="home"><img src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png" alt="Web Server Load Balancing with NGINX Plus"></a></div>
-				</div><!-- /.site-branding -->
-			</div><!-- /.site-branding-wrapper -->
+		<div class="header-menus">
 
-			<div class="header-menus">
-
-				<div class="header-actions-menu-location-wrapper">
-					<nav class="header-actions-menu-location" role="navigation">
-						<div class="menu-header-actions-container"><ul id="menu-header-actions" class="menu"><li id="menu-item-5252" class="free-trial-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-5252"><a href="https://www.nginx.com/free-trial-request">Free Trial</a></li>
+			<div class="header-actions-menu-location-wrapper">
+				<nav class="header-actions-menu-location" role="navigation">
+					<div class="menu-header-actions-container"><ul id="menu-header-actions" class="menu"><li id="menu-item-5252" class="free-trial-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-5252"><a href="https://www.nginx.com/free-trial-request">Free Trial</a></li>
 <li id="menu-item-4811" class="contact-sales-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-4811"><a href="#contact-us">Contact Sales</a></li>
-</ul></div>					</nav><!-- /.header-actions-menu-location -->
-				</div><!-- /.header-actions-menu-location -->
-				<div class="primary-menu-location-wrapper">
-                    <a class="sticky-menu-logo" href="https://www.nginx.com/" rel="home"><img src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx_n_icon.png" alt="Web Server Load Balancing with NGINX Plus"></a>
-					<nav id="site-navigation" class="primary-menu-location" role="navigation">
-						<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-3570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3570"><a href="https://www.nginx.com/products/"><span class="inner">Products</span><span class="icon icon-arrow-down"></span></a>
+</ul></div>				</nav><!-- /.header-actions-menu-location -->
+			</div><!-- /.header-actions-menu-location -->
+			<div class="primary-menu-location-wrapper">
+      			<a class="menu-logo" href="https://www.nginx.com/" rel="home"><img src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.png" alt="Web Server Load Balancing with NGINX Plus"></a>
+				<nav id="site-navigation" class="primary-menu-location" role="navigation">
+					<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-3570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3570"><a href="https://www.nginx.com/products/"><span class="inner">Products</span><span class="icon icon-arrow-down"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-4296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4296"><a href="https://www.nginx.com/products/"><span class="inner">NGINX Plus</span></a></li>
-	<li id="menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4441"><a href="https://www.nginx.com/products/technical-specs/"><span class="inner">Technical Specifications</span></a></li>
-	<li id="menu-item-43772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43772"><a href="https://www.nginx.com/resources/admin-guide/nginx-plus-releases/"><span class="inner">NGINX Plus Releases</span></a></li>
-	<li id="menu-item-3680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3680"><a href="https://www.nginx.com/products/feature-matrix/"><span class="inner">Compare Versions</span></a></li>
-	<li id="menu-item-3917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3917"><a href="https://www.nginx.com/products/pricing/"><span class="inner">Price &amp; Buy</span></a></li>
-	<li id="menu-item-19951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19951"><a href="https://www.nginx.com/products/nginx-plus-aws/"><span class="inner">NGINX Plus for AWS</span></a></li>
-	<li id="menu-item-14357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14357"><a href="https://www.nginx.com/products/nginx-plus-microsoft-azure/"><span class="inner">NGINX Plus for Azure</span></a></li>
-	<li id="menu-item-13957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13957"><a href="https://www.nginx.com/products/nginx-plus-google-cloud-platform/"><span class="inner">NGINX Plus for Google Cloud Platform</span></a></li>
+	<li id="menu-item-49388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49388"><a href="https://www.nginx.com/products/modules/"><span class="inner">Dynamic modules</span></a></li>
+	<li id="menu-item-43772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43772"><a href="https://www.nginx.com/resources/admin-guide/nginx-plus-releases/"><span class="inner">NGINX Plus releases</span></a></li>
+	<li id="menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4441"><a href="https://www.nginx.com/products/technical-specs/"><span class="inner">Technical specifications</span></a></li>
+	<li id="menu-item-3680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3680"><a href="https://www.nginx.com/products/feature-matrix/"><span class="inner">Compare versions</span></a></li>
+	<li id="menu-item-50086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50086"><a href="https://www.nginx.com/amplify/"><span class="inner">NGINX Amplify</span></a></li>
 </ul>
 </li>
 <li id="menu-item-3572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3572"><a href="https://www.nginx.com/solutions/"><span class="inner">Solutions</span><span class="icon icon-arrow-down"></span></a>
 <ul class="sub-menu">
-	<li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a href="https://www.nginx.com/solutions/load-balancing/"><span class="inner">Load Balancing</span></a></li>
-	<li id="menu-item-11336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11336"><a href="https://www.nginx.com/solutions/adc/"><span class="inner">Application Delivery Controller</span></a></li>
 	<li id="menu-item-19042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19042"><a href="https://www.nginx.com/solutions/microservices/"><span class="inner">Microservices</span></a></li>
-	<li id="menu-item-21517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21517"><a href="https://www.nginx.com/solutions/cloud/"><span class="inner">Move to the Cloud</span></a></li>
-	<li id="menu-item-3573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3573"><a href="https://www.nginx.com/solutions/api-gateway/"><span class="inner">API Gateway</span></a></li>
-	<li id="menu-item-3576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3576"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/"><span class="inner">Web &amp; Mobile Acceleration</span></a></li>
-	<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a title="test" href="https://www.nginx.com/solutions/application-security/"><span class="inner">Application Security</span></a></li>
-	<li id="menu-item-3574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3574"><a href="https://www.nginx.com/solutions/web-server/"><span class="inner">Web Server</span></a></li>
+	<li id="menu-item-11336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11336"><a href="https://www.nginx.com/solutions/adc/"><span class="inner">ADC / Load balancing</span></a></li>
+	<li id="menu-item-3576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3576"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/"><span class="inner">Web &amp; mobile performance</span></a></li>
+	<li id="menu-item-21517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21517"><a href="https://www.nginx.com/solutions/cloud/"><span class="inner">Cloud migration</span></a></li>
+	<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a title="test" href="https://www.nginx.com/solutions/application-security/"><span class="inner">Security</span></a></li>
+	<li id="menu-item-3573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3573"><a href="https://www.nginx.com/solutions/api-gateway/"><span class="inner">API gateway</span></a></li>
 </ul>
 </li>
 <li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3622"><a href="https://www.nginx.com/resources/"><span class="inner">Resources</span><span class="icon icon-arrow-down"></span></a>
@@ -1126,70 +427,65 @@ input.pull-left {
 	<li id="menu-item-4235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4235"><a href="https://www.nginx.com/resources/admin-guide/"><span class="inner">Admin Guide</span></a></li>
 	<li id="menu-item-5758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5758"><a href="https://www.nginx.com/resources/library/"><span class="inner">Library</span></a></li>
 	<li id="menu-item-4056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4056"><a href="https://www.nginx.com/resources/webinars/"><span class="inner">Webinars</span></a></li>
+	<li id="menu-item-49023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49023"><a href="https://www.nginx.com/customers/"><span class="inner">Case studies</span></a></li>
 	<li id="menu-item-23506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23506"><a href="https://www.nginx.com/resources/events/"><span class="inner">Events</span></a></li>
-	<li id="menu-item-4092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4092"><a href="https://www.nginx.com/resources/more/"><span class="inner">Community Resources</span></a></li>
-	<li id="menu-item-14377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14377"><a href="https://www.nginx.com/resources/wiki/"><span class="inner">Community Wiki</span></a></li>
 	<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="https://www.nginx.com/faqs/"><span class="inner">FAQ</span></a></li>
+	<li id="menu-item-14377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14377"><a href="https://www.nginx.com/resources/wiki/"><span class="inner">Community wiki</span></a></li>
 </ul>
 </li>
-<li id="menu-item-5455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5455"><a href="https://www.nginx.com/support-services/"><span class="inner">Support &amp; Services</span><span class="icon icon-arrow-down"></span></a>
+<li id="menu-item-5455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5455"><a href="https://www.nginx.com/support-services/"><span class="inner">Support</span><span class="icon icon-arrow-down"></span></a>
 <ul class="sub-menu">
-	<li id="menu-item-3628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3628"><a href="https://www.nginx.com/support/"><span class="inner">Support</span></a></li>
+	<li id="menu-item-3628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3628"><a href="https://www.nginx.com/support/"><span class="inner">NGINX Plus support</span></a></li>
 	<li id="menu-item-3631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3631"><a href="https://www.nginx.com/services/"><span class="inner">Professional Services</span></a></li>
 	<li id="menu-item-3626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3626"><a target="_blank" href="http://university.nginx.com/"><span class="inner">Training</span></a></li>
 </ul>
 </li>
-<li id="menu-item-3633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3633"><a href="https://www.nginx.com/company/"><span class="inner">Company</span><span class="icon icon-arrow-down"></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-3646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3646"><a href="https://www.nginx.com/company/"><span class="inner">About Us</span></a></li>
-	<li id="menu-item-3636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3636"><a href="https://www.nginx.com/jobs/"><span class="inner">Careers</span></a></li>
-	<li id="menu-item-3634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3634"><a href="https://www.nginx.com/partners/"><span class="inner">Partners</span></a></li>
-	<li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="https://www.nginx.com/leadership-team/"><span class="inner">Leadership</span></a></li>
-	<li id="menu-item-5327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5327"><a href="https://www.nginx.com/press/"><span class="inner">Press</span></a></li>
-</ul>
-</li>
-<li id="menu-item-3616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3616"><a href="https://www.nginx.com/customers/"><span class="inner">Customers</span></a></li>
+<li id="menu-item-49226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49226"><a href="https://www.nginx.com/products/pricing/"><span class="inner">Pricing</span></a></li>
 <li id="menu-item-3571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3571"><a href="https://www.nginx.com/blog/"><span class="inner">Blog</span></a></li>
-</ul></div>						<div class="search-form-wrapper">
-							<form method="get" class="search-form" action="https://www.nginx.com/">
+</ul></div>
+        
+					<div class="search-form-wrapper">
+						<form method="get" class="search-form" action="https://www.nginx.com/">
 	<label for="search" class="screen-reader-text">Search</label>
 	<input type="search" name="s" id="s" class="search-field" placeholder="Search nginx.com" value="" maxlength="150">
 	<input type="submit" class="search-button" value="Search">
 </form>
-						</div>
-					</nav><!-- /#site-navigation.primary-menu-location -->
-				</div><!-- /.primary-menu-location-wrapper -->
-
-				<div class="header-extras-wrapper">
-					<div class="header-extras">
-						<div class="header-extra header-tel" itemprop="telephone"><a href="tel:+18009159122">1-800-915-9122</a></div>
-						<div class="header-extra header-login">
-							<a class="login-link" href="https://cs.nginx.com/login">
-								<div class="icon icon-user"></div>
-								<div class="login-text">Login</div>
-							</a>
-						</div>
 					</div>
+
+			        <div class="header-login">
+			          <a class="login-link" href="https://cs.nginx.com/login">
+			            <div class="icon icon-user"></div>
+			            <div class="login-text">Login</div>
+			          </a>
+			        </div>
+				</nav><!-- /#site-navigation.primary-menu-location -->
+			</div><!-- /.primary-menu-location-wrapper -->
+
+			<div class="header-extras-wrapper" style="display: none;">
+				<div class="header-extras">
+					<div class="header-extra header-tel" itemprop="telephone"><a href="tel:+18009159122">1-800-915-9122</a></div>
 				</div>
-
-			</div><!-- /.header-menus -->
-
-			<div class="mobile-menu-button-wrapper">
-				<a href="#" class="mobile-menu-button"><div class="icon icon-menu"></div></a>
 			</div>
+		</div><!-- /.header-menus -->
 
-			<div class="mobile-search-button-wrapper">
-				<div class="search-form-wrapper">
-					<form method="get" class="search-form" action="https://www.nginx.com/">
+		<div class="mobile-menu-button-wrapper">
+			<a href="#" class="mobile-menu-button"><div class="icon icon-menu"></div></a>
+		</div>
+
+		<div class="mobile-search-button-wrapper">
+			<div class="search-form-wrapper">
+				<form method="get" class="search-form" action="https://www.nginx.com/">
 	<label for="search" class="screen-reader-text">Search</label>
 	<input type="search" name="s" id="s" class="search-field" placeholder="Search nginx.com" value="" maxlength="150">
 	<input type="submit" class="search-button" value="Search">
 </form>
-				</div>
 			</div>
+		</div>
 
-		</div><!-- /.site-header-inner -->
-	</header><!-- /#masthead -->
+	</div><!-- /.site-header-inner -->
+</header><!-- /#masthead -->
+
+<!-- NGINX SITE HEADER END -->	
 	<div class="nginx-theme-common-hero-wrapper for-defpg-hero">
 		<div class="nginx-theme-common-hero-extra-bg-layer for-defpg-hero"></div>
 		<div class="nginx-theme-common-hero for-defpg-hero">
@@ -1210,22 +506,102 @@ input.pull-left {
 <article id="post-919" class="post-919 page type-page status-publish hentry wpautop">
 
 	<div class="entry-content">
-		<p>NGINX, Inc. understands the importance of protecting your information. We recognize that when you choose to provide us with information about yourself, you trust us to use it in a responsible manner. This Privacy Policy outlines how we collect, store, and use the information you provide. As our services change or expand, this policy might change; in the event of a change you will be notified promptly. </p>
-<p><strong>What information do we gather?</strong></p>
-<p>When you visit our website and access information you remain anonymous. However, when you engage in certain activities on the site, such as requesting product information, downloading software, or entering contests, we might ask you to provide information about yourself such as your name, mailing address, email address, phone number, and other personally identifying information.  </p>
-<p><strong>How do we use the information we gather?</strong></p>
-<p>We use the personal information we collect to provide you with information that you request or to record and support your participation in the activities you select. Any personal information we request is only used to assist in providing the highest level of customer care, including regular newsletters. To unsubscribe from such newsletters, click the “unsubscribe” link that appears at the bottom of the email.</p>
-<p><strong>Do we share your personal information with third parties, such as service providers or consultants?</strong></p>
-<p>All information you provide to NGINX, Inc. is kept confidential and never rented or sold. Information you submit might be shared with our distribution and reseller partners. However, if you prefer that your information not be shared with third parties, you can “opt out” of future sharing by emailing <a href="mailto:nginx-inquiries@nginx.com">nginx-inquiries@nginx.com</a>. Please note that it can take up to 10 days for your request to be processed and completed. </p>
-<p><strong>How do we use cookies?</strong></p>
-<p>NGINX, Inc. uses cookies to gather information on website usage. This information is gathered solely to improve the content, usability, and functionality of the site. This helps us better understand our customers and improve their experience with us. </p>
-<p>Cookies can also be used in the selection of the advertisements that appear on a Google search results page, or at a site in the Google Display Network (that is, ad content might be based on which pages you viewed during past visits to the NGINX, Inc. website). You can set preferences for how Google advertises to you on their <span style="white-space: nowrap;"><a href="http://www.google.com/settings/ads/onweb/" target="_blank">Ads Settings</a></span> page. You can opt out of interest-based advertising by changing cookie settings in your browser or by using a <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">browser plug-in</a>.</p>
-<p><strong>Can you view, correct, or delete your personal information?</strong></p>
-<p>To update or delete personal information you previously provided, please email <a href="mailto:nginx-inquiries@nginx.com">nginx-inquiries@nginx.com</a>.</p>
-<p><strong>Is your user data secure?</strong><br>
-We employ reasonable security measures to protect your personal information in storage. NGINX, Inc. uses advanced firewall and password protection for our databases to ensure your personal information is as secure as possible. Any physical access to the information is strongly limited.</p>
-<p><strong>Contacting us with questions or concerns</strong><br>
-If you have any questions about this Privacy Policy, please email <a href="mailto:nginx-inquiries@nginx.com">nginx-inquiries@nginx.com</a>.</p>
+		<p>Last revised: March, 2017</p>
+<p>NGINX, Inc. understands the importance of protecting your information. We recognize that when you choose to provide us with information about yourself, you trust us to use it in a responsible manner. This Privacy Policy outlines how we collect, store, and use the information you provide. As our services change or expand, this policy might change; in the event of a change we will notify you of the changes in accordance with applicable law.</p>
+<p>What information do we gather?</p>
+<p>When you visit our website and access information you can remain anonymous. However, when you engage in certain activities on the site, such as requesting product information, downloading software, or entering contests, we might ask you to provide information about yourself such as your name, mailing address, email address, phone number, location and other personally identifying information. If you purchase products from us, your credit card information will be collected and used by our payment processor solely for purposes of completing your purchase. We do not store or use your credit card information.</p>
+<p>Some of our products can be used by our customers to monitor activity on their networks. If you use our products for these purposes it is your responsibility to comply with all applicable laws and your internal policies relating to such monitoring, and providing notices and obtaining any necessary consents from your users.</p>
+<p>No Information from Children Under Age 13</p>
+<p>If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we have collected personal information from a child under the age of 13, please contact us at <a href="mailto:privacy@nginx.com" target="_blank">privacy@nginx.com</a>.</p>
+<p>How do we use the information we gather?</p>
+<p>We use the personal information we collect to provide you with products, services and information that you purchase or request, to record and support your participation in the activities you select, to provide you with information about Nginx and its products and services, and to contact you in response to your request or inquiry. We use your personal information to assist in providing the highest level of customer care. We also will use your personal information from time to time to provide you with information about Nginx and its products and services, provide newsletters to you, and to contact you in response to your request or inquiry. To unsubscribe from such newsletters, click the “unsubscribe” link that appears at the bottom of the email or go to our <a href="http://pages.nginx.com/UnsubscribePage.html" target="_blank">Unsubscribe Page here</a>.</p>
+<p>We will only process your personal information in ways that are compatible with the purpose that we collected it for, or for purposes that you later authorize. Before we use your information for a purpose that is materially different than the purpose we collected it for or that you later authorized, we will provide you with the opportunity to opt out. We maintain reasonable procedures to help ensure that EU Personal Data is reliable for its intended use, accurate, complete, and current.</p>
+<p>Do we share your personal information with third parties, such as service providers or consultants?</p>
+<p>Information you submit might be shared with our distribution and reseller partners who may contact you regarding our products and services. However, if you prefer that your information not be shared with third parties, you can “opt out” of future sharing by emailing <a href="mailto:privacy@nginx.com" target="_blank">privacy@nginx.com</a>. Please note that it can take up to 10 days for your request to be processed and completed. We may provide information to third party service providers that help us operate and manage our Site, process orders, and fulfill and deliver products and services that you purchase from us. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.</p>
+<p>In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of Nginx when we have your consent to do so.  </p>
+<p>We will share personal information with third party companies, organizations or individuals outside of Nginx if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: </p>
+<ul>
+<li>Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request. </li>
+<li>Enforce applicable Terms of Use, including investigation of potential violations. </li>
+<li>Detect, prevent, or otherwise address fraud, security or technical issues. </li>
+<li>Protect against harm to the rights, property or safety of Nginx, our users, customers or the public as required or permitted by law. </li>
+</ul>
+<p>If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. </p>
+<p>How do we use cookies?</p>
+<p>NGINX, Inc. uses cookies to gather information on website usage. This information is gathered to improve the content, usability, and functionality of the site. This helps us better understand our customers and improve their experience with us.</p>
+<p>The following table provides additional information about cookies we use on our Site.</p>
+<table width="100%" class="chart-table">
+<tbody><tr>
+<td>Categories of Use</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>Preferences, features and services</td>
+<td>Cookies can tell us which language you prefer and what your communications preferences are. They can help you fill out forms on&nbsp;<a href="https://www.nginx.com/" target="_blank">nginx.com</a>&nbsp;more easily. They also provide you with features, insights, and personalized content based off other content you’ve engaged with on the site.</td>
+</tr>
+<tr>
+<td>Advertising</td>
+<td>We use cookies to show you advertising both on and off the NGINX site. Similarly, we may work with advertising platforms who use a cookie to show you an ad off&nbsp;<a href="https://www.nginx.com/" target="_blank">nginx.com</a>, and to&nbsp;determine how the ad performed, or provide us with information about how you interact with ads.</td>
+</tr>
+<tr>
+<td>Performance, Analytics and Research</td>
+<td>Cookies help us learn how well our site performs in different locations, on different devices and at different times of day.</td>
+</tr>
+</tbody></table>
+<p>Do we use your information for advertising purposes? </p>
+<p>We may use how you browse and shop in order to show you ads for Nginx or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Nginx. </p>
+<p>We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. For example, cookies can be used in the selection of the advertisements that appear on a Google search results page, or at a site in the Google Display Network (that is, ad content might be based on which pages you viewed during past visits to the NGINX, Inc. website). You can set preferences for how Google advertises to you on their Ads Settings page. You can opt out of interest-based advertising by changing cookie settings in your browser or by using a browser plug-in. We do not control cookies used by these advertising networks. Currently, our Site does not recognize if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. To learn more about interest-based advertisements and your opt-out rights and options, the following sites are helpful:</p>
+<ul>
+<li><a href="http://www.youronlinechoices.eu/" target="_blank">European Interactive Digital Advertising Alliance (EU)</a></li>
+<li><a href="https://www.iab.com/" target="_blank">Internet Advertising Bureau (US)</a></li>
+<li><a href="https://www.iabeurope.eu/" target="_blank">Internet Advertising Bureau (EU)</a></li>
+<li><a href="http://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a></li>
+</ul>
+<p>If you do not wish to have your online activity tracked for advertising purposes, please do not use this Site.</p>
+<p>Browser manufacturers provide help pages relating to cookie management in their products. Please see below for more information.</p>
+<ul>
+<li><a href="https://support.google.com/chrome/answer/95647?hl=en-GB" target="_blank">Google Chrome</a></li>
+<li><a href="https://support.microsoft.com/en-us/help/260971/description-of-cookies" target="_blank">Internet Explorer</a></li>
+<li><a href="https://support.mozilla.org/t5/Cookies-and-cache/Cookies-Information-that-websites-store-on-your-computer/ta-p/1483" target="_blank">Mozilla Firefox</a></li>
+<li><a href="https://support.apple.com/kb/PH5042?locale=en_US" target="_blank">Safari (Desktop)</a></li>
+<li><a href="https://support.apple.com/en-us/HT201265" target="_blank">Safari (Mobile)</a></li>
+<li><a href="https://support.google.com/nexus/answer/54068?visit_id=1-636238558922635949-2727942465&amp;hl=en&amp;rd=1" target="_blank">Android Browser</a></li>
+<li><a href="http://www.opera.com/help" target="_blank">Opera</a></li>
+<li><a href="http://www.opera.com/help/mobile/android#privacy" target="_blank">Opera Mobile</a></li>
+</ul>
+<p>For other browsers, please consult the documentation that your browser manufacturer provides.<br>
+Can you access, view, correct, or delete your personal information?</p>
+<p>To update or delete personal information you previously provided, please email <a href="mailto:privacy@nginx.com" target="_blank">privacy@nginx.com</a>.</p>
+<p>Is your user data secure?</p>
+<p>We employ reasonable security measures to protect your personal information in storage. NGINX, Inc. uses advanced firewall and password protection for our databases to ensure your personal information is as secure as possible. Any physical access to the information is strongly limited. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us.  There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. It is your responsibility to protect the security of your login information.  </p>
+<p>Consent to Processing of Personal Data in United States</p>
+<p>If you are a resident of the European Economic Area (EEA) or other jurisdiction outside of the U.S., in order to provide our Site, products and services to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information.  We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to, and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.</p>
+<p>Changes to Our Privacy Policy </p>
+<p>Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.</p>
+<p>Contacting us with questions or concerns</p>
+<p>If you have any questions about this Privacy Policy, please email <a href="mailto:privacy@nginx.com" target="_blank">privacy@nginx.com</a>, call us at 800-915-9122, or use our online <a href="https://www.nginx.com/#contact-us" target="_blank">contact form</a> to send us a message (“Questions about NGINX?). Our US postal mail address is:</p>
+<p>Nginx, Inc.<br>
+85 Federal<br>
+San Francisco, CA 94107</p>
+<style type="text/css">	
+		table.chart-table tr:nth-child(odd){
+			background: #f2f2f2;
+		}
+		table.chart-table tr td:first-child{
+			background: #efefef;
+			border-bottom: 2px solid #d4d4d4;
+			border-right: 2px solid #d4d4d4;
+                        text-align: center;
+		}
+                table.chart-table tr:first-child td{
+			font-weight:500;
+                        text-align:center;
+		}
+                table.chart-table tr td{
+			vertical-align: middle;
+                        padding: 10px 20px;
+		}
+</style>
 			</div><!-- .entry-content -->
 
 </article><!-- #post-## -->
@@ -1253,12 +629,12 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		</div><!-- /.nginx-theme-server-reinvented-widget-content -->
 		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">About NGINX</h3>			<div class="textwidget"><p>NGINX is the heart of the modern web, powering half of the world’s busiest sites and applications. The company's comprehensive <a href="https://www.nginx.com/products/">application delivery platform</a> combines load balancing, content caching, web serving, security controls, and monitoring in one easy-to-use software package.</p>
 </div>
-		</aside><aside id="nginx_theme_blog_ad_widget-2" class="widget widget_nginx_theme_blog_ad_widget">		<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1439565675"></script>
-		<div class="adminguide-ad" id="howto-ebook" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-howto.jpg"></div>
-		<div class="adminguide-ad" id="http2-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http21.png"></div>
-		<div class="adminguide-ad" id="http2-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http22.png"></div>
-		<div class="adminguide-ad" id="microservices-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices1.jpg"></div>
-		<div class="adminguide-ad" id="microservices-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices2.jpg"></div>
+		</aside><aside id="nginx_theme_blog_ad_widget-2" class="widget widget_nginx_theme_blog_ad_widget">		<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1439565675"></script>
+		<div class="adminguide-ad" id="howto-ebook" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-howto.jpg"></div>
+		<div class="adminguide-ad" id="http2-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http21.png"></div>
+		<div class="adminguide-ad" id="http2-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http22.png"></div>
+		<div class="adminguide-ad" id="microservices-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices1.jpg"></div>
+		<div class="adminguide-ad" id="microservices-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices2.jpg"></div>
 		<script type="text/javascript">
 			$(document).ready(function(){
                                 
@@ -1338,19 +714,19 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		</script>
 		</aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
 					<li>
-				<a href="https://www.nginx.com/blog/3-models-nginx-microservices-reference-architecture/">The 3 Models in the NGINX Microservices Reference Architecture</a>
+				<a href="https://www.nginx.com/blog/stackstate-monitoring-for-nginx/">StackState Monitoring for NGINX</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/tutorial-proxy-net-core-kestrel-nginx-plus/">Tutorial: Proxying .NET Core and Kestrel with NGINX and NGINX Plus</a>
+				<a href="https://www.nginx.com/blog/web-application-security/">Web Application Security</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/migration-guides-load-balancer-configuration-f5-citrix-nginx-plus/">Migrating Load Balancer Configuration from F5 and Citrix to NGINX Plus with Our Guides</a>
+				<a href="https://www.nginx.com/blog/secure-practices-for-microservices-dev-and-ops/">Secure Practices for Microservices – Dev and Ops</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/shared-caches-nginx-plus-cache-clusters-part-2/">Shared Caches with NGINX Plus Cache Clusters, Part 2</a>
+				<a href="https://www.nginx.com/blog/nginx-plus-highly-available-aws-load-balancer/">Deploying NGINX Plus as a Highly Available AWS Load Balancer</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/operational-intelligence-nginx-plus-splunk-enterprise/">Get Smart: Operational Intelligence for NGINX and NGINX Plus With Splunk Enterprise</a>
+				<a href="https://www.nginx.com/blog/rate-limiting-nginx/">Rate Limiting with NGINX and NGINX Plus</a>
 						</li>
 				</ul>
 		</aside>		</div><!-- #secondary -->
@@ -1365,14 +741,14 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		<!-- button -->
 		<div class="pre-footer-cta-button">
 				<div class="nginx-theme-action-link-wrapper for-default-try has-icon">
-		<a class="nginx-theme-action-link for-default-try" href="https://www.nginx.com/free-trial-request"> Try NGINX Plus for free</a>			<div class="icon icon-arrow-disc"></div>
+		<a class="nginx-theme-action-link for-default-try" href="https://www.nginx.com/free-trial-request" id="pre_footer_ftr_btn"> Try NGINX Plus for free</a>			<div class="icon icon-arrow-disc"></div>
 			</div>
 			</div>
 
 		<!-- button -->
 		<div class="pre-footer-cta-button">
 				<div class="nginx-theme-action-link-wrapper for-default-ask has-icon">
-		<a class="nginx-theme-action-link for-default-ask" href="https://www.nginx.com/contact-sales"> Ask us a question</a>			<div class="icon icon-arrow-disc"></div>
+		<a class="nginx-theme-action-link for-default-ask" href="https://www.nginx.com/contact-sales" id="pre_footer_csr_btn"> Ask us a question</a>			<div class="icon icon-arrow-disc"></div>
 			</div>
 			</div>
 
@@ -1405,26 +781,23 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 					<ul id="menu-footer-products" class="footer-menu"><li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3650"><a href="https://www.nginx.com/products/">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="https://www.nginx.com/products/">NGINX Plus</a></li>
-	<li id="menu-item-11931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11931"><a href="https://www.nginx.com/products/technical-specs/">Technical Specifications</a></li>
-	<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="https://www.nginx.com/products/feature-matrix/">Compare Versions</a></li>
-	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="https://www.nginx.com/products/pricing/">Price &amp; Buy</a></li>
-	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><a href="https://www.nginx.com/products/nginx-plus-aws-old/">NGINX Plus for AWS</a></li>
-	<li id="menu-item-20887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20887"><a href="https://www.nginx.com/products/nginx-plus-microsoft-azure/">NGINX Plus for Azure</a></li>
-	<li id="menu-item-20892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20892"><a href="https://www.nginx.com/products/nginx-plus-google-cloud-platform/">NGINX Plus for Google Cloud Platform</a></li>
+	<li id="menu-item-49389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49389"><a href="https://www.nginx.com/products/modules/">Dynamic modules</a></li>
+	<li id="menu-item-4101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4101"><a href="https://www.nginx.com/products/pricing/">Pricing</a></li>
+	<li id="menu-item-11931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11931"><a href="https://www.nginx.com/products/technical-specs/">Technical specifications</a></li>
+	<li id="menu-item-4100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4100"><a href="https://www.nginx.com/products/feature-matrix/">Compare versions</a></li>
+	<li id="menu-item-50087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50087"><a href="https://www.nginx.com/amplify/">NGINX Amplify</a></li>
 </ul>
 </li>
 </ul>				</nav><!-- /.footer-menu-location -->
 				<nav class="footer-menu-wrap" role="navigation">
 					<ul id="menu-footer-solutions" class="footer-menu"><li id="menu-item-4128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4128"><a href="https://www.nginx.com/solutions/">Solutions</a>
 <ul class="sub-menu">
-	<li id="menu-item-4130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4130"><a href="https://www.nginx.com/solutions/load-balancing/">Load Balancing</a></li>
-	<li id="menu-item-24967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24967"><a href="https://www.nginx.com/solutions/adc/">Application Delivery Controller</a></li>
 	<li id="menu-item-24957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24957"><a href="https://www.nginx.com/solutions/microservices/">Microservices</a></li>
-	<li id="menu-item-24962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24962"><a href="https://www.nginx.com/solutions/cloud/">Move to the Cloud</a></li>
-	<li id="menu-item-4132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4132"><a href="https://www.nginx.com/solutions/api-gateway/">API Gateway</a></li>
-	<li id="menu-item-4129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4129"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/">Web &amp; Mobile Acceleration</a></li>
-	<li id="menu-item-4131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4131"><a href="https://www.nginx.com/solutions/application-security/">Application Security</a></li>
-	<li id="menu-item-4134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4134"><a href="https://www.nginx.com/solutions/web-server/">Web Server</a></li>
+	<li id="menu-item-24967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24967"><a href="https://www.nginx.com/solutions/adc/">ADC / Load balancing</a></li>
+	<li id="menu-item-4129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4129"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/">Web &amp; mobile performance</a></li>
+	<li id="menu-item-24962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24962"><a href="https://www.nginx.com/solutions/cloud/">Cloud migration</a></li>
+	<li id="menu-item-4131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4131"><a href="https://www.nginx.com/solutions/application-security/">Security</a></li>
+	<li id="menu-item-4132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4132"><a href="https://www.nginx.com/solutions/api-gateway/">API gateway</a></li>
 </ul>
 </li>
 </ul>				</nav><!-- /.footer-menu-location -->
@@ -1434,34 +807,38 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 					<ul id="menu-footer-resources-and-support" class="footer-menu"><li id="menu-item-4151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4151"><a href="https://www.nginx.com/resources/">Resources</a>
 <ul class="sub-menu">
 	<li id="menu-item-4153" class="menu-item menu-item-type-taxonomy menu-item-object-nx_info_types menu-item-4153"><a href="https://www.nginx.com/blog/nx_info_types/admin-guide/">Admin Guide</a></li>
+	<li id="menu-item-50088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50088"><a href="https://www.nginx.com/blog/">Blog</a></li>
 	<li id="menu-item-24977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24977"><a href="https://www.nginx.com/resources/library/">Library</a></li>
 	<li id="menu-item-4154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4154"><a href="https://www.nginx.com/resources/webinars/">Webinars</a></li>
 	<li id="menu-item-24982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24982"><a href="https://www.nginx.com/resources/events/">Events</a></li>
-	<li id="menu-item-4155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4155"><a href="https://www.nginx.com/resources/more/">Community Resources</a></li>
-	<li id="menu-item-24992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24992"><a href="https://www.nginx.com/resources/wiki/">Community Wiki</a></li>
+	<li id="menu-item-50089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50089"><a href="https://www.nginx.com/customers/">Case studies</a></li>
 	<li id="menu-item-4156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4156"><a href="https://www.nginx.com/faqs/">FAQ</a></li>
+	<li id="menu-item-24992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24992"><a href="https://www.nginx.com/resources/wiki/">Community wiki</a></li>
+	<li id="menu-item-50505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50505"><a href="https://www.nginx.com/resources/more/">Community resources</a></li>
 </ul>
 </li>
-<li id="menu-item-5548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5548"><a href="https://www.nginx.com/support-services/">Support &amp; Services</a>
+<li id="menu-item-5548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5548"><a href="https://www.nginx.com/support-services/">Support</a>
 <ul class="sub-menu">
-	<li id="menu-item-5567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5567"><a href="https://www.nginx.com/support/">Support</a></li>
+	<li id="menu-item-5567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5567"><a href="https://www.nginx.com/support/">NGINX Plus support</a></li>
 	<li id="menu-item-4150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4150"><a href="https://www.nginx.com/services/">Professional Services</a></li>
 	<li id="menu-item-4149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4149"><a href="http://university.nginx.com/">Training</a></li>
 </ul>
 </li>
 </ul>				</nav><!-- /.footer-menu-location -->
 				<nav class="footer-menu-wrap" role="navigation">
-					<ul id="menu-footer-extras" class="footer-menu"><li id="menu-item-4157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4157"><a href="https://www.nginx.com/company/">Company</a>
+					<ul id="menu-footer-companypartners" class="footer-menu"><li id="menu-item-4157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4157"><a href="https://www.nginx.com/company/">Company</a>
 <ul class="sub-menu">
-	<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="https://www.nginx.com/company/">About Us</a></li>
+	<li id="menu-item-4158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4158"><a href="https://www.nginx.com/company/">About NGINX</a></li>
 	<li id="menu-item-4159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4159"><a href="https://www.nginx.com/jobs/">Careers</a></li>
-	<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4160"><a href="https://www.nginx.com/partners/">Partners</a></li>
 	<li id="menu-item-4162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4162"><a href="https://www.nginx.com/leadership-team/">Leadership</a></li>
 	<li id="menu-item-5550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5550"><a href="https://www.nginx.com/press/">Press</a></li>
 </ul>
 </li>
-<li id="menu-item-4126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4126"><a href="https://www.nginx.com/customers/">Customers</a></li>
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="https://www.nginx.com/blog/">Blog</a></li>
+<li id="menu-item-4160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4160"><a href="https://www.nginx.com/partners/">Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-49390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49390"><a href="https://www.nginx.com/partners/certified-module-program/">Certified module program</a></li>
+</ul>
+</li>
 </ul>				</nav><!-- /.footer-menu-location -->
 			</div>
 			<div class="footer-connect-nav">
@@ -1471,7 +848,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 						<li><a href="https://www.facebook.com/nginxinc" class="icon-facebook">facebook</a></li>
 						<li><a href="https://twitter.com/nginx" class="icon-twitter">twitter</a></li>
 						<li><a href="http://www.linkedin.com/company/nginx" class="icon-linkedin">linkedin</a></li>
-						<li style="margin-right:-3px;margin-left:2px;"><a href="https://www.youtube.com/user/NginxInc"><img style="width:26px;height:auto;" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/yt-nginx@2x.png"></a></li>
+						<li style="margin-right:-3px;margin-left:2px;"><a href="https://www.youtube.com/user/NginxInc"><img style="width:26px;height:auto;" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/yt-nginx@2x.png"></a></li>
 						<li><a href="https://www.nginx.com/feed/" class="icon-rss">rss</a></li>
 					</ul>
 				</div>
@@ -1498,7 +875,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 			</div>
 
 			<div class="site-info">
-				Copyright © 2017 NGINX Inc. All rights reserved. | 85 Federal St. San Francisco, CA 94107 | 1-800-915-9122 | <a href="/privacy-policy/">Privacy Policy</a>			</div><!-- /.site-info -->
+				Copyright © 2017 NGINX Inc. All rights reserved. | <a href="/privacy-policy/">Privacy Policy</a>			</div><!-- /.site-info -->
 
 		</div><!-- /.site-footer-inner -->
 	</footer><!-- /#colophon -->
@@ -1513,13 +890,11 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 			<form id="mf1" action="https://app-ab05.marketo.com/index.php/leadCapture/save" onsubmit="return FtrCheckHoneyPotField();" method="post" enctype="application/x-www-form-urlencoded" class="regpg-main-form-element nginx_free_trial_form">
 			<input class="mf3_form_fname" type="text" name="FirstName" id="First Name" placeholder="First Name" required="">
 			<input class="mf3_form_lname" type="text" name="LastName" id="Last Name" placeholder="Last Name" required="">
-			<input class="mf3_form_email" type="email" name="Email" id="Email Address" placeholder="Email" required="">
+			<input class="mf3_form_email" type="email" name="Email" id="Email Address" placeholder="Business email" required="">
 			<input class="mf3_form_company" type="text" name="Company" id="Company" placeholder="Company" required="">
 			<input class="mf3_form_job_title" type="text" name="Title" id="Title" placeholder="Job Title" required="">
 			<input class="mf3_form_phone" type="tel" name="Phone" id="Phone Number" placeholder="Phone Number" required="">
 			    <select id="Country" name="Country">
-        <option value="US">United States</option>
-        <option value="CA">Canada</option>
         <option value="AF">Afghanistan</option>
         <option value="AX">Åland Islands</option>
         <option value="AL">Albania</option>
@@ -1557,6 +932,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
         <option value="BI">Burundi</option>
         <option value="KH">Cambodia</option>
         <option value="CM">Cameroon</option>
+        <option value="CA">Canada</option>
         <option value="CV">Cape Verde</option>
         <option value="KY">Cayman Islands</option>
         <option value="CF">Central African Republic</option>
@@ -1744,6 +1120,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
         <option value="UA">Ukraine</option>
         <option value="AE">United Arab Emirates</option>
         <option value="GB">United Kingdom</option>
+        <option value="US">United States</option>
         <option value="UY">Uruguay</option>
         <option value="UZ">Uzbekistan</option>
         <option value="VU">Vanuatu</option>
@@ -1787,6 +1164,26 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 			return true;
 		}
 	}
+
+	jQuery( document ).ready( function($) {
+
+        $( '#Country' ).on( 'change',function(){
+        	var countryCode = $(this).val();
+
+        	if( nx_is_eu_country( countryCode ) || "CA" == countryCode )//CA for Canada
+        	{
+        		//insert new Explicit_Opt_In__c checkbox
+
+        		$("#submit_free_trial").before( '<div id="Explicit_Opt_In__c_wrap"> <input type="checkbox" name="Explicit_Opt_In__c" id="Explicit_Opt_In__c" value="yes"> Yes, I want personalized emails from NGINX.</div>' );
+        	}
+        	else
+        	{
+        		//remove Explicit_Opt_In__c checkbox
+        		$("#Explicit_Opt_In__c_wrap").remove();
+        	}
+        });
+    } );
+
 </script>
 <div class="contact-us-wrap">
 	<div class="contact-us-inner-wrap">
@@ -1800,7 +1197,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 				<form id="mf2" action="https://app-ab05.marketo.com/index.php/leadCapture/save" onsubmit="return CsCheckHoneyPotField();" method="post" enctype="application/x-www-form-urlencoded" class="regpg-main-form-element nginx_contact_sales_pop">
 				<input class="nginx_contact_fname" type="text" name="FirstName" id="First Name" placeholder="First Name" required="">
 				<input class="nginx_contact_lname" type="text" name="LastName" id="Last Name" placeholder="Last Name" required="">
-				<input class="nginx_contact_email" type="email" name="Email" id="Email Address" placeholder="Email" required="">
+				<input class="nginx_contact_email" type="email" name="Email" id="Email Address" placeholder="Business email" required="">
 				<input class="nginx_contact_company" type="text" name="Company" id="Company" placeholder="Company" required="">
 				<input class="nginx_contact_phone" type="tel" name="Phone" id="Phone Number" placeholder="Phone Number" required=""><textarea class="nginx_contact_inq" name="Inquiry_Details__c" id="Inquiry_Details__c" placeholder="Inquiry details"></textarea>
 				<!-- honeypot field start-->
@@ -1839,6 +1236,17 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 			return true;
 		}
 	}
+	jQuery(document).ready(function(){
+
+		//Add Explicit_Opt_In__c checkbox for eu countries
+   		if( nx_is_eu_country() || "CA" == nx_get_country_code() )//CA for Canada
+    	{
+    		//insert new Explicit_Opt_In__c checkbox
+    		$("#nginx_contact_sales_pop_submit").before( '<div class="checkbox-wrap"> <input type="checkbox" name="Explicit_Opt_In__c" value="yes"> <label style="display: inline">Yes, I want personalized emails from NGINX.</label></div>' );
+    	}
+    	//End Add Explicit_Opt_In__c
+
+	});
 </script>
 
 <style type="text/css">
@@ -1892,7 +1300,198 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		box-sizing: inherit;
 	}
 	#contact_opt_item_live_chat{ display:none;}
-</style><script type="text/javascript">
+
+	#Explicit_Opt_In__c_wrap,
+	.checkbox-wrap{
+		margin-top: 5px;
+	}
+	.free-trial-inner, .contact-us-inner, .partner-credit-inner{
+		padding-top: 30px;
+		height: auto;
+	}
+	.free-trial-inner button, .contact-us-inner button, .partner-credit-inner button{
+		margin-top: 10px;
+	}
+	input[type=checkbox]{
+		width: 14px !important;
+		height: 14px !important;
+	}
+</style>
+<!-- Show if visitor from EU countries -->
+<div class="cookie-permission-banner" id="cookie_permission_banner">
+	<div class="banner-content-desktop">
+		<p>Our site uses cookies to provide the best possible browsing experience. By continuing to use the site you are agreeing to the use of our cookies. <a href="https://www.nginx.com/privacy-policy/">Find out more here</a></p>	
+	</div>
+	<a href="#" class="btn-close-reg"><img src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/close-btn-white.png"></a>
+	
+	<div class="banner-content-mobile">
+		<p>Our site uses cookies to provide the best possible browsing experience. By continuing to use the site you are agreeing to the use of our cookies. <a href="https://www.nginx.com/privacy-policy/">Find out more here</a></p>
+		<p class="btn-close-reg"><img src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/close-btn-white.png"></p>
+	</div>
+</div>
+
+
+<style type="text/css">
+
+	.cookie-permission-banner{ 
+		background-color:rgba(0, 0, 0, 0.8);
+		width:100%;
+		height:75px;
+		z-index:9999999999999;
+		position:fixed;
+		display: none;
+		bottom:0;
+		color: #ffffff;
+		-webkit-box-shadow: 0px -5px 10px 0px rgba(0,0,0,1);
+		-moz-box-shadow: 0px -5px 10px 0px rgba(0,0,0,1);
+		box-shadow: 0px -5px 10px 0px rgba(0,0,0,1);
+	}
+
+	.hide-banner{
+		display: none!important;
+	}
+
+	.cookie-permission-banner .banner-content-desktop{ 
+		padding-top: 30px;		
+		text-align: center;
+	}
+
+	.cookie-permission-banner > p {
+	  color: #3b3c3c;
+	  font-size: 15px;
+	  font-weight: 200;
+	  margin-top: 3px;
+	}
+
+
+	.btn-close-reg > img {
+	  position: absolute;
+	  right: 10px;
+	  top: 5px;
+	  width: 25px;
+	}
+
+/* Banner style for mobile */
+
+.banner-content-mobile{
+	display: none;
+	height: 70px;
+	width: 100%;
+	/* To keep the banner sticky on footer */
+	position:fixed;
+	bottom:0;
+	padding-top: 8px;
+	padding-left: 10px;
+	padding-right: 25px;
+	text-align: center;
+	font-size: 13px;
+}
+
+
+.banner-content-mobile .btn-close-reg {
+  cursor: pointer;
+  float: right;
+  height: 35px;
+  position: absolute;
+  right: 0;
+  top: 0px;
+  width: 35px;
+}
+
+.banner-content-mobile .btn-close-reg img {
+  margin: 0;
+  padding: 0;
+  right: 2px;
+  top: 2px;
+  width: 20px; 
+}
+
+body.banner-active #olark-wrapper{ display: none!important;}
+
+@media only screen and (max-width: 979px) {
+	.banner-content-desktop {
+		display: none;
+	}
+	.banner-content-mobile{
+		display: block;
+	}
+
+	.cookie-permission-banner {
+	  height: 70px;
+	}
+	.cookie-permission-banner > .btn-close-reg {
+	  display: none;
+	}
+	body.banner-active{ padding-bottom:70px; }
+}
+
+
+
+</style>
+
+<script type="text/javascript">
+
+(function($){
+
+	$(document).ready(function(){
+
+
+		var ckp_banner_shown_by_hash = false;		
+
+	
+		//Bring menu down while banner is active
+
+		$(".btn-close-reg").click(function(e){
+		
+			e.preventDefault();
+		    $("body").removeClass("banner-active");// Comment out To keep the banner sticky on footer
+		    $(".cookie-permission-banner").addClass("hide-banner");
+			if( ckp_banner_shown_by_hash == false )
+			{
+				var closed = parseInt( readCookie("_nx_ckp_ban_closed") ) || 0;
+				writeCookie("_nx_ckp_ban_closed", ++closed , 8760 ) //one year
+			}
+	
+		}); 
+
+
+		function show_cookie_permission_banner(){
+			$("body").addClass("banner-active");// Comment out To keep the banner sticky on footer
+			jQuery( "#cookie_permission_banner" ).show();				
+					
+		}//end function 
+		
+		function show_ckp_banner_when_hash_exists(){ // This function is for test purpose
+			
+			if( window.location.hash == "#cookie-permission-banner" )
+			{
+				show_cookie_permission_banner();
+				ckp_banner_shown_by_hash = true;
+				return true;
+			}								
+			
+		return false;
+		}
+
+		if( false == show_ckp_banner_when_hash_exists())
+		{	
+			var closed = parseInt( readCookie("_nx_ckp_ban_closed") ) || 0;
+			if( closed == 0 )
+			{
+				if( nx_is_eu_country() )
+				{
+					show_cookie_permission_banner();
+				}
+			}
+		}
+
+	
+	});//end document ready
+
+
+})( jQuery );
+</script>
+<script type="text/javascript">
 (function() {
 	var didInit = false;
 	function initMunchkin() {
@@ -1917,6 +1516,179 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
     <style>
         .mCSB_inside>.mCSB_container{margin-right: 0 !important;}
     </style>
+        <style>
+        body.woocommerce-cart #shipping_method{display: none;}
+        .cart-collaterals a.checkout-button.wc-forward.disabled{background: #c5c5cd !important}
+        p.create-account{display: none;}
+        /*.checkout-page-summary-table .shipping td{display: none;}*/
+        .checkout-page-summary-table .shipping th{font-weight: 300; font-size:1.85rem}
+        button[name="calc_shipping"]{background-color: #f3a732 !important; color: #000 !important; font-size: 14px !important; padding: 16px 10px !important; text-transform: uppercase !important;}
+        .woocommerce input.button.alt:hover{box-shadow: none !important;}
+        .woocommerce input.button.alt.disabled{background: #c5c5cd !important; color: #000 !important}
+    </style>
+    <script type="text/javascript">
+    jQuery(function($){
+        
+        $( document ).on( 'updated_checkout', function( data ) {
+            var billing_country = $( '#billing_country' ).val();
+            $( '#billing_country' ).change(function() {
+                //if( billing_country != $(this).val() ) window.location.reload();
+            });
+        } );
+        
+        var domain = 'nginx.com';
+        
+                
+                var wooCookie = new ngxMasterCookie( 'shipping_calculated_done', domain, 90 );
+        
+        $( document ).on( 'click', ".shipping-calculator-form button", function(){
+            wooCookie.setCookie( 1 );
+            $( '#shipping_method' ).show();
+            $( '.wc-proceed-to-checkout a.checkout-button' ).removeClass( 'disabled' );
+        });
+        
+        $( document ).on( 'click', '.cart-collaterals a.checkout-button.wc-forward.disabled', function(e){
+            e.preventDefault();
+            return false;
+        });
+        
+        setInterval(function() {
+            shippiingCalculated = wooCookie.getCookie();
+            if( shippiingCalculated == 1 )
+            {
+                $( '#shipping_method' ).show();
+                $( '.wc-proceed-to-checkout a.checkout-button' ).removeClass( 'disabled' );
+            }
+        }, 500);
+        
+        shippiingCalculated = wooCookie.getCookie();
+        if( shippiingCalculated != 1 )
+        {
+            cart_avoid_shipping();
+        }
+        
+        $( document.body ).on( 'updated_cart_totals', function() {
+            if( shippiingCalculated != 1 )
+            {
+                cart_avoid_shipping();
+            }
+        });
+        
+        function cart_avoid_shipping()
+        {
+            if( $( '.wc-proceed-to-checkout a.checkout-button' ).length )
+            {
+                $( '.wc-proceed-to-checkout a.checkout-button' ).addClass( 'disabled' );
+                var tax = $( 'td[data-title=Tax]' ).html();
+                tax_number = tax.replace(/[^\d.]/g, '');
+                final_tax_number = parseFloat( tax_number - 0 ).toFixed(2);
+                tax = tax.replace( tax_number, final_tax_number );
+                $( 'td[data-title=Tax]' ).html( tax );
+                
+                var tax = $( '.calculated_shipping td[data-title=Total]' ).html();
+                var target = $( '.calculated_shipping td[data-title=Total]' );
+                if( ! tax ) {
+                    tax = $( '.cart_totals  .order-total td[data-title=Total]' ).html();
+                    target = $( '.cart_totals  .order-total td[data-title=Total]' );
+                }
+                tax_number = tax.replace(/[^\d.]/g, '');
+                final_tax_number = parseFloat( tax_number - 0 ).toFixed(2);
+                tax = tax.replace( tax_number, final_tax_number );
+                target.html( tax );
+            }
+        }
+        
+        var checkoutFormFields = [ 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_company', 'billing_phone', 'billing_phone', 'billing_phone', 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_city', 'stripe-card-number', 'stripe-card-expiry', 'stripe-card-cvc' ];
+        
+        for( var j = 0; j < checkoutFormFields.length; j++ )
+        {
+            $( document ).on( 'keyup', '#' + checkoutFormFields[j], ngx_check_checkout_fields );
+        }
+        
+        var hasError = false;
+        function ngx_check_checkout_fields()
+        {
+            var billingSelectors = [ 'billing_first_name', 'billing_last_name', 'billing_email', 'billing_company', 'billing_phone', 'billing_phone', 'billing_phone' ],
+                paymentSelectors = [ 'stripe-card-number', 'stripe-card-expiry', 'stripe-card-cvc' ],
+                shippingSelectors = [ 'shipping_first_name', 'shipping_last_name', 'shipping_company', 'shipping_address_1', 'shipping_city' ];
+                
+            for( var i = 0; i < billingSelectors.length; i++ )
+            {
+                if( $( '#' + billingSelectors[i] ).val() === '' )
+                {
+                    hasError = true;
+                    break;
+                }
+                else
+                {
+                    hasError = false;
+                }
+            }
+            
+            if( ! hasError )
+            {
+                for( i = 0; i < paymentSelectors.length; i++ )
+                {
+                    if( $( '#' + paymentSelectors[i] ).val() === '' )
+                    {
+                        hasError = true;
+                        break;
+                    }
+                    else
+                    {
+                        hasError = false;
+                    }
+                }
+            }
+            
+            if( ! hasError )
+            {
+                if( $( '#ship-to-different-address-checkbox' ).is( ':checked' ) )
+                {
+                    for( i = 0; i < shippingSelectors.length; i++ )
+                    {
+                        if( $( '#' + shippingSelectors[i] ).val() === '' )
+                        {
+                            hasError = true;
+                            break;
+                        }
+                        else
+                        {
+                            hasError = false;
+                        }
+                    }
+                }
+            }
+            
+            if( hasError )
+            {
+                $( '.ngx-woo-checkout' ).addClass( 'disabled' ).attr( 'disabled', 'disabled' );
+            }
+            else
+            {
+                $( '.ngx-woo-checkout' ).removeClass( 'disabled' ).removeAttr( 'disabled' );
+            }
+        }
+        
+        ngx_check_checkout_fields();
+        
+        setInterval( function() {
+            //console.log(hasError);
+            if( ! hasError )
+            {
+                if( $( '.wc-terms-and-conditions input[type="checkbox"]' ).is( ':checked' ) )
+                {
+                    $( '.ngx-woo-checkout' ).removeClass( 'disabled' ).removeAttr( 'disabled' );
+                }
+                else
+                {
+                    $( '.ngx-woo-checkout' ).addClass( 'disabled' ).attr( 'disabled', 'disabled' );
+                }
+            }
+        }, 500);
+        
+    });
+    </script>
             <script type="text/javascript">
         jQuery( function($) {
                 var domain = 'nginx.com';
@@ -2016,112 +1788,99 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 
         } );
         </script>
-                    <script type="text/javascript">
-                        </script>
-            <script type="text/javascript">
+        <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.nginx.com","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.8"></script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8"></script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe.min.js"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe-ui-default.min.js"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick.min.js"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/plugins/wooswipe/wooswipe.js"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-universal-marketo-form.js?ver=1478392167"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe.min.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/pswp/photoswipe-ui-default.min.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/plugins/wooswipe/wooswipe.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-universal-marketo-form.js?ver=1496178389"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var nginxudVars = {"ajaxUrl":"https:\/\/www.nginx.com\/wp-admin\/admin-ajax.php","assetsUrl":"https:\/\/www.nginx.com\/wp-content\/plugins\/wordpress-nginx-plugin-user-database\/assets"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/plugins/wordpress-nginx-plugin-user-database/assets/nginxud-script.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/plugins/wordpress-nginx-plugin-user-database/assets/nginxud-script.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-includes/js/wp-util.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-includes/js/wp-util.min.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_variation_params = {"i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/add-to-cart-variation.js?ver=1480377874"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/add-to-cart-variation.js?ver=1480377874"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_country_select_params = {"countries":"{\"AF\":[],\"AT\":[],\"AX\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"EE\":[],\"FI\":[],\"FR\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AR\":{\"C\":\"Ciudad Aut\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Catamarca\",\"H\":\"Chaco\",\"U\":\"Chubut\",\"X\":\"C\u00f3rdoba\",\"W\":\"Corrientes\",\"E\":\"Entre R\u00edos\",\"P\":\"Formosa\",\"Y\":\"Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Misiones\",\"Q\":\"Neuqu\u00e9n\",\"R\":\"R\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Santiago del Estero\",\"V\":\"Tierra del Fuego\",\"T\":\"Tucum\u00e1n\"},\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BD\":{\"BAG\":\"Bagerhat\",\"BAN\":\"Bandarban\",\"BAR\":\"Barguna\",\"BARI\":\"Barisal\",\"BHO\":\"Bhola\",\"BOG\":\"Bogra\",\"BRA\":\"Brahmanbaria\",\"CHA\":\"Chandpur\",\"CHI\":\"Chittagong\",\"CHU\":\"Chuadanga\",\"COM\":\"Comilla\",\"COX\":\"Cox's Bazar\",\"DHA\":\"Dhaka\",\"DIN\":\"Dinajpur\",\"FAR\":\"Faridpur \",\"FEN\":\"Feni\",\"GAI\":\"Gaibandha\",\"GAZI\":\"Gazipur\",\"GOP\":\"Gopalganj\",\"HAB\":\"Habiganj\",\"JAM\":\"Jamalpur\",\"JES\":\"Jessore\",\"JHA\":\"Jhalokati\",\"JHE\":\"Jhenaidah\",\"JOY\":\"Joypurhat\",\"KHA\":\"Khagrachhari\",\"KHU\":\"Khulna\",\"KIS\":\"Kishoreganj\",\"KUR\":\"Kurigram\",\"KUS\":\"Kushtia\",\"LAK\":\"Lakshmipur\",\"LAL\":\"Lalmonirhat\",\"MAD\":\"Madaripur\",\"MAG\":\"Magura\",\"MAN\":\"Manikganj \",\"MEH\":\"Meherpur\",\"MOU\":\"Moulvibazar\",\"MUN\":\"Munshiganj\",\"MYM\":\"Mymensingh\",\"NAO\":\"Naogaon\",\"NAR\":\"Narail\",\"NARG\":\"Narayanganj\",\"NARD\":\"Narsingdi\",\"NAT\":\"Natore\",\"NAW\":\"Nawabganj\",\"NET\":\"Netrakona\",\"NIL\":\"Nilphamari\",\"NOA\":\"Noakhali\",\"PAB\":\"Pabna\",\"PAN\":\"Panchagarh\",\"PAT\":\"Patuakhali\",\"PIR\":\"Pirojpur\",\"RAJB\":\"Rajbari\",\"RAJ\":\"Rajshahi\",\"RAN\":\"Rangamati\",\"RANP\":\"Rangpur\",\"SAT\":\"Satkhira\",\"SHA\":\"Shariatpur\",\"SHE\":\"Sherpur\",\"SIR\":\"Sirajganj\",\"SUN\":\"Sunamganj\",\"SYL\":\"Sylhet\",\"TAN\":\"Tangail\",\"THA\":\"Thakurgaon\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Sofia\",\"BG-22\":\"Sofia-Grad\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland and Labrador\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"GR\":{\"I\":\"\\u0391\\u03c4\\u03c4\\u03b9\\u03ba\\u03ae\",\"A\":\"\\u0391\\u03bd\\u03b1\\u03c4\\u03bf\\u03bb\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1 \\u03ba\\u03b1\\u03b9 \\u0398\\u03c1\\u03ac\\u03ba\\u03b7\",\"B\":\"\\u039a\\u03b5\\u03bd\\u03c4\\u03c1\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"C\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"D\":\"\\u0389\\u03c0\\u03b5\\u03b9\\u03c1\\u03bf\\u03c2\",\"E\":\"\\u0398\\u03b5\\u03c3\\u03c3\\u03b1\\u03bb\\u03af\\u03b1\",\"F\":\"\\u0399\\u03cc\\u03bd\\u03b9\\u03bf\\u03b9 \\u039d\\u03ae\\u03c3\\u03bf\\u03b9\",\"G\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"H\":\"\\u03a3\\u03c4\\u03b5\\u03c1\\u03b5\\u03ac \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"J\":\"\\u03a0\\u03b5\\u03bb\\u03bf\\u03c0\\u03cc\\u03bd\\u03bd\\u03b7\\u03c3\\u03bf\\u03c2\",\"K\":\"\\u0392\\u03cc\\u03c1\\u03b5\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"L\":\"\\u039d\\u03cc\\u03c4\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"M\":\"\\u039a\\u03c1\\u03ae\\u03c4\\u03b7\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"IR\":{\"KHZ\":\"Khuzestan  (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Tehran  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bushehr (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardabil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfahan (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerman (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamadan (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Ghazvin (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zanjan (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Luristan (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Alborz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"East Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"West Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chaharmahal and Bakhtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"South Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Razavi Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"North Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"SMN\":\"Semnan (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdistan \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohgiluyeh and BoyerAhmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golestan (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Gilan (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandaran (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markazi (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozgan (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sistan and Baluchestan (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IT\":{\"AG\":\"Agrigento\",\"AL\":\"Alessandria\",\"AN\":\"Ancona\",\"AO\":\"Aosta\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergamo\",\"BI\":\"Biella\",\"BO\":\"Bologna\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CI\":\"Carbonia-Iglesias\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"Como\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Firenze\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"Genova\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L&apos;Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Milano\",\"MO\":\"Modena\",\"MB\":\"Monza e della Brianza\",\"NA\":\"Napoli\",\"NO\":\"Novara\",\"NU\":\"Nuoro\",\"OT\":\"Olbia-Tempio\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palermo\",\"PR\":\"Parma\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pisa\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenna\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Roma\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"VS\":\"Medio Campidano\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Siena\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"OG\":\"Ogliastra\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Treviso\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venezia\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"Verona\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"JP\":{\"JP01\":\"Hokkaido\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Kochi\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"Oita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malacca (Melaka)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"MX\":{\"Distrito Federal\":\"Distrito Federal\",\"Jalisco\":\"Jalisco\",\"Nuevo Leon\":\"Nuevo Le\\u00f3n\",\"Aguascalientes\":\"Aguascalientes\",\"Baja California\":\"Baja California\",\"Baja California Sur\":\"Baja California Sur\",\"Campeche\":\"Campeche\",\"Chiapas\":\"Chiapas\",\"Chihuahua\":\"Chihuahua\",\"Coahuila\":\"Coahuila\",\"Colima\":\"Colima\",\"Durango\":\"Durango\",\"Guanajuato\":\"Guanajuato\",\"Guerrero\":\"Guerrero\",\"Hidalgo\":\"Hidalgo\",\"Estado de Mexico\":\"Edo. de M\\u00e9xico\",\"Michoacan\":\"Michoac\\u00e1n\",\"Morelos\":\"Morelos\",\"Nayarit\":\"Nayarit\",\"Oaxaca\":\"Oaxaca\",\"Puebla\":\"Puebla\",\"Queretaro\":\"Quer\\u00e9taro\",\"Quintana Roo\":\"Quintana Roo\",\"San Luis Potosi\":\"San Luis Potos\\u00ed\",\"Sinaloa\":\"Sinaloa\",\"Sonora\":\"Sonora\",\"Tabasco\":\"Tabasco\",\"Tamaulipas\":\"Tamaulipas\",\"Tlaxcala\":\"Tlaxcala\",\"Veracruz\":\"Veracruz\",\"Yucatan\":\"Yucat\\u00e1n\",\"Zacatecas\":\"Zacatecas\"},\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhawalagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"GI\":\"Gisborne\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalidad Metropolitana de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan del Norte\",\"AGS\":\"Agusan del Sur\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Norte\",\"CAS\":\"Camarines Sur\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Compostela Valley\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao del Norte\",\"DAS\":\"Davao del Sur\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Dinagat Islands\",\"EAS\":\"Eastern Samar\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Norte\",\"ILS\":\"Ilocos Sur\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao del Norte\",\"LAS\":\"Lanao del Sur\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Northern Samar\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Occidental Mindoro\",\"MDR\":\"Oriental Mindoro\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"South Cotabato\",\"SLE\":\"Southern Leyte\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao del Norte\",\"SUR\":\"Surigao del Sur\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga del Norte\",\"ZAS\":\"Zamboanga del Sur\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"Araba\\\/\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Gipuzkoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Bizkaia\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\u011fr\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\u0131n\",\"TR10\":\"Bal\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\u00c7anakkale\",\"TR18\":\"\u00c7ank\u0131r\u0131\",\"TR19\":\"\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\u0131\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\u00fcm\u00fc\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\u0130\u00e7el\",\"TR34\":\"\u0130stanbul\",\"TR35\":\"\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\u0131rklareli\",\"TR40\":\"K\u0131r\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\u011fla\",\"TR49\":\"Mu\u015f\",\"TR50\":\"Nev\u015fehir\",\"TR51\":\"Ni\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\u015eanl\u0131urfa\",\"TR64\":\"U\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\u0131r\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\u015e\u0131rnak\",\"TR74\":\"Bart\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\u011fd\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\u00fczce\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\"}}","i18n_select_state_text":"Select an option\u2026","i18n_matches_1":"One result is available, press enter to select it.","i18n_matches_n":"%qty% results are available, use up and down arrow keys to navigate.","i18n_no_matches":"No matches found","i18n_ajax_error":"Loading failed","i18n_input_too_short_1":"Please enter 1 or more characters","i18n_input_too_short_n":"Please enter %qty% or more characters","i18n_input_too_long_1":"Please delete 1 character","i18n_input_too_long_n":"Please delete %qty% characters","i18n_selection_too_long_1":"You can only select 1 item","i18n_selection_too_long_n":"You can only select %qty% items","i18n_load_more":"Loading more results\u2026","i18n_searching":"Searching\u2026"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=2.6.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_address_i18n_params = {"locale":"{\"AE\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"AF\":{\"state\":{\"required\":false}},\"AT\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"AU\":{\"city\":{\"label\":\"Suburb\"},\"postcode\":{\"label\":\"Zip Code\"},\"state\":{\"label\":\"State\"}},\"AX\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"BD\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"District\"}},\"BE\":{\"postcode_before_city\":true,\"state\":{\"required\":false,\"label\":\"Province\"}},\"BI\":{\"state\":{\"required\":false}},\"BO\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"BS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"CA\":{\"state\":{\"label\":\"Province\"}},\"CH\":{\"postcode_before_city\":true,\"state\":{\"label\":\"Canton\",\"required\":false}},\"CL\":{\"city\":{\"required\":true},\"postcode\":{\"required\":false},\"state\":{\"label\":\"Region\"}},\"CN\":{\"state\":{\"label\":\"Province\"}},\"CO\":{\"postcode\":{\"required\":false}},\"CZ\":{\"state\":{\"required\":false}},\"DE\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"DK\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"EE\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"FI\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"FR\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"HK\":{\"postcode\":{\"required\":false},\"city\":{\"label\":\"Town \\\/ District\"},\"state\":{\"label\":\"Region\"}},\"HU\":{\"state\":{\"label\":\"County\"}},\"ID\":{\"state\":{\"label\":\"Province\"}},\"IE\":{\"postcode\":{\"required\":false,\"label\":\"Zip Code\"}},\"IS\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"IL\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"IT\":{\"postcode_before_city\":true,\"state\":{\"required\":true,\"label\":\"Province\"}},\"JP\":{\"state\":{\"label\":\"Prefecture\"}},\"KR\":{\"state\":{\"required\":false}},\"NL\":{\"postcode_before_city\":true,\"state\":{\"required\":false,\"label\":\"Province\"}},\"NZ\":{\"postcode\":{\"label\":\"Zip Code\"},\"state\":{\"required\":false,\"label\":\"Region\"}},\"NO\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"NP\":{\"state\":{\"label\":\"State \\\/ Zone\"},\"postcode\":{\"required\":false}},\"PL\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"PT\":{\"state\":{\"required\":false}},\"RO\":{\"state\":{\"required\":false}},\"SG\":{\"state\":{\"required\":false}},\"SK\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"SI\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"ES\":{\"postcode_before_city\":true,\"state\":{\"label\":\"Province\"}},\"LI\":{\"postcode_before_city\":true,\"state\":{\"label\":\"Municipality\",\"required\":false}},\"LK\":{\"state\":{\"required\":false}},\"SE\":{\"postcode_before_city\":true,\"state\":{\"required\":false}},\"TR\":{\"postcode_before_city\":true,\"state\":{\"label\":\"Province\"}},\"US\":{\"postcode\":{\"label\":\"Zip Code\"},\"state\":{\"label\":\"State\"}},\"GB\":{\"postcode\":{\"label\":\"Zip Code\"}},\"VN\":{\"postcode_before_city\":true,\"state\":{\"required\":false},\"postcode\":{\"required\":false,\"hidden\":false},\"address_2\":{\"required\":false,\"hidden\":true}},\"WS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"ZA\":{\"state\":{\"label\":\"Province\"}},\"ZW\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"default\":{\"first_name\":{\"label\":\"First Name\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\"},\"last_name\":{\"label\":\"Last Name\",\"required\":true,\"class\":[\"form-row-last\"],\"clear\":true,\"autocomplete\":\"family-name\"},\"company\":{\"label\":\"Company Name\",\"class\":[\"form-row-wide\"],\"autocomplete\":\"organization\",\"required\":true},\"country\":{\"type\":\"country\",\"label\":\"Country\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\"},\"address_1\":{\"label\":\"Address\",\"placeholder\":\"Street address\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\"},\"address_2\":{\"placeholder\":\"Apartment, suite, unit etc. (optional)\",\"class\":[\"form-row-wide\",\"address-field\"],\"required\":false,\"autocomplete\":\"address-line2\"},\"city\":{\"label\":\"Town \\\/ City\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\"},\"state\":{\"type\":\"state\",\"label\":\"State \\\/ County\",\"required\":true,\"class\":[\"form-row-first\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\"},\"postcode\":{\"label\":\"Zip Code\",\"required\":true,\"class\":[\"form-row-last\",\"address-field\"],\"clear\":true,\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\"}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"required"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//cdn.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=2.6.8"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/cart.js?ver=1480377875"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/selectric/jquery.selectric.js?ver=1480377875"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/FitVids.js/jquery.fitvids.js?ver=1478392095"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/skip-link-focus-fix.js?ver=1478392172"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-visible/jquery.visible.min.js?ver=1478391939"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/jquery.magnific-popup.min.js?ver=1478391954"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/owl.carousel.min.js?ver=1478392166"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/clamp/clamp.min.js?ver=1478392165"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/moment/min/moment.min.js?ver=1478392032"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/js/rrssb.min.js?ver=1478392095"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/stickyjs/jquery.sticky.js?ver=1.0.3"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/smooth-scroll/jquery.smooth-scroll.js?ver=1478392090"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/viewport-units-buggyfill/viewport-units-buggyfill.js?ver=1478391965"></script>
+<script type="text/javascript" src="//cdn-1.wp.nginx.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/cart.js?ver=1480377875"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/selectric/jquery.selectric.js?ver=1480377875"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/ngx-cookie.js?ver=1490303493"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/FitVids.js/jquery.fitvids.js?ver=1478392095"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/skip-link-focus-fix.js?ver=1478392172"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-visible/jquery.visible.min.js?ver=1478391939"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/jquery.magnific-popup.min.js?ver=1478391954"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/owl.carousel.min.js?ver=1478392166"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/clamp/clamp.min.js?ver=1478392165"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/moment/min/moment.min.js?ver=1478392032"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/js/rrssb.min.js?ver=1478392095"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/smooth-scroll/jquery.smooth-scroll.js?ver=1478392090"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/viewport-units-buggyfill/viewport-units-buggyfill.js?ver=1478391965"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var nginxAudienceTargetingVars = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-audience-targeting.js?ver=1478391937"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-audience-targeting.js?ver=1478391937"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1478392090"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/conductrics-js-wrapper-min.js?ver=1478392166"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var jsmform = {"ajaxurl":"https:\/\/www.nginx.com\/wp-admin\/admin-ajax.php","tempdir":"https:\/\/cdn.wp.nginx.com\/wp-content\/themes\/nginx-theme"};
+var nginxThemeVars = {"ajaxurl":"https:\/\/www.nginx.com\/wp-admin\/admin-ajax.php","nonce":"d561edc79d","free_trial_request_summary":"https:\/\/www.nginx.com\/free-trial-request-summary\/","free_trial_request_detail":"https:\/\/www.nginx.com\/free-trial-request-detail\/","free_trial_request":"https:\/\/www.nginx.com\/free-trial-request\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/jsmform.js?ver=1478391937"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1478392090"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/conductrics-js-wrapper-min.js?ver=1478392166"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var nginxThemeVars = {"ajaxurl":"https:\/\/www.nginx.com\/wp-admin\/admin-ajax.php","nonce":"eb4631f516","free_trial_request_summary":"https:\/\/www.nginx.com\/free-trial-request-summary\/","free_trial_request_detail":"https:\/\/www.nginx.com\/free-trial-request-detail\/","free_trial_request":"https:\/\/www.nginx.com\/free-trial-request\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-theme.js?ver=1486496345"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var NginxMixPanel = {"home_url":"https:\/\/www.nginx.com\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-mixpanel-tracker.js?ver=1478392166"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/select2.full.min.js"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-theme.js?ver=1499192554"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/site-header/nginx-site-header.js?ver=1496698909"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/select2.full.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ampObj = {"api_key":"3bb9b223df92ec97b63aab6382b938cb","data":{"post_id":919,"url":"https:\/\/www.nginx.com\/privacy-policy\/","title":"NGINX, Inc. Privacy Policy","eventName":"pageview"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/amplitude.js?ver=1481928179"></script>
-<script type="text/javascript" src="https://cdn.wp.nginx.com/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/amplitude.js?ver=1487886928"></script>
+<script type="text/javascript" src="https://cdn-1.wp.nginx.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
 <script>window.viewportUnitsBuggyfill.init();</script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBXGM3"
@@ -2135,24 +1894,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-<!-- Debuger Start 
-	
-TIME :18-02-2017 08:38:31 pm    
-_REQUEST :Array
-(
-)
-    _GET :Array
-(
-)
-    _POST :Array
-(
-)
-    CART_COOKIE_RAW :    
-CART_COOKIE :Array
-(
-)
- Debuger End -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a62f3fc15d","applicationID":"26646473","transactionName":"MlIEbBFSWEUEWkNYWQsYJ1sXWllYSklWVlM=","queueTime":0,"applicationTime":220,"atts":"HhUHGllIS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a62f3fc15d","applicationID":"26646473","transactionName":"MlIEbBFSWEUEWkNYWQsYJ1sXWllYSklWVlM=","queueTime":0,"applicationTime":186,"atts":"HhUHGllIS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
