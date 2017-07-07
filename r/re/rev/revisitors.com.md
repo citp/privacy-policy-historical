@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230300id_/http%3A//www.revisitors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisitors.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707190806id_/https%3A//www.revisitors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Targeted Traffic | Website Traffic | Buy Web Traffic
 
