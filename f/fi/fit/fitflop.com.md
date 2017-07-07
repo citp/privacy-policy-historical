@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133200id_/http%3A//www.fitflop.com/en/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707201837id_/http%3A//www.fitflop.com/en/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FitFlop™ US
 
