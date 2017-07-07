@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamonddogs.cc privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214548id_/https%3A//www.emakina.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamonddogs.cc privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707074128id_/https%3A//www.emakina.com/legal/privacy) for the most accurate reproduction.*
 
 # Emakina -
 
