@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610124824id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707024550id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Privacy: Museums Victoria
 
@@ -35,7 +35,7 @@ If you provide us with personal information about someone else, for example in a
 For online ticketing purposes, Museums Victoria collects and uses your personal information to operate its online ticketing system and deliver the services you have requested. For this purpose, Museums Victoria collects:
 
   * Your name for validation purposes for ticket queries
-  * Your e-mail address in order to e-mail you your ticket, address any queries and potentially send you a pre-visit reminder email
+  * Your e-mail address in order to e-mail you your ticket, address any queries and potentially send you a pre-visit reminder email and / or a post-visit e-mail to ask for feedback about your experience
   * Your phone number for a back up contact
   * Your post code and country details for understanding visitor demographics as part of the Museum visitor research program
   * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any ticket queries
@@ -69,8 +69,6 @@ Museums Victoria stores the above personal information on our systems. Access to
 Your credit card transactions are processed by Payment Card Industry Data Security Standard (PCIDSS) compliant hosted services. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
 
 If you do not wish to receive updates and invitations from Museums Victoria you may select this option on the online form or via the 'unsubscribe' option on newsletter emails. You may also request not to receive further updates or invitations at any time.
-
-We won't send you any e-mails unless you tell us you want them (either directly or as part of the condition of a subscription service, eg, MV Teachers).
 
 We may not be able to provide the full range of services through the Museums Victoria website if we are not provided with the information outlined above.
 
