@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosteringsolutions.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205114428id_/http%3A//www.fosteringsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosteringsolutions.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707160628id_/https%3A//www.fosteringsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fostering Solutions UK Fostering Agency
 
