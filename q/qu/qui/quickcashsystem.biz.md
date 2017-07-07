@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickcashsystem.biz privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303215811id_/http%3A//quickcashsystem.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickcashsystem.biz privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707233139id_/http%3A//quickcashsystem.biz/privacy.php) for the most accurate reproduction.*
 
-# www.quickcashsystem.biz Privacy
+# quickcashsystem.biz Privacy
 
 ### Information We May Collect
 
