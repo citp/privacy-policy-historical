@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.co.nz privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302124946id_/https%3A//nz.yelp.com/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.co.nz privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708011047id_/https%3A//nz.yelp.com/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
