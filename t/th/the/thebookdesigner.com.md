@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookdesigner.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612203643id_/http%3A//www.thebookdesigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookdesigner.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707151653id_/http%3A//www.thebookdesigner.com/privacy-policy) for the most accurate reproduction.*
 
 # TheBookDesigner.com Privacy Policy - The Book Designer
 
