@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119021202id_/http%3A//www.trugreen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707055047id_/https%3A//www.trugreen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # TruGreen Privacy Policy | TruGreen
 
-Privacy Policy 
+[home](https://web.archive.org/)   |  [About](https://web.archive.org/about "About")   |   Privacy Policy 
 
 The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
 
@@ -22,8 +22,7 @@ The TruGreen Companies is committed to protecting the privacy of our users' pers
 
 This Privacy Policy which details important information regarding the use and disclosure of user information collected on the website trugreen.com, which is owned by TruGreen Limited Partnership and operated by TruGreen Limited Partnership and its affiliates (collectively, “TruGreen”, “we” or “us”) and any successor website, (collectively the “Site”), and other interactive properties, including but not limited to any mobile applications enabling you to access the Site (the Site and other TruGreen interactive properties are collectively referred to herein as the “TruGreen Applications"). TruGreen provides this Privacy Policy to help you make an informed decision about whether to use, or continue to use, the products and services provided by TruGreen and/or accessed through the TruGreen Applications or offline ("Product(s)" and "Service(s)"). This Privacy Policy applies to your use of (1) the TruGreen Applications (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) our Products and Services; (3) email or electronic catalogs and newsletters; (4) offline means such as direct mail, telephone and postal mail; and (5) any other means or applications in which you connect with TruGreen. By accessing, using, registering with, or providing personal information to TruGreen, you explicitly accept, without limitation or qualification, (i) the collection, use, storage and transfer (including international transfer) of user information in the manner described in this Privacy Policy (as amended from time to time) and (ii) the TruGreen Terms of Use hereby incorporated by reference. **THIS PRIVACY POLICY AFFECTS YOUR RIGHTS AND LIABILITIES UNDER THE LAW.** If you do not agree to the terms of this Privacy Policy, do not access or use the TruGreen Applications or provide us with personal information.
 
-  
-
+ 
 
 ## Information we collect
 
@@ -71,6 +70,8 @@ We acquire information from other trusted sources to update or supplement the in
 
 We use third parties’ analytic tools to better understand who is using the TruGreen Applications, how people are using the TruGreen Applications and how to improve the effectiveness of the TruGreen Applications and its content, and to help those parties serve more targeted advertising to you across the Internet or help us serve more targeted advertising to you. Those third party companies may use cookies, pixel tags or other technologies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the TruGreen Applications, Device Identifiers, type of operating system used and other website(s) you may have visited. They might combine information they collect from your interaction with TruGreen Applications with personal information they collect from other sources. We do not have access to, nor control over, third parties' use of cookies or other tracking technologies. You should consult the respective privacy policies of these third parties to review your options for opting out of their use of such devices.
 
+ 
+
 We use your information, subject to applicable laws, in the following ways:
 
   * to allow you to register and create an account and profile;
@@ -79,13 +80,13 @@ We use your information, subject to applicable laws, in the following ways:
   * to enable you to provide us with feedback, to contact us and for us to contact you;
   * to administer promotions you enter such as a contest or sweepstakes;
   * to allow your participation in our Communications Services (where available on the TruGreen Applications);
-  * to allow your participation in any surveys; 
+  * to allow your participation in any surveys;
   * to send you maintenance communications to alert you to changes and updates in our TruGreen Applications' policies, Products and/or Services that may affect you;
   * to send you communications of interest that you have requested, such as emails or text messages about TruGreen, our Products and Services, targeted marketing, and promotional offers;
   * to customize, measure and improve our Products and Services, content, and advertising, including generating internal reports about the use of our TruGreen Applications;
-  * to personalize your overall experience with the TruGreen Applications; 
-  * to enforce our Terms of Use; 
-  * for purposes disclosed at the time you provide your information; and 
+  * to personalize your overall experience with the TruGreen Applications;
+  * to enforce our Terms of Use;
+  * for purposes disclosed at the time you provide your information; and
   * as otherwise set forth in this Privacy Policy.
 
 
@@ -124,11 +125,11 @@ Some TruGreen locations are owned and operated by franchisees, who are independe
 
 To opt-out of marketing communications or to request to be added to our Do Not Call List, and/or our Do Not Mail List, you may use one of these convenient methods:
 
-**Electronic Promotional Offers.** If you do not want to receive emails from us or from any third party regarding special promotions or offers, you may (i) click the unsubscribe link here [http://TruGreen.servmast.com/283a9f3f877445d7634afa8bcda237a9](http://trugreen.servmast.com/283a9f3f877445d7634afa8bcda237a9) or in the footer of any email; (ii) email us [customerservice@trugreenmail.com](mailto:customerservice@trugreenmail.com) with “Unsubscribe Promotional Offers” in the subject line; (iii) call customer care at 1800TRUGREEN (1-800-878-4733); or (iv) mail us at the address set forth below.
+**Electronic Promotional Offers.** If you do not want to receive emails from us or from any third party regarding special promotions or offers, you may (i) click the unsubscribe link [here](http://trugreen.trugrn.com/unsub/unsub.form?id=a9ad0272c3b73c9e6d0e682746f5f1e12a86df1fae76323b27d802bd91a8509b) or in the footer of any email; (ii) email us [customercare@trugreenmail.com](mailto:customercare@trugreenmail.com) with “Unsubscribe Promotional Offers” in the subject line; (iii) call customer care at 1800TRUGREEN (1-800-878-4733); or (iv) mail us at the address set forth below.
 
-**Direct Mail Promotional Offers.** If you do not want us to send you any promotional offers through direct mail or sell, rent or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, you may: (i) email us at [customerservice@trugreenmail.com](mailto:customerservice@trugreenmail.com) with “Do Not Mail” in the subject line; (ii) call customer care at 1800TRUGREEN (1-800-878-4733); or (iii) mail us at the address set forth below.
+**Direct Mail Promotional Offers.** If you do not want us to send you any promotional offers through direct mail or sell, rent or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, you may: (i) email us at [customercare@trugreenmail.com](mailto:customercare@trugreenmail.com) with “Do Not Mail” in the subject line; (ii) call customer care at 1800TRUGREEN (1-800-878-4733); or (iii) mail us at the address set forth below.
 
-**Telemarketing.** If you do not want to receive marketing phone calls from us, you may: (i) email us at [customerservice@trugreenmail.com](mailto:customerservice@trugreenmail.com) with “Do Not Call” in the subject line; (ii) call customer care at 1800TRUGREEN (1-800-878-4733); (iii) ask to be placed on our Do Not Call list when you receive a call from us; or (iv) mail us at the address set forth below.
+**Telemarketing.** If you do not want to receive marketing phone calls from us, you may: (i) email us at [customercare@trugreenmail.com](mailto:customercare@trugreenmail.com) with “Do Not Call” in the subject line; (ii) call customer care at 1800TRUGREEN (1-800-878-4733); (iii) ask to be placed on our Do Not Call list when you receive a call from us; or (iv) mail us at the address set forth below.
 
 **Mailing Address.** In all cases, you may write us at:
 
@@ -152,7 +153,7 @@ Please note also that changes may not be effective immediately. In each event, y
 
 We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place.
 
-**Special Notice to California Residents.** Customers residing in California who have submitted Personal Information to us may request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. All requests for disclosure information must be submitted to us at [customerservice@trugreenmail.com](mailto:customerservice@trugreenmail.com) . Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. As of the date of this Privacy Policy, except as otherwise provided in this Privacy Policy, we do not respond to “Do Not Track” requests.
+**Special Notice to California Residents.** Customers residing in California who have submitted Personal Information to us may request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. All requests for disclosure information must be submitted to us at [customercare@trugreenmail.com](mailto:customercare@trugreenmail.com) . Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. As of the date of this Privacy Policy, except as otherwise provided in this Privacy Policy, we do not respond to “Do Not Track” requests.
 
 **A Note to International Users.** The TruGreen Applications are operated in the United States. If you are located anywhere outside of the United States, please be aware that information we collect will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the TruGreen Applications or providing us with any information, you consent to this transfer, processing and storage of your information in the United States. You are also consenting to the application of United States federal, and Tennessee state law in all matters concerning the TruGreen Applications and this Privacy Policy.
 
