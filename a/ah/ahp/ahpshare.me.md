@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahpshare.me privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628040644id_/http%3A//ahpshare.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahpshare.me privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707075554id_/http%3A//ahpshare.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ahpshare
 
