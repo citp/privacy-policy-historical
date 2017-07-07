@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oralgirlfriends.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024358id_/http%3A//www.oralgirlfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oralgirlfriends.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707122709id_/http%3A//oralgirlfriends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
