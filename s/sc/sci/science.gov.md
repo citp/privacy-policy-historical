@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609070122id_/https%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707122252id_/https%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Science.gov: Privacy and Security
 
