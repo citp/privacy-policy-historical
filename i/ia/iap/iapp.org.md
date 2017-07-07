@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iapp.org privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416023846id_/https%3A//iapp.org/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapp.org privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707140244id_/https%3A//iapp.org/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
