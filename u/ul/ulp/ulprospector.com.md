@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130125011id_/https%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707175035id_/https%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
 
 # Prospector Privacy Statement
 
