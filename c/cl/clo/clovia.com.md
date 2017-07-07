@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119091456id_/http%3A//www.clovia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707085849id_/https%3A//www.clovia.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Clovia
 
@@ -8,7 +8,7 @@
 
 This statement details the privacy practices for Purple Panda Fashions Pvt. Ltd, located at www.clovia.com.
 
-Questions regarding this statement should be directed to www.clovia.com or by contacting Purple Panda Fashions Pvt. Ltd., G-52, Sector 6, Noida - 201 301 or by calling us at +91-120-484-2222
+Questions regarding this statement should be directed to www.clovia.com or by contacting Purple Panda Fashions Pvt. Ltd., G-52, Sector 6, Noida - 201 301 or by calling us at 011-39-588-599
 
 _   _ **Information Collection**
 
@@ -54,7 +54,7 @@ _   _ **Information Use & Disclosure**
 We may internally use your personal information to improve our site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this site.
 
 **Communication with You**  
-We use your personal information to process and fulfill your orders, to communicate with you regarding your orders and deliveries and to provide you with other client services such as confirmation of orders placed on cash-on-delivery mode. We will use your personal information to communicate with you about our site. Also, we may send you a confirmation email when you register with us. We may send you service-related announcements. Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails. The ‘Unsubscribe’ link is given in all our promotion emails. However you cannot opt out of receiving emails related to your orders or your membership.
+This process permits Clovia to make calls, send sms or/and mailers to its customers anytime of the day to keep them updated with our latest collections, exciting deals and partner offers. We respect your privacy and we abide by our policy to ensure that your details are safe with us. We use your personal information to process and fulfill your orders, to communicate with you regarding your orders and deliveries and to provide you with other client services such as confirmation of orders placed on cash-on-delivery mode. We will use your personal information to communicate with you about our site. Also, we may send you a confirmation email when you register with us. We may send you service-related announcements. Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails. The ‘Unsubscribe’ link is given in all our promotion emails. However you cannot opt out of receiving emails related to your orders or your membership.
 
 **External Use**  
 We aim to provide you with excellent service and to offer you a great selections on our site. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
