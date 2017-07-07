@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the loudoun.gov privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606163004id_/https%3A//www.loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loudoun.gov privacy policy that was archived on 2017-07-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170707124820id_/https%3A//www.loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=10"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	<link rel="icon" href="/images/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"><meta name="apple-itunes-app" content="app-id=852975470">
-<link rel="manifest" href="/manifest/client">
-<title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=10"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	<link rel="icon" href="/images/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"><title>
 	Loudoun County, VA - Official Website - Privacy Practices &amp; Security Policy
 </title><meta name="description" content="Privacy Practices &amp; Security Policy"><!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
@@ -283,7 +281,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$scriptManager', 'aspnetForm',
 <div id="google_translate_element"></div><script type="text/javascript"> function googleTranslateElementInit() {   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE},   'google_translate_element'); } </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
 <!-- ** BEGIN SEARCH ** --><input type="hidden" name="txtDefaultSearchText" value="Search">
 <script type="text/javascript">
-var oldJQuery=jQuery; var oldCashSign=$;</script><link rel="stylesheet" href="/Areas/Search/Assets/Styles/FeatureAreaSearchAutoComplete.css"><link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.core.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.widget.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.position.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"></script><script type="text/javascript">
+var oldJQuery=jQuery; var oldCashSign=$;</script><link rel="stylesheet" href="/Areas/Search/Assets/Styles/FeatureAreaSearchAutoComplete.css"><link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.core.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.widget.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.position.min.js"></script><script type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"></script><script type="text/javascript" src="/Assets/Scripts/FeatureToggle.js"></script><script type="text/javascript">
 var searchJQ=jQuery; window.jQuery = oldJQuery; window.$ = oldCashSign;</script><script type="text/javascript">
 searchJQ(document).ready(function () {	searchJQ('.xcssSearchString').autocomplete({		source: '/Search/AutoComplete',		html: true,		delay: 0	}).data("autocomplete")._renderItem = function (ul, item) {		return $("<li></li>")		.data("item.autocomplete", item)		.append("<a>" + item.label + "</a>")		.appendTo(ul); 	};});</script><script type="text/javascript">
    function faSiteSearch() {
@@ -298,7 +296,11 @@ searchJQ(document).ready(function () {	searchJQ('.xcssSearchString').autocomplet
                    document.aspnetSearchForm.SearchString.value = document.aspnetForm.SearchString[i].value;
            }
        }
-       document.location.href = "/Search/Results?searchPhrase=" + encodeURIComponent(document.aspnetSearchForm.SearchString.value) + "&page=1&perPage=10";
+       if (FeatureToggles.isActive('CMS.Search.UseElasticSearch')) {
+           document.location.href = "/Search?searchPhrase=" + encodeURIComponent(document.aspnetSearchForm.SearchString.value) + "&page=1&perPage=10";
+        } else { 
+            document.location.href = "/Search/Results?searchPhrase=" + encodeURIComponent(document.aspnetSearchForm.SearchString.value) + "&page=1&perPage=10";
+        }
    }
    function faSiteSearchTextHook(ev) {
        ev = (window.event ? window.event : ev);
