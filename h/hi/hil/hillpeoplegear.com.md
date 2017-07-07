@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hillpeoplegear.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126213215id_/https%3A//hillpeoplegear.com/Home/tabid/1157/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillpeoplegear.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707043210id_/http%3A//hillpeoplegear.com/Privacy) for the most accurate reproduction.*
 
-# Home | Hill People Gear
+# Home
 
 Hill People Gear is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Hill People Gear Web site and governs data collection and usage. By using the Hill People Gear website, you consent to the data practices described in this statement.
 
