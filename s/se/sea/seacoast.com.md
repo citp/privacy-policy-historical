@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712232606id_/http%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoast.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707124305id_/https%3A//seacoast.com/terms-privacy.php) for the most accurate reproduction.*
 
 # Seacoast Vitamins Privacy Policy
 
@@ -71,11 +71,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.seacoastvitamins.com/terms.php>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://seacoast.com/terms.php>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
  **Changes to our Privacy Policy**
 
@@ -87,9 +87,9 @@ This policy was last modified on 9/29/2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.seacoastvitamins.com/  
-4012 M28 East  
-Marquette, Michigan 49855  
+https://www.seacoast.com/  
+1425 Broadway Ave #20-1536  
+Seattle, WA 98122  
 USA  
 orders@seacoastvitamins.com  
 1 (800) 555-6792
