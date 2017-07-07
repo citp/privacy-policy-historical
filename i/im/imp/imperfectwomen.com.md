@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228071407id_/http%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707215028id_/https%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imperfect Women
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**Imperfect Women**.](http://www.imperfectwomen.com/terms/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**Imperfect Women**.](https://imperfectwomen.com/terms/)
 
 **Your Consent**
 
@@ -84,7 +84,7 @@ This policy was last modified on 03/19/2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.imperfectwomen.com/  
+https://imperfectwomen.com/  
 info@imperfectwomen.com
 
 2080 Century Park East  
