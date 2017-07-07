@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629050532id_/https%3A//www.liquidityservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707152703id_/https%3A//www.liquidityservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Liquidity Services
 
