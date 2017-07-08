@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencompany.co.uk privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201155833id_/https%3A//www.endole.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencompany.co.uk privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708123546id_/http%3A//www.endole.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Endole
 
