@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowboard-asylum.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827133818id_/https%3A//www.snowboard-asylum.com/advice-inspiration/how-can-we-help/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboard-asylum.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708103838id_/https%3A//www.snowboard-asylum.com/advice-inspiration/how-can-we-help/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - The Snowboard Asylum
 
