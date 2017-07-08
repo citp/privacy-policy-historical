@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731143153id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwnatural.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708053714id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Your privacy is protected by NW Natural.
 
-As of June 11, 2010, our Privacy Policy has changed. NW Natural wants you to be comfortable knowing that any personal information you provide when using our website will be protected. We have made every effort to ensure that the online interactive portion of this site is secured by the best technology available. 
+NW Natural wants you to be comfortable knowing that any personal information you provide when using our website will be protected. We have made every effort to ensure that the online interactive portion of this site is secured by the best technology available. 
 
 You can protect yourself further by signing off of the interactive portion of our website when you have finished using it. If you choose to link to any of the other websites NW Natural has provided for your convenience, NW Natural’s privacy and security protections may not apply. You are encouraged to check the privacy and security provisions of those websites before you use them.
 
@@ -16,7 +16,7 @@ We collect up to three types of information when you interact with our website:
   * Customer Information—We encourage customers to sign up for and manage their gas accounts through our website. When signing up for an online account, we collect personal information necessary to set up an account, including name, address, telephone number, social security number, driver license number, and financial information. If you choose to pay your bill using our online services, bank account number and bank routing number are collected and optionally stored for you future use. This financial information is encrypted for your protection. All information submitted by customers in relation to managing their NW Natural gas accounts is governed by our Customer Information Policy. It is our general policy not to disclose Customer Information to third parties without first obtaining permission.
   * Offers, Programs, and Promotions—Our website also features information on offers, programs, and promotions that do not directly relate to managing your natural gas account. website visitors can provide us with information so that they can participate in or receive more information about an offer, program or promotion. We will not share any personally identifying information, such as name, address, telephone number, e-mail address, and other identifying information without your permission, unless we are required to divulge this information (1) to comply with law or legal process; (2) it is necessary to protect and defend NW Natural’s rights or property; (3) it is necessary to protect against misuse or unauthorized use of this website; (4) it is necessary to protect the safety or property of our customers or the public. However, we may disclose information to a contractor or service provider to perform work on our behalf, but only if the information is protected by a confidentiality agreement so that the information is only used for the purpose intended.
 
-
+ 
 
 ### Security
 
@@ -48,7 +48,7 @@ Notwithstanding the exceptions outlined below:
   * Unless legally required or with the customer’s explicit consent, the Company will not share Proprietary Customer Information protected by the password provision required per OAR 860-021-0009(6).
   * Unless legally required, the Company will honor a customer’s request to not have Customer Information shared with a third party; however a customer’s ability to opt-out of sharing Customer Information does not extend to Aggregated Information.
 
-
+ 
 
 ### Exceptions
 
