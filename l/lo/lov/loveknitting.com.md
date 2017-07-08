@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveknitting.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121111502id_/http%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveknitting.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708134151id_/https%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ This Privacy Policy applies to any information that you provide to us when using
   * Communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding our websites or their content. 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
   * Details of your visits to our websites including, but not limited to, traffic data and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access. 
-  * “Customer Content” which you submit via your “Public Profile” (as defined in our [Terms of Use](http://www.loveknitting.com/us/terms-and-conditions.html)). 
+  * “Customer Content” which you submit via your “Public Profile” (as defined in our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html)). 
 
 
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
 
   * To our affiliates, to providers of our affiliate network services, or to our agents or contractors who assist us in providing the our Services, for example processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors have strict contracts with us and will only use your information to the extent necessary to perform the services they are providing to us, upon our instructions. 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * If required to do so by law, or in order to enforce or apply our [Terms of Use](http://www.loveknitting.com/us/terms-and-conditions.html), [Terms of Sale](http://www.loveknitting.com/us/terms-and-conditions.html) or other legal rights, or if we believe that such action is necessary to protect the rights, property, or safety of Lovecrafts, our customers, or others. This includes exchanging information with other licensed companies and organisations for the purposes of fraud protection and credit risk reduction. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. If you need details of fraud prevention or credit agencies from which we obtain and with which we record information about you, please write to us at   
+  * If required to do so by law, or in order to enforce or apply our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html), [Terms of Sale](https://www.loveknitting.com/us/terms-and-conditions.html) or other legal rights, or if we believe that such action is necessary to protect the rights, property, or safety of Lovecrafts, our customers, or others. This includes exchanging information with other licensed companies and organisations for the purposes of fraud protection and credit risk reduction. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. If you need details of fraud prevention or credit agencies from which we obtain and with which we record information about you, please write to us at   
 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, 
 
 
@@ -87,7 +87,7 @@ From time to time we would like to be able to pass your information to carefully
 
 ## Publicly available information
 
-Please note that if you add any Customer Content to your Public Profile (as defined in our [Terms of Use](http://www.loveknitting.com/us/terms-and-conditions.html)), or make comments or posts on someone else’s Public Profile on our websites, this will be publicly available to other all users of the website. If you remove such Customer Content, or deactivate your Public Profile it will (after up to 2 working days) no longer be publicly available and it will only be held on our back-up files and in accordance with this Privacy Policy. You may request that we delete your Public Profile in accordance with our [Terms of Use](http://www.loveknitting.com/us/terms-and-conditions.html), in which case all content held on your Public Profile will be first be removed from our website within 7 working days and subsequently may be permanently deleted from our back-up files after a period of 12 months. For more information on deactivating or deleting Customer Content (or deleting your Public Profile in its entirety), whether on your Public Profile or on someone else’s Public Profile, please refer to our [Terms of Use](http://www.loveknitting.com/us/terms-and-conditions.html). 
+Please note that if you add any Customer Content to your Public Profile (as defined in our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html)), or make comments or posts on someone else’s Public Profile on our websites, this will be publicly available to other all users of the website. If you remove such Customer Content, or deactivate your Public Profile it will (after up to 2 working days) no longer be publicly available and it will only be held on our back-up files and in accordance with this Privacy Policy. You may request that we delete your Public Profile in accordance with our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html), in which case all content held on your Public Profile will be first be removed from our website within 7 working days and subsequently may be permanently deleted from our back-up files after a period of 12 months. For more information on deactivating or deleting Customer Content (or deleting your Public Profile in its entirety), whether on your Public Profile or on someone else’s Public Profile, please refer to our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html). 
 
 ## Public forums
 
@@ -97,7 +97,7 @@ We also have a presence on a number of social networking sites. Any information 
 
 ## External links
 
-This privacy policy covers only our websites, which is [www.loveknitting.com](http://www.loveknitting.com/us/) and www.lovecrochet.com
+This privacy policy covers only our websites, which is [www.loveknitting.com](https://www.loveknitting.com/us/) and www.lovecrochet.com
 
 Our website may, from time to time, contain links to external sites. If you follow a link to any of those sites, please note that we are not responsible for the privacy policies or the content of such sites and we suggest that you check those policies before you submit any personal data to these websites. We do not provide any personally identifiable customer information to these third-party sites.
 
