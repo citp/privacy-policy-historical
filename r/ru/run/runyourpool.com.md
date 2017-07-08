@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417192026id_/https%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708112006id_/https%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
 # Run your Football, March Madness, Baseball, Golf, and other pools at RunYourPool.com
 
@@ -15,9 +15,9 @@ The website uses cookies for security and authentication purposes only. This inf
 (3) Personal Information  
 Personal information, such as your name and email address is collected only when you voluntarily provide it when creating or joining a pool. Unlike many sites, we collect as little personal information possible, just that information required to provide our services.
 
-The personal information you provide is accessible only to members of your private pool, your pool administrator, and to site administrators.
+The personal information you provide is accessible only to your pool administrator, and to site administrators (staff at RunYourPool.com). Your name may be made visible to other members of your private pool by your pool administrator. Your email address may, on rare occasion, be used to send you information and updates pertaining to your account (e.g. password recovery, important notifications related to your pool, etc).
 
-Personal information will not be sold to any third parties, nor will such information be added to bulk email lists.
+Personal information will not be sold to any third parties, nor will such information be added to bulk email lists. 
 
 **Policy Revisions**
 
