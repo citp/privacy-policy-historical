@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129032930id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708213628id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy Policy
 
@@ -59,10 +59,6 @@ Our Website may contain links to other external websites. Such links do not cons
 ## Assignment
 
 If there is a change of control in our business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including personal information, could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on the site, and you may opt-out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of CandidatePoint or the assets of CandidatePoint.
-
-#### Ad Preferences
-
-If you would like to read more about your ad preferences, please [click here](http://dyn.adki.com/preferences.php?p=5060&e=d41d8cd98f00b204e9800998ecf8427e&r=0).
 
 ## Conditions of Use
 
