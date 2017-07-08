@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggthemes.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025032652id_/http%3A//eggthemes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggthemes.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708025603id_/http%3A//eggthemes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrestaShop Themes & PrestaShop Templates - EggThemes
 
