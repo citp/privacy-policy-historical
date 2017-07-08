@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185744id_/https%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708155025id_/https%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
 
 # Zacks Privacy Policy - Zacks Investment Research
 
