@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206101152id_/http%3A//www.travelogyindia.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708214752id_/https%3A//www.travelogyindia.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Travelogy India
 
-This privacy statement applies to <http://www.travelogyindia.com/> owned and operated by **Travelogy India Pvt. Ltd (Travelogy India™)**. This sets out how Travelogy India uses and protects any information that you provide to “Travelogy India™” using our website <http://www.travelogyindia.com/>
+This privacy statement applies to <https://www.travelogyindia.com/> owned and operated by **Travelogy India Pvt. Ltd ® (Travelogy India)**. This sets out how Travelogy India uses and protects any information that you provide to “Travelogy India®” using our website <https://www.travelogyindia.com/>
 
-**Travelogy India ™** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using <http://www.travelogyindia.com/> please be rest assured that the information will only be used in accordance with this privacy policy. 
+**Travelogy India ® **is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using <https://www.travelogyindia.com/> please be rest assured that the information will only be used in accordance with this privacy policy. 
 
 **What we collect–**  
 We may collect the following personal information from you: 
@@ -76,14 +76,14 @@ Our website may contain links to other websites of interest whose privacy practi
 
 
 **Notification of Privacy Statement Changes  
-**Travelogy India ™ may change this privacy statement from time to time by updating this page reflecting changes to our information practices. We request you to review this page time to time for the latest information on our privacy practices. 
+**Travelogy India® may change this privacy statement from time to time by updating this page reflecting changes to our information practices. We request you to review this page time to time for the latest information on our privacy practices. 
 
-**Travelogy India™ Contact Details**
+**Travelogy India ® Contact Details**
 
  **Please contact us with regard to this privacy policy by writing or email us using the following details**  
-Travelogy India Pvt. Ltd.  
+Travelogy India Pvt. Ltd.®  
 Office No. 322, IIIrd Floor,  
 [Create My Trip Now  
-No extra cost ](https://web.archive.org/web/20170206101152id_/http%3A//www.travelogyindia.com/create-my-trip.html) Angel Mega Mall, CK - 1,  
+No extra cost ](https://web.archive.org/web/20170708214752id_/https%3A//www.travelogyindia.com/create-my-trip.html) Angel Mega Mall, CK - 1,  
 Kaushambi, Ghaziabad, Delhi NCR - 201010  
 Email: [santosh@travelogyindia.com](mailto:santosh@travelogyindia.com)
