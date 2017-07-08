@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621222722id_/http%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708190039id_/https%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Constant Rambler | Travel | Road Trips
 
