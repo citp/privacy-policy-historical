@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231328id_/https%3A//www.bestbuyeyeglasses.com/faq/policies/%230) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708113652id_/https%3A//www.bestbuyeyeglasses.com/faq/privacy-information-and-security-policy) for the most accurate reproduction.*
 
-# Best Buy Eyeglasses - Our Policies
+# Best Buy Eyeglasses - Privacy Information and Security Policy
 
 Best Buy Eyeglasses is committed to safeguarding your privacy when using our online ordering system or via our telephone services. The information we collect: Name, Address, Telephone Number, Email Address and Credit Card Information is used only to complete and verify transactions and ensure delivery of your purchases.
 
