@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919052525id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708095504id_/https%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Graphene Themes Solutions
 
@@ -48,7 +48,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting [customer service](http://www.graphene-theme.com/contact-us/ "Contact Us").
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting [customer service](https://www.graphene-theme.com/contact-us/ "Contact Us").
 
 ### Do we disclose any information to outside parties?
 
@@ -79,7 +79,7 @@ You have the right to request for access to and correction of your information h
 
 
 
-Written requests for access to the Personal Data or correction and/or deletion of the Personal Data or for information regarding policies and procedures and types of Personal Data handled by us can be submitted via our contact form: http://www.graphene-theme.com/contact-us/
+Written requests for access to the Personal Data or correction and/or deletion of the Personal Data or for information regarding policies and procedures and types of Personal Data handled by us can be submitted via our contact form: https://www.graphene-theme.com/contact-us/
 
 You may also unsubscribe to our marketing materials by clicking the unsubscribe link contained in the email we send to you and following the instructions therein.
 
@@ -89,7 +89,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Terms of Service
 
-Please also visit our [Terms of Service](http://www.graphene-theme.com/terms-of-service/ "Terms of Service") section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.graphene-theme.com. By using our site, you consent to our Terms of Service and this Privacy Policy.
+Please also visit our [Terms of Service](https://www.graphene-theme.com/terms-of-service/ "Terms of Service") section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.graphene-theme.com. By using our site, you consent to our Terms of Service and this Privacy Policy.
 
 ### Changes to our Privacy Policy
 
@@ -101,7 +101,9 @@ This policy was last modified on 4 March 2014.
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-http://www.graphene-theme.com/contact-us/  
+> [Contact Us](https://www.graphene-theme.com/contact-us/)
+
+  
 [admin@graphene-theme.com](mailto:admin@graphene-theme.com)
 
 ### Consent
