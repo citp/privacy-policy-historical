@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2017-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170212050243id_/https%3A//www.onepetro.org/static-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708102603id_/https%3A//www.onepetro.org/static-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - OnePetro
 
