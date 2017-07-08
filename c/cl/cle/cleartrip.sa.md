@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cleartrip.sa privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502130351id_/http%3A//www.cleartrip.sa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartrip.sa privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708130454id_/https%3A//www.cleartrip.sa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleartrip
 
 ### Cleartrip is fanatical about protecting your privacy.
 
-This website is published and maintained by Cleartrip Private Limited (“Cleartrip”). The Privacy Policy is applicable to the websites of Cleartrip Private Limited including www.cleartrip.com, which also comprises of the mobile site, Smartphone App Platforms such as iOS, Android, Windows (all together referred to as “Site”). This privacy policy does not apply to the websites of our business partners, corporate affiliates or to any other third parties, even if their websites are linked to the site. We recommend you to review the respective privacy statements of the other parties with whom you interact.
+This website is published and maintained by Cleartrip MEA FZ LLC (“Cleartrip”). The Privacy Policy is applicable to the websites of Cleartrip MEA FZ LLC including www.cleartrip.ae along with affiliate sites om.cleartrip.com, bh.cleartrip.com, qa.cleartrip.com, kw.cleartrip.com and www.cleartrip.sa which also comprises of the mobile site, Smartphone App Platforms such as iOS, Android, Windows (all together referred to as “Site”). This privacy policy does not apply to the websites of our business partners, corporate affiliates or to any other third parties, even if their websites are linked to the site. We recommend you to review the respective privacy policy statements of the other parties with whom you interact. 
 
-By browsing, visiting, accessing and/or using the services on this Site (or searching for any of the pages on this Site), the customer (“You”) explicitly consents and agrees to our Privacy Policy laid out herein. You also agree that the information furnished by you is lawful, true and correct and does not violate or infringe any laws. In case of any violations, infringement, furnishing of wrongful or unauthorized information, Cleartrip shall not be liable for the same.
+By browsing, visiting, accessing and/or using the services on this Site (or searching for any of the pages on this Site), the customer (“You”) explicitly consents and agrees to our Privacy Policy laid out herein. You also agree that the information furnished by you is lawful, true and correct and does not violate or infringe any laws. In case of any violations, infringement, furnishing of wrongful or unauthorized information, Cleartrip shall not be liable for the same. 
 
-We encourage you to review our Privacy Policy, and familiarise with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest version of the Privacy Policy.
+We encourage you to review our Privacy Policy, and familiarise with it. Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure you have the latest version of the Privacy Policy. 
 
 ### What information does Cleartrip collect, collate and/or use?
 
@@ -39,13 +39,13 @@ We may also collect and furnish such other information as is required in complia
 
 
 
-Of course, you are solely responsible for maintaining the secrecy of your passwords, and your Site membership account information. Please be very careful, responsible, and alert with this information, especially whenever you’re online.
+Of course, you are solely responsible for maintaining the secrecy of your passwords, and your Site membership account information. Please be very careful, responsible, and alert with this information, especially whenever you’re online. 
 
 ### Cookies and how do we use it?
 
 Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) to enables the sites or service providers systems to recognize your browser and capture and remember certain information. Yes, we use cookies to understand and save your preferences for future visits and keep track of advertisements. This helps us to serve you better and more efficiently, and to personalize your experience at our Website.
 
-Similarly, a cookie may be placed by our third – party advertising companies or advertisement providers. These companies may use aggregated statistics about your visits to this and other websites in order to provide you advertisements about travel – related goods and services, your preferences in or any goods and services of potential interest to you. The third – party advertising companies or advertisement providers may also employ technology that is used to measure the effectiveness of our ads, your preference and other relevant statistical data to serve you better. Any such information may be anonymous about your visits to this and other sites and does not link online actions to an identifiable person.
+Similarly, a cookie may be placed by our third – party advertising companies or advertisement providers. These companies may use aggregated statistics about your visits to this and other websites in order to provide you advertisements about travel – related goods and services, your preferences in or any goods and services of potential interest to you. The third – party advertising companies or advertisement providers may also employ technology that is used to measure the effectiveness of our ads, your preference and other relevant statistical data to serve you better. Any such information may be anonymous about your visits to this and other sites and does not link online actions to an identifiable person. Mostly the Web browsers are programmed to automatically accept cookies but if you desire to opt from receiving the cookies you can do so by changing the options on your web browser or using certain software programs, you can control how and whether the cookies will be accepted by your browser. Cleartrip does respects your right to block any unwanted Internet activity, especially that of unscrupulous websites, though blocking cookies from usage of Cleartrip Site may disable certain features on the Site, and may make it impossible to purchase or use certain services available on the Site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from websites you trust, like Cleartrip Website.
 
 Mostly the Web browsers are programmed to automatically accept cookies but if you desire to opt from receiving the cookies you can do so by changing the options on your web browser or using certain software programs, you can control how and whether the cookies will be accepted by your browser. Cleartrip does respects your right to block any unwanted Internet activity, especially that of unscrupulous websites, though blocking cookies from usage of Cleartrip Site may disable certain features on the Site, and may make it impossible to purchase or use certain services available on the Site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from websites you trust, like Cleartrip Website.
 
@@ -57,19 +57,12 @@ Cleartrip Site contains links to other websites. Please note that when you click
 
 ### Grievance policy
 
-Cleartrip strongly believes in a sincere and transparent approach to its users. You trust and love us and we would never put growth before trust. This policy document aims at minimizing instances of customer complaints, grievances and disappointments via channelized approach, review and redressal.
+Cleartrip strongly believes in a sincere and transparent approach to its users. You trust and love us and we would never put growth before trust. This policy document aims at minimizing instances of privacy breach or any privacy related issues via channelized approach, review and redressal.
 
-You can file a grievance / share feedback if you are disappointed with the services rendered by Cleartrip or any other issues. You can give your grievance / feedback through email or snail mail.
+You can file a grievance / share feedback if you want to report any privacy breach or any privacy related issues.
 
 In order to make Cleartrip redressal channels more meaningful and effective, a structured system has been put in place. This system will ensure that the complaints are redressed seamlessly and well within the stipulated timeframe.
 
 ### How to reach Cleartrip for privacy related Issues
 
 For concerns regarding our Privacy Policy or our privacy practices and related Issues, write to us at [privacy@cleartrip.com.](mailto:privacy@cleartrip.com)
-
-If you are not satisfied (after a period of 10 days from the date of writing to [privacy@cleartrip.com](mailto:privacy@cleartrip.com)), please write to:
-
-Grievance Officer,  
-Cleartrip Private Limited,  
-Unit No.001, Ground Floor, DTC Building, Sitaram Mills Compound,  
-Lower Parel, Mumbai 400 001
