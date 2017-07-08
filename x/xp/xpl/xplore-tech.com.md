@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xplore-tech.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406025219id_/http%3A//www.xplore-tech.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xplore-tech.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708072954id_/http%3A//www.xplore-tech.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Xplore-Tech Services Pvt Ltd
 
