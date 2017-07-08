@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612151439id_/https%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708142128id_/https%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
 
-# Discount Inkjet cartridges suitable for Epson Canon HP and Lexmark Printers - PrinterInks.com
+# privacy policy
 
 Your privacy is important to us. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
