@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406132511id_/https%3A//www.membersfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708121755id_/https%3A//www.membersfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# MembersFirst, Inc. View Library Document: Privacy Policy
+# MembersFirst View Library Document: Privacy Policy
 
 ## MembersFirst a Jonas Company
 
