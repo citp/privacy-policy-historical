@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cra-nsdl.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180600id_/https%3A//npscra.nsdl.co.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cra-nsdl.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708125805id_/https%3A//npscra.nsdl.co.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to NSDL
 
