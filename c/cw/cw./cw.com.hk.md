@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427232926id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708233729id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Questex | Digital Media | Events | Business Information | Content Marketing & Media
 
