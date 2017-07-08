@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323030813id_/https%3A//www.incrediblecharts.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708150433id_/https%3A//www.incrediblecharts.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -82,7 +82,7 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 | 
 
-Perfect Your Market Timing  
-Learn how to manage your market risk.  
+How Good Is Your Market Analysis?  
+Compare our market views.  
   
 ---|---
