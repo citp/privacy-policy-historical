@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319233246id_/https%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708172751id_/https%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
 
-# EPractize Labs Privacy Policy
+# Privacy Policy - EPractize Labs
 
 **Personal Information**   
 Registration is not required for visitors to the site who do not require any specific services. 
@@ -24,4 +24,4 @@ E-mail information
 When we receive e-mails from you, we may retain the content of any e-mail messages sent to us, as well as details of your e-mail address. 
 
 Contact   
-If you have any questions about this Site, please contact us at [http://www.epractizelabs.com/tickets/login/](https://www.epractizelabs.com/tickets/login/)
+If you have any questions about this Site, please contact us at [https://www.epractizelabs.com/tickets/login/](https://web.archive.org/web/20170708172751id_/https%3A//www.epractizelabs.com/tickets/login/index.html)
