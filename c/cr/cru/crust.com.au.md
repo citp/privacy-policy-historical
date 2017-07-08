@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218060615id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708114703id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Terms & Conditions - Crust.com.au
 
@@ -20,22 +20,23 @@ In general our policy is to only use your information for the purpose for which 
 
 Some of the purposes for which we commonly use your information are as follows:
 
-  * To assist in providing our services and products to you and in processing the orders that you place with any Crust outlet or our call centres or websites.
-  * To assist with any calls you make to us
-  * To communicate promotional offers and special events
-  * For our internal administrative, marketing, planning, and product development and research requirements 
+\- To assist in providing our services and products to you and in processing the orders that you place with any Crust outlet or our call centres or websites.
 
+\- To assist with any calls you make to us
 
+\- To communicate promotional offers and special events
+
+\- For our internal administrative, marketing, planning, and product development and research requirements 
 
 ### Disclosure
 
 We may disclose your personal information:
 
-  * to our franchisees, suppliers, agents or contractors for the purpose of Crust's business;
-  * where the law requires Crust to do so; and
-  * to any third parties that you consent us to do so.
+\- to our franchisees, suppliers, agents or contractors for the purpose of Crust's business;
 
+\- where the law requires Crust to do so; and
 
+\- to any third parties that you consent us to do so.
 
 ### Purpose for handling information
 
@@ -51,7 +52,7 @@ If you have any queries or concerns about your personal information or if you wo
 
 Crust take great care with delivering your orders. Please ensure the address you have supplied is correct as redelivery will incur a fee. We are unable to accept responsibility for non delivery if you have supplied the incorrect address and time. 
 
-There is a $3 delivery fee applicable on all deliveries unless you have become a member of the VIPP Club. 
+There is a $4.50 delivery fee applicable on all deliveries unless you have become a member of the VIPP Club. 
 
 Standard delivery time is approx 45minutes. This may vary depending on the volume of orders placed at the time of your order. 
 
@@ -75,7 +76,7 @@ Our cookies cannot and do not retrieve any other data from your hard drive or pa
 
 Crust will not be responsible for any loss or deterioration which occurs subsequent to delivery as per your instructions (unless otherwise agreed in writing prior to delivery) due to non-timely collection or otherwise. Please select your meals carefully as no refund or exchange will be given. If a product is out of stock, we will contact you to determine if you would prefer a replacement or deduct it from your total order.
 
-### Online Payment
+### Online Payment 
 
 We only accept online payment by providing your credit card details during checkout on our secure site. We will process your order payment using your credit card details for the value printed on the tax invoice we provide with your delivery. All transactions are sold and processed in Australian dollars (AUD). We accept both Visa and Mastercard only on this secure site.
 
