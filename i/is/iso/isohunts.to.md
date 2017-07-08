@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isohunts.to privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421060916id_/http%3A//isohunts.to/isohunt_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunts.to privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708121248id_/https%3A//isohunts.to/isohunt_privacy.html) for the most accurate reproduction.*
 
 # Privacy - isoHunt - BitTorrent & P2P torrent search engine
 
