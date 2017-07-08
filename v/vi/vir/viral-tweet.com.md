@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viral-tweet.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624023340id_/http%3A//www.viral-tweet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viral-tweet.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708100627id_/https%3A//www.viral-tweet.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Viral Tweets
 
