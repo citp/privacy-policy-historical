@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911132818id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709004510id_/https%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
 
-# .: Privacy Policy
+# Privacy Policy
 
 #### Join for free!
 
@@ -16,15 +16,21 @@ dateacougar.com (the "Site") is licensed to **Elite Marketing Solutions Inc.**
 
 USA Company:   
 Elite Marketing Solutions Inc.  
-312 West Fourth Street  
-Carson City, NV 89703, USA  
-(1-754) 205-9975 
+PO BOX 12187  
+Zephyr Cove, NV 89448  
+USA 1-888-837-1572 
 
 International Company:   
 ODS Online Dating Systems LTD  
-77, Strovolos Ave., Strovolos Center, Off. 204  
-2018 Strovolos, Nicosia  
+Dimokratias 31, 2nd Floor, Office 201  
+8028 Paphos   
 CYPRUS 
+
+Canadian Company:   
+9326-7730 Quebec, Inc.  
+2500-1751 rue Richardson  
+Montreal H3K 1G6  
+Canada 
 
 [Contact us](https://web.archive.org/contact)
 
@@ -40,7 +46,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **
 
-**What Information About Subscribers is Collected?**
+What Information About Subscribers is Collected?
 
 > When any consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
 > 
@@ -52,7 +58,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > 
 > The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
 
-**Use of Personal Subscriber Information.**
+Use of Personal Subscriber Information.
 
 > The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
@@ -70,11 +76,11 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > 
 > All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
 
-**Use of Demographical Data**
+Use of Demographical Data
 
 > From time to time, the Site may use data obtained from Google Analytics Demographics and Interest Reporting to make decisions about the types of content you see on the Site, including possible advertisements you may see. The techniques employed do not collect any personal information such as your name, email address, postal address or telephone number. If you wish to opt out of making your data available to the Site, please visit [THIS](https://tools.google.com/dlpage/gaoptout/) page. 
 
-**"OPT-IN" and "OPT-OUT" Provisions.**
+"OPT-IN" and "OPT-OUT" Provisions.
 
 > There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
 > 
@@ -82,11 +88,11 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > 
 > **"OPT-OUT"** \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
 
-**"OPT-OUT" Revocation Procedure.**
+"OPT-OUT" Revocation Procedure.
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20150911132818id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20170709004510id_/https%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
-**Terms and Conditions of Membership.**
+Terms and Conditions of Membership.
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
