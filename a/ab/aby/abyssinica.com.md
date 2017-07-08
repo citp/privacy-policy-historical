@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abyssinica.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525144222id_/http%3A//www.kekros.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abyssinica.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708215250id_/http%3A//www.kekros.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kekros Systems Privacy Policy
 
@@ -23,6 +23,6 @@ We do not provide any personally identifying Customer or User information to adv
 Kekros secures the personally identifying information you provide in a controlled environment, which is protected from unauthorized use or disclosure. 
 
 **Privacy Policy Changes**  
-Kekros encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Service and/or continued provision of personally identifying information to us will be subject to the [Terms of Use](https://web.archive.org/web/20160525144222id_/http%3A//www.kekros.com/TermsOfUse.aspx "Kekros Systems Terms of Use") and the-current Privacy Policy. 
+Kekros encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Service and/or continued provision of personally identifying information to us will be subject to the [Terms of Use](https://web.archive.org/web/20170708215250id_/http%3A//www.kekros.com/TermsOfUse.aspx "Kekros Systems Terms of Use") and the-current Privacy Policy. 
 
-If you have any questions or concerns about this Privacy Policy, please [contact us](https://web.archive.org/web/20160525144222id_/http%3A//www.kekros.com/ContactUs.aspx "Contact Kekros Systems"). 
+If you have any questions or concerns about this Privacy Policy, please [contact us](https://web.archive.org/web/20170708215250id_/http%3A//www.kekros.com/ContactUs.aspx "Contact Kekros Systems"). 
