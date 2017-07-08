@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glixel.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624211159id_/http%3A//www.glixel.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glixel.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708195023id_/http%3A//www.glixel.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Glixel
 
