@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successstory.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328092720id_/https%3A//successstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successstory.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708103850id_/https%3A//successstory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuccessStory
 
