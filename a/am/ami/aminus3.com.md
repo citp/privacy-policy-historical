@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422012832id_/https%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709011322id_/https%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
 
 # Aminus3 Privacy Policy
 
