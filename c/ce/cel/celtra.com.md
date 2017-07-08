@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612221442id_/http%3A//www.celtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtra.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708121642id_/http%3A//www.celtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celtra
 
