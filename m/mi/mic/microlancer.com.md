@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502101141id_/https%3A//studio.envato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708141954id_/https%3A//studio.envato.com/privacy-policy) for the most accurate reproduction.*
 
 # Envato - Top digital assets and services
 
