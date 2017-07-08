@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payspree.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601171434id_/http%3A//payspree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payspree.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708094503id_/https%3A//payspree.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
