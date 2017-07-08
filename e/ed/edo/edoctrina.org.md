@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edoctrina.org privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209173436id_/https%3A//www.edoctrina.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edoctrina.org privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708152807id_/https%3A//www.edoctrina.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eDoctrina
 
