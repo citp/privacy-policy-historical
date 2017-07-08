@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608193004id_/http%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708045004id_/https%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  Login to ThatsPersonal.com 
+######  Create Your Account 
+
+AND GET RS 1000 TO SHOP
 
 When you place your order or sign up with us, we appreciate your trust in us. Privacy of your personal information is taken very seriously and we keep your information, order history and any other records private. ThatsPersonal.com or any of its affiliates will not misuse your personal information!! Personal information means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. This includes, your name, address, age, sex, date of birth, phone number, etc.
 
