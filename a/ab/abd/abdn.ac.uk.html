@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abdn.ac.uk privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181037id_/http%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abdn.ac.uk privacy policy that was archived on 2017-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170708024626id_/https%3A//www.abdn.ac.uk/about/our-website/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
 		<meta charset="utf-8">
@@ -118,8 +118,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</ul>
 				</li>
 				<li>
+					<b><a href="//www.abdn.ac.uk/study/online/">Online Learning</a></b>
 					<ul>
-						<li class="menu_img menu_img_study"></li>
+						<li><a href="//www.abdn.ac.uk/study/online/postgraduate.php">Postgraduate Degrees</a></li>
+						<li><a href="//www.abdn.ac.uk/study/online/short-courses.php">Short Courses</a></li>
+						<li><a href="//www.abdn.ac.uk/study/online/why.php">Why Study Online?</a></li>
+						<li><a href="//www.abdn.ac.uk/study/online/get-started.php">How to Apply</a></li>
 						<li class="uni_menu_close">
 							<a href="#">
 								Close <i class="fa fa-times" aria-hidden="true"></i>
@@ -320,6 +324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul>
 						<li><a href="//www.abdn.ac.uk/infohub/">For Students</a></li>
 						<li><a href="//www.abdn.ac.uk/staffnet/">For Staff</a></li>
+						<li><a href="//www.store.abdn.ac.uk/">Online Store</a></li>
 						<li><a href="//www.abdn.ac.uk/jobs/">Jobs</a></li>
 						<li><a href="//www.abdn.ac.uk/library/">Library</a></li>
 						<li><a href="//www.abdn.ac.uk/staffnet/directory.php">Staff Directory</a></li>
@@ -354,7 +359,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<option value="abdn">University Website</option>
 				<option value="here">About</option>
 				<option value="dir">Staff Directory</option>
-				<option value="lib">Library</option>
+				<option value="lib">Library Collections</option>
 			</select>
 					<label for="q">Keywords</label>
 		<input type="search" id="q" name="q" placeholder="Search">
@@ -629,6 +634,7 @@ Last&nbsp;updated:&nbsp;23 May&nbsp;2017</p>
 			<ul>
 				<li><a href="//www.abdn.ac.uk/infohub/">For Students</a></li>
 				<li><a href="//www.abdn.ac.uk/staffnet/">For Staff</a></li>
+				<li><a href="//www.store.abdn.ac.uk/">Online Store</a></li>
 				<li><a href="//www.abdn.ac.uk/jobs/">Jobs</a></li>
 				<li><a href="//www.abdn.ac.uk/library/">Library</a></li>
 				<li><a href="//www.abdn.ac.uk/staffnet/directory.php">Staff Directory</a></li>
@@ -741,28 +747,28 @@ Last&nbsp;updated:&nbsp;23 May&nbsp;2017</p>
 		<script src="/global/js/opentext_responsive/navigation.js"></script>
 		<script>
 		$(document).ready(function(){
-			$('iframe[src*="kaltura.com"], iframe[src*="youtube.com"], iframe[src*="vimeo.com"], iframe[src*="prezi.com"], div[class="kWidgetIframeContainer"]').each(function(){
+			$('iframe[src*="kaltura.com"], iframe[src*="youtube.com"], iframe[src*="vimeo.com"], iframe[src*="prezi.com"], div[class="kWidgetIframeContainer"]').each(function() {
 				var $this = $(this);
 
 				// remove any inline style
 				$this.removeAttr('style');
-				
+
 				if ($this.hasClass('kWidgetIframeContainer')) {
 					// remove Kaltura class
 					$this.removeClass('kWidgetIframeContainer');
-					
+
 					// add responsive container class
-					$this.addClass('video_container');		
-					return;			
-				}				
-				
+					$this.addClass('video_container');
+					return;
+				}
+
 				// ensure https;
 				var src = $this.attr('src');
 				if (src.indexOf('http:') > -1) {
 					src = src.replace('http:', 'https:');
 					$this.attr('src', src);
 				}
-				
+
 				// ensure correct kaltura domain being used
 				if (src.indexOf('cdnapi.kaltura') > -1) {
 					src = src.replace('cdnapi.kaltura', 'cdnapisec.kaltura');
