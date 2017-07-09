@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwiklabs.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104203914id_/https%3A//qwiklabs.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwiklabs.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709225251id_/https%3A//qwiklabs.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Privacy Policy | Qwiklabs
 
