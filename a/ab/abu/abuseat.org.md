@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608131133id_/http%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709163614id_/https%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
 
 # The CBL
 
