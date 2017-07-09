@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeasy.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210223317id_/https%3A//middleeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeasy.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709140410id_/https%3A//middleeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MiddleEasy.com
 
