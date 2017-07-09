@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610124532id_/https%3A//pixsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709074117id_/https%3A//pixsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Pixsy | Find & Fight Image Theft
-
-_Last modified: 28 March 2017_
 
 **Introduction**
 
@@ -166,3 +164,5 @@ It is our policy to post any changes we make to our privacy policy on this page 
 **Contact Information**
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: info@pixsy.com
+
+Last modified: 28 March 2017
