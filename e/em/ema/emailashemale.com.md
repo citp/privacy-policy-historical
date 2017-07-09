@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailashemale.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029031317id_/http%3A//emailashemale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailashemale.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709120327id_/https%3A//emailashemale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Email Local Shemales
 
@@ -19,5 +19,3 @@ With respect to ads: We are authorized affiliates of some dating sites and produ
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 We can be reached at our [contact page](http://emailashemale.com/contact/ "Contact Email a Shemale") or you can reach us our other email address emailashemale503@gmail.com if you have any questions or concerns regarding the privacy policy of Email a Shemale.
-
-### Share and Enjoy
