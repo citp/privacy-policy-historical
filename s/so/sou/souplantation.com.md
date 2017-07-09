@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323164144id_/http%3A//souplantation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souplantation.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709081247id_/https%3A//souplantation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Souplantation
+# Privacy Policy - Souplantation
 
 Thank you for your interest in Garden Fresh Restaurant Corp., dba Souplantation and Sweet Tomatoes Restaurants (“Garden Fresh Companies,” “we,” or “our”) and our websites (“Site”) located at www.gardenfreshcorp.com, www.souplantation.com and www.sweettomatoes.com.
 
@@ -15,7 +15,7 @@ Information We Collect Directly From You: You may browse our Site without submit
 
 _Information We Collect Automatically About You:_ We and our third party service providers collect data about you automatically as you use our Site, such as number of visitors, browser type, pages accessed, duration of visit, IP address, and other information about your use of our Site and services. We may combine this information with other information that we collect about you. For additional information, please see our discussion of Cookies and Tracking.
 
-**Use of Information.** Garden Fresh Companies use your personal information to respond to your correspondence, to provide you with any materials or information that you have requested, to provide you with products and services that you have requested, to send promotional materials (e.g., coupons, special offers) or newsletters to you (including via email), to contact you when reasonably necessary or appropriate, to administer and improve this Site and our products and services, and for research and analytics purposes. The Garden Fresh Companies may share your information among our various brands, each of which is part of the same corporate entity and may use your information for the purposes described in this Privacy Policy.
+**Use of Information.** Garden Fresh Companies use your personal information to respond to your correspondence, to provide you with any materials or information that you have requested, to provide you with products and services that you have requested, to send promotional materials (e.g., coupons, special offers) or newsletters to you (including via email), to contact you when reasonably necessary or appropriate, to administer and improve this Site and our products and services, and for research and analytics purposes. We may use information about you to provide you with promotions and communications that we believe may be of particular interest and relevance to you. Information you provide to us may be combine with demographic and other information available from other sources to help us better communicate with you and enhance your customer service and customer experience. The Garden Fresh Companies may share your information among our various brands, each of which is part of the same corporate entity and may use your information for the purposes described in this Privacy Policy.
 
 **Disclosure.** With the exception of joint marketing as noted below, we do not share your personal information with third parties for their own marketing purposes. We may share your information, including personal information, with the following persons and entities and in the following circumstances:
 
@@ -29,7 +29,7 @@ _Information We Collect Automatically About You:_ We and our third party service
 
 **Business Transfers**. Garden Fresh Companies may disclose your personal information upon a transfer or sale to another entity of all or substantially all of its assets or stock in its or upon any other corporate reorganization or transaction, including a bankruptcy.
 
-**Aggregate Information**. We also may share aggregate information with third parties for marketing, research, or other purposes.
+**Aggregate Information**. We also may share anonymized and aggregate information with third parties for marketing, research, or other purposes.
 
 **Cookies and Tracking.** To facilitate your use of this Site, we and our third party service providers use “cookies.” A cookie is a small amount of data that our servers transfer to your browser. When you log onto this Site, the cookie file captures your username, unique session identifier number and other session data to enable you to traverse through this website’s various screens without having to authenticate yourself at each new screen. The “help” portion of the toolbar on most browsers will tell you how you may be able to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or fully enjoy the Site. Please note that we do not control the cookie management tools that may be offered on your browser and cannot guarantee their effectiveness.
 
