@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013652id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709062159id_/https%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -121,8 +121,6 @@ Seattle, WA 98134
 
 **CONTACTING PayScale**
 
-PayScale, Inc. complies with the EU Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
 Postal Mail Address:
 
 **Attention: Privacy Officer  
@@ -130,4 +128,4 @@ PayScale, Inc.
 1000 1st Ave South #100  
 Seattle, WA 98134 **
 
-**Last Updated: May, 2013**
+**Last Updated: July, 2017**
