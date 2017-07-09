@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206053950id_/https%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709193637id_/https%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,6 @@ The industry leader in personal finance curriculum
     * Books
       * [All Books by Dave](https://web.archive.org/store/books/cBooks.html?showgrid=true)
       * [Bestsellers](https://web.archive.org/store/dave-s-bestsellers/cDaveBooks.html)
-      * [Workbooks & Planners](https://web.archive.org/store/Workbooks/cWorkbooks.html)
       * [Audiobooks & eBooks](https://web.archive.org/store/audio-books-and-e-books/cEbooks.html)
       * [Other Great Reads](https://web.archive.org/store/books-by-radio-show-guests/cShowguest.html)
     * Dave Recommends
@@ -82,6 +81,14 @@ Learning the essentials of business and leadership
 
 The world's leading experts on key areas of life
 
+      * [Business Boutique](https://web.archive.org/store/business-boutique-live-event/cLIVEEVENTS-cBUSINESSBOUTIQUE-p1.html)
+
+Equipping women to make money doing what they love
+
+      * [Money & Marriage](https://web.archive.org/store/money-marriage/cLIVEEVENTS-cMONEYMARRIAGE-p1.html)
+
+A date night worth investing in
+
   * [Most Popular](https://web.archive.org/store/daves-all-time-best-sellers/cBestsellers.html)
     *       * [Most Popular](https://web.archive.org/store/daves-all-time-best-sellers/cBestsellers.html)
 
@@ -119,10 +126,6 @@ From 1-1 in depths to Q&A web conferences
       * [Individual Lessons](https://web.archive.org/store/individual-lessons/cLessons.html)
 
 Money, motivation, relationships
-
-      * [Memorabilia](https://web.archive.org/store/cMemorabilia.html)
-
-T-shirts, bumper stickers and more
 
       * [Act Your Wage](https://web.archive.org/store/act-your-wage-board-game/prodAYW.html)
 
