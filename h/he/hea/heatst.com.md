@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heatst.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611101756id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatst.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709111622id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.*
 
 # Privacy Policy - Dow Jones
 
