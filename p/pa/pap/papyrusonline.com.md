@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202100550id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710014221id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -78,7 +78,7 @@ Our website is operated in the United States. If you are located outside of the 
 
 While we strive to do our part to protect your personal information, due to the nature of the Internet, the privacy and security of every transmission over the Internet cannot be guaranteed.
 
-We use a secure server utilizing the SSL security to encrypt your personal information. When accessing our customer log-in, account management or checkout pages, your browser should indicate that you have entered our secure browsing zone, where all traffic to and from papyrusonline.com is encrypted. Each web browser offers a different security indicator, although most use the "lock" icon next to the web address—please refer to your browser's help section to learn more. If you do not see any secure browsing indicators, please call our customer service number at 1-800-789-1649 to complete your transaction.
+We use a secure server utilizing the SSL security to encrypt your personal information. When accessing our customer log-in, account management or checkout pages, your browser should indicate that you have entered our secure browsing zone, where all traffic to and from papyrusonline.com is encrypted. Each web browser offers a different security indicator, although most use the "lock" icon next to the web address—please refer to your browser's help section to learn more. If you do not see any secure browsing indicators, please call our customer service number at 1-707-399-3775 to complete your transaction.
 
 Please note as well that email is not encrypted and is not considered to be a secure means of transmitting sensitive personal information.
 
