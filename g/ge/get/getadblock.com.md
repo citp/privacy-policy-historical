@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426030625id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709113042id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
 
 # AdBlock Privacy Policy
 
 Effective Date: October 2, 2015
 
-This Privacy Policy describes AdBlock's information practices for its website and browser extension. We take your privacy seriously and want you to understand exactly what information we collect, how we use that information, which pieces of information you can request us to remove, and how to contact us about this policy. Please read this policy carefully. Your continued use of the AdBlock extension and/or the AdBlock website constitues your agreement to this policy. 
+This Privacy Policy describes AdBlock's information practices for its website and browser extension. We take your privacy seriously and want you to understand exactly what information we collect, how we use that information, which pieces of information you can request us to remove, and how to contact us about this policy. Please read this policy carefully. Your continued use of the AdBlock extension and/or the AdBlock website constitutes your agreement to this policy. 
 
 When it comes to your personal information, most of this policy applies to users who choose to donate to support AdBlock. If all you do is use the extension then you're practically invisible to us. 
 
@@ -12,13 +12,13 @@ When it comes to your personal information, most of this policy applies to users
 
 **Personal information**
 
-The AdBlock website collects and stores all information, excluding the credit card number, given during the payment process. AdBlock does not handle or have access to full credit card numbers or payment account login information. Each payment processor stores and uses the data you provide them differently; please consult their privacy policies ([PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/terms), [Amazon](https://payments.amazon.com/help/Personal-Accounts/Privacy-Security/Privacy-Notice)). 
+The AdBlock website collects and stores all information, excluding the credit card number, given during the payment process. AdBlock does not handle or have access to full credit card numbers or payment account login information. Each payment processor stores and uses the data you provide them differently; please consult their privacy policies ([PayPal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full), [Stripe](https://stripe.com/us/terms)) 
 
 **Anonymous information**
 
 The AdBlock extension captures anonymous usage information, including but not limited to: current version of the extension, preferred language, Acceptable Ads opt-in, number of blocked requests, and browser and operating system type. 
 
-The iOS extension captures connection type (wifi or mobile) in addition to the the data that the browser extension captures. 
+The iOS extension captures connection type (wifi or mobile) in addition to the data that the browser extension captures. 
 
 **Extension error information**
 
@@ -32,7 +32,7 @@ Logs for payment processing requests are kept for 90 days. Information in these 
 
 **Analytics**
 
-AdBlock uses various analytics services to aggregate information about traffic patterns and how our website and extension are used. We limit the data sent to these services, and only do so to improve our extension and website. AdBlock currently uses Google Analytics (privacy policy [here](https://support.google.com/analytics/answer/6004245)) and Mixpanel (privacy policy [here](https://mixpanel.com/privacy/)). 
+AdBlock uses various analytics services to aggregate information about traffic patterns and how our website and extension are used. We limit the data sent to these services, and only do so to improve our extension and website. AdBlock currently uses Google Analytics (privacy policy [here](https://support.google.com/analytics/answer/6004245)). 
 
 ## How AdBlock uses and discloses collected information
 
@@ -50,13 +50,13 @@ AdBlock cooperates with all valid United States law enforcement requests and cou
 
 ## External services
 
-AdBlock uses external services that may require you to enter personal information. We currently use Tender (privacy policy [here](http://tenderapp.com/privacy/)) for AdBlock's knowledge base and support system at http://help.getadblock.com. AdBlock has used other services in the past and may use more in the future. We do not control the data on these external services and can not remove or delete the data; any data given to external services is not bound by this policy, and you should read the external service's privacy policy before providing any information. 
+AdBlock uses external services that may require you to enter personal information. We currently use FreshDesk (privacy policy [here](https://www.freshworks.com/privacy/)) for AdBlock's knowledge base and support system at https://help.getadblock.com. AdBlock has used other services in the past and may use more in the future. We do not control the data on these external services and can not remove or delete the data; any data given to external services is not bound by this policy, and you should read the external service's privacy policy before providing any information. 
 
 ## Your information choices and options
 
 **Personal information removal**
 
-If you have attempted a payment on the AdBlock website then you can request to have your email and name removed from our system. To do this, please open a private ticket [on our support site](http://help.getadblock.com/) that contains your Order ID or email for the purchase. Please note that AdBlock can only remove information from our own systems and cannot make changes to data that you give to a payment processor. 
+If you have attempted a payment on the AdBlock website then you can request to have your email and name removed from our system. To do this, please open a private ticket [on our support site](https://help.getadblock.com/) that contains your Order ID or email for the purchase. Please note that AdBlock can only remove information from our own systems and cannot make changes to data that you give to a payment processor. 
 
 ## Data security
 
@@ -68,4 +68,4 @@ AdBlock reserves the right to change this policy for any reason, and may make sm
 
 ## Contact
 
-You can always contact us with questions or feedback about our privacy policy [here](http://help.getadblock.com/). 
+You can always contact us with questions or feedback about our privacy policy [here](https://help.getadblock.com/). 
