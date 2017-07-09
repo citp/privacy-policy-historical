@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipaymy.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102193445id_/https%3A//ipaymy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaymy.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709135903id_/https%3A//ipaymy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iPayMy
+# Privacy Policy | iPaymy
 
   1. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.iPaymy.com (collectively, the “Site”) and our application for mobile devices (the “Application”). This Privacy Policy applies only to information that you provide to us through the Site and Application. This Privacy Policy may be updated from time to time. We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your Account) or by means of a notice on the Site and Application prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Capitalised terms used herein but undefined will have the meaning given to such term in our Terms of Use. 
   2. By using our Site and Service and by providing or making available your content, personal information and such other information about yourself to us, you are agreeing and expressly consenting to the collection and use of your personal data or information by us for the purposes of providing the Service to you as well as our purposes 
@@ -44,3 +44,7 @@ We will not use your personal data for purposes other than what we have informed
     2. Please direct any queries about our Privacy Policy to the below designated email address including any request to delete data which we have obtained from you or from third parties or to opt out of any messages, emails, newsletters or other marketing or promotional materials from us to you. customerservice@ipaymy.com
 
 
+
+For press inquiries, please [Contact Us ](https://web.archive.org/web/20170709135903id_/https%3A//ipaymy.com/contact) and select "press inquiry".
+
+Copyright © 2017 iPaymy Technologies Pte Ltd. All Rights Reserved. 
