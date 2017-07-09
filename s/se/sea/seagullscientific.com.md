@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seagullscientific.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120020131id_/https%3A//www.seagullscientific.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seagullscientific.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709192058id_/https%3A//www.seagullscientific.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BarTender by Seagull Scientific
 
