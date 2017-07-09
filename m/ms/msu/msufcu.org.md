@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181348id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709123855id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
 
 # MSU Federal Credit Union
 
