@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachoo.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614224840id_/http%3A//teachoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachoo.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709090019id_/https%3A//www.teachoo.com/privacy-policy) for the most accurate reproduction.*
 
 # teachoo: Privacy Policy
 
