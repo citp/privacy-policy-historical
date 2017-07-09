@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235047id_/https%3A//www.safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709165337id_/https%3A//safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 **SafariNow** respects your privacy and is committed to protecting it. This privacy policy is intended to inform you of our privacy principles and of the choices you can make about the way your information is collected online and how that information is utilized by us.
 
-This privacy policy applies to the **SafariNow** website only. This statement is not applicable to other related websites not specifically included. Certain pages on our website have been structured so that you can access the **SafariNow** site without identifying yourself or revealing any personal information. However, should you wish to make full use of the **SafariNow** website, you will be required to register and provide us with personal information. 
+This privacy policy applies to the **SafariNow** website only. This statement is not applicable to other related websites not specifically included. Certain pages on our website have been structured so that you can access the **SafariNow** site without identifying yourself or revealing any personal information. However, should you wish to make full use of the **SafariNow** website, you will be required to register and provide us with personal information.
 
-The **SafariNow** website may contain links to, or from, other sites that are not governed by this privacy policy. **SafariNow** is not responsible for the content, the privacy and the security policies employed by linked sites. 
+The **SafariNow** website may contain links to, or from, other sites that are not governed by this privacy policy. **SafariNow** is not responsible for the content, the privacy and the security policies employed by linked sites.
 
-Certain services are linked with those linked sites, some which offer you the option to share with both **SafariNow** and the third party personal data you provide. However, **SafariNow** will not share your personal information with those linked sites unless you make that choice. 
+Certain services are linked with those linked sites, some which offer you the option to share with both **SafariNow** and the third party personal data you provide. However, **SafariNow** will not share your personal information with those linked sites unless you make that choice.
 
-Furthermore this policy is to be read together with the **SafariNow** [Data Collection, Use and Retention Policy](http://www.safarinow.com/cms/data-collection-policy/irie.aspx). 
+Furthermore this policy is to be read together with the **SafariNow** [Data Collection, Use and Retention Policy](http://www.safarinow.com/cms/data-collection-policy/irie.aspx).
 
-See full terms of our privacy policy below: 
+See full terms of our privacy policy below:
 
 ## PRIVACY NOTICE
 
 **BY ACCESSING AND USING THIS WEBSITE, THE USER CONSENTS TO THE PROCESSING OF THEIR PERSONAL INFORMATION BY SAFARINOW.COM ON THE BASIS SET OUT IN THIS PRIVACY NOTICE. IF THE USER DOES NOT CONSENT, THE USER MUST IMMEDIATELY STOP ACCESSING AND/OR USING THIS WEBSITE.**
 
-  
-
-
-### 1.  INTRODUCTION 
+### 1.  INTRODUCTION
 
 1.1  SafariNow.com collects, uses and, in some circumstances, shares the personal information of Users in and through this website.
 
@@ -36,9 +33,6 @@ See full terms of our privacy policy below:
 1.6  This privacy policy, and the interpretation and enforcement thereof, will be governed by the laws of the Republic of South Africa.
 
 1.7  The provisions of this Privacy Notice must, as far as possible, be incorporated into the agreement between SafariNow.com and Users of this website.
-
-  
-
 
 ### 2.  DEFINITIONS AND INTERPRETATION
 
@@ -62,7 +56,7 @@ See full terms of our privacy policy below:
 
 2.1.5.4  a User’s personal opinions, views or preferences;
 
-2.1.5.5  correspondence sent by a User which is of a private or confidential nature; 
+2.1.5.5  correspondence sent by a User which is of a private or confidential nature;
 
 2.1.5.6  the views or opinions of others about a User; and
 
@@ -70,7 +64,7 @@ See full terms of our privacy policy below:
 
 2.1.6  "POPI" means the Protection of Personal Information Act, including any regulations or codes of conduct promulgated under it;
 
-2.1.7  "PROATIA" means the Promotion of Access to Information Act 2 of 2000; 
+2.1.7  "PROATIA" means the Promotion of Access to Information Act 2 of 2000;
 
 2.1.8  "process or processing" means, in relation to personal information, any operation or activity or any set of operations, whether or not by automatic means, including:
 
@@ -82,9 +76,9 @@ See full terms of our privacy policy below:
 
 2.1.9  "User" means a visitor or user of this website, or any of the content or services associated with this website;
 
-2.1.10  "the website" means the website or any part thereof which is accessible from http://www.safarinow.com. 
+2.1.10  "the website" means the website or any part thereof which is accessible from http://www.safarinow.com.
 
-2.2  Any reference in this Privacy Notice to: 
+2.2  Any reference in this Privacy Notice to:
 
 2.2.1  the singular includes the plural and vice versa;
 
@@ -97,9 +91,6 @@ See full terms of our privacy policy below:
 2.4  The word "include" means "include without limitation". Use of the word "include" or "in particular" is for illustration or emphasis only and where followed by specific examples must not be interpreted as limiting the meaning of the general wording preceding it.
 
 2.5  A requirement that any notice, request, demand or other communication made in terms of this Privacy Notice must be in writing will be met if it is in the form of a data message as defined in the Electronic Communications and Transactions Act, No. 25 of 2002, and is accessible in a manner usable for subsequent reference.
-
-  
-
 
 ### 3.  RESPONSIBLE PARTY
 
@@ -116,9 +107,6 @@ See full terms of our privacy policy below:
 3.2.4  Website address: http://www.safarinow.com
 
 3.3  SafariNow.com may instruct third party operators from time to time to undertake certain processing activities relating to the User’s personal information.
-
-  
-
 
 ### 4.  WHAT PERSONAL INFORMATION IS COLLECTED
 
@@ -148,10 +136,7 @@ See full terms of our privacy policy below:
 
 4.3  There is no applicable law which directly requires or authorises SafariNow.com to collect a User’s personal information.
 
-  
-
-
-### 5.  PURPOSE/S FOR COLLECTION AND PROCESSING OF PERSONAL INFORMATION 
+### 5.  PURPOSE/S FOR COLLECTION AND PROCESSING OF PERSONAL INFORMATION
 
 5.1  SafariNow.com shall only collect a User’s personal information for a specific, explicitly defined and lawful purpose relating to a function or activity of SafariNow.com’s business.
 
@@ -187,10 +172,7 @@ See full terms of our privacy policy below:
 
 5.4  SafariNow.com will not sell a User’s personal information to any third party without the prior written consent of the User.
 
-  
-
-
-###  6.  COLLECTION DIRECTLY FROM USER
+### 6.  COLLECTION DIRECTLY FROM USER
 
 6.1  SafariNow.com shall, as far as possible, always collect personal information about a User directly from the User, except in the following circumstances:
 
@@ -210,9 +192,9 @@ See full terms of our privacy policy below:
 
 6.3  The User hereby consents to SafariNow.com requesting and obtaining credit information pertaining to the User from any reputable credit reporting agency or institution for the purpose of concluding any transaction for the sale of goods or services to the User on this website.
 
-6.4  Personal information may be collected from or supplied by the User in any of the following ways: 
+6.4  Personal information may be collected from or supplied by the User in any of the following ways:
 
-6.4.1  during the process of registering as a member on this website; 
+6.4.1  during the process of registering as a member on this website;
 
 6.4.2  provided by the User as part of their profile pages on the website;
 
@@ -229,9 +211,6 @@ See full terms of our privacy policy below:
 6.4.8  when completing any forms on the website.
 
 6.5  The User may visit the website without providing any personal information. However, the website’s servers may still collect technical information regarding the use of the website, which is aggregated for analytical purposes, technical maintenance and for improving the content offered on the website. Such information may include details of the User’s visit, information about the User’s computer, including IP (Internet Protocol) address, operating system and browser type, the User’s location, and usage information. An individual User will not be identified from or by this information and SafariNow.com is entitled to copy, distribute or otherwise use such information without limitation.
-
-  
-
 
 ### 7.  COOKIES
 
@@ -252,9 +231,6 @@ See full terms of our privacy policy below:
 7.3  The provisions of this clause are only applicable to Cookies used by SafariNow.com. In some instances, third-party service providers may use Cookies on the website. SafariNow.com cannot and does not control or access Cookies used by third party service providers and takes no responsibility therefor.
 
 7.4  The User has the right and ability to either accept or decline the use of Cookies on their computer’s web browser, whether they are logged in as a member, or simply casually visiting the website. However, declining the use of Cookies may limit a User’s access to certain features on the website.
-
-  
-
 
 ### 8.  GENERAL CONDITIONS FOR PROCESSING PERSONAL INFORMATION
 
@@ -278,9 +254,6 @@ See full terms of our privacy policy below:
 
 8.10  If SafariNow.com no longer needs to process personal information to achieve the purpose originally specified, it will stop using that information.
 
-  
-
-
 ### 9.  DISCLOSURE AND SHARING OF PERSONAL INFORMATION
 
 9.1  SafariNow.com may, in the course of providing any content or services on this website, or for the purposes of concluding or performing any sale or other transaction with a User, share certain personal information with third party operators who perform certain processing activities on behalf of SafariNow.com.
@@ -295,9 +268,6 @@ See full terms of our privacy policy below:
 
 9.4  Other than as stated in clause 9.1 and 9.3, SafariNow.com shall not share a User’s personal information with any third parties unless it has the User’s express consent to do so.
 
-  
-
-
 ### 10.  USER’S RIGHTS IN RELATION TO THE PROCESSING OF THEIR PERSONAL INFORMATION
 
 10.1  Users shall have the following rights in relation to the processing of their personal information:
@@ -309,9 +279,6 @@ See full terms of our privacy policy below:
 10.1.3  to lodge a complaint with the Information Regulator.
 
 10.2  Users may make a request in terms of clause 10.1.1 by following the process for making such a request as set out in SafariNow.com’s PROATIA manual.
-
-  
-
 
 ### 11.  FURTHER PROCESSING
 
@@ -333,9 +300,6 @@ See full terms of our privacy policy below:
 
 11.2  SafariNow.com shall ensure that if it intends processing personal information for other purposes not previously specified, it shall notify the User of such further purposes and the possible consequences of the intended further processing for the User.
 
-  
-
-
 ### 12.  ACCURACY, CORRECTNESS AND COMPLETENESS OF PERSONAL INFORMATION
 
 12.1  SafariNow.com shall take reasonably practicable steps to ensure that the personal information kept by it about Users is complete, accurate, not misleading and is updated when necessary.
@@ -347,9 +311,6 @@ See full terms of our privacy policy below:
 12.4  SafariNow.com reserves its right to only adhere to a request from a User in terms of clause 12.2 if the correction or updating of that information will result in the personal information being correct and accurate.
 
 12.5  Where personal information that has been shared by SafariNow.com with a third party is subsequently updated or corrected, SafariNow.com shall ensure that all third parties, with whom that information was shared, receives the updated and/or corrected version of the information as soon as it has been updated and/or corrected.
-
-  
-
 
 ### 13.  SECURITY SAFEGUARDS
 
@@ -375,17 +336,11 @@ See full terms of our privacy policy below:
 
 13.5  SafariNow.com shall ensure that all personal information on its systems is properly backed-up and that back-up copies are stored separately from the live files.
 
-  
-
-
 ### 14.  NOTIFICATION OF BREACH OF SECURITY
 
 14.1  If personal information about a User is inadvertently leaked or SafariNow.com’s security has been unlawfully breached by any unauthorised party, SafariNow.com shall immediately identify the relevant Users who may be affected by the security breach, and shall contact them at their last known email address or contact details or by the quickest means possible.
 
 14.2  SafariNow.com shall provide sufficient information to the User to allow him or her to take the necessary protective measures against the potential consequences of the compromise, or shall advise Users of the steps to be taken by them and the possible consequences that may ensue from the breach for them.
-
-  
-
 
 ### 15.  DECISIONS BASED ON PERSONAL INFORMATION PROCESSED
 
@@ -396,9 +351,6 @@ See full terms of our privacy policy below:
 15.3  SafariNow.com shall always ensure that the underlying logic behind any decision made pursuant to the automated processing of personal information is sound and that this underlying logic can be communicated to the User to enable them to make representations.
 
 15.4  If SafariNow.com has made a decisions based on incorrect personal information, it shall immediately revisit that decision as soon as it receive notice or becomes aware of the error or inaccuracy of that information.
-
-  
-
 
 ### 16.  LINKED THIRD PARTY WEBSITES
 
@@ -416,15 +368,9 @@ See full terms of our privacy policy below:
 
 17.4  The User can opt out of receiving further marketing communications by un-checking certain boxes on the forms used on the website to collect their personal information, or by contacting SafariNow.com at info@safarinow.com.
 
-  
-
-
 ### 18.  CHILDREN’S PERSONAL INFORMATION
 
 SafariNow.com shall not process any personal information relating to a person under the age of 18 years unless it has obtained consent from that person’s parent or legal guardian. If this website is being accessed by the parent or guardian of a child under the age of 18 years, and personal information pertaining to that child is being provided by the parent or guardian, then they hereby expressly consent to SafariNow.com processing such information according to the further provisions of this Privacy Notice.
-
-  
-
 
 ### 19.  CROSS BORDER TRANSFERS OF PERSONAL INFORMATION
 
@@ -444,9 +390,6 @@ SafariNow.com shall not process any personal information relating to a person un
 
 19.3  If SafariNow.com is required to transfer personal information from South Africa to a third party in a foreign country, it shall ensure that the third party is subject to a law, binding code of conduct or contract which effectively upholds principles for the reasonable processing of personal information which are substantially similar to the data protection offered in the Republic of South Africa.
 
-  
-
-
 ### 20.  RETENTION OF INFORMATION
 
 20.1  SafariNow.com will keep a record of any personal information collected for no longer than is necessary to achieve the specific purpose for which it collected such information in the first place unless:
@@ -461,9 +404,6 @@ SafariNow.com shall not process any personal information relating to a person un
 
 20.2  SafariNow.com may, if it has de-identified personal information, kept such information for historical, statistical or research purposes. SafariNow.com shall ensure that appropriate safeguards are in place to prevent those records from being used for any other purposes, or against the information being re-identified.
 
-  
-
-
 ### 21.  RETURNING, DESTROYING OR DELETING PERSONAL INFORMATION
 
 21.1  Where SafariNow.com is no longer authorised to retain a record of any personal information, it shall either:
@@ -471,9 +411,6 @@ SafariNow.com shall not process any personal information relating to a person un
 21.1.1  ensure that the information is permanently destroyed or deleted as soon as reasonably practicable; or
 
 21.1.2  return the information to the User or transfer it to a third party, if requested by the User in writing to do so.
-
-  
-
 
 ### 22.  CONSENT
 
@@ -491,24 +428,15 @@ SafariNow.com shall not process any personal information relating to a person un
 
 22.3  Should a User wish to withdraw any consent previously given by the User, they must notify SafariNow.com’s information officer in writing.
 
-  
-
-
 ### 23.  LODGING AN OBJECTION
 
 23.1  A User may, on reasonable grounds, object to the processing of their personal information at any time after that processing has started.
 
 23.2  If a User wishes to object to the processing of their personal information, they must send written notice of their objection to SafariNow.com’s information officer, together with their reasons for doing so.
 
-  
-
-
 ### 24.  CHOICE OF LAW
 
 This Privacy Notice shall be governed and interpreted in accordance with the laws of the Republic of South Africa.
-
-  
-
 
 ### 25.  AMENDMENT OF THIS PRIVACY NOTICE
 
@@ -517,9 +445,6 @@ This Privacy Notice shall be governed and interpreted in accordance with the law
 25.2  It is the User's obligation to periodically check the provisions of this Privacy Notice for any such changes, updates, additions, removals or amendments.
 
 25.3  The User's continued use of this website following any changes, updates, additions, removals or amendments to this Privacy Notice will be considered notice of the User's acceptance to abide by and be bound by this Privacy Notice, as amended.
-
-  
-
 
 ### CONTACT
 
