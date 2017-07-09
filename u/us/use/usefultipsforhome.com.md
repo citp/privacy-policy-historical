@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usefultipsforhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202906id_/http%3A//usefultipsforhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefultipsforhome.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709071907id_/http%3A//usefultipsforhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Useful Tips For Home
 
