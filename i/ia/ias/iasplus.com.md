@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031224id_/http%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709092806id_/https%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ Personal information may be transmitted internationally through the Deloitte Tou
 This website collects data from you in only two circumstances – if you choose to access IFRS E-learning or if you choose to subscribe to the IAS Plus Newsletter and Alerts. Visitors who do either of those things may change their details as follows:
 
   1. _IFRS E-learning._ The IFRS E-learning page (accessed by clicking on the light bulb icon on the home page – or Click Here) has a 'Delete my registration details' button. __
-  2. _Subscribing to newsletters and alerts._ To receive IAS Plus communications by email, you may [register for a new “My IAS Plus”](http://www.iasplus.com/en/@@register) account. The email you receive transmitting each newsletter or alert includes an 'Unsubscribe' link. 
+  2. _Subscribing to newsletters and alerts._ To receive IAS Plus communications by email, you may [register for a new “My IAS Plus”](https://www.iasplus.com/en/@@register) account. The email you receive transmitting each newsletter or alert includes an 'Unsubscribe' link. 
 
 
 
