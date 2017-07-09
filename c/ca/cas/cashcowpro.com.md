@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcowpro.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213041845id_/https%3A//www.cashcowpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcowpro.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709095958id_/https%3A//cashcowpro.com/privacy) for the most accurate reproduction.*
 
 # CASHCOWPRO : Winning Analytics for Amazon
 
