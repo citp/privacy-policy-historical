@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612153642id_/http%3A//roses.ru/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710001514id_/https%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
 
-# FAQ related to security and privacy.
-
-* * *
+# Privacy Statement | Roses.ru
 
 Our fundamental privacy principle
 
