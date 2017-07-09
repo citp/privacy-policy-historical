@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzikair.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627180554id_/http%3A//www.muzikair.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzikair.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709124432id_/http%3A//www.muzikair.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Classical for all | MUZIK Air
 
