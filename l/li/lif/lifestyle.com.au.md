@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestyle.com.au privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023081421id_/https%3A//www.lifestyle.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyle.com.au privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709110443id_/https%3A//www.lifestyle.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - lifestyle.com.au
 
