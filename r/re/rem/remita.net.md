@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234627id_/https%3A//www.remita.net/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709191836id_/https%3A//remita.net/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
