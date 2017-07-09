@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wabash.edu privacy policy that was archived on 2016-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203132420id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wabash.edu privacy policy that was archived on 2017-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170709155355id_/https%3A//www.wabash.edu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -34,12 +34,12 @@
     
     <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMFBBL"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/js/jquery.min.v2.js"></script>
+	<script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_67851895.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMFBBL"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/js/jquery.min.v2.js"></script>
 	<script type="text/javascript" src="/assets/js/jquery-ui.min.v2.js"></script>
 	<script type="text/javascript" src="/assets/js/bootstrap.min.v2.js"></script>
 	<script type="text/javascript" src="/assets/js/custom.v2.js?v=ytcode"></script>
 	
-    
+	
 </head>
 <body style="">
 	
@@ -53,7 +53,8 @@
 	<nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation" id="topnavigation">
 		<div class="container">
 	  		
-			<div class="navbar-header">			
+			<div class="navbar-header">	
+				<div id="skiptocontent"><a href="#content">skip to main content</a></div>
 				<button type="button" class="navbar-toggle visible-xs btnMobileNav">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
@@ -70,7 +71,7 @@
 						<form class="navbar-form navbar-left" action="https://www.wabash.edu/search.cfm" role="search">
 							<div class="input-group">
                             	<label class="sr-only" for="wabashsearch">Search Wabash</label>
-						      	<input type="text" id="wabashsearch" class="input-sm form-control" name="q" placeholder="Search Wabash...">
+						      	<input type="text" id="wabashsearch" onclick="this.placeholder=''" class="input-sm form-control" name="q" placeholder="Search Wabash...">
 						      	<span class="input-group-btn">
 						        	<button class="btn btn-sm btn-danger" type="submit">GO</button>
 						      	</span>
@@ -92,11 +93,14 @@
 						</ul>
 				<form id="searchForm" class="navbar-form navbar-left" action="https://www.wabash.edu/search.cfm" role="search">
 			      	<div class="form-group">
-                       	<label class="sr-only" for="wabashsearchsm">Search Wabash</label>
+                       	<label class="sr-only text-white" for="wabashsearchsm">Search Wabash</label>
 			        	<input type="text" id="wabashsearchsm" class="input-sm form-control" name="q" onclick="this.placeholder=''" placeholder="Search Wabash...">
 			      	</div>
 			      	<button type="submit" class="btn btn-sm btn-default"><span id="searchIcon" class="glyphicon glyphicon-search"></span>Search</button>
 			    </form>
+		    	
+				<a id="myBash" class="btn btn-sm btn-danger navbar-left btnMyBash hidden-xs" href="http://www.wabash.edu/mybash">My Bash</a>
+
 			    <ul class="nav navbar-nav navbar-right">
 			      	<li class="dropdown visible-sm">
 				        <a href="" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
@@ -123,11 +127,21 @@
 			    		</ul>
 		    	</div>
 		    	<p class="navbar-text navbar-right text-white hidden-sm">Follow Us:</p>
-		    	<a id="myBash" class="btn btn-sm btn-danger pull-right btnMyBash hidden-xs" href="http://www.wabash.edu/mybash">My Bash</a>
 			</div>
 		</div>
 	</nav>
-	
+<style>
+@media (min-width: 1200px) {
+	#myBash { left:150px; margin-left:120px !important; }
+}
+@media (max-width: 1199px) {
+	#myBash { margin-left:10px !important; }
+}
+
+@media (max-width: 767px) {
+	#myBash { margin-left:10px !important; }
+}
+</style>	
 	<div id="header" class="clearfix">
 		<div class="container">
 			<div class="row">
@@ -146,15 +160,18 @@
 								<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/president">President Hess</a></li>
-										<li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
-										<li><a href="/aboutwabash/history">History</a></li>
-										<li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/calendar">Calendar</a></li>
+                                        <li><a href="/aboutwabash/directories">Directories</a></li>
+                                        <li><a href="/aboutwabash/history">History</a></li>
+                                        <li><a href="/aboutwabash/mission">Mission</a></li>
+                                        <li><a href="/aboutwabash/wabash">Old Wabash</a></li>														
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/mission">Mission</a></li>
-										<li><a href="/aboutwabash/employment">Employment</a></li>
-										<li><a href="/aboutwabash/wabash">Old Wabash</a></li>
+                                        <li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/aboutwabash/offices">Offices</a></li>
+                                        <li><a href="/aboutwabash/employment">Employment</a></li>
+                                        <li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
+                                        <li><a href="/aboutwabash/president">President Hess</a></li>
 									</div>
 								</div>
 							</ul>
@@ -167,7 +184,7 @@
 								<div class="row">
 									<div class="col-xs-6">
 										<li><a href="/academics/majors">Majors</a></li>
-										<li><a href="/academics/registrar">Registrar</a></li>
+										<li><a href="/academics/registrar">Registrar/Transcripts</a></li>
 										<li><a href="/academics/pbk">Phi Beta Kappa</a></li>
 										<li><a href="/academics/research">Research</a></li>
 										<li><a href="/academics/learning">Learning Beyond Your Major</a></li>
@@ -179,7 +196,6 @@
                                         <li><a href="http://www3.wabash.edu/orgs/writingcenter/wc.home.html">Writing Center</a></li>
 										<li><a href="/academics/teach">Join the Faculty</a></li>
 										<li><a href="/academics/events">Speakers &amp; Events</a></li>
-                                        <li><a href="/registrar/transcripts">Request a Transcript</a></li>
 									</div>
 								</div>
 							</ul>
@@ -191,16 +207,18 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/admissions/after ">After Wabash </a></li>
-										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/requestinfo">Request Information</a></li>
+										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/majors">Majors</a></li>
+                                        <li><a href="/admissions/tour">See Our Campus</a></li>
+										<li><a href="/admissions/after">After Wabash </a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/admissions/financialaid">Financial Aid</a></li>
-										
-										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
 										<li><a href="/admissions/apply ">Apply </a></li>
+										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
+										<li><a href="/admissions/financialaid">Financial Aid</a></li>
+										<li><a href="/class2021/">Class Of 2021</a></li>
+										
 										<li><a href="/admissions/contact">Contact</a></li>
 									</div>
 								</div>
@@ -211,18 +229,19 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
+										<li><a href="/alumni/nawm">Alumni Association</a></li>
+										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
 										<li><a href="/alumni/voices">Alumni Voices</a></li>
 										<li><a href="/alumni/bigbash">Big Bash Reunion</a></li>
-										<li><a href="/alumni/wd">Wabash Day</a></li>
 										<li><a href="/alumni/plannedgiving">Planned Giving</a></li>
 										<li><a href="/alumni/volunteer">Volunteer</a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/alumni/alumni_assoc">Alumni Association</a></li>
+										<li><a href="http://blog.wabash.edu/alumninews/">Alumni News</a></li>
+										<li><a href="/alumni/eservices">Alumni Directory</a></li>
 										<li><a href="/alumni/homecoming">Homecoming</a></li>
 										<li><a href="/parents">Parents</a></li>
-										<li><a href="/alumni/eservices">Alumni Directory</a></li>
-										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
+										<li><a href="/alumni/wd">Wabash Day</a></li>
 									</div>
 								</div>
 							</ul>
@@ -259,15 +278,18 @@
 								<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/president">President Hess</a></li>
-										<li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
-										<li><a href="/aboutwabash/history">History</a></li>
-										<li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/calendar">Calendar</a></li>
+                                        <li><a href="/aboutwabash/directories">Directories</a></li>
+                                        <li><a href="/aboutwabash/history">History</a></li>
+                                        <li><a href="/aboutwabash/mission">Mission</a></li>
+                                        <li><a href="/aboutwabash/wabash">Old Wabash</a></li>														
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/mission">Mission</a></li>
-										<li><a href="/aboutwabash/employment">Employment</a></li>
-										<li><a href="/aboutwabash/wabash">Old Wabash</a></li>
+                                        <li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/aboutwabash/offices">Offices</a></li>
+                                        <li><a href="/aboutwabash/employment">Employment</a></li>
+                                        <li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
+                                        <li><a href="/aboutwabash/president">President Hess</a></li>
 									</div>
 								</div>
 							</ul>
@@ -278,15 +300,18 @@
 								<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/president">President Hess</a></li>
-										<li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
-										<li><a href="/aboutwabash/history">History</a></li>
-										<li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/calendar">Calendar</a></li>
+                                        <li><a href="/aboutwabash/directories">Directories</a></li>
+                                        <li><a href="/aboutwabash/history">History</a></li>
+                                        <li><a href="/aboutwabash/mission">Mission</a></li>
+                                        <li><a href="/aboutwabash/wabash">Old Wabash</a></li>														
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/aboutwabash/mission">Mission</a></li>
-										<li><a href="/aboutwabash/employment">Employment</a></li>
-										<li><a href="/aboutwabash/wabash">Old Wabash</a></li>
+                                        <li><a href="/aboutwabash/info">Consumer Information</a></li>
+                                        <li><a href="/aboutwabash/offices">Offices</a></li>
+                                        <li><a href="/aboutwabash/employment">Employment</a></li>
+                                        <li><a href="/aboutwabash/location">Location &amp; Directions</a></li>
+                                        <li><a href="/aboutwabash/president">President Hess</a></li>
 									</div>
 								</div>
 							</ul>
@@ -298,7 +323,7 @@
 								<div class="row">
 									<div class="col-xs-6">
 										<li><a href="/academics/majors">Majors</a></li>
-										<li><a href="/academics/registrar">Registrar</a></li>
+										<li><a href="/academics/registrar">Registrar/Transcripts</a></li>
 										<li><a href="/academics/pbk">Phi Beta Kappa</a></li>
 										<li><a href="/academics/research">Research</a></li>
 										<li><a href="/academics/learning">Learning Beyond Your Major</a></li>
@@ -310,7 +335,6 @@
                                         <li><a href="http://www3.wabash.edu/orgs/writingcenter/wc.home.html">Writing Center</a></li>
 										<li><a href="/academics/teach">Join the Faculty</a></li>
 										<li><a href="/academics/events">Speakers &amp; Events</a></li>
-                                        <li><a href="/registrar/transcripts">Request a Transcript</a></li>
 									</div>
 								</div>
 							</ul>
@@ -322,7 +346,7 @@
 								<div class="row">
 									<div class="col-xs-6">
 										<li><a href="/academics/majors">Majors</a></li>
-										<li><a href="/academics/registrar">Registrar</a></li>
+										<li><a href="/academics/registrar">Registrar/Transcripts</a></li>
 										<li><a href="/academics/pbk">Phi Beta Kappa</a></li>
 										<li><a href="/academics/research">Research</a></li>
 										<li><a href="/academics/learning">Learning Beyond Your Major</a></li>
@@ -334,7 +358,6 @@
                                         <li><a href="http://www3.wabash.edu/orgs/writingcenter/wc.home.html">Writing Center</a></li>
 										<li><a href="/academics/teach">Join the Faculty</a></li>
 										<li><a href="/academics/events">Speakers &amp; Events</a></li>
-                                        <li><a href="/registrar/transcripts">Request a Transcript</a></li>
 									</div>
 								</div>
 							</ul>
@@ -345,16 +368,18 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/admissions/after ">After Wabash </a></li>
-										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/requestinfo">Request Information</a></li>
+										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/majors">Majors</a></li>
+                                        <li><a href="/admissions/tour">See Our Campus</a></li>
+										<li><a href="/admissions/after">After Wabash </a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/admissions/financialaid">Financial Aid</a></li>
-										
-										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
 										<li><a href="/admissions/apply ">Apply </a></li>
+										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
+										<li><a href="/admissions/financialaid">Financial Aid</a></li>
+										<li><a href="/class2021/">Class Of 2021</a></li>
+										
 										<li><a href="/admissions/contact">Contact</a></li>
 									</div>
 								</div>
@@ -366,16 +391,18 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
-										<li><a href="/admissions/after ">After Wabash </a></li>
-										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/requestinfo">Request Information</a></li>
+										<li><a href="/admissions/visit ">Visit Us </a></li>
 										<li><a href="/admissions/majors">Majors</a></li>
+                                        <li><a href="/admissions/tour">See Our Campus</a></li>
+										<li><a href="/admissions/after">After Wabash </a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/admissions/financialaid">Financial Aid</a></li>
-										
-										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
 										<li><a href="/admissions/apply ">Apply </a></li>
+										<li><a href="/admissions/counselor.cfm">Meet the Staff</a></li>
+										<li><a href="/admissions/financialaid">Financial Aid</a></li>
+										<li><a href="/class2021/">Class Of 2021</a></li>
+										
 										<li><a href="/admissions/contact">Contact</a></li>
 									</div>
 								</div>
@@ -385,18 +412,19 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
+										<li><a href="/alumni/nawm">Alumni Association</a></li>
+										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
 										<li><a href="/alumni/voices">Alumni Voices</a></li>
 										<li><a href="/alumni/bigbash">Big Bash Reunion</a></li>
-										<li><a href="/alumni/wd">Wabash Day</a></li>
 										<li><a href="/alumni/plannedgiving">Planned Giving</a></li>
 										<li><a href="/alumni/volunteer">Volunteer</a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/alumni/alumni_assoc">Alumni Association</a></li>
+										<li><a href="http://blog.wabash.edu/alumninews/">Alumni News</a></li>
+										<li><a href="/alumni/eservices">Alumni Directory</a></li>
 										<li><a href="/alumni/homecoming">Homecoming</a></li>
 										<li><a href="/parents">Parents</a></li>
-										<li><a href="/alumni/eservices">Alumni Directory</a></li>
-										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
+										<li><a href="/alumni/wd">Wabash Day</a></li>
 									</div>
 								</div>
 							</ul>
@@ -405,18 +433,19 @@
 							<ul class="dropdown-menu">
 								<div class="row">
 									<div class="col-xs-6">
+										<li><a href="/alumni/nawm">Alumni Association</a></li>
+										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
 										<li><a href="/alumni/voices">Alumni Voices</a></li>
 										<li><a href="/alumni/bigbash">Big Bash Reunion</a></li>
-										<li><a href="/alumni/wd">Wabash Day</a></li>
 										<li><a href="/alumni/plannedgiving">Planned Giving</a></li>
 										<li><a href="/alumni/volunteer">Volunteer</a></li>
 									</div>
 									<div class="col-xs-6">
-										<li><a href="/alumni/alumni_assoc">Alumni Association</a></li>
+										<li><a href="http://blog.wabash.edu/alumninews/">Alumni News</a></li>
+										<li><a href="/alumni/eservices">Alumni Directory</a></li>
 										<li><a href="/alumni/homecoming">Homecoming</a></li>
 										<li><a href="/parents">Parents</a></li>
-										<li><a href="/alumni/eservices">Alumni Directory</a></li>
-										<li><a href="/alumni/annualgiving">Annual Giving</a></li>
+										<li><a href="/alumni/wd">Wabash Day</a></li>
 									</div>
 								</div>
 							</ul>
@@ -488,7 +517,7 @@
 						</ul>
                         
 						<div id="main-content" style="min-height: 50px;">
-
+						
 					
         <h1>Wabash College 
         <span>Privacy Statement for www.wabash.edu</span>
@@ -669,7 +698,7 @@
 						<li><a href="/discrimination/" title="Non-Discrimination Policy">Non-Discrimination Policy</a></li>
 						<li><a href="/accessibility/" title="Accessibility Policy">Accessibility Policy</a></li>
 						<li><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></li>
-						<li>Copyright © 2016</li>
+						<li>Copyright © 2017</li>
 					</ul> 
 				</div>
                 
@@ -682,7 +711,7 @@
 	
 	<!-- MOBILE NAVIGATION -->
 	<div id="mobileNavigationContainer">
-		<div id="mobileNavigation"><ul class="mobileNavMenu"><li><a href="#" class="hasItems">Quick Links</a><ul class="subItemMenu"></ul></li><li class="active"><a href="/aboutwabash" class="hasItems">About Wabash</a><ul class="subItemMenu"><li><a href="/aboutwabash/president">President Hess</a></li><li><a href="/aboutwabash/location">Location &amp; Directions</a></li><li><a href="/aboutwabash/history">History</a></li><li><a href="/aboutwabash/info">Consumer Information</a></li><li><a href="/aboutwabash/mission">Mission</a></li><li><a href="/aboutwabash/employment">Employment</a></li><li><a href="/aboutwabash/wabash">Old Wabash</a></li></ul></li><li><a href="/academics" class="hasItems">Academics</a><ul class="subItemMenu"><li><a href="/academics/majors">Majors</a></li><li><a href="/academics/registrar">Registrar</a></li><li><a href="/academics/pbk">Phi Beta Kappa</a></li><li><a href="/academics/research">Research</a></li><li><a href="/academics/learning">Learning Beyond Your Major</a></li><li><a href="/plus">Liberal Arts Plus</a></li><li><a href="/academics/catalog">Course Catalog</a></li><li><a href="/academics/library">Lilly Library</a></li><li><a href="http://www3.wabash.edu/orgs/writingcenter/wc.home.html">Writing Center</a></li><li><a href="/academics/teach">Join the Faculty</a></li><li><a href="/academics/events">Speakers &amp; Events</a></li><li><a href="/registrar/transcripts">Request a Transcript</a></li></ul></li><li><a href="/admissions" class="hasItems">Admissions &amp; Financial Aid</a><ul class="subItemMenu"><li><a href="/admissions/after">After Wabash</a></li><li><a href="/admissions/visit">Visit Us</a></li><li><a href="/admissions/requestinfo">Request Information</a></li><li><a href="/admissions/majors">Majors</a></li><li><a href="/admissions/financialaid">Financial Aid</a></li><li><a href="/admissions/counselor.cfm">Meet the Staff</a></li><li><a href="/admissions/apply">Apply</a></li><li><a href="/admissions/contact">Contact</a></li></ul></li><li><a href="/alumni" class="hasItems">Alumni</a><ul class="subItemMenu"><li><a href="/alumni/voices">Alumni Voices</a></li><li><a href="/alumni/bigbash">Big Bash Reunion</a></li><li><a href="/alumni/wd">Wabash Day</a></li><li><a href="/alumni/plannedgiving">Planned Giving</a></li><li><a href="/alumni/volunteer">Volunteer</a></li><li><a href="/alumni/alumni_assoc">Alumni Association</a></li><li><a href="/alumni/homecoming">Homecoming</a></li><li><a href="/parents">Parents</a></li><li><a href="/alumni/eservices">Alumni Directory</a></li><li><a href="/alumni/annualgiving">Annual Giving</a></li></ul></li><li><a href="http://sports.wabash.edu">Athletics</a></li><li><a href="/giving" class="hasItems">Giving</a><ul class="subItemMenu"><li><a href="/giving/annual">Annual Giving</a></li><li><a href="/giving/capital">Programs &amp; Facilities</a></li><li><a href="/giving/honorroll">Honor Roll of Donors</a></li><li><a href="/giving/1832Society">1832 Society</a></li><li><a href="/giving/planned">Planned Giving</a></li><li><a href="https://www.wabash.edu/giving/give">Give Now</a></li></ul></li></ul></div>
+		<div id="mobileNavigation"><ul class="mobileNavMenu"><li><a href="#" class="hasItems">Quick Links</a><ul class="subItemMenu"></ul></li><li class="active"><a href="/aboutwabash" class="hasItems">About Wabash</a><ul class="subItemMenu"><li><a href="/calendar">Calendar</a></li><li><a href="/aboutwabash/directories">Directories</a></li><li><a href="/aboutwabash/history">History</a></li><li><a href="/aboutwabash/mission">Mission</a></li><li><a href="/aboutwabash/wabash">Old Wabash</a></li><li><a href="/aboutwabash/info">Consumer Information</a></li><li><a href="/aboutwabash/offices">Offices</a></li><li><a href="/aboutwabash/employment">Employment</a></li><li><a href="/aboutwabash/location">Location &amp; Directions</a></li><li><a href="/aboutwabash/president">President Hess</a></li></ul></li><li><a href="/academics" class="hasItems">Academics</a><ul class="subItemMenu"><li><a href="/academics/majors">Majors</a></li><li><a href="/academics/registrar">Registrar/Transcripts</a></li><li><a href="/academics/pbk">Phi Beta Kappa</a></li><li><a href="/academics/research">Research</a></li><li><a href="/academics/learning">Learning Beyond Your Major</a></li><li><a href="/plus">Liberal Arts Plus</a></li><li><a href="/academics/catalog">Course Catalog</a></li><li><a href="/academics/library">Lilly Library</a></li><li><a href="http://www3.wabash.edu/orgs/writingcenter/wc.home.html">Writing Center</a></li><li><a href="/academics/teach">Join the Faculty</a></li><li><a href="/academics/events">Speakers &amp; Events</a></li></ul></li><li><a href="/admissions" class="hasItems">Admissions &amp; Financial Aid</a><ul class="subItemMenu"><li><a href="/admissions/requestinfo">Request Information</a></li><li><a href="/admissions/visit">Visit Us</a></li><li><a href="/admissions/majors">Majors</a></li><li><a href="/admissions/tour">See Our Campus</a></li><li><a href="/admissions/after">After Wabash</a></li><li><a href="/admissions/apply">Apply</a></li><li><a href="/admissions/counselor.cfm">Meet the Staff</a></li><li><a href="/admissions/financialaid">Financial Aid</a></li><li><a href="/class2021/">Class Of 2021</a></li><li><a href="/admissions/contact">Contact</a></li></ul></li><li><a href="/alumni" class="hasItems">Alumni</a><ul class="subItemMenu"><li><a href="/alumni/nawm">Alumni Association</a></li><li><a href="/alumni/annualgiving">Annual Giving</a></li><li><a href="/alumni/voices">Alumni Voices</a></li><li><a href="/alumni/bigbash">Big Bash Reunion</a></li><li><a href="/alumni/plannedgiving">Planned Giving</a></li><li><a href="/alumni/volunteer">Volunteer</a></li><li><a href="http://blog.wabash.edu/alumninews/">Alumni News</a></li><li><a href="/alumni/eservices">Alumni Directory</a></li><li><a href="/alumni/homecoming">Homecoming</a></li><li><a href="/parents">Parents</a></li><li><a href="/alumni/wd">Wabash Day</a></li></ul></li><li><a href="http://sports.wabash.edu">Athletics</a></li><li><a href="/giving" class="hasItems">Giving</a><ul class="subItemMenu"><li><a href="/giving/annual">Annual Giving</a></li><li><a href="/giving/capital">Programs &amp; Facilities</a></li><li><a href="/giving/honorroll">Honor Roll of Donors</a></li><li><a href="/giving/1832Society">1832 Society</a></li><li><a href="/giving/planned">Planned Giving</a></li><li><a href="https://www.wabash.edu/giving/give">Give Now</a></li></ul></li></ul></div>
 	</div>
 	
 	<!-- NEEDED FOR TEMPLATES -->
@@ -693,7 +722,7 @@
 			    <div class="modal-content">
 			      <div class="modal-header">
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-			        <h4 class="modal-title" id="myModalLabel"></h4>
+			        <h4 class="modal-title" id="myModalLabel">Modal</h4>    
 			      </div>
 			      <div class="modal-body">
 			        ...
@@ -740,8 +769,17 @@
     })(window,document,'script','dataLayer','GTM-NMFBBL');</script>
         
 	<script async="async" src="https://apply.wabash.edu/ping">/**/</script>
+	<script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_67851895.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+    </script>
 
-<div class="visible-print">http://www.wabash.edu</div>
+<div class="visible-print">https://wabash.edu</div>
 
 
 
