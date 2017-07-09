@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the appfog.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126171315id_/https%3A//www.ctl.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfog.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709090404id_/https%3A//www.ctl.io/legal/centurylink-cloud/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CenturyLink Cloud
 
-_Updated: March 17th, 2016_
+_Updated: May 4th, 2017_
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=234500f1-1409-4b88-912e-5a85c2adc4ac "TRUSTe Privacy Certification")
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the www.ctl.io website (“Website”) produced and maintained by CenturyLink Cloud (collectively, “CenturyLink Cloud,” “Company,” “we,” “us,” or “our”) and the services and products made available on such Website such as our Client Management section (the “Control Panel”). The use of information collected through our service shall be limited to the purpose of providing the service for which CenturyLink Cloud’s customers (each, a “Client”) have engaged it. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website and during the course of your use of our services and products, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the www.ctl.io website (“Website”) produced and maintained by CenturyLink Cloud (collectively, “CenturyLink Cloud,” “Company,” “we,” “us,” or “our”) and the services and products made available on such Website such as our Client Management section (the “Control Panel”). The use of information collected through our service shall be limited to the purpose of providing the service for which CenturyLink Cloud’s customers (each, a “Client”) have engaged it. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website and during the course of your use of our services and products, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. It also describes your choices regarding use, access and correction of your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered online by us when you visit our Website, when you sign up to use our services or products in the Client Management section of the Website (the “Control Panel”), when you log into our services, and when you execute programs or scripts on our servers. It does not apply to (1) information that you may submit to us offline, (2) information you store on our services or products, or (3) websites maintained by other companies or organizations to which we may link.
 
@@ -14,17 +14,11 @@ Please be advised that the practices described in this Privacy Policy apply only
 
 If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [privacy@ctl.io](mailto:privacy@ctl.io).
 
-CenturyLink Cloud has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.ctl.io and our service platform control.ctl.io.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-CenturyLink Cloud complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. CenturyLink Cloud has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CenturyLink Cloud’s certification, please visit <http://www.export.gov/safeharbor/>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request).
 
 ## What Information About Me Is Collected and Stored?
 
-Company adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website and users of our services and products. **Our Privacy Policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.**
+Company adheres to the applicable standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website and users of our services and products. **Our Privacy Policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.**
 
 ### Personal Information
 
@@ -32,19 +26,15 @@ For purposes of registration and use of our services, we collect identifiable in
 
 More specifically, we collect the following Personal Information in the following circumstances: (1) when you visit our Website, we collect your IP address, HTTP referrer information and requested pages, and we log such information into plain text and SQL databases; (2) when you sign up for our services or products, we collect your IP address, HTTP referrer information, requested pages, username, email address, URLs, billing and mailing addresses, and credit card (number, expiration date, and CCV) or paypal billing information, and we log such information into plain text and SQL databases; (3) if you log into our services via SSH and SFTP, we collect your IP address, reverse DNS information and initial commands, and we log such information into secured local and remote text files and SQL databases; (4) if you execute programs or script on our servers, we collect the user, script name and binaries used, and we log such information into secured local and remote text files and SQL databases; and (5) if you submit issues via email or any other support system, we collect your IP address, username, URLs and email address; (6) if you choose to add new users to your account.
 
-### Anonymous Information
+### Passive Collection
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, analytics, and site functionality.
 
 ### Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by CenturyLink Cloud and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are used by CenturyLink Cloud and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
-We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -60,9 +50,9 @@ We use the information we learn from you to help us personalize and continually 
 
 We may use your Personal Information to fulfill support requests, provide customer service/support, track your compliance with the Company’s Acceptable Use Policy, or for feedback purposes (to the extent that is explained when you provide the information). In the event we plan to publicly post any of your Personal Information on the Website, we will request your permission to provide such posting.
 
-### Use of Anonymous Information
+### Use of Passive Information
 
-We use Anonymous Information to help us determine how people use parts of the Website and who our users are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We may also use or share Anonymous Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary.
+We use Passive Information to help us determine how people use parts of the Website and who our users are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We may also use or share other information, other than Personal Information, in any other manner that we deem appropriate or necessary.
 
 ### Third-Party Agents
 
@@ -70,7 +60,7 @@ We occasionally have third party agents, subsidiaries, affiliates and partners t
 
 ### Emergency Situations
 
-We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend the our rights or property, the Website or our users, and © act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public, or respond to a government request. We do not sell your Personal Information to third parties.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend our rights or property, the Website or our users, and act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public, or respond to a government request. We do not sell your Personal Information to third parties.
 
 ### What Steps Are Taken To Keep Personal Information Secure?
 
@@ -80,13 +70,13 @@ While we try our best to safeguard your Personal Information once we receive it,
 
 ### Data Retention
 
-We comply with the following data retention policies with respect to your Personal Information: (1) we permanently retain in an encrypted format of your billing information; (2) we may permanently retain your forum and weblog contributions; and (3) we may permanently retain your support emails, web logs and accounting logs, though we reserve the right to destroy such information after a period of six months. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
+We comply with the following data retention policies with respect to your Personal Information: (1) we retain an encrypted format of your billing information; (2) we may retain your forum and weblog contributions; and (3) we may retain your support emails, web logs and accounting logs, though we reserve the right to destroy such information after a period of six months. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
 
 ### Your Obligations to Keep Your Access Rights Secure
 
 You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Website's Control Panel (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Company has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Company has the right to suspend or terminate your account and refuse any and all current or future use of the Website (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security of which you become aware. You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the services and Website. Please note that anyone able to provide your Personal Information will be able access your account so you should take reasonable steps to protect this information.
 
-If your Personal Information changes, or you wish to deactivate your account, you may correct, delete inaccuracies, or deactivate it by making changes within the user profile section of the Website or by contacting us at [privacy@ctl.io](mailto:privacy@ctl.io). We will respond to your change request within thirty (30) days.
+Upon request Company will provide you with information about whether we hold any of your personal information. If your Personal Information changes, or you wish to deactivate your account, you may correct, delete inaccuracies, or deactivate it by making changes within the user profile section of the Website or by contacting us at [privacy@ctl.io](mailto:privacy@ctl.io). We will respond to your change request within a reasonable timeframe.
 
 ### Information Related to Data Collected through the Control Panel
 
@@ -100,7 +90,7 @@ Company may transfer Personal Information to companies that help us provide our 
 
 ### Access to Data Controlled by our Clients
 
-Company has no direct relationship with the individuals whose Personal Information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Information should direct his query to the relevant Company Client (the data controller). If the Client requests Company to remove the Personal Information, we will respond to their request within thirty (30) days.
+CenturyLink Cloud acknowledges that you have the right to access your personal information. CenturyLink Cloud has no direct relationship with the individuals whose Personal Information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Information should direct his query to the relevant Company Client (the data controller). If the Client requests Company to remove the Personal Information, we will respond to their request within thirty (30) days.
 
 ### Data Retention
 
@@ -127,10 +117,6 @@ Our Website includes social media features, such as the Facebook ‘Like’ butt
 The Website is published in the United States of America (the “U.S.”). We make every effort to protect the Personal Information of all users of the Website. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to us.
 
 We may change ownership or corporate organization while providing the Website and services. As a result, please be aware that we may transfer your information to another company that is affiliated with us or with which we have merged or by which we have been acquired. Under such circumstances, Company would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your Personal Information.
-
-### Notice to European Users
-
-If you are located within the European Union, you should be aware that your Personal Information will be transferred to the U.S. and Canada, the laws of which may be deemed by the European Union to have inadequate data protection. If you are located in a country outside the U.S. and voluntarily submit Personal Information to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the U.S.and Canada.
 
 ### Changes to This Policy
 
