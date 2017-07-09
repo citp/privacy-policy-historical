@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125184435id_/http%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709045319id_/https%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
 
 # ASIJ Privacy Policy - The American School in Japan
 
@@ -39,7 +39,7 @@ You are invited to submit personal news items for publication on the website, cl
  
 
   * **Opt-Out or Change Your Contact Information**  
-Our site provides users the opportunity to opt-out of receiving communications from us through a special [online form](http://www.asij.ac.jp/page.aspx?pid=188). You cannot remove yourself from our database, but you can prevent unwanted communication should you desire. You can also change your contact information using the alumni profile or through MOL for current parents.
+Our site provides users the opportunity to opt-out of receiving communications from us through a special [online form](https://www.asij.ac.jp/page.aspx?pid=188). You cannot remove yourself from our database, but you can prevent unwanted communication should you desire. You can also change your contact information using the alumni profile or through MOL for current parents.
 
 
 
