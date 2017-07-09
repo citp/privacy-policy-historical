@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215131935id_/https%3A//www.sc.com/sg/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709150959id_/https%3A//www.sc.com/sg/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Standard Chartered Bank (Singapore) Limited
+# Privacy – Standard Chartered Singapore
 
     Privacy Statement
     Privacy Statement (Corporate Clients)
