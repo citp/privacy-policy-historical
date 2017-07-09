@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recessionista.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523120538id_/http%3A//nicolelapin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recessionista.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709142847id_/http%3A//nicolelapin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Nicole Lapin
 
@@ -6,22 +6,22 @@ And now…for the fun fine print!
 
 Nicole Lapin (“NL”), recognizes that its viewers, visitors, users, and others (collectively or individually called “Users,” aka YOU) who use the website (yep, you guessed it: the “Website”) value their privacy. (Don’t we all?) This Privacy Policy details important information regarding the use and disclosure of User information collected on or through the use of the Website. Basically, what we do with the info you give us. NL provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Website.
 
-**Please see the section of this Privacy Policy titled, “Our Commitment to Minor’s Privacy” for information regarding what type of information collects from individuals under the age of 13, and how NL collects and uses such information.**
+ **Please see the section of this Privacy Policy titled, “Our Commitment to Minor’s Privacy” for information regarding what type of information collects from individuals under the age of 13, and how NL collects and uses such information.**
 
 This Privacy Policy is incorporated into and is subject to the NL Terms of Use Your use of the Website and any personal information you provide on or through the use of the Website remains subject to the terms of this Privacy Policy and the Terms of Use. Still with us? Good! Just making sure we’re all on the same page.
 
 Please note that any User Submissions (defined below) or other content saved and published by or at the direction of Users onto the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. So if you share your stories with us knowing that they might be published on the website…well, they might be published on the website!
 
-**Information NL Collects**
+ **Information NL Collects**
 
 User Provided Information:
 
   * You provide certain personally identifiable information (such as your name and email address) to NL when creating an account or choosing to participate in various activities on the Website, such as interacting with the budgeting tools, entering contests or sweepstakes, participating in promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
   * NL receives your personally identifiable information when you use NL software applications that are available on third party websites and you are invited to register and create a personal account with such third party websites in order to save any items created using the NL software applications available on such website. **Do we need this one since all of our tools will be in-house?
   * NL collects and stores information required to conduct business transactions requested by our customers (such as the purchase of any items for sale on the Website, including NL Smartwatch) and to properly conduct communications with our customers. Such information may include personally identifiable information. Personally identifiable information is information that tells us specifics about you, such as your name, address, IP address, e-mail address, phone number, credit card number, bank account number and other similar information. Except as provided below, NL will not divulge personally identifiable information about you to any third party, unless you give us express consent to do so. Not unless you say the word, sister. NL may share non-identifying aggregated demographic information with our affiliates, partners and advertisers.
-  * **Cookies Information:** When you visit the Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. Who doesn’t love cookies?? NL uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled. NL may use cookies information to contact Users.
-  * **Google Analytics:** This Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the Website analyze how users use the Website. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for Website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-  * **Log File Information:** When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. That’s right; we keep old-school cyber “logs” just like any other business. But don’t worry—your info is safe with us!
+  *  **Cookies Information:** When you visit the Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. Who doesn’t love cookies?? NL uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled. NL may use cookies information to contact Users.
+  *  **Google Analytics:** This Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the Website analyze how users use the Website. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for Website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+  *  **Log File Information:** When you use the Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. That’s right; we keep old-school cyber “logs” just like any other business. But don’t worry—your info is safe with us!
 
 
 
@@ -46,7 +46,7 @@ When NL Discloses Information
 
 
 
-**Your Choices**
+ **Your Choices**
 
 You may, of course, decline to submit personally identifiable information through the Website, in which case NL may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that files uploaded by Users to the Website cannot be removed and remain subject to the Terms of Use.
 
@@ -54,7 +54,7 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
 Any personally identifiable information that NL may collect about you is saved in a profile that is kept on our server. The profile includes your contact information and billing information where applicable. You can help us maintain the accuracy of your profile by updating the information in your profile when you change your address, phone number or e-mail address. If you wish to update your contact or billing information, you can do so when you log in to our customer section. Otherwise, you can let us know of any changes to your information by contacting us. Please include your current contact information so that NL can make the appropriate corrections.
 
-**Third-party Advertisers, Links to Other Sites**
+ **Third-party Advertisers, Links to Other Sites**
 
 NL may allow other companies, such as third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. We’ve all gotta make a living somehow!
 
@@ -62,13 +62,13 @@ NL does not provide any personally identifiable information to these third-party
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. NL’s Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-**Our Commitment To Data Security**
+ **Our Commitment To Data Security**
 
 NL will use commercially reasonable physical, electronic and procedural safeguards to protect the security, integrity and privacy of information under our control. (AKA, we will protect this house!) These security measures include IP address validation, SSL (secure socket layer) encryption and password protection. Although NL will exercise reasonable care in providing secure transmission of information between your computer and our servers, due to the inherent insecurity of the internet, NL cannot ensure or warrant the security, integrity or privacy of any information or data transmitted to us over the Internet and NL accepts no liability for any breach of security or any unintentional disclosure, loss or misuse of any such information or data or for the actions of any third parties that may obtain any such information or data.
 
 If NL learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. NL may post a notice on the Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-**Our Commitment To Minors’ Privacy**
+ **Our Commitment To Minors’ Privacy**
 
 Protecting the privacy of children is especially important to NL. For that reason, NL does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Website from persons under 13 years of age without parental consent. If NL learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then NL will take the appropriate steps to delete this information.
 
@@ -80,23 +80,23 @@ NL collects the first and last name, email address, IP address, age, parent’s 
 
 NL does not share the personal information of minors under the age of 13 with third parties. However, to the extent that certain third party links available on the Website require individuals accessing such sites to register for such sites, Users under the age of 13 will need to separately register with such third party sites and may not be able to access the services available on such sites without registration.
 
-**Special Note to Users Outside of the United States**
+ **Special Note to Users Outside of the United States**
 
 The Website is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and our Terms of Use you are transferring your personal information to the United States and you hereby consent to the transfer of such information outside of the country where you are located.
 
-**In the Event of Merger, Sale, or Bankruptcy**
+ **In the Event of Merger, Sale, or Bankruptcy**
 
 In the event that NL is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of NL’s bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used. But of course we don’t plan on that happening…after all, we’re Rich Bitches!
 
-**Changes and Updates to This Privacy Policy**
+ **Changes and Updates to This Privacy Policy**
 
 This Privacy Policy may be revised periodically and this will be reflected by the date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions. And we know you’ll keep coming back for more financial goodness!
 
-**Dispute Resolution**
+ **Dispute Resolution**
 
 You also agree that, in the event any dispute or claim arises out of or relating to your use of the Website, you and NL will attempt in good faith to negotiate a written resolution of the matter. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, you and NL shall join in mediation services in Los Angeles, California with a mutually agreed upon mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them. So let’s be civil, and work it out between us. We may not know what the issue is but are sure that we can help make it better!
 
-**Contact Information**
+ **Contact Information**
 
 This privacy policy sets out how NL Smartwatch LLC uses and protects any information that you give NL  when you use this website. NL Smartwatch LLC  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. NL Smartwatch LLC may change this policy from time to time by updating this page. You should check this page occasionally to ensure that you are happy with any changes.
 
