@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054536id_/https%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709041711id_/https%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
 
-# Technology and India's Largest Tech Community | Coding Contest | TechGig
+# Privacy Policy - Our Terms & Policies | TechGig
 
 Times Business Solutions (A Division of Times Internet Limited) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- www.timesjobs.com, www.magicbricks.com, www.simplymarry.com, www.ads2book.com, www.peerpower.com and www.yolist.com. 
 
@@ -54,16 +54,18 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@timesjobs.com](mailto:grievance@timesjobs.com)
 
-**Grievance Officer  
-Techgig.com **  
+Grievance Officer details as:
+
+**Mr Rajneesh.K**  
+Grievance Officer  
+[www.timesjobs.com](http://www.timesjobs.com/)  
 Times Business Solutions(A Division of Times Internet Limited)   
 (A Times Group Company)  
 Times Center  
 FC-6, Film City   
 Sector 16-A, Noida - 201301, India   
-Email: [grievance@timesjobs.com](mailto:grievance@timesjobs.com)  
-Ph: 0120-663 6324  
-
+Email: [grievance@timesjobs.com ](mailto:grievance@timesjobs.com)  
+Phone No.: 0120-677-6999 – Ext.8018 
 
 We request you to please provide the following information in your complaint:-
 
