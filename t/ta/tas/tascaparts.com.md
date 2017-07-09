@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tascaparts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112301id_/http%3A//www.tascaparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tascaparts.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709201058id_/https%3A//www.tascaparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TascaParts.com
 
