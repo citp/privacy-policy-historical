@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech21century.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630233228id_/http%3A//www.tech21century.com/privacydisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech21century.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710223408id_/https%3A//www.tech21century.com/privacydisclaimer) for the most accurate reproduction.*
 
 # Privacy-Disclaimer | Tech 21 Century
 
