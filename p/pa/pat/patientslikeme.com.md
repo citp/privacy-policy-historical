@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112234011id_/https%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710220721id_/https%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -85,6 +85,7 @@ PatientsLikeMe, like most Internet communities, is a public forum, and Members a
 
 Restricted Data is not automatically shared with, sold to, or displayed for other Members or Partners. Specific instances where Restricted Data may be used include, but are not limited to, the following:
 
+  * If we have a member's permission, their e-mail address will be used to send them a variety of notifications, including study invitations, newsletters and private message notifications. A member may change this setting at signup, on their [account page](https://web.archive.org/account/email_notifications) or by clicking the unsubscribe link at the bottom of any email they receive from PLM;
   * If a Member provides a date of birth, the Member’s current age will be viewable via My Profile;
   * If a Member registers with, or is switched to, an official doctor and research account, the Member’s full name and affiliation will be viewable via My Profile;
   * If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.;
@@ -142,6 +143,7 @@ Cambridge, MA 02142
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
+  * On Mar 20, 2017, added statement to explain ways a member can unsubscribe from emails.
   * On Apr 10, 2014, additional examples of shared data were added.
   * On Apr 11, 2013, the heading to “How Your Data is Used” was changed and clarifying language was added to both the Cookies and How Your Data is Used sections.
   * On Feb 16, 2013, the Safe Harbor section was updated.
