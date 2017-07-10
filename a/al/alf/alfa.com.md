@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123100110id_/https%3A//www.alfa.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710070145id_/https%3A//www.alfa.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alfa Aesar
 
