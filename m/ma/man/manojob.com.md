@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manojob.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121200826id_/http%3A//www.manojob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manojob.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710152318id_/https%3A//www.manojob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | ManoJob
 
-## Privacy Statement For [ManoJob](http://www.manojob.com/)
+## Privacy Statement For [ManoJob](https://www.manojob.com/)
 
 **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.**
 
@@ -24,4 +24,4 @@ We do not sell, rent, loan, trade, lease or otherwise transfer personal informat
 
 Our Commitment To Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Should you have other questions or concerns about these privacy policies [contact us](http://www.manojob.com/support). 
+Should you have other questions or concerns about these privacy policies [contact us](https://www.manojob.com/support). 
