@@ -1,77 +1,76 @@
-> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914080119id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710145818id_/https%3A//finance.strands.com/privacy-policy) for the most accurate reproduction.*
 
-# Support - Privacy Policy on Strands
+# Privacy Policy - Strands Finance
 
-## Strands Privacy Policy
+## Privacy Policy
 
-Strands Labs, Inc. and its affiliates (“Strands”) respect your privacy. This Privacy Policy (“Policy”) is effective as of September 16, 2008. It explains how we collect and use the personal information you may provide to us, and it will help you make informed decisions when using our websites and services. It applies to all the websites and services offered by Strands, including strands.com, mystrands.com, musicstrands.com, money.strands.com, bizsolutions.strands.com, partystrands.com, indie.mystrands.com, labs.mystrands.com and mystrands.tv (collectively, Strands’ “Sites” or “Services”). Some of our Services have additional privacy terms made available to you in connection with your use of those Services. If a Service has additional privacy terms, they supercede any conflicting terms in this Policy.
+Last Updated: February 7, 2011
 
-This privacy policy covers the following areas:
+Strands Labs, Inc. and its affiliates (“Strands”) respect your privacy. The word “affiliate” when used in this Privacy Policy as opposed to “third party” means a company that controls, is controlled by, or is under common control with Strands Labs, Inc. This Privacy Policy (“Policy”) is effective as of February 7, 2011. It explains how we collect and use the personal information you may provide to us, and it will help you make informed decisions when using our websites and services. It applies to information collected through the use of the site spf.strands.com and its subdomains (collectively, the “Sites” or “Services”). 
 
-  * what information we collect through the Services; 
-  * how we use the information; 
-  * with whom we may share the information; 
-  * what choices you have about our collection, use and disclosure of the information; 
-  * what security procedures are in place to protect the loss, misuse or alteration of information under our control; and 
-  * how you can correct any inaccuracies in the information. 
+#### This privacy policy covers the following areas: 
+
+  * what information we collect through the Services;
+  * how we use the information;
+  * with whom we may share the information;
+  * what choices you have about our collection, use and disclosure of the information;
+  * what security procedures are in place to protect the loss, misuse or alteration of information under our control; and
+  * how you can correct any inaccuracies in the information.
 
 
 
-Strands adheres to the [US Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/) of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. You can see our certification on the [Safe Harbor List](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list/). 
+Strands Labs, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-#### Information Collection
+### Information Collection
 
-Strands collects information in several ways. First, we use server logs to collect anonymous, aggregate information (such as browser type, ISP, IP address, referring/exit pages, platform type, date/time stamp, and number of clicks) from all visitors to the Sites. Our Sites also use a standard technology called "cookies" to collect information about how the Site is used. Information gathered through cookies may include the pages viewed and the amount of time spent at the Site. This type of information is typically not linked to any personally identifiable information and is used primarily in the aggregate to generate statistical reports about the use of our Site. Strands does reserve the right to connect information collected through its server logs with other personally identifiable information.   
-Second, we collect information when you register to use a Service. During registration, you are required to provide only limited information, such as a valid email address, screen name and password. For most Strands Sites, providing other personally identifiable information is optional. Additional information is required to register for and use certain Sites, including money.strands.com and bizsolutions.strands.com. We will collect and retain the information you provide during registration. We may also connect the information you provide to us with information provided by third parties, in order to give you a better user experience. Subject to applicable law, we own the information collected via the Sites and Services.
+Strands collects information in several ways. First, we use server logs to collect anonymous, aggregate information (such as browser type, ISP, IP address, referring/exit pages, platform type, date/time stamp, and number of clicks) from all visitors to the Sites. Our Sites also use a standard technology called “cookies” to collect information about how the Site is used. Information gathered through cookies may include the pages viewed and the amount of time spent at the Site. This type of information is typically not linked to any personally identifiable information and is used primarily in the aggregate to generate statistical reports about the use of our Site. Strands does reserve the right to connect any information collected through its server logs with any other personally identifiable information it collects. The types of personal information collected by Strands are described in detail in the next paragraph. The possible uses Strands may make of your personal information are also described below. The combined aggregate and personal information may be used for any of these same purposes as described below. 
 
-#### More about Cookies
+Second, we request your contact information when you ask to download certain materials from our site, such as SPF case studies, and when you use the [Contact Us](https://web.archive.org/about/contact) form. The information collected includes name, email address, company affiliation, job title, and telephone number. 
 
-A cookie is a file stored on your computer and tied to information about you. Our Sites use both session ID cookies and persistent cookies. The session ID cookie terminates once you close the browser. For the persistent cookie, a text file is stored on your computer for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you allow the persistent cookie, our Sites can recognize your computer and your browser can remember your login information for our Sites. If you reject the cookie, your user experience may be limited.
+### More about Cookies
 
-#### Third Party Sites and Cookies
+A cookie is a file stored on your computer and tied to information about you. Our Sites use cookies to collect information about how the Site is used. Information gathered through cookies may include the pages viewed and the amount of time spent at the Site. This type of information is typically not linked to any personally identifiable information and is used primarily in the aggregate to generate statistical reports about the use of our Site. Our Sites use both session ID cookies and persistent cookies. The session ID cookie terminates once you close the browser. For the persistent cookie, a text file is stored on your computer for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you reject the cookie, your user experience may be limited. 
 
-Links to sites other than the Strands Sites may be displayed within our Sites and Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Strands does not control and is not responsible for the privacy practices of sites other than the Strands Sites. You should carefully review the privacy policy of any site that solicits personal information from you.
+### Third Party Sites and Cookies
 
-#### Personal information of children under 13
+Links to sites other than the Site may be displayed within our Site. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Strands does not control and is not responsible for the privacy practices of sites other than the Strands Sites, meaning that this Privacy Policy does not apply to the use of cookies by any third parties including advertisers. You should carefully review the privacy policy of any site that solicits personal information from you. 
 
-Our Sites and Services are not directed to children, and we do not knowingly collect personally identifiable information from children under 13 years of age.
+### Personal Information of Children under 13
 
-#### Service Communications from Strands
+Our Sites and Services are not directed to children, and we do not knowingly collect personally identifiable information from children under 13 years of age. 
 
-We may communicate with you to provide requested services and resolve issues relating to your account. You may not opt out of these service-related communications while you use the service, but you may terminate your use of the service at any time and delete your profile and related information.
+### Communications from Strands
 
-#### Marketing Communications from Strands
+When you submit contact information through the Site, you give us permission to contact you by email or telephone. You may withdraw that permission at any time by notifying Strands that you do not wish to be contacted by Strands. Within the Strands family of companies, we may share your information with our affiliates (a) for purposes other than direct marketing, for example improving the user experience of the Site, protecting the security of the Site, and defending claims against Strands or its affiliates; and (b) unless you instruct us otherwise, for direct marketing purposes. From time to time we may send notices about products, services, special deals, or newsletters. You may withdraw permission to receive marketing communications at any time by following the instructions at the bottom of any Strands marketing email, or [contact us](https://web.archive.org/about/contact). 
 
-Within the Strands family of companies, we may share your information with our affiliates (a) for purposes other than direct marketing, and (b) unless you instruct us otherwise, for direct marketing purposes. From time to time we may send notices about products, services, special deals, or newsletters. You may withdraw permission to receive marketing communications at any time; log in to your account and follow the instructions to change your user preferences. You can also opt out by following the instructions at the bottom of any Strands marketing email.
+### Disclosure of Information to Third Parties
 
-#### Disclosure of Information to Third Parties
+Strands will not transfer your information, except as part of a business transition, such as a merger, being acquired by another company, co-branding a product, or selling a portion of its assets. Please see the disclosure below regarding business transitions. An “affiliate” of Strands is a company that either (1) owns Strands, (2) is owned by Strands, or (3) is under common ownership with Strands. Strands will also not transfer or disclose your personally identifiable contact information to any third party not affiliated with us, except for disclosures to service providers as described below. Apart from allowing third parties to set cookies as described above, Strands does not allow third parties to use your personally identifiable information to communicate with you for purposes of marketing. However, your personally identifiable information may be shared with a Strands affiliate, and demographic information may be used (without disclosure to the advertiser) to help ensure that advertisements displayed to you on the site are relevant to you. Strands reserves the right to disclose any type of personal information to service providers who assist us in such areas as data storage, hosting, web analytics and marketing, and in connection with legal proceedings as described below. Information in anonymous, aggregated form may be disclosed by us without restriction. We may also use aggregated information about users and their preferences, or information that users have already made available to the general public, for demonstration purposes on other public or limited-access test websites. 
 
-**Disclosure by You.** Anyone can search the user community by email address, name or screen name. Therefore, someone who knows or guesses your name or the email address you use to register with us can discover your screen name and see all the posts associated with that screen name. However, your screen name can not be used to obtain your email address, name or other non-profile information you submit at registration.
+Disclosure Required by Law. We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others. 
 
-**Disclosure by Strands.** Strands does not sell, rent or disclose personally identifiable information to any third party not affiliated with us, except for disclosure to service providers who may assist us in such areas as data storage, and in connection with legal proceedings as described below. Information in anonymous, aggregated form may be shared freely, and Strands reserves the right to share aggregated usage information with reputable third parties, including for the purpose of targeting Internet banner advertisements. We may also use aggregated information about users and their preferences, or information that users have already made available to the general public, for demonstration purposes on other public or limited-access test websites.
+### Business Transitions
 
-**Disclosure Required by Law.** We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
+In the event Strands goes through a business transition, such as a merger, being acquired by another company, co-branding a product, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
 
-#### Business Transitions
+### Security
 
-In the event Strands goes through a business transition, such as a merger, being acquired by another company, co-branding a product, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+Strands takes reasonable precautions in accordance with industry standards to protect our users’ information. Your personally identifiable information is subject to restricted access in our offices. Only employees who need the information to perform a specific job are granted access to it. All employees are also kept up-to-date on our security and privacy practices. The servers that store nonpublic personally identifiable information are in a secure environment, in a locked facility. Strands also maintains notification procedures as part of its information security policy for notifying you in the event of a data security breach. If Strands experiences a data security breach and is required to notify you under applicable law, Strands will notify you by electronic mail using the e-mail address you have provided. You are responsible for ensuring that your contact information is current and correct. To review or change your information and correct any inaccuracies by deleting them, please contact us. If you make a request to Strands regarding your personal information, we will respond within 10 business days. 
 
-#### Security
+### Notification of Changes
 
-Strands takes reasonable precautions in accordance with industry standards to protect our users' information. When you submit information to us via our Sites but you choose not to make that information accessible to others, the information is protected both online and off-line. Such information is subject to restricted access in our offices. Only employees who need the information to perform a specific job are granted access to such personally identifiable information. All employees are also kept up-to-date on our security and privacy practices. The servers that store nonpublic personally identifiable information are in a secure environment, in a locked facility. Strands also maintains notification procedures as part of its information security policy for notifying you in the event of a data security breach. If Strands experiences a data security breach and is required to notify you under applicable law, Strands will notify you by electronic mail using the e-mail address you have provided. You are responsible for ensuring that your contact information is current and correct. To review or change your information, log in to the Site and update the information under the Preferences tab.
+If we decide to change this Policy, we will post those changes here and in other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify users via email and by posting a notice on the Site for 30 days. 
 
-#### Deleting or Deactivating Personal Information
+### Non-U.S. Users
 
-You may deactivate your Strands account at any time by emailing your request to [support@strands.com](mailto:support@strands.com). Your profile and any posts you have made will be removed from our Site. However, your posts and information may remain in our backup systems.
+Strands processes and stores personal information in the United States of America. If you are outside the United States, information you submit to Strands will be transferred out of your country and into the United States. When you accept our [Terms of Use](https://web.archive.org/terms-of-use), you agree to such transfers, and you warrant and represent that it is lawful for you to transfer the information into the United States. 
 
-#### Notification of Changes
+### Contact Us by Postal Mail
 
-If we decide to change this Policy, we will post those changes here and in other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and by posting a notice on the applicable Site for 30 days.
+Strands Personal Finance, att’n SPF Customer Support, 100 Bush St., Suite 508, San Francisco CA 94104.
 
-#### Non-U.S. Users
+### TRUSTe Certification
 
-Strands processes and stores personal information in the United States of America. If you are outside the United States, information you submit to Strands will be transferred out of your country and into the United States. When you agree to our [Terms and Conditions](https://web.archive.org/terms), you agree to such transfers, and you warrant and represent that it is lawful for you to transfer the information into the United States.
+Strands is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because Strands wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-#### Contact Information
-
-You can send questions about our privacy or security practices to [support@strands.com](mailto:support@strands.com) or Strands Labs, Inc., 760 SW Madison Ave., Ste. 106, Corvallis OR 97333.
+If you have questions or concerns regarding this Policy, you should first contact us. If contacting us does not resolve your issue, you may make a complaint with TRUSTe by Internet at http://www.truste.org/consumers/watchdog_complaint.php, by mail at WatchDog Complaints, TRUSTe, 55 2nd St, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see http://www.truste.org/consumers/watchdog_complaint.php or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process will be conducted in English.
