@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914082106id_/http%3A//www.agaccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710220434id_/http%3A//www.agaccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | US Player Online Casinos 2014 - Legal Casinos Accepting USA Citizens | AGACCESS.com
 
