@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202153352id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710115818id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dash Cam Talk
+# Privacy Policy | DashCamTalk
 
 At dashcamtalk.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by dashcamtalk.com and how it is used.
 
