@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulldawgmarketing.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623005647id_/http%3A//www.bulldawgmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulldawgmarketing.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710072911id_/http%3A//www.bulldawgmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bulldawg Marketing
 
@@ -45,4 +45,4 @@ If the event Bulldawg Marketing, Inc. goes through a business transition, such a
 
 By using our Site you consent to our collection and use of your information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post the revised Privacy Policy on our Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. We encourage you to review this Privacy Policy each time you visit our Site to check for any updates or changes. Any changes shall be effective when posted to this Site.
 
-This Privacy Policy was last updated on April 18, 2013.
+This Privacy Policy was last updated on April 18, 2013. 
