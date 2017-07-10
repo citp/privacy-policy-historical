@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411012713id_/https%3A//www.bunnings.co.nz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710154314id_/https%3A//www.bunnings.co.nz/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Bunnings Warehouse
+# | Bunnings Warehouse
 
 Bunnings Limited - Privacy Statement
 
