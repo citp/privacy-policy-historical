@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222080842id_/https%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710082702id_/https%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewHarbinger.com
 
