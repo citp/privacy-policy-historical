@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219045944id_/https%3A//www.healthpartners.com/hp/legal-notices/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710182239id_/https%3A//www.healthpartners.com/hp/legal-notices/privacy/index.html) for the most accurate reproduction.*
 
 # Website privacy policy | HealthPartners
 
