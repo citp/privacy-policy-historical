@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016194721id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711002432id_/http%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
+
+## Optum Privacy– _it’s personal_ TM
+
+Protecting our consumer and customer information is very important. We safeguard the information of those we serve. _ _ Optum handles and safeguards personal information, and we understand the information we hold represents real people and life events.
+
+Optum Privacy is dedicated to the responsible and compliant collection, use, maintenance and disclosure of information for the individuals and customers we serve.  The Optum Privacy Program is designed to protect information and to comply with applicable privacy rules and regulations. Our [Privacy Policy](https://www.optum.com/privacy-policy.html) explains how we handle information collected from optum.com. Additional privacy policies (such as our notice of privacy practices) may apply depending on the specific product or service and outline how we handle information collected in other ways.
+
+If you have questions about the Optum Privacy Program, please [e-mail](mailto:privacy@optum.com) or write to Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, Minn., 55344.
+
+## Privacy policy
 
 #### Introduction
 
