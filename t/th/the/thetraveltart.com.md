@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121193742id_/http%3A//www.thetraveltart.com/travel-guides/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710111910id_/https%3A//thetraveltart.com/travel-guides/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, Advice
 
@@ -18,13 +18,13 @@ When visiting TheTravelTart.com, the IP address used to access the site will be 
 
 ## Use of your Personal Information
 
-For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and [language](http://www.thetraveltart.com/tag/language/), operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site.
+For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site.
 
 From time to time, we may use information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 
 ## Disclosure of Information
 
-TheTravelTart.com will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. IP addresses are not linked to personally identifiable information. We collect only the personal data that you may volunteer while using our [services](http://www.thetraveltart.com/travel-writer/) (if any). We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
+TheTravelTart.com will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. IP addresses are not linked to personally identifiable information. We collect only the personal data that you may volunteer while using our services (if any). We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
 
 TheTravelTart.com may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of TheTravelTart.com, the users of its site, or others.
 
@@ -34,7 +34,7 @@ Third Party ad servers or ad networks may also use cookies to track users activi
 
 ## External Web Sites
 
-Please note that TheTravelTart.com contains [links](http://www.thetraveltart.com/travel-links-and-websites/) to other web sites. We have included links on this site for your use and reference. Please be aware that we are not responsible for the privacy practices or policies of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. This privacy statement applies solely to information collected by TheTravelTart.com (if any).
+Please note that TheTravelTart.com contains links to other web sites. We have included links on this site for your use and reference. Please be aware that we are not responsible for the privacy practices or policies of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. This privacy statement applies solely to information collected by TheTravelTart.com (if any).
 
 On TheTravelTart.com, we hate spam, and we will never spam you or anyone else.
 
@@ -48,8 +48,8 @@ TheTravelTart.com reserves the right to make amendments to this Privacy Policy a
 
 ## Contacting us
 
-TheTravelTart.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, [please contact us](http://www.thetraveltart.com/international-travel/).
+TheTravelTart.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, [please contact us](https://www.thetraveltart.com/international-travel/).
 
 ### About Anthony The Travel Tart
 
-The [Travel](http://www.thetraveltart.com/tag/travel/) Tart writes about the funny, offbeat and [weird](http://www.thetraveltart.com/tag/weird/) aspects of world travel today. Travel wasn't meant to be taken too seriously! Check out ways to say hi below or [sign up for his silly newsletter!](http://thetraveltart.us6.list-manage1.com/subscribe/post?u=231ea8bfd220fe9854a414cdd&id=b87b46b560)
+The Travel Tart writes about the funny, offbeat and weird aspects of world travel today. Travel wasn't meant to be taken too seriously! Check out ways to say hi below or [sign up for his silly newsletter!](http://thetraveltart.us6.list-manage1.com/subscribe/post?u=231ea8bfd220fe9854a414cdd&id=b87b46b560)
