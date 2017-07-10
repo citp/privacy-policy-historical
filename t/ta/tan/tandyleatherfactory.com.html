@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tandyleatherfactory.com privacy policy that was archived on 2017-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170118043228id_/https%3A//www.tandyleather.com/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tandyleatherfactory.com privacy policy that was archived on 2017-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170710024635id_/https%3A//www.tandyleather.com/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 
@@ -35,6 +35,7 @@
 <meta property="og:type" content="article">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="google-site-verification" content="eVDMPAmf_eece5Dvh_QFasmWDcgOHnI5Vek-jbNrThE">
 <meta name="google-site-verification" content="YRB5be993B3EBy43sKVKL9d974sSjn0PUHgokGDn4kk">    <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 <link href="/tandyleather_favicon.ico" rel="shortcut icon">
@@ -42,8 +43,8 @@
 <link href="/es/privacy.html" hreflang="es" rel="alternate">
 <link href="/en/privacy.html" hreflang="en" rel="alternate">
 <link href="https://www.tandyleather.com/en/privacy.html" rel="canonical">
-<link href="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/combined/a471409b6c02ba7614be2eb0a21abb4f6a99d31e.css" media="screen,print" rel="stylesheet" type="text/css">
-<link href="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/combined/03ef2a6c2bdb8b063e211368563716ece3963157.css" media="print" rel="stylesheet" type="text/css">        <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//d2ch1jyy91788s.cloudfront.net/tandyleather/js/combined/dfa788c6c2c7a16c6aec8c60f7eb7e58cac41cc5.js"></script>    
+<link href="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/combined/59775c7a38706bbe4fe0a5f0f783793563b2b9dd.css" media="screen,print" rel="stylesheet" type="text/css">
+<link href="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/combined/03ef2a6c2bdb8b063e211368563716ece3963157.css" media="print" rel="stylesheet" type="text/css">        <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//d2ch1jyy91788s.cloudfront.net/tandyleather/js/combined/80ea28a51e04ab126f367b25d5d8426a3a99cc98.js"></script>    
 	
 <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -53,6 +54,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 </script>
 <script type="text/javascript">
 	ga('create', 'UA-6303640-1', 'auto');
+	ga('require', 'GTM-NTPR2M7');
 	ga('send', 'pageview');
 	ga('create', 'UA-34141718-1', 'auto', {'name': 'saas'});
 	ga('saas.send', 'pageview');
@@ -78,6 +80,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <body itemscope="" itemtype="http://schema.org/WebPage" class="not-logged-in ng-app:acumiumMarketApp ng-controller:SearchCtrl" data-ng-app="acumiumMarketApp" data-ng-controller="SearchCtrl">
 <div class="skip-link"><a href="#mcp">Skip to main content</a></div>
 <div aria-label="Modal Window" id="floating_minicart" class="row"></div>
+<div aria-label="Modal Window" id="floating_miniwishlist" class="row"></div>
 <script type="text/javascript">
 	var angularConfig = {
 		acumiumConfig: {
@@ -112,7 +115,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		features : {
 			productBadge : 0,
 			disableQuickViewNavigation: true,
-			singleResultRedirectOnlyOnSku: true		},
+			singleResultRedirectOnlyOnSku: true,
+			combineAngularTemplates: true		},
 		site: {
 			id: 1		},
 		pagingInfo: {
@@ -136,7 +140,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		breadcrumbsTemplateUrl: '/js/vanilla/angular/acumiumMarketApp/templates/breadcrumbs.html',
 		expandProductFiltersByDefault: false,
 		searchSettings: {"entity":[],"query":[]},
-		facetsLoaded: false
+		facetsLoaded: false,
+		angularTemplatesJsonUrl: '//d2ch1jyy91788s.cloudfront.net/tandyleather/js/combined_angular_templates/4e53531e5a7bfa8ce8f22ac44b3e0fd286fc57d4.gz.json'
 	};
 </script>
 
@@ -152,21 +157,17 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	angularConfig.quickViewTemplateUrl = '/js/angular/custom/templates/quickView.html';
 </script>
 
-<div class="email-subscribe-popup hide">
-	<div class="small-caps hidden-phone">
-    Join our email list and learn about special offers, sales, new products and more!  </div>
+<!-- desktop email subscribe popup and thank you popup -->
+<div class="email-subscribe-popup desktop hide">
+	<div class="small-caps">
+        Join our email list and learn about special offers, sales, new products and more!    </div>
 	<div class="row-fluid">
         <div class="email-subscribe-popup-header">
-            <div class="span6 text-center hidden-phone">
-          <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/email_subscribe_popup_logo.png" alt="Tandy Leather" width="275" height="185">            </div>
-            <div class="span6 text-center visible-phone email-subscribe-mobile-logo">
-                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/email_subscribe_popup_logo.png">
-            </div>
-            <div class="small-caps visible-phone email-subscribe-text">
-                Join our email list and learn about special offers, sales, new products and more!            </div>
+            <div class="span6 text-center">
+                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/email_subscribe_popup_logo.png" alt="Tandy Leather" width="275" height="185">            </div>
         </div>
 		<div class="span6">
-			<form id="587eefdd3c128" enctype="application/x-www-form-urlencoded" class=" form-horizontal" action="/en/email-updates" method="post">
+			<form id="5962ea8c10b59" enctype="application/x-www-form-urlencoded" class=" form-horizontal" action="/en/email-updates" method="post" data-ng-non-bindable="">
 <div class="control-group Zend_Form_Element_Text first_name">
                     
 <input type="text" name="first_name" id="first_name" value="" placeholder="First Name" title="First Name" class="">
@@ -446,19 +447,40 @@ Send">
 Send</button>
                 </div></form>		</div>
 	</div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
 </div>
 <div class="email-subscribe-thanks hide">
-	<div class="small-caps hidden-phone">Thank You!</div>
+	<div class="small-caps">Thank You!</div>
 	<div class="row-fluid">
 		<div class="span6 text-center">
 			<img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/email_subscribe_popup_logo.png" alt="Tandy Leather" width="275" height="185">		</div>
-		<div class="span6 text-center thank-you-message">
-      <div class="small-caps visible-phone">Thank You!</div>
+    <div class="span5 text-center thank-you-message">
 			<p>You are now subscribed to<br>email messages from Tandy Leather.</p>
+            <hr>
+                        <div class="pull-left"><button name="freeCatalog" type="button" class="btn btn-primary freeCatalog" title="Free Catalog">Free Catalog</button></div>
+            <div class="pull-right"><button name="noThanks" type="button" class="btn noThanks" title="No Thanks">No Thanks</button></div>
 		</div>
 	</div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
+</div>
+
+<!-- mobile email subscribe popup -->
+<div class="email-subscribe-popup mobile hide">
+    <div class="row-fluid">
+        <div class="email-subscribe-popup-header">
+            <div class="email-subscribe-mobile-logo">
+                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/email_subscribe_popup_logo.png" alt="Tandy Leather" width="275" height="185">            </div>
+            <div class="email-subscribe-mobile-text small-caps">
+                Join our email list and learn about special offers, sales, new products and more!            </div>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <input type="text" name="email" placeholder="Email">
+    </div>
+    <div class="row-fluid">
+        <div class="pull-left"><button name="noThanks" type="button" class="btn noThanks" title="No Thanks">No Thanks</button></div>
+        <div class="pull-right"><button type="button" class="btn btn-primary send" title="Submit">Submit</button></div>
+    </div>
 </div>
 <div class="clearfix"></div>
 
@@ -469,12 +491,68 @@ Send</button>
 
 <input aria-label="US" class="currentCountry" type="hidden" value="US">
 
-
 <div class="visible-phone">
-    <div class="row phone-top-nav">
-        <ul class="btn btn-update nav nav-pills span12 pager" style="margin:0">
+    <div id="mini-menu" class="">
+        <div class="close-panel"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/vanilla/images/transparency.png" alt="" width="1" height="1"></div>
+        <div id="phone-nav-block" class="">
+            <ul class="phone-left-nav">
+							
+								<li class="leather">
+				<a href="https://www.tandyleather.com/en/category/leather" rel="nofollow" data-ng-click="doLinkSearch('category/leather', $event)">Leather</a>			</li>
+										<li class="lacing">
+				<a href="https://www.tandyleather.com/en/category/lacing" rel="nofollow" data-ng-click="doLinkSearch('category/lacing', $event)">Lacing &amp; Stitching</a>			</li>
+										<li class="leather-hand-tools">
+				<a href="https://www.tandyleather.com/en/category/leather-hand-tools" rel="nofollow" data-ng-click="doLinkSearch('category/leather-hand-tools', $event)">Hand Tools</a>			</li>
+										<li class="craftool-pro">
+				<a href="https://www.tandyleather.com/en/category/craftool-pro" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro', $event)">Craftool Pro&nbsp;</a>			</li>
+										<li class="leather-stamps">
+				<a href="https://www.tandyleather.com/en/category/leather-stamps" rel="nofollow" data-ng-click="doLinkSearch('category/leather-stamps', $event)">Stamps</a>			</li>
+										<li class="kits">
+				<a href="https://www.tandyleather.com/en/category/kits" rel="nofollow" data-ng-click="doLinkSearch('category/kits', $event)">Kits</a>			</li>
+										<li class="leather-belts-leather-straps">
+				<a href="https://www.tandyleather.com/en/category/leather-belts-leather-straps" rel="nofollow" data-ng-click="doLinkSearch('category/leather-belts-leather-straps', $event)">Belts &amp; Straps</a>			</li>
+										<li class="hardware-buckles-conchos">
+				<a href="https://www.tandyleather.com/en/category/hardware-buckles-conchos" rel="nofollow" data-ng-click="doLinkSearch('category/hardware-buckles-conchos', $event)">Hardware, Belt Buckles, Conchos</a>			</li>
+										<li class="color-finish-adhesives">
+				<a href="https://www.tandyleather.com/en/category/color-finish-adhesives" rel="nofollow" data-ng-click="doLinkSearch('category/color-finish-adhesives', $event)">Dye, Finish, Adhesives, Conditioners</a>			</li>
+										<li class="books-and-patterns">
+				<a href="https://www.tandyleather.com/en/category/books-and-patterns" rel="nofollow" data-ng-click="doLinkSearch('category/books-and-patterns', $event)">Books &amp; Patterns</a>			</li>
+										<li class="starter-sets">
+				<a href="https://www.tandyleather.com/en/category/starter-sets" rel="nofollow" data-ng-click="doLinkSearch('category/starter-sets', $event)">Starter Sets</a>			</li>
+										<li class="new-items">
+				<a href="https://www.tandyleather.com/en/category/new-items" rel="nofollow" data-ng-click="doLinkSearch('category/new-items', $event)">New Items</a>			</li>
+										<li class="web-special">
+				<a href="https://www.tandyleather.com/en/specials/web-special" rel="nofollow">Web Specials</a>			</li>
+										<li class="2017-summer-clearance">
+				<a href="https://www.tandyleather.com/en/specials/2017-summer-clearance" rel="nofollow">2017 Summer Clearance</a>			</li>
+										<li class="wholesale-club-membership">
+				<a href="https://www.tandyleather.com/en/category/wholesale-club-membership" rel="nofollow" data-ng-click="doLinkSearch('category/wholesale-club-membership', $event)">Wholesale Club</a>			</li>
+										<li class="sale">
+				<a href="https://www.tandyleather.com/en/category/sale" rel="nofollow" data-ng-click="doLinkSearch('category/sale', $event)">Sale</a>			</li>
+			
+	
+            </ul>
+        </div>
+    </div> <!-- /.mini-menu -->
+</div>
 
-                          <li class="language-select-dropdown pull-left">
+<div class="phone-header visible-phone">
+    <div class="row phone-top-nav">
+        
+
+<div class="container account-nav">
+    <ul class="unstyled fontsize-12px inline pull-right">
+        <li class="country-selection-desktop hidden-phone util-divider">
+            <span class="shipToCountry"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/flags/US.png" alt="Ship-to country" class="icon-flag"></span>
+            <span class="shipToCountry">
+    <a href="" rel="nofollow">Shipping to: <span class="countryName">USA</span></a>
+</span>
+        </li>
+        			            <li class="shipToCountry visible-phone">
+                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/flags/US.png" alt="Ship-to country" class="icon-flag">
+                <span class="language-name">English</span>
+            </li>
+            <li class="language-select-dropdown hidden-phone">
                 <form class="languageSelect" method="post">
                   <div class="">
                     <div class="current-language">
@@ -494,76 +572,115 @@ Send</button>
                                           </ul>
                   </div>
                 </form>
-              </li>
-                        <li class="pull-right"><a rel="nofollow" href="https://www.tandyleather.com/cart">
-                <i class="icon-shopping-cart icon-white" style="margin-right:5px"></i><span id="top_nav_total">$0.00<span class="currency_country_code"> USD</span></span> </a></li>
-        </ul>
-        <div class="row ship-to country-selection-phone"><span class="shipToCountry">
-    <span>Shipping to: <span class="countryName">USA</span><button class="btn btn-link fontsize-12px"><em>(Change)</em></button></span>
-</span>
+            </li>
+                <li class="util-divider"><a href="https://www.tandyleather.com/en/store-locator"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/TLF_Store_icon.png" alt="Find a store" width="200" height="200" class="visible-phone icon-stores"><span class="hidden-phone">Stores</span><span class="visible-phone">Find a Store</span></a></li>
+        <li class="util-divider"><a href="https://www.tandyleather.com/en/leathercraft-classes"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/TLF_classes_icon.png" alt="Classes" width="512" height="512" class="visible-phone icon-classes"><span class="hidden-phone">Classes/Shows</span><span class="visible-phone">Classes</span></a></li>
+        <li class="hidden-phone">
+            <div class="btn-group">
+                <a rel="nofollow" class="btn btn-small" href="https://www.tandyleather.com/en/my-account" style="padding-left:0">Account</a>
+                <a class="btn btn-small dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"><span class="screen-reader-text-content">open my account menu</span></span></a>
+                <ul class="dropdown-menu pull-right fontsize-12px">
+                                            <li><a rel="nofollow" href="https://www.tandyleather.com/en/login">Log In</a></li>
+                        <li><a rel="nofollow" href="https://www.tandyleather.com/en/my-account/user-create">Create Account</a></li>
+                                        <li><a href="https://www.tandyleather.com/en/track-order">Track My Order</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="hidden-phone">
+                    </li>
+        <li class="hidden-phone">
+            <a href="#" id="currencyLink">USD</a>
+                    </li>
+    
+        <li class="util-divider hidden-phone"><a rel="nofollow" href="https://www.tandyleather.com/en/cart"><i class="icon-shopping-cart icon-white" style="margin-right:5px"></i><span class="cart_count">0</span> Items</a></li>
+        <li class="hidden-phone"><span class="top_nav_total">$0.00<span class="currency_country_code"> USD</span></span></li>
+        <!-- 	<li><a href="">Shopping Cart <i class="icon-chevron-right"></i></a></li>
+					<li><a href="">Catalog Quick Order <i class="icon-chevron-right"></i></a></li> -->
+
+    </ul>
 </div>
+
+        <!--        <ul class="btn btn-update nav nav-pills span12 pager" style="margin:0">
+
+                  <li class="language-select-dropdown pull-left">
+            <form class="languageSelect" method="post">
+              <div class="">
+                <div class="current-language">
+                                    <button type="button" class="btn-link"><span class="caret"></span></button>
+                  <input type="hidden" value="" name="language" class="active-language"/>
+                </div>
+                <ul class="language-list">
+                                      <li>
+                      <button type="button" class="btn-link" onclick="$('.active-language').val('');$(this).closest('form.languageSelect').submit()"></button>
+                    </li>
+                                  </ul>
+              </div>
+            </form>
+          </li>
+                <li class="pull-right"><a rel="nofollow" href="">
+            <i class="icon-shopping-cart icon-white" style="margin-right:5px"></i><span id="top_nav_total"></span> </a></li>
+    </ul>
+    <div class="row ship-to country-selection-phone"></div>
+-->
     </div>
     <div class="navbar">
         <div class="navbar-inner">
-            <div class="container">
-                <a href="https://www.tandyleather.com/" class="brand"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/logo.png" alt="Tandy Leather" width="277" height="83" class="logo-phone"></a>
-                <div style="margin-top:10px;">
-                                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/mobile-menu-button.gif" alt="Menu" width="57" height="25" class="menu-icon">                  </button>
-                </div>
+            <div class="container text-center">
+                <a href="https://www.tandyleather.com/" class="brand" style="width:100%"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/logo.png" alt="Tandy Leather" width="277" height="83" class="logo-phone"></a>
+	                            <div class="clearfix"></div>
 
-              <div id="phone-nav-block" class="nav-collapse collapse">
-                    <ul class="nav">
-                        <li>
-                            <div class="navbar-search">
-                               <form class="pull-right header-search form-inline" action="/search/">
+                <div class="row mobile-account-nav">
+                    <ul class="nav nav-pills span12">
+                        <li class="pull-left toggle-menu" onclick="">
+                            <div class="" data-toggle="collapse" data-target=".nav-collapse">
+                                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/vanilla/images/mobile-menu.png" alt="" width="100" height="100" class="mobile-menu">                                <div class="menu-label">Menu</div>
+                            </div>
+                        </li>
+                        <li class="pull-left toggle-search" onclick="">
+                                                                                        <div class="search-icon-container"></div>
+                                                    </li>
+
+                        <li class="pull-left dropdown">
+                            <div class="account">
+                                                                    <a rel="nofollow" href="https://www.tandyleather.com/en/login">&nbsp;</a>
+                                                            </div>
+                        </li>
+
+                        <li class="cart">
+                            <a rel="nofollow" href="https://www.tandyleather.com/cart">
+                                <div style="padding:0;">
+                                    <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/css/vanilla/images/icon-cart-white.png" alt="Search" width="26" height="23" style="height:20px; margin-right:5px; margin-top:-2px;">                                    <span class="cart_count">0</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul><!--/.nav-->
+                                                                <div id="mobile-search-container">
+                            <div class="mobile-search">
+                                <form class="pull-right header-search form-inline" action="/search/">
     <div class="input-append">
         <label><select class="hide fontsize-12px" name="searchCategory" data-ng-model="searchCategory" data-ng-options="searchCat.Name for searchCat in searchCategories">
             <option value="0">Search All</option>
         </select></label>
-        <input id="mobileSearchKeyword" name="sSearch" autocomplete="off" type="text" class="input-large search-box fontsize-12px" placeholder="Search by item or keyword" data-ng-model="queryTerm">
-        <button aria-label="perform search" class="btn btn-info fontsize-12px" type="submit" data-ng-click="doQuerySearch()"><i class="icon-search icon-white"></i></button>
+        <input id="mobileSearchKeyword" name="sSearch" autocomplete="off" type="text" class="input-large search-box fontsize-12px" placeholder="Enter keywords or item number" data-ng-model="queryTerm">
+        <button aria-label="perform search" class="btn btn-info fontsize-12px mobile-search-button" type="submit" data-ng-click="doQuerySearch()"><i class="icon-search icon-white hidden-phone"></i><span class="visible-phone">Search</span></button>
+        <div class="clearfix visible-phone"></div>
     </div>
 </form>
                             </div>
-                        </li>
-                        			
-								<li class="leather">
-				<a href="https://www.tandyleather.com/en/category/leather" rel="nofollow" data-ng-click="doLinkSearch('category/leather', $event)">Leather</a>			</li>
-										<li class="lacing">
-				<a href="https://www.tandyleather.com/en/category/lacing" rel="nofollow" data-ng-click="doLinkSearch('category/lacing', $event)">Lacing &amp; Stitching</a>			</li>
-										<li class="leather-hand-tools">
-				<a href="https://www.tandyleather.com/en/category/leather-hand-tools" rel="nofollow" data-ng-click="doLinkSearch('category/leather-hand-tools', $event)">Hand Tools</a>			</li>
-										<li class="leather-stamps">
-				<a href="https://www.tandyleather.com/en/category/leather-stamps" rel="nofollow" data-ng-click="doLinkSearch('category/leather-stamps', $event)">Stamps</a>			</li>
-										<li class="kits">
-				<a href="https://www.tandyleather.com/en/category/kits" rel="nofollow" data-ng-click="doLinkSearch('category/kits', $event)">Kits</a>			</li>
-										<li class="leather-belts-leather-straps">
-				<a href="https://www.tandyleather.com/en/category/leather-belts-leather-straps" rel="nofollow" data-ng-click="doLinkSearch('category/leather-belts-leather-straps', $event)">Belts &amp; Straps</a>			</li>
-										<li class="hardware-buckles-conchos">
-				<a href="https://www.tandyleather.com/en/category/hardware-buckles-conchos" rel="nofollow" data-ng-click="doLinkSearch('category/hardware-buckles-conchos', $event)">Hardware, Belt Buckles, Conchos</a>			</li>
-										<li class="color-finish-adhesives">
-				<a href="https://www.tandyleather.com/en/category/color-finish-adhesives" rel="nofollow" data-ng-click="doLinkSearch('category/color-finish-adhesives', $event)">Dye, Finish, Adhesives, Conditioners</a>			</li>
-										<li class="books-and-patterns">
-				<a href="https://www.tandyleather.com/en/category/books-and-patterns" rel="nofollow" data-ng-click="doLinkSearch('category/books-and-patterns', $event)">Books &amp; Patterns</a>			</li>
-										<li class="starter-sets">
-				<a href="https://www.tandyleather.com/en/category/starter-sets" rel="nofollow" data-ng-click="doLinkSearch('category/starter-sets', $event)">Starter Sets</a>			</li>
-										<li class="new-items">
-				<a href="https://www.tandyleather.com/en/category/new-items" rel="nofollow" data-ng-click="doLinkSearch('category/new-items', $event)">New Items</a>			</li>
-										<li class="web-special">
-				<a href="https://www.tandyleather.com/en/specials/web-special" rel="nofollow">Web Specials</a>			</li>
-										<li class="wholesale-club-membership">
-				<a href="https://www.tandyleather.com/en/category/wholesale-club-membership" rel="nofollow" data-ng-click="doLinkSearch('category/wholesale-club-membership', $event)">Wholesale Club</a>			</li>
-										<li class="sale">
-				<a href="https://www.tandyleather.com/en/category/sale" rel="nofollow" data-ng-click="doLinkSearch('category/sale', $event)">Sale</a>			</li>
-			
-	
-                    </ul>
-                </div>
+                        </div>
+                    
+                </div><!--/.mobile-account-nav-->
+                <!--                <div style="margin-top:10px;">
+              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                              </button>
             </div>
+-->
+            </div>
+
         </div>
     </div>
 </div>
+
 
 <!--[if LTE IE 8]>
 <style>
@@ -585,13 +702,19 @@ Send</button>
 	<div class="util-row">
 		
 
-<div class="container">
-    <ul class="unstyled inline pull-right fontsize-12px">
-        <li class="country-selection-desktop"><span class="shipToCountry">
-    <span>Shipping to: <span class="countryName">USA</span><button class="btn btn-link fontsize-12px"><em>(Change)</em></button></span>
+<div class="container account-nav">
+    <ul class="unstyled fontsize-12px inline pull-right">
+        <li class="country-selection-desktop hidden-phone util-divider">
+            <span class="shipToCountry"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/flags/US.png" alt="Ship-to country" class="icon-flag"></span>
+            <span class="shipToCountry">
+    <a href="" rel="nofollow">Shipping to: <span class="countryName">USA</span></a>
 </span>
-</li>
-                    <li class="language-select-dropdown">
+        </li>
+        			            <li class="shipToCountry visible-phone">
+                <img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/flags/US.png" alt="Ship-to country" class="icon-flag">
+                <span class="language-name">English</span>
+            </li>
+            <li class="language-select-dropdown hidden-phone">
                 <form class="languageSelect" method="post">
                   <div class="">
                     <div class="current-language">
@@ -612,9 +735,9 @@ Send</button>
                   </div>
                 </form>
             </li>
-                <li class="util-divider"><a href="https://www.tandyleather.com/en/store-locator">Stores</a></li>
-        <li class="util-divider"><a href="https://www.tandyleather.com/en/leathercraft-classes">Classes/Shows</a></li>
-        <li>
+                <li class="util-divider"><a href="https://www.tandyleather.com/en/store-locator"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/TLF_Store_icon.png" alt="Find a store" width="200" height="200" class="visible-phone icon-stores"><span class="hidden-phone">Stores</span><span class="visible-phone">Find a Store</span></a></li>
+        <li class="util-divider"><a href="https://www.tandyleather.com/en/leathercraft-classes"><img src="//d2ch1jyy91788s.cloudfront.net/tandyleather/images/TLF_classes_icon.png" alt="Classes" width="512" height="512" class="visible-phone icon-classes"><span class="hidden-phone">Classes/Shows</span><span class="visible-phone">Classes</span></a></li>
+        <li class="hidden-phone">
             <div class="btn-group">
                 <a rel="nofollow" class="btn btn-small" href="https://www.tandyleather.com/en/my-account" style="padding-left:0">Account</a>
                 <a class="btn btn-small dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"><span class="screen-reader-text-content">open my account menu</span></span></a>
@@ -625,14 +748,14 @@ Send</button>
                 </ul>
             </div>
         </li>
-        <li>
+        <li class="hidden-phone">
                     </li>
-        <li>
+        <li class="hidden-phone">
             <a href="#" id="currencyLink">USD</a>
                     </li>
     
-        <li class="util-divider"><a rel="nofollow" href="https://www.tandyleather.com/en/cart"><i class="icon-shopping-cart icon-white" style="margin-right:5px"></i><span class="cart_count">0</span> Items</a></li>
-        <li><span class="top_nav_total">$0.00<span class="currency_country_code"> USD</span></span></li>
+        <li class="util-divider hidden-phone"><a rel="nofollow" href="https://www.tandyleather.com/en/cart"><i class="icon-shopping-cart icon-white" style="margin-right:5px"></i><span class="cart_count">0</span> Items</a></li>
+        <li class="hidden-phone"><span class="top_nav_total">$0.00<span class="currency_country_code"> USD</span></span></li>
         <!-- 	<li><a href="">Shopping Cart <i class="icon-chevron-right"></i></a></li>
 					<li><a href="">Catalog Quick Order <i class="icon-chevron-right"></i></a></li> -->
 
@@ -657,8 +780,9 @@ Send</button>
         <label><select class="hide fontsize-12px" name="searchCategory" data-ng-model="searchCategory" data-ng-options="searchCat.Name for searchCat in searchCategories">
             <option value="0">Search All</option>
         </select></label>
-        <input id="desktopSearchKeyword" name="sSearch" autocomplete="off" type="text" class="input-large search-box fontsize-12px" placeholder="Search by item or keyword" data-ng-model="queryTerm">
-        <button aria-label="perform search" class="btn btn-info fontsize-12px" type="submit" data-ng-click="doQuerySearch()"><i class="icon-search icon-white"></i></button>
+        <input id="desktopSearchKeyword" name="sSearch" autocomplete="off" type="text" class="input-large search-box fontsize-12px" placeholder="Enter keywords or item number" data-ng-model="queryTerm">
+        <button aria-label="perform search" class="btn btn-info fontsize-12px mobile-search-button" type="submit" data-ng-click="doQuerySearch()"><i class="icon-search icon-white hidden-phone"></i><span class="visible-phone">Search</span></button>
+        <div class="clearfix visible-phone"></div>
     </div>
 </form>
 								</div>
@@ -680,6 +804,10 @@ Send</button>
 											
 								<li class="acu-dropdown leather">
 				<a href="https://www.tandyleather.com/en/category/leather" rel="nofollow" class="acu-dropdown-toggle toggle-menu" data-ng-click="doLinkSearch('category/leather', $event)">Leather</a>				<ul class="subnav dropdown-menu">
+											<li class="acu-dropdown-menu-column special-odd-lot-leather">
+							<a href="https://www.tandyleather.com/en/category/special-odd-lot-leather" rel="nofollow" data-ng-click="doLinkSearch('category/special-odd-lot-leather', $event)">Special/Odd Lot Leather</a>						</li>
+											<li class="acu-dropdown-menu-column black-leather">
+							<a href="https://www.tandyleather.com/en/category/black-leather" rel="nofollow" data-ng-click="doLinkSearch('category/black-leather', $event)">Black Leather</a>						</li>
 											<li class="acu-dropdown-menu-column chap-leather">
 							<a href="https://www.tandyleather.com/en/category/chap-leather" rel="nofollow" data-ng-click="doLinkSearch('category/chap-leather', $event)">Chap Leather</a>						</li>
 											<li class="acu-dropdown-menu-column cowhide-rugs-all">
@@ -712,6 +840,8 @@ Send</button>
 							<a href="https://www.tandyleather.com/en/category/suedessplits" rel="nofollow" data-ng-click="doLinkSearch('category/suedessplits', $event)">Suede &amp; Split Leather</a>						</li>
 											<li class="acu-dropdown-menu-column tooling-shoulders-bends-bellies">
 							<a href="https://www.tandyleather.com/en/category/tooling-shoulders-bends-bellies" rel="nofollow" data-ng-click="doLinkSearch('category/tooling-shoulders-bends-bellies', $event)">Tooling Leather</a>						</li>
+											<li class="acu-dropdown-menu-column tooling-leather-shapes-belts-strips">
+							<a href="https://www.tandyleather.com/en/category/tooling-leather-shapes-belts-strips" rel="nofollow" data-ng-click="doLinkSearch('category/tooling-leather-shapes-belts-strips', $event)">Tooling Leather Shapes, Belts, Strips</a>						</li>
 											<li class="acu-dropdown-menu-column upholstery-leather-hides">
 							<a href="https://www.tandyleather.com/en/category/upholstery-leather-hides" rel="nofollow" data-ng-click="doLinkSearch('category/upholstery-leather-hides', $event)">Upholstery Leather</a>						</li>
 											<li class="acu-dropdown-menu-column utility-oily">
@@ -764,20 +894,30 @@ Send</button>
 							<a href="https://www.tandyleather.com/en/category/tracing-supplies" rel="nofollow" data-ng-click="doLinkSearch('category/tracing-supplies', $event)">Tracing Supplies</a>						</li>
 									</ul>
 			</li>
+										<li class="acu-dropdown craftool-pro">
+				<a href="https://www.tandyleather.com/en/category/craftool-pro" rel="nofollow" class="acu-dropdown-toggle toggle-menu" data-ng-click="doLinkSearch('category/craftool-pro', $event)">Craftool Pro&nbsp;</a>				<ul class="subnav dropdown-menu">
+											<li class="acu-dropdown-menu-column craftool-pro-stamps-1">
+							<a href="https://www.tandyleather.com/en/category/craftool-pro-stamps-1" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro-stamps-1', $event)">Craftool Pro Stamps</a>						</li>
+											<li class="acu-dropdown-menu-column craftool-pro-carving-embossing-accessories">
+							<a href="https://www.tandyleather.com/en/category/craftool-pro-carving-embossing-accessories" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro-carving-embossing-accessories', $event)">Craftool Pro Carving/Embossing Accessories</a>						</li>
+											<li class="acu-dropdown-menu-column craftool-pro-handtools">
+							<a href="https://www.tandyleather.com/en/category/craftool-pro-handtools" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro-handtools', $event)">Craftool Pro Handtools</a>						</li>
+									</ul>
+			</li>
 										<li class="acu-dropdown leather-stamps">
 				<a href="https://www.tandyleather.com/en/category/leather-stamps" rel="nofollow" class="acu-dropdown-toggle toggle-menu" data-ng-click="doLinkSearch('category/leather-stamps', $event)">Stamps</a>				<ul class="subnav dropdown-menu">
 											<li class="acu-dropdown-menu-column custom-stamp">
 							<a href="https://www.tandyleather.com/en/category/custom-stamp" rel="nofollow" data-ng-click="doLinkSearch('category/custom-stamp', $event)">Custom Stamp</a>						</li>
 											<li class="acu-dropdown-menu-column craftool-stamps-leathercraft">
 							<a href="https://www.tandyleather.com/en/category/craftool-stamps-leathercraft" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-stamps-leathercraft', $event)">Craftool Stamps</a>						</li>
-											<li class="acu-dropdown-menu-column craftool-pro-stamps-leather">
-							<a href="https://www.tandyleather.com/en/category/craftool-pro-stamps-leather" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro-stamps-leather', $event)">Craftool Pro Stamps</a>						</li>
-											<li class="acu-dropdown-menu-column sheridan-style-craftool-stamps">
-							<a href="https://www.tandyleather.com/en/category/sheridan-style-craftool-stamps" rel="nofollow" data-ng-click="doLinkSearch('category/sheridan-style-craftool-stamps', $event)">Sheridan Style Craftool Stamps</a>						</li>
 											<li class="acu-dropdown-menu-column craftool-leather-stamp-sets">
 							<a href="https://www.tandyleather.com/en/category/craftool-leather-stamp-sets" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-leather-stamp-sets', $event)">Leather Stamp Sets</a>						</li>
+											<li class="acu-dropdown-menu-column craftool-pro-stamps-leather">
+							<a href="https://www.tandyleather.com/en/category/craftool-pro-stamps-leather" rel="nofollow" data-ng-click="doLinkSearch('category/craftool-pro-stamps-leather', $event)">Craftool Pro Stamps</a>						</li>
 											<li class="acu-dropdown-menu-column 3-d-leather-stamps">
 							<a href="https://www.tandyleather.com/en/category/3-d-leather-stamps" rel="nofollow" data-ng-click="doLinkSearch('category/3-d-leather-stamps', $event)">3-D Leather Stamps</a>						</li>
+											<li class="acu-dropdown-menu-column sheridan-style-craftool-stamps">
+							<a href="https://www.tandyleather.com/en/category/sheridan-style-craftool-stamps" rel="nofollow" data-ng-click="doLinkSearch('category/sheridan-style-craftool-stamps', $event)">Sheridan Style Craftool Stamps</a>						</li>
 											<li class="acu-dropdown-menu-column alphabet-number-leather-stamp-se">
 							<a href="https://www.tandyleather.com/en/category/alphabet-number-leather-stamp-se" rel="nofollow" data-ng-click="doLinkSearch('category/alphabet-number-leather-stamp-se', $event)">Alphabet &amp; Number Leather Stamp Sets</a>						</li>
 											<li class="acu-dropdown-menu-column easy-to-do-leather-stamps">
@@ -855,7 +995,7 @@ Send</button>
 											<li class="acu-dropdown-menu-column al-stohlman-brand-saddle-hardwar">
 							<a href="https://www.tandyleather.com/en/category/al-stohlman-brand-saddle-hardwar" rel="nofollow" data-ng-click="doLinkSearch('category/al-stohlman-brand-saddle-hardwar', $event)">Al Stohlman Brand Saddle Hardware</a>						</li>
 											<li class="acu-dropdown-menu-column bag-clasps-closures">
-							<a href="https://www.tandyleather.com/en/category/bag-clasps-closures" rel="nofollow" data-ng-click="doLinkSearch('category/bag-clasps-closures', $event)">Bag Clasps &amp; Closures</a>						</li>
+							<a href="https://www.tandyleather.com/en/category/bag-clasps-closures" rel="nofollow" data-ng-click="doLinkSearch('category/bag-clasps-closures', $event)">Bag Clasps - Closures</a>						</li>
 											<li class="acu-dropdown-menu-column boot-lace-hooks">
 							<a href="https://www.tandyleather.com/en/category/boot-lace-hooks" rel="nofollow" data-ng-click="doLinkSearch('category/boot-lace-hooks', $event)">Boot Lace Hooks</a>						</li>
 											<li class="acu-dropdown-menu-column bracelet-clasps">
@@ -865,7 +1005,7 @@ Send</button>
 											<li class="acu-dropdown-menu-column easy-to-do-kits">
 							<a href="https://www.tandyleather.com/en/category/easy-to-do-kits" rel="nofollow" data-ng-click="doLinkSearch('category/easy-to-do-kits', $event)">Easy-To-Do Kits</a>						</li>
 											<li class="acu-dropdown-menu-column grommets-eyelets">
-							<a href="https://www.tandyleather.com/en/category/grommets-eyelets" rel="nofollow" data-ng-click="doLinkSearch('category/grommets-eyelets', $event)">Grommets &amp; Eyelets</a>						</li>
+							<a href="https://www.tandyleather.com/en/category/grommets-eyelets" rel="nofollow" data-ng-click="doLinkSearch('category/grommets-eyelets', $event)">Grommets - Eyelets</a>						</li>
 											<li class="acu-dropdown-menu-column handbag-purse-case-hardware">
 							<a href="https://www.tandyleather.com/en/category/handbag-purse-case-hardware" rel="nofollow" data-ng-click="doLinkSearch('category/handbag-purse-case-hardware', $event)">Handbag, Purse &amp; Case</a>						</li>
 											<li class="acu-dropdown-menu-column holster-clips">
@@ -904,26 +1044,22 @@ Send</button>
 			</li>
 										<li class="acu-dropdown color-finish-adhesives">
 				<a href="https://www.tandyleather.com/en/category/color-finish-adhesives" rel="nofollow" class="acu-dropdown-toggle toggle-menu" data-ng-click="doLinkSearch('category/color-finish-adhesives', $event)">Dye, Finish, Adhesives, Conditioners</a>				<ul class="subnav dropdown-menu">
-											<li class="acu-dropdown-menu-column liquids-n">
-							<a href="https://www.tandyleather.com/en/category/liquids-n" rel="nofollow" data-ng-click="doLinkSearch('category/liquids-n', $event)">Liquids</a>						</li>
 											<li class="acu-dropdown-menu-column adhesives-n">
-							<a href="https://www.tandyleather.com/en/category/adhesives-n" rel="nofollow" data-ng-click="doLinkSearch('category/adhesives-n', $event)">Adhesives</a>						</li>
-											<li class="acu-dropdown-menu-column applicators-n">
-							<a href="https://www.tandyleather.com/en/category/applicators-n" rel="nofollow" data-ng-click="doLinkSearch('category/applicators-n', $event)">Applicators</a>						</li>
+							<a href="https://www.tandyleather.com/en/category/adhesives-n" rel="nofollow" data-ng-click="doLinkSearch('category/adhesives-n', $event)">Adhesives-Glue</a>						</li>
 											<li class="acu-dropdown-menu-column conditioners-n">
 							<a href="https://www.tandyleather.com/en/category/conditioners-n" rel="nofollow" data-ng-click="doLinkSearch('category/conditioners-n', $event)">Cleaners-Conditioners</a>						</li>
+											<li class="acu-dropdown-menu-column applicators-n">
+							<a href="https://www.tandyleather.com/en/category/applicators-n" rel="nofollow" data-ng-click="doLinkSearch('category/applicators-n', $event)">Applicators</a>						</li>
 											<li class="acu-dropdown-menu-column dyes-antiques">
-							<a href="https://www.tandyleather.com/en/category/dyes-antiques" rel="nofollow" data-ng-click="doLinkSearch('category/dyes-antiques', $event)">Dyes, Paints &amp; Antiques</a>						</li>
-											<li class="acu-dropdown-menu-column eco-flo-products-n">
-							<a href="https://www.tandyleather.com/en/category/eco-flo-products-n" rel="nofollow" data-ng-click="doLinkSearch('category/eco-flo-products-n', $event)">Eco-Flo Products</a>						</li>
+							<a href="https://www.tandyleather.com/en/category/dyes-antiques" rel="nofollow" data-ng-click="doLinkSearch('category/dyes-antiques', $event)">Dyes-Paints-Antiques</a>						</li>
 											<li class="acu-dropdown-menu-column leather-edge-dressing">
-							<a href="https://www.tandyleather.com/en/category/leather-edge-dressing" rel="nofollow" data-ng-click="doLinkSearch('category/leather-edge-dressing', $event)">Edge Dressing</a>						</li>
+							<a href="https://www.tandyleather.com/en/category/leather-edge-dressing" rel="nofollow" data-ng-click="doLinkSearch('category/leather-edge-dressing', $event)">Edge Dressing Supplies-Tools</a>						</li>
 											<li class="acu-dropdown-menu-column leather-finishers">
 							<a href="https://www.tandyleather.com/en/category/leather-finishers" rel="nofollow" data-ng-click="doLinkSearch('category/leather-finishers', $event)">Leather Finishes</a>						</li>
-											<li class="acu-dropdown-menu-column leather-cement-glue">
-							<a href="https://www.tandyleather.com/en/category/leather-cement-glue" rel="nofollow" data-ng-click="doLinkSearch('category/leather-cement-glue', $event)">Glue &amp; Cement</a>						</li>
-											<li class="acu-dropdown-menu-column water-based-contact-adhesive">
-							<a href="https://www.tandyleather.com/en/category/water-based-contact-adhesive" rel="nofollow" data-ng-click="doLinkSearch('category/water-based-contact-adhesive', $event)">Water Based Contact Adhesive</a>						</li>
+											<li class="acu-dropdown-menu-column eco-flo-products-n">
+							<a href="https://www.tandyleather.com/en/category/eco-flo-products-n" rel="nofollow" data-ng-click="doLinkSearch('category/eco-flo-products-n', $event)">Eco-Flo Products</a>						</li>
+											<li class="acu-dropdown-menu-column fiebing-dye-finish">
+							<a href="https://www.tandyleather.com/en/category/fiebing-dye-finish" rel="nofollow" data-ng-click="doLinkSearch('category/fiebing-dye-finish', $event)">Fiebing's Dyes-Finishes</a>						</li>
 									</ul>
 			</li>
 										<li class="acu-dropdown books-and-patterns">
@@ -974,6 +1110,8 @@ Send</button>
 			</li>
 										<li class="web-special">
 				<a href="https://www.tandyleather.com/en/specials/web-special" rel="nofollow">Web Specials</a>			</li>
+										<li class="2017-summer-clearance">
+				<a href="https://www.tandyleather.com/en/specials/2017-summer-clearance" rel="nofollow">2017 Summer Clearance</a>			</li>
 										<li class="wholesale-club-membership">
 				<a href="https://www.tandyleather.com/en/category/wholesale-club-membership" rel="nofollow" data-ng-click="doLinkSearch('category/wholesale-club-membership', $event)">Wholesale Club</a>			</li>
 										<li class="sale">
@@ -991,10 +1129,9 @@ Send</button>
 	<div id="mcp" class="container content index">
 
 		<div data-ng-hide="searchFired">
-			<div>
-				<div id="page_content">
+			<div id="page_content">
 	
-<ul class="breadcrumb hidden-phone" itemprop="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+<ul class="breadcrumb hidden-phone" itemprop="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#" data-ng-non-bindable="">
 	<li typeof="v:Breadcrumb">
 	<a href="https://www.tandyleather.com/en/" rel="v:url" property="v:title">Home</a>
 	</li>
@@ -1002,6 +1139,7 @@ Send</button>
 			<span class="divider">»</span>
 							Privacy					</li>
 	</ul>
+
 
 
 <div id="cmsContentBlock_225" class="cmsContentBlock">
@@ -1068,14 +1206,14 @@ Send</button>
 	</div>
 		
 </div>
+
 </div>
-			</div>
 		</div>
 
 		<div data-search-app="" data-ng-class="currentlySearching ? 'invisible' : ''"></div>
 	</div>
 
-	<div class="visible-phone">
+	<div id="footer-mobile" class="visible-phone">
 	<div id="footer-phone">
 
 		<div class="accordion" id="accordion2">
@@ -1329,7 +1467,8 @@ Send</button>
     <div class="qtyMustBeGreaterThanZero">Qty must be greater than 0</div>
     <div class="additionalShippingCharge">Additional Shipping:</div>
     <div class="price">Price</div>
-    <div class="confirmDeleteSavedCreditCard">Are you sure you want to delete this saved card?</div>
+    <div class="confirmDeleteSavedCreditCard">Are you sure you wish to remove this saved credit card?</div>
+    <div class="googlePlaceholderText"></div>
     <div class="shipToPrefix">Shipping to:</div>
     <div class="cannotShipToPrefix">Cannot ship to</div>
     <div class="sale">SALE</div>
@@ -1337,40 +1476,78 @@ Send</button>
     <div class="asLowAs">As Low As</div>
     <div class="listPrice">List Price</div>
     <div class="pricingVat">Pricing Includes VAT</div>
+    <div class="stateProvinceRequired">You must select State / Province to calculate the Shipping Estimate.</div>
 </div>
 					<script type="text/javascript">
+    //<![CDATA[
+    
+			$(function() {
+				var email = getURLParameter("e");
+				if(email != null) {
+					$("#email").val(atob(decodeURI(email)));
+				}
+			});
+			function getURLParameter(name) {
+	            return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [null, ''])[1].replace(/\+/g, '%20')) || null;
+			}
+			    //]]>
+</script>
+<script type="text/javascript">
     //<![CDATA[
     
 $(document).ready(function() {
 	var isEmailSubscribed = false;
 
-	$('.email-subscribe-popup').modal({
-		escClose: true,
-		overlayClose: true,
-		containerCss: {
-			width: '750px',
-			maxWidth: '90%',
-			backgroundColor: '#fff'
-		},
-		onClose: function() {
-			if(!isEmailSubscribed) {
-				$.fancybox.showLoading();
-				$.post('https://www.tandyleather.com/en/ajax/emailSubscribeDecline')
-					.always(function() {
-						$.fancybox.hideLoading();
-						$.modal.close();
-					});
-			} else {
-				$.modal.close();
-			}
-		}
-	});
+    if($(window).width() < 767) {
+        setTimeout(function() {
+            $('.email-subscribe-popup.mobile').modal({
+                escClose: true,
+                overlayClose: true,
+                containerCss: {
+                    width: '450px',
+                    maxWidth: '90%',
+                    minHeight: '275px',
+                    backgroundColor: '#fff'
+                },
+                onClose: function() {
+                    $.fancybox.showLoading();
+                    $.post('https://www.tandyleather.com/en/ajax/emailSubscribeDecline')
+                        .always(function() {
+                            $.fancybox.hideLoading();
+                            $.modal.close();
+                        });
+                }
+            });
+        }, 5000);
+    } else {
+        $('.email-subscribe-popup.desktop').modal({
+            escClose: true,
+            overlayClose: true,
+            containerCss: {
+                width: '750px',
+                maxWidth: '90%',
+                backgroundColor: '#fff'
+            },
+            onClose: function() {
+                if(!isEmailSubscribed) {
+                    $.fancybox.showLoading();
+                    $.post('https://www.tandyleather.com/en/ajax/emailSubscribeDecline')
+                        .always(function() {
+                            $.fancybox.hideLoading();
+                            $.modal.close();
+                        });
+                } else {
+                    $.modal.close();
+                }
+            }
+        });
+    }
 
-	$('body').on('click', '.email-subscribe-popup form .noThanks button', function() {
+	$('body').on('click', '.noThanks button,.btn.noThanks', function() {
 		$.modal.close();
 	});
 
-	$('body').on('submit', '.email-subscribe-popup form', function() {
+	$('body').on('submit', '.email-subscribe-popup.desktop form', function() {
 		$.fancybox.showLoading();
 		$.post('https://www.tandyleather.com/en/ajax/emailSubscribe', $(this).serialize())
 			.always(function(dataJson) {
@@ -1406,6 +1583,21 @@ $(document).ready(function() {
 			});
 
 		return false;
+	});
+	
+	$('body').on('click', '.email-subscribe-popup.mobile button.send', function() {
+	    var popup = $(this).closest('.email-subscribe-popup');
+	    var emailField = popup.find('input[name=email]');
+	    if(emailField.val() == '') {
+	        emailField.focus();
+	        emailField.css({'border-color': 'rgba(229, 103, 23, 0.8)'});
+	    } else {
+	        window.location.replace('/email-updates?e=' + encodeURI(btoa(emailField.val())));
+	    }
+	});
+
+	$('body').on('click', '.email-subscribe-thanks .btn.freeCatalog', function() {
+	    window.location.replace('/request-catalog');
 	});
 });
     //]]>
