@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911040633id_/http%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710043633id_/https%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
 
-# AppGyver
+# AppGyver: Low-Code Enterprise-Grade App Creation
 
 AppGyver is committed to protecting your privacy and to comply with applicable data protection and privacy laws. This Privacy Policy explains what kind of information AppGyver collects in connection with its services and how such information is processed.
 
 This Policy applies to personal data collected when using the AppGyver website or other AppGyver services.
 
-By using AppGyver website and/or other AppGyver services and/or by submitting personal data to AppGyver, you express your agreement to the processing of your personal data in the manner provided for in this Policy. If you do not agree with this Policy, please do not use AppGyver website, AppGyver services or provide AppGyver with your personal data.
+**By using AppGyver website and/or other AppGyver services and/or by submitting personal data to AppGyver, you express your agreement to the processing of your personal data in the manner provided for in this Policy. If you do not agree with this Policy, please do not use AppGyver website, AppGyver services or provide AppGyver with your personal data.**
 
   
 
