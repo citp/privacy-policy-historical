@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123011123id_/https%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710131308id_/https%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
 
 # Wikinut privacy policy
 
-[](http://www.wikinut.com/author~snp/Chief-Nut/) By [Chief Nut](http://www.wikinut.com/author~snp/Chief-Nut/), 8th Nov 2009 | | [RSS Feed](http://www.wikinut.com/arss~snp/Chief-Nut/rss.xml "Subscribe to this author's RSS Feed") | Short URL <http://nut.bz/t11ys0ay/>  
-Posted in [Wikinut](http://www.wikinut.com/)[Guides](http://guides.wikinut.com/~wmj/guides)[Using Wikinut](http://guides.wikinut.com/~shn/using-wikinut)[Legal](http://guides.wikinut.com/~yfdie/using-wikinut/legal)
+[](https://www.wikinut.com/author~snp/Chief-Nut/) By [Chief Nut](https://www.wikinut.com/author~snp/Chief-Nut/), 8th Nov 2009 | | [RSS Feed](https://www.wikinut.com/arss~snp/Chief-Nut/rss.xml "Subscribe to this author's RSS Feed") | Short URL <http://nut.bz/t11ys0ay/>  
+Posted in [Wikinut](https://www.wikinut.com/)[Guides](https://guides.wikinut.com/~wmj/guides)[Using Wikinut](https://guides.wikinut.com/~shn/using-wikinut)[Legal](https://guides.wikinut.com/~yfdie/using-wikinut/legal)
 
 This policy describes what personal details Wikinut collects from our users and what we do with any information we collect.
 
