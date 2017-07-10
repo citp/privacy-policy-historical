@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132520id_/http%3A//www.tsx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsx.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710151609id_/https%3A//tsx.com/privacy-policy) for the most accurate reproduction.*
 
 # TMX TSX | TSXV - Privacy Policy
 
