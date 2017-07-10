@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblioottawalibrary.ca privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226005223id_/https%3A//biblioottawalibrary.ca/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblioottawalibrary.ca privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710031321id_/https%3A//biblioottawalibrary.ca/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Ottawa Public Library
 
