@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laurenconrad.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106234624id_/https%3A//laurenconrad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laurenconrad.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710234736id_/https%3A//laurenconrad.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Lauren Conrad
+# Privacy - Lauren Conrad
 
 EFFECTIVE DATE: February 13, 2014
 
