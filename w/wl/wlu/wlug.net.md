@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlug.net privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510205117id_/http%3A//www.wlug.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlug.net privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710041418id_/https%3A//www.wlug.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
