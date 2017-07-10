@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlinesoft.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121085210id_/http%3A//xlinesoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlinesoft.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710050639id_/https%3A//xlinesoft.com/privacy.htm) for the most accurate reproduction.*
 
 # Xlinesoft privacy policy
 
