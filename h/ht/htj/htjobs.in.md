@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the htjobs.in privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609170612id_/http%3A//www.shine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htjobs.in privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710200826id_/https%3A//www.shine.com/mobile/privacy-policy) for the most accurate reproduction.*
 
 # Shine.com - Privacy Policy
 
-The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information/data you provide to us through our website. HT Media Limited (HTML) is the sole owner of the website [_www.shine.com_](http://www.shine.com/) (hereinafter "website"). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy and terms and conditions. 
+The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information/data you provide to us through our website. HT Media Limited (HTML) is the sole owner of the website [_www.shine.com_](https://www.shine.com/) (hereinafter "website"). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy and terms and conditions. 
 
 Information Collection
 
