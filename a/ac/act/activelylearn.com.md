@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629165647id_/http%3A//activelylearn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelylearn.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710080724id_/https%3A//www.activelylearn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Actively Learn
 
@@ -26,7 +26,7 @@ The security of PII is a top priority for Actively Learn. Actively Learn has pro
 
   * The Amazon AWS region where Actively Learn stores it's servers and database is [FedRAMP compliant](https://aws.amazon.com/compliance/fedramp/).
 
-  * Actively Learn encrypts all communication between the Actively Learn web application and Actively Learn's servers using TLS/SSL.
+  * Actively Learn encrypts all data in transit between the Actively Learn web application and Actively Learn's servers using TLS/SSL.
 
   * All user information is stored in our secure database.
 
@@ -75,4 +75,4 @@ If you have any privacy-related questions or comments related to this Privacy Po
 
 We may update this Privacy Policy from time to time. If we change our Privacy Policy, we will post the updated version here with the updated revision date. We will not make material changes to our Privacy Policy (i.e. changes that weaken existing privacy protections) without providing prominent notice to account holders and giving account holders a choice before using data in any manner inconsistent with the terms account providers were originally provided.
 
- ** _Last Updated: June 17, 2017   ([see changes](https://docs.google.com/a/activelylearn.com/document/d/1BdiZ92QLRk8zxqjm5NdNhUuXFAp-iXjTW281ej1PKPU/edit?usp=sharing) in most recent revision)_**
+ ** _Last Updated: June 17, 2017 ([see changes](https://docs.google.com/document/d/1vS6Pa7SIVnfzZ5roIxpM2mVzR3MCz0Jd0x-EcS1Y5XI/edit?usp=sharing) in most recent revision)_**
