@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fiat.com privacy policy that was archived on 2017-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170202031151id_/https%3A//www.fiat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fiat.com privacy policy that was archived on 2017-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170710084343id_/https%3A//www.fiat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -32,7 +32,11 @@
 <meta name="twitter:title" content="Privacy Policy | Fiat">
 <meta name="twitter:description" content="This Policy is intended to describe the management of this website in relation to the processing of this website’s users/visitors personal data.
 ">  
+
  
+<link rel="canonical" href="https://www.fiat.com/privacy"> 
+
+
 
 
 
@@ -78,10 +82,10 @@
                         "formInteractionType": ""
                     },
                     "category": {
-                        "pageType": "fiat:corporate",
-                        "primaryCategory": "fiat:corporate:privacy",
-                        "subCategory1": "fiat:corporate",
-                        "subCategory2": "fiat:corporate:privacy"
+                        "pageType": "fiat:corporate:editorial",
+                        "primaryCategory": "fiat:corporate:editorial:privacy",
+                        "subCategory1": "fiat:corporate:editorial",
+                        "subCategory2": "fiat:corporate:editorial:privacy"
                     },
                     "component": {
                         "configurator": {
@@ -122,7 +126,7 @@
                         "linkType": "",
                         "mobileSiteType": "",
                         "orientation": "",
-                        "pageName": "fiat:corporate:privacy",
+                        "pageName": "fiat:corporate:editorial:privacy",
                         "postalCode": "",
                         "dealer": "",
                         "dealerID": "",
@@ -177,7 +181,6 @@
 
 <script>
     var isAuth = false;
-    
     //STOCK LOCATOR PAGE URL, TBD
     var stock_locator_url = "";
     //STOCK LOCATOR RADIUS, CAN BE EDITED IN AEM
@@ -202,7 +205,6 @@
             "locatorBrand": "00",
             "funcAjaxCall": "finddealerxml"
     };
-    
     var dealer_locator_googlemaps_url = "https://maps.googleapis.com/maps/api/js?v=3&client=gme-fiat";
     var mopar_url = "http://fiat.mopar.eu";
     var geolocalize_label_dealer_locator = "";
@@ -222,9 +224,9 @@
     var urlIconStartLocator = "/etc/designs/fiat/images/hp/dealer-locator/pin-A.png";
     var urlIconStopLocator = "/etc/designs/fiat/images/hp/dealer-locator/pin-B.png";
     var urlIconDealerLocator = "/etc/designs/fiat/images/hp/dealer-locator/mapPIN.png";
-    var urlIconDealerLocatorClicked = "/etc/designs/fiat/images/hp/dealer-locator/mapPIN-selected.png";
-    
-</script>
+    var urlIconDealerLocatorClicked = "/etc/designs/fiat/images/hp/dealer-locator/mapPIN-selected.png";</script>
+
+
 
 
 
@@ -369,9 +371,8 @@ cookie();
                 w += $(this).innerWidth();
             });
             var n = $('.js-upper-header-items li').length;
-            var padding = Math.abs((($('.second-block').innerWidth() - w ) / n) / 2);
+            var padding = Math.abs(((($('.second-block').innerWidth()-20) - w ) / n) / 2);
             $('.js-upper-header-items li').css('padding-left', padding + 'px').css('padding-right', padding + 'px');
-            //console.log($('.second-block').innerWidth() +"  "+w);
         }
 
         function initUpperHeader() {
@@ -389,8 +390,7 @@ cookie();
                 wrapper.toggleClass('opened');
                 wrapper.find('.input-search').val('');
             });
-
-            resizeUpperHeaderItems();
+            //resizeUpperHeaderItems();
 
             var resizeTimer;
             $(window).on('resize', function (e) {
@@ -422,7 +422,7 @@ cookie();
                         </div>
 
                         <!--///// START MENU DESKTOP /////-->
-                        <div class="main-navbar-lg visible-lg">
+                        <div class="main-navbar-lg visible-lg ">
                             <ul class="nav navbar-nav navbar-left col-lg-10">
                                 <li class="dropdown-full">
                                     <a data-toggle="dropdown" data-adobe="main-nav:showroom" href="/car-range" class="dropdown-toggle ">Cars</a>
@@ -442,7 +442,7 @@ cookie();
                                                         <li class="divider"></li>
                                                     
                                                         <li role="presentation">
-                                                            <a data-adobe="main-nav:showroom:500-family" href="#tab2" data-link="/fiat-500.html" target="_self" role="tab" data-toggle="tab">500 Range<span class="label-desc">2 models</span></a>
+                                                            <a data-adobe="main-nav:showroom:500-family" href="#tab2" data-link="/fiat-500.html" target="_self" role="tab" data-toggle="tab">500 Range<span class="label-desc">3 models</span></a>
                                                         </li>
                                                         <li class="divider"></li>
                                                     
@@ -457,7 +457,7 @@ cookie();
                                                         <li class="divider"></li>
                                                     
                                                         <li role="presentation">
-                                                            <a data-adobe="main-nav:showroom:panda-family" href="#tab5" data-link="/panda.html" target="_self" role="tab" data-toggle="tab">Panda Range<span class="label-desc">3 models</span></a>
+                                                            <a data-adobe="main-nav:showroom:panda-family" href="#tab5" data-link="/panda.html" target="_self" role="tab" data-toggle="tab">Panda Range<span class="label-desc">4 models</span></a>
                                                         </li>
                                                         <li class="divider"></li>
                                                     
@@ -473,6 +473,11 @@ cookie();
                                                     
                                                         <li role="presentation">
                                                             <a data-adobe="main-nav:showroom:doblo" href="#tab8" data-link="/doblo.html" target="_self" role="tab" data-toggle="tab">Doblò</a>
+                                                        </li>
+                                                        <li class="divider"></li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a data-adobe="main-nav:showroom:fullback-family" href="#tab9" data-link="/fullback.html" target="_self" role="tab" data-toggle="tab">Fullback Range<span class="label-desc">3 models</span></a>
                                                         </li>
                                                         
                                                     
@@ -553,7 +558,7 @@ cookie();
     <div class="mask-image">
         <div class="row">
             <div class="col-lg-12">
-                <a data-adobe="main-nav:nav-cta:showroom:124-spider:spider" href="/124-spider">
+                <a data-adobe="main-nav:nav-cta:showroom:124-spider:spider" href="/124-spider" target="_self">
                     <img class="img-responsive img-breakpoint" alt="alt-big-image-spider124" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/124spider.jpg"></a>
             </div>
         </div>
@@ -569,7 +574,7 @@ cookie();
             
                 <div class="row-buttons text-center margin-top-30">
                     
-                    <a data-adobe="main-nav:nav-cta:showroom:124-spider:spider" href="/124-spider" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                    <a target="_self" data-adobe="main-nav:nav-cta:showroom:124-spider:spider" href="/124-spider" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                     
                                       
                 </div>
@@ -584,7 +589,7 @@ cookie();
         <div class="row">
             <div class="col-lg-12">
                 <a data-adobe="main-nav:top-cta:showroom:500-family" href="/fiat-500">
-                    <img alt="500" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/500.jpg"></a>
+                    <img alt="500" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/ourcars/cover/500.jpg"></a>
             </div>
             <!--<div class="col-lg-3 cta-range-preview">
                 <div class="row">
@@ -607,7 +612,7 @@ cookie();
     </div>
 </div>
 <div class="models-range clearfix">
-    <div class="col-lg-6">
+    <div class="col-lg-4">
         <div class="wrap-model">
             <div class="mask-image ">
                 <img alt="alt-min-spider-500" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500.png">
@@ -620,7 +625,7 @@ cookie();
         </div>
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-4">
         <div class="wrap-model">
             <div class="mask-image ">
                 <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500C.png">
@@ -628,6 +633,19 @@ cookie();
             <span class="color-red text-center margin-top-20 bold margin-bottom-5">500C</span>
             <div class="row-buttons text-center">
                 <a data-adobe="main-nav:nav-cta:showroom:500c" href="/fiat-500/500c" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="wrap-model">
+            <div class="mask-image ">
+                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/560.png">
+            </div>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">500-60th</span>
+            <div class="row-buttons text-center">
+                <a data-adobe="main-nav:nav-cta:showroom:500:60th-anniversary" href="/fiat-500/500-60" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                 
             </div>
         </div>
@@ -640,7 +658,7 @@ cookie();
         <div class="row">
             <div class="col-lg-12">
                 <a data-adobe="main-nav:top-cta:showroom:500l-family" href="/fiat-500l">
-                    <img alt="500L" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/500L.jpg"></a>
+                    <img alt="500L" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/it/models/cross/ourcars/cover/500L_eng-2552017.jpg"></a>
             </div>
             <!--<div class="col-lg-3 cta-range-preview">
                 <div class="row">
@@ -666,7 +684,7 @@ cookie();
     <div class="col-lg-4">
         <div class="wrap-model">
             <div class="mask-image ">
-                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L.png">
+                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L-urban-170517.png">
             </div>
             <span class="color-red text-center margin-top-20 bold margin-bottom-5">500L</span>
             <div class="row-buttons text-center">
@@ -679,11 +697,11 @@ cookie();
     <div class="col-lg-4">
         <div class="wrap-model">
             <div class="mask-image ">
-                <img alt="alt-min-spider-500LTrekking" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L_trekking.png">
+                <img alt="alt-min-spider-500LCross" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L-cross-170517.png">
             </div>
-            <span class="color-red text-center margin-top-20 bold margin-bottom-5">500L Trekking</span>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">500L Cross</span>
             <div class="row-buttons text-center">
-                <a data-adobe="main-nav:nav-cta:showroom:500l-trekking" href="/fiat-500l/500l-trekking" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                <a data-adobe="main-nav:nav-cta:showroom:500l-trekking" href="/fiat-500l/500l-cross" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                 
             </div>
         </div>
@@ -692,11 +710,11 @@ cookie();
     <div class="col-lg-4">
         <div class="wrap-model">
             <div class="mask-image ">
-                <img alt="alt-min-image-500LLiving" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L_living.png">
+                <img alt="alt-min-image-500LLiving" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/500L-wagon-170517.png">
             </div>
-            <span class="color-red text-center margin-top-20 bold margin-bottom-5">500L Living</span>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">500L Wagon</span>
             <div class="row-buttons text-center">
-                <a data-adobe="main-nav:nav-cta:showroom:500l-living" href="/fiat-500l/500l-living" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                <a data-adobe="main-nav:nav-cta:showroom:500l-living" href="/fiat-500l/500l-wagon" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                 
             </div>
         </div>
@@ -765,7 +783,7 @@ cookie();
         <div class="row">
             <div class="col-lg-12">
                 <a data-adobe="main-nav:top-cta:showroom:panda-family" href="/panda">
-                    <img alt="Panda" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/panda.jpg"></a>
+                    <img alt="Panda" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/ourcars/cover/panda-eng_v1.jpg"></a>
             </div>
             <!--<div class="col-lg-3 cta-range-preview">
                 <div class="row">
@@ -788,7 +806,7 @@ cookie();
     </div>
 </div>
 <div class="models-range clearfix">
-    <div class="col-lg-4">
+    <div class="col-lg-6">
         <div class="wrap-model">
             <div class="mask-image ">
                 <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/panda.png">
@@ -801,10 +819,23 @@ cookie();
         </div>
     </div>
 
-    <div class="col-lg-4">
+    <div class="col-lg-6">
         <div class="wrap-model">
             <div class="mask-image ">
-                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/panda_4x4.png">
+                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/panda/global-nav/panda-cross.png">
+            </div>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">Panda City Cross</span>
+            <div class="row-buttons text-center">
+                <a data-adobe="main-nav:nav-cta:showroom:panda-city-cross" href="/panda/panda-city-cross" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-6">
+        <div class="wrap-model">
+            <div class="mask-image ">
+                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/panda/global-nav/panda-4x4.png">
             </div>
             <span class="color-red text-center margin-top-20 bold margin-bottom-5">Panda 4x4</span>
             <div class="row-buttons text-center">
@@ -814,14 +845,14 @@ cookie();
         </div>
     </div>
 
-    <div class="col-lg-4">
+    <div class="col-lg-6">
         <div class="wrap-model">
             <div class="mask-image ">
-                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/iconcarsformenu/panda_cross.png">
+                <img alt="alt-min-spider-124" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/panda/global-nav/panda-cross-4x4.png">
             </div>
-            <span class="color-red text-center margin-top-20 bold margin-bottom-5">Panda Cross</span>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5"> Panda Cross 4x4</span>
             <div class="row-buttons text-center">
-                <a data-adobe="main-nav:nav-cta:showroom:panda-cross" href="/panda/panda-cross" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                <a data-adobe="main-nav:nav-cta:showroom:panda-cross-4x4" href="/panda/panda-cross-4x4" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                 
             </div>
         </div>
@@ -833,7 +864,7 @@ cookie();
     <div class="mask-image">
         <div class="row">
             <div class="col-lg-12">
-                <a data-adobe="main-nav:nav-cta:showroom:punto" href="/punto">
+                <a data-adobe="main-nav:nav-cta:showroom:punto" href="/punto" target="_self">
                     <img class="img-responsive img-breakpoint" alt="alt-big-image-punto" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/punto.jpg"></a>
             </div>
         </div>
@@ -849,7 +880,7 @@ cookie();
             
                 <div class="row-buttons text-center margin-top-30">
                     
-                    <a data-adobe="main-nav:nav-cta:showroom:punto" href="/punto" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                    <a target="_self" data-adobe="main-nav:nav-cta:showroom:punto" href="/punto" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                     
                                       
                 </div>
@@ -863,7 +894,7 @@ cookie();
     <div class="mask-image">
         <div class="row">
             <div class="col-lg-12">
-                <a data-adobe="main-nav:nav-cta:showroom:qubo" href="/qubo">
+                <a data-adobe="main-nav:nav-cta:showroom:qubo" href="/qubo" target="_self">
                     <img class="img-responsive img-breakpoint" alt="Qubo" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/qubo.jpg"></a>
             </div>
         </div>
@@ -879,7 +910,7 @@ cookie();
             
                 <div class="row-buttons text-center margin-top-30">
                     
-                    <a data-adobe="main-nav:nav-cta:showroom:qubo" href="/qubo" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                    <a target="_self" data-adobe="main-nav:nav-cta:showroom:qubo" href="/qubo" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                     
                                       
                 </div>
@@ -893,7 +924,7 @@ cookie();
     <div class="mask-image">
         <div class="row">
             <div class="col-lg-12">
-                <a data-adobe="main-nav:nav-cta:showroom:doblo" href="/doblo">
+                <a data-adobe="main-nav:nav-cta:showroom:doblo" href="/doblo" target="_self">
                     <img class="img-responsive img-breakpoint" alt="Doblò" data-minwidth1200px="/content/dam/fiat/cross/models/cross/ourcars/cover/doblo.jpg"></a>
             </div>
         </div>
@@ -909,11 +940,80 @@ cookie();
             
                 <div class="row-buttons text-center margin-top-30">
                     
-                    <a data-adobe="main-nav:nav-cta:showroom:doblo" href="/doblo" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                    <a target="_self" data-adobe="main-nav:nav-cta:showroom:doblo" href="/doblo" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
                     
                                       
                 </div>
             
+        </div>
+    </div>
+</div></div>
+                                                    
+                                                        <div role="tabpanel" class="tab-pane " id="tab9">
+<div class="range-preview">
+    <div class="mask-image">
+        <div class="row">
+            <div class="col-lg-12">
+                <a data-adobe="main-nav:top-cta:showroom:fullback-family" href="/fullback">
+                    <img alt="Fullback Range" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/it/models/cross/ourcars/cover/fullback_ENG-1562017.jpg"></a>
+            </div>
+            <!--<div class="col-lg-3 cta-range-preview">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <a data-adobe="main-nav:top-cta:showroom:fullback-family" rel="" href="/content/fiat/fiat-com/en/gamma-fiat/fullback.html" class=""><span>Discover the range</span></a>
+                    </div>
+                </div>
+                <div class="row" data-sly-test="">
+                    <div class="col-lg-12">
+                        <a data-adobe="" rel="" href="#filter=" class=""><span>Promotions</span></a>
+                    </div>
+                </div>
+                <div class="row" data-sly-test="">
+                    <div class="col-lg-12">
+                        <a class="" href="" data-adobe=""><span>Prompt delivery</span></a>
+                    </div>
+                </div>  
+            </div>-->
+        </div>
+    </div>
+</div>
+<div class="models-range clearfix">
+    <div class="col-lg-4">
+        <div class="wrap-model">
+            <div class="mask-image ">
+                <img src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/1200/ourcars/fullback_extendedcab.png">
+            </div>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">Fullback Extended cab</span>
+            <div class="row-buttons text-center">
+                <a data-adobe="main-nav:nav-cta:showroom" href="/fullback" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="wrap-model">
+            <div class="mask-image ">
+                <img alt="fullback" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/1200/ourcars/fullback_doublecab.png">
+            </div>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">Fullback double cab</span>
+            <div class="row-buttons text-center">
+                <a data-adobe="main-nav:nav-cta:showroom:fullback" href="/fullback/fullback" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="wrap-model">
+            <div class="mask-image ">
+                <img alt="fullback cross" src="" class="img-breakpoint" data-minwidth1200px="/content/dam/fiat/com/models/cross/1200/ourcars/fullback_cross-v1.png">
+            </div>
+            <span class="color-red text-center margin-top-20 bold margin-bottom-5">Fullback Cross</span>
+            <div class="row-buttons text-center">
+                <a data-adobe="main-nav:nav-cta:showroom:fullback:cross" href="/fullback/fullback-cross" class="btn btn-primary btn-icon margin-5 "><span>Discover</span><span class="icon-arrow"></span></a>
+                
+            </div>
         </div>
     </div>
 </div></div>
@@ -925,12 +1025,24 @@ cookie();
                                                     <div class="col-lg-8">
                                                         <div class="row menu-item">
                                                             
-                                                                
+                                                                <div class="col-lg-6">
+                                                                    
+                                                                </div>
+                                                            
+                                                                <div class="col-lg-6">
+                                                                    
+                                                                </div>
                                                             
                                                         </div>
                                                         <div class="row menu-item">
                                                             
-                                                                
+                                                                <div class="col-lg-6">
+                                                                    
+                                                                </div>
+                                                            
+                                                                <div class="col-lg-6">
+                                                                    
+                                                                </div>
                                                             
                                                         </div>
                                                     </div>
@@ -1019,6 +1131,7 @@ cookie();
 <div data-emptytext="Header link list" class="cq-placeholder">
 </div>
 </li>
+                                
                             </ul> 
                         </div>
                         <!--///// END MENU DESKTOP /////-->
@@ -1109,6 +1222,11 @@ cookie();
                                                                             </li>
                                                                             <li class="divider"></li>
                                                                         
+                                                                            <li>
+                                                                                <a data-adobe="content:showroom:500:60th-anniversary" href="/fiat-500/500-60" target="_self">500-60th<span class="icon-arrow-slim"></span></a>
+                                                                            </li>
+                                                                            <li class="divider"></li>
+                                                                        
                                                                     </ul>
                                                                 </div>
                                                                 <!--//// End Third Level /////-->
@@ -1130,12 +1248,12 @@ cookie();
                                                                             <li class="divider"></li>
                                                                         
                                                                             <li>
-                                                                                <a data-adobe="content:showroom:500l-trekking" href="/fiat-500l/500l-trekking" target="_self">500L Trekking<span class="icon-arrow-slim"></span></a>
+                                                                                <a data-adobe="content:showroom:500l-trekking" href="/fiat-500l/500l-cross" target="_self">500L Cross<span class="icon-arrow-slim"></span></a>
                                                                             </li>
                                                                             <li class="divider"></li>
                                                                         
                                                                             <li>
-                                                                                <a data-adobe="content:showroom:500l-living" href="/fiat-500l/500l-living" target="_self">500L Living<span class="icon-arrow-slim"></span></a>
+                                                                                <a data-adobe="content:showroom:500l-living" href="/fiat-500l/500l-wagon" target="_self">500L Wagon<span class="icon-arrow-slim"></span></a>
                                                                             </li>
                                                                             <li class="divider"></li>
                                                                         
@@ -1185,12 +1303,17 @@ cookie();
                                                                             <li class="divider"></li>
                                                                         
                                                                             <li>
+                                                                                <a data-adobe="content:showroom:panda-city-cross" href="/panda/panda-city-cross" target="_self">Panda City Cross<span class="icon-arrow-slim"></span></a>
+                                                                            </li>
+                                                                            <li class="divider"></li>
+                                                                        
+                                                                            <li>
                                                                                 <a data-adobe="content:showroom:panda-4x4" href="/panda/panda-4x4" target="_self">Panda 4x4<span class="icon-arrow-slim"></span></a>
                                                                             </li>
                                                                             <li class="divider"></li>
                                                                         
                                                                             <li>
-                                                                                <a data-adobe="content:showroom:panda-cross" href="/panda/panda-cross" target="_self">Panda Cross<span class="icon-arrow-slim"></span></a>
+                                                                                <a data-adobe="content:showroom:panda-cross-4x4" href="/panda/panda-cross-4x4" target="_self"> Panda Cross 4x4<span class="icon-arrow-slim"></span></a>
                                                                             </li>
                                                                             <li class="divider"></li>
                                                                         
@@ -1222,16 +1345,46 @@ cookie();
                                                                 
                                                                 <!--//// End Third Level /////-->
                                                             </li>
+                                                            <li class="divider"></li>
+                                                        
+                                                            <li class="dropdown-item">
+                                                                <a data-adobe="main-nav:showroom:fullback-family" href="javascript:void(0);">Fullback Range<span class="icon-double-arrow-slim"></span></a>
+                                                                <!--//// Start Third Level /////-->
+                                                                <div class="third-level wrap-level">
+                                                                    <ul class="nav navbar-nav">
+                                                                        <li>
+                                                                            <a data-adobe="main-nav:showroom:fullback-family" href="/fullback" target="_self">Fullback Range<span class="icon-arrow-slim"></span></a>
+                                                                        </li>
+                                                                        
+                                                                            <li>
+                                                                                <a data-adobe="content:showroom" href="/fullback" target="_blank">Fullback Extended cab<span class="icon-arrow-slim"></span></a>
+                                                                            </li>
+                                                                            <li class="divider"></li>
+                                                                        
+                                                                            <li>
+                                                                                <a data-adobe="content:showroom:fullback" href="/fullback/fullback" target="_self">Fullback double cab<span class="icon-arrow-slim"></span></a>
+                                                                            </li>
+                                                                            <li class="divider"></li>
+                                                                        
+                                                                            <li>
+                                                                                <a data-adobe="content:showroom:fullback:cross" href="/fullback/fullback-cross" target="_self">Fullback Cross<span class="icon-arrow-slim"></span></a>
+                                                                            </li>
+                                                                            <li class="divider"></li>
+                                                                        
+                                                                    </ul>
+                                                                </div>
+                                                                <!--//// End Third Level /////-->
+                                                            </li>
                                                             
                                                         
                                                         
-                                                            <li class="link-simple bg-greyDD">
-                                                                <a class="text-capitalize "> <span class="icon-arrow-slim"></span></a>
-                                                            </li>
+                                                             
                                                         
-                                                            <li class="link-simple bg-greyDD">
-                                                                <a class="text-capitalize "> <span class="icon-arrow-slim"></span></a>
-                                                            </li>
+                                                             
+                                                        
+                                                             
+                                                        
+                                                             
                                                         
                                                         <li class="link-external-site">
                                                         
@@ -1330,6 +1483,7 @@ cookie();
 </li>
                                             <li class="divider"></li>
                                             <li class="dropdown-item"></li>
+                                            
                                         </ul>
 
                                         <!--//// Start Link Upper Menu /////-->
@@ -1381,9 +1535,7 @@ cookie();
     
     <div class="bodyfulleditorial parbase"><div class="container">
     <div class="editorial-text">
-        <h1>PRIVACY POLICY</h1>
-<p>&nbsp;</p>
-<div class="wrapper"><h2>GENERAL INTRODUCTION</h2><br><p>This Policy is intended to describe the management of this site owned by FCA Italy S.p.A., in relation to the processing of this website’s users / visitors personal data.<br><br> FCA Italy S.p.A., in line with the current Italian data protection law, undertakes to guarantee the privacy and the security of each website navigator's personal data, even when the Internet is accessed from abroad, consistently with the requirements of the Group Code of Conduct. <br><br> The Policy is also given as a short disclosure statement, if a specific detailed one is not provided, pursuant to Article 13 of Legislative Decree 196/03 – Personal Data Protection Code, issued in application of Art. 10 and 11 from European Directive 95/46/CE, to those who interact with the website services, with the purpose of protecting personal data accessible by computer. <br><br> Detailed information regarding processing, as per Article 13 of Legislative Decree 196/03 – Personal Data Protection Code - is provided, where necessary, in the pages where services are offered. These disclosure statements aim to define the data processing limits and procedures for each service so that the customer/visitor may freely provide consent and authorise collection of his/her personal data and its subsequent use. <br><br> Please note that the disclosure statement will not be provided for other websites possibly accessed by the user through links.</p><p>&nbsp;</p><br><h2>DATA CONTROLLER, DATA PROCESSORS AND DATA PROCESSING OFFICERS OF THE DATA PROCESSING</h2><br><p>The Data Controller is the interim manager of the Information &amp; Communication Technologies department of FCA Italy S.p.A., with registered office in Turin, Corso Agnelli 200, Italy. <br><br> The Data Processor for this Service is the interim manager of Brand Marketing Communication Department of FCA Italy S.p.A.. <br><br> The personal data that you have provided may be handled by Data Processing Officers, including external, responsible for managing the requested service and by Data Processor(s).</p><br><h2>TYPE OF DATA PROCESSED AND PURPOSE OF TREATMENT</h2><br><p>This website offers informative and interactive content. During site navigation, information regarding the customer, or more generally regarding the visitor to the site, may be acquired as follows: <br><br> <strong>Navigation data</strong><br><br> During normal operation, the IT systems and software procedures used to run this site collect some personal data, which are implicitly transmitted through the use of Internet communication protocols. <br><br> This information is not collected in order to be associated with identified data subjects, but could, due to their own nature, and if processed and integrated with third-party data, allow Users to be identified. <br><br> IP addresses, browser type, operating system, domain name and website referring or exit pages, information on pages visited by the User within the site, access time, navigation length on each page, clickstream analysis and other parameters regarding the operating system and the user IT environment, all fall under this category of data. <br><br> This technical/IT data are collected and used on an aggregated and anonymous basis exclusively to improve quality of service and obtain statistics on site use. <br><br> This technical data/information are collected and used in an aggregated and anonymous way for the sole purpose of:<br> 1. Improving the quality of the service and optimize the functionality of the site; <br> 2. understanding user behavior in order to improve online communication;<br> 3. providing statistical information concerning the use of the site<br><br> <strong>Geolocation data</strong><br><br> Subject to the prior consent of the visitor, the web site will be able to deal with location data - in a non-continuous - to provide the services requested by the visitor. <br><br> <strong>Data voluntarily supplied by the customer/visitor</strong><br><br> These cases involve the customer/visitor entering his/her personal data on the site after reading detailed information in order to access personally selected services. <br><br> "Opt-in" and "Opt-out" policies: in all cases, appropriate detailed information is provided and, where required, consent for the processing of personal data is obtained before a given service is activated. Said consent may be revoked at any time, whereby the ability to use the service in question is lost. <br><br> Specific information is gradually provided or displayed on pages of the site that offer specific services on request. <br><br> <strong>Data from minors</strong><br><br> FCA Italy S.p.A. does not allow minors under 18 years of age to supply personal data.</p><br><h2>DATA PROCESSING RULES</h2><br><p>The data processing will be performed through automated means (ie. using electronic procedures) and/or manually (ie. on paper) for the time necessary to achieve the purposes for which the data were collected and in compliance with current data protection law.</p><br><h2>TECHNOLOGIES</h2><br><p><strong>Cookies</strong><br><br> The use of cookies by this site is governed by Cookie Policy. <br><br> <strong>Web beacons, clear GIFs, page tags e web bugs</strong><br><br> These are all terms used to describe specific technologies used by our website to help us understand and analyze how they are used and to improve the website experience. They can be used for promotional messages sent on the pages visited. <br><br> A web beacon (or similar) corresponds to a small transparent image, attached to a web page or email. It is used in conjunction with cookies and send information such as IP address, when the web page or the email is displayed, from which device and which region. <br><br> As part of the web page, you can not delete them, but you can make them unusable by disabling cookies on their setup. <br><br> <strong>Javascript</strong><br><br> This is a technique used as an alternative to direct analysis of Web server log files. It consists of collecting and processing navigation data using dedicated JavaScript code in the HTML pages deemed of interest.</p><br><h2>SUBJECTS CAN BE AWARE OF YOUR DATA</h2><br><p>Your personal data may be processed by other persons acting on behalf of FCA Italy S.p.A., under specific contractual obligations in EU Member States or in countries outside the EU, and within the limits provided for by articles 43 and 44 letter b) of Legislative Decree no. n. 196/2003. <br><br> Your personal information may be disclosed to third parties to fulfill legal obligations, or to comply with orders from public authorities or to exercise a right in court.</p><br><h2>CONNECTION TO THIRD PARTY SITES</h2><br><p>It is possible to link to other websites from this site; the ability to do so is clearly indicated in order to inform the user/visitor that he/she is leaving the FCA Italy S.p.A. site. <br><br> The user/visitor should note that these sites are not the property or responsibility of FCA Italy S.p.A. as they are fully managed by other companies and/or organizations. <br><br> It is therefore necessary to verify and accept their data protection policies. <br><br> FCA Italy S.p.A. consequently declines all responsibility for requests and/or release of personal data to third-party sites.</p><br><h2>RIGHTS OF INTERESTED PARTIES</h2><br><p>The data subject has the right at any time to obtain confirmation of the existence of the data and to know its contents and origin, to check its accuracy or request integration, updating or correction (Art. 7 of Legislative Decree 196/03). <br><br> Pursuant to this Article the data subject has the right to request the complete and updated list of all the data processors, to request cancellation, anonimyzation or blocking of data that have been processed unlawfully and may refuse, for legitimate reasons, their processing. <br><br> To exercise these rights and in case of any problem or further requests for clarification related to what above mentioned, please write to FCA Italy S.p.A. – Customer Experience &amp; CRM – Ufficio Privacy - C.so Agnelli 200 - 10135 Torino.</p><br><h2>POLICY CHANGES</h2><br><p>This Privacy Policy governs the methods for processing personal data provided by users/visitors when navigating our website. These methods may need to be modified as a result of new laws entering into force or after examination and updating of User services. As a result, our policy may be modified over time, and we kindly ask customers/visitors to periodically consult this page.<br><br>Data: 09 Aprile 2015</p></div>
+        <h1>PRIVACY POLICY</h1><p>&nbsp;</p><div class="wrapper"><h2>GENERAL INTRODUCTION</h2><br><p>This Policy is intended to describe the management of this site owned by FCA Italy S.p.A., in relation to the processing of this website’s users / visitors personal data.<br><br> FCA Italy S.p.A., in line with the current Italian data protection law, undertakes to guarantee the privacy and the security of each website navigator's personal data, even when the Internet is accessed from abroad, consistently with the requirements of the Group Code of Conduct. <br><br> The Policy is also given as a short disclosure statement, if a specific detailed one is not provided, pursuant to Article 13 of Legislative Decree 196/03 – Personal Data Protection Code, issued in application of Art. 10 and 11 from European Directive 95/46/CE, to those who interact with the website services, with the purpose of protecting personal data accessible by computer. <br><br> Detailed information regarding processing, as per Article 13 of Legislative Decree 196/03 – Personal Data Protection Code - is provided, where necessary, in the pages where services are offered. These disclosure statements aim to define the data processing limits and procedures for each service so that the customer/visitor may freely provide consent and authorise collection of his/her personal data and its subsequent use. <br><br> Please note that the disclosure statement will not be provided for other websites possibly accessed by the user through links.</p><p>&nbsp;</p><br><h2>DATA CONTROLLER, DATA PROCESSORS AND DATA PROCESSING OFFICERS OF THE DATA PROCESSING</h2><br><p>The Data Controller is the interim manager of the Information &amp; Communication Technologies department of FCA Italy S.p.A., with registered office in Turin, Corso Agnelli 200, Italy. <br><br> The Data Processor for this Service is the interim manager of Brand Marketing Communication Department of FCA Italy S.p.A.. <br><br> The personal data that you have provided may be handled by Data Processing Officers, including external, responsible for managing the requested service and by Data Processor(s).</p><br><h2>TYPE OF DATA PROCESSED AND PURPOSE OF TREATMENT</h2><br><p>This website offers informative and interactive content. During site navigation, information regarding the customer, or more generally regarding the visitor to the site, may be acquired as follows: <br><br> <strong>Navigation data</strong><br><br> During normal operation, the IT systems and software procedures used to run this site collect some personal data, which are implicitly transmitted through the use of Internet communication protocols. <br><br> This information is not collected in order to be associated with identified data subjects, but could, due to their own nature, and if processed and integrated with third-party data, allow Users to be identified. <br><br> IP addresses, browser type, operating system, domain name and website referring or exit pages, information on pages visited by the User within the site, access time, navigation length on each page, clickstream analysis and other parameters regarding the operating system and the user IT environment, all fall under this category of data. <br><br> This technical/IT data are collected and used on an aggregated and anonymous basis exclusively to improve quality of service and obtain statistics on site use. <br><br> This technical data/information are collected and used in an aggregated and anonymous way for the sole purpose of:<br> 1. Improving the quality of the service and optimize the functionality of the site; <br> 2. understanding user behavior in order to improve online communication;<br> 3. providing statistical information concerning the use of the site<br><br> <strong>Geolocation data</strong><br><br> Subject to the prior consent of the visitor, the web site will be able to deal with location data - in a non-continuous - to provide the services requested by the visitor. <br><br> <strong>Data voluntarily supplied by the customer/visitor</strong><br><br> These cases involve the customer/visitor entering his/her personal data on the site after reading detailed information in order to access personally selected services. <br><br> "Opt-in" and "Opt-out" policies: in all cases, appropriate detailed information is provided and, where required, consent for the processing of personal data is obtained before a given service is activated. Said consent may be revoked at any time, whereby the ability to use the service in question is lost. <br><br> Specific information is gradually provided or displayed on pages of the site that offer specific services on request. <br><br> <strong>Data from minors</strong><br><br> FCA Italy S.p.A. does not allow minors under 18 years of age to supply personal data.</p><br><h2>DATA PROCESSING RULES</h2><br><p>The data processing will be performed through automated means (ie. using electronic procedures) and/or manually (ie. on paper) for the time necessary to achieve the purposes for which the data were collected and in compliance with current data protection law.</p><br><h2>TECHNOLOGIES</h2><br><p><strong>Cookies</strong><br><br> The use of cookies by this site is governed by Cookie Policy. <br><br> <strong>Web beacons, clear GIFs, page tags e web bugs</strong><br><br> These are all terms used to describe specific technologies used by our website to help us understand and analyze how they are used and to improve the website experience. They can be used for promotional messages sent on the pages visited. <br><br> A web beacon (or similar) corresponds to a small transparent image, attached to a web page or email. It is used in conjunction with cookies and send information such as IP address, when the web page or the email is displayed, from which device and which region. <br><br> As part of the web page, you can not delete them, but you can make them unusable by disabling cookies on their setup. <br><br> <strong>Javascript</strong><br><br> This is a technique used as an alternative to direct analysis of Web server log files. It consists of collecting and processing navigation data using dedicated JavaScript code in the HTML pages deemed of interest.</p><br><h2>SUBJECTS CAN BE AWARE OF YOUR DATA</h2><br><p>Your personal data may be processed by other persons acting on behalf of FCA Italy S.p.A., under specific contractual obligations in EU Member States or in countries outside the EU, and within the limits provided for by articles 43 and 44 letter b) of Legislative Decree no. n. 196/2003. <br><br> Your personal information may be disclosed to third parties to fulfill legal obligations, or to comply with orders from public authorities or to exercise a right in court.</p><br><h2>CONNECTION TO THIRD PARTY SITES</h2><br><p>It is possible to link to other websites from this site; the ability to do so is clearly indicated in order to inform the user/visitor that he/she is leaving the FCA Italy S.p.A. site. <br><br> The user/visitor should note that these sites are not the property or responsibility of FCA Italy S.p.A. as they are fully managed by other companies and/or organizations. <br><br> It is therefore necessary to verify and accept their data protection policies. <br><br> FCA Italy S.p.A. consequently declines all responsibility for requests and/or release of personal data to third-party sites.</p><br><h2>RIGHTS OF INTERESTED PARTIES</h2><br><p>The data subject has the right at any time to obtain confirmation of the existence of the data and to know its contents and origin, to check its accuracy or request integration, updating or correction (Art. 7 of Legislative Decree 196/03). <br><br> Pursuant to this Article the data subject has the right to request the complete and updated list of all the data processors, to request cancellation, anonimyzation or blocking of data that have been processed unlawfully and may refuse, for legitimate reasons, their processing. <br><br> To exercise these rights and in case of any problem or further requests for clarification related to what above mentioned, please write to FCA Italy S.p.A. – Customer Experience &amp; CRM – Ufficio Privacy - C.so Agnelli 200 - 10135 Torino.</p><br><h2>POLICY CHANGES</h2><br><p>This Privacy Policy governs the methods for processing personal data provided by users/visitors when navigating our website. These methods may need to be modified as a result of new laws entering into force or after examination and updating of User services. As a result, our policy may be modified over time, and we kindly ask customers/visitors to periodically consult this page.<br><br>Data: 09 Aprile 2015</p></div>
     </div>
 </div>
 </div>
@@ -1393,6 +1545,16 @@ cookie();
             </div>
         </main>
         <div class="market site fiatdefault language page"><div><section class="social-footer-wrap padding-top-50 padding-bottom-50">
+    <div class="editorial_countdown anniversary" data-start="2017/07/04 10:00" data-end="2017/07/04 20:40">
+    <div class="timer">
+        <div id="hours"></div>
+        <div id="time"></div>
+    </div>
+    <div class="labels">
+        <div>Discover the short movie on fiat.com</div>
+       <img>
+    </div>
+</div>
     <div class="container">
         <h3 class="font-16 color-grey66 text-center padding-bottom-35">Follow us</h3>
         <div class="row">
@@ -1508,7 +1670,7 @@ cookie();
         
         
         
-        
+
         <div class="service-links row">
             <div class="col-xs-12 ">
                 <p class="color-red font-12 bold text-uppercase margin-bottom-20">Ciao Fiat customer service</p>
@@ -1561,12 +1723,12 @@ cookie();
         </div>
         <hr>
         <div class="row">
-    <div class="col-sm-8 col-md-6 col-lg-10 col-xs-12">
+    <div class="col-sm-8 col-md-6 col-lg-9 col-xs-12">
         <ul class="legal-links padding-top-10">
             
-                <li><a target="_self" href="/privacy" data-adobe="bottom-nav:privacy">Privacy</a></li>
+                <li><a target="_self" href="/privacy" data-adobe="bottom-nav:editorial:privacy">Privacy</a></li>
             
-                <li><a target="_self" href="/legal-notes" data-adobe="bottom-nav:legal-notes">Legal Notes</a></li>
+                <li><a target="_self" href="/legal-notes" data-adobe="bottom-nav:editorial:legal-notes">Legal Notes</a></li>
             
                 <li><a target="_self" class=" cl-policy-link" href="#" rel="nofollow" data-adobe="bottom-nav:editorial:cookies">Cookies</a></li>
             
@@ -1577,8 +1739,13 @@ cookie();
         </ul>
         <p class="company-info"> FCA Italy S.p.A. Corso G. Agnelli 200, 10135 Turin, Italy Turin Companies Register / Tax code no. 07973780013 Company capital 800.000.000 Euros, fully paid up A single shareholder company</p>
     </div>
-    <div class="col-sm-4 col-md-6 col-lg-2 col-xs-12 text-right link-market-page">
-        <a rel="nofollow" data-adobe="bottom-nav:editorial:petronas" href="https://www.petronasgas.com/Pages/default.aspx" target="_blank"><img class="img-breakpoint" src="" data-minwidth0px="/content/dam/fiat/com/loghi/logo_petronas.png"></a>
+    <div class="col-sm-4 col-md-6 col-lg-3 col-xs-12 text-right link-market-page">
+        <a rel="nofollow" data-adobe="bottom-nav:editorial:petronas" href="https://www.petronasgas.com/Pages/default.aspx" target="_blank">
+        	<img class="img-breakpoint" src="" data-minwidth0px="/content/dam/fiat/com/loghi/logo_petronas.png">
+        </a>
+        <a>
+        	<img class="img-breakpoint" src="">
+        </a>
     </div>
 
 </div>
