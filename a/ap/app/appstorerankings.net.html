@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appstorerankings.net privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606171459id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appstorerankings.net privacy policy that was archived on 2017-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170710123825id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>Privacy Policy - Sensor Tower</title>
@@ -20,8 +20,8 @@
   <meta content="Our App Store Optimization (ASO) and Store Intelligence products give vital keyword and competitive data so you can improve visibility, performance and ROI." property="twitter:description">
   <meta name="application-name" content="Sensor Tower">
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://d1exy62jh2w365.cloudfront.net/assets/core-73a751a59347e18101f5e618c6750463af25975625e6d1a4a1e3abe80e7f4a08.js"></script>
-  <script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/common-fd9a247221e4616f313cecb800587ecdf283273dffee4b6024e2af53c4aba78a.js"></script>
-  <link href="https://d1exy62jh2w365.cloudfront.net/assets/index_support-cdc2b9751a39383862e6815086887d8e60ffd2645e8c52fcbd4f19f44595ca55.css" media="screen" rel="stylesheet">
+  <script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/common-24bfe3e4b5277c562675954f07e3b0bb7f11712f58f5c6112250a769d9e3a657.js"></script>
+  <link href="https://d1exy62jh2w365.cloudfront.net/assets/index_support-ee0379f8224d7123b8fa158b981aea9166f15674015945e3ccc083e2038c4e5f.css" media="screen" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="/favicon.ico">
 
@@ -66,7 +66,7 @@
     }
   } --><!-- /ko -->
   </div>
-  <script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/non_product-ca3c4fc1b982e6c7e288e23fe82f2392a62e8eee4a473e0f478b2f11e3cd940d.js"></script>
+  <script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/non_product-f9e7ebd349c26c8cffb712999911a61392337d31c8295ee5583e9a587f93cd1e.js"></script>
 
 <link href="https://d1exy62jh2w365.cloudfront.net/assets/jobs-27aac7e864f767c80d5a19cb3eb6525c8c2d74a30b7398b3aba853aa24cf59d4.css" media="screen" rel="stylesheet">
 <div class="hero job-hero tagline">
@@ -127,7 +127,7 @@
   </div>
 </div>
 <script type="text/javascript">
-  window.userData = {"selectedUserApp":null,"productPreferences":null,"authorizations":{"reviewFarBackQuery":false,"reviewTranslation":false,"storeIntelligence":false,"adIntelligence":false,"appIntelligence":false,"usageIntelligence":false,"reviewExport":false,"categoryExport":false,"enterprise":false,"customFields":false},"masquerading":false,"email":null,"isSignedIn":false,"orgName":null,"paygateExempt":false,"plan":null,"payingUser":false,"updateTimelinePreferencesAttributes":null};
+  window.userData = {"selectedUserApp":null,"productPreferences":null,"authorizations":{"reviewFarBackQuery":false,"reviewTranslation":false,"storeIntelligence":false,"adIntelligence":false,"androidAdIntelligence":false,"appIntelligence":false,"usageIntelligence":false,"reviewExport":false,"categoryExport":false,"enterprise":false,"customFields":false},"masquerading":false,"email":null,"isSignedIn":false,"orgName":null,"paygateExempt":false,"plan":null,"payingUser":false,"updateTimelinePreferencesAttributes":null};
   document.addEventListener("DOMContentLoaded", function() {
     ko.applyBindings({})
   });
@@ -145,7 +145,7 @@
 </div>
 
 <div id="login-modal" class="modal hide custom-login general-login-modal" data-bind="with: window.sharedCustomLoginView">
-  <a class="close" data-dismiss="modal"></a>
+  <a class="close" data-dismiss="modal" data-bind="sense: 'Onboarding - Login - Click Close'"></a>
   <form id="login-form" method="post" action="/users/sign_in" data-bind="submit: $data.submit">
     <div class="header">
       <i class="header-logo"></i>
@@ -193,10 +193,13 @@
 </div>
 <script>
   window.requestPath = '/privacy';
+  $('#login-modal').on('hidden.bs.modal', function () {
+    window.sense('Onboarding - Login - Blur Close');
+  });
 </script>
 
 <div id="register-modal" class="modal hide general-login-modal">
-  <a class="close" data-dismiss="modal"></a>
+  <a class="close" data-dismiss="modal" data-bind="sense: 'Onboarding - Register - Click Close'"></a>
   <form id="new_user" method="post" action="/users">
     <div class="header">
       <i class="header-logo"></i>
@@ -210,23 +213,17 @@
           focus: window.applyNoTextFormValidationStyle,
           keypress: window.applyNoTextFormValidationStyle
         }">
-        <input id="user_email" class="text-input" name="user[email]" placeholder="Work Email" size="30" type="email" required="" tabindex="0" data-bind="event: {
-          blur: window.applyNoTextFormValidationStyle,
-          focus: window.applyNoTextFormValidationStyle,
-          keypress: window.applyNoTextFormValidationStyle
-        }">
         <input id="company" class="text-input" name="user[company_name]" placeholder="Company" type="text" required="" tabindex="0" data-bind="event: {
           blur: window.applyNoTextFormValidationStyle,
           focus: window.applyNoTextFormValidationStyle,
           keypress: window.applyNoTextFormValidationStyle
         }">
-        <input id="phone" class="text-input" name="user[phone_number]" placeholder="Mobile Phone" type="text" tabindex="0">
-        <input id="user_password" class="text-input" name="user[password]" placeholder="Password" size="30" type="password" required="" tabindex="0" data-bind="event: {
+        <input id="user_email" class="text-input" name="user[email]" placeholder="Work Email" size="30" type="email" required="" tabindex="0" data-bind="event: {
           blur: window.applyNoTextFormValidationStyle,
           focus: window.applyNoTextFormValidationStyle,
           keypress: window.applyNoTextFormValidationStyle
         }">
-        <input id="password_confirmation" class="text-input" name="user[password_confirmation]" placeholder="Confirm password" size="30" type="password" required="" tabindex="0" data-bind="event: {
+        <input id="user_password" class="text-input" name="user[password]" placeholder="Password" size="30" type="password" required="" tabindex="0" data-bind="event: {
           blur: window.applyNoTextFormValidationStyle,
           focus: window.applyNoTextFormValidationStyle,
           keypress: window.applyNoTextFormValidationStyle
@@ -254,114 +251,14 @@
     </div>
   </form>
 </div>
-
-<div class="modal hide" id="upgrade-register-prompt">
-  <a class="close" data-dismiss="modal" data-bind="sense: ['Limitation Reached Upgrade Modal', {
-    interaction: 'Click Close',
-    limitation: '90 Days',
-  }]"></a>
-  <h2 data-bind="text: window.userData.isSignedIn ? 'Upgrade' : 'Login'"></h2>
-  <div data-bind="visible: !window.userData.isSignedIn">
-    <p>You need to be logged in <br> to view more than 90 days of data. <a href="/users/sign_in" data-bind="sense: ['Limitation Reached Upgrade Modal', {
-      interaction: 'Login',
-      limitation: '90 Days',
-    }]">Login</a></p>
-    <p>Don't have an account? <a href="/users/sign_up" data-bind="sense: ['Limitation Reached Upgrade Modal', {
-      interaction: 'Register',
-      limitation: '90 Days',
-    }]">Register</a></p>
-  </div>
-  <div data-bind="visible: window.userData.isSignedIn">
-    <p>Please <a href="/pricing" data-bind="sense: ['Limitation Reached Upgrade Modal', {
-      interaction: 'Upgrade',
-      limitation: '90 Days',
-    }]"> upgrade </a> to a paying plan <br> to view more than 90 days of data.</p>
-  </div>
-</div>
-
-<div class="modal hide" id="upgrade-modal" data-backdrop="static" data-keyboard="false">
-  <div class="modal-header">
-    <h3 align="center">Schedule an App Intelligence Demo</h3>
-    <a class="close" onclick="landUpgradeUsersOnAppProfile();" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Click Close', modalProduct: 'App Intel' }]"></a>
-  </div>
-  <div class="modal-body">
-    <p>Access to the Review Analysis, Update Timeline, and Internationalization Analysis modules are available for Enterprise App Intelligence users.</p>
-    <br>
-    <p class="learn-more">
-      <a href="/solutions/app-intelligence" target="_blank" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Learn More', modalProduct: 'App Intel' }]">Learn More</a> about App Intelligence or
-      <br>
-      <a href="/solutions/app-intelligence#demo" target="_blank" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Schedule Demo', modalProduct: 'App Intel' }]">Schedule a demo</a> to see these modules.
-    </p>
-  </div>
-</div>
-
-<div class="modal hide" id="store-intelligence-upgrade-modal">
-  <div class="modal-header">
-    <h3 align="center">Schedule a Store Intelligence Demo</h3>
-    <a class="close" data-dismiss="modal" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Click Close', modalProduct: 'Store Intel' }]"></a>
-  </div>
-  <div class="modal-body">
-    <p>You are not currently a user of Store Intelligence. Access to Store Intelligence is offered as a separate enterprise solution.</p>
-    <br>
-    <p class="learn-more">
-      <a href="/solutions/store-intelligence" target="_blank" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Learn More', modalProduct: 'Store Intel' }]">Learn more</a> about Store Intelligence or
-      <br>
-      <a href="/solutions/store-intelligence#demo" target="_blank" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Schedule Demo', modalProduct: 'Store Intel' }]">Schedule a demo</a> to see it in action.
-    </p>
-  </div>
-</div>
-
-<div class="modal hide" id="ad-intelligence-upgrade-modal">
-  <div class="modal-header">
-    <h3 align="center">Schedule an Ad Intelligence Demo</h3>
-    <a class="close" data-dismiss="modal" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Click Close', modalProduct: 'Ad Intel' }]"></a>
-  </div>
-  <div class="modal-body">
-    <p>You are not currently a user of Ad Intelligence. Access to Ad Intelligence is offered as a separate enterprise solution.</p>
-    <br>
-    <p class="learn-more">
-      <a href="/solutions/ad-intelligence" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Learn More', modalProduct: 'Ad Intel' }]">Learn more</a> about Ad Intelligence or
-      <br>
-      <a href="/solutions/ad-intelligence#demo" target="_blank" data-bind="sense: ['Schedule Demo Upgrade Modal', { interaction: 'Schedule Demo', modalProduct: 'Ad Intel' }]">Schedule a demo</a> to see it in action.
-    </p>
-  </div>
-</div>
-
-<script type="text/javascript">
-  [
-    {
-      selector: '#upgrade-modal',
-      name: 'Schedule Demo Upgrade Modal',
-      modalProduct: 'App Intel',
-    },
-    {
-      selector: '#store-intelligence-upgrade-modal',
-      name: 'Schedule Demo Upgrade Modal',
-      modalProduct: 'Store Intel',
-    },
-    {
-      selector: '#ad-intelligence-upgrade-modal',
-      name: 'Schedule Demo Upgrade Modal',
-      modalProduct: 'Ad Intel',
-    },
-  ].forEach(function(modal) {
-    $(modal.selector).on('hidden.bs.modal', function() {
-      window.sense([modal.name, {
-        interaction: 'Blur Close',
-        modalProduct: modal.modalProduct,
-      }]);
-    });
-  });
-
-  $('#upgrade-register-prompt').on('hidden.bs.modal', function() {
-    window.sense(['Limitation Reached Upgrade Modal', {
-      interaction: 'Blur Close',
-      limitation: '90 Days',
-    }]);
+<script>
+  window.requestPath = '/privacy';
+  $('#register-modal').on('hidden.bs.modal', function () {
+    window.sense('Onboarding - Register - Blur Close');
   });
 </script>
 
-<script src="https://d1exy62jh2w365.cloudfront.net/assets/modals-222fc77537717130a89f2e5a5d46e4214cde163b45f5bfbb41175caf00790af4.js"></script>
+<script src="https://d1exy62jh2w365.cloudfront.net/assets/modals-f609803f719a93a5ebe14359a4567f1eca92f27953f68230554564434fdd8217.js"></script>
 
 <footer id="responsive-footer" class="footer">
   <div class="footer-inner-wrapper">
