@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iship.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163005id_/https%3A//iship.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iship.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710233259id_/https%3A//iship.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # 
 
