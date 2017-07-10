@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126162831id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710101726id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -14,7 +14,7 @@ By submitting your personal information to us, you are consenting to the process
 
 We regularly review and update this Privacy Policy and our practices and procedures with respect to your personal information in accordance with the section below entitled “Privacy Notices and Privacy Policy Changes.”
 
-If you are not located in the United States, your local privacy laws may give you certain rights to access information held about you and you may have the right to ask us not to process your personal data for marketing purposes by emailing us at [privacy@caringbridge.org](mailto:privacy@caringbridge.org).
+If you are not located in the United States, your local privacy laws may give you certain rights to access information held about you and you may have the right to ask us not to process your personal data for marketing purposes by emailing us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
 Our Chief Privacy Officer is accountable for our compliance with this Privacy Policy, for the implementation of our procedures and production of your personal information. For any questions directed to our Chief Privacy Officer, please contact attn.: Chief Privacy Officer at our “Contact Us” information below.
 
@@ -62,7 +62,7 @@ _Cookies and Similar Technologies._ We use "cookies" and other web technologies 
 
 Generally, the information we collect using these web technologies does not identify you personally. If, however, you have created a user identity, for example by registering, we may link the information we collect using these web technologies to other information that identifies you personally.
 
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave the Service. Although you are not required to accept our cookies when you visit the Service, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Service.
+If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also deactivate our cookies as soon as you leave the Service. Although you are not required to accept our cookies when you visit the Service, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Service.
 
 The use of cookies by our partners, tracking utility company, and service providers is not covered by our privacy statement. In some instances we have access or control over these cookies. Our partners, tracking utility company, and service providers use session ID cookies to track site visitor data and facilitate our partnerships.
 
@@ -102,13 +102,13 @@ _Notifications from the Mobile Application._ When using our mobile application w
 
 CaringBridge does not share, sell or disclose personal information collected through the Services, except as specifically disclosed in this Privacy Policy.
 
-_Individual Site Creators._ If you engage with an Individual Site, we may share your name and email address with the creator of the site. For example, we provide your name and email address to the creator of an Individual Site on which you post content or on which you choose to receive notifications. We will also provide your name and email address to the creator of any Individual Site that requires visitors to log in. Likewise, unless you choose to remain anonymous, we share your name and email address with the creator of an Individual Site to which you dedicate a donation.
+_Individual Site Creators._ If you engage with an Individual Site, we may share your name and email address with the creator of the site. For example, we provide your name and email address to the creator of an Individual Site on which you post content or on which you choose to receive notifications. We will also provide your name and email address to the creator of any Individual Site that requires visitors to log in. Likewise, we share your name and email address with the creator of an Individual Site to which you dedicate a donation.
 
 _Invite Others._ If you choose to use our referral service to tell a friend about our Service or share an Individual Site through our Site or mobile application, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CaringBridge does not store this information, and collects this information for the sole purpose of sending this one-time email.
 
 _Third-Party Vendors._ CaringBridge shares personal information collected through our Service with third-party service providers such as our customer support vendor which utilizes live chat software who act for or on behalf of CaringBridge. These third-party service providers may need information about you in order to perform their functions. These companies are required by contract to keep your personal information confidential and may use it only to provide services on our behalf.
 
-_Visitors to Your Site._ If you choose to activate the public search listing feature for your Individual Site. people may find your Individual Site profile information Information will be indexed and displayed through public search engines whenever someone searches for your name: This information may include: (1) the first and last name the subject of the Individual Site; (2) the title of the Individual Site; (3) the profile picture of the Individual Site; (3) the date and time of the first journal post to the Individual Site; and (4) the date and time of the most recent journal post to the Individual Site. Even if you delete your Individual Site, third-party search engines may not update their caches, which may contain old public profile information for your Individual Site.
+_Visitors to Your Site._ If you choose to activate the public search listing feature for your Individual Site. people may find your Individual Site profile information Information will be indexed and displayed through public search engines whenever someone searches for your name: This information may include: (1) the first and last name the subject of the Individual Site; (2) the title of the Individual Site; (3) the profile picture of the Individual Site; (3) the date and time of the first journal post to the Individual Site; and (4) the date and time of the most recent journal post to the Individual Site. Even if you deactivate your Individual Site, third-party search engines may not update their caches, which may contain old public profile information for your Individual Site.
 
 _Donors._ If you donate to CaringBridge, online or offline, we will not sell, trade or share your personal information with other organizations, nor send donor mailings on behalf of other organizations.
 
@@ -126,21 +126,21 @@ _Social Media Features._ Our Services include certain social media buttons or wi
 
 _Single Sign-On._ You can log in to our site using sign-in services such as Facebook or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our signup form. Services like Facebook give you the option to post information about your activities on the Site to your profile page to share with others within your network.
 
-_Testimonial._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
+_Testimonial._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or deactivate your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
 _Blog/Forum._ Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Our [Terms of Use](https://web.archive.org/terms-of-use) govern what may be posted on blogs and community forums. To request removal of your personal information from our blog or community forum, contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@caringbridge.org](mailto:privacy@caringbridge.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Updating or Removing Your Personally Identifiable Information
 
-If your personally identifiable information changes, you may correct, update or amend it by making the change in your account, or by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). If you no longer desire our service, you may ask us to delete it by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
+If your personally identifiable information changes, you may correct, update or amend it by making the change in your account, or by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). If you no longer desire our service, you may ask us to deactivate it by contacting us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
 ## What Steps Does CaringBridge Take to Safeguard Personal Information?
 
-We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of your personal information. For example, we use industry standard Secure Sockets Layering (SSL) encryption to protect your profile information, Site creation information, donation information, and credit card information as it travels over the Internet or via wireless transmission. We restrict access to our data center and our databases, and we use a secure server dedicated to online donations to protect your personal and financial information. We also have firewall protection in place.
+We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of your personal information. For example, we use industry standard Secure Sockets Layering (SSL) encryption to protect your profile information, Site creation information, donation information, and credit card information as it travels over the Internet or via wireless transmission. We restrict access to our data center and our databases, and we use a secure server dedicated to online donations to protect your personal and financial information. Specifically, your credit card information is not stored on our server; it is only stored with our third-party services provider for donation processing. We also have firewall protection in place.
 
 Unfortunately, no website, server or database is 100% secure. Therefore, we cannot guarantee its absolute security. If information on an Individual Site is made public, we cannot safeguard or protect that information. For this reason, you should use care and discretion when you post content on a Site and never post information that can be used for identity theft purposes, such as social security numbers, bank account numbers, or credit card numbers.
 
@@ -160,4 +160,4 @@ This Service, including individual Sites, may provide links to other websites op
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 2750 Blue Water Road, Suite 275, Eagan, MN, U.S.A. 55121, Attn: Chief Privacy Officer.
+If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [customercare@caringbridge.org](mailto:customercare@caringbridge.org) or by mail at CaringBridge, 2750 Blue Water Road, Suite 275, Eagan, MN, U.S.A. 55121, Attn: Chief Privacy Officer.
