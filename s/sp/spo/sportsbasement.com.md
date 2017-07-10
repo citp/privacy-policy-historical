@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418070206id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710080301id_/https%3A//shop.sportsbasement.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sports Basement
-
-## Privacy Policy
+# Privacy Policy – Sports Basement
 
 The Sports Basement, Inc. is committed to protecting the privacy of our customers and using their information responsibly. Please read below for detailed information about our privacy policy.
 
@@ -11,7 +9,7 @@ Our mailing address is:
 The Presidio   
 San Francisco, CA 94129
 
-We can be reached via e-mail at [friends@sportsbasement.com](mailto:friends@sportsbasement.com), or you can reach us by telephone at 1-800-869-6670.
+We can be reached via e-mail at [info@sportsbasement.com](mailto:info@sportsbasement.com), or you can reach us by telephone at 1-800-869-6670.
 
 **How Your Information is Used**
 
@@ -30,22 +28,3 @@ We may also collect and share general information about the pages that you visit
 **What If We Sell our Company**
 
 As a natural consequence of the development of our company, we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company.
-
-### Events
-
-Monday, Apr. 18, 2016
-    
-Tuesday, Apr. 19, 2016
-    
-Wednesday, Apr. 20, 2016
-    
-Thursday, Apr. 21, 2016
-    
-Friday, Apr. 22, 2016
-    
-Saturday, Apr. 23, 2016
-    
-Sunday, Apr. 24, 2016
-    
-
-All events are free unless otherwise indicated. See event descriptions for more information.
