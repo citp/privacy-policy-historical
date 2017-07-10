@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627033143id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710172446id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
