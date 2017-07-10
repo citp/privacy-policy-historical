@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606043119id_/http%3A//cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710213847id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Cartridge Save's 30 Day 100% Money Back Guarantee - Cartridge Save
 
