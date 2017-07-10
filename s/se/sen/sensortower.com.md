@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensortower.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171459id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensortower.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710123825id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sensor Tower
 
