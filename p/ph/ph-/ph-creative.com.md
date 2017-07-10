@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818213145id_/http%3A//www.ph-creative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710084213id_/https%3A//www.ph-creative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ph.Creative
 
@@ -32,7 +32,7 @@ If Ph.Creative Ltd intends to make a change to our privacy policy we will post 
 
 ## How You Can Contact Us
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website you may get in touch with us through the [Contact Us](https://web.archive.org/contact/ "Contact") page.
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website you may get in touch with us through the [Contact Us](http://www.ph-creative.com/contact/ "Contact") page.
 
 ## How to Unsubscribe
 
