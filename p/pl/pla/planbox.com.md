@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612185746id_/https%3A//www.planbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710074645id_/https%3A//www.planbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Planbox
 
-Last updated: June 8, 2017
+Last updated: June 16, 2017
 
 Planbox respects the privacy of every individual who visits our websites or responds to online advertisements or e-mail campaigns. The information that you share with us will be treated with appropriate care. This Privacy Policy (the “Policy”) describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, social media pages, emails, web and mobile applications (“Site” or “Sites”), as well as through our online advertisements at other websites and e-mail campaigns. This Policy will also provide you with instructions on how to opt out of sharing information about you with us.
 
@@ -33,7 +33,7 @@ We collect personal information (Personal Information) for the following purpose
 
 We only collect personal information about you that we consider necessary for achieving the above mentioned purposes.
 
-As you browse planbox.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with planbox.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page to opt out of our partner’s targeted advertising.
+As you browse planbox.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with planbox.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.
 
 **Our disclosure of your information**
 
@@ -45,7 +45,25 @@ Other Corporate Entities. We may share our data, including personal information 
 
 Legal Requests. We cooperate with law enforcement inquires, as well as other third parties to enforce laws such as: intellectual property rights, fraud and other rights, to help protect you and the planbox.com community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorized us to) disclose your name, city, province, telephone number, email address, and order history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep the community free from bad actors, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss.
 
-Planbox will keep personal information only as long as necessary for the identified purposes or as required by law. Planbox will follow internally set guidelines and use care in the disposal, destruction, or de-identification of personal information to prevent unauthorized parties from gaining access to personal information.
+Planbox will keep personal information only as long as necessary for the purposes described in this policy or as required by law. Planbox will follow internally set guidelines and use care in the disposal, destruction, or de-identification of personal information to prevent unauthorized parties from gaining access to personal information.
+
+**Advertising and tracking**
+
+Planbox, our trusted service partners and permitted third parties may also advertise our products and services on third-party websites. Third-party websites may also use cookies or other tracking devices. Planbox, our trusted service partners and permitted third parties do not have control over the tracking technologies utilized by third-party websites. As such, you should carefully review the privacy policies of those third-party sites to understand their tracking activities, if any.
+
+**Website analytics**
+
+Planbox Sites may use Google Analytics to collect information about your use of our website. This information consists of information that your web browser automatically sends to Google, such as the web address of the page that you visit and your IP address. Google may also set cookies or read preexisting cookies. This information is stored on Google´s servers. Google uses this information to provide us with reports about traffic to our website and your visit to our website (such as the domain from which you access the internet, the web address of the website from which you linked to our site, the time and date of your visit to the web pages that you view and click through). We use this data to improve our website structure and content.
+
+Google may also use this data in accordance with their Privacy Policy, which can be found at http://www.google.com/policies/privacy/. For more detailed information on how Google uses your data through our website, please visit http://www.google.com/policies/privacy/partners/.
+
+You may opt-out of our use of Google Analytics by visiting the Google Analytics opt-out page and installing the Google Analytics browser add-on, currently made available by Google at https://tools.google.com/dlpage/gaoptout.
+
+**Advertising features**
+
+Planbox Sites may also use the following Google Analytics Advertising Features: Google Analytics Demographics and Interest Reporting. Google Analytics Demographics and Interest Reporting uses a third party cookie to collect information about our website traffic by tracking users across websites and across time, which generates a report for us to better understand our website users.
+
+If you do not want Google to collect and use this information you may visit the Google Ad Settings page (http://www.google.com/safetycenter/tools/#manage-your-ads-preferences) or you can also visit the website http://www.networkadvertising.org/choices to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising. For the Google Analytics Advertising Features, you may also opt-out of our use of Google Analytics as described above. Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.
 
 **Reviewing and changing your personal information**
 
