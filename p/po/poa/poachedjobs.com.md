@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311042911id_/https%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710075027id_/https%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Restaurant Jobs – Poached Jobs
 
