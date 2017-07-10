@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306235651id_/https%3A//www.mentormob.com/splash/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710195513id_/https%3A//www.mentormob.com/splash/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MentorMob
 
