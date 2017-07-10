@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holacracy.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122822id_/http%3A//www.holacracy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holacracy.org privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710042447id_/https%3A//www.holacracy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Holacracy
 
