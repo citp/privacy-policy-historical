@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexus.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124204746id_/http%3A//www.lexus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexus.co.uk privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710102835id_/https%3A//www.lexus.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Lexus UK
 
 On this page we (Toyota (GB) PLC, Lexus Division) describe how we may make use of any personal data that you may supply to us when you visit this website.
 
@@ -21,7 +21,7 @@ We only use the personal data that you supply to us for the following purposes:
 (e) to detect or prevent unlawful or malicious activity; or   
 (f) to comply with an order of a Court of Law of competent jurisdiction. 
 
-Please be aware that we may screen internet protocol and email addresses on blog.lexus.co.uk to prevent this site being used to forward unsolicited electronic communications. 
+Please be aware that we may screen internet protocol and email addresses on [http://blog.lexus.co.uk](http://blog.lexus.co.uk/) to prevent this site being used to forward unsolicited electronic communications. 
 
 When you make request of us, for example for a brochure, you will be asked whether you wish to be kept informed of Toyota products and services. If you say no then we will remove or suppress your personal data from our databases once we have fulfilled your request
 
