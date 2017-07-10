@@ -1,69 +1,128 @@
-> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408043637id_/http%3A//www.missguided.eu/terms%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missguided.eu privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710213048id_/https%3A//www.missguided.eu/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Conditions EU | Ireland
+# Privacy Policy - Missguided
 
-* ### Privacy & Policy
+  * [Terms of Use](https://www.missguided.eu/terms-of-use)
+  * [Terms of Sale](https://www.missguided.eu/terms-of-sale)
+  * [Cookies Policy](https://www.missguided.eu/cookies-policy)
+  * [Promotions Terms](https://www.missguided.eu/promotions-terms)
 
-**2.1** Here at [Missguided.eu](http://www.missguided.eu/) we are dedicated to protecting the privacy of each and every one of our customers. We will not disclose any information regarding our customers or visitors to the site to any third parties apart from where it is part of providing a service to you - this includes; arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research or when you have given us your permission to do so.
 
-**2.2** CONSENT - Missguided will not provide or sell any of your personal details or any credit card information to third parties (excluding partners from whom you may have linked to our site) without your permission.
 
-**2.3** COMMUNICATION & MARKETING - If you have made a purchase from the website we may occasionally update you on our latest products and offers via e-mail. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of [Missguided.eu](http://www.missguided.eu/).
+This policy sets out the basis on which personal information about you may be collected and used when you use (whether to just browse or to make a purchase) the following websites: [ www.missguided.co.uk; ](https://www.missguided.co.uk/) [ www.missguidedus.com ](https://www.missguidedus.com/) [ www.missguidedau.com; ](https://www.missguidedau.com/) [ www.missguided.eu; ](https://www.missguided.eu/) [ www.missguidedfr.fr; ](https://www.missguidedfr.fr/) [ www.missguided.com/pl; ](https://www.missguided.com/pl) [ www.missguided.com/de; ](https://www.missguided.com/de) and [ www.missguided.com/es ](https://www.missguided.com/es) and on our mobile with us on Missguided’s official Facebook, Instagram, Twitter and Youtube accounts (“Social Media”). and purchase Missguided items (“Items”) from the Sites and Missguided branded stores (“Stores”) and our partners’ (“Partners”) stores and websites (“Third Party Platforms”). By using the Sites, registering a Missguided Account, interacting with us on Social Media and purchasing Items from the Stores and Third Party Platforms you are accepting Media you are accepting and consenting to the terms of this policy. 
 
-All Missguided members have the option to unsubscribe from marketing communications from us. If you do not wish to continue to receive e-mails from us and/or selected third parties you should opt-out clicking on the "unsubscribe" link in any emails which we might send you this will then suspend your e-mail notifications however you can sign up again if you wish to do so.
+Missguided Limited (company number 03235904) (“ML”) and Missguided USA (Finance) Inc (“MUFI”) are the owners and operators of the Sites and the relevant accounts on the Social Media and Missguided Retail Limited (Company number. 10033268) (“MRL”) is the operator of the Stores. Together ML, MUFI and MRL shall in these terms be referred to as “we”, “us”, “our” and “Missguided”. Our headquarters are at Missguided HQ, 75 Trafford Wharf Road, Manchester, United Kingdom, M17 1ES 
 
-Users who have made a purchase from our site may also be included in Google's Remarketing Lists for Search Ads (RLSA), and therefore more likely to see ads from us. Refer to section 2.4 on Cookies and follow those same steps if you would like to be excluded from these lists.
+We are committed to maintaining your privacy. We are registered as a data controller for the purposes of the Data Protection Act 1998 (“DPA”). 
 
-**2.4** COOKIES - If you have registered with Missguided.eu then your computer will store an identifying cookie which will save you time each time you re-visit the website, by remembering your email address for you. Cookies are small files which are stored on a user's computer. They are designed to hold a small amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent.
+We reserve the right to amend these Terms from time to time. The Terms were most recently updated on 26 October 2016. 
 
-**2.5** PROTECTING YOUR SECURITY - We may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. This is done only to confirm your identity - a credit check is not performed and your credit rating is unaffected.
+###  Information we collect about you 
 
-**2.6** TRANSFERS OF YOUR INFORMATION - The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Missguided or one of our suppliers. Such processing may, for example, be required in order to fulfil your order, process your payment details or provide support services.
+During your use of the Sites (including for browsing and purchasing), your registration and use of the Missguided Account, your interaction on the Social Media and when you purchase Items from the Sites, Stores and Third Party Platforms and, when you participate in any promotions on or linked to the Sites, Stores, Third Party Platforms and/or on the Social Media we may collect and process the following information about you: 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. We will do our best to protect your personal data, but cannot guarantee the security of data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+  1. **Information you give us.**
+    1. We ask for your name, date of birth, telephone number, home address, delivery address, email address and credit card and other payment details when you purchase Items from the Sites. We will also ask for this information when you register a Missguided Account. We may ask for your details when you purchase or return Items from our Stores such as your name, email address, postal address and signature. We will generate an order number which will be linked to your details when you place an order on the Sites (“Order”). 
+    2. You may also give us information about you when you fill in forms on the Sites or at Stores, or on Third Party Platforms or when you correspond with us on the Social Media for example when you register to subscribe to our newsletters and emails, when you enter into our prize draws, competitions and other promotions, when you complete forms to receive particular offers or when you participate in our Social Media activities or surveys. In such circumstances you may provide additional information about you such as your photograph and other images and identifying information, your interests and hobbies, details of your Social Media accounts, posts and preferences; 
+    3. You may also give us information about you when you submit reviews, profiles, images, videos, instructions, comments, feedback, ideas, suggestions or other information or materials via the Sites or the Social Media, whether relating to our Sites, Stores, Third Party Platform, products, promotions or other matters upon which you wish to comment ("Contributions"). 
+    4. You must ensure in all instances that the information you provide is personal to you and no one else (for example you must only provide an email address that only accessible by you and not any other person. You should not use another person’s email address or a generic email address such as accounts@missguided.com). You must also ensure that the information you provide is accurate and up to date. By providing information about you to us you warrant that the information you provide is personal to you and is accurate and up to date, and that you will keep us informed of any changes. 
+  2. **Information we collect about you.** When you use the Sites and the Social Media and when you are visiting our Stores we may automatically collect the following information: 
+    1. Technical information, including the Internet protocol (IP) address used to connect your computer or mobile phone to the internet, your Missguided Account login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+    2. Information about your visit, including without limitation to the number of visits, the full Uniform Resource Locators (URL) clickstream to, through and from the Sites (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number;
+    3. How many times you have been on the Site and in the Stores, and information about your order including the Items you have purchased and details you inputted when placing your order including your name, email address delivery address and telephone number (this will be linked to the email address you use when you place an order or your Missguided Account where you have registered a Missguided Account with us).
+    4. Further information on the technology we use to collect some of this information is available on our [ Cookies Policy. ](https://www.missguided.eu/terms#tab5)
+  3. **Information we receive from other sources.**
+    1. We may receive the information set out in points one and two when you use the Third Party Platforms. We work closely with other third parties (including without limitation carriers who deliver Items to you, card protection and payment processing companies (including without limitation Klarna AB (Corp ID no. 556737 Sveavägen 46, 111 34 Stockholm, Sweden) (“Klarna”)) that process your payments for Items, business partners (including without limitation third parties that provide promotions and prizes on the Sites, in or for our Stores, and/or on Social Media and Sites), warehouse and customer service operators and in technical, advertising market research and promotions management functions, analytics providers, search information providers and credit reference agencies) software service providers and we may receive information about you from them. 
+    2. When you purchase items from the German Site, Klarna will process the information you have inputted in the checkout process to determine whether you are eligible for its credit facility ("Klarna Facility"). The Klarna Facility allows you to defer payment of the Items you have selected until a period of time after you have received an invoice for such Items from Klarna. When you input your email address and post code at the checkout Klarna will automatically undertake a credit check against the details you have inputted up to that stage in the checkout process (including without limitation your name, email address and post code) and then display the payment options available to you. Whichever payment option you choose, Klarna will use the personal information you have provided in order to process payment of the items you intend to purchase (where applicable, this include disclosing your data to card issuers, where you have selected to pay by card and PayPal where you have selected to pay by PayPal). For more information about your payment options when using the German Site see our Terms of Sale. For more information about the Klarna Facility see the Klarna Terms of Use [ Klarna's User Terms ](https://cdn.klarna.com/1.0/shared/content/legal/terms/klarna/de_de/checkout) ("Klarna Terms"). 
 
-**2.7** DISCLOSURES OF YOUR INFORMATION - We may disclose your personal information to any of our group of companies. We may also disclose your personal information to third parties:
 
-• in the event that Missguided sells or buys any business or assets;  
-• if Missguided or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets; or  
-• if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of; or to protect the rights, property, or safety of Missguided, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-**2.8** THIRD PARTY SITES - When shopping on [Missguided.eu](http://www.missguided.eu/) you may come across links to and from the websites of our partner networks and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for. Please check these policies before you submit any personal data to these websites.
+###  Use made of the information 
 
-**2.9** CHECKING YOUR DETAILS - If you wish to verify the details you have submitted to [Missguided.eu](http://www.missguided.eu/) you may do so by contacting us via the e-mail address or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We recommend that you do not use your browser's password memory function as this may result in someone accessing your personal information.
+We use information held about you in the following ways: 
 
-**2.10** CONTACTING US - [Missguided.eu](http://www.missguided.eu/) Limited (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act).
+  1. **Information you give to us.** We will use this information: 
+    1. To carry out our obligations arising from any contracts entered into between you and us for example to process your Order, to enter you into a prize draw, competition or other promotion (where requested) or to provide you with the information, products and services that you request from us. This may require disclosure to third parties for example card processing agencies, banks, shipping providers and carriers, fraud protection agencies and suppliers of gifts and prizes for our competitions, prize draws and other promotions; 
+    2. To interact with you using the Social Media. Features such as the “like”, “retweet”, “repost” and “share” on the Social Media may allow us to enable integration and/or access to your accounts on the Social Media. Please note we do not control Twitter, Facebook, Instagram, Tumblr or Youtube (“Social Media Sites”), your profile/account on the Social Media Sites, we do not modify your account or your privacy settings on the Social Media Sites and we do not establish rules about how your personal information will be used when you use the Social Media Sites. You and the relevant provider of the Social Media Sites will be in control of those issues and not us. You are encouraged to read all policies and information on the applicable Social Media Sites to learn more about how they handle your information before using the Social Media Sites and any features on the Social Media Sites; 
+    3. To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about and to notify you of our offers and promotions, by telephone, email, SMS and post. You can unsubscribe from our mailing list by writing to our Customer Care team at [ customercare@missguided.co.uk ](mailto:customercare@missguided.co.uk) or Customer Care, Missguided Limited, 75 Trafford Wharf Road, Manchester, United Kingdom, M17 1ES; 
+    4. To allow our carefully selected third parties to provide you, with information about goods or services that may interest you; 
+    5. To notify you about changes to the Sites, your Order, our terms and conditions and our service; 
+    6. To ensure that content from on the Sites is presented in the most effective manner for you and for your computer or other device. 
+  2. Information we collect about you. We will use this information: 
+    1. To administer and operate the Sites, Stores and the Social Media and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; 
+    2. To process, fulfil and keep a record of Orders placed, and your purchases and returns; 
+    3. To tailor our service to you and to ensure that we can process your Order in the most efficient manner for you, and to overall improve your experience on the Sites and in the Stores; 
+    4. To promote and advertise Missguided and its goods and services, and its promotional activity (see below for further details); 
+    5. To improve the Sites, Stores and Social Media to ensure that content and the Stores are presented in the most effective manner for you and for your computer and other devices; 
+    6. To allow you to participate in interactive features of our service, when you choose to do so; 
+    7. Ts part of our efforts to keep the Site and Stores safe and secure; 
+    8. To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; 
+    9. To make suggestions and recommendations to you and other users of theSite about goods or services that may interest you or them. 
+  3. Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive). 
 
-You have the right to access the information which [Missguided.eu](http://www.missguided.eu/) holds about you and your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-We are always happy to hear from our customers. We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied with the service we offer. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a member of the Missguided Customer Care team, who will be delighted to answer any questions you may have.
 
-You can either contact our [ Customer Care team](https://web.archive.org/contact)  
-Or, write to us at:  
-**Missguided Limited,**  
-Unit 8 Centenary Park, Coronet Way, Salford,  
-Manchester, M50 1RE
+###  Disclosure Of Your Information 
 
-* ### Terms & Conditions of Sale
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
 
-**5.1**  By placing an order you are offering to purchase a product on and subject to the following terms and conditions. All orders are subject to availability and confirmation of the order price.
+We may share your information with selected third parties including: 
 
-**5.2**  Dispatch times may vary according to availability and any guarantees or representations made as to delivery times are limited to mainland UK and subject to any delays resulting from postal delays or for uncontrollable forces which we will not be responsible. Please see our Delivery Charges notice for further information.
+  1. Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you for example our carriers that deliver Items to you, our card and payment processing companies that process your payments for Items and suppliers of items and prizes for our promotions and other carefully selected third parties whom we consider may be of interest to you. 
+  2. Market research and promotions management agencies to help improve the Sites and Social Media, and the services we offer to you. 
+  3. Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. 
+  4. Analytics and search engine providers that assist us in the improvement and optimisation of the Sites and the Social Media. 
 
-**5.3**  In order to contract with MISSGUIDED you must be over 18 years of age and possess a valid credit or debit card issued by a bank acceptable to us.
 
-**5.4**  MISSGUIDED retains the right to refuse any request made by you. If your order is accepted we will inform you by email and we will confirm the identity of the party which you have contracted with. This will always be MISSGUIDED. When placing an order you undertake that all details you provide to us are true and accurate, that you are an authorised user of the credit or debit card used to place your order and that there are sufficient funds to cover the cost of the goods. All prices advertised are subject to such changes.
 
-**5.5** OUR CONTRACT \- When you place an order, you will receive an acknowledgement e-mail confirming receipt of your order: this email will only be an acknowledgement and will not constitute acceptance of your order. A contract between us will not be formed until we send you confirmation by e-mail that the goods which you ordered have been dispatched to you. Only those goods listed in the confirmation e-mail sent at the time of dispatch will be included in the contract formed.
+In all circumstances we work closely with these third parties to ensure your privacy is respected and protected. 
 
-**5.6** PRICING AND AVAILABILTY \- Whilst we try and ensure that all details, descriptions and prices which appear on this Website are accurate, errors may occur. If we discover an error in the price of any goods which you have ordered we will inform you of this as soon as possible and give you the option of reconfirming your order at the correct price or cancelling it. If we are unable to contact you we will treat the order as cancelled. If you cancel and you have already paid for the goods, you will receive a full refund.   
-All prices are inclusive of VAT. Delivery costs will be charged in addition; such additional charges are clearly displayed where applicable and included in the 'Total Cost'.
+We may also disclose your personal information to third parties: 
 
-**5.7** PAYMENT \- Upon receiving your order we carry out a standard pre-authorisation check on your payment card to ensure there are sufficient funds to fulfil the transaction. Goods will not be dispatched until this pre-authorisation check has been completed. Your card will be debited once the order has been accepted.
+  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+  2. If Missguided Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+  3. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use or Terms of Sale and other agreements; or to protect the rights, property, or safety of Missguided Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
-**5.8** DISCOUNT CODES \- Discount codes may from time to time be offered to account holders. Discount codes of any kind may only be applied to purchases made through the account in respect of which the discount code was offered and registered. Discount codes are not transferable and must not be sold or transferred to anyone else for use in any way. Discount codes have no monetary value.  
-Promotional discount codes - We may from time to time offer promotional discount codes which may apply in respect of any, or certain specified, purchases made though this Website. Promotional codes may be subject to certain restrictions, including dates when the promotional discount codes apply.  
-Discount codes or promotional discount codes may include additional conditions of use which may be specified at the time of issue. All discount codes apply to full price items only and cannot be used in conjunction with any other offers.  
-Any breach of this clause 5.8 or the specific terms of the discount code may result in an order being rejected or an order being void.
 
-**5.9** EXCHANGE RATES  \- Prices of products featured on the site are subject to exchange rate fluctuations.
+
+The Sites and Social Media may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. This Privacy Policy only covers the Sites and our content on the Social Media, and does not cover any other website or application. 
+
+### Cookies
+
+The Sites and the technologies within our Stores, use cookies to distinguish you from other users of the Sites and Stores. These cookies help us to provide you with a good experience when you browse the Sites and our Stores and, also allows us to improve the Sites and your shopping experience at our Stores. For detailed information on the cookies we use and the purposes for which we use them see our  Cookie Policy. 
+
+###  Social Media 
+
+You may interact with us on the Social Media (including without limitation joining our official Missguided group/page or following us on the Social Media, “liking”, “retweeting”, writing a comment in relation to a page on the Social Media) (“Interacting” or “Interaction” (as applicable)). 
+
+Your Interaction with us on the Social Media may also involve you submitting a photo or video of you (“Your Image”). 
+
+Please let us know if at any time you wish us to stop interacting with you on the Social Media or using any of your information on the Social Media by contacting us at the details set out below. 
+
+###  Security of personal information 
+
+Where you are asked to set a user name and password , for example when you register for a Missguided Account or otherwise where you provide certain details such as your email address sign up to our newsletter, you must ensure that the details you provide to us are personal to you and not used by any third party (for example, you must not use a generic email address such as accounts@missguided.com, or otherwise an email address that is used by another person). You must keep all passwords secret and confidential should not share your password with any other person. You must immediately notify us if you know or suspect that someone else has access to your password (whether by authorised or unauthorised means). 
+
+Where you have registered a Missguided Account you must ensure that your information on the account is always kept updated (for example, you must update it every time you change your address or if your name changes) as we use the information you provide to tailor our service to you and make it more efficient for you. 
+
+You must not in any circumstances use the Sites or interact with us on Social Media, or register a Missguided Account using another person’s details. By using the Sites, interacting with us on Social Media and registering a Missguided Account with us you warrant, represent and undertake that the personal information you provide is personal to you and does not belong to anyone else. You must notify us immediately if you know or suspect another person is using your or someone else’s details. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to the Sites; any transmission is at your own risk. Once we have received your information, we will use reasonable endeavours to try to prevent unauthorised access. 
+
+###  Your Rights 
+
+You have the right to access information held about you. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+You also have the right to ask us not to process your personal data for marketing purposes. 
+
+To exercise your rights above please contact our Customer Care team at [ customercare@missguided.co.uk ](mailto:customercare@missguided.co.uk) or Customer Care, Missguided Limited, 75 Trafford Wharf Road, Manchester, United Kingdom M17 1ES. 
+
+If you think the information we hold about you is incorrect please contact us on the above address. 
+
+###  Children 
+
+The Sites are not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are under 13 do not use the Sites or provide any information about yourself including without limitation your name, address, email address or any screen name or user name you may use. If we learn that we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe that we may have any information from or about a child under 13, please contact us at the address below. 
+
+###  Contact us 
+
+Questions, comments and requests regarding this policy should be addressed to the Customer Care team at: [ customercare@missguided.co.uk ](mailto:customercare@missguided.co.uk) or Customer Care, Missguided Limited, 75 Trafford Wharf Road, Manchester, United Kingdom, M17 1ES. 
