@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205128id_/https%3A//www.mybobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711123144id_/https%3A//www.mybobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bob's Discount Furniture
 
