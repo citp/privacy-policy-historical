@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624130349id_/http%3A//www.organogold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711171708id_/http%3A//www.organogold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organo Gold
 
