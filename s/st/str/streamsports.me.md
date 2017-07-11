@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the streamsports.me privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502045924id_/http%3A//www.streamsports.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamsports.me privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711194457id_/https%3A//www.streamsports.me/privacy) for the most accurate reproduction.*
 
 # Stream Sports - Privacy Policy.
 
 StreamSports makes every effort to ensure your online privacy. The processing of personal data on this website is fully in accordance with the provisions of the national legislation for the processing of personal data, as set out in this privacy statement.
 
-In this statement the following terms are defined as stated below: "Name": StreamSports "Service": the online platform and other online services offered by StreamSports through its website StreamSports.me "User": the user of StreamSports' online platform
+In this statement the following terms are defined as stated below: "Name": StreamSports "Service": the online platform and other online services offered by StreamSports through its website streamsports.co "User": the user of StreamSports' online platform
 
 ##### Information collected
 
