@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205050421id_/http%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellzone.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711171140id_/https%3A//www.spellzone.com/pages/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Spellzone, Privacy Policy
 
@@ -6,13 +6,13 @@
 
 This document outlines the Privacy Policy for Spellzone. Effective from 15 July 2013.
 
-**ATTENTION: This privacy policy applies to the entire contents of this website under the domain name[www.spellzone.com](http://www.spellzone.com/) and other Spellzone domains ("Website"). Please read this policy carefully before using this Website. If you do not accept these terms of this policy, please do not use this Website.   
+**ATTENTION: This privacy policy applies to the entire contents of this website under the domain name[www.spellzone.com](https://www.spellzone.com/) and other Spellzone domains ("Website"). Please read this policy carefully before using this Website. If you do not accept these terms of this policy, please do not use this Website.   
 This notice is issued by Spellzone Limited.**  
 
 
 ### Introduction
 
-This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20160205050421id_/http%3A//www.spellzone.com/pages/contact.cfm).
+This privacy policy is specific to the Spellzone website ("Website"). Spellzone Limited ("Spellzone", "we", "us" or "our") is committed to protecting your privacy online while providing a personalised and valuable service. Our policy explains how we will do this. We will review this policy in the light of comments we receive so please check the latest version. If you have any questions about our privacy policy, please [contact us](https://web.archive.org/web/20170711171140id_/https%3A//www.spellzone.com/pages/contact.cfm).
 
 By using the Website, you are accepting the practices described in this statement.
 
@@ -22,7 +22,7 @@ By using the Website, you are accepting the practices described in this statemen
 
   * Name
   * Job title
-  * Organisation name
+  * School/college name
   * Billing addresses
   * E-mail address
   * Telephone number
@@ -83,7 +83,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 ### 6\. Updating Your Details
 
-6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20160205050421id_/http%3A//www.spellzone.com/pages/contact.cfm) the correct details.
+6.1. If any of the information that you have provided to Spellzone changes e.g. if you change your e-mail address, this can be up-dated via your Spellzone login. If in doubt, please [let us know](https://web.archive.org/web/20170711171140id_/https%3A//www.spellzone.com/pages/contact.cfm) the correct details.
 
 ### 7\. Governing Law
 
@@ -97,7 +97,7 @@ By using the Website, you are accepting the practices described in this statemen
 
 9.1. You may request a copy of the personal information we hold about you. Please contact: 
 
-[Email](https://web.archive.org/web/20160205050421id_/http%3A//www.spellzone.com/pages/contact.cfm)  
+[Email](https://web.archive.org/web/20170711171140id_/https%3A//www.spellzone.com/pages/contact.cfm)  
 Tel: +44 (0) 333 990 0132
 
 Or in writing to:
