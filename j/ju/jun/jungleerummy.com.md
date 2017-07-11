@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungleerummy.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414120644id_/https%3A//www.jungleerummy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungleerummy.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711104212id_/https%3A//www.jungleerummy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - JungleeRummy.com
 
@@ -6,19 +6,19 @@ We value and respect your privacy. Along with providing the most enjoyable onlin
 
 Our privacy policy explains in details about what information we collect, how we use them, and the kinds of options that are readily available to our users and members. Whatever information you share with us, we ensure that it is completely protected so that you can enjoy a safe online cards game of rummy. 
 
-###### Your Information is Safe – We Value Your Privacy
+###### Your Information is Safe ? We Value Your Privacy
 
 We provide a completely safe gaming environment at JungleeRummy.com. We do not share or reveal your personal information to other parties without your consent. However, when you register, the only information that can be shared are mentioned in the privacy policy, or in rare cases, we may need to share information when necessitated by law. We continually strive to make better virtual environment for free rummy online gaming. In order to improve our services, we may utilize your information to inform you about our latest offers, products, contests, and prizes. When you win any contest, your information may be shared with prize sponsors and suppliers through our rummy game site. 
 
-###### User Information – What We Collect 
+###### User Information ? What We Collect 
 
-You need to register with JungleeRummy.com to enjoy 24x7 rummy games. When you register, we collect essential information like your unique user name and e-mail address. After you have filled this information, we also collect your IP address to analyse rummy gaming and demographic trends, track player’s movement, and site administration. You may note that IP addresses are not anyhow connected to a user’s personally identifiable information. It is our own solemn policy that we do not perform any activity like selling, sharing or renting your vital information to other parties in any way different from those that have been mentioned in our JungleeRummy.com Privacy Policy. 
+You need to register with JungleeRummy.com to enjoy 24x7 rummy games. When you register, we collect essential information like your unique user name and e-mail address. After you have filled this information, we also collect your IP address to analyse rummy gaming and demographic trends, track player?s movement, and site administration. You may note that IP addresses are not anyhow connected to a user?s personally identifiable information. It is our own solemn policy that we do not perform any activity like selling, sharing or renting your vital information to other parties in any way different from those that have been mentioned in our JungleeRummy.com Privacy Policy. 
 
 ###### Advanced Security for Data Protection 
 
-We make sure that all of your information is secured completely. We are equipped with advanced security facilities to protect your information against unauthorized access, loss, misuse, and alteration. We also perform timely checks and reviews of our data storage facilities and constantly improve our security measures. Only you are entitled to access your account, as your registration information is fully password protected. After you have accessed your account, JungleeRummy.com is not responsible for any activity under your account, as you will be the only one who can log in with your own security password. Therefore, we give you the simplest security tip – "Do not disclose your password to anyone". 
+We make sure that all of your information is secured completely. We are equipped with advanced security facilities to protect your information against unauthorized access, loss, misuse, and alteration. We also perform timely checks and reviews of our data storage facilities and constantly improve our security measures. Only you are entitled to access your account, as your registration information is fully password protected. After you have accessed your account, JungleeRummy.com is not responsible for any activity under your account, as you will be the only one who can log in with your own security password. Therefore, we give you the simplest security tip ? "Do not disclose your password to anyone". 
 
-###### Cookies – Accept, Modify or Decline 
+###### Cookies ? Accept, Modify or Decline 
 
 When you play rummy games on our website, there is possibility that there could be some traces of our cookies in your computer. Technically, cookies are small harmless files that recognize your browser and follow up with advertisement. They can also be used for other purposes like security, authentication and management of online rummy game environment but they can never be used to access any information on your computer. 
 
