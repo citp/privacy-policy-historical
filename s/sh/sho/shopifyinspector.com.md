@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopifyinspector.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511191943id_/http%3A//www.shopifyinspector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopifyinspector.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711073604id_/http%3A//www.shopifyinspector.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Shopify Inspector
+# Privacy Policy - Commerce Inspector
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
