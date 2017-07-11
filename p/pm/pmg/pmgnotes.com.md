@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317125458id_/https%3A//www.pmgnotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711102338id_/https%3A//www.pmgnotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PMG
 
@@ -8,9 +8,9 @@ This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, r
 
   * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngccoin.co.za](http://www.ngccoin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoin.kr](http://www.ngccoin.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngccoin.pl](http://www.ngccoin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
   * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
-  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/) and [www.cgcsignatureseries.com](http://www.cgcsignatureseries.com/)
+  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/)
   * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
-  * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](http://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
+  * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](https://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
 
 
 
