@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naptol.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623181151id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naptol.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711111055id_/https%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Naaptol Privacy Policy
 
-Thank You for visiting [www.naaptol.com](http://www.naaptol.com/) Naaptol Online Shopping Private Limited ("Company") is a company incorporated under the provisions of the (Indian) Companies Act, 1956 and is the owner of the website - www.naaptol.com and all its variants ("Site"). This Privacy Policy ("Policy") contains that how the Company uses any personal information submitted or collected at the Site with Your consent. 
+Thank You for visiting [www.naaptol.com](https://www.naaptol.com/) Naaptol Online Shopping Private Limited ("Company") is a company incorporated under the provisions of the (Indian) Companies Act, 1956 and is the owner of the website - www.naaptol.com and all its variants ("Site"). This Privacy Policy ("Policy") contains that how the Company uses any personal information submitted or collected at the Site with Your consent. 
 
 For the purpose of this Policy, wherever the context so requires "You" shall mean any natural or legal person who has accessed the Site and/or agreed to become a buyer on the Site by providing required details. 
 
