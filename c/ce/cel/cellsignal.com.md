@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsignal.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406060710id_/https%3A//www.cellsignal.com/common/content/content.jsp%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsignal.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711201150id_/https%3A//www.cellsignal.com/common/content/content.jsp%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cell Signaling Technology
 
@@ -111,7 +111,7 @@ Content of third parties, such as videos from YouTube, RSS feeds or graphics fro
 
 ### CHANGES TO THIS POLICY
 
-We may update this privacy policy from time to time and so you should review this policy periodically. When we change this privacy policy in a material way, we will update the "last modified" date at the top of this privacy policy. Changes to this privacy policy are effective when they are posted on this page.
+We may update this privacy policy from time to time and so you should review this policy periodically. When we change this privacy policy in a material way, we will update the "last modified" date at the bottom of this privacy policy. Changes to this privacy policy are effective when they are posted on this page.
 
 ### NOTICE TO YOU
 
