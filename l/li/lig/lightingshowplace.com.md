@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808054226id_/http%3A//www.lightingshowplace.com/help/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711180103id_/https%3A//www.lightingshowplace.com/help/security) for the most accurate reproduction.*
 
 # Lighting - Chandeliers, Bathroom Lights & Wall Lights
 
@@ -14,7 +14,7 @@ We can be reached online through our online Customer Service center. We can be c
 
 We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from https:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
 
  **Information You Give Us**
 
