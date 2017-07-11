@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delugerpg.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207160115id_/http%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delugerpg.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711103029id_/https%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DelugeRPG
 
@@ -12,9 +12,11 @@ Never share your password with absolutely anyone, even if they claim to be admin
 Your emails are only used for password recovery,in case you forget your password. They will never be sold, or given to any third-party. Also, emails will never be displayed in your profile when others view it.   
 Accounts without any email associated with their account cannot be recovered.
 
-We may delete your account if it has been more than 15 months from your last login (Please log in atleast once a year to keep your account). However, if an account has not been used since the day of registration, it may be deleted within 3 months.
+We may delete your account if it has been more than 15 months from your last login (Please log in at least once a year to keep your account). However, if an account has not been used since the day of registration, it may be deleted within 3 months.
 
 To catch scammers and phishers, our systems may scan messages to warn the receiver of the message. We are not responsible if your account gets stolen. [Learn how you can keep your account safe](https://web.archive.org/pages/account-security).
+
+Please be civil towards others while you are on this website. Inappropriate usernames, avatars, pokemon nicknames and messages may result in a ban.
 
 On a side node, Banned accounts will not be restored. And Deleted accounts cannot be restored.
 
@@ -41,4 +43,4 @@ We do not sell any in-game pokemon or items. So, Please do not email us offering
 
 We urge you to purchase the actual pokemon video games. They should be easily available at your country's [Amazon](https://www.amazon.com/) (Recommended), [Ebay](https://www.ebay.com/) or similar online stores, if they are not available at any local stores.
 
-[Last updated August 2014]
+[Last updated February 2016]
