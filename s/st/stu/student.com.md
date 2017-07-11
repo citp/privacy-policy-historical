@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618233137id_/https%3A//www.student.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711165939id_/https%3A//www.student.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Student.com
 
