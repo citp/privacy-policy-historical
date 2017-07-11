@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509080532id_/https%3A//www.nationalservice.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711223432id_/https%3A//www.nationalservice.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
@@ -9,6 +9,12 @@ Some of the documents on this server may contain live references (or pointers) t
 Except for the AmeriCorps recruitment profiles and application, the Record of Service, this website and the information it contains are considered public information, are provided as a public service by the Corporation for National and Community Service (CNCS), and may be distributed or copied. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for other like purposes.
 
 Thank you for visiting the CNCS website. This policy explains how CNCS will handle information we learn about you from your visit to our website.
+
+### Breach Notification Form
+
+This Breach Notification Form is available to assist in properly documenting a suspected or confirmed privacy breach. Please complete the form in its entirety and return to [privacy@cns.gov](mailto:privacy@cns.gov) for processing. Completion of this form does not exclude you from properly notifying individuals impacted or following local state notification procedures.
+
+Download: [Breach Response Form (PDF)](https://web.archive.org/sites/default/files/documents/Breach%20Response%20Form.pdf)
 
 ### Browsing or Downloading
 
@@ -48,8 +54,8 @@ Washington, DC 20525
 
 ### Cybersecruity and Privacy Policies
 
-[View our Cybersecurity Policy](https://web.archive.org/documents/main-menu/2016/cybersecurity-policy)  
-[View our Privacy Polic](https://web.archive.org/documents/main-menu/2016/privacy-policy)y
+[View our Cybersecurity Policy](https://web.archive.org/documents/2016/cybersecurity-policy)  
+[View our Privacy Polic](https://web.archive.org/documents/2016/privacy-policy)y
 
 ### Security
 
