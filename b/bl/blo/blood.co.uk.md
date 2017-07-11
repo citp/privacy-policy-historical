@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222024id_/http%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711145045id_/http%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Blood Donation
 
@@ -24,7 +24,7 @@ We will use this information:
 
 
 
-We may compare details with central NHS records or those of other data processors to stay in touch.  We are committed to protecting the confidentiality of our donors and to meeting our responsibilities under the Data Protection Act 1998
+We may compare details with central NHS records or those of other data processors to stay in touch. We are committed to protecting the confidentiality of our donors and to meeting our responsibilities under the Data Protection Act 1998. Read our guide for blood donors about [your rights and our responsibilities](https://nhsbtdbe.blob.core.windows.net/umbraco-assets-blood/1263/your-rights-and-our-responsibilities.pdf "Your rights and our responsibilities.pdf") (PDF 0.4MB).
 
 We automatically track certain information about all our website users based on what you do on the site. We use this information to analyse our users' demographics, interests, and behaviour on the site to understand and serve you better . This information we capture for this purpose does not identify any user.
 
@@ -62,8 +62,6 @@ By accessing and using this website in any way, including, without limitation, b
 The terms of use and privacy policy for the NHS Blood & Transplant website govern your use of NHS Blood & Transplant Online Blood Donor Register. In addition, the following terms apply:
 
 We may amend these terms of use from time to time, and the revised version will be effective when displayed here.
-
-Although we have taken precautions, you should note that the Internet is not a secure medium, and any information sent through the Online Blood Donor Register may be intercepted and may not arrive safely at its ultimate destination.
 
 If accessing any part of the Online Blood Donor Register that requires you to enter a password you agree:
 
