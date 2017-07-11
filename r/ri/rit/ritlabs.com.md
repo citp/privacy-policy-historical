@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610171219id_/https%3A//www.ritlabs.com/en/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711170709id_/https%3A//www.ritlabs.com/en/privacy) for the most accurate reproduction.*
 
 # Ritlabs, SRL Privacy Policy
 
-Effective Date: December 16, 2015
+Effective Date: 16 April 2017
 
 Ritlabs, SRL (“Ritlabs”) has adopted this privacy policy (hereinafter “Privacy Policy”) to inform you of its collection and use of your personal or personally identifiable information through the [https://www.ritlabs.com](https://www.ritlabs.com/) website (hereinafter “Website”). Ritlabs values your privacy and has adopted this Privacy Policy in an effort to remain transparent with respect to its collection and use of your personal or personally identifiable information.
 
@@ -24,15 +24,27 @@ Ritlabs may collect the following personal or personally identifiable informatio
   * Website pages accessed;
   * Browser software;
   * Serial numbers, order numbers, license registration data of the software that you use;
+  * Search queries;
   * Use of the Website.
 
 
 
-Ritlabs may collect this personal or personally identifiable information through various means, including, but not limited to, through session cookies and persistent cookies.
+Ritlabs may collect this personal or personally identifiable information through various means, including, but not limited to, through the following means:
+
+  * session cookies; 
+  * persistent cookies; 
+  * web beacons; 
+  * tracking scripts; 
+  * tracking pixel; 
+  * third-party analytics and tracking providers, including, but not limited to, Google Analytics, Google Adwords, Yandex Metrika, Facebook Pixel.
+
+
+
+In order to determine your country based on your IP address, Ritlabs may use GeoLite database, created by MaxMind, available from [www.maxmind.com](https://www.maxmind.com/).
 
 ### 2\. How does Ritlabs use this information?
 
-Ritlabs may use your personal or personally identifiable information to provide you with service and support, to provide you with the Website and its associated services, to communicate with you about Ritlabs’ goods or services, to request information from you to improve Ritlabs’ goods or services, including polls or surveys, to transmit this information to a third party to aid you in completing a transaction, such as purchasing software from Ritlabs or its distributors, to tailor the Website and its content to your preferences, and to aid Ritlabs in changing the content of the Website or improve the Website usability.
+Ritlabs may use your personal or personally identifiable information to provide you with service and support, to provide you with the Website and its associated services, to communicate with you about Ritlabs’ goods or services, to advertise and promote Ritlabs products and services, to request information from you to improve Ritlabs’ goods or services, including polls or surveys, to transmit this information to a third party to aid you in completing a transaction, such as purchasing software from Ritlabs or its distributors, to tailor the Website and its content to your preferences, and to aid Ritlabs in changing the content of the Website or improve the Website usability.
 
 ### 3\. How does Ritlabs secure this information?
 
@@ -42,7 +54,7 @@ Ritlabs collects and processes your personal and personally identifiable informa
 
 ### 4\. Does Ritlabs share this information with third parties?
 
-Ritlabs does not sell or rent your personal or personally identifiable information to third parties. Ritlabs may, however, share your personal or personally identifiable information with third party service providers retained by Ritlabs, such as credit card processors, analytics providers, or marketing agencies, to provide you with additional information on the goods or services of Ritlabs, including through remarketing, or to aid you in the performance or provision of Ritlabs’ services.
+Ritlabs does not sell or rent your personal or personally identifiable information to third parties. Ritlabs may, however, share your personal or personally identifiable information with third party service providers retained by Ritlabs, such as credit card processors, advertisement providers, analytics providers, tracking providers or marketing agencies, to provide you with additional information on the goods or services of Ritlabs, including through remarketing, or to aid you in the performance or provision of Ritlabs’ services.
 
 Ritlabs may transfer your personal or personally identifiable information to share information with its parents, subsidiaries, affiliates, or distributors or to a third party in a sale of the Website, a sale of Ritlabs, or a sale of substantially all of the assets of Ritlabs. Ritlabs may also transfer your personal or personally identifiable information to third party service providers to track and analyze your use of the Website, to conduct a poll or a market research, to respond to a duly authorized subpoena or court order, to respond to regulatory requests by government authorities, to protect the safety or security of Ritlabs, the Website, its employees, and its users, and, where necessary, to protect against fraud, false advertising, or the violation of any law, statute, ordinance, regulation, or treaty whether local, state, provincial, national, or international.
 
