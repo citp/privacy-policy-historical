@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askapatient.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619192023id_/http%3A//www.askapatient.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askapatient.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711165409id_/http%3A//www.askapatient.com/general/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
