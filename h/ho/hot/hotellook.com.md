@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotellook.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430121312id_/https%3A//hotellook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotellook.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711054618id_/https%3A//hotellook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - hotellook
 
