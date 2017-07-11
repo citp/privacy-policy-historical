@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627200356id_/https%3A//www.capitaloneinvesting.com/main/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711210310id_/https%3A//www.capitaloneinvesting.com/main/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Capital One Investing
 
