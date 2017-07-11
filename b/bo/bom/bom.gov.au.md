@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102447id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711185750id_/http%3A//www.bom.gov.au/other/privacy.shtml%3Fref%3Dftr) for the most accurate reproduction.*
 
 # Online privacy notice - Bureau of Meteorology
 
