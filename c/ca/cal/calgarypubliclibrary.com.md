@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calgarypubliclibrary.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607035626id_/http%3A//calgary.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgarypubliclibrary.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711100616id_/http%3A//calgary.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Calgary Public Library | BiblioCommons
 
@@ -10,7 +10,7 @@ BiblioCommons believes that effective privacy controls are the cornerstone of op
 
 ### Is this the only policy governing the use of my information on services offered by the library?
 
-No. Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.
+No. Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library's website to view these documents, or speak to a librarian.
 
 Calgary Public Library may have additional policies that govern other aspects of the services we offer. Please check the library's homepage to view these documents, or speak to a librarian.
 
@@ -40,7 +40,7 @@ If you participate in some optional services, for example youth and literacy pro
 
 We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content. We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use. 
 
-If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [My Settings](https://web.archive.org/account/personal_information).
+If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [Settings](https://web.archive.org/account/personal_information).
 
 BiblioCommons may disclose your personal information and any content associated with your account if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, or (b) enforce the Terms of Use, including investigation of potential violations hereof.
 
@@ -79,7 +79,7 @@ We recommend that parents and guardians discuss internet privacy and safety with
 
 
 
-More information about children’s safety online can be found on the following sites.
+More information about children's safety online can be found on the following sites.
 
 _Safety tips for children:_
 
@@ -140,7 +140,7 @@ BiblioCommons also records anonymous information and activity in order to improv
   * Information such as your browser type or IP address may be used to help us understand how visitors use the service over time and how it might be improved.
   * Data from your account may also be aggregated in an anonymous way.
   * Anonymous search logs are analyzed to improve the search algorithms.
-  * Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library’s collections or to allow publishers to understand how their titles are being used.
+  * Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library's collections or to allow publishers to understand how their titles are being used.
 
 
 
@@ -172,4 +172,5 @@ Privacy Officer
 BiblioCommons  
 119 Spadina Avenue, suite 1000  
 Toronto, ON M5V 2L1, Canada   
-tel. 1 (647) 436 6381 
+tel. 1 (647) 436 6381   
+
