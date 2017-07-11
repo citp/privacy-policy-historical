@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpathrobotics.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218195840id_/http%3A//www.clearpathrobotics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpathrobotics.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711235600id_/https%3A//www.clearpathrobotics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Clearpath Robotics
 
@@ -58,4 +58,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### **CONTACTING US**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. http://www.clearpathrobotics.com 1425 Strasburg Rd. Unit 2A. Kitchener, Ontario N2R 1H2 Canada info@clearpathrobotics.com 1-800-301-3863. This policy is powered by [Trust Guard PCI](http://www.trust-guard.com/PCI-Compliance-s/65.htm) compliance.
+If there are any questions regarding this privacy policy you may contact us using the information below. http://clearpathrobotics.com 1425 Strasburg Rd. Unit 2A. Kitchener, Ontario N2R 1H2 Canada info@clearpathrobotics.com 1-800-301-3863. This policy is powered by [Trust Guard PCI](http://www.trust-guard.com/PCI-Compliance-s/65.htm) compliance.
