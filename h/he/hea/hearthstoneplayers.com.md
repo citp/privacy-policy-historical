@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearthstoneplayers.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120024345id_/http%3A//hearthstoneplayers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearthstoneplayers.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711063311id_/http%3A//hearthstoneplayers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hearthstone Players
 
@@ -78,4 +78,4 @@ Hearthstone Players may at any time, without notice to you and in its sole discr
 
 * * *
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please [**contact us**](http://hearthstoneplayers.com/contact).
+If you have questions or suggestions about this privacy policy, or your own personal information, please [**contact us**](https://hearthstoneplayers.com/contact).
