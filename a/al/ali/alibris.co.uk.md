@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111063628id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711134920id_/https%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.*
 
 # Alibris UK: New, Second-hand, Rare & Out-of-Print Books -- Help & Customer Service
 
