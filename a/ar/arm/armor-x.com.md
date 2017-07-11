@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the armor-x.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110054552id_/http%3A//www.armor-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armor-x.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711060727id_/https%3A//www.armor-x.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **ABOUT**
 
-[About Us](http://www.armor-x.com/about-armorx-armor-x-mount "About Us")
+[ About Us](https://www.armor-x.com/about-armorx-armor-x-mount "About Us")
 
-[Trade shows](http://www.armor-x.com/armor-x-mount-trade-shows "Trade shows")
+[Trade shows](https://www.armor-x.com/armor-x-mount-trade-shows "Trade shows")
 
-[Where To Buy](http://www.armor-x.com/armor-x-mount-where-to-buy "Where To Buy")
+[Where To Buy](https://www.armor-x.com/armor-x-mount-where-to-buy "Where To Buy")
 
-[Contact](http://www.armor-x.com/armor-x-static-contact "Contact")
+[Contact](https://www.armor-x.com/armor-x-static-contact "Contact")
 
-**HELP**
+ **HELP**
 
-[Track Your Order](http://www.armor-x.com/armor-x-track-your-order "Track Your Order")
+[ Track Your Order](https://www.armor-x.com/armor-x-track-your-order "Track Your Order")
 
-[Payment](http://www.armor-x.com/payment-armorx-armor-x-mount-armorxmount "Payment")
+[Payment](https://www.armor-x.com/payment-armorx-armor-x-mount-armorxmount "Payment")
 
-[Worldwide Delivery](http://www.armor-x.com/armor-x-worldwide-delivery "Worldwide Delivery")
+[Worldwide Delivery](https://www.armor-x.com/armor-x-worldwide-delivery "Worldwide Delivery")
 
-[Privacy Policy](http://www.armor-x.com/privacy-policy "Privacy Policy")
+[Privacy Policy](https://www.armor-x.com/privacy-policy "Privacy Policy")
 
-[Return Policy](http://www.armor-x.com/armor-x-return-policy "Return Policy")
+[Return Policy](https://www.armor-x.com/armor-x-return-policy "Return Policy")
 
-[1 Year Warranty](http://www.armor-x.com/armor-x-limited-warranty "1 Year Warranty")
+[1 Year Warranty](https://www.armor-x.com/armor-x-limited-warranty "1 Year Warranty")
 
-[Limitation Of Liability](http://www.armor-x.com/limitation-of-liability "Limitation Of Liability")  
+[Limitation Of Liability](https://www.armor-x.com/limitation-of-liability "Limitation Of Liability") 
 
-|   | 
+|  | 
 
-**PRIVACY POLICY**
+ **PRIVACY POLICY**
 
 The website is owned and operated by ARMOR-X. Our Privacy Policy was developed to help you understand the type of information we collect on our website and how this information is used. We update this site periodically therefore our policies may change accordingly depending on the nature of these changes.
 
