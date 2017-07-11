@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219080932id_/https%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711103130id_/https%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TechWorld
 
@@ -90,7 +90,7 @@ IDG Australia websites may use cookies for the following purposes:
 
 
 
-The following sites provide instructions on how to manage cookies in commonly used browsers.
+The following sites provide instructions on how to manage cookies in commonly used browsers, including how to opt out, if desired.
 
   * Google Chrome - <https://support.google.com/chrome/answer/95647?hl=en>
   * Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
@@ -134,4 +134,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : March 3, 2014
+**LAST UPDATED** : May 23, 2017
