@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareremit.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616065600id_/https%3A//www.compareremit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareremit.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711085612id_/https%3A//www.compareremit.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
