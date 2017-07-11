@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214023242id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711104948id_/https%3A//www.thai2english.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Privacy Policy
+### Privacy Policy
 
-| 
+This Policy **is designed to assist you in understanding how we collect** , use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
-นโยบายในการคุ้มครองข้อมูลส่วนบุคคล   
-  
----|---  
-  
-This Policy **is designed to assist you in understanding how we collect** , use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. **What Information Do We Collect?**
+**What Information Do We Collect?**
 
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
@@ -85,6 +81,3 @@ We may disclose information when legally compelled to do so, in other words, whe
 **Your Consent**
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-  
-
