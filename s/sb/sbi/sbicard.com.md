@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627225618id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712000420id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | SBI Card
 
@@ -112,7 +112,7 @@ E-1,2,3 Netaji Subhash Place, Wazirpur, New Delhi -110034
 CIN:U65999DL1998PTC093849   
 Tel: 0124-4589803,  
 Fax: 0124-3987306   
-Email:[feedback@sbicard.com](https://web.archive.org/web/20170627225618id_/https%3A//www.sbicard.com/en/feedback@sbicard.com)
+Email:[feedback@sbicard.com](https://web.archive.org/web/20170712000420id_/https%3A//www.sbicard.com/en/feedback@sbicard.com)
 
 [Learn More](https://www.sbicard.com/en/contact-us/personal.page)
 
