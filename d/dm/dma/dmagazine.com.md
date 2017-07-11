@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624124438id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmagazine.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711023313id_/https%3A//www.dmagazine.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D Magazine
 
