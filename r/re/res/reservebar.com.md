@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservebar.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406111142id_/https%3A//www.reservebar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservebar.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711162056id_/https%3A//www.reservebar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Online or Send as a Gift | ReserveBar
 
