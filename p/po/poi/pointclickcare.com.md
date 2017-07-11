@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pointclickcare.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904133936id_/http%3A//www.pointclickcare.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclickcare.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711045425id_/https%3A//pointclickcare.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PointClickCare
 
 ##### 1\. Our Commitment to Privacy
 
-Privacy is highly important to us. This Privacy Policy (this “Policy”) sets out the key elements of how we address the privacy and security of information entrusted to us by our customers through their access and use of the PointClickCare electronic health record platform (the “Services”), as well as the privacy of information entrusted to us by business partners, prospects and others who seek information and/or contact us through www.pointclickcare.com (the “Site”). The Site can be used and accessed by the public as a source of general information about PointClickCare. Our customers and business partners also can access the Services via the Site.
+Privacy is highly important to us. This Privacy Policy (this “Policy”) sets out the key elements of how we address the privacy and security of information entrusted to us by our customers through their access and use of the PointClickCare electronic health record platform (the “Services”), as well as the privacy of information entrusted to us by business partners, prospects and others who seek information and/or contact us through pointclickcare.wpengine.com (the “Site”). The Site can be used and accessed by the public as a source of general information about PointClickCare. Our customers and business partners also can access the Services via the Site.
 
 As privacy laws and practices evolve, we will amend this Policy from time to time. While we will endeavor to give reasonable notice of such changes, we do reserve the right, where necessary, to do so without prior notice.
 
@@ -136,7 +136,7 @@ Unless otherwise specified, PointClickCare provides the Services from its headqu
 
 We offer visitors to the Site and our customers a means to choose how we may use the information they provide to us. If, at any time, you change your mind about:
 
-    * our use of Personal Information submitted to the Site;
+  *     * our use of Personal Information submitted to the Site;
     * our use of Personal Information submitted via the Services;
     * receiving notices from us (including automatic notifications about updates to the Services and the frequency with which we send you such messages); or
     * sharing your non-personal information with third parties (as described in this Policy),
@@ -147,4 +147,4 @@ send us a request specifying your choice or change of permission by contacting u
 
 ##### 12\. Contact Us
 
-If you believe your Personal Information has been used in a way that is inconsistent with this Policy or your specified preferences, or if you have further questions related to our privacy practices, please [contact us](http://www.pointclickcare.com/contact-pointclickcare/).
+If you believe your Personal Information has been used in a way that is inconsistent with this Policy or your specified preferences, or if you have further questions related to our privacy practices, please [contact us](https://web.archive.org/contact-pointclickcare/).
