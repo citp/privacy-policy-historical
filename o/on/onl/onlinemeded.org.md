@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemeded.org privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030215930id_/https%3A//onlinemeded.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemeded.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711025029id_/https%3A//onlinemeded.org/privacy) for the most accurate reproduction.*
 
 # OnlineMedEd Privacy Policy
 
