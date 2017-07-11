@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecomexpertsacademy.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421172452id_/http%3A//bringthezander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomexpertsacademy.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711060007id_/http%3A//bringthezander.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bring The Zander
 
