@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contribs.org privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422082216id_/https%3A//wiki.contribs.org/SME_Server%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contribs.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711044651id_/https%3A//wiki.contribs.org/SME_Server%3APrivacy_policy) for the most accurate reproduction.*
 
 # SME Server:Privacy policy - SME Server
 
