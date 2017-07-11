@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124230733id_/https%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711214440id_/http%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EDUCAUSE.edu
+# Privacy Policy | EDUCAUSE
 
 ## Use of Personal Information at EDUCAUSE
 
@@ -51,9 +51,9 @@ Note: We do not collect personal information other than name and e-mail address 
 
 We use cookies to help manage the Web site to better serve visitors. A cookie is a piece of data that is either maintained only for the duration of a particular session visit or is stored on the user's computer to support future visits. EDUCAUSE uses both types of cookie.
 
- _Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates.
+_Session cookie_ – This type of cookie is used to enhance and make more efficient the user's experience during a site visit. Once the user closes the browser, the cookie terminates.
 
- _Persistent cookie_ – This type of cookie stores a small text file on the user's hard drive for an extended period of time to remember visit activity that will help make subsequent visits more efficient. Persistent cookies can be removed by following the user's Internet browser help directions.
+_Persistent cookie_ – This type of cookie stores a small text file on the user's hard drive for an extended period of time to remember visit activity that will help make subsequent visits more efficient. Persistent cookies can be removed by following the user's Internet browser help directions.
 
 ## How Does EDUCAUSE Secure Your Personal Information?
 
@@ -69,7 +69,7 @@ In addition to facilitating basic communication with you, the information we hol
   * We use it to communicate essential information about transactions, such as an electronic receipt for a purchase or a confirmation of a conference registration.
   * If you are a designated representative of an EDUCAUSE member organization, we use it to send you announcements about news within the association and the profession.
   * We use it to inform you about EDUCAUSE events, programs, and services of potential interest, unless you have opted out of such communications.
-  * We include your name, your organization's name and state, your contact information, and photo in the EDUCAUSE [member directory](http://www.educause.edu/members) and event registration lists unless you opt to exclude your contact information. If you choose to exclude that information, only your name, your title, and your organization's name and state may appear.
+  * We include your name, your organization's name and state, your contact information, and photo in the EDUCAUSE [member directory](https://web.archive.org/members) and event registration lists unless you opt to exclude your contact information. If you choose to exclude that information, only your name, your title, and your organization's name and state may appear.
   * We share your name and postal mail address with corporate participants at EDUCAUSE conferences you have registered to attend, unless you have opted out of corporate participant communications.
   * For purposes approved by EDUCAUSE, we make available EDUCAUSE member representatives' names and postal mail addresses in printed or electronic form for one-time use only to other EDUCAUSE members.
   * We may provide you with a lead retrieval card at certain EDUCAUSE and affiliate conferences that contains your basic personal information. This card allows you to pass on this information to exhibitors from whom you would like to receive more information. By allowing a conference exhibitor to swipe that card, you give the exhibitor your name and contact information, including e-mail address.
@@ -83,7 +83,7 @@ Balanced with our goal of sharing information with our constituents is our commi
 
 ### Changing mailing and directory listing preferences
 
-Log into your [EDUCAUSE profile](http://www.educause.edu/user/login) to change your
+Log into your [EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your
 
   * promotional mailing preferences
   * ECAR research notification preferences
@@ -93,7 +93,7 @@ Log into your [EDUCAUSE profile](http://www.educause.edu/user/login) to change y
 
 
 
-If you do not have one, you can [create a personal EDUCAUSE profile](http://www.educause.edu/user/login).
+If you do not have one, you can [create a personal EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
 
 If you would like to change any preferences listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430.
 
@@ -103,15 +103,15 @@ If you wish not to receive any communications from EDUCAUSE (including newslette
 
 ### Unsubscribing from constituent and discussion group lists or electronic newsletters
 
-  * To remove yourself from a constituent or discussion group, select the Join or Leave List link in your profile (links to all groups are listed on the [Constituent and Discussion Groups](http://www.educause.edu/discuss) Web page).
-  * Remove yourself from the [Policy Digest mailing list](http://www.educause.edu/focus-areas-and-initiatives/policy-and-security/educause-policy/news-and-updates).
-  * Remove yourself from the [EDUCAUSE at a Glance mailing list](http://www.educause.edu/about/educause-news-and-updates/educause-news/educause-glance).
+  * To remove yourself from a constituent or discussion group, select the Join or Leave List link in your profile (links to all groups are listed on the [Constituent and Discussion Groups](https://web.archive.org/discuss) Web page).
+  * Remove yourself from the [Policy Digest mailing list](https://web.archive.org/focus-areas-and-initiatives/policy-and-security/educause-policy/news-and-updates).
+  * Remove yourself from the [EDUCAUSE at a Glance mailing list](https://web.archive.org/about/educause-news-and-updates/educause-news/educause-glance).
 
 
 
 ## How Can You Update Your Personal Information?
 
-  * Log into your [EDUCAUSE profile](http://www.educause.edu/user/login) to change your:
+  * Log into your [EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your:
   * basic personal information
   * biographic information
   * emergency contact information
@@ -121,7 +121,7 @@ If you wish not to receive any communications from EDUCAUSE (including newslette
 
 
 
-If you do not have one, you can [create a personal EDUCAUSE profile](http://www.educause.edu/user/login).
+If you do not have one, you can [create a personal EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
 
 If you would like to change any information listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430.
 
