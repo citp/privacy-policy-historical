@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204104138id_/https%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711122348id_/https%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
 
 # Privacy Statement for ANSI Online
 
 The American National Standards Institute, Inc. ("ANSI") is committed to protecting your personal information.
 
-This Privacy Policy Statement applies to the following ANSI-administered website (the "ANSI website"): [www.ansi.org](https://web.archive.org/web/20161204104138id_/https%3A//www.ansi.org/default.aspx).
+This Privacy Policy Statement applies to the following ANSI-administered website (the "ANSI website"): [www.ansi.org](https://web.archive.org/web/20170711122448id_/https://www.ansi.org/default.aspx).
 
 By using the ANSI website, you consent to the collection and use of information by ANSI as set forth herein.
 
