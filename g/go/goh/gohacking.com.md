@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027175649id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711234620id_/https%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoHacking
 
@@ -29,7 +29,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.gohacking.com/disclaimer/>.
+Please also visit our [Terms and Conditions](https://www.gohacking.com/disclaimer/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
