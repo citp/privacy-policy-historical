@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818084309id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711152244id_/https%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EliteFitness.com
 
 Dear friends and fellow athletes,
 
-At elitefitness.com, we have a strong commitment to your personal privacy. Your trust is so important to us that when you do business with Elite, you can be assured that your personal information will never be sold, given away, or mishandled. And, you can ask that your personal information be removed from our files at any time. Please take a look at our complete [Privacy Policy](http://www.elitefitness.com/privacy.html). 
+At elitefitness.com, we have a strong commitment to your personal privacy. Your trust is so important to us that when you do business with Elite, you can be assured that your personal information will never be sold, given away, or mishandled. And, you can ask that your personal information be removed from our files at any time. Please take a look at our complete [Privacy Policy](https://www.elitefitness.com/privacy.html). 
 
 Don't forget, EliteFitness.com has been online since 1996. That makes us older than Google! So remember, when you place an order at Elite Fitness, your VISA, Mastercard, AMEX, or Discover card number is encrypted, or scrambled, so completely, that it is unreadable during transit. You'll see a discreet charge from Elite Fitness on your billing statement. And you're 100% protected by our [Safe Shopping Guarantee](https://web.archive.org/images/ordersystem/safeshop.html). |   
 ---|---  
