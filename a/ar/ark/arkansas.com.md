@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151137id_/http%3A//www.arkansas.com/support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711172449id_/https%3A//www.arkansas.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Arkansas.com Privacy Policy - Arkansas Tourism
 
